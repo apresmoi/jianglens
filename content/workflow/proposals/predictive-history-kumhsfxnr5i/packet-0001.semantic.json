@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-kumhsfxnr5i-semantics-pkt-0001",
+  "source_id": "video:predictive-history-kumhsfxnr5i",
+  "source_date": "2024-12-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reviews his distinction between Jesus' own teaching and later Christian doctrine: Jesus has public, inner, and secret levels, with the deepest level treating worldly pursuit as false and spiritually poisonous.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts that teaching with the Biblical story of Jesus as Son of God whose death, resurrection, and second coming redeem original sin, then frames the lecture question: how did one worldview become the other?",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0006",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that the Gospel crucifixion narrative cleverly fuses Jesus with Socrates and Julius Caesar, a fusion requiring Hellenized Jewish access to Hebrew scripture, Greek philosophy, and Roman history; Paul becomes the likely architect.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical class prompts",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007"
+      ],
+      "note": "Rhetorical prompts about Socrates and Julius Caesar are Jiang-led lecture interaction, not independent audience questions for the public Q&A list.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang distinguishes Jesus' own teaching from Christianity's later teaching about Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19 about early Christianity.",
+      "topic_tags": [
+        "Jesus",
+        "Christianity",
+        "doctrine"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The secret level of Jesus' teaching, as Jiang presents it, says the visible world is false and worldly wealth poisons the soul like salt water.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "wealth",
+        "spirituality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Biblical Jesus story introduces contradictions absent from Jiang's reconstruction of Jesus' teaching: God, divine sonship, crucifixion, resurrection, and second coming all have to be reconciled.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Bible",
+        "Christology",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Jesus narrative is constructed to conflate Jesus with Socrates and Julius Caesar: a persecuted truth-teller and a betrayed political founder.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "narrative",
+        "Socrates",
+        "Julius Caesar",
+        "Jesus"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul is presented as the real founder of Christianity because he is the New Testament figure with the Hellenized Jewish toolkit needed to synthesize Hebrew, Greek, and Roman materials.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19 about the formation of Christianity.",
+      "topic_tags": [
+        "Paul",
+        "Hellenized Jews",
+        "New Testament"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003"
+      ],
+      "moment": "Wealth is salt water: the more you drink, the thirstier you become, until the pursuit poisons you.",
+      "source_phrase": "drinking salt water",
+      "why_it_matters": "It gives the episode a vivid model of desire as self-intensifying poison, not merely moral disapproval of wealth.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "moment": "The lecture's core question is a conversion problem: how did the kingdom within become a demand to believe in a divine sacrifice and future paradise?",
+      "source_phrase": "how did we get from here to here",
+      "why_it_matters": "This frames the whole episode as a genealogy of doctrinal transformation.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007"
+      ],
+      "moment": "Jesus is made to carry Socrates and Caesar at once: truth-teller persecuted by his people, founder betrayed by followers.",
+      "source_phrase": "Jesus is Socrates is Julius Caesar",
+      "why_it_matters": "It preserves Jiang's claim that Christianity's power is literary-political synthesis, not simple biography.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "three-tier Jesus teaching",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang's frame for Jesus' public, inner, and secret teaching levels.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hellenized Jew",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A Jew in the Roman Empire with Greek education and access to Hebrew scripture, Greek philosophy, and Roman history.",
+      "confidence": "high"
+    },
+    {
+      "term": "second coming",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The expected return of Jesus to destroy evil and build eternal paradise, as Jiang summarizes the Christian story.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "note": "This 2024-12-19 lecture explicitly continues the previous class's paradox about Jesus' teaching versus Christianity's teaching about Jesus.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript repeatedly says 'leer'; context suggests 'layer' or 'level', but the semantic pass preserves the conceptual distinction rather than silently correcting the source text."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-kumhsfxnr5i-semantics-pkt-0002",
+  "source_id": "video:predictive-history-kumhsfxnr5i",
+  "source_date": "2024-12-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang distinguishes Christianity as a religion about Jesus, then introduces Acts, James the Just, the Ebionites, and the claim that the Jerusalem Jesus movement's survival points against Jews being Jesus' killers.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0011",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0012",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He sketches Paul as a rare Jewish Roman citizen, probably born to wealthy citizen parents, educated in Greek rhetoric, then converted into a fanatical Pharisee.",
+      "speaker_attribution": "Jiang lecture monologue; seg-0013 is likely a brief continuation or audience murmur with no semantic content",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0014",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats Paul's persecution of Jesus followers and Damascus conversion as internally strange, then identifies Paul's major transformation of the movement: faith in Jesus, salvation by belief, and church organization.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0013"
+      ],
+      "note": "The isolated 'Okay?' has unknown diarization and no substantive role; it may be a clipped Jiang filler or audience response.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Christianity is not a religion by Jesus but a religion about Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "Christianity",
+        "Jesus",
+        "Paul"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Ebionites, the poor Jerusalem followers of James the Just, eventually leave for Arabia and help found Islam.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical claim presented in the 2024-12-19 lecture.",
+      "topic_tags": [
+        "Ebionites",
+        "Islam",
+        "James the Just"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The presence and protection of James' followers in Jerusalem after Jesus' death is used as evidence that Romans, not Jews, killed Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Lecture inference on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "Jerusalem",
+        "Rome"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's Roman citizenship implies, for Jiang, a wealthy elite family background and a secular Greek education.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture inference on 2024-12-19 about Paul's background.",
+      "topic_tags": [
+        "Paul",
+        "Roman citizenship",
+        "Greek education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's Damascus moment turns him into a fanatical follower of Jesus despite never meeting Jesus or Jesus' followers, which Jiang marks as strange.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0014",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "Damascus moment",
+        "conversion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's decisive doctrinal change is salvation through faith in Jesus rather than salvation through Jesus' good-works ethic.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19 about Paul's transformation of Jesus' movement.",
+      "topic_tags": [
+        "faith",
+        "salvation",
+        "Paul"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+      ],
+      "moment": "Christianity is not by Jesus; it is about Jesus.",
+      "source_phrase": "not by Jesus... about Jesus",
+      "why_it_matters": "This compact reversal is the lecture's hinge between Jesus' own teaching and Paul's organized religion.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016"
+      ],
+      "moment": "Paul turns Jesus from a teacher of inner transformation into a savior one must believe in.",
+      "source_phrase": "through faith in Jesus, you will achieve salvation",
+      "why_it_matters": "This identifies the doctrinal mutation that later sections explain politically.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Ebionites",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Jiang's name for James the Just's poverty-focused Jesus followers.",
+      "confidence": "high"
+    },
+    {
+      "term": "Damascus moment",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0014",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A conversion or 'seeing the light' moment, here applied to Paul's turn from persecutor to follower.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pharisee",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Jiang glosses Pharisees as Jewish priests who eventually become rabbis.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0011"
+      ],
+      "note": "This 2024-12-19 source grounds a dated Jiang position that the Romans killed Jesus and that Paul's Roman citizenship is central to interpreting his role.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "note": "The Ebionites-to-Islam statement is important but compressed; later episode prose should present it as Jiang's lecture claim rather than a settled external historical consensus."
+    }
+  ]
+}

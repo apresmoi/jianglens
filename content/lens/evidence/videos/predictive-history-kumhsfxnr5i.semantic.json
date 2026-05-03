@@ -1,0 +1,1358 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-kumhsfxnr5i:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-kumhsfxnr5i",
+  "source_id": "video:predictive-history-kumhsfxnr5i",
+  "source_title": "Civilization #25:  Paul of Tarsus, Messiah of Rome",
+  "source_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I",
+  "source_date": "2024-12-19",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-kumhsfxnr5i@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-kumhsfxnr5i/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-kumhsfxnr5i/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-kumhsfxnr5i/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 21,
+    "speaker_notes": 6,
+    "claims": 40,
+    "signature_moments": 18,
+    "predictions": 1,
+    "models": 12,
+    "glossary_terms": 18,
+    "chronology_notes": 7,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008",
+    "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reviews his distinction between Jesus' own teaching and later Christian doctrine: Jesus has public, inner, and secret levels, with the deepest level treating worldly pursuit as false and spiritually poisonous.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts that teaching with the Biblical story of Jesus as Son of God whose death, resurrection, and second coming redeem original sin, then frames the lecture question: how did one worldview become the other?",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0006",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that the Gospel crucifixion narrative cleverly fuses Jesus with Socrates and Julius Caesar, a fusion requiring Hellenized Jewish access to Hebrew scripture, Greek philosophy, and Roman history; Paul becomes the likely architect.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical class prompts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang distinguishes Christianity as a religion about Jesus, then introduces Acts, James the Just, the Ebionites, and the claim that the Jerusalem Jesus movement's survival points against Jews being Jesus' killers.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0011",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0012",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He sketches Paul as a rare Jewish Roman citizen, probably born to wealthy citizen parents, educated in Greek rhetoric, then converted into a fanatical Pharisee.",
+      "speaker_attribution": "Jiang lecture monologue; seg-0013 is likely a brief continuation or audience murmur with no semantic content",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0014",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats Paul's persecution of Jesus followers and Damascus conversion as internally strange, then identifies Paul's major transformation of the movement: faith in Jesus, salvation by belief, and church organization.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0017"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lays out Paul's three radical changes: salvation by faith in Jesus, organizational hierarchy, and compromise on circumcision to bring diaspora Jews and Gentiles into the movement.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0018",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "He dramatizes the dispute between James the Just and Paul over Jewish law, with Paul claiming the spirit of the law and his status as apostle to the Gentiles.",
+      "speaker_attribution": "Jiang paraphrasing historical actors inside lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0020",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0021",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang narrates Paul's Jerusalem crisis and Roman rescue, emphasizing the parallel to Jesus and the decisive difference: Paul's Roman citizenship protects him and gives him a path to Rome.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0024",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0025",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang close-reads the end of Acts as a power reversal: Paul summons Jewish leaders, denies wrongdoing over circumcision, and implicitly threatens them with imperial authority.",
+      "speaker_attribution": "Jiang lecture monologue and paraphrased Acts reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0028",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "He turns the close reading into questions about Paul: why does he have untouchable power, why does Jesus disappear from his message, why does he focus on organization, and why do Romans save him?",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the Christian explanation through a McDonald's analogy: Paul is like Ray Kroc, scaling Jesus' truth into a worldwide franchise.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0031",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0032",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0033"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang rejects the Christian business-manager explanation and also rejects the simple opportunist explanation because Paul's effort, wealth, education, and fanatic mission do not fit lazy monetization.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0034",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0035",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces his preferred, explicitly speculative hypothesis that Paul was a Roman spy, then explains why Jewish monotheistic fanaticism posed a uniquely hard problem for empires.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0037",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0038",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0039",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang models Jewish fanaticism as three beliefs, then shows how Paul's relaxation of circumcision and emphasis on Roman citizenship attack purity and persecution.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0041",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the anti-fanaticism model: Paul recodes Messiah from future anti-Roman victory into Jesus as already-arrived peaceful salvation, aimed at diaspora Jews who want assimilation without losing Jewish identity.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0043"
+      ],
+      "kind": "unclear",
+      "summary": "A brief 'Okay?' with little semantic content, likely a backchannel or clipped transition.",
+      "speaker_attribution": "unclear diarized speaker",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states his central argument: Paul sincerely wanted to save his people by adapting them to Rome, but in doing so he recast himself as messiah, changed faith from experience into belief, introduced miracles as contradiction-solvers, and elevated church tradition over scripture.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0047",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang closes the central argument and solicits questions; a student begins an Islam question, which continues into the next packet.",
+      "speaker_attribution": "Jiang followed by likely student/audience voice",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0049"
+      ],
+      "kind": "answer",
+      "summary": "Jiang postpones a student's Islam question and answers a question about authorship of Acts: he says Acts was written by the same writer as Luke, likely 80-90 CE.",
+      "speaker_attribution": "Jiang answering audience questions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0050",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "He explains Acts as a pro-Paul apology written in a context where Paul was hated as a corrupter of Jesus' teaching and suspected of collaboration with Rome, then closes by previewing monotheism as a radical reconception of reality.",
+      "speaker_attribution": "Jiang answering audience question and closing lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007"
+      ],
+      "note": "Rhetorical prompts about Socrates and Julius Caesar are Jiang-led lecture interaction, not independent audience questions for the public Q&A list.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0013"
+      ],
+      "note": "The isolated 'Okay?' has unknown diarization and no substantive role; it may be a clipped Jiang filler or audience response.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0018",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0019"
+      ],
+      "note": "Dialogue between James and Paul is Jiang's paraphrase or dramatization, not a live exchange in the room.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0029"
+      ],
+      "note": "Questions such as 'Who is this guy, Paul?' are Jiang's lecture-driving questions, not audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0048"
+      ],
+      "note": "Diarization marks seg-0048 as SPEAKER_00 and context indicates this is likely a student asking about Islam, not Jiang.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0049"
+      ],
+      "note": "The question about Acts is paraphrased by Jiang inside his answer; the student's exact wording is not preserved in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang distinguishes Jesus' own teaching from Christianity's later teaching about Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19 about early Christianity.",
+      "topic_tags": [
+        "Jesus",
+        "Christianity",
+        "doctrine"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The secret level of Jesus' teaching, as Jiang presents it, says the visible world is false and worldly wealth poisons the soul like salt water.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "wealth",
+        "spirituality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Biblical Jesus story introduces contradictions absent from Jiang's reconstruction of Jesus' teaching: God, divine sonship, crucifixion, resurrection, and second coming all have to be reconciled.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Bible",
+        "Christology",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Jesus narrative is constructed to conflate Jesus with Socrates and Julius Caesar: a persecuted truth-teller and a betrayed political founder.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "narrative",
+        "Socrates",
+        "Julius Caesar",
+        "Jesus"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul is presented as the real founder of Christianity because he is the New Testament figure with the Hellenized Jewish toolkit needed to synthesize Hebrew, Greek, and Roman materials.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19 about the formation of Christianity.",
+      "topic_tags": [
+        "Paul",
+        "Hellenized Jews",
+        "New Testament"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Christianity is not a religion by Jesus but a religion about Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "Christianity",
+        "Jesus",
+        "Paul"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Ebionites, the poor Jerusalem followers of James the Just, eventually leave for Arabia and help found Islam.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical claim presented in the 2024-12-19 lecture.",
+      "topic_tags": [
+        "Ebionites",
+        "Islam",
+        "James the Just"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The presence and protection of James' followers in Jerusalem after Jesus' death is used as evidence that Romans, not Jews, killed Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Lecture inference on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "Jerusalem",
+        "Rome"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's Roman citizenship implies, for Jiang, a wealthy elite family background and a secular Greek education.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture inference on 2024-12-19 about Paul's background.",
+      "topic_tags": [
+        "Paul",
+        "Roman citizenship",
+        "Greek education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's Damascus moment turns him into a fanatical follower of Jesus despite never meeting Jesus or Jesus' followers, which Jiang marks as strange.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0014",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "Damascus moment",
+        "conversion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's decisive doctrinal change is salvation through faith in Jesus rather than salvation through Jesus' good-works ethic.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19 about Paul's transformation of Jesus' movement.",
+      "topic_tags": [
+        "faith",
+        "salvation",
+        "Paul"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's organizational genius is inseparable from his theological claim that belief in Jesus saves, creating a duty to convert as many people as possible.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "conversion",
+        "organization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul opens the Jesus movement by making Jewish law, especially circumcision, subordinate to faith in Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0017",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "circumcision",
+        "Gentiles",
+        "Jewish law"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "James the Just has a stronger authority claim than Paul because he is Jesus' brother, which makes Paul's independent visionary authority politically explosive.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "James the Just",
+        "authority",
+        "Paul"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Acts is read as making Paul parallel Jesus in mob persecution, but Paul survives because Roman citizenship gives him rights Jesus lacked.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0020",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Acts",
+        "Roman citizenship",
+        "Jesus-Paul parallel"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's appeal to the emperor moves him from a local Jewish dispute into the protective machinery of Roman imperial authority.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0021",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Rome",
+        "emperor",
+        "Paul"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's meeting with Roman Jewish leaders is suspicious because Acts depicts an accused criminal summoning local authorities as if he has power over them.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Lecture close reading on 2024-12-19.",
+      "topic_tags": [
+        "Acts",
+        "Paul",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Circumcision is core to Jewish identity because it marks the covenant with Yahweh; Paul is therefore not merely adjusting a minor custom.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture explanation on 2024-12-19.",
+      "topic_tags": [
+        "circumcision",
+        "Jewish identity",
+        "covenant"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's speech reverses accusation: instead of Jews accusing Paul, Paul can accuse Jews of attacking a Roman citizen.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0025",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture close reading on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "Roman citizenship",
+        "threat"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's story ends with wealth, mobility, and impunity in Rome: he can preach boldly and no one can touch him.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture reading of Acts on 2024-12-19.",
+      "topic_tags": [
+        "Rome",
+        "Acts",
+        "Paul"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul does not spread Jesus' gospel, in Jiang's reading, because he rarely quotes Jesus and teaches salvation by belief even for people who do no good works.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "Paul",
+        "gospel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Christian explanation treats Paul as the organizer who allowed Jesus' truth to spread, analogous to Ray Kroc franchising McDonald's.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0029",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "organization",
+        "franchise"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the idea that Paul was merely Jesus' business manager because Jesus' message opposed wealth, business, and hierarchy.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture evaluation on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "Paul",
+        "hierarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the simple opportunist theory because Paul worked too hard and was too mission-driven to look like a lazy charlatan.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0032",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Lecture evaluation on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "opportunism",
+        "mission"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's preferred hypothesis is that Paul was a spy or strategist for the Roman Empire, though he explicitly presents this as his own speculative explanation.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Speculative lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "Rome",
+        "spy hypothesis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jewish monotheism creates an imperial problem because Jews refuse pagan imperial authority and repeatedly rebel against Greek and Roman empires.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0034",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical model presented on 2024-12-19.",
+      "topic_tags": [
+        "Judaism",
+        "empire",
+        "monotheism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fanaticism is the ultimate weapon because it cannot be defeated by destroying a place; diaspora and persecution make it grow.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "fanaticism",
+        "diaspora",
+        "persecution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies three beliefs behind Jewish fanaticism: purity through law, persecution solidarity, and a messianic final victory.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0037",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "fanaticism",
+        "purity",
+        "Messiah"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's teaching neutralizes fanaticism by weakening circumcision as a purity boundary and making Roman assimilation compatible with belief in Jesus.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0039",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "assimilation",
+        "circumcision"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's messianic recoding tells Jews that the Messiah has already come as Jesus, a prophet of peace fighting evil rather than Rome.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "Messiah",
+        "Paul",
+        "Rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's target audience was not fanatical Jews but diaspora Jews caught between Jewish faith and Roman imperial life.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0041",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "diaspora",
+        "assimilation",
+        "Paul"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Paul's mission sympathetically as saving his people by teaching adaptation to Rome rather than waiting for messianic rescue.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "adaptation",
+        "Rome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul radically changes faith from something one experiences into something one must believe.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "faith",
+        "belief",
+        "religion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul introduces miracles as a way to explain contradictions and inconsistencies in the Biblical story.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "miracles",
+        "Bible",
+        "contradiction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's church elevates tradition and authorized interpretation over direct Bible reading, which Jiang links to the later Catholic Church.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "tradition",
+        "Catholic Church",
+        "Bible"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the authorship of Acts is unknown, but Acts was written by the same person who wrote Luke.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Lecture Q&A claim on 2024-12-19.",
+      "topic_tags": [
+        "Acts",
+        "Luke",
+        "authorship"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang dates Luke to roughly 80-90 CE, about 50-60 years after Jesus' death, and says Paul might still have been alive then.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0049",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Historical dating claim presented on 2024-12-19.",
+      "topic_tags": [
+        "Luke",
+        "Acts",
+        "chronology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Acts is very pro-Paul and should be read as a story by people trying to clean up Paul's image.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0050",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Acts",
+        "Paul",
+        "apology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "At the time Acts is written, Jiang says many people, especially Jews, hate Paul because they see him as corrupting their religion and Jesus' teachings.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Historical interpretation presented on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "Jewish opposition",
+        "corruption"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang previews the next lecture's claim that monotheism is not merely belief in one God but a radical reconception of reality.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Forward-looking lecture preview on 2024-12-19.",
+      "topic_tags": [
+        "monotheism",
+        "next lecture",
+        "reality"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0002",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0003"
+      ],
+      "moment": "Wealth is salt water: the more you drink, the thirstier you become, until the pursuit poisons you.",
+      "source_phrase": "drinking salt water",
+      "why_it_matters": "It gives the episode a vivid model of desire as self-intensifying poison, not merely moral disapproval of wealth.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "moment": "The lecture's core question is a conversion problem: how did the kingdom within become a demand to believe in a divine sacrifice and future paradise?",
+      "source_phrase": "how did we get from here to here",
+      "why_it_matters": "This frames the whole episode as a genealogy of doctrinal transformation.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0007"
+      ],
+      "moment": "Jesus is made to carry Socrates and Caesar at once: truth-teller persecuted by his people, founder betrayed by followers.",
+      "source_phrase": "Jesus is Socrates is Julius Caesar",
+      "why_it_matters": "It preserves Jiang's claim that Christianity's power is literary-political synthesis, not simple biography.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+      ],
+      "moment": "Christianity is not by Jesus; it is about Jesus.",
+      "source_phrase": "not by Jesus... about Jesus",
+      "why_it_matters": "This compact reversal is the lecture's hinge between Jesus' own teaching and Paul's organized religion.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0016"
+      ],
+      "moment": "Paul turns Jesus from a teacher of inner transformation into a savior one must believe in.",
+      "source_phrase": "through faith in Jesus, you will achieve salvation",
+      "why_it_matters": "This identifies the doctrinal mutation that later sections explain politically.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0017"
+      ],
+      "moment": "The law does not matter; faith in Jesus matters. That compromise is how Paul opens a Jewish movement to the empire.",
+      "source_phrase": "The law doesn't matter. What matters is your faith.",
+      "why_it_matters": "It marks the doctrinal and social mechanism that makes Christianity scalable.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0021"
+      ],
+      "moment": "Jesus dies because he is not a Roman citizen; Paul lives because he is.",
+      "source_phrase": "Paul is a Roman citizen. Jesus is not.",
+      "why_it_matters": "This is Jiang's sharp political contrast between martyrdom and protected imperial mobility.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026"
+      ],
+      "moment": "Paul's ending in Acts is impunity: he is in Rome, has money, preaches freely, and no one can touch him.",
+      "source_phrase": "No one could touch this guy.",
+      "why_it_matters": "This is the suspicious evidence that launches Jiang's alternative explanation of Paul.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0028"
+      ],
+      "moment": "After Jesus appears to Paul, Jesus disappears from Paul's message.",
+      "source_phrase": "Jesus sort of disappears from the story",
+      "why_it_matters": "It condenses Jiang's objection to Paul's conversion narrative.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "moment": "Paul is Ray Kroc for Christianity: not the original restaurant, but the franchiser who scales it into an empire.",
+      "source_phrase": "This is called the franchise model.",
+      "why_it_matters": "The analogy makes organization, salesmanship, and scale central to the history of religion.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0031"
+      ],
+      "moment": "The McDonald's analogy breaks because Jesus hated hamburgers: the founder's truth is anti-business, anti-hierarchy, and anti-wealth.",
+      "source_phrase": "Jesus was not selling hamburgers. In fact, Jesus hated hamburgers.",
+      "why_it_matters": "It turns a funny analogy into Jiang's critique of organized religion as a betrayal of the original teaching.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang says his own explanation, with a warning to take it with salt, is that Paul was a spy for Rome.",
+      "source_phrase": "I believe he was a spy for the Roman Empire.",
+      "why_it_matters": "This is the lecture's sharpest speculative turn and must be preserved with its caveat.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0036"
+      ],
+      "moment": "Fanaticism is an undefeated weapon: persecution and suffering make it grow.",
+      "source_phrase": "Fanaticism is the ultimate weapon.",
+      "why_it_matters": "It supplies the political problem Paul's religious innovation is meant to solve.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044"
+      ],
+      "moment": "You cannot wait for the Messiah to save you; you save yourself by adapting to Rome.",
+      "source_phrase": "You have to save yourself. by adapting to the Roman Empire",
+      "why_it_matters": "It converts the Paul hypothesis from espionage into a theory of adaptation under empire.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "moment": "Faith changes from experience into required belief.",
+      "source_phrase": "before faith is what you experience now faith is something that you must believe",
+      "why_it_matters": "This is one of the episode's cleanest conceptual mutations and belongs in the public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "moment": "Tradition becomes more important than the Bible because interpretation is controlled by priestly authority.",
+      "source_phrase": "tradition is more important the Bible",
+      "why_it_matters": "It links Paul's organizational revolution to later institutional religion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0050"
+      ],
+      "moment": "Acts is not neutral biography; it is a pro-Paul cleanup operation.",
+      "source_phrase": "trying to promote a positive picture of Paul",
+      "why_it_matters": "It confirms the lecture's method: the canonical text is read as apologetic evidence for the very suspicion it tries to resolve.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "moment": "Monotheism will be treated as a radical reconception of reality, not just belief in one God.",
+      "source_phrase": "a radical reconception of reality",
+      "why_it_matters": "It links this Paul episode to the next civilization lecture's broader lens on religion and reality.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "three-tier Jesus teaching",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang's frame for Jesus' public, inner, and secret teaching levels.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hellenized Jew",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A Jew in the Roman Empire with Greek education and access to Hebrew scripture, Greek philosophy, and Roman history.",
+      "confidence": "high"
+    },
+    {
+      "term": "second coming",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The expected return of Jesus to destroy evil and build eternal paradise, as Jiang summarizes the Christian story.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ebionites",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Jiang's name for James the Just's poverty-focused Jesus followers.",
+      "confidence": "high"
+    },
+    {
+      "term": "Damascus moment",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0014",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A conversion or 'seeing the light' moment, here applied to Paul's turn from persecutor to follower.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pharisee",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Jiang glosses Pharisees as Jewish priests who eventually become rabbis.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Apostle to the Gentiles",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Paul's self-designation as the one opening the Jesus movement to non-Jews.",
+      "confidence": "high"
+    },
+    {
+      "term": "spirit of the law",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Paul's justification, as Jiang presents it, for subordinating literal Jewish law to belief in Jesus.",
+      "confidence": "high"
+    },
+    {
+      "term": "franchise model",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's analogy for Paul's scaling of Jesus' movement through repeatable organization and persuasion.",
+      "confidence": "high"
+    },
+    {
+      "term": "circumcision as covenant",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Circumcision marks allegiance to Yahweh and anchors Jewish identity in Jiang's account.",
+      "confidence": "high"
+    },
+    {
+      "term": "spy for the Roman Empire",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Jiang's speculative label for Paul's possible role as a Roman-aligned strategist weakening Jewish anti-imperial fanaticism.",
+      "confidence": "medium"
+    },
+    {
+      "term": "fanaticism as ultimate weapon",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A social force that cannot be defeated by ordinary conquest because diaspora, suffering, and persecution intensify it.",
+      "confidence": "high"
+    },
+    {
+      "term": "persecution complex",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0037",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The belief that the world is against the chosen people and therefore they must remain united and pure.",
+      "confidence": "high"
+    },
+    {
+      "term": "faith as belief",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Paul's transformation of faith from experiential spiritual truth into required belief in Jesus.",
+      "confidence": "high"
+    },
+    {
+      "term": "miracle as contradiction-solver",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang's account of miracles as explanations for inconsistencies in the Biblical story.",
+      "confidence": "high"
+    },
+    {
+      "term": "tradition over Bible",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The institutional claim that authorized interpretation matters more than direct scripture reading.",
+      "confidence": "high"
+    },
+    {
+      "term": "Acts as apology",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0050",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's reading of Acts as a pro-Paul text meant to apologize for or clean up Paul's image.",
+      "confidence": "high"
+    },
+    {
+      "term": "monotheism as reality shift",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The previewed claim that monotheism is a reconception of reality rather than merely counting gods.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0005"
+      ],
+      "note": "This 2024-12-19 lecture explicitly continues the previous class's paradox about Jesus' teaching versus Christianity's teaching about Jesus.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0011"
+      ],
+      "note": "This 2024-12-19 source grounds a dated Jiang position that the Romans killed Jesus and that Paul's Roman citizenship is central to interpreting his role.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0017",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0021"
+      ],
+      "note": "This packet grounds the 2024-12-19 sequence from Paul's doctrinal compromises to his Roman-protected authority.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "note": "This packet gives the 2024-12-19 source's transition from close reading of Acts into explanatory models for Paul's role.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0034",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0035"
+      ],
+      "note": "This 2024-12-19 lecture contains Jiang's explicit speculative Paul-as-Roman-spy hypothesis and should be dated if compared with other sources on Paul or Christianity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "note": "This packet contains Jiang's stated central argument about Paul and the dated list of religious mutations he attributes to Paul's work.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0049",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0051"
+      ],
+      "note": "This Q&A dates Jiang's Acts/Luke authorship claim and previews the next class on monotheism from the 2024-12-19 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript repeatedly says 'leer'; context suggests 'layer' or 'level', but the semantic pass preserves the conceptual distinction rather than silently correcting the source text."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0009",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0010"
+      ],
+      "note": "The Ebionites-to-Islam statement is important but compressed; later episode prose should present it as Jiang's lecture claim rather than a settled external historical consensus."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0019"
+      ],
+      "note": "Claims about James spreading rumors and Paul bribing him are Jiang's reading of the conflict; public prose should keep them attributed to the lecture's interpretation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023"
+      ],
+      "note": "The phrase 'Brothers, thou had done nothing...' appears to be ASR-distorted quoted scripture; treat it as Jiang paraphrasing Acts, not an exact biblical quotation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0035"
+      ],
+      "note": "The stated war date '166 to 173 CE' appears historically odd in context and may be ASR or lecture error; preserve as source evidence without normalizing."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang says 'first' and then 'second is the idea of purity' before naming persecution complex; semantic extraction treats the three beliefs as purity, persecution complex, and messianic final victory."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript around 'in his heart...' runs across segments and is lightly ASR-damaged, but the semantic thrust is that Jiang sees Paul as acting like the true messiah for his people."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0049"
+      ],
+      "note": "The start of the segment is boundary-damaged from a student Islam question; the public question should be reconstructed only as far as Jiang explicitly restates it."
+    }
+  ]
+}
