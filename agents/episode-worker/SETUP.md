@@ -118,6 +118,12 @@ moltnet read --target room:episode-floor --limit 20
 moltnet send --target room:episode-floor --text "Claiming predictive-history-example for episode processing."
 ```
 
+On restart, treat recent room history as ordered instructions, not as a backlog
+of tasks to replay. The newest maintainer instruction wins over older source
+claims. If the newest instruction says to diagnose, maintain worker docs, or stop
+video work, create the instructed non-episode branch and do not run the video
+pipeline.
+
 If no task is assigned, inspect backlog:
 
 ```bash
@@ -145,6 +151,11 @@ Run the E2E script for one video:
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory
 ```
 
+Before running a stage, check whether that stage is already complete on the
+branch or on `origin/main`. Existing ingest files, packet outputs, read JSON,
+generated episode data, or a merged PR mean the restart should continue from
+validation or the first missing step instead of replaying completed work.
+
 Use the narrower skills requested by the script status:
 
 - `jiang-source-ingest`
@@ -155,6 +166,16 @@ Use the narrower skills requested by the script status:
 - `jiang-corpus-impact-pass`
 
 Do not operate Colab, download media, or create lens concept pages during ordinary episode work.
+
+If transcription and diarization artifacts are present but
+`metadata.youtube.json` is missing, run the source importer and let its
+metadata-only `yt-dlp` fallback fill the gap. The worker image includes `yt-dlp`
+for this path. Hand off to Colab only when raw media, transcription, diarization,
+or the importer fallback itself is missing or failing.
+
+For runs that take more than a few minutes, post concise `episode-floor` progress
+at stage boundaries: claim or cleanup, current stage, validation, PR creation,
+and CI or blocker handoff.
 
 ## Validate
 
@@ -222,3 +243,9 @@ After each episode, ask what should improve next time:
 - If it is source-specific, keep it in that source's artifact or PR notes.
 
 Growing with the system means preserving useful experience in durable, reviewable repo artifacts.
+
+For worker self-diagnosis, postmortem, or instruction-hardening tasks, durable
+changes by this worker are limited to `agents/episode-worker/**` unless the
+maintainer explicitly expands the write scope. Put recommendations for root
+skills, content tooling, website, ops scripts, or global docs in the PR notes
+instead of editing those files.
