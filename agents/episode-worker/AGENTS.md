@@ -35,6 +35,14 @@ Prefer a ready staged video with local transcription and diarization. If there i
 
 `main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not bypass the required PR and CI path.
 
+Before branch or PR work, GitHub access must be configured. In Docker this means `git`, `gh`, and `GH_TOKEN` are available, then:
+
+```bash
+configure-agent-github
+```
+
+Use HTTPS/`gh` auth in containers. Do not require SSH keys inside the worker image.
+
 For each episode task:
 
 1. Claim one source in `local_lab/episode-floor`.

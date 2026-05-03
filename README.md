@@ -26,6 +26,14 @@ The repo has three main layers:
 
 There is also an `agents/` folder for Spawnfile worker definitions. The first worker is `episode-worker`, which processes one already-transcribed video into a public episode and corpus-impact proposal.
 
+Docker episode workers use a small overlay image so GitHub operations are available:
+
+```bash
+ops/scripts/build-episode-worker-image.sh
+```
+
+Pass `GH_TOKEN` at runtime. Do not bake GitHub tokens into images.
+
 ## Working Model
 
 The website is not the source of truth. It is generated from content and structured indexes so that public pages, hovers, backlinks, `llms.txt`, and agent-readable data stay tied to the same corpus.

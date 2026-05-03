@@ -9,6 +9,14 @@ docs:
   system: TEAM.md
 
 shared:
+  env:
+    GIT_AUTHOR_NAME: "Jiang Lens Episode Worker"
+    GIT_AUTHOR_EMAIL: "episode-worker@jianglens.local"
+    GIT_COMMITTER_NAME: "Jiang Lens Episode Worker"
+    GIT_COMMITTER_EMAIL: "episode-worker@jianglens.local"
+  secrets:
+    - name: GH_TOKEN
+      required: true
   skills:
     - ref: ./.codex/skills/moltnet
     - ref: ./.codex/skills/jiang-autonomous-work-protocol

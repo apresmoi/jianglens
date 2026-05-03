@@ -4,12 +4,41 @@ This worker is deployed as an autonomous PR producer. It processes one ready vid
 
 ## Fresh Workspace
 
-Start from a clean clone:
+The worker needs GitHub access to push branches, create PRs, and queue auto-merge. In Docker, pass a token at runtime with:
+
+```bash
+GH_TOKEN=...
+```
+
+Use a fine-grained token scoped to `apresmoi/jianglens` with:
+
+- Contents: read/write
+- Pull requests: read/write
+- Metadata: read
+
+A classic token needs `repo`. Do not bake this token into the image.
+
+Configure `git` and `gh` inside the worker environment:
+
+```bash
+configure-agent-github
+```
+
+Start from a clean clone. In Docker or any token-based environment, prefer HTTPS through `gh`:
+
+```bash
+gh repo clone apresmoi/jianglens jiang-lens
+cd jiang-lens
+```
+
+On a local machine with SSH configured, this is also acceptable:
 
 ```bash
 git clone git@github.com:apresmoi/jianglens.git jiang-lens
 cd jiang-lens
 ```
+
+After cloning, the same helper also exists at `ops/scripts/configure-agent-github.sh` for repo-local repair or validation.
 
 Install website dependencies:
 
