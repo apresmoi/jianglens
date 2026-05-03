@@ -5,7 +5,7 @@ description: Use this skill when importing synced Jiang Lens source artifacts, r
 
 # Jiang Source Ingest
 
-Use this for the mechanical path from staged source artifacts into canonical source state.
+Use this for the mechanical path from committed raw source artifacts into canonical source state.
 
 This skill does not write public episode prose, public lens docs, glossary canon, or promotion records.
 
