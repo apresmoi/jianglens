@@ -1,0 +1,333 @@
+# Game Theory #22:  Twilight of the Nation-State
+
+Source: https://www.youtube.com/watch?v=txgPfnXgzcE
+
+## seg-0001 / 00:00:00-00:00:58 / SPEAKER_02
+
+there is a ceasefire now between iran and united states but most analysts expect that this war will resume in a week two weeks a month but it was it will resume because it is impossible for the united states and iran to come to a mutually beneficial and satisfying arrangement so today i want to look at how this war will evolve and my argument to you today is that this u.s iran war it's really the first war of the 21st century um and so i want to explain to you how warfare has evolved these past few hundred years so the simplest way to fight a war is you would destroy a state's capacity to fight by killing as many soldiers as possible right you would arrange to fight the enemy on a battlefield whoever wins this battle would win the war and that was the first war of the 21st century and the second war
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:58-00:01:50 / SPEAKER_02
+
+of the 19th century how traditionally wars wars were fought for hundreds of hundreds of years within sort of centuries something happened which is that the state the nation state developed the capacity to have a lot of people millions of people and so the state could always replenish its forces on the battlefield and so now what you had to do was you had to destroy the state's capacity to produce to manufacture okay so that's a good point to make and this is really and so the point is to kill as many civilians as possible before you want to kill as many soldiers as possible when the 20th century war mainly world war ii you're trying to kill as many civilians as possible but in the 21st century it's different because we have nuclear weapons now and there are too many people so it is impossible for you to kill everyone and if you use nuclear weapons
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:50-00:02:51 / SPEAKER_02
+
+then others will use nuclear will use new glories on you okay so now Now, in the 21st century, our goal is to use the population against the state, to turn the civilians against the government by sowing as much discord and dissent as possible within society. And you do that through economic sabotage, through economic strangulation. So that's the argument I will make to you today. The first thing I want to look at is why is it that we have 8 billion people, 8 billion people are living on this planet? And for most of us, we think this is a tremendous achievement. But if you think about it, it's not that nice because there aren't that many resources to share. There's not that much space. In fact, if it were not for fertilizers, we would only be able to support one to two billion people. So how did we get to a stage where we have 8
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:51-00:04:07 / SPEAKER_02
+
+billion people in this world, and most of us are not very happy with the state affairs? And scientists will tell you it's because of the center of evolution. It's because of this revolution in technology and understanding that's allowed us to progress. That's not true. The real reason is because of the nation state, and the nation state, it is a revolution in politics that came to us because of the French Revolution, all right? So the main architect of the French Revolution, his name is Jean -Jacques Rousseau, he was not French, he was actually Swiss. But he's important because he dealt with the theory that underpinned the French Revolution called social contract theory. Before, we didn't really think about what the individual's relationship with the state was. Basically, you're born in the community, and you just did what tradition and custom and family asked you to do. But Jean -Jacques Rousseau was the first to say, no, we are born free because God gave us freedom.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:08-00:05:10 / SPEAKER_02
+
+So why do we choose to surrender our freedom in order to join a community? And so his theory is that we join society to become more free. So by ourselves. Okay. We together, okay, all of us together, we create something called a common will. And think of this as democracy. Democracy is basically the idea that to make a decision, we just vote. And then whatever comes, whichever is the majority wins. So for example, we might debate whether we're going to McDonald's or Pizza Hut, okay? There's three of us. If two of you say, let's go to Pizza Hut, we go to Pizza Hut, and that's just democracy. For Jean -Jacques Rousseau, this is not a good system. Because we should strive to be higher than we are. We should strive for total freedom. And that's the idea of the general will. Okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0005
+
+## seg-0006 / 00:05:10-00:06:09 / SPEAKER_02
+
+The common will is who we are. The general will is who we could be if we came together as a people. Okay? And the best way to understand the general will is through Kant's theory of the category. Kant's theory of the category is the category of the universal principle, okay? The universal principle is an integral, hierarchical imperative, okay? Which for him is the highest moral law. So as human beings, what makes us truly human? What allows us to achieve our ideal state? What are the three principles, okay? The first principle is the principle of universality. So imagine that all your actions will be reflected throughout the universe. So if you smile, everyone smiles at once. If you get angry, everyone gets angry at once. And then you ask yourself, what's your goal? society do i want to live in do i want to live in a society where everyone is smiling or angry right and then that's the way
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006
+
+## seg-0007 / 00:06:09-00:07:19 / SPEAKER_02
+
+you should behave the law of universality secondly is the idea of free will no one can compel you to smile you must smile out of your own free choice even though smiling makes you feel happy if i make you smile that goes against um the good of humanity okay the third is the idea of human as an ends okay so i can never sacrifice another human being in order to achieve a better society because we are the ultimate end okay so these these together um the category imperative is what gives us the theory of the general will so even though we all vote to eat ice cream we shouldn't eat ice cream because that's not how we we achieve enlightened humanity That's not how we achieve the ideal state. We should think about Kant's categorical imperative. Now what happens is this. From the general will, this is a sovereign, okay? This is the highest law.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0007
+
+## seg-0008 / 00:07:19-00:08:48 / SPEAKER_02
+
+This is God, basically. And from the sovereign, we achieve the state, the government. And the state makes us into citizens. And then we have laws, culture, education, okay? So for Jean -Jacques Rousseau, this is the social contract. This is the ideal state. The French Revolution started because there were many intellectuals, revolutionaries who wanted to achieve the social contract. But as you can appreciate, there were many who... Who disagreed with this theory, especially monarchs, right? Because the idea here is that the general will, the people, are the sovereign. But in a monarchy, the monarch is what's sovereign. So the sovereign must... So it's a debate over who's sovereign. And so at this time in history, most nations, most countries in Europe were monarchies. So they saw the French Revolution. They saw the French Revolution as a direct threat to them, and that's why they invaded France many, many times. But then something really weird happened. These professional armies who go into France, and they're fighting against these citizens, okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0008
+
+## seg-0009 / 00:08:48-00:09:59 / SPEAKER_02
+
+People with no military experience, who are not professional soldiers. What's happening was that they were losing to these citizen armies. And the question is, why was this happening? And the reason why is that... This theory is so powerful that it makes people willing to fight, to die for this, okay? Right? So what was happening during the French Revolution, these wars, was that you had the monarchies, and these were professional armies. And so these were basically mercenaries. And the thing about mercenaries is they didn't want to die, right? They're collecting a paycheck. Their point is to intimidate. Their point is to scare. It's not to die. But then you have the French Revolution, and they were citizens, and they were willing to fight and die, okay? And that's why France became the most powerful nation in Europe at this time, because they could
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0009
+
+## seg-0010 / 00:09:59-00:11:21 / SPEAKER_02
+
+call on their citizens to fight and to die, and it was almost unlimited amount of soldiers. Whereas the other countries like Prussia, Russia, Austria, they had professional soldiers who were afraid to die. All they wanted was their paycheck. So over time, the French were overwhelming the Europeans. And this created the French Empire, all right? But once these places were conquered, they developed their own theory as to how to defeat the French. And they recognized that we also need a theory of nationalism. We also need a theory of a nation -state. But they didn't like the social contract theory, okay? So they came up with a new theory based on nation, which was basically language, culture, and race. And so this becomes Germany, okay, or what we call iron and blood. So now you have these theories of nationalism come out into Europe. And now they're invincible because they can call on their citizens to fight and to die.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0010
+
+## seg-0011 / 00:11:21-00:12:22 / SPEAKER_02
+
+And this is why Europe became the most powerful region of the world starting in the 19th century. Okay? But of course, the problem of nationalism, the problem with populations that want to fight and die is that they keep on fighting wars. But it's not a real... And so what happens is that... to solve this problem, you have to fight and die. And to solve this problem, all these nations focus on trying to grow the population as fast as possible, as much as possible. And this is what led to this massive population growth. But with more population, what was happening was that these wars were becoming deadlier and deadlier, culminating, of course, in World War II. And by World War II, Europe had exhausted itself. Too many people had died. Their civilization was destroyed. And so this allowed America to come into power. Okay? America. And America had a different theory of the nation state.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0011
+
+## seg-0012 / 00:12:22-00:13:42 / SPEAKER_02
+
+So the French, their theory was the social contract. The Germans, their theory is iron and blood. Okay? Race. The Americans had a different theory because America was a multicultural nation of immigrants who are trying to colonize the Western Hemisphere, North America, right? So for them... For them, their theory is to create a game. The nation state becomes a game. The Constitution and government are the game masters. And what they will allow is for anyone to come to America and get rich, as long as they work hard. And this will create the greatest nation in the world. Okay? So this becomes a game where anyone can play. In fact, the more players that you have... The wealthier America becomes, right? And then after World War II, what happened was that America spread this game throughout the world, as much as it could, right? To Europe and to Japan. But there are still communist countries like China and Soviet Union, which did not want to participate in this game.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0012
+
+## seg-0013 / 00:13:43-00:14:50 / SPEAKER_02
+
+They had their own game. And so what happened was that after the collapse of the Soviet Union, this game conquered the world, right? You had globalization. Okay? The problem is this. Once this game keeps on going, eventually what happens is that only a few players achieve all the wealth, right? You have massive inequality. And everyone else falls into debt. And that's the world that we live in today. America created this game. It was very successful in creating tremendous wealth, and they're trying to have as many players as possible. That's why you have the population boom. Okay? But now, only a few people have all the wealth, and everyone else is in debt. In other words, these people are useless. And therefore, we need to reset the game. And the way to reset the game, of course, is to destroy the game
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0013
+
+## seg-0014 / 00:14:50-00:15:45 / SPEAKER_02
+
+in the first place, therefore have World War III, bring everything down, and start the game over again. Okay? And that's why we are in the situation we are in today. Okay. So now what? So now what I'm going to do is go over some of the major ideas that allowed for this system to come into being. Okay? So first, I want to look at the Social Contract by Jean -Jacques Rousseau. So Ivory, could you do me a favor and read the first passage? Okay. So let me put this in context. This is from his book called The Social Contract. And Jean -Jacques Rousseau is arguing slavery. And before, it was understood that slavery is a game. It's a good system because the master is nice to the slave. As long as the master is nice to the slave, the slave should be happy. And Jean -Jacques Rousseau says, no, that cannot be true. Under no circumstance can a slave ever be happy.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0014
+
+## seg-0015 / 00:15:45-00:15:47 / SPEAKER_02
+
+Okay? And he explains why. So Ivory, can you read please?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0015
+
+## seg-0016 / 00:15:48-00:16:40 / SPEAKER_00
+
+To renounce your liberty is to renounce your status as a man, your rights as a human being, and even your duties as a human being. There can't be any way of compensating someone who gives up everything. Such a renunciation is impossible. It is incompatible with a man's nature. To remove all freedom from his will is to remove all morality from his actions. Finally, an agreement to have absolute authority on one side and unlimited obedience on the other. What an empty and contradictory agreement that would have to be. Isn't it clear that if we are entitled to take anything and everything from a person, we can't be under any obligation to him? And isn't that fact alone? The fact that there is no equivalence. Nothing to be exchanged. Nothing to be changed. Between the two sides. Enough to nullify the agreement. What right can my slave have against me? Everything that he has is mine. His right is mine.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0016
+
+## seg-0017 / 00:16:41-00:16:43 / SPEAKER_00
+
+And it doesn't make sense to speak my right against myself.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0017
+
+## seg-0018 / 00:16:44-00:17:30 / SPEAKER_02
+
+Okay, so the argument is this. Our freedom is given to us by God. Our freedom is what connects us to God. So our freedom cannot be surrendered. If we surrender our freedom, if someone takes our freedom away from us, that is surrendering our humanity. That is breaking our connection to God. Therefore, it is better to die than be a slave. And that was their thinking during the French Revolution, right? Yeah, only citizens. They have absolutely no experience with firearms, but they were running into cannon fire against professional soldiers because they were like, give me liberty or give me death. Because well, my liberty, I am nothing. Okay, so this is a really important concept. And then you can read this below.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0018
+
+## seg-0019 / 00:17:32-00:18:14 / SPEAKER_00
+
+I'm continually astonished that such a simple sign of good government isn't recognized, or perhaps men do recognize it but aren't honest enough to say so. What is the purpose of any political association? The preservation and prosperity of its members? And what is the surest sign of their preservation and prosperity? Their number and their population growth? That's the sign you're looking for. Other things being equal. The unquestionably best government is the one under which. The population increases most without external help from naturalizing foreigners or establishing colonies. The government under which the population shrinks is the worst. Over to you, calculators. Count, measure, compare.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0019
+
+## seg-0020 / 00:18:14-00:19:29 / SPEAKER_02
+
+Okay. This is a really important idea. The first is liberty is the most important value. And the second idea is a good government, a good society should focus on population growth. On having as many people as possible. Okay. Because that's the best sign that you're, you're thriving as a society. Okay. So because of these two ideas, okay, population growth, and then liberty, the French will become the greatest empire in Europe at this time. So this is France in the dark green, and they will colonize and conquer everything in the green. You can see how vast it is, right? So this shows you the power of the nation state based on two ideas. The first idea is liberty is all that matters. Second idea is go to population as fast as possible. Okay. So of course what happens, as I mentioned, is that the Germans were being conquered by the French. They get upset and their intellectuals come up with a new theory of nationalism.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0020
+
+## seg-0021 / 00:19:30-00:20:33 / SPEAKER_02
+
+This is a Johan Fette. Who is considered the father of Germany. The father of German nationalism. And his argument is that it is language that binds us as humans. Okay. So for Dr. Rousseau, it's liberty that we should strive for. It's liberty that gives us value as human beings. But for Johan Fette, it's no, it's language. It's language that binds us to the past. It's language that binds us together. It's language that's worth fighting for. It's race, nation, blood. Okay. Okay. And this becomes the philosophy of the German state. At this time in history, Germany was divided into many hundreds of different kingdoms. It is Bismarck, Otto von Bismarck of Prussia, who will unify the German people into one Germany. Okay. Often called the second Reich. And so can you read, Ivory? This is a speech, his famous iron and blood speech. Okay.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0021
+
+## seg-0022 / 00:20:33-00:21:04 / SPEAKER_00
+
+The position of pressure in Germany will not be determined by its liberalism, but by its power. Pressure must concentrate its strength and hold it for the favorable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill -designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided. That was the great mistake of 1848 and 1849, but by iron and blood. Okay.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0022
+
+## seg-0023 / 00:21:04-00:21:32 / SPEAKER_02
+
+All right. So the idea here is that, listen, we're a German nation. Okay. And as a nation state, as a people, we must protect our freedom by going to war. Okay. It's only through war that we can survive and thrive as a people. But how do you fight wars? Well, you fight wars, and it's really important, by making sure your population is taken care of. Okay. So can you read, Ivory?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0023
+
+## seg-0024 / 00:21:33-00:22:12 / SPEAKER_00
+
+The real grievance of the war is the fact that we are a nation. We treat the worker as the insecurity of his existence. He's not sure that he will always have work. He's not sure that if you will always be healthy. And he foresees that he will one day be old and unfit to work. If he falls into poverty, even if only through a prolonged illness, he is then completely helpless, left to his own devices. And society does not currently recognize any real obligation toward him, beyond their usual help for the poor. Even if he has been working all the time ever so faithfully and diligently. The usual help for the poor, however, leaves a lot to be desired, especially in large cities where it is very much worse than in the country.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024
+
+## seg-0025 / 00:22:12-00:23:15 / SPEAKER_02
+
+So Bismarck will turn Germany into the most powerful nation in the world by recognizing that it's not just soldiers who contribute to the war effort. It's also your people as well, because it's your people who make the machines of war, the machine guns, the artillery, the munitions, and therefore, you have to make sure they are healthy. You don't want to send sick soldiers to the battlefield, right? You don't want sick workers as well. That's why he passed a lot of progressive worker reforms, including health insurance, accident insurance, old age, pension, workers' protection, children's protection, okay? It is because he recognizes that a nation -state is first and foremost a nation -state. It is first and foremost about making warriors, and if you want to win, you have to make sure you have as many people as possible and everyone is contributing to the war effort. And to do that, you need to make sure that everyone is taken care of, including your soldiers, including your workers, okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0025
+
+## seg-0026 / 00:23:15-00:23:48 / SPEAKER_02
+
+And it was Mussolini who basically understood that the real purpose of a nation -state is to fight wars. In fact, it is wars that give people meaning in their lives. If you have a war, if you create a nation -state around war, if you create a mythology around the beauty of war, then people will happily fight and die, okay? Can you read the speech?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0026
+
+## seg-0027 / 00:23:49-00:24:15 / SPEAKER_00
+
+We have created our myth. The myth is a faith, a passion. It is not necessary for it to be a reality. It is a reality in the sense that we have created our myth. It is a stimulus, it's hope, it's faith, it's courage. Our myth is the nation. Our myth is the greatness of the nation. And to this myth, this greatness, which we want to translate into a total reality, we subordinate everything else, okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0027
+
+## seg-0028 / 00:24:15-00:25:31 / SPEAKER_02
+
+So this is the highlight or the peak of the nation -state. And so during World War II, they had to fight a war to destroy the entire society. Because the soldiers were not a mercenary army like they were in the past before. The soldiers were coming from the population themselves. So in World War II, the allies won, not because they were democratic or more or less superior or had a better strategy, it was because they could destroy the productive capacity of their enemies, but their enemies could not destroy the productive capacity of their nation -states. Does that make sense? So America, their factories were fine, Soviet Union, their factories were removed into Siberia, far away from the Germans. The Germans and the Japanese could be firebombed, okay? So look at this. So from 1940 to 1945, the British and Americans firebombed Germany, okay? This is Dresden. Dresden. You can see the entire city of Dresden was destroyed by the firebombing.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0028
+
+## seg-0029 / 00:25:31-00:26:34 / SPEAKER_02
+
+So in World War II, what they recognized is there's no point in killing soldiers on the battlefield because they'll just send in more soldiers with more weapons. So we need to destroy the civilian population. That's how you win the war, okay? And that's how they defeated Germany. Japan was much worse. Look at this. At least half of Japan was destroyed by the American firebombing of Japan. That's why Japan was destroyed. Japan lost the war. Otherwise, they would have kept on going, all right? And these are huge cities. So Nagoya is a city the size of Los Angeles, 40 % of it was destroyed, okay? Tokyo is New York City, 40 % of it was destroyed as well. Yokohama, 60 % of it was destroyed, okay? This is Tokyo. You can see the extent of the damage. Okay? The nation state idea was so powerful that in order to win a war, you need to destroy the civilian population, okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0029
+
+## seg-0030 / 00:26:34-00:27:42 / SPEAKER_02
+
+So as you can see, because of the rise of the nation state, we had to kill more and more people in order to fight wars. So this is World War II, and at least 20 to 30 million people were killed, okay? And depending on your... On how you calculate, probably a lot more than that died. But what's interesting is that even though World War II was a calamity, even though tens of millions have died, look at the population growth. It didn't... It never stopped, okay? So for most of the history of human history, population growth was steady. But then starting around the year 1600, it boomed, okay? And again, scientists will tell you. This kind of thing happened. This coincided with the rise of science and technology, but we've always had science and technology. What made this different was the rise of the nation state, and
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0030
+
+## seg-0031 / 00:27:42-00:28:55 / SPEAKER_02
+
+the recognition that to fight wars, you need more people who want to kill themselves for the nation. And to get them to do that, you have to treat them well as well, okay? And that's what... And so the nation state wanted science and technology to grow the population. Okay? That's why we had medicine and sanitation, okay? These innovations happened because the nation state willed these things to happen. All right. Now as I mentioned, after World War II, and after all the travesty and destruction of World War II, the world got together and said, okay, America, you're in charge now, and let's build a world in which we don't have to fight and kill each other anymore. Okay? And so America created this game, right, called capitalism, consumer capitalism, in which we live in today. And this system is unique in human history, and for most of this history, was extremely successful. It grew the population from about 2 billion to about 8 billion today.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0031
+
+## seg-0032 / 00:28:56-00:29:55 / SPEAKER_02
+
+It made a lot of people more wealthy. Think of the tremendous wealth that China has generated in the past 30, 40 years because of its participation in consumer capitalism. Okay? But unfortunately, we've now reached a point where the system is off balance. It's unstable, it's unsustainable. So now we're going back to war. But unfortunately, because there's too many people, this means that when we go back to war, at least 50 % of humanity will die off in World War III. Okay? So this is the war in Ukraine. And already millions of people are dying in this war. But if you look at the war in Ukraine, it's essentially a 19th century war. Okay? It's almost like World War I. I know World War I happened in the 20th century, but it's really a 19th century war where you are trying to kill as many soldiers as possible.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0032
+
+## seg-0033 / 00:29:55-00:31:25 / SPEAKER_02
+
+Okay? And that's what's happening in Ukraine. What I will show you is that Iran will be the first 21st century war. Okay? So America, in round one, tried to use shock and awe. Shock and awe is basically, you decapitate the leadership, you destroy the military, and you destroy production. That's the idea of shock and awe. I come in, I kill your leadership, I kill your military, I kill your war factories. And you do it as soon as possible. But this is not working against Iran because they've prepared this war for 20 years, so it's decentralized. Okay? So you've killed their leaders, but they don't care because they've got new leaders coming to place. Their military is hidden. Okay? They're hidden in mountains, and their factories are also hidden in mountains as well. So even though the Americans have really destroyed the military, they've destroyed the military. They've destroyed much of Iran's war fighting capacity, Iran is still in this fight.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0033
+
+## seg-0034 / 00:31:26-00:32:46 / SPEAKER_02
+
+So what's going to happen is that over the next few months, America is going to shift its strategy into a 21st century war strategy, which will have three components. The first component is economic strangulation. I will destroy your economy, your entire economy. The second is ethnic tension. I will try to create as much conflict as possible between the different peoples in Iran, okay? And the third thing is destroy civilian infrastructure. Basically, I want to destroy people's capacity to access water, electricity, and food, the basic necessities of life. Okay? Why do I want to do that? Because if people cannot access these things, they get angry, right? Then if they get angry, I can channel this anger against the government, because it's easier for them to attack the government than it is to attack the US military, which is the ones destroying all this infrastructure. So this is what a 21st century war strategy looks like.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0034
+
+## seg-0035 / 00:32:47-00:33:47 / SPEAKER_02
+
+And this is what the Americans will deploy in Iran over the next few months. Now, why haven't they done this before? Well, because these are war crimes, OK. There are lots of treaties, the Geneva Convention, that prohibit you from fighting these wars. But as Americans become much more desperate, as they continue to lose this war, they'll be like, screw this, I'm going to win this war no matter what it takes. So let me show you how this war will be fought. So before, right now, they're trying to target... uh weapons they're trying to target military bases that doesn't get you anywhere okay you you need to better use your weapon systems because there's you just don't have enough munitions to destroy the entire iranian military okay so you have to be strategic now and so you target things that have huge impact on the civilian uh population as well
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0035
+
+## seg-0036 / 00:33:47-00:35:00 / SPEAKER_02
+
+as the economy right so the most most basic thing is water okay look guys these are all dams and reservoirs around iran okay i don't destroy all them but i strategically destroy some of them this is going to create a lot of pressure on the civilian population they'll be very angry they might protest against the government okay also um transportation networks right these are roads and railways this is important because tehran is a city of 10 million people and they do not grow their own food they require food to come from the countryside from elsewhere so if i attack the roads leading to tehran if i attack strategic hubs then it's very hard for food to move from place to place okay i don't have to destroy the entire food supply i can't do that i don't have weapons but i'm being strategic about it i'm putting strain on tehran's capacity to feed its own
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0036
+
+## seg-0037 / 00:35:00-00:35:58 / SPEAKER_02
+
+population power plants okay these are all power plants around uh iran and it's really easy to destroy these power plants all right so does that make sense so the idea is war the rules of engagement require me to only attack soldiers and only attack weapons but eventually i'm going to run out of munitions if i keep on doing that and it's not going to destroy iran's capacity to fight they won't surrender so now i need to be more strategic with how i use my munitions how i use my bombs and so i want to create as much damage as possible the best way to do that is by targeting key infrastructure power plants desalination plants roads railway networks okay i can't destroy all of them but i can destroy all of them and that's why i'm so create as much havoc as possible over time so the civilian population gets very angry so my best
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0037
+
+## seg-0038 / 00:35:58-00:37:07 / SPEAKER_02
+
+weapon in this war are no longer my planes and my aircraft carriers my best weapon is the Iranian people themselves that's what a 21st century war looks like it's very slow it's very methodical it's pretty evil okay all right all right the other thing is economic strangulation all right so what am i trying to do here okay so Iran there are two ways for them to generate income for to finance this war the first is to sell oil okay and this is karg island which is their main depot okay oil depot and ninety percent of Iranian oil goes from karg island elsewhere okay primarily to China ninety percent of Iran's oil exports goes to China okay okay so what americans have done is they've been close imposed a blockade stopping uh oil exports okay that's one way you can uh stop um Iran's economy the other thing is that right now Iran controls the cervical
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0038
+
+## seg-0039 / 00:37:07-00:38:21 / SPEAKER_02
+
+moves and they collect tolls on that okay so i basically need to destroy Iran's control of the cervical moves the way i do that is i use ground forces okay so what i can do is seize khasem island seize karg island seize the coastline and force the Iranians to respond to my attacks right i can also position um forces here and here why because these areas okay in the north west of Iran are home to minorities as well as the south east and when i put my soldiers here this is going to encourage local population to rise up against the Iranian state and now what's going to happen is that the Iran well Iran will now the same forces to respond to all these ethnic insurgencies around um Iran okay so before Iran could just focus its resources on controlling several moves like screw that i'm going to um expand the battlefield so that Iran
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0039
+
+## seg-0040 / 00:38:21-00:39:50 / SPEAKER_02
+
+is forced to deal with multiple threats at the same time i'm going to collapse their economy all right okay so this is what a 21st century war looks like it's slow you focus on triangulation as opposed to a knockout punch all right so um once one way to understand what's happening is that the Americans have been doing this for a long time but more subtly all right so um in 2012 the Iranian president named he accused the Americans of conducting weather warfare against Iran mainly by creating droughts in Iran and how do you do that well it's cloud seeding right it's cloud seeding so the idea cloud seeding you shoot up a chemical called silver iodide into clouds, forcing it to rain. When you do that, well, the clouds dissipate the rain elsewhere, and they don't go to Iran. So in 2019, there's a real fear that Iran would suffer from long -term drought. And
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0040
+
+## seg-0041 / 00:39:50-00:41:08 / SPEAKER_02
+
+regions like Dubai, which Iranians claim to be the source of this weather warfare, they experience droughts. Sorry, floods. So again, I don't know how science works, and this is all rumors. But it does make sense where the Americans would use weather warfare against Iran, forcing rain to come down in Dubai. They didn't deny. They didn't deny rain to the Iranians, okay? There's a conspiracy theory that these world governments are conducting weather warfare using something called HAARP, okay? Now, HAARP was originally designed in order to study the atmosphere. But some conspiracy theorists claim that HAARP can be used to create extreme weathers, including hurricanes, cyclones, flooding, droughts. I don't know, okay? I'm just saying. I'm just pointing this out there. What we do know is that in 1962, Lyndon Johnson, who became president of the United States, he had a very famous quote at a speech. And he basically said, he who controls the weather will control the world, okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0041
+
+## seg-0042 / 00:41:08-00:42:12 / SPEAKER_02
+
+The future of warfare is not about weapons. It's about weather. So it's not about how many weapons you make. It's about how well you can control the weather. Because if you think about it, if you can create a drought in a country, that country will be destroyed. Okay? And they put a lot of resources into developing weather warfare. And we know that from 1967 to 1972, the Americans created something called Operation Popeye. Okay, so this is during the Vietnam War. And what the Americans did was they see the clouds so that the monsoon season would be a lot longer in Vietnam. Why do that? Because then it's harder for the Viennese to resupply themselves, okay? It makes it harder for them to fight. Because the Viennese are living in tunnels, right? Whereas Americans are attacking from the air, all right? So this is pretty well known. Operation Popeye is something that the Americans did do in Vietnam.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0042
+
+## seg-0043 / 00:42:12-00:43:20 / SPEAKER_02
+
+And they do have weather manipulation technology. The question is, the debate is, how effective the technology is and how powerful is it? And how... Scalable is it, okay? Okay, that's the debate. We're already seeing elements of 21st century warfare being implemented around the world, okay? So look at Cuba. There's now an oil embargo on Cuba. And so there are blackouts, all right? So again, the intention is not to kill civilians. The intention is not to fight a war. The intention is to, like, strangle a nation so that eventually the population wants to overthrow the government. And already what we're seeing is these past few months, lots of accidents around the world that's destroying the world's oil supply, okay? But there's one region of the world that doesn't really care about the loss of refineries, the loss of oil supply, and that's North America. Because North America is extremely wealthy.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0043
+
+## seg-0044 / 00:43:22-00:44:34 / SPEAKER_02
+
+And so the rest of the world is facing energy scarcity. Okay? And food scarcity is going to have to beg North America, the United States, Canada, Mexico for resources. And this allows the Americans to better control the world, okay? Again, this is what 21st century warfare looks like. All right. The last... Another thing that I will point out is that the Americans are very good at overthrowing governments, okay? There's something called the Color Revolution Playbook. Color Revolution Playbook. And so what the Americans do is they basically invite young people from different nations to come to America to learn about democracy and to learn about how to organize protest movements, how to overthrow the government in order to promote democracy. The Americans will also finance NGOs in different countries in order to create young movements in the world. The Americans will also control social media in order to......to galvanize the population and foment unrest. Okay?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0044
+
+## seg-0045 / 00:44:34-00:45:52 / SPEAKER_02
+
+And we saw this play out most recently in 20... Sorry, last year, Nepal, when young people overthrew the government. Now, guys, okay. Here's the thing. In Nepal, most people don't speak English. They don't read English. So why are these young people holding up signs? Okay, boomer, time's up. Okay? That's in English. Who's it for? Also, okay, boomer, it's an American phrase. Okay? It's an American phrase, not a Nepalese phrase. So, in other words, they're doing this not to have impact locally in Nepal. They're doing this because someone's paying them to do this. You understand? It's being funded by Washington. And Washington's like, okay, well, I'll pay you this much. This amount of money if you give me a slogan, if you hold a slogan, so that I can show my boss that this protest is working. Also, guys, here's another sign. We pay you flex enough. Okay? Another English sign. So, again, why are they doing this when the local population don't even speak English?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0045
+
+## seg-0046 / 00:45:53-00:47:02 / SPEAKER_02
+
+They're doing it for Washington. They're not doing it for their own country. They're doing it for their masters in Washington. All right? Does that make sense? And this is very common in the world today, where these protests are being orchestrated by Washington for Washington, as opposed to being organic. This was in 2010, 2012. You have these Arab Spring protests happen all around the Middle East. Okay? Do they stabilize the governments in the Middle East? And we know that social media, basically Twitter and Facebook, were instrumental. And organizing people and promoting unrest in these places. All right? So, these are all called color revolutions or the color revolution playbook. So, not only does America have the capacity to strangle a nation's economy and force the population to beg for mercy, Washington and the Americans also have strategies on how to overthrow the government using local population.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0046
+
+## seg-0047 / 00:47:02-00:48:22 / SPEAKER_02
+
+Okay? Basically, by. By controlling social media, by organizing young people, paying them to protest, and bribing security services to not intervene. Okay? It's a very successful playbook. They've tried many times and it's worked many times before. All right. So, America can use this playbook against every country that opposes it. Okay? So, the main reason again is because America. America controls the world's choke points, including the Strait of Malacca, Panama Canal, Gibraltar, these are the major choke points. Even though the Iranians control the Strait of Hormuz, the Americans can have aircraft carriers in the Indian Ocean and blockade the Iranians. Okay? This is important because a lot of people believe that what America really wants to do is destroy China. And, unfortunately, right now, a lot of the Chinese economy depends on exports, meaning trade. If you can't export, your economy can suffer a great deal. When your economy suffers a great deal, you lose GDP,
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0047
+
+## seg-0048 / 00:48:22-00:49:49 / SPEAKER_02
+
+you have unemployment, and it's possible that you have protests happening in China because of the collapse of the economy. Okay? So, that is what the 21st century is. That's what the 21st century war looks like. Okay? You don't send troops. You don't destroy. What you do is you strangle a people to death and force the people to rise up against the nation state. Okay? And so, the concluding message is this. Ultimately, to fight a 21st century warfare, okay, it's really about population management. What I mean by that is your enemy is trying to provoke your population into unrest to destroy you. So, you have to respond by managing your population better. Okay? And that can often mean culling your population. Culling your population just means killing them. Okay? Killing them can mean you deny them food. You create famine. Okay? It can mean you spread diseases. It could mean you actually do go and shoot them.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0048
+
+## seg-0049 / 00:49:49-00:50:41 / SPEAKER_02
+
+Okay? And this forces you to use artificial intelligence, AI surveillance state. Because the best way to control your population, the magic population, is with an AI surveillance state. All right? So, that's the future we're looking at, what a 21st century war looks like. And there's no way around it. It is just the inability of history. We have too many people. We want to fight wars. And so, a lot of people have to die in these wars. Does that make sense? All right. Any questions, guys? Any questions? Yeah. Yeah. Sorry. Can you give the microphone to Allen?
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0049
+
+## seg-0050 / 00:50:43-00:50:59 / SPEAKER_01
+
+I just have one small question about the 21st century war. Like, if a country has been attacked by this strategy, how can it respond? Like, how can Iran respond to American strategy right now? Okay. That's a great question.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0050
+
+## seg-0051 / 00:51:00-00:52:41 / SPEAKER_02
+
+Okay. Look. The reality is that when the Americans do this, okay, when they do three things, right? They destroy your economy. When they strangle... Sorry. When they destroy your infrastructure. And when they divide and conquer, according to game theory, there's only one response. Okay? There's only one proper response to this, and this idea of eschatology. Okay. And the idea here is this. You need to create fanaticism among your people, right? Because your people are suffering. They don't have enough to eat. They don't have any hope in the future. So what you say to them is... This is all part of God's plan. We're meant to suffer. Because when we suffer, God will make us invincible. For our suffering, we'll find the courage to commit martyrdom. Okay? When we do martyrdom, we go to heaven. All right. The problem with this is that most people don't want to do this. Okay? They're like, no, I don't want to kill myself.
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051
+
+## seg-0052 / 00:52:42-00:53:47 / SPEAKER_02
+
+I don't want to die for God. I just want to live a normal life. Okay? But unfortunately, what history tells us is that you really don't need that many people to commit to eschatology to win a war. Maybe at most 10 to 20%. If 10 to 20 % of your population commit to this eschatology, then you will survive. Okay? And we have an example of this. We have an example of this. It's the... Sorry. The Iran -Iraq war. war which is what happened in the 1980s okay an eight -year war between iran and iraq right and guys it was a crazy war these iraqis were supported by both the americans and the soviet union they had tanks they had helicopters they had a professional army the iranians in 1980s didn't have an army they didn't have tanks they didn't have um helicopters so what they said to iranian people is the
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0052
+
+## seg-0053 / 00:53:48-00:54:43 / SPEAKER_02
+
+greatest glory is to be a martyr the greatest glory is to die for your nation and for god so they all these young people went into the battle with just a rifle okay guy like like imagine this okay you have this young guy 16 years old he's running into battle against a tank in a helicopter and he's screaming at them i will kill you and i'm gonna kill you so they went into battle against a tank and they got blown up but some of them got through and they threw a grenade into the tank okay now you think you you you think about this you're like oh my god that's crazy but first of all it galvanized iranian population into resisting an event and eventually they turned the title war so they were actually winning the war and it was only because americans started to use chemical weapons against them that the iranians had to
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0053
+
+## seg-0054 / 00:54:43-00:55:49 / SPEAKER_02
+
+were forced back okay but if left alone the iranians would have defeated the iraqis so think about that how it galvanized the population of iraq and then it was the same thing with no ariba into resistance. The other thing is that it's scared the hell out of the Iraqis, okay? You have a tank, right? The guys come at you with a rifle and a grenade. He's not afraid of you. His fearlessness makes you afraid, okay? So even though, yes, in 21st century warfare, okay, it seems invincible, but eschatology is the counter to this approach and that's why we should see over the next few years a huge surge in eschatology and religious extremism throughout the world, because it's really the only counter to this type of warfare. Doesn't that make sense? Okay, great question. Any more questions guys? Okay, great. So, there's no class on Thursday and next Scorpio I believe. tuesday but we'll come
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054
+
+## seg-0055 / 00:55:49-00:55:54 / SPEAKER_02
+
+back next thursday and we'll continue this okay all right thank you
+
+Ref: video:predictive-history-txgpfnxgzce@transcript:v1#seg-0055
