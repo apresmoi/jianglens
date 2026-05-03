@@ -1,6 +1,6 @@
 # Episode Worker Setup
 
-This worker is deployed as an autonomous PR producer. It processes one ready video into episode artifacts, pushes a source-scoped branch, and opens a PR against protected `main`.
+This worker is deployed as an autonomous PR producer. It processes one ready video into episode artifacts, pushes a source-scoped branch, opens a PR against protected `main`, and enables auto-merge after CI.
 
 ## Fresh Workspace
 
@@ -103,6 +103,7 @@ git add <scoped-files>
 git commit -m "Process episode <source-slug>"
 git push -u origin episode/<source-slug>
 gh pr create --base main --head episode/<source-slug> --title "Process episode <source-slug>" --body-file <pr-body-file>
+gh pr merge --auto --squash --delete-branch
 ```
 
 The PR body must include:
@@ -117,10 +118,10 @@ The PR body must include:
 Post the PR to `episode-floor`:
 
 ```bash
-moltnet send --target room:episode-floor --text "Ready for review: <PR URL> for <source-slug>. Validation: compile-content, validate-content, website build passed."
+moltnet send --target room:episode-floor --text "Auto-merge queued: <PR URL> for <source-slug>. Validation: compile-content, validate-content, website build passed locally; GitHub CI is the merge gate."
 ```
 
-Do not merge your own PR.
+Do not use direct pushes or manual merge commands to bypass CI. If local validation fails, do not enable auto-merge.
 
 ## Learning
 
