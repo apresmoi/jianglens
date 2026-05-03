@@ -28,6 +28,7 @@ async function walk(dir) {
 
     if (entry.isDirectory()) {
       if (relPath === 'content/_generated') continue;
+      if (relPath === 'content/sources/raw') continue;
       files.push(...await walk(fullPath));
       continue;
     }

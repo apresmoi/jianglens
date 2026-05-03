@@ -12,6 +12,7 @@ import {
 } from "./lib/youtube-metadata.mjs";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
+const defaultArtifactRoot = "content/sources/raw/youtube";
 
 function parseArgs(argv) {
   const args = new Map();
@@ -42,7 +43,8 @@ Options:
   --recorded-at YYYY-MM-DD     Recording date when different from publication date
   --source-url URL             Defaults to YouTube watch URL
   --no-fetch-youtube-metadata  Do not call yt-dlp when metadata is missing
-  --staging-root PATH          Defaults to ops/staging/drive/youtube
+  --artifact-root PATH         Defaults to ${defaultArtifactRoot}
+  --staging-root PATH          Legacy alias for --artifact-root
   --out-root PATH              Defaults to content/sources/videos
   --max-words N                Defaults to 160 words per transcript segment
   --max-seconds N              Defaults to 180 seconds per transcript segment
@@ -143,8 +145,8 @@ async function findVideoDir(stagingRoot, channel, videoId) {
   }
 
   if (matches.length === 1) return matches[0];
-  if (matches.length > 1) throw new Error(`Multiple staged videos matched ${videoId}; pass --channel.`);
-  throw new Error(`No staged transcription.json found for ${videoId} under ${stagingRoot}`);
+  if (matches.length > 1) throw new Error(`Multiple source artifact videos matched ${videoId}; pass --channel.`);
+  throw new Error(`No source artifact transcription.json found for ${videoId} under ${stagingRoot}`);
 }
 
 function timedPhraseChunks(words, turn) {
@@ -359,7 +361,8 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   const videoId = required(args, "video-id");
   const channelArg = option(args, "channel");
-  const stagingRoot = path.resolve(repoRoot, option(args, "staging-root", "ops/staging/drive/youtube"));
+  const artifactRoot = option(args, "artifact-root", option(args, "staging-root", defaultArtifactRoot));
+  const stagingRoot = path.resolve(repoRoot, artifactRoot);
   const outRoot = path.resolve(repoRoot, option(args, "out-root", "content/sources/videos"));
   const maxWords = Number(option(args, "max-words", "160"));
   const maxSeconds = Number(option(args, "max-seconds", "180"));
@@ -461,7 +464,7 @@ async function main() {
       timed_phrase_chunks: "preserved-when-word-timestamps-exist",
     }],
     ["generated_from", {
-      staging_dir: path.relative(repoRoot, videoDir),
+      source_artifact_dir: path.relative(repoRoot, videoDir),
       youtube_metadata: metadataResult.filePath ? path.relative(repoRoot, metadataResult.filePath) : null,
       youtube_metadata_source: metadata.metadata_source || null,
       transcription_json_sha256: await fileSha256(transcriptionPath),

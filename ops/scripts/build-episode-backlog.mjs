@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '../..');
+const defaultArtifactRoot = 'content/sources/raw/youtube';
 
 function parseArgs(argv) {
   const args = new Map();
@@ -55,22 +56,23 @@ async function listDirectories(dir) {
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const channel = option(args, 'channel', '@PredictiveHistory');
-  const stagingRoot = path.resolve(repoRoot, option(args, 'staging-root', 'ops/staging/drive/youtube'));
-  const channelRoot = path.join(stagingRoot, channel);
+  const artifactRoot = option(args, 'artifact-root', option(args, 'staging-root', defaultArtifactRoot));
+  const artifactRootPath = path.resolve(repoRoot, artifactRoot);
+  const channelRoot = path.join(artifactRootPath, channel);
   const outJson = path.resolve(repoRoot, option(args, 'out', 'content/workflow/tasks/episode-production-backlog.json'));
   const outTsv = path.resolve(repoRoot, option(args, 'tsv-out', 'content/workflow/tasks/episode-production-backlog.tsv'));
   const flatPath = path.join(channelRoot, '_channel.flat.jsonl');
 
   if (!existsSync(channelRoot)) {
-    throw new Error(`Missing staged channel folder: ${path.relative(repoRoot, channelRoot)}`);
+    throw new Error(`Missing source artifact channel folder: ${path.relative(repoRoot, channelRoot)}`);
   }
 
-  const stagedVideoIds = await listDirectories(channelRoot);
+  const artifactVideoIds = await listDirectories(channelRoot);
   const flatRows = await readJsonl(flatPath);
   const flatById = new Map(flatRows.map((row) => [row.id, row]));
   const importedSlugs = new Set(await listDirectories(path.join(repoRoot, 'content/lens/episodes')));
 
-  const videos = stagedVideoIds.map((videoId) => {
+  const videos = artifactVideoIds.map((videoId) => {
     const flat = flatById.get(videoId);
     const sourceSlug = slugForVideoId(videoId);
     return {
@@ -97,6 +99,7 @@ async function main() {
     channel,
     order: 'oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last',
     counts: {
+      raw_source_videos: videos.length,
       staged_videos: videos.length,
       imported_episodes: videos.filter((video) => video.imported_episode).length,
       remaining_episodes: videos.filter((video) => !video.imported_episode).length,

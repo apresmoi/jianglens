@@ -1,6 +1,6 @@
 ---
 name: jiang-autonomous-work-protocol
-description: Use this skill when a Jiang Lens autonomous agent needs to discover, claim, perform, validate, and hand off repo work without overwriting other agents or confusing authored, generated, and staged artifacts.
+description: Use this skill when a Jiang Lens autonomous agent needs to discover, claim, perform, validate, and hand off repo work without overwriting other agents or confusing authored, raw, and generated artifacts.
 ---
 
 # Jiang Autonomous Work Protocol
@@ -10,7 +10,7 @@ Use this as shared operating hygiene for autonomous Jiang Lens agents. This is n
 ## Authority
 
 - `content/` is canonical project state.
-- `ops/` contains tooling, schemas, scripts, notebooks, and staging.
+- `ops/` contains tooling, schemas, scripts, notebooks, and local staging caches.
 - `website/` renders the public site.
 - Generated files under `website/src/content/docs/generated/`, `website/src/data/lens/`, and `content/_generated/` are compiler outputs.
 - Never commit cookies, browser profiles, tokens, raw audio, or raw video.
@@ -19,7 +19,7 @@ Use this as shared operating hygiene for autonomous Jiang Lens agents. This is n
 
 Prefer explicit user instructions. If none exist, discover work from deterministic repo state:
 
-- Ready staged videos: `node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory`
+- Ready raw-source videos: `node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory`
 - Existing source tasks: `content/workflow/tasks/<source-slug>/`
 - Existing proposals: `content/workflow/proposals/`
 - Existing public episode reads: `content/lens/episodes/<source-slug>/read.json`
@@ -44,7 +44,7 @@ Avoid broad edits across unrelated pages. Do not rewrite a whole atlas or concep
 
 Load the specific process skill for the job:
 
-- staged video import: `jiang-source-ingest`
+- raw-source video import: `jiang-source-ingest`
 - transcript packet semantics: `jiang-agent-transcript-pass`
 - boundary decisions: `jiang-transcript-boundary-review`
 - public episode read: `jiang-episode-read-writer`

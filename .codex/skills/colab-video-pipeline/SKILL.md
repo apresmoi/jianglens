@@ -48,7 +48,7 @@ Local text artifact sync uses:
 1. `YouTube_Manager.ipynb`: register channels, filter, download `audio.wav` into Drive.
 2. `Pyannote_4_Pipeline-GPT-5.3.ipynb`: produce `dump.json` and `grouped.json`.
 3. `Whisper_Transcription.ipynb`: produce `transcription.json`.
-4. `sync-drive.sh`: copy text artifacts from Drive to `ops/staging/drive/youtube`.
+4. `sync-drive.sh`: copy text artifacts from Drive to `content/sources/raw/youtube`.
 
 ## Automation Contract
 
@@ -63,7 +63,7 @@ Before running browser automation:
 Success means expected Drive artifacts exist:
 
 - YouTube stage: `audio.wav`
-- Metadata stage: `metadata.youtube.json` in synced staging when YouTube metadata was resolvable. If the notebook did not write it, `ops/scripts/import-colab-video.mjs` can fetch and cache it by video id.
+- Metadata stage: `metadata.youtube.json` in synced raw source artifacts when YouTube metadata was resolvable. If the notebook did not write it, `ops/scripts/import-colab-video.mjs` can fetch and cache it by video id.
 - Diarization stage: `dump.json` and `grouped.json`
 - Transcription stage: `transcription.json` with `turns[].words[]` word timestamps when Whisper produced them.
 
@@ -73,10 +73,10 @@ If a notebook has `RUN_BATCH = False`, do not assume it processed videos. Either
 
 ## Import Handoff
 
-After syncing Drive artifacts locally, import a processed video with:
+After syncing Drive artifacts into the repo, import a processed video with:
 
 ```bash
 node ops/scripts/import-colab-video.mjs --video-id VIDEO_ID --channel @PredictiveHistory
 ```
 
-The importer uses staged `metadata.youtube.json` when present. If it is missing, it tries `yt-dlp` by video id and caches compact metadata back into the staged video folder. Publication dates are required for canon promotion; undated imports are review/search material only.
+The importer uses raw `metadata.youtube.json` when present. If it is missing, it tries `yt-dlp` by video id and caches compact metadata back into the raw source artifact folder. Publication dates are required for canon promotion; undated imports are review/search material only.

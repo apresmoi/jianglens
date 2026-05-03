@@ -17,7 +17,7 @@ Use Colab for the expensive media steps:
 ## Data Flow
 
 ```text
-YouTube video -> Drive audio.wav -> Drive dump.json/grouped.json -> Drive transcription.json -> local staging -> source import
+YouTube video -> Drive audio.wav -> Drive dump.json/grouped.json -> Drive transcription.json -> committed raw source artifacts -> source import
 ```
 
 Drive working root:
@@ -60,7 +60,7 @@ content/sources/videos/<manifestation-id>/
 - Google Drive for persistent media, model cache, and outputs.
 - `rclone` locally for syncing Drive outputs back into this workspace.
 
-## Drive Sync Back To Local
+## Drive Sync Back To Repo
 Use `sync-drive.sh` after Colab has produced `dump.json`, `grouped.json`, or `transcription.json`.
 
 ```bash
@@ -74,13 +74,13 @@ The script expects an `rclone` remote named `gdrive` and syncs from:
 gdrive:/jianglens/youtube
 ```
 
-It writes to:
+It writes text artifacts to:
 
 ```text
-ops/staging/drive/youtube
+content/sources/raw/youtube
 ```
 
-Only text-like artifacts are synced by default: `.json`, `.jsonl`, `.vtt`, `.md`, `.yaml`, `.yml`. Audio/video files stay in Drive unless explicitly pulled for debugging.
+Only text-like artifacts are synced by default: `.json`, `.jsonl`, `.vtt`, `.md`, `.yaml`, `.yml`. These files are committed so autonomous workers can process videos from a fresh clone. Audio/video files stay in Drive unless explicitly pulled for debugging.
 
 After syncing, import a processed video into `content/sources`:
 
@@ -89,7 +89,7 @@ node ops/scripts/import-colab-video.mjs --video-id VIDEO_ID --channel @Predictiv
 node ops/scripts/inspect-source.mjs content/sources/videos/<manifestation-id>
 ```
 
-The importer uses `metadata.youtube.json` when present. If it is missing, it tries `yt-dlp` by video id and caches compact metadata in local staging so `published_at` can be recorded.
+The importer uses `metadata.youtube.json` when present. If it is missing, it tries `yt-dlp` by video id and caches compact metadata in the raw source artifact folder so `published_at` can be recorded.
 
 Override paths if needed:
 

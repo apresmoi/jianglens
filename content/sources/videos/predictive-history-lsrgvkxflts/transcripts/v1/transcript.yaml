@@ -26,8 +26,8 @@ segmentation:
   max_seconds: 180
   timed_phrase_chunks: "preserved-when-word-timestamps-exist"
 generated_from:
-  staging_dir: "ops/staging/drive/youtube/@PredictiveHistory/LsRGvKxfLts"
-  youtube_metadata: "ops/staging/drive/youtube/@PredictiveHistory/LsRGvKxfLts/metadata.youtube.json"
+  source_artifact_dir: "content/sources/raw/youtube/@PredictiveHistory/LsRGvKxfLts"
+  youtube_metadata: "content/sources/raw/youtube/@PredictiveHistory/LsRGvKxfLts/metadata.youtube.json"
   youtube_metadata_source: "uvx yt-dlp"
   transcription_json_sha256: "edfc5f02063bb412a776347fc133b9d99d5fe2f036936b417b62102d980aa1cf"
   grouped_json_sha256: "c4c9bb228b9bd0e429c91a054d30a15bee3ceafb1dbb9593354ae482809a6270"

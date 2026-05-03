@@ -15,17 +15,17 @@ Treat time as part of provenance. A claim is not just "what Jiang says"; it is w
 
 ## Inputs
 
-Synced Colab text artifacts:
+Committed Colab text artifacts:
 
 ```text
-ops/staging/drive/youtube/<channel>/<video-id>/
+content/sources/raw/youtube/<channel>/<video-id>/
   metadata.youtube.json
   dump.json
   grouped.json
   transcription.json
 ```
 
-If artifacts are still only in Google Drive or Colab, use `colab-video-pipeline` first.
+If artifacts are still only in Google Drive or Colab, use `colab-video-pipeline` first, then commit the synced text artifacts. `ops/staging/` is only a local disposable cache, not the worker source of truth.
 
 ## Import Flow
 
@@ -79,7 +79,7 @@ Each source should include:
 
 Prefer `recorded_at` when reasoning about what Jiang believed at a time. Use `published_at` when `recorded_at` is unknown, but label precision honestly.
 
-The importer reads staged `metadata.youtube.json` when present. If it is missing, it may try `yt-dlp` by video ID, cache compact metadata into the staged folder, and use `published_at` for chronology.
+The importer reads raw `metadata.youtube.json` when present. If it is missing, it may try `yt-dlp` by video ID, cache compact metadata into the raw source artifact folder, and use `published_at` for chronology.
 
 ## Transcript Timing
 

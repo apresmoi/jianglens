@@ -29,7 +29,7 @@ node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
 node ops/scripts/audit-corpus-impact.mjs
 ```
 
-Prefer a ready staged video with local transcription and diarization. If there is no clear ready video, pick a published episode missing `corpus-impact.json`.
+Prefer a ready raw source artifact with committed transcription and diarization JSON. If there is no clear ready video, pick a published episode missing `corpus-impact.json`.
 
 ## GitHub Contract
 
@@ -80,7 +80,7 @@ Start or resume with:
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory
 ```
 
-If the orchestrator reports missing staged artifacts, stop and hand off to the Colab pipeline. Do not download media or operate Colab from this worker.
+If the orchestrator reports missing raw source artifacts, stop and hand off to the Colab pipeline. Do not download media or operate Colab from this worker.
 
 If it reports `pending-boundary-review`, use `jiang-transcript-boundary-review` and write only boundary decisions.
 
