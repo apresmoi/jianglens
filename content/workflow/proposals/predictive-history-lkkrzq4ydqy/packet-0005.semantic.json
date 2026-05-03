@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-lkkrzq4ydqy-semantics-pkt-0005",
+  "source_id": "video:predictive-history-lkkrzq4ydqy",
+  "source_date": "2024-05-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0033",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0034"
+      ],
+      "kind": "unclear",
+      "summary": "A clipped transition and an unknown-speaker punctuation artifact appear before Jiang resumes the answer.",
+      "speaker_attribution": "Jiang plus an uncaptured or empty audience artifact.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers an uncaptured prompt by stressing that secular students may not understand religious thinking, but most people are religious, take religion seriously, and can see death for religion as a path to heaven because religion supplies hope.",
+      "speaker_attribution": "Jiang answering an audience prompt that is not transcribed.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0036"
+      ],
+      "kind": "unclear",
+      "summary": "The segment is a long punctuation artifact with no recoverable speech.",
+      "speaker_attribution": "Machine diarization marks SPEAKER_01, but the transcript has no semantic content.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0038",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0039"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang closes the exchange by saying that in the real world the poor always lose and the rich always win, with a brief uncaptured audience response before his final agreement.",
+      "speaker_attribution": "Jiang plus a brief uncaptured audience artifact.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0034",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0036",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0038"
+      ],
+      "note": "The non-Jiang speaker labels in this packet are punctuation-only ASR artifacts and should not be used as substantive audience questions.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang is responding to missing or poorly captured audience prompts. The semantic content is in his answer, not in the absent question wording.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says secular students may struggle to understand religious thinking, but most people on earth are religious and take religion very seriously.",
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "General sociological claim stated on 2024-05-08.",
+      "topic_tags": [
+        "religion",
+        "secularism",
+        "belief",
+        "worldview"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says religious people may be willing to die for religion because they believe death for religion leads to heaven.",
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "General model of religious motivation stated on 2024-05-08.",
+      "topic_tags": [
+        "religion",
+        "heaven",
+        "martyrdom",
+        "motivation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that religion gives people hope when their social world gives them none.",
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "General model of religious appeal stated on 2024-05-08.",
+      "topic_tags": [
+        "religion",
+        "hope",
+        "hopelessness",
+        "inequality"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concludes that in the real world the poor will always lose and the rich will always win, no matter what happens.",
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Broad political-economic diagnosis stated on 2024-05-08.",
+      "topic_tags": [
+        "poor",
+        "rich",
+        "inequality",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "moment": "Religion is hard for secular listeners to grasp because most of the planet treats it as worth dying for.",
+      "source_phrase": "most people are religious, and they take their religion very, very seriously",
+      "why_it_matters": "This explains why Jiang refuses to reduce the geopolitical argument to secular interest alone.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "moment": "The final explanation of religion's appeal is simple: society gives no hope, and religion gives hope.",
+      "source_phrase": "you're not giving people any hope, and religion gives people hope",
+      "why_it_matters": "This closes the lecture's loop from early Christianity's oppressed audience to modern apocalyptic attraction.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037"
+      ],
+      "moment": "The real world is summarized brutally: the poor always lose, the rich always win.",
+      "source_phrase": "the poor will always lose, the rich will always win",
+      "why_it_matters": "This is the bleak social baseline that makes apocalyptic hope and war politics intelligible in Jiang's model.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Religion as hope",
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Jiang's model that religion becomes powerful because it supplies hope to people whose material world offers none.",
+      "confidence": "high"
+    },
+    {
+      "term": "Real-world inequality",
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The closing formulation that the poor lose and the rich win, used as the social condition that makes religious hope attractive.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037"
+      ],
+      "note": "The closing 2024 formulation links religious belief to material hopelessness and inequality, reinforcing the lecture's explanation for why apocalyptic politics can grow.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0033",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0034",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0036",
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0038"
+      ],
+      "note": "Several segments contain only clipped transitions or punctuation artifacts; they should not be treated as independent semantic evidence."
+    },
+    {
+      "refs": [
+        "video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0039"
+      ],
+      "note": "The antecedent for 'That's right. That's why they're poor' is not transcribed, so the segment should only be used as part of the closing exchange."
+    }
+  ]
+}

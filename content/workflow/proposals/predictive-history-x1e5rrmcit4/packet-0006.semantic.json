@@ -1,0 +1,230 @@
+{
+  "packet_id": "predictive-history-x1e5rrmcit4-semantics-pkt-0006",
+  "source_id": "video:predictive-history-x1e5rrmcit4",
+  "source_date": "2024-09-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0041",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang draws the implication of collective consciousness: a human is never alone, cave paintings express religion, settled communities celebrated religion after the Ice Age, and that celebration gave rise to agriculture.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0043",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0044",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0046"
+      ],
+      "kind": "answer",
+      "summary": "A student question about monotheism is not captured directly, but Jiang restates it and answers: monotheism is a recent innovation based on hierarchy, while early religion imagined a non-hierarchical river or cycle where conflict meant failing to perform proper ritual.",
+      "speaker_attribution": "Student question partially captured; Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0047",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "A second student question appears to ask why caves did not become settlement sites; Jiang answers that caves were portals but unlivable, then names mountaintops and rivers as other portals around which agriculture and settlement could form.",
+      "speaker_attribution": "Student question partially captured; Jiang answer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0042"
+      ],
+      "note": "Seg-0042 has no transcript text after boundary repair; it should not be treated as substantive speech.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0043",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0047"
+      ],
+      "note": "UNKNOWN short prompts likely mark student participation, but the actual question wording is mostly absent; Jiang's restatements provide the semantic content.",
+      "suggested_speaker": "student or audience prompt",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang links cave paintings to agriculture: cave paintings expressed religion; after the Ice Age, settled communities formed to celebrate religion, and that gave rise to agriculture.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Synthesis claim in lecture published 2024-09-03",
+      "topic_tags": [
+        "cave-painting",
+        "religion",
+        "agriculture",
+        "settlement"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Monotheism is presented as a recent innovation that introduced hierarchy into religious imagination; early religion did not think in terms of a highest god or pyramid of power.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Answer to student question in lecture published 2024-09-03",
+      "topic_tags": [
+        "monotheism",
+        "hierarchy",
+        "religion",
+        "social-order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Early religion is contrasted with modern hierarchy through the image of a river or cycle: no top, no bottom, only roles and flow.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Answer to student question in lecture published 2024-09-03",
+      "topic_tags": [
+        "cycle",
+        "river",
+        "hierarchy",
+        "mother-goddess"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Religion is basically ritual: habits, practices, and actions that maintain the cosmic and social order, such as sacrifice after killing animals.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Definition in lecture published 2024-09-03",
+      "topic_tags": [
+        "ritual",
+        "religion",
+        "practice",
+        "sacrifice"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caves were sacred portals but not settlement sites because they were dark, cold, oxygen-poor, and unlivable; mountaintops and rivers could serve as livable sacred portals around which communities settled.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Answer to student question in lecture published 2024-09-03",
+      "topic_tags": [
+        "caves",
+        "mountaintops",
+        "rivers",
+        "portals",
+        "settlement"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0041"
+      ],
+      "moment": "A human alone is not a human; humanity exists through society and shared consciousness.",
+      "source_phrase": "If you are alone you are not a human",
+      "why_it_matters": "It turns the lecture's social theory into a stark claim about what a person is.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045"
+      ],
+      "moment": "Modern hierarchy is a pyramid, but early religion is a river.",
+      "source_phrase": "today you can think of a pyramid... back then they would think think like it's a river",
+      "why_it_matters": "It gives a memorable spatial contrast between monotheistic hierarchy and animist cyclic order.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045"
+      ],
+      "moment": "Religion is not mainly doctrine; it is ritual, habits, practices, and actions.",
+      "source_phrase": "religion is basically ritual",
+      "why_it_matters": "It grounds cosmic belief in repeated social practice and prepares the next lecture's focus.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0048"
+      ],
+      "moment": "Mountaintops and rivers inherit the cave's sacred force as portals into another world.",
+      "source_phrase": "places that people would think are portals into the out into another world",
+      "why_it_matters": "It explains how sacred geography moves from cave ritual to agricultural settlement.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Monotheism",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0044",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "A recent religious innovation centered on one God, treated by Jiang as the basis for modern hierarchical thinking.",
+      "confidence": "medium"
+    },
+    {
+      "term": "River model",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's image for early non-hierarchical religion: all beings are part of a cycle or river rather than a pyramid of rank.",
+      "confidence": "high"
+    },
+    {
+      "term": "Religion as ritual",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Religion understood as repeated habits, practices, sacrifices, and actions that keep the order in balance.",
+      "confidence": "high"
+    },
+    {
+      "term": "Sacred portals",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Natural places such as caves, mountaintops, and rivers that connect the human world with another world and become settlement or ritual centers.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0043",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0044"
+      ],
+      "note": "The student's monotheism question is not directly transcribed beyond 'Yeah?'; Jiang's answer begins 'the question is monotheism,' so the topic is secure but the exact question wording is unavailable."
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0047",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0048"
+      ],
+      "note": "The second student question is not directly transcribed. Jiang's answer indicates it concerned caves as possible living/farming sites and other sacred portals."
+    }
+  ]
+}

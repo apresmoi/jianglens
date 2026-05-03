@@ -1,0 +1,1900 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-myturqu7nxu:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-myturqu7nxu",
+  "source_id": "video:predictive-history-myturqu7nxu",
+  "source_title": "Civilization #17:  Homer, Vergil, and the War for the Soul of Rome",
+  "source_url": "https://www.youtube.com/watch?v=myTurqU7NxU",
+  "source_date": "2024-11-21",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-myturqu7nxu@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-myturqu7nxu/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-myturqu7nxu/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-myturqu7nxu/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-myturqu7nxu/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-myturqu7nxu/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-myturqu7nxu/packet-0006.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-myturqu7nxu/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-myturqu7nxu/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 6,
+    "interactions": 26,
+    "speaker_notes": 15,
+    "claims": 54,
+    "signature_moments": 30,
+    "predictions": 1,
+    "models": 24,
+    "glossary_terms": 29,
+    "chronology_notes": 1,
+    "uncertainty_notes": 9
+  },
+  "first_refs": [
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007",
+    "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by framing the lecture as a broad review: Greeks are maritime, trade-facing, and open to outside ideas, while Romans are inland, insular, conservative, and forced by hostile neighbors into a military culture.",
+      "speaker_attribution": "Jiang classroom lecture; opening invitations for questions are instructional, not substantive audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He defines the old Roman system as piety, liberty, and republic/public sacrifice, then argues that the system that made Rome powerful as a threatened small republic breaks down once Rome becomes rich, imperial, unequal, and civil-war ridden, leading to Augustus' centralization of military power.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "kind": "monologue",
+      "summary": "He explains Augustus' first two political-cultural problems: legitimacy and identity. Augustus needs a founding family myth, so the Julii are tied to Aeneas; he also needs to replace an old liberty-and-republic identity that could justify killing kings.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Augustus' third problem: even after Roman military conquest, Greek culture still dominates the Roman soul, and Augustus reads that culture as hedonistic corruption that must be displaced by obedience and piety.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0009",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Augustus' cultural problem is Homer: the Iliad and Odyssey are the educational bible of Greek civilization, so Augustus commissions Virgil to create a Roman epic that can replace Homer in the schools and remake the Roman soul.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "He frames the lecture method: compare Homer with Virgil to show two opposed worldviews. Homer is an educator at civilization's beginning; Virgil is a propagandist teaching people to belong to empire.",
+      "speaker_attribution": "Jiang; checks for clarity receive no captured student answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0012",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0013",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang starts his Iliad reading by narrowing the epic to Achilles: Helen and Paris lead to Troy, Achilles quarrels with Agamemnon, withdraws, and the Greeks become trapped at their ships by Hector.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0015",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Odysseus begs Achilles to return, but Achilles' pride and Agamemnon's pride keep the army trapped. Achilles' warrior identity makes glory at Troy the only real choice, so Patroclus enters the battle and disobeys Achilles' warning not to fight Hector.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0017",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang follows Patroclus' death into Achilles' revenge: Achilles kills Hector, mutilates the body, and appears to have achieved immortal glory, but instead falls into depression because his rage hides guilt for Patroclus' death.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0019",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Priam enters Achilles' tent and, instead of killing him, kneels and kisses the hand that killed Hector. Jiang reads this act of submission as an emotional defeat that lets Achilles feel shame, forgive himself, cry, and be released from Patroclus' ghost.",
+      "speaker_attribution": "Jiang; 'Does that make sense?' is a comprehension check with no captured audience response.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang condenses his Iliad interpretation: Achilles is civilized from merciless warrior into a man capable of pity, self-reflection, and self-forgiveness, proving that love is the basis and unifying force of civilization.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0022",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0023",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He moves to the Odyssey: Odysseus loves his family and does not want Troy, tries to avoid conscription, but is forced into war. Jiang defines Odysseus' worldview as justice, legacy for his son, and restoration of a broken family.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0025",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang shows Odysseus' worldview breaking at Troy: the Trojan Horse produces slaughter rather than justice, and the sight of a Trojan wife mourning her dead husband creates cognitive dissonance that becomes trauma and shame.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0026",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0027",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Odysseus is trapped in shame with Calypso, while Penelope and Telemachus are stuck at home. Athena's intervention frees him, but he returns disguised, unsure whether Penelope still loves him because trauma has cost him his capacity for love and imagination.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0029",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "Penelope recognizes Odysseus not by public identity but by intimate memory: the brooch she gave him before Troy, which remains implanted in his mind as a symbol of everlasting love.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031"
+      ],
+      "kind": "monologue",
+      "summary": "Penelope's bow contest lets Odysseus reveal himself. The bow symbolizes identity, and stringing it becomes the resurrection or re-stringing of his worldview as father, hero, and protector.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes Homer by arguing that love heals war trauma and gives humans strength, courage, and power, then begins the Aeneid by introducing the Trojan Horse as Virgil's first anti-Greek object.",
+      "speaker_attribution": "Jiang; classroom questions are checks with no captured answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0033",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads Virgil's Trojan Horse as an anti-Greek allegory: Greek logic, philosophy, and theater are the real Trojan Horse that manipulates Troy, destroys culture, and exposes Homer's love and forgiveness as trickery in the Roman propaganda frame.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0035",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Aeneas wants to kill Helen and die with Troy, but Venus and the sign of his son's fiery crown redirect him from rage and suicide into duty toward his family and Rome's future.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0037",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts a 'good wife' who erases herself for Aeneas' future with Dido, whose love traps Aeneas in Carthage. The gods command him back to destiny, Dido kills herself, and love becomes a disease that causes historical war.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0039",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Aeneas reaches Italy, is pulled into war with Turnus, and finally sees the belt taken from his friend. Jiang argues that the abrupt ending is finished because Aeneas' final spear thrust is the beginning of his transformation into duty rather than mercy.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the Aeneas transformation: earlier Aeneas needed gods to stop him from killing Helen, dying in Troy, or staying with Dido, but at the end he recognizes duty without intervention and becomes the embodiment of piety.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "He names destiny as the Aeneid's governing structure: Aeneas is preordained to reach Rome so that his son can found the empire, and history converges on Augustus and the Pax Romana.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the final Greek/Roman contrast: Homer makes love and imagination the animating basis of civilization; Virgil and Rome replace them with piety, obedience, stability, eternity, and the end of history.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "After a final point about Roman anti-creativity and Egypt as the source for eternity, there appears to be a brief classroom exchange or clarification about why Augustus wants rejection of Roman/Greek culture; the student's exact question is not transcribed.",
+      "speaker_attribution": "Mostly Jiang; one brief student response or prompt is implied but unclear.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang clarifies that the lecture describes a new Roman conception of reality rather than immediate reality. He previews Christianity as the later religion that will make piety and obedience the cornerstone of society and civilization.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001"
+      ],
+      "note": "Jiang invites students to raise hands if unclear, but no student question is captured in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004"
+      ],
+      "note": "This segment has significant ASR damage in the list of republican breakdowns, but the surrounding argument clearly points to corruption, civil wars, tyranny, and inequality.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript says 'Buddhists' where the context indicates Brutus-like assassins or descendants of Brutus.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "note": "The clarity checks are Jiang's classroom pacing, not source questions with captured audience content.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "note": "The transcript often says Iliad/Ennead where context indicates Virgil's Aeneid.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "note": "Comprehension checks are Jiang's classroom pacing; no substantive audience question is captured.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0023",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript renders Telemachus inconsistently as Tanarchus or Timarchus.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang asks if the class is clear and if there are questions, but no substantive student question is captured before he moves on.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "note": "The transcript says Iliad where context indicates the Aeneid when Jiang begins discussing the Trojan Horse from Virgil's text.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0033",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0034"
+      ],
+      "note": "The transcript says Iliad where context indicates the Aeneid; Jiang is describing Virgil's Trojan Horse and Priam scenes.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0039",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "note": "The transcript renders Turnus as Churnus; the intended Aeneid character is Turnus.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0035",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang uses deliberately provocative gendered language while reconstructing Virgil's propaganda logic; public prose should distinguish his source-grounded claim from endorsement.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041"
+      ],
+      "note": "The segment starts with ASR damage from an unrepaired boundary; the argument is still legible from context as divine intervention versus internalized duty.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript contains 'Sure. Well...' and then Jiang's clarification, implying a student prompt or response not fully captured.",
+      "suggested_speaker": "unclear student prompt followed by Jiang",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "note": "Most explicit questions in these segments are Jiang's classroom checks or prompts, not substantive audience questions suitable for public episode questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang contrasts Greek civilization as maritime, trade-oriented, colonial, and open to Egypt, Mesopotamia, and Persia with Roman civilization as inland, insular, conservative, and shaped by hostile neighbors.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical framing in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "greece",
+        "rome",
+        "trade",
+        "military-culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the old Roman cultural system around piety, obedience and loyalty to gods/Rome/fathers, liberty as opposition to kings and tyrants, and the republic as sacrifice for Roman honor and public good.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "piety",
+        "liberty",
+        "republic",
+        "roman-identity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Roman republican system works for a poor small nation under constant external threat but breaks down after Rome becomes a rich hegemonic empire, producing corruption, civil war, tyranny, and inequality.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical diagnosis in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "roman-republic",
+        "empire",
+        "civil-war",
+        "inequality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Augustus resolves the republican crisis by centralizing military authority, making Egypt his private estate to bankroll a professional army, and creating the Praetorian Guard as a security force loyal to the emperor.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical diagnosis in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "augustus",
+        "military",
+        "egypt",
+        "praetorian-guard"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus' legitimacy problem is that Caesar and Augustus do not descend from the two major Roman founding myths, so a deeper Julii ancestry must be constructed through Aeneas.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "legitimacy",
+        "aeneas",
+        "julii",
+        "founding-myth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The old Roman identity of liberty and republic becomes dangerous for an emperor because Brutus' legacy can be read as a duty to kill kings and tyrants; Augustus therefore needs a new identity centered on piety and obedience.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "roman-identity",
+        "liberty",
+        "obedience",
+        "brutus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus sees Greek cultural dominance as a corrupting force on the Roman soul, with Mark Antony's seduction by Cleopatra and Greek culture serving as the emblem of that danger.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "greek-culture",
+        "roman-soul",
+        "mark-antony",
+        "cleopatra"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus' fight against Greek culture becomes a fight against Homer because the Iliad and Odyssey are the educational foundation of Greek civilization.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "augustus",
+        "homer",
+        "education",
+        "greek-culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Augustus needs a Roman epic to replace Homer in schools and thereby transform Roman cultural identity.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0009",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "aeneid",
+        "education",
+        "roman-identity",
+        "propaganda"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Aeneid is presented as a joint political-literary project: Virgil supplies poetic form, while Augustus supplies the imperial vision.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "virgil",
+        "augustus",
+        "aeneid",
+        "authorship"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's framework, the Aeneid answers Augustus' three challenges by establishing Julii primacy, replacing liberty with piety, and showing Greek culture as corrupt hedonism to be repelled.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "aeneid",
+        "julii",
+        "piety",
+        "greek-culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes Homer as an educator planting the seeds of civilization from Virgil as a propagandist teaching imperial belonging.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Course model in this lecture.",
+      "topic_tags": [
+        "homer",
+        "virgil",
+        "education",
+        "propaganda"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats his Iliad reading as one interpretation, centered on Achilles' quarrel with Agamemnon, withdrawal from battle, and the crisis created by Hector's advance.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0012",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0013",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Interpretive setup in this lecture.",
+      "topic_tags": [
+        "iliad",
+        "achilles",
+        "agamemnon",
+        "hector"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Achilles, glory in battle is not one option among many but the only path to eudaimonia, which makes forced inactivity at the ships the worst punishment.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0015",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "achilles",
+        "eudaimonia",
+        "glory",
+        "warrior-identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Patroclus enters battle because Achilles' desire to fight is blocked by pride and Agamemnon's equal refusal to apologize.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0015",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Narrative interpretation in this lecture.",
+      "topic_tags": [
+        "patroclus",
+        "achilles",
+        "pride",
+        "agamemnon"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Achilles' revenge victory over Hector does not fulfill him; it exposes a depression rooted in guilt over Patroclus' death.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0017",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Iliad interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "achilles",
+        "patroclus",
+        "guilt",
+        "revenge"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls Homer the first psychologist because Achilles' rage at Hector masks unacknowledged guilt and lack of self-awareness.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "homer",
+        "psychology",
+        "self-awareness",
+        "guilt"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priam's decision to kneel and kiss Achilles' hand rather than kill him demonstrates courage and strength greater than Achilles has seen in battle.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0019",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Narrative interpretation in this lecture.",
+      "topic_tags": [
+        "priam",
+        "achilles",
+        "submission",
+        "courage"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priam's forgiveness allows Achilles to forgive himself, cry for Patroclus, and be released from the ghost that was haunting him.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "forgiveness",
+        "achilles",
+        "priam",
+        "healing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iliad's civilizing movement transforms Achilles from cold-blooded, merciless, vain warrior into a man capable of pity, self-reflection, and self-forgiveness.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Iliad interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "iliad",
+        "civilization",
+        "self-reflection",
+        "self-forgiveness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Iliad, despite being about war, teaches that love is the basis of civilization and the unifying force of the universe.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Core lecture thesis for Homer.",
+      "topic_tags": [
+        "love",
+        "civilization",
+        "iliad",
+        "homer"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odysseus differs from Achilles because he does not want Troy or glory; he loves his family and knows the war will keep him away for twenty years.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "odysseus",
+        "family",
+        "prophecy",
+        "odyssey"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odysseus' worldview is built around justice against Troy, a heroic legacy for Telemachus, and the reunion of broken families.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0023",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "worldview",
+        "justice",
+        "legacy",
+        "family"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines worldview as the structure that lets humans exist by explaining who we are, what we want, and what we should do.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "worldview",
+        "selfhood",
+        "action"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odysseus' worldview collapses because he came to Troy for justice, legacy, and family reunion, but the Greek victory destroys families and becomes slaughter.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "odysseus",
+        "worldview",
+        "trojan-horse",
+        "trauma"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines cognitive dissonance as conflict between worldview and reality.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "cognitive-dissonance",
+        "worldview",
+        "reality"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odysseus' PTSD appears as shame and avoidance: he is stuck with Calypso, crying on the beach, unable to go home because he cannot face his family.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "ptsd",
+        "odysseus",
+        "shame",
+        "calypso"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odysseus' absence traps the whole family in depression: Penelope cannot move on, Telemachus cannot inherit, and Odysseus cannot return.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0026",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "family",
+        "depression",
+        "penelope",
+        "telemachus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that trauma has cost Odysseus his ability to fight, imagine, and love, so his first need on returning is to know whether Penelope still loves him.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "ptsd",
+        "love",
+        "imagination",
+        "penelope"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The brooch lets Penelope recognize Odysseus because it is an intimate object only he would remember in detail.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0029",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "brooch",
+        "memory",
+        "recognition",
+        "penelope"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The brooch symbolizes Odysseus' everlasting love for Penelope and his promise to return, even after the object itself has been lost.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "brooch",
+        "love",
+        "memory",
+        "promise"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bow symbolizes Odysseus' identity; stringing it resurrects or strings together his worldview as father, hero, fighter for justice, and protector of family.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Odyssey interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "bow",
+        "identity",
+        "worldview",
+        "resurrection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads the Odyssey as the story of love healing trauma after war and bringing people back together.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Core Homer thesis in this lecture.",
+      "topic_tags": [
+        "odyssey",
+        "love",
+        "trauma",
+        "healing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang begins the Aeneid contrast by noting that Virgil opens with the Trojan Horse, where Greek eloquence makes a false story believable.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Transition claim in this lecture.",
+      "topic_tags": [
+        "aeneid",
+        "trojan-horse",
+        "greek-eloquence",
+        "virgil"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's reading, the real Trojan Horse in the Aeneid is Greek culture itself: logic, philosophy, and theater enter by beauty and persuasion and destroy the host culture from within.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "aeneid",
+        "trojan-horse",
+        "greek-culture",
+        "propaganda"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's anti-Homeric message, as Jiang states it, is that if Romans embrace Greek logic, philosophy, and theater, Roman culture will be destroyed and must therefore resist Greek culture at all costs.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "rome",
+        "greek-culture",
+        "logic",
+        "theater"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Priam scene in the Aeneid reverses Jiang's Homeric reading: love, friendship, and forgiveness are presented as lies or tricks, while brutality and force triumph.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "priam",
+        "forgiveness",
+        "force",
+        "virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Aeneas' rage at Helen and desire to die with Troy are interrupted by divine and familial signs that redirect him to duty: leave Helen, return to family, and preserve the son who will found a great empire.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0035",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "aeneas",
+        "duty",
+        "venus",
+        "rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Creusa's disappearance or death as Virgil's model of the 'good wife': she removes herself so Aeneas can embrace Rome's future and avoid dishonor.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "creusa",
+        "aeneas",
+        "gender",
+        "duty"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dido represents love as a political catastrophe: her love for Aeneas makes him forget destiny, her suicide commands Carthage to destroy Rome, and the lecture links this to Hannibal's later war.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0037",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0038",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "dido",
+        "love",
+        "carthage",
+        "hannibal"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang states the Roman message directly: love is a disease or plague on the world because Helen's love causes Troy and Dido's love causes Carthage's war with Rome.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Core Aeneid model in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "love",
+        "disease",
+        "helen",
+        "dido"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Aeneid's final duel tests mercy against duty: Aeneas considers forgiving Turnus, sees the belt taken from his dead friend, and kills him.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0039",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "turnus",
+        "aeneas",
+        "mercy",
+        "duty"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the view that the Aeneid's abrupt ending proves it unfinished; he argues the ending works because it completes Aeneas' character transformation.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "aeneid",
+        "ending",
+        "aeneas",
+        "character-transformation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Aeneas' completed transformation is that the gods no longer have to stop or redirect him; he recognizes killing Turnus as his duty and becomes the embodiment of piety and duty.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "aeneas",
+        "turnus",
+        "piety",
+        "duty"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Aeneid is governed by destiny: Aeneas' real purpose is to reach Rome so his son can build the Roman Empire.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "destiny",
+        "aeneas",
+        "roman-empire",
+        "aeneid"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Augustus Caesar as the endpoint of history in the Aeneid's imperial logic: all events converge toward him and the Pax Romana.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Aeneid interpretation in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "augustus",
+        "end-of-history",
+        "pax-romana",
+        "destiny"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pax Romana is framed as eternal peace on earth and as the imperial promise that Roman order will end war and conflict.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Aeneid/Roman imperial model in this lecture.",
+      "topic_tags": [
+        "pax-romana",
+        "peace",
+        "rome",
+        "empire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The core transition from Homer to Rome is from love as the basis of civilization to piety as the basis of civilization.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Core lecture thesis as of 2024-11-21.",
+      "topic_tags": [
+        "love",
+        "piety",
+        "civilization",
+        "homer",
+        "virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts love and piety as inner emotion versus external command: love grows within and embraces feelings, while piety rejects feelings and tells people to obey what they are told.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "love",
+        "piety",
+        "obedience",
+        "emotion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Homer, love unifies and imagination animates the universe; for Virgil, love creates conflict and imagination destroys through disobedience.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Core Homer/Virgil contrast in this lecture.",
+      "topic_tags": [
+        "imagination",
+        "love",
+        "homer",
+        "virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang opposes Homer's infinity to Virgil's eternity: Homer imagines world-creation through action and emotion, while Rome imagines a perfected order where history has stopped.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Core lecture model as of 2024-11-21.",
+      "topic_tags": [
+        "infinity",
+        "eternity",
+        "history",
+        "rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Romans were anti-creative and took the idea of eternity from Egypt, which he plans to address in the next class.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Course-sequence claim in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "rome",
+        "egypt",
+        "eternity",
+        "anti-creativity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang clarifies that the lecture describes the Roman Empire's new conception of reality, not immediate historical reality; he says that conception eventually becomes reality over time.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Clarification within the 2024-11-21 lecture.",
+      "topic_tags": [
+        "roman-empire",
+        "conception-of-reality",
+        "history"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Christianity is previewed as the later Roman-introduced religion that will make piety and obedience the cornerstone of society and civilization.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Forward-looking course claim in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "christianity",
+        "piety",
+        "obedience",
+        "civilization"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002"
+      ],
+      "moment": "Rome turns hardship into the world's greatest military machine.",
+      "source_phrase": "the world's greatest military machine",
+      "why_it_matters": "This compresses the opening contrast: Roman identity is not born from openness but from survival pressure.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "moment": "A cultural identity can become a security threat to the ruler it helped create.",
+      "source_phrase": "you can't allow this cultural identity to exist",
+      "why_it_matters": "It makes myth and education instruments of regime survival, not background culture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "moment": "Greek culture is presented as a seduction of the Roman soul.",
+      "source_phrase": "became corrupted and seduced by Cleopatra and Greek culture",
+      "why_it_matters": "This is the emotional hinge for why Augustus needs an epic war against Homer, not merely a political reform.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0009"
+      ],
+      "moment": "Homer is the bible of Greek civilization, so imperial Rome has to fight the schoolbook.",
+      "source_phrase": "the bible of Greek civilization",
+      "why_it_matters": "It makes education the battlefield where Rome fights Greece for the soul.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0009"
+      ],
+      "moment": "Augustus' problem is not just to defeat armies but to defeat Homer.",
+      "source_phrase": "to defeat Homer",
+      "why_it_matters": "The phrase states the lecture's central cultural war in its sharpest form.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "moment": "Virgil's Aeneid is framed as possibly the greatest propaganda work in human history.",
+      "source_phrase": "the greatest work of propaganda ever in human history",
+      "why_it_matters": "It turns literary comparison into a regime-change technology for culture.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0012"
+      ],
+      "moment": "Homer educates a beginning civilization; Virgil propagandizes for an empire that is everywhere and everything.",
+      "source_phrase": "Homer is an educator whereas Virgil is a propagandist",
+      "why_it_matters": "This contrast carries the whole Greek/Roman worldview distinction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0016"
+      ],
+      "moment": "For Achilles, the heroic choice is not a choice.",
+      "source_phrase": "for Achilles, that's not a choice",
+      "why_it_matters": "It defines Achilles as a being whose freedom is already captured by glory and battle.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0018"
+      ],
+      "moment": "Hector did not really kill Patroclus; Achilles did.",
+      "source_phrase": "it wasn't Hector who killed Patroclus. It was Achilles who killed Patroclus",
+      "why_it_matters": "This reversal converts heroic revenge into psychological guilt.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0019"
+      ],
+      "moment": "Priam kisses the hand of the man who killed his beloved son.",
+      "source_phrase": "kisses the hand of Achilles, the man who has killed his beloved son",
+      "why_it_matters": "It is the unforgettable image that makes forgiveness stronger than revenge.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020"
+      ],
+      "moment": "Priam emotionally defeats Achilles through submission.",
+      "source_phrase": "in this act of submission, Priam has emotionally defeated Achilles",
+      "why_it_matters": "This is the lecture's clearest reversal of heroic strength.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020"
+      ],
+      "moment": "Achilles' tears release him from the ghost of Patroclus.",
+      "source_phrase": "these tears release him from the ghost of Patroclus who is haunting him",
+      "why_it_matters": "It gives the Iliad's healing model a vivid emotional mechanism.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "moment": "Love is the unifying force of the universe.",
+      "source_phrase": "Love is the unifying force of the universe",
+      "why_it_matters": "This sentence names the Homeric worldview that Virgil will invert.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0025"
+      ],
+      "moment": "Odysseus' worldview breaks because justice turns into slaughter.",
+      "source_phrase": "It's not justice. It's just slaughter. It's just complete mayhem",
+      "why_it_matters": "It shows trauma as a crisis of meaning, not only a memory of violence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0025"
+      ],
+      "moment": "Cognitive dissonance is the gap where worldview and reality stop matching.",
+      "source_phrase": "when the worldview and the reality do not match",
+      "why_it_matters": "This is one of the lecture's portable psychological models.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0026"
+      ],
+      "moment": "The postwar hero is crying on the beach, ashamed to go home.",
+      "source_phrase": "he's crying on the beach",
+      "why_it_matters": "It punctures the heroic victory narrative and makes trauma visible.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0027"
+      ],
+      "moment": "Odysseus' whole family is stuck in depression.",
+      "source_phrase": "this entire family, okay, is depressed",
+      "why_it_matters": "The trauma is not private; it freezes a household and inheritance structure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030"
+      ],
+      "moment": "The lost brooch survives because it is implanted in Odysseus' mind.",
+      "source_phrase": "the brooch is implanted in his mind",
+      "why_it_matters": "Memory, not possession, becomes the proof of love and identity.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031"
+      ],
+      "moment": "Stringing the bow strings Odysseus' worldview back together.",
+      "source_phrase": "the resurrection, the stringing together of his worldview",
+      "why_it_matters": "This is the clearest symbolic mechanism for love healing trauma after war.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0033"
+      ],
+      "moment": "The real Trojan Horse is Greek culture.",
+      "source_phrase": "The real Trojan Horse is Greek culture",
+      "why_it_matters": "It gives the lecture its cleanest image of cultural conquest as infiltration.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0034"
+      ],
+      "moment": "Virgil's world has no place for love, friendship, or forgiveness; only brutality and force survive.",
+      "source_phrase": "There is no place for love, friendship, and forgiveness",
+      "why_it_matters": "This is the hard inversion of Jiang's Homeric thesis.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0037"
+      ],
+      "moment": "The propaganda logic names the good wife as someone who will kill herself for her husband.",
+      "source_phrase": "a good wife is someone who will kill herself for her husband",
+      "why_it_matters": "It shows how duty erases love and individual desire in the Roman model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0038"
+      ],
+      "moment": "Love becomes a disease, a plague upon the world.",
+      "source_phrase": "Love is a disease, a plague upon the world",
+      "why_it_matters": "This phrase carries the lecture's central Homer-to-Virgil reversal.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "moment": "Mercy stops at the belt; Aeneas plunges the spear into Turnus.",
+      "source_phrase": "he just plunges his spear into Churnus",
+      "why_it_matters": "The final image shows duty defeating the Homeric possibility of forgiveness.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041"
+      ],
+      "moment": "Aeneas becomes the embodiment of piety and duty.",
+      "source_phrase": "Aeneas has become the embodiment of piety and duty",
+      "why_it_matters": "It names the endpoint of Virgil's character transformation.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "moment": "History converges on Augustus Caesar.",
+      "source_phrase": "the end point of history is Augustus Caesar",
+      "why_it_matters": "This turns epic destiny into imperial teleology.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043"
+      ],
+      "moment": "Piety says: do not listen to feelings; listen to what you are told.",
+      "source_phrase": "Don't listen to your feelings. Listen to what you are told",
+      "why_it_matters": "It is the starkest wording of the lecture's love-to-obedience transition.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043"
+      ],
+      "moment": "For Homer imagination gives life; for Virgil imagination destroys.",
+      "source_phrase": "for Virgil, the imagination is the destructive force of the universe",
+      "why_it_matters": "This is the deep metaphysical reversal under the political argument.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0044"
+      ],
+      "moment": "Rome announces that history has stopped because perfection has been found.",
+      "source_phrase": "History has stopped because we have found the perfect",
+      "why_it_matters": "It makes Roman eternity feel like both peace and imprisonment.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "moment": "Christianity will make piety and obedience the cornerstone of society.",
+      "source_phrase": "make piety and obedience the cornerstone of society",
+      "why_it_matters": "It points beyond Rome toward the next civilizational mechanism in the course.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "piety",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang uses piety for obedience and loyalty to the gods, Rome, and fathers; later it becomes the replacement for republican liberty.",
+      "confidence": "high"
+    },
+    {
+      "term": "liberty",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The old Roman principle of no kings, dictators, or tyrants, centered on noble resistance to monarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "republic",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The public-good principle of sacrificing oneself for the honor and glory of Rome; in the imperial context, Jiang treats it as politically dangerous.",
+      "confidence": "high"
+    },
+    {
+      "term": "Praetorian Guard",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang describes it as Rome's security or secret-police force, responsible to the emperor.",
+      "confidence": "high"
+    },
+    {
+      "term": "Aeneas myth",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The constructed lineage in which Aeneas, a Trojan survivor, becomes the deeper founder of Rome and ancestor of Romulus and Julius Caesar.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman soul",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Jiang's phrase for the cultural-educational interior that Augustus needs to protect from Greek influence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Aeneid as propaganda",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Virgil's epic is used as an imperial project to replace Homer, establish Augustus' lineage, and teach piety over liberty.",
+      "confidence": "high"
+    },
+    {
+      "term": "Homer as educator",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Homer is presented as a teacher creating the seeds of civilization rather than enforcing a completed imperial order.",
+      "confidence": "high"
+    },
+    {
+      "term": "eudaimonia",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "For Achilles, the fulfillment or flourishing that can only be achieved in battle.",
+      "confidence": "high"
+    },
+    {
+      "term": "Homer as first psychologist",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Jiang uses this for Homer's ability to reveal hidden guilt, depression, and lack of self-awareness beneath heroic rage.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-forgiveness",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0020",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The state Achilles reaches only after Priam forgives him and allows him to grieve Patroclus.",
+      "confidence": "high"
+    },
+    {
+      "term": "love as basis of civilization",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The Homeric principle that love unites enemies and makes civilization possible even inside war.",
+      "confidence": "high"
+    },
+    {
+      "term": "worldview",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The structure that explains who we are, what we want, and what we should do.",
+      "confidence": "high"
+    },
+    {
+      "term": "cognitive dissonance",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Conflict between worldview and reality, used here to explain Odysseus' trauma after Troy.",
+      "confidence": "high"
+    },
+    {
+      "term": "PTSD",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0026",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Jiang applies PTSD to Odysseus' postwar shame, paralysis, and loss of capacity for love and imagination.",
+      "confidence": "high"
+    },
+    {
+      "term": "brooch",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0029",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "The intimate memory object that proves Odysseus' identity and symbolizes his promise and lasting love for Penelope.",
+      "confidence": "high"
+    },
+    {
+      "term": "bow",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0030",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The symbol of Odysseus' identity; stringing it resurrects his worldview.",
+      "confidence": "high"
+    },
+    {
+      "term": "love heals trauma",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0031",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The Odyssey's core message in Jiang's reading: love restores identity and reunites people after war.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greek culture as Trojan Horse",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "The Virgilian propaganda image in which logic, philosophy, and theater enter beautifully but destroy Roman culture from within.",
+      "confidence": "high"
+    },
+    {
+      "term": "love as disease",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Jiang's name for the Aeneid's anti-Homeric model: love causes war, madness, and historical catastrophe.",
+      "confidence": "high"
+    },
+    {
+      "term": "duty",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0036",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The Roman imperative that redirects Aeneas from personal rage, death, or mercy toward Rome's future.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dido",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0037",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The Carthaginian queen whose love for Aeneas becomes Jiang's example of love as political disease and historical cause.",
+      "confidence": "high"
+    },
+    {
+      "term": "Turnus",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0039",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Aeneas' Italian rival; the final duel with him shows mercy being overruled by duty and revenge.",
+      "confidence": "high"
+    },
+    {
+      "term": "destiny",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The preordained structure that moves Aeneas toward Rome and history toward Augustus.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Romana",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The Roman Peace, described by Jiang as the imperial promise of eternal peace and the end of conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "piety",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0043",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Externally commanded obedience that rejects emotion and becomes Rome's basis of civilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "eternity",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0044",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Rome's image of perfected order that lasts forever, where obedience produces an end of history.",
+      "confidence": "high"
+    },
+    {
+      "term": "infinity",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Homer's image of creating the world through action and emotion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christianity",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Previewed as the later religion that will make piety and obedience the cornerstone of society and civilization.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0046"
+      ],
+      "note": "The Christianity claim is explicitly forward-looking within the course sequence; Jiang says it is not happening yet in the Roman moment under discussion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004"
+      ],
+      "note": "The ASR is damaged around the list of crises after Rome becomes empire; downstream reads should avoid overquoting that passage."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript likely mishears Brutus as 'Buddhists' and republic as 'repulchre'; use contextual correction carefully."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0010",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0011"
+      ],
+      "note": "ASR repeatedly mislabels the Aeneid as Iliad or Ennead; the interpretive object is Virgil's Aeneid."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0023",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript inconsistently renders Telemachus' name; public prose should use the standard name when summarizing."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0032"
+      ],
+      "note": "The transcript says Iliad when Jiang turns to the Aeneid and the Trojan Horse; use context to avoid confusing Homer and Virgil."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0040"
+      ],
+      "note": "The focus segment ends mid-phrase after 'it took the'; packet 0006 carries the rest of the character-transformation argument."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0035"
+      ],
+      "note": "The transcript says Helen's staying home means 'this war would have started'; context indicates 'would not have started'."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0041"
+      ],
+      "note": "Segment begins with unrepaired ASR/boundary damage; the divine-intervention claim is supported by context but should not be quoted verbatim from the opening words."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0045"
+      ],
+      "note": "A possible student prompt is implied but not captured clearly enough to include as a public source question."
+    }
+  ]
+}

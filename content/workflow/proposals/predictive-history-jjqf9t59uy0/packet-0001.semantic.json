@@ -1,0 +1,235 @@
+{
+  "packet_id": "predictive-history-jjqf9t59uy0-semantics-pkt-0001",
+  "source_id": "video:predictive-history-jjqf9t59uy0",
+  "source_date": "2024-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the first civilization lecture by asking why humanity left hunter-gatherer life for agriculture. He presents the traditional paradigm: farming creates controllable food, surplus, specialization, politics, religion, arts, writing, science, technology, and finally modernity, then immediately says the evidence no longer supports that story.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "kind": "exchange",
+      "summary": "He reverses the progress story by arguing that farming was a bad bargain for humans: more labor, more children, land exhaustion, worse nutrition, and greater disease. A brief classroom prompt about farms appears to elicit the answer 'pigs,' but the student voice is not separately captured.",
+      "speaker_attribution": "Jiang, with a possible embedded classroom response",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Because the transition makes no obvious sense, Jiang frames the rest of the lecture as theory-building from archaeology, anthropology, psychology or neuroscience, and primatology, with Gobekli Tepe, Jericho, and Catalhoyuk as the archaeological evidence base.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "note": "The packet is overwhelmingly a single-speaker classroom lecture. Diarized SPEAKER_00 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "note": "The phrase 'Exactly. Thank you pigs' implies an unsegmented student response, but the transcript does not preserve a separate audience segment.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the traditional paradigm treats agriculture as the pivotal step toward modernity because farming produces controllable food, surplus, occupational specialization, writing, science, and technology.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Model presented and rejected in the 2024-08-29 lecture",
+      "topic_tags": [
+        "agriculture",
+        "modernity",
+        "surplus",
+        "civilization-paradigm"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the progress paradigm by saying the growing evidence shows it is not true and that the transition into farming was, from the human point of view, a bad deal.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang's assessment in the 2024-08-29 lecture",
+      "topic_tags": [
+        "agriculture",
+        "hunter-gatherers",
+        "progress-reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Using Harari's formulation, Jiang says humans thought they domesticated wheat, but wheat in effect domesticated humans by making them do the labor of its survival.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretive quotation and explanation inside the 2024-08-29 lecture",
+      "topic_tags": [
+        "wheat",
+        "domestication",
+        "harari",
+        "reversal"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists three costs of farming: harder work and population pressure, poorer nutrition than hunter-gatherers, and higher disease exposure from dense, dirty settlement with animals and waste.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "General historical diagnosis in the 2024-08-29 lecture",
+      "topic_tags": [
+        "labor",
+        "nutrition",
+        "disease",
+        "population-pressure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because the transition to farming remains unexplained, Jiang says the lecture can only construct theories from archaeological, anthropological, psychological or neurological, and primatological evidence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Method statement in the 2024-08-29 lecture",
+      "topic_tags": [
+        "method",
+        "archaeology",
+        "anthropology",
+        "primatology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003"
+      ],
+      "moment": "The agricultural revolution flips from human mastery to human servitude: wheat did not become our slave; we became wheat's workers.",
+      "source_phrase": "we did not domesticate wheat wheat Domesticated us",
+      "why_it_matters": "This is the lecture's first sharp reversal of civilization as progress.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "moment": "The farm is presented as a trap of labor, children, exhausted land, thin diets, animals, garbage, toilets, disease, and early death.",
+      "source_phrase": "it was a bad deal for humans and a very good deal for Wheat",
+      "why_it_matters": "It replaces the clean story of food security with a bodily account of agricultural cost.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006"
+      ],
+      "moment": "The central mystery is not why civilization improved life, but why people chose farming when farming made no sense.",
+      "source_phrase": "the transition from hunter -gatherer to farming makes no sense",
+      "why_it_matters": "It names the problem that the rest of the lecture must solve.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "moment": "Primatology enters through the blunt reminder that humans are primates, not creatures outside animal behavior.",
+      "source_phrase": "Because guess what guys we're monkeys",
+      "why_it_matters": "It lets Jiang use animal social patterns as evidence about human origins without pretending humans stand outside nature.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Paradigm",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang glosses a paradigm as a story, model, or understanding that organizes the traditional account of agriculture.",
+      "confidence": "high"
+    },
+    {
+      "term": "Domestication",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Bringing a plant or animal under human control, later reversed in the wheat example to show humans becoming controlled by the crop.",
+      "confidence": "high"
+    },
+    {
+      "term": "Surplus",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "More food than immediate subsistence requires, enabling specialization in the traditional agriculture-to-modernity model.",
+      "confidence": "high"
+    },
+    {
+      "term": "Primatology",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The study of primates, used by Jiang to compare gorillas, chimpanzees, and bonobos with humans when theorizing early social change.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript renders Catalhoyuk inconsistently as 'Katara, Hawaii' here and in other ASR variants later; semantic extraction normalizes it to Catalhoyuk while preserving exact refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript's 'banal bulls' is treated as an ASR rendering of bonobos."
+    }
+  ]
+}

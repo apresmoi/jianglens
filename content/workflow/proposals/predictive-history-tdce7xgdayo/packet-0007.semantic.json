@@ -1,0 +1,205 @@
+{
+  "packet_id": "predictive-history-tdce7xgdayo-semantics-pkt-0007",
+  "source_id": "video:predictive-history-tdce7xgdayo",
+  "source_date": "2024-11-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0049",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang appears to answer a question about Brutus and the reliability of Roman stories: the point is not whether the legends are true, but that Romans believed them and used them to define sacrifice for the republic.",
+      "speaker_attribution": "Jiang answering an audience prompt whose exact wording is not captured",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "A student asks a fragmentary question about the 80,000-man Roman army against Hannibal.",
+      "speaker_attribution": "Audience/student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0053",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0055",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by explaining Rome's manpower, Italian alliances, Hannibal's Gaul-heavy invasion force, and the decisive logistical problem: Rome stopped fighting Hannibal directly and cut off his food supply.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0054"
+      ],
+      "kind": "unclear",
+      "summary": "A brief non-substantive utterance appears between the student question and Jiang's answer.",
+      "speaker_attribution": "Unknown audience or room sound",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0052",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0054"
+      ],
+      "note": "Diarization captures a real student question in seg-0052 and an unclear one-word or sound utterance in seg-0054; only seg-0052 should be treated as a public source question.",
+      "suggested_speaker": "Audience/student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Brutus story may not be historically true, but its message is that if the founder can sacrifice his family for the republic, every Roman can sacrifice for Roman greatness.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Interpretation of Roman legend inside the lecture",
+      "topic_tags": ["brutus", "sacrifice", "roman-greatness", "myth"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He explains Roman stories as oral history later written in different versions and canonized by Livy under the early empire.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Source-method explanation inside the lecture",
+      "topic_tags": ["livy", "oral-history", "roman-history"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, what matters in these legends is not what really happened but what Romans believed, because belief created Roman identity.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Identity model stated on 2024-11-07",
+      "topic_tags": ["belief", "roman-identity", "history-as-myth"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Rome could raise enormous armies because it offered citizenship to fighters and could draw soldiers from the Italian peninsula through conquered neighbors' obligations.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer to student question in the 2024-11-07 lecture",
+      "topic_tags": ["rome", "citizenship", "manpower", "italian-allies"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Hannibal's use of Gauls helped Rome's neighbors rally to Rome because they saw Hannibal and the Gauls as invaders threatening their culture.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer to student question in the 2024-11-07 lecture",
+      "topic_tags": ["hannibal", "gauls", "italian-allies", "culture"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hannibal ultimately loses, in Jiang's answer, because he has no reliable organizational and logistical support or food supply, and Rome learns to avoid battle while cutting off supplies.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Answer to student question in the 2024-11-07 lecture",
+      "topic_tags": ["hannibal", "logistics", "food-supply", "fabian-strategy"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0049"
+      ],
+      "moment": "Roman greatness demands every sacrifice, even family.",
+      "source_phrase": "No sacrifice every sacrifice must be made to ensure Roman greatness",
+      "why_it_matters": "It restates the cult-of-Rome logic in its most compressed lesson form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "moment": "Belief matters more than historical truth because belief makes Romans.",
+      "source_phrase": "what matters is what they believed as opposed to what really happened",
+      "why_it_matters": "This is the methodological key for reading myth as identity technology.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "moment": "Genius still has to eat.",
+      "source_phrase": "you can win all these battles because you're a military genius. But you still have to feed your soldiers.",
+      "why_it_matters": "The line converts Hannibal's battlefield brilliance into strategic failure through logistics.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "moment": "Rome learns not to beat Hannibal in battle but to starve his war.",
+      "source_phrase": "we will never fight Hannibal in a battle again. We will cut off his food supply.",
+      "why_it_matters": "This is the tactical adaptation that turns Roman endurance into victory.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Livy",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The early imperial historian Jiang names as the writer who gathered Rome's official history from oral and written traditions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Oral history",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The generational transmission of Roman myths and stories before later written versions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Logistics",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The food and supply problem Jiang says defeated Hannibal despite tactical genius.",
+      "confidence": "high"
+    },
+    {
+      "term": "Belief over fact",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The principle that Roman identity is formed by what Romans believed about their history, not by the literal truth of each story.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0052"
+      ],
+      "note": "Student question is fragmentary in the transcript: '80,000 army against Hannibal.' Jiang's answer implies the student asks how Rome could field or sustain that army."
+    }
+  ]
+}

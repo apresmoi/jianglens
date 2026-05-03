@@ -1,0 +1,288 @@
+{
+  "packet_id": "predictive-history-f8qqgsefggc-semantics-pkt-0003",
+  "source_id": "video:predictive-history-f8qqgsefggc",
+  "source_date": "2024-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes the Gracchi brothers as lower nobles proposing compensated land reform, then treats their assassination by the rich as the beginning of the Republic's fall because the system cannot change itself.",
+      "speaker_attribution": "Jiang, ending with a request for questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0020",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "kind": "exchange",
+      "summary": "After a brief unclear backchannel, Jiang answers a student question about the relationship between optimates and populares: they come from the same small noble network, like fathers and grandfathers resisting sons who want power.",
+      "speaker_attribution": "Question is heard through Jiang's restatement; seg-0020 is an unclear short response.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from the Social War and citizenship/voting-rights crisis to servile wars, piracy, and the Sulla-Marius civil war, where generals march armies into Rome.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Sulla's proscription as a public kill list that rewards state-sanctioned murder and property seizure, then introduces young Caesar as one of the proscribed.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0020"
+      ],
+      "note": "Short UNKNOWN 'Okay.' may be a student acknowledgment before Jiang answers a question.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "note": "The actual student question is not independently transcribed; Jiang restates it as the relationship between optimates and popular leaders.",
+      "suggested_speaker": "Jiang restating student question",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Gracchi brothers proposed land reform in which Rome would buy rich occupants out of illegally held common land and redistribute it to the poor for subsistence and food security.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "gracchi",
+        "land-reform",
+        "common-land",
+        "poor"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The rich opposed even compensated reform because piety, liberty, and republica had come to mean that the existing hierarchy must not be challenged by the poor.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Interpretive diagnosis in this lecture.",
+      "topic_tags": [
+        "elite-resistance",
+        "piety",
+        "liberty",
+        "republica",
+        "social-order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the assassination of the Gracchi as the beginning of the Roman Republic's fall because it reveals a system incapable of internally resolving its contradiction.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "gracchi",
+        "fall-of-the-republic",
+        "contradiction",
+        "political-violence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's answer to a student, optimates and populares come from the same narrow noble-family network; the conflict is partly generational, with fathers and grandfathers resisting sons seeking power.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Clarifying answer in this lecture.",
+      "topic_tags": [
+        "optimates",
+        "populares",
+        "noble-families",
+        "generational-conflict"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Social War forced Rome to grant citizenship to Italian allies, but left unresolved the question of how much voting power those new citizens would have in an unequal republic.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "social-war",
+        "citizenship",
+        "voting-rights",
+        "italian-allies"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Servile wars, piracy, and the Sulla-Marius civil war show the Republic's turmoil escalating until generals do the previously unthinkable: march armies into Rome and kill fellow citizens.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical sequence in this lecture.",
+      "topic_tags": [
+        "servile-wars",
+        "piracy",
+        "sulla",
+        "marius",
+        "civil-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sulla's solution was proscription: a public list of enemies whom anyone could kill for state reward and confiscated property, including the young Julius Caesar as a target.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "sulla",
+        "proscription",
+        "julius-caesar",
+        "political-violence"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "moment": "The rich cannot be challenged by the poor because that would overhaul the social system.",
+      "source_phrase": "the rich cannot be challenged by the poor",
+      "why_it_matters": "The lecture's class conflict becomes a defense of identity and order, not just wealth.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019"
+      ],
+      "moment": "The Republic falls because the system is incapable of change.",
+      "source_phrase": "the system is incapable of change",
+      "why_it_matters": "It connects reform failure directly to civilizational breakdown.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "moment": "Roman factional war is cousins fighting cousins, fathers and grandfathers against ambitious sons.",
+      "source_phrase": "they're like cousins of each other",
+      "why_it_matters": "Jiang shrinks the grand factional conflict into a family drama of elite succession.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "moment": "Civil war crosses the sacred line when generals march against their own city and kill their own people.",
+      "source_phrase": "march against your own government, against your own city",
+      "why_it_matters": "It marks the moment republican norms are broken by military force.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "moment": "Sulla invents a public list where murder becomes rewarded state policy.",
+      "source_phrase": "if you go kill them, you'll be rewarded by the state",
+      "why_it_matters": "The old order tries to restore stability by legalizing revenge and confiscation.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Gracchi brothers",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Lower-noble reformers whose land-reform proposal and assassination mark, for Jiang, the start of the Republic's fall.",
+      "confidence": "high"
+    },
+    {
+      "term": "Social War",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "A conflict in which Italian allies rebelled and forced Rome to grant citizenship, leaving voting power unresolved.",
+      "confidence": "high"
+    },
+    {
+      "term": "Servile Wars",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Slave revolts that Jiang lists among the cascading conflicts of the late Republic.",
+      "confidence": "high"
+    },
+    {
+      "term": "civil war",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang defines it simply as two armies killing each other, here Romans killing Romans.",
+      "confidence": "high"
+    },
+    {
+      "term": "proscription",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Sulla's public list of sanctioned targets whose killers receive state reward and confiscated property.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "note": "The transcript renders optimates as 'Ottomans' in the student-question answer; context indicates optimates."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript says Caesar was 'designated to be proscribed'; semantic claims keep Jiang's meaning without correcting all ASR variants."
+    }
+  ]
+}

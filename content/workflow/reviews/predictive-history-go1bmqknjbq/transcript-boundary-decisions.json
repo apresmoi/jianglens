@@ -1,0 +1,225 @@
+{
+  "source_slug": "predictive-history-go1bmqknjbq",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Completes the football sentence with the trailing tag question."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:a56c2b5fc31e",
+      "decision": "approve",
+      "reason": "Completes the phrase 'the first major war that America fought'."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:b83ebe0df72d",
+      "decision": "approve",
+      "reason": "Completes 'But after the American Revolution'."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:a86071afec10",
+      "decision": "approve",
+      "reason": "Completes 'America was divided into North and South'."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:68c6d36bb632",
+      "decision": "approve",
+      "reason": "Completes the slave labor sentence."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:6a8a2af1ab2b",
+      "decision": "approve",
+      "reason": "Completes 'an industrial-based economy'."
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:273eed8d382d",
+      "decision": "approve",
+      "reason": "Completes 'To maintain the balance'."
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:78fa0a28e6bc",
+      "decision": "approve",
+      "reason": "Completes the time horizon for slavery ending."
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:772539da8d68",
+      "decision": "reject",
+      "reason": "ASR duplication would produce the malformed phrase 'chosen to Just to keep'."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:cc91c3d2e795",
+      "decision": "approve",
+      "reason": "Completes the class division sentence."
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:0edbad9acd52",
+      "decision": "approve",
+      "reason": "Completes the repeated class division sentence."
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-leading-completion-to-previous:6e00b0743c02",
+      "decision": "approve",
+      "reason": "Completes 'no actual solution to any of these divisions'."
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:24696155f82e",
+      "decision": "approve",
+      "reason": "Completes the National Guard sentence."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:d6161ff71fd0",
+      "decision": "approve",
+      "reason": "Completes the question 'do you guys know'."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-trailing-starter-to-next:a2a91e3c9631",
+      "decision": "approve",
+      "reason": "Moves 'That's how' to complete 'That's how powerful America is'."
+    },
+    {
+      "candidate_id": "seg-0018->seg-0019:move-leading-completion-to-previous:b8add13a68bc",
+      "decision": "approve",
+      "reason": "Completes the special forces quantity sentence."
+    },
+    {
+      "candidate_id": "seg-0019->seg-0020:move-leading-completion-to-previous:6c2de3634b52",
+      "decision": "approve",
+      "reason": "Completes the American dream sentence."
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:4755d2ce2516",
+      "decision": "approve",
+      "reason": "Completes the college debt sentence."
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:73abcc6335d2",
+      "decision": "approve",
+      "reason": "Completes 'force for good anymore'."
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:70ef4e486d6d",
+      "decision": "approve",
+      "reason": "Completes the sentence about Trump being elected."
+    },
+    {
+      "candidate_id": "seg-0023->seg-0024:move-leading-completion-to-previous:b0faaa05bff8",
+      "decision": "approve",
+      "reason": "Completes the 2008 financial crisis sentence."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:a44d6cbde11a",
+      "decision": "approve",
+      "reason": "Completes 'the media speaks for the rich'."
+    },
+    {
+      "candidate_id": "seg-0025->seg-0026:move-leading-completion-to-previous:ed1e061bc90c",
+      "decision": "approve",
+      "reason": "Completes the narrative breakdown sentence."
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Completes the clause with the tag 'okay'."
+    },
+    {
+      "candidate_id": "seg-0027->seg-0028:move-trailing-starter-to-next:0e570dfa301a",
+      "decision": "approve",
+      "reason": "Moves 'So, no one' to complete 'So, no one cares'."
+    },
+    {
+      "candidate_id": "seg-0028->seg-0029:move-trailing-starter-to-next:e235d85c94f1",
+      "decision": "approve",
+      "reason": "Moves 'And we saw that' to complete the next example."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-trailing-starter-to-next:a32efbd9d674",
+      "decision": "approve",
+      "reason": "Moves 'They' to complete the secession sentence as transcribed."
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:c45deef1cf9e",
+      "decision": "approve",
+      "reason": "Completes 'a lot of places where it is very peaceful'."
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:cb623f53177c",
+      "decision": "approve",
+      "reason": "Completes 'two opposing visions of the country'."
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:8677963113c6",
+      "decision": "approve",
+      "reason": "Completes the likely outcome sentence."
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-leading-completion-to-previous:60bc4470e77f",
+      "decision": "approve",
+      "reason": "Completes the sentence about culture-war hatred manifesting in Trump."
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:9367a4325a0c",
+      "decision": "approve",
+      "reason": "Completes the setup for the three-word provocation."
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:3706990a17e1",
+      "decision": "approve",
+      "reason": "Completes 'not because they are too proud'."
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:4f0721a807fb",
+      "decision": "approve",
+      "reason": "Completes the question of staying in office."
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:9fb1eeec2695",
+      "decision": "approve",
+      "reason": "Completes 'Does that make sense to you guys'."
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-leading-completion-to-previous:c35bb3b27725",
+      "decision": "approve",
+      "reason": "Completes 'insurgencies all around America'."
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-leading-completion-to-previous:a87b06262560",
+      "decision": "approve",
+      "reason": "Completes the war-in-Iran setup."
+    },
+    {
+      "candidate_id": "seg-0044->seg-0045:move-trailing-starter-to-next:8bc1d53cc57c",
+      "decision": "approve",
+      "reason": "Moves 'In' to complete 'In 2028'."
+    },
+    {
+      "candidate_id": "seg-0048->seg-0049:move-trailing-starter-to-next:8d9fc06e5d3f",
+      "decision": "approve",
+      "reason": "Moves 'All these' to complete 'All these guys'."
+    },
+    {
+      "candidate_id": "seg-0049->seg-0050:move-leading-completion-to-previous:5817c5c2e870",
+      "decision": "approve",
+      "reason": "Completes the Nikki Haley forecast sentence."
+    },
+    {
+      "candidate_id": "seg-0051->seg-0052:move-trailing-starter-to-next:2c080be25f50",
+      "decision": "approve",
+      "reason": "Moves 'After he wins in' to complete the 2028 sentence."
+    },
+    {
+      "candidate_id": "seg-0052->seg-0053:move-trailing-starter-to-next:4d3a3432cfcb",
+      "decision": "approve",
+      "reason": "Moves 'And they are' to complete the war-with-each-other sentence."
+    },
+    {
+      "candidate_id": "seg-0053->seg-0054:move-leading-completion-to-previous:42b9b36e4da8",
+      "decision": "approve",
+      "reason": "Completes the trauma sentence."
+    },
+    {
+      "candidate_id": "seg-0054->seg-0055:move-leading-completion-to-previous:b29e434e072b",
+      "decision": "approve",
+      "reason": "Completes 'goes back to the question of empire'."
+    }
+  ]
+}

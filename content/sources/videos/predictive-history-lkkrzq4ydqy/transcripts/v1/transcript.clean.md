@@ -1,0 +1,237 @@
+# Geo-Strategy#2:  Christian Zionism and the Middle East Conflict
+
+Source: https://www.youtube.com/watch?v=lkKrZq4YdqY
+
+## seg-0001 / 00:00:01-00:01:10 / SPEAKER_00
+
+Okay, let's start class. We're continuing the United States -Iran war. As I've said in the previous class, the United States will invade Iran. We don't know when. It might be two years from now. It might be six years from now, okay? But eventually it will happen. And in today's class, I want to go over some of the reasons why the United States will invade Iran. And I believe that there'll be three major reasons, okay? The first major reason is the United States must defend its empire. Second major reason is that the United States will be pressured by its allies, mainly Saudi Arabia and Israel, into invading Iran. And the third reason is the Israel lobby, okay? So in today's class, I want to explain to you what the Israel lobby is. But first, I need you to understand. What Christianity is, okay? So remember that Christianity, it's a religion about a man, Jesus, who we know very little about, okay?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:10-00:02:28 / SPEAKER_00
+
+We think that he was born in 4 BCE, and then he died in 31 BC, sorry, CE, Common Era. We know that he is from a place called Galilee. We know that he is from a place called Jerusalem. We know that the Romans crucified him. And that's about it, okay? What his believers say is that he is God, come to earth, and he was preaching a gospel or a message that God is returning, the kingdom of heaven is coming. And after he was crucified, he was resurrected, and then he went to heaven. And what's really important is that Jesus will... He will eventually return, okay? And this is called the second coming, okay? This is the second coming of Jesus, and when he comes, he will bring heaven onto earth. And we will all live forever in peace. Okay, so that's the story of Jesus. Then the question then is, why this religion become so popular?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:28-00:03:44 / SPEAKER_00
+
+Why is it so popular? So popular, in fact, that today, about 2 billion people... believe in it, okay? It's the most popular, most powerful religion in the world. And at first, the appeal of Christianity is that it was a revolutionary religion that promised a better world to the world's oppressed, okay? So if you look at the early people who followed Christianity, it was slaves, peasants, women, okay? People who were... People who were marginalized in society. And the idea of Jesus is that a better world is coming where everyone will be equal, okay? The meek shall inherit the earth. So if you think about it, Christianity is appealing because what it is, it's a free lottery ticket. Okay, does that make sense? It's a lottery ticket. It costs you nothing, and hey, if it's right, then you go to heaven, okay? So at first, Christianity was an extremely revolutionary religion,
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:44-00:05:13 / SPEAKER_00
+
+and its basic characteristics in the beginning were it was revolutionary, it was egalitarian, and it was anti -authority. And so these individuals who before were outcast from society, okay, like criminals, Jesus promised hope. Jesus promised hope. He promised salvation and redemption, okay? So before, if you were a criminal, there was really no way for you to redeem yourself in society. And Jesus is the promise of your salvation and redemption, okay? And that's why it was so appealing to a lot of people. It became so popular that it became the official religion of the Roman Empire. Now there's a problem, okay? Because remember, Christianity is a revolutionary, egalitarian, and anti -authority religion. And now it's become an empire. So they had to develop new theories to reinvent Christianity as an establishment religion. And as we discussed last semester, the person who did it was Augustine, okay? Augustine. And remember that last semester, we read City of God and Confessions.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:13-00:06:27 / SPEAKER_00
+
+And City of God and Confessions, it's really to adapt Christianity as an establishment religion, to reduce its revolutionary nature, okay? So is this all making sense to you? And one problem that Augustine had was the idea of a second coming, okay? That the world will end. He had a major problem with this idea for many reasons, okay? But the first reason is that, you know, if the world's going to end, why do we have to do anything? Why can't we just drink and party and play video games every day, right? What's the point of working? That's the first problem, right? Second problem is, well, why is Jesus coming back? It's because the world sucks, right? Well, who's in charge of the world? The Catholic Church is in charge of the world. You understand? So Jesus is coming back. They destroyed the authority of the Catholic Church. That's not good, right? So for many reasons, Augustine basically said, okay, the second coming, don't worry about it, okay?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:27-00:07:41 / SPEAKER_00
+
+Jesus will come back whenever he wants to come back. But before he comes back, we, the Catholic Church, will take care of everyone, okay? All right, so why is this important? This is important because from Augustine onwards, we've had divergent understanding of what the second coming means, okay? For people who believe in the second coming, the term we use is premillennialism. Premillennials, okay? Because the second coming promised a thousand years of peace. Okay, premillennialism is this, okay? Pre means before, right? So when Jesus comes back, he will give us a thousand years of peace and prosperity. Okay, do you understand? Before he comes back, okay? When he comes back, he will give us a thousand years of peace and prosperity. And what Augustine said is, no, no, no, no. That thousand years is just a metaphor. It's not actually going to happen.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:41-00:09:03 / SPEAKER_00
+
+In fact, it's already happened because the Catholic Church is giving us this thousand years of peace and prosperity. Okay? So he's called a millennialist, which means no, okay? That thousand years is just a metaphor. It's not really going to happen, okay? So that's the second big idea. Now, as we know, because all power became concentrated in the Catholic Church, there's a rebellion against the Catholic Church called the Reformation, okay? The Reformation. And the idea of the Reformation is, God did not mean for his authority to be established in the church, to be held by priests. God is meant to speak to all of us through the Bible. Okay? So the major difference between the Catholic religion and the Protestant religion is Catholics are not allowed to read the Bible. They don't read the Bible. Whereas Protestants must read the Bible. They must seek meaning and guidance from their interpretation of the Bible. Okay?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:03-00:10:29 / SPEAKER_00
+
+And because of the Reformation, you now have thousands, tens of thousands of different religions spawning up. Okay? Does that make sense? All right? So you have different religions and you have different descent. So let's look at England. Okay? England. So England is a king. And before, the Catholic Church was supposed to have authority over the king. And of course, the king did not like that. So he supported the Reformation and he changed the Catholic Church into something called the Anglican Church, okay? Or the Church of England, which he would have authority over. But once the Reformation started, again, you are now allowed to read the Bible. And because of that, you have thousands of new religions coming up in England. Okay? And they believed different things. But one thing that they all believed in is the Bible is the supreme authority. Okay? The Bible is the supreme authority, not the king. Right?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:29-00:11:45 / SPEAKER_00
+
+So this started a major conflict. A major conflict between these groups and the king. And these people are called dissenters. And eventually, this led to something called the English Civil War, where the dissenters, the Puritans, killed the king. Okay? But then the king was reestablished. And so this led to decades and decades of fighting in England. So one way that the king tried to resolve this conflict was through the Reformation. And the way that the king resolved this conflict is by sending all these dissenters to America. Okay? To America. And the idea is this. These dissenters believe that the Bible is the supreme authority. The Bible asks us to do certain things. Okay? Because it's written in the Bible. For example, you're not allowed to drink. You're not allowed to dance. You're not allowed to have any fun. You must focus on your own spiritual improvement. Okay? You're not allowed to have slaves. And so because they believed these things, they were constantly in conflict with the establishment.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:45-00:12:51 / SPEAKER_00
+
+Okay? With people in power. And so the king was like, guys, if you really believe in these things, go to America. Why? Because there's nobody in America. So you can build your own kingdom of heaven. Do you understand? Okay? So this is the origin of the United States. The United States was founded in America. It was founded as a Christian nation, which put the Bible as the supreme authority. Okay? Does that make sense? You guys probably don't know this about the United States. You think the United States, it's a non -religious, secular, multicultural nation that believes in science. Right? That's what it looks like from the outside. But inside its soul, its history, it is a Christian nation. Dedicated to achieving the kingdom of God on earth. Okay? And using the Bible as the supreme authority and guide to achieve this kingdom on earth. Okay?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:51-00:14:01 / SPEAKER_00
+
+Does that make sense? All right. So these people in America, these dissenters. Okay? One question that they always ask themselves is, why isn't Jesus back yet? Okay? The second coming. Why isn't the second coming back yet? And different people have different explanations. Okay? And so from this group come two more groups. Okay? You have some people who are called the post -millennials. Okay? And post -millennials believe that Jesus will come back after we establish a thousand years of the kingdom. This is the order of the world, now. It's a religious world, but we have to prove that we are a Christian church in the world. Okay? Okay? It doesn't make sense. So we have to prove that we are worthy of God. God's not going to come back and establish this for us. We have to do it ourselves. Okay? So these are what people call post. Which is to say that Jesus will come after the thousand years.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:05-00:15:17 / SPEAKER_00
+
+But then you have another group called dispensationalists. I don't even know how to spell this word, actually. Okay. Anyway, this is dispensationalists. Historic. okay all right so now the pre -millennials are split into two other groups so the historic pre -millennials are people who believe what the early christians believe which is like jesus is going to come back don't worry when he's coming back just be a good person and he'll come back eventually okay it's not up to us to ask when he's coming back he's god okay he has a plan he knows what he's doing just be patient guys okay that's the historic pre -millennials and then you have another group called the desperate destination list dispensation list pre -millennials okay and what they believe is something different they believe that oh in the bible if you read the bible very very closely it tells you how and why jesus will
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:17-00:16:44 / SPEAKER_00
+
+return okay what the bible says is that there must be a nation called israel okay and israel is a nation of jews and then israel has something called the temple because that's where god resides okay it must have a temple and then what will happen according to the bible is that the antichrist okay or satan lives okay then and then there will be an antichrist okay satan who will be the great deceiver he'll pretend to be god he'll pretend to be messiah but he's really satan okay and then he will launch a war when they all the nations of the world will try to attack israel and at this point jesus will come back and he will destroy the antichrist he will save israel and he will usher in a thousand years of peace before and then a thousand years later you'll have the last judgment where god will judge us to be either worthy
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0013
+
+## seg-0014 / 00:16:44-00:18:12 / SPEAKER_00
+
+or not worthy if we are worthy we'll live on forever if we're not worthy then we'll burn in hell forever okay okay so there are different variations of this prophecy well that's what's a belief okay so in other words the historic historic pre -millennials what they believe about the coming of jesus is it's a promise okay jesus promises to return he's god he will keep his promise he's probably very busy right now with other things so don't worry about it guys okay let's just be patient and trust in jesus okay that's what they believe but the dispensationalist pre -millennials believe that the prophecy it's a plan okay it's something that we must achieve to bring jesus back and we do what the bible tells us to do which is to say to have israel as a nation run by the jews to um have the temple and then to face the antichrist save the people
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0014
+
+## seg-0015 / 00:18:12-00:19:08 / SPEAKER_00
+
+of the kingdom and chiefly run away from the temple guys we want a map let's show the temple so let's go back to yahweh jesus okay this tabula verses 8 23 -29 and i'm going to read verses 3 through 4 of this and i'm going to read quanto al 1 i'm going to say a n like a create a holler andalahasd and also like something else that involved jesus played black Seongwu who is a black eyed boy the thousand years it's just a metaphor it's not gonna happen don't worry about it guys okay and then you have the post -millennials who believe that it's up to us to establish a good world Jesus is not going to do it for us if we do this then Jesus will return okay and so but remember guys okay this is a very simple version of the four different beliefs even within each belief there are variations okay
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0015
+
+## seg-0016 / 00:19:08-00:20:26 / SPEAKER_00
+
+because again there are two billion people who believe in Christianity and they all believe something different okay does that make sense all right are we clear about the four different ideas any questions okay so okay okay so you know you don't have to have to remember this you don't have to remember this you don't have to remember this okay but but all I'm trying to show you is that even within Christianity there's a debate okay but there's a concern of the obsession as to when Jesus will return and how he will return okay does that make sense all right so um this is important now um most Christians don't believe in dispensation list premillennialism okay in fact most Christians believe that dispensation list premillennialism is actually pretty evil why why would it be evil we shouldn't we should not we cannot believe in dispensation list premillennialism because it's evil why as a Christian what would
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:26-00:21:51 / SPEAKER_00
+
+you think this is evil what's a problem with believing that there's a plan in the Bible what would that be anti -christian okay so um this is hard okay but but the idea is that with this plan you're trying to manipulate God it does that make sense okay you're trying to force God to return and you shouldn't do that if you believe in God then you will trust God and you will try your best to be a good person which is what the Bible asks you to do and when God returns is none of your business okay it's not our concern so the dispensation list premillennialism are an extremely controversial minority within Christianity okay Christians most Christians don't actually believe it and they find that a lot of these believes to be evil and click and maybe even blasphemous okay you're insulting God with this sort of thinking okay the problem is that of all
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0017
+
+## seg-0018 / 00:21:51-00:23:16 / SPEAKER_00
+
+these groups the dispensation list millenials premillennial are the most organized and they're the most fanatical they really believe that this is true okay we know that throughout history those who achieve their objectives are people who tend to be the most United and who are the most fanatical in a you know in a achieving their objective okay that's the first point second point is that the this sort of belief um thrives in a time of massive uncertainty and inequality like the time that we are living in today okay where inequality is growing where there's more instability and uncertainty so in other words there are more and more people who believe in dispensation list premillennialism okay does that make sense okay all right so why this is important is that dispensation list premillennial as Christians have done a lot to cause conflict in the Middle East okay so they're the ones who are actively encouraging conflict between
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0018
+
+## seg-0019 / 00:23:16-00:24:47 / SPEAKER_00
+
+the Palestinians and Israelis they're the ones who want Israel and Iran to go to war why why are they actively encouraging conflict between the and and the israelis why are they encouraging a war between iran and israel why would they want a war between iran and israel well no no well israel is already back why because it's part of the prophecy do you understand it's part of the prophecy the prophecy is that israel must be was first must first be we can reconstitute it as a nation okay this happened 1948 and then israel must go to war of other nations okay does that make sense so the these christians are actually promoting war between israel and its neighbors okay does that make sense all right okay so now the other thing is that after the reformation okay um they developed a new theology called christian zionism christian zionism okay what is christian zionism christian zionism
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0019
+
+## seg-0020 / 00:24:47-00:26:18 / SPEAKER_00
+
+is the belief that as a christian you must support jews in the return to israel okay so because remember that um um israel as a nation was only found in 1948 and then um basically it um in about 70 b c e the romans burned down the temple okay so for about almost 2 000 years really the jewish people have not lived in sorry sorry sorry the jews were not in control of israel okay for about 2 000 years and there are christians who believe that it is our responsibility or duty to help jews take control over israel okay and they believe this for many different reasons so christian Zionist some may believe that that's what the bible says god promised israel to the jews okay so christian zionism intersects with dispensationless premillennialism there are christian Zionists who believe that okay for jesus to return we also we need Israel back and we need Israel
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0020
+
+## seg-0021 / 00:26:18-00:27:33 / SPEAKER_00
+
+to be in conflict with the Middle East okay so in other words the Middle East okay yeah all of them all of them okay so um so Christian Zionism um I mean you can make the argument that it's a pretty evil idea why because they're using the Jewish people as a tool as a mechanism in order to achieve what they believe which is the return of Jesus okay does that make sense because Christianity believes that if Jesus returns then all Jews then do it then Judaism as religion will cease to exist two -thirds of all Jews will die in the battle and the and the rest a third will will immediately convert to Christianity okay so you can make the argument that Christianity is a good religion and it's a good religion and it's a good religion Christian Zionism it's a pretty cynical um and a pretty evil idea okay and then from Christian Zionism
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0021
+
+## seg-0022 / 00:27:33-00:28:55 / SPEAKER_00
+
+we have the idea of Zionism okay and Zionism is the belief among certain Jews that two things okay one is that the Jews are the chosen people of God and that Israel is a promised land and therefore Jews must return to Israel okay does that make sense okay but what's important is before Christian Zionism came along Zionism was not Jews didn't really think this okay so it was it was the Christians who supported this idea of Zionism and even when this idea came about which which was about 20 years ago it was an extremely unpopular religion a very extremely unpopular idea the reason why is Jews didn't think they were a race of people they felt they were a religion okay they felt that okay um I'm in I'm in Iraq well guess what I'm an Iraqi like everyone else I might have a different belief but I'm still Iraqi okay they didn't put the
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0022
+
+## seg-0023 / 00:28:55-00:30:29 / SPEAKER_00
+
+religion above their nationality or their race okay do you understand and Zionism is like no being a Jewish person is a race and therefore you must return to Israel okay the problem uh with with all this is that in Israel uh Palestine it was mainly Arab people okay so there are very few Jewish people and in fact Zionism couldn't convince anyone to come to Palestine okay but then of course the Holocaust happened in after the Holocaust many Jews start to go to Israel and in 1948 they established the state of Israel okay and the Christian Zionists and the dispensation list pre -millennial we're very happy with the establishment of Israel because they feel that we've achieved the first step in this plan to bring Jesus back okay okay does that make sense okay um so to summarize the main message is this okay here's what you need to know first is that which there are
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0023
+
+## seg-0024 / 00:30:29-00:32:06 / SPEAKER_00
+
+many Christians who believe that Israel and the Jews must be used as a tool to bring Jesus back, okay? That's the first thing. Second thing is that America was founded as a Christian nation. Therefore, its soul is Christian. Its first leaders were Christians who believed in Christian Zionism. Their descendants now control the military, and the foreign policy apparatus of America, okay? That's the second thing, okay? And the third thing is that Israel, as a nation, thinks that it can use Christian Zionism in order to advance its geopolitical interest, which is to basically gain control over the Middle East, okay? Do you understand? And that's what's driving the American civilization. It's driving the conflict between Israel and Iran. Does that make sense? Okay? What's driving the conflict between Israel and Iran is America believes it has a religious responsibility to protect Israel against Iran. In fact, if there's a war between Iran and Israel, that's a good thing because it's gonna drive this prophecy and the return of Jesus, okay?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0024
+
+## seg-0025 / 00:32:08-00:34:09 / SPEAKER_00
+
+And then they're, and people in Israel are like... you know what, if we go to war with Iran, America's gonna fight for us, so why not? Right? We don't have to fight this war. America is gonna do it for us, so why not fight this war? We lose nothing. We gain everything from this war, okay? So the idea is that all this is driven by a religious worldview, understanding the world, okay? And over time, this worldview will only become more popular in America, okay? Does that make sense? All right, okay, good. Any questions about this? Anything that's not clear about what I just explained? Do you mean to clarify anything? Okay, I don't understand the question. Can you repeat the question? So, okay, so both Judaism and Christianity are religions, okay? There's no race. There's no race to the idea of Christianity, right?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0025
+
+## seg-0026 / 00:34:09-00:35:25 / SPEAKER_00
+
+You can be Chinese and Christian. You can be American and Christian. It doesn't matter, all right? And that's what the Jewish people say as well. I can be Chinese and Jewish. I can be American and Jewish because being Jewish is a religion. But the idea of Zionism is that being Jewish person is a race. In fact, you are directly descended from the Hebrews in the Bible, which is complete nonsense. This is not true, okay? So, Zionism is the main political belief of Israel, right? Why does Israel exist? Because Israel is the promised land that God gave to his chosen people, okay? And this was a promise that dates back, you know, 20 years. At least 3,000 years to the time of Abraham. And it's written in the Bible. Therefore, it must be true, okay? Does that make sense? All right. Any other questions? Okay, that's a great question, okay? All right.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0026
+
+## seg-0027 / 00:35:26-00:36:36 / SPEAKER_00
+
+So, I'm making the argument that Christian Zionism and dispensationalist premillennialism will, over time, become more popular religions in America, okay? And the question, and Charles asked, like, well, why? Okay. Let's go back. Let's go back to the founding of Christianity. Why did Christianity become so popular? It became popular because it was in the Roman Empire, okay? At that time, there was something called the Pax Romana, which meant the Roman peace, okay? Which meant that the Romans controlled everything. Therefore, there were no wars. Therefore, people were at peace, right? And you think that's a good thing, right? The problem is that if there's peace, then you have massive inequality, okay? Because war is a mechanism, back then, of social mobility, right? War killed people. And if war kills people, that creates opportunities for the people who are alive. But if there's no war, then what happens is, if I'm a rich person, guess what, guys? I become more rich.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0027
+
+## seg-0028 / 00:36:36-00:37:49 / SPEAKER_00
+
+If you're poor, what happens? You become more poor, okay? So, as a poor person, what do you think? You think that life is hopeless. Life is pointless. There's no future. There's no hope, right? And so, Jesus comes along and says, Listen, if you believe in me, then I will bring the kingdom of heaven onto earth, and I will destroy inequality. Everything will be the same, okay? So, again, back then, it was a free lottery ticket. Today, we live in something called the Pax Americana. And the Pax Americana, same thing, where for the past 70 years, there's been peace around the world, right? Very few people have died. But all that means, really, is that inequality has increased. Fewer and fewer people have money, okay? Guys, billionaires make no sense. Do you understand? Why should a few people have all the money? That makes no sense. Because money is meant as a mechanism of exchange and transaction, right?
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0028
+
+## seg-0029 / 00:37:50-00:39:07 / SPEAKER_00
+
+You use money, you should spend your money. If it's all in the bank, what's the point of that? Okay? So, having billionaires is a bad thing. And if you go to America, you'll find that there are many young people who feel that life is pointless. Okay? So, they're looking for alternatives. You understand? And this idea of dispensationalist premillennialism, which is like what's happening right now in Israel will lead to a better world, that's kind of attractive to you. You understand? Right? Well, because you're poor, and you're stuck being poor. Guys, imagine you are a delivery person in China, in Beijing, okay? You're like a kuai di yuan, right? What hope do you have for the future? Your life is pointless and hopeless. No one's going to marry you. Even if someone marries you, you can't have children because you can't afford to have your children go to school. You can't buy a house.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0029
+
+## seg-0030 / 00:39:08-00:40:43 / SPEAKER_00
+
+You can't afford anything. You're stuck being a delivery person for the rest of your life. Do you understand? Do you know how many delivery people there are in China? Millions and millions, okay? You have millions and millions of young men who have no... hope in the future, right? Yes, because Jesus is coming, and he's going to destroy the world we live in. That's exactly right. Christianity is a free lottery ticket. It costs you nothing, and if you win, you win big, okay? Right? What does it cost you? It costs you nothing, right? Okay? Do you understand? That's why it will become more popular over time. Excuse me? Right. So what you do is you support America, you support Israel, you support the war against Iran. You want more conflict in the Middle East because the conflict in the Middle East will drive the prophecy, right? Do you understand? That's what you want.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0030
+
+## seg-0031 / 00:40:43-00:42:33 / SPEAKER_00
+
+You want more war. What good does peace do you? Right? Peace just means like tomorrow, you'll still be poor and hopeless. Right? But war, it's an opportunity for a new world. Exactly. Right? So all this inequality is making people much more extreme and desperate. Right? Which will lead people, more people to believe in dispensationalist premillennialism, okay? The government, of course, does not want any instability, but what can the government do about it? You're absolutely right, okay? So the government could provide social welfare to poor people, but where would the money come from? Right. You understand? Okay? Okay. Who's more dangerous to you, a few rich people or millions of poor people? No. No, no, no, no, no. A few rich people are much more dangerous than millions of poor people. You understand? That's right. United, right? Poor people don't know how to unite. That's right.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0031
+
+## seg-0032 / 00:42:41-00:42:42 / SPEAKER_01
+
+.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0032
+
+## seg-0033 / 00:42:48-00:42:49 / SPEAKER_00
+
+Yeah, but...
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0033
+
+## seg-0034 / 00:42:49-00:42:50 / UNKNOWN
+
+.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0034
+
+## seg-0035 / 00:43:06-00:44:00 / SPEAKER_00
+
+Right. Okay? Okay. So that doesn't make sense, okay? All right? So this is the... So it's hard because this is religion, okay? And we're not religious. I'm not religious. You're not religious. So we don't really understand how religious people think, okay? But remember that on this planet Earth, most people are religious, and they take their religion very, very seriously. Okay? Do you understand? They're willing to die for the religion because they think that if I die for my religion, I'll go to heaven.. Excuse me? Okay. All right. So that's exactly right. Do you understand? Okay?. All right? Because you're not giving people any hope, and religion gives people hope.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0035
+
+## seg-0036 / 00:44:18-00:44:34 / SPEAKER_01
+
+............
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0036
+
+## seg-0037 / 00:44:38-00:44:45 / SPEAKER_00
+
+. Listen. In the real world, the poor will always lose, the rich will always win. No matter what happens.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0037
+
+## seg-0038 / 00:44:46-00:44:46 / SPEAKER_01
+
+.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0038
+
+## seg-0039 / 00:44:47-00:44:51 / SPEAKER_00
+
+That's right. That's why they're poor. Okay.
+
+Ref: video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0039

@@ -1,0 +1,287 @@
+{
+  "packet_id": "predictive-history-dc54iqur7ik-semantics-pkt-0006",
+  "source_id": "video:predictive-history-dc54iqur7ik",
+  "source_date": "2024-11-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0042",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers or builds on an audience point about Caesar's murder: despite months of planning and sixty conspirators, only five could physically attack because the taboo against Senate violence was stronger than fear of death.",
+      "speaker_attribution": "Jiang answering audience comment",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0044",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes with Augustus's succession problem: Augustus wants an adoption system that selects the best relative, with Germanicus as the ideal future emperor and Tiberius as a temporary bridge.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0045",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Tiberius breaks Augustus's system by killing Germanicus and his family, adopting Caligula, and thereby marking the Roman Empire as basically dead despite its later duration.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0046"
+      ],
+      "note": "SPEAKER_01 appears to be Jiang. Segment 0041 begins after a poorly captured audience contribution in prior context, so the exact question is uncertain.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Only five of about sixty conspirators physically attacked Caesar because even trained soldiers and generals were paralyzed by the taboo against violence in the Senate.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0042",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Roman history as narrated in Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "caesar-assassination",
+        "taboo",
+        "senate",
+        "violence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the first stab as a small, trembling backstab that Caesar could not initially understand as real attack because the taboo was so strong.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "backstabbing",
+        "caesar",
+        "taboo"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The assassination is world-historical because it breaks the unimaginable taboo of physical violence in the Senate against Caesar, a figure considered holy and divine by the Roman people.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "caesar",
+        "senate",
+        "sacred-violence",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus presents himself not as emperor but as first citizen or first man in the Senate, responsible for the Republic's eternal prosperity and stability.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "augustus",
+        "first-citizen",
+        "republic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus's succession solution is adoption of the most competent relative so that the best man in Rome always inherits imperial power.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0044",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "succession",
+        "adoption",
+        "augustus",
+        "empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Germanicus is Jiang's example of the ideal successor: Caesar-like, brilliant, and beloved by soldiers, but too young, requiring Tiberius as a transitional emperor.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "germanicus",
+        "tiberius",
+        "succession"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tiberius destroys Augustus's succession design by killing Germanicus and his family, then adopting Caligula, causing the system to break down quickly.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "tiberius",
+        "germanicus",
+        "caligula",
+        "succession"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Tiberius can be said to mark the death of the Roman Empire: it continues for centuries, but only through size and inertia amid internal revolt and tension.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "roman-empire",
+        "tiberius",
+        "collapse",
+        "inertia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041"
+      ],
+      "moment": "Sixty conspirators bring daggers, but only five can actually strike Caesar.",
+      "source_phrase": "Only five senators. Five senators.",
+      "why_it_matters": "The repetition makes taboo visible as a force stronger than months of planning and hatred.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0042"
+      ],
+      "moment": "The first attack is a trembling pinprick in Caesar's back, not a heroic blow.",
+      "source_phrase": "he was shaking... pinprick Caesar in the back",
+      "why_it_matters": "The image strips the assassination of grandeur and makes it an act of taboo violation before it is an act of courage.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043"
+      ],
+      "moment": "The fear was not death; it was bringing the ultimate taboo into the Senate.",
+      "source_phrase": "There wasn't fear of death. There was this fear of bringing this ultimate taboo",
+      "why_it_matters": "This differentiates sacred fear from physical cowardice and closes the earlier taboo argument.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0044",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0045"
+      ],
+      "moment": "Augustus's dream is an adoption machine for greatness: the best man in Rome would always be adopted into the throne.",
+      "source_phrase": "the best man in Rome would always be adopted into the imperial throne",
+      "why_it_matters": "The succession system is the institutional version of Caesar's talent principle, meant to preserve empire without heredity's decay.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0046"
+      ],
+      "moment": "The Empire keeps moving for three hundred years after it is basically dead, carried by size and inertia.",
+      "source_phrase": "it was basically dead... only because of its size and inertia",
+      "why_it_matters": "This is Jiang's historical afterimage: institutions can survive long after the principle that animated them has collapsed.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Backstabbing",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Jiang links the idea to the first conspirator's trembling attack from behind Caesar.",
+      "confidence": "high"
+    },
+    {
+      "term": "First citizen",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Augustus's self-presentation as first citizen or first man in the Senate rather than openly as emperor.",
+      "confidence": "high"
+    },
+    {
+      "term": "Adoptive succession",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0044",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Augustus's intended system of adopting the most competent relative so imperial power passes to the best man.",
+      "confidence": "high"
+    },
+    {
+      "term": "Institutional inertia",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang's explanation for how the Roman Empire could continue for centuries after, in his argument, it was basically dead under Tiberius.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0046"
+      ],
+      "note": "The lecture closes by returning from Caesar's assassination taboo to Augustus's failed succession design and the early death of Rome's imperial principle.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0040",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0041"
+      ],
+      "note": "The audience question or comment before Jiang's answer about the difficulty of killing Caesar is not directly captured; only Jiang's response is usable."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0043"
+      ],
+      "note": "Segment 0043 contains significant ASR damage around the phrase about 'ultimate taboo' and the Senate; extracted claims rely on the surrounding coherent wording."
+    }
+  ]
+}

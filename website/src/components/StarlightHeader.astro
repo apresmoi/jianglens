@@ -1,0 +1,258 @@
+---
+import SiteHeader from './SiteHeader.astro';
+import { configuredBasePath } from '../../site.config.mjs';
+
+const basePath = configuredBasePath();
+const base = basePath ? `${basePath}/` : '/';
+const pathname = Astro.url.pathname;
+const current = pathname.includes('/episodes/')
+  ? 'episodes'
+  : pathname.includes('/lens/')
+    ? 'lens'
+    : 'about';
+---
+
+<SiteHeader
+  base={base}
+  current={current}
+  maxWidth="100%"
+  sticky={false}
+  gutter="48px"
+  mobileGutter="28px"
+/>
+
+<script define:vars={{ base }}>
+  const evidencePattern = /\[([^\]\n]+)\]\{evidence=(?:"|“)([^"”]+)(?:"|”)\}/g;
+  const episodeCache = new Map();
+
+  function splitRefs(value) {
+    return String(value || '')
+      .split(/[,\s]+/)
+      .map((ref) => ref.trim())
+      .filter(Boolean);
+  }
+
+  function parseVideoRef(ref) {
+    const match = String(ref).match(/^video:([^@]+)@transcript:v(\d+)#(seg-\d+)$/);
+    if (!match) return null;
+    return { slug: match[1], version: match[2], segmentId: match[3] };
+  }
+
+  async function loadEpisode(slug) {
+    if (!episodeCache.has(slug)) {
+      episodeCache.set(
+        slug,
+        fetch(`${base}data/lens/episodes/${slug}.json`).then((response) => {
+          if (!response.ok) throw new Error(`Failed to load episode ${slug}`);
+          return response.json();
+        })
+      );
+    }
+
+    return episodeCache.get(slug);
+  }
+
+  function youtubeAt(sourceUrl, start) {
+    if (!sourceUrl || !Number.isFinite(Number(start))) return sourceUrl || '#';
+    const separator = sourceUrl.includes('?') ? '&' : '?';
+    return `${sourceUrl}${separator}t=${Math.floor(Number(start))}s`;
+  }
+
+  function appendAction(parent, href, label, external = false) {
+    const link = document.createElement('a');
+    link.href = href;
+    link.textContent = label;
+    if (external) {
+      link.target = '_blank';
+      link.rel = 'noreferrer';
+    }
+    parent.append(link);
+  }
+
+  function populateMissing(container, ref) {
+    const missing = document.createElement('span');
+    missing.className = 'doc-evidence-ref doc-evidence-ref-missing';
+    missing.textContent = ref;
+    container.append(missing);
+  }
+
+  async function populateEvidence(wrap, refs) {
+    const popover = wrap.querySelector('.doc-evidence-popover');
+    const mark = wrap.querySelector('.doc-evidence-mark');
+    const list = splitRefs(refs);
+    const details = [];
+
+    for (const ref of list) {
+      const parsed = parseVideoRef(ref);
+      if (!parsed) {
+        details.push({ ref });
+        continue;
+      }
+
+      try {
+        const episode = await loadEpisode(parsed.slug);
+        const segment = episode?.transcript?.find((item) => item.id === parsed.segmentId);
+        details.push({ ref, episode, segment });
+      } catch {
+        details.push({ ref });
+      }
+    }
+
+    popover.replaceChildren();
+    const kicker = document.createElement('span');
+    kicker.className = 'doc-evidence-kicker';
+    kicker.textContent = 'Source trail';
+    popover.append(kicker);
+
+    let firstHref = '';
+    for (const detail of details) {
+      if (!detail.episode || !detail.segment) {
+        populateMissing(popover, detail.ref);
+        continue;
+      }
+
+      const episodeHref = `${base}episodes/${detail.episode.slug}/`;
+      const transcriptHref = `${base}episodes/${detail.episode.slug}/transcript/#${detail.segment.id}`;
+      const videoHref = youtubeAt(detail.episode.source_url, detail.segment.start);
+      const title = detail.episode.read?.title || detail.episode.title || detail.episode.slug;
+      const date = detail.episode.published_at || detail.episode.recorded_at || '';
+      const excerpt = String(detail.segment.text || '').replace(/\s+/g, ' ').slice(0, 260);
+
+      if (!firstHref) firstHref = transcriptHref;
+
+      const row = document.createElement('span');
+      row.className = 'doc-evidence-ref';
+
+      const strong = document.createElement('strong');
+      strong.textContent = title;
+      row.append(strong);
+
+      const meta = document.createElement('span');
+      meta.className = 'doc-evidence-meta';
+      meta.textContent = `${date} · ${detail.segment.time_label || detail.segment.id}`;
+      row.append(meta);
+
+      const em = document.createElement('em');
+      em.textContent = `${excerpt}${excerpt.length >= 260 ? '...' : ''}`;
+      row.append(em);
+
+      const actions = document.createElement('span');
+      actions.className = 'doc-evidence-actions';
+      appendAction(actions, episodeHref, 'episode');
+      appendAction(actions, transcriptHref, 'transcript');
+      appendAction(actions, videoHref, 'video', true);
+      row.append(actions);
+
+      popover.append(row);
+    }
+
+    if (firstHref && mark instanceof HTMLAnchorElement) {
+      mark.href = firstHref;
+    }
+  }
+
+  function evidenceNode(text, refs) {
+    const wrap = document.createElement('span');
+    wrap.className = 'doc-evidence-wrap';
+    wrap.dataset.evidenceRefs = refs;
+
+    const mark = document.createElement('a');
+    mark.className = 'doc-evidence-mark';
+    mark.href = '#';
+    mark.textContent = text;
+    wrap.append(mark);
+
+    const popover = document.createElement('span');
+    popover.className = 'doc-evidence-popover';
+    popover.role = 'tooltip';
+
+    const loading = document.createElement('span');
+    loading.className = 'doc-evidence-kicker';
+    loading.textContent = 'Loading source trail';
+    popover.append(loading);
+    wrap.append(popover);
+
+    populateEvidence(wrap, refs);
+    return wrap;
+  }
+
+  function replaceEvidenceSyntax(root) {
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        const parent = node.parentElement;
+        if (!parent || parent.closest('code, pre, .doc-evidence-wrap')) return NodeFilter.FILTER_REJECT;
+        evidencePattern.lastIndex = 0;
+        return evidencePattern.test(node.nodeValue || '')
+          ? NodeFilter.FILTER_ACCEPT
+          : NodeFilter.FILTER_REJECT;
+      },
+    });
+
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+
+    for (const node of nodes) {
+      const fragment = document.createDocumentFragment();
+      const value = node.nodeValue || '';
+      evidencePattern.lastIndex = 0;
+      let cursor = 0;
+      let match;
+
+      while ((match = evidencePattern.exec(value))) {
+        if (match.index > cursor) {
+          fragment.append(document.createTextNode(value.slice(cursor, match.index)));
+        }
+        fragment.append(evidenceNode(match[1], match[2]));
+        cursor = match.index + match[0].length;
+      }
+
+      if (cursor < value.length) {
+        fragment.append(document.createTextNode(value.slice(cursor)));
+      }
+
+      node.parentNode?.replaceChild(fragment, node);
+    }
+  }
+
+  function bootEvidence() {
+    const content = document.querySelector('.sl-markdown-content');
+    if (content) replaceEvidenceSyntax(content);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bootEvidence, { once: true });
+  } else {
+    bootEvidence();
+  }
+</script>
+
+<style is:global>
+  header.header {
+    height: 64px !important;
+    border-bottom: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+
+  header.header > .site-header {
+    height: 64px;
+  }
+
+  @media (max-width: 720px) {
+    :root {
+      --sl-nav-height: 120px;
+    }
+
+    header.header {
+      height: var(--sl-nav-height) !important;
+    }
+
+    header.header > .site-header {
+      height: auto;
+    }
+
+    starlight-menu-button button {
+      top: 14px !important;
+    }
+  }
+</style>

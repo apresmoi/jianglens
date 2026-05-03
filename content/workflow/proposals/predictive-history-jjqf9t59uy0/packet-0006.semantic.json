@@ -1,0 +1,249 @@
+{
+  "packet_id": "predictive-history-jjqf9t59uy0-semantics-pkt-0006",
+  "source_id": "video:predictive-history-jjqf9t59uy0",
+  "source_date": "2024-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the causal chain: settlement depleted forest resources, population growth and farming pressure forced movement, religion traveled with the moving communities, and the transition from hunter-gathering to agriculture took thousands of years rather than one spark.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042"
+      ],
+      "kind": "exchange",
+      "summary": "He previews the next class on Ice Cave Paintings and then handles end-of-class questions. The transcript captures Jiang asking for clearer wording and clarifying that all three archaeological sites were discussed, but it does not preserve the students' full questions.",
+      "speaker_attribution": "Jiang with untranscribed student questions",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0044",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "He adds that only about five percent of Gobekli Tepe has been uncovered, asks for further questions, and closes by saying the next class will cover Ice Cave Paintings. The one-word SPEAKER_01 segment appears to be a backchannel, not a substantive question.",
+      "speaker_attribution": "Jiang plus a possible student backchannel",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "note": "SPEAKER_00 appears to be Jiang during the close of the lecture.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0044"
+      ],
+      "note": "SPEAKER_01 says only 'Okay?' and should be treated as a backchannel or diarization artifact rather than a substantive source question.",
+      "suggested_speaker": "student or audience backchannel",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says settled communities depleted nearby forest resources, which meant they had to farm.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Causal model summarized in the 2024-08-29 lecture",
+      "topic_tags": [
+        "resource-depletion",
+        "farming",
+        "settlement",
+        "forest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says communities eventually moved when population and farming pressure grew too high, carrying their religion with them and spreading the religious-agricultural pattern.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Causal model summarized in the 2024-08-29 lecture",
+      "topic_tags": [
+        "migration",
+        "religion",
+        "population-pressure",
+        "agriculture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there was no single spark for agriculture; the transition from hunter-gathering to farming took thousands of years.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Summary claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "transition",
+        "thousands-of-years",
+        "no-single-origin",
+        "agriculture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the hunter-gatherer lifestyle was easier and more attractive than farming, but farming offered the benefit of religion, which is why people ultimately chose it.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Main conclusion in the 2024-08-29 lecture",
+      "topic_tags": [
+        "hunter-gatherers",
+        "farming",
+        "religion",
+        "choice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang previews that Ice Cave Paintings suggest similar forms of religion or religious vision 40,000 to 50,000 years ago.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Preview of next class in the 2024-08-29 lecture",
+      "topic_tags": [
+        "ice-cave-paintings",
+        "early-religion",
+        "religious-visions",
+        "next-class"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says only about five percent of Gobekli Tepe has been uncovered and that the next few decades should bring more knowledge.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Research-status claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "gobekli-tepe",
+        "archaeological-discovery",
+        "future-research"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "moment": "Agriculture does not begin in one spark; it accretes over thousands of years.",
+      "source_phrase": "there was no one spark or one moment",
+      "why_it_matters": "It gives the lecture's conclusion a gradual, non-origin-story structure.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "moment": "The easier life was hunter-gathering; farming won because it carried religion.",
+      "source_phrase": "the benefit of the farming lifestyle is that you had a religion",
+      "why_it_matters": "It is the lecture's cleanest reversal of the standard materialist progress story.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "moment": "When communities move, they bring their religion with them.",
+      "source_phrase": "you actually bring your religion with you",
+      "why_it_matters": "It turns religion into the portable structure that carries settlement into new places.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "moment": "Gobekli Tepe remains mostly underground; only about five percent has been uncovered.",
+      "source_phrase": "we basically uncovered about 5 % of Cabobo Tepe",
+      "why_it_matters": "It ends the lecture with the open-endedness of the evidence rather than a closed certainty.",
+      "tone": "method",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "No single spark",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang's formulation for the transition to agriculture as a slow, multi-thousand-year process rather than a single origin event.",
+      "confidence": "high"
+    },
+    {
+      "term": "Religious visions",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The visionary experiences Jiang says will be explored next through Ice Cave Paintings and early religion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ice Cave Paintings",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "The next lecture topic, used by Jiang as evidence for religion or something like it 40,000 to 50,000 years ago.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "note": "The statement that only about five percent of Gobekli Tepe has been uncovered and that more will be known in coming decades is a dated research-status claim from 2024-08-29.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042"
+      ],
+      "note": "End-of-class student questions are implied but not captured in full; do not include them as public questions."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "note": "The transcript renders Gobekli Tepe as 'Cabobo Tepe' in this segment; semantic extraction normalizes the site name."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0044"
+      ],
+      "note": "The one-word SPEAKER_01 segment is too thin to classify as a substantive question."
+    }
+  ]
+}

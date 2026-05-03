@@ -1,0 +1,256 @@
+{
+  "packet_id": "predictive-history-rat-zudjhrm-semantics-pkt-0002",
+  "source_id": "video:predictive-history-rat-zudjhrm",
+  "source_date": "2024-09-10",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0009",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says DNA has confirmed the Proto-Indo-Europeans as the Yamnaya, links wheel vocabulary to an after-3500 BCE date, and presents dairy and lactose tolerance as central evidence.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "A brief classroom aside distinguishes ancient grassland milk from modern factory milk, after a student appears to ask about drinking milk today.",
+      "speaker_attribution": "Jiang with a brief student prompt folded into the transcript",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0012",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He describes horse domestication as a long struggle against equine excitability, then says horse plus wheel produced the wagon and a mobile pastoralist way of life.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0014",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces the debate over how Proto-Indo-European spread: violent conquest versus cultural diffusion, then says recent DNA evidence supports conquest and genocide.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers a student question about conquest versus diffusion: conquest eradicates genes, while diffusion leaves the conquered or influenced population genetically present.",
+      "speaker_attribution": "Jiang answering a student question he restates",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016"
+      ],
+      "note": "Two student interventions are audible only through Jiang's uptake: one about milk and one about conquest versus diffusion.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Because wheel vocabulary belongs to Proto-Indo-European and wheels appear archaeologically around 3500 BCE, Jiang dates the first speakers after the invention of the wheel.",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical dating model in the 2024-09-10 lecture",
+      "topic_tags": [
+        "wheel",
+        "proto-indo-european",
+        "dating"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies the Yamnaya as the people behind the Proto-Indo-Europeans and says DNA evidence shows dairy and lactose tolerance were central to their diet and bodies.",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0009",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Archaeogenetic interpretation in the 2024-09-10 lecture",
+      "topic_tags": [
+        "yamnaya",
+        "lactose-tolerance",
+        "dna-evidence",
+        "dairy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture says Yamnaya dairy consumption and protein intake made them significantly taller than farmers, with Jiang giving an average difference of about 20 centimeters.",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Claim about Yamnaya bodies in the 2024-09-10 lecture",
+      "topic_tags": [
+        "yamnaya",
+        "milk",
+        "height",
+        "farmers"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says horse domestication took thousands of years because horses are biologically inclined to flee danger, and Yamnaya skeletons show riding-related changes.",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Horse-domestication account in the 2024-09-10 lecture",
+      "topic_tags": [
+        "horse-domestication",
+        "yamnaya",
+        "skeletons"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Horse plus wheel created the wagon, allowing mobile pastoralism and helping Proto-Indo-European speakers spread language from Europe to India and Iran.",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Mobility model in the 2024-09-10 lecture",
+      "topic_tags": [
+        "wagon",
+        "pastoralism",
+        "language-spread"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the long debate over Proto-Indo-European spread has shifted from cultural diffusion toward violent conquest and genocide because recent DNA evidence shows many prior genes disappeared.",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0014",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Assessment in the 2024-09-10 lecture, looking ahead to the next class",
+      "topic_tags": [
+        "conquest",
+        "cultural-diffusion",
+        "genocide",
+        "dna-evidence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010"
+      ],
+      "moment": "The Yamnaya do not merely drink milk; Jiang says they changed their bodies and became taller than the farmers around them.",
+      "source_phrase": "they could basically all drink milk",
+      "why_it_matters": "It makes diet a civilizational weapon: biology, cattle, and mobility start to explain domination.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0013"
+      ],
+      "moment": "Horse plus wheel becomes the wagon, and the wagon becomes the technology of pastoral expansion.",
+      "source_phrase": "they were able to put the horse and the wheel together",
+      "why_it_matters": "The sentence compresses Jiang's mobility model into one memorable technological combination.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016"
+      ],
+      "moment": "The old diffusion story collapses into the brutal genetic test: if conquest happened, the previous people's genes disappear.",
+      "source_phrase": "If I conquer you I eradicate your genes I kill you",
+      "why_it_matters": "It is the lecture's harshest methodological definition and the bridge from language spread to genocide.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Yamnaya",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0009",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The steppe pastoralists Jiang identifies with the Proto-Indo-Europeans; the transcript renders the name variably as Yanaya, Anaya, and Yemnaya.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Cultural diffusion",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0014",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A nonviolent model of language spread through influence, prestige, and imitation rather than conquest.",
+      "confidence": "high"
+    },
+    {
+      "term": "Conquest",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0014",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's genetic definition: conquest kills or displaces people so their genes do not survive into the present.",
+      "confidence": "high"
+    },
+    {
+      "term": "Nomadic pastoralists",
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Mobile herding communities who move cattle and sheep by loading belongings into wagons and following grass.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang explicitly reserves the DNA case for the next class; this episode uses it mainly to frame why today's lecture focuses on Europe before conquest.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0009",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010",
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015"
+      ],
+      "note": "ASR renders Yamnaya inconsistently as Yanaya, Anaya, and Yemnaya; semantic extraction normalizes to Yamnaya while refs preserve the transcript."
+    },
+    {
+      "refs": [
+        "video:predictive-history-rat-zudjhrm@transcript:v1#seg-0012"
+      ],
+      "note": "The phrase 'until 2020 bc' appears to be an ASR or spoken-date anomaly; the semantic pass preserves the broader claim without treating that exact date as reliable."
+    }
+  ]
+}

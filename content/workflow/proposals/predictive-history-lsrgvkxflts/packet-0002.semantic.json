@@ -1,0 +1,359 @@
+{
+  "packet_id": "predictive-history-lsrgvkxflts-semantics-pkt-0002",
+  "source_id": "video:predictive-history-lsrgvkxflts",
+  "source_date": "2024-05-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang identifies the Islamic Revolutionary Guard Corps as the group that would benefit from Mojtaba Khamenei, then traces its origin to revolutionary leaders' fear that the Shah's army would not be loyal. He defines the IRGC as separate from the army: the military protects the nation, while the IRGC protects and exports the revolution.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0011",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that the Iran-Iraq War made the IRGC dominant, that its economic monopoly produced corruption and stagnation, and that protests from 1999 through the Green Movement and the Mahsa Amini protests were repeatedly crushed by the same institution.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns the protest history into a succession motive: because unrest makes the regime depend on loyal enforcers, the IRGC becomes more powerful, but a new Ayatollah with his own power base would threaten that power. Mojtaba Khamenei would preserve the arrangement.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He begins explaining the IRGC worldview by returning to 1979: the Shah left Iran for America, many Iranians wanted him tried for human-rights crimes, and they feared a repeat of 1953 in which America would restore him by force.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous lecture exposition; SPEAKER_00 appears to be Jiang throughout the focus span.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0016"
+      ],
+      "note": "The transcript appears to confuse Khomeini and Khamenei in several historical references. Semantic extraction uses Khomeini for the 1979 revolutionary leader and Khamenei for the current supreme leader where context requires it.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang identifies the IRGC as the institutional actor that would benefit from Mojtaba Khamenei becoming Ayatollah after Raisi's death.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Succession diagnosis stated on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "mojtaba-khamenei",
+        "succession",
+        "beneficiary-analysis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The IRGC was created because the revolutionary leadership distrusted the regular army's loyalty to the Shah and wanted a separate armed force loyal to the revolution.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical explanation of 1979 origins given on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "1979-revolution",
+        "army",
+        "loyalty"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the regular military as responsible for protecting the nation, while the IRGC protects the revolution and the Ayatollah and exports the revolution abroad.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Institutional model stated on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "regular-military",
+        "export-revolution",
+        "ayatollah"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Iran-Iraq War made the IRGC the dominant military group in Iran because it protected the revolution against foreign invasion.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Historical diagnosis of Iran-Iraq War consequences given on 2024-05-24.",
+      "topic_tags": [
+        "iran-iraq-war",
+        "irgc",
+        "military-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the IRGC's monopoly of power and control of a large share of the economy produced corruption and economic stagnation, alongside the effects of Western sanctions.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0011",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Diagnosis of contemporary Iranian political economy stated on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "economy",
+        "corruption",
+        "sanctions",
+        "stagnation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links the 1999 student protests, the 2009-2010 Green Movement, and the 2023 Mahsa Amini protests to public anger over corruption, lack of democracy, economic stagnation, and IRGC control.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Historical sequence summarized on 2024-05-24.",
+      "topic_tags": [
+        "protests",
+        "green-movement",
+        "mahsa-amini",
+        "irgc",
+        "democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because the protests are widespread, Jiang says the IRGC paradoxically becomes more powerful: it is viewed as the regime's most loyal and least contested instrument of survival.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Regime-stability model stated on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "protests",
+        "regime-survival",
+        "loyalty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Any new Ayatollah with an independent power base would need to reduce IRGC power, while Mojtaba Khamenei would allow the IRGC to preserve its economic and political monopoly.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Succession motive model stated on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "supreme-leader",
+        "power-base",
+        "mojtaba-khamenei"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the IRGC as corrupt but also as religious fanatics committed to exporting revolution across the Middle East.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Characterization stated on 2024-05-24.",
+      "topic_tags": [
+        "irgc",
+        "fanaticism",
+        "export-revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Shah's departure to America revived Iranian fear that the United States might repeat 1953 by helping him return to power through invasion or coup.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Historical explanation of 1979 grievances given on 2024-05-24.",
+      "topic_tags": [
+        "shah",
+        "1953-coup",
+        "united-states",
+        "hostage-crisis"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010"
+      ],
+      "moment": "The military protects the nation; the Revolutionary Guard protects the revolution.",
+      "source_phrase": "The military has an obligation to protect the nation. But the Revolutionary Guard Corps has a responsibility to protect the revolution",
+      "why_it_matters": "This contrast is the institutional key to the lecture: the IRGC is not just another military branch, but a guardian of regime ideology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010"
+      ],
+      "moment": "The IRGC becomes the Ayatollah's private army.",
+      "source_phrase": "Khamenei's private army",
+      "why_it_matters": "The phrase compresses Jiang's claim that loyalty to the supreme leader, not national defense, explains the IRGC's political role.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012"
+      ],
+      "moment": "A monopoly of power becomes an economic machine that makes the whole country stagnate.",
+      "source_phrase": "a monopoly of power",
+      "why_it_matters": "It links military power, corruption, and economic decline in a single causal phrase.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014"
+      ],
+      "moment": "The more widespread the protests become, the more the regime needs the Revolutionary Guard.",
+      "source_phrase": "ironically has become more powerful",
+      "why_it_matters": "This is a sharp reversal: popular resistance weakens legitimacy but strengthens the institution tasked with repression.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "moment": "The IRGC is corrupt, but it is not merely cynical; it is also fanatical.",
+      "source_phrase": "corrupt, but they're ultimately religious fanatics",
+      "why_it_matters": "This distinction lets Jiang explain why material interest and ideological escalation can coexist.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Islamic Revolutionary Guard Corps",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "A separate armed institution Jiang describes as loyal to the Ayatollah, responsible for protecting the revolution and exporting it abroad.",
+      "confidence": "high"
+    },
+    {
+      "term": "Export the revolution",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's account of the IRGC's outward-facing mission: spreading Islamic revolution and conflict beyond Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Monopoly of power",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The IRGC's control over state coercion and a large part of the economy, which Jiang says produces corruption, stagnation, and a motive to preserve succession arrangements.",
+      "confidence": "high"
+    },
+    {
+      "term": "Green Movement",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The 2009-2010 protest movement Jiang cites as a failed reform challenge that the IRGC suppressed.",
+      "confidence": "high"
+    },
+    {
+      "term": "Mojtaba Khamenei succession thesis",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's claim that Mojtaba Khamenei's succession would preserve the IRGC's power, while an independent successor such as Raisi could threaten it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang uses the 1979 revolution as the origin point for both the IRGC and later anti-American fear after the Shah went to the United States.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0013"
+      ],
+      "note": "The protest chronology in this packet runs from 1999 student protests to the 2009-2010 Green Movement and the 2023 Mahsa Amini protests.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014"
+      ],
+      "note": "The transcript uses 'Khomeini' and 'Khamenei' inconsistently. Context determines whether Jiang is discussing the first revolutionary leader or the current supreme leader."
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0013"
+      ],
+      "note": "The transcript renders 'Massa Amani'; semantic extraction treats this as a reference to Mahsa Amini."
+    }
+  ]
+}

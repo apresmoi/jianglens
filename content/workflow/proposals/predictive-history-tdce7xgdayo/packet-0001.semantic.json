@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-tdce7xgdayo-semantics-pkt-0001",
+  "source_id": "video:predictive-history-tdce7xgdayo",
+  "source_date": "2024-11-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0002",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens Rome as an improbable, poor Latin kingdom surrounded by older and wealthier powers, then poses the lecture's problem: why this small place became the Mediterranean empire.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from the easy answer of Roman manpower to the deeper answer of civilizational character, showing Rome's war-machine logic against the Greeks and then its attritional shipbuilding against Carthage.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous classroom lecture; diarized SPEAKER_01 reads as Jiang throughout the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames early Rome as a small, poor Latin kingdom whose later imperial success could not have been predicted from its starting position among Etruscans, Greeks, and Carthaginians.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical interpretation in a lecture published 2024-11-07",
+      "topic_tags": ["rome", "origins", "civilizational-comparison"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He gives the standard explanation that Rome's open citizenship and immigration policy gave it an enormous manpower pool compared with Greek and Carthaginian citizenship systems.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical model stated on 2024-11-07",
+      "topic_tags": ["rome", "citizenship", "manpower"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the deeper explanation is that each civilization's value system or character determines its fate in war and history.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "General civilizational model stated on 2024-11-07",
+      "topic_tags": ["civilizational-character", "values", "war"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome is described as expansionist by nature, a war-like people and war machine whose control of Italy brought it into conflict with Greek coastal colonies.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical interpretation in the Rome lecture",
+      "topic_tags": ["rome", "expansion", "greeks"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Pyrrhus story is used to show that Rome could defeat superior Greek arms by absorbing losses until victory became too costly for the opponent.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical interpretation of the Pyrrhic War inside the lecture",
+      "topic_tags": ["pyrrhus", "roman-way-of-war", "attrition"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome's first naval struggle with Carthage is presented as another attritional pattern: Rome loses ships, builds more, loses again, then builds until Carthage is overwhelmed.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical interpretation of the First Punic War inside the lecture",
+      "topic_tags": ["first-punic-war", "carthage", "attrition"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003"
+      ],
+      "moment": "The lecture's first answer is brutally compact: Rome wins because Romans are not afraid to die.",
+      "source_phrase": "the Romans are not afraid to die",
+      "why_it_matters": "This sentence becomes the emotional core of the later Hannibal and Brutus arguments.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "moment": "Civilizational character is promoted above resources as the force that decides fate.",
+      "source_phrase": "the value system or what is known as the character",
+      "why_it_matters": "It turns the lecture away from a conventional military-history account and toward Jiang's values-produce-destiny model.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "moment": "Rome is named as a machine before the lecture explains the beliefs that power it.",
+      "source_phrase": "They are basically a war machine",
+      "why_it_matters": "The phrase gives the Roman state an inhuman, mechanical character that the rest of the episode fills in.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "moment": "At sea, Rome's solution to getting slaughtered is simply to build more ships again and again.",
+      "source_phrase": "they build more ships, and more ships, and more ships",
+      "why_it_matters": "It makes Roman persistence concrete: failure is answered by repetition, not elegance.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Roman war machine",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's description of Rome as an expansionist society organized around war and territorial growth.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pyrrhic victory",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Defined as a victory whose costs are so high that the winner might as well have lost.",
+      "confidence": "high"
+    },
+    {
+      "term": "Civilizational character",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The value system of a civilization, which Jiang says ultimately determines its fate and future.",
+      "confidence": "high"
+    },
+    {
+      "term": "First Punic War",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The first direct conflict with Carthage, used here to show Rome learning naval power through attrition.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006"
+      ],
+      "note": "Transcript renders the Greek formation as 'hoplite phallus'; context strongly suggests 'hoplite phalanx', but the semantic pass preserves the source ref rather than rewriting the transcript."
+    }
+  ]
+}

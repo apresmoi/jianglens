@@ -1,0 +1,1104 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-6m1z-v3wgok:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-6m1z-v3wgok",
+  "source_id": "video:predictive-history-6m1z-v3wgok",
+  "source_title": "Great Books #9:  Dante's La Commedia",
+  "source_url": "https://www.youtube.com/watch?v=6M1Z_V3WgOk",
+  "source_date": "2026-04-08",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-6m1z-v3wgok@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-6m1z-v3wgok/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-6m1z-v3wgok/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-6m1z-v3wgok/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 26,
+    "speaker_notes": 7,
+    "claims": 26,
+    "signature_moments": 11,
+    "predictions": 0,
+    "models": 23,
+    "glossary_terms": 13,
+    "chronology_notes": 7,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0003",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009",
+    "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces La Commedia as democratic epic poetry written in Tuscan, positioned against Latin elite culture, the Aeneid, and Catholic Church mediation.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0004",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes the poem's three-part mathematical structure and argues that poetic paradox implants cognitive dissonance that unfolds over time.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames Inferno as both a confrontation with evil and a confrontation with Virgil's cultural influence before beginning Dante biography.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang summarizes Dante's political factional background, exile, love for Beatrice, and the way these experiences enter The Divine Comedy.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0012"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the opening passage of The Divine Comedy.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0013",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the shadowed forest as depression and disconnection from God, then frames Virgil as a guide Dante must eventually overcome.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0016"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads a passage involving Beatrice, Lucia, and Virgil's account of why he descends to help Dante.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0018",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains dialogue as viewpoint-bound speech, defines God as non-reciprocal love, and offers two readings of Virgil's account of Beatrice.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0021",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues readers must question Virgil's authority, then introduces Charon and the problem of Dante entering hell while alive.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0023"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the Charon passage from Inferno.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang begins interpreting Charon's obedience as a paradox about hell, rejection of God, and speaker authority.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the Charon interpretation, arguing Charon obeys Virgil's speaker authority and that Virgil's Aeneid helped create hell's emotional conditions.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0027"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang prompts Ivory to continue reading.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0028",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0029"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads a Charon passage, but the transcript contains heavy repetition.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines will and desire as constitutive of soul, then applies this to why souls enter hell and introduces limbo and Virgil's explanation.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0033"
+      ],
+      "kind": "unclear",
+      "summary": "The transcript is heavily corrupted while Jiang appears to continue discussing faith, salvation, and Virgil naming souls.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0034"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Virgil's explanation of limbo and the lack of baptism.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Virgil's self-exculpating account is incorrect because Virgil chooses to remain in hell despite paths of salvation.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0037"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the Minos passage, though transcription noise is substantial.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Minos's warning as a warning not to trust Virgil and as evidence that Inferno undermines Virgil's authority.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang prompts Ivory to read the next passage on lust.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0041",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0042"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Virgil's list of figures in the circle of lust.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0043",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0044",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Virgil's refusal to name Dido is a central paradox revealing guilt, intimacy, and unfair condemnation.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0046"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Dante's request to speak with two souls and the line naming the ranks where Dido suffers.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0047",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Dante naming Dido as rebellion against Virgil, memory-resurrection, and evidence that Inferno is deceptive and must be read with heart and imagination.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0049"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by saying the Divine Comedy is a journey into heart and faith, then asks for questions and ends the session.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous lecture exposition; diarized label SPEAKER_01 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0012",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_00 is a student reading translated Dante aloud; Jiang prompts the reader in surrounding segments.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0023"
+      ],
+      "note": "SPEAKER_00 reads translated Inferno; segment is quoted material, not Jiang's own claim except as selected teaching evidence.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0028",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0029"
+      ],
+      "note": "SPEAKER_00 is reading, but repeated text indicates transcription or alignment corruption.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0037"
+      ],
+      "note": "SPEAKER_00 is a student reader; music/noise symbols and repeated wording reduce confidence in the transcript text.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0041",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0046"
+      ],
+      "note": "SPEAKER_00 reads translated Inferno passages; SPEAKER_01 provides interpretation.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0049"
+      ],
+      "note": "SPEAKER_01 is Jiang concluding the lecture; no audible student question is captured in this segment.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says La Commedia democratizes epic poetry by using Tuscan rather than Latin so ordinary people can access it.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dante",
+        "poetry",
+        "democracy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets La Commedia as a response to Virgil's Aeneid and to Catholic Church authority, with love placed as God itself.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dante",
+        "virgil",
+        "catholic-church",
+        "love"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says poetry works by entering memory and creating paradox or cognitive dissonance that remakes the reader over time.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "poetry",
+        "memory",
+        "paradox"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Inferno as requiring Dante to recognize and defeat Virgil's Aeneid within culture and psyche before embracing God and love.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "inferno",
+        "virgil",
+        "aeneid",
+        "love"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante wrote The Divine Comedy to address how humans can escape cycles of vengeance, hatred, and war.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dante",
+        "violence",
+        "politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Dante's love for Beatrice as a central basis of La Commedia and a redemptive counterweight to earthly political conflict.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "beatrice",
+        "love",
+        "redemption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante initially puts Virgil on a pedestal as savior, father, and teacher so readers can later recognize and defeat Virgil's limitations.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "aeneid",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines God as perfect love, generosity, forgiveness, and free will, therefore not reciprocal or contractual.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "god",
+        "free-will",
+        "reciprocity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil either misreads Beatrice's motive through a reciprocity worldview or Beatrice frames the request in terms Virgil can understand.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "beatrice",
+        "reciprocity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil is an unreliable guide whom readers must reject to fully embrace God.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "unreliable-guide",
+        "god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang begins to interpret Charon's refusal and later compliance as a paradox about hell's rejection of God and obedience to Virgil's authority.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "charon",
+        "hell",
+        "virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Charon obeys Virgil rather than God, suggesting Virgil functions as master of hell.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "charon",
+        "virgil",
+        "hell"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Aeneid emphasizes piety, obedience, love as disease, hatred, and empire, thereby creating emotional conditions for hell and for the Catholic Church.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "aeneid",
+        "virgil",
+        "catholic-church",
+        "empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says will and desire together create the soul: a person is what they want and what they move toward.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "will",
+        "desire",
+        "soul"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says souls are in hell not simply because they did bad things but because they desire hell and believe it is where they belong.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "hell",
+        "free-will",
+        "desire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil's account that virtuous non-Christians are doomed in limbo will later prove untrue.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "limbo",
+        "virgil",
+        "salvation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Virgil's claim that he is merely unlucky in limbo is incorrect; Jiang says Virgil chooses to remain in hell.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "limbo",
+        "salvation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets Minos's warning to Dante about whom to trust as specifically implying that Dante should not trust Virgil.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "minos",
+        "virgil",
+        "trust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Inferno plants clues that nothing in hell is what it seems and that Virgil's statements must be questioned.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "inferno",
+        "virgil",
+        "interpretation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil names many shades in lust but refuses to name Dido, the figure he should understand best.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0041",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "dido",
+        "lust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Virgil condemning Dido to hell with Dante elevating Beatrice to heaven.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dido",
+        "beatrice",
+        "virgil",
+        "dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang speculates that Dido may be based on someone Virgil knew and rejected him, leading Virgil to condemn her unfairly.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dido",
+        "virgil",
+        "speculation"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Dante naming Dido is an act of rebellion against Virgil and a way to resurrect Dido in memory.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0047",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dido",
+        "memory",
+        "rebellion",
+        "virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Inferno is an illusion and deception requiring readers to use mind, heart, imagination, instinct, and intuition.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "inferno",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says readers must believe they have a connection with God, through which truth is revealed by intuition and imagination.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "god",
+        "intuition",
+        "imagination",
+        "truth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang summarizes The Divine Comedy as a journey into one's own heart and faith.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "divine-comedy",
+        "faith",
+        "heart"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006"
+      ],
+      "moment": "Poetry is a virus of perception: it enters memory, creates dissonance, subverts ordinary sight, and slowly remakes the reader.",
+      "source_phrase": "poetry as almost like a virus... trying to infiltrate you... subvert you... remake you",
+      "why_it_matters": "This is the lecture's most vivid model of literature: a poem is not decoration or commentary, but an invasive technology for altering perception over time.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007"
+      ],
+      "moment": "The route to paradise begins by entering hell; Dante has to experience hell and defeat the Virgil-world already inside him.",
+      "source_phrase": "in order to reach paradise, Dante must first enter inferno",
+      "why_it_matters": "It turns the lecture from literary introduction into a model of transformation: salvation requires contact with the false world one must overcome.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "moment": "Virgil has to become trusted before he can be defeated; the guide is part of the trap.",
+      "source_phrase": "Dante has to learn how to trust Virgil before he can ultimately understand and defeat Virgil",
+      "why_it_matters": "This is the episode's central authority pattern: rescue and deception can arrive in the same figure.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017"
+      ],
+      "moment": "Dialogue is not neutral information; every speaker brings a world, a prejudice, and a metaphysics into the room.",
+      "source_phrase": "when a speaker speaks, he or she is speaking from a certain world. A certain prejudice.",
+      "why_it_matters": "It explains how the lecture reads speech itself: every voice must be interpreted as a worldview, especially when it claims to guide.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0018",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019"
+      ],
+      "moment": "God is not a contract. Perfect love cannot demand obedience as the price of heaven because that would destroy free will.",
+      "source_phrase": "God does not do reciprocity... free will and reciprocity are a contradiction",
+      "why_it_matters": "This keeps the theological center sharp: Dante's God is not an administrator of rewards but a non-transactional force of love.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"
+      ],
+      "moment": "Virgil is master of hell because the Aeneid creates the emotional conditions of hell: piety, obedience, love as disease, hatred, and empire.",
+      "source_phrase": "Virgil, through the Inayat, created emotions in human beings that allow for the creation of hell itself",
+      "why_it_matters": "This is a strong Jiang causal claim: literature creates emotional infrastructure, and that infrastructure can become a political-spiritual world.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031"
+      ],
+      "moment": "Hell is chosen desire. The damned are not there merely because they did bad things; they think hell is proper, deserved, even fitting.",
+      "source_phrase": "You are what you want and what you move towards... they desire to be in hell",
+      "why_it_matters": "It converts hell from external punishment into a model of will, desire, obedience, and self-selected reality.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "moment": "Minos warns Dante that the person closest to him may be the least trustworthy person in hell.",
+      "source_phrase": "Be careful how you enter, whom you trust... what he is really saying is Dante, don't trust Virgil",
+      "why_it_matters": "It sharpens the unreliable-guide pattern and makes the reading interactive: the reader must learn to notice clues against authority.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0043",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0044"
+      ],
+      "moment": "Virgil can name everyone except Dido, the person he created and knows most intimately; the silence is the wound.",
+      "source_phrase": "the person that Virgil refuses to acknowledge by name is the one that he understands the best",
+      "why_it_matters": "This is the strongest close-reading moment: omission becomes evidence, and interpretation begins where authority refuses to speak.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0047",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "moment": "Dante names Dido to resurrect her in memory; reading becomes rebellion against the guide who erased her.",
+      "source_phrase": "I want to name her in order to resurrect her in our memory",
+      "why_it_matters": "It gives the episode its method of justice: memory can repair what an authoritative story tried to bury.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "moment": "Inferno is deception; to see it, the reader needs mind, heart, imagination, instinct, and intuition.",
+      "source_phrase": "none of what we're seeing in Inferno is what it seems... you have to see with your heart",
+      "why_it_matters": "It summarizes Jiang's interpretive epistemology: truth is not reached by literal reading alone.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "La Commedia",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Dante's name for The Divine Comedy, framed by Jiang as accessible, democratic epic poetry.",
+      "confidence": "high"
+    },
+    {
+      "term": "Paradox",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0004",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A literary device Jiang says creates cognitive dissonance and forces long-term reinterpretation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Shadowed forest",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0012",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang reads the opening forest as confusion, hatred, depression, and loss of connection with God.",
+      "confidence": "high"
+    },
+    {
+      "term": "Beatrice",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Dante's love, used by Jiang as the redemptive figure who helps orient Dante toward God.",
+      "confidence": "high"
+    },
+    {
+      "term": "Reciprocity",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "A contractual logic Jiang opposes to divine free will and associates with Virgil's worldview.",
+      "confidence": "high"
+    },
+    {
+      "term": "Unreliable guide",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Jiang's description of Virgil as a guide whose authority Dante plants clues for readers to question.",
+      "confidence": "high"
+    },
+    {
+      "term": "Will and desire",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's paired terms for what forms the soul: what one wants and moves toward.",
+      "confidence": "high"
+    },
+    {
+      "term": "Limbo",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A place in hell for virtuous non-Christians according to Virgil's account, which Jiang signals should be questioned.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Minos",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Judge of hell whose warning Jiang interprets as a clue against trusting Virgil.",
+      "confidence": "high"
+    },
+    {
+      "term": "Reliability of the narrator",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's interpretive concern that readers must question Virgil and the apparent guide structure in Inferno.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dido",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0043",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Virgil's character whom Jiang treats as the unnamed, unfairly condemned figure Dante restores to memory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Memory-resurrection",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's idea that naming Dido restores her to memory against Virgil's refusal.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Heart and faith",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang's closing frame for the Divine Comedy as inward spiritual interpretation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0008"
+      ],
+      "note": "Claims are from Jiang's 2026-04-08 Dante lecture; no comparison to older Jiang positions is made in this packet.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "note": "This packet records Jiang's 2026-04-08 framing of Dante biography and Virgil's role; no external dated Jiang source is invoked.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0024"
+      ],
+      "note": "This packet records Jiang's 2026-04-08 theological and literary model; it does not compare against prior lectures.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang explicitly forecasts that later parts of the lecture or series will challenge Virgil's claim about salvation for non-Christians.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0035",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang continues the 2026-04-08 thread that Virgil's authority is suspect; no older or newer Jiang source is cited.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0043",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"
+      ],
+      "note": "This packet continues Jiang's 2026-04-08 anti-Virgil reading through the Dido example.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0049"
+      ],
+      "note": "Closing claim belongs to the 2026-04-08 Dante lecture and is not compared to other dates.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002"
+      ],
+      "note": "Transcript says 'Iliad by Virgil' where context strongly suggests the Aeneid/Virgil tradition; preserved as source wording uncertainty."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0016"
+      ],
+      "note": "Student reading is transcription-noisy; semantic extraction should rely on Jiang's following interpretation rather than fine-grained wording here."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019"
+      ],
+      "note": "The transcript repeats 'lying' several times; context suggests Jiang means Virgil is misinterpreting rather than simply deceiving."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0028",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0029"
+      ],
+      "note": "Student reading contains repeated phrases likely caused by transcription or diarization artifacts."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0032"
+      ],
+      "note": "The final sentence trails into the next packet; claim confidence is medium until cross-packet context is considered."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0033"
+      ],
+      "note": "Segment is too corrupted for reliable claim extraction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0037"
+      ],
+      "note": "Quoted passage contains substantial transcription noise; Jiang's interpretation in segments 38-39 is clearer than the reading itself."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0045"
+      ],
+      "note": "Jiang marks this as an interpretive reading of Virgil's motive; keep it attached to the Dido passage and the Virgil-Dante contrast."
+    }
+  ]
+}

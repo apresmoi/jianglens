@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jianglens.local/schemas/agent-transcript-pass.schema.json",
+  "title": "Jiang Lens Agent Transcript Pass",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "packet_id",
+    "source_id",
+    "source_date",
+    "interactions",
+    "speaker_notes",
+    "claims",
+    "signature_moments",
+    "glossary_terms",
+    "chronology_notes",
+    "uncertainty_notes"
+  ],
+  "properties": {
+    "packet_id": { "type": "string" },
+    "source_id": { "type": "string" },
+    "source_date": { "type": ["string", "null"] },
+    "interactions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["refs", "kind", "summary", "confidence"],
+        "properties": {
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "kind": {
+            "type": "string",
+            "enum": ["monologue", "question", "answer", "exchange", "reading-quoted-material", "unclear"]
+          },
+          "summary": { "type": "string" },
+          "speaker_attribution": { "type": "string" },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "speaker_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["refs", "note", "confidence"],
+        "properties": {
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "note": { "type": "string" },
+          "suggested_speaker": { "type": ["string", "null"] },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["claim", "refs", "temporal_scope", "confidence"],
+        "properties": {
+          "claim": { "type": "string" },
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "temporal_scope": { "type": "string" },
+          "topic_tags": { "type": "array", "items": { "type": "string" } },
+          "claim_type": {
+            "type": "string",
+            "enum": ["diagnosis", "prediction", "model", "definition", "evidence", "normative", "other"]
+          },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "signature_moments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["refs", "moment", "source_phrase", "why_it_matters", "tone", "confidence"],
+        "properties": {
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "moment": { "type": "string" },
+          "source_phrase": { "type": "string" },
+          "why_it_matters": { "type": "string" },
+          "tone": {
+            "type": "string",
+            "enum": ["metaphor", "reversal", "provocation", "definition", "causal-chain", "image", "method", "question"]
+          },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "glossary_terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["term", "refs", "definition_or_usage", "confidence"],
+        "properties": {
+          "term": { "type": "string" },
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "definition_or_usage": { "type": "string" },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "chronology_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["refs", "note", "confidence"],
+        "properties": {
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "note": { "type": "string" },
+          "possible_update_to_prior_position": { "type": "boolean" },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "uncertainty_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["refs", "note"],
+        "properties": {
+          "refs": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "note": { "type": "string" }
+        }
+      }
+    }
+  }
+}

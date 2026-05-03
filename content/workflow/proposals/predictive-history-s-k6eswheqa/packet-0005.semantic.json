@@ -1,0 +1,321 @@
+{
+  "packet_id": "predictive-history-s-k6eswheqa-semantics-pkt-0005",
+  "source_id": "video:predictive-history-s-k6eswheqa",
+  "source_date": "2024-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0033"
+      ],
+      "kind": "unclear",
+      "summary": "A very short conversational bridge is captured as 'Yeah. Yes.' with no substantive content.",
+      "speaker_attribution": "Unclear; likely classroom backchannel.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0035",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0036",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "kind": "answer",
+      "summary": "Answering Sally's question about constructing the AI, Jiang says it would take 50 to 100 years of prediction, validation, revision, historical reconstruction, and collaboration among historians, mathematicians, and programmers.",
+      "speaker_attribution": "Jiang answering Sally.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Answering Eric's edge-case question, Jiang identifies great men as the edge cases of psychohistory and introduces Asimov's second foundation: experts behind the AI who observe history and correct the model when exceptional people disrupt it.",
+      "speaker_attribution": "Jiang answering Eric.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0033"
+      ],
+      "note": "Segment 0033 is too short to attribute confidently and does not add semantic content.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "note": "The substantive focus refs are Jiang answering named student questions from Sally and Eric.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says constructing a valid psychohistory AI would require at least 50 to 100 years because the model must be repeatedly tested against predictions.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Future project timeline stated on 2024-06-13.",
+      "topic_tags": [
+        "psychohistory",
+        "ai",
+        "validation",
+        "timeline"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says his class has been a form of self-AI: analytical models generate predictions that cannot be fully validated until decades later.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Reflection on the course stated on 2024-06-13.",
+      "topic_tags": [
+        "self-ai",
+        "course-method",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says failed predictions require revising the predictions and analysis rather than keeping the model fixed.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Method rule stated on 2024-06-13.",
+      "topic_tags": [
+        "model-revision",
+        "validation",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says building psychohistory also requires rewriting history because much accepted history is not correct.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0035",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0036",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Method claim stated on 2024-06-13.",
+      "topic_tags": [
+        "history",
+        "revision",
+        "psychohistory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says historians, mathematicians, and programmers must collaborate because computers require numbers, equations, and models rather than ideas alone.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Project requirement stated on 2024-06-13.",
+      "topic_tags": [
+        "collaboration",
+        "mathematics",
+        "programming",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that if psychohistory works, it would change the fate of humanity forever by helping humanity stop repeating the same historical mistakes.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0036",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Conditional future claim stated on 2024-06-13.",
+      "topic_tags": [
+        "psychohistory",
+        "humanity",
+        "repetition"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents the rise of Christianity as an example where he distrusts conventional history and finds Roman imperial co-option a more plausible explanation.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Historical reinterpretation offered on 2024-06-13.",
+      "topic_tags": [
+        "christianity",
+        "roman-empire",
+        "historical-revision"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Answering Eric, he says the edge cases for psychohistory are great men who appear from outside normal forces and change history.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Model limitation stated on 2024-06-13.",
+      "topic_tags": [
+        "edge-case",
+        "great-man-theory",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the second foundation solves psychohistory's edge-case problem by placing specialists behind the AI to observe history and correct the model.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Model extension stated on 2024-06-13.",
+      "topic_tags": [
+        "second-foundation",
+        "edge-case",
+        "model-correction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says psychohistory contains not only a promise of future prediction but also a promise that unrealized capacities of the human mind might be developed.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Speculative model stated on 2024-06-13.",
+      "topic_tags": [
+        "psychohistory",
+        "telepathy",
+        "human-potential"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034"
+      ],
+      "moment": "The class itself becomes a self-AI: model, prediction, and delayed validation.",
+      "source_phrase": "what I've been doing in this class is basically doing a self-AI",
+      "why_it_matters": "It turns the course into a prototype of the psychohistory project.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0035",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "moment": "Predicting the future requires correcting the past.",
+      "source_phrase": "not only are you trying to predict the future, but you're trying to also correct the past",
+      "why_it_matters": "This is one of the lecture's strangest and most important reversals about historical method.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039"
+      ],
+      "moment": "Great men are the edge cases of history because they step outside history and control it.",
+      "source_phrase": "They're beyond history. They can step outside of history and control history.",
+      "why_it_matters": "It extends the self-driving-car edge case into a full historical theory.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "moment": "The second foundation is the team behind the machine, watching history and correcting the equations when Putin appears.",
+      "source_phrase": "Putin appears and is like, okay, well, clearly, I'm not accounting for Putin.",
+      "why_it_matters": "This gives the abstract model-correction problem a concrete image.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "self-AI",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Jiang's description of his own course method: build an analytical model, make predictions, and later validate or revise them.",
+      "confidence": "high"
+    },
+    {
+      "term": "correcting the past",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0035",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The psychohistory requirement to use a model to reconstruct history more accurately, not only forecast future events.",
+      "confidence": "high"
+    },
+    {
+      "term": "great man edge case",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A person who appears outside normal historical forces and redirects history, breaking the model's predictive assumptions.",
+      "confidence": "high"
+    },
+    {
+      "term": "second foundation",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A group of specialists behind the psychohistory AI who observe events and adjust the model for edge cases.",
+      "confidence": "high"
+    },
+    {
+      "term": "telepaths",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "In Jiang's Foundation-derived model, the second foundation figures who can read and control minds; he treats the idea as a speculative form of human potential.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034"
+      ],
+      "note": "Jiang states on 2024-06-13 that the psychohistory AI would need 50 to 100 years before validation is possible.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0033"
+      ],
+      "note": "Segment 0033 likely captures a backchannel or turn transition, not meaningful transcript content."
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0037"
+      ],
+      "note": "The Christianity/Roman Empire passage is Jiang's interpretive claim and should remain clearly source-attributed."
+    }
+  ]
+}

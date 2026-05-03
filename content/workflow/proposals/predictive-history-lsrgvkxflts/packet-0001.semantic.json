@@ -1,0 +1,314 @@
+{
+  "packet_id": "predictive-history-lsrgvkxflts-semantics-pkt-0001",
+  "source_id": "video:predictive-history-lsrgvkxflts",
+  "source_date": "2024-05-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the lecture by asking how and why Iranian president Ebrahim Raisi died, then frames current-event analysis as work under limited truth, misinformation, and an official narrative that may be accepted before it is known to be true.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0002",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "He states the known facts of the May 19 helicopter crash and says the most probable explanation is an accident: fog, poor visibility, and an old U.S.-built helicopter that Iran could not easily maintain after the revolution.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0004",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He treats a foreign adversary as a second possibility but stresses the opportunity and motive problems: past U.S. and Israeli killings had clear motives, while killing Raisi would be hard to execute and carries unclear benefit.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces the internal-enemy hypothesis. Unlike a foreign adversary, an Iranian faction could plausibly have access, especially if the other helicopters were military escort aircraft able to protect or abandon the president.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He then shifts from opportunity to motive: Raisi was widely expected to succeed Khamenei as supreme leader, and his death would make Mojtaba Khamenei more likely to inherit the position, even though hereditary succession would create a legitimacy crisis in a republic founded against kingship.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous lecture exposition; diarized SPEAKER_00 should be treated as Jiang for this focus span.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "note": "Repeated 'does that make sense' and similar prompts are lecturer checks, not substantive audience questions in these refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's method for the lecture is to treat Raisi's death as a current-event analysis problem: information is sparse, may be false, and may be filtered through an official narrative, so game-theory reasoning is needed to explore possibilities.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Methodological framing in lecture published 2024-05-24.",
+      "topic_tags": [
+        "method",
+        "current-events",
+        "official-narrative",
+        "game-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the most probable explanation for Raisi's death is an accident caused by fog, poor visibility, and the risks of an old helicopter fleet that Iran struggled to maintain after the revolution.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0002",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Assessment stated on 2024-05-24 about the May 19, 2024 crash.",
+      "topic_tags": [
+        "raisi-death",
+        "accident",
+        "helicopter-crash",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The foreign-adversary theory is possible but weak in Jiang's analysis because a foreign government would face severe opportunity problems and an unclear motive for killing Raisi.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0004",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Speculative evaluation in lecture published 2024-05-24.",
+      "topic_tags": [
+        "foreign-adversary",
+        "opportunity",
+        "motive",
+        "assassination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Raisi's case with the killing of Soleimani, Israeli assassinations of nuclear scientists, and the April 2024 Damascus strike, where he says the motive was clearer.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0004",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical comparison used on 2024-05-24.",
+      "topic_tags": [
+        "soleimani",
+        "israel",
+        "nuclear-scientists",
+        "damascus-strike"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "An internal enemy has a stronger opportunity profile in Jiang's analysis because Iranian military or security actors could plausibly have had access to the president's helicopter movement.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Speculative opportunity analysis stated on 2024-05-24.",
+      "topic_tags": [
+        "internal-enemy",
+        "opportunity",
+        "helicopter-crash",
+        "military-escort"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Raisi was widely expected to become supreme leader after Khamenei, and that if Raisi became Ayatollah he could shift major policy in Iran.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Succession assessment stated on 2024-05-24.",
+      "topic_tags": [
+        "raisi",
+        "khamenei",
+        "succession",
+        "supreme-leader"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines Iran's president as more like the country's CEO while the Ayatollah is the real sovereign authority, representing God and the Quran and holding ultimate veto power.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Institutional model stated on 2024-05-24.",
+      "topic_tags": [
+        "islamic-republic",
+        "ayatollah",
+        "president",
+        "political-system"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "If Raisi is removed from the succession path, Jiang says Mojtaba Khamenei becomes more likely to succeed, but father-to-son leadership would produce a legitimacy crisis because Iran's revolution was against monarchy.",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Succession analysis stated on 2024-05-24.",
+      "topic_tags": [
+        "mojtaba-khamenei",
+        "hereditary-leadership",
+        "legitimacy-crisis",
+        "iranian-revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001"
+      ],
+      "moment": "Current events begin in a fog of limited truth, misinformation, and accepted official narrative.",
+      "source_phrase": "Truth is very limited",
+      "why_it_matters": "This gives the episode its epistemic frame: Jiang is not claiming certainty, he is modeling how to reason when certainty is unavailable.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001"
+      ],
+      "moment": "The official story may be false but still become the account that everyone accepts.",
+      "source_phrase": "it may not be true, but it's the one that people accept",
+      "why_it_matters": "The phrase distinguishes public narrative from analytical truth and sets up the lecture's alternative scenarios.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007"
+      ],
+      "moment": "The Iranian president is described as the CEO, while the Ayatollah is the actual sovereign.",
+      "source_phrase": "the president is maybe like the CEO of the country",
+      "why_it_matters": "This compact image explains why Raisi's possible move from president to supreme leader matters more than the office he held at death.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "moment": "A revolution against kingship could return through a son inheriting religious power.",
+      "source_phrase": "a father passing on leadership to his son",
+      "why_it_matters": "The reversal turns succession into a legitimacy crisis: the anti-monarchical revolution risks reproducing monarchy under a religious title.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Game theory analysis",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's label for reasoning through possible actors, motives, opportunities, and payoffs when direct evidence is limited.",
+      "confidence": "high"
+    },
+    {
+      "term": "Official narrative",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "A government or media account that becomes publicly accepted even though the analyst cannot assume it is true.",
+      "confidence": "high"
+    },
+    {
+      "term": "Foreign adversary theory",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0004",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The possibility that the United States, Israel, or another foreign actor killed Raisi; Jiang treats it as possible but burdened by opportunity and motive problems.",
+      "confidence": "high"
+    },
+    {
+      "term": "Islamic republic",
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's description of Iran's system, where ultimate authority is religious and vested in the Ayatollah, even though republican offices also exist.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0002"
+      ],
+      "note": "The crash is discussed as a May 19, 2024 event in a lecture published on 2024-05-24.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007",
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "note": "Succession claims about Khamenei, Raisi, and Mojtaba Khamenei are dated forecasts from 2024-05-24 and should not be merged into later evidence without updated refs.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang explicitly says the contents of the other helicopters are unknown and frames the escort point as an inference."
+    },
+    {
+      "refs": [
+        "video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript renders the name as 'Moshtaba Khamenei'; semantic extraction treats this as Mojtaba Khamenei."
+    }
+  ]
+}

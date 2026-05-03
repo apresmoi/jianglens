@@ -1,0 +1,325 @@
+{
+  "packet_id": "predictive-history-x1e5rrmcit4-semantics-pkt-0005",
+  "source_id": "video:predictive-history-x1e5rrmcit4",
+  "source_date": "2024-09-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0033"
+      ],
+      "kind": "unclear",
+      "summary": "Brief UNKNOWN 'Okay?' fragment with no substantive content.",
+      "speaker_attribution": "Unknown short response or ASR fragment",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says neuroscience confirms Kant because the brain imagines and projects reality; drugs change brain structure and allow a different reality, possibly including the symbols seen in cave art.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "He uses childbirth to show how mystery makes things sacred and divine, arguing that women were considered sacred or superior because childbirth was mysterious and the deity was a mother goddess.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He synthesizes the cave-art argument: symbols visualize mythology, show how reality works, and create common memory, imagination, language, and mythology, which is what society is.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0037"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang states the lecture's thesis in three points, then introduces Emile Durkheim's definition of religion as a system of ideas by which people imagine their society.",
+      "speaker_attribution": "Jiang quoting and explaining Durkheim",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0038",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0039",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads and explains Durkheim: religion first represents kinship between things, teaches the mind to dominate sense impressions, makes science and philosophy possible, and functions as collective thought or collective consciousness.",
+      "speaker_attribution": "Jiang quoting and explaining Durkheim",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0033"
+      ],
+      "note": "UNKNOWN one-word fragment; no substantive speaker attribution possible.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0037",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"
+      ],
+      "note": "Jiang alternates between reading Durkheim text aloud and paraphrasing it for students.",
+      "suggested_speaker": "Jiang reading Durkheim",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says neuroscience confirms Kant: the brain imagines and projects reality rather than simply receiving it.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Philosophical-scientific bridge in lecture published 2024-09-03",
+      "topic_tags": [
+        "neuroscience",
+        "kant",
+        "reality",
+        "brain"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mystery makes things sacred and divine; childbirth becomes sacred because it was mysterious, and women become sacred because they give birth.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Interpretive reconstruction in this lecture",
+      "topic_tags": [
+        "mystery",
+        "sacred",
+        "childbirth",
+        "women",
+        "mother-goddess"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that for most of human history, gender relations were egalitarian or women were considered superior, and that male dominance is comparatively recent.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical claim made in lecture published 2024-09-03, with future-class caveat",
+      "topic_tags": [
+        "gender",
+        "egalitarianism",
+        "mother-goddess",
+        "history"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The cave paintings visualize religion: mythology, a model of underlying reality, and a common memory and imagination shared by the group.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Synthesis of cave-art interpretation in this lecture",
+      "topic_tags": [
+        "art",
+        "religion",
+        "mythology",
+        "society",
+        "common-memory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Religion allows humans to communicate and be together in society; without religion humans could not think, communicate, imagine, or be fully human.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Core thesis in lecture published 2024-09-03",
+      "topic_tags": [
+        "religion",
+        "society",
+        "communication",
+        "human-nature"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Durkheim is used to define religion as the collective system of ideas through which people imagine society and construct a first representation of relations between things.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0037",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Durkheim interpretation in this lecture",
+      "topic_tags": [
+        "durkheim",
+        "religion",
+        "society",
+        "collective-thought"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that science and philosophy grow out of religion because religion first trains humans to imagine internal connections between things rather than be dominated by sense impressions.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0038",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Durkheimian model presented in lecture published 2024-09-03",
+      "topic_tags": [
+        "science",
+        "philosophy",
+        "religion",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Religion and society are mutually constitutive: without religion there is no society, and without society there is no religion.",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Core social model in this lecture",
+      "topic_tags": [
+        "religion",
+        "society",
+        "collective-consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034"
+      ],
+      "moment": "The brain does not receive reality; it projects reality.",
+      "source_phrase": "the brain imagines reality. Okay? It projects reality.",
+      "why_it_matters": "This links Kant, neuroscience, psychedelics, and cave symbols into one account of world-making.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034"
+      ],
+      "moment": "Mystery is what makes a thing sacred and divine.",
+      "source_phrase": "mystery makes things sacred and divine",
+      "why_it_matters": "It explains why childbirth, women, symbols, and hidden signs acquire religious authority.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"
+      ],
+      "moment": "Art is basically religion; there is no difference.",
+      "source_phrase": "art is basically religion. There's no difference.",
+      "why_it_matters": "This is the lecture's strongest compression of cave painting, myth, and social memory.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"
+      ],
+      "moment": "Society begins as a common memory and imagination.",
+      "source_phrase": "common memory and imagination. A language mythology that they all share together. Okay? And this is what we call society.",
+      "why_it_matters": "It gives the public read its central bridge from cave wall to civilization.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0039"
+      ],
+      "moment": "Science today is our religion.",
+      "source_phrase": "science today is our religion",
+      "why_it_matters": "It keeps Jiang's provocation that modern knowledge is still a shared imaginative order, not an escape from religion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"
+      ],
+      "moment": "Without religion there is no society; without society there is no religion.",
+      "source_phrase": "Without religion there could be no society. Without society there could also be no religion.",
+      "why_it_matters": "It states the lecture's Durkheimian hinge in its most memorable form.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Art as religion",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035",
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Jiang's claim that cave art visualizes mythology, reality, and shared social memory rather than standing apart from religion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Common memory and imagination",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "The shared language and mythology that allow people to become a society.",
+      "confidence": "high"
+    },
+    {
+      "term": "Collective consciousness",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's Durkheimian term for religion as collective thought, the shared imagined order that lets society come into being.",
+      "confidence": "high"
+    },
+    {
+      "term": "Science as religion",
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A provocative claim that science is also an imaginative, evidence-bearing understanding of the world descended from religion.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0034"
+      ],
+      "note": "The transcript says 'Men are allowed to give birth,' likely an ASR/speech error in a paragraph contrasting women and men; semantic extraction uses only the stable claim that childbirth is sacred because women give birth."
+    },
+    {
+      "refs": [
+        "video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0037"
+      ],
+      "note": "The transcript renders Emile Durkheim as 'Imel Durkheim'; semantic extraction identifies the intended figure from context."
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "packet_id": "predictive-history-cvi8rukoda8-semantics-pkt-0005",
+  "source_id": "video:predictive-history-cvi8rukoda8",
+  "source_date": "2024-12-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0033"
+      ],
+      "kind": "unclear",
+      "summary": "A short 'Yep. Yep.' appears before Jiang answers Doug; it is likely a student or audience acknowledgment rather than a substantive question.",
+      "speaker_attribution": "Likely audience.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0034",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0035",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0036"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers Doug's question about how a peaceful trading civilization protected itself from piracy and banditry: the IVC relied on colonies, long-term trade partners, local security arrangements, and a world where organized warfare was still rare enough that city-sacking broke a cultural taboo.",
+      "speaker_attribution": "Jiang answering Doug.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0037"
+      ],
+      "kind": "unclear",
+      "summary": "A partial audience turn, 'Maybe one more but I actually,' is not enough to extract a question.",
+      "speaker_attribution": "Likely audience or student.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0038",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves into the IVC legacy by arguing that its contribution is spiritual practice. He sketches Hinduism as a system of false reality, Brahman, karma, Atman, Dharma, Moksha, and Brahmin gatekeeping inside a social hierarchy.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0033",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0037"
+      ],
+      "note": "Both focus refs are brief or partial audience turns; they should not be treated as public questions.",
+      "suggested_speaker": "Audience",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says IVC traders solved piracy and banditry risk through colonies, trading partners, and local security arrangements rather than by building their own war-making culture.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0034",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Speculative model of IVC trade security.",
+      "topic_tags": [
+        "trade-security",
+        "piracy",
+        "banditry",
+        "colonies",
+        "trade-partners"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that 5,000 years ago the wider world was still relatively peaceful and organized warfare was new and rare in human experience.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical model for about 5,000 years before the lecture.",
+      "topic_tags": [
+        "organized-warfare",
+        "peace",
+        "human-history"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the violence of Mesopotamia was shocking because sacking a city and killing hundreds of people at once broke a massive cultural taboo.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical interpretation of early organized warfare.",
+      "topic_tags": [
+        "mesopotamia",
+        "organized-warfare",
+        "taboo",
+        "violence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the IVC had long-standing trade networks from roughly 7000 or 6000 BCE and could trust partners rather than fight.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Long-run historical claim about IVC trade before civilization.",
+      "topic_tags": [
+        "trade-networks",
+        "trust",
+        "ivc"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the IVC's legacy is not monuments like Egypt's pyramids or Mesopotamia's writing and literature, but spiritual practice and spiritual values.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Interpretive claim about IVC legacy stated on 2024-12-03.",
+      "topic_tags": [
+        "legacy",
+        "spiritual-practice",
+        "ivc",
+        "western-civilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang summarizes Hinduism as a system in which this world is false, Brahman is true absolute reality, karma binds the Atman to many lifetimes, Dharma cleanses the soul, and Moksha liberates it back to Brahman.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0038",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Religious model stated in the lecture.",
+      "topic_tags": [
+        "hinduism",
+        "brahman",
+        "karma",
+        "atman",
+        "dharma",
+        "moksha"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Brahmins gatekeep Hindu spiritual progress because only they understand Dharma, so being good is not enough without priestly mediation.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Religious-political interpretation of Hindu hierarchy.",
+      "topic_tags": [
+        "brahmins",
+        "gatekeeping",
+        "dharma",
+        "hinduism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the Hindu hierarchy as priests/Brahmins at the top, warriors and kings below them, farmers and merchants below that, and servants and laborers at the bottom, with skin color also differentiating the system.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture summary of Hindu hierarchy.",
+      "topic_tags": [
+        "hinduism",
+        "hierarchy",
+        "brahmins",
+        "caste",
+        "skin-color"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0035"
+      ],
+      "moment": "The first city sack appears as a civilizational shock, not ordinary politics.",
+      "source_phrase": "the idea that you could sack a city... that's like breaking a massive cultural taboo",
+      "why_it_matters": "This gives Jiang's peace argument an anthropological foundation: organized mass violence had to be learned.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0038"
+      ],
+      "moment": "The IVC legacy is shifted from objects to spiritual practice.",
+      "source_phrase": "the legacy of the IBC is in their spiritual practice",
+      "why_it_matters": "This is the public episode's hinge: the missing civilization survives as religious inheritance.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040"
+      ],
+      "moment": "Hindu gatekeeping is made blunt: being good is not enough.",
+      "source_phrase": "you think being a good person is enough. No it's not.",
+      "why_it_matters": "This sets up Buddhism as a rebellion against the Brahmin monopoly on salvation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039"
+      ],
+      "moment": "The soul is trapped in false reality until Dharma cleanses it across many lifetimes.",
+      "source_phrase": "your soul called the Atman is stuck here",
+      "why_it_matters": "It captures Jiang's compact explanation of the spiritual machinery he later contrasts with Buddhism.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Brahman",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0038",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "In Jiang's summary of Hinduism, the true absolute reality to which a purified soul returns.",
+      "confidence": "high"
+    },
+    {
+      "term": "Karma",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "An accounting of good and bad deeds that keeps the soul bound in the physical world.",
+      "confidence": "high"
+    },
+    {
+      "term": "Atman",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "The soul that Jiang says is stuck in this world until purified.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dharma",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The right path or cleansing process that differs by social position and is interpreted by Brahmins.",
+      "confidence": "high"
+    },
+    {
+      "term": "Moksha",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Liberation of the soul from the physical world and return to Brahman.",
+      "confidence": "high"
+    },
+    {
+      "term": "Brahmins",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Priests who, in Jiang's model, gatekeep spiritual knowledge and access to the proper Dharma.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0036"
+      ],
+      "note": "Jiang dates the start of long IVC trading networks to roughly 7000 or 6000 BCE.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0033",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0037"
+      ],
+      "note": "The audience turns are too short or partial to recover the underlying questions."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0034"
+      ],
+      "note": "The transcript likely renders 'Dilmun' and 'Bahrain' imperfectly as 'Dilman' and 'Buran'; extraction keeps the trade-partner claim without overcorrecting proper nouns."
+    }
+  ]
+}

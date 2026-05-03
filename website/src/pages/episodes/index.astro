@@ -1,0 +1,236 @@
+---
+import SiteHeader from '../../components/SiteHeader.astro';
+import { absoluteUrl, siteConfig } from '../../../site.config.mjs';
+import { readEpisodeIndex } from '../../lib/episodes.mjs';
+
+const episodeIndex = await readEpisodeIndex();
+const episodes = episodeIndex.episodes ?? [];
+const title = 'Episodes | Jiang Lens';
+const description = 'Compressed Jiang Lens episode readings with source video and transcript archive links.';
+
+function cleanDate(episode) {
+  return episode.published_at || String(episode.date_label || '').replace(/,\s*.*$/, '');
+}
+
+function youtubeVideoId(episode) {
+  const value = episode.source_url || episode.embed_url || '';
+  const match = value.match(/(?:v=|embed\/|youtu\.be\/)([^&?/]+)/);
+  return match?.[1] || '';
+}
+
+function thumbnailUrl(episode) {
+  const videoId = youtubeVideoId(episode);
+  return videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : '';
+}
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={absoluteUrl('/episodes/')} />
+    <meta name="theme-color" content={siteConfig.seo.themeColor} />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090a08;
+        --ink: #f4ead8;
+        --soft: #d1c6b4;
+        --muted: #928b7d;
+        --line: rgba(244, 234, 216, 0.14);
+        --line-strong: rgba(244, 234, 216, 0.28);
+        --accent: #c85a37;
+        --gold: #c9a765;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background: var(--bg);
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        width: min(1360px, calc(100% - 36px));
+        margin: 0 auto;
+      }
+
+      main {
+        padding: 46px 0 70px;
+      }
+
+      .page-head {
+        max-width: 900px;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      h1 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(2.15rem, 4.8vw, 3.35rem);
+        font-weight: 560;
+        line-height: 1.04;
+      }
+
+      .lead {
+        max-width: 720px;
+        margin: 16px auto 0;
+        color: var(--soft);
+        font-size: 1rem;
+        line-height: 1.62;
+      }
+
+      .episodes {
+        width: min(1040px, 100%);
+        display: grid;
+        margin: 38px auto 0;
+      }
+
+      .episode {
+        display: grid;
+        grid-template-columns: minmax(210px, 300px) minmax(0, 1fr);
+        align-items: start;
+        gap: 22px;
+        border-top: 1px solid var(--line);
+        padding: 24px 0;
+        text-decoration: none;
+      }
+
+      .episode:hover h2 {
+        color: var(--gold);
+      }
+
+      .thumb {
+        position: relative;
+        overflow: hidden;
+        border: 1px solid rgba(244, 234, 216, 0.16);
+        background: #000;
+        aspect-ratio: 16 / 9;
+      }
+
+      .thumb img {
+        width: 100%;
+        height: 100%;
+        display: block;
+        object-fit: cover;
+      }
+
+      h2 {
+        margin: 0;
+        color: var(--ink);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(1.35rem, 2.2vw, 1.9rem);
+        font-weight: 560;
+        line-height: 1.15;
+      }
+
+      .source-title {
+        margin: 13px 0 0;
+        color: var(--soft);
+        font-size: 0.8rem;
+        font-weight: 720;
+        line-height: 1.35;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px 13px;
+        margin-top: 5px;
+        color: var(--muted);
+        font-size: 0.8rem;
+        line-height: 1.35;
+      }
+
+      .meta span {
+        display: inline-flex;
+        align-items: baseline;
+        gap: 4px;
+        white-space: nowrap;
+      }
+
+      .meta span + span::before {
+        content: "/";
+        margin-right: 6px;
+        color: rgba(244, 234, 216, 0.26);
+      }
+
+      .meta b {
+        color: var(--soft);
+        font-size: inherit;
+        font-weight: 620;
+      }
+
+      .dek {
+        max-width: 900px;
+        margin: 10px 0 0;
+        color: var(--soft);
+        font-size: 0.94rem;
+        line-height: 1.58;
+      }
+
+      @media (max-width: 760px) {
+        .shell {
+          width: min(100% - 28px, 1360px);
+        }
+
+        .page-head {
+          text-align: left;
+        }
+
+        .lead {
+          margin-left: 0;
+        }
+
+        .episode {
+          grid-template-columns: 1fr;
+          gap: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <SiteHeader base="../" current="episodes" maxWidth="1360px" />
+    <main class="shell">
+      <section class="page-head">
+        <h1>Episodes</h1>
+        <p class="lead">
+          Compressed readings built from source video and transcript, designed to be read in minutes while preserving a link back to the source.
+        </p>
+      </section>
+      <div class="episodes">
+        {episodes.map((episode) => (
+          <a class="episode" href={`./${episode.slug}/`}>
+            {thumbnailUrl(episode) && (
+              <div class="thumb" aria-hidden="true">
+                <img src={thumbnailUrl(episode)} alt="" loading="lazy" decoding="async" />
+              </div>
+            )}
+            <div>
+              <h2>{episode.title}</h2>
+              {episode.dek && <p class="dek">{episode.dek}</p>}
+              {episode.source_title && <p class="source-title">{episode.source_title}</p>}
+              <div class="meta">
+                <span>Date <b>{cleanDate(episode)}</b></span>
+                <span>Video <b>{episode.counts.duration_label}</b></span>
+                {episode.read_time && <span>Read <b>{episode.read_time}</b></span>}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </main>
+  </body>
+</html>

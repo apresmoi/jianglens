@@ -1,0 +1,1550 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-677rmlrgvlq:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-677rmlrgvlq",
+  "source_id": "video:predictive-history-677rmlrgvlq",
+  "source_title": "Civilization #7:  Homer's Iliad and the Birth of Greek Civilization",
+  "source_url": "https://www.youtube.com/watch?v=677rmlRgvLQ",
+  "source_date": "2024-10-10",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-677rmlrgvlq@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-677rmlrgvlq/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-677rmlrgvlq/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-677rmlrgvlq/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-677rmlrgvlq/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-677rmlrgvlq/packet-0005.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-677rmlrgvlq/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-677rmlrgvlq/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 5,
+    "interactions": 16,
+    "speaker_notes": 5,
+    "claims": 51,
+    "signature_moments": 21,
+    "predictions": 0,
+    "models": 28,
+    "glossary_terms": 25,
+    "chronology_notes": 4,
+    "uncertainty_notes": 9
+  },
+  "first_refs": [
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0002",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0003",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0005",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007",
+    "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by making the strongest possible claim for Greek civilization: Homer, Plato, and Thucydides remain active civilizational forces, so the problem is how a brief Greek window produced works still transforming readers and strategists.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0003",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He returns to the Bronze Age collapse and frames Greece's loss of centralization, literacy, and wealth as the strange precondition of later creative greatness.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0005",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He lays out the three-revolution structure: the polis as political revolution, the alphabet as language revolution, and Homer as intellectual revolution; he then starts with the polis as a small, competitive, diverse, and participatory community.",
+      "speaker_attribution": "Jiang lecture monologue with classroom-check prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0009",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0010",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0011",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains writing as a sequence of increasing abstraction: economic contract, pictogram, symbol, ideogram, syllable or sound, and finally alphabet, where writing can become speech.",
+      "speaker_attribution": "Jiang lecture monologue using board examples.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0013",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts oral culture with literate culture, arguing that oral life is emotional, inventive, and memory-intensive.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0015",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He gives writing culture its counter-advantages: logic, discipline, and reflective brain space; the Greeks matter because alphabetic literacy let them combine oral and literate strengths.",
+      "speaker_attribution": "Jiang lecture monologue with classroom-check prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns from the alphabet to Homer by describing the normal court-poet function: poets legitimize kings, create common cultural identity, and define a people by contrast with outsiders.",
+      "speaker_attribution": "Jiang lecture monologue with brief classroom prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0021",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Because Homer had no king, he had to persuade ordinary poor Greeks to pay him; Jiang says Homer succeeded by entertaining, educating speech, and edifying listeners by altering how they saw, felt, and imagined the world.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0023",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He begins the Trojan War story with Nemesis, the golden apple, the three goddesses, Paris's judgment, Aphrodite's bribe, Helen's abduction, and the Greek attack on Troy.",
+      "speaker_attribution": "Jiang recounting mythic narrative.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0025",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the ordinary Trojan victory story and then says the Iliad invents literature by telling the war from both sides, making the Trojans more heroic, and creating empathy.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0027",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0028",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0029",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "He recounts Achilles, Patroclus, Hector, and Priam to show Homer's psychological invention: Achilles' guilt turns into hatred, while Priam's love and humility defeat Achilles more deeply than violence could.",
+      "speaker_attribution": "Jiang recounting and interpreting the Iliad.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0031",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He names metaphors as tools for thought and concludes that the Iliad's empathy, psychology, and metaphor create a new theory of the human based on seeing, feeling, imagining, and thinking.",
+      "speaker_attribution": "Jiang lecture monologue with classroom-check prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0033"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang concludes the main Greek model by saying memorized Homer transformed Greeks and that polis, alphabet, and Homer became the basis of Western civilization; he then opens the comparison with China.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0034",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the Greek alphabet by contact and transmission through Egypt and the Phoenicians, then explains China's nonalphabetic path by isolation, stability, and scholar-official control of literacy.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0036",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0037",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "He extends the China comparison: bureaucracy depends on literacy, Confucian hierarchy places poets at the bottom, Greece puts Homer at the top, and censorship blocks the independent thinking that destruction made possible in Greece.",
+      "speaker_attribution": "Jiang lecture monologue with a possible unheard student prompt around 'Excuse me?'.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0039"
+      ],
+      "kind": "monologue",
+      "summary": "Brief closing transition to continue the Greeks.",
+      "speaker_attribution": "Jiang lecture closing.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+      ],
+      "note": "All focus refs are diarized to one speaker and read as Jiang's lecture. The repeated 'Does that make sense?' and 'Any questions so far?' prompts are classroom checks, not captured audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0009",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0016"
+      ],
+      "note": "All focus refs are Jiang's lecture. Prompts asking whether students follow along are not standalone audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "note": "The focus refs are one-speaker lecture. Jiang asks rhetorical and classroom questions such as 'why are you king?' and appears to affirm an expected answer, but no student question is captured as independent audio.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0025",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "note": "All focus refs are Jiang's lecture voice. The Iliad plot is paraphrased narrative rather than quoted source text.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0033",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0039"
+      ],
+      "note": "The packet is overwhelmingly Jiang's lecture. Segment 0036 contains 'Excuse me?' followed by an answer-like explanation, suggesting a possible unheard student prompt, but the student's actual question is not captured.",
+      "suggested_speaker": "Jiang, with possible uncaptured student prompt in seg-0036",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims Greek civilization created Western civilization and has no real second peer in human history.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Civilizational claim stated in the 2024-10-10 lecture.",
+      "topic_tags": [
+        "greek-civilization",
+        "western-civilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Homer, Plato, and Thucydides remain alive as practical forces because modern readers, students, and military leaders still use them to transform thought and action.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Claim about ancient works and their modern reception.",
+      "topic_tags": [
+        "homer",
+        "plato",
+        "thucydides",
+        "great-books"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture's opening problem is how the Greeks produced humanity's greatest civilization in roughly two hundred years despite not being dominant for long.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive framing of ancient Greek history.",
+      "topic_tags": [
+        "civilizational-creativity",
+        "greek-history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "After the Bronze Age collapse, Greece lost centralization, literacy, and wealth, entering a period Jiang identifies as the Dark Ages from about 1000 to 600 BCE.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0003",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Ancient historical claim about post-1200 BCE Greece.",
+      "topic_tags": [
+        "bronze-age-collapse",
+        "dark-ages",
+        "decentralization",
+        "illiteracy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The core reversal is that Greece became the most creative civilization because old Greece was destroyed and became chaotic, illiterate, and poor.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Civilizational model stated in the 2024-10-10 lecture.",
+      "topic_tags": [
+        "destruction",
+        "innovation",
+        "civilizational-renewal"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names three causes of Greek dominance: the polis, the alphabet, and Homer.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0005",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model of Greek civilizational emergence.",
+      "topic_tags": [
+        "polis",
+        "alphabet",
+        "homer"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the polis less as a city-state than as a community of people who discuss politics together and decide how to run the town.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "polis",
+        "politics",
+        "community"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He casts the polis as a political revolution, the alphabet as a language revolution, and Homer as an intellectual revolution in how Greeks imagined the world.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model of three revolutions.",
+      "topic_tags": [
+        "political-revolution",
+        "language-revolution",
+        "intellectual-revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Competition among many small polises for resources and war drove innovation in Greece.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Model of ancient Greek political competition.",
+      "topic_tags": [
+        "competition",
+        "war",
+        "innovation",
+        "polis"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek geography created diverse economies, cultures, and societies, adding another source of political and cultural variation.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Ancient Greek historical model.",
+      "topic_tags": [
+        "geography",
+        "diversity",
+        "greek-civilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek democracy emerges in Jiang's account because poor polises needed everyone to fight, and the people who defended the polis gained the right to speak.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Model of the ancient Greek origin of democratic speech.",
+      "topic_tags": [
+        "democracy",
+        "military-participation",
+        "speech",
+        "poverty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says early writing in Egypt and Sumeria solved an economic problem by functioning as a contract for labor and payment.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0009",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical model of early writing systems.",
+      "topic_tags": [
+        "writing",
+        "contract",
+        "egypt",
+        "sumeria"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He models writing's development as a movement from pictograms to symbols to ideograms to sounds and consonants, with each innovation making language more flexible.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0010",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0011",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "General model of writing-system development.",
+      "topic_tags": [
+        "pictogram",
+        "ideogram",
+        "alphabet",
+        "language-flexibility"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines an ideogram as a sign that represents an idea or concept, and identifies Chinese as an ideogramic language in this lecture.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0010",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "ideogram",
+        "chinese-language"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Before alphabetic writing, writing and speaking were different languages, requiring a professional class of scribes to manage literacy.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical model of pre-alphabetic literacy.",
+      "topic_tags": [
+        "scribes",
+        "literacy",
+        "writing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The alphabet is revolutionary because it lets writing become speaking, increasing the human capacity to think.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Civilizational model in the lecture.",
+      "topic_tags": [
+        "alphabet",
+        "thinking",
+        "speech",
+        "writing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines oral culture as a world where people do not write but speak, and he says its strengths are emotional force, openness to verbal invention, and powerful memory.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0013",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Definition and model in the lecture.",
+      "topic_tags": [
+        "oral-culture",
+        "memory",
+        "emotion",
+        "innovation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He provocatively claims that oral-culture people had photographic memory and were in that respect smarter than people today, just as hunter-gatherers were stronger, faster, and healthier.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0014",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Broad comparative claim in the 2024-10-10 lecture.",
+      "topic_tags": [
+        "oral-culture",
+        "memory",
+        "hunter-gatherers",
+        "modernity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Writing culture forces argument to become logical, disciplined, and reflectable because the reader can examine it at their own time.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0015",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Model of literate culture.",
+      "topic_tags": [
+        "writing-culture",
+        "logic",
+        "discipline",
+        "reflection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek alphabetic culture combined oral culture's emotional, innovative memory with literate culture's disciplined, focused, logical mind.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Model of ancient Greek cognitive synthesis.",
+      "topic_tags": [
+        "greek-civilization",
+        "alphabet",
+        "oral-culture",
+        "literate-culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says kings hire poets to solve the problem of legitimate authority: power won by killing must be cleaned up and made divine.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "General model of ancient political poetry.",
+      "topic_tags": [
+        "poets",
+        "kingship",
+        "legitimacy",
+        "violence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In this model, the poet functions as a vessel for divine messages, and a beautiful divine song can make the king himself appear divine.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Model of poetic legitimation in the lecture.",
+      "topic_tags": [
+        "poet",
+        "divine-inspiration",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The second function of literary works is cultural identity: common stories tell a people what it means to be Chinese, Roman, biblical, or otherwise unified.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "General model of literature and political identity.",
+      "topic_tags": [
+        "cultural-identity",
+        "literature",
+        "political-unity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The third function is cultural differentiation: to know who one is, a group must also know who it is not.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "cultural-differentiation",
+        "identity",
+        "otherness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Most literary works in Jiang's frame are sponsored by powers that exist to solve legitimacy, identity, and differentiation problems.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "General model of literature and power.",
+      "topic_tags": [
+        "literature",
+        "power",
+        "patronage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Homer is exceptional because there was no king to pay him; he had to appeal directly to ordinary poor people.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical interpretation of Homer in the lecture.",
+      "topic_tags": [
+        "homer",
+        "ordinary-people",
+        "patronage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ordinary Greeks paid poets for entertainment, for education in public speech, and for edification.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0021",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Model of Homeric social function.",
+      "topic_tags": [
+        "entertainment",
+        "education",
+        "edification",
+        "speech"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Edification means becoming a better or higher self by having the way one sees, feels, and imagines the world changed.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "edification",
+        "perception",
+        "imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang recounts the Trojan War as beginning with Nemesis's golden apple, Paris's choice of Aphrodite's bribe, and the abduction of Helen from Sparta to Troy.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0023",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Mythic narrative as presented in the lecture.",
+      "topic_tags": [
+        "trojan-war",
+        "golden-apple",
+        "paris",
+        "helen"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The conventional Trojan War story ends with Odysseus's wooden horse, Greek soldiers entering Troy at night, opening the gates, and slaughtering the Trojans.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Mythic narrative as presented in the lecture.",
+      "topic_tags": [
+        "trojan-war",
+        "wooden-horse",
+        "odysseus"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Iliad invents literature by refusing to tell the story only from the Greek side and by making the Trojans more heroic, courageous, and brave than the Greeks.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Interpretive claim about the Iliad.",
+      "topic_tags": [
+        "iliad",
+        "literature",
+        "perspective",
+        "trojans"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "By switching perspectives, Homer creates empathy: the ability to see the world from the perspective of other people.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Definition and model in the lecture.",
+      "topic_tags": [
+        "empathy",
+        "perspective",
+        "homer"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iliad's second new feature is human psychology: it asks what motivates Achilles, Priam, and others to fight.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Interpretive claim about the Iliad.",
+      "topic_tags": [
+        "human-psychology",
+        "motivation",
+        "iliad"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Achilles' hatred of Hector is explained as displaced guilt: Achilles knows Patroclus died because Achilles' pride and refusal to fight left the Greeks exposed.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0028",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretive reading of the Iliad plot.",
+      "topic_tags": [
+        "achilles",
+        "patroclus",
+        "guilt",
+        "pride"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priam's refusal to kill Achilles and his act of kneeling and kissing Achilles' hand produce awe, shame, and remorse in Achilles.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interpretive reading of the Iliad ending.",
+      "topic_tags": [
+        "priam",
+        "achilles",
+        "remorse",
+        "love"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The main message of the Iliad, in Jiang's reading, is that love rather than war creates civilization.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Central interpretation of the Iliad in the lecture.",
+      "topic_tags": [
+        "iliad",
+        "love",
+        "civilization",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priam's love for Hector gives him the courage to defeat Achilles in battle, and that defeat lets Achilles forgive himself and do what is right and just.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interpretive reading of the Iliad ending.",
+      "topic_tags": [
+        "priam",
+        "achilles",
+        "forgiveness",
+        "justice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A metaphor is a connection between things previously unseen; because it makes a new connection, it is a new thought and a tool for thought.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "metaphor",
+        "thought",
+        "imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iliad's perspective shifts, psychology, and metaphors together produce a theory of the human: to be human is to have empathy, imagination, and the willingness to think.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Central model in the lecture.",
+      "topic_tags": [
+        "theory-of-human",
+        "empathy",
+        "imagination",
+        "thinking"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Greeks believed the founder of their civilization was not a general but the poet Homer.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Civilizational interpretation in the lecture.",
+      "topic_tags": [
+        "homer",
+        "civilization",
+        "poetry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Memorizing and reciting the Iliad further transformed Greeks because they were trained in oral culture's strong memory.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interpretive claim about ancient Greek formation.",
+      "topic_tags": [
+        "iliad",
+        "memory",
+        "oral-culture",
+        "greek-civilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says polis, alphabet, and Homer are the three reasons Western civilization exists as it does.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Civilizational model in the lecture.",
+      "topic_tags": [
+        "polis",
+        "alphabet",
+        "homer",
+        "western-civilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Greeks developed the alphabet because Greece was not isolated and could receive innovations through Egyptian and Phoenician contact after becoming illiterate.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Historical model of alphabet transmission.",
+      "topic_tags": [
+        "alphabet",
+        "egypt",
+        "phoenicians",
+        "greece"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "China did not develop the alphabet, in Jiang's account, because it was isolated and stable for most of its history.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0034",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Comparative civilizational claim in the 2024-10-10 lecture.",
+      "topic_tags": [
+        "china",
+        "alphabet",
+        "isolation",
+        "stability"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Scholar officials' secret power was literacy, which made them indispensable to the emperor and gave them a monopoly they did not want to give up.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Comparative historical model of Chinese bureaucracy.",
+      "topic_tags": [
+        "scholar-officials",
+        "literacy",
+        "bureaucracy",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Classical Chinese is described as a language created or intensified by elites so that only they could master literacy.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Comparative historical claim in the lecture.",
+      "topic_tags": [
+        "classical-chinese",
+        "literacy-monopoly",
+        "elite"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Bureaucracy depends on reading and writing because it must transport information from one place to another.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "General model of bureaucracy.",
+      "topic_tags": [
+        "bureaucracy",
+        "literacy",
+        "information"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's account of Confucian hierarchy, scholar officials sit at the top, farmers and artisans below them, merchants below that, and artists or poets at the bottom.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0036",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Model of Chinese social hierarchy as presented in the lecture.",
+      "topic_tags": [
+        "confucianism",
+        "social-hierarchy",
+        "poets",
+        "scholar-officials"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greece inverted that hierarchy by placing Homer at the top, so Plato and Thucydides tried to become Homer-like teachers, inspirers, and begetters of civilization.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Civilizational comparison in the lecture.",
+      "topic_tags": [
+        "homer",
+        "plato",
+        "thucydides",
+        "poetry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues China did not produce a Homer or great thinker because scholar officials feared independent thinking and used censorship to control how people thought.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Comparative civilizational diagnosis in the lecture.",
+      "topic_tags": [
+        "china",
+        "censorship",
+        "independent-thinking",
+        "homer"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture's final human-history message is that destruction enables innovation, and through that process human beings rejuvenate society.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "General theory of human history in the lecture.",
+      "topic_tags": [
+        "destruction",
+        "innovation",
+        "rejuvenation",
+        "human-history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004"
+      ],
+      "moment": "The destruction of old Greece becomes the condition of Greek greatness.",
+      "source_phrase": "It's because Greece became chaotic, illiterate, and poor that Greece eventually became the greatest civilization in the world",
+      "why_it_matters": "This is the lecture's central reversal: civilizational collapse is not only loss, but the opening for new forms.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006"
+      ],
+      "moment": "Greek civilization is organized as three revolutions: political, linguistic, and intellectual.",
+      "source_phrase": "The polis was a political revolution... The alphabet was a language revolution... Homer was really an intellectual... revolution",
+      "why_it_matters": "It gives the later episode read its governing structure and keeps Homer from becoming just a literary example.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+      ],
+      "moment": "The right to speak comes from defending the polis.",
+      "source_phrase": "you could be rich or poor, but if you fought for us, you had the right to speak",
+      "why_it_matters": "It compresses Jiang's materialist account of democracy: poverty and war force participation before it becomes an ideal.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "moment": "Alphabetic writing collapses the distance between writing and speech.",
+      "source_phrase": "with the alphabet, writing can become speaking",
+      "why_it_matters": "This phrase carries the whole cognitive model of the alphabet as a new human thinking technology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0014",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0015"
+      ],
+      "moment": "The past is not primitive; oral people are described as mentally stronger because speech forced memory.",
+      "source_phrase": "during oral culture, everyone had a photographic memory",
+      "why_it_matters": "It prevents the lecture from becoming a simple progress story and preserves Jiang's reversal about modern loss.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0016"
+      ],
+      "moment": "The Greek advantage is a hybrid mind: oral heat plus literate discipline.",
+      "source_phrase": "they combined the advantages of both cultures",
+      "why_it_matters": "It ties the alphabet back to Greek civilizational creativity rather than treating it as a technical tool.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "moment": "The violent king needs poetry to clean up his image.",
+      "source_phrase": "when they become king, they need to clean up their image",
+      "why_it_matters": "It makes literature part of political laundering, not just culture or beauty.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "moment": "The poet becomes a vessel for divine legitimacy.",
+      "source_phrase": "The poet is a vessel. A vessel for divine messages",
+      "why_it_matters": "It gives Jiang's theory of poetry and authority its sharp religious mechanism.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "moment": "Homer's edification changes how listeners see, feel, and imagine the world.",
+      "source_phrase": "by changing the way that you saw the world around you. The way you felt about the world, the way you imagined the world",
+      "why_it_matters": "This is the bridge from poetry as performance to poetry as a machine for remaking perception.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0023",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "moment": "A golden apple creates a chain of divine rivalry, desire, abduction, and war.",
+      "source_phrase": "Nemesis likes to create problems... she creates this apple. It's a golden apple",
+      "why_it_matters": "The image preserves the mythic texture that later lets Jiang contrast ordinary victory stories with Homer's deeper invention.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026"
+      ],
+      "moment": "The Iliad makes the enemy more heroic than the victors.",
+      "source_phrase": "the Trojans are actually more heroic, more courageous, and more brave than the Greeks",
+      "why_it_matters": "This reversal carries Jiang's claim that literature begins when victory stops being the only viewpoint.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0029"
+      ],
+      "moment": "Achilles tortures Hector's body because he is really punishing his own guilt.",
+      "source_phrase": "his guilt turns into an intense hatred for Hector and that's why he's torturing Hector's body",
+      "why_it_matters": "It preserves the psychological mechanism Jiang says Homer invents.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030"
+      ],
+      "moment": "Priam defeats Achilles by kneeling before him, not by killing him.",
+      "source_phrase": "Priam instead kneels down and kisses the hand of Achilles",
+      "why_it_matters": "The image carries the lecture's reversal of power: love and courage defeat violence.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030"
+      ],
+      "moment": "Civilization is created by love, not war.",
+      "source_phrase": "it's not war that creates civilization. It is love that creates civilization",
+      "why_it_matters": "This is the episode's strongest Iliad thesis and should survive in the public read.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0031"
+      ],
+      "moment": "Metaphor is a new thought because it connects what had not been connected.",
+      "source_phrase": "A metaphor is connecting two things that before were not connected. If you think about it, what this is is a new thought",
+      "why_it_matters": "It links poetic form to the civilizational production of thought.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "moment": "To be human is to be willing to see, feel, and think.",
+      "source_phrase": "Only if you're willing to see, feel, and think are you human",
+      "why_it_matters": "It compresses the episode's theory of the human into one memorable sentence.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0033"
+      ],
+      "moment": "The Iliad does not merely educate Greeks; memorizing it transforms them as humans.",
+      "source_phrase": "because they memorized the Iliad, it further transformed them as humans",
+      "why_it_matters": "It keeps the episode focused on poetry as formation, not just literary inheritance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035"
+      ],
+      "moment": "Literacy is the scholar-officials' secret power.",
+      "source_phrase": "What was their secret power? It was the ability to read and write",
+      "why_it_matters": "It sharpens the China comparison into a theory of monopoly over symbolic technology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0037"
+      ],
+      "moment": "Greece puts poets first while China puts them last.",
+      "source_phrase": "In Greece, this was the complete opposite. They placed Homer at the very top of the society",
+      "why_it_matters": "It is the compact civilizational contrast that explains why Homer becomes a founder.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0037"
+      ],
+      "moment": "Plato and Thucydides wanted to become Homer, a teacher and begetter of civilization.",
+      "source_phrase": "He was trying to become a teacher of civilization, an inspirer of civilization, okay? A begotter of civilization",
+      "why_it_matters": "It turns later Greek works into attempts to continue Homer's generative office.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "moment": "Human beings rejuvenate society through destruction.",
+      "source_phrase": "It's through destruction that we have innovation",
+      "why_it_matters": "It closes the episode by returning to the opening Bronze Age reversal as a general law of history.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "polis",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0005",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A small political community where people discuss how to run the town; the root of politics and a driver of participation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dark Ages",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's name for the roughly 1000-600 BCE period when Greeks lost writing and left no books or writing from the period.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bronze Age collapse",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The collapse of Mycenaean centralized society around 1200 BCE that made Greece decentralized, illiterate, and poor.",
+      "confidence": "high"
+    },
+    {
+      "term": "democracy",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The right and responsibility to participate politically in the polis, grounded here in common military responsibility.",
+      "confidence": "high"
+    },
+    {
+      "term": "Homer",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The poet who created the Iliad and Odyssey and, in Jiang's model, introduced a new way for Greeks to imagine the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "pictogram",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0009",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "A picture-sign used in early writing to represent contract-like information about labor and payment.",
+      "confidence": "high"
+    },
+    {
+      "term": "ideogram",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0010",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A sign that represents an idea or concept, exemplified by sun plus moon yielding the concept of day.",
+      "confidence": "high"
+    },
+    {
+      "term": "scribes",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "A professional class required to manage complicated writing systems before writing could become speech.",
+      "confidence": "high"
+    },
+    {
+      "term": "oral culture",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0013",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "A culture organized around speech rather than writing, marked here by emotion, invention, and memory.",
+      "confidence": "high"
+    },
+    {
+      "term": "literate culture",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0015",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A writing culture whose arguments must stand up to logical, disciplined, reflective reading.",
+      "confidence": "high"
+    },
+    {
+      "term": "legitimate authority",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The problem of explaining why a king should rule after gaining power through violence.",
+      "confidence": "high"
+    },
+    {
+      "term": "cultural identity",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "A shared story that tells a people what it means to belong together.",
+      "confidence": "high"
+    },
+    {
+      "term": "cultural differentiation",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Knowing who one is by knowing who one is not.",
+      "confidence": "high"
+    },
+    {
+      "term": "edification",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Becoming a better or higher self because poetry changes how one sees, feels, and imagines the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trojan War",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The popular mythic story of Paris, Helen, and the Greek attack on Troy that Homer transforms in the Iliad.",
+      "confidence": "high"
+    },
+    {
+      "term": "empathy",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "The ability to see the world from another person's perspective, created by Homer's switching of sides.",
+      "confidence": "high"
+    },
+    {
+      "term": "human psychology",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The Iliad's concern with why characters act, feel guilt, hate, love, and forgive.",
+      "confidence": "high"
+    },
+    {
+      "term": "metaphor",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "A connection between previously unconnected things; a new thought and tool for thought.",
+      "confidence": "high"
+    },
+    {
+      "term": "theory of human",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Homer's model of human beings as creatures of empathy, imagination, and willingness to think.",
+      "confidence": "high"
+    },
+    {
+      "term": "Iliad",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The Homeric work that Jiang says invents literature by creating empathy, psychology, metaphor, and a new theory of humanity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Classical Chinese",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "A written language associated here with elite literacy monopoly and mastery by scholar officials.",
+      "confidence": "medium"
+    },
+    {
+      "term": "scholar officials",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0035",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Confucian bureaucratic elites whose power comes from reading, writing, and information transport.",
+      "confidence": "high"
+    },
+    {
+      "term": "censorship",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The scholar-official function of controlling how people thought and blocking independent thinking.",
+      "confidence": "high"
+    },
+    {
+      "term": "father of civilization",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang's description of Homer as the figure Greeks imitate when trying to inspire or beget civilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "destruction and innovation",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The human-history model that destruction opens the space for innovation and social rejuvenation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0001",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0003"
+      ],
+      "note": "The lecture dates Homer to roughly 3,000 years ago, Mycenaean Greece to about 1200 BCE, and the Greek Dark Ages to about 1000-600 BCE.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0009",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0012"
+      ],
+      "note": "The packet gives a developmental sequence for writing systems from contract pictograms through alphabetic consonants; keep this as Jiang's 2024-10-10 lecture model when comparing with other source dates.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "note": "Jiang dates Homer uncertainly, saying he may have lived around 800 to 600 BCE.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0033",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0038"
+      ],
+      "note": "The packet explicitly generalizes from ancient Greece to a broader law of human history; preserve the lecture date when later comparing this destruction/innovation model to other Jiang sources.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0005",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006"
+      ],
+      "note": "The transcript sometimes renders plural 'polises' as 'policies'; semantic extraction treats this as the Greek polis/polises."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0009"
+      ],
+      "note": "The transcript renders 'Samaria'; the intended historical referent is likely Sumeria/Sumer, but the semantic pass preserves the source as a lecture claim rather than external correction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0013"
+      ],
+      "note": "The phrase 'advantages to both writing and writing' appears to be ASR damage for a contrast between oral and writing/literate cultures."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "note": "The transcript likely garbles titles such as Romance of the Three Kingdoms and Aeneid; treat them as lecture examples of politically useful literary works."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "note": "The 'Exactly. God chose me' line suggests an expected classroom response, but no independent student wording is captured."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0025",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0026"
+      ],
+      "note": "The packet blends broad Trojan War myth with Jiang's interpretation of the Iliad; semantic claims should keep plot recap distinct from the interpretive claim that the Iliad invents literature."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0034"
+      ],
+      "note": "The claim that Egyptians developed the alphabet should be treated as Jiang's lecture formulation; he also assigns transmission to Phoenician traders."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0036"
+      ],
+      "note": "The transcript captures 'Excuse me?' but not the student's wording, so no public source question should be extracted from this packet."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0039"
+      ],
+      "note": "The final segment is a short closing transition and carries no substantive semantic claim beyond continuation."
+    }
+  ]
+}

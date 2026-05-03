@@ -1,0 +1,242 @@
+{
+  "packet_id": "predictive-history-dc54iqur7ik-semantics-pkt-0001",
+  "source_id": "video:predictive-history-dc54iqur7ik",
+  "source_date": "2024-11-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0001",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0002",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0003",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reviews the immediate aftermath of Caesar's assassination: Antony makes a temporary peace, stirs public anger, reads a will that gives money and parks to the people, and discovers that Caesar named Octavian rather than Antony as heir.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0004",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0005",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang maps the post-Caesar field as a volatile Game of Thrones situation: Antony, Octavian, the conspirators, Lepidus, and Cicero each claim a different relation to Caesar, the army, or the Senate.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0007",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang begins the civil-war sequence: the weakest player, Octavian, is authorized by Cicero, then joins Antony and Lepidus in the brutal second triumvirate before marching on Brutus and Cassius.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0001",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous lecture exposition; diarized SPEAKER_01 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the post-assassination peace settlement as unstable because Antony publicly accepted no revenge while privately turning Roman sentiment against the conspirators.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0001",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "rome",
+        "caesar-assassination",
+        "mark-antony"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's will becomes evidence of a political love stronger than faction: it gives wealth and public parks to the people, names Octavian heir, and even leaves Antony and Decimus Brutus as secondary heirs.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0002",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0003",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "caesar-will",
+        "political-love",
+        "octavian"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Octavian's early legitimacy is built by honoring Caesar's will with borrowed money when Antony refuses to release Caesar's property.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "octavian",
+        "legitimacy",
+        "caesar-will"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The immediate post-Caesar struggle is a multi-sided legitimacy game: Antony, Octavian, Lepidus, Cicero, and the conspirators all seek power through different claims to Caesar, armies, or the Senate.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0005",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0006",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "legitimacy",
+        "civil-war",
+        "senate"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang emphasizes that Octavian begins as the least likely victor: he is eighteen, has no army, and has few allies, yet over fifteen years he destroys every rival.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "octavian",
+        "civil-war",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The second triumvirate is described as a brutal dictatorship that begins by killing enemies, including Cicero, and replacing about a third of the Senate with allies.",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-11-19",
+      "topic_tags": [
+        "second-triumvirate",
+        "violence",
+        "senate"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0003",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0004"
+      ],
+      "moment": "Caesar's will is shocking because it shows him loving Rome even through the people who killed him.",
+      "source_phrase": "Caesar really loved them... including the people who conspired to kill him",
+      "why_it_matters": "This establishes the lecture's later reversal: the dead Caesar becomes more powerful because his generosity makes doubt feel like guilt.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0005",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0006"
+      ],
+      "moment": "Rome after Caesar is a Game of Thrones board where every player has a different claim and a different myth of legitimacy.",
+      "source_phrase": "a volatile Game of Thrones situation",
+      "why_it_matters": "The pop-culture metaphor compresses the political map into rival claims, not just armies.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0007"
+      ],
+      "moment": "The weakest player is the one who will destroy everyone else.",
+      "source_phrase": "one by one Octavian destroys all his enemies",
+      "why_it_matters": "The lecture's central puzzle is set as a dramatic inversion: the boy with no army becomes the author of empire.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0008"
+      ],
+      "moment": "The triumvirate starts by killing even Cicero, Octavian's patron, and remaking the Senate into a loyal instrument.",
+      "source_phrase": "including Cicero, who was previously the patron of Octavian",
+      "why_it_matters": "It shows how quickly legitimacy politics becomes institutional purge once the heirs of Caesar share power.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Caesar's will",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0002",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0003",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The posthumous document Jiang treats as the engine of Caesar's myth: gifts to citizens, public property, Octavian's adoption, and shocking generosity toward enemies.",
+      "confidence": "high"
+    },
+    {
+      "term": "Octavian",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The historical shorthand Jiang uses for Gaius Octavius after Caesar names him adopted son and heir.",
+      "confidence": "high"
+    },
+    {
+      "term": "Second triumvirate",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The power-sharing dictatorship of Lepidus, Octavian, and Mark Antony, described as beginning with a purge of enemies.",
+      "confidence": "high"
+    },
+    {
+      "term": "Optimates",
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The conservative Senate faction; the transcript renders the term as 'optimist/optimists,' likely an ASR error.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0001",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0008"
+      ],
+      "note": "Claims come from Jiang's 2024-11-19 lecture on Caesar's will and the birth of empire; this packet covers the 44-42 BCE setup as narrated in that lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0005",
+        "video:predictive-history-dc54iqur7ik@transcript:v1#seg-0006"
+      ],
+      "note": "ASR repeatedly distorts proper names and terms, including Brutus as 'buddhist,' Antony as 'Anthony,' and Optimates as 'optimists'; semantic extraction normalizes where context is clear."
+    }
+  ]
+}

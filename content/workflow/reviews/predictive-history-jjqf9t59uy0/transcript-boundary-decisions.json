@@ -1,0 +1,150 @@
+{
+  "source_slug": "predictive-history-jjqf9t59uy0",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:dbee4c0580e5",
+      "decision": "reject",
+      "reason": "The next segment starts a new example after a complete prior sentence, not an obvious sentence completion."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:1de2c52a8f53",
+      "decision": "approve",
+      "reason": "Completes 'It's much more likely to contract disease and then die.'"
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:96bd3928c63b",
+      "decision": "approve",
+      "reason": "Completes the question 'Why do we behave the way we behave?'"
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:6298813a4f06",
+      "decision": "approve",
+      "reason": "Completes 'You can build walls around your farm, you can defend yourself a lot easier.'"
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:aabc21cb361a",
+      "decision": "approve",
+      "reason": "Completes 'the evidence for this is anthropology...'"
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-trailing-starter-to-next:c7808c3556c8",
+      "decision": "approve",
+      "reason": "Moves 'Because let's' before 'just say...' to complete the sentence starter."
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:90812fa72a8d",
+      "decision": "approve",
+      "reason": "Completes 'We don't find evidence of large violence among different groups.'"
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-leading-completion-to-previous:d1ae3be42fc1",
+      "decision": "approve",
+      "reason": "Completes the reincarnation sequence ending 'then you're reborn again.'"
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:d4d4a031edc0",
+      "decision": "approve",
+      "reason": "Completes the site name 'Gobekli Tepe' before the next sentence."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Moves the closing 'okay?' onto the prior sentence about T-shapes representing human beings."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:9f573d3d1258",
+      "decision": "approve",
+      "reason": "Completes 'as hunter-gatherer, you need to associate with other hunter-gatherers...'"
+    },
+    {
+      "candidate_id": "seg-0018->seg-0019:move-leading-completion-to-previous:062e99299a8a",
+      "decision": "approve",
+      "reason": "Completes 'some people even chose to stay with them...'"
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:490199b5f67a",
+      "decision": "approve",
+      "reason": "Completes 'years and years and hundreds of people.'"
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:63e7dc04dbf0",
+      "decision": "approve",
+      "reason": "Completes 'they were extremely sophisticated.'"
+    },
+    {
+      "candidate_id": "seg-0023->seg-0024:move-leading-completion-to-previous:5f97c14d95b7",
+      "decision": "approve",
+      "reason": "Completes 'what's really interesting about these pictures...'"
+    },
+    {
+      "candidate_id": "seg-0025->seg-0026:move-leading-completion-to-previous:054437cb6caf",
+      "decision": "approve",
+      "reason": "Completes the list ending 'their wisdom so that they could go hunt as well.'"
+    },
+    {
+      "candidate_id": "seg-0027->seg-0028:move-trailing-starter-to-next:d6d30c6567df",
+      "decision": "approve",
+      "reason": "Moves the trailing 'So,' before 'basically...' to start the next sentence."
+    },
+    {
+      "candidate_id": "seg-0028->seg-0029:move-leading-completion-to-previous:6a2e38918d4d",
+      "decision": "approve",
+      "reason": "Completes 'this must be evidence that Jericho went to war.'"
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:3b58cb3d40ea",
+      "decision": "approve",
+      "reason": "Completes 'what's really important is that this is like right after the last ice age.'"
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:b759f070b686",
+      "decision": "approve",
+      "reason": "Completes 'And they could see that as magic...'"
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:020e29a96f24",
+      "decision": "approve",
+      "reason": "Completes 'Some place.' before the elaboration 'Another place.'"
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:6402cccddaa3",
+      "decision": "approve",
+      "reason": "Completes 'they were just as creative and as sophisticated as we are today.'"
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:c48562bd404a",
+      "decision": "approve",
+      "reason": "Completes 'what's even more interesting is that if you go to every house...'"
+    },
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:407329fbe8d7",
+      "decision": "approve",
+      "reason": "Completes 'this is a painting that you will see in every house or most houses.'"
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:60396b54ff9c",
+      "decision": "approve",
+      "reason": "Completes 'others still believe this is the mother goddess.'"
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-trailing-starter-to-next:8dc5613a3826",
+      "decision": "approve",
+      "reason": "Moves 'So, this' before 'is another picture.'"
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:6d8b82b391c2",
+      "decision": "approve",
+      "reason": "Completes 'deplete the resources of the area around you.'"
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:4e90896133a9",
+      "decision": "approve",
+      "reason": "Completes 'people develop these religious visions.'"
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-leading-completion-to-previous:0a9b5476291b",
+      "decision": "approve",
+      "reason": "Completes 'we're only slowly discovering all that's there.'"
+    }
+  ]
+}

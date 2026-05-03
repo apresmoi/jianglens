@@ -1,0 +1,249 @@
+{
+  "packet_id": "predictive-history-f8qqgsefggc-semantics-pkt-0008",
+  "source_id": "video:predictive-history-f8qqgsefggc",
+  "source_date": "2024-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang finishes answering the Roman-identity question: evidence can suggest Caesar wanted kingship, but the deeper issue is that Caesar's existence challenged what Rome was and meant.",
+      "speaker_attribution": "Jiang continuing an answer to the prior audience question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "kind": "exchange",
+      "summary": "A student prompts 'Crassus,' and Jiang answers how Pompey, Crassus, and Caesar formed their alliance: Pompey and Crassus were optimates and enemies of Caesar, but shared expedient interests against Senate obstruction.",
+      "speaker_attribution": "seg-0058 is likely a student prompt; Jiang answers in seg-0059 and seg-0060.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061"
+      ],
+      "kind": "unclear",
+      "summary": "A short 'Okay?' appears as a backchannel or comprehension check.",
+      "speaker_attribution": "UNKNOWN in transcript.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the class by previewing the next lecture: after Caesar dies, the Republic falls and the Roman Empire is born.",
+      "speaker_attribution": "Jiang, with seg-0063 possibly a closing backchannel or repeated okay.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058"
+      ],
+      "note": "The one-word UNKNOWN segment 'Crassus' is a likely student prompt that Jiang expands into a question about how Pompey, Crassus, and Caesar formed their alliance.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063"
+      ],
+      "note": "Short UNKNOWN 'Okay' segments near the close do not carry substantive question content.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang concedes there is evidence Caesar wanted to become king, but argues the real issue is cognitive dissonance: Caesar's existence challenged Roman perception and meaning.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Conclusion to an audience-question answer in this lecture.",
+      "topic_tags": [
+        "kingship",
+        "cognitive-dissonance",
+        "roman-identity",
+        "caesar"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pompey and Crassus were optimates and former supporters of Sulla, while Caesar was a populare, making their alliance secret and unexpected.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Answer to student prompt in this lecture.",
+      "topic_tags": [
+        "pompey",
+        "crassus",
+        "caesar",
+        "optimates",
+        "populare"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The First Triumvirate works because Pompey, Crassus, and Caesar each have issues blocked by the Senate, so political expediency lets them cooperate despite being enemies.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Answer to student prompt in this lecture.",
+      "topic_tags": [
+        "first-triumvirate",
+        "expediency",
+        "senate",
+        "alliance",
+        "enemies"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's genius in the alliance is his charisma and manipulation: he can form a working coalition with people technically and politically opposed to him.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "charisma",
+        "manipulation",
+        "alliance",
+        "expediency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang previews the next lecture as the world Caesar created after his death: the Republic falls and the Roman Empire is born.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Course-sequence preview on 2024-11-12.",
+      "topic_tags": [
+        "next-class",
+        "roman-empire",
+        "fall-of-the-republic",
+        "caesar"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057"
+      ],
+      "moment": "The real issue is that Caesar's very existence challenged what Rome was and what Rome meant.",
+      "source_phrase": "the very existence of Caesar challenged their perception of what Rome was and what Rome meant",
+      "why_it_matters": "This is the final formulation of assassination as identity crisis rather than only constitutional fear.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "moment": "A secret alliance works because political enemies become useful to one another.",
+      "source_phrase": "their alliance was secret. It was completely unexpected",
+      "why_it_matters": "The First Triumvirate becomes another instance of Caesar understanding incentives better than identities.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "moment": "Caesar puts aside political differences for interest and expediency.",
+      "source_phrase": "for the sake of interest and expediency",
+      "why_it_matters": "The phrase captures the manipulative flexibility behind Caesar's coalition building.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "moment": "After Caesar dies, the Republic falls and the Roman Empire is born.",
+      "source_phrase": "after he dies... The Republic falls",
+      "why_it_matters": "The close turns Caesar's death into the hinge between republican contradiction and imperial birth.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "populare",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Caesar's factional position in contrast to Pompey and Crassus as optimates.",
+      "confidence": "high"
+    },
+    {
+      "term": "optimates",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "The conservative faction Jiang says Pompey and Crassus belonged to as supporters of Sulla.",
+      "confidence": "high"
+    },
+    {
+      "term": "expediency",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "The practical logic that lets enemies cooperate when each has blocked interests.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman Empire",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "The post-republican order Jiang says will be born after Caesar's death.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "note": "Jiang says the next class will cover what happens after Caesar dies and the birth of the Roman Empire; this is course sequencing, not a prediction about future events.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058"
+      ],
+      "note": "The one-word 'Crassus' prompt is treated as a real source question only because Jiang immediately expands it into a question about the alliance."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063"
+      ],
+      "note": "The short closing 'Okay' segments are not substantive questions and should not appear in public episode questions."
+    }
+  ]
+}

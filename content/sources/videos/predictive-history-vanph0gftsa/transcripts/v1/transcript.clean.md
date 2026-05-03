@@ -1,0 +1,267 @@
+# Civilization #3:  The Religious Imagination
+
+Source: https://www.youtube.com/watch?v=VanPH0GFTsA
+
+## seg-0001 / 00:00:01-00:01:37 / SPEAKER_00
+
+Okay, so I want to summarize and review what we have learned so far. So the main message is that for most of human history, we have been peaceful, egalitarian, and artistic. So about 300,000 years ago, our species, Homo sapiens, we were born in Africa. And then 50,000 years ago, because of climate change, we started to spread around the world, okay? And throughout most of our history, we have been hunter -gatherers. And we don't know that much about our history. We can only guess. But based on the available archaeological evidence, we have, we were, for most of the time, peaceful, egalitarian, and artistic. Okay, so peaceful does not mean we were not violent. There's lots of evidence that there was in -group conflict. So, for example, we discovered in burials people with skull fractures, okay? So there's been violence. But there's been no evidence of organized warfare. That comes much later, okay? That's the first thing.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:38-00:02:56 / SPEAKER_00
+
+Second thing is that we were egalitarian, meaning that there was no difference in status and power between men and women. Men and women were considered equal. There was no hierarchy, meaning that there were people who were considered more wealthy than other people. We know that. Because we could not find any evidence of hierarchy, meaning larger houses, meaning groups with special privileges. Now, there are individuals who might have higher status. And we know because they were buried more elaborately than other people. So, for example, shamans, right? Shamans were their religious leaders, and as such, they were quoted higher status than everyone else. Okay? And the third thing is artistic. So, as we know, they were engaged in cave paintings. They built monuments in order to celebrate and worship their religion. So, for them, art really was about the expression and celebration of their religion. Okay? So, for most of human history, we were peaceful, egalitarian, and artistic.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:56-00:04:17 / SPEAKER_00
+
+And we know that today we are not peaceful. We are not egalitarian. We are not that artistic. So, what changed? Next week, I will explain to you what changed. Okay? Basically, a new group of people called the Yamnaya came into being. And they had a different religion that celebrated warfare, patriarchy, and wealth. Okay? And eventually spread all around Europe and Asia, and they conquered everyone. And they created a new history of humanity. That's next week. Okay? So, I want to explain the evidence for why we think most of human history, we were peaceful, egalitarian, and artistic. Okay. So, something else that we discussed in class is we don't know what their religion was, but we suspect that it was animism and shamanism. Okay? Remember that animism is the belief that we all come from the mother goddess, from one source of life, including trees, animals, and humans. So, every living being has a soul.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:17-00:05:26 / SPEAKER_00
+
+Okay? And the other thing is that the soul is permanent. You can never kill it. Okay? The body and the soul are different. So, it doesn't really matter if you die because your soul will go somewhere else and maybe come back. Okay? So, death was not a big deal. And the third thing is that there's a spirit world or another world which is more real than our world. Okay? Our world is just a manifestation, a physical manifestation of the spirit world. But what matters is a spirit world. And the last thing is that there's an order to the universe. We have a part to play. So, for example, we can kill animals to feed ourselves, but we must pay tribute to these animals before and after we kill them in order to maintain the harmony of the universe. Okay? So, that's what we believe the religion of early humans were. Everywhere in the world.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:26-00:06:36 / SPEAKER_00
+
+Okay? Including in China, including in Europe. This is Gopalatepe. And you can see that this is a teal pillar. And it's meant to represent a human. And inside the teal pillar is an animal. So, basically, the teal pillar represents the manifestation of the animal spirit in us. And we believe that this is a religious festival. That they would have before they went hunting. And the evidence for this is that at this site, we found a lot of animal bones. Okay? So, does that make sense, guys? All right. So, again, this is all just review. This religion goes back a long time. Okay? So, this is 40,000 years ago. We found this small figurine. Okay? It's a very small figurine in a cave in Germany. And this dates back to 40,000 years ago. Okay? So, remember, 50,000 years ago, we started to leave Africa and venture into Europe and around the world.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:37-00:08:04 / SPEAKER_00
+
+Okay? So, this goes back to the beginning, the dawn of humanity. This is a flute. Okay? That goes back to the same time. So, at the beginning of humanity, we were religious. We celebrated our religion through music and through art. And through shamanism. Okay? Does that make sense, guys? Yes? It's a figurine. It's a doll. Okay? So, they believe that these dolls have religious qualities. Right? Okay? Does that make sense? It's like paintings. Okay? So, remember, they also have these cave paintings where they're celebrating the mother goddess. And they're celebrating the fact that life is a circle. After you kill the animals, their soul goes back into the earth. Into the spirit world. And then through proper tribute and worship, you can bring them back into this world. Okay? Okay? This is a shaman dressed as an animal. Okay? So, now the question then is, okay, if we cannot go back in time and observe their religion, how do we know what their religion is?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0006
+
+## seg-0007 / 00:08:04-00:09:17 / SPEAKER_00
+
+And the answer is, we have a field of study called anthropology. Okay? Anthropology. Anthropology is a study of other cultures. And if our theory is right, then we should be able to find other cultures that are still alive today that practice this religion. And what we've discovered is that if you go to places in the jungle, in South America, and in Africa, in Australia. Okay? They do practice this religion. Okay? So, understanding the religion gives us tremendous insight into the thinking and religion of early humans. And that's what we will do today. Okay? To truly understand what early humans thought and how they understood the world. Okay? Does that make sense, guys? All right. So, the first passage we're going to look at is... From a book called The Wayfinders by Wade Davis. Okay? This is a great book. If you guys ever have a chance, please read this book.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:17-00:10:29 / SPEAKER_00
+
+Okay? It's extremely well written. Wade Davis, he's an anthropologist, Canadian. And this recently came out. Okay? So, he spent a lot of time traveling around the world to explore and to understand indigenous peoples. People who are native to the land. And they've been there for a long, long time. So, this is what he says about a tribe in the Amazon forest. Okay? In the beginning, before the creation of seasons, before the ancestral mother, Romi Kumu, woman shaman, opened her womb, before her blood and breast milk gave rise to rivers and her ribs to the mountain ridges of the world, there was only chaos in the universe. Spirits and demons, known as Hul, preyed on their own kindred, bred without thought, committed incest without consequence, devoured their own young. Romi Kumu responded by destroying the world with fire and floods. Then, just as a mother turns over a warm slab of
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:29-00:11:51 / SPEAKER_00
+
+maniac bread on the griddle, she turned the inundated and charred world upside down, creating a flat and... Empty template from which life could emerge once again. As woman shaman, she then gave birth to a new world, land, water, forest, and animals. Okay? So, this is what we call a creation myth. And every single civilization, every single people have a creation myth. So, let me ask you this question, okay? Why? Why do you need a creation myth? What's this creation myth doing? What does it explain? Okay, how the world forms, okay? But there's something much more important than that, which is what? Excuse me? Who are we? Where we come from? Yes. But there's something... Yes, it explains all that. Who we are, where we come from, okay? That's what all creation myths do. What else is this myth doing, which is very important for us? Excuse me? Okay. So, it's telling us how the universe was formed, okay?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:52-00:13:14 / SPEAKER_00
+
+What is in here that's very important and which is important for society to function well? Okay, so the woman shaman is the mother goddess, but what's in this paragraph that's very important in order for society to function? What do you need for society to function? You need rules and laws, right? So, what this creation myth is doing, what all creation myths is doing is explaining to you the legal structure of your society. Why you can't do certain things, okay? So, for example, you can't commit incest, okay? You can't eat your young people. You can't kill the young people, okay? Why? Because that's what evil people do. You understand? So, what this creation myth is doing is it's basically explaining the legal system, the rules, and why we have them. We have these rules because they're evil. They represent the evil spirit. Okay? Does that make sense, guys? Okay. The other thing that you will notice about this creation myth is that it's very sophisticated and very elaborate, okay?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0010
+
+## seg-0011 / 00:13:14-00:14:40 / SPEAKER_00
+
+So, this is a visualization of their understanding of creation. As you can understand, it's very complicated, okay? Does that make sense? Why is it complicated? Why is it complicated? Why is this so complicated? There are reasons for it. Why? Okay. So, one thing that you will learn in this class is that what's really important is for you to believe that your religion is correct, okay? It is as correct as science. And what makes people believe that your religion is correct, you have to accomplish three things, okay? The first is grandness, meaning that it is huge, okay? It's vast. And as you can see, this is a vast universe. It's a vast religion, a vast cosmology of how things started. So, grandness is very important. Then you need completeness. And the idea of completeness is that everything that you see in the world must be explained in this cosmology, okay?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:40-00:15:49 / SPEAKER_00
+
+So, what this is doing is explaining to you how everything started, okay? Where everything comes from. So, completeness is important. The last thing is unity. Meaning that there's a beginning and there's an end, okay? As you can see, there's a beginning and then there's an end, okay? So, this is something that we will learn in this class as we explore other religions, including Judaism and Christianity, where for religion to be powerful, for it to be authoritative, you need these three ideas. Grandness, completeness, and unity, okay? Does that make sense? All right. Let's keep on going. All right. So, thus, for the people living today in the forest of the Paraparana, okay, this is the Amazon forest, the entire natural world is saturated with meaning and cosmological significance, okay? They feel that everything around them has life and it's all connected. It's one unified whole, okay?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:50-00:17:00 / SPEAKER_00
+
+Every rock and waterfall embodies a story. Plants and animals are but distinct physical manifestations of the same essential spiritual essence. Okay? We all come from the woman shaman. We all come from the mother goddess. Therefore, we all have the spark of life in us. And therefore, we must be respected, okay? The plants and the animals all must be respected as much as we are respected. At the same time, everything is more than it appears, for the visible world is only one level of perception. Behind every tangible form, tangible means concrete, physical, okay? Every plant and animal is a shadow dimension, a place invisible to ordinary people but visible to the shaman. So, in other words, our world is a world we can see. But there are other worlds, the shadow dimension, which is more real, which captures our essence, where the soul resides. Okay? That's more real. And it's the job of the shaman to see and communicate with this world.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0013
+
+## seg-0014 / 00:17:02-00:18:26 / SPEAKER_00
+
+This is the realm of the He Spirit, a world of deified ancestors where rocks and rivers are alive. Plants and animals are human beings, sap and blood the bodily fluids of the primordial river of the Anakana, hidden in cataracts behind the physical veil of waterfalls in the very center of stones are the great malakas of the He Spirit, where everything is beautiful. The shining feathers, the koka, the calabash of tobacco powder, which is in itself the skull and brain of the sun. Okay? Now, reading this, what can we say about their religion? What can we say about their religion that would be surprising to you? Okay? First of all, it's very imaginative, right? It's very imaginative. They have a vivid imagination. Okay? The other thing is that it's extremely sophisticated and complex. So, one major prejudice that we might have of these people is, well, they don't drive cars.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0014
+
+## seg-0015 / 00:18:27-00:20:03 / SPEAKER_00
+
+They don't have cell phones. Therefore, they must be stupid. But clearly, from our understanding of their religious beliefs, they're actually extremely imaginative and extremely imaginative. They're extremely sophisticated. Okay? Does that make sense, guys? All right. So, this is their shamans in religious practice. Okay? What can we say about this picture? What stands out about this picture? What surprises you or what catches your eye about them? What can we say about their beliefs based on this picture? Okay. Yeah. So, there's a lot of... Okay. There's a lot of thought put into what they wear. Okay? So, again, sophistication. Their clothing, the way they dress, suggests that this is a very sophisticated religion. Okay? It's not like they just put on anything. It seems they put a lot of care and thought into what they wear. Okay? That's the first thing. What's the other thing? What's the other thing? Do you know what I mean? Okay?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0015
+
+## seg-0016 / 00:20:03-00:21:19 / SPEAKER_00
+
+Well, there aren't that many of them. There's three of them. But what do you notice about the way they look and their bodies and the way they stand in relation to each other? What do you notice? Yeah? Okay. Yeah. I mean, he probably has a higher status. Okay? And he stands in the middle. Okay? What else? Excuse me? Okay. So, you're right in like... Okay. If this is a tribe and all of them are from the same tribe, what do you notice? Well, that's part of the reason he's always sitting in the middle. And that's the thing. If you're talking about your presence within a tribe, you're saying, well, I'm from a different tribe. You're from a different tribe. That's not just random. So, everyone's different. So, it's making a difference. So, if you're talking about the same tribe, then why don't you start with the same tribe? Yeah. Right? Let's have a more professional conversation.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0016
+
+## seg-0017 / 00:21:21-00:22:36 / SPEAKER_00
+
+Okay. So, he's really cold. Okay. What is the most important thing? life. So the other thing I would say is you can see there's some organization in order to it, right? So as you say, the person, the elder, stands in the middle, okay? And these two, can you see the symmetry? Okay? It's clear that they are doing a religious ceremony, and because of this religious ceremony requires their bodies to be a certain way in relation to each other. It requires them to dress a certain way, it requires them to say certain things, okay? Clearly they are in prayer of some sort. We call this the idea of ritual. Ritual is just the expression of religion in everyday practice. In other words, their lives are extremely ritualized, meaning what they do every second has a religious meaning and a religious significance. Okay? Does that make sense to you guys? Right? So for example, you come to school and you think your life is very ordered, right?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0017
+
+## seg-0018 / 00:22:36-00:23:40 / SPEAKER_00
+
+Because maybe at 8 o 'clock you start class, and then when class starts, the teacher takes attendance, okay? That's all ritual. And then at 8.45, the bell rings and then you go off and get some water or something, okay? If you want to go to the restroom, you have to raise your hand. This is all what we call ritual. So your lives are extremely ritualized. And the thing about ritual is behind the ritual, there has to be a belief system, okay? So for us, the school, we believe the system is set up so that you learn how to do well in life, right? You learn how to be on time. You learn how to respect authority. You learn how to read books, okay? It's exactly the same way where every minute of their lives, there's order and structure to what they do that has meaning and purpose.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0018
+
+## seg-0019 / 00:23:41-00:25:00 / SPEAKER_00
+
+Okay? Does that make sense, guys? Okay. So let's talk about their ritual, okay? It's to the realm of the He Spirit that a shaman goes in ritual. So the shaman is responsible for entering the world of the demons and the gods and negotiating and communicating with them, okay? That's his role. That's why he has his power and authority. Contrary to popular lore in the West, the shaman of the Barasana never uses or manipulates medicinal plants. His duty and sacred task is to move in the timeless realm of the He, embrace the primordial powers and harness and restore the energy of all creation. He is like a modern engineer who enters the depths of a nuclear reactor to renew the entire cosmic order, okay? So if, for example, plants are dying outside, what does this mean? If plants are dying outside, what does this mean? If animals and plants are dying, how can we fix the problem?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0019
+
+## seg-0020 / 00:25:06-00:26:21 / SPEAKER_00
+
+Why are bad things happening? Bad things are happening because the spirits are unhappy, right? Does that make sense? So therefore, you must go into the spirit world and understand why the spirits aren't unhappy and fix it, okay? And that's the role of the shaman. And what this is saying is this. What this is saying is that our world doesn't matter, guys, okay? Our world is insignificant. What matters is the spirit world. Because the spirit world is our world is what controls everything. Does that make sense, guys? Okay. Among the Barasana, such renewal is a fundamental obligation of the living in practice. This implies that the Barasana see the Earth as potent, the force as being alive with spiritual beings and ancestral powers. To live off the land is to embrace both its creative and destructive potential. Human beings, plants and animals have the essential potential to protect the share the same
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0020
+
+## seg-0021 / 00:26:21-00:27:29 / SPEAKER_00
+
+cosmic origin and a profound sense are seen as essentially identical responsive to the same principles obligated by the same duties responsible for the collective well -being of creation there is no separation between nature and culture without the forest and the rivers humans would perish without people the natural world would have no order or meaning all would be chaos dozen norms that drive social behavior would have no order or meaning sorry would also define the manner in which human beings interact with a wow the plants and animals the multiple phenomenon of the natural world lightning and thunder the sun and the moon the scent of a blossom the sound order of death okay so everything is connected with each other we're all equals okay does that make sense guys all right this is what we call animism all right so let's talk about hunting okay there's some similar we talked about last class if we are
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0021
+
+## seg-0022 / 00:27:29-00:28:30 / SPEAKER_00
+
+the same if we're if we are the same as animals and plants what allows us what gives us permission to kill other animals okay and this passage explains it when men go to the forest to hunt or fish it is never a trivial passage you you you cannot just go and hunt okay you need permission first the shaman must travel in trance to negotiate with the masters of the animals forging a mystical contract with the spirit guardians in exchange based always on reciprocity okay reciprocity means give and take if i give you a present you must give me a present okay the brassarana compared to marriage for hunting too is a form of courtship in which one seeks the blessings of a greater authority for the honor of taking into one's family a precious being meat is not the right of a hunter but a gift from the spirit world to kill about permission is
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0022
+
+## seg-0023 / 00:28:30-00:29:40 / SPEAKER_00
+
+to risk death by a spirit guardian be it in the form of a jaguar anacona tap or harpy eagle okay it's something that we discussed in the cave paintings why did they spend so much time painting these animals and we said this it's because they're trying to pay tribute to the animals right if i kill you i must thank you for taking your meat to replenish myself but i also must ask for your forgiveness otherwise the animal soul may seek vengeance okay does that make sense so this is the essence of the religion if we hunt we must first pay tribute okay and that's ex and that's what explains kind of hoyt right okay the bull and the people before they go hunting they must pay tribute to all the animals okay this is true and you also look at the cave paintings right they have all these cave paintings and what they celebrate is
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0023
+
+## seg-0024 / 00:29:40-00:31:07 / SPEAKER_00
+
+not themselves what they celebrate are the animals because it's the animals that give them life that give them nourishment and meat okay does that make sense so and you can see this in caves all around europe and around the world okay all right as the ritual begins time collapses there are two series of dances separated by the liminal moments of the day dawn dusk and midnight okay so the shaman during the ritual is once needs to communicate with the animals in the spirit world okay to do that he changes he changes the from fish to animal to human being and back again transcending every form becoming pure energy flowing among every dimension of reality past and present here and there mythic and mundane his chance recall by name every point of geography met on the ancestral journey of the anaconda okay so as you can see before the hunt the ritual is extremely elaborate sophisticated
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0024
+
+## seg-0025 / 00:31:07-00:32:21 / SPEAKER_00
+
+and complex and its main purpose is to celebrate the unity of life and to ask permission and to ask for forgiveness as the hunters go kill the animals okay does that make sense guys and again this explains okay so so the shamans will change into animals okay in order to better communicate with the animals and this explains all the cave paintings and how forty thousand years ago they were creating dolls of shamans dressed as animals okay because for them this is what is true okay does it make sense guys all right so any questions so far before i move on are you guys clear about what's going on okay all right now let's move to africa okay we were in south america and they're still there today if you want to go visit that tribe you can do so okay now let's go to africa and in africa there's a group of people called the
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0025
+
+## seg-0026 / 00:32:21-00:33:38 / SPEAKER_00
+
+pygmies okay the pygmies um and there's a very famous book by a british anthropologist uh by the name of um colin turnbull okay and he discusses how the pygmies practice the religious religious beliefs at the very center of the religion is something called the okay which is a trumpet like instrument and the Malimo allows them to communicate with the forest it allows them to communicate with the spirit world and that's how they resolve every issue okay and the Malimo also captures the sound and spirit of the forest okay all right so even though we are in a different part of the world we're in Africa and even though the pygmies have different religious beliefs than the people of the Amazon what you will discover what you will notice is that essentially the same religion okay the same idea that we are part of nature and that our job is to help nature maintain balance and
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0026
+
+## seg-0027 / 00:33:38-00:34:43 / SPEAKER_00
+
+harmony okay okay so what I'll do now okay is come on over here and I'm going to give you a little bit of a tour of the before okay so let's read I had no idea of how far we had come or in what direction so he's following the group of pygmies around as they hunt but I knew we had left the camp far behind it was the first time I had known a group of pygmies to be so silent normally unless hunting they are deliberately noisy but now just at the time they are no longer there so what does that signify now let's that leopards would be prowling about in search of food they seem unwilling to disturb the forest or the animals it concealed just the opposite in fact it was as if they were a part of the silence and the darkness of the forest itself and were only fearful lest any
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0027
+
+## seg-0028 / 00:34:43-00:35:47 / SPEAKER_00
+
+sound might betray their presence to some person or thing not of the forest they stood there quiet and still and it struck me with a sudden shock that not one of them carried a spear or bow and arrow as they peered into the dust and cocked their heads first on this side then on that satisfying themselves that we were really alone it seemed that they felt themselves so much a part of forest and of all the living things in it they had no need to fear anything except that which was not of the forest one of them said to me later when we are the children of the forest what need have we to be afraid of it we are only afraid of that which is outside the forest okay so what I will do now is through by analyzing this passage passage explore how our minds are different from their minds okay so our
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0028
+
+## seg-0029 / 00:35:47-00:37:11 / SPEAKER_00
+
+mind is what we consider modern and their mind is what we consider pre -modern okay what's the first major difference between I okay the British anthropologist and how we think and how they think what's the first difference you you notice from this passage okay first of all what is the word that tells us that he doesn't really understand how these people think and behave what's the word that tells us he doesn't really understand these people who are gonna win they're gonna bring the related blacksmith he doesn't really actually a great STT question if you guys plan on taking the SAT okay there's a word in this passage that that tells us he is actually so he is actually he doesn't really understand how these people think and feel what's the word shock right shock okay so he's surprised by their behavior why she's surprised what confuses him anyone why what yes exactly okay why does
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0029
+
+## seg-0030 / 00:37:11-00:38:54 / SPEAKER_00
+
+that surprise him exactly okay so here's the first big difference why do we think that nature is dangerous why do they not think nature is dangerous what why why guys that's exactly right okay he thinks nature is dangerous because they're leopards they're predators okay they don't think nature is dangerous what's the difference what's the difference okay the major first major difference is it our minds think that we are separate from nature okay man versus nature man versus nature but they think they are part of nature okay so let me ask you this question why do we fear nature what makes us fear nature I put you know force you're afraid why yes okay why are you afraid of the unknown okay you You don't know what you encounter, but why does that make you afraid? Okay, why? Why would the unknown make you afraid? What is it that we are obsessed with? See what I mean?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0030
+
+## seg-0031 / 00:38:54-00:40:19 / SPEAKER_00
+
+Okay, we're obsessed with control, right? We have to control everything. We wanna know something because we want to control it, okay? We like animals in the zoo, right? We do not like animals in the forest. We can control animals in the zoo, we cannot control animals in the forest, okay? So, we're obsessed with control. Why aren't they afraid of nature? What's their attitude? What are the pygmy's attitude? We wanna control nature, but they, they what? Therefore they, okay, the word is trust, right? Trust. They don't have to control nature because they trust nature. They believe the leopards know them and they know the leopards, okay? Does that make sense? Okay, so that's the first major difference between our world and their world. And we've been taught that nature is our enemy or nature is outside us, whereas they believe that they are part of nature, okay? Does that make sense, guys?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0031
+
+## seg-0032 / 00:40:19-00:41:28 / SPEAKER_00
+
+All right, let's move on. All right, so this is about their religious practice, okay? So, they have a meal together. And then they sing, or they use the malomo to make noises and they sing and dance, okay? Everyone ate his fill as and when he pleased. A couple of the older men saying they would wait until the youngsters had finished before they ate. But they did not wait for long. I was told, however, that everyone had to eat just as no adult male was allowed to sleep, but to sing while malomo was singing was in progress. Apparently, one of the greatest crimes that a pygmy can commit, if not the greatest, is to be found asleep when the malomo is singing. One of the men stood up and miming, as all pygmies love to do, he showed how they used to search for sleeping men, a spear under each arm, and how if they found one, they would spear him in the stomach and kill him completely and forever.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0032
+
+## seg-0033 / 00:41:28-00:42:40 / SPEAKER_00
+
+I was told that then his body would be buried under the malomo. The malomo is a great fire, in which they practice their religion, okay? And nobody would be allowed to mention his death, even to remark on his absence. The woman would be told that the malomo itself, the great animal of the forest, had carried off one of their number, but like the men, they would ask no questions and would never again mention the missing men. So in this world, the greatest crime you can commit is not to kill someone but to sleep during the religion can someone explain why that's the case in this world okay the pygmy world the worst thing you can do is sleep why is that the case okay let's just say that we're having a class and one of you is sleeping okay and I get so angry
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0033
+
+## seg-0034 / 00:42:40-00:44:27 / SPEAKER_00
+
+that I want to kill that person why would I want to do that what's my logic it's disrespectful of what okay it's disrespectful of my authority that is true but then I just ask a person to leave my class right or I shut up at that person but I want to kill that person why what's happened okay what is a classroom what's a classroom okay a place to study what else what are we doing now yeah but what is class what is what is classroom what allows a classroom to exist what is the ritual we're practicing okay so a classroom you can understand as the collective experience okay the classroom happens when everyone is participating in it does that make sense that's what makes a classroom alive so why would why would be angry one of you one of you is sleeping but why does that matter if you're sleeping what are you telling me
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0034
+
+## seg-0035 / 00:44:27-00:45:43 / SPEAKER_00
+
+yeah it's not a classroom it's not real this discussion is not real it's pointless you understand so that's what's happening here they're malembo singing the ritual it's meant for everyone to recognize that the religion is real it's more real than reality okay but if you're sleeping you're saying no guys this doesn't matter okay what we're doing does not matter and therefore what you're doing is you're not committing violence on one person you're committing violence on the community you're committing violence on the religion you're insulting the forest you're insulting the god does that make sense and that's the worst crime because reality happens this religion is only possible if everyone believes that it is true if you're sleeping it means you don't think it's true and therefore you are first of all rejecting the community right you're you're telling everyone you're all idiots okay second second is that you might endanger the community because you're insulting
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0035
+
+## seg-0036 / 00:45:43-00:46:52 / SPEAKER_00
+
+the forest right does that make sense guys okay so for most of you of human history people take their religion extremely seriously so seriously that they think it's more real than reality as long as everyone believes in it it's true but if someone doesn't believe in it then we have to kill that person because if he doesn't believe in it then it might cause our religion to die okay does that make sense okay any questions so far any questions we're all clear right okay and what i'm trying to show you is the power of religion okay how once we have the religious imagination we can create things that are actually for us more real than reality okay so that's the second thing that's different about us from other human beings for most of human history we were spiritual okay we're spiritual meaning like we believe like the world of spirits our soul it exists okay
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0036
+
+## seg-0037 / 00:46:52-00:47:55 / SPEAKER_00
+
+today the word we use is materialistic materialistic and the idea of materialistic is this if we cannot see it okay it's not real okay god can't be real because we can't find it the soul can't be real because we can't measure it imagination can't be real because we don't know where it comes from it doesn't make sense and obviously okay obviously this idea of materialism is wrong how can you say the imagination doesn't exist but unfortunately we have structured our society around this idea of science looking at intéressant sciences and other forms of literature we have such figures by way of when you go to science class they teach you this okay if it's real you can measure it you can see it you can feel it but for most of you of human history we didn't believe that we thought like okay there is a spiritual world and that matters just as much as
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0037
+
+## seg-0038 / 00:47:55-00:49:08 / SPEAKER_00
+
+reality okay in fact it matters it probably matters more than reality okay so the so this is making sense right guys okay okay okay for a month i sat every evening at the common model listening watching okay if i still had little idea of what was going on at least i felt that ear of importance and expectancy every evening when the woman shut themselves up pretending that they were afraid to see the end of the forest every evening when the men gather around the four fire pretending they thought that the woman thought that the dream pipes were animals every evening in the trumpet drum drain pipes imitated leopards and elephants and buffaloes every evening when all this make -believe was going on i felt that something very real and very great was going on beneath it something that everyone else took for granted and about which only i was ignorant okay clearly he doesn't he
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0038
+
+## seg-0039 / 00:49:08-00:50:53 / SPEAKER_00
+
+does not understand these people what word tells us he does not understand these people He doesn't know what's going on. Why? What word tells us this? Excuse me? Why is he ignorant? There's a word in here that tells us he doesn't understand these people at all. This word shows that there's a chasm, okay? A huge difference between the Pygmies and us. What is this word? What word would the Pygmies not use here? They'd be insulted by this word. What's the word? They use it over and over again, right? There's a word here that's insulting. No. What word here in this passage would the Pygmies find insulting? So if another teacher comes in to my class and he says, Wow, your class is a lot of fun. I'd be insulted. Why? I'd be insulted. Why? No. Wow, you guys have so much fun in this class. You play a lot. I'd be insulted. Why? Excuse me?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0039
+
+## seg-0040 / 00:50:55-00:52:15 / SPEAKER_00
+
+Yeah, this is not studying, okay? This is not serious academic work. This is playing. It has no significance, no meaning, right? So what word implies that here? It repeats itself over and over. Pretending, right? Pretending. We think they're playing. What do they think? We think they're pretending. We think they're playing. What do they think? They think it's all true. Do you understand? For them, their religion is more true than this world, okay? That's a power of the human imagination. You can imagine a world, and this world, as long as many of you are imagining it together, it's more true, more powerful, more real than this world. That's a power of religion, okay? What we call the religious imagination. And we'll see this over and over again in human history, okay? Does that make sense, guys? Okay? So we've been taught that, oh, you can't see it. It must be pretending. It must be make -believe.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0040
+
+## seg-0041 / 00:52:16-00:53:25 / SPEAKER_00
+
+But for most of human history, for most people, this is not playing. This is not pretending. It's true. It's real. It's what allows us to be close to God, okay? God is real. This world we live in, it's not real, okay? Does that make sense, guys? All right. Okay, so let's look at the last paragraph, and then we'll finish for the day. He went on to tell that the pygmies called the Malomo whenever things seemed to be going wrong. It may be that the hunting is bad, he said, or that someone is ill, or, as now, that someone has died. These are not good things, and we like things to be good. So we call out the Malomo, and it makes them good as they should be, okay? So this is very similar to the shaman going into the spirit world when things are bad, okay? Things are bad because the spirits aren't happy. Normally,
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0041
+
+## seg-0042 / 00:53:25-00:54:27 / SPEAKER_00
+
+everything goes well in our world, in our forest, but at night when we are sleeping, sometimes things go wrong because we are not awake to stop them from going wrong. Army ants invade the camp. Leopards may come in and steal a hunting dog, or even a child. If we were awake, these things would not happen. So when something big goes wrong, like illness or bad hunting or death, it must be because the forest is sleeping and not looking after its children. So what do we do? We wake it up. We wake it up by singing to it, and we do this because we want it to awaken happy. Then everything will be well and good again. So when our world is growing, then also we sing to the forest because we want it to share our happiness, okay? Do you understand? So this is like them going to the spirit world and communicating with the spirits.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0042
+
+## seg-0043 / 00:54:27-00:55:38 / SPEAKER_00
+
+So it's almost the same religion, okay? Maybe the details are different, but the idea is the same. The idea is that we are all interconnected, animals, plants, humans, all the same. This is not the real world. The spirit world, the forest, they're the real world. And for us to maintain our health and our happiness and our safety, we must always communicate with this other world and make sure they're happy, okay? Does it make sense? And because of this belief, it means we shouldn't go to war with other people, okay? Because then that causes mayhem and chaos in the spirit world. Our job is to maintain harmony and balance in this world. We're caretakers, okay? It means we should not be in conflict with each other. We should be egalitarian. We should be equal because we're all from the same mother goddess. We're all from the same forest. We're all from the same woman shaman, okay?
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0043
+
+## seg-0044 / 00:55:38-00:56:49 / SPEAKER_00
+
+It means we have to be artistic because we have to celebrate and worship the spirit world. Does that make sense? So again, for most of human history, we were like this. And even today, in a lot of cultures around the world, they're still like this. So another question is, what changed? Why do we have war? Why do we have hierarchy? Why do we have patriarchy? Why are men superior to women? Why do some rich people have all the power, okay? This clearly goes against this religion. And why? What I will show you starting next class is the beginning of a new religion and how this new religion that worships wealth, power, and war conquered everyone, okay? Does that make sense? Any questions before we break? Anything you're unclear about? Okay.
+
+Ref: video:predictive-history-vanph0gftsa@transcript:v1#seg-0044

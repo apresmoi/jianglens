@@ -1,0 +1,233 @@
+{
+  "packet_id": "predictive-history-npncq-gnqde-semantics-pkt-0004",
+  "source_id": "video:predictive-history-npncq-gnqde",
+  "source_date": "2024-10-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0025",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0026",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0027",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns Salamis and Plataea into a lesson about glory overriding strategy: Xerxes and then Mardonius abandon easy attrition, take unnecessary head-on battles, and turn a war Persia should have won into disaster.",
+      "speaker_attribution": "Jiang lecture voice, paraphrasing Persian commanders.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0028",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "After the Persian defeat, Greece becomes wealthy and Athens creates the Delian League as a defensive naval alliance funded by allies' money and Athenian ships.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0030",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0031",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Pericles against the worshipful historian image: democracy, popular voting, public spending, moving Delian funds to Athens, the Parthenon, and officialized corruption are framed as techniques for amassing power.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0025",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0032"
+      ],
+      "note": "Continuous Jiang lecture; historical speech by Xerxes, generals, and Pericles is paraphrased for explanation.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues Xerxes chose Salamis from a desire for remembered greatness over the safer strategy of starving out the Greeks.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0025",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical-psychological interpretation in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "xerxes",
+        "salamis",
+        "glory",
+        "attrition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture frames Salamis as the point where the Persian army had already won the war but the Persian navy lost it by fighting in a narrow strait against heavier Greek ships.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical interpretation in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "salamis",
+        "persian-war",
+        "navy",
+        "supply-lines"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Persia could still have won through attrition after Salamis, but Mardonius repeated the mistake by fighting an unnecessary equal-force battle at Plataea.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0027",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Counterfactual strategic argument in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "mardonius",
+        "plataea",
+        "attrition",
+        "persia"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "After the Persian wars, Athens organizes the Delian League as a naval alliance in which Athens provides ships while allied islands and colonies provide money reserved for war against Persia.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0028",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0029",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Historical reconstruction in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "delian-league",
+        "athens",
+        "persia",
+        "navy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Pericles as a politician concerned with amassing, increasing, and keeping power, despite acknowledging that historians treat him as a great democratic leader.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0030",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "pericles",
+        "democracy",
+        "power",
+        "athens"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pericles' expansion of democracy is interpreted as a lower-nobility strategy: align with the people to defeat upper-nobility prestige and money, effectively making himself king of Athens.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Political model in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "pericles",
+        "lower-nobility",
+        "democracy",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls Pericles' transfer and spending of Delian League money official corruption because it turned allied funds into Athenian jobs, monuments, and patronage.",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-10-15 lecture.",
+      "topic_tags": [
+        "pericles",
+        "delian-league",
+        "corruption",
+        "parthenon"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0025",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0026"
+      ],
+      "moment": "Xerxes rejects slow victory because he wants one great battle that history will remember.",
+      "source_phrase": "I want one great battle so that history will remember me forever",
+      "why_it_matters": "The heroic desire for memory becomes a strategic poison, connecting Persian failure back to the eudaimonia problem.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0026"
+      ],
+      "moment": "At Salamis, Persia wins the land war and loses the war in the same motion.",
+      "source_phrase": "The Persian army had won the war. And at Salamis, they lost the war.",
+      "why_it_matters": "It condenses the lecture's logic of self-defeat through unnecessary glory-seeking battle.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0032"
+      ],
+      "moment": "Pericles makes corruption official by moving the allied treasury to Athens and spending it as public splendor.",
+      "source_phrase": "he basically made corruption official",
+      "why_it_matters": "It flips the democratic monument story into a patronage and power story.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "War of attrition",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Waiting out an enemy because the enemy has fewer resources.",
+      "confidence": "high"
+    },
+    {
+      "term": "Delian League",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0029",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A defensive alliance against Persia in which Athens supplied the navy and allies supplied money stored at Delos.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pericles",
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0030",
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Athenian leader from 461 to 429 BCE, treated by Jiang as both democratic icon and power-seeking politician.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-npncq-gnqde@transcript:v1#seg-0028"
+      ],
+      "note": "ASR renders Plataea as 'Palatia'; extraction preserves the historical referent but does not rewrite transcript text."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "packet_id": "predictive-history-myturqu7nxu-semantics-pkt-0001",
+  "source_id": "video:predictive-history-myturqu7nxu",
+  "source_date": "2024-11-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by framing the lecture as a broad review: Greeks are maritime, trade-facing, and open to outside ideas, while Romans are inland, insular, conservative, and forced by hostile neighbors into a military culture.",
+      "speaker_attribution": "Jiang classroom lecture; opening invitations for questions are instructional, not substantive audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He defines the old Roman system as piety, liberty, and republic/public sacrifice, then argues that the system that made Rome powerful as a threatened small republic breaks down once Rome becomes rich, imperial, unequal, and civil-war ridden, leading to Augustus' centralization of military power.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "kind": "monologue",
+      "summary": "He explains Augustus' first two political-cultural problems: legitimacy and identity. Augustus needs a founding family myth, so the Julii are tied to Aeneas; he also needs to replace an old liberty-and-republic identity that could justify killing kings.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Augustus' third problem: even after Roman military conquest, Greek culture still dominates the Roman soul, and Augustus reads that culture as hedonistic corruption that must be displaced by obedience and piety.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001"
+      ],
+      "note": "Jiang invites students to raise hands if unclear, but no student question is captured in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004"
+      ],
+      "note": "This segment has significant ASR damage in the list of republican breakdowns, but the surrounding argument clearly points to corruption, civil wars, tyranny, and inequality.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript says 'Buddhists' where the context indicates Brutus-like assassins or descendants of Brutus.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang contrasts Greek civilization as maritime, trade-oriented, colonial, and open to Egypt, Mesopotamia, and Persia with Roman civilization as inland, insular, conservative, and shaped by hostile neighbors.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0001",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical framing in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "greece",
+        "rome",
+        "trade",
+        "military-culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the old Roman cultural system around piety, obedience and loyalty to gods/Rome/fathers, liberty as opposition to kings and tyrants, and the republic as sacrifice for Roman honor and public good.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "piety",
+        "liberty",
+        "republic",
+        "roman-identity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Roman republican system works for a poor small nation under constant external threat but breaks down after Rome becomes a rich hegemonic empire, producing corruption, civil war, tyranny, and inequality.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical diagnosis in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "roman-republic",
+        "empire",
+        "civil-war",
+        "inequality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Augustus resolves the republican crisis by centralizing military authority, making Egypt his private estate to bankroll a professional army, and creating the Praetorian Guard as a security force loyal to the emperor.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical diagnosis in the 2024-11-21 lecture.",
+      "topic_tags": [
+        "augustus",
+        "military",
+        "egypt",
+        "praetorian-guard"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus' legitimacy problem is that Caesar and Augustus do not descend from the two major Roman founding myths, so a deeper Julii ancestry must be constructed through Aeneas.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "legitimacy",
+        "aeneas",
+        "julii",
+        "founding-myth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The old Roman identity of liberty and republic becomes dangerous for an emperor because Brutus' legacy can be read as a duty to kill kings and tyrants; Augustus therefore needs a new identity centered on piety and obedience.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "roman-identity",
+        "liberty",
+        "obedience",
+        "brutus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustus sees Greek cultural dominance as a corrupting force on the Roman soul, with Mark Antony's seduction by Cleopatra and Greek culture serving as the emblem of that danger.",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "greek-culture",
+        "roman-soul",
+        "mark-antony",
+        "cleopatra"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0002"
+      ],
+      "moment": "Rome turns hardship into the world's greatest military machine.",
+      "source_phrase": "the world's greatest military machine",
+      "why_it_matters": "This compresses the opening contrast: Roman identity is not born from openness but from survival pressure.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "moment": "A cultural identity can become a security threat to the ruler it helped create.",
+      "source_phrase": "you can't allow this cultural identity to exist",
+      "why_it_matters": "It makes myth and education instruments of regime survival, not background culture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "moment": "Greek culture is presented as a seduction of the Roman soul.",
+      "source_phrase": "became corrupted and seduced by Cleopatra and Greek culture",
+      "why_it_matters": "This is the emotional hinge for why Augustus needs an epic war against Homer, not merely a political reform.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "piety",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang uses piety for obedience and loyalty to the gods, Rome, and fathers; later it becomes the replacement for republican liberty.",
+      "confidence": "high"
+    },
+    {
+      "term": "liberty",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The old Roman principle of no kings, dictators, or tyrants, centered on noble resistance to monarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "republic",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0003",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The public-good principle of sacrificing oneself for the honor and glory of Rome; in the imperial context, Jiang treats it as politically dangerous.",
+      "confidence": "high"
+    },
+    {
+      "term": "Praetorian Guard",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang describes it as Rome's security or secret-police force, responsible to the emperor.",
+      "confidence": "high"
+    },
+    {
+      "term": "Aeneas myth",
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0006",
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The constructed lineage in which Aeneas, a Trojan survivor, becomes the deeper founder of Rome and ancestor of Romulus and Julius Caesar.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0004"
+      ],
+      "note": "The ASR is damaged around the list of crises after Rome becomes empire; downstream reads should avoid overquoting that passage."
+    },
+    {
+      "refs": [
+        "video:predictive-history-myturqu7nxu@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript likely mishears Brutus as 'Buddhists' and republic as 'repulchre'; use contextual correction carefully."
+    }
+  ]
+}

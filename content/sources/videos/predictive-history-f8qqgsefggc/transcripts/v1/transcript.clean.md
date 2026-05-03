@@ -1,0 +1,381 @@
+# Civilization #15:  The Myth-Making Genius of Julius Caesar
+
+Source: https://www.youtube.com/watch?v=F8qQgsEFGgc
+
+## seg-0001 / 00:00:00-00:00:59 / SPEAKER_00
+
+Okay, so today we are doing Julius Caesar and the fall of the Roman Republic. Julius Caesar is considered the greatest historical figure of all time. He's also one of the most controversial. So today we're going to look at three questions about his life. And I want to provide an argument about his life. So the first question we're going to look at is, what did he want? What were his motivations for what he did? Did he want to become a king of Rome? Or was he trying to save the Roman Republic? Okay, so this is a historical debate that's been around for us for about 2,000 years. And no one has resolved it. Second question I want to look at is, why was he so successful at what he did? I mean, he was a man who basically took on the Roman Empire and he won. Okay, so how was he able to accomplish so much?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:59-00:02:23 / SPEAKER_00
+
+In only... 55 years. And the last question is, why did they kill him? Because he was killed, actually, by his friends, by his allies, by people he grew up with, by people he fought wars with, by people he pardoned and showed mercy and generosity to. Okay, so why did they kill him? All right, so my central argument to you today is that, why did Julius Caesar was so successful? Because he was a myth maker. Okay, myth maker. A myth maker are individuals who changed the course of human history because they see themselves as a men of destiny who must change the world for the better. And they do so by constructing a new reality that begins to absorb the old reality and alters it. Okay? And they do so through their words, their speeches, their writings, and through their actions. So they see themselves as the main character, the protagonist, in a novel that they are writing.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:24-00:03:34 / SPEAKER_00
+
+All right, so this is a hard concept to understand, but let's use some examples to better understand this concept. So the first example let's look at is the idea of Steve Jobs. Steve Jobs was a famous writer. Steve Jobs was an entrepreneur, but he was first and foremost a myth maker. Okay? So Steve Jobs, the joke about Steve Jobs was Steve Jobs had a secret weapon. It was called a reality distortion projector. Basically, Steve Jobs lied to people. But he lied to people in such an appealing manner, in such a beautiful way that it changed the reality. Basically, Steve Jobs imposed his reality onto others. And today that's why we use Apple computers, right? We all have Apple computers. Why do we do this? Because we are participating in the myth that Steve Jobs created for us. Right? That if you use Apple computers, you are using the most advanced technology, and you are participating in a pleasing lifestyle.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:35-00:04:43 / SPEAKER_00
+
+Okay? So it's about technology, but it's also about lifestyle. It's also about attitude. And that's why we are all using Apple computers today, because we are trying to participate in this myth. Okay? Another example is the idea of movies. Right? Movies are reality creation machines. When you go see a movie, if it's a really good movie, it will stick in your mind, and it will change the way you perceive reality. Okay? So someone like Julius Caesar, what he was trying to do in his life was create a new narrative that would redefine reality. The last example I want to use, and I'm really sorry for using this example, is Donald Trump. Right? Because Donald Trump wants to make America great again. And so for his speeches and for his actions, he's trying to construct or conceive a new understanding of America that absorbs the imagination of everyone around him.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:43-00:06:02 / SPEAKER_00
+
+Okay? Does that make sense? That's what a myth maker is. And that's why ultimately Julius Caesar was so successful. Okay? But the problem with being a myth maker is by creating new myths, you are disrupting old myths that people rely on for their understanding of the world. Okay? You're creating something called cognitive dissonance. And people don't like cognitive dissonance. It makes them uncomfortable. So they killed Julius Caesar because his new myth of Rome was surpassing the old myth of Rome, and that made the old guard uncomfortable, and that's why they had to kill him. All right? So that's my argument to you today. All right. So now that I've made the general argument, let me provide some historical background so we understand the historical context that Julius Caesar was operating in. Okay? So let's go back to 216. Last class we talked about 216 BCE, and this was the Hannibal invasion of Rome. And remember at the Battle of Cannae, Rome lost about 20 % of its adult male population.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:03-00:07:17 / SPEAKER_00
+
+And at this point, Rome should have surrendered or negotiated peace terms. But Rome instead chose to fought on. And it fought on because it had a mythology about itself that was based on three principles, right? The three principles are piety, liberty, and republica. And because of these three principles, every Roman felt he or she had to make the ultimate sacrifice in order to save Rome. Okay? And so everyone made a sacrifice. The rich made sacrifices, by basically paying for the war. Okay? Also the rich freed their slaves so the slaves could become citizens in order to fight for Rome. The poor also made a lot of sacrifices because they had to fight in the army, but also because the way the Romans decided to defeat Hannibal, and it worked, is something we call a scorched earth policy. Scorched earth policy.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:17-00:08:33 / SPEAKER_00
+
+Basically make the land unfarmable. So then your army has no access to food. Okay? And that's how the ultimate defeated Hannibal. Because they burned all the land and they couldn't grow food on the land and so Hannibal's army could not feed itself. Okay? So everyone made the ultimate sacrifice. The rich fought, the rich and the poor fought alike. The rich paid for the war. The poor lost their land. Okay? And this was all possible because of the nature of Rome at that time. Remember, Rome at that time was poor, a very small place where everyone knew each other, and ultimately it was threatened with existence. Hannibal proved to be an existential threat to Rome and that's why everyone became united and made the ultimate sacrifice. Okay? And for Romans, this was the finest hour. This was the moment they celebrated when their very existence was threatened by Hannibal, but they came together and made the ultimate sacrifice and ultimately defeated Hannibal.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:34-00:09:49 / SPEAKER_00
+
+The problem was this. The problem was that after Rome won the war, the question then is, who got the rewards? Right? Everyone made the sacrifice. The poor lost their land. The rich lost their land. The poor earned money. And because the rich controlled the government, remember, Rome is a republic, it's not a democracy, it was decided the rich would get most of the rewards of the war. In fact, the poor got very little. Okay? So an example here is the idea of common land. Common land is, what do you do with the new territory that you conquer in Spain and from the Carthaginian Empire? And normally, common land would be given to everyone, right? Maybe in proportion, but it would be given to everyone, especially the poor who lost their land. But Rome made the decision that the rich would be compensated for letting money to republic during the war, meaning the rich got the lion's share of the new land.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:49-00:11:13 / SPEAKER_00
+
+But not only that, the remaining common land, the rich just pretended it was theirs. Okay? Meaning that they illegally occupied common land. They didn't pay for it, it wasn't theirs, but they just assumed it was theirs. And so now Rome had a problem. Rome was great when it was poor and small and was threatened by its neighbors like the Tristians, the Carthaginians, and the Greeks. But by 146 BCE, Rome had vanquished all its major enemies. And basically, it was an empire. And by 146, Rome had become a contradiction. Okay? The contradiction is this. It is an imperial republic. Okay? It is an empire now, but its form of government is a republic. And this was a contradiction. And suddenly, these three values, okay, piety, liberty, and republica, these values that made Rome strong were now problems for the Roman people. Okay? So let me explain how.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:14-00:12:35 / SPEAKER_00
+
+Let's look at republica. Republica means public virtue in Latin. It's the idea that the best and brightest in Rome are in competition with each other to promote the Roman national welfare. Okay? To bring glory to Rome. If you were the best and the brightest, then your responsibility to your family and to the gods and to the nation was to win new territory for Rome. Okay? And so, the first thing you had to do was basically win political office. And when Rome was poor, it was basically a meritocracy, right? You had to prove, like you were the best speaker, or you had the best resume in order to be promoted. But now that you have money, what you realize you could do is just bribe people, okay? And then so, very soon, bribery just became a fact of politics in Rome. Once you won political office, you could then become a general to go off to provinces to fight wars to win new territory for Rome.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:36-00:13:32 / SPEAKER_00
+
+Okay? But because you got into so much debt to win the political office, when you went to a province, you did two things. First of all, you exploited the local people. Okay? Because you need to get back that money that you spent. The second thing that you did was you start wars for no reason. Okay? You antagonize the locals in order to start wars. If you start wars, you win a lot of money, right? You can enslave the people and make money that way. But also, you will receive something called a triumph. Okay? Triumph. Now triumph is just a military parade that establishes you as a hero of Rome. And not only do you benefit politically, but your entire family benefits. Okay? So your sons, your grandsons, your great -grandsons will all be remembered and celebrated because of your triumph.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:32-00:14:39 / SPEAKER_00
+
+And they are much more likely to win political office, okay, in their careers. Okay? So the triumph is a very, very big thing. The problem is while the best and brightest were in competition with each other, the poor were suffering. Okay? So the first problem is land. Remember, during the Hannibal Wars, the Second Punic War, the poor lost a lot of land and they were never compensated for it. But then what happened is as Rome was continuing to fight these wars, the poor was being drafted into the army and they were going to like Spain and Syria. These are faraway places and they were stuck there for like years. That meant their land couldn't be cultivated and therefore they got into debt. And they couldn't pay off the debt. So what happened was the rich would come in and buy off the land at very cheap prices. Okay? And so the rich became major land owners.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:40-00:16:04 / SPEAKER_00
+
+And there's a problem because first of all, the poor didn't have any land in order to grow food. So they were forced into the cities. Okay? Their problem is the rich didn't want to grow food to feed the people. Right? They want to grow food as cash crops for export. So suddenly for the first time in its history, Rome couldn't feed itself. You have to rely on imports from the provinces. Okay? So the land was a huge issue. But then you also had issues like debt. Right? So the poor couldn't pay off their debts and they became overwhelmed by interest. And so this created lots of problems for Rome. Okay? So you had a lot of violence. You have a lot of corruption. You have a lot of inequality. Okay? And so this started a cycle that Peter Churchill calls elite overproduction. Right? So in times of peace and as your population grows, you're going to have too many elites who are now in competition with each other.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013
+
+## seg-0014 / 00:16:04-00:17:06 / SPEAKER_00
+
+And it's usually between the upper nobility and the lower nobility. Okay? So upper nobility are people who are established. They're the wealthiest citizens in all of Rome. They're very happy with the system as it is. The lower nobility are people who are born into wealth, but they want more. They want prestige. They want honor. They want the triumph. And so they're struggling against the upper nobility for political power. And usually you do that by aligning yourself with the people. Right? And the people who now number in the millions are pissed off because they have no land, they're too much in debt, and no jobs. Okay? And so these two factions in Rome would be called, the upper nobility would be called the optimates. Okay? Optimates just means best people. We're the best. And our responsibility is to uphold the tradition of Rome, which is piety, liberty, and republica.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:07-00:17:15 / SPEAKER_00
+
+Okay? And these people, lower nobility, who want to change, they're called populaires. And that's where we get the term populist folk.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0015
+
+## seg-0016 / 00:17:17-00:17:18 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0016
+
+## seg-0017 / 00:17:18-00:18:22 / SPEAKER_00
+
+So in 146 BCE, after Rome had become an empire and it had defeated all its enemies, these two factions start to emerge and they clash with each other. So historians normally believe the first clash happened with the Gracchi brothers. Okay? The Gracchus brothers. And these are, again, lower nobility who had a very simple idea, land reform. Okay? The idea is very simple. You have rich people who have too much land and not using the land properly. They're using the land as parks for themselves, like these private parks for themselves, or they're growing crash crops, which does not feed Rome. Most of this land, which is again, common land, the rich are occupying it illegally, is not being used productively. So what they proposed was a simple land reform law. Okay? And the idea is this. Rome, the government of Rome, would buy out the rich from the land they are illegally occupying. Okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017
+
+## seg-0018 / 00:18:22-00:19:25 / SPEAKER_00
+
+Does that make sense? The rich won't be kicked out of the land they're illegally occupying. They'll be compensated for it. Okay? So this makes perfect sense. Not a problem, right? And once Rome buys out this land, it will then redistribute it to the poor so the poor will have like a social safety system. They'll be able to feed themselves. And they'll usually grow grain and other crops for sustenance, and this will enable the feeding of the Roman population in general. Okay? So this sounds very simple to us, but the rich didn't like this idea because they didn't like change in general. Okay? They liked the idea of piety, liberty, and republica, which means things must stay the way they are. And what's really important is the rich cannot be challenged by the poor because if that were the case, then the social system would be overhauled. Okay? So the rich were so pissed off that they assassinated both brothers, the Gracchi brothers.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018
+
+## seg-0019 / 00:19:26-00:20:13 / SPEAKER_00
+
+And most historians believe this is the beginning of the fall of the Roman Republic because it tells us that the system is incapable of change. Okay? The system as it's set up, which focuses on piety, liberty, and republica, it's a contradiction now. And this contradiction cannot be internally resolved. All right? So any more questions? Any questions before I proceed on? I know this is a lot, and maybe I haven't organized it properly, but are there any confusions about this history so far? Again, I'm just providing some background and context before I move on to Julius Caesar. Yeah?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019
+
+## seg-0020 / 00:20:14-00:20:14 / UNKNOWN
+
+Okay.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0020
+
+## seg-0021 / 00:20:25-00:21:36 / SPEAKER_00
+
+Yeah, this is a great question, okay? What's the relationship between the Ottomans and the popular leaders? Okay, there's exactly 20 noble families in Rome. Okay? And so these people, the Ottomans and the popular leaders, all come from these 20 noble families. And they're like cousins of each other. Okay? So the Ottomans are maybe like the fathers and the grandfathers, and the popular leaders are like the sons. Does that make sense? Right? Because the fathers don't want any change, but the sons want political power. And so they're all related. They all grew up with each other. They all know each other. Okay? Does that make sense? Okay. Okay. All right. Echo, are you good? Is this clear to you so far? All right. All right. So the first major conflict is the Gracchi brothers. Second major conflict that happens is something called a social war. And the social war is basically this. The people who fight the wars are the allies, the Italian allies of Rome, okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021
+
+## seg-0022 / 00:21:36-00:22:37 / SPEAKER_00
+
+People who live in the neighboring provinces. They're the ones who fight the war. And after Rome keeps on winning these wars, Rome refuses to grant citizenship to them. Okay? So these neighbors rebel, and there's a civil war going on in Rome, and Rome loses this war. And Rome is forced to grant citizenship to these neighbors. But the question then is, what is the nature of citizenship? Like, how much rights do you get? How much power do you get? Because Rome is a republic, and so one thing that's hard for us to understand is not all voters are equal. Okay? So if you're a rich voter, you have more power than if you are a poor voter. Okay? So the question then is, these new citizens of Rome, what sort of voting rights will they have? And this is an issue that became a huge issue over the next few decades, okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022
+
+## seg-0023 / 00:22:37-00:23:50 / SPEAKER_00
+
+So the social war. Then you have these slave revolts. What they call the Servile Wars. Okay? Then you have these piracy going on. So the Roman Republic is constantly in turmoil and in conflict. Okay? And the war between the optimists and the populars becomes so intense that ultimately they fight a civil war. Okay? A civil war means two armies killing each other. Okay? And so the civil war was between Sulla and Marius. And the civil war becomes so intense that both Sulla and Marius do the unthinkable and they march their armies into Rome and kill their enemies. This has never been done in Roman history before. As a general, you're not supposed to take your soldiers and march against your own government, against your own city, and kill your own people. Okay? Sulla wins the civil war and he understands, like all Romans, that this can't go on.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023
+
+## seg-0024 / 00:23:50-00:25:02 / SPEAKER_00
+
+Okay? There has to be a solution. And Sulla's solution is, well, you know, if the problem is the conflict between the populars and the optimists, let's just kill all the populars. And then the problem will be solved. Then you have stability in Rome. Okay? And this is what we refer to as proscription. Proscription. And proscription means this. There's a list, a public list, of about a thousand, two thousand, okay, individuals. And these individuals are basically sanctioned to be killed. So if you go kill them, you'll be rewarded by the state and you'll be given the property of those you killed. Okay? And it's called proscription. And this is a new invention by Sulla in order to resolve the conflict between the optimists and the populars. One of those individuals who was designated to be proscribed, his name is Julius Caesar. And he's about 19 years old now. And Julius Caesar comes from a very prestigious Roman family called the Julii.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024
+
+## seg-0025 / 00:25:03-00:26:16 / SPEAKER_00
+
+And he's the nephew of Marius. And that's why he was, he was proscribed. Okay? Now, the good thing is, if you're rich, you can bribe your way out of these things. Okay? And Julius Caesar's family was extremely wealthy and he was able to bribe Sulla into letting him go. Okay? So Julius Caesar's life was speared. And Sulla believed that by doing this, by killing off the populars, by making the optimists the supreme power in the land, this conflict would go away. But after Sulla died, this didn't happen. Okay? In fact, the conflict became even worse. Okay? So Julius Caesar grew up in this conflict. Right? He grew up in a time of the imperial republic, a contradiction. And he saw himself as the man of destiny to save the republic by implementing the reforms necessary in order to restore stability in Rome. Okay? He basically wanted to make Rome great again.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025
+
+## seg-0026 / 00:26:16-00:27:29 / SPEAKER_00
+
+Any questions so far? Is this all clear to you guys? Okay? All right. So let's talk about the life of Julius Caesar. Okay? From an early age, Julius Caesar saw himself as special. But not only that, but from an early age, Julius Caesar cared a lot about his public image. He cared about how people perceived and remember him. Okay? So here's a story to highlight the myth -making genius of Julius Caesar. Okay? So when Julius Caesar was 25, he was sent off to Anatolia to work as an official there. Now, the problem with sailing at this time is there's a lot of piracy. Right? Because there's a lot of corruption, inequality, and poverty in the empire. And so when he was 25, Julius Caesar was kidnapped, captured and kidnapped by pirates. Not a big deal, because he's of the nobility. And it's obvious he's of the nobility. And so the pirates asked for a ransom.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0026
+
+## seg-0027 / 00:27:29-00:28:35 / SPEAKER_00
+
+They started to pay the ransom, and Julius Caesar was free to go. Okay? Now, very simple story. But what Julius Caesar did was he imbalanced a story. Okay? He made certain adjustments to the story that made it memorable to people so that people would discuss it everywhere. Okay? The first embellishment he made was this. The pirates asked for a 20 silver talent ransom. Okay? Which is a lot of money. And Julius Caesar said, when I heard this, I felt insulted. How dare you ask for 20 silver talents? I'm worth at least 50! Okay? So, hey guys, don't ask for 20, ask for 50. My family can afford it. Okay? So that's the first embellishment. The second embellishment he made was, Julius Caesar said, I became friends with the pirates. We drank together. He's a very charismatic individual. And I told them while we were drinking, hey guys, after I go home, I'm going to come back and like capture all of you and crucify every one of you.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0027
+
+## seg-0028 / 00:28:35-00:29:33 / SPEAKER_00
+
+The pirates are like, that's really funny, man. Okay? So that's the second embellishment. The third embellishment is, Julius Caesar, after he was released, he set up a navy. He went and found every one of these pirates. And crucified every one of them. Okay? And that's the third embellishment. Because we actually don't know if he actually did this. But again, the thing that Julius Caesar understands is, it doesn't matter if the facts are true or not. What matters is, how appealing are the details. Right? So this story, you'll remember forever. And you will tell others about it. So through this, he's creating a myth of himself. Okay? Does that make sense? And again, there's no way any of these things are true. He's like, oh, 20 talents. I'm insulted. Ask for 50 guys. Okay? And while he's drinking with these guys, and these are pirates.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028
+
+## seg-0029 / 00:29:33-00:30:45 / SPEAKER_00
+
+These are like psychopaths. Right? He's like, I'm gonna come back and kill every one of you. Every one of you. Right? But again, that's a myth -making genius of Julius Caesar. So, again, as a young man, the greatest honor in Rome is to achieve the triumph. And you do that by starting wars. So, through bribery and through charisma, Caesar is elected a praetor. And then as a praetor, he goes off to Spain. He fights these wars against the tribes of Spain. And then he wins a triumph. Okay? And what he wants to do is, he wants to basically use a triumph as the springboard for his political career, to win the consulship. At this point, okay, the optimists hate Julius Caesar. Because Julius Caesar, again, he's a myth -making genius. He's telling all these stories. And it's pissing off the optimists. Because they see Julius Caesar as, you know, as, he's just a braggart.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0029
+
+## seg-0030 / 00:30:45-00:31:48 / SPEAKER_00
+
+Okay? He's arrogant. He just brags all the time. He's appeasing the people. He's exactly, what Romans should not be. Okay? He's impious. He doesn't care for liberty. He doesn't care about the public good. All he cares about is his own personal glory. And he's got a reputation for this. He's also got a reputation for being a libertine. Okay? Meaning, like, he sleeps with men and women everywhere. Okay? And the Roman optimists, okay, people who include Cato, Scipio, and Cicero. Okay? These are the three most famous. They hate Julius Caesar. They hate him. They hate him with a passion. They think Caesar represents all that's wrong with Rome. Here's a young man who has talent and charisma, and he's a genius of some sort, but he's using it, not for the glory of Rome, but for his own personal political advancement. Caesar represents to them the corruption of the Roman Republic. Okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0030
+
+## seg-0031 / 00:31:48-00:33:06 / SPEAKER_00
+
+And they develop, you can use this phrase, Caesar derangement. Syndrome. Okay? They have decided that they will do whatever they can to destroy this guy. Okay? So, Caesar wants a triumph, and he wants to win the, and he wants to get the consulship. Okay? The problem is, you can only be a general to get the triumph, but you have to give up your generalship in order to stand for election for the council. Okay? So, the optimists give him a choice. You can either, have the triumph, or you can have the consulship. It's your choice. And they think, this guy, he's so arrogant, he will never give up the triumph. Okay? And, Caesar surprises everyone, by giving up the triumph. He's like, I don't want this crap. I want to stand for election. All right? So, that's the other thing that's really surprising about Julius Caesar. He's unpredictable. Okay? Or, you can also argue, he understands the mentality, or the motivations of his opponents, but his opponents never understand him.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0031
+
+## seg-0032 / 00:33:06-00:34:11 / SPEAKER_00
+
+Okay? They always underestimate him. Okay? So, Caesar is consul, and as consul, he wants to do what everyone wants to do, and promote stability in Rome. Okay? So, he's promoting land reform. And here, the optimists try to obstruct him wherever they can. Okay? The other thing is, after the consulship, Caesar wants to go take over Gaul. Okay? And Gaul is a northern province in Rome. And there, he wants to win glory for himself. Okay? That's the plan. The optimists understand this, and, so, beforehand, they decide, the next consul will be sent to Italy. Okay? Which is like, basically Rome. If you're in Rome, you can't fight wars. You can't fight wars, you can't win glory. You can't have triumph. Okay? And that's the idea. We'll let Caesar be consul, but we'll have him in Italy, building roads, and cutting wood, and cutting trees.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0032
+
+## seg-0033 / 00:34:11-00:35:08 / SPEAKER_00
+
+Okay? We're not gonna let him go fight wars in Gaul. That's for sure. Caesar knows about this, and he does something that's really unexpected. He forms an alliance with two other individuals that the Senate hates. Okay? The first is Pompey, and Pompey is considered the greatest general of Rome. Okay? Pompey is great. And, he's also pissed off at the Senate because Pompey the Great wins all these wars for Rome, and he has to settle his veterans. Right? He has to give land to his veterans, but the Senate refuses. Okay? So Pompey's pissed off at the Senate as well. And then there's Crassus. And Crassus is the richest man in Rome. He's the wealthiest man in Rome, and he's pissed off at the Senate as well, because the Senate is blocking a lot of his political career. Okay? So they form a secret alliance called the First Triumvirate. And so they do a lot of these deals.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0033
+
+## seg-0034 / 00:35:08-00:36:18 / SPEAKER_00
+
+Okay? So Caesar, as counsel, will help settle the veterans of Pompey. He'll promote some tax reform that Crassus wants. And in return, Pompey and Crassus will give him Gaul as the promise that he will take over once he leaves this country. Okay? So that's the plan. When Caesar becomes leader of Gaul, the provincial governor of Gaul, the proconsul from 58 to 51 BCE, at this point, Caesar becomes a legend in Rome. Okay? This is where his myth -making genius really shines. He goes and commits genocide in Gaul, basically. Okay? In the words of Caesar, I went to Gaul. I killed a million Gauls in war. I enslaved a million Gauls. And then I let a million Gauls live. Okay? So he basically committed genocide against the Gauls. And it was all for his personal glory. And he was starting all these wars in Gaul in order to accomplish three things. Okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034
+
+## seg-0035 / 00:36:18-00:37:18 / SPEAKER_00
+
+The first thing he wanted to do was money. Okay? He got into a lot of debt because he had to bribe a lot of people in order to secure his consulship. And he has to pay them off. Right? So he made a lot of money. The money that he had left over, he sent back to Rome to organize feasts and festivals for the Roman people. Okay? The term we use today is called bread and circus. Bread and circus. Okay? So that's what Caesar was doing in order to engrate himself with the Roman people. Okay? So that's the first major purpose of these wars. Second major purpose of these wars is to create the world's greatest army. Remember, Rome is mainly at peace. At this time. And if they're fighting wars, they're fighting wars against a lesser opponent. Okay? But Gauls are tough warriors. And the Roman, his Roman soldiers are getting the best training in the world through eight years of constant fighting the Gauls.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0035
+
+## seg-0036 / 00:37:18-00:38:20 / SPEAKER_00
+
+Okay? So through this process, he created the most loyal and the most disciplined army in the world. And they're all loyal to him personally. Okay? Because he's the one rewarding them. And he's the one who brings victory to them. All right? The second thing. The third thing, which is the most important, is he creates the myth of Caesar as the great conqueror. Okay? Romans loved generals. Romans loved conquerors. And while Caesar was in Gaul fighting these wars, what he would do is he would write down dispatches or maybe reports. Right? Then he would send a soldier back to Rome and in the form of Rome, okay, the main place, public place, he would stand up and he would read the accomplishments of Caesar of that week. And the things he was doing was, I mean, it basically captured the imagination of Rome, of all Romans. Okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0036
+
+## seg-0037 / 00:38:20-00:39:37 / SPEAKER_00
+
+So for example, he attacked Germania. Germania, and Romans thought the Germans were so barbaric it was impossible to attack them. The second thing that, that Caesar did to capture the imagination of Romans is he invaded Britain. Britain in the imagination of Romans was this mystical imaginary place and no one knew what it was. And Caesar launched two major expeditions against Britain that didn't really do anything, but that was not the point. The point was Caesar ventured into the unknown. Okay? It's basically equivalent back then of the moon landing. Does that make sense? It was just unheard of. Like why would you go to Britain? Aren't there like dragons in Britain? Aren't there like sea monsters in Britain? And Caesar went and went there twice. Okay? So at this point, the Romans worship Caesar. Okay? Caesar's bribing them with like bread and circus and he's winning all these military exploits in Gaul and he's constructing a new reality of Caesar as the great conqueror.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037
+
+## seg-0038 / 00:39:38-00:40:49 / SPEAKER_00
+
+Okay? So does it make sense so far? Okay? He's a myth maker. So while Caesar is doing this, the optimists in Rome, back in Rome, Cato, Scipio, and Cicero, they now see what a threat Caesar is. They realize this guy's not beatable. If he runs for elections, he's gonna win all the elections. His allies are gonna win the elections. So they decide, to strip him of his command, of his military command, and put him on trial for all the things he did illegally. Okay? And Caesar, he's not a nice person. He's done a lot of illegal, immoral things in order to accomplish power. Right? So the Senate has a major case against him. And at this point, Caesar recognizes that, listen, these guys mean war. So what Caesar does is, he basically declares war on Rome. He crosses the Rubicon. Okay? And the Senate is appalled by this, and
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0038
+
+## seg-0039 / 00:40:49-00:42:01 / SPEAKER_00
+
+they appoint Pompey, who again, is considered the greatest general in Rome at this point, at this point, to counter Caesar. Okay? And this starts the second civil war. The first civil war was between Sulla and Marius. Okay? So now it's Caesar, versus Pompey. Any questions so far? About this? Sure. Oh, that's a great question. Okay? So the Senate is about, it's about 300, 400 people. It's a lot of people. Okay? But the power in the Senate is not distributed equally. So if you are, so think of the Senate as maybe many circles. Okay? If you are the main, if you have the most power, you sit at the front. Why is that important? Because you're able to speak if you sit at the front. Does that make sense? So even though technically voting, everyone has the same voting rights, the people at the front are those who are able to set the agenda and control the debate and make speeches.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0039
+
+## seg-0040 / 00:42:02-00:43:23 / SPEAKER_00
+
+Everyone back here are not allowed to say anything. Okay? Because you go in turns. The people who sit at the front are the optimists because they come from the most prestigious families and they have the most illustrious political careers. Okay? Does that make sense? All right. So when Caesar invades Rome, basically he declared war on the Roman Senate. Okay? So let's look at a map of Rome at this time. This is the year 49 BCE. All right. So Rome is an empire. You have Italy here. This is Rome. Over here is basically Northern Africa. Over here is Spain. Over here is Rome. Over here is Greece. Over here is Anatolia. Syria. Okay. So that's the Roman Empire. Okay? At this point, when Caesar crossed the River Cod, he controls basically Gaul, which is poor, which is poor. Okay? He controls Rome. The optimists in Pompeii, they control Spain, Greece, Anatolia, Syria, and Northern Africa.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0040
+
+## seg-0041 / 00:43:23-00:44:35 / SPEAKER_00
+
+Okay? That's a problem for Caesar because remember, Rome gets its food from the provinces. Okay? So in other words, all Pompey has to do is wait. This is what we call a containment strategy. Containment strategy. Look. Caesar can't do anything. Right? And eventually, because Romans are starving because of this blockade, then the Romans will rise against Caesar. Game over. Okay? That's all the optimists have to do. Just wait it out. Over time, Caesar will lose the loyalty of his troops and of the Roman people. And then he will have, and then he will be weak. And then, and then at that point, they can attack him. Okay? The war will be over. Does that make sense? All right? So the odds are against Caesar because he is basically one man versus an entire empire. Okay? But Caesar has two advantages. Okay? He has two major advantages. The first advantage he has is he has, again, the world's greatest military who have fought eight years in Spain.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041
+
+## seg-0042 / 00:44:35-00:45:40 / SPEAKER_00
+
+They're extremely disciplined. They're extremely devoted to him. Okay? That's the first major advantage. The second major advantage is the division within the ultimate opposition. Okay? Because even though the optimists, Cato and Cicero and Scipio, they don't really, they hate Caesar. They don't trust Pompey either. Right? Because as this war continues, more and more power will accrue to Pompey. Right? He's going to have more and more power. So even though Pompey wants to drag this war out, the optimists don't want this war to drag out. They're afraid that, like even if Caesar, as dictator, they will make Pompey the dictator. Because the optimists, what they want to do is like maintain the status quo. Right? They don't want a new king to arise. They don't want a situation where Caesar loses but Pompey wins. Okay? Does that make sense? So optimists are pushing Pompey to end the war as quickly as possible.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0042
+
+## seg-0043 / 00:45:41-00:46:51 / SPEAKER_00
+
+All right? And this division will be costly. In fact, it will basically cost Pompey his life. So given these two advantages, the divisions within the ultimate opposition and given that Caesar has the world's greatest army, Caesar decides he must take the offensive. Okay? So first thing he does is he takes his army to Spain and crushes all opposition in Spain. When he crushes opposition in Spain, he does something that's not very Roman. Okay? He offers clemency to the enemy. Basically he tells his enemies, okay, we're all Romans. We're all fighting for the greater good of Rome. So I've won this war. Will you promise not to fight against me? If you promise you won't fight against me anymore, I'll let you go. Okay? And when he did that, some chose to just go home. But there were also many who were like, who chose to go and fight for Pompey in Greece.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0043
+
+## seg-0044 / 00:46:51-00:47:51 / SPEAKER_00
+
+Okay? All right? But that's what Julius Caesar is doing. He's winning these wars against his opponents and he's letting them go. He's forgiving them. So that's the first thing. That Caesar does. And then he marches to Greece. And again, at this point, Pompey doesn't have to do anything. And Pompey doesn't want to do anything because he knows that Caesar has a superior army. Okay? These are two of the greatest generals Rome has ever produced. Okay? Caesar and Pompey. They understand each other. They understand warfare. And Pompey just wants to use a containment strategy and starve Caesar out. Caesar wants to fight a battle right away. Okay? And what tips a balance is the Ottomans, who force, sorry, the Ottomans, Cato, Sibyl, and Cicero, who forced Pompey to fight a battle. And in August 48 BCE, at a place called Pharsalus, the two armies meet. Okay? Pompey and Caesar.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0044
+
+## seg-0045 / 00:47:51-00:49:04 / SPEAKER_00
+
+Pompey chooses to use the anvil and hammer strategy. Remember what the anvil and hammer strategy is, where your infantry locks the enemy, the enemy army into place. Okay? It locks in place. And then from behind, the cavalry comes in and wipes out the enemy infantry. Okay? That's the strategy. This is what Alexander the Great, this is the strategy that Philip and Alexander the Great used against the Greeks in Persia. Okay? The problem is the, Julius Caesar's army is so disciplined and so experienced that they withstood the cavalry charge. And they wiped out the army at Pharsalus. Okay? Then, Caesar took his army to Egypt, conquered that, to Syria, conquered that, and to Anatolia, conquered that. Okay? The Senate asked for a report from Caesar, like how's the war going? What's happening? Okay? And Caesar said the most famous line that he ever said. And again, he's myth -making genius, right?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0045
+
+## seg-0046 / 00:49:04-00:50:22 / SPEAKER_00
+
+He basically said, Vinni, vedi, vici. Okay? Beautiful Latin. The most powerful Latin phrase ever spoken in human history. It means, I came, I saw, I conquered. Okay? And again, this captured the imagination of the Roman people. After Caesar calmed the Roman ease, he goes to Africa to fight the Romans. And it's in Africa that the Romans are fighting Cato and Scipio at the Battle of Pharsus. Okay? And again, Caesar wants to show clemency. He wants to show how generous and merciful he is. When at this point, his soldiers, who are getting very old, they just want this war to end and they want to go home. So at this battle, what they do is to defy the orders, direct orders, of Caesar not to engage. they took it upon themselves to attack the enemy and at this point they're winning the war right the winner battle Caesar orders them to show mercy the veterans his veterans massacred their enemies
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046
+
+## seg-0047 / 00:50:22-00:51:33 / SPEAKER_00
+
+to ensure they can't fight back again okay the last battle is in Spain at the month Manda and here the enemy is on a hill and you're not supposed to fight uphill okay you're not supposed to go up a hill and fight your enemy there because you're at a major disadvantage right Caesar's soldiers now are so experienced and disciplined that they can do that they can just march up the hill and destroy the enemy okay so that's how powerful Caesar's enemy sorry that's how powerful Caesar's army is at this point they basically wipe out every army they fight against like we conquer the Roman Empire okay does that make sense Caesar goes back to Rome in 44 in 44 And this is the year he will be assassinated by his friends. He launches legislative reform to reform the Roman Republic, okay? He launches land reform. He launches debt relief. He creates something called the Julian calendar.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0047
+
+## seg-0048 / 00:51:33-00:52:56 / SPEAKER_00
+
+The Julian calendar is what we still use today. Before Julius Caesar, the Romans used the lunar calendar. And then Julius Caesar, working with astronomers, they designed together the Julian calendar which is exactly what we still use today, okay? That's a major reform. He offered clemency to all his enemies. Basically, if you're willing to work for the good of Rome, he will invite you back into the Senate, okay? He offered citizenship to his soldiers and to Italians, okay? He brought in citizenship in Rome. So what Caesar was doing was... He was basically trying to resolve a lot of the contradictions that led to instability and civil war and revolution in Rome before then, okay? And he was successful. And he was considered a genius. He was loved by the people. In fact, he was everywhere. He had busts of himself everywhere, okay? And then he minted coins, money. That is... He was based on it.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048
+
+## seg-0049 / 00:52:56-00:54:13 / SPEAKER_00
+
+So he was basically creating what we call a cult of personality, okay? And he wanted to continue to expand the Roman Empire. His plan was to go fight a place called Parthia, which is the old Persian Empire, and then he wanted to go conquer Germania, okay? He basically wanted to conquer the entire world. That was his ambition. His ambition was to make Rome great again. And he almost succeeded except, ultimately, he was killed. Okay? By his friends. He was assassinated in 44 B.C., okay? So let's look at those three questions again, okay? First of all, what motivates Caesar? Second question is why did he succeed? The third question is why did they kill him, okay? So I think what motivated him is exactly what motivated someone like Sulla and Marius and other great generals of Rome. They wanted to make Rome great again. They're nostalgic for the Rome of the Hannibal Wars, right?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0049
+
+## seg-0050 / 00:54:13-00:55:17 / SPEAKER_00
+
+When everyone came together and made the sacrifice necessary in order to protect and save Rome. They wanted to return that era, okay? And that's what motivated him. He didn't want to become king. And if he became king, he didn't want to stay as king. Remember, Sulla won the war and he could have made himself king. But he didn't do that. He implemented a lot of reforms and then retired because that was the Roman way, okay? That's what the ancestors did. And he wanted to be loyal to the gods, to the ancestors, and to Rome, okay? So Caesar didn't want to become king, he just wanted to save Rome. Second question then is how is he able to succeed? And this is a more difficult question, okay? So again, the argument is he's a myth maker. What does that mean? Okay. So. So there are different individuals in society that promote the social good, okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0050
+
+## seg-0051 / 00:55:17-00:56:41 / SPEAKER_00
+
+Or they're able to accomplish great things in different aspects of society. The first is a general, right? The general. The general, he is bold and disciplined. And he's fair, right? That's why the soldiers follow him. He's bold, he's disciplined, and he's fair. He's also concerned about power. Organization and logistics. How do you move an army from place to place? How do you feed your army? Okay? That's what the general does. That's what a great general does. That's what Hannibal did, okay? Then you have the politician. And the politician, he's basically like an avatar of the people. He's able to capture and represent the emotions and the dreams and the longings of the people, okay? He's very charismatic and he's very manipulative, okay? He's able to tell stories that capture the emotional imagination of the people. That's what the politician does. Then you have the administrator or the legislator, okay? And this person is very concerned about details and law and legal aspects, okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051
+
+## seg-0052 / 00:56:41-00:58:02 / SPEAKER_00
+
+Regulation. And the person, you can say, is almost a systems design thinker. Very big picture, very macro, and trying to figure out how the different pieces fit together. If you think about it, these three individuals, the general, the politician, and the administrator, the legislator, they're very different personalities. They're in contradictions with each other, okay? So for example, Pompey was a great general, but he's a terrible, terrible politician, okay? Hannibal was a great general too, but he was not a very good legislator. Okay? The thing that made Julius Caesar distinctive is he was all three together, okay? Because what enables you to be all three together is the imagination. That was Julius Caesar's secret power, his imagination. He was able to imagine himself as different people at once, and therefore, he was different people at once. He had multiple personalities. And that's why he was so unpredictable. That's why he was able to understand the motivations of his opponents.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0052
+
+## seg-0053 / 00:58:04-00:59:20 / SPEAKER_00
+
+And that's why he was able to accomplish so much. Okay? Does that make sense? And so he became a myth maker. The problem with being a myth maker is you ultimately have to change reality. And by changing reality, you make people who are accustomed to reality uncomfortable. Okay? Okay? So that's why he was killed. He was killed by not his enemies, but by his friends. Okay? So there were four major conspirators against Julius Caesar. They were Decimus Brutus, who was basically Caesar's lieutenant in war. You had Trebonius, again, the major lieutenant of Caesar, but you also had Cassius. Cassius was actually fighting for Pompey. But Caesar thought he was such a great general that Caesar pardoned him. Okay? And you also had Marcus Brutus, who Caesar actually saw as a son. Okay? So these are the people who are closest to Caesar, and they ultimately killed
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0053
+
+## seg-0054 / 00:59:20-01:00:56 / SPEAKER_00
+
+Caesar because even though Caesar was making Rome better, he was changing Rome, which caused them to feel uncomfortable and anxious about the future of Rome. Okay? Does that make sense? So an analogy is this. Let's just say that one day the Chinese government says, we're going to outlaw rice, white rice, because white rice has proven to be scientifically bad for you. Okay? It's not nutritious for you. Instead, we're going to make every Chinese eat steak and potatoes and broccoli so that Chinese can be strong and healthy. Okay? How does Chinese feel about this? They'd be pissed. Okay? Do you understand? So it's unfortunate that Caesar did nothing wrong. And everything that Caesar did was for the good of Rome, but change, reform, causes cognitive dissonance. Okay? It makes people anxious and uncomfortable. Okay? It disrupts your identity, and that's why there's a conspiracy that ultimately killed Caesar. Okay? Does that make sense? Okay. Okay. So the question, how did Caesar challenge the identity of being Roman?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054
+
+## seg-0055 / 01:00:57-01:02:07 / SPEAKER_00
+
+Okay. That's a great question. All right. So let's look at his reforms. First of all, he had a Julian calendar, right? The Julian calendar. So he was challenging people's sense of time, time. You understand? So before you had the lunar calendar, now you have the Julian calendar. Second thing that he did was he was doing all this stuff. He was doing all this stuff by himself. Okay? He was winning these military victories by himself. He was introducing reform legislation by himself. He was a great man. But if you're Roman, what you have been taught is these three ideas, piety, liberty, and republica, which is to say no one is above Rome. Everyone is equal in the eyes of Rome. This general who won against Hannibal or Carthage or the Greeks, it wasn't because he was a great man. It was because he was fighting for Rome.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0055
+
+## seg-0056 / 01:02:07-01:03:14 / SPEAKER_00
+
+Okay? So the fact that Julius Caesar was a genius, that he was so brilliant and he was able to accomplish so much, it made them jealous, right? It made people jealous. But at the same time, it made them... It made him... It made him... It made them see him as a threat to the very stability of Rome. Does that make sense? Because people like Julius Caesar aren't supposed to exist. Rome does not need kings. In fact, Rome is anti -monarchy. Okay? So they were very much afraid that Julius Caesar thought of himself as a god and he would make himself king. And in fact, Julius Caesar, I mean, had hubris. Right? Obviously, if you believe that you by yourself can change Rome, you have hubris. But he was not showing enough deference to the Senate. He was creating a cult of personality. He was being very arrogant. It seemed very much like he wanted to become king.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0056
+
+## seg-0057 / 01:03:14-01:03:43 / SPEAKER_00
+
+Okay? Does that make sense? Okay? So there's a lot of evidence to suggest that Caesar wanted to become king. And that's what made them uncomfortable. Okay? But what I'm saying is the real issue is the idea of carnal dissonance. Okay? Where the very existence of Caesar challenged their perception of what Rome was and what Rome meant. Okay? Does that make sense? But very good question. Okay? Any more questions?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057
+
+## seg-0058 / 01:03:52-01:03:52 / UNKNOWN
+
+Crassus.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058
+
+## seg-0059 / 01:03:57-01:05:11 / SPEAKER_00
+
+Oh. Okay. So Pompey and Crassus and Caesar, how did they form their alliance? Right? Okay. So the first thing to understand is Pompey and Crassus were both optimists. Okay? They were supporters of Sulla. Remember, Sulla is the one who crushed the populars. Right? So Pompey and Crassus were conservatives. They were optimists. Caesar was a populare. So their alliance was secret. It was completely unexpected. And that's why they were able to accomplish so much. Because politically, they were at odds with each other. The reason why they formed an alliance is... It's basically expedience. Pompey had issues that he wanted to pass through the Senate. Crassus had issues that he wanted to pass through the Senate and Caesar as well. So they decided it would be politically expedient to work together. And that's the genius of Caesar. Okay? He's very charismatic. He's very manipulative. So he was able to form an alliance with people who were technically his enemies.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059
+
+## seg-0060 / 01:05:11-01:05:28 / SPEAKER_00
+
+Okay? Pompey and Crassus were his enemies. They were politically at odds with him. But Caesar was able to put aside political differences and form an alliance for the sake of interest and expediency. Okay? Does that make sense? But obviously, this would not last very long.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060
+
+## seg-0061 / 01:05:30-01:05:30 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061
+
+## seg-0062 / 01:05:31-01:05:59 / SPEAKER_00
+
+Any more questions? Okay. Okay. So next class, we're going to look at the world that Caesar created. Okay? Because after he dies... The Republic falls. So we will look at what happens after he dies and look at the birth of the Roman Empire.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062
+
+## seg-0063 / 01:06:00-01:06:01 / UNKNOWN
+
+Okay? Okay. Okay.
+
+Ref: video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063

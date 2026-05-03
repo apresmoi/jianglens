@@ -1,0 +1,287 @@
+---
+const {
+  text = '',
+  marks = [],
+  refs = [],
+  tone = 'body',
+  transcriptUrl = '',
+} = Astro.props;
+
+function transcriptSpanUrl(ref) {
+  if (!transcriptUrl || !ref.segment_id) return null;
+  return `${transcriptUrl}#${ref.segment_id}`;
+}
+
+function firstSentence(value) {
+  const match = String(value).match(/^.{24,}?[.!?](?=\s|$)/);
+  return match ? match[0] : String(value);
+}
+
+function normalizedMarks() {
+  if (marks.length) return marks;
+  if (!refs.length) return [];
+  return [{
+    text: firstSentence(text),
+    refs_detail: refs,
+  }];
+}
+
+function partsFor(value, sourceMarks) {
+  const ranges = [];
+  let searchFrom = 0;
+
+  for (const mark of sourceMarks) {
+    const quote = String(mark.text ?? '').trim();
+    if (!quote) continue;
+
+    const index = value.indexOf(quote, searchFrom);
+    if (index === -1) continue;
+
+    const end = index + quote.length;
+    const previous = ranges[ranges.length - 1];
+    if (previous && index < previous.end) continue;
+
+    ranges.push({ start: index, end, mark });
+    searchFrom = end;
+  }
+
+  if (!ranges.length && refs.length) {
+    ranges.push({
+      start: 0,
+      end: value.length,
+      mark: { text: value, refs_detail: refs },
+    });
+  }
+
+  const parts = [];
+  let cursor = 0;
+
+  for (const range of ranges) {
+    if (range.start > cursor) {
+      parts.push({ text: value.slice(cursor, range.start) });
+    }
+    parts.push({
+      text: value.slice(range.start, range.end),
+      mark: range.mark,
+    });
+    cursor = range.end;
+  }
+
+  if (cursor < value.length) {
+    parts.push({ text: value.slice(cursor) });
+  }
+
+  return parts;
+}
+
+const inlineParts = partsFor(String(text), normalizedMarks());
+---
+
+<p class:list={['inline-evidence', tone]}>
+  {inlineParts.map((part) => {
+    const refsDetail = part.mark?.refs_detail ?? [];
+    const lensPointsDetail = part.mark?.lens_points_detail ?? [];
+    const firstRef = refsDetail.find((ref) => Number.isFinite(Number(ref.start)));
+    return part.mark ? (
+      <span class="evidence-wrap">
+        <span
+          class="evidence-mark"
+          role="button"
+          tabindex="0"
+          data-video-start={firstRef ? Math.floor(Number(firstRef.start)) : undefined}
+        >
+          {part.text}
+        </span>
+        <span class="evidence-popover" role="tooltip">
+          {lensPointsDetail.length > 0 && (
+            <span class="lens-links">
+              <strong>Lens point</strong>
+              {lensPointsDetail.map((point) => (
+                point.valid ? (
+                  <a class="lens-card" href={point.url}>
+                    <span>{point.title || point.concept || point.doc_title}</span>
+                    <em>{point.text}</em>
+                  </a>
+                ) : (
+                  <span class="lens-card missing">
+                    <span>{point.id}</span>
+                    <em>{point.error}</em>
+                  </span>
+                )
+              ))}
+            </span>
+          )}
+          {refsDetail.length > 0 && (
+            <>
+              <strong>Source trail</strong>
+              <span class="evidence-times">
+                {refsDetail.map((ref) => {
+                  const spanUrl = transcriptSpanUrl(ref);
+                  return spanUrl ? (
+                    <a href={spanUrl}>{ref.time_label || ref.segment_id || 'span'}</a>
+                  ) : (
+                    <span>{ref.time_label || ref.segment_id || 'span'}</span>
+                  );
+                })}
+              </span>
+              {refsDetail.slice(0, 2).map((ref) => (
+                <em>{ref.excerpt}</em>
+              ))}
+            </>
+          )}
+        </span>
+      </span>
+    ) : part.text;
+  })}
+</p>
+
+<style>
+  .inline-evidence {
+    margin: 0;
+    color: #d7ccbb;
+    font-size: 1.02rem;
+    line-height: 1.72;
+  }
+
+  .inline-evidence.opening {
+    color: #f4ead8;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.08rem, 1.45vw, 1.22rem);
+    line-height: 1.58;
+  }
+
+  .evidence-wrap {
+    position: relative;
+    display: inline;
+  }
+
+  .evidence-mark {
+    margin: 0;
+    border: 0;
+    border-radius: 2px;
+    padding: 0 0.03em 0.04em;
+    color: inherit;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    display: inline;
+    font: inherit;
+    line-height: inherit;
+    text-align: inherit;
+    text-decoration-line: underline;
+    text-decoration-color: rgba(201, 167, 101, 0.76);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+    background: transparent;
+    cursor: pointer;
+  }
+
+  .evidence-mark:hover,
+  .evidence-mark:focus-visible {
+    color: #f4ead8;
+    background:
+      linear-gradient(
+        to top,
+        rgba(201, 167, 101, 0.24) 0,
+        rgba(201, 167, 101, 0.24) 0.34em,
+        transparent 0.34em
+      );
+    outline: none;
+  }
+
+  .evidence-popover {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    z-index: 40;
+    width: min(380px, 84vw);
+    display: none;
+    border: 1px solid rgba(244, 234, 216, 0.2);
+    border-radius: 6px;
+    padding: 10px;
+    color: #d7ccbb;
+    background: rgba(9, 10, 8, 0.98);
+    box-shadow: 0 18px 46px rgba(0, 0, 0, 0.42);
+  }
+
+  .evidence-wrap:hover .evidence-popover,
+  .evidence-wrap:focus-within .evidence-popover {
+    display: grid;
+    gap: 8px;
+  }
+
+  .evidence-popover strong {
+    color: #c9a765;
+    font-size: 0.74rem;
+    text-transform: uppercase;
+  }
+
+  .lens-links {
+    display: grid;
+    gap: 7px;
+  }
+
+  .lens-card {
+    display: grid;
+    gap: 5px;
+    border: 1px solid rgba(201, 167, 101, 0.28);
+    border-radius: 5px;
+    padding: 9px;
+    color: #f4ead8;
+    text-decoration: none;
+    background: rgba(201, 167, 101, 0.075);
+  }
+
+  .lens-card:hover,
+  .lens-card:focus-visible {
+    border-color: rgba(201, 167, 101, 0.6);
+    outline: none;
+  }
+
+  .lens-card span {
+    color: #c9a765;
+    font-size: 0.77rem;
+    font-weight: 780;
+    line-height: 1.25;
+    text-transform: uppercase;
+  }
+
+  .lens-card em {
+    color: #d7ccbb;
+    font-size: 0.82rem;
+    font-style: normal;
+    line-height: 1.42;
+  }
+
+  .lens-card.missing {
+    border-color: rgba(244, 234, 216, 0.16);
+    color: #928b7d;
+  }
+
+  .evidence-times {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .evidence-times a,
+  .evidence-times span {
+    min-height: 24px;
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid rgba(244, 234, 216, 0.16);
+    border-radius: 4px;
+    padding: 0 7px;
+    color: #c9a765;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    font-size: 0.72rem;
+    text-decoration: none;
+    background: rgba(244, 234, 216, 0.045);
+  }
+
+  .evidence-popover em {
+    color: #928b7d;
+    font-size: 0.8rem;
+    font-style: normal;
+    line-height: 1.42;
+  }
+</style>

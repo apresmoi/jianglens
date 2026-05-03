@@ -1,0 +1,27 @@
+.DS_Store
+
+# Local dependencies and static build output
+node_modules/
+website/node_modules/
+website/dist/
+website/.astro/
+
+# Local media artifacts should stay outside git by default.
+content/sources/**/audio.*
+content/sources/**/*.mp3
+content/sources/**/*.mp4
+content/sources/**/*.wav
+content/sources/**/*.m4a
+content/sources/**/*.mov
+
+# Notebook/runtime caches
+ops/staging/
+ops/secrets/
+ops/notebooks/colab/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Spawnfile generated runtime output
+.spawn/
+
+# Local planning notes
+docs/SEO_DOMAIN_AND_AGENT_DISCOVERY.md

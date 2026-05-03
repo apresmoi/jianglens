@@ -1,0 +1,38 @@
+spawnfile_version: "0.1"
+kind: team
+name: jiang-lens-agents
+description: "Autonomous PicoClaw workers for turning the Jiang corpus into episodes, corpus impact records, and lens material."
+
+mode: swarm
+
+docs:
+  system: TEAM.md
+
+shared:
+  skills:
+    - ref: ./.codex/skills/jiang-autonomous-work-protocol
+    - ref: ./.codex/skills/jiang-source-ingest
+    - ref: ./.codex/skills/jiang-transcript-boundary-review
+    - ref: ./.codex/skills/jiang-agent-transcript-pass
+    - ref: ./.codex/skills/jiang-video-e2e
+    - ref: ./.codex/skills/jiang-episode-read-writer
+    - ref: ./.codex/skills/jiang-episode-publisher
+    - ref: ./.codex/skills/jiang-corpus-impact-pass
+    - ref: ./.codex/skills/jiang-provenance-linker
+
+members:
+  - id: episode-worker
+    ref: ./agents/episode-worker
+
+networks:
+  - id: local_lab
+    name: Jiang Lens Local Lab
+    provider: moltnet
+    expose: true
+    rooms:
+      - id: episode-floor
+        members: [episode-worker]
+
+policy:
+  mode: warn
+  on_degrade: warn

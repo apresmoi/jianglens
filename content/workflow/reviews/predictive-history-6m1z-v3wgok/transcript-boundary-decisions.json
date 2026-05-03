@@ -1,0 +1,140 @@
+{
+  "source_slug": "predictive-history-6m1z-v3wgok",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:b15b983bf319",
+      "decision": "approve",
+      "reason": "Moves the final word of the phrase 'by the people' into the next segment to complete the sentence."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:ac2aaddae655",
+      "decision": "approve",
+      "reason": "Restores the split phrase 'power in the Catholic Church' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:779cd9da4c67",
+      "decision": "approve",
+      "reason": "The next segment starts with the completion of 'what makes La Commedia so powerful is'."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:95a0320aaddd",
+      "decision": "approve",
+      "reason": "Joins the sentence starter 'And it' with 'all sounds very simple and nice.'"
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-trailing-starter-to-next:b344d80e24a3",
+      "decision": "approve",
+      "reason": "Moves the stranded starter 'The' to the next segment so 'The simplest way...' reads cleanly."
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:303a7a202958",
+      "decision": "approve",
+      "reason": "Completes 'And Dante is considered the greatest poet...' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:94a1d7403d9e",
+      "decision": "approve",
+      "reason": "Moves the question ending 'hatred and war?' into the next segment where it is completed."
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:063028effb07",
+      "decision": "approve",
+      "reason": "Restores the split clause 'constant fighting, and he will exile himself...' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:d9cbb9066cc9",
+      "decision": "approve",
+      "reason": "Completes the sentence 'You need to know about Dante.'"
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:682bcc27ac23",
+      "decision": "approve",
+      "reason": "Joins 'he is' with 'lost in this forest and he feels hopeless.'"
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:04768ddbd9f6",
+      "decision": "approve",
+      "reason": "Moves the opening of the quoted line into the next segment where it continues naturally."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:d442ff16ffb8",
+      "decision": "approve",
+      "reason": "Completes 'she turned aside her gleaming, tearful eyes' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:072ed80e07b7",
+      "decision": "approve",
+      "reason": "Restores the full clause 'If God is love...' in the next segment."
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:ec6aa160a61a",
+      "decision": "approve",
+      "reason": "Completes Beatrice's statement with 'go to heaven.'"
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:1011afce0fd7",
+      "decision": "approve",
+      "reason": "Moves the stranded noun 'river.' to complete the sentence before Charon speaks."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:0cc6aa52c097",
+      "decision": "approve",
+      "reason": "Completes Charon's line with 'has abandoned you.'"
+    },
+    {
+      "candidate_id": "seg-0025->seg-0026:move-leading-completion-to-previous:6bd04a7ade60",
+      "decision": "approve",
+      "reason": "Joins 'And this suggests to' with 'us that Virgil is the master of hell.'"
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-leading-completion-to-previous:5a00142a0214",
+      "decision": "approve",
+      "reason": "Completes the prompt 'Can you read, Ivory?'"
+    },
+    {
+      "candidate_id": "seg-0028->seg-0029:move-leading-completion-to-previous:e7d6ec979bbd",
+      "decision": "reject",
+      "reason": "The repeated phrase looks like duplicated narration rather than a clean boundary split."
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:bd29ee2ee0ba",
+      "decision": "approve",
+      "reason": "Completes 'Their fear is turned into desire.'"
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:d411b49dd769",
+      "decision": "approve",
+      "reason": "Completes the phrase 'they are doomed in hell.'"
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:9e872af4d18b",
+      "decision": "approve",
+      "reason": "Joins the split phrase 'before the time of Jesus.'"
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:15c6d58a867c",
+      "decision": "approve",
+      "reason": "Completes Minos's warning with 'don't trust anyone here.'"
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:f01ac0f56c20",
+      "decision": "approve",
+      "reason": "Restores 'of hell, and this is lust...' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:80555c2be220",
+      "decision": "approve",
+      "reason": "Completes the fragment 'and I was like a man astray.'"
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-trailing-starter-to-next:a4afe4e7c5de",
+      "decision": "approve",
+      "reason": "Moves 'And this' into the next segment where it clearly introduces the following sentence."
+    },
+    {
+      "candidate_id": "seg-0047->seg-0048:move-leading-completion-to-previous:5da386311ae9",
+      "decision": "approve",
+      "reason": "Completes the sentence about condemning Dido to hell."
+    }
+  ]
+}

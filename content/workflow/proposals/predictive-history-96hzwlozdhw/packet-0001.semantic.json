@@ -1,0 +1,262 @@
+{
+  "packet_id": "predictive-history-96hzwlozdhw-semantics-pkt-0001",
+  "source_id": "video:predictive-history-96hzwlozdhw",
+  "source_date": "2024-10-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0001",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0003",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0004",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0005",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the lecture by treating every society as a problem of organized thinking: schools, media, and entertainment make people share a worldview. He then maps that model onto Athens, arguing that theater trained Athenians to understand themselves as democratic citizens.",
+      "speaker_attribution": "Likely Jiang in lecture mode, with short classroom prompts embedded in the monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0007",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "A brief audience/student intervention about the amphitheater leads Jiang to explain Greek theater acoustics and the communal character of performance: theaters carried sound, actors had to project, and audiences already knew the lines.",
+      "speaker_attribution": "Segment 0007 is diarized as UNKNOWN and appears to be a student or audience response; segment 0008 is Jiang answering the acoustics question.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0001",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0006",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0008"
+      ],
+      "note": "The focus refs are overwhelmingly a single lecturer voice using classroom questions as prompts; these should not be treated as independent public questions unless a student answer is visible.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0007"
+      ],
+      "note": "The short UNKNOWN span likely belongs to a student or audience member, but the preceding question is not captured in the transcript.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines a central social problem as the need to organize the thinking of people inside a society and create a shared identity.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "General social model stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "identity-formation",
+        "society",
+        "worldview"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names schools, media, and entertainment or mass culture as modern institutions that create collective identity by transmitting a worldview.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0001",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "General model stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "schools",
+        "media",
+        "entertainment",
+        "collective-identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that American identity is organized around individualism while Chinese identity is organized around collectivism, using this contrast to introduce Athens as another society building a political identity.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Comparative claim stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "america",
+        "china",
+        "individualism",
+        "collectivism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The main function of Athenian theater, in Jiang's reading, was to create the identity of a democratic citizen and teach why democracy exists, what it means, and what responsibilities it imposes.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive claim about ancient Athens stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "athens",
+        "theater",
+        "democracy",
+        "citizenship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the Festival of Dionysus as a recurring, free, citywide theater institution in which aristocrats funded plays and Athenians treated theatergoing as a birthright.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical account of ancient Athens stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "festival-of-dionysus",
+        "athens",
+        "aristocrats",
+        "public-culture"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the process of Athenian theater was democratic because winners were chosen by popular vote, nonprofessional citizens acted, and very large audiences watched together.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0004",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical and interpretive claim about ancient Athens stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "popular-vote",
+        "public-theater",
+        "democratic-process"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang characterizes Aeschylus, Sophocles, and Euripides as poets who were first and foremost prophets or teachers of democracy.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0005",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interpretive framing of the lecture stated on 2024-10-17.",
+      "topic_tags": [
+        "aeschylus",
+        "sophocles",
+        "euripides",
+        "democracy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Athenian theaters were designed for resonance, performers had to project slowly, and audiences memorized lines, making performance both audible and participatory.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical account of ancient theater stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "acoustics",
+        "amphitheater",
+        "memorization",
+        "participation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture begins by making society itself a problem of organized thinking.",
+      "source_phrase": "how do we organize the thinking of the people within our society?",
+      "why_it_matters": "This becomes the master frame for theater: art is not decoration but a technology for forming political consciousness.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002"
+      ],
+      "moment": "Athenian theater is introduced as the machine that makes democratic citizens.",
+      "source_phrase": "the main function of theater was to create an identity as a democratic citizen",
+      "why_it_matters": "It turns the lecture away from literary history and toward theater as civic formation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0005"
+      ],
+      "moment": "The three tragedians are called prophets of democracy.",
+      "source_phrase": "first and foremost prophets of democracy",
+      "why_it_matters": "This compact phrase names the central interpretation of Aeschylus, Sophocles, and Euripides.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0006"
+      ],
+      "moment": "Winning Dionysus is compared to winning a Nobel Prize.",
+      "source_phrase": "like winning the Nobel Prize in physics today",
+      "why_it_matters": "The analogy makes the civic prestige of playwrights legible to a modern audience.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective identity",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0001",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "A shared worldview produced by institutions such as schools, media, entertainment, and, in Athens, theater.",
+      "confidence": "high"
+    },
+    {
+      "term": "democratic citizen",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "The identity that Athenian theater was meant to produce: a person who understands democracy, its meaning, and civic responsibility.",
+      "confidence": "high"
+    },
+    {
+      "term": "Festival of Dionysus",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0003",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A major Athenian theater festival that Jiang frames as a civic institution for forming democratic identity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "prophets of democracy",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's phrase for Aeschylus, Sophocles, and Euripides as playwright-teachers who instructed Athens in democratic meaning and responsibility.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0007",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0008"
+      ],
+      "note": "The audience question about acoustics is not fully captured; the public episode should not quote it as a complete source question."
+    }
+  ]
+}

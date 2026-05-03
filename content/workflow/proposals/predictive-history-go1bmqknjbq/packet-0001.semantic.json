@@ -1,0 +1,243 @@
+{
+  "packet_id": "predictive-history-go1bmqknjbq-semantics-pkt-0001",
+  "source_id": "video:predictive-history-go1bmqknjbq",
+  "source_date": "2024-06-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by arguing that a second American civil war is likely because America enjoys violence: it is saturated with guns, treats gun ownership as sacred, loves football despite its brutality, and worships its war history.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He rereads American founding mythology as violence: the Revolution becomes an internal conflict against loyalists, Manifest Destiny becomes religiously justified conquest, and the first Civil War becomes the deadliest proof that America resolves disputes by war.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts the industrial North with the agricultural South, treating slavery as tied to political economy and manpower efficiency rather than as the sole moral cause of the war.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the western expansion problem: new states threatened the pro-slavery and anti-slavery balance, the Missouri Compromise tried to manage it, and Lincoln's plan was to limit slavery in the West until it withered legally over time.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous single-speaker lecture; diarized SPEAKER_00 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames America as a society addicted to violence, citing guns, the sacralization of the Second Amendment, football, and reverence for war history.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Jiang's diagnosis in a lecture published 2024-06-07",
+      "topic_tags": [
+        "american-violence",
+        "guns",
+        "football",
+        "war-culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the American Revolution as an earlier American civil war because loyalists within the colonies were terrorized by independence extremists.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "american-revolution",
+        "civil-war",
+        "founding-violence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Manifest Destiny is presented as a religiously justified project of violent colonization across the Americas.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "manifest-destiny",
+        "colonization",
+        "religious-justification"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the first Civil War arose from the political consequences of divergent regional economies, not simply from the North deciding to abolish slavery on moral grounds.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "civil-war",
+        "slavery",
+        "political-economy",
+        "north-south"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He models the western expansion crisis as a balance-of-power problem in which each new state threatened the distribution of congressional power between pro-slavery and anti-slavery blocs.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical model used inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "western-expansion",
+        "missouri-compromise",
+        "slavery",
+        "federal-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Lincoln's plan was not immediate abolition by force but limiting slavery in the West so that it would eventually cease to exist.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "lincoln",
+        "slavery",
+        "gradualism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001"
+      ],
+      "moment": "America is introduced not merely as violent but as addicted to violence.",
+      "source_phrase": "Americans are addicted to violence",
+      "why_it_matters": "This phrase supplies the lecture's first causal premise: civil war is plausible because violence is treated as a national appetite.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003"
+      ],
+      "moment": "The sacred founding war is inverted into the first American Civil War.",
+      "source_phrase": "the rebellion was actually the first American Civil War",
+      "why_it_matters": "The reversal strips the Revolution of pure origin mythology and folds it into the lecture's pattern of domestic violence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "moment": "Manifest Destiny appears as God's will converted into conquest.",
+      "source_phrase": "it is God's will that America controls all of the Americas",
+      "why_it_matters": "The phrase links sacred narrative to imperial violence, a pattern that recurs later in the lecture's empire/theocracy model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "American addiction to violence",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's opening diagnosis that guns, football, and war memory make violence a normal and sacred part of American identity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Manifest Destiny",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Defined as the belief that God wills American control over the Americas, producing violent colonization.",
+      "confidence": "high"
+    },
+    {
+      "term": "Missouri Compromise",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Used as a balance mechanism: one pro-slavery state would be matched by one anti-slavery state.",
+      "confidence": "high"
+    },
+    {
+      "term": "Free labor",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The northern model in which workers are free to seek jobs and employers are free to hire, which Jiang treats as more efficient than slave labor.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001"
+      ],
+      "note": "The second-civil-war framing is a dated lecture claim from 2024-06-07 and should remain tied to that pre-2024-election context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript says '434 guns' before correcting to '434 million guns'; extraction preserves the corrected claim."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "note": "Civil War casualty phrasing is rough in the ASR; semantic extraction treats it as Jiang emphasizing the war's exceptional deadliness, not as an independently verified count."
+    }
+  ]
+}

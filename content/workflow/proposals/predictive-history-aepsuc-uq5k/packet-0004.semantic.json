@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-aepsuc-uq5k-semantics-pkt-0004",
+  "source_id": "video:predictive-history-aepsuc-uq5k",
+  "source_date": "2024-05-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0027",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0029"
+      ],
+      "kind": "unclear",
+      "summary": "The UNKNOWN spans are one-word student fragments inside Jiang's thought experiment about spending a million dollars.",
+      "speaker_attribution": "Unknown student or ASR fragment.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0025",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0026",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0028",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0030",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang dramatizes the shift from worker to consumer through a classroom thought experiment: give everyone money, watch them buy status goods, post them online, compete, borrow, go into debt, and hate each other. He then turns the thought experiment back on students, arguing that consumer logic now governs dating, school, work, and self-understanding, and calls consumerism the perfection of slavery.",
+      "speaker_attribution": "Jiang leading a classroom exchange with short student responses.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0026",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0028",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0030"
+      ],
+      "note": "The thought experiment is interactive, but the transcript mainly preserves Jiang's prompts and paraphrased student answers rather than clear student speech.",
+      "suggested_speaker": "Jiang with embedded student responses",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the move from worker to consumer was not subtle but a revolution in society and politics.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical-social diagnosis stated on 2024-05-31.",
+      "topic_tags": [
+        "worker",
+        "consumer",
+        "political-revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts workers, who must develop political consciousness and organize to protect rights, with consumers, who act through spending, status, and individual competition.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0025",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Conceptual contrast stated on 2024-05-31.",
+      "topic_tags": [
+        "worker",
+        "consumer",
+        "political-consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's million-dollar thought experiment, consumer competition causes students to buy houses and furniture, post status displays, spend beyond their money, enter debt, and come to hate one another.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0026",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0028",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0030",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Thought experiment used on 2024-05-31.",
+      "topic_tags": [
+        "consumerism",
+        "status",
+        "debt",
+        "social-media"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says students have been brainwashed into economic logic: they assess dating, school, jobs, houses, and social media through money and consumption.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Cultural diagnosis stated on 2024-05-31.",
+      "topic_tags": [
+        "consumerism",
+        "school",
+        "economic-logic",
+        "brainwashing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls consumerism the perfection of slavery because a person who does not know they are enslaved, and even chooses the system, will never rebel.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Definition and provocation stated on 2024-05-31.",
+      "topic_tags": [
+        "consumerism",
+        "slavery",
+        "rebellion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0026",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0030"
+      ],
+      "moment": "Give everyone a million dollars and the school becomes a theater of status competition, debt, and mutual hatred.",
+      "source_phrase": "you all go into debt... you all hate each other",
+      "why_it_matters": "The thought experiment makes consumerism visible as a social relation, not merely a habit of buying.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031"
+      ],
+      "moment": "Consumer logic reaches into intimacy: the question is not whether someone is good, but how much money they have.",
+      "source_phrase": "how much money does this person have?",
+      "why_it_matters": "It carries the lecture's claim that consumerism colonizes ordinary judgment.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "moment": "Consumerism is the perfection of slavery because the slave chooses the chain and therefore never rebels.",
+      "source_phrase": "consumerism is the perfection of slavery",
+      "why_it_matters": "This is one of the episode's strongest reversals and sets up the warrior as the anti-consumer figure.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "consumer",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0025",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The post-worker social type who acts through buying, status competition, job seeking, and self-interested consumption rather than political organization.",
+      "confidence": "high"
+    },
+    {
+      "term": "economic logic",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The consumer habit of interpreting relationships, school, and life choices through money and buying power.",
+      "confidence": "high"
+    },
+    {
+      "term": "perfection of slavery",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's term for consumerism as a system in which people are enslaved by money but do not rebel because they choose and enjoy the system.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032"
+      ],
+      "note": "This packet records Jiang applying the worker-to-consumer transition directly to contemporary student life and education in the 2024 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0027",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0029"
+      ],
+      "note": "The one-word UNKNOWN spans are not usable public questions and should not be surfaced in read.json questions."
+    }
+  ]
+}

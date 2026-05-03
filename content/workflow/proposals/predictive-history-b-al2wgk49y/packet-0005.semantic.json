@@ -1,0 +1,312 @@
+{
+  "packet_id": "predictive-history-b-al2wgk49y-semantics-pkt-0005",
+  "source_id": "video:predictive-history-b-al2wgk49y",
+  "source_date": "2024-06-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0034",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0035",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0036",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lists the standard case against Stalin in 1941: the Soviet Union supplied Germany, Stalin failed to defend the border, ignored intelligence, purged the Red Army, and is usually said to have trusted Hitler. He then rejects this conventional interpretation as completely wrong.",
+      "speaker_attribution": "Jiang lecture monologue; seg-0036 is a one-word machine-labeled unknown span that sounds like a continuation/check rather than a substantive speaker turn.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang walks the class through four possible June 1941 scenarios, using brief prompts and class answers to show why a German first strike that almost destroys the Soviet Union is the one scenario that forces Britain and America to rescue Stalin.",
+      "speaker_attribution": "Jiang-led classroom exchange; student answers are brief and mostly implied by Jiang's acknowledgments.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0036"
+      ],
+      "note": "The only UNKNOWN span is 'Okay?' lasting near zero time. It is not a substantive question and should not be treated as a public source question.",
+      "suggested_speaker": "unclear classroom backchannel or diarization artifact",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Soviet Union agreed under the pact to give Germany oil, food, and other inputs for its war machine.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Historical claim about the Soviet-German pact, stated on 2024-06-05.",
+      "topic_tags": [
+        "soviet-union",
+        "germany",
+        "resources",
+        "molotov-ribbentrop-pact"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang summarizes the conventional view that Operation Barbarossa was a German success and a grave Soviet strategic blunder by Stalin.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Conventional historical interpretation as Jiang frames it on 2024-06-05.",
+      "topic_tags": [
+        "operation-barbarossa",
+        "stalin",
+        "historiography"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists the first conventional charge against Stalin: he refused to defend the border and ordered Soviet troops not to provoke or fire back at Germans.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Historical claim about June 1941.",
+      "topic_tags": [
+        "stalin",
+        "operation-barbarossa",
+        "border-defense"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists the second conventional charge against Stalin: he ignored substantial intelligence that Germany was preparing to invade.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0034",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical claim about June 1941.",
+      "topic_tags": [
+        "stalin",
+        "intelligence",
+        "operation-barbarossa"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists the third conventional charge against Stalin: before the war he purged the Red Army leadership and left top generals dead or imprisoned.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical claim about Soviet military leadership before World War II.",
+      "topic_tags": [
+        "stalin",
+        "red-army",
+        "purges"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says historians commonly explain Stalin's behavior by saying Stalin trusted Hitler, but Jiang calls that analysis completely wrong.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Historiographical challenge stated on 2024-06-05.",
+      "topic_tags": [
+        "stalin",
+        "hitler",
+        "historiography",
+        "game-theory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's four June 1941 scenarios are: Soviets attack and reach Berlin, Soviets attack and are stopped, Germans attack and are stopped, or Germans attack and reach Moscow.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Game-theory model of June 1941 stated on 2024-06-05.",
+      "topic_tags": [
+        "game-theory",
+        "operation-barbarossa",
+        "scenario-model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if the Soviets attacked first and reached Berlin, Japan, Britain, and the United States would unite against the Soviet Union and the Soviet Union would lose.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Counterfactual scenario A in Jiang's model.",
+      "topic_tags": [
+        "soviet-union",
+        "counterfactual",
+        "japan",
+        "britain",
+        "united-states"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if the Soviets attacked but were stopped, Japan would still invade and Britain would seek peace with Germany to prevent communism from overrunning Europe.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Counterfactual scenario B in Jiang's model.",
+      "topic_tags": [
+        "soviet-union",
+        "britain",
+        "japan",
+        "communism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if Germans attacked and Soviets stopped them at the border, the other powers would let Germany and the Soviet Union destroy each other.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Counterfactual scenario C in Jiang's model.",
+      "topic_tags": [
+        "germany",
+        "soviet-union",
+        "counterfactual"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the actual scenario, Germany attacking and nearing Soviet destruction, forced Britain and America to help the Soviet Union because German control of Soviet resources would make Germany invincible.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Interpretation of actual 1941 events stated on 2024-06-05.",
+      "topic_tags": [
+        "operation-barbarossa",
+        "lend-lease",
+        "germany",
+        "resources",
+        "stalin"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims America gave the Soviet Union $200 billion in free aid from 1941 to 1945 through Lend-Lease.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Historical claim about 1941-1945 aid, stated on 2024-06-05.",
+      "topic_tags": [
+        "lend-lease",
+        "united-states",
+        "soviet-union",
+        "world-war-ii"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "moment": "The Soviet border order becomes absurdly vivid: if the Germans fire, do not fire back.",
+      "source_phrase": "If the Germans fire at you, don't fire back",
+      "why_it_matters": "This preserves the conventional evidence Jiang will later reinterpret as strategic acting.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "moment": "Jiang rejects the textbook account in blunt terms: the analysis is completely wrong.",
+      "source_phrase": "This analysis is completely wrong",
+      "why_it_matters": "This is the lecture's decisive methodological break from standard World War II history.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038"
+      ],
+      "moment": "If Stalin reaches Berlin first, the whole world unites against the Soviet Union.",
+      "source_phrase": "All the world unites against the Soviet Union",
+      "why_it_matters": "It gives the counterfactual logic behind Stalin needing Germany to strike first.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "moment": "Germany plus Soviet resources becomes invincible; America is shut out of the world forever.",
+      "source_phrase": "You combine the resources with the German military, they're invincible now",
+      "why_it_matters": "This explains why America must save the Soviet Union in Jiang's scenario D.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Operation Barbarossa",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Hitler's June 1941 invasion of the Soviet Union, conventionally framed as Stalin's blunder but reinterpreted by Jiang as the best scenario for Stalin.",
+      "confidence": "high"
+    },
+    {
+      "term": "Scenario D",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's label for Germany attacking first and reaching Moscow, the scenario that forces other powers to rescue the Soviet Union.",
+      "confidence": "high"
+    },
+    {
+      "term": "Lend-Lease",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "American wartime aid to the Soviet Union, presented by Jiang as forced by the need to prevent Germany from controlling Soviet resources.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "note": "This packet contains Jiang's core reinterpretation of June 1941: the actual German near-victory is reframed as Stalin's best possible outcome rather than proof of Stalin's stupidity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "note": "The transcript says '45 million Soviet troops at the border,' which is likely an ASR or speech error; extraction avoids relying on the number."
+    }
+  ]
+}

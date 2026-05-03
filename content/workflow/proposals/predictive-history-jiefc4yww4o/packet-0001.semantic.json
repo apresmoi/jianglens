@@ -1,0 +1,201 @@
+{
+  "packet_id": "predictive-history-jiefc4yww4o-semantics-pkt-0001",
+  "source_id": "video:predictive-history-jiefc4yww4o",
+  "source_date": "2024-05-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around whether the Pentagon would cooperate with a possible second Trump-term war against Iran, then says the answer depends on the legacy of the 2003 Iraq invasion.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0002",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0003",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He reconstructs the Pentagon's conventional war doctrine: mass forces, avoiding encirclement, and protecting supply lines, then contrasts that doctrine with Rumsfeld and Wolfowitz pushing a much smaller Iraq invasion force.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He defines shock and awe as a new theory that targets command hierarchy, substitutes air supremacy, technological omniscience, and special forces for massed troops, and promises quick, cheap, decisive war.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0007",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He says the plan looked like fantasy to the Pentagon but appeared to work in 2003, with a three-week victory, low U.S. casualties, and thunder runs through Baghdad as a display of domination.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0001",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous single-speaker lecture; diarized SPEAKER_00 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that if Trump pursues war with Iran in a second term, the U.S. military will go along, because its doctrine was remade by the perceived success of the 2003 Iraq invasion.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Jiang lecture published 2024-05-22, before the referenced possible second Trump term",
+      "topic_tags": [
+        "iran-war",
+        "trump",
+        "pentagon",
+        "iraq-2003"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents conventional invasion doctrine as requiring overwhelming mass, protection against encirclement, and secure supply lines; under this logic, Iraq would require roughly a million troops.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0002",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0003",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "General military model used inside the 2024-05-22 lecture",
+      "topic_tags": [
+        "military-doctrine",
+        "logistics",
+        "iraq-2003"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines shock and awe as a doctrine that treats armies as hierarchies: cut off the head through air power, surveillance, and special forces, and the body collapses.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang's interpretation of the 2003 doctrine in the 2024-05-22 lecture",
+      "topic_tags": [
+        "shock-and-awe",
+        "command-and-control",
+        "air-supremacy",
+        "special-forces"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the apparent success of the 2003 Iraq invasion made an initially unrealistic doctrine look confirmed: it was quick, relatively cheap for the United States, and decisive.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0007",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Assessment of 2003 Iraq invasion in lecture published 2024-05-22",
+      "topic_tags": [
+        "iraq-2003",
+        "shock-and-awe",
+        "military-learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005"
+      ],
+      "moment": "Shock and awe imagines an army as a body: cut off the head and the arms and legs collapse.",
+      "source_phrase": "if we can go and cut off the head, then the entire army falls apart",
+      "why_it_matters": "It gives the whole doctrine a memorable anatomical model that later becomes Jiang's critique of imperial fantasy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0006"
+      ],
+      "moment": "Technological omniscience turns military surveillance into a claim to godlike power.",
+      "source_phrase": "Omniscience means to know everything. We're God.",
+      "why_it_matters": "This is the first form of hubris in the lecture: technology is treated not as a tool but as a permission to act like a god.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0008"
+      ],
+      "moment": "The thunder runs are described as a battlefield backflip, domination so excessive that it becomes performance.",
+      "source_phrase": "I'm so much stronger than this guy, I'm going to do a backflip",
+      "why_it_matters": "The image turns military success into theatrical arrogance, foreshadowing the argument that shock and awe is empire enjoying its own power.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Shock and awe",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A doctrine that uses air supremacy, surveillance, and special forces to break command hierarchy and produce quick, cheap, decisive war.",
+      "confidence": "high"
+    },
+    {
+      "term": "Technological omniscience",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's phrase for the belief that satellites and electronic surveillance let America know everything on the battlefield.",
+      "confidence": "high"
+    },
+    {
+      "term": "Thunder runs",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Armored drives through Baghdad that Jiang frames as intimidation and showmanship rather than strictly necessary operations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0001"
+      ],
+      "note": "The Trump-Iran claim is a dated forecast from the 2024-05-22 lecture context and should not be collapsed into later post-election or post-policy positions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0004"
+      ],
+      "note": "Transcript alternates between 'Wolfowitz' and ASR-like 'Wolfert'; semantic extraction treats this as Paul Wolfowitz but preserves the original segment ref."
+    }
+  ]
+}

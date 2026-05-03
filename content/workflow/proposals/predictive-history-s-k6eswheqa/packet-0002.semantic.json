@@ -1,0 +1,261 @@
+{
+  "packet_id": "predictive-history-s-k6eswheqa-semantics-pkt-0002",
+  "source_id": "video:predictive-history-s-k6eswheqa",
+  "source_date": "2024-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0009",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0010",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0011",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang demystifies AI as supervised machine learning, contrasting ordinary programming with systems that refine an algorithm by comparing outputs to labeled results, then illustrates this through facial recognition.",
+      "speaker_attribution": "Jiang lecture with rhetorical classroom checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0013",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0014",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "He reduces usable AI to three requirements: clear mathematical outputs, clean labeled data, and a working algorithmic structure that computers can refine but not invent from nothing.",
+      "speaker_attribution": "Jiang lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0015",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks whether self-driving cars can be solved, appears to call on Sally, then rejects the affirmative answer by introducing the unsolved edge case of intentional human collision.",
+      "speaker_attribution": "Jiang reports or responds to Sally; the student's words are not directly captured.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0009",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0016"
+      ],
+      "note": "The focus refs are mostly Jiang monologue. The only audience interaction is reported indirectly around Sally and self-driving cars.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the technically correct term for AI is supervised machine learning.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-13.",
+      "topic_tags": [
+        "ai",
+        "supervised-machine-learning",
+        "definition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines traditional computer programming as algorithm plus input producing output, and supervised machine learning as turning the desired output into part of the input so the computer can refine the algorithm.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0009",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Technical model stated on 2024-06-13.",
+      "topic_tags": [
+        "algorithm",
+        "input-output",
+        "machine-learning"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses facial recognition as an example of converting faces into mathematical topology and matching that model against a database.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0010",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0011",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Example stated on 2024-06-13.",
+      "topic_tags": [
+        "facial-recognition",
+        "topology",
+        "database"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says AI is infinite iteration: the model returns a result, is told when it is wrong, and refines itself until it matches the target output.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0012",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-13.",
+      "topic_tags": [
+        "iteration",
+        "machine-learning",
+        "optimization"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that usable AI requires clear metrics or outputs, clean data, and a working algorithm structure.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0013",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0014",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Technical model stated on 2024-06-13.",
+      "topic_tags": [
+        "ai-requirements",
+        "data",
+        "metrics",
+        "algorithm"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says subjective questions like the best ice cream cannot be turned into AI problems because they lack clean, objective data.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "General limitation stated on 2024-06-13.",
+      "topic_tags": [
+        "subjectivity",
+        "data",
+        "ai-limits"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says computers can refine and optimize an algorithmic structure, but cannot create that structure by themselves.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0014",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "AI limitation stated on 2024-06-13.",
+      "topic_tags": [
+        "algorithm",
+        "ai-limits",
+        "optimization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that self-driving cars cannot be fully solved because the system cannot plan for a human intentionally trying to crash into the car.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0015",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "AI limitation stated on 2024-06-13.",
+      "topic_tags": [
+        "self-driving-cars",
+        "edge-case",
+        "intentionality",
+        "ai-limits"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0010"
+      ],
+      "moment": "Machine learning flips output into input so the machine can refine the rule humans cannot write well enough.",
+      "source_phrase": "I will turn the output into the input.",
+      "why_it_matters": "It gives the public read a compact way to state his AI model without losing the mechanism.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0013"
+      ],
+      "moment": "AI is stripped of mystique and called infinite iteration.",
+      "source_phrase": "what all AI is is infinite iteration",
+      "why_it_matters": "This phrase anchors Jiang's anti-mystical account of AI as repetitive optimization.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0016"
+      ],
+      "moment": "The unsolvable self-driving edge case is not traffic but a human deciding to crash into the machine.",
+      "source_phrase": "if I, as a human being, intentionally want to crash into that car",
+      "why_it_matters": "It introduces intentional human agency as the limit case for algorithmic prediction.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "supervised machine learning",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0009",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Jiang's preferred technical name for AI: using known outputs to train and refine an algorithm.",
+      "confidence": "high"
+    },
+    {
+      "term": "clear metrics",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The need for an output that can be defined as a mathematical target.",
+      "confidence": "high"
+    },
+    {
+      "term": "clean data",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Labeled data precise enough for the AI to compare its output against a target.",
+      "confidence": "high"
+    },
+    {
+      "term": "edge case",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A scenario that can screw up the AI system because it falls outside planned model assumptions.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0011",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0012",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0013",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0014"
+      ],
+      "note": "Several ASR passages lose punctuation and contain likely mishearings, but the argument remains clear enough for semantic extraction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0015",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0016"
+      ],
+      "note": "Sally's answer about self-driving cars is not directly transcribed; Jiang's response implies she offered a yes or partial yes."
+    }
+  ]
+}

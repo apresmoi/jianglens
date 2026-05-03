@@ -1,0 +1,156 @@
+{
+  "packet_id": "predictive-history-6m1z-v3wgok-semantics-pkt-0002",
+  "source_id": "video:predictive-history-6m1z-v3wgok",
+  "source_date": "2026-04-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang summarizes Dante's political factional background, exile, love for Beatrice, and the way these experiences enter The Divine Comedy.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0012"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the opening passage of The Divine Comedy.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0013",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the shadowed forest as depression and disconnection from God, then frames Virgil as a guide Dante must eventually overcome.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0016"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads a passage involving Beatrice, Lucia, and Virgil's account of why he descends to help Dante.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0012",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_00 is a student reading translated Dante aloud; Jiang prompts the reader in surrounding segments.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante wrote The Divine Comedy to address how humans can escape cycles of vengeance, hatred, and war.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "dante",
+        "violence",
+        "politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Dante's love for Beatrice as a central basis of La Commedia and a redemptive counterweight to earthly political conflict.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "beatrice",
+        "love",
+        "redemption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante initially puts Virgil on a pedestal as savior, father, and teacher so readers can later recognize and defeat Virgil's limitations.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "aeneid",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Shadowed forest",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0012",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang reads the opening forest as confusion, hatred, depression, and loss of connection with God.",
+      "confidence": "high"
+    },
+    {
+      "term": "Beatrice",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0010",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Dante's love, used by Jiang as the redemptive figure who helps orient Dante toward God.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0009",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "note": "This packet records Jiang's 2026-04-08 framing of Dante biography and Virgil's role; no external dated Jiang source is invoked.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0015",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0016"
+      ],
+      "note": "Student reading is transcription-noisy; semantic extraction should rely on Jiang's following interpretation rather than fine-grained wording here."
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"
+      ],
+      "moment": "Virgil has to become trusted before he can be defeated; the guide is part of the trap.",
+      "source_phrase": "Dante has to learn how to trust Virgil before he can ultimately understand and defeat Virgil",
+      "why_it_matters": "This is the episode's central authority pattern: rescue and deception can arrive in the same figure.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ]
+}

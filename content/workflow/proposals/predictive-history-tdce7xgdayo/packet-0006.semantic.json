@@ -1,0 +1,230 @@
+{
+  "packet_id": "predictive-history-tdce7xgdayo-semantics-pkt-0006",
+  "source_id": "video:predictive-history-tdce7xgdayo",
+  "source_date": "2024-11-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0042",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0043",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0044",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang adds two Roman hero stories: a single ordinary Roman holds a bridge by insulting an army, and a young nobleman burns his hand before the enemy king to prove Romans cannot be frightened.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He explains how teachable sacred history makes citizens Roman, then links piety, liberty, res publica, office-holding, triumph, and Scipio's rise to Rome's refusal to surrender after Cannae.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "note": "Continuous Jiang narration; historical dialogue and insults are dramatized retellings.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Lucius Brutus' memory later frames the assassination of Julius Caesar, linking republican founding myth to later anti-Caesar action.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Forward reference within the course, stated on 2024-11-07",
+      "topic_tags": ["brutus", "julius-caesar", "roman-memory"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bridge story is used to show that any Roman, not only nobles, can become a hero through courage and devotion to Rome.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Interpretation of Roman legend inside the lecture",
+      "topic_tags": ["roman-heroism", "devotion", "liberty"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hand-in-fire story shows Roman fearlessness as psychologically transmitted by prior examples like Brutus executing his sons.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0043",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0044",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Interpretation of Roman legend inside the lecture",
+      "topic_tags": ["roman-heroism", "brutus", "fearlessness"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Roman history can be taught to anyone who becomes a citizen; belief in that history is what makes someone Roman.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Roman identity model stated on 2024-11-07",
+      "topic_tags": ["citizenship", "history", "roman-identity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome refuses Hannibal's peace terms because surrender would mean surrendering liberty, understood as Rome's laws, institutions, and history.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Interpretation of Rome after Cannae",
+      "topic_tags": ["liberty", "hannibal", "surrender", "rome"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Res publica turns Roman elite politics into a competition to produce men who serve Rome and win glory through office, conquest, and triumph.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Roman institutional model inside the lecture",
+      "topic_tags": ["res-publica", "triumph", "meritocracy", "scipio"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Scipio's rise after Cannae is used to show how Roman office-seeking and pursuit of triumph turn senatorial loss into opportunity for new leaders.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Historical interpretation of post-Cannae recovery",
+      "topic_tags": ["scipio", "triumph", "second-punic-war"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "moment": "One random man on a bridge insults an army into freezing.",
+      "source_phrase": "There's one random guy",
+      "why_it_matters": "The ordinary scale of the hero makes Roman devotion contagious rather than aristocratic only.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "moment": "Freedom is shouted as insult from a bridge against an invading army.",
+      "source_phrase": "you guys are slaves. We're Romans. We will always be free.",
+      "why_it_matters": "The line dramatizes Roman liberty as defiant civic identity, not abstract doctrine.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045"
+      ],
+      "moment": "The enemy king decides Romans are too insane to fight after watching a hand burn.",
+      "source_phrase": "the Romans are the craziest bastards I have ever met",
+      "why_it_matters": "It preserves Jiang's comic but sharp account of fearlessness as strategic terror.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "moment": "Being Roman is believing the history.",
+      "source_phrase": "Believing in this history knowing this history is what makes you a Roman",
+      "why_it_matters": "This links immigration, education, and myth into one identity technology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047"
+      ],
+      "moment": "Without liberty, life itself loses value.",
+      "source_phrase": "if you don't have liberty your life isn't worth living",
+      "why_it_matters": "It explains why Hannibal's peace terms are existential defeat rather than ordinary diplomacy.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Triumph",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A parade celebrating a general who wins new territory for Rome; Jiang treats it as the glory every Roman soldier aspires to.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman history as citizenship",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The idea that anyone can become Roman by learning and believing Rome's sacred history.",
+      "confidence": "high"
+    },
+    {
+      "term": "Res publica competition",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Roman politics as a meritocratic competition among elites to serve Rome and win public glory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman liberty",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The civic freedom preserved by loyalty to Rome's laws, institutions, and history; surrender to Hannibal would destroy it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "note": "Jiang explicitly postpones the Caesar/Brutus connection to the next class; do not treat this episode as the full Caesar argument.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0042",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "note": "Transcript varies the bridge hero's name as cockles/Kakos/Chagos; semantic pass describes the role rather than normalizing the proper name."
+    }
+  ]
+}

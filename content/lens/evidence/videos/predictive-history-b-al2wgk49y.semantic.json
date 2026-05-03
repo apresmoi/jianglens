@@ -1,0 +1,2232 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-b-al2wgk49y:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-b-al2wgk49y",
+  "source_id": "video:predictive-history-b-al2wgk49y",
+  "source_title": "Geo-Strategy #10:  Putin's Strategic Imagination",
+  "source_url": "https://www.youtube.com/watch?v=B_al2wgk49Y",
+  "source_date": "2024-06-05",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-b-al2wgk49y@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-b-al2wgk49y/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-b-al2wgk49y/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-b-al2wgk49y/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 20,
+    "speaker_notes": 7,
+    "claims": 84,
+    "signature_moments": 29,
+    "predictions": 9,
+    "models": 17,
+    "glossary_terms": 22,
+    "chronology_notes": 8,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0002",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0005",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0007",
+    "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0002",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0005",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0007",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the lecture by defining Putin's supposed plan to destroy the American empire through three converging imperial weaknesses: overextension, debt, and civil discord. He then frames the Ukraine war as Putin's first instrument, arguing that Western expectations about Russian defeat, economic collapse, and NATO unity have inverted.",
+      "speaker_attribution": "Jiang lecture monologue; no substantive audience question is captured in the focus refs.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0009",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0011",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the Ukraine-war inversion: sanctions failed because Russia has oil, food, and a growing war economy; NATO is divided because Germany needs Russian resources; Ukraine spending increases U.S. overextension, debt, and domestic dissent; and the Gaza war further damages U.S. prestige.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0013",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0014",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0015",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves into predictions: Putin will keep Ukraine as a draining status quo war, encourage or benefit from an Iran distraction under a Russian nuclear umbrella, and use North Korean pressure to force U.S. attention toward East Asia.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical prompts, not a captured source question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0018",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang predicts BRICS expansion, a possible new currency or trading system, and closer Putin-Xi signaling. He argues BRICS need not replace the dollar; threatening confidence is enough, and China only has to remain neutral for Russia to keep pressure on America.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0020",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0021"
+      ],
+      "kind": "question",
+      "summary": "A student asks why America would want China's help; Jiang answers that peace with China would reduce the East Asia front, keep China buying dollars and debt, and force Putin to defend the Russia-China border.",
+      "speaker_attribution": "Student question, Jiang answer; the student is not directly transcribed beyond Jiang's restatement.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0021",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0022"
+      ],
+      "kind": "question",
+      "summary": "Jack asks why China would want to be friends with Russia; Jiang answers that China feels threatened by U.S. economic pressure, military bases, embargo risk, and dependence on imported oil and food, leaving Russia as its available partner.",
+      "speaker_attribution": "Jack question restated by Jiang; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0023"
+      ],
+      "kind": "question",
+      "summary": "Selina asks why the United States thinks China will attack Taiwan; Jiang answers that the military-industrial complex needs new enemies and treats China as the greatest threat without evidence.",
+      "speaker_attribution": "Selina question restated by Jiang; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "An unclear student asks what America loses if China takes Taiwan; Jiang answers that America loses little materially because semiconductors can move elsewhere, but empire must save face.",
+      "speaker_attribution": "Unidentified student question restated by Jiang; Jiang answer.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0025",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0026",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0027",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from Putin's plan to the question of Russian strategic imagination, using Stalin as the example. He maps the six major powers in 1939 and describes each actor's resource constraints, ideology, and interests.",
+      "speaker_attribution": "Jiang lecture monologue with classroom prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0029",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks the class who everyone in 1939 would want to invade and elicits brief answers before arguing that Japan, Germany, Britain, France, and America all had reasons to fear or attack the Soviet Union.",
+      "speaker_attribution": "Jiang prompts with brief student answers mostly paraphrased or acknowledged by him.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0031",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that game theory would have predicted the Soviet Union's partition, but actual events inverted the board: Hitler invaded Poland, Britain and France declared war on Germany, Churchill refused peace, and Stalin's Molotov-Ribbentrop maneuver left Germany blamed while the Soviet Union avoided the declaration of war.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0034",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0035",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0036",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lists the standard case against Stalin in 1941: the Soviet Union supplied Germany, Stalin failed to defend the border, ignored intelligence, purged the Red Army, and is usually said to have trusted Hitler. He then rejects this conventional interpretation as completely wrong.",
+      "speaker_attribution": "Jiang lecture monologue; seg-0036 is a one-word machine-labeled unknown span that sounds like a continuation/check rather than a substantive speaker turn.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang walks the class through four possible June 1941 scenarios, using brief prompts and class answers to show why a German first strike that almost destroys the Soviet Union is the one scenario that forces Britain and America to rescue Stalin.",
+      "speaker_attribution": "Jiang-led classroom exchange; student answers are brief and mostly implied by Jiang's acknowledgments.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0041",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0042",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0043",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Lend-Lease industrialized the Soviet Union, gave it weapons, resources, technology, and food, and enabled reverse engineering. He adds that German invasion created national unity and will to fight, turning a losing war into the basis for Soviet superpower status.",
+      "speaker_attribution": "Jiang lecture monologue with classroom prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0045",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0046",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines Russian strategic imagination through three capacities: intuition for the Zeitgeist, imagination to predict how actions change the political winds, and multiple personalities. He then argues Stalin played Hitler by making Hitler trust him and attack first.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "A student appears to ask why Russians are different; Jiang answers by saying the problem is the West, whose British-derived thinking is narrower than Russian thinking.",
+      "speaker_attribution": "Student question restated by Jiang; the transcript may misrecognize the student's name as 'Stalin'.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0051",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the West/Russia contrast: British thought is narrow, empirical, and logical, while Russian thought is broad, mystical, intuitive, and capable of great leaders. Western academia bureaucratizes imagination and would reject the Stalin thesis as crazy.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0052",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "A student asks about the Greeks from a prior semester; Jiang answers that Greeks are more like Russians than British because they preserve imagination and intuition as natural human faculties.",
+      "speaker_attribution": "Student question restated indirectly by Jiang; Jiang answer.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0054"
+      ],
+      "kind": "question",
+      "summary": "Jack asks how much the Greeks influenced the British; Jiang answers that the influence is not much because Romans mediated the tradition, leaving Britain and America in a Roman world rather than a Greek world.",
+      "speaker_attribution": "Jack question restated by Jiang; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0054",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0055"
+      ],
+      "kind": "question",
+      "summary": "An unidentified student asks what influences Russia; Jiang answers that Russians would describe themselves as a Christian nation whose Christianity comes through a Greek tradition and is more ancient or pre-Augustine.",
+      "speaker_attribution": "Unidentified student question restated by Jiang; Jiang answer.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0008"
+      ],
+      "note": "The focus refs read as one continuous Jiang classroom lecture. Some words appear ASR-damaged, but the argumentative line is clear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0009",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0016"
+      ],
+      "note": "All focus refs are diarized to one speaker and read as Jiang's lecture. The repeated 'Does that make sense?' prompts are classroom checks rather than substantive audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript mostly captures Jiang restating student questions, not the students' original audio. Named students include Peter, Jack, and Selina; one Taiwan follow-up is unclear.",
+      "suggested_speaker": "Jiang plus students via restated questions",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0026",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030"
+      ],
+      "note": "Several classroom prompts are followed by Jiang's acknowledgments such as 'Exactly' or 'Sure, why not'; the student's exact wording is not captured, so these are best treated as teaching exchanges rather than standalone public questions.",
+      "suggested_speaker": "Jiang plus brief students",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0036"
+      ],
+      "note": "The only UNKNOWN span is 'Okay?' lasting near zero time. It is not a substantive question and should not be treated as a public source question.",
+      "suggested_speaker": "unclear classroom backchannel or diarization artifact",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "note": "The phrase 'Stalin asked the most important question' is likely a name transcription error or ASR damage; the question itself is intelligible as 'Why are the Russians different?'",
+      "suggested_speaker": "student question restated by Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0055"
+      ],
+      "note": "The focus refs remain primarily Jiang's voice. Actual student questions are mostly audible only through Jiang's restatement.",
+      "suggested_speaker": "Jiang plus restated student questions",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames Putin's objective as destroying the American empire because Putin believes Western consumerism has corrupted Russia and that American empire is its source.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture thesis stated on 2024-06-05.",
+      "topic_tags": [
+        "putin",
+        "american-empire",
+        "western-consumerism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines imperial death as the convergence of three pressures: overextension, debt, and civil discord.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "General historical model used in this 2024 lecture.",
+      "topic_tags": [
+        "empire",
+        "overextension",
+        "debt",
+        "civil-discord"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines strategic hubris as blindness to one's own limits, opponents' strategy, and the broader geopolitical picture.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-05.",
+      "topic_tags": [
+        "hubris",
+        "military-strategy",
+        "blindness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that America is overextended because it is antagonizing Russia, Iran, and China at the same time while already fighting through Ukraine and Israel/Hamas.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Diagnosis of U.S. strategy as of 2024-06-05.",
+      "topic_tags": [
+        "united-states",
+        "overextension",
+        "russia",
+        "iran",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America's reserve-currency position is an exorbitant privilege that lets it manufacture money, but this also makes the country fat, lazy, corrupt, and dependent on printing rather than making money.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0002",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical and structural diagnosis stated on 2024-06-05.",
+      "topic_tags": [
+        "dollar",
+        "reserve-currency",
+        "debt",
+        "exorbitant-privilege"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets BRICS Plus as an effort to build a financial system that can counter the U.S. financial system and thereby threaten the dollar order.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Diagnosis of BRICS Plus as of 2024-06-05.",
+      "topic_tags": [
+        "brics",
+        "dollar",
+        "financial-system"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that if major oil states opt out of the U.S. financial system through BRICS, America's mountain of debt comes crashing down.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Conditional structural claim stated on 2024-06-05.",
+      "topic_tags": [
+        "petrodollar",
+        "brics",
+        "debt",
+        "oil"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims American civil discord grows because young people no longer believe the national myths that cast America as a force for good.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Diagnosis of American politics as of 2024-06-05.",
+      "topic_tags": [
+        "civil-discord",
+        "national-myth",
+        "youth-politics",
+        "gaza"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the most likely outcome for America is descent into civil war once overextension, debt, and civil discord reach a tipping point.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2024-06-05.",
+      "topic_tags": [
+        "american-civil-war",
+        "empire",
+        "collapse"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Western expectations in February 2022 were that Ukraine would defeat Russia, sanctions would destroy the Russian economy, and the war would strengthen NATO and isolate Russia.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0007",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang's retrospective characterization of 2022 expectations, stated on 2024-06-05.",
+      "topic_tags": [
+        "ukraine-war",
+        "sanctions",
+        "nato",
+        "russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the opposite of Western expectations happened: Russia has basically won through attrition, achieved its main objectives in eastern Ukraine, and avoided economic destruction because the world still needs resources.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Assessment of the Ukraine war as of 2024-06-05.",
+      "topic_tags": [
+        "ukraine-war",
+        "attrition",
+        "russian-economy",
+        "resources"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that sanctions have not worked because Russia has oil and food that other economies still need, while Russia has also shifted toward a war economy.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Assessment of Russia under sanctions as of 2024-06-05.",
+      "topic_tags": [
+        "russia",
+        "sanctions",
+        "resources",
+        "war-economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says NATO is more divided because Germany depends on cheap Russian gas, while Nord Stream's destruction and the U.S. trade war on China undermine Germany's manufacturing model.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0009",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Diagnosis of NATO and Germany as of 2024-06-05.",
+      "topic_tags": [
+        "nato",
+        "germany",
+        "nord-stream",
+        "china-trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concludes that the Ukraine war has been a tremendous success for Putin because it exposed America as a paper tiger and showed U.S. overextension.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Assessment of the Ukraine war as of 2024-06-05.",
+      "topic_tags": [
+        "putin",
+        "ukraine-war",
+        "paper-tiger",
+        "overextension"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Ukraine aid increases American civil dissent because ordinary Americans ask why Ukraine receives hundreds of billions while U.S. citizens lack health insurance.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Diagnosis of American domestic politics as of 2024-06-05.",
+      "topic_tags": [
+        "ukraine-aid",
+        "civil-dissent",
+        "health-insurance",
+        "american-domestic-politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Ukraine aid reveals U.S. military overextension because America is moving existing weapons systems from Japan, South Korea, and elsewhere rather than manufacturing enough new weapons.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Diagnosis of U.S. military capacity as of 2024-06-05.",
+      "topic_tags": [
+        "weapons",
+        "military-industrial-base",
+        "overextension",
+        "ukraine"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Gaza war helped Putin and hurt America by diminishing American prestige, turning global and young American opinion against America, and showing that America cannot control Israel.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0011",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Diagnosis of Gaza and U.S. prestige as of 2024-06-05.",
+      "topic_tags": [
+        "gaza",
+        "israel",
+        "american-prestige",
+        "putin"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang suggests that the Hamas attack may have been known about or encouraged by Putin, while stressing the argument as a possible inference rather than a settled fact.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Speculative claim stated on 2024-06-05.",
+      "topic_tags": [
+        "hamas",
+        "putin",
+        "gaza-war",
+        "speculation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang predicts Putin will not end the Ukraine war, seek peace, or expand it into Poland, but will drag it on because Ukraine functions as a black hole for NATO money, weapons, and manpower.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0013",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Forward-looking prediction from 2024-06-05.",
+      "topic_tags": [
+        "putin",
+        "ukraine-war",
+        "nato",
+        "black-hole"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Putin needs America distracted by another war, and that the distraction will be Iran.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0014",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Forward-looking prediction from 2024-06-05.",
+      "topic_tags": [
+        "iran",
+        "putin",
+        "american-overextension",
+        "ukraine"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if Putin guarantees Iran protection under Russia's nuclear umbrella, Iran will provoke America into a wider war through Hezbollah, nuclear escalation, or Red Sea disruption.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0015",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Conditional prediction from 2024-06-05.",
+      "topic_tags": [
+        "iran",
+        "russian-nuclear-umbrella",
+        "hezbollah",
+        "red-sea"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts North Korea can threaten South Korea to force America to divert resources to East Asia and possibly push South Korea and the United States to bribe North Korea.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Forward-looking prediction from 2024-06-05.",
+      "topic_tags": [
+        "north-korea",
+        "south-korea",
+        "east-asia",
+        "american-overextension"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts BRICS will continue to expand and may formally announce a new currency or trading system against the American-led system.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Forward-looking prediction from 2024-06-05.",
+      "topic_tags": [
+        "brics",
+        "currency",
+        "trading-system",
+        "dollar"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues BRICS does not need to replace the dollar; it only needs to threaten confidence in the dollar because finance depends on confidence.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Financial model stated on 2024-06-05.",
+      "topic_tags": [
+        "brics",
+        "dollar-confidence",
+        "finance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Putin wants a visibly close relationship with China but does not need China to act; China only needs to avoid working with America.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Diagnosis of Russia-China strategy as of 2024-06-05.",
+      "topic_tags": [
+        "putin",
+        "xi-jinping",
+        "china",
+        "neutrality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that over the next three to four years Ukraine will not end, Iran will take initiative against America, North Korea will become more belligerent, BRICS will expand, and Putin-Xi ties will blossom.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0018",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Prediction for roughly 2024-2028, stated on 2024-06-05.",
+      "topic_tags": [
+        "prediction-set",
+        "ukraine",
+        "iran",
+        "north-korea",
+        "brics",
+        "china"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America would want China's help because peace with China would remove the East Asian front and reduce overextension.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Answer to a student question on 2024-06-05.",
+      "topic_tags": [
+        "china",
+        "united-states",
+        "east-asia",
+        "overextension"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is important to America because it buys U.S. dollars and U.S. debt, helping sustain American debt.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0020",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Structural claim stated on 2024-06-05.",
+      "topic_tags": [
+        "china",
+        "us-debt",
+        "dollar",
+        "gold"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is moving away from U.S. dollars into gold and encouraging others to buy gold rather than dollars.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Claim about Chinese behavior as of 2024-06-05.",
+      "topic_tags": [
+        "china",
+        "gold",
+        "dollar"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that China would benefit from friendship with America but is pushed toward Russia because the United States is launching an economic war, surrounding China with bases, and could embargo oil and food imports.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0021",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Diagnosis of China's position as of 2024-06-05.",
+      "topic_tags": [
+        "china",
+        "russia",
+        "economic-war",
+        "embargo",
+        "military-bases"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that China's economy and demographics have collapsed and that China is extremely vulnerable because it depends on the world for oil and food.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Assessment of China as of 2024-06-05.",
+      "topic_tags": [
+        "china",
+        "demographics",
+        "economy",
+        "oil",
+        "food"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says America imagines China as a Taiwan threat because the military-industrial complex needs new enemies to justify defense spending.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0023",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Answer to Selina's question on 2024-06-05.",
+      "topic_tags": [
+        "taiwan",
+        "military-industrial-complex",
+        "china-threat",
+        "defense-spending"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the current U.S.-China arrangement as China sending cheap goods to America while America sends dollars that the Communist Party stores in American banks.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0023",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Structural diagnosis stated on 2024-06-05.",
+      "topic_tags": [
+        "us-china-trade",
+        "wall-street",
+        "communist-party",
+        "dollars"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America loses little materially if China takes Taiwan; the core issue for America is imperial face and hubris.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Answer to a student question on 2024-06-05.",
+      "topic_tags": [
+        "taiwan",
+        "hubris",
+        "face",
+        "empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Putin's apparent genius depends on a broader Russian strategic imagination shared by Russian leaders such as Stalin.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture thesis transition stated on 2024-06-05.",
+      "topic_tags": [
+        "strategic-imagination",
+        "putin",
+        "stalin",
+        "russian-leaders"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies the major powers in his 1939 map as the Soviet Union, Japan, the United States, Britain, Germany, and France.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical setup for Jiang's 1939 game-theory model.",
+      "topic_tags": [
+        "1939",
+        "world-war-ii",
+        "major-powers"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Japan in 1939 was a war machine dependent on imported oil, leaving it with a choice between Soviet Far East resources and Southeast Asia if U.S. exports were cut off.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0026",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical model of Japan's 1939 incentives.",
+      "topic_tags": [
+        "japan",
+        "oil",
+        "soviet-union",
+        "southeast-asia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Soviet Union was enormous and imperial but still behind the West in manufacturing, technology, expertise, and human capital.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical model of Soviet position before World War II.",
+      "topic_tags": [
+        "soviet-union",
+        "industrialization",
+        "technology",
+        "human-capital"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang characterizes Hitler's ambition as reunifying greater Germany rather than conquering the world.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2024-06-05.",
+      "topic_tags": [
+        "hitler",
+        "germany",
+        "world-war-ii"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that game theory applied to the 1939 map would predict that everyone should want to attack the Soviet Union because it was resource-rich, relatively weak, and associated with the global communist threat.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0028",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0029",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Retrospective model of 1939 incentives.",
+      "topic_tags": [
+        "game-theory",
+        "soviet-union",
+        "communism",
+        "resources"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims the United States was on the brink of communist revolution in the 1930s and that fear of communism shaped anti-Soviet incentives.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Historical claim about the 1930s, stated on 2024-06-05.",
+      "topic_tags": [
+        "united-states",
+        "great-depression",
+        "communism",
+        "revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that absent Stalin's maneuvering, the expected 1945 outcome was a partitioned and colonized Soviet Union, with the threat of global communism destroyed.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Counterfactual model stated on 2024-06-05.",
+      "topic_tags": [
+        "soviet-union",
+        "partition",
+        "game-theory",
+        "counterfactual"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Churchill refused repeated peace efforts from Hitler because Germany's defeat of the British army was a loss of face for the British Empire.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0031",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Historical interpretation of Churchill's wartime posture.",
+      "topic_tags": [
+        "churchill",
+        "hitler",
+        "british-empire",
+        "face"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the Molotov-Ribbentrop Pact was Stalin's clever maneuver because Germany and the Soviet Union partitioned Poland together, but Britain and France declared war only on Germany.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2024-06-05.",
+      "topic_tags": [
+        "molotov-ribbentrop-pact",
+        "stalin",
+        "poland",
+        "germany"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Soviet Union agreed under the pact to give Germany oil, food, and other inputs for its war machine.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Historical claim about the Soviet-German pact, stated on 2024-06-05.",
+      "topic_tags": [
+        "soviet-union",
+        "germany",
+        "resources",
+        "molotov-ribbentrop-pact"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang summarizes the conventional view that Operation Barbarossa was a German success and a grave Soviet strategic blunder by Stalin.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Conventional historical interpretation as Jiang frames it on 2024-06-05.",
+      "topic_tags": [
+        "operation-barbarossa",
+        "stalin",
+        "historiography"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists the first conventional charge against Stalin: he refused to defend the border and ordered Soviet troops not to provoke or fire back at Germans.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Historical claim about June 1941.",
+      "topic_tags": [
+        "stalin",
+        "operation-barbarossa",
+        "border-defense"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists the second conventional charge against Stalin: he ignored substantial intelligence that Germany was preparing to invade.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0034",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical claim about June 1941.",
+      "topic_tags": [
+        "stalin",
+        "intelligence",
+        "operation-barbarossa"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists the third conventional charge against Stalin: before the war he purged the Red Army leadership and left top generals dead or imprisoned.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical claim about Soviet military leadership before World War II.",
+      "topic_tags": [
+        "stalin",
+        "red-army",
+        "purges"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says historians commonly explain Stalin's behavior by saying Stalin trusted Hitler, but Jiang calls that analysis completely wrong.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Historiographical challenge stated on 2024-06-05.",
+      "topic_tags": [
+        "stalin",
+        "hitler",
+        "historiography",
+        "game-theory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's four June 1941 scenarios are: Soviets attack and reach Berlin, Soviets attack and are stopped, Germans attack and are stopped, or Germans attack and reach Moscow.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Game-theory model of June 1941 stated on 2024-06-05.",
+      "topic_tags": [
+        "game-theory",
+        "operation-barbarossa",
+        "scenario-model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if the Soviets attacked first and reached Berlin, Japan, Britain, and the United States would unite against the Soviet Union and the Soviet Union would lose.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Counterfactual scenario A in Jiang's model.",
+      "topic_tags": [
+        "soviet-union",
+        "counterfactual",
+        "japan",
+        "britain",
+        "united-states"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if the Soviets attacked but were stopped, Japan would still invade and Britain would seek peace with Germany to prevent communism from overrunning Europe.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Counterfactual scenario B in Jiang's model.",
+      "topic_tags": [
+        "soviet-union",
+        "britain",
+        "japan",
+        "communism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if Germans attacked and Soviets stopped them at the border, the other powers would let Germany and the Soviet Union destroy each other.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Counterfactual scenario C in Jiang's model.",
+      "topic_tags": [
+        "germany",
+        "soviet-union",
+        "counterfactual"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the actual scenario, Germany attacking and nearing Soviet destruction, forced Britain and America to help the Soviet Union because German control of Soviet resources would make Germany invincible.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0039",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Interpretation of actual 1941 events stated on 2024-06-05.",
+      "topic_tags": [
+        "operation-barbarossa",
+        "lend-lease",
+        "germany",
+        "resources",
+        "stalin"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims America gave the Soviet Union $200 billion in free aid from 1941 to 1945 through Lend-Lease.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Historical claim about 1941-1945 aid, stated on 2024-06-05.",
+      "topic_tags": [
+        "lend-lease",
+        "united-states",
+        "soviet-union",
+        "world-war-ii"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims American Lend-Lease effectively industrialized the Soviet Union by giving weapons, resources, technology, transportation, heavy industry inputs, and food.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Historical interpretation of World War II aid.",
+      "topic_tags": [
+        "lend-lease",
+        "soviet-industrialization",
+        "united-states",
+        "world-war-ii"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Soviet Union could reverse engineer American technology and build its own industry after receiving Lend-Lease support.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2024-06-05.",
+      "topic_tags": [
+        "soviet-union",
+        "reverse-engineering",
+        "industrialization",
+        "lend-lease"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that German invasion gave Stalin something more important than Lend-Lease: national unity around the Great Patriotic War and Mother Russia.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0042",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Historical interpretation of Soviet wartime unity.",
+      "topic_tags": [
+        "great-patriotic-war",
+        "national-unity",
+        "mother-russia",
+        "stalin"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Russians' will to fight turned the war, and that losing 26 million people made the nation refuse to surrender.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Historical interpretation of Soviet wartime endurance.",
+      "topic_tags": [
+        "will-to-fight",
+        "soviet-union",
+        "world-war-ii"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang concludes that Operation Barbarossa was the best possible outcome for the Soviet Union because the world united against Nazi Germany and gave the Soviet Union what it needed to become a superpower.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Historical reinterpretation stated on 2024-06-05.",
+      "topic_tags": [
+        "operation-barbarossa",
+        "stalin",
+        "soviet-superpower",
+        "nazi-germany"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that because the Soviet Union became a global superpower with heavy industry, China was able to become a communist power.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0043",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Historical causal claim stated on 2024-06-05.",
+      "topic_tags": [
+        "china",
+        "communism",
+        "soviet-union",
+        "heavy-industry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Stalin was a genius because he turned a losing war into a winning war.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Interpretive conclusion stated on 2024-06-05.",
+      "topic_tags": [
+        "stalin",
+        "genius",
+        "world-war-ii",
+        "strategic-imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the first element of Russian strategic imagination as intuition: the ability to read the political winds or Zeitgeist.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-05.",
+      "topic_tags": [
+        "intuition",
+        "zeitgeist",
+        "strategic-imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the second element as imagination: sensing the political winds and imagining how one's action would change them.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-05.",
+      "topic_tags": [
+        "imagination",
+        "prediction",
+        "strategic-imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the third and strangest element as multiple personalities: the ability of leaders like Putin and Stalin to embody multiple selves and therefore be unpredictable.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0045",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-05.",
+      "topic_tags": [
+        "multiple-personalities",
+        "stalin",
+        "putin",
+        "unpredictability"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Hitler did not play Stalin; Stalin played Hitler by making Hitler trust him and invade first.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0045",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0046",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Historical reinterpretation stated on 2024-06-05.",
+      "topic_tags": [
+        "stalin",
+        "hitler",
+        "trust",
+        "operation-barbarossa"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Stalin had to actually become a sheep in front of Hitler, not merely pretend, in order to make Hitler believe he could eat him.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Interpretive model of Stalin's deception stated on 2024-06-05.",
+      "topic_tags": [
+        "stalin",
+        "hitler",
+        "multiple-personalities",
+        "deception"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the same strategic imagination that allowed Stalin to win World War II is why Putin will be able to destroy the American empire.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Forward-looking analogy stated on 2024-06-05.",
+      "topic_tags": [
+        "putin",
+        "stalin",
+        "american-empire",
+        "strategic-imagination"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang begins answering why Russians are different by saying the problem is the West, whose thinking derives from British thinking and tends to be narrower than Russian thinking.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Answer to a student question on 2024-06-05.",
+      "topic_tags": [
+        "british-thinking",
+        "russian-thinking",
+        "west",
+        "narrow-broad"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says British literature, represented by Jane Austen and Thomas Hardy, is great but narrow in focus, unlike Russian literature's breadth.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Cultural comparison stated on 2024-06-05.",
+      "topic_tags": [
+        "british-literature",
+        "russian-literature",
+        "narrow-broad"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines British empiricism as the view that we can only know what we experience or see, and links it to skepticism toward abstract philosophy.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-05.",
+      "topic_tags": [
+        "empiricism",
+        "skepticism",
+        "british-philosophy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues empiricism is true in one sense but limits imagination because it distrusts what lies beyond experience.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Philosophical diagnosis stated on 2024-06-05.",
+      "topic_tags": [
+        "empiricism",
+        "imagination",
+        "british-thinking"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russians believe in mysticism, spirituality, prophets, and unknown forces that cannot be reduced to empirical knowledge.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Philosophical contrast stated on 2024-06-05.",
+      "topic_tags": [
+        "russian-thinking",
+        "mysticism",
+        "spirituality",
+        "prophets"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts British logic, where every step must connect, with Russian intuition, where one can jump and imagine without strict logic.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Philosophical contrast stated on 2024-06-05.",
+      "topic_tags": [
+        "logic",
+        "intuition",
+        "british-thinking",
+        "russian-thinking"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says narrowness, empiricism, and logic created the modern Western mind and dominate academia.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Diagnosis of Western academia as of 2024-06-05.",
+      "topic_tags": [
+        "western-mind",
+        "academia",
+        "narrowness",
+        "empiricism",
+        "logic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls Western academic thinking the bureaucratization of the imagination: claims must be backed by evidence, logic, and experience, producing process-oriented system thinking.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Diagnosis of Western intellectual style on 2024-06-05.",
+      "topic_tags": [
+        "bureaucratization",
+        "imagination",
+        "academia",
+        "evidence",
+        "logic"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says no great man like Putin can arise from Western society because the British system creates bureaucratic thought rather than intuitive greatness.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0051",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2024-06-05.",
+      "topic_tags": [
+        "great-man",
+        "british-system",
+        "putin",
+        "bureaucracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the British system does not need great leaders, while the Russian system does; when it has a great leader, that leader can follow intuition and imagination to do great things.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Civilizational model stated on 2024-06-05.",
+      "topic_tags": [
+        "british-system",
+        "russian-system",
+        "great-leaders",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Greek system is more like the Russian system than the British system because it accepts imagination and intuition as more natural human faculties.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0052",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Answer to a student question on 2024-06-05.",
+      "topic_tags": [
+        "greeks",
+        "russian-system",
+        "british-system",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the British system removes intuition and imagination from decision-making because they are too mysterious.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Philosophical diagnosis stated on 2024-06-05.",
+      "topic_tags": [
+        "british-system",
+        "decision-making",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Stalin's alleged strategy could not have been written in a memo because writing it down would prevent execution and confuse everyone.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Illustrative model of strategic imagination stated on 2024-06-05.",
+      "topic_tags": [
+        "stalin",
+        "memo",
+        "strategic-imagination",
+        "bureaucracy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Greeks did not strongly influence the British because Rome mediated the tradition, so the modern British and American world is Roman rather than Greek.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Answer to Jack's question on 2024-06-05.",
+      "topic_tags": [
+        "greeks",
+        "romans",
+        "british",
+        "americans"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russians would explain their civilizational influence through Christianity, a Greek tradition, and a more ancient or pre-Augustine form of Christianity.",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0054",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer to a student question on 2024-06-05.",
+      "topic_tags": [
+        "russia",
+        "christianity",
+        "greek-tradition",
+        "augustine"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001"
+      ],
+      "moment": "Hubris as blindness: the empire cannot see its limits, its opponents, or the larger board.",
+      "source_phrase": "you are blind to the fact of your own limitations",
+      "why_it_matters": "This gives the lecture its central model for why America misplays several conflicts at once.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003"
+      ],
+      "moment": "The dollar order lets America manufacture gold, but that privilege turns into corruption and dependence.",
+      "source_phrase": "has the right to manufacture gold",
+      "why_it_matters": "It compresses Jiang's debt argument into a vivid monetary image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006"
+      ],
+      "moment": "Overcommitment, debt, and civil discord form a tipping mechanism for imperial death.",
+      "source_phrase": "When all three things reach a tipping point, when it becomes too much, the empire dies",
+      "why_it_matters": "This is the lecture's compact causal chain for collapse.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010"
+      ],
+      "moment": "The Ukraine war reveals America as a paper tiger.",
+      "source_phrase": "America is a paper tiger",
+      "why_it_matters": "This is the sharp reversal from U.S. confidence to imperial exposure.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0012"
+      ],
+      "moment": "The Middle East is a lake of gasoline waiting for a spark.",
+      "source_phrase": "It's like a lake of gasoline about to be lit on fire",
+      "why_it_matters": "It turns regional escalation into a volatile visual image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0013",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0014"
+      ],
+      "moment": "Ukraine as a black hole for NATO: money, weapons, and manpower go in and disappear.",
+      "source_phrase": "Ukraine is turning out to be a black hole for NATO",
+      "why_it_matters": "This is the central image for why Putin would prefer a stagnant war over expansion.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0015"
+      ],
+      "moment": "Iran moves only if it stands under a Russian nuclear umbrella.",
+      "source_phrase": "protected by the Russian nuclear umbrella",
+      "why_it_matters": "The phrase carries Jiang's model of proxy initiative under great-power cover.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017"
+      ],
+      "moment": "BRICS does not need to replace the dollar; it just has to threaten confidence.",
+      "source_phrase": "It just has to threaten",
+      "why_it_matters": "This shifts the dollar argument from technical replacement to psychological fragility.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0018"
+      ],
+      "moment": "Putin and Xi do not need to merge interests; the theatrical hug is enough if China stays out of America's triangulation.",
+      "source_phrase": "They might even kiss one day",
+      "why_it_matters": "The joke preserves Jiang's claim that symbolic closeness and neutrality can be strategically decisive.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0022"
+      ],
+      "moment": "China's vulnerability is food and oil: an embargo turns dependence into collapse.",
+      "source_phrase": "If America ever launches an embargo against China, China collapses",
+      "why_it_matters": "This is the resource logic behind China's turn toward Russia.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0024"
+      ],
+      "moment": "Taiwan matters less as material loss than as imperial face.",
+      "source_phrase": "For America, it's just one of face",
+      "why_it_matters": "It ties the Taiwan question back to the lecture's hubris model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0025"
+      ],
+      "moment": "Russian leaders do not merely calculate; they think differently and more strategically.",
+      "source_phrase": "They just think differently. And more strategically than anyone else.",
+      "why_it_matters": "This is the hinge from Putin's plan to Stalin as proof of Russian strategic imagination.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0029",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030"
+      ],
+      "moment": "In Jiang's 1939 game board, everyone hates the Soviet Union.",
+      "source_phrase": "Who does everyone hate?",
+      "why_it_matters": "The repeated question creates the counterfactual baseline that Stalin overturns.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0031"
+      ],
+      "moment": "Churchill answers Hitler's peace offers with imperial rage: go to hell, we fight to the end.",
+      "source_phrase": "go to hell. We're going to fight this war till the end.",
+      "why_it_matters": "It turns British refusal to negotiate into a face-driven imperial reaction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0032"
+      ],
+      "moment": "Stalin and Hitler both invade Poland, but only Hitler gets the war declared on him.",
+      "source_phrase": "Britain and France declared war on Germany, but not the Soviet Union",
+      "why_it_matters": "This is Jiang's first example of Stalin bending the board without appearing as the culprit.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "moment": "The Soviet border order becomes absurdly vivid: if the Germans fire, do not fire back.",
+      "source_phrase": "If the Germans fire at you, don't fire back",
+      "why_it_matters": "This preserves the conventional evidence Jiang will later reinterpret as strategic acting.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "moment": "Jiang rejects the textbook account in blunt terms: the analysis is completely wrong.",
+      "source_phrase": "This analysis is completely wrong",
+      "why_it_matters": "This is the lecture's decisive methodological break from standard World War II history.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0038"
+      ],
+      "moment": "If Stalin reaches Berlin first, the whole world unites against the Soviet Union.",
+      "source_phrase": "All the world unites against the Soviet Union",
+      "why_it_matters": "It gives the counterfactual logic behind Stalin needing Germany to strike first.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "moment": "Germany plus Soviet resources becomes invincible; America is shut out of the world forever.",
+      "source_phrase": "You combine the resources with the German military, they're invincible now",
+      "why_it_matters": "This explains why America must save the Soviet Union in Jiang's scenario D.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0042"
+      ],
+      "moment": "Lend-Lease made a superpower, but German invasion made Mother Russia emotionally real.",
+      "source_phrase": "the love of their country, the love of Mother Russia",
+      "why_it_matters": "It keeps Jiang's distinction between material capacity and will to fight.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "moment": "Stalin turns a losing war into a winning war.",
+      "source_phrase": "He turned a losing war into a winning war",
+      "why_it_matters": "This is the lecture's cleanest reversal of the standard Stalin reading.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "moment": "Strategic intuition is reading the political winds, the Zeitgeist.",
+      "source_phrase": "able to read the political winds",
+      "why_it_matters": "It defines one of the three primitives of Russian strategic imagination.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0046",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047"
+      ],
+      "moment": "Stalin's three words to Hitler are 'I trust you.'",
+      "source_phrase": "I trust you",
+      "why_it_matters": "It condenses Jiang's theory of deception into a theatrical scene.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047"
+      ],
+      "moment": "Stalin must be the sheep so Hitler can become the wolf.",
+      "source_phrase": "I am a wolf. You are a sheep. Therefore, I eat you.",
+      "why_it_matters": "This is the lecture's strangest and strongest image for multiple personalities as strategy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049"
+      ],
+      "moment": "Empiricism is true but imagination-shrinking: you can only know what you experience.",
+      "source_phrase": "You can only know what you experience",
+      "why_it_matters": "It captures the tradeoff Jiang assigns to British thinking.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050"
+      ],
+      "moment": "Russian intuition can jump where British logic must move one step at a time.",
+      "source_phrase": "You can jump. You can imagine things.",
+      "why_it_matters": "This is the practical difference between Russian and British thought in Jiang's model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0051"
+      ],
+      "moment": "Western academia bureaucratizes imagination.",
+      "source_phrase": "This is the bureaucratization of the imagination",
+      "why_it_matters": "It is one of the lecture's strongest compressed phrases and explains why Jiang says his thesis would be rejected in the West.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0053"
+      ],
+      "moment": "Stalin's plan cannot be memofied: writing it down would destroy the plan.",
+      "source_phrase": "I need to write a memo detailing my thinking. Okay? Now, obviously, I can't do that",
+      "why_it_matters": "It dramatizes why strategic imagination cannot pass through bureaucratic procedure.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0054",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0055"
+      ],
+      "moment": "The West lives in a Roman world; Russia claims an older Greek-Christian inheritance.",
+      "source_phrase": "we're living basically in a Roman world as opposed to a Greek world",
+      "why_it_matters": "This closes the lecture by rooting strategic styles in civilizational inheritance.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hubris",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "In military strategy, hubris means blindness to one's limits, opponents, and the overall geopolitical picture.",
+      "confidence": "high"
+    },
+    {
+      "term": "Exorbitant privilege",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0002",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The U.S. dollar's reserve-currency position, glossed by Jiang as America's ability to manufacture money/gold for the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "BRICS Plus",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A coalition Jiang presents as building a financial system to counter the U.S.-led system and the petrodollar.",
+      "confidence": "high"
+    },
+    {
+      "term": "Paper tiger",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Jiang's description of America as exposed by the Ukraine war: outwardly powerful but strategically unable to impose outcomes.",
+      "confidence": "high"
+    },
+    {
+      "term": "Black hole for NATO",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0013",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Ukraine as a draining battlefield that consumes NATO and U.S. money, weapons, and manpower without producing victory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Russian nuclear umbrella",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A proposed guarantee that Russia would answer U.S. nuclear use against Iran with Russian nuclear weapons, giving Iran space to provoke escalation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Confidence",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Finance and money depend on belief in value; once confidence in the dollar is lost, people stop wanting to use it.",
+      "confidence": "high"
+    },
+    {
+      "term": "Triangulate against Russia",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The U.S. survival strategy Jiang says would involve working with China so Russia must defend its China border instead of focusing offensively.",
+      "confidence": "high"
+    },
+    {
+      "term": "Military-industrial complex",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang uses it to describe the American need for new enemies that justify defense spending.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strategic imagination",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "The Russian capacity Jiang attributes to leaders like Stalin and Putin: thinking differently, broadly, and strategically enough to invert expected outcomes.",
+      "confidence": "high"
+    },
+    {
+      "term": "Game theory",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0028",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's method for mapping actors, interests, resources, and likely moves on the 1939 geopolitical board.",
+      "confidence": "high"
+    },
+    {
+      "term": "Molotov-Ribbentrop Pact",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The Soviet-German agreement to partition Poland that Jiang presents as Stalin's clever move to redirect war declarations toward Germany.",
+      "confidence": "high"
+    },
+    {
+      "term": "Operation Barbarossa",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Hitler's June 1941 invasion of the Soviet Union, conventionally framed as Stalin's blunder but reinterpreted by Jiang as the best scenario for Stalin.",
+      "confidence": "high"
+    },
+    {
+      "term": "Scenario D",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's label for Germany attacking first and reaching Moscow, the scenario that forces other powers to rescue the Soviet Union.",
+      "confidence": "high"
+    },
+    {
+      "term": "Lend-Lease",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "American wartime aid to the Soviet Union, presented by Jiang as forced by the need to prevent Germany from controlling Soviet resources.",
+      "confidence": "high"
+    },
+    {
+      "term": "Zeitgeist",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "The spirit or mood of the times; Jiang uses it for the political winds that Putin and Stalin can intuit.",
+      "confidence": "high"
+    },
+    {
+      "term": "Multiple personalities",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0045",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0047",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's term for the strategic capacity to embody multiple selves so convincingly that one becomes unpredictable and can manipulate an opponent's perception.",
+      "confidence": "high"
+    },
+    {
+      "term": "Russian strategic imagination",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0044",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A triad of intuition for political winds, imagination to predict and alter futures, and the ability to be multiple individuals at once.",
+      "confidence": "high"
+    },
+    {
+      "term": "Empiricism",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "A British philosophical habit Jiang glosses as knowing only what one experiences or sees; related to skepticism and limiting imagination.",
+      "confidence": "high"
+    },
+    {
+      "term": "Mysticism",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0049",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The Russian tendency Jiang describes as belief in unseen forces, prophets, and spiritual realities beyond empirical verification.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bureaucratization of the imagination",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's phrase for the Western academic demand that imagination submit to evidence, logic, experience, process, and system.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pre-Augustine Christianity",
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Jiang's description of the older Christian inheritance Russians claim, before later changes associated with Augustine.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0008"
+      ],
+      "note": "On 2024-06-05, Jiang describes Russia as having basically won the Ukraine war through attrition and achieved its main strategic objectives.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang says he will discuss American civil war in the next class, placing this lecture as a setup for a subsequent civil-war episode.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0013",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0016"
+      ],
+      "note": "On 2024-06-05, Jiang lays out a near-term prediction set: Ukraine drags on, Iran takes initiative, and North Korea becomes more threatening as America is distracted.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0018",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0019"
+      ],
+      "note": "This packet gives Jiang's explicit three-to-four-year forecast from 2024-06-05: Ukraine stalemate, Iranian initiative, North Korean belligerence, BRICS growth, and closer Putin-Xi ties.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0025",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0032"
+      ],
+      "note": "The lecture shifts at seg-0025 from contemporary Putin predictions to a historical Stalin case study meant to explain Russian strategic imagination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0037",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0040"
+      ],
+      "note": "This packet contains Jiang's core reinterpretation of June 1941: the actual German near-victory is reframed as Stalin's best possible outcome rather than proof of Stalin's stupidity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0048"
+      ],
+      "note": "Jiang directly connects the Stalin case study back to his 2024 prediction that Putin can destroy the American empire.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0055"
+      ],
+      "note": "The lecture ends by previewing that the next class will cover the American Civil War, connecting back to the earlier prediction of U.S. civil conflict.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0003",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004"
+      ],
+      "note": "Some ASR phrases are damaged, including the exact debt figure and one BRICS country name, so semantic extraction avoids relying on those details."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0012"
+      ],
+      "note": "The claim that Putin may have known about or encouraged the Hamas attack is explicitly framed as arguable speculation and should not be treated as sourced fact."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0020",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0021"
+      ],
+      "note": "Peter's exact question is not fully captured; Jiang affirms a point about China moving from dollars into gold."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0029",
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0030"
+      ],
+      "note": "Some classroom answers are audible only through Jiang's acknowledgments and restatements, so they are not extracted as independent questions."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0033"
+      ],
+      "note": "The transcript says '45 million Soviet troops at the border,' which is likely an ASR or speech error; extraction avoids relying on the number."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript says Putin and Stalin are 'such good men'; this may be ASR damage for a phrase such as 'such great men.' Extraction preserves the strategic concept without relying on the adjective."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0050"
+      ],
+      "note": "The transcript phrase 'Nero, empiricism, and logic' appears to be ASR damage for the first member of Jiang's triad, likely narrowness; semantic extraction uses the surrounding British narrowness argument."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b-al2wgk49y@transcript:v1#seg-0052"
+      ],
+      "note": "The student question about Greeks is not directly transcribed, only Jiang's response and setup are captured."
+    }
+  ]
+}

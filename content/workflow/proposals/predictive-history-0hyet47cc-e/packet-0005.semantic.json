@@ -1,0 +1,380 @@
+{
+  "packet_id": "predictive-history-0hyet47cc-e-semantics-pkt-0005",
+  "source_id": "video:predictive-history-0hyet47cc-e",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0033",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0037",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from Saving Private Ryan and Lincoln's bereavement letter into a critique of U.S. military theology, then argues through Black Hawk Down and Jessica Lynch that the Pentagon turns war into Hollywood-style rescue mythology and propaganda at the expense of truth and real warfighting requirements.",
+      "speaker_attribution": "Likely Jiang as host, with brief requests for Amber to read displayed material.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0034"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Amber reads Abraham Lincoln's letter to a bereaved mother, emphasizing consolation, sacrifice, the Republic, and freedom.",
+      "speaker_attribution": "Likely Amber reading displayed historical text at Jiang's request.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Amber reads three takeaways from a paper about Pentagon-Hollywood cooperation, including script compliance for military assistance, the scale of Pentagon-assisted productions, and portrayals that glorify U.S. wars while stereotyping enemies.",
+      "speaker_attribution": "Likely Amber reading displayed source material at Jiang's request.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0033",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0034",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "note": "The diarization switches from SPEAKER_02 to SPEAKER_00 where the host asks Amber to read and the transcript contains long quoted/read text. This supports treating SPEAKER_00 as Amber for those readings, though the exact identity remains a diarization-based inference.",
+      "suggested_speaker": "Amber",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0037",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "note": "These segments read as continuous host commentary. Some embedded descriptions of films, books, media reports, and public statements are Jiang's paraphrases rather than direct quoted source text.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that Saving Private Ryan frames the European war front as secondary to winning the American home front and keeping the public behind the war.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interpretation stated on 2026-04-07 of a 1998 film's narrative and wartime political logic.",
+      "topic_tags": [
+        "saving-private-ryan",
+        "home-front",
+        "war-narrative",
+        "hollywood"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang presents Lincoln's bereavement letter as grounding an American military theology in which the Republic or democracy functions as sacred and sacrifice is justified by freedom and liberty.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0034",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Model stated on 2026-04-07, using an 1864 Lincoln letter as historical evidence.",
+      "topic_tags": [
+        "lincoln",
+        "military-theology",
+        "sacrifice",
+        "american-republic"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims this theology has contributed to the U.S. military becoming more of a propaganda machine.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-04-07.",
+      "topic_tags": [
+        "us-military",
+        "propaganda",
+        "military-theology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Black Hawk Down's movie version is false because, in his account of the source book and real event, the downed pilot was held by Somalis, treated well, and later released after a ransom rather than rescued from kidnappers by Delta Force.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Claim stated on 2026-04-07 about the historical incident behind Black Hawk Down.",
+      "topic_tags": [
+        "black-hawk-down",
+        "somalia",
+        "delta-force",
+        "rescue-mythology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the Black Hawk Down portrayal feeds the mythology of No Man Left Behind.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Interpretation stated on 2026-04-07.",
+      "topic_tags": [
+        "no-man-left-behind",
+        "black-hawk-down",
+        "military-mythology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets a Black Hawk Down scene where a general calls Delta Force cowboys as a critique that special forces see themselves as superior, ego-driven, glory-seeking, and capable of bringing down themselves and the American military.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Interpretation stated on 2026-04-07 of a film scene and its broader military meaning.",
+      "topic_tags": [
+        "delta-force",
+        "special-forces",
+        "military-culture",
+        "ego"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims Jessica Lynch was injured after her unit was ambushed in Iraq in 2003, treated well at a civilian hospital, and was not in danger when U.S. special forces staged a rescue.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0037",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Claim stated on 2026-04-07 about events in Iraq in 2003.",
+      "topic_tags": [
+        "jessica-lynch",
+        "iraq-war",
+        "special-forces",
+        "rescue-narrative"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims the media falsely reported that Jessica Lynch had been raped, beaten, and held hostage.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Claim stated on 2026-04-07 about 2003 media reporting.",
+      "topic_tags": [
+        "jessica-lynch",
+        "media",
+        "iraq-war",
+        "propaganda"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the Pentagon is a propaganda machine that cares less about truth than creating a Hollywood movie out of war.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-04-07.",
+      "topic_tags": [
+        "pentagon",
+        "propaganda",
+        "hollywood",
+        "war-narrative"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jessica Lynch publicly stated after release that the military was lying, that she was not beaten or in danger, and that hospital staff treated her kindly.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Claim stated on 2026-04-07 about Jessica Lynch's post-release public statements.",
+      "topic_tags": [
+        "jessica-lynch",
+        "military-narrative",
+        "public-testimony"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the Pentagon's optics-and-narrative habits may work against Somalis and Iraqis but are a major problem against Iran, where the United States would need total war focused on economics, organization, and logistics.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Strategic diagnosis stated on 2026-04-07 about the current or expected war with Iran.",
+      "topic_tags": [
+        "iran",
+        "pentagon",
+        "total-war",
+        "logistics",
+        "organization",
+        "economics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims the Pentagon's mentality is now to turn war into a Hollywood movie.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-04-07.",
+      "topic_tags": [
+        "pentagon",
+        "hollywood",
+        "military-culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The read paper excerpt says producers must comply with Pentagon entertainment policy, including script changes aligned with recruitment and public relations goals, in exchange for military equipment and personnel.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Claim from displayed/read paper excerpt read on 2026-04-07.",
+      "topic_tags": [
+        "pentagon",
+        "hollywood",
+        "script-review",
+        "recruitment",
+        "public-relations"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The read paper excerpt says more than 2,500 war-themed movies and TV programs have been made with Pentagon assistance since the inception of Hollywood entertainment more than a century ago.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Claim from displayed/read paper excerpt read on 2026-04-07.",
+      "topic_tags": [
+        "pentagon",
+        "hollywood",
+        "military-assistance",
+        "war-media"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The read paper excerpt says Pentagon-assisted movies and TV shows portray U.S. wars as necessary and glorious, downplay war's human, social, and environmental devastation, cast U.S. soldiers as noble protagonists, and stereotype non-U.S. enemies.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Claim from displayed/read paper excerpt read on 2026-04-07.",
+      "topic_tags": [
+        "pentagon",
+        "hollywood",
+        "war-propaganda",
+        "stereotypes"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hollywood-Pentagon complex",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Used for the alignment between Hollywood production and Pentagon goals, including military assistance conditioned on script and public-relations compliance.",
+      "confidence": "medium"
+    },
+    {
+      "term": "No Man Left Behind",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Used as a U.S. military rescue mythology that Jiang says Black Hawk Down reinforces.",
+      "confidence": "high"
+    },
+    {
+      "term": "home front",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Used to describe maintaining American public support for war, which Jiang says the film treats as more important than the European war front.",
+      "confidence": "high"
+    },
+    {
+      "term": "total war",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Used for the kind of war Jiang says would be required against Iran, focused on economics, organization, and logistics instead of optics and narrative.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0034",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035"
+      ],
+      "note": "This packet explicitly anchors Jiang's critique of American military theology in Lincoln's 1864 letter and then applies it to later Hollywood and Pentagon narratives.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0037",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038"
+      ],
+      "note": "Jiang uses the 2003 Jessica Lynch episode as historical evidence for a recurring pattern of U.S. rescue-story construction and Pentagon/media distortion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"
+      ],
+      "note": "The packet applies the Hollywood-war critique to Jiang's 2026-04-07 assessment of a possible or ongoing U.S. war with Iran, warning that optics-driven habits would fail against Iran.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0035",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0036"
+      ],
+      "note": "The transcript names the Black Hawk Down author as 'Mark Bolden,' likely an imperfect transcript rendering. The output preserves the packet refs without correcting the name into canon."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0037",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0038"
+      ],
+      "note": "The Jessica Lynch account is Jiang's retelling within the focus refs; the packet does not include the underlying external articles or interview clips."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040"
+      ],
+      "note": "The Tanner Murleys/Brown University paper is read through a displayed excerpt; the exact bibliographic metadata is not present in the focus refs."
+    }
+  ],
+  "signature_moments": []
+}

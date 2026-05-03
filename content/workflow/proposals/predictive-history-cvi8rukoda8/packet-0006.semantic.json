@@ -1,0 +1,300 @@
+{
+  "packet_id": "predictive-history-cvi8rukoda8-semantics-pkt-0006",
+  "source_id": "video:predictive-history-cvi8rukoda8",
+  "source_date": "2024-12-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0041",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Hinduism as a power structure that centralizes Proto-Indo-Iranian priestly authority, makes kings subordinate to Brahmins, and provokes Buddhism as a revolutionary route to enlightenment without Brahmin mediation. He then argues Hinduism defeated Buddhism by adopting Buddhist practices and assimilating local gods into the hierarchy.",
+      "speaker_attribution": "Jiang lecture monologue with classroom prompts embedded.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0045"
+      ],
+      "kind": "unclear",
+      "summary": "Empty segment after Jiang invites Doug's Buddhism question.",
+      "speaker_attribution": "No recoverable speech.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0046",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0047",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0048"
+      ],
+      "kind": "unclear",
+      "summary": "Brief acknowledgments appear while Doug's question is likely happening off-mic or outside the captured text; no substantive question can be extracted from these refs.",
+      "speaker_attribution": "Likely audience/student and Jiang acknowledgments.",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0046",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0047",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0048"
+      ],
+      "note": "The exchange around Doug's question is not captured as a coherent question; only brief confirmations are transcribed.",
+      "suggested_speaker": "Audience and Jiang acknowledgments",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Proto-Indo-Iranians centralized power through Hinduism by placing themselves in the priest class.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Historical interpretation of religious hierarchy formation.",
+      "topic_tags": [
+        "proto-indo-iranian",
+        "hinduism",
+        "brahmins",
+        "centralized-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that in the Hindu hierarchy, kings are lower nobility under the Brahmins, so rulers become the group most likely to want revolutionary change.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0041",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Historical-political model stated on 2024-12-03.",
+      "topic_tags": [
+        "kings",
+        "brahmins",
+        "lower-nobility",
+        "revolutionary-change"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links Buddhism's rise to ruler conflict with Brahmin power, noting that the first Buddha was a prince and that a king/emperor institutionalized Buddhism and sponsored missions abroad.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Historical interpretation of Buddhist patronage.",
+      "topic_tags": [
+        "buddhism",
+        "rulers",
+        "brahmins",
+        "missionary-projects"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines Buddhism's major difference from Hinduism as removing the Brahmin gatekeeper: a person can access Nirvana or enlightenment through guidance by monks.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Religious comparison stated in the lecture.",
+      "topic_tags": [
+        "buddhism",
+        "nirvana",
+        "brahmins",
+        "spiritual-enlightenment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls Buddhism revolutionary because it seeks to overthrow the power of the Brahmin class.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Interpretive claim about Buddhism's social function.",
+      "topic_tags": [
+        "buddhism",
+        "revolution",
+        "brahmins",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Brahmins responded to Buddhism by creating or implementing the caste system, separating classes so they could not intermingle or touch.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Historical interpretation of caste-system development.",
+      "topic_tags": [
+        "caste-system",
+        "brahmins",
+        "buddhism",
+        "social-separation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Hinduism defeated Buddhism over time by adopting popular Buddhist practices such as yoga, meditation, and Nirvana.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Historical interpretation of Hindu-Buddhist competition.",
+      "topic_tags": [
+        "hinduism",
+        "buddhism",
+        "assimilation",
+        "yoga",
+        "meditation",
+        "nirvana"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Hindu priests assimilated local folklore gods into a Hindu hierarchy, producing the appearance of a religion with many gods while preserving Brahmin gods at the top.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Historical interpretation of Hindu religious assimilation.",
+      "topic_tags": [
+        "hinduism",
+        "local-gods",
+        "assimilation",
+        "hierarchy",
+        "brahmins"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042"
+      ],
+      "moment": "Kings become lower nobility under priests, making Buddhism a political answer to spiritual hierarchy.",
+      "source_phrase": "The upper nobility are the Brahmins... the kings must obey the priests.",
+      "why_it_matters": "This translates religious conflict into Jiang's recurring model of elite conflict.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "moment": "Buddhism's revolutionary line is simple: no Brahmin is needed to access Nirvana.",
+      "source_phrase": "You don't need the Brahmin to access Nirvana.",
+      "why_it_matters": "This is the sharpest compressed contrast between Hindu gatekeeping and Buddhist access.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "moment": "The caste system appears as the Brahmin counterattack to Buddhism.",
+      "source_phrase": "In response to Buddhism what do the Brahmins do?... They create the caste system.",
+      "why_it_matters": "Jiang turns caste from static hierarchy into an institutional weapon in a religious struggle.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "moment": "Hinduism defeats Buddhism by adopting what is popular in it.",
+      "source_phrase": "The Hindu Brahmins will adopt whatever is popular in Buddhism.",
+      "why_it_matters": "This preserves Jiang's assimilation model: conquest can work by absorption, not only suppression.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "moment": "The million gods are explained as absorbed local gods placed under a Brahmin hierarchy.",
+      "source_phrase": "That's why you have like a million gods in the Hindu religion.",
+      "why_it_matters": "A familiar feature of Hinduism becomes evidence for Jiang's model of religious assimilation.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Nirvana",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Spiritual enlightenment or liberation that Jiang says Buddhism makes accessible without Brahmin mediation and Hinduism later adopts.",
+      "confidence": "high"
+    },
+    {
+      "term": "Caste system",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "A system of separated classes that Jiang says Brahmins implement after Buddhism rises, forbidding intermingling and even touch between groups.",
+      "confidence": "high"
+    },
+    {
+      "term": "Buddhism as revolutionary religion",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's model of Buddhism as a ruler-backed challenge to Brahmin control over spiritual access.",
+      "confidence": "high"
+    },
+    {
+      "term": "Assimilation of gods",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "A Hindu strategy Jiang describes where local folklore gods are absorbed into a hierarchy beneath Brahmin gods.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0044"
+      ],
+      "note": "Jiang sequences Hindu hierarchy, ruler dissatisfaction, Buddhist rise, Brahmin caste-system response, and Hindu assimilation of Buddhist practices as a long religious-political struggle.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0042"
+      ],
+      "note": "The transcript renders Siddhartha Gautama and the Mauryan Empire imperfectly as 'Suharto Kottama' and 'Moran Empire'; extraction keeps the historical role but does not quote the ASR forms as terms."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043"
+      ],
+      "note": "The segment ends by saying the caste system responded to 'the threat of Hinduism,' but the immediate context indicates a likely speech slip or ASR issue for the threat of Buddhism."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0045",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0046",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0047",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0048"
+      ],
+      "note": "The actual Buddhism question is not captured in these focus refs, only short acknowledgments."
+    }
+  ]
+}

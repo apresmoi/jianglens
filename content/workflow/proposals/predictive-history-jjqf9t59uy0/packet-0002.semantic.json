@@ -1,0 +1,311 @@
+{
+  "packet_id": "predictive-history-jjqf9t59uy0-semantics-pkt-0002",
+  "source_id": "video:predictive-history-jjqf9t59uy0",
+  "source_date": "2024-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lays out four theories for the transition to agriculture: coercion, war, respect for elders, and religion. He says there are arguments for all four, but most scholars currently favor religion.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He rejects coercion as a primary explanation by contrasting gorilla domination with human cooperation: even a giant boss can be resisted, tricked, poisoned, or escaped.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He rejects war as the main driver by pointing to peaceful bonobos, lack of early weapons, and lack of clear evidence for large intergroup violence, while allowing that future evidence could change the picture.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "kind": "answer",
+      "summary": "He treats respect for elders as valid but limited because premodern religious worlds often imagined life and history as cyclical, making death less absolute. A student question seems to occur, but its content is not captured; Jiang says the evidence is their religion, which will be discussed later.",
+      "speaker_attribution": "Jiang answering an inaudible student question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He moves to the archaeological case studies, beginning with Gobekli Tepe in central Turkey, a recently discovered and still uncertain religious site dated around 9500 BCE with massive T-shaped pillars thought to represent human beings.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "note": "Diarized SPEAKER_00 remains Jiang. The lecture includes classroom prompts, but no separate substantive audience segment appears in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "note": "The phrase 'that's a great question' indicates an untranscribed student question about evidence for ancient attitudes toward death.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents coercion as the theory that an elite group that did not want to work forced everyone else into agricultural labor, with gorilla alpha-male hierarchy as supporting primate evidence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Theory introduced and then critiqued in the 2024-08-29 lecture",
+      "topic_tags": [
+        "coercion",
+        "elite",
+        "gorillas",
+        "agriculture-theories"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents war as the theory that farming and settlement made defense easier, with chimpanzee violence as supporting primate evidence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Theory introduced and then critiqued in the 2024-08-29 lecture",
+      "topic_tags": [
+        "war",
+        "chimpanzees",
+        "fortification",
+        "agriculture-theories"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents respect for elders as the theory that humans were biologically or culturally disposed to protect old people, making settlement attractive because hunter-gatherer life was hard on elders.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Theory introduced and then critiqued in the 2024-08-29 lecture",
+      "topic_tags": [
+        "elders",
+        "anthropology",
+        "agriculture-theories"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the current scholarly consensus favors religion as the most likely explanation for why humans settled down and ultimately farmed.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Scholarly-consensus claim as presented on 2024-08-29",
+      "topic_tags": [
+        "religion",
+        "scholarly-consensus",
+        "agriculture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects coercion as insufficient because human cooperation, planning, weapons, deception, poisoning, and flight make one-person domination far harder among humans than among gorillas.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Jiang's evaluation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "coercion",
+        "cooperation",
+        "rebellion",
+        "human-brains"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects war as the main explanation because bonobos complicate the violent-primate analogy and because archaeology does not show enough early weapons or large intergroup violence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Evidence assessment in the 2024-08-29 lecture",
+      "topic_tags": [
+        "war",
+        "bonobos",
+        "weapons",
+        "intergroup-violence"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the elder-care theory is weakened by ancient cyclical views of life and history, where death could be understood as rebirth or passage to the spirit world rather than final loss.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Jiang's interpretive argument in the 2024-08-29 lecture",
+      "topic_tags": [
+        "death",
+        "cyclical-time",
+        "elders",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies Gobekli Tepe as a religious site in central Turkey dated around 9500 BCE, with massive T-shaped pillars probably representing human beings.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Archaeological summary in the 2024-08-29 lecture",
+      "topic_tags": [
+        "gobekli-tepe",
+        "archaeology",
+        "religious-site",
+        "t-shaped-pillars"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012"
+      ],
+      "moment": "The coercion theory is tested by imagining a nine-foot boss in the classroom and then watching the class plan rebellion.",
+      "source_phrase": "I'm now your boss",
+      "why_it_matters": "The classroom thought experiment makes cooperation, not domination, the basic human power.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "moment": "The chimpanzee evidence for human violence is undercut by bonobos, the closer relatives who do not fit the war story.",
+      "source_phrase": "Bonobos, who are actually closer to us genetically than chimpanzees, they're actually very peaceful",
+      "why_it_matters": "It blocks a simple biological proof that humans must have settled because of war.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "moment": "Life and history move as a circle: born, dead, reborn, dead, reborn again.",
+      "source_phrase": "the world, history, moves in a cycle",
+      "why_it_matters": "It shifts the emotional meaning of death and weakens a modern elder-care explanation.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "moment": "Gobekli Tepe enters as a recent, enormous, uncertain religious site whose pillars may be human figures.",
+      "source_phrase": "these places were only discovered in the past few decades",
+      "why_it_matters": "The lecture's answer rests on evidence that Jiang insists is powerful but still provisional.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Coercion theory",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The theory that a nonworking elite forced others into agricultural labor; Jiang rejects it as hard to sustain among cooperative humans.",
+      "confidence": "high"
+    },
+    {
+      "term": "War theory",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The theory that settlement and farming were adopted for defense; Jiang says the current evidence for early large-scale intergroup war is weak.",
+      "confidence": "high"
+    },
+    {
+      "term": "Respect for elders theory",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The theory that settlement helped protect old people whom humans are disposed to care for; Jiang treats it as valid but less persuasive than religion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gobekli Tepe",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A central Turkish archaeological site, dated by Jiang around 9500 BCE, used as the first case for religion preceding settled agriculture.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "note": "The statements about scholarly consensus and recently discovered archaeological sites are dated to Jiang's 2024-08-29 classroom framing and should remain tied to that date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "note": "An audience question is implied but not audible in the transcript; do not promote it as a public source question."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript's 'Katahoyak' is treated as Catalhoyuk."
+    }
+  ]
+}

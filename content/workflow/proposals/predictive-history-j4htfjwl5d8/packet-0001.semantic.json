@@ -1,0 +1,373 @@
+{
+  "packet_id": "predictive-history-j4htfjwl5d8-semantics-pkt-0001",
+  "source_id": "video:predictive-history-j4htfjwl5d8",
+  "source_date": "2024-09-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens from Maria Gimbutas's contrast between old Europe's peaceful, egalitarian, artistic order and the present world of patriarchy, inequality, and war, then poses the lecture's three guiding questions: who the Yamnaya were, where they came from, and how they conquered Europe.",
+      "speaker_attribution": "Jiang classroom lecture; the questions are lecture-framing prompts, not audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0002",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0004",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reconstructs agriculture moving from the Near East to Europe, then describes old Europe as an agricultural Mother Goddess society organized around unity, nature protection, soul survival, gender equality or female precedence, peace, and art.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0006",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0007",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang shifts from old Europe to the steppes, defines evolution as open, cooperative competition under scarce resources, and uses implied student responses about Chinese history to compare this structure with later Chinese, Greek, and Sumerian periods of innovation.",
+      "speaker_attribution": "Mostly Jiang; brief student answers are implied by his 'Exactly' and 'Yes' responses but are not transcribed.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003"
+      ],
+      "note": "The transcript renders Maria Gimbutas's name as 'Maria Kumbotas' and 'Maria Kambuta'; semantic references treat this as Gimbutas while preserving exact source refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript repeatedly renders Yamnaya as 'Yemenite' in this lecture; semantic extraction uses Yamnaya but marks the ASR issue in uncertainty notes.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0007"
+      ],
+      "note": "A classroom answer to Jiang's Chinese-history prompt is implied but not audible in the transcript.",
+      "suggested_speaker": "student answer not captured",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames old Europe as having been, for most of its history, egalitarian, peaceful, and artistic before conquest by a warlike people he identifies as the Yamnaya.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2024-09-12.",
+      "topic_tags": [
+        "old-europe",
+        "yamnaya",
+        "egalitarianism",
+        "war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says agriculture developed in the Near East because humans are religious and farming allowed people to celebrate their religion.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "agriculture",
+        "religion",
+        "near-east"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He dates farming's Near Eastern origin to after the last Ice Age, when warming made the Near East especially suitable for crops, and says a later cooler period pushed Near Eastern people into Europe.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical chronology reconstructed in this 2024-09-12 lecture.",
+      "topic_tags": [
+        "ice-age",
+        "near-east",
+        "migration",
+        "agriculture"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Because Europe and the Near East had similar geography, Jiang says migrants could carry their agricultural technology and Mother Goddess religion into Europe with only minor changes.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "geography",
+        "migration",
+        "mother-goddess",
+        "technology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the Mother Goddess religion around unity: humans, animals, and plants share one life source, people must love each other and each other's children, and nature must be protected.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "mother-goddess",
+        "unity",
+        "nature",
+        "religion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He connects old Europe's egalitarian and peaceful politics to this religion: women were elevated because they gave birth, resources felt sufficient, and intellectual energy went into art celebrating the Mother Goddess.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0004",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interpretive model in this lecture.",
+      "topic_tags": [
+        "old-europe",
+        "women",
+        "peace",
+        "art",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The steppes create a different problem: people cannot eat grass or easily grow crops there, so scarcity pushes steppe peoples into social evolution.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Causal model in this lecture.",
+      "topic_tags": [
+        "steppes",
+        "scarcity",
+        "social-evolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines evolution for the class as open, cooperative competition: no central authority or hegemon, many groups competing to survive, but still communicating, trading, and maintaining friendly relations.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "evolution",
+        "competition",
+        "cooperation",
+        "innovation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that open cooperative competition is historically the greatest source of human innovation and gives Chinese, Greek, and Sumerian city-state periods as comparable cases.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0006",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0007",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Comparative historical model in this lecture.",
+      "topic_tags": [
+        "innovation",
+        "city-states",
+        "china",
+        "greece",
+        "sumer"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's second principle is that the winner of open competition is the group most willing to adopt innovations for the purpose of destroying others.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Model stated in this lecture.",
+      "topic_tags": [
+        "competition",
+        "innovation",
+        "violence",
+        "hegemony"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture opens with a fall narrative: old Europe was egalitarian, peaceful, and artistic, but the present is patriarchal, unequal, and at war.",
+      "source_phrase": "Europe was egalitarian, peaceful, and artistic. But today, we are a patriarchy",
+      "why_it_matters": "It gives the Yamnaya story its stakes as a civilizational rupture rather than a migration topic.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0002"
+      ],
+      "moment": "Farming begins not as economics first, but as religion made materially possible.",
+      "source_phrase": "humans are a religious people, and farming allows us to celebrate our religion",
+      "why_it_matters": "This binds economy to religious form from the start of the lecture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0004"
+      ],
+      "moment": "Mother Goddess unity means humans, animals, plants, and children belong to one shared life.",
+      "source_phrase": "We're the same as animals. We're the same as plants",
+      "why_it_matters": "It is the religious primitive that later gets inverted by the Sky Father order.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005"
+      ],
+      "moment": "The steppes enter as a grass ocean where the basic problem is brutal: people cannot eat grass.",
+      "source_phrase": "The steppes is a huge ocean of grassland... people can't eat grass",
+      "why_it_matters": "The image turns geography into the lecture's engine of social transformation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0006"
+      ],
+      "moment": "Evolution is not solitary struggle but open, cooperative competition.",
+      "source_phrase": "evolution means open, cooperative competition",
+      "why_it_matters": "This compact definition governs the lecture's explanation of innovation, conquest, and eventual hegemony.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0008"
+      ],
+      "moment": "The winner is not the most noble innovator but the group most open to innovation as a weapon.",
+      "source_phrase": "most open to adopting innovation in order to destroy others",
+      "why_it_matters": "This reversal turns creativity into the precondition for conquest.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "old Europe",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang uses old Europe for the pre-Yamnaya European agricultural society he describes as Mother Goddess-oriented, egalitarian, peaceful, and artistic.",
+      "confidence": "high"
+    },
+    {
+      "term": "Yamnaya",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The warlike steppe people or culture Jiang presents as the group that eventually conquered old Europe after adopting the full package of steppe innovations.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Mother Goddess",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The life-giving religious source from which Jiang says humans, animals, plants, nature, and souls are understood to belong together.",
+      "confidence": "high"
+    },
+    {
+      "term": "unity",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang defines unity as the belief that all beings are the same and therefore owe love and protection to each other and to nature.",
+      "confidence": "high"
+    },
+    {
+      "term": "steppes",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "A vast grassland zone from Europe toward Mongolia where, in Jiang's model, scarcity forced groups into social evolution.",
+      "confidence": "high"
+    },
+    {
+      "term": "social evolution",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The process Jiang defines as open, cooperative competition among groups without a central hegemon, producing innovation under scarcity.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001"
+      ],
+      "note": "Jiang explicitly frames this lecture as continuing the prior class on old Europe and the Yamnaya conquest.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript's 'Yemenite' is treated as an ASR rendering of Yamnaya, consistent with the video title and later transcript occurrences."
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0005"
+      ],
+      "note": "The clause 'the Chinese word for this is' is incomplete in the transcript; no semantic claim depends on the missing term."
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0007"
+      ],
+      "note": "The Chinese historical period named by the class is not transcribed; the pass avoids supplying a specific label from context alone."
+    }
+  ]
+}

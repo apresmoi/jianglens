@@ -1,0 +1,278 @@
+{
+  "packet_id": "predictive-history-exrk-85630k-semantics-pkt-0001",
+  "source_id": "video:predictive-history-exrk-85630k",
+  "source_date": "2024-05-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0001",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0002",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0003",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0004",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0005",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0006",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0007",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens a class lecture by predicting that Trump will win in November 2024 and pick Nikki Haley as vice president, then decomposes Biden's 2020 coalition into Black voters, young voters, college-educated voters, women, and suburban voters to explain why that coalition may weaken.",
+      "speaker_attribution": "Likely Jiang presenting a classroom lecture; brief prompts to students are folded into the monologue and no separate substantive audience answer is captured in these focus refs.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0001",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "note": "The diarization labels these focus refs as SPEAKER_01 and the content reads as a continuous classroom lecture with occasional rhetorical questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that Trump will win the November 2024 election and pick Nikki Haley as his vice president.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Forward-looking prediction made on 2024-05-17 about November 2024.",
+      "topic_tags": [
+        "trump",
+        "nikki-haley",
+        "2024-election",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames Biden's 2020 victory as numerically large in popular votes but structurally narrow because the Electoral College margin could be described as roughly 65,000 key-state votes.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0001",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Retrospective assessment of the 2020 U.S. presidential election.",
+      "topic_tags": [
+        "biden",
+        "2020-election",
+        "electoral-college"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that older Black voters supported Biden in 2020 partly from loyalty to Obama's vice president, but that by 2024 the debt has been paid and Biden must answer what he has done for them.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0002",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Diagnosis of 2020 coalition mechanics and 2024 coalition risk.",
+      "topic_tags": [
+        "black-voters",
+        "biden",
+        "obama",
+        "coalition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the George Floyd protests made Black voters and young voters view Trump as hostile or racist in 2020, but that this anti-Trump mobilization may not transfer to Biden in 2024.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0003",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Comparison between 2020 turnout dynamics and expected 2024 turnout.",
+      "topic_tags": [
+        "george-floyd",
+        "young-voters",
+        "black-voters",
+        "anti-trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that inflation, illegal immigration, and Ukraine aid damage Biden among Black and poorer voters by lowering living standards and making Biden look like a bad leader.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0004",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Diagnosis of U.S. political conditions in May 2024.",
+      "topic_tags": [
+        "inflation",
+        "immigration",
+        "ukraine",
+        "black-voters",
+        "biden"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Gaza protests will cause some young voters to sit out rather than vote for Biden, even if they will not vote for Trump.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Forward-looking turnout prediction for the 2024 election, made during campus Gaza protests.",
+      "topic_tags": [
+        "gaza",
+        "young-voters",
+        "biden",
+        "turnout"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says college-educated voters remain the core Democratic base, but that Ukraine and Gaza make them less enthusiastic and more likely to vote against Trump than for Biden.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Diagnosis of 2024 college-educated voting behavior.",
+      "topic_tags": [
+        "college-educated-voters",
+        "democratic-base",
+        "ukraine",
+        "gaza"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang expects women to keep voting Democratic because of Trump's image and abortion rights, while identifying suburban voters as the decisive battleground Trump must win back.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0007",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Prediction and electoral model for the 2024 election.",
+      "topic_tags": [
+        "women-voters",
+        "abortion",
+        "suburban-voters",
+        "swing-voters"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the mainstream media narrative during Trump's presidency first used Russiagate and then the divisive-figure frame to push suburbs away from Trump.",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Retrospective diagnosis of Trump-era media narratives and the 2020 suburban vote.",
+      "topic_tags": [
+        "media-narrative",
+        "russiagate",
+        "suburban-voters",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0003"
+      ],
+      "moment": "Obama-era loyalty becomes an exhausted debt rather than a renewable reason to vote for Biden.",
+      "source_phrase": "the debt is paid off",
+      "why_it_matters": "This turns coalition memory into a time-limited obligation, a key move in Jiang's explanation of why 2020 support may not repeat.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0007",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "moment": "The suburbs become the battlefield between urban Democrats and rural Republicans.",
+      "source_phrase": "the suburbs are where the battleground is",
+      "why_it_matters": "The whole Haley prediction depends on treating suburban voters as the electoral hinge.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "moment": "A media story, not only policy, captures suburban imagination and changes the political map.",
+      "source_phrase": "this idea caught the imagination of the suburbs",
+      "why_it_matters": "Jiang's model treats narrative perception as an electoral force that can later be copied by Trump.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Electoral College margin",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0001",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Used to distinguish popular-vote scale from decisive key-state vote margins.",
+      "confidence": "high"
+    },
+    {
+      "term": "Biden coalition",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0002",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A voter coalition made from Black voters, young voters, college-educated voters, women, and suburban voters, each with a different 2020 motivation and 2024 vulnerability.",
+      "confidence": "high"
+    },
+    {
+      "term": "Coastal professional managerial elite",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's label for college-educated Democratic-leaning voters who remain in Biden's base but may lack enthusiasm.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Suburban vote",
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0007",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The swing-voter zone between urban Democratic and rural Republican blocs, treated as the decisive election terrain.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0001",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0005",
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "note": "This packet contains May 2024 predictions about November 2024 turnout and coalition stability; preserve the source date for later prediction review.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript says '1 % of all blacks voted for Biden, only 8 % voted for Trump,' which is likely an ASR or speech error; do not silently normalize it without source correction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0006"
+      ],
+      "note": "The college-educated voter section contains repeated and garbled wording around 'Biden comes a crime' and 'protest against Putin'; extract only the clear argumentative point."
+    },
+    {
+      "refs": [
+        "video:predictive-history-exrk-85630k@transcript:v1#seg-0008"
+      ],
+      "note": "The repeated word 'developed' appears to be ASR damage before 'divisive figure'."
+    }
+  ]
+}

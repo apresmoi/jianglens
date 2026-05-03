@@ -1,0 +1,415 @@
+{
+  "packet_id": "predictive-history-gp9hv1pxx0o-semantics-pkt-0001",
+  "source_id": "video:predictive-history-gp9hv1pxx0o",
+  "source_date": "2023-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the Gay Talese journalism course by contrasting conventional journalism as collecting, organizing, and expressing information with literary journalism as a transformation of research into literature and creative engagement with reality and people.",
+      "speaker_attribution": "Jiang opening the class lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0003",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang turns Talese's mother's role in the tailoring business into a classroom prompt about friendship. A brief student response appears as 'Talk,' which Jiang reverses into the lesson that friendship and research begin with listening.",
+      "speaker_attribution": "Jiang with a brief student response embedded in the transcript.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang develops the mother as the model of exploration: she treats clients as friends, becomes interested in them, and listens for hours, turning curiosity toward people into a research method.",
+      "speaker_attribution": "Jiang explaining the exploration half of Talese's method.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0005",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0006",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang develops the father as the model of reflection: solitary tailoring work becomes precision, exactness, discipline, patience, and the pursuit of perfection.",
+      "speaker_attribution": "Jiang explaining the reflection half of Talese's method; the UNKNOWN span reads like continuation of Jiang's sentence.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the method directly, promises it will help beyond writing, then assigns students to photograph Beijing for unnoticed things and contrasts, translating Talese's New York attention into a local practice.",
+      "speaker_attribution": "Jiang closing the introduction with the first observational assignment.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0003",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0006"
+      ],
+      "note": "Both UNKNOWN diarization spans read as continuations of Jiang's lecture rather than independent audience questions; seg-0003 continues the Talese family setup and seg-0006 continues the description of tailoring work.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "note": "The word 'Talk' appears to be a brief student answer to Jiang's prompt about how to become someone's friend, followed immediately by Jiang's correction.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript renders Gay Talese's name as 'Gay to Lease' in several places; semantic outputs normalize this to Gay Talese while preserving exact segment refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames conventional journalism and research as the method of collecting information, organizing it, and expressing it.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "General classroom model stated on 2023-06-21.",
+      "topic_tags": [
+        "journalism",
+        "research-method",
+        "education"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Gay Talese transformed journalism and research by creating literary journalism, where journalism can itself be literature.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "General historical and methodological claim stated on 2023-06-21.",
+      "topic_tags": [
+        "gay-talese",
+        "literary-journalism",
+        "research-method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the Talese method as a way to become creative and imaginative by engaging with reality and with people.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "General method definition stated on 2023-06-21.",
+      "topic_tags": [
+        "gay-talese",
+        "creativity",
+        "reality",
+        "people"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that school teaches the opposite of exploration by telling students not to explore and to do what the teacher says.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "General educational diagnosis stated on 2023-06-21.",
+      "topic_tags": [
+        "schooling",
+        "obedience",
+        "exploration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang locates Talese's method in the structure of his family home: the mother managed clients and the business while the father made clothes.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0002",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Biographical origin story used for method teaching on 2023-06-21.",
+      "topic_tags": [
+        "gay-talese",
+        "family",
+        "method-origins"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Talese's mother handled demanding wealthy clients by becoming their friend, which required listening rather than talking.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Method model stated through Talese biography on 2023-06-21.",
+      "topic_tags": [
+        "listening",
+        "friendship",
+        "research-method",
+        "exploration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines exploration as curiosity toward people, shown by Talese's mother treating each client first and foremost as a friend and listening for hours.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "General method definition stated on 2023-06-21.",
+      "topic_tags": [
+        "exploration",
+        "curiosity",
+        "listening",
+        "people"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines reflection through Talese's father: solitary tailoring work models precision, exactness, discipline, patience, and the pursuit of perfection.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0005",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0006",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "General method definition stated on 2023-06-21.",
+      "topic_tags": [
+        "reflection",
+        "craft",
+        "discipline",
+        "perfection"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang states the core formula of the Talese research method as exploration being the pursuit of curiosity and reflection being the pursuit of perfection.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "General method definition stated on 2023-06-21.",
+      "topic_tags": [
+        "gay-talese",
+        "exploration",
+        "reflection",
+        "research-method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the class's skills will help students become better writers, more creative people, and more effective researchers, including outside writing and in the sciences.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Normative pedagogical claim stated on 2023-06-21.",
+      "topic_tags": [
+        "education",
+        "writing",
+        "research",
+        "science"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang assigns students to photograph Beijing by looking for unnoticed things and contrasts, adapting Talese's attention to New York into a local observational exercise.",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Course assignment stated on 2023-06-21.",
+      "topic_tags": [
+        "beijing",
+        "observation",
+        "contrast",
+        "assignment"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "moment": "School becomes the anti-research institution: instead of teaching students how to explore reality, it trains them to obey the teacher.",
+      "source_phrase": "Don't explore. Just do what the teacher tells you to do.",
+      "why_it_matters": "This reversal explains why the course has to teach curiosity as a recovered capacity rather than a normal school skill.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "moment": "The expected method for befriending someone is inverted: not talking, but listening.",
+      "source_phrase": "Talk. Wrong. Not talk. The opposite. Listen.",
+      "why_it_matters": "The line turns research from self-expression into receptivity, making listening the foundation of exploration.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "moment": "Talese's mother 'talked' by listening, making attention itself a social act.",
+      "source_phrase": "she would talk just by listening",
+      "why_it_matters": "This gives the lecture its strongest human image for literary journalism: conversation as disciplined attention to another person.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "moment": "The client is not first a customer or status object but a friend.",
+      "source_phrase": "whoever was a client, was first and foremost a friend",
+      "why_it_matters": "This converts research access into an ethical and imaginative posture toward people.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "moment": "Reflection is pictured as spending days in a room over one piece of cloth until craft becomes a pursuit of perfection.",
+      "source_phrase": "days and days in this room just working on a topic",
+      "why_it_matters": "The tailoring image keeps reflection concrete: it is not vague thinking but patient, exacting craft.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "moment": "The whole method is compressed into a two-part formula: curiosity outward, perfection inward.",
+      "source_phrase": "exploration is the pursuit of curiosity. And reflection is the pursuit of perfection.",
+      "why_it_matters": "This is the portable primitive that the public read needs to carry.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008"
+      ],
+      "moment": "The assignment asks students to find the city by photographing what others miss and what contrasts with itself.",
+      "source_phrase": "New York is a city of things unnoticed. New York is a city of contrast.",
+      "why_it_matters": "It turns the method from lecture content into a concrete practice of noticing Beijing.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "literary journalism",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang defines it as journalism that can itself be literature, associated here with Gay Talese's transformation of journalism and research.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gay Talese research method",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A research practice that joins creative engagement with reality and people to the paired disciplines of exploration and reflection.",
+      "confidence": "high"
+    },
+    {
+      "term": "exploration",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0005",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The pursuit of curiosity, modeled through listening to people with genuine interest.",
+      "confidence": "high"
+    },
+    {
+      "term": "reflection",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0005",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The pursuit of perfection, modeled through precise, exact, disciplined, patient craft.",
+      "confidence": "high"
+    },
+    {
+      "term": "contrast",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "An observational target in the Beijing photo assignment, derived from Talese's account of New York as a city of contrast.",
+      "confidence": "high"
+    },
+    {
+      "term": "things unnoticed",
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A phrase Jiang uses to direct attention toward overlooked urban details as part of journalistic observation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "note": "On 2023-06-21, Jiang presents the Talese method pedagogically as a transferable research discipline, not as a geopolitical or canon-building lens claim.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0003",
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0006"
+      ],
+      "note": "Diarization marks these spans as UNKNOWN, but the content appears continuous with Jiang's explanation; downstream public read should not treat them as separate speakers unless audio review says otherwise."
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"
+      ],
+      "note": "The embedded 'Talk' response is likely an in-room student answer, but no stable student identity is available."
+    },
+    {
+      "refs": [
+        "video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"
+      ],
+      "note": "The phrase 'This is the only piece of suit' appears to be transcript noise or a compressed reference to working on one suit; semantic interpretation relies on the surrounding tailoring-craft explanation."
+    }
+  ]
+}

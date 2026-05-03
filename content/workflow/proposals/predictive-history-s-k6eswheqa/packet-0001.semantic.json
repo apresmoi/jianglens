@@ -1,0 +1,285 @@
+{
+  "packet_id": "predictive-history-s-k6eswheqa-semantics-pkt-0001",
+  "source_id": "video:predictive-history-s-k6eswheqa",
+  "source_date": "2024-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0002",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the course by turning a bleak semester of Great Books and geopolitics into a lecture about hope: the future is not waited for, it is imagined, fought for, and made.",
+      "speaker_attribution": "Jiang addressing a class in a final lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0004",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0005",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0006",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0007",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces psychohistory through Asimov, then moves to cliodynamics and elite overproduction as a mathematical account of social collapse before proposing AI as the next step: not just explaining the past but predicting the future.",
+      "speaker_attribution": "Jiang lecture; audience prompts are rhetorical checks rather than substantive questions.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0008"
+      ],
+      "note": "The focus refs read as continuous Jiang monologue despite routine classroom checks like 'does that make sense'.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the final class as a movement from the semester's bleak world analysis toward hope and future-making.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Course-closing framing on 2024-06-13.",
+      "topic_tags": [
+        "hope",
+        "future",
+        "course-frame"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the future is what people imagine, fight for, and make happen, not something passively endured.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "General normative model stated on 2024-06-13.",
+      "topic_tags": [
+        "agency",
+        "imagination",
+        "future"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reprises earlier course predictions that Trump will be elected again in November, declare war on Iran, end the American Empire, and produce a multipolar world of endless war.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0002",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Forward-looking prediction as of 2024-06-13.",
+      "topic_tags": [
+        "trump",
+        "iran",
+        "american-empire",
+        "multipolarity"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines psychohistory as the idea that the future can be predicted, controlled, and harnessed for humanity's betterment.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0003",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Definition stated on 2024-06-13.",
+      "topic_tags": [
+        "psychohistory",
+        "prediction",
+        "control"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Asimov's Foundation imagines mathematical mapping of human behavior across immense time scales in order to manipulate events toward a better future.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretation of Foundation stated on 2024-06-13.",
+      "topic_tags": [
+        "asimov",
+        "foundation",
+        "psychohistory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents cliodynamics as an attempt to turn history into a mathematical model and cites elite overproduction as a pattern explaining social collapse.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0005",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Model summary stated on 2024-06-13.",
+      "topic_tags": [
+        "cliodynamics",
+        "elite-overproduction",
+        "collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that wealth and fame can expand, but power is finite and zero-sum, so too many elites competing for power drive social collapse.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0006",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0007",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "General collapse model stated on 2024-06-13.",
+      "topic_tags": [
+        "power",
+        "zero-sum",
+        "elite-conflict",
+        "collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses failed imperial examination candidates and Hong Xiuquan as examples of frustrated would-be elites leading revolutionary collapse.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0007",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical example used on 2024-06-13.",
+      "topic_tags": [
+        "china",
+        "keju",
+        "hong-xiuquan",
+        "elite-overproduction"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He proposes using AI to go beyond cliodynamics by creating real psychohistory: a system able to analyze the past and predict the future.",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Project proposal stated on 2024-06-13.",
+      "topic_tags": [
+        "ai",
+        "cliodynamics",
+        "psychohistory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0002"
+      ],
+      "moment": "The final class turns from 'we are all going to die' into a demand that the future be imagined and fought for.",
+      "source_phrase": "The future is what you imagine and fight for. The future is what you make happen.",
+      "why_it_matters": "This is the lecture's governing reversal: prophecy becomes obligation rather than fatalism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0003"
+      ],
+      "moment": "Psychohistory appears as hope and light inside the darkest picture of collapse.",
+      "source_phrase": "where there is darkness, there can also be light",
+      "why_it_matters": "It preserves the emotional hinge between collapse analysis and constructive future-making.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0006",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0007"
+      ],
+      "moment": "Power is treated as a finite classroom position: if everyone is teacher, no one is teacher.",
+      "source_phrase": "If we're all teachers, there's no teacher.",
+      "why_it_matters": "The classroom image compresses the zero-sum elite-overproduction model into a memorable scene.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0008"
+      ],
+      "moment": "AI is proposed as the missing jump from analyzing collapsed societies to predicting the future.",
+      "source_phrase": "not just analyze the past, but to predict the future",
+      "why_it_matters": "This is the lecture's first explicit bridge from historical diagnosis to psychohistorical technology.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "psychohistory",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0003",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A proposed science of predicting the future by mathematically mapping human behavior and then using that prediction to guide events toward a better future.",
+      "confidence": "high"
+    },
+    {
+      "term": "cliodynamics",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The mathematical modeling of historical movement; the transcript renders the name as 'Clio Dynamics'.",
+      "confidence": "high"
+    },
+    {
+      "term": "overproduction of elites",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0005",
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A collapse mechanism in which the number of people who believe they deserve power exceeds the finite amount of power available.",
+      "confidence": "high"
+    },
+    {
+      "term": "zero-sum power",
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The claim that power differs from wealth and fame because it cannot be infinitely expanded; one person's power excludes another's.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0002"
+      ],
+      "note": "The lecture, dated 2024-06-13, repeats a prediction that Trump will win in November and then declare war on Iran.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0005"
+      ],
+      "note": "ASR renders the historian as 'Peter Turkin'; this likely refers to the cliodynamics figure commonly known as Peter Turchin, but the source phrase should be checked before public quotation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript uses 'Kejiu' for the imperial examination system; preserve the source wording unless a transcript cleanup pass standardizes it."
+    }
+  ]
+}

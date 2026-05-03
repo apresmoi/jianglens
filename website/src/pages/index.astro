@@ -1,0 +1,616 @@
+---
+import SiteHeader from '../components/SiteHeader.astro';
+import { pageSeo, siteConfig, structuredDataForPage } from '../../site.config.mjs';
+
+const homeSeo = pageSeo('home');
+const structuredData = structuredDataForPage('home');
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{homeSeo.title}</title>
+    <meta name="description" content={homeSeo.description} />
+    <meta name="keywords" content={homeSeo.keywords} />
+    <meta name="author" content={siteConfig.seo.author} />
+    <link rel="canonical" href={homeSeo.canonicalUrl} />
+    <link rel="sitemap" href={homeSeo.sitemapUrl} />
+    <link rel="alternate" type="text/markdown" href={homeSeo.skillUrl} title="Jiang Lens skill" />
+    <link rel="alternate" type="text/plain" href={homeSeo.llmsUrl} title="llms.txt" />
+    <link rel="alternate" type="text/plain" href={homeSeo.llmsFullUrl} title="llms-full.txt" />
+    <meta name="theme-color" content={siteConfig.seo.themeColor} />
+    <meta property="og:title" content={homeSeo.title} />
+    <meta property="og:description" content={homeSeo.description} />
+    <meta property="og:type" content={homeSeo.type} />
+    <meta property="og:site_name" content={siteConfig.seo.siteName} />
+    <meta property="og:url" content={homeSeo.canonicalUrl} />
+    <meta property="og:locale" content={siteConfig.seo.locale} />
+    <meta property="og:image" content={homeSeo.imageUrl} />
+    <meta property="og:image:width" content={String(homeSeo.image.width)} />
+    <meta property="og:image:height" content={String(homeSeo.image.height)} />
+    <meta property="og:image:alt" content={homeSeo.image.alt} />
+    <meta name="twitter:card" content={siteConfig.seo.twitterCard} />
+    <meta name="twitter:title" content={homeSeo.title} />
+    <meta name="twitter:description" content={homeSeo.description} />
+    <meta name="twitter:image" content={homeSeo.imageUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #070707;
+        --ink: #f6efe4;
+        --soft: #d7ccbb;
+        --muted: #9f9688;
+        --line: rgba(246, 239, 228, 0.14);
+        --line-strong: rgba(246, 239, 228, 0.28);
+        --paper: rgba(16, 15, 13, 0.78);
+        --accent: #c85a37;
+        --gold: #c9a765;
+        --blue: #8aa5b9;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        background: var(--bg);
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        overflow-x: hidden;
+        background:
+          linear-gradient(90deg, rgba(246, 239, 228, 0.028) 1px, transparent 1px) 0 0 / 72px 72px,
+          linear-gradient(0deg, rgba(246, 239, 228, 0.018) 1px, transparent 1px) 0 0 / 72px 72px,
+          var(--bg);
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.5;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        width: 100%;
+        max-width: 1180px;
+        margin: 0 auto;
+        padding: 0 18px;
+      }
+
+      .hero {
+        position: relative;
+        min-height: calc(100vh - 64px);
+        overflow: hidden;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .hero-image {
+        position: absolute;
+        top: 0;
+        right: -22vw;
+        bottom: 0;
+        z-index: 0;
+        width: 128vw;
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+        opacity: 0.78;
+        filter: contrast(1.04) saturate(0.94) brightness(0.84);
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        background:
+          linear-gradient(90deg, rgba(7, 7, 7, 0.99) 0%, rgba(7, 7, 7, 0.96) 29%, rgba(7, 7, 7, 0.8) 45%, rgba(7, 7, 7, 0.38) 68%, rgba(7, 7, 7, 0.22) 100%),
+          linear-gradient(180deg, rgba(7, 7, 7, 0.08) 0%, rgba(7, 7, 7, 0.16) 48%, rgba(7, 7, 7, 0.88) 100%);
+        pointer-events: none;
+      }
+
+      .hero-inner {
+        position: relative;
+        z-index: 2;
+        min-height: calc(100vh - 64px);
+        display: grid;
+        align-content: center;
+        padding: 56px 18px 58px;
+      }
+
+      .hero-copy {
+        width: min(620px, 100%);
+      }
+
+      .kicker {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: var(--gold);
+        font-size: 0.78rem;
+        font-weight: 780;
+        text-transform: uppercase;
+      }
+
+      .kicker::before {
+        content: "";
+        width: 30px;
+        height: 1px;
+        background: var(--gold);
+      }
+
+      h1,
+      h2,
+      h3 {
+        font-family: Georgia, "Times New Roman", serif;
+        font-weight: 560;
+        letter-spacing: 0;
+      }
+
+      h1 {
+        margin: 18px 0 0;
+        font-size: 5.8rem;
+        line-height: 0.9;
+      }
+
+      h1 span {
+        display: block;
+      }
+
+      .lead {
+        margin: 26px 0 0;
+        max-width: 570px;
+        color: var(--soft);
+        font-size: 1.22rem;
+      }
+
+      .lead strong {
+        color: var(--ink);
+      }
+
+      .hero-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 32px;
+      }
+
+      .button {
+        min-height: 46px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid var(--line-strong);
+        border-radius: 5px;
+        padding: 0 16px;
+        color: var(--ink);
+        font-size: 0.94rem;
+        font-weight: 760;
+        text-decoration: none;
+        background: rgba(246, 239, 228, 0.05);
+      }
+
+      .button.primary {
+        border-color: var(--ink);
+        background: var(--ink);
+        color: #11100e;
+      }
+
+      .agent-install {
+        max-width: 620px;
+        margin-top: 30px;
+        padding-top: 16px;
+        border-top: 1px solid var(--line);
+        display: grid;
+        gap: 10px;
+      }
+
+      .agent-install p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.94rem;
+        font-weight: 680;
+      }
+
+      .skill-row {
+        min-height: 42px;
+        display: flex;
+        align-items: center;
+        border: 1px solid rgba(246, 239, 228, 0.2);
+        border-radius: 6px;
+        background: rgba(8, 8, 7, 0.72);
+        overflow: hidden;
+      }
+
+      .skill-url {
+        min-width: 0;
+        flex: 1 1 auto;
+        padding: 0 12px;
+        color: var(--soft);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 0.84rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        text-decoration: none;
+      }
+
+      .copy-button {
+        align-self: stretch;
+        min-width: 72px;
+        border: 0;
+        border-left: 1px solid rgba(246, 239, 228, 0.16);
+        border-radius: 0;
+        padding: 0 14px;
+        color: var(--ink);
+        font: inherit;
+        font-size: 0.86rem;
+        font-weight: 760;
+        background: rgba(246, 239, 228, 0.08);
+        cursor: pointer;
+      }
+
+      .public-note {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.82rem;
+        font-weight: 500;
+        text-align: center;
+      }
+
+      .fold-footer {
+        position: absolute;
+        right: 0;
+        bottom: 30px;
+        left: 0;
+        z-index: 3;
+        pointer-events: none;
+      }
+
+      .meta-line {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px 18px;
+        margin-top: 34px;
+        color: var(--soft);
+        font-size: 0.9rem;
+        font-weight: 680;
+      }
+
+      .meta-line span {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .meta-line span::before {
+        content: "";
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: var(--accent);
+      }
+
+      .section {
+        padding: 78px 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .section-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+        gap: 72px;
+        align-items: start;
+      }
+
+      .section h2 {
+        margin: 0;
+        max-width: 560px;
+        font-size: 3.25rem;
+        line-height: 1;
+      }
+
+      .section-intro {
+        margin: 18px 0 0;
+        max-width: 520px;
+        color: var(--muted);
+        font-size: 1.04rem;
+      }
+
+      .agent-lines {
+        display: grid;
+        gap: 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .agent-line {
+        display: grid;
+        grid-template-columns: 150px minmax(0, 1fr);
+        gap: 26px;
+        border-bottom: 1px solid var(--line);
+        padding: 22px 0;
+      }
+
+      .agent-line strong {
+        color: var(--gold);
+        font-size: 0.92rem;
+        text-transform: uppercase;
+      }
+
+      .agent-line p {
+        margin: 0;
+        color: var(--soft);
+      }
+
+      .ledger {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 26px;
+        margin-top: 38px;
+      }
+
+      .ledger-item {
+        border-top: 1px solid var(--line-strong);
+        padding-top: 18px;
+      }
+
+      .ledger-item span {
+        color: var(--accent);
+        font-weight: 780;
+      }
+
+      .ledger-item h3 {
+        margin: 12px 0 10px;
+        font-size: 1.8rem;
+        line-height: 1;
+      }
+
+      .ledger-item p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      .quote-band {
+        padding: 76px 0;
+      }
+
+      .quote-band blockquote {
+        margin: 0;
+        max-width: 960px;
+        color: var(--ink);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 3.2rem;
+        line-height: 1.05;
+      }
+
+      .quote-band p {
+        max-width: 680px;
+        margin: 22px 0 0;
+        color: var(--muted);
+      }
+
+      .footer {
+        padding: 28px 0 46px;
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      @media (max-width: 1020px) {
+        .hero-image {
+          right: -42vw;
+          width: 150vw;
+          opacity: 0.64;
+        }
+
+        h1 {
+          font-size: 4.8rem;
+        }
+
+        .section-grid {
+          grid-template-columns: 1fr;
+          gap: 34px;
+        }
+
+        .ledger {
+          grid-template-columns: 1fr;
+        }
+
+        .agent-install {
+          width: min(620px, 100%);
+        }
+      }
+
+      @media (max-width: 720px) {
+        .shell {
+          padding-right: 14px;
+          padding-left: 14px;
+        }
+
+        .hero,
+        .hero-inner {
+          min-height: calc(100vh - 162px);
+        }
+
+        .hero-inner {
+          padding-top: 36px;
+          padding-bottom: 74px;
+        }
+
+        .hero-image {
+          right: -105vw;
+          width: 220vw;
+          opacity: 0.32;
+        }
+
+        h1 {
+          font-size: 3.25rem;
+        }
+
+        .lead {
+          font-size: 1.02rem;
+        }
+
+        .button {
+          width: 100%;
+        }
+
+        .agent-install {
+          width: 100%;
+          margin-top: 24px;
+        }
+
+        .agent-install p {
+          font-size: 0.88rem;
+        }
+
+        .section {
+          padding: 56px 0;
+        }
+
+        .section h2,
+        .quote-band blockquote {
+          font-size: 2.25rem;
+        }
+
+        .agent-line {
+          grid-template-columns: 1fr;
+          gap: 8px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <SiteHeader base="./" />
+
+    <main>
+      <section class="hero" aria-label="Predictive History lens overview">
+        <img
+          class="hero-image"
+          src="./images/jiang-xueqin-hero.jpg"
+          alt="Professor Jiang Xueqin seated at a microphone during an interview"
+          width="3674"
+          height="2156"
+        />
+        <div class="shell hero-inner">
+          <div class="hero-copy">
+            <span class="kicker">Agent-run open research</span>
+            <h1><span>Predictive</span><span>History Lens</span></h1>
+            <p class="lead">
+              We analyze Jiang Xueqin's lectures, interviews, and writing to distill the concepts, chronology, and source-grounded readings behind the Predictive History world model.
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="./episodes/predictive-history-0hyet47cc-e/">Open the first episode</a>
+              <a class="button" href="./lens/">Explore the lens</a>
+            </div>
+            <div class="meta-line" aria-label="Project qualities">
+              <span>run by agents</span>
+              <span>open repository</span>
+              <span>source-grounded</span>
+            </div>
+            <aside class="agent-install" aria-label="Jiang Lens agent instruction">
+              <p>Do you want to use Jiang's lens to analyze news or something specific? Paste this into ChatGPT, Claude, or the site you use:</p>
+              <div class="skill-row">
+                <a class="skill-url" href={homeSeo.skillUrl} data-skill-url>{homeSeo.skillUrl}</a>
+                <button class="copy-button" type="button" data-copy-skill-url>Copy</button>
+              </div>
+            </aside>
+          </div>
+        </div>
+        <div class="shell fold-footer" aria-label="Project status">
+          <p class="public-note">Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="shell section-grid">
+          <div>
+            <h2>A research site run by agents, visible to humans.</h2>
+            <p class="section-intro">
+              Agents do the repetitive work around the clock: ingesting lectures, cleaning transcripts, proposing concept readings, checking provenance, tracking chronology, and keeping the public site synchronized with the repository.
+            </p>
+          </div>
+          <div class="agent-lines" aria-label="Agent workflow">
+            <div class="agent-line">
+              <strong>Ingest</strong>
+              <p>New sources become stable, addressable records instead of loose links or memory.</p>
+            </div>
+            <div class="agent-line">
+              <strong>Ground</strong>
+              <p>Important claims are tied to exact passages, timestamps, and source versions.</p>
+            </div>
+            <div class="agent-line">
+              <strong>Review</strong>
+              <p>Agents separate Jiang-sourced material from interpretation, commentary, and contradiction.</p>
+            </div>
+            <div class="agent-line">
+              <strong>Publish</strong>
+              <p>The website renders readable episodes, concept pages, provenance data, and agent-readable artifacts.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="shell">
+          <div class="section-grid">
+            <div>
+              <h2>The lens stays useful because the trail stays open.</h2>
+              <p class="section-intro">
+                Predictive History is treated as a system to study, not a persona to imitate. The public interface should make strong readings possible while preserving uncertainty.
+              </p>
+            </div>
+            <div class="ledger" aria-label="Public surfaces">
+              <div class="ledger-item">
+                <span>01</span>
+                <h3>Canon</h3>
+                <p>World model, actors, forces, mechanics, analogies, and prediction protocol.</p>
+              </div>
+              <div class="ledger-item">
+                <span>02</span>
+                <h3>Ledger</h3>
+                <p>Forecast-like claims tracked with source, horizon, conditions, and outcomes.</p>
+              </div>
+              <div class="ledger-item">
+                <span>03</span>
+                <h3>Commentary</h3>
+                <p>Challenges and counter-readings remain attached without rewriting the canon.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="shell quote-band">
+        <blockquote>
+          The goal is not to make an oracle. The goal is to make the reasoning machinery inspectable.
+        </blockquote>
+        <p>
+          Jiang Lens is the working substrate for that: a repo, a public site, and a set of agents that keep the source trail alive as the corpus grows.
+        </p>
+      </section>
+    </main>
+
+    <footer class="shell footer">
+      Jiang Lens is an independent research project and not an official Predictive History publication. Hero image provided by the project maintainer.
+    </footer>
+    <script>
+      const copyButton = document.querySelector('[data-copy-skill-url]');
+      const skillUrl = document.querySelector('[data-skill-url]');
+
+      if (copyButton && skillUrl) {
+        copyButton.addEventListener('click', async () => {
+          await navigator.clipboard.writeText(skillUrl.textContent ?? '');
+          copyButton.textContent = 'Copied';
+          window.setTimeout(() => {
+            copyButton.textContent = 'Copy';
+          }, 1800);
+        });
+      }
+    </script>
+  </body>
+</html>

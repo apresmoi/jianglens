@@ -1,0 +1,297 @@
+# Civilization #4:  The Paradise Lost of Marija Gimbutas
+
+Source: https://www.youtube.com/watch?v=RaT_ZUDjHrM
+
+## seg-0001 / 00:00:00-00:01:15 / SPEAKER_00
+
+Okay, so the story so far is that 200,000 years ago, we humans, Homo sapiens, we were born in Africa. And then about 50,000 years ago, because of climate change, we started to spread around the world, okay? We went into Europe, then into Asia, then we crossed the Bering Strait into North America, then South America, then Asia, went to Australia, okay? And 50,000 years ago, there's about a million of us all around the world. And the argument that I've made to you in this class is that from the very beginning, we were religious, okay? And we know from the Ice H.K. paintings, we know because of places like, Kobletepe, and Kanahoyak, that we had a religious belief that told us who we are and what we're doing here. And as we discussed in class, this religious belief is animistic, meaning we believe that we all come from one source, the Mother Goddess.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:16-00:02:43 / SPEAKER_00
+
+And we are all the children of the Mother Goddess, including animals, plants. And because of this, we were a very compassionate people that were egalitarian. There was no difference between men and women. That was peaceful. We were violent, there was some violence, but we didn't really fight wars, okay? And we were artistic. We celebrated the Mother Goddess through paintings and through artwork, okay? And another question then is, if we were like this for most of human history, how is it that today we have war, private property, and patriarchy, where men make all the rules and women have little agency and power? And so this week, I will explain to you how this happened, okay? So in today's class, we will discuss, really, the height of this civilization. And this is what the anthropologist Maria Gimbertas called Old Europe, okay? So to begin the story, I want to tell you what we discovered in terms of linguistics.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:43-00:04:16 / SPEAKER_00
+
+So for many hundreds of years, many people have speculated that maybe English, German, Greek, Latin, all came from the same language that's been lost to us. This is a language we call Proto -Indo -European. And through decades of strenuous research, linguists have been able to conclusively prove that all these languages that we speak in Europe, okay, all come from the same mother language, the first language. But not only that, but also Iranian and Indian, okay, Hindi, okay, all come from Proto -Indo -European. So does that make sense to you guys? So we know this because there are many words that sound the same in many languages, okay? So for example, father. In English, it's father, right? But in Latin, it's pater, okay? That's where we get the word paternity, okay, from the father. Greek, pateris. Persian, padar. Hindi, in India, pita, okay? So the word father seems to come from just one word in all these different languages.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:16-00:05:38 / SPEAKER_00
+
+Then you look at the word mother, okay? Mother, matar, matara, madar, mat, okay? Also sounds very similar. So again, for hundreds of years, people have speculated that there was just one language. And if you look at this map, okay? So for example, the English word for two, okay, the number two. You can draw a schematic that shows you how all these languages, the word two, derived just from one word, dua, okay? So languages have been able to piece together this proto -Indo -European language. We've also been able to figure out how this language spread, okay? So there are two hypotheses. Either the language spread from Turkey, Anatolia, or from Ukraine, okay? Basically Russia. And we know it spread all around the world, okay? So basically all of Europe. And including Iran and India, okay? So this is the first language of all these languages that we speak today in most of Asia and all of Europe, okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:38-00:07:04 / SPEAKER_00
+
+So any questions so far? All right. Now, the problem for linguists is how do you piece together the language, okay? Because this language is lost to us, okay? So this language is lost to us. And so what linguists did, okay, and this is a very slow process, is they basically looked at all the words that seemed to come from the same word in different languages. And what they discovered is that there are certain words that are distinct to the first language. So words like bull, cow, ox, ram, eel, lamb, pig, piglet, sour milk, wine, curds, field, dog, shear wool, textiles, scratch plow, oxen, yoke, grain, shaft, furrow, rustling, grinding, pestle, household, okay? What do you guys notice about these words? Do you see patterns in these words? What patterns do you see in these words? Okay. So what these words tell us is the culture and lifestyle of the language.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0005
+
+## seg-0006 / 00:07:04-00:08:18 / SPEAKER_00
+
+The culture and lifestyle of the Proto -Indo -Europeans, okay? Does that make sense? So from these words, we're able to figure out four things about the Proto -Indo -Europeans. The first thing is that unlike other cultures, these people have a word for wheel. In fact, they have five different words for wheel. And what this tells us, what we can guess that these people, whoever they are, they invented the wheel. Okay? Does that make sense? Because they have words for wheel and other cultures don't, okay? So they were the first to invent the wheel. Second is that they have words for dairy products, okay? Cow milk. And this is important. Why? Do you guys know why this is important? Why is this strange? Yes. Okay. So they were raising livestock, okay? Okay. What makes it strange is that for most of human history, we were lactose intolerant. Meaning we did not have the ability to drink milk.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0006
+
+## seg-0007 / 00:08:18-00:09:27 / SPEAKER_00
+
+So these people, not only did they invent the wheel, but they changed their system, biological system, so that they became lactose tolerant. They now have the capacity to drink milk. Okay? Does that make sense? So whoever these people are, are the first people to drink cow milk. Okay? The second characteristic, sorry, the third characteristic is they really don't have that many agricultural terms. Okay? So maybe they farmed, but they weren't focused on farming. Okay? Whereas other cultures were focused on farming. Okay? That's the third thing. And the fourth thing is they have words for horse. And this is important because this tells us that they were first to domesticate the horse. Meaning that they could control the horse. Okay? This is important because throughout history, horses, if they see a human, they run away. Okay? Because that's the best way to survive. If you see someone coming, you run away. This is what we call excitability.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:27-00:10:37 / SPEAKER_00
+
+Okay? Horses are excited. So it took thousands of years for these people, the Proto Indo Europeans, to domesticate the horse, which means they could ride the horse. Okay? Does that make sense? So we don't know who these people were, but based on their language, we're able to guess four things. Okay? So this is a theory. Now, what's interesting is that archaeologists start to dig up things, and they start to discover the language were right. Okay? By studying the language, the language had four hypotheses, and the archaeologists were able to provide evidence this is true. Okay? The most exciting thing is that for the past five to ten years, advances in genetics, DNA technology, we've been able to look at the DNA of these skeletons, and we've been able to confirm a lot of these hypotheses. Okay? Does that make sense? So what I'm telling you is, for the longest time, we guessed
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:37-00:12:19 / SPEAKER_00
+
+that the Proto Indo Europeans existed, but now we have conclusive scientific evidence that they did exist and who they were. Okay? Does that make sense? All right. So, wheels. Okay? So again, they have five different words for wheels, and we're able to know from the archaeological evidence, the wheels were invented about 3500 BC. Okay? In this area. Okay? In Russia. And because wheels are part of Proto Indo European, then this language, whoever starts to first speak it, must have been speaking it after 3500 BC. Okay? Does that make sense? All right. There aren't that many agricultural terms in Proto Indo European. Okay? We have a lot of words for milk. Okay? To milk. Milk, sour milk, buttermilk, cheese, cow. Okay? So whoever these people were, dairy products were a very important part of their culture and their diet. This is DNA evidence that shows us that these people who we call the Yanaya, okay? These people are called the Yanaya.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0009
+
+## seg-0010 / 00:12:21-00:13:44 / SPEAKER_00
+
+They were able to develop hormones that allowed them to be lactose tolerant. Okay? Okay, in about 4500 BCE, very few people could drink milk. And by the time of the Anaya, about a thousand years later, they could basically all drink milk. And because they could drink milk, what happens to their body? Can you guys know? What's the difference? If you drink milk, exactly, okay? So we know from the evidence that these people are taller than everyone else. In fact, these people, because they drink milk and they eat a lot of protein, they were on average 20 centimeters taller than farmers. Okay, does that make sense to you guys, okay? Yeah, go ahead. Okay, okay, okay, so the milk we drink today is very different from the milk that they drank before. You understand? The milk they drank before came from cows that were raised in grassland. You understand? So it was all natural.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0010
+
+## seg-0011 / 00:13:44-00:14:54 / SPEAKER_00
+
+The milk we drink today comes from cows that were raised in factories. And we inject a lot of drugs and hormones into these cows. Did you understand? No, no, no, if you drink milk a lot, your bones will be healthier and you'll grow taller, okay? That's just biological evidence, okay? Does it make sense? But the milk we drink today, we put a lot of chemicals into the milk, and the source is the body. the milk is from factories okay and and the reason why is we want to make the milk cheaper but it's worse for you okay so in other words if you really want to be healthy what you should do is go buy a cow and drink from that cow okay do you understand all right okay so so are we clear okay all right now what's really interesting is the domestication of the horse okay so again there's a
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:54-00:16:08 / SPEAKER_00
+
+gene in the horse for excitability okay basically the horse is programmed to run away if it sees danger a human being and it took us about 3 000 years okay from 5500 bce until 2020 bc to domesticate the horse because it's very hard to make horses not run away when there's danger it doesn't make sense so this is a very long story it's a long process but they were able to accomplish it um the further evidence for the domestication of a horse is we've been able to dig up skeletons okay and what we see is the skeletons of the anaya are different from other skeletons and it's because they ride horses okay that changes the curvature of the skeleton okay does it make sense guys okay so the evidence is pretty overwhelming um eventually they were able to put all the pieces together okay they were able to put the horse and the wheel together
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0012
+
+## seg-0013 / 00:16:08-00:17:13 / SPEAKER_00
+
+and as such they create the wagon the wagon meant they could move from place to place and they they became what we call nomadic pastures pastoralists okay so have you guys been to mongolia have you guys been to mongolia to me yes same okay but you see the way they um the way they make a living is they have like cows and sheep right and they take the cows and the sheep from place to place to eat the grass right and they're able to do that because they're able to put all the belongings into a wagon and move from place to place okay does that make sense so these are the people who were the first speakers of proto -indian indo -european and eventually they're able to spread their language all around the world okay from europe to india to iran okay it doesn't make sense guys now the question is okay we're able to
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0013
+
+## seg-0014 / 00:17:13-00:18:23 / SPEAKER_00
+
+confirm that these people actually existed and we are able to confirm that they um did spread the language around the world now the question the debate is how do they do so okay and there's two sides to the argument the first side um the first side believes these people were conquerors okay so think genghis khan and the mongols they went around they at least they they were able to spread their language by conquering other people okay so think genghis khan and the mongols think of the european conquest of north and south america where the english and the spaniards and the french went to north and south america and eradicated them and eradicated the local population okay so that's the first belief the second belief is that it was not violent okay it was just cultural diffusion meaning i came to your country or your village and i was able to influence you and convince you
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0014
+
+## seg-0015 / 00:18:23-00:19:28 / SPEAKER_00
+
+that my language is superior okay so we call this cultural diffusion so think of english where okay okay china has not been conquered by the west but we want to learn english because we think that learning english will give us more life opportunities okay does that make sense so there's two sides of the debate either one of conquest or one of cultural diffusion and this debate went on for a long time okay and for most of the time we believed it was cultural diffusion okay so for now for the past five ten years we have overwhelming dna evidence that it was in fact conquest it was a genocide it was a violent conquest and this is what i will show you next class okay but in today's class what i will show you is the europe before the conquest okay does that make sense okay and then next class we will look at how europe
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0015
+
+## seg-0016 / 00:19:28-00:20:48 / SPEAKER_00
+
+was conquered and how it was changed because of a conquest okay any questions so far okay so so the so so there's a good question okay the question is what's the difference between conquest and diffusion okay the answer is this if I conquer you I eradicate your genes I kill you okay therefore your genes do not come into the present day whereas if it's diffusion your genes are still around does that make sense okay so now what I will show you next class is sorry a lot of these genes have been eradicated therefore it must have been a violent conquest it doesn't make sense okay all right so um let's now look at Europe before the conquest and a lot of what we know about Europe comes from a very famous anthropologist her name is Maria Gombatis okay and we'll be spending a lot of time on this and we'll be spending a lot of
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:48-00:22:00 / SPEAKER_00
+
+time on this and we'll be spending a lot of time this today talking about her theories but what we know is okay remember the ice age and about 12,000 years ago okay now the planet is warming which allows for agriculture we also know that agriculture started in Anatolia Turkey and in Egypt and in Mesopotamia okay basically this region and the reason why is this place was the first to warm up but also had better soil than other places okay so they discovered farming in this region and about 600 BC e agriculture start to spread around the world ok to Europe and then over to England does it make sense guys okay another question then is what propelled this migration from Anatolia to Europe can you guys guess well what would what would propel the this migration? Okay, a good guess is war, okay? But we don't have any evidence of war around this time.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0017
+
+## seg-0018 / 00:22:01-00:23:27 / SPEAKER_00
+
+What's another explanation why people wouldn't move? Exactly, thank you. Climate change, okay? The weather became a lot cooler during this time, make it harder for people to farm, okay? Also, they've been farming for a long time in this area, which meant that the soil is longer as good as before, okay? So you had these massive migrations of families into Europe. Because Europe at this time, the weather was becoming a lot warmer, which allowed people to start to grow agriculture in this area, okay? So in about 6500 BCE, people started to move from Anatolia into this area. And because they were moving, they brought with them their religion, okay? Okay, remember like the religion of Kobletepe and Kanahoyak is one of the mother goddess, giving life to everything, okay? And because of that, we know that the people in this area were mainly egalitarian, peaceful, and artistic. Okay, does that make sense? Okay, what we'll study next class is that there were two massive migrations into Europe, all caused by climate change.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0018
+
+## seg-0019 / 00:23:27-00:24:45 / SPEAKER_00
+
+The first migration are farmers, okay? The second migration are pastoralists. And what I will show you next class is that we will look at the DNA evidence, okay? So if you look at the DNA of people today, what you will see is that about 4500 BCE, most people in Europe, their genes were a mix of farmers who came from Anatolia, as well as hunter gatherers who were there originally, okay? Does that make sense? But then, after 3000 BCE, you have this green come in, okay? And the green are the Yanaya, okay? The Proto -Indo -Europeans. And so I will show you this next class, okay? But I want you guys to understand what happened, okay? Does that make sense? Okay, so again, this is a map of the migration, okay? So agriculture was started in about 9000 BCE, in the Near East, Turkey, Anatolia, as well as Israel, Syria, Jordan.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0019
+
+## seg-0020 / 00:24:45-00:26:04 / SPEAKER_00
+
+Then it spread from about 7000 to Europe, okay? And then the purple is the Yanaya people, okay? Who we believe were from Ukraine, the steppes, and they spread around the world. Next class, we'll discuss who the Yanaya were and how they conquered the world, okay? But at first, I want to look at the, let's look at the farmers who built Europe before the conquest of the Yanaya. So, again, Maria Gumbutas, who is an anthropologist, originally from Lutherania, but who worked at Harvard and UCLA, she's done decades of research into old Europe, okay? And her conclusion is that old Europe was conquered by the Yanaya people, okay? And this is what we know as the Kurgan hypothesis. So let me explain what the Kurgan hypothesis is. We know the burials of the farmers is very different from the burials of the Yanaya people. The major difference is this.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0020
+
+## seg-0021 / 00:26:05-00:27:12 / SPEAKER_00
+
+The people who are farmers are buried together, okay? But the people who are farmers are buried together. The people of the Yanaya, they're buried alone. Not only are they buried alone, but they're buried with weapons and with cattle and horses. So what we can guess from this, okay, we don't have evidence, but what we can guess from this is that the farmers were people who did not have private property and who were egalitarian, okay, and who were peaceful because they didn't have any weapons. And the Yanaya were the complete opposite, okay? These were warriors who believed in private property and which was male -dominated, okay? Does that make sense? So this is what we refer to as the Kurgan hypothesis. And for the longest time, this is something that Maria Gumbates argued. And she was laughed at. Why was she laughed at? Why would people laugh at her? She's saying that, okay,
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0021
+
+## seg-0022 / 00:27:12-00:27:31 / SPEAKER_00
+
+before these Yanaya came to Europe, Europe was a place that was basically governed by woman, and it was artistic, and it was peaceful, and it was egalitarian. Why would people laugh at her? Yeah, they don't believe in her. Why?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:36-00:27:40 / UNKNOWN
+
+Excuse me?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0023
+
+## seg-0024 / 00:27:45-00:28:57 / SPEAKER_00
+
+Yeah, first of all, in universities, it's the men who are the professors, right? It's the men who are scholars. So there are many men who are like, there's no way woman can be in charge. They're idiots, okay? Why would woman be in charge? They're stupid. They're useless. It's men who are always in charge, okay? That's one reason why they laugh at her. What's another reason why they would laugh at her? Okay, there are also a lot of people who believe, like, people are violent. We've had wars always, okay? The idea, like, for, like, thousand years, Europe was peaceful can't be true because people are violent. Humans are meant to go to war against each other. Okay? And the third reason why people would laugh at her is we think, like, we are motivated by money. Right? If you don't have money, then why would you do anything? Does that make sense? So Maria Gumbotas had this radical idea that challenged the way that men saw the world.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0024
+
+## seg-0025 / 00:28:58-00:30:06 / SPEAKER_00
+
+Okay? For men, men have always been in charge. There's always been wars. And there's always been wealth and money to motivate people to work hard. Okay? And that's what men believe. And Maria Gumbotas said, no, that's not true. For thousands of years, from 6500 BCE until about 2500 BCE, 4000 years before they were conquered, Europe was ruled by women. And because of that, Europe was peaceful, egalitarian, and artistic. Okay? This is a radical idea. And again, what I will show you next class is this idea that was laughed at for decades has now been confirmed by DNA evidence, meaning that this has been proven true by science. Okay? Does that make sense? Okay. So let's look at what Maria Gumbotas said. And she's written quite a few books. These are two of her most famous. The Language of the Goddess and The Civilization of the Goddess.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:06-00:31:17 / SPEAKER_00
+
+Okay? So her main theory is that Europe at that time, their main belief is in the mother goddess who gives life to everything. Okay? And so what she did was she went and she dug up their graves to look at their art. And she studied their language and their cultural practice. Okay? Does that make sense? Any questions so far? Okay. So this is from The Civilization of the Goddess. And we'll read this together. Okay? And so this is her main argument about old Europe at that time. The goddess in all her manifestations was a symbol of the unity of all life in nature. Okay? So we are all connected together. Animals, trees, humans, we're all connected together. Okay? We're all one big family. Her power was in water and stone, in tomb and cave, in animals and birds, snakes and fish, hills, trees, and flowers. Hence the holistic and mythopoetic perception of all the sacredness and mystery of all there is on earth.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0026
+
+## seg-0027 / 00:31:17-00:32:16 / SPEAKER_00
+
+Okay? So everything in the world is sacred because it is blessed by the mother goddess. If there's a mosquito, don't kill that mosquito because it has the energy of the mother goddess. Okay? If you are walking on a, if you're walking and you see a bird, a small bird, pick it up. And heal it. Okay? Because that comes from the mother goddess. Okay? Does that make sense? This culture took deep delight in the natural wonders of this world. Its people did not produce lethal weapons or build forts in inexorable places as their successors did even when they were acquainted with metallurgy. Okay? So in other words, they had the technology to make weapons. They had the technology to build forts and make war, but they chose not to. Does that make sense? Okay? These people chose, purposely chose, not to commit violence against other people.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0027
+
+## seg-0028 / 00:32:16-00:33:27 / SPEAKER_00
+
+Instead, they built magnificent tombs, shrines, and temples, comfortable house in moderately sized villages, and created superb pottery and sculptures. This was a long -lasting period of remarkable creativity and stability and age free of strife. Their culture was a culture of art. It doesn't make sense. They spent all their time and energy in producing art to celebrate the mother goddess and to celebrate nature and to celebrate themselves. Okay? And this was remarkably peaceful and stable. Does that make sense, guys? Okay. Any questions so far? Okay. What was amazing about this culture is they invented writing. Okay? Now, for the longest time, we believe that the Sumerians, which we will discuss later on, the Sumerians who lived in Iraq, we believe they discovered writing. Okay? And we discovered that writing came about for economic purposes. Okay? So, for example, if you are in Sumeria and you need to build a temple, okay, what you do is you create writing.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0028
+
+## seg-0029 / 00:33:27-00:33:32 / SPEAKER_00
+
+So, for example, okay, here's a clay, and I say this.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0029
+
+## seg-0030 / 00:33:39-00:33:40 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0030
+
+## seg-0031 / 00:33:40-00:34:52 / SPEAKER_00
+
+So, this is writing, right? What does this mean? It means, like, these two people, this family of two, will get two bushes of wheat from one tree, and two baskets of bread for their work today. Okay? Does that make sense? So, we thought that for the longest time, people created writing because, or for economic purposes. Okay? In order to have an economy. But what Maria Gumbatis has discovered is, no, we actually created writing before for religious purposes. Okay? So, for example, if I have a painting, okay, and it goes like this, okay, and it goes like this, then what I'm saying is, the mother goddess blesses this sculpture with her life and with the abundance of water in nature. Okay? Does that make sense? So, writing is a way to communicate with the mother goddess. It's a way to make divine and sacred our art. Does it make sense, guys? Okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0031
+
+## seg-0032 / 00:34:52-00:36:04 / SPEAKER_00
+
+So, these people are sophisticated. They invented writing. Okay. Now, I want to go over some of the cultural differences between that culture and our culture to show how stark the difference is. Okay? So, for example, in today's culture, when we think of snake, we think of poison, danger, right? We've been taught that snakes are dangerous. But in this culture, the snake was a symbol of life, energy, and regeneration. So, in today's world, because, you know, snakes can shed their skin. Right? A most benevolent, not an evil creature. Okay? So, that's one major difference. Another major difference between our culture and their culture is, in today's world, we think that white is good, black is bad. Right? And we can't imagine that black is good, white is bad. Right? But in their culture, that's exactly what they believe. Okay? Black did not mean death or the underworld. It was the color of fertility. The color of damp caves and rich soil, of the womb of the goddess where life begins.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0032
+
+## seg-0033 / 00:36:05-00:37:05 / SPEAKER_00
+
+White on the other hand, was the color of death, of bones. Okay? Does that make sense? So, back then, for most of human history, we thought that white was bad because it symbolized death, and black was good because it symbolized life. And we can't possibly imagine that today. Right? Okay? The last thing I want to talk about, and this is actually the most controversial thing, is back then, for most of human history, woman had power and agency. Okay? What I mean by that is, back then, a woman's body was her body. She could choose to do whatever she wants with her body. Does that make sense? In today's world, a woman can choose to do whatever she wants If you get married, right? If a woman gets married, then we assume the woman's body belongs to the husband. Only the husband can sleep with her.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0033
+
+## seg-0034 / 00:37:06-00:38:39 / SPEAKER_00
+
+Okay? Does that make sense? But for most of human history, this was not true. Okay? All right. So, you look at sexual taboos today. Okay? Why do we have sexual taboos? To shame woman into proper behavior. Okay? So, for example, okay, if a man sleeps with a thousand women, we think, great. He's a stud. He's good looking. He's rich. He's tall. He's a stud. Right? But, hey, if a woman sleeps with a thousand men, she's a slut. She's a bad person. She has no ethical, uh, she lacks ethics. She lacks morality. She's a, she has no character. Therefore, we must avoid her. Okay? Why does this make any logical sense? Why is this true? Guys, why is this true? Okay? Yeah? Exactly. We, we have this, okay? We have this prejudice because men are considered superior to women and, therefore, men want to control women. And the best way to do that is by controlling the woman's body.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0034
+
+## seg-0035 / 00:38:39-00:40:07 / SPEAKER_00
+
+Okay? Does that make sense? Okay? So this is just a cultural prejudice. There's no biological evidence this is true. Okay? All right. So, um, we have a lot of evidence that, um, women want sexual agency. Okay? Women want to have sex. There's something wrong with that. Okay? So, for example, we look at monkeys, Reese's monkeys. And females will aggressively seek males out for sex. Okay? So it's the females that are proactive. You also look at Bonobo's monkeys. Okay? And Bonobo's monkeys, it's interesting because the females are in charge. The females have sex with each other. Why? Why do they have sex with each other? Why will females have sex with each other? What's the purpose of that? Unity, right? Does it make sense? Unity. To get along. To cooperate better. Okay? And then they will also have sex with males. But they initiate the sex. Okay? There are some cultures where it's the female that will initiate the sex with the male.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0035
+
+## seg-0036 / 00:40:07-00:41:41 / SPEAKER_00
+
+Okay? All right? So, at Harvard and UCLA, they discovered, okay, the moment they discovered the plow, agriculture, these societies have lower levels of female participation in politics in the labor force. Okay? Meaning, like, before, where men and women did the same work, both had the same political power. But once men showed that they could contribute more to society, men started to have more power. Okay? Does that make sense? So, in other words, differences between men and women are not biological constructs. Okay? They are cultural constructs. And for most of human history, they were equal. Okay? Any questions so far? Okay. So, the idea of black and white, it's a, like, white is good, black is bad. It's a recent construct. Okay? It comes from the idea of race. Okay? And race was invented about 20 years ago. Why? Because Europe was going around conquering the world.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0036
+
+## seg-0037 / 00:41:41-00:42:56 / SPEAKER_00
+
+And they needed to justify why they were doing this. And the theory is because we're superior people. Our race is better than your race. Okay? Does that make sense? So, race is a recent cultural construct. And, um, it was to justify imperialism, the conquest of other people for no reason. Okay? Does that make sense? Okay? So, all this is recent. Okay? All right. There's a really fun book called Sex at Dawn by Christopher Ryan. Okay? And what he argues is that for most of human history, women had sexual agency and they had multiple sexual partners. And one piece of evidence is this. Gorillas, right? They're the biggest primates. They're huge, right? Well, it turns out their penises, when fully erect, is only four centimeters. Okay? Men, who are a lot smaller than um, gorillas, when erect, they are at least almost four times as big as the gorilla penises. Okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0037
+
+## seg-0038 / 00:42:56-00:44:37 / SPEAKER_00
+
+So, the question then is, why is this the case? And, one theory is that when women have multiple sexual partners, the men with the bigger penis will spread his gene forward. Does that make sense, guys? Okay? And so this is a, this is evidence that for most of human history, women have had multiple sexual partners. Okay? That, okay. So, even when women had partners, okay, a husband, they still had sexual partners. Okay? And in some societies, women have many husbands, usually brothers together. Okay? All right. Let me ask you this question. Why do they do this? All right? Because we've been taught this. We've been taught, okay, we exist to spread our genes. Right? You understand? So, if I marry someone, only if I'm sure that the offspring, the children, are mine, will I work hard to ensure that the children are fed and raised properly and educated? Okay? Does that make sense? So, we've been taught for a long time that we first care about our genes.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0038
+
+## seg-0039 / 00:44:37-00:45:54 / SPEAKER_00
+
+Okay? That's why men want to have as many wives and children as possible, and women want to find the wealthiest husband. But, before most of human history, this was not true. Why? Why, guys? Okay. So, it has to do with the idea of religion. Okay? So, the first thing is that we all come from the mother goddess. We're all equal, right? So, it doesn't matter if my, if, it doesn't matter if it's my son or my friend's son. They're all the children of the mother goddess, and therefore, I have responsibility to protect the children. Okay? Does that make sense? So, there was no concept of individual. There was only a concept of community. Okay? That's the first thing. Second thing is they really didn't understand genes. Okay? They didn't, they didn't understand like, okay, a child has 50 % genes from the mother, 50 % genes from the father.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0039
+
+## seg-0040 / 00:45:55-00:47:21 / SPEAKER_00
+
+Okay? How they understood was, okay, you have the woman, she gives life. The, the man gives energy. Okay? Does that make sense? Therefore, what? If you believe this, then, what? If the mother gives life, the man gives energy, what? What? Right? But how would you get better energy? More men, right? You understand? If men are giving you energy, the more men you have sex with, the more energy you have. Does that make sense? So, the evidence is if you look at people in Melanesia, okay, they believe that semen provided energy. And so, you need, you need a lot of semen. Okay? So, what would happen is that when a woman married a husband, what would happen is the members of the husband's family would come and have sex with her that very night in order to get as much energy as possible from the family. Does that make sense, guys? Okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0040
+
+## seg-0041 / 00:47:21-00:48:47 / SPEAKER_00
+
+Any questions so far? I know this is controversial, but I'm just trying to show you how our cultural beliefs is radically different from the cultural beliefs of people in the past. Okay? Does it make sense? Okay. So, one last piece of evidence is this. When you don't know who your, who's, when the, when the people don't know who the father is, everyone has a responsibility to protect the child. Okay? Does that make sense to you guys? Okay? So, the story is this Christian missionary, he goes into a village and he finds people just sleeping with each other. Okay? There's no marriage, there's no husband and wife. People are just sleeping with each other. And the priest says to them, you people are shameless. And one of the villagers replies, you have no sense. You French people love only your own children but we all love all the children of our tribe. Okay? You understand? So having multiple sexual partners is a way to build community for everyone.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0041
+
+## seg-0042 / 00:48:48-00:49:59 / SPEAKER_00
+
+If you're a small community, okay, maybe 15, 20 people, it makes sense to make sure that everyone loves each other and everyone will protect all the children. Does it make sense guys? All right. So, let me tell you to illustrate this fact. We know that in World War II, okay, in World War II, American pilots, okay, what they were doing for, what they were doing is they were sleeping with each other's wife. Okay? Does that make sense? The reason why they were doing this is American pilots were more likely to die in war than any other soldiers. Does it make sense guys? Therefore, you slept with the wife of your colleagues in order to ensure that if you died, they would protect your children because there's a good chance you would die in war. Okay? You were afraid that if I died, who's going to look after my wife and who's going to look after my children?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0042
+
+## seg-0043 / 00:49:59-00:51:52 / SPEAKER_00
+
+And the way you build intimacy and community is by sleeping with each other's wife. So you became one big family. Okay? Does it make sense guys? Any questions so far? I know this is controversial. I know this is hard to understand. Okay? But, we have evidence that for, for, for most of human history, woman had sexual agency and power and sex was a way to build community. Okay? Does it make sense? Yeah? Okay. That's a great question. Okay? So the question is, is this backwards or is it primitive? Okay. And, what I want to show you this semester is that, okay, guys, there's no such concept as backward and primitive. Okay? The reason why we care about sex more than any other people is the idea of private property. Okay? Private property. Okay? So, for example, if I have a wife, and, I do have a wife.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0043
+
+## seg-0044 / 00:51:52-00:53:08 / SPEAKER_00
+
+Okay? We have three kids. Okay? I want my three kids to inherit the money. Right? But, if my wife goes to sleep with other people, then who gets the private property? So, in other words, we have the idea of sex as shameful because we live in a patriarchy. Okay? Does that make sense? All right. Okay. Sorry. Let me explain some more later on. Okay? All right. Let's move on. All right. So, I want to conclude with this idea. I want to conclude Maria Gumbutas argued that old Europe was ruled by women or women were part of the political class and because of that, Europe at that time was more peaceful than at any other time in its history. Does that make sense? So, another question then is why would women as a political class be more effective than men as a political class? Okay? And there are three reasons. All right?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0044
+
+## seg-0045 / 00:53:08-00:54:23 / SPEAKER_00
+
+The first reason is women are more willing to cooperate and collaborate. Does that make sense? So, men are competitive. We like status. We like power. But women are much more humble. So, women are much more likely to compromise and cop and collaborate than men are. Okay? Does that make sense guys? Okay? So, if you if men are in control then men want all the power. But if women are in control then women are much more willing to share power with men. Does that make sense? The other thing is let's just say like your community gets in conflict with another community. Well, what would happen is the women leaders of your community would get together with the women leaders of that community and you could quickly negotiate a compromise. Right? But men are competitive. They like status. They like face. So, it's much more likely that when men start to negotiate it becomes violent. Does that make sense?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0045
+
+## seg-0046 / 00:54:23-00:55:41 / SPEAKER_00
+
+Okay? So, that's one thing that women are better at. Women are better at collaborating and compromising. That's the first thing. Second thing is that women have more emotional intelligence. Does that make sense guys? Meaning like men care about rules. Right? Women care more about you as a person. Therefore, women are much better at managing people. Does that make sense? Okay? The third thing is that men can use violence to coerce other people. Right? Women are not as physically strong as men. Therefore, they have other strategies for controlling men. And the two main strategies are gossip. Okay? Basically, talking about you behind your back which forces you to conform. But also, sex. Okay? So, if the woman spreads sex evenly among the men, the men have no reason to fight. And if someone, the man, does something bad against the community, the woman can choose to not have sex with this man. Okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0046
+
+## seg-0047 / 00:55:41-00:57:32 / SPEAKER_00
+
+As a way to punish him. But this is all very subtle and non -violent ways of forcing people to conform to the rules of the society. Okay? Okay? Does that make sense? Any questions? This is confusing to you guys. Right? Okay? So, let's conclude. Okay? Before the conquest of the Yanaya, all Europe was a peaceful egalitarian society. Okay? And a lot of the reason why is that women were given higher status in society. So, it was women who made the rules who were the political class in society. And because of that, women are able to use non -violent ways to control society. Making society much more peaceful and stable. Okay? Does that make sense, guys? Any questions? Excuse me? Okay. Okay. So, the question then, the question is, if people are not violent, how do you control society? Okay? And so, the way you control people is by, is through the idea of shame. Okay?
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0047
+
+## seg-0048 / 00:57:33-00:59:00 / SPEAKER_00
+
+Because everyone wants to get along. Okay? All right. So, all right. Here's a fun experiment. Okay? Here's a fun experiment. What you guys can do is every time you walk the hallways and you see a person wearing red, like a girl wearing red, you tell her, you look fantastic. Okay? I guarantee within like two weeks, all the girls in the school will be wearing red. Does that make sense? So, you're controlling people, but you're not using violence. You're using the idea of gossip, shame, and flattery. And that's what women do really well. Do you understand? Okay. Does that, does that answer your question? Okay. Okay. So, any more questions? Yeah. So, you don't have to use violence. You can also use flattery. Okay? Right? Any more questions? Okay. So, next class, what we'll do is we'll look at the Yemnaya people. Okay? Because the Yemnaya people are violent, they love war, they're patriarchy, and they have private property.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0048
+
+## seg-0049 / 00:59:01-00:59:15 / SPEAKER_00
+
+The question then is, okay, how do they come about? Okay? What's their origin story? And why were they so successful in conquering old Europe? Okay? So, that's the story we will look at next class.
+
+Ref: video:predictive-history-rat-zudjhrm@transcript:v1#seg-0049

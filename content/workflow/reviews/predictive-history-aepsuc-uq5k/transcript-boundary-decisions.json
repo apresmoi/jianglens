@@ -1,0 +1,135 @@
+{
+  "source_slug": "predictive-history-aepsuc-uq5k",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Completes the phrase 'Ukraine is desperately short of manpower, okay?' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:f9cf97dfa142",
+      "decision": "approve",
+      "reason": "Moves 'GDP.' after the stranded starter 'The' so the next segment does not begin mid-phrase."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:15332861d9fb",
+      "decision": "approve",
+      "reason": "Completes the split phrase 'a lot of men dying because of alcoholism.'"
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:38e233a8bfbd",
+      "decision": "approve",
+      "reason": "Joins 'And because' with its continuation about Russians abandoning their soul and civilization."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:e7242c7ae08c",
+      "decision": "approve",
+      "reason": "Completes the clause 'And to make his argument, he uses the philosopher Frederick Hegel.'"
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:4f42e3b8827b",
+      "decision": "approve",
+      "reason": "Completes the question 'How do you optimize workforce participation?'"
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:61948a1c156d",
+      "decision": "approve",
+      "reason": "Moves the completion of the stranded starter 'And' into the prior segment."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:5f02702ea315",
+      "decision": "approve",
+      "reason": "Restores the split phrase 'You can have.' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:a03d05e03f26",
+      "decision": "approve",
+      "reason": "Completes the question 'why are you in school?'"
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-leading-completion-to-previous:b9bb94d29697",
+      "decision": "approve",
+      "reason": "Joins 'You will fight the monkeys,' with the immediate follow-up question."
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:df05ac247f3c",
+      "decision": "approve",
+      "reason": "Completes the sentence beginning 'Not only do you celebrate her life...'"
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:a28fa5463485",
+      "decision": "approve",
+      "reason": "Moves the continuation after 'So,' into the prior segment."
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:4e7107713571",
+      "decision": "approve",
+      "reason": "Completes the clause 'a mechanism for society to rejuvenate itself.'"
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:efee7d8aba51",
+      "decision": "approve",
+      "reason": "Completes the phrase 'Putinism is a direct response to liberal democracy.'"
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:05847e8775e7",
+      "decision": "approve",
+      "reason": "Completes the synthesis clause about explaining away or ignoring contradictions."
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-leading-completion-to-previous:8829ad2c8a68",
+      "decision": "approve",
+      "reason": "Completes the example 'the United States and Russia fight a ground war in Europe.'"
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-trailing-starter-to-next:a9eae813e3e1",
+      "decision": "approve",
+      "reason": "Moves 'Does that' to the next segment so the question 'Does that make sense?' stays intact."
+    },
+    {
+      "candidate_id": "seg-0044->seg-0045:move-leading-completion-to-previous:83fabf744cca",
+      "decision": "approve",
+      "reason": "Completes the sentence about finishing the war in Ukraine and needing more territory."
+    },
+    {
+      "candidate_id": "seg-0045->seg-0046:move-leading-completion-to-previous:6b9781eeb350",
+      "decision": "approve",
+      "reason": "Completes the phrase 'Japan is also a warrior culture that enjoys fighting wars.'"
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:6db29e918034",
+      "decision": "approve",
+      "reason": "Joins 'And then' with the continuation about transitioning into a war culture."
+    },
+    {
+      "candidate_id": "seg-0047->seg-0048:move-leading-completion-to-previous:2b945971d43e",
+      "decision": "approve",
+      "reason": "Completes the phrase about retreating back to its borders."
+    },
+    {
+      "candidate_id": "seg-0048->seg-0049:move-leading-completion-to-previous:82db5441657f",
+      "decision": "approve",
+      "reason": "Completes the quoted consumer line 'I'm going to stop buying things.'"
+    },
+    {
+      "candidate_id": "seg-0050->seg-0051:move-leading-completion-to-previous:2936b5fe7d07",
+      "decision": "approve",
+      "reason": "Completes the comparison 'when you have a great leader like Putin...'"
+    },
+    {
+      "candidate_id": "seg-0051->seg-0052:move-leading-completion-to-previous:16fd1e3aaf99",
+      "decision": "approve",
+      "reason": "Completes the quoted line 'Let's go conquer the world.'"
+    },
+    {
+      "candidate_id": "seg-0053->seg-0054:move-leading-completion-to-previous:da83bf6274bf",
+      "decision": "approve",
+      "reason": "Completes the clause 'What happens is that in war, people become much more unified.'"
+    },
+    {
+      "candidate_id": "seg-0054->seg-0055:move-leading-completion-to-previous:30faab814d79",
+      "decision": "approve",
+      "reason": "Completes the contrast 'China is not a warrior culture.'"
+    }
+  ]
+}

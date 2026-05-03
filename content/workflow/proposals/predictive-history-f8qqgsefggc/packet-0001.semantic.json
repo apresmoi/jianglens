@@ -1,0 +1,259 @@
+{
+  "packet_id": "predictive-history-f8qqgsefggc-semantics-pkt-0001",
+  "source_id": "video:predictive-history-f8qqgsefggc",
+  "source_date": "2024-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0001",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around three questions: whether Caesar wanted kingship or republican rescue, why he could take on the Roman Empire and win, and why friends and pardoned allies killed him. He gives the central answer: Caesar succeeded because he was a myth maker who constructed a new reality through words, writing, speeches, and actions.",
+      "speaker_attribution": "Jiang classroom lecture; the questions are Jiang's lecture-frame prompts, not audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains myth making through Steve Jobs, movies, and Donald Trump: each changes perception by making people participate in a constructed reality or narrative.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the lecture's causal argument: Caesar's new myth of Rome created cognitive dissonance because it surpassed the old myth, so the old guard killed him.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves into the Hannibal background: Rome's myth of piety, liberty, and republica made rich and poor sacrifice together, but after victory the rich captured most rewards and common land.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang presents Caesar as a historical problem organized by three questions: his motivation, his exceptional success, and why intimates who received mercy still assassinated him.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0001",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture framing on 2024-11-12.",
+      "topic_tags": [
+        "julius-caesar",
+        "roman-republic",
+        "assassination"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The central model is that Caesar succeeded because he was a myth maker: a man of destiny who changes history by constructing a new reality that absorbs and alters the old one.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive model advanced in this lecture.",
+      "topic_tags": [
+        "myth-making",
+        "reality-construction",
+        "destiny",
+        "caesar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Steve Jobs, movies, and Donald Trump as examples of narrative or image systems that make people participate in a constructed reality.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Examples used in the 2024-11-12 lecture.",
+      "topic_tags": [
+        "steve-jobs",
+        "movies",
+        "donald-trump",
+        "myth-making"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Myth making is dangerous because a new myth disrupts old myths people rely on, producing cognitive dissonance and political anxiety.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Causal model advanced in this lecture.",
+      "topic_tags": [
+        "cognitive-dissonance",
+        "myth-making",
+        "political-change",
+        "identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Caesar was killed because his new myth of Rome surpassed the old myth of Rome and made the old guard uncomfortable.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interpretive explanation in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "assassination",
+        "old-guard",
+        "rome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome survived Hannibal because its mythology of piety, liberty, and republica made Romans feel obligated to make the ultimate sacrifice for the city.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical interpretation of Roman memory in this lecture.",
+      "topic_tags": [
+        "hannibal",
+        "piety",
+        "liberty",
+        "republica",
+        "sacrifice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The post-Hannibal settlement broke the sacrificial mythology because the rich, controlling the republican government, took most of the conquered common land while the poor received little.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "common-land",
+        "inequality",
+        "roman-republic",
+        "second-punic-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "moment": "The myth maker sees himself as the protagonist in a novel he is writing.",
+      "source_phrase": "the protagonist, in a novel that they are writing",
+      "why_it_matters": "This gives Jiang's Caesar model its psychological core: power begins as authorship over reality.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004"
+      ],
+      "moment": "Movies become reality creation machines that lodge in the mind and alter perception.",
+      "source_phrase": "Movies are reality creation machines",
+      "why_it_matters": "The phrase explains myth making as a technology of perception, not merely propaganda.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "moment": "Caesar dies because a new myth of Rome overtakes the old myth of Rome.",
+      "source_phrase": "his new myth of Rome was surpassing the old myth of Rome",
+      "why_it_matters": "This is the lecture's central reversal: successful reform becomes intolerable because it changes identity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "moment": "Rome remembers the Hannibal crisis as its finest hour, when existence itself was threatened and everyone sacrificed.",
+      "source_phrase": "their very existence was threatened by Hannibal",
+      "why_it_matters": "This old heroic memory becomes the myth Caesar later tries to revive and replace.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "myth maker",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "A person who sees himself as destined to change the world and constructs a new reality that absorbs and alters the old one.",
+      "confidence": "high"
+    },
+    {
+      "term": "cognitive dissonance",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The discomfort produced when a new myth disrupts the old myth people use to understand the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "piety, liberty, and republica",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The three principles Jiang says formed Rome's Hannibal-era mythology of sacrifice.",
+      "confidence": "high"
+    },
+    {
+      "term": "common land",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Newly conquered territory that could have been distributed broadly, especially to the poor, but was captured by the rich in Jiang's account.",
+      "confidence": "high"
+    },
+    {
+      "term": "scorched earth policy",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The strategy of making land unfarmable so Hannibal's army could not feed itself.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003"
+      ],
+      "note": "The transcript says Steve Jobs was a famous writer, but context indicates Jiang is using Jobs as an entrepreneur and myth maker; no semantic claim relies on the 'writer' wording."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript phrase 'how the ultimate defeated Hannibal' appears to be ASR noise; the semantic claim preserves the intended point that scorched-earth sacrifice helped Rome defeat Hannibal."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "packet_id": "predictive-history-jiefc4yww4o-semantics-pkt-0002",
+  "source_id": "video:predictive-history-jiefc4yww4o",
+  "source_date": "2024-05-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0009",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why shock and awe appeared technically powerful: cluster bombs, GPS-guided submunitions, and small special-forces teams could direct airstrikes against Iraqi targets.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0011",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0012",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that 2003 Iraq was not a general revolution in warfare but a one-off: Saddam lacked air defenses, Iraq's desert terrain favored the doctrine, and surprise misdirected Iraqi forces.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He says Americans misread the unique success as confirmation of the doctrine and then expanded special forces and black-ops budgets after 2003.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0015",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the structural problem of special forces: they are useful because they can act quickly outside ordinary hierarchy, but that independence makes them difficult for the military and government to control.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0009",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous lecture exposition by Jiang; no separate speaker is evident in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says shock and awe's apparent effectiveness depended on technologies like air supremacy, cluster bombs with GPS-guided submunitions, and special forces directing air power.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0009",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Assessment of the 2003 Iraq invasion in lecture published 2024-05-22",
+      "topic_tags": [
+        "shock-and-awe",
+        "air-power",
+        "cluster-bombs",
+        "special-forces"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Iraq 2003 should be read as a unique incident rather than proof of a general revolution in military doctrine.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0012",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Assessment of the 2003 Iraq invasion in lecture published 2024-05-22",
+      "topic_tags": [
+        "iraq-2003",
+        "military-doctrine",
+        "one-off-success"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He gives three reasons Iraq was unusually vulnerable: Saddam lacked air defenses, desert terrain favored air power and surveillance, and surprise made Iraqi commanders misread the main U.S. attack.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0011",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0012",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Assessment of 2003 Iraq conditions in lecture published 2024-05-22",
+      "topic_tags": [
+        "iraq-2003",
+        "saddam-hussein",
+        "air-defense",
+        "desert-war"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America expanded special forces after 2003 even though such forces are partly outside ordinary military supervision and therefore create control problems.",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0014",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0015",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Post-2003 U.S. military trend as described in lecture published 2024-05-22",
+      "topic_tags": [
+        "special-forces",
+        "black-ops",
+        "military-hierarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0009"
+      ],
+      "moment": "A single cluster bomb becomes a swarm of forty GPS-guided tank hunters.",
+      "source_phrase": "each of these bombs can go and find a tank",
+      "why_it_matters": "It captures the seduction of precision war: the weapon seems cheap, intelligent, and decisive enough to replace mass.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0013"
+      ],
+      "moment": "The miracle of 2003 is demoted from a revolution in war to a one-time accident of terrain, surprise, and Iraqi weakness.",
+      "source_phrase": "not a revolution in warfare, but just a unique incident",
+      "why_it_matters": "This reversal is central to the lecture: America mistook a special case for a universal doctrine.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0015",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0016"
+      ],
+      "moment": "Special forces are necessary because hierarchy is slow, but dangerous because they live outside the control hierarchy is supposed to preserve.",
+      "source_phrase": "you don't want that many special forces because... they're outside the control of your military",
+      "why_it_matters": "The same feature that makes special forces effective becomes the seed of imperial and institutional instability.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "One-off war",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0010",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's treatment of 2003 Iraq as a unique event whose conditions should not be generalized into doctrine.",
+      "confidence": "high"
+    },
+    {
+      "term": "Black ops",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Special-forces activity that Jiang says can operate outside normal military supervision, making public budgets incomplete.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Special forces",
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0015",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Soldiers outside immediate control who can respond quickly to crises but also weaken hierarchical control.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0014"
+      ],
+      "note": "The special-forces budget and personnel comparisons are presented as 'before 2001' versus 'today' in a 2024-05-22 lecture; preserve that date when reusing the claim.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0013",
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0014"
+      ],
+      "note": "Transcript contains damaged ASR around 'silicon all' and 'expression this was Unfortunately'; semantic extraction treats the intended doctrine as shock and awe but avoids relying on the damaged phrase."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jiefc4yww4o@transcript:v1#seg-0011"
+      ],
+      "note": "The transcript says 'so someone was saying' and 'over froze'; context indicates Jiang is describing Saddam Hussein's lessons from 1991."
+    }
+  ]
+}

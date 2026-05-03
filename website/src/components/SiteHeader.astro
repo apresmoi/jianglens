@@ -1,0 +1,125 @@
+---
+const {
+  base = '/',
+  current = '',
+  maxWidth = '1360px',
+  gutter = '36px',
+  mobileGutter = '28px',
+  sticky = true,
+} = Astro.props;
+
+const normalizedBase = String(base).endsWith('/') ? String(base) : `${base}/`;
+const href = (path) => `${normalizedBase}${path}`.replace(/\/{2,}/g, '/');
+const links = [
+  { key: 'about', label: 'About', href: href('introduction/') },
+  { key: 'lens', label: 'Lens', href: href('lens/') },
+  { key: 'episodes', label: 'Episodes', href: href('episodes/') },
+];
+---
+
+<header
+  class:list={['site-header', { sticky }]}
+  style={`--header-max-width: ${maxWidth}; --header-gutter: ${gutter}; --header-mobile-gutter: ${mobileGutter};`}
+>
+  <nav class="site-nav" aria-label="Primary navigation">
+    <a class="brand" href={normalizedBase} aria-label="Jiang Lens home">
+      <span class="brand-mark" aria-hidden="true">江</span>
+      <span>Jiang Lens</span>
+    </a>
+    <div class="nav-links">
+      {links.map((link) => (
+        <a href={link.href} aria-current={current === link.key ? 'page' : undefined}>{link.label}</a>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<style>
+  .site-header {
+    z-index: 30;
+    border-bottom: 1px solid var(--line, rgba(244, 234, 216, 0.14));
+    background: rgba(9, 10, 8, 0.9);
+    backdrop-filter: blur(16px);
+  }
+
+  .site-header.sticky {
+    position: sticky;
+    top: 0;
+  }
+
+  .site-nav {
+    width: min(var(--header-max-width, 1360px), calc(100% - var(--header-gutter, 36px)));
+    min-height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    margin: 0 auto;
+  }
+
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    color: var(--ink, #f4ead8);
+    font-weight: 760;
+    text-decoration: none;
+  }
+
+  .brand-mark {
+    width: 34px;
+    height: 34px;
+    display: grid;
+    flex: 0 0 auto;
+    place-items: center;
+    border: 1px solid var(--line-strong, rgba(244, 234, 216, 0.28));
+    border-radius: 50%;
+    background: rgba(244, 234, 216, 0.04);
+    color: var(--gold, #c9a765);
+    font-family: Georgia, "Times New Roman", serif;
+  }
+
+  .nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 4px;
+  }
+
+  .nav-links a {
+    border-radius: 5px;
+    color: var(--soft, #d7ccbb);
+    font-size: 0.88rem;
+    font-weight: 690;
+    padding: 8px 10px;
+    text-decoration: none;
+  }
+
+  .nav-links a:hover,
+  .nav-links a:focus-visible,
+  .nav-links a[aria-current="page"] {
+    background: rgba(244, 234, 216, 0.07);
+    color: var(--ink, #f4ead8);
+    outline: none;
+  }
+
+  @media (max-width: 720px) {
+    .site-nav {
+      width: min(calc(100% - var(--header-mobile-gutter, 28px)), var(--header-max-width, 1360px));
+      min-height: auto;
+      align-items: flex-start;
+      flex-direction: column;
+      padding: 14px 0;
+    }
+
+    .nav-links {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      width: 100%;
+    }
+
+    .nav-links a {
+      text-align: center;
+    }
+  }
+</style>

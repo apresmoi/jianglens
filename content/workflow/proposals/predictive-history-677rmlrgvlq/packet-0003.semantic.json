@@ -1,0 +1,301 @@
+{
+  "packet_id": "predictive-history-677rmlrgvlq-semantics-pkt-0003",
+  "source_id": "video:predictive-history-677rmlrgvlq",
+  "source_date": "2024-10-10",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns from the alphabet to Homer by describing the normal court-poet function: poets legitimize kings, create common cultural identity, and define a people by contrast with outsiders.",
+      "speaker_attribution": "Jiang lecture monologue with brief classroom prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0021",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Because Homer had no king, he had to persuade ordinary poor Greeks to pay him; Jiang says Homer succeeded by entertaining, educating speech, and edifying listeners by altering how they saw, felt, and imagined the world.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0023",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He begins the Trojan War story with Nemesis, the golden apple, the three goddesses, Paris's judgment, Aphrodite's bribe, Helen's abduction, and the Greek attack on Troy.",
+      "speaker_attribution": "Jiang recounting mythic narrative.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "note": "The focus refs are one-speaker lecture. Jiang asks rhetorical and classroom questions such as 'why are you king?' and appears to affirm an expected answer, but no student question is captured as independent audio.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says kings hire poets to solve the problem of legitimate authority: power won by killing must be cleaned up and made divine.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "General model of ancient political poetry.",
+      "topic_tags": [
+        "poets",
+        "kingship",
+        "legitimacy",
+        "violence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In this model, the poet functions as a vessel for divine messages, and a beautiful divine song can make the king himself appear divine.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Model of poetic legitimation in the lecture.",
+      "topic_tags": [
+        "poet",
+        "divine-inspiration",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The second function of literary works is cultural identity: common stories tell a people what it means to be Chinese, Roman, biblical, or otherwise unified.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "General model of literature and political identity.",
+      "topic_tags": [
+        "cultural-identity",
+        "literature",
+        "political-unity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The third function is cultural differentiation: to know who one is, a group must also know who it is not.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "cultural-differentiation",
+        "identity",
+        "otherness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Most literary works in Jiang's frame are sponsored by powers that exist to solve legitimacy, identity, and differentiation problems.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "General model of literature and power.",
+      "topic_tags": [
+        "literature",
+        "power",
+        "patronage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Homer is exceptional because there was no king to pay him; he had to appeal directly to ordinary poor people.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical interpretation of Homer in the lecture.",
+      "topic_tags": [
+        "homer",
+        "ordinary-people",
+        "patronage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ordinary Greeks paid poets for entertainment, for education in public speech, and for edification.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0021",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Model of Homeric social function.",
+      "topic_tags": [
+        "entertainment",
+        "education",
+        "edification",
+        "speech"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Edification means becoming a better or higher self by having the way one sees, feels, and imagines the world changed.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Definition in the lecture.",
+      "topic_tags": [
+        "edification",
+        "perception",
+        "imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang recounts the Trojan War as beginning with Nemesis's golden apple, Paris's choice of Aphrodite's bribe, and the abduction of Helen from Sparta to Troy.",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0023",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Mythic narrative as presented in the lecture.",
+      "topic_tags": [
+        "trojan-war",
+        "golden-apple",
+        "paris",
+        "helen"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "moment": "The violent king needs poetry to clean up his image.",
+      "source_phrase": "when they become king, they need to clean up their image",
+      "why_it_matters": "It makes literature part of political laundering, not just culture or beauty.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "moment": "The poet becomes a vessel for divine legitimacy.",
+      "source_phrase": "The poet is a vessel. A vessel for divine messages",
+      "why_it_matters": "It gives Jiang's theory of poetry and authority its sharp religious mechanism.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "moment": "Homer's edification changes how listeners see, feel, and imagine the world.",
+      "source_phrase": "by changing the way that you saw the world around you. The way you felt about the world, the way you imagined the world",
+      "why_it_matters": "This is the bridge from poetry as performance to poetry as a machine for remaking perception.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0023",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "moment": "A golden apple creates a chain of divine rivalry, desire, abduction, and war.",
+      "source_phrase": "Nemesis likes to create problems... she creates this apple. It's a golden apple",
+      "why_it_matters": "The image preserves the mythic texture that later lets Jiang contrast ordinary victory stories with Homer's deeper invention.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "legitimate authority",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0017",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The problem of explaining why a king should rule after gaining power through violence.",
+      "confidence": "high"
+    },
+    {
+      "term": "cultural identity",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "A shared story that tells a people what it means to belong together.",
+      "confidence": "high"
+    },
+    {
+      "term": "cultural differentiation",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Knowing who one is by knowing who one is not.",
+      "confidence": "high"
+    },
+    {
+      "term": "edification",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Becoming a better or higher self because poetry changes how one sees, feels, and imagines the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trojan War",
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0022",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The popular mythic story of Paris, Helen, and the Greek attack on Troy that Homer transforms in the Iliad.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "note": "Jiang dates Homer uncertainly, saying he may have lived around 800 to 600 BCE.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0019",
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0020"
+      ],
+      "note": "The transcript likely garbles titles such as Romance of the Three Kingdoms and Aeneid; treat them as lecture examples of politically useful literary works."
+    },
+    {
+      "refs": [
+        "video:predictive-history-677rmlrgvlq@transcript:v1#seg-0018"
+      ],
+      "note": "The 'Exactly. God chose me' line suggests an expected classroom response, but no independent student wording is captured."
+    }
+  ]
+}

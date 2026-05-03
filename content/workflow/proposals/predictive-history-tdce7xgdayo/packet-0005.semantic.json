@@ -1,0 +1,193 @@
+{
+  "packet_id": "predictive-history-tdce7xgdayo-semantics-pkt-0005",
+  "source_id": "video:predictive-history-tdce7xgdayo",
+  "source_date": "2024-11-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0034",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang narrates Tarquin's tyranny, Lucretia's suicide, and Lucius Brutus founding the republic by dividing kingly power into institutions so Romans obey the republic rather than a person.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0038",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He turns Brutus into the exemplary Roman: he executes his own sons for conspiring against the republic, then dies fighting Tarquin's family, becoming the greatest Roman model until Caesar.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0040"
+      ],
+      "note": "Continuous Jiang narration with dramatized historical speech; no live audience question appears in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Tarquin the Proud is presented as tyranny embodied: an arrogant king who kills noble challengers and whose son abuses royal power.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Roman legend as interpreted in the lecture",
+      "topic_tags": ["tarquin", "tyranny", "roman-republic"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Lucretia's rape and suicide are narrated as the event that makes Brutus and the nobility honor-bound to overthrow the king.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Roman legend as interpreted in the lecture",
+      "topic_tags": ["lucretia", "brutus", "republic-founding"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines republicanism as the separation of kingly powers into elected institutions rather than individuals.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Institutional definition inside the lecture",
+      "topic_tags": ["republicanism", "institutions", "rome"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The republic is defined as laws, history or traditions, and institutions; Romans no longer obey the king but the republic.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Definition of Roman republic inside the lecture",
+      "topic_tags": ["republic", "law", "tradition", "institutions"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Brutus' execution of his two sons is used to define Roman devotion as putting the republic above family and personal grief.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0038",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Interpretation of Roman founding legend inside the lecture",
+      "topic_tags": ["brutus", "devotion", "family-sacrifice", "republic"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Lucius Brutus' death fighting Tarquin's son completes his status as the greatest Roman model before Julius Caesar.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Roman memory as described in the lecture",
+      "topic_tags": ["brutus", "tarquin", "roman-memory"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "moment": "The republic replaces obedience to a man with obedience to an impersonal civic order.",
+      "source_phrase": "people didn't have to obey the king. They had to obey the republic",
+      "why_it_matters": "It connects liberty to submission to institutions rather than individual will.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0038"
+      ],
+      "moment": "Brutus' devotion appears in the prosaic horror of going to work to kill his children.",
+      "source_phrase": "Lucius Brutus showed up for work",
+      "why_it_matters": "The plain phrase makes civic duty colder and stranger than heroic rhetoric.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "moment": "Brutus cries, but his tears do not change the order.",
+      "source_phrase": "His tears are flowing down his face. He can't help himself. But he's still standing still.",
+      "why_it_matters": "The image preserves Jiang's distinction between feeling and devotion: grief is allowed, surrender is not.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "moment": "Devotion is defined as sacrificing children for Rome's survival and glory.",
+      "source_phrase": "willing to sacrifice your own children to ensure its survival and its glory",
+      "why_it_matters": "This is one of the lecture's sharpest examples of Roman identity as total demand.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Republicanism",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "The division of kingly powers into elected institutions rather than personal monarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Republic",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Defined by Jiang as Rome's laws, history or traditions, and institutions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Patricians and plebeians",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Patricians are old Roman families and plebeians ordinary people; Jiang emphasizes their early social proximity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman devotion",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Putting Rome's survival and glory above family, grief, and personal desire.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036"
+      ],
+      "note": "Transcript repeatedly says 'council' where Roman office context likely means consul; semantic claims avoid overcorrecting the transcript except where defining the institutional structure at a high level."
+    }
+  ]
+}

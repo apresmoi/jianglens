@@ -1,0 +1,34 @@
+id: "video:predictive-history-kssscznyrgo@transcript:v1"
+source_id: "video:predictive-history-kssscznyrgo"
+version: 1
+language: "en"
+language_probability: 0.996
+duration_seconds: 3272.876
+segments: 46
+word_count: 6781
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+chronology:
+  source_date: "2024-11-26"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  staging_dir: "ops/staging/drive/youtube/@PredictiveHistory/KSSSCznYrGo"
+  youtube_metadata: "ops/staging/drive/youtube/@PredictiveHistory/KSSSCznYrGo/metadata.youtube.json"
+  youtube_metadata_source: "uvx yt-dlp"
+  transcription_json_sha256: "b61e649d9da8309e7aa27881fbc72afd5c93aaccdc9484515e267bb4be4171b2"
+  grouped_json_sha256: "cc33247db104129e8455b5ac27454a9e4d0cabbe4683777fe61113830883d887"
+  dump_json_sha256: "bdacff5a1c6533016839e74532978c4bf1a62b075c7b96993888ae8dd46f6968"

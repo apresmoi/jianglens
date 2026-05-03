@@ -1,0 +1,352 @@
+{
+  "packet_id": "predictive-history-tsd-8fga84a-semantics-pkt-0001",
+  "source_id": "video:predictive-history-tsd-8fga84a",
+  "source_date": "2026-01-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the course by defining a great book as something that makes a reader fully human by revealing the secrets of the universe and the human condition, then rejects school-taught materialism because it cannot answer consciousness, thought, ideas, communication, or what it means to be human.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He builds a human model: the body is material, the soul connects to the divine, love unifies with God, and imagination expands consciousness until it can participate in God. He then uses Kant's noumena/phenomena distinction to describe perception as translation from things-in-themselves into things-for-us through time and space.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0005"
+      ],
+      "kind": "unclear",
+      "summary": "A short 'Okay?' is isolated as its own segment and does not carry independent argumentative content.",
+      "speaker_attribution": "Likely Jiang or an artifact of diarization around the lecture.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0006",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He gives the Kantian distinction a physiological and mystical frame: the right hemisphere contacts the noumenal/spiritual, the left hemisphere translates it into phenomena, and the noumenal is finally named as consciousness, energy, vibration, Monad, dyads, and a descending frequency structure that produces matter while keeping matter tied to spirit.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0008"
+      ],
+      "note": "The focus span is overwhelmingly one lecture voice; SPEAKER_02 should be treated as Jiang for semantic purposes.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0005"
+      ],
+      "note": "The isolated UNKNOWN segment is a minimal discourse marker and may be a diarization artifact.",
+      "suggested_speaker": "Jiang",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A great book makes a reader fully human by revealing the secrets of the universe and the secrets of what it means to be human.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Course-opening definition stated on 2026-01-07.",
+      "topic_tags": [
+        "great-books",
+        "humanity",
+        "education"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "School-taught materialism is a great lie because it treats the world as only what can be seen, observed, and measured while failing to answer consciousness, thought, ideas, communication, and human nature.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "General diagnosis stated on 2026-01-07.",
+      "topic_tags": [
+        "materialism",
+        "school",
+        "consciousness"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Human beings have both a material body and a soul that connects them to the spiritual or divine.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "General anthropological model stated on 2026-01-07.",
+      "topic_tags": [
+        "soul",
+        "body",
+        "divine"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A spark from God inside the person allows love and imagination; loving unifies with God, while imagination expands consciousness until one can be God itself.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "General metaphysical model stated on 2026-01-07.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Love is the unifying force of the universe, and imagination is the animating force of the universe.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "General definition stated on 2026-01-07.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "universe"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The universe is not material; it is conscious, or consciousness itself.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "General metaphysical claim stated on 2026-01-07.",
+      "topic_tags": [
+        "consciousness",
+        "universe",
+        "materialism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kant's distinction between noumena and phenomena is used to describe reality itself as things-in-themselves and perception as the translation of that reality into things as they appear to us.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretive model stated on 2026-01-07.",
+      "topic_tags": [
+        "kant",
+        "noumena",
+        "phenomena"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang maps the right hemisphere to contact with the noumenal/spiritual and the left hemisphere to translation into phenomenal perception.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Brain model stated on 2026-01-07.",
+      "topic_tags": [
+        "julian-jaynes",
+        "hemispheres",
+        "perception"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The noumenal is described metaphorically as consciousness, energy, vibration, information, Monad, God, and vibrational fields that generate dyads and the basic structure of the universe.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Metaphorical cosmology stated on 2026-01-07.",
+      "topic_tags": [
+        "noumena",
+        "monad",
+        "vibration",
+        "dyads"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Matter emerges when universal vibrations slow, but material reality remains interconnected with the spiritual; bodies arise through evolution while consciousness arises through the universe's vibrations.",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Cosmological model stated on 2026-01-07.",
+      "topic_tags": [
+        "matter",
+        "spirit",
+        "evolution",
+        "vibration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"
+      ],
+      "moment": "School's material picture is not just incomplete but 'the great lie, the great deception'.",
+      "source_phrase": "the great lie, the great deception",
+      "why_it_matters": "This frames the course as an initiation against official education rather than a neutral survey of books.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"
+      ],
+      "moment": "Love lets a person unify with God; imagination lets consciousness expand until it can be God itself.",
+      "source_phrase": "the act of imagination, to expand your consciousness, which allows you to be God itself",
+      "why_it_matters": "This gives the lecture its maximal claim for why imagination is not ornamental but divine participation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003"
+      ],
+      "moment": "The universe is not matter with consciousness added; it is consciousness itself.",
+      "source_phrase": "The universe is not material, it is conscious. It is consciousness itself",
+      "why_it_matters": "The whole later argument about attention, books, Christ consciousness, and freedom depends on this inversion.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007"
+      ],
+      "moment": "The Monad breathes the universe into vibrational fields.",
+      "source_phrase": "the Monad breathes in and breathes out",
+      "why_it_matters": "It preserves Jiang's cosmological image of creation as respiration and vibration, not mechanism.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0008"
+      ],
+      "moment": "The body comes through evolution, but consciousness comes through the vibrations of the universe.",
+      "source_phrase": "our bodies are created through evolution, but our consciousness is created through the vibrations of the universe",
+      "why_it_matters": "This is the compact bridge between ordinary biology and the lecture's spiritual cosmology.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "great book",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "A book that makes a reader fully human by revealing the universe and the human condition.",
+      "confidence": "high"
+    },
+    {
+      "term": "materialism",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "The school-taught belief that the world is only what can be seen, observed, and measured.",
+      "confidence": "high"
+    },
+    {
+      "term": "noumena",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's 'Nomana': things-in-themselves, objective reality, and later the spiritual/conscious reality behind appearances.",
+      "confidence": "medium"
+    },
+    {
+      "term": "phenomena",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Things as they appear to us after the noumenal is filtered through time, space, and perception.",
+      "confidence": "high"
+    },
+    {
+      "term": "Monad",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The One, the center of the universe or God, whose breathing/emanation creates vibrational fields.",
+      "confidence": "high"
+    },
+    {
+      "term": "dyads",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Entities created through Monad's emanating vibrations and treated as part of the basic structure of the universe.",
+      "confidence": "medium"
+    },
+    {
+      "term": "vibration",
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The energetic/informational motion of the universe through which consciousness and eventually matter are produced.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0008"
+      ],
+      "note": "This January 7, 2026 lecture states a Great Books course-opening cosmology: anti-materialist education critique, body/soul anthropology, Kantian perception, and vibration-based consciousness.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0006",
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0007"
+      ],
+      "note": "Transcript repeatedly renders 'noumena' as 'Nomana'; semantic extraction uses the likely philosophical term while preserving the source wording in summaries where useful."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0006"
+      ],
+      "note": "The transcript says 'Julian James', likely referring to Julian Jaynes, but this pass does not correct the source text."
+    }
+  ]
+}

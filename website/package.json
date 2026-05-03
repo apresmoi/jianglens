@@ -1,0 +1,21 @@
+{
+  "name": "@jiang-lens/website",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Compiled website for the Jiang Lens content graph.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node ../ops/scripts/compile-content.mjs && astro build && node scripts/generate-llms-txt.mjs",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
+    "@astrojs/starlight": "^0.38.2",
+    "astro": "^6.0.8"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.59.1"
+  }
+}

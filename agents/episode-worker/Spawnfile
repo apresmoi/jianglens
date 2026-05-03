@@ -1,0 +1,40 @@
+spawnfile_version: "0.1"
+kind: agent
+name: episode-worker
+description: "Processes one ready Jiang Lens video into a public episode and corpus impact proposal."
+
+runtime:
+  name: picoclaw
+  options:
+    restrict_to_workspace: true
+
+execution:
+  model:
+    auth:
+      method: codex
+    primary:
+      provider: openai
+      name: gpt-5.5
+  workspace:
+    isolation: shared
+  sandbox:
+    mode: workspace
+
+surfaces:
+  moltnet:
+    - network: local_lab
+      rooms:
+        episode-floor:
+          read: all
+          reply: auto
+
+docs:
+  identity: IDENTITY.md
+  soul: SOUL.md
+  system: AGENTS.md
+  memory: MEMORY.md
+  heartbeat: HEARTBEAT.md
+
+policy:
+  mode: warn
+  on_degrade: warn

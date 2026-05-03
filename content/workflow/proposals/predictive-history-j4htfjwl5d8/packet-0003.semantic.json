@@ -1,0 +1,384 @@
+{
+  "packet_id": "predictive-history-j4htfjwl5d8-semantics-pkt-0003",
+  "source_id": "video:predictive-history-j4htfjwl5d8",
+  "source_date": "2024-09-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0017",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang uses a cattle-inheritance scenario to explain primogeniture, dispossessed younger sons, cattle theft, war culture, and the religious shift from Mother Goddess to Sky Father.",
+      "speaker_attribution": "Mostly Jiang; student responses to his prompts are implied by his 'Exactly' and restatements.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the religious inversion: the Sky Father gives cattle, money, and wealth and asks people to fight for wealth; the Yamnaya win because they adopt the whole economy-society-religion package and spread it across the steppes as a culture rather than a single people.",
+      "speaker_attribution": "Jiang lecture with rhetorical checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0021",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0022",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0023",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks how the Yamnaya conquered more populous Europe and leads the class through plague, sedentary farming, climate change, and the motives of landless, wifeless young men as the conquest mechanism.",
+      "speaker_attribution": "Mostly Jiang; some student answers are heard only through Jiang's repetition such as 'plague' and stealing wives and property.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0017",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang repeatedly poses classroom prompts and then supplies or repeats the answer; these are treated as lecture exchanges, not standalone audience questions.",
+      "suggested_speaker": "Jiang with implied student responses",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript continues to render Yamnaya as 'Yemenite' in several places; semantic extraction normalizes the referent to Yamnaya while preserving exact refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Primogeniture solves the problem of preserving cattle wealth by giving everything to the eldest son rather than dividing the herd until the family becomes poor.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Definition and model in this lecture.",
+      "topic_tags": [
+        "primogeniture",
+        "inheritance",
+        "cattle",
+        "private-property"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The disinherited younger sons must build wealth elsewhere, which in Jiang's model means stealing cattle and expanding through violence.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0017",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Causal model in this lecture.",
+      "topic_tags": [
+        "younger-sons",
+        "war-culture",
+        "cattle-theft",
+        "expansion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A pastoral private-property society honors men above women, celebrates private property, and encourages young men to expand the civilization and fight wars.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Social model in this lecture.",
+      "topic_tags": [
+        "patriarchy",
+        "war-culture",
+        "private-property",
+        "expansion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The new religion replaces the Mother Goddess with the male Sky Father, associated with Zeus and Jupiter, because men now fight wars.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Religious genealogy in this lecture.",
+      "topic_tags": [
+        "sky-father",
+        "zeus",
+        "jupiter",
+        "patriarchy",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Where the Mother Goddess gives nature and asks protection, Jiang says the Sky Father gives cattle, money, and wealth and asks people to fight for the right to possess wealth.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Comparative religious model in this lecture.",
+      "topic_tags": [
+        "mother-goddess",
+        "sky-father",
+        "wealth",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Yamnaya win because they adopt all the innovations: their religion, society, and economy align around collecting wealth, fighting wars, and expanding into new territories.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Core causal model in this lecture.",
+      "topic_tags": [
+        "yamnaya",
+        "religion",
+        "economy",
+        "society",
+        "conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Yamnaya spread across the steppes as one culture rather than one people, sharing beliefs and practices over a few thousand years.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "yamnaya",
+        "culture",
+        "steppes",
+        "diffusion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Europe's main advantage against the Yamnaya should have been population, because farming allows population to grow quickly.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0020",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical counterfactual in this lecture.",
+      "topic_tags": [
+        "europe",
+        "farming",
+        "population",
+        "yamnaya"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that plague reduced Europe's population because farm life placed people near pigs, rats, garbage, and dense settled communities, while mobile steppe people were less exposed.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0021",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Causal explanation in this lecture.",
+      "topic_tags": [
+        "plague",
+        "farming",
+        "population",
+        "steppes",
+        "disease"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He names plague, climate change, and Yamnaya colonization as the three things that destroyed old Europe, with plague as the most important.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0023",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2024-09-12.",
+      "topic_tags": [
+        "old-europe",
+        "plague",
+        "climate-change",
+        "colonization",
+        "yamnaya"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains Yamnaya violence through the incentives of young men without wives or wealth: they seek to steal other people's wives and property.",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Causal model in this lecture.",
+      "topic_tags": [
+        "young-men",
+        "wives",
+        "property",
+        "violence",
+        "conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0017"
+      ],
+      "moment": "Primogeniture creates winners and surplus sons: the eldest gets everything, the other nine get 'too bad.'",
+      "source_phrase": "the eldest son gets everything, and the nine other sons, too bad",
+      "why_it_matters": "It condenses inheritance into the social production of expansionary violence.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018"
+      ],
+      "moment": "War culture begins when younger sons must build wealth by stealing cows.",
+      "source_phrase": "You have to go build your own wealth. And that means basically stealing cows",
+      "why_it_matters": "It gives the lecture a concrete pathway from inheritance rule to militarism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019"
+      ],
+      "moment": "The Mother Goddess asks protection; the Sky Father asks people to fight for wealth.",
+      "source_phrase": "the Sky Father asked us to fight each other for the right to have wealth",
+      "why_it_matters": "It preserves the lecture's religious reversal in its sharpest form.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0020"
+      ],
+      "moment": "The conquest machine works because religion, society, and economy align.",
+      "source_phrase": "their religion becomes aligned with their society, which becomes aligned with their economy",
+      "why_it_matters": "This is the packet's strongest model of why a culture becomes expansionary.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0021",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0022"
+      ],
+      "moment": "Europe's population advantage is undone by the farmer's own habitat: pigs, rats, garbage, and settled density.",
+      "source_phrase": "you're living next to pigs and rats, and there's a lot of garbage around",
+      "why_it_matters": "It turns the apparent strength of farming into a vulnerability.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "moment": "Conquest is reduced to a brutal village arithmetic: young men with no wives and no wealth steal wives and property.",
+      "source_phrase": "If you're a young man and you have no wife and you have no wealth",
+      "why_it_matters": "It gives the violence an incentive model rather than leaving it as vague barbarism.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "primogeniture",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "The inheritance rule where the eldest son receives everything, used here to keep cattle wealth from fragmenting.",
+      "confidence": "high"
+    },
+    {
+      "term": "war culture",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "A social order that honors men, protects and celebrates private property, and pushes young men toward expansion and warfare.",
+      "confidence": "high"
+    },
+    {
+      "term": "Sky Father",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The male god of the Yamnaya-associated religious order, linked by Jiang to Zeus and Jupiter and to cattle, money, wealth, and fighting.",
+      "confidence": "high"
+    },
+    {
+      "term": "culture, not one people",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's caution that Yamnaya spread means a shared culture and belief package, not a single unified people or nation.",
+      "confidence": "high"
+    },
+    {
+      "term": "plague",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0021",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0022",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The disease pressure Jiang treats as the most important factor reducing Europe's population and making conquest possible.",
+      "confidence": "high"
+    },
+    {
+      "term": "climate change",
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "A mini ice age about 5,000 to 6,000 years ago that Jiang says hurt farmers and pushed steppe peoples further into Europe.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0023"
+      ],
+      "note": "The mini-ice-age timing is given orally as 'about 5,000, 6,000 years ago' after a self-correction; preserve that uncertainty rather than converting it to a precise date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0018",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019"
+      ],
+      "note": "The Sky Father, Zeus, and Jupiter genealogy is recorded as Jiang's interpretive model and should not be promoted as canon without separate source grounding."
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0022",
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0023"
+      ],
+      "note": "Claims that most Europeans were wiped out by plague and that plague was the main culprit are strong lecture claims requiring careful external corroboration before historical generalization."
+    },
+    {
+      "refs": [
+        "video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0024"
+      ],
+      "note": "The phrase 'why the Yemenites decided to kill Europe' is preserved as a provocative lecture frame, not a literal claim of a single centralized decision."
+    }
+  ]
+}

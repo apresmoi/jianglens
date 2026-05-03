@@ -1,0 +1,709 @@
+---
+import InlineEvidence from '../../components/InlineEvidence.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { absoluteUrl, siteConfig } from '../../../site.config.mjs';
+import { episodeJsonPath, listEpisodeSlugs, readEpisode } from '../../lib/episodes.mjs';
+
+export async function getStaticPaths() {
+  const slugs = await listEpisodeSlugs();
+  return slugs.map((slug) => ({ params: { slug } }));
+}
+
+const episode = await readEpisode(Astro.params.slug);
+const read = episode.read ?? {};
+const beats = read.beats ?? [];
+const questions = read.questions ?? [];
+const pageTitle = read.title || episode.title;
+const title = `${pageTitle} | Jiang Lens`;
+const description = read.dek || `A cleaned Jiang Lens reading of ${episode.title}.`;
+const canonicalUrl = absoluteUrl(`/episodes/${episode.slug}/`);
+const jsonUrl = absoluteUrl(episodeJsonPath(episode.slug));
+const sourceUrl = episode.source_url;
+const transcriptUrl = `/episodes/${episode.slug}/transcript/`;
+const dateValue = episode.published_at || episode.recorded_at || episode.date_label;
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'VideoObject',
+  name: episode.title,
+  description,
+  uploadDate: episode.published_at,
+  embedUrl: episode.embed_url,
+  url: canonicalUrl,
+  isAccessibleForFree: true,
+};
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" type="application/json" href={jsonUrl} title="Episode JSON" />
+    <meta name="theme-color" content={siteConfig.seo.themeColor} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content={canonicalUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090a08;
+        --panel: #10110e;
+        --ink: #f4ead8;
+        --soft: #d7ccbb;
+        --muted: #928b7d;
+        --line: rgba(244, 234, 216, 0.14);
+        --line-strong: rgba(244, 234, 216, 0.26);
+        --gold: #c9a765;
+        --rust: #9f5f44;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        background: var(--bg);
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background:
+          linear-gradient(90deg, rgba(244, 234, 216, 0.018) 1px, transparent 1px) 0 0 / 88px 88px,
+          linear-gradient(180deg, rgba(159, 95, 68, 0.08), transparent 520px),
+          var(--bg);
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        width: min(1360px, calc(100% - 36px));
+        margin: 0 auto;
+      }
+
+      .actions,
+      .map-header,
+      .map-meta {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+
+      .button {
+        border-radius: 4px;
+        color: var(--soft);
+        font-size: 0.86rem;
+        font-weight: 720;
+        text-decoration: none;
+      }
+
+      .episode-grid {
+        --sticky-top: 84px;
+        display: grid;
+        grid-template-columns: 160px minmax(0, 1fr) minmax(340px, 420px);
+        grid-template-areas:
+          "hero hero media"
+          "toc article media";
+        gap: 28px 30px;
+        align-items: start;
+        padding: 32px 0 64px;
+      }
+
+      .episode-hero {
+        grid-area: hero;
+        max-width: none;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: var(--gold);
+        font-size: 0.74rem;
+        font-weight: 780;
+        text-transform: uppercase;
+      }
+
+      .eyebrow::before {
+        content: "";
+        width: 26px;
+        height: 1px;
+        background: var(--gold);
+      }
+
+      h1,
+      h2,
+      h3 {
+        font-family: Georgia, "Times New Roman", serif;
+        font-weight: 560;
+        letter-spacing: 0;
+      }
+
+      h1 {
+        max-width: 900px;
+        margin: 14px 0 0;
+        font-size: clamp(1.95rem, 3.4vw, 3.15rem);
+        line-height: 1.07;
+      }
+
+      .source-title {
+        margin: 14px 0 0;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .dek,
+      .thesis {
+        max-width: 720px;
+        color: var(--soft);
+        line-height: 1.65;
+      }
+
+      .dek {
+        margin: 20px 0 0;
+        font-size: 1rem;
+      }
+
+      .thesis {
+        margin: 16px 0 0;
+        border-top: 1px solid var(--line);
+        padding-top: 14px;
+        font-size: 0.95rem;
+      }
+
+      .episode-media {
+        grid-area: media;
+        position: sticky;
+        top: var(--sticky-top);
+        z-index: 20;
+        display: grid;
+        gap: 12px;
+        align-self: start;
+      }
+
+      .player {
+        position: relative;
+        overflow: hidden;
+        border: 1px solid rgba(244, 234, 216, 0.18);
+        background: #000;
+        aspect-ratio: 16 / 9;
+      }
+
+      .player iframe {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+
+      .meta-grid {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 8px;
+        padding: 4px 0 0;
+      }
+
+      .meta-item {
+        min-width: 0;
+        display: inline-flex;
+        align-items: baseline;
+        gap: 4px;
+        color: var(--soft);
+        font-size: 0.72rem;
+        line-height: 1.25;
+        white-space: nowrap;
+      }
+
+      .meta-item span {
+        color: var(--muted);
+        font-size: inherit;
+        font-weight: 520;
+        text-transform: none;
+      }
+
+      .meta-item span::after {
+        content: ":";
+      }
+
+      .meta-item strong {
+        color: var(--ink);
+        font-size: inherit;
+        font-weight: 590;
+        line-height: inherit;
+      }
+
+      .actions {
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .button {
+        min-height: 34px;
+        display: inline-flex;
+        align-items: center;
+        border: 1px solid var(--line);
+        padding: 0 10px;
+        background: rgba(244, 234, 216, 0.035);
+      }
+
+      .button:hover,
+      .button:focus-visible {
+        border-color: rgba(201, 167, 101, 0.56);
+        color: var(--ink);
+        outline: none;
+      }
+
+      .episode-map {
+        min-width: 0;
+        border-top: 1px solid var(--line);
+        padding: 12px 0 0;
+      }
+
+      .map-header {
+        justify-content: space-between;
+        margin-bottom: 8px;
+      }
+
+      .map-label {
+        margin: 0;
+        color: var(--gold);
+        font-size: 0.74rem;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+
+      .map-count {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.74rem;
+        font-weight: 760;
+      }
+
+      .map-grid {
+        display: grid;
+        gap: 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .map-item {
+        display: grid;
+        grid-template-columns: 86px minmax(0, 1fr);
+        align-items: baseline;
+        gap: 8px;
+        border-top: 0;
+        border-bottom: 1px solid rgba(244, 234, 216, 0.09);
+        padding: 7px 0;
+        text-decoration: none;
+      }
+
+      .map-item:hover,
+      .map-item:focus-visible {
+        color: var(--gold);
+        outline: none;
+      }
+
+      .map-meta {
+        display: contents;
+        color: var(--muted);
+        font-size: 0.68rem;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+
+      .map-meta span {
+        white-space: nowrap;
+      }
+
+      .map-item strong {
+        display: block;
+        color: var(--ink);
+        font-family: inherit;
+        font-size: 0.79rem;
+        font-weight: 760;
+        line-height: 1.2;
+      }
+
+      .map-item p {
+        display: none;
+      }
+
+      .toc {
+        grid-area: toc;
+        position: sticky;
+        top: var(--sticky-top);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 9px;
+      }
+
+      .toc a {
+        color: var(--muted);
+        font-size: 0.84rem;
+        font-weight: 700;
+        line-height: 1.25;
+        text-decoration: none;
+      }
+
+      .toc a:hover {
+        color: var(--ink);
+      }
+
+      .article {
+        grid-area: article;
+        max-width: 78ch;
+      }
+
+      .opening,
+      .beat,
+      .questions,
+      .archive {
+        scroll-margin-top: 92px;
+      }
+
+      .opening {
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 34px;
+      }
+
+      .opening h2,
+      .beat h2,
+      .questions h2,
+      .archive h2 {
+        margin: 0;
+        font-size: clamp(1.4rem, 2vw, 1.82rem);
+        line-height: 1.2;
+      }
+
+      .beat {
+        border-bottom: 1px solid var(--line);
+        padding: 34px 0;
+      }
+
+      .beat:first-of-type {
+        padding-top: 38px;
+      }
+
+      .section-kicker {
+        margin: 0 0 10px;
+        color: var(--gold);
+        font-size: 0.72rem;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+
+      .summary {
+        margin: 11px 0 22px;
+        color: var(--muted);
+        font-size: 0.94rem;
+        line-height: 1.55;
+      }
+
+      .paragraph-block {
+        margin-top: 22px;
+      }
+
+      .paragraph-block:first-of-type {
+        margin-top: 0;
+      }
+
+      .archive p {
+        margin: 0;
+        color: var(--soft);
+        font-size: 1.02rem;
+        line-height: 1.72;
+      }
+
+      .source-note-inline {
+        margin: 20px 0 0;
+        border-left: 2px solid rgba(201, 167, 101, 0.56);
+        padding-left: 12px;
+        color: var(--muted);
+        font-size: 0.88rem;
+        line-height: 1.55;
+      }
+
+      .questions,
+      .archive {
+        border-bottom: 1px solid var(--line);
+        padding: 34px 0;
+      }
+
+      .question {
+        border-top: 1px solid rgba(244, 234, 216, 0.1);
+        margin-top: 22px;
+        padding-top: 20px;
+      }
+
+      .question h3 {
+        margin: 0 0 12px;
+        color: var(--gold);
+        font-size: 1.2rem;
+        line-height: 1.25;
+      }
+
+      .archive-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+
+      .footer {
+        padding: 30px 0 46px;
+        color: var(--muted);
+        font-size: 0.82rem;
+        line-height: 1.5;
+      }
+
+      @media (max-width: 1180px) {
+        .episode-grid {
+          grid-template-columns: 140px minmax(0, 1fr) minmax(300px, 360px);
+          gap: 28px;
+        }
+      }
+
+      @media (max-width: 980px) {
+        .episode-grid {
+          grid-template-columns: 1fr;
+          grid-template-areas:
+            "hero"
+            "media"
+            "article";
+          gap: 22px;
+          padding: 30px 0 54px;
+        }
+
+        .episode-media,
+        .toc {
+          position: static;
+        }
+
+        .toc {
+          display: none;
+        }
+      }
+
+      @media (max-width: 680px) {
+        .shell {
+          width: min(100% - 28px, 1160px);
+        }
+
+        nav {
+          align-items: flex-start;
+          flex-direction: column;
+          padding: 14px 0;
+        }
+
+        .nav-links {
+          flex-wrap: wrap;
+        }
+
+        .episode-grid {
+          padding-top: 30px;
+        }
+
+        .meta-grid {
+          flex-wrap: wrap;
+          gap: 6px 10px;
+        }
+
+        .map-item {
+          grid-template-columns: 92px minmax(0, 1fr);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <SiteHeader base="../../" current="episodes" maxWidth="1360px" />
+
+    <main class="episode-page">
+      <div class="shell episode-grid">
+        <section class="episode-hero">
+          <span class="eyebrow">Distilled lecture</span>
+          <h1>{pageTitle}</h1>
+          <p class="source-title">{episode.title}</p>
+          <p class="dek">{read.dek}</p>
+          <p class="thesis">{read.thesis}</p>
+        </section>
+
+        <aside class="episode-media" aria-label="Episode video">
+          <div class="player">
+            {episode.embed_url && (
+              <iframe
+                data-episode-player
+                src={episode.embed_url}
+                title={episode.title}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              />
+            )}
+          </div>
+          <div class="meta-grid" aria-label="Episode metadata">
+            <div class="meta-item">
+              <span>Date</span>
+              <strong>{dateValue}</strong>
+            </div>
+            <div class="meta-item">
+              <span>Video</span>
+              <strong>{episode.counts.duration_label}</strong>
+            </div>
+            <div class="meta-item">
+              <span>Read</span>
+              <strong>{read.read_time || 'read'}</strong>
+            </div>
+            <div class="meta-item">
+              <span>Archive</span>
+              <strong>{episode.counts.transcript_segments} spans</strong>
+            </div>
+          </div>
+          <div class="actions">
+            <a class="button" href={sourceUrl} target="_blank" rel="noreferrer">Source video</a>
+            <a class="button" href={transcriptUrl}>Transcript</a>
+          </div>
+
+          <section class="episode-map" aria-label="Episode chapter timeline">
+            <div class="map-header">
+              <p class="map-label">In this episode</p>
+              <p class="map-count">{beats.length} chapters</p>
+            </div>
+            <div class="map-grid">
+              {beats.map((beat, index) => (
+                <a class="map-item" href={`#beat-${index + 1}`} data-video-start={Number.isFinite(Number(beat.start)) ? Math.floor(Number(beat.start)) : undefined}>
+                  <span class="map-meta">
+                    <span>{beat.time_range}</span>
+                  </span>
+                  <strong>{beat.heading}</strong>
+                  <p>{beat.summary}</p>
+                </a>
+              ))}
+            </div>
+          </section>
+        </aside>
+
+        <aside class="toc" aria-label="Reading sections">
+          {read.opening && <a href="#opening">Core reading</a>}
+          {beats.map((beat, index) => (
+            <a href={`#beat-${index + 1}`}>{String(index + 1).padStart(2, '0')} {beat.heading}</a>
+          ))}
+          {questions.length > 0 && <a href="#questions">Questions</a>}
+          <a href="#archive">Archive</a>
+        </aside>
+
+        <article class="article">
+            {read.opening && (
+              <section class="opening" id="opening">
+                <h2>{read.opening.heading}</h2>
+                <div class="paragraph-block">
+                  <InlineEvidence
+                    text={read.opening.text}
+                    marks={read.opening.marks}
+                    refs={read.opening.refs_detail}
+                    transcriptUrl={transcriptUrl}
+                    tone="opening"
+                  />
+                </div>
+              </section>
+            )}
+
+            {beats.map((beat, index) => (
+              <section class="beat" id={`beat-${index + 1}`}>
+                <p class="section-kicker">{beat.time_range}</p>
+                <h2>{beat.heading}</h2>
+                <p class="summary">{beat.summary}</p>
+
+                {(beat.paragraphs ?? []).map((paragraph) => (
+                  <div class="paragraph-block">
+                    <InlineEvidence
+                      text={paragraph.text}
+                      marks={paragraph.marks}
+                      refs={paragraph.refs_detail}
+                      transcriptUrl={transcriptUrl}
+                    />
+                  </div>
+                ))}
+
+                {beat.source_note && <p class="source-note-inline">{beat.source_note}</p>}
+              </section>
+            ))}
+
+            {questions.length > 0 && (
+              <section class="questions" id="questions">
+                <h2>Questions</h2>
+                {questions.map((item) => (
+                  <div class="question">
+                    <h3>{item.question}</h3>
+                    {(item.answer_paragraphs ?? []).map((paragraph) => (
+                      <div class="paragraph-block">
+                        <InlineEvidence
+                          text={paragraph.text}
+                          marks={paragraph.marks}
+                          refs={paragraph.refs_detail}
+                          transcriptUrl={transcriptUrl}
+                        />
+                      </div>
+                    ))}
+                  </div>
+                ))}
+              </section>
+            )}
+
+            <section class="archive" id="archive">
+              <h2>Archive</h2>
+              <p>{read.archive_note}</p>
+              <div class="archive-actions">
+                <a class="button" href={transcriptUrl}>Open the full transcript</a>
+                <a class="button" href={sourceUrl} target="_blank" rel="noreferrer">Open source video</a>
+              </div>
+            </section>
+        </article>
+      </div>
+    </main>
+
+    <footer class="shell footer">
+      Jiang Lens is an independent research project and not an official Jiang Xueqin or Predictive History publication. The public pages are cleaned readings with source refs; the archive and JSON layers exist so the corpus can be audited by readers and agents.
+    </footer>
+
+    <script>
+      const player = document.querySelector('[data-episode-player]');
+      const baseSrc = player?.getAttribute('src') ?? '';
+
+      function seekFromEvidence(control, event) {
+        const isAnchor = control.tagName.toLowerCase() === 'a';
+        if (!isAnchor) event.preventDefault();
+        const start = control.getAttribute('data-video-start');
+        if (!player || !baseSrc || !start) return;
+        const scrollPosition = window.scrollY;
+        const separator = baseSrc.includes('?') ? '&' : '?';
+        player.setAttribute('src', `${baseSrc}${separator}start=${start}&autoplay=1`);
+        requestAnimationFrame(() => {
+          if (!isAnchor) {
+            window.scrollTo({ top: scrollPosition, left: 0, behavior: 'instant' });
+          }
+        });
+      }
+
+      document.querySelectorAll('[data-video-start]').forEach((control) => {
+        control.addEventListener('click', (event) => {
+          seekFromEvidence(control, event);
+        });
+
+        control.addEventListener('keydown', (event) => {
+          if (event.key !== 'Enter' && event.key !== ' ') return;
+          seekFromEvidence(control, event);
+        });
+      });
+    </script>
+  </body>
+</html>

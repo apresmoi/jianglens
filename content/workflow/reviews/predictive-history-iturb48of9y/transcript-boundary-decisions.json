@@ -1,0 +1,30 @@
+{
+  "source_slug": "predictive-history-iturb48of9y",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-trailing-starter-to-next:b17bfea20381",
+      "decision": "approve",
+      "reason": "Moves the starter 'We also said' before 'the son will be very different' to complete the next recap sentence."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:7c145be5b7fe",
+      "decision": "approve",
+      "reason": "Completes the sentence 'This is a very common dynamic.' across the segment boundary."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:484a67aae282",
+      "decision": "approve",
+      "reason": "Completes the phrase 'predict the life of Alexander the Great' across the segment boundary."
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-trailing-starter-to-next:ddccabe7968f",
+      "decision": "approve",
+      "reason": "Moves 'So Philip,' before the continuation 'at this point, already has six or seven wives.'"
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:f16fe8991907",
+      "decision": "approve",
+      "reason": "Completes 'Eurydice is the wife of one of Philip's great generals...' across the boundary while preserving transcript wording."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-6m1z-v3wgok-semantics-pkt-0005",
+  "source_id": "video:predictive-history-6m1z-v3wgok",
+  "source_date": "2026-04-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0033"
+      ],
+      "kind": "unclear",
+      "summary": "The transcript is heavily corrupted while Jiang appears to continue discussing faith, salvation, and Virgil naming souls.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0034"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Virgil's explanation of limbo and the lack of baptism.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Virgil's self-exculpating account is incorrect because Virgil chooses to remain in hell despite paths of salvation.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0037"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the Minos passage, though transcription noise is substantial.",
+      "speaker_attribution": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Minos's warning as a warning not to trust Virgil and as evidence that Inferno undermines Virgil's authority.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang prompts Ivory to read the next passage on lust.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0037"
+      ],
+      "note": "SPEAKER_00 is a student reader; music/noise symbols and repeated wording reduce confidence in the transcript text.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Virgil's claim that he is merely unlucky in limbo is incorrect; Jiang says Virgil chooses to remain in hell.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "virgil",
+        "limbo",
+        "salvation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets Minos's warning to Dante about whom to trust as specifically implying that Dante should not trust Virgil.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "minos",
+        "virgil",
+        "trust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Inferno plants clues that nothing in hell is what it seems and that Virgil's statements must be questioned.",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Jiang lecture published 2026-04-08",
+      "topic_tags": [
+        "inferno",
+        "virgil",
+        "interpretation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Minos",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Judge of hell whose warning Jiang interprets as a clue against trusting Virgil.",
+      "confidence": "high"
+    },
+    {
+      "term": "Reliability of the narrator",
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's interpretive concern that readers must question Virgil and the apparent guide structure in Inferno.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0035",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang continues the 2026-04-08 thread that Virgil's authority is suspect; no older or newer Jiang source is cited.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0033"
+      ],
+      "note": "Segment is too corrupted for reliable claim extraction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0036",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0037"
+      ],
+      "note": "Quoted passage contains substantial transcription noise; Jiang's interpretation in segments 38-39 is clearer than the reading itself."
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038",
+        "video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"
+      ],
+      "moment": "Minos warns Dante that the person closest to him may be the least trustworthy person in hell.",
+      "source_phrase": "Be careful how you enter, whom you trust... what he is really saying is Dante, don't trust Virgil",
+      "why_it_matters": "It sharpens the unreliable-guide pattern and makes the reading interactive: the reader must learn to notice clues against authority.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ]
+}

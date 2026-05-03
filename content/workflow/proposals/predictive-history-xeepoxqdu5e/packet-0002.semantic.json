@@ -1,0 +1,256 @@
+{
+  "packet_id": "predictive-history-xeepoxqdu5e-semantics-pkt-0002",
+  "source_id": "video:predictive-history-xeepoxqdu5e",
+  "source_date": "2024-04-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0009",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0010",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang repeats or paraphrases a student question about why the United States would not respond more strategically, then answers that empires are inflexible because hubris makes them declare asymmetric tactics to be cheating.",
+      "speaker_attribution": "Jiang with uncaptured student prompts or answers",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang transitions from asymmetrical warfare into the Iran strategy matrix: before an invasion Iran must unite the population, build alliances, win global opinion, and weaken the enemy at the same time.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0014",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0015",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the first two matrix goals: Western intervention history can unify Iranians against invasion, and Iran's first alliance layer is the Axis of Resistance, which he frames as aligned but not fully controlled by Iran.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0009",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"
+      ],
+      "note": "Jiang appears to be responding to student input, but the student's full question and classroom answers are not independently transcribed; keep the exchange attribution medium-confidence.",
+      "suggested_speaker": "Jiang plus uncaptured students",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "note": "The remainder of the packet is continuous Jiang exposition.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Iran's True Promise strike package cost roughly $10 to $30 million while Israel spent at least $1 billion defending against it, making the exchange an example of asymmetrical warfare.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Cost comparison stated on 2024-04-24.",
+      "topic_tags": [
+        "operation-true-promise",
+        "cost-asymmetry",
+        "israel",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that even with Israeli and American military dominance, a war against Iran may not be winnable if Iran uses asymmetrical warfare.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Strategic diagnosis stated on 2024-04-24.",
+      "topic_tags": [
+        "asymmetrical-warfare",
+        "iran",
+        "israel",
+        "united-states"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the fatal flaw of empires as hubris-driven inflexibility: when asymmetric tactics work, the dominant power calls them cheating and forces the opponent back into direct battle.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0010",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "General model stated on 2024-04-24.",
+      "topic_tags": [
+        "empire",
+        "hubris",
+        "asymmetrical-warfare"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Vietnam as an example where a weaker side used creative and flexible tactics against an American military doctrine that insisted on its own power.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical analogy used on 2024-04-24.",
+      "topic_tags": [
+        "vietnam",
+        "asymmetrical-warfare",
+        "united-states"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the Iran strategy matrix as a four-goal framework in which every Iranian move before an invasion must unite the population, build alliances, win global opinion, and weaken the enemy.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Strategic model stated on 2024-04-24.",
+      "topic_tags": [
+        "iran-strategy-matrix",
+        "iran",
+        "asymmetrical-warfare"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that an invasion would likely push divided Iranians to coalesce against the United States and Israel because of Iran's history with Western resource extraction, the 1953 coup, and the Shah's police state.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0013",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0014",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0015",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Historical diagnosis and forward-looking claim stated on 2024-04-24.",
+      "topic_tags": [
+        "iran",
+        "1953-coup",
+        "population-unity",
+        "western-intervention"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the Axis of Resistance as Iran's first alliance layer, made up of groups with a common interest in remaining independent of American influence, while stressing that Iran supports but cannot completely control them.",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Strategic diagnosis stated on 2024-04-24.",
+      "topic_tags": [
+        "axis-of-resistance",
+        "iran",
+        "hezbollah",
+        "hamas",
+        "houthis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0010",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"
+      ],
+      "moment": "The empire loses, reruns the game, and calls the winning tactic cheating.",
+      "source_phrase": "Asymmetrical warfare is cheating. You cannot cheat. And then the Americans won.",
+      "why_it_matters": "This is Jiang's sharpest expression of imperial hubris: the dominant power tries to change the rules instead of learning from defeat.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"
+      ],
+      "moment": "Jack walks into the dark forest with armor and a machine gun because dominance has made him stubborn.",
+      "source_phrase": "Jack, don't go into that dark forest... no, I have a machine gun. I don't care",
+      "why_it_matters": "The earlier dark-forest metaphor becomes a psychology of empire: the powerful side is trapped by confidence in its own tools.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0013"
+      ],
+      "moment": "The Iran strategy matrix requires every move to accomplish four goals at once.",
+      "source_phrase": "everything they do must fit into the strategy matrix",
+      "why_it_matters": "This gives the lecture its organizing device and turns apparently symbolic actions into multi-objective asymmetric strategy.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hubris",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang uses hubris to name the empire's refusal to admit weakness, learn, or adapt after defeat.",
+      "confidence": "high"
+    },
+    {
+      "term": "Iran strategy matrix",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "A four-goal framework for Iran's pre-invasion actions: unite the population, build alliances, win global opinion, and weaken the enemy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Axis of Resistance",
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Iran's first alliance layer, including Shia militias in Iraq, Syria, Hezbollah, Hamas, and the Houthis, framed as aligned with Iran against American influence but not fully controlled by Iran.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0012",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "note": "The Iran strategy matrix and Axis of Resistance claims are Jiang's 2024-04-24 framing of Iran's likely pre-invasion strategy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0016"
+      ],
+      "note": "The transcript wording around Hamas, Hezbollah, and the Houthis contains a likely ASR or punctuation error; context indicates Jiang is saying Iran does not completely control their behavior."
+    },
+    {
+      "refs": [
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0009",
+        "video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0010"
+      ],
+      "note": "A student question and possible short answers are implied by Jiang's responses but not separately transcribed."
+    }
+  ]
+}

@@ -1,0 +1,2198 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-f8qqgsefggc:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-f8qqgsefggc",
+  "source_id": "video:predictive-history-f8qqgsefggc",
+  "source_title": "Civilization #15:  The Myth-Making Genius of Julius Caesar",
+  "source_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc",
+  "source_date": "2024-11-12",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-f8qqgsefggc@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-f8qqgsefggc/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-f8qqgsefggc/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-f8qqgsefggc/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 32,
+    "speaker_notes": 7,
+    "claims": 58,
+    "signature_moments": 38,
+    "predictions": 0,
+    "models": 17,
+    "glossary_terms": 42,
+    "chronology_notes": 1,
+    "uncertainty_notes": 16
+  },
+  "first_refs": [
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0001",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007",
+    "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0001",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around three questions: whether Caesar wanted kingship or republican rescue, why he could take on the Roman Empire and win, and why friends and pardoned allies killed him. He gives the central answer: Caesar succeeded because he was a myth maker who constructed a new reality through words, writing, speeches, and actions.",
+      "speaker_attribution": "Jiang classroom lecture; the questions are Jiang's lecture-frame prompts, not audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains myth making through Steve Jobs, movies, and Donald Trump: each changes perception by making people participate in a constructed reality or narrative.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the lecture's causal argument: Caesar's new myth of Rome created cognitive dissonance because it surpassed the old myth, so the old guard killed him.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves into the Hannibal background: Rome's myth of piety, liberty, and republica made rich and poor sacrifice together, but after victory the rich captured most rewards and common land.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines the post-146 BCE Roman contradiction: Rome has become an empire while keeping a republican political form, so piety, liberty, and republica become sources of instability.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0010",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains republica as public virtue and shows how imperial wealth turns competition for office into bribery, provincial extraction, unnecessary wars, and triumph-seeking.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0012",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang tracks the poor's dispossession: long military service ruins farms, debt lets the rich buy land cheaply, cash-crop estates replace subsistence farming, and Rome becomes unable to feed itself.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0014",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0015",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang names elite overproduction and the factional split between the upper nobility, the optimates, and lower nobles seeking power through the people, the populares.",
+      "speaker_attribution": "Mostly Jiang; seg-0016 is an uncertain short backchannel.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes the Gracchi brothers as lower nobles proposing compensated land reform, then treats their assassination by the rich as the beginning of the Republic's fall because the system cannot change itself.",
+      "speaker_attribution": "Jiang, ending with a request for questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0020",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "kind": "exchange",
+      "summary": "After a brief unclear backchannel, Jiang answers a student question about the relationship between optimates and populares: they come from the same small noble network, like fathers and grandfathers resisting sons who want power.",
+      "speaker_attribution": "Question is heard through Jiang's restatement; seg-0020 is an unclear short response.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from the Social War and citizenship/voting-rights crisis to servile wars, piracy, and the Sulla-Marius civil war, where generals march armies into Rome.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Sulla's proscription as a public kill list that rewards state-sanctioned murder and property seizure, then introduces young Caesar as one of the proscribed.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Caesar survived Sulla through family wealth and bribery, then grew up inside the imperial-republic contradiction and saw himself as a man of destiny who would restore stability.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0026",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0027",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang tells the pirate story as evidence of Caesar's early public-image craft: Caesar embellishes the ransom, the drinking friendship, and the crucifixion threat so the story becomes unforgettable.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0029",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang shows the optimates' hatred of Caesar: they see his charisma, stories, sexual reputation, and pursuit of glory as corruption rather than service to Rome.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0031",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes the optimates' Caesar derangement, Caesar's surprising decision to give up a triumph for the consulship, and his later land-reform conflict when the Senate tries to keep him from glory in Gaul.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0033",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Caesar's unexpected alliance with Pompey and Crassus, the First Triumvirate, and the exchange that gives Caesar Gaul. He then presents Gaul as the stage where Caesar's myth-making genius becomes legendary through conquest and genocide.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0035",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0036",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang identifies Caesar's three aims in Gaul: pay debts and fund bread and circus, build the world's most loyal and disciplined army, and create the myth of Caesar as great conqueror through dispatches, Germania, and Britain.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says the optimates realize Caesar is electorally unbeatable and legally vulnerable, so they move to strip his command and put him on trial; Caesar reads this as war and crosses the Rubicon.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0039",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "After an audience question, Jiang explains Senate power as unequal despite formal voting equality, then maps the civil-war balance: Caesar controls Rome and Gaul while Pompey and the optimates control the food-rich provinces.",
+      "speaker_attribution": "Question is not independently transcribed; Jiang's answer supplies the topic.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why Pompey's containment strategy should have beaten Caesar, then identifies Caesar's two advantages: the world's best army and divisions inside the optimate-Pompey coalition.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0043",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang tracks Caesar's offensive through Spain and Greece, emphasizing his un-Roman use of clemency and the optimate pressure that forces Pompey into battle at Pharsalus.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0045",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang narrates Pharsalus, Caesar's later conquests, 'Vinni, vedi, vici,' and the breakdown of clemency when Caesar's aging veterans massacre enemies despite his orders.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0047",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the civil-war narrative with Caesar's powerful army, his return to Rome, reforms in land, debt, calendar, clemency, and citizenship, and the emergence of a cult of personality.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0049",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang returns to the lecture's three questions, arguing that Caesar wanted to save Rome, not simply become king, and was motivated by nostalgia for Hannibal-era unity and sacrifice.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Caesar's success through a typology of general, politician, and administrator/legislator, then says Caesar was distinctive because imagination let him become all three at once.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0053",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the assassination as cognitive dissonance: Caesar was improving Rome but changing it through a new reality, so even close friends and beneficiaries experienced identity threat.",
+      "speaker_attribution": "Jiang, ending with an audience question restated by Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0055",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the question of how Caesar challenged Roman identity: calendar reform, solitary greatness, insufficient deference to Senate and republica, a cult of personality, and apparent movement toward kingship.",
+      "speaker_attribution": "Jiang answering an audience question he has just restated.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang finishes answering the Roman-identity question: evidence can suggest Caesar wanted kingship, but the deeper issue is that Caesar's existence challenged what Rome was and meant.",
+      "speaker_attribution": "Jiang continuing an answer to the prior audience question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "kind": "exchange",
+      "summary": "A student prompts 'Crassus,' and Jiang answers how Pompey, Crassus, and Caesar formed their alliance: Pompey and Crassus were optimates and enemies of Caesar, but shared expedient interests against Senate obstruction.",
+      "speaker_attribution": "seg-0058 is likely a student prompt; Jiang answers in seg-0059 and seg-0060.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061"
+      ],
+      "kind": "unclear",
+      "summary": "A short 'Okay?' appears as a backchannel or comprehension check.",
+      "speaker_attribution": "UNKNOWN in transcript.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the class by previewing the next lecture: after Caesar dies, the Republic falls and the Roman Empire is born.",
+      "speaker_attribution": "Jiang, with seg-0063 possibly a closing backchannel or repeated okay.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0016"
+      ],
+      "note": "The segment is a short 'Okay?' labelled UNKNOWN in the transcript; it may be Jiang checking comprehension or a student backchannel.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0020"
+      ],
+      "note": "Short UNKNOWN 'Okay.' may be a student acknowledgment before Jiang answers a question.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "note": "The actual student question is not independently transcribed; Jiang restates it as the relationship between optimates and popular leaders.",
+      "suggested_speaker": "Jiang restating student question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang says 'Sure. Oh, that's a great question' before answering about the Senate; the student's wording is not captured.",
+      "suggested_speaker": "student question not captured",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0055"
+      ],
+      "note": "Jiang restates a substantive audience question: how Caesar challenged the identity of being Roman.",
+      "suggested_speaker": "Jiang restating audience question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058"
+      ],
+      "note": "The one-word UNKNOWN segment 'Crassus' is a likely student prompt that Jiang expands into a question about how Pompey, Crassus, and Caesar formed their alliance.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063"
+      ],
+      "note": "Short UNKNOWN 'Okay' segments near the close do not carry substantive question content.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents Caesar as a historical problem organized by three questions: his motivation, his exceptional success, and why intimates who received mercy still assassinated him.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0001",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture framing on 2024-11-12.",
+      "topic_tags": [
+        "julius-caesar",
+        "roman-republic",
+        "assassination"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The central model is that Caesar succeeded because he was a myth maker: a man of destiny who changes history by constructing a new reality that absorbs and alters the old one.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive model advanced in this lecture.",
+      "topic_tags": [
+        "myth-making",
+        "reality-construction",
+        "destiny",
+        "caesar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Steve Jobs, movies, and Donald Trump as examples of narrative or image systems that make people participate in a constructed reality.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Examples used in the 2024-11-12 lecture.",
+      "topic_tags": [
+        "steve-jobs",
+        "movies",
+        "donald-trump",
+        "myth-making"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Myth making is dangerous because a new myth disrupts old myths people rely on, producing cognitive dissonance and political anxiety.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Causal model advanced in this lecture.",
+      "topic_tags": [
+        "cognitive-dissonance",
+        "myth-making",
+        "political-change",
+        "identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Caesar was killed because his new myth of Rome surpassed the old myth of Rome and made the old guard uncomfortable.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interpretive explanation in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "assassination",
+        "old-guard",
+        "rome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome survived Hannibal because its mythology of piety, liberty, and republica made Romans feel obligated to make the ultimate sacrifice for the city.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical interpretation of Roman memory in this lecture.",
+      "topic_tags": [
+        "hannibal",
+        "piety",
+        "liberty",
+        "republica",
+        "sacrifice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The post-Hannibal settlement broke the sacrificial mythology because the rich, controlling the republican government, took most of the conquered common land while the poor received little.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "common-land",
+        "inequality",
+        "roman-republic",
+        "second-punic-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "By 146 BCE, Rome had become an imperial republic: an empire in substance but a republic in governmental form, creating a contradiction.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "imperial-republic",
+        "roman-republic",
+        "empire",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The old Roman values of piety, liberty, and republica became problems once Rome's imperial wealth and conquered land changed the incentives of republican life.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "piety",
+        "liberty",
+        "republica",
+        "imperial-republic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines republica as public virtue: competition among Rome's best and brightest to promote Roman welfare and glory.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "republica",
+        "public-virtue",
+        "rome"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Imperial money corrupted republican competition: office could be bought through bribery, then repaid through provincial exploitation, wars, enslavement, and triumphs.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0010",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Historical mechanism in this lecture.",
+      "topic_tags": [
+        "bribery",
+        "province",
+        "triumph",
+        "corruption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome's poor were pulled into long foreign wars, lost farms to debt, and were displaced into cities while rich landowners shifted land toward export cash crops.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0012",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "land",
+        "debt",
+        "poor",
+        "cash-crops",
+        "urbanization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Peter Turchin's elite overproduction to describe the growth of too many elites competing for too little status in an unequal Rome.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Analytic model invoked in this lecture.",
+      "topic_tags": [
+        "elite-overproduction",
+        "peter-turchin",
+        "inequality",
+        "elite-conflict"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The factional split becomes upper nobility versus lower nobility: optimates defend the existing order and populares seek change by aligning with the mass of discontented people.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0014",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "optimates",
+        "populares",
+        "elite-conflict",
+        "roman-politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Gracchi brothers proposed land reform in which Rome would buy rich occupants out of illegally held common land and redistribute it to the poor for subsistence and food security.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "gracchi",
+        "land-reform",
+        "common-land",
+        "poor"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The rich opposed even compensated reform because piety, liberty, and republica had come to mean that the existing hierarchy must not be challenged by the poor.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Interpretive diagnosis in this lecture.",
+      "topic_tags": [
+        "elite-resistance",
+        "piety",
+        "liberty",
+        "republica",
+        "social-order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the assassination of the Gracchi as the beginning of the Roman Republic's fall because it reveals a system incapable of internally resolving its contradiction.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "gracchi",
+        "fall-of-the-republic",
+        "contradiction",
+        "political-violence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's answer to a student, optimates and populares come from the same narrow noble-family network; the conflict is partly generational, with fathers and grandfathers resisting sons seeking power.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Clarifying answer in this lecture.",
+      "topic_tags": [
+        "optimates",
+        "populares",
+        "noble-families",
+        "generational-conflict"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Social War forced Rome to grant citizenship to Italian allies, but left unresolved the question of how much voting power those new citizens would have in an unequal republic.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "social-war",
+        "citizenship",
+        "voting-rights",
+        "italian-allies"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Servile wars, piracy, and the Sulla-Marius civil war show the Republic's turmoil escalating until generals do the previously unthinkable: march armies into Rome and kill fellow citizens.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical sequence in this lecture.",
+      "topic_tags": [
+        "servile-wars",
+        "piracy",
+        "sulla",
+        "marius",
+        "civil-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sulla's solution was proscription: a public list of enemies whom anyone could kill for state reward and confiscated property, including the young Julius Caesar as a target.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "sulla",
+        "proscription",
+        "julius-caesar",
+        "political-violence"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar survived Sulla's proscription because his wealthy family could bribe Sulla, but Sulla's attempt to solve conflict by elevating the optimates failed after Sulla died.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical sequence in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "sulla",
+        "proscription",
+        "optimates"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Caesar grew up inside the contradiction of the imperial republic and saw himself as destined to save the Republic through reform and restored stability.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "destiny",
+        "reform",
+        "stability",
+        "imperial-republic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The pirate story illustrates Caesar's myth-making genius because he adjusts details around ransom, friendship, threat, and revenge to create a memorable public image.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0026",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0027",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Interpretive use of a biographical story in this lecture.",
+      "topic_tags": [
+        "pirates",
+        "myth-making",
+        "public-image",
+        "caesar"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Caesar's myth making, Jiang says factual accuracy matters less than whether the details are appealing enough to make the story remembered and retold.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Model claim in this lecture.",
+      "topic_tags": [
+        "myth-making",
+        "storytelling",
+        "facts",
+        "memory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The optimates read Caesar as a braggart and libertine whose talent and charisma served personal political advancement rather than Rome's glory.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0029",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Jiang's account of optimate perception.",
+      "topic_tags": [
+        "optimates",
+        "caesar",
+        "braggart",
+        "libertine",
+        "public-glory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's decision to give up a triumph for the consulship shows that his opponents underestimated him because he understood their expectations better than they understood him.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "triumph",
+        "consulship",
+        "unpredictability",
+        "opponents"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "As consul, Caesar pushes land reform and seeks Gaul for glory, while the optimates try to block him by assigning the next consul to Italy where wars and triumphs are impossible.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Historical sequence in this lecture.",
+      "topic_tags": [
+        "consulship",
+        "land-reform",
+        "gaul",
+        "optimates",
+        "glory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar forms the First Triumvirate with Pompey and Crassus because all three are blocked by the Senate and can trade political support for each other's goals.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0033",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "first-triumvirate",
+        "pompey",
+        "crassus",
+        "senate",
+        "alliance"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes Caesar's Gallic campaign as genocidal and undertaken for personal glory, with Caesar claiming to kill, enslave, and spare a million Gauls each.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Jiang's moral diagnosis of Caesar's campaign in this lecture.",
+      "topic_tags": [
+        "gaul",
+        "genocide",
+        "caesar",
+        "personal-glory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Gallic wars served three purposes in Jiang's account: money for debts and public feasts, a personally loyal army, and a Roman myth of Caesar as great conqueror.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0035",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0036",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Interpretive model in this lecture.",
+      "topic_tags": [
+        "gaul",
+        "money",
+        "army",
+        "myth-making",
+        "great-conqueror"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's dispatches from Gaul functioned as weekly myth production in Rome, turning military reports into public imagination and celebrity.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Media and myth-making mechanism in this lecture.",
+      "topic_tags": [
+        "dispatches",
+        "forum",
+        "public-imagination",
+        "myth-making"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Caesar's expeditions into Germania and Britain as imagination-capturing gestures whose symbolic force mattered more than practical military results.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "germania",
+        "britain",
+        "symbolic-conquest",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The optimates decide to strip Caesar's command and prosecute him because his military celebrity makes him electorally unbeatable, while his illegal and immoral acts give the Senate a real case.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "optimates",
+        "senate",
+        "prosecution",
+        "rubicon",
+        "civil-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Senate equality is formal rather than practical: those with highest prestige sit at the front, speak first, set the agenda, and control debate.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0039",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Answer to a student question in this lecture.",
+      "topic_tags": [
+        "senate",
+        "agenda-control",
+        "prestige",
+        "political-power"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "At the start of the Caesar-Pompey civil war, Caesar controls Rome and poor Gaul while Pompey and the optimates control Spain, Greece, Anatolia, Syria, and North Africa, including Rome's food supply.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Civil-war setup in this lecture.",
+      "topic_tags": [
+        "civil-war",
+        "pompey",
+        "caesar",
+        "provinces",
+        "food-supply"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pompey's best strategy is containment: because Pompey controls Rome's food provinces, he can wait for hunger, troop disloyalty, and Roman resentment to weaken Caesar.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Military-strategy reconstruction in this lecture.",
+      "topic_tags": [
+        "containment",
+        "pompey",
+        "food-supply",
+        "civil-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar faces one man versus an entire empire, but he has a highly disciplined, personally devoted army and opponents divided by distrust of Pompey's growing power.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Civil-war balance in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "army",
+        "pompey",
+        "optimates",
+        "division"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's clemency after Spain is not very Roman in Jiang's framing: he releases defeated enemies if they promise not to fight him, though some go back to Pompey anyway.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Interpretive military-political claim in this lecture.",
+      "topic_tags": [
+        "clemency",
+        "spain",
+        "caesar",
+        "roman-norms"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "At Pharsalus, optimate pressure overrides Pompey's preferred containment strategy, and Caesar's disciplined army withstands the cavalry hammer-and-anvil maneuver.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0044",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Battle narrative in this lecture.",
+      "topic_tags": [
+        "pharsalus",
+        "pompey",
+        "caesar",
+        "anvil-and-hammer",
+        "discipline"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats 'Vinni, vedi, vici' as Caesar's most famous line and another act of myth making that captures the Roman imagination.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0045",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "veni-vidi-vici",
+        "myth-making",
+        "roman-imagination",
+        "caesar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's intended clemency collides with soldiers who want the war over; at one battle in Africa, veterans massacre enemies to ensure they cannot fight again.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Battle narrative in this lecture.",
+      "topic_tags": [
+        "clemency",
+        "veterans",
+        "massacre",
+        "africa"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "By Munda, Jiang says Caesar's soldiers are so disciplined that they can attack uphill and destroy an enemy army, showing the extreme power of his force.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Military claim in this lecture.",
+      "topic_tags": [
+        "munda",
+        "army",
+        "discipline",
+        "caesar"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's reforms - land reform, debt relief, the Julian calendar, clemency, and expanded citizenship - are presented as efforts to resolve the contradictions that produced instability, civil war, and revolution.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0047",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Interpretive reform summary in this lecture.",
+      "topic_tags": [
+        "reform",
+        "julian-calendar",
+        "debt-relief",
+        "citizenship",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's ambition included a cult of personality and world-conquest plans against Parthia and Germania, but Jiang still frames his deeper motive as making Rome great again.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Interpretive synthesis in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "cult-of-personality",
+        "parthia",
+        "germania",
+        "ambition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Caesar did not primarily want to become king; like Sulla and Marius, he wanted to restore the Hannibal-era Rome of sacrifice, ancestral loyalty, and reform.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0049",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Answer to the motivation question in this lecture.",
+      "topic_tags": [
+        "motivation",
+        "kingship",
+        "hannibal-wars",
+        "reform",
+        "rome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the great general as bold, disciplined, fair, and concerned with power, organization, logistics, and the movement and feeding of armies.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Role definition in this lecture.",
+      "topic_tags": [
+        "general",
+        "discipline",
+        "logistics",
+        "military"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the politician as an avatar of the people who captures emotions, dreams, and longings through charisma, manipulation, and story.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Role definition in this lecture.",
+      "topic_tags": [
+        "politician",
+        "avatar",
+        "charisma",
+        "storytelling",
+        "emotional-imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the administrator or legislator as a systems-design thinker focused on details, law, regulation, macro structure, and how parts fit together.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Role definition in this lecture.",
+      "topic_tags": [
+        "administrator",
+        "legislator",
+        "systems-design",
+        "law",
+        "regulation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's distinctive power is imagination: he can imagine himself as different people at once, become all three roles at once, and therefore understand opponents who cannot understand him.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Central explanatory model in this lecture.",
+      "topic_tags": [
+        "imagination",
+        "multiple-personalities",
+        "myth-maker",
+        "opponents",
+        "caesar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar is killed by friends and close associates because changing Rome, even for Rome's good, produces cognitive dissonance and anxiety about the future.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0053",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Answer to the assassination question in this lecture.",
+      "topic_tags": [
+        "assassination",
+        "friends",
+        "cognitive-dissonance",
+        "change",
+        "identity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In answer to how Caesar challenged Roman identity, Jiang says Caesar changed time through the Julian calendar, acted alone as a great man, and violated the republican lesson that no one is above Rome.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer to an audience question in this lecture.",
+      "topic_tags": [
+        "roman-identity",
+        "julian-calendar",
+        "great-man",
+        "republica",
+        "time"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's genius, hubris, insufficient deference to the Senate, cult of personality, and apparent desire for kingship made Romans see him as a threat to Rome's stability and anti-monarchical identity.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Answer to an audience question in this lecture.",
+      "topic_tags": [
+        "hubris",
+        "senate",
+        "cult-of-personality",
+        "kingship",
+        "anti-monarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concedes there is evidence Caesar wanted to become king, but argues the real issue is cognitive dissonance: Caesar's existence challenged Roman perception and meaning.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Conclusion to an audience-question answer in this lecture.",
+      "topic_tags": [
+        "kingship",
+        "cognitive-dissonance",
+        "roman-identity",
+        "caesar"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pompey and Crassus were optimates and former supporters of Sulla, while Caesar was a populare, making their alliance secret and unexpected.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Answer to student prompt in this lecture.",
+      "topic_tags": [
+        "pompey",
+        "crassus",
+        "caesar",
+        "optimates",
+        "populare"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The First Triumvirate works because Pompey, Crassus, and Caesar each have issues blocked by the Senate, so political expediency lets them cooperate despite being enemies.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Answer to student prompt in this lecture.",
+      "topic_tags": [
+        "first-triumvirate",
+        "expediency",
+        "senate",
+        "alliance",
+        "enemies"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar's genius in the alliance is his charisma and manipulation: he can form a working coalition with people technically and politically opposed to him.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "caesar",
+        "charisma",
+        "manipulation",
+        "alliance",
+        "expediency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang previews the next lecture as the world Caesar created after his death: the Republic falls and the Roman Empire is born.",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Course-sequence preview on 2024-11-12.",
+      "topic_tags": [
+        "next-class",
+        "roman-empire",
+        "fall-of-the-republic",
+        "caesar"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002"
+      ],
+      "moment": "The myth maker sees himself as the protagonist in a novel he is writing.",
+      "source_phrase": "the protagonist, in a novel that they are writing",
+      "why_it_matters": "This gives Jiang's Caesar model its psychological core: power begins as authorship over reality.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0004"
+      ],
+      "moment": "Movies become reality creation machines that lodge in the mind and alter perception.",
+      "source_phrase": "Movies are reality creation machines",
+      "why_it_matters": "The phrase explains myth making as a technology of perception, not merely propaganda.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "moment": "Caesar dies because a new myth of Rome overtakes the old myth of Rome.",
+      "source_phrase": "his new myth of Rome was surpassing the old myth of Rome",
+      "why_it_matters": "This is the lecture's central reversal: successful reform becomes intolerable because it changes identity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "moment": "Rome remembers the Hannibal crisis as its finest hour, when existence itself was threatened and everyone sacrificed.",
+      "source_phrase": "their very existence was threatened by Hannibal",
+      "why_it_matters": "This old heroic memory becomes the myth Caesar later tries to revive and replace.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009"
+      ],
+      "moment": "Rome becomes an imperial republic, an empire wearing the institutional skin of a republic.",
+      "source_phrase": "It is an imperial republic",
+      "why_it_matters": "This contradiction supplies the structural pressure behind the rest of the lecture.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009"
+      ],
+      "moment": "The values that made Rome strong become problems for Rome.",
+      "source_phrase": "these values that made Rome strong were now problems",
+      "why_it_matters": "It reverses the usual heroic reading of Roman virtue into a source of crisis.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0011"
+      ],
+      "moment": "A triumph does not only glorify one man; it raises sons, grandsons, and great-grandsons into political memory.",
+      "source_phrase": "your sons, your grandsons, your great-grandsons will all be remembered",
+      "why_it_matters": "Jiang shows elite competition as intergenerational myth and family capital.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013"
+      ],
+      "moment": "Rome, for the first time in Jiang's account, cannot feed itself.",
+      "source_phrase": "Rome couldn't feed itself",
+      "why_it_matters": "The empire's success produces dependence and fragility inside the capital.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0014"
+      ],
+      "moment": "The optimates call themselves the best people.",
+      "source_phrase": "Optimates just means best people",
+      "why_it_matters": "The faction's name becomes a miniature ideology of inherited status.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "moment": "The rich cannot be challenged by the poor because that would overhaul the social system.",
+      "source_phrase": "the rich cannot be challenged by the poor",
+      "why_it_matters": "The lecture's class conflict becomes a defense of identity and order, not just wealth.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0019"
+      ],
+      "moment": "The Republic falls because the system is incapable of change.",
+      "source_phrase": "the system is incapable of change",
+      "why_it_matters": "It connects reform failure directly to civilizational breakdown.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "moment": "Roman factional war is cousins fighting cousins, fathers and grandfathers against ambitious sons.",
+      "source_phrase": "they're like cousins of each other",
+      "why_it_matters": "Jiang shrinks the grand factional conflict into a family drama of elite succession.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "moment": "Civil war crosses the sacred line when generals march against their own city and kill their own people.",
+      "source_phrase": "march against your own government, against your own city",
+      "why_it_matters": "It marks the moment republican norms are broken by military force.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "moment": "Sulla invents a public list where murder becomes rewarded state policy.",
+      "source_phrase": "if you go kill them, you'll be rewarded by the state",
+      "why_it_matters": "The old order tries to restore stability by legalizing revenge and confiscation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025"
+      ],
+      "moment": "Caesar grows up inside contradiction and imagines himself as the man of destiny who will save Rome.",
+      "source_phrase": "the man of destiny to save the republic",
+      "why_it_matters": "It links the lecture's myth-maker model to Caesar's own self-conception.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0027"
+      ],
+      "moment": "Captured by pirates, Caesar is insulted by a low ransom and tells them to ask for more.",
+      "source_phrase": "I'm worth at least 50",
+      "why_it_matters": "The embellished insult condenses Caesar's self-myth into a comic, unforgettable act.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028"
+      ],
+      "moment": "The facts can be uncertain; what matters is whether the details are appealing enough to be remembered.",
+      "source_phrase": "it doesn't matter if the facts are true or not",
+      "why_it_matters": "This is a sharp definition of myth making as memorable narrative force.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0031"
+      ],
+      "moment": "The optimates develop Caesar derangement syndrome.",
+      "source_phrase": "Caesar derangement. Syndrome.",
+      "why_it_matters": "Jiang names elite hatred as obsession rather than ordinary opposition.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0031"
+      ],
+      "moment": "Caesar shocks everyone by dropping the heroic triumph and choosing the election path.",
+      "source_phrase": "I don't want this crap. I want to stand for election.",
+      "why_it_matters": "The reversal shows Caesar's ability to escape the psychology his enemies project onto him.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034"
+      ],
+      "moment": "The myth of Caesar as great conqueror is built on a campaign Jiang flatly calls genocide.",
+      "source_phrase": "he basically committed genocide against the Gauls",
+      "why_it_matters": "The lecture refuses to separate Caesar's mythic genius from mass violence.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0036"
+      ],
+      "moment": "Each week, a soldier reads Caesar's accomplishments in the Roman forum and captures Rome's imagination.",
+      "source_phrase": "he would read the accomplishments of Caesar of that week",
+      "why_it_matters": "It turns conquest into serialized public storytelling.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037"
+      ],
+      "moment": "Caesar's trip to Britain is the Roman equivalent of the moon landing.",
+      "source_phrase": "equivalent back then of the moon landing",
+      "why_it_matters": "The image shows why symbolic exploration can matter more than military result.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037"
+      ],
+      "moment": "Caesar constructs a new reality of himself as the great conqueror.",
+      "source_phrase": "constructing a new reality of Caesar as the great conqueror",
+      "why_it_matters": "This restates the lecture's myth-maker model in the concrete case of Gaul.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0038"
+      ],
+      "moment": "When the Senate moves against him, Caesar answers by declaring war on Rome.",
+      "source_phrase": "he basically declares war on Rome",
+      "why_it_matters": "The myth maker crosses from narrative power into open civil war.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041"
+      ],
+      "moment": "Caesar is one man versus an entire empire.",
+      "source_phrase": "one man versus an entire empire",
+      "why_it_matters": "The phrase compresses the apparent impossibility of Caesar's civil-war position.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0043"
+      ],
+      "moment": "Caesar wins and then does something not very Roman: he lets enemies go.",
+      "source_phrase": "he does something that's not very Roman",
+      "why_it_matters": "Clemency becomes part of Caesar's new political myth and a challenge to older revenge norms.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046"
+      ],
+      "moment": "The most powerful Latin phrase captures Rome again: I came, I saw, I conquered.",
+      "source_phrase": "I came, I saw, I conquered",
+      "why_it_matters": "The line makes conquest feel instantaneous and theatrical, exactly the myth-maker's form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046"
+      ],
+      "moment": "Caesar orders mercy, but his veterans massacre the enemy because they want the war finished.",
+      "source_phrase": "Caesar orders them to show mercy the veterans his veterans massacred their enemies",
+      "why_it_matters": "The moment shows the limit of Caesar's myth of clemency once war fatigue takes over.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048"
+      ],
+      "moment": "Caesar changes time itself by replacing Rome's lunar calendar with the Julian calendar.",
+      "source_phrase": "Before Julius Caesar, the Romans used the lunar calendar",
+      "why_it_matters": "Calendar reform makes identity disruption concrete: even the measure of time changes under Caesar.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0049"
+      ],
+      "moment": "Caesar wants to conquer the entire world, and Jiang folds that ambition into making Rome great again.",
+      "source_phrase": "He basically wanted to conquer the entire world",
+      "why_it_matters": "The scale of Caesar's ambition makes reform and domination hard to separate.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051"
+      ],
+      "moment": "The politician is an avatar of the people, a manipulator of dreams and longings.",
+      "source_phrase": "basically like an avatar of the people",
+      "why_it_matters": "This compact definition explains how myth making enters mass politics.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0052"
+      ],
+      "moment": "Caesar's secret power is imagination, the ability to become several contradictory people at once.",
+      "source_phrase": "That was Julius Caesar's secret power, his imagination",
+      "why_it_matters": "This is Jiang's answer to Caesar's success, beyond ordinary military or political skill.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054"
+      ],
+      "moment": "Outlawing white rice is Jiang's image for reform that may be good but still attacks identity.",
+      "source_phrase": "we're going to outlaw rice, white rice",
+      "why_it_matters": "The analogy makes cognitive dissonance visceral rather than abstract.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0056"
+      ],
+      "moment": "People like Caesar are not supposed to exist in Rome.",
+      "source_phrase": "people like Julius Caesar aren't supposed to exist",
+      "why_it_matters": "The sentence captures why genius itself becomes a constitutional threat.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0057"
+      ],
+      "moment": "The real issue is that Caesar's very existence challenged what Rome was and what Rome meant.",
+      "source_phrase": "the very existence of Caesar challenged their perception of what Rome was and what Rome meant",
+      "why_it_matters": "This is the final formulation of assassination as identity crisis rather than only constitutional fear.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "moment": "A secret alliance works because political enemies become useful to one another.",
+      "source_phrase": "their alliance was secret. It was completely unexpected",
+      "why_it_matters": "The First Triumvirate becomes another instance of Caesar understanding incentives better than identities.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "moment": "Caesar puts aside political differences for interest and expediency.",
+      "source_phrase": "for the sake of interest and expediency",
+      "why_it_matters": "The phrase captures the manipulative flexibility behind Caesar's coalition building.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "moment": "After Caesar dies, the Republic falls and the Roman Empire is born.",
+      "source_phrase": "after he dies... The Republic falls",
+      "why_it_matters": "The close turns Caesar's death into the hinge between republican contradiction and imperial birth.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "myth maker",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "A person who sees himself as destined to change the world and constructs a new reality that absorbs and alters the old one.",
+      "confidence": "high"
+    },
+    {
+      "term": "cognitive dissonance",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The discomfort produced when a new myth disrupts the old myth people use to understand the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "piety, liberty, and republica",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The three principles Jiang says formed Rome's Hannibal-era mythology of sacrifice.",
+      "confidence": "high"
+    },
+    {
+      "term": "common land",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Newly conquered territory that could have been distributed broadly, especially to the poor, but was captured by the rich in Jiang's account.",
+      "confidence": "high"
+    },
+    {
+      "term": "scorched earth policy",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0006",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The strategy of making land unfarmable so Hannibal's army could not feed itself.",
+      "confidence": "high"
+    },
+    {
+      "term": "imperial republic",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Jiang's phrase for Rome after conquest: an empire whose political form remains a republic.",
+      "confidence": "high"
+    },
+    {
+      "term": "republica",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Public virtue, understood as competition by Rome's best and brightest to promote Roman welfare and glory.",
+      "confidence": "high"
+    },
+    {
+      "term": "triumph",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0011",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "A military parade that establishes a Roman general as a hero and benefits his family's future political standing.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Peter Turchin's term, used by Jiang for a cycle in which population growth and peace produce too many elites competing with one another.",
+      "confidence": "medium"
+    },
+    {
+      "term": "optimates",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The upper nobility who defend Rome's existing order and the tradition of piety, liberty, and republica.",
+      "confidence": "high"
+    },
+    {
+      "term": "populares",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Lower nobility seeking political change and power through alignment with the people.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gracchi brothers",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0017",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Lower-noble reformers whose land-reform proposal and assassination mark, for Jiang, the start of the Republic's fall.",
+      "confidence": "high"
+    },
+    {
+      "term": "Social War",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "A conflict in which Italian allies rebelled and forced Rome to grant citizenship, leaving voting power unresolved.",
+      "confidence": "high"
+    },
+    {
+      "term": "Servile Wars",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Slave revolts that Jiang lists among the cascading conflicts of the late Republic.",
+      "confidence": "high"
+    },
+    {
+      "term": "civil war",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang defines it simply as two armies killing each other, here Romans killing Romans.",
+      "confidence": "high"
+    },
+    {
+      "term": "proscription",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Sulla's public list of sanctioned targets whose killers receive state reward and confiscated property.",
+      "confidence": "high"
+    },
+    {
+      "term": "man of destiny",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Jiang's phrase for Caesar's self-understanding as the figure destined to save the Republic through reform.",
+      "confidence": "high"
+    },
+    {
+      "term": "myth-making genius",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0026",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Caesar's ability to shape public memory through vivid, retellable stories regardless of factual certainty.",
+      "confidence": "high"
+    },
+    {
+      "term": "praetor",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "A Roman office Caesar wins before going to Spain to fight wars and seek a triumph.",
+      "confidence": "medium"
+    },
+    {
+      "term": "consulship",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0031",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The elected office Caesar chooses over the triumph and uses to pursue land reform.",
+      "confidence": "high"
+    },
+    {
+      "term": "libertine",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A reputation the optimates attach to Caesar, meaning sexual license and moral looseness.",
+      "confidence": "high"
+    },
+    {
+      "term": "First Triumvirate",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0033",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The secret alliance of Caesar, Pompey, and Crassus that lets each bypass Senate obstruction and gives Caesar Gaul.",
+      "confidence": "high"
+    },
+    {
+      "term": "bread and circus",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Public feasts and festivals funded by Caesar's Gallic wealth to ingratiate himself with the Roman people.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gaul",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0034",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The northern province where Caesar wages years of war, earns wealth, builds an army, and constructs his conqueror myth.",
+      "confidence": "high"
+    },
+    {
+      "term": "Rubicon",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The boundary Caesar crosses when he effectively declares war on Rome.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman Senate",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0039",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A formally collective body whose practical power is concentrated among prestigious front-rank speakers.",
+      "confidence": "medium"
+    },
+    {
+      "term": "containment strategy",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Pompey's strategy of waiting Caesar out by using control of food provinces and time.",
+      "confidence": "high"
+    },
+    {
+      "term": "clemency",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0043",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Caesar's policy of forgiving defeated enemies and inviting them back into Roman public life if they serve Rome.",
+      "confidence": "high"
+    },
+    {
+      "term": "anvil and hammer strategy",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "A battle tactic where infantry locks the enemy in place and cavalry strikes from behind.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pharsalus",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0044",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "The August 48 BCE battle where Pompey and Caesar meet and Caesar's army defeats Pompey's strategy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Julian calendar",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0047",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A calendar reform Caesar creates with astronomers to replace Rome's lunar calendar.",
+      "confidence": "high"
+    },
+    {
+      "term": "cult of personality",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The public elevation of Caesar through omnipresent busts, coinage, and personal genius.",
+      "confidence": "high"
+    },
+    {
+      "term": "cult of personality",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0049",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "A personal political aura around Caesar that makes him seem above Rome and close to kingship.",
+      "confidence": "high"
+    },
+    {
+      "term": "general",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "In Jiang's typology, a bold, disciplined, fair organizer of military power and logistics.",
+      "confidence": "high"
+    },
+    {
+      "term": "politician",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "In Jiang's typology, an avatar of the people who captures emotions and longings through charisma and story.",
+      "confidence": "high"
+    },
+    {
+      "term": "administrator or legislator",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0051",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "In Jiang's typology, the systems-design thinker concerned with law, regulation, details, and how institutions fit together.",
+      "confidence": "high"
+    },
+    {
+      "term": "cognitive dissonance",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Identity-disrupting discomfort caused by reform that changes the reality people live inside.",
+      "confidence": "high"
+    },
+    {
+      "term": "hubris",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The arrogance implied by believing one can personally change Rome.",
+      "confidence": "high"
+    },
+    {
+      "term": "populare",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Caesar's factional position in contrast to Pompey and Crassus as optimates.",
+      "confidence": "high"
+    },
+    {
+      "term": "optimates",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "The conservative faction Jiang says Pompey and Crassus belonged to as supporters of Sulla.",
+      "confidence": "high"
+    },
+    {
+      "term": "expediency",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0059",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "The practical logic that lets enemies cooperate when each has blocked interests.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman Empire",
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "The post-republican order Jiang says will be born after Caesar's death.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0062"
+      ],
+      "note": "Jiang says the next class will cover what happens after Caesar dies and the birth of the Roman Empire; this is course sequencing, not a prediction about future events.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0003"
+      ],
+      "note": "The transcript says Steve Jobs was a famous writer, but context indicates Jiang is using Jobs as an entrepreneur and myth maker; no semantic claim relies on the 'writer' wording."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript phrase 'how the ultimate defeated Hannibal' appears to be ASR noise; the semantic claim preserves the intended point that scorched-earth sacrifice helped Rome defeat Hannibal."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0013"
+      ],
+      "note": "The transcript renders Peter Turchin as 'Peter Churchill'; the semantic pass uses the recognizable model name with medium confidence."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0014",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript alternates among optimates/optimists and populares/populars; semantic terms normalize to optimates and populares while preserving source refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0021"
+      ],
+      "note": "The transcript renders optimates as 'Ottomans' in the student-question answer; context indicates optimates."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript says Caesar was 'designated to be proscribed'; semantic claims keep Jiang's meaning without correcting all ASR variants."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0025"
+      ],
+      "note": "The transcript says Caesar's life was 'speared'; context indicates spared."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0027",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0028"
+      ],
+      "note": "Jiang explicitly treats parts of the pirate story as embellishment and uncertain fact, so claims describe its function as myth rather than asserting every detail happened."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0038",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0040"
+      ],
+      "note": "The transcript renders Rubicon as 'River Cod' in one place; semantic claims normalize to Rubicon."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0039"
+      ],
+      "note": "The student question before Jiang's Senate explanation is not captured, so the interaction is marked exchange with medium confidence rather than a direct question quotation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0041"
+      ],
+      "note": "The transcript says Caesar's army fought eight years in Spain; earlier context indicates Gaul. The semantic claim avoids depending on the location in that phrase."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0046"
+      ],
+      "note": "Several battle names and phrases in the Africa passage appear noisy in ASR; claims preserve Jiang's broad point about clemency, soldiers, and massacre rather than canonical battle details."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054"
+      ],
+      "note": "The transcript says 'Chinese' where context means Chinese people; semantic claims preserve the analogy without expanding beyond the lecture."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0054",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0055"
+      ],
+      "note": "The audience question is restated by Jiang and not independently captured as another speaker's full sentence."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0058"
+      ],
+      "note": "The one-word 'Crassus' prompt is treated as a real source question only because Jiang immediately expands it into a question about the alliance."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0061",
+        "video:predictive-history-f8qqgsefggc@transcript:v1#seg-0063"
+      ],
+      "note": "The short closing 'Okay' segments are not substantive questions and should not appear in public episode questions."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "packet_id": "predictive-history-iturb48of9y-semantics-pkt-0001",
+  "source_id": "video:predictive-history-iturb48of9y",
+  "source_date": "2024-10-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0001",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0002",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reviews the father-son dynamic from the prior class, contrasts the founder's judgment, meritocracy, and selflessness with the inheriting son's expansion, loyalty demands, insecurity, and pursuit of glory, then reframes the thought experiment as an analytical model that must explain and predict behavior.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0004",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0006"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang uses classroom prompts and likely inaudible student responses to derive three predictions about Alexander: aggressive expansion, tyranny over talented subordinates, and boundless ambition. He then insists that the model should be applied skeptically, not merely used to condemn Alexander.",
+      "speaker_attribution": "Jiang is audible throughout; brief classroom answers are implied by his 'Exactly' responses but are not independently transcribed.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0007",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang begins the historical test with Philip's death and Alexander's succession crisis, arguing that Philip's remarriage to Cleopatra Eurydice threatened Alexander because a Macedonian-born son would be more legitimate and would push Alexander out of the line of succession.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0001",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "note": "All focus segments carry a single diarized speaker label and read as Jiang lecturing. In seg-0004 and seg-0005, Jiang's 'Exactly' implies brief student replies that are not captured as separate transcript text.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The founder-father of a great organization or nation is modeled as a builder who exercises strong judgment, promotes talent through meritocracy, and subordinates personal interest to the greater good.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "General analytical model reviewed in the 2024-10-29 lecture.",
+      "topic_tags": [
+        "father-son-dynamic",
+        "founder",
+        "meritocracy",
+        "leadership"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The inheriting son is modeled as expansionist, risk-taking, obedience-seeking, selfish, and anxious to prove self-worth because the father's shadow makes every achievement appear derivative.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "General analytical model reviewed in the 2024-10-29 lecture.",
+      "topic_tags": [
+        "father-son-dynamic",
+        "inheritance",
+        "insecurity",
+        "ambition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says an analytical model is useful only if it can explain behavior and predict future events; this lecture tests the father-son model by applying it to Alexander the Great.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Method statement in the 2024-10-29 lecture.",
+      "topic_tags": [
+        "analytical-model",
+        "prediction",
+        "method",
+        "alexander"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "From the model, Jiang predicts that Alexander will pursue aggressive expansion and take strategically unwise risks once he becomes king.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0004",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Model-derived prediction about Alexander's reign stated on 2024-10-29.",
+      "topic_tags": [
+        "alexander",
+        "expansion",
+        "risk",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Alexander's predicted tyranny as a demand for total obedience that leads him to eliminate talented people promoted by Philip because they can counter his power.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0004",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Model-derived diagnosis about Alexander's reign stated on 2024-10-29.",
+      "topic_tags": [
+        "alexander",
+        "tyranny",
+        "obedience",
+        "meritocracy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that anyone who tries to reason with Alexander for his own good will be read as a threat, disloyal, and an enemy to be eliminated.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Model-derived prediction about Alexander's reign stated on 2024-10-29.",
+      "topic_tags": [
+        "alexander",
+        "tyranny",
+        "loyalty",
+        "paranoia"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Alexander's ambition will be boundless: he will never stop expanding and never stop going to war.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Model-derived prediction about Alexander's reign stated on 2024-10-29.",
+      "topic_tags": [
+        "alexander",
+        "ambition",
+        "war",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the three predictions capture the essence of Alexander's life, but he also instructs the class to be skeptical and ask whether the model's prejudice may make them unfair to Alexander.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0006",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Method and evaluation claim in the 2024-10-29 lecture.",
+      "topic_tags": [
+        "alexander",
+        "model-testing",
+        "skepticism",
+        "prejudice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Philip's remarriage to Cleopatra Eurydice destabilized Macedonian succession because she was Macedonian and any son from that marriage would be more legitimate than Alexander.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0007",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical explanation presented in the 2024-10-29 lecture.",
+      "topic_tags": [
+        "philip",
+        "alexander",
+        "cleopatra-eurydice",
+        "succession"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the succession problem created by Eurydice as extremely controversial and 'like dynamite almost' because it threatened to push Alexander out of the line of succession.",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical diagnosis presented in the 2024-10-29 lecture.",
+      "topic_tags": [
+        "alexander",
+        "succession",
+        "political-order",
+        "crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0002"
+      ],
+      "moment": "The son lives under the father's shadow and hears whispers that everything he achieved came from the father.",
+      "source_phrase": "people in the background, in the shadows, whispering",
+      "why_it_matters": "It turns the inheritance problem into a psychological motor for conquest and self-proving.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0003"
+      ],
+      "moment": "A thought experiment becomes an analytical model only when it can predict the future.",
+      "source_phrase": "it must do is predict... It has to predict the future",
+      "why_it_matters": "This gives the lecture its method: the model will be judged by whether Alexander's life behaves as predicted.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0006"
+      ],
+      "moment": "Advice offered for Alexander's own good becomes evidence of disloyalty and a reason for elimination.",
+      "source_phrase": "for his own good, speak up and try to reason with him, he will see you as a threat",
+      "why_it_matters": "It captures Jiang's tyranny model as a reversal: loyalty expressed as correction is interpreted as enmity.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0007"
+      ],
+      "moment": "The class must test whether the model explains Alexander or merely blinds them with prejudice.",
+      "source_phrase": "is it possible that we are blinded by our prejudice?",
+      "why_it_matters": "It prevents the lecture from becoming simple moral indictment and keeps the model under audit.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "moment": "Philip's remarriage is described as political dynamite inside Macedon's succession order.",
+      "source_phrase": "it's like dynamite almost",
+      "why_it_matters": "The metaphor condenses the succession crisis into an unstable explosive that explains Alexander and Olympias's fear.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "father-son dynamic",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0001",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "A comparative model in which the founding father builds through judgment, talent promotion, and selflessness while the inheriting son seeks expansion, obedience, glory, and self-proof under the father's shadow.",
+      "confidence": "high"
+    },
+    {
+      "term": "analytical model",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "A way to understand the world that must both explain motivations and behavior and predict future events.",
+      "confidence": "high"
+    },
+    {
+      "term": "tyrant",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0004",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "In this lecture, someone who demands obedience from everyone and eliminates talented people who could counter his power.",
+      "confidence": "high"
+    },
+    {
+      "term": "boundless ambition",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Alexander's predicted inability to stop expanding or stop going to war.",
+      "confidence": "high"
+    },
+    {
+      "term": "succession dynamite",
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The destabilizing political threat created when Philip's Macedonian wife Cleopatra Eurydice could produce a more legitimate heir than Alexander.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript says Philip's death occurs in 333 BCE while nearby source context later says 336 BCE; preserve the source wording and treat this as a possible transcript or lecture-date inconsistency.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0002"
+      ],
+      "note": "The phrase 'late the son will be very selfish' and the abrupt 'not And' look like ASR damage; the semantic claim is limited to the surrounding clear contrast between the son as selfish and glory-focused."
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0004",
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0005"
+      ],
+      "note": "Jiang's classroom prompts are transcribed, but any student answers are not; do not treat these as public audience questions."
+    },
+    {
+      "refs": [
+        "video:predictive-history-iturb48of9y@transcript:v1#seg-0008"
+      ],
+      "note": "The phrase 'great generals at Attalus' appears to be ASR damage for a relation involving Attalus; preserve exact refs and avoid over-correcting in semantic claims."
+    }
+  ]
+}

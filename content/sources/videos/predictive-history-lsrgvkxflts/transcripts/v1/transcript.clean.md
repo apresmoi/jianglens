@@ -1,0 +1,231 @@
+# Geo-Strategy #7:  Who Killed Iranian President Ebrahim Raisi?
+
+Source: https://www.youtube.com/watch?v=LsRGvKxfLts
+
+## seg-0001 / 00:00:01-00:01:42 / SPEAKER_00
+
+Okay, so let's start class and start to think about the question, how and why did the Iranian president, Ibrahim Raisi, die? Okay, so when you do history or when you do analysis about current events, you're always going to encounter three major problems, okay? The first major problem is that there's very little information that you can work with, okay? Truth is very limited. That's the first problem. Second problem is that the information that you have may not be true, okay? So there's also misinformation. That's the second problem. And the third problem is that there's always going to be an official narrative that the media, the government publishes, and it may not be true, but it's the one that people accept, okay? So the challenge for us today is we know that the Iranian president, Ibrahim Raisi, died, and we will have to use analysis, okay? Game theory analysis to figure out how he died and who might have killed him.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:42-00:03:12 / SPEAKER_00
+
+Does that make sense? But the problem again is we are working with very limited information that the Iranian government chooses to disclose to the public, okay? So what do we know? We know that as a fact that on May 19th, the Iranian president was in Azerbaijan. For a damn opening ceremony. And then he got into his helicopter and he was flying back into the country. And when he was flying back, there was an accident that caused the helicopter to crash, killing all nine people on board, including the president, the foreign minister, three crew members. The president. The governor of a province, a local religious leader, the bodyguard of the president, and the head of the president's security detail, okay? So all nine people died. And we have reason to believe that the most probable reason is an accident, okay? That this was an accident, that it was bad weather, there was a fog.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0002
+
+## seg-0003 / 00:03:12-00:04:25 / SPEAKER_00
+
+The pilot couldn't really see. And he crashed into the mountain. And the evidence for this is that, one, this happens a lot. For example, in 2020, the very famous basketball player Kobe Bryant, he died in a helicopter crash along with his daughter, okay? So this actually happens a lot. The second piece of evidence is that the helicopter they were flying in is very dangerous. It's very old. It was basically an American helicopter that they started to use in the 70s. And after the Revolution, America refused to cooperate with Iran, so they could never actually maintain the helicopter. So maybe it was just a malfunction, okay? So these are two compelling reasons why most people believe this is an accident. And this is, again, a good example. This is probably the cost that will go down in history, okay? But game theory analysis requires us to explore other possibilities. So there are two other possibilities.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:25-00:06:01 / SPEAKER_00
+
+Second possibility is foreign adversary, which means that either the United States or Israel or even possibly Azerbaijan, okay? But a foreign adversary was responsible for this. The problem with this theory, though, is one of opportunity and motive, okay? So what this means is it's very hard as a foreign government to plan an assassination of an Iranian leader in Iraq, okay? It's very hard. The opportunity isn't there. So maybe Israel, America want him dead. Well, how could they pull it off? It's very hard to do such a thing, okay? Second problem is motive. What reason would Israel or the United States have for killing the president? Now, in the past, the United States and Israel have killed Iranians before. So, for example, in January 2020, President Donald Trump ordered the assassination of General Soleimani in Baghdad, okay? But there was a motive here. And the motive is that Soleimani is responsible for Iranian foreign policy in the Middle East and therefore a direct threat to American interests, okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0004
+
+## seg-0005 / 00:06:01-00:07:28 / SPEAKER_00
+
+And Israel in the past has staged assassinations of Iranian nuclear scientists in Iran. But again, the motive is, well, Israel is afraid that Iran develops a nuclear weapon. And therefore, the easiest way to stop that is to kill the scientists, okay? Israel, on April 1st of this year, also staged an airstrike against the Iranian embassy in Damascus, killing two Iranian generals. But again, the motive is, what Israel said was that these generals were working with Hamas. Hamas to threaten Israel, okay? So the motive is very clear. And the problem here is it's very unclear what the motive is for killing the Iranian president, okay? In fact, there's a lot of risk in that. But again, I am not discounting the possibility it could be a foreign adversary. And the third possibility is an internal enemy, okay? Meaning that there were certain individuals or factions or groups in Iran that wanted the president dead, okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0005
+
+## seg-0006 / 00:07:28-00:08:41 / SPEAKER_00
+
+And so with this internal enemy idea, opportunity, this problem doesn't exist because obviously these enemies would have resources to track down and kill the president, okay? So an example of this is that, remember that when the president was flying home, he had, there were three helicopters, right? It was only his helicopter that crashed. The two other helicopters were fine. Now, in theory, and like we don't know who was in the other two helicopters, but we can guess that they were probably military escort, right? They were there to protect the president. But at the same time... If they wanted to kill the president, they could, okay? So was it the military? So the opportunity was there. But then the question then is motive. Why would they do that? And the answer is that the possibility, again, we are looking at possibilities, right?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0006
+
+## seg-0007 / 00:08:41-00:10:24 / SPEAKER_00
+
+Everyone agreed that Abraham Raisi would most likely become supreme leader. The supreme leader of Iran when the current Ayatollah Khamenei died, okay? So Raisi is 63 and Khamenei is 85. So we can expect that within the next five years, Khamenei will die and Raisi, who many see as Khamenei's prodigy, will become the Ayatollah. Now, the Iranian political system, it's kind of strange because it's an Islamic republic. And what that means is that the ultimate authority is God, the Koran. And it's the Ayatollah who represents the God and Koran, okay? So he's the ultimate authority. He has ultimate veto power. And the president is maybe like the CEO of the country. Okay? So the person with the real power in the country is the Ayatollah. And if Raisi becomes the Ayatollah, then we can expect major policy shifts in the country, okay? Okay? So then the question then is, okay, well, who would benefit from Raisi's death and stopping him from becoming the next Ayatollah?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0007
+
+## seg-0008 / 00:10:24-00:12:02 / SPEAKER_00
+
+And what people say is, and again, guys, I'm working with very limited information. I don't know Iran that well. I just read the news, okay? But what people say is that there are two top contenders to be the next Ayatollah. The first contender, the most likely, is Raisi. The second contender is actually Khamenei's son, Moshtaba Khamenei. Okay? So with him gone, Moshtaba Khamenei is most likely to be the next Ayatollah. Now, this presents a problem for Iran because it's an Islamic republic. It's supposed to be under the rule of God, right? And one thing that most Iranians oppose is the idea that, the idea of hereditary leadership, okay? A father passing on leadership to his son. Because remember that in 1979, the Iranians had a revolution to overthrow the king. And everyone was in favor of overthrowing the king. Okay? So if Moshtaba Khamenei did become Ayatollah, this would actually create a political legitimacy crisis in Iran.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0008
+
+## seg-0009 / 00:12:03-00:13:35 / SPEAKER_00
+
+Okay? And then the question then is, okay, alright, so Moshtaba Khamenei benefits, but who would benefit from having him as Ayatollah? And the answer is actually very simple. There's a group in Iran called the Islamic Revolutionary Guard Corps. Okay? Or the IRGC. Okay? We will call them the Revolutionary Guards. And what's interesting about them is that they are separate from the army, okay? The military. So where do these guys come from? And why are they separate from the army? Well, it goes back to 1979. Remember in 1979, there was a popular uprising against the Shah of Iran, the king of Iran. And the government brought back Ayatollah Khamenei from exile to run the country. And Khamenei at that time was afraid of the army because the army had sworn allegiance to the king. So to deal with this problem, Khamenei established another armed group called the Revolutionary Guard Corps.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0009
+
+## seg-0010 / 00:13:36-00:15:05 / SPEAKER_00
+
+Okay? And what they do is actually very different. They are different from the military. The military has an obligation to protect the nation. But the Revolutionary Guard Corps has a responsibility to protect the revolution, the Islamic Republic. Okay? Which means ultimately that they are Khamenei's private army. They only obey him. And the other thing about the revolution is that not only were they trying to bring the Islamic Republic to Iran, but they were trying to export the revolution across the Middle East. Okay? So basically, the Revolutionary Guard Corps had two main functions. The first main function is to protect the Ayatollah and ensure the revolution succeeds in Iran. But the other function is to export the revolution to the Middle East. Okay? To spread Islamic revolution to Syria, Iraq. And that's why the Middle East was so disturbed and so angered by the revolution. All right? Now, this was why the IRGC was founded.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0010
+
+## seg-0011 / 00:15:05-00:16:35 / SPEAKER_00
+
+And because so many countries considered Iran to be a threat, they encouraged Saddam Hussein to invade the country in 1980. Okay? And this started something called the Iran -Iraq War. And it was not just the Americans who support this war. The Soviets also support Saddam Hussein. And the Middle East countries like Saudi Arabia also support it. Saddam Hussein. It was a brutal war. And a lot of Iranians died. But ultimately, the Revolutionary Guard Corps was able to protect the revolution from foreign invaders. And because of that, they became the most dominant military group in Iran. And so they almost had unlimited access to Iran. Okay? Not only to protect the revolution in Iran, but also to export it overseas. All right? So does this all make sense to you guys? But with so much power, they eventually became corrupt. Right? Today, people believe that they control about 10 to 50 % of the entire Iranian economy.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0011
+
+## seg-0012 / 00:16:36-00:17:55 / SPEAKER_00
+
+And because you have such a monopoly of power, it meant that over time, the Iranian economy stagnated. Okay? Now, Western sanctions, American sanctions played a major role. Iran couldn't really sell its oil overseas. But the real problem was the fact that you had a monopoly of power, this Revolutionary Guard Corps, controlling the entire economy. And this led to protests. Okay? So the first group's protest was in 1999. You had 50,000 students protesting the revolution. The lack of democracy in Iran. What they were really protesting, of course, was the corruption of the Revolutionary Guard Corps. But you couldn't do that. You can't say that. So they were protesting for democracy. They were crushed. Then, in 2009 to 2010, there's something called the Green Movement. And the idea of the Green Movement was that people wanted a new government that promised reform. And in the election, their candidate, the reform candidate, lost. And people suspected that the Revolutionary Guard Corps cheated.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0012
+
+## seg-0013 / 00:17:55-00:19:13 / SPEAKER_00
+
+And so there were violent protests. And again, the Revolutionary Guard suppressed the revolution. And at that point, basically, people lost faith in democracy. And so afterwards... In other words, every other president was basically a puppet of the regime. Okay? And the most recent protest, in 2023, there was a young woman named Massa Amani. And she was arrested by the police for failing to wear, like, head covering in public. And she died in custody. Okay? So people suspect that she was beaten by the police. And this caused massive protests. Okay? So for the past 10, 20 years, there have been continuous protests in Iran about the government and the economy, but mainly about the fact that the Revolutionary Guard Corps has monopolized the economy to its own benefit, which has caused the economy to stagnate and for people to become poorer over time. But...
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0013
+
+## seg-0014 / 00:19:13-00:20:35 / SPEAKER_00
+
+Because the protests are so widespread, the Revolutionary Guard Corps ironically has become more powerful because they are seen as the most loyal to the current regime. Okay? Their loyalty is not contested. And so what this means is this. What this means is that... Is there... If there's a change in leadership... Okay? If the Ayatollah dies and a new Ayatollah comes into power, what the new Ayatollah will do is reduce the power of the Revolutionary Guard Corps. Does that make sense to you guys? Because he needs to establish his own power base. And the Revolutionary Guard Corps was loyal to the current... He's... The... The Revolutionary Guard Corps is most loyal to the current leader, the Ayatollah Khomeini. But if there's a new Ayatollah who comes to power, he needs to establish his own power base. So he'll bring his people into power. And that means reducing the power of the Revolutionary Guard Corps. Okay? Does that make sense? And so there'll be a direct threat to the Revolutionary Guard Corps.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0014
+
+## seg-0015 / 00:20:35-00:22:00 / SPEAKER_00
+
+Now, if... But if the current leader's son, Moshtaba Khomeini, were to become the new Ayatollah, then things would stay the same. And the Revolutionary Guard Corps would continue to control the economy. Okay? Does that make sense to you guys? All right? So again, I'm presenting a reason why the Islamic Revolutionary Guard Corps would want to kill the current president. And ensure that the Ayatollah's son becomes the next leader. Because they want to maintain the monopoly of power over the country. Does that make sense to you guys? All right? Now, I now want to discuss who these people are and how they think about the world. Okay? Because they're corrupt, but they're ultimately religious fanatics. Okay? That want to export the revolution across the Middle East. Okay? So, let's talk about 1979. In 1979, the Shah left Iran because there were so many protests against him.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0015
+
+## seg-0016 / 00:22:00-00:23:06 / SPEAKER_00
+
+He... The Shah realized that it was very hard for him to stay in power despite the brutality of the army and the police. There were just too many protests. Too many people wanted to see him gone. Okay? So, he goes to America. And there are many Iranians who are outraged by this for two reasons. The first reason is that they want the Shah, the king of Iran, to stand trial for all his human rights crimes while he was king of Iran. Okay? That's the first reason. But the second reason is they were afraid that the Shah had gone to America to win a war against Iran. And the second reason is that the Shah was trying to gain America's support for an invasion of the country. The Shah was trying to get America to invade Iran and put him back in power, which happened in 1953. Okay? And so, to counter the threat of the Shah, in November of 1979, 300 to 500 students, college students, stormed the U.S.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0016
+
+## seg-0017 / 00:23:06-00:24:13 / SPEAKER_00
+
+Embassy and took it over and held 53,000 people. These were the three Americans as hostages. Okay? And they demanded the Shah be returned to Iran to stand trial. Now, this is obviously an invasion of American territory. This goes against international law. But when the students did this, there was so much public support for the students that the authorities didn't really do anything. Also, the Ayatollah Khomeini supported the students. Okay? So, there was widespread public support for the students. When the students invaded the embassy, the first thing that diplomats must do is basically destroy all the files, right? All the secrets. So, all embassies come with some things called shredders. Do you guys know what shredders are? Okay? Shredders are just basically machines. And if you want to destroy paperwork very quickly, you put it in the machine. Okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0017
+
+## seg-0018 / 00:24:13-00:25:39 / SPEAKER_00
+
+And the machine will cut the paper into about 100 different strips of paper. Okay? And this is the fastest, most effective way to destroy your documents. And there are about like tens of thousands of pages. Can you guess what the students did? Over months, the students slowly and methodically pieced the documents back together one by one. And what these documents revealed to the students, and to the public in Iran, is that the real center of power in Iran was not the palace where the Shah lived, but the U.S. Embassy. It was the U.S. Embassy that was directing policy in Iran. It was the U.S. Embassy that was responsible for the brutality of the regime. And it was the U.S. Embassy that in 1953 staged a coup d 'etat. Against the democratically elected government of Iran. And installed the police state of the Shah. Okay? So these students, when they read these documents, were really angry.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0018
+
+## seg-0019 / 00:25:39-00:27:12 / SPEAKER_00
+
+Okay? And you can imagine that these students, because they pieced together these documents, right? They're fanatics. And guess what, guys? These students have gone on to become the top military leaders. Of the country. Okay? And I'll just give you three names. Hussein Dagan, who was the Minister of Defense from 2013 to 2017. Okay? He was a student protester in the U.S. Embassy. That's one person. Second person is Muhammad Ali Jafari, who from 2007 to 2019, was head of the Revolutionary Guard Corps. Okay? And also, Muhammad Bagari, who is still the Chief of Staff of the Iranian Army. So the Revolutionary Guard Corps are staffed by individuals who hate America. And see America as the great Satan. And they basically want to go to war with America to avenge the wrongs and evils. And America did to Iran. Okay? Does that make sense? Second thing I'll mention is that when Saddam Hussein invaded Iran in 1980, Iran didn't really have an army.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0019
+
+## seg-0020 / 00:27:12-00:28:31 / SPEAKER_00
+
+And the reason why is that the Revolutionary Guard Corps had arrested or exiled or executed the officers of the military. Because they were not seen as loyal to the Revolution. They were seen as loyal to the Shah. Okay? So Iran didn't have an army. And Saddam Hussein had airplanes. He had tanks. He had lots of soldiers. And everyone thought that the war would end very quickly. But then what the Revolutionary Guard Corps did was they organized a new army called the Bastaji. Okay? The Bastaji. And this was a volunteer army of poor religious people from the villages. And what the Alatullah Khomeini said to them is, we don't have weapons. But we have God on our side. Okay? The Iraqis have armor. But we have divine power. And what they did was. To these villagers. And these guys are about your age. Okay? They're 16, 17, 18.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0020
+
+## seg-0021 / 00:28:32-00:30:04 / SPEAKER_00
+
+And they gave each of these guys a rifle and a key to put over their necks. Okay? And the idea is that this key is your entry into heaven. Because when you die in war, you are granted automatic entry into heaven. And so these guys. And they were organized into groups of like 22. Okay? They would run ahead across Iraqi minefields. Tanks would strike at them. Okay? Helicopters would come and strike at them. And they would keep on running. And of course, they would die. Okay? Because they didn't have any armor. But. The Iraqis spent so much ammunition and bombs on them that eventually the Iraqi army became exhausted. Does that make sense? And so they withdrew. But then Iran took the fight to Iraq. But this shows you that the main power in Iran. Why Iran is such a powerful military is that their Revolutionary Guard Corps are run by fanatics with a passion for revolution.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0021
+
+## seg-0022 / 00:30:04-00:31:37 / SPEAKER_00
+
+And they're supported by the Bajajis who are these poor, illiterate religious volunteers. And there's tens of millions of them for Iran to draw on. Okay? And. What the Revolutionary Guard Corps has been doing after the Iraq war is they recognize that if an enemy comes to attack Iran, people are going to die. So they want to take the fight to them. Okay? And that's why for the past 20, 30 years, the Revolutionary Guard Corps has been supporting conflict in the Middle East. Okay? They started something called the Axis of Resistance. So the Axis of Resistance includes Hamas in the Gaza Strip, Hezbollah in Lebanon, the Houthis in Yemen, Syria, the Assad regime in Syria, as well as Shia militia in Iraq. Okay? And so all the money that the Revolutionary Guard Corps brought to Iran. Mix in Iran is then sent to this Axis of Resistance to create conflict against Saudi Arabia, United States and Israel.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0022
+
+## seg-0023 / 00:31:38-00:32:06 / SPEAKER_00
+
+Okay? Does that make sense? But so you can imagine that there are some people and there are actually a lot of people in Iran who are like, why are we doing this again? What? What if we withdrew from the Middle East? And just focus on our own economy? Then Israel, Saudi Arabia and the United States won't have a reason to attack us.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0023
+
+## seg-0024 / 00:32:06-00:32:07 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0024
+
+## seg-0025 / 00:32:11-00:33:35 / SPEAKER_00
+
+So there are people who are thinking like, maybe the problem isn't Israel. Maybe the problem isn't the United States. Maybe the problem is these guys because they're fanatics. And they're creating all these problems in the Middle East. Which is crippling our economy. If we stop these conflicts and just focus on our own economic development, then maybe our people will be better off. Okay? And one reason to think that there are people in Iran, politicians in Iran, who are extremely skeptical of Revolutionary Guard policy in the Middle East. Is that in January 2020. In January 2020. Remember that General Soleimani was assassinated by the Americans. The Iranian response wasn't that big of a deal. Okay? The Iranians basically didn't respond. Whereas the Revolutionary Guard Corps, because their leader was killed, they demanded vengeance. Right? They wanted to go to war. But we can suspect that it was the politicians like Raisi who basically said, no guys, let's be patient.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0025
+
+## seg-0026 / 00:33:36-00:34:44 / SPEAKER_00
+
+Okay? Going to war against Israel and the United States right now is suicidal. So they were urging caution and restraint. And the Revolutionary Guard Corps didn't like that. And then April 1st of this year, the Israelis struck the Iranian embassy. Right? Which made matters worse. And again, at that time, I'm sure the Revolutionary Guard Corps was, let's just go to war. And again, I'm sure Raisi and his team said to them. Guys, we cannot beat the United States and Israel in a war. Let's be strategic about this. Let's be patient. Our time will come. But we need to be patient. Okay? And I'm sure that because the fanatics, they were like, they are in a way, these politicians are cowards. They're weak. They're soft. They're not believers. Let's get rid of them. Okay? And then what happened on May 19th? Was an opportunity arise where there was fog. And they were like, well, here's our opportunity.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0026
+
+## seg-0027 / 00:34:45-00:36:07 / SPEAKER_00
+
+And so they caused an accident. Okay? Does it make sense, guys? All right? So again, I don't know what happened. But if we look at game theory and we examine who would benefit from the death of Raisi, this group of people, the Revolutionary Guard Corps, would most benefit. Because it is very likely that if Raisi died. Raisi became the next supreme leader, their authority and their policies would be challenged. Okay? And so by getting rid of Raisi, it makes Mojaba Khomeini, the son of the Ayatollah, that much more probable in ascending to the supreme authority. And that allows them to maintain their power, monopoly of power. And even if this accession causes a disaster. A legitimacy crisis. Well, it's good for them because then the regime is even more dependent on them. Okay? Does that make sense? So during these protests, especially the Green Movement, the Revolutionary Guard Corps was the ones responsible for cracking down.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0027
+
+## seg-0028 / 00:36:07-00:37:26 / SPEAKER_00
+
+And they were violent and brutal in cracking down. Okay? So, okay. Are you guys clear? About the logic here? Any questions? Okay, that's a great question. So Suning asked, does the military still exist? And the answer is yes, it still exists. Okay? But again, the Revolutionary Guard Corps has certain responsibilities that make it the most powerful group. Okay? So the first thing is that it's responsible for the navy. Okay? Why is this important? Because the Strait of Hormuz is a very strategic shipping lane. And so they're responsible to maintain that strait. Okay? And the navy allows them also to smuggle. Which means that they can make more money for themselves. Okay? So that's the first thing. Second thing is that they're also responsible for the missile program. The missile program. Okay? And this is where actually the military spends most of its money. The missiles. Okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0028
+
+## seg-0029 / 00:37:26-00:39:04 / SPEAKER_00
+
+And the third thing is, of course, foreign policy. Meaning that the Axis of Resistance gets... Sorry, the Axis of Resistance only interacts with the Revolutionary Guard Corps. Okay? So General Soleimani and the two generals who died in the Israeli airstrike, they all belong to the Islamic Revolutionary Guard Corps. Okay? So these three things mean that the... The Islamic Revolutionary Guard Corps, they control basically all the money and all the power in the country. Okay? But they're still military. Does that make sense? All right. Any more questions? Okay. So Jack asked a great question. Why is the Revolutionary Guard Corps... Why do they believe that they can control Mashtaba Khomeini? Okay? Okay. So in 1989, the first Ayatollah Khomeini died. And Ayatollah Khomeini succeeded him. And the moment he became the new Ayatollah, he focused on cultivating his personal relationship with the Revolutionary Guard Corps. Okay? So basically, he knows... There's about 250,000 of them. And he made a point of meeting everyone and memorizing their names.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0029
+
+## seg-0030 / 00:39:04-00:40:16 / SPEAKER_00
+
+He even knows the names of their children. So the current Ayatollah Khomeini has a great personal relationship with the Islamic Revolutionary Guard Corps. Okay? They're basically his private army. And the reason why that the Revolutionary Guard Corps would transfer loyalty to Mashtaba is that Mashtaba himself is an extremely unpopular figure. If he were popular, if he were like a clever politician, then he would most likely become Netanyahu. He would become the next Ayatollah. But because he's very unpopular, there's a lot of resistance to him. So if he becomes next Ayatollah, it would be only because the Revolutionary Guard Corps put him there, which means that he must be loyal and obedient to their policies. Does that make sense, Jack? Okay. But that's a great question. Any more questions before I move on? Okay. So Celine asked a great question. What changes now that Raisi is dead? Okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0030
+
+## seg-0031 / 00:40:17-00:41:45 / SPEAKER_00
+
+Now, all right. So if it was an accident, then in theory nothing changes because ultimately it's the Ayatollah Khomeini who is responsible for policy. Okay? But if I am correct and it was a planned assassination by the Revolutionary Guard Corps, then everything changes. Okay? What this means is that the political class goes away and the military class takes over. And they dictate policy. Okay? So you will see, first of all, there's going to be an election. Okay? So in late June, there will be someone to replace the president. Okay? And it's most likely that the current vice president, who is Mohammad Makbar, the current vice president, will become the new president. And this is important because Raisi does not come from the Revolutionary Guard Corps. He comes from the judiciary. Okay? That's a different power base. But Mohammad Makbar comes from the Revolutionary Guard Corps. So he would advance Revolutionary Guard Corps interests. Okay?
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0031
+
+## seg-0032 / 00:41:45-00:43:05 / SPEAKER_00
+
+And if that's the case, then what we'll see is the country, the leadership, preparing its people for total war. Okay? We will see that the rhetoric becomes more extreme and preparing its people for an eventual American invasion. There will be much more harsh crackdown on political dissent. Okay? So that's the first thing. Second thing is that the Revolutionary Guard Corps cannot defeat America face -to -face. Okay? The only thing that they can do to defeat America and Israel is to lure them into the country. And they do that by provoking them. Okay? So there are different things that they can do to provoke America. The first is to accelerate the nuclear program. Okay? What America and Israel have done. What America and Israel have said is they see Iran possessing nuclear weapon as an existential threat to the safety of Israel. So this is a no -no. Okay? So if Iran accelerates the program, this is a direct provocation.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0032
+
+## seg-0033 / 00:43:05-00:44:24 / SPEAKER_00
+
+Okay? That's the first thing. Second thing is to encourage the proxies. Okay? So right now, Israel is very concerned about Hezbollah. In the north. Hamas has already attacked them. Hezbollah could also attack Israel. If Hezbollah attacks Israel, then Israel can only interpret this as Iran encouraging Hezbollah to attack them. Okay? But if Hezbollah attacks Israel, then Israel and the United States would see this as an escalation. And they would be much more determined to eventually attack Iran in some way. You also have Shia militias in Iraq who could attack U.S. military bases. Okay? You also have the Houthis in Yemen who can attack Saudi Arabia, oil fields. Okay? So you're encouraging your proxies to make things worse in the Middle East, in which case the United States can only conclude that we need to destroy the head of the snake, which is Iran. Okay? The second thing that could happen. The third thing that could happen is.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0033
+
+## seg-0034 / 00:44:29-00:45:56 / SPEAKER_00
+
+Basically, Iran starts to attack shipping lanes. Okay? It makes shipping much more difficult. Okay? And the fourth thing is basically terror. Basically, Iran, for its proxy, launches terror attacks against America and its allies. Okay? So there are many things that Iran can do to provoke a war. And again, if I'm right. And again, I don't know if I'm right or not. Then we should expect that in late June, Mohammed Markbar wins the election and his rhetoric becomes much more extremist. We need to take the fight to America. Okay? We need to avenge Soleimani. We can also expect that the fighting in the Middle East becomes much more extreme. Okay? And we should see escalation. The acceleration of the nuclear program. Proxies become much more violent. Shipping is disturbed. And you have a terror campaign throughout the world. Okay? Does that make sense? All right. But again, I don't know.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0034
+
+## seg-0035 / 00:45:57-00:47:12 / SPEAKER_00
+
+And also, by the way. Just because these things might happen. Does not mean that. Raisi was killed by the Revolutionary Guard Corp. Okay? Do you understand? But I'm saying that. If in fact. The Revolutionary Guard Corp. Did kill Raisi. Then we should see these things happening. But just because these things happen does not mean. That. Raisi was killed. Okay? Does that make sense? All right. Any more questions? Okay. So. Celine's question is. How would they fight the war? And. They can only fight the war in one way. Which is to lure the Americans into attacking Iran. Okay? Does that make sense? It is suicide to attack America in the open. Remember that America has shock and awe. Which means that they have air supremacy. Which means they have satellites that can see everything that you do. Which means they have special forces. Okay? It is suicide to attack America in the open. So what Iran needs to do.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0035
+
+## seg-0036 / 00:47:12-00:48:18 / SPEAKER_00
+
+Is trick America into invading Iran. And then America would lose for sure. Okay? And that is something that we will discuss next week. But that is what they have to do. And again. If they provoke America enough. Then America will eventually get angry enough. To send an invasion force against Iran. Does that make sense? Okay. Any more questions? Is this clear? Is this clear to you guys? The logic here. Okay? So. Again. This is all speculation. I have no actual information or evidence. Okay? I am just saying. Okay. Raisi died. And it was probably an accident. But if it was not an accident. Then who would most benefit from killing him? Or his death? And the answer is. The revolutionary guard corps. Because they see him as a direct threat. To their authority. Okay? But at the same time. What is important to remember is that. Any new leader. Would see these guys as a problem.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0036
+
+## seg-0037 / 00:48:18-00:49:24 / SPEAKER_00
+
+Because they have too much power. And they are creating too much tension. Overseas. And they are too fanatical. Okay? And so. It is most likely. That they would want to elevate. Mostaba Khomeini. Because Mostaba Khomeini is not popular. And he would have to be loyal to. The revolutionary guard corps. Or he would need their help. To maintain power. Okay? But I. Okay. Does that make sense guys? All right. So next class. We'll discuss. What an actual war. Between the United States and Iran. Would look like. And what's important to remember is that. I've been saying all semester. That the United States will lose the war. But never have I said. That Iran will win the war. Okay? And the reason why is that. This war will be brutal. For Iran. Tens of millions of people will die. For no reason. And that's why. Politicians like Raisi and others. Are like. Let's not go to war.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0037
+
+## seg-0038 / 00:49:25-00:49:28 / SPEAKER_00
+
+Okay? All right. So I'll see you guys. Next week.
+
+Ref: video:predictive-history-lsrgvkxflts@transcript:v1#seg-0038

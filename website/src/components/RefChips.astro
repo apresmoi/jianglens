@@ -1,0 +1,141 @@
+---
+const { refs = [], sourceUrl = '', transcriptUrl = '', player = false } = Astro.props;
+
+function videoUrl(ref) {
+  if (!sourceUrl || !Number.isFinite(Number(ref.start))) return null;
+  const separator = sourceUrl.includes('?') ? '&' : '?';
+  return `${sourceUrl}${separator}t=${Math.floor(Number(ref.start))}s`;
+}
+
+function transcriptSpanUrl(ref) {
+  if (!transcriptUrl || !ref.segment_id) return null;
+  return `${transcriptUrl}#${ref.segment_id}`;
+}
+---
+
+<span class="ref-list">
+  {refs.map((ref) => (
+    <span class="ref-wrap">
+      {player ? (
+        <button class="ref-chip" type="button" data-video-start={Number.isFinite(Number(ref.start)) ? Math.floor(Number(ref.start)) : undefined}>
+          {ref.time_label || ref.segment_id || 'source'}
+        </button>
+      ) : (
+        <a class="ref-chip" href={ref.segment_id ? `#${ref.segment_id}` : undefined}>
+          {ref.time_label || ref.segment_id || 'source'}
+        </a>
+      )}
+      {player && transcriptSpanUrl(ref) && (
+        <a class="ref-video" href={transcriptSpanUrl(ref)}>span</a>
+      )}
+      {!player && videoUrl(ref) && (
+        <a class="ref-video" href={videoUrl(ref)} target="_blank" rel="noreferrer">video</a>
+      )}
+      <span class="ref-popover" role="tooltip">
+        <strong>{ref.segment_id || ref.ref}</strong>
+        {ref.speaker && <em>{ref.speaker}</em>}
+        {ref.excerpt && <span>{ref.excerpt}</span>}
+      </span>
+    </span>
+  ))}
+</span>
+
+<style>
+  .ref-list {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    vertical-align: middle;
+  }
+
+  .ref-wrap {
+    position: relative;
+    display: inline-flex;
+    align-items: stretch;
+  }
+
+  .ref-chip,
+  .ref-video {
+    min-height: 28px;
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid rgba(244, 234, 216, 0.16);
+    padding: 0 8px;
+    color: #d7ccbb;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    font-size: 0.74rem;
+    text-decoration: none;
+    background: rgba(244, 234, 216, 0.045);
+  }
+
+  button.ref-chip {
+    cursor: pointer;
+  }
+
+  .ref-chip {
+    border-radius: 4px 0 0 4px;
+  }
+
+  .ref-video {
+    border-left: 0;
+    border-radius: 0 4px 4px 0;
+    color: #c9a765;
+  }
+
+  .ref-wrap:has(.ref-chip:only-child) .ref-chip {
+    border-radius: 4px;
+  }
+
+  .ref-chip:hover,
+  .ref-video:hover,
+  .ref-chip:focus-visible,
+  .ref-video:focus-visible {
+    border-color: rgba(201, 167, 101, 0.54);
+    color: #f4ead8;
+    outline: none;
+  }
+
+  .ref-popover {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 0;
+    z-index: 20;
+    width: min(320px, 78vw);
+    display: none;
+    border: 1px solid rgba(244, 234, 216, 0.2);
+    border-radius: 6px;
+    padding: 10px;
+    color: #d7ccbb;
+    background: rgba(9, 10, 8, 0.98);
+    box-shadow: 0 18px 46px rgba(0, 0, 0, 0.42);
+  }
+
+  .ref-popover strong,
+  .ref-popover em,
+  .ref-popover span {
+    display: block;
+  }
+
+  .ref-popover strong {
+    color: #c9a765;
+    font-size: 0.74rem;
+  }
+
+  .ref-popover em {
+    margin-top: 4px;
+    color: #928b7d;
+    font-size: 0.74rem;
+    font-style: normal;
+  }
+
+  .ref-popover span {
+    margin-top: 6px;
+    font-size: 0.82rem;
+    line-height: 1.42;
+  }
+
+  .ref-wrap:hover .ref-popover,
+  .ref-wrap:focus-within .ref-popover {
+    display: block;
+  }
+</style>

@@ -1,0 +1,199 @@
+{
+  "packet_id": "predictive-history-aepsuc-uq5k-semantics-pkt-0003",
+  "source_id": "video:predictive-history-aepsuc-uq5k",
+  "source_date": "2024-05-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0017",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0021",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0023"
+      ],
+      "kind": "unclear",
+      "summary": "The UNKNOWN spans are one-word fragments or backchannels. They appear to be student responses or ASR fragments inside Jiang's classroom exchange, not durable questions.",
+      "speaker_attribution": "Unknown student or transcript artifact.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0018",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0020",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0022",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang continues the Marx sequence: alienation produces political consciousness, organization, solidarity, and revolutionary leverage because workers do the real work. He then argues that postwar industrial societies partially accepted worker-centered politics, before the 1980s revolt of elites moved society back toward money through Reaganism, Thatcherism, and neoliberal free-market capitalism.",
+      "speaker_attribution": "Primarily Jiang, with brief inferred student answers.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0017",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0021",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0023"
+      ],
+      "note": "The diarized UNKNOWN spans are too fragmentary to preserve as public questions. The substantive content is Jiang restating or incorporating student answers.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents Marx's political cycle as alienation leading to political consciousness, solidarity, political revolution, and a worker-centered society.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0018",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Historical-intellectual model explained on 2024-05-31.",
+      "topic_tags": [
+        "marx",
+        "alienation",
+        "solidarity",
+        "revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Marx was right in a broader sense because after World War II industrial societies made workers and unions central to social order and political reform.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2024-05-31.",
+      "topic_tags": [
+        "postwar-order",
+        "workers",
+        "unions",
+        "middle-class"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang contrasts workers, who create value, with money, which he says only creates more speculative money.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0020",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Conceptual claim stated on 2024-05-31.",
+      "topic_tags": [
+        "workers",
+        "money",
+        "value"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the 1980s brought a revolt of elites, visible in the Reagan Revolution, Thatcherism, neoliberalism, and free-market capitalism, which moved society away from the worker and back toward money.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical diagnosis of the 1980s stated on 2024-05-31.",
+      "topic_tags": [
+        "neoliberalism",
+        "reagan",
+        "thatcher",
+        "elite-revolt"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses CEO pay as evidence of the post-1980s shift: he contrasts roughly one million dollars and about 20 times worker pay in the 1970s with about twenty million dollars and 200 to 300 times worker pay today.",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Evidence claim current to the 2024-05-31 lecture.",
+      "topic_tags": [
+        "inequality",
+        "ceo-pay",
+        "workers"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019"
+      ],
+      "moment": "Alienation becomes a political machine: bitterness turns into consciousness, consciousness into solidarity, and solidarity into revolution.",
+      "source_phrase": "alienation... political consciousness... solidarity... political revolution",
+      "why_it_matters": "This is the worker-era causal chain that consumerism later disrupts.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0022"
+      ],
+      "moment": "Money does not create value; workers do the real work, and without them factories cannot run.",
+      "source_phrase": "The workers create value.",
+      "why_it_matters": "It explains why the worker could become a political center rather than merely an economic role.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "moment": "The 1980s are named as a revolt of elites: a turn from worker order back to money and concentrated power.",
+      "source_phrase": "The revolt elite happened in the 80s.",
+      "why_it_matters": "This makes neoliberalism part of the same historical dialectic rather than a standalone policy shift.",
+      "tone": "reversal",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "political consciousness",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0018",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The worker's recognition that alienation is political and can be acted on through organization and solidarity.",
+      "confidence": "high"
+    },
+    {
+      "term": "revolt of elites",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's name for the 1980s shift in which elites moved society away from worker-centered politics toward money, power, and neoliberalism.",
+      "confidence": "medium"
+    },
+    {
+      "term": "neoliberalism",
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Used as the free-market ideology associated with Reagan and Thatcher that helped transition society away from the worker.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "note": "The lecture places the worker-to-consumer transition in the 1980s and ties it to Reagan, Thatcher, neoliberalism, and rising inequality.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019",
+        "video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0024"
+      ],
+      "note": "Several names and phrases are ASR-damaged, including 'Marks' for Marx and 'revolt elite' for revolt of elites; semantic extraction normalizes only where the intended term is clear."
+    }
+  ]
+}

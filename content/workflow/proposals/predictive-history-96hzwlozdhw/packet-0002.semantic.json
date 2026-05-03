@@ -1,0 +1,228 @@
+{
+  "packet_id": "predictive-history-96hzwlozdhw-semantics-pkt-0002",
+  "source_id": "video:predictive-history-96hzwlozdhw",
+  "source_date": "2024-10-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0010",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0011",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0012",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0013",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0014",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0015",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns to Aeschylus and the Oresteia, first explaining how Greek playwrights repackaged mythology for contemporary political questions, then narrating the curse of Atreus, Agamemnon's sacrifice of Iphigenia, Clytemnestra's revenge, Orestes's matricide, and the clash between Apollo, the Furies, and Athena's jury.",
+      "speaker_attribution": "Jiang narrating and interpreting mythic plot material; no independent audience question in the focus refs.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0016"
+      ],
+      "note": "The packet is a continuous Jiang monologue. Some dialogue belongs to Jiang's retelling of mythic characters rather than separate speakers.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Greek playwrights used familiar mythology and repackaged it in contemporary contexts to explore modern themes.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Interpretive claim about Greek tragedy stated on 2024-10-17.",
+      "topic_tags": [
+        "mythology",
+        "interpretation",
+        "modern-themes",
+        "greek-tragedy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's retelling, the Oresteia begins with political succession, fraternal rebellion, and a violated feast that curses the house of Atreus.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0010",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Plot account of mythic material in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "oresteia",
+        "atreus",
+        "curse",
+        "myth"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats Agamemnon's sacrifice of Iphigenia as a morally unnecessary choice that launches the cycle of revenge rather than as a tragic necessity.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0012",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "agamemnon",
+        "iphigenia",
+        "revenge",
+        "moral-choice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames Orestes as trapped between two moral obligations: avenging his father and violating the cosmic order by killing his mother.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0013",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0014",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "orestes",
+        "revenge",
+        "cosmic-order",
+        "justice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The conflict between Apollo and the Furies is framed as a conflict between young gods and old gods, human justice and the laws of the universe.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0014",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Interpretive model stated in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "apollo",
+        "furies",
+        "old-gods",
+        "justice",
+        "law"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Athena's response to Orestes's impossible case is to convene a jury of 500 Athenian citizens, with both sides making morally compelling arguments.",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Interpretive account of the Oresteia in the 2024-10-17 lecture.",
+      "topic_tags": [
+        "athena",
+        "jury",
+        "democracy",
+        "moral-conflict"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009"
+      ],
+      "moment": "Myth becomes a vessel for contemporary politics.",
+      "source_phrase": "took material from Greek mythology and packaged it in a contemporary context",
+      "why_it_matters": "It explains why ancient tragedy can teach democracy without being a literal political treatise.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0010",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0011"
+      ],
+      "moment": "A feast is presented as a sacred contract, so poisoned hospitality becomes cosmic crime.",
+      "source_phrase": "a feast is a contract between you and the gods",
+      "why_it_matters": "This gives the revenge plot a moral structure larger than family cruelty.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0012"
+      ],
+      "moment": "Agamemnon should abandon the war but chooses to sacrifice his daughter.",
+      "source_phrase": "That's what he should do, but instead, he's like, fine, I'll sacrifice my daughter",
+      "why_it_matters": "Jiang makes the tragic chain begin with a political leader refusing the obvious moral exit.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0015"
+      ],
+      "moment": "The Furies reject human justice in the name of older cosmic law.",
+      "source_phrase": "We don't care about justice. We don't care about the laws of men. We care about the laws of the universe.",
+      "why_it_matters": "This is the lecture's first strong law-versus-law conflict, later echoed by Antigone.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Oresteia",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Aeschylus's play cycle, used by Jiang to show mythology repackaged as democratic instruction.",
+      "confidence": "high"
+    },
+    {
+      "term": "laws of the universe",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The Furies' older order of sacred obligation that overrides Apollo's younger human justice.",
+      "confidence": "high"
+    },
+    {
+      "term": "old gods and new gods",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's frame for the conflict between the Furies and Apollo, later used to set up old yielding to young.",
+      "confidence": "high"
+    },
+    {
+      "term": "jury",
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Athena's institutional answer to an impossible moral conflict, anticipating democracy as shared divine authority.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0009"
+      ],
+      "note": "The transcript renders Aeschylus as 'Ishulis'; semantic references should use the conventional name Aeschylus while preserving transcript refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0011",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0013",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0014",
+        "video:predictive-history-96hzwlozdhw@transcript:v1#seg-0016"
+      ],
+      "note": "Several names are ASR-damaged, including Aegisthus/Clytemnestra and 'fairies' for Furies; interpretation uses conventional spellings."
+    }
+  ]
+}

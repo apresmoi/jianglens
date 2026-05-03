@@ -1,0 +1,1706 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-jjqf9t59uy0:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-jjqf9t59uy0",
+  "source_id": "video:predictive-history-jjqf9t59uy0",
+  "source_title": "Civilization #1:  Explaining Humanity's Transition to Agriculture",
+  "source_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0",
+  "source_date": "2024-08-29",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-jjqf9t59uy0@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-jjqf9t59uy0/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-jjqf9t59uy0/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-jjqf9t59uy0/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-jjqf9t59uy0/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-jjqf9t59uy0/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-jjqf9t59uy0/packet-0006.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-jjqf9t59uy0/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-jjqf9t59uy0/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 6,
+    "interactions": 24,
+    "speaker_notes": 9,
+    "claims": 44,
+    "signature_moments": 28,
+    "predictions": 1,
+    "models": 25,
+    "glossary_terms": 26,
+    "chronology_notes": 5,
+    "uncertainty_notes": 12
+  },
+  "first_refs": [
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007",
+    "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the first civilization lecture by asking why humanity left hunter-gatherer life for agriculture. He presents the traditional paradigm: farming creates controllable food, surplus, specialization, politics, religion, arts, writing, science, technology, and finally modernity, then immediately says the evidence no longer supports that story.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "kind": "exchange",
+      "summary": "He reverses the progress story by arguing that farming was a bad bargain for humans: more labor, more children, land exhaustion, worse nutrition, and greater disease. A brief classroom prompt about farms appears to elicit the answer 'pigs,' but the student voice is not separately captured.",
+      "speaker_attribution": "Jiang, with a possible embedded classroom response",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Because the transition makes no obvious sense, Jiang frames the rest of the lecture as theory-building from archaeology, anthropology, psychology or neuroscience, and primatology, with Gobekli Tepe, Jericho, and Catalhoyuk as the archaeological evidence base.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lays out four theories for the transition to agriculture: coercion, war, respect for elders, and religion. He says there are arguments for all four, but most scholars currently favor religion.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He rejects coercion as a primary explanation by contrasting gorilla domination with human cooperation: even a giant boss can be resisted, tricked, poisoned, or escaped.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He rejects war as the main driver by pointing to peaceful bonobos, lack of early weapons, and lack of clear evidence for large intergroup violence, while allowing that future evidence could change the picture.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "kind": "answer",
+      "summary": "He treats respect for elders as valid but limited because premodern religious worlds often imagined life and history as cyclical, making death less absolute. A student question seems to occur, but its content is not captured; Jiang says the evidence is their religion, which will be discussed later.",
+      "speaker_attribution": "Jiang answering an inaudible student question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He moves to the archaeological case studies, beginning with Gobekli Tepe in central Turkey, a recently discovered and still uncertain religious site dated around 9500 BCE with massive T-shaped pillars thought to represent human beings.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Gobekli Tepe as a ritual site led by shamans who bridged the human, animal, and spirit worlds. Hunter-gatherers came there for worship, feasting, meeting mates, and following charismatic leaders.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0019",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0020"
+      ],
+      "kind": "answer",
+      "summary": "After an untranscribed question about where religion comes from, Jiang argues that everyone may need religion but only some charismatic figures can produce it through visions, dreams, or claims of contact with God or the spirit world.",
+      "speaker_attribution": "Jiang answering an inaudible student question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0020",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022"
+      ],
+      "kind": "answer",
+      "summary": "Responding to questions about the labor and structure of the temple, Jiang says religious devotion made the enormous manual work possible and that the site's astronomical structure had cosmological significance: a kind of clock meant to connect people with the outer world.",
+      "speaker_attribution": "Jiang answering classroom questions",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0023"
+      ],
+      "kind": "answer",
+      "summary": "He explains religious visions from the inside: believers say they really saw God or angels, and altered states from psychedelics, fasting, or meditation can make visions feel true even if modern observers doubt them.",
+      "speaker_attribution": "Jiang answering classroom questions",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0023",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to animal imagery on Gobekli Tepe's pillars and says the animals are shown in hunting motion because humans did not see themselves as separate from animals, trees, or the rest of the world; hunting required forgiveness, tribute, and protection from revenge.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0025",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the Gobekli Tepe animal-religion model: ceremonies paid tribute to animals, channeled their hunting power, and made them allies rather than enemies. He then turns to Jericho and the Natufian culture.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0026",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0027",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "He describes the Natufians as sedentary hunter-gatherers in the Levant who had evidence of year-round gazelle hunting, had domesticated crop technology for gardening, and practiced a skull cult or ancestor worship.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0029",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0030"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang reinterprets the Tower of Jericho. What first looked like evidence of war becomes a religious monument that used shadow and darkness to connect the village with the sky or space, with an inaudible student exchange folded into the explanation.",
+      "speaker_attribution": "Jiang, with untranscribed classroom responses",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0031",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He explains clay-covered skulls as ancestor worship: keeping the skull allowed communication with another world and access to secrets, including techniques like constructing a shadow-casting tower. He closes by insisting ancient intelligence was as sophisticated as modern intelligence, just organized by different beliefs.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0033",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Catalhoyuk as a large, egalitarian Turkish settlement where there was no separate temple or government because each house made worship part of everyday life. Religion had moved from occasional pilgrimage into birth-to-death domestic life.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0035",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He presents a theory of Catalhoyuk's mother-goddess religion: the goddess gives life, appears through birds or vultures, and receives the dead through sky burial before bones and skulls return to the house for ancestor worship.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0037",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets hunting scenes as either taunting and domesticating animals or dancing with them in tribute. The stronger interpretive line returns to reciprocity: apologizing for killing animals, honoring their souls, and maintaining harmony with nature.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He reads the mother goddess and bull together as a life system: the goddess gives life, the bull supplies vitality, and their union produces life. He then restates the lecture's answer: religious need and charismatic leaders produced settlement, ancestor worship, resource depletion, and eventually agriculture.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the causal chain: settlement depleted forest resources, population growth and farming pressure forced movement, religion traveled with the moving communities, and the transition from hunter-gathering to agriculture took thousands of years rather than one spark.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042"
+      ],
+      "kind": "exchange",
+      "summary": "He previews the next class on Ice Cave Paintings and then handles end-of-class questions. The transcript captures Jiang asking for clearer wording and clarifying that all three archaeological sites were discussed, but it does not preserve the students' full questions.",
+      "speaker_attribution": "Jiang with untranscribed student questions",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0044",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "He adds that only about five percent of Gobekli Tepe has been uncovered, asks for further questions, and closes by saying the next class will cover Ice Cave Paintings. The one-word SPEAKER_01 segment appears to be a backchannel, not a substantive question.",
+      "speaker_attribution": "Jiang plus a possible student backchannel",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "note": "The packet is overwhelmingly a single-speaker classroom lecture. Diarized SPEAKER_00 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "note": "The phrase 'Exactly. Thank you pigs' implies an unsegmented student response, but the transcript does not preserve a separate audience segment.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "note": "Diarized SPEAKER_00 remains Jiang. The lecture includes classroom prompts, but no separate substantive audience segment appears in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "note": "The phrase 'that's a great question' indicates an untranscribed student question about evidence for ancient attitudes toward death.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_00 is Jiang. Several audience questions are implied by Jiang's answers, but their wording is not captured as separate transcript text.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0025",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0032"
+      ],
+      "note": "SPEAKER_00 appears to be Jiang throughout. Student guesses around the Tower of Jericho are implied by Jiang's replies but are not separately transcribed.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0033",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0040"
+      ],
+      "note": "SPEAKER_00 appears to be Jiang throughout the packet. Classroom 'any questions' prompts do not include captured audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "note": "SPEAKER_00 appears to be Jiang during the close of the lecture.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0044"
+      ],
+      "note": "SPEAKER_01 says only 'Okay?' and should be treated as a backchannel or diarization artifact rather than a substantive source question.",
+      "suggested_speaker": "student or audience backchannel",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the traditional paradigm treats agriculture as the pivotal step toward modernity because farming produces controllable food, surplus, occupational specialization, writing, science, and technology.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Model presented and rejected in the 2024-08-29 lecture",
+      "topic_tags": [
+        "agriculture",
+        "modernity",
+        "surplus",
+        "civilization-paradigm"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the progress paradigm by saying the growing evidence shows it is not true and that the transition into farming was, from the human point of view, a bad deal.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang's assessment in the 2024-08-29 lecture",
+      "topic_tags": [
+        "agriculture",
+        "hunter-gatherers",
+        "progress-reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Using Harari's formulation, Jiang says humans thought they domesticated wheat, but wheat in effect domesticated humans by making them do the labor of its survival.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretive quotation and explanation inside the 2024-08-29 lecture",
+      "topic_tags": [
+        "wheat",
+        "domestication",
+        "harari",
+        "reversal"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists three costs of farming: harder work and population pressure, poorer nutrition than hunter-gatherers, and higher disease exposure from dense, dirty settlement with animals and waste.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "General historical diagnosis in the 2024-08-29 lecture",
+      "topic_tags": [
+        "labor",
+        "nutrition",
+        "disease",
+        "population-pressure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because the transition to farming remains unexplained, Jiang says the lecture can only construct theories from archaeological, anthropological, psychological or neurological, and primatological evidence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Method statement in the 2024-08-29 lecture",
+      "topic_tags": [
+        "method",
+        "archaeology",
+        "anthropology",
+        "primatology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents coercion as the theory that an elite group that did not want to work forced everyone else into agricultural labor, with gorilla alpha-male hierarchy as supporting primate evidence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Theory introduced and then critiqued in the 2024-08-29 lecture",
+      "topic_tags": [
+        "coercion",
+        "elite",
+        "gorillas",
+        "agriculture-theories"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents war as the theory that farming and settlement made defense easier, with chimpanzee violence as supporting primate evidence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Theory introduced and then critiqued in the 2024-08-29 lecture",
+      "topic_tags": [
+        "war",
+        "chimpanzees",
+        "fortification",
+        "agriculture-theories"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents respect for elders as the theory that humans were biologically or culturally disposed to protect old people, making settlement attractive because hunter-gatherer life was hard on elders.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Theory introduced and then critiqued in the 2024-08-29 lecture",
+      "topic_tags": [
+        "elders",
+        "anthropology",
+        "agriculture-theories"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the current scholarly consensus favors religion as the most likely explanation for why humans settled down and ultimately farmed.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Scholarly-consensus claim as presented on 2024-08-29",
+      "topic_tags": [
+        "religion",
+        "scholarly-consensus",
+        "agriculture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects coercion as insufficient because human cooperation, planning, weapons, deception, poisoning, and flight make one-person domination far harder among humans than among gorillas.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Jiang's evaluation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "coercion",
+        "cooperation",
+        "rebellion",
+        "human-brains"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects war as the main explanation because bonobos complicate the violent-primate analogy and because archaeology does not show enough early weapons or large intergroup violence.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Evidence assessment in the 2024-08-29 lecture",
+      "topic_tags": [
+        "war",
+        "bonobos",
+        "weapons",
+        "intergroup-violence"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the elder-care theory is weakened by ancient cyclical views of life and history, where death could be understood as rebirth or passage to the spirit world rather than final loss.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Jiang's interpretive argument in the 2024-08-29 lecture",
+      "topic_tags": [
+        "death",
+        "cyclical-time",
+        "elders",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies Gobekli Tepe as a religious site in central Turkey dated around 9500 BCE, with massive T-shaped pillars probably representing human beings.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Archaeological summary in the 2024-08-29 lecture",
+      "topic_tags": [
+        "gobekli-tepe",
+        "archaeology",
+        "religious-site",
+        "t-shaped-pillars"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Gobekli Tepe was probably a place of religious worship led by shamans, religious leaders who helped bridge the human, animal, and spirit worlds.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Interpretive archaeological claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "gobekli-tepe",
+        "shamans",
+        "spirit-world",
+        "religious-worship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang proposes that hunter-gatherers visited Gobekli Tepe periodically for religion, feasting, social association, mate-finding, and reproduction.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Speculative reconstruction in the 2024-08-29 lecture",
+      "topic_tags": [
+        "religious-festival",
+        "hunter-gatherers",
+        "feasting",
+        "mate-finding"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says charismatic leaders with visions could attract followers, become celebrity-like religious figures, and eventually be worshiped after death, creating settlement around the temple.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0018",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0019",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Speculative reconstruction in the 2024-08-29 lecture",
+      "topic_tags": [
+        "charismatic-leaders",
+        "visions",
+        "settlement",
+        "religion-origin"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that building Gobekli Tepe required religious devotion or faith, because the work was enormous and done by hand over years with many people.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0020",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "religious-devotion",
+        "faith",
+        "labor",
+        "temple-building"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the temple structure had cosmological significance: its relation to the sun and calendar was less about practical timekeeping than connecting with an outer world.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "cosmology",
+        "astronomy",
+        "calendar",
+        "outer-world"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames ancient religion as a form of science within its own belief system and says future people may someday interpret modern physics as religion too.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Methodological comparison in the 2024-08-29 lecture",
+      "topic_tags": [
+        "science",
+        "religion",
+        "belief-systems",
+        "historical-perspective"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains religious visions as experiences believers take as real, possibly produced by psychedelics, hunger, or meditation shifting perception.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "General explanatory model in the 2024-08-29 lecture",
+      "topic_tags": [
+        "visions",
+        "psychedelics",
+        "fasting",
+        "meditation",
+        "perception"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says early humans did not see themselves as separate from animals, trees, and the rest of the world, so hunting required asking forgiveness and paying respect to animal spirits.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Interpretive model in the 2024-08-29 lecture",
+      "topic_tags": [
+        "animals",
+        "animism",
+        "hunting",
+        "forgiveness",
+        "spirit"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says early religious festivals honored animals, channeled their power and wisdom for hunting, appeased them, and made them friends rather than enemies.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Interpretive model in the 2024-08-29 lecture",
+      "topic_tags": [
+        "animal-religion",
+        "hunting",
+        "tribute",
+        "reciprocity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies the Natufian culture as sedentary hunter-gatherers in the Levant who stayed in one place without yet being farmers.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0026",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Archaeological summary in the 2024-08-29 lecture",
+      "topic_tags": [
+        "natufian-culture",
+        "levant",
+        "sedentary",
+        "hunter-gatherers"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says gazelle teeth provide evidence for year-round settlement because seasonal diet changes color the teeth differently, showing gazelles were hunted in the same area in summer and winter.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Evidence explanation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "gazelle-teeth",
+        "seasonality",
+        "archaeological-evidence",
+        "sedentism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Natufians had the technological capacity to farm because they had domesticated crops, but they chose to garden for pleasure while mostly hunting and gathering.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0027",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Archaeological interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "domesticated-crops",
+        "gardening",
+        "choice-not-to-farm",
+        "natufians"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies the skull cult as the beginning of ancestor worship: clay-covered skulls were kept in houses for worship.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Archaeological interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "cult-of-the-skull",
+        "ancestor-worship",
+        "jericho",
+        "natufians"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Tower of Jericho was first interpreted as war evidence but later research recast it as a religious monument with cosmological shadow effects.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Archaeological interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "tower-of-jericho",
+        "war-theory",
+        "religious-monument",
+        "shadow"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the tower's darkness ritual as magic that collapsed the distance between space and the village and thereby proved the religious leader's access to God.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0030",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Interpretive model in the 2024-08-29 lecture",
+      "topic_tags": [
+        "magic",
+        "darkness",
+        "charismatic-leader",
+        "religious-proof"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says ancestor skulls mediated communication with the spirit world and could be imagined as a way to learn secrets, making this a method of scientific discovery within that belief system.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0031",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretive model in the 2024-08-29 lecture",
+      "topic_tags": [
+        "ancestor-worship",
+        "spirit-world",
+        "scientific-discovery",
+        "belief-system"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that ancient people were as intelligent, creative, and sophisticated as modern people; they simply operated within a different set of beliefs.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Methodological claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "ancient-intelligence",
+        "belief-systems",
+        "science",
+        "religion"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Catalhoyuk as a large Turkish settlement around 7500 BCE, with roughly 8,000 people at its height and an egalitarian structure without a separate worship place or government.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Archaeological summary in the 2024-08-29 lecture",
+      "topic_tags": [
+        "catalhoyuk",
+        "egalitarian",
+        "settlement",
+        "turkey"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Catalhoyuk's living rooms functioned as temples, making it one of the first religious communities where religion permeated everyday life from birth to death.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "catalhoyuk",
+        "domestic-religion",
+        "religious-community",
+        "everyday-life"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Catalhoyuk's religion was sophisticated because it could explain everyday life and align social existence with religious meaning.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "religion",
+        "explanation",
+        "meaning",
+        "catalhoyuk"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents the mother goddess as a theorized Catalhoyuk deity of life, represented by birds or vultures because birds belong to the sky.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Speculative interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "mother-goddess",
+        "vulture",
+        "sky",
+        "life"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says sky burial combined mother-goddess worship with ancestor worship: vultures consumed the flesh as tribute, bones returned to the house, and skulls remained in the living room for ancestor worship.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Speculative interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "sky-burial",
+        "mother-goddess",
+        "ancestor-worship",
+        "skulls"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says one interpretation of Catalhoyuk hunting images is animal tribute: dancing with or respecting animals before killing them to maintain harmony with nature.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0037",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Speculative interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "hunting",
+        "animal-tribute",
+        "harmony-of-nature",
+        "catalhoyuk"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the mother goddess and bull as a generative system: the goddess represents life, the bull represents vitality and masculine energy, and life requires their union.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Speculative interpretation in the 2024-08-29 lecture",
+      "topic_tags": [
+        "mother-goddess",
+        "bull",
+        "vitality",
+        "gender-symbolism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang restates the lecture's main theory: religious need, festivals, and brilliant charismatic leaders drew people into settlement; settled life then developed ancestor worship and depleted local resources, pushing agriculture.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Main causal model in the 2024-08-29 lecture",
+      "topic_tags": [
+        "religion",
+        "charismatic-leaders",
+        "settlement",
+        "agriculture",
+        "resource-depletion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says settled communities depleted nearby forest resources, which meant they had to farm.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Causal model summarized in the 2024-08-29 lecture",
+      "topic_tags": [
+        "resource-depletion",
+        "farming",
+        "settlement",
+        "forest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says communities eventually moved when population and farming pressure grew too high, carrying their religion with them and spreading the religious-agricultural pattern.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Causal model summarized in the 2024-08-29 lecture",
+      "topic_tags": [
+        "migration",
+        "religion",
+        "population-pressure",
+        "agriculture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there was no single spark for agriculture; the transition from hunter-gathering to farming took thousands of years.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Summary claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "transition",
+        "thousands-of-years",
+        "no-single-origin",
+        "agriculture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the hunter-gatherer lifestyle was easier and more attractive than farming, but farming offered the benefit of religion, which is why people ultimately chose it.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Main conclusion in the 2024-08-29 lecture",
+      "topic_tags": [
+        "hunter-gatherers",
+        "farming",
+        "religion",
+        "choice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang previews that Ice Cave Paintings suggest similar forms of religion or religious vision 40,000 to 50,000 years ago.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Preview of next class in the 2024-08-29 lecture",
+      "topic_tags": [
+        "ice-cave-paintings",
+        "early-religion",
+        "religious-visions",
+        "next-class"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says only about five percent of Gobekli Tepe has been uncovered and that the next few decades should bring more knowledge.",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Research-status claim in the 2024-08-29 lecture",
+      "topic_tags": [
+        "gobekli-tepe",
+        "archaeological-discovery",
+        "future-research"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003"
+      ],
+      "moment": "The agricultural revolution flips from human mastery to human servitude: wheat did not become our slave; we became wheat's workers.",
+      "source_phrase": "we did not domesticate wheat wheat Domesticated us",
+      "why_it_matters": "This is the lecture's first sharp reversal of civilization as progress.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0004",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0005"
+      ],
+      "moment": "The farm is presented as a trap of labor, children, exhausted land, thin diets, animals, garbage, toilets, disease, and early death.",
+      "source_phrase": "it was a bad deal for humans and a very good deal for Wheat",
+      "why_it_matters": "It replaces the clean story of food security with a bodily account of agricultural cost.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0006"
+      ],
+      "moment": "The central mystery is not why civilization improved life, but why people chose farming when farming made no sense.",
+      "source_phrase": "the transition from hunter -gatherer to farming makes no sense",
+      "why_it_matters": "It names the problem that the rest of the lecture must solve.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "moment": "Primatology enters through the blunt reminder that humans are primates, not creatures outside animal behavior.",
+      "source_phrase": "Because guess what guys we're monkeys",
+      "why_it_matters": "It lets Jiang use animal social patterns as evidence about human origins without pretending humans stand outside nature.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012"
+      ],
+      "moment": "The coercion theory is tested by imagining a nine-foot boss in the classroom and then watching the class plan rebellion.",
+      "source_phrase": "I'm now your boss",
+      "why_it_matters": "The classroom thought experiment makes cooperation, not domination, the basic human power.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "moment": "The chimpanzee evidence for human violence is undercut by bonobos, the closer relatives who do not fit the war story.",
+      "source_phrase": "Bonobos, who are actually closer to us genetically than chimpanzees, they're actually very peaceful",
+      "why_it_matters": "It blocks a simple biological proof that humans must have settled because of war.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "moment": "Life and history move as a circle: born, dead, reborn, dead, reborn again.",
+      "source_phrase": "the world, history, moves in a cycle",
+      "why_it_matters": "It shifts the emotional meaning of death and weakens a modern elder-care explanation.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "moment": "Gobekli Tepe enters as a recent, enormous, uncertain religious site whose pillars may be human figures.",
+      "source_phrase": "these places were only discovered in the past few decades",
+      "why_it_matters": "The lecture's answer rests on evidence that Jiang insists is powerful but still provisional.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017"
+      ],
+      "moment": "The shaman is the bridge between our world, the animal world, and the spirit world.",
+      "source_phrase": "bridge our world with the animal world and the spirit world",
+      "why_it_matters": "It gives religion an infrastructural role: it connects worlds that ordinary life cannot connect.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0018"
+      ],
+      "moment": "Religious leaders become celebrities: people come from everywhere to hear them, meet them, and eventually settle near them.",
+      "source_phrase": "they became like celebrities",
+      "why_it_matters": "It turns settlement into a social gravity field around charisma, not a simple economic choice.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021"
+      ],
+      "moment": "Years of hand labor and hundreds of people become intelligible only under the force of faith.",
+      "source_phrase": "you needed something called religious devotion",
+      "why_it_matters": "It makes religion the labor engine of early monumental building.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022"
+      ],
+      "moment": "What we call religion may have functioned as their science, and what we call science may someday look religious.",
+      "source_phrase": "their science back then is no different from our science today",
+      "why_it_matters": "It is a methodological reversal that asks the listener not to condescend to ancient belief.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0024"
+      ],
+      "moment": "The animal is not just prey; if killed without respect, its spirit can haunt and take revenge.",
+      "source_phrase": "their spirit, their soul will haunt you",
+      "why_it_matters": "It preserves the lecture's animist logic of reciprocity between hunter and hunted.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0025"
+      ],
+      "moment": "The hunter does not want the gazelle or lion as an enemy; the ritual makes prey into a friend.",
+      "source_phrase": "We want to be friends with the gazelle",
+      "why_it_matters": "It condenses the animal-religion model into reciprocity rather than domination.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028"
+      ],
+      "moment": "The Natufians could farm, but chose not to; farming knowledge first appears as gardening for pleasure.",
+      "source_phrase": "they had the capacity, the technology to farm, but they chose not to farm",
+      "why_it_matters": "It sharply separates having agricultural technology from choosing an agricultural life.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0030"
+      ],
+      "moment": "The tower brings space to the village by covering it in darkness.",
+      "source_phrase": "I'm bringing space to our village",
+      "why_it_matters": "It preserves the strange cosmological logic that makes the Tower of Jericho religious rather than military.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0031"
+      ],
+      "moment": "Magic proves the charismatic leader speaks to God.",
+      "source_phrase": "Only by performing magic can you show that this charismatic leader... speaks to God",
+      "why_it_matters": "It ties technical achievement, authority, and religious proof into one causal chain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0032"
+      ],
+      "moment": "A future age may look at modern physics and say: that was religion too.",
+      "source_phrase": "maybe a thousand years from now, people will look at our science... and be like, oh, that was religion too",
+      "why_it_matters": "It prevents the lecture from becoming a condescending contrast between rational moderns and irrational ancients.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034"
+      ],
+      "moment": "At Catalhoyuk, the living room becomes a temple unto itself.",
+      "source_phrase": "The living room is basically a temple unto itself",
+      "why_it_matters": "It marks the shift from occasional sacred site to religion embedded in domestic life.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034"
+      ],
+      "moment": "Religion moves into life from birth to death.",
+      "source_phrase": "religion was in your life from birth to death",
+      "why_it_matters": "It compresses the lecture's account of religious totality into one phrase.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0036"
+      ],
+      "moment": "The mother goddess cleans the body through vultures, then the bones return home and the skull becomes ancestor worship.",
+      "source_phrase": "the mother goddess basically cleans the body",
+      "why_it_matters": "It gives the death ritual a vivid body logic that links sky, corpse, house, and ancestor.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038"
+      ],
+      "moment": "The hunter apologizes to the animal: I have to kill you, but your soul still lives.",
+      "source_phrase": "I'm sorry I have to kill you",
+      "why_it_matters": "It preserves the strange intimacy of the animal-hunting religion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038"
+      ],
+      "moment": "Catalhoyuk's religion is attractive because it explains why.",
+      "source_phrase": "If you're a human being and you want to know why... explains why",
+      "why_it_matters": "It states the psychological payoff that makes religion strong enough to beat the easier hunter-gatherer life.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039"
+      ],
+      "moment": "Life comes from a symbolic circuit: mother goddess as life, bull as vitality, male and female conjoined.",
+      "source_phrase": "only if the male and the female conjoin... will you have life",
+      "why_it_matters": "It shows the religion as a complete explanatory machine for birth and social survival.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "moment": "Agriculture does not begin in one spark; it accretes over thousands of years.",
+      "source_phrase": "there was no one spark or one moment",
+      "why_it_matters": "It gives the lecture's conclusion a gradual, non-origin-story structure.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "moment": "The easier life was hunter-gathering; farming won because it carried religion.",
+      "source_phrase": "the benefit of the farming lifestyle is that you had a religion",
+      "why_it_matters": "It is the lecture's cleanest reversal of the standard materialist progress story.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "moment": "When communities move, they bring their religion with them.",
+      "source_phrase": "you actually bring your religion with you",
+      "why_it_matters": "It turns religion into the portable structure that carries settlement into new places.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "moment": "Gobekli Tepe remains mostly underground; only about five percent has been uncovered.",
+      "source_phrase": "we basically uncovered about 5 % of Cabobo Tepe",
+      "why_it_matters": "It ends the lecture with the open-endedness of the evidence rather than a closed certainty.",
+      "tone": "method",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Paradigm",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang glosses a paradigm as a story, model, or understanding that organizes the traditional account of agriculture.",
+      "confidence": "high"
+    },
+    {
+      "term": "Domestication",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Bringing a plant or animal under human control, later reversed in the wheat example to show humans becoming controlled by the crop.",
+      "confidence": "high"
+    },
+    {
+      "term": "Surplus",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0001",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "More food than immediate subsistence requires, enabling specialization in the traditional agriculture-to-modernity model.",
+      "confidence": "high"
+    },
+    {
+      "term": "Primatology",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The study of primates, used by Jiang to compare gorillas, chimpanzees, and bonobos with humans when theorizing early social change.",
+      "confidence": "high"
+    },
+    {
+      "term": "Coercion theory",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The theory that a nonworking elite forced others into agricultural labor; Jiang rejects it as hard to sustain among cooperative humans.",
+      "confidence": "high"
+    },
+    {
+      "term": "War theory",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0009",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The theory that settlement and farming were adopted for defense; Jiang says the current evidence for early large-scale intergroup war is weak.",
+      "confidence": "high"
+    },
+    {
+      "term": "Respect for elders theory",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0010",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The theory that settlement helped protect old people whom humans are disposed to care for; Jiang treats it as valid but less persuasive than religion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gobekli Tepe",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A central Turkish archaeological site, dated by Jiang around 9500 BCE, used as the first case for religion preceding settled agriculture.",
+      "confidence": "high"
+    },
+    {
+      "term": "Shaman",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "A religious leader who helps bridge the human world with animal and spirit worlds.",
+      "confidence": "high"
+    },
+    {
+      "term": "Charismatic leader",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0018",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "A figure people love and follow because of visions, dreams, or spiritual authority; Jiang uses Mao, Obama, Bill Clinton, Jesus, Muhammad, Buddha, and Confucius as examples across political and religious charisma.",
+      "confidence": "high"
+    },
+    {
+      "term": "Religious devotion",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Faith strong enough to mobilize large numbers of people into long, difficult temple construction.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cosmological significance",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A structure's alignment with the sun, time, or outer world as part of religious connection rather than simple practical measurement.",
+      "confidence": "high"
+    },
+    {
+      "term": "Psychedelics",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Drugs that Jiang says can shift the neural system so people see the world differently and have visions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Natufian culture",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "A Levantine culture Jiang describes as sedentary hunter-gatherers with domesticated crops and ancestor worship.",
+      "confidence": "high"
+    },
+    {
+      "term": "Sedentary",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Staying in one place rather than roaming, even while still living primarily as hunter-gatherers.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cult of the skull",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "The practice of preserving skulls with clay and keeping them in houses for ancestor worship.",
+      "confidence": "high"
+    },
+    {
+      "term": "Tower of Jericho",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0029",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A tower once interpreted as military fortification but presented by Jiang as a religious monument that cast darkness over the village.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ancestor worship",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0031",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A practice of keeping and honoring skulls to communicate with ancestors in another world and learn their secrets.",
+      "confidence": "high"
+    },
+    {
+      "term": "Catalhoyuk",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0033",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "A large Turkish settlement Jiang uses as evidence of religion permeating settled life, with houses functioning as places of worship.",
+      "confidence": "high"
+    },
+    {
+      "term": "Mother goddess",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0035",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A theorized Catalhoyuk deity associated with giving life, birds or vultures, fertility, and the life-generating relation to the bull.",
+      "confidence": "high"
+    },
+    {
+      "term": "Sky burial",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A death ritual in which the body is exposed to vultures, whose consumption becomes tribute to the mother goddess before bones and skulls return to the home.",
+      "confidence": "high"
+    },
+    {
+      "term": "Animal tribute",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0037",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "A ritual stance toward hunted animals: dancing with, honoring, apologizing to, and maintaining harmony with them before taking meat.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bull symbolism",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's reading of the bull as vitality and male energy that empowers the mother goddess to give birth.",
+      "confidence": "high"
+    },
+    {
+      "term": "No single spark",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang's formulation for the transition to agriculture as a slow, multi-thousand-year process rather than a single origin event.",
+      "confidence": "high"
+    },
+    {
+      "term": "Religious visions",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0041",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The visionary experiences Jiang says will be explored next through Ice Cave Paintings and early religion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ice Cave Paintings",
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "The next lecture topic, used by Jiang as evidence for religion or something like it 40,000 to 50,000 years ago.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0011",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0016"
+      ],
+      "note": "The statements about scholarly consensus and recently discovered archaeological sites are dated to Jiang's 2024-08-29 classroom framing and should remain tied to that date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0019"
+      ],
+      "note": "Jiang distinguishes the scholarly religious-center theory of Gobekli Tepe from other fringe explanations and says this is the explanation most scholars agree with in the lecture's 2024 context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0028",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0029"
+      ],
+      "note": "Jiang explicitly contrasts an older war interpretation of the Tower of Jericho with later research that treats it as religious or cosmological evidence.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0035",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0037",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang repeatedly marks the Catalhoyuk interpretations as theories rather than settled fact; later lens use should retain that uncertainty.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "note": "The statement that only about five percent of Gobekli Tepe has been uncovered and that more will be known in coming decades is a dated research-status claim from 2024-08-29.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript renders Catalhoyuk inconsistently as 'Katara, Hawaii' here and in other ASR variants later; semantic extraction normalizes it to Catalhoyuk while preserving exact refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript's 'banal bulls' is treated as an ASR rendering of bonobos."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "note": "An audience question is implied but not audible in the transcript; do not promote it as a public source question."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript's 'Katahoyak' is treated as Catalhoyuk."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0019",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0022"
+      ],
+      "note": "Multiple student questions are implied by Jiang's answers but not transcribed; they should not be listed as public source questions."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0023"
+      ],
+      "note": "The transcript renders Gobekli Tepe as 'Goblete Tepe' here; semantic extraction normalizes the site name."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0029",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0030"
+      ],
+      "note": "A student exchange about why darkness matters is partially implied by Jiang's replies but the student's words are not reliably transcribed."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0033",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0035",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0037",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0038",
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0039"
+      ],
+      "note": "The transcript renders Catalhoyuk with several ASR variants such as Kanahoyak and Kadahoyak; semantic extraction normalizes to Catalhoyuk."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0040"
+      ],
+      "note": "The transcript says 'sanitary lifestyle' where context indicates sedentary or settled lifestyle."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0042"
+      ],
+      "note": "End-of-class student questions are implied but not captured in full; do not include them as public questions."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0043"
+      ],
+      "note": "The transcript renders Gobekli Tepe as 'Cabobo Tepe' in this segment; semantic extraction normalizes the site name."
+    },
+    {
+      "refs": [
+        "video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0044"
+      ],
+      "note": "The one-word SPEAKER_01 segment is too thin to classify as a substantive question."
+    }
+  ]
+}

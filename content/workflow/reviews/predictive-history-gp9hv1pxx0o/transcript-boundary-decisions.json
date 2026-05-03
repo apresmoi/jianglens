@@ -1,0 +1,20 @@
+{
+  "source_slug": "predictive-history-gp9hv1pxx0o",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:c37cf77a934c",
+      "decision": "approve",
+      "reason": "Moves the leading completion after the prior segment's trailing 'and' to finish the sentence about Talese's father."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:dbbdc17e78b4",
+      "decision": "approve",
+      "reason": "Moves the leading completion after 'So she would spend' to finish the sentence about listening for hours."
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-trailing-starter-to-next:815eca977c7d",
+      "decision": "approve",
+      "reason": "Moves the trailing 'New York' to the next segment so it begins the sentence 'New York is a city of contrast.'"
+    }
+  ]
+}

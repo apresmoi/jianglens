@@ -1,0 +1,1878 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-go1bmqknjbq:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-go1bmqknjbq",
+  "source_id": "video:predictive-history-go1bmqknjbq",
+  "source_title": "Geo-Strategy #11:  The Second American Civil War",
+  "source_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ",
+  "source_date": "2024-06-07",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-go1bmqknjbq@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-go1bmqknjbq/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-go1bmqknjbq/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-go1bmqknjbq/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 28,
+    "speaker_notes": 7,
+    "claims": 49,
+    "signature_moments": 28,
+    "predictions": 16,
+    "models": 11,
+    "glossary_terms": 30,
+    "chronology_notes": 9,
+    "uncertainty_notes": 13
+  },
+  "first_refs": [
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0006",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007",
+    "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by arguing that a second American civil war is likely because America enjoys violence: it is saturated with guns, treats gun ownership as sacred, loves football despite its brutality, and worships its war history.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He rereads American founding mythology as violence: the Revolution becomes an internal conflict against loyalists, Manifest Destiny becomes religiously justified conquest, and the first Civil War becomes the deadliest proof that America resolves disputes by war.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts the industrial North with the agricultural South, treating slavery as tied to political economy and manpower efficiency rather than as the sole moral cause of the war.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the western expansion problem: new states threatened the pro-slavery and anti-slavery balance, the Missouri Compromise tried to manage it, and Lincoln's plan was to limit slavery in the West until it withered legally over time.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0009",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Lincoln fought primarily to preserve the Union, then uses the first Civil War to establish a general American pattern: conflicts are resolved through violence rather than diplomacy.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0011",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0012",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He maps contemporary division onto inequality, debt, rentier extraction, and the culture war between a conservative Christian strand and an Enlightenment/deist multicultural-secular strand.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He adds a division between empire and democracy: elites benefit from imperial wars while the poor and the right pay in taxes, debt, wounds, and death.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0015",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He begins the causal case for a new civil war with over-militarization: guns in private hands, militarized local police, National Guard forces, federal agencies, and the separate arms of the U.S. military.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0017",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0018",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang dramatizes American military overcapacity by listing four U.S. arms among the top five air forces, then singles out special forces as uncontrollable formations powerful enough to start or seize a war.",
+      "speaker_attribution": "Jiang lecture voice with brief audience prompts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0020",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "He shifts from weapons to narrative, defining the nation as a fiction people share and saying the American dream and the belief that America is good have lost credibility.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0022",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "He says liberalism once mediated left and right through free speech and reasoned compromise, but collapsed after Trump's 2016 election because liberals lost faith in democratic reasoning.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces institutional breakdown: wars, the 2008 financial crisis, COVID policy, government, media, science, and the military have made Americans cynical of elite authority.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0025",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the institutional-collapse diagnosis: media, science, military, universities, and courts can no longer unify the country, so sacred institutions are falling one by one.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "kind": "question",
+      "summary": "Celine asks how powerful the American president is; Jiang answers that the president is mostly a figurehead because power is diffused through corrupt institutions.",
+      "speaker_attribution": "Jiang reports Celine's question and gives his answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0028",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0029",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0030"
+      ],
+      "kind": "question",
+      "summary": "Celine asks what the civil war will look like; Jiang says it will not be a single clean sectional war but many violent episodes: unrest, neighbor conflict, secession, insurgencies, and coups layered over one another.",
+      "speaker_attribution": "Jiang reports Celine's question and gives his answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0031",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He refuses to predict exact battlefield details but predicts the likely end-state: a Christian, isolationist theocracy, because the people most willing to fight and die for that vision are concentrated in law enforcement, the military, and special forces.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0033",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0034",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035"
+      ],
+      "kind": "question",
+      "summary": "Peter and Jack ask about politicized universities and who distrusts them; Jiang answers that universities teach people to think a left-coded way, but students must structure their own education, while distrust mainly comes from people left out of the university system.",
+      "speaker_attribution": "Jiang reports Peter's and Jack's questions and gives his answers",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He moves to the spark of civil war: Trump's reelection, because Trump embodies everything the left hates in the right and therefore becomes messianic for the right.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0037",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "He offers a reversal: the elite could destroy Trump's outsider appeal by befriending him, but they cannot do it because hatred binds them to the very tactics that strengthen him.",
+      "speaker_attribution": "Jiang lecture voice with rhetorical questions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0039",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He defines Trump Derangement Syndrome as the inability to think strategically about Trump, then claims elite hatred destroys the media, liberalism, institutions, and narratives that hold America together.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0041",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang predicts that Trump will seek to remain in office indefinitely, possibly by having Don Jr. run for president in 2028 while Trump serves as vice president and remains the real president.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0043",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0044",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He links the 2028 succession crisis to war with Iran: a war would win over the deep state, Israel lobby, and military-industrial complex, while special forces and allied actors would keep the war going and interfere on Trump's behalf.",
+      "speaker_attribution": "Jiang lecture voice with rhetorical questions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "Jack asks who the U.S. military would support; Jiang answers that the military is divided into many institutional beasts, with Democratic leadership, Republican rank-and-file soldiers, and special forces most likely to intervene in different directions.",
+      "speaker_attribution": "Jiang reports Jack's question and gives his answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0047",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "Celine asks why Trump would attack Iran if he is seen as anti-war; Jiang answers that campaign promises differ from presidential action, Trump has signaled stronger support for Israel, and pro-Israel billionaires are coalescing around him.",
+      "speaker_attribution": "Jiang reports Celine's question and gives his answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0049",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that pro-Israel billionaires want Trump to staff an anti-Iran, pro-war government, possibly with Nikki Haley as vice president, and treats that choice as a sign of war with Iran.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0051",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "He predicts that Trump's anti-war base would initially feel betrayed by an Iran war, but Trump could regain them by blaming Nikki Haley, the deep state, or Israel and then pivoting after 2028 toward Christian isolationism.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0053",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Trump brings out the worst in people and uses his own left-liberal trauma after 2016, plus his liberal friends' anger at any positive statement about Trump, as evidence of the social volatility Trump produces.",
+      "speaker_attribution": "Jiang answering Celine and reflecting autobiographically",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "kind": "monologue",
+      "summary": "He closes by returning to empire: Americans who benefit from empire want war with Iran, but the larger implication is that America will retreat from the world and the class will next discuss the resulting multipolar world.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous single-speaker lecture; diarized SPEAKER_00 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0009",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous single-speaker lecture; audience prompts are rhetorical or unheard in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0017"
+      ],
+      "note": "Jiang asks the room to guess air-force rankings; any audience replies are inaudible and summarized by Jiang.",
+      "suggested_speaker": "Jiang plus inaudible audience",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0028"
+      ],
+      "note": "Celine's questions are not separately diarized; Jiang repeats or summarizes them before answering.",
+      "suggested_speaker": "Jiang relaying Celine",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0033",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0034"
+      ],
+      "note": "Peter's and Jack's questions are only heard through Jiang's summary; the answers are Jiang's.",
+      "suggested_speaker": "Jiang relaying student questions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0047"
+      ],
+      "note": "Jack's and Celine's questions are heard only through Jiang's repetition or summary.",
+      "suggested_speaker": "Jiang relaying student questions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0054"
+      ],
+      "note": "Jiang says this answers Celine's question, but the question itself is only indirectly recoverable from the preceding Trump/Iran/base discussion.",
+      "suggested_speaker": "Jiang relaying Celine",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames America as a society addicted to violence, citing guns, the sacralization of the Second Amendment, football, and reverence for war history.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Jiang's diagnosis in a lecture published 2024-06-07",
+      "topic_tags": [
+        "american-violence",
+        "guns",
+        "football",
+        "war-culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the American Revolution as an earlier American civil war because loyalists within the colonies were terrorized by independence extremists.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "american-revolution",
+        "civil-war",
+        "founding-violence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Manifest Destiny is presented as a religiously justified project of violent colonization across the Americas.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "manifest-destiny",
+        "colonization",
+        "religious-justification"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the first Civil War arose from the political consequences of divergent regional economies, not simply from the North deciding to abolish slavery on moral grounds.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "civil-war",
+        "slavery",
+        "political-economy",
+        "north-south"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He models the western expansion crisis as a balance-of-power problem in which each new state threatened the distribution of congressional power between pro-slavery and anti-slavery blocs.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical model used inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "western-expansion",
+        "missouri-compromise",
+        "slavery",
+        "federal-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Lincoln's plan was not immediate abolition by force but limiting slavery in the West so that it would eventually cease to exist.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "lincoln",
+        "slavery",
+        "gradualism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that slavery was not the North's main war aim; preserving the Union and federal authority was the central issue.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical interpretation inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "civil-war",
+        "union",
+        "slavery",
+        "federal-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats American history as a pattern of conflict resolution through war rather than diplomacy.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "General model in a lecture published 2024-06-07",
+      "topic_tags": [
+        "american-violence",
+        "conflict-resolution",
+        "war-making"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies inequality and debt as a major current division because the top 1 percent controls wealth, production, and debt extraction.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Diagnosis of the United States in the 2024-06-07 lecture",
+      "topic_tags": [
+        "inequality",
+        "debt",
+        "rentier-economy",
+        "top-one-percent"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He models the culture war as a conflict between two American founding strands: a Christian nation under God's law and a deist-Enlightenment project of reason, secularism, and multicultural empire.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0012",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Historical-political model in the 2024-06-07 lecture",
+      "topic_tags": [
+        "culture-war",
+        "puritans",
+        "deism",
+        "left-right",
+        "founding-strands"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the empire-democracy split intensifies civil conflict because Wall Street and imperial beneficiaries profit from wars that the poor pay for and fight.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Diagnosis of the United States in the 2024-06-07 lecture",
+      "topic_tags": [
+        "empire",
+        "democracy",
+        "wall-street",
+        "war-costs",
+        "isolationism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a civil war is likely because American society is over-militarized at every level, from private gun ownership through local police and federal security agencies.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0015",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Causal model for a possible future civil war in the 2024-06-07 lecture",
+      "topic_tags": [
+        "over-militarization",
+        "police",
+        "national-guard",
+        "federal-agencies",
+        "civil-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses the claim that four of the world's five strongest air forces are U.S. military branches to show the scale of American military power.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Illustrative military comparison in the 2024-06-07 lecture",
+      "topic_tags": [
+        "us-military",
+        "air-force",
+        "military-power"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says special forces are dangerous because they are hard to control, can become violent autonomous actors, and are trained in demolition and covert operations.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0018",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Causal model for civil conflict in the 2024-06-07 lecture",
+      "topic_tags": [
+        "special-forces",
+        "militarization",
+        "state-fragmentation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines a nation as a fiction or narrative that everyone believes in, and says America's unifying narratives are breaking down.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Political theory model in the 2024-06-07 lecture",
+      "topic_tags": [
+        "nation",
+        "narrative",
+        "social-cohesion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the American dream has died for young people and has been replaced by a defensive desire to avoid debt.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0020",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Diagnosis of the United States in the 2024-06-07 lecture",
+      "topic_tags": [
+        "american-dream",
+        "debt",
+        "young-people",
+        "inequality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the narrative that America is a force for good no longer holds across left or right, with the left seeing America as founded on slavery and violence and the right seeing it as destructive empire.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0021",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Diagnosis of the United States in the 2024-06-07 lecture",
+      "topic_tags": [
+        "america-force-for-good",
+        "left-right",
+        "empire",
+        "narrative-collapse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that liberalism is dead because Trump caused liberals to conclude that democratic speech, debate, and voting cannot work if people cannot be reasoned with.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0022",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Diagnosis of liberalism after 2016, stated in a 2024-06-07 lecture",
+      "topic_tags": [
+        "liberalism",
+        "trump",
+        "democracy",
+        "free-speech"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says elite failures in Afghanistan, Iraq, the 2008 financial crisis, and COVID policy have destroyed trust in government, media, science, the military, and other institutions.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Diagnosis of the United States in the 2024-06-07 lecture",
+      "topic_tags": [
+        "institutional-trust",
+        "elite-failure",
+        "iraq",
+        "afghanistan",
+        "covid",
+        "financial-crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says no institution in America can bring people together anymore because media, science, the military, universities, government, and courts have all lost trust.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0025",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Diagnosis of the United States in the 2024-06-07 lecture",
+      "topic_tags": [
+        "institutional-trust",
+        "media",
+        "science",
+        "courts",
+        "universities"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He summarizes the civil-war causal triad as militarized society, breakdown of shared narratives, and collapse of trusted authority figures.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0025",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Causal model for future civil war in the 2024-06-07 lecture",
+      "topic_tags": [
+        "civil-war",
+        "militarization",
+        "narrative-collapse",
+        "authority-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the most likely outcome of America's violence, conflicts, narrative collapse, and institutional collapse is civil war.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0026",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Prediction made in a lecture published 2024-06-07",
+      "topic_tags": [
+        "civil-war",
+        "prediction",
+        "american-fragmentation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He answers Celine that the president is not very powerful because American power is diffused through institutions, and corrupt institutions leave little that the president can fix.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Institutional model in the 2024-06-07 lecture",
+      "topic_tags": [
+        "presidency",
+        "institutions",
+        "diffuse-power",
+        "celine-question"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang forecasts very low voter turnout in November 2024 because voters will see the system as corrupt and give up.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Forecast for November 2024 made on 2024-06-07",
+      "topic_tags": [
+        "2024-election",
+        "voter-turnout",
+        "trump",
+        "biden"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts the next civil war would unfold as many violent episodes over 10, 20, or 50 years rather than as one clean conflict like the first Civil War.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0028",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Prediction made in a lecture published 2024-06-07",
+      "topic_tags": [
+        "civil-war",
+        "riots",
+        "secession",
+        "insurgency",
+        "coup"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that once the war ends, America will likely become a Christian, isolationist theocracy because that faction is most willing to fight and has personnel in coercive institutions.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0031",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Prediction made in a lecture published 2024-06-07",
+      "topic_tags": [
+        "christian-theocracy",
+        "isolationism",
+        "special-forces",
+        "law-enforcement",
+        "civil-war-outcome"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says universities have become politicized by teaching students to think in a particular left-wing way rather than teaching them how to think.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Diagnosis of universities in the 2024-06-07 lecture",
+      "topic_tags": [
+        "universities",
+        "politicization",
+        "left-wing",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He answers Peter that university education is still up to the student because universities contain many professors and classes, so students can structure their own learning while recognizing institutional limits.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Practical answer inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "universities",
+        "education",
+        "student-agency",
+        "peter-question"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He answers Jack that distrust of universities comes mostly from people left out of the university system, especially the right, although he notes dissenting faculty and students inside universities.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0034",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Diagnosis of university distrust in the 2024-06-07 lecture",
+      "topic_tags": [
+        "universities",
+        "right",
+        "left",
+        "jack-question",
+        "distrust"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the civil war will begin with Trump's reelection because Trump uniquely embodies the culture war.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Pre-election forecast made on 2024-06-07",
+      "topic_tags": [
+        "trump",
+        "2024-election",
+        "culture-war",
+        "civil-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the right treats Trump as a messianic figure because elite attempts to prosecute, impeach, raid, and remove him confirm his outsider status.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0036",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Diagnosis of Trump politics in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump",
+        "messiah",
+        "right",
+        "elite-persecution",
+        "outsider"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that elites could destroy Trump's outsider appeal by publicly befriending him, but hatred prevents that strategy.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0037",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0038",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Political strategy model in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump",
+        "elite-hatred",
+        "outsider-appeal",
+        "maga"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Trump Derangement Syndrome as elite inability to recognize what Trump is and think properly about how to deal with him.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Definition in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump-derangement-syndrome",
+        "elite-hatred",
+        "liberalism"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims elite hatred of Trump is destroying the institutions and narratives that hold America together and will drive the second American Civil War.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0039",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Causal model in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump",
+        "elite-hatred",
+        "institutional-collapse",
+        "civil-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Trump will seek a way to stay in power indefinitely because leaving office would expose him to prosecution and elite attack.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0041",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Prediction about a possible Trump term and 2028 maneuver, made on 2024-06-07",
+      "topic_tags": [
+        "trump",
+        "2028",
+        "constitutional-crisis",
+        "presidency"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that a Trump vice-presidential workaround in 2028 would create a constitutional crisis with riots, secession threats, civil conflict, and insurgencies.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0041",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Prediction about 2028 made on 2024-06-07",
+      "topic_tags": [
+        "2028",
+        "constitutional-crisis",
+        "secession",
+        "civil-conflict"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Trump could start a war with Iran to win over the deep state, Israel lobby, military-industrial complex, and other elites.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Prediction about a possible Trump term and Iran war, made on 2024-06-07",
+      "topic_tags": [
+        "trump",
+        "iran-war",
+        "deep-state",
+        "israel-lobby",
+        "military-industrial-complex"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says special forces and deep-state members would have incentives to commit terrorism, assassination, election meddling, and interference to keep an Iran war going and ensure Trump wins in 2028.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0044",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Speculative prediction about 2028 made on 2024-06-07",
+      "topic_tags": [
+        "special-forces",
+        "deep-state",
+        "terrorism",
+        "election-interference",
+        "2028"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He models the U.S. military as internally divided rather than unitary: leadership is described as Democratic, soldiers as Republican, and special forces as the faction with flexibility and will to intervene.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Institutional model in the 2024-06-07 lecture",
+      "topic_tags": [
+        "us-military",
+        "military-fragmentation",
+        "special-forces",
+        "jack-question"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He answers Celine that Trump's anti-war campaign image does not rule out war with Iran because campaign promises differ from presidential action, Trump has signaled stronger support for Israel, and pro-Israel donors are aligning with him.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0047",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Prediction and evidence read in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump",
+        "iran-war",
+        "israel",
+        "donors",
+        "celine-question"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that pro-Israel donors backing Trump likely want an anti-Iran cabinet and possibly Nikki Haley as vice president.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Forecast and inference made on 2024-06-07",
+      "topic_tags": [
+        "trump",
+        "israel",
+        "donors",
+        "nikki-haley",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He treats a Nikki Haley vice-presidential selection as a strong sign that Trump will go to war with Iran.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0050",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Forecast tied to an expected August 2024 VP decision, made on 2024-06-07",
+      "topic_tags": [
+        "nikki-haley",
+        "trump",
+        "iran-war",
+        "vp-selection"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump may believe he must play along with the deep state and go to war because he thinks the deep state rigged 2020 against him for refusing wars.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Interpretation of Trump's possible thinking in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump",
+        "deep-state",
+        "2020-election",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts Trump could manipulate his anti-war base back to him by blaming Nikki Haley, the deep state, or Israel for the Iran war.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0051",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Speculative future political scenario in the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump-base",
+        "nikki-haley",
+        "deep-state",
+        "israel",
+        "scapegoat"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says that after winning in 2028, Trump could pivot from the Iran war to ending it and making America into a Christian isolationist theocracy.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Speculative 2028 scenario stated on 2024-06-07",
+      "topic_tags": [
+        "2028",
+        "trump",
+        "iran-war",
+        "christian-theocracy",
+        "isolationism"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that whatever Trump does will inflame civil war because people who love him and people who hate him will go to war with each other.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Prediction made in a lecture published 2024-06-07",
+      "topic_tags": [
+        "trump",
+        "civil-war",
+        "polarization"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses his own post-2016 left-liberal trauma and his friends' anger at any positive statement about Trump to illustrate that Trump brings out the worst in people.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0053",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Autobiographical evidence inside the 2024-06-07 lecture",
+      "topic_tags": [
+        "trump",
+        "left",
+        "liberal-trauma",
+        "polarization"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He closes by saying Americans who benefit from empire, including Wall Street, the military-industrial complex, and suburban beneficiaries, want war with Iran.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Diagnosis in the 2024-06-07 lecture",
+      "topic_tags": [
+        "empire",
+        "iran-war",
+        "wall-street",
+        "military-industrial-complex"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America's retreat from the world will produce a difficult transition into a multipolar world.",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Forward-looking transition note in the 2024-06-07 lecture",
+      "topic_tags": [
+        "american-retreat",
+        "multipolar-world",
+        "empire"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001"
+      ],
+      "moment": "America is introduced not merely as violent but as addicted to violence.",
+      "source_phrase": "Americans are addicted to violence",
+      "why_it_matters": "This phrase supplies the lecture's first causal premise: civil war is plausible because violence is treated as a national appetite.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003"
+      ],
+      "moment": "The sacred founding war is inverted into the first American Civil War.",
+      "source_phrase": "the rebellion was actually the first American Civil War",
+      "why_it_matters": "The reversal strips the Revolution of pure origin mythology and folds it into the lecture's pattern of domestic violence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "moment": "Manifest Destiny appears as God's will converted into conquest.",
+      "source_phrase": "it is God's will that America controls all of the Americas",
+      "why_it_matters": "The phrase links sacred narrative to imperial violence, a pattern that recurs later in the lecture's empire/theocracy model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0010"
+      ],
+      "moment": "America is presented as a country that settles problems by war-making rather than diplomacy.",
+      "source_phrase": "America resolves conflicts through violence",
+      "why_it_matters": "This turns the historical survey into a predictive mechanism: when conflict rises, the inherited method is violence.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0013"
+      ],
+      "moment": "The culture war is compressed into two founding Americas: kingdom of God versus secular empire.",
+      "source_phrase": "a multicultural secular Empire",
+      "why_it_matters": "The phrase lets the public read carry the lecture's strange fusion of culture war and imperial form.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0015"
+      ],
+      "moment": "Even a local police force is described as a military formation.",
+      "source_phrase": "a local police force... they have armored vehicles... tanks... helicopters",
+      "why_it_matters": "It makes over-militarization concrete at street level rather than leaving it as an abstraction.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0017"
+      ],
+      "moment": "American power is measured by the strange fact that the U.S. occupies four of the top five air-force slots.",
+      "source_phrase": "four of the top five air forces in the world are an arm of the U.S. military",
+      "why_it_matters": "The list turns abstract military dominance into a memorable imbalance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0018",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "moment": "Special forces become a bomb waiting to explode inside the state.",
+      "source_phrase": "special forces, it's just a bomb waiting to explode",
+      "why_it_matters": "This phrase carries the lecture's most vivid account of militarized capacity turning inward.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "moment": "The nation is reduced to a shared fiction, and the fiction is failing.",
+      "source_phrase": "a nation is a fiction, a narrative that everyone believes in",
+      "why_it_matters": "It gives the narrative-collapse argument a compact theoretical form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0020"
+      ],
+      "moment": "The American dream is inverted into debt avoidance.",
+      "source_phrase": "the new American dream is how do I stay out of debt",
+      "why_it_matters": "The reversal condenses Jiang's class diagnosis into one memorable social change.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0022",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023"
+      ],
+      "moment": "Liberalism dies when liberals stop believing people can be reasoned with.",
+      "source_phrase": "if people cannot be reasoned with, why give them freedom of speech?",
+      "why_it_matters": "This is the lecture's sharpest account of liberalism becoming illiberal through disappointment with democracy.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0026"
+      ],
+      "moment": "The institutions that once held America together are falling one by one.",
+      "source_phrase": "All these sacred institutions in America, they're all falling one by one",
+      "why_it_matters": "This phrase crystallizes the institutional-collapse leg of the civil-war model.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "moment": "Voter despair is compressed into the desire to burn the system down.",
+      "source_phrase": "Just burn the system down. Who cares?",
+      "why_it_matters": "It gives the breakdown of legitimacy a blunt emotional register.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0028"
+      ],
+      "moment": "The future civil war is not one event but a long series of violent episodes.",
+      "source_phrase": "not be one event... a series of violent episodes over 10, 20, 50 years",
+      "why_it_matters": "This is the lecture's central form prediction; it prevents readers from imagining only a 19th-century battlefield replay.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0031",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0032"
+      ],
+      "moment": "The predicted end-state is a Christian, isolationist theocracy.",
+      "source_phrase": "America becomes a Christian, isolationist, theocracy",
+      "why_it_matters": "This is the lecture's stark answer to what comes after the civil war.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0036",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0037"
+      ],
+      "moment": "Trump becomes messianic because every elite attack confirms him as persecuted savior.",
+      "source_phrase": "for many in the right, Donald Trump is the messiah",
+      "why_it_matters": "This phrase carries the lecture's account of why attacks on Trump increase, rather than decrease, his power.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0037",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0038"
+      ],
+      "moment": "The anti-Trump elite could destroy him with three words: let's be friends.",
+      "source_phrase": "you say three words... let's be friends",
+      "why_it_matters": "The reversal is memorable because it says friendship, not attack, would break Trump's outsider myth.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0039"
+      ],
+      "moment": "Hatred makes Trump invincible by forcing enemies to behave in ways that validate him.",
+      "source_phrase": "they're doing everything to make Donald Trump invincible",
+      "why_it_matters": "This is a core causal chain in the lecture: affect produces bad strategy, and bad strategy accelerates civil conflict.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0040"
+      ],
+      "moment": "The elites destroy the very narratives and institutions that hold America together.",
+      "source_phrase": "the elites themselves who have destroyed the narratives and the institutions",
+      "why_it_matters": "The accusation makes institutional collapse endogenous to anti-Trump politics, not merely an external background condition.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042"
+      ],
+      "moment": "Trump's incentive is reduced to a brutal binary: the White House or the jailhouse.",
+      "source_phrase": "it's either the White House or the jailhouse for me",
+      "why_it_matters": "This phrase makes the stay-in-power prediction feel like a survival logic rather than ordinary ambition.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0044"
+      ],
+      "moment": "Special forces return as the named problem inside the civil-war ignition scenario.",
+      "source_phrase": "These guys are the problem. Special forces.",
+      "why_it_matters": "It reconnects the earlier militarization model to the specific Iran-war/2028 trigger.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0046"
+      ],
+      "moment": "The military is not one beast but many beasts.",
+      "source_phrase": "The military is not one beast. It's like many, many different beasts.",
+      "why_it_matters": "The image turns institutional fragmentation into an easy-to-carry model of why civil war becomes violent.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0048"
+      ],
+      "moment": "Campaign speech and presidential action are split into two different worlds.",
+      "source_phrase": "What you say in public before you become president and what you do as president are two very different things.",
+      "why_it_matters": "This line supports the lecture's answer to why an anti-war Trump could still go to war.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0049",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0050"
+      ],
+      "moment": "Nikki Haley becomes both the sign of war and the future scapegoat for it.",
+      "source_phrase": "Nikki Haley becomes vice president... she's a scapegoat now",
+      "why_it_matters": "It condenses the lecture's theory of personnel, war policy, and blame management into one figure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052"
+      ],
+      "moment": "After war, Trump could pivot into Christian isolationist theocracy.",
+      "source_phrase": "end this war and make America into a Christian isolationist theocracy",
+      "why_it_matters": "This carries the lecture's strange endgame: foreign war becomes the bridge to domestic theocratic isolation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0053"
+      ],
+      "moment": "Trump is described as a force that brings out the worst in people.",
+      "source_phrase": "he brings up the worst in people",
+      "why_it_matters": "It gives the lecture's political psychology a concise source phrase that explains why conflict escalates around Trump.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0054"
+      ],
+      "moment": "Among liberals, saying anything nice about Trump becomes socially forbidden.",
+      "source_phrase": "you are not allowed to say anything nice about Donald Trump",
+      "why_it_matters": "It grounds the abstract hatred model in Jiang's personal social experience.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "moment": "The civil-war argument returns to empire: some Americans benefit from empire, so they want war.",
+      "source_phrase": "there are a lot of Americans who benefit from empire",
+      "why_it_matters": "The closing line reconnects domestic civil war to foreign policy and the next class on American retreat.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "American addiction to violence",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's opening diagnosis that guns, football, and war memory make violence a normal and sacred part of American identity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Manifest Destiny",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0003",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Defined as the belief that God wills American control over the Americas, producing violent colonization.",
+      "confidence": "high"
+    },
+    {
+      "term": "Missouri Compromise",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Used as a balance mechanism: one pro-slavery state would be matched by one anti-slavery state.",
+      "confidence": "high"
+    },
+    {
+      "term": "Free labor",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The northern model in which workers are free to seek jobs and employers are free to hire, which Jiang treats as more efficient than slave labor.",
+      "confidence": "high"
+    },
+    {
+      "term": "Rentier economy",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A system where the wealthy make money by collecting debt and monopolizing wealth production.",
+      "confidence": "high"
+    },
+    {
+      "term": "Culture war",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0012",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang frames it as a conflict between conservative Christian America and a secular, Enlightenment, urban, college-educated left.",
+      "confidence": "high"
+    },
+    {
+      "term": "Empire versus democracy",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The split between people who benefit from American empire and people who bear the costs of imperial war.",
+      "confidence": "high"
+    },
+    {
+      "term": "Over-militarization",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0015",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The condition in which private citizens, police, state forces, federal agencies, and military branches all possess war-making capacity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Special forces as autonomous violence",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0018",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Jiang's model of special forces as hard-to-control units whose skills and autonomy can turn into civil-war capacity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Nation as narrative",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The idea that a nation is a shared fiction; when its core stories stop being believed, cohesion fails.",
+      "confidence": "high"
+    },
+    {
+      "term": "New American dream",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's phrase for the replacement of upward mobility by the desire to stay out of debt.",
+      "confidence": "high"
+    },
+    {
+      "term": "Liberalism",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0022",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "A system of free speech, debate, voting, evidence, and compromise that Jiang says collapsed when liberals lost faith in democratic reason after Trump.",
+      "confidence": "high"
+    },
+    {
+      "term": "Institutional breakdown",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The loss of trust in elites and institutions after wars, finance crises, COVID policy, and media credibility failures.",
+      "confidence": "high"
+    },
+    {
+      "term": "Civil-war causal triad",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0025",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Militarized society, breakdown of shared narratives, and collapse of trusted institutions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Figurehead presidency",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's answer that the American president is not very powerful because real power is diffused through institutions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Civil war as episodes",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0028",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A model of civil war as riots, local fights, secession, insurgencies, and coups layered over decades.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian isolationist theocracy",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0031",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's predicted post-civil-war American regime: Christian, isolationist, and governed by a religious political vision.",
+      "confidence": "high"
+    },
+    {
+      "term": "Politicized university",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0033",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "A university that teaches students to think in a predetermined political direction rather than teaching open inquiry.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trump as culture-war embodiment",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Jiang's account of Trump as the body in which the left sees everything it hates about the right, and the right sees the enemy's hatred as validation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Outsider appeal",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0037",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Trump's power as the enemy of elites; Jiang argues elites could break it by publicly accepting him.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trump Derangement Syndrome",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Defined by Jiang as the inability to recognize who Trump is and think properly about how to deal with him.",
+      "confidence": "high"
+    },
+    {
+      "term": "White House or jailhouse",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Jiang's phrase for Trump's alleged incentive to stay in power indefinitely to avoid legal punishment.",
+      "confidence": "high"
+    },
+    {
+      "term": "Constitutional crisis",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0041",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The crisis Jiang predicts if Trump uses a vice-presidential workaround to remain effective president after two terms.",
+      "confidence": "high"
+    },
+    {
+      "term": "Military as many beasts",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "A model of the U.S. military as fragmented across departments, leadership ideology, rank-and-file ideology, and special-forces autonomy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Deep state",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0043",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Used for state-security and elite actors Jiang imagines Trump would need to win over through a war with Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Scapegoat vice president",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0050",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's idea that Trump could use Nikki Haley to enable or absorb blame for an Iran war.",
+      "confidence": "high"
+    },
+    {
+      "term": "Base manipulation",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0051",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "The process by which Trump could win back an anti-war base by blaming Nikki Haley, the deep state, or Israel.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trump polarization effect",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang's claim that Trump brings out extreme love and hatred, making ordinary social and political compromise impossible.",
+      "confidence": "high"
+    },
+    {
+      "term": "Empire beneficiaries",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Americans who benefit from empire, such as Wall Street, the military-industrial complex, and suburban beneficiaries, and therefore want war with Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Multipolar world",
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "The world Jiang says follows American retreat, introduced as the next class topic.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001"
+      ],
+      "note": "The second-civil-war framing is a dated lecture claim from 2024-06-07 and should remain tied to that pre-2024-election context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0014",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0015"
+      ],
+      "note": "The no-solution and over-militarization claims are current diagnoses as of 2024-06-07, before the November 2024 election referenced later in the lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0022",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0023"
+      ],
+      "note": "The liberalism claim is Jiang's 2024 interpretation of a break he dates to Trump's 2016 election.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "note": "The low-turnout statement is a dated forecast for November 2024 made on 2024-06-07; it should not be presented as a retrospective claim.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0031",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0032"
+      ],
+      "note": "The Christian-isolationist-theocracy outcome is a forward-looking prediction from this lecture's pre-election context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0040"
+      ],
+      "note": "The claim that civil war starts with Trump's reelection is a dated pre-November-2024 forecast made on 2024-06-07.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0041",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045"
+      ],
+      "note": "The 2028 succession, Iran war, terrorism, and election-interference scenario is a speculative future chain stated on 2024-06-07.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0050"
+      ],
+      "note": "The Nikki Haley VP selection claim is tied to a future August 2024 decision from the standpoint of the 2024-06-07 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0055"
+      ],
+      "note": "The 2028 pivot, Christian isolationist theocracy, and multipolar-world transition are future claims made in this dated lecture context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript says '434 guns' before correcting to '434 million guns'; extraction preserves the corrected claim."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0004"
+      ],
+      "note": "Civil War casualty phrasing is rough in the ASR; semantic extraction treats it as Jiang emphasizing the war's exceptional deadliness, not as an independently verified count."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0010",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0011",
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0012"
+      ],
+      "note": "The transcript contains repeated and likely ASR-damaged wording around 'Civil War is a civil war'; extraction treats the surrounding point as class conflict, inequality, and debt."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0013"
+      ],
+      "note": "The phrase 'today it met itself in the left' appears ASR-damaged; semantic extraction treats it as Jiang connecting the deist/secular strand to the modern left."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0018"
+      ],
+      "note": "The exact special-forces counts are stated with Jiang's own uncertainty ('I can't remember'); extraction keeps the qualitative claim rather than relying on the precise number."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0021"
+      ],
+      "note": "The phrase 'founded on security' appears ASR-damaged; context indicates Jiang means a left narrative of America founded on slavery, violence, and war."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0027"
+      ],
+      "note": "The transcript says 'lowest rate of violence' before 'lowest turnout'; semantic extraction treats the intended forecast as low turnout."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0030"
+      ],
+      "note": "The transcript uses 'They succeed' in the secession section; context indicates Jiang is discussing secession while preserving the source wording in refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0035"
+      ],
+      "note": "The transcript phrase 'there are many University who do not like what's going on' appears ASR-damaged; extraction treats it as dissenting people within universities."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript says 'steep state members'; extraction treats this as ASR for 'deep state members'."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0048"
+      ],
+      "note": "Names transcribed as 'Stephen Swartzman' may refer to Stephen Schwarzman; semantic extraction preserves only the donor-alignment claim."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0049"
+      ],
+      "note": "Donor names are transcribed imperfectly; extraction focuses on Jiang's claim about pro-Israel donor pressure rather than exact name spelling."
+    },
+    {
+      "refs": [
+        "video:predictive-history-go1bmqknjbq@transcript:v1#seg-0052"
+      ],
+      "note": "The claim about blaming Israel/Jews is recorded as Jiang's speculative account of possible future rhetoric; it should not be normalized into an endorsed causal claim."
+    }
+  ]
+}

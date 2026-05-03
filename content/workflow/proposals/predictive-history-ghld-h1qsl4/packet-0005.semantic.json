@@ -1,0 +1,309 @@
+{
+  "packet_id": "predictive-history-ghld-h1qsl4-semantics-pkt-0005",
+  "source_id": "video:predictive-history-ghld-h1qsl4",
+  "source_date": "2024-12-10",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "kind": "answer",
+      "summary": "Jiang appears to respond to or restate an audience prompt about good and evil, defining it as the capacity to know what is good or bad for oneself and therefore to learn through self-reflection.",
+      "speaker_attribution": "Jiang answering an implied or unheard student question.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0035",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0036"
+      ],
+      "kind": "unclear",
+      "summary": "A brief empty segment and a one-word 'Okay' are captured at a transition; they do not contain substantive semantic content.",
+      "speaker_attribution": "Likely backchannel or diarization noise.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0037",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0038",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0039",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He reads the garments of skin as Yahweh's remorse, then translates Adam and Eve into a domestic comedy about a parent lying to children and learning from the mistake.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "note": "The phrase 'What is good and evil?' likely restates an unheard student question, but only Jiang's answer is audible in the transcript.",
+      "suggested_speaker": "Jiang answering implied student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0036"
+      ],
+      "note": "The diarized UNKNOWN 'Okay' is too brief to identify; do not treat it as a public source question.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines knowledge of good and evil as knowing what is good or bad for oneself, not as abstract knowledge of God and Satan.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Definition in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "good-and-evil",
+        "self-knowledge",
+        "adam-and-eve"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The capacity for judgment allows humans to learn from pain, reflect, avoid mistakes, and grow as persons.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Model in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "judgment",
+        "learning",
+        "self-reflection",
+        "growth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "If human self-reflection and growth could continue forever through the tree of life, humans would become as powerful as God.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "tree-of-life",
+        "godlike",
+        "infinite-knowledge",
+        "growth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The garments of skin are read as Yahweh giving Adam and Eve a present after punishment, showing remorse and regret.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Interpretive claim in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "adam-and-eve",
+        "garments-of-skin",
+        "remorse",
+        "yahweh"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Yahweh's mistake is that he lied to Adam and Eve by saying the fruit was poisonous, which makes their disobedience a reaction to manipulation.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0037",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Core interpretation in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "yahweh",
+        "lie",
+        "adam-and-eve",
+        "manipulation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The story of Adam and Eve is framed as domestic comedy: a bad parent lies, punishes, then tries to repair the relationship because he knows he was wrong.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0038",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Interpretive model in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "domestic-comedy",
+        "parenthood",
+        "adam-and-eve",
+        "remorse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues God is fallible: Yahweh is an inexperienced poet-god and new father whose mistakes allow both God and humans to grow.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Radical theological interpretation in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "fallible-god",
+        "poet-god",
+        "mistakes",
+        "growth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Humans are exceptional because they can make mistakes and learn from them after eating from the tree of knowledge of good and evil.",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Anthropological claim in the 2024-12-10 lecture.",
+      "topic_tags": [
+        "human-exceptionalism",
+        "mistakes",
+        "learning",
+        "tree-of-knowledge"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "moment": "Good and evil becomes practical self-judgment: what helps you and what harms you.",
+      "source_phrase": "what is good for you and what is bad for you",
+      "why_it_matters": "It moves Genesis from moral taboo to a model of learning and selfhood.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "moment": "Infinite self-reflection means becoming God.",
+      "source_phrase": "if you can do this forever you're going to live forever",
+      "why_it_matters": "This explains why Yahweh fears human growth, not merely human rebellion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0037"
+      ],
+      "moment": "The key line is not the punishment but Yahweh clothing the people he just punished.",
+      "source_phrase": "The key line is this. The Lord God made garments of skins",
+      "why_it_matters": "This phrase carries Jiang's method: tiny textual details expose the deeper argument.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0037"
+      ],
+      "moment": "The radical accusation: God lied to Adam and Eve.",
+      "source_phrase": "God lied to Adam and Eve",
+      "why_it_matters": "It is the lecture's sharpest reversal of the standard Adam and Eve story.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0039",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "moment": "Adam and Eve becomes a family comedy about a bad parent learning to admit a mistake.",
+      "source_phrase": "it's basically a domestic comedy",
+      "why_it_matters": "It preserves the lecture's comic, humanizing force instead of flattening it into doctrine.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "moment": "God is fallible, inexperienced, naive, and a new father.",
+      "source_phrase": "God is fallible... he's a new father",
+      "why_it_matters": "This is one of the lecture's central theological shocks.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "knowledge of good and evil",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The capacity to judge what is good or bad for oneself and therefore learn through self-reflection.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-reflection",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The process by which humans use judgment to learn from pain, avoid mistakes, and grow.",
+      "confidence": "high"
+    },
+    {
+      "term": "garments of skin",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The textual detail Jiang treats as Yahweh's remorseful gift after punishment.",
+      "confidence": "high"
+    },
+    {
+      "term": "domestic comedy",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's genre for Adam and Eve: a family scene about parental lying, punishment, regret, and repair.",
+      "confidence": "high"
+    },
+    {
+      "term": "fallible God",
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Yahweh as capable of mistake, remorse, and growth rather than omniscient perfection.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0040"
+      ],
+      "note": "In this 2024-12-10 packet, Jiang's Adam and Eve reading moves from knowledge as self-reflection to God as a fallible parent whose remorse explains the garment detail.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0033",
+        "video:predictive-history-ghld-h1qsl4@transcript:v1#seg-0036"
+      ],
+      "note": "A likely audience prompt and a one-word backchannel are not clearly captured; only Jiang's answer has semantic weight."
+    }
+  ]
+}

@@ -1,0 +1,1862 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-tdce7xgdayo:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-tdce7xgdayo",
+  "source_id": "video:predictive-history-tdce7xgdayo",
+  "source_title": "Civilization #14:  Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+  "source_url": "https://www.youtube.com/watch?v=TdcE7XGDayo",
+  "source_date": "2024-11-07",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-tdce7xgdayo@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-tdce7xgdayo/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-tdce7xgdayo/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-tdce7xgdayo/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 19,
+    "speaker_notes": 8,
+    "claims": 53,
+    "signature_moments": 36,
+    "predictions": 0,
+    "models": 23,
+    "glossary_terms": 34,
+    "chronology_notes": 2,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0004",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008",
+    "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0002",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens Rome as an improbable, poor Latin kingdom surrounded by older and wealthier powers, then poses the lecture's problem: why this small place became the Mediterranean empire.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from the easy answer of Roman manpower to the deeper answer of civilizational character, showing Rome's war-machine logic against the Greeks and then its attritional shipbuilding against Carthage.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0010",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0011",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Hannibal as the military genius who sees Rome as an inevitable expansionist threat, then contrasts Hannibal's strategic imagination with Carthage's merchant council and Rome's blunt war-machine response.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0013",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0014",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0015",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He narrates Cannae as Hannibal's supreme tactical trap and then makes the real puzzle Roman refusal: after the worst disaster imaginable, the Senate chooses more war instead of surrender.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0017",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0018",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns the Hannibal story into a theory of military power: manpower, technology, and resources are inadequate; cohesion, discipline, and devotion better explain why smaller forces sometimes beat richer or larger enemies.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0020",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0021",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0022",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0023",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He compares Greek, Carthaginian, and Roman value systems: Greek excellence, freedom, and flourishing produce creativity and selfishness; Carthaginian merchant culture pursues luck, profit, and wealth; Rome turns piety, liberty, and res publica into service to the state.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0025"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang checks whether the argument is clear; a brief audience utterance appears to prompt his clarification about Carthaginian sources and Roman destruction of Carthage.",
+      "speaker_attribution": "Jiang with a brief unclear student interjection",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0026",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0028",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0029",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0030",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0031",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He warns that Carthage is visible mainly through enemies and archaeology, then turns to Rome's own genius: turning history into mythology so stories of Romulus, fratricide, immigration, abduction, and the Sabines teach that everything can be sacrificed for Rome.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0034",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang narrates Tarquin's tyranny, Lucretia's suicide, and Lucius Brutus founding the republic by dividing kingly power into institutions so Romans obey the republic rather than a person.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0038",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He turns Brutus into the exemplary Roman: he executes his own sons for conspiring against the republic, then dies fighting Tarquin's family, becoming the greatest Roman model until Caesar.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0042",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0043",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0044",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang adds two Roman hero stories: a single ordinary Roman holds a bridge by insulting an army, and a young nobleman burns his hand before the enemy king to prove Romans cannot be frightened.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He explains how teachable sacred history makes citizens Roman, then links piety, liberty, res publica, office-holding, triumph, and Scipio's rise to Rome's refusal to surrender after Cannae.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0049",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang appears to answer a question about Brutus and the reliability of Roman stories: the point is not whether the legends are true, but that Romans believed them and used them to define sacrifice for the republic.",
+      "speaker_attribution": "Jiang answering an audience prompt whose exact wording is not captured",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "A student asks a fragmentary question about the 80,000-man Roman army against Hannibal.",
+      "speaker_attribution": "Audience/student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0053",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0055",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by explaining Rome's manpower, Italian alliances, Hannibal's Gaul-heavy invasion force, and the decisive logistical problem: Rome stopped fighting Hannibal directly and cut off his food supply.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0054"
+      ],
+      "kind": "unclear",
+      "summary": "A brief non-substantive utterance appears between the student question and Jiang's answer.",
+      "speaker_attribution": "Unknown audience or room sound",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0057",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0058",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0059",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0060"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the Hannibal answer: armies do not win wars, nations do; Rome's unity beats Carthage's merchant politics, and Carthage's failure to recognize Rome's threat ends in Rome's all-or-nothing destruction of the city.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0061",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0062"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang checks for more questions and an unclear audience response says 'Good.'",
+      "speaker_attribution": "Jiang and audience/unknown",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0063",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang appears to answer a final prompt about public virtue or why people came to Rome, arguing that most people did not want Roman culture; Rome made people Roman through conquest.",
+      "speaker_attribution": "Jiang answering an unclear audience prompt",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous classroom lecture; diarized SPEAKER_01 reads as Jiang throughout the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang narration; quoted speech from Hannibal's envoys and the Senate is dramatized by Jiang, not a separate recorded speaker.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0017",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0024"
+      ],
+      "note": "Continuous Jiang lecture with classroom checks for comprehension but no captured substantive audience question in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0025"
+      ],
+      "note": "The words 'Carthaginians. Yeah.' likely respond to an uncaptured audience prompt; the actual question is not recoverable from the transcript.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0040"
+      ],
+      "note": "Continuous Jiang narration with dramatized historical speech; no live audience question appears in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "note": "Continuous Jiang narration; historical dialogue and insults are dramatized retellings.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0052",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0054"
+      ],
+      "note": "Diarization captures a real student question in seg-0052 and an unclear one-word or sound utterance in seg-0054; only seg-0052 should be treated as a public source question.",
+      "suggested_speaker": "Audience/student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0062",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0063"
+      ],
+      "note": "The final prompt is mostly uncaptured. 'Public virtue. Yeah.' suggests Jiang is responding to an audience term or question, but there is no substantive question text to quote.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames early Rome as a small, poor Latin kingdom whose later imperial success could not have been predicted from its starting position among Etruscans, Greeks, and Carthaginians.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0001",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical interpretation in a lecture published 2024-11-07",
+      "topic_tags": [
+        "rome",
+        "origins",
+        "civilizational-comparison"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He gives the standard explanation that Rome's open citizenship and immigration policy gave it an enormous manpower pool compared with Greek and Carthaginian citizenship systems.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical model stated on 2024-11-07",
+      "topic_tags": [
+        "rome",
+        "citizenship",
+        "manpower"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the deeper explanation is that each civilization's value system or character determines its fate in war and history.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "General civilizational model stated on 2024-11-07",
+      "topic_tags": [
+        "civilizational-character",
+        "values",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome is described as expansionist by nature, a war-like people and war machine whose control of Italy brought it into conflict with Greek coastal colonies.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical interpretation in the Rome lecture",
+      "topic_tags": [
+        "rome",
+        "expansion",
+        "greeks"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Pyrrhus story is used to show that Rome could defeat superior Greek arms by absorbing losses until victory became too costly for the opponent.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical interpretation of the Pyrrhic War inside the lecture",
+      "topic_tags": [
+        "pyrrhus",
+        "roman-way-of-war",
+        "attrition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome's first naval struggle with Carthage is presented as another attritional pattern: Rome loses ships, builds more, loses again, then builds until Carthage is overwhelmed.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical interpretation of the First Punic War inside the lecture",
+      "topic_tags": [
+        "first-punic-war",
+        "carthage",
+        "attrition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Hannibal understood Rome as an expansionist military power that would eventually come for Carthage even during formal peace.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical interpretation in the 2024-11-07 lecture",
+      "topic_tags": [
+        "hannibal",
+        "rome",
+        "carthage",
+        "threat-recognition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Carthage is modeled as a merchant republic whose wealthiest citizens dislike war unless it is profitable, so Hannibal has to buy political space for his campaign.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical model inside the lecture",
+      "topic_tags": [
+        "carthage",
+        "merchant-culture",
+        "hannibal"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hannibal's crossing of the Alps is framed as an almost impossible act that brings him to Rome's doorstep and lets him rally Rome's enemies inside Italy.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Historical interpretation of Hannibal's invasion",
+      "topic_tags": [
+        "hannibal",
+        "alps",
+        "italy",
+        "allies"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome's response to Hannibal is described as brutal and direct: after repeated defeats, it builds an 80,000-man army to throw at Hannibal and crush him.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical model of Roman military style",
+      "topic_tags": [
+        "rome",
+        "roman-way-of-war",
+        "cannae"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "At Cannae, Hannibal uses geography, a concave line, cavalry superiority, and double envelopment to trap the Roman army in a circle.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0013",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Historical explanation of the Battle of Cannae",
+      "topic_tags": [
+        "cannae",
+        "double-envelopment",
+        "hannibal"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Cannae as a disaster that killed nearly 70,000 Roman soldiers, cost Rome 20 percent of its adult male population, and killed a third of the Senate.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical claim inside the lecture",
+      "topic_tags": [
+        "cannae",
+        "roman-losses",
+        "senate"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Senate's refusal to negotiate after Cannae is presented as the unique Roman act that Hannibal cannot understand and that allows Rome to win fifteen years later.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Historical interpretation of the Second Punic War",
+      "topic_tags": [
+        "rome",
+        "surrender",
+        "hannibal",
+        "second-punic-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the mystery of Rome is why it refused surrender after Hannibal united Rome's enemies and inflicted enormous costs.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture framing on 2024-11-07",
+      "topic_tags": [
+        "rome",
+        "hannibal",
+        "surrender"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He rejects conventional military doctrine that explains victory mainly through manpower, technology, and resources.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0017",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "General model stated on 2024-11-07",
+      "topic_tags": [
+        "military-power",
+        "doctrine",
+        "resources"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's alternative military-strength model asks whether soldiers are cohesive, disciplined, and devoted.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0018",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "General model stated on 2024-11-07",
+      "topic_tags": [
+        "cohesion",
+        "discipline",
+        "devotion",
+        "military-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says a nation's culture and value system gives it a character that helps determine whether it is likely to win wars.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "General civilizational model stated on 2024-11-07",
+      "topic_tags": [
+        "national-character",
+        "war",
+        "culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek culture is modeled around arete, freedom of speech among peers, and eudaimonia, producing extraordinary creativity but also selfish city-state fragmentation.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0020",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical-cultural model inside the lecture",
+      "topic_tags": [
+        "greeks",
+        "arete",
+        "freedom",
+        "eudaimonia"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Carthage is modeled as a merchant culture where luck, profit, wealth accumulation, superstition, and sacrifice reflect the values of business people.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0021",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0022",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical-cultural model inside the lecture",
+      "topic_tags": [
+        "carthage",
+        "merchant-culture",
+        "profit",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Roman identity is modeled around piety, a legal-institutional conception of liberty, and res publica as service to Rome.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0023",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical-cultural model inside the lecture",
+      "topic_tags": [
+        "rome",
+        "piety",
+        "liberty",
+        "res-publica"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concludes from the values comparison that Rome's ethical system would produce more cohesion, discipline, and military capacity than Greek or Carthaginian systems.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Analytic conclusion in the 2024-11-07 lecture",
+      "topic_tags": [
+        "rome",
+        "ethics",
+        "cohesion",
+        "military-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because Rome destroyed Carthage and its books, Jiang says Carthage must be reconstructed from Greek and Roman testimony, archaeology, and Phoenician context.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0025",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0026",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Source-method note inside the lecture",
+      "topic_tags": [
+        "carthage",
+        "sources",
+        "historiography"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang cautions that Greek and Roman charges about Carthaginian child sacrifice are enemy testimony, though he also cites archaeological remains as supporting evidence for human sacrifice.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0026",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Source-critical historical claim inside the lecture",
+      "topic_tags": [
+        "carthage",
+        "child-sacrifice",
+        "source-criticism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Rome's distinctive move was to elevate history into mythology, making history function as religion.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Interpretive model stated on 2024-11-07",
+      "topic_tags": [
+        "rome",
+        "history",
+        "mythology",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Romulus and Remus legend is read as evidence that Romans saw violence, even killing one's brother, as lying at the core of human existence when ordained by the gods.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0028",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0029",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interpretation of Roman founding legend inside the lecture",
+      "topic_tags": [
+        "romulus",
+        "remus",
+        "violence",
+        "roman-psychology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Sabine women legend is read as teaching that Rome can absorb outsiders into citizenship and that everything, including morals, can be sacrificed for Roman survival.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0030",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0031",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretation of Roman founding legend inside the lecture",
+      "topic_tags": [
+        "sabines",
+        "citizenship",
+        "roman-glory",
+        "sacrifice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tarquin the Proud is presented as tyranny embodied: an arrogant king who kills noble challengers and whose son abuses royal power.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Roman legend as interpreted in the lecture",
+      "topic_tags": [
+        "tarquin",
+        "tyranny",
+        "roman-republic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Lucretia's rape and suicide are narrated as the event that makes Brutus and the nobility honor-bound to overthrow the king.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0033",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Roman legend as interpreted in the lecture",
+      "topic_tags": [
+        "lucretia",
+        "brutus",
+        "republic-founding"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines republicanism as the separation of kingly powers into elected institutions rather than individuals.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Institutional definition inside the lecture",
+      "topic_tags": [
+        "republicanism",
+        "institutions",
+        "rome"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The republic is defined as laws, history or traditions, and institutions; Romans no longer obey the king but the republic.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Definition of Roman republic inside the lecture",
+      "topic_tags": [
+        "republic",
+        "law",
+        "tradition",
+        "institutions"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Brutus' execution of his two sons is used to define Roman devotion as putting the republic above family and personal grief.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0038",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Interpretation of Roman founding legend inside the lecture",
+      "topic_tags": [
+        "brutus",
+        "devotion",
+        "family-sacrifice",
+        "republic"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Lucius Brutus' death fighting Tarquin's son completes his status as the greatest Roman model before Julius Caesar.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Roman memory as described in the lecture",
+      "topic_tags": [
+        "brutus",
+        "tarquin",
+        "roman-memory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Lucius Brutus' memory later frames the assassination of Julius Caesar, linking republican founding myth to later anti-Caesar action.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Forward reference within the course, stated on 2024-11-07",
+      "topic_tags": [
+        "brutus",
+        "julius-caesar",
+        "roman-memory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bridge story is used to show that any Roman, not only nobles, can become a hero through courage and devotion to Rome.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Interpretation of Roman legend inside the lecture",
+      "topic_tags": [
+        "roman-heroism",
+        "devotion",
+        "liberty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hand-in-fire story shows Roman fearlessness as psychologically transmitted by prior examples like Brutus executing his sons.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0043",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0044",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Interpretation of Roman legend inside the lecture",
+      "topic_tags": [
+        "roman-heroism",
+        "brutus",
+        "fearlessness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Roman history can be taught to anyone who becomes a citizen; belief in that history is what makes someone Roman.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Roman identity model stated on 2024-11-07",
+      "topic_tags": [
+        "citizenship",
+        "history",
+        "roman-identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome refuses Hannibal's peace terms because surrender would mean surrendering liberty, understood as Rome's laws, institutions, and history.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Interpretation of Rome after Cannae",
+      "topic_tags": [
+        "liberty",
+        "hannibal",
+        "surrender",
+        "rome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Res publica turns Roman elite politics into a competition to produce men who serve Rome and win glory through office, conquest, and triumph.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Roman institutional model inside the lecture",
+      "topic_tags": [
+        "res-publica",
+        "triumph",
+        "meritocracy",
+        "scipio"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Scipio's rise after Cannae is used to show how Roman office-seeking and pursuit of triumph turn senatorial loss into opportunity for new leaders.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Historical interpretation of post-Cannae recovery",
+      "topic_tags": [
+        "scipio",
+        "triumph",
+        "second-punic-war"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Brutus story may not be historically true, but its message is that if the founder can sacrifice his family for the republic, every Roman can sacrifice for Roman greatness.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Interpretation of Roman legend inside the lecture",
+      "topic_tags": [
+        "brutus",
+        "sacrifice",
+        "roman-greatness",
+        "myth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He explains Roman stories as oral history later written in different versions and canonized by Livy under the early empire.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Source-method explanation inside the lecture",
+      "topic_tags": [
+        "livy",
+        "oral-history",
+        "roman-history"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, what matters in these legends is not what really happened but what Romans believed, because belief created Roman identity.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Identity model stated on 2024-11-07",
+      "topic_tags": [
+        "belief",
+        "roman-identity",
+        "history-as-myth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Rome could raise enormous armies because it offered citizenship to fighters and could draw soldiers from the Italian peninsula through conquered neighbors' obligations.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer to student question in the 2024-11-07 lecture",
+      "topic_tags": [
+        "rome",
+        "citizenship",
+        "manpower",
+        "italian-allies"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Hannibal's use of Gauls helped Rome's neighbors rally to Rome because they saw Hannibal and the Gauls as invaders threatening their culture.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer to student question in the 2024-11-07 lecture",
+      "topic_tags": [
+        "hannibal",
+        "gauls",
+        "italian-allies",
+        "culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hannibal ultimately loses, in Jiang's answer, because he has no reliable organizational and logistical support or food supply, and Rome learns to avoid battle while cutting off supplies.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Answer to student question in the 2024-11-07 lecture",
+      "topic_tags": [
+        "hannibal",
+        "logistics",
+        "food-supply",
+        "fabian-strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang states the strategic lesson as 'armies don't win wars; nations win wars,' contrasting Hannibal's genius with Rome's larger social and institutional capacity.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "General war model stated on 2024-11-07",
+      "topic_tags": [
+        "nations",
+        "war",
+        "hannibal",
+        "rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Carthage undermines Hannibal because its merchant rulers see him as a political and financial threat even while he is trying to save Carthage.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0057",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Historical interpretation of the Second Punic War",
+      "topic_tags": [
+        "carthage",
+        "hannibal",
+        "merchant-culture",
+        "faction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome is presented as unusually united, unlike Greece and Carthage, whose political factions undermine collective war-making.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Civilizational comparison in the lecture",
+      "topic_tags": [
+        "rome",
+        "unity",
+        "carthage",
+        "greece"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cato the Elder's shock at a wealthy, recovered Carthage leads him to insist that Rome must destroy Carthage before it becomes a threat again.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0058",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Historical interpretation of the lead-up to the Third Punic War",
+      "topic_tags": [
+        "cato-the-elder",
+        "carthage",
+        "third-punic-war"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Romans habitually blamed enemies for starting wars; against Carthage they created pretexts, demanded weapons, then demanded the city move inland before destroying it.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0059",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Historical diagnosis inside the lecture",
+      "topic_tags": [
+        "rome",
+        "war-pretext",
+        "carthage",
+        "third-punic-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Roman devotion means all or nothing: Romans neither surrender nor show mercy to enemies.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Definition of Roman mentality in the lecture",
+      "topic_tags": [
+        "devotion",
+        "mercy",
+        "surrender",
+        "rome"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Carthage's merchant culture run by business people made it unable to recognize the Roman threat that Hannibal understood.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Civilizational diagnosis inside the lecture",
+      "topic_tags": [
+        "carthage",
+        "merchant-culture",
+        "threat-recognition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the final answer, Jiang says people generally did not want to become Roman because Rome was seen as militaristic and barbaric compared with Greek culture; Rome made people Roman through conquest.",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0063",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Civilizational diagnosis inside the lecture",
+      "topic_tags": [
+        "rome",
+        "conquest",
+        "identity",
+        "greek-culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0003"
+      ],
+      "moment": "The lecture's first answer is brutally compact: Rome wins because Romans are not afraid to die.",
+      "source_phrase": "the Romans are not afraid to die",
+      "why_it_matters": "This sentence becomes the emotional core of the later Hannibal and Brutus arguments.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "moment": "Civilizational character is promoted above resources as the force that decides fate.",
+      "source_phrase": "the value system or what is known as the character",
+      "why_it_matters": "It turns the lecture away from a conventional military-history account and toward Jiang's values-produce-destiny model.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "moment": "Rome is named as a machine before the lecture explains the beliefs that power it.",
+      "source_phrase": "They are basically a war machine",
+      "why_it_matters": "The phrase gives the Roman state an inhuman, mechanical character that the rest of the episode fills in.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "moment": "At sea, Rome's solution to getting slaughtered is simply to build more ships again and again.",
+      "source_phrase": "they build more ships, and more ships, and more ships",
+      "why_it_matters": "It makes Roman persistence concrete: failure is answered by repetition, not elegance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009"
+      ],
+      "moment": "Hannibal sees peace as temporary because Rome will not stop expanding.",
+      "source_phrase": "Rome will not stop until it has conquered the world",
+      "why_it_matters": "This casts Hannibal not as reckless but as the one Carthaginian who recognizes Rome's nature.",
+      "tone": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0010"
+      ],
+      "moment": "Carthage's political obstacle is reduced to the merchant maxim that war is bad for business.",
+      "source_phrase": "War is bad for business",
+      "why_it_matters": "The phrase condenses the later contrast between Carthage's profit logic and Rome's sacrificial logic.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0012"
+      ],
+      "moment": "Rome's tactical personality is named as the opposite of brilliance.",
+      "source_phrase": "The Romans are not creative. They are just brutal, bold, and direct.",
+      "why_it_matters": "It defines the Roman way of war against Hannibal's genius.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0014"
+      ],
+      "moment": "Hannibal's line flips inside out and turns Roman confidence into a prison.",
+      "source_phrase": "the concave of Hannibal's army turns upside down",
+      "why_it_matters": "The visual makes Cannae memorable as a reversal of Roman force into Roman enclosure.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016"
+      ],
+      "moment": "After hopeless defeat, the Senate answers Hannibal with more war.",
+      "source_phrase": "It's bleak. It's hopeless. But there are Romans. Romans do not surrender.",
+      "why_it_matters": "This is the central Roman reversal: the disaster that should end the war reveals the identity that wins it.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0017"
+      ],
+      "moment": "The mystery is not Hannibal's victory but Rome's refusal to obey defeat.",
+      "source_phrase": "Why did the Romans not surrender?",
+      "why_it_matters": "This question sets up the lecture's move from battlefield facts to identity formation.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0017"
+      ],
+      "moment": "The conventional scoreboard of war is dismissed as basically wrong.",
+      "source_phrase": "traditional military doctrine about who wins wars, it's basically wrong",
+      "why_it_matters": "It licenses Jiang's values-first explanation of military power.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019"
+      ],
+      "moment": "Military power is reduced to three questions of social soul.",
+      "source_phrase": "Are they cohesive? Are they disciplined? Are they devoted?",
+      "why_it_matters": "This becomes the analytic frame for Greece, Carthage, and Rome.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0020"
+      ],
+      "moment": "Greek excellence is made morally indifferent.",
+      "source_phrase": "You could be an asshole. You could be a jerk. But if erite, like you have talent, then you are a good person.",
+      "why_it_matters": "The blunt formulation separates Greek achievement from Roman duty.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0024"
+      ],
+      "moment": "Roman liberty is obedience to law, institutions, and history.",
+      "source_phrase": "It is only by respecting the law could you be free",
+      "why_it_matters": "The paradox explains why surrender is later experienced as loss of life itself.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0028"
+      ],
+      "moment": "Rome's genius is to turn its past into sacred myth.",
+      "source_phrase": "history as mythology",
+      "why_it_matters": "This phrase explains how stories become civic programming rather than mere memory.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0028"
+      ],
+      "moment": "Roman history becomes religion.",
+      "source_phrase": "Their, their history became their religion",
+      "why_it_matters": "It states the episode's deepest mechanism: identity is produced by sacred historical belief.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0030"
+      ],
+      "moment": "The founding legend teaches that fratricide can be right if the gods ordain it.",
+      "source_phrase": "violence is at the core of human existence",
+      "why_it_matters": "This gives Roman virtue its terrible underside before the Brutus stories intensify it.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0032"
+      ],
+      "moment": "Rome is named as a cult whose only god is survival.",
+      "source_phrase": "It's a cult of Rome. All that matters is the survival of Rome. Morals don't matter.",
+      "why_it_matters": "This is the bridge from founding myth to no-surrender politics.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "moment": "The republic replaces obedience to a man with obedience to an impersonal civic order.",
+      "source_phrase": "people didn't have to obey the king. They had to obey the republic",
+      "why_it_matters": "It connects liberty to submission to institutions rather than individual will.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0038"
+      ],
+      "moment": "Brutus' devotion appears in the prosaic horror of going to work to kill his children.",
+      "source_phrase": "Lucius Brutus showed up for work",
+      "why_it_matters": "The plain phrase makes civic duty colder and stranger than heroic rhetoric.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "moment": "Brutus cries, but his tears do not change the order.",
+      "source_phrase": "His tears are flowing down his face. He can't help himself. But he's still standing still.",
+      "why_it_matters": "The image preserves Jiang's distinction between feeling and devotion: grief is allowed, surrender is not.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "moment": "Devotion is defined as sacrificing children for Rome's survival and glory.",
+      "source_phrase": "willing to sacrifice your own children to ensure its survival and its glory",
+      "why_it_matters": "This is one of the lecture's sharpest examples of Roman identity as total demand.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "moment": "One random man on a bridge insults an army into freezing.",
+      "source_phrase": "There's one random guy",
+      "why_it_matters": "The ordinary scale of the hero makes Roman devotion contagious rather than aristocratic only.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "moment": "Freedom is shouted as insult from a bridge against an invading army.",
+      "source_phrase": "you guys are slaves. We're Romans. We will always be free.",
+      "why_it_matters": "The line dramatizes Roman liberty as defiant civic identity, not abstract doctrine.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045"
+      ],
+      "moment": "The enemy king decides Romans are too insane to fight after watching a hand burn.",
+      "source_phrase": "the Romans are the craziest bastards I have ever met",
+      "why_it_matters": "It preserves Jiang's comic but sharp account of fearlessness as strategic terror.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "moment": "Being Roman is believing the history.",
+      "source_phrase": "Believing in this history knowing this history is what makes you a Roman",
+      "why_it_matters": "This links immigration, education, and myth into one identity technology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047"
+      ],
+      "moment": "Without liberty, life itself loses value.",
+      "source_phrase": "if you don't have liberty your life isn't worth living",
+      "why_it_matters": "It explains why Hannibal's peace terms are existential defeat rather than ordinary diplomacy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0049"
+      ],
+      "moment": "Roman greatness demands every sacrifice, even family.",
+      "source_phrase": "No sacrifice every sacrifice must be made to ensure Roman greatness",
+      "why_it_matters": "It restates the cult-of-Rome logic in its most compressed lesson form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "moment": "Belief matters more than historical truth because belief makes Romans.",
+      "source_phrase": "what matters is what they believed as opposed to what really happened",
+      "why_it_matters": "This is the methodological key for reading myth as identity technology.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "moment": "Genius still has to eat.",
+      "source_phrase": "you can win all these battles because you're a military genius. But you still have to feed your soldiers.",
+      "why_it_matters": "The line converts Hannibal's battlefield brilliance into strategic failure through logistics.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "moment": "Rome learns not to beat Hannibal in battle but to starve his war.",
+      "source_phrase": "we will never fight Hannibal in a battle again. We will cut off his food supply.",
+      "why_it_matters": "This is the tactical adaptation that turns Roman endurance into victory.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0057"
+      ],
+      "moment": "The answer to Hannibal is that armies do not win wars by themselves.",
+      "source_phrase": "armies don't win wars. Nations win wars.",
+      "why_it_matters": "This line generalizes the whole episode from battles to civilization.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0057"
+      ],
+      "moment": "Carthage undermines the man trying to save it.",
+      "source_phrase": "Hannibal was being undermined by Carthage itself even though Hannibal was trying to save Carthage",
+      "why_it_matters": "It sharpens the contrast between a divided merchant polity and a unified Roman war society.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0060"
+      ],
+      "moment": "Roman devotion is all-or-nothing and merciless.",
+      "source_phrase": "Devotion means all or nothing",
+      "why_it_matters": "It names the dark side of the same virtue that saved Rome after Cannae.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0063"
+      ],
+      "moment": "Rome is compared to North Korea: militaristic, barbaric, and unattractive.",
+      "source_phrase": "It's basically like North Korea",
+      "why_it_matters": "The provocation prevents the episode from becoming simple Roman admiration.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0064"
+      ],
+      "moment": "Nobody wants to be Roman; Rome manufactures Romans by conquest.",
+      "source_phrase": "Nobody wanted to be Roman. The Romans made everyone into a Roman through their conquest.",
+      "why_it_matters": "It gives the final twist: Rome's universal identity is not seduction but force.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Roman war machine",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's description of Rome as an expansionist society organized around war and territorial growth.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pyrrhic victory",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Defined as a victory whose costs are so high that the winner might as well have lost.",
+      "confidence": "high"
+    },
+    {
+      "term": "Civilizational character",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The value system of a civilization, which Jiang says ultimately determines its fate and future.",
+      "confidence": "high"
+    },
+    {
+      "term": "First Punic War",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The first direct conflict with Carthage, used here to show Rome learning naval power through attrition.",
+      "confidence": "high"
+    },
+    {
+      "term": "Council of Elders",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0009",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Jiang's name for the wealthy Carthaginian ruling body that supports Hannibal only when his campaigns are profitable.",
+      "confidence": "high"
+    },
+    {
+      "term": "Battle of Cannae",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0012",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The 216 BCE battle Jiang treats as Hannibal's great tactical victory and Rome's greatest test.",
+      "confidence": "high"
+    },
+    {
+      "term": "Double envelopment",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "A tactic in which Hannibal's army surrounds the Roman force and attacks from the rear and sides.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman refusal to surrender",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The Senate's post-Cannae decision to continue war despite catastrophic losses.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cohesion, discipline, devotion",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0018",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Jiang's three-part alternative to manpower, technology, and resources as the basis of military strength.",
+      "confidence": "high"
+    },
+    {
+      "term": "Arete",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Greek excellence or talent, especially speaking well and fighting well; transcript spells it 'erite'.",
+      "confidence": "high"
+    },
+    {
+      "term": "Eudaimonia",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Greek flourishing, defined as achieving one's true potential.",
+      "confidence": "high"
+    },
+    {
+      "term": "Piety",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Roman duty to the gods, the city of Rome, and one's father.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman liberty",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0023",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Freedom understood as respecting Rome's laws, institutions, and history, not Greek free speech.",
+      "confidence": "high"
+    },
+    {
+      "term": "Res publica",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Public virtue or the public good; the Roman purpose of life as serving Rome and making it stronger.",
+      "confidence": "high"
+    },
+    {
+      "term": "History as mythology",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Rome's elevation of historical stories into sacred civic myth and identity formation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cult of Rome",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's phrase for Roman devotion to the survival and glory of Rome above ordinary moral limits.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third Punic War",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "The 149-146 BCE destruction of Carthage, used here to explain the loss of Carthaginian sources.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman psychology",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0030",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The mentality Jiang extracts from Roman legends: violence, immigration, sacrifice, and survival for Rome.",
+      "confidence": "high"
+    },
+    {
+      "term": "Republicanism",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "The division of kingly powers into elected institutions rather than personal monarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Republic",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Defined by Jiang as Rome's laws, history or traditions, and institutions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Patricians and plebeians",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Patricians are old Roman families and plebeians ordinary people; Jiang emphasizes their early social proximity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman devotion",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Putting Rome's survival and glory above family, grief, and personal desire.",
+      "confidence": "high"
+    },
+    {
+      "term": "Triumph",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A parade celebrating a general who wins new territory for Rome; Jiang treats it as the glory every Roman soldier aspires to.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman history as citizenship",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0045",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The idea that anyone can become Roman by learning and believing Rome's sacred history.",
+      "confidence": "high"
+    },
+    {
+      "term": "Res publica competition",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Roman politics as a meritocratic competition among elites to serve Rome and win public glory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman liberty",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The civic freedom preserved by loyalty to Rome's laws, institutions, and history; surrender to Hannibal would destroy it.",
+      "confidence": "high"
+    },
+    {
+      "term": "Livy",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The early imperial historian Jiang names as the writer who gathered Rome's official history from oral and written traditions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Oral history",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The generational transmission of Roman myths and stories before later written versions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Logistics",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The food and supply problem Jiang says defeated Hannibal despite tactical genius.",
+      "confidence": "high"
+    },
+    {
+      "term": "Belief over fact",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The principle that Roman identity is formed by what Romans believed about their history, not by the literal truth of each story.",
+      "confidence": "high"
+    },
+    {
+      "term": "Nations win wars",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "Jiang's model that war is decided by national social capacity, unity, logistics, and institutions, not battlefield armies alone.",
+      "confidence": "high"
+    },
+    {
+      "term": "All-or-nothing devotion",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "The Roman mentality of refusing surrender and refusing mercy to enemies.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cato the Elder",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0058",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Roman senator whose alarm at Carthage's recovery is used to explain the push to destroy Carthage.",
+      "confidence": "high"
+    },
+    {
+      "term": "Rome by conquest",
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0063",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang's final contrast: Greek culture attracted people, while Roman identity spread because Rome conquered and made people Roman.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041"
+      ],
+      "note": "Jiang explicitly postpones the Caesar/Brutus connection to the next class; do not treat this episode as the full Caesar argument.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0064"
+      ],
+      "note": "Episode ends by explicitly teeing up the next class on Julius Caesar.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0006"
+      ],
+      "note": "Transcript renders the Greek formation as 'hoplite phallus'; context strongly suggests 'hoplite phalanx', but the semantic pass preserves the source ref rather than rewriting the transcript."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0010"
+      ],
+      "note": "Transcript renders a Carthaginian political element as 'Arlacher'; context likely means oligarchy, but the pass does not correct the transcript."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0019",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0020"
+      ],
+      "note": "Transcript renders Greek arete as 'erite'; semantic term normalizes the concept while preserving exact refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0027"
+      ],
+      "note": "Transcript says 'Mythology is what humans did. History is what humans did'; the first clause likely contains an ASR or speech error, but the surrounding argument is clear: Greeks separate myth and history while Romans merge them."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0035",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0036"
+      ],
+      "note": "Transcript repeatedly says 'council' where Roman office context likely means consul; semantic claims avoid overcorrecting the transcript except where defining the institutional structure at a high level."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0041",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0042",
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0046"
+      ],
+      "note": "Transcript varies the bridge hero's name as cockles/Kakos/Chagos; semantic pass describes the role rather than normalizing the proper name."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0052"
+      ],
+      "note": "Student question is fragmentary in the transcript: '80,000 army against Hannibal.' Jiang's answer implies the student asks how Rome could field or sustain that army."
+    },
+    {
+      "refs": [
+        "video:predictive-history-tdce7xgdayo@transcript:v1#seg-0063"
+      ],
+      "note": "Final audience prompt is not captured beyond 'Public virtue. Yeah.'; do not list it as a public question unless future transcript repair recovers the actual question."
+    }
+  ]
+}

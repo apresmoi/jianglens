@@ -1,0 +1,34 @@
+id: "video:predictive-history-rat-zudjhrm@transcript:v1"
+source_id: "video:predictive-history-rat-zudjhrm"
+version: 1
+language: "en"
+language_probability: 0.992
+duration_seconds: 3558.04
+segments: 49
+word_count: 7137
+speakers:
+  - "SPEAKER_00"
+  - "UNKNOWN"
+chronology:
+  source_date: "2024-09-10"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  staging_dir: "ops/staging/drive/youtube/@PredictiveHistory/RaT_ZUDjHrM"
+  youtube_metadata: "ops/staging/drive/youtube/@PredictiveHistory/RaT_ZUDjHrM/metadata.youtube.json"
+  youtube_metadata_source: "uvx yt-dlp"
+  transcription_json_sha256: "2f63ba8f79427db1217e3b49348fd470e5c19af17486729ecc431c1ba76fc245"
+  grouped_json_sha256: "6908ec13f915fa876f8e6b88507a2cd171abcf08b8a5315f3b0553d4a878258e"
+  dump_json_sha256: "266cd6f80138ee302d25fbb4d1ebb623e042b9cb118ef620affe00df9059bbd9"

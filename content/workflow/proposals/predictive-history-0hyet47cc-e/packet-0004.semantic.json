@@ -1,0 +1,376 @@
+{
+  "packet_id": "predictive-history-0hyet47cc-e-semantics-pkt-0004",
+  "source_id": "video:predictive-history-0hyet47cc-e",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0025",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0026",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that the reported Washington Post plan, weekend aircraft activity, special forces insertion, and recovered nuclear-technology specialist ID make the failed-ground-invasion theory plausible, while repeatedly stressing that the internal decision process is unknown.",
+      "speaker_attribution": "Likely Jiang presenting analysis; diarization labels are consistent across the span but not independently verified.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0028",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang compares the alleged Iran operation to Operation Eagle Claw and a Venezuela raid, then frames the current American approach as driven by spectacle, optics, and movie-like scripting rather than strategy.",
+      "speaker_attribution": "Likely Jiang continuing the lecture.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states a model of war-winning requirements: economics, organization, and logistics. He applies it to argue that America is neglecting these fundamentals while Iran is fighting a more practical war, leading him to predict American defeat and disaster.",
+      "speaker_attribution": "Likely Jiang presenting his strategic model and diagnosis.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0025",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "note": "The focus refs are all labeled SPEAKER_02 and read as one continuous lecture voice; there is no clear audience question, interviewer turn, or quoted reading inside the focus range.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0026",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "note": "The imagined exchange among Trump, generals, and Peter Hexner is Jiang's speculative reconstruction, not separate live speakers.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says a Washington Post leak described a detailed plan to insert hundreds or thousands of troops by building a landing strip near Iran's border.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Claim made on 2026-04-07 about a reported plan leaked roughly one week before the talk.",
+      "topic_tags": [
+        "iran-war",
+        "washington-post",
+        "special-forces",
+        "landing-strip"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the weekend operation matched the reported plan: 155 aircraft were sent to create a landing strip and special forces were inserted.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Claim made on 2026-04-07 about events Jiang places during the preceding weekend.",
+      "topic_tags": [
+        "iran-war",
+        "air-operation",
+        "special-forces"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang speculates that generals may have leaked the top-secret plan after Trump accepted what they expected to be an obviously impossible uranium-seizure proposal, and that refusal to execute it may have led Peter Hexner to fire them.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0026",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Speculative interpretation stated on 2026-04-07; Jiang explicitly says the true internal events are unknown.",
+      "topic_tags": [
+        "trump",
+        "pentagon",
+        "military-leaks",
+        "iran-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says evidence suggests the incident may have been a failed ground invasion intended to steal uranium.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Interpretive claim made on 2026-04-07 about recent events in the Iran war.",
+      "topic_tags": [
+        "iran-war",
+        "ground-invasion",
+        "uranium"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang cites Iranian recovery of an ID from the crash site belonging to a woman specializing in nuclear technology as evidence inconsistent with a simple pilot-rescue mission.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Claim made on 2026-04-07 about evidence reportedly recovered after the recent crash.",
+      "topic_tags": [
+        "iran-war",
+        "nuclear-technology",
+        "crash-site"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses Operation Eagle Claw as precedent for U.S. forces attempting a difficult operation inside Iran and failing under desert operating conditions.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Historical comparison made on 2026-04-07 about a 1980 operation.",
+      "topic_tags": [
+        "operation-eagle-claw",
+        "iran",
+        "historical-analogy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Trump believed a successful U.S. kidnapping of Maduro in Venezuela showed that a similar spectacular operation could work in Iran.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0028",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretive claim made on 2026-04-07, referring to Jiang's stated June 3 Venezuela example.",
+      "topic_tags": [
+        "venezuela",
+        "maduro",
+        "trump",
+        "iran-war",
+        "optics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang diagnoses America's war-making as focused on optics, narrative, and Hollywood-like scripting rather than strategy.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0029",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-04-07 as a current and forward-looking characterization of U.S. war conduct.",
+      "topic_tags": [
+        "american-strategy",
+        "optics",
+        "hollywood-pentagon-complex"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's model says winning a war requires attention to three major issues: economics, organization, and logistics.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "General model stated on 2026-04-07.",
+      "topic_tags": [
+        "war-model",
+        "economics",
+        "organization",
+        "logistics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the economics of war as resource management: trying to win as cheaply and quickly as possible.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Definition stated on 2026-04-07.",
+      "topic_tags": [
+        "war-model",
+        "economics",
+        "resource-management"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines organization as the implementation of strategy and says simpler strategy is easier to implement.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Definition stated on 2026-04-07.",
+      "topic_tags": [
+        "war-model",
+        "organization",
+        "strategy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines logistics as supply: ensuring forces have the equipment and resources needed to fight effectively.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Definition stated on 2026-04-07.",
+      "topic_tags": [
+        "war-model",
+        "logistics",
+        "supply"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that America will ultimately lose the war because it is focused on optics and narrative while Iran is fighting a real war around economics, simple strategy, organization, and logistics.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-07 about the eventual outcome of the war.",
+      "topic_tags": [
+        "iran-war",
+        "american-defeat",
+        "prediction",
+        "war-model"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that America's Hollywood-style approach to the war will lead to disaster in both the short term and the long term.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-07 about short-term and long-term consequences.",
+      "topic_tags": [
+        "iran-war",
+        "prediction",
+        "hollywood-pentagon-complex"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says excessive cooperation between Hollywood and the Pentagon explains why Americans favor spectacle-driven military action.",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-04-07.",
+      "topic_tags": [
+        "hollywood-pentagon-complex",
+        "american-culture",
+        "military-media"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "economics",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "In Jiang's war model, economics means resource management: winning as cheaply and quickly as possible.",
+      "confidence": "high"
+    },
+    {
+      "term": "organization",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "In Jiang's war model, organization means implementing strategy; simpler strategies are easier to organize and execute.",
+      "confidence": "high"
+    },
+    {
+      "term": "logistics",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "In Jiang's war model, logistics means supply: maintaining the equipment and resources forces need to fight effectively.",
+      "confidence": "high"
+    },
+    {
+      "term": "optics",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0029",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Used for an image- or narrative-first approach to war in which leaders treat reality like a scripted Hollywood movie.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hollywood-Pentagon Complex",
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's framing for cooperation between Hollywood and the Pentagon, which he says encourages Americans to imagine military action as cinematic spectacle.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0025",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0026",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "note": "As of 2026-04-07, Jiang says he initially dismissed the Washington Post uranium-seizure plan as too implausible, but now treats the failed-ground-invasion interpretation as supported by recent events while still acknowledging uncertainty about what happened inside the U.S. command structure.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032"
+      ],
+      "note": "On 2026-04-07, Jiang advances a forward-looking prediction that America will ultimately lose the war and suffer short- and long-term disaster because its conduct prioritizes optics over economics, organization, and logistics.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0025"
+      ],
+      "note": "The transcript phrase 'letting strip' appears to mean 'landing strip'; the semantic output uses landing strip for clarity while preserving the original ref."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0026",
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "note": "Jiang's account of why generals were fired and who leaked the plan is explicitly speculative; he says the audience will never know what happened."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0027"
+      ],
+      "note": "The phrase 'recover I.D. from during the crash site' is transcript-noisy; the intended meaning appears to be recovery of an ID at or from the crash site."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0028"
+      ],
+      "note": "The Venezuela/Maduro example is used as Jiang's asserted analogy for Trump's thinking; this pass does not independently verify the event."
+    }
+  ],
+  "signature_moments": []
+}

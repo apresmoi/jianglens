@@ -1,0 +1,276 @@
+{
+  "packet_id": "predictive-history-l6arod58jke-semantics-pkt-0003",
+  "source_id": "video:predictive-history-l6arod58jke",
+  "source_date": "2024-10-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0017",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang returns from the thought experiments to Philip's world, contrasting Athens, Sparta, Thebes, and poor, weak, divided Macedon.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0019",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0020",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0021"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains Macedon's weakness through geography, hostile neighbors, prior Persian subjugation, and royal succession conflict exploited by foreign powers.",
+      "speaker_attribution": "Mostly Jiang; one student answer is implied when he says 'Exactly' about multiple sons.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0021",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang presents Philip's Theban hostage years as an education: because he is treated as a prince, Philip studies Thebes's military dominance and learns from its best generals.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0022",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extracts lessons from Thebes: commoners can be trained into elite soldiers, the Sacred Band can break a phalanx psychologically, and discipline produces mobility and coordination.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0020"
+      ],
+      "note": "The answer to why many wives produce instability is implied by Jiang's 'Exactly' and not separately captured.",
+      "suggested_speaker": "student response implied but not captured",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames Philip's problem as conquering Greece from a Macedon that was geographically divided, resource-poor, surrounded by stronger enemies, and politically unstable.",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0017",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0018",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0019",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical diagnosis of Macedon before Philip's reforms.",
+      "topic_tags": [
+        "macedon",
+        "geography",
+        "weakness",
+        "hostile-neighbors",
+        "succession"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Macedon's royal structure created chronic succession conflict because many royal sons could claim the throne and foreign powers backed rival claimants to keep Macedon divided.",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0020",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical diagnosis of Macedon before Philip's consolidation.",
+      "topic_tags": [
+        "macedon",
+        "succession",
+        "foreign-intervention",
+        "division"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Philip's years as a hostage in Thebes gave him access to the leading military power's generals and made Theban military organization his practical school.",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Biographical interpretation of Philip's Theban captivity, 369-365 BCE as stated in lecture.",
+      "topic_tags": [
+        "philip-ii",
+        "thebes",
+        "hostage",
+        "military-education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the Sacred Band of Thebes as the secret of Theban power because it showed that trained volunteers and commoners could become elite soldiers.",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "sacred-band",
+        "thebes",
+        "commoners",
+        "training"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Theban tactical innovation was to slant the phalanx so the Sacred Band struck the enemy's best troops first, causing a psychological break in enemy formation.",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical-tactical model presented in this lecture.",
+      "topic_tags": [
+        "thebes",
+        "sacred-band",
+        "phalanx",
+        "psychology",
+        "tactics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that disciplined training transforms armies by producing mobility, coordination, and later flexibility.",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Military model stated in this lecture.",
+      "topic_tags": [
+        "discipline",
+        "mobility",
+        "coordination",
+        "army"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0018"
+      ],
+      "moment": "Macedon enters the story as poor, weak, and divided while better-known Greek powers dominate the map.",
+      "source_phrase": "Macedon is very poor, weak, and divided",
+      "why_it_matters": "The phrase names the raw material Philip must transform.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0022"
+      ],
+      "moment": "The secret of Thebes is that soldiers are made, not born aristocratic.",
+      "source_phrase": "With proper training, anyone can learn to be a great soldier",
+      "why_it_matters": "This is the egalitarian military primitive Philip later imports into Macedon.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023"
+      ],
+      "moment": "The phalanx is a moving wall that can become a death trap once formation breaks.",
+      "source_phrase": "it is like a moving wall",
+      "why_it_matters": "The image makes the tactical logic legible: strength depends on coordinated formation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0024"
+      ],
+      "moment": "Discipline converts training into speed: an army arrives before reinforcements can save the city.",
+      "source_phrase": "your army can march much faster than other armies",
+      "why_it_matters": "It makes discipline a temporal weapon, not just a moral virtue.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Sacred Band of Thebes",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0022",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The elite 300-soldier Theban force Jiang treats as the secret of Thebes's military power and as Philip's training model.",
+      "confidence": "high"
+    },
+    {
+      "term": "hoplite phalanx",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The traditional Greek formation Jiang describes as a slow moving wall that tries to crush the enemy.",
+      "confidence": "high"
+    },
+    {
+      "term": "slant",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The Theban tactic of angling the formation so elite troops strike the enemy's best soldiers first.",
+      "confidence": "high"
+    },
+    {
+      "term": "discipline",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023",
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Training that lets an army move quickly, coordinate units, and eventually adapt tactics.",
+      "confidence": "high"
+    },
+    {
+      "term": "mobility",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The speed advantage discipline gives an army, including the ability to reach and besiege a city before reinforcements arrive.",
+      "confidence": "high"
+    },
+    {
+      "term": "coordination",
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The ability of different military units to work together as one system.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0021"
+      ],
+      "note": "Jiang dates Philip's Theban hostage period to 369-365 BCE in this lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0019"
+      ],
+      "note": "The transcript renders Thrace as 'Phrase' in one place; semantic outputs use Thrace."
+    },
+    {
+      "refs": [
+        "video:predictive-history-l6arod58jke@transcript:v1#seg-0023"
+      ],
+      "note": "The transcript renders 'phalanx' as 'phallax' in places; semantic outputs use phalanx."
+    }
+  ]
+}

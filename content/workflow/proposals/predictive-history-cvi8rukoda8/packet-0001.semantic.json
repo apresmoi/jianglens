@@ -1,0 +1,277 @@
+{
+  "packet_id": "predictive-history-cvi8rukoda8-semantics-pkt-0001",
+  "source_id": "video:predictive-history-cvi8rukoda8",
+  "source_date": "2024-12-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0001",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0002",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0003",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0004",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0005",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the final Bronze Age lecture by setting three questions about the Indus Valley Civilization: what made it distinct, why it declined after its peak, and what legacy it left. He then places it inside a Middle Bronze Age trade world linking Egypt, Mesopotamia, Arabia, the Persian Gulf, Afghanistan, the Oxus/BMAC sphere, steppe peoples, and possibly China.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers an audience question he restates as how archaeologists know there was no organized warfare, citing intact urban centers, graves without a warrior caste, and the absence of armor, helmets, or military weapons while also admitting the evidence is incomplete.",
+      "speaker_attribution": "Jiang answering an uncaptured student question.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007"
+      ],
+      "note": "The student's actual question is not transcribed; Jiang restates it as a question about evidence for the absence of organized warfare.",
+      "suggested_speaker": "Jiang with uncaptured audience prompt",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the lecture around three problems: IVC distinctiveness, its decline after a 2600-1900 BCE peak, and its legacy for Western Civilization.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture agenda stated on 2024-12-03; historical focus on the Bronze Age.",
+      "topic_tags": [
+        "lecture-frame",
+        "indus-valley-civilization",
+        "decline",
+        "legacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Middle Bronze Age world Jiang describes, roughly 2500-2000 BCE, was a trade system in which Egypt, Mesopotamia, and the Indus Valley Civilization were heavily interconnected.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0001",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical model for roughly 2500-2000 BCE.",
+      "topic_tags": [
+        "middle-bronze-age",
+        "trade",
+        "egypt",
+        "mesopotamia",
+        "ivc"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents the IVC as geographically positioned across modern Afghanistan, Pakistan, and northwest India, with coastal access that allowed it to reach Mesopotamia and Egypt.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical-geographic description in the Bronze Age lecture.",
+      "topic_tags": [
+        "geography",
+        "ivc",
+        "trade-access"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies indigo dye, handicrafts, jewelry, Persian Gulf colonies, large ships, navigation, tin, and lapis lazuli as parts of the IVC's long-distance trade position.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0003",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical description of Bronze Age trade goods and routes.",
+      "topic_tags": [
+        "trade-goods",
+        "persian-gulf",
+        "afghanistan",
+        "tin",
+        "lapis-lazuli"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that through partners such as the Oxus Valley/BMAC sphere and colonies near the Persian Gulf, the IVC touched the whole Western world through trade.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0004",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical model for roughly 2500-2000 BCE.",
+      "topic_tags": [
+        "trade-network",
+        "oxus-valley",
+        "bmac",
+        "western-world"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Egyptian burial demand and Mesopotamian war demand for bronze drove IVC wealth through trade.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical causal claim about Bronze Age demand.",
+      "topic_tags": [
+        "egypt",
+        "sumer",
+        "bronze",
+        "demand",
+        "ivc-wealth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the IVC's five major urban centers as value-adding processing centers that convert raw metals and agricultural products into finished goods for trade.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical economic model for the IVC.",
+      "topic_tags": [
+        "urban-centers",
+        "value-adding-processing",
+        "economic-model",
+        "ivc"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims that the IVC was huge, had about five million people at its peak, and shows no evidence of organized warfare or military intention.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical claim about the IVC at its peak.",
+      "topic_tags": [
+        "ivc",
+        "population",
+        "organized-warfare",
+        "peace"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's evidentiary basis for IVC peace is that excavated cities appear intact and graves do not reveal a distinct warrior caste or military equipment, though he notes the evidence is not solid.",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Assessment of archaeological evidence stated on 2024-12-03.",
+      "topic_tags": [
+        "archaeology",
+        "warfare",
+        "graves",
+        "ivc"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0005"
+      ],
+      "moment": "The IVC is introduced not as a remote local civilization but as a trade civilization that touches every piece of the Western world.",
+      "source_phrase": "There's no piece of the Western world that the Indus Valley Civilization does not touch.",
+      "why_it_matters": "This turns the lecture away from isolated archaeology and toward a model of Bronze Age globalization.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006"
+      ],
+      "moment": "The cities are cast as value-adding processing centers, not palace or temple capitals.",
+      "source_phrase": "value-adding processing centers",
+      "why_it_matters": "This phrase compresses Jiang's economic model of the IVC: cities exist to transform goods inside a trade system.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0008"
+      ],
+      "moment": "The absence of armor, helmets, weapons, destruction layers, and warrior graves becomes the first strange fact to explain.",
+      "source_phrase": "We have found tools. We found hunting weapons. We have not found, like, maybe armor, and helmets.",
+      "why_it_matters": "The lecture's later claims about religion and trade depend on making IVC peace feel like an anomaly requiring explanation.",
+      "tone": "method",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Middle Bronze Age",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang uses this for the 2500-2000 BCE world in which bronze tools and weapons structure demand and trade.",
+      "confidence": "high"
+    },
+    {
+      "term": "Value-adding processing centers",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Urban centers that take raw goods such as metals and agricultural products and convert them into finished trade goods.",
+      "confidence": "high"
+    },
+    {
+      "term": "Oxus Valley Civilization / BMAC",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A northern trade partner of the IVC, identified with the Bactrian-Margiana Archaeological Complex and positioned between IVC trade and steppe peoples.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Organized warfare",
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007",
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang treats organized warfare as evidenced by destruction layers, military weapons, armor, helmets, and warrior burials rather than ordinary hunting tools.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0001"
+      ],
+      "note": "The lecture dates the IVC peak to about 2600-1900 BCE and says its decline unfolded over the following 300-400 years.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang explicitly cautions that the archaeological evidence for IVC peace is not solid because burial practices and burial locations are uncertain."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cvi8rukoda8@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript captures Jiang's restatement of a student question but not the student's own words."
+    }
+  ]
+}
