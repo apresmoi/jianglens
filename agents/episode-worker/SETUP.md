@@ -7,7 +7,8 @@ This worker is deployed as an autonomous PR producer. It processes one ready vid
 The worker needs GitHub access to push branches, create PRs, and queue auto-merge. In Docker, pass a token at runtime with:
 
 ```bash
-GH_TOKEN=...
+cp ops/env/episode-worker.env.example ops/secrets/episode-worker.env
+$EDITOR ops/secrets/episode-worker.env
 ```
 
 Use a fine-grained token scoped to `apresmoi/jianglens` with:
@@ -16,13 +17,60 @@ Use a fine-grained token scoped to `apresmoi/jianglens` with:
 - Pull requests: read/write
 - Metadata: read
 
-A classic token needs `repo`. Do not bake this token into the image.
+A classic token needs `repo`. Do not bake this token into the image. Keep it in
+`ops/secrets/episode-worker.env` locally.
+
+The local Docker stack requires `spawnfile@0.1.4` or newer. The launcher uses
+that version to sync Codex OAuth and inject declared project secrets from the env
+file at run time.
 
 Configure `git` and `gh` inside the worker environment:
 
 ```bash
 configure-agent-github
 ```
+
+The Docker image does this automatically before starting the worker.
+
+The worker runtime starts in a Picoclaw wrapper workspace. The repository is
+cloned or updated at `jiang-lens/` inside that workspace before the agent starts.
+Run repo commands from there:
+
+```bash
+cd jiang-lens
+```
+
+## Local Docker Stack
+
+For local testing, run Moltnet inside the episode-worker container and expose it
+to the host:
+
+```bash
+ops/scripts/build-episode-worker-image.sh
+ops/scripts/run-episode-worker-stack.sh
+```
+
+This stores local runtime state under `.runtime/episode-worker/`, which is
+gitignored, and exposes the Moltnet console at:
+
+```text
+http://127.0.0.1:8787/console/
+```
+
+Use logs to watch the stack:
+
+```bash
+docker logs -f jiang-lens-episode-worker
+```
+
+Stop it with:
+
+```bash
+docker rm -f jiang-lens-episode-worker
+```
+
+For the full operator runbook, environment variables, version checks, and
+troubleshooting, see `docs/EPISODE_WORKER_STACK.md`.
 
 Start from a clean clone. In Docker or any token-based environment, prefer HTTPS through `gh`:
 

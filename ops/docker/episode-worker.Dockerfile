@@ -1,6 +1,8 @@
 ARG BASE_IMAGE=jiang-lens-agents:spawnfile
 FROM ${BASE_IMAGE}
 
+ARG CODEX_VERSION=0.128.0
+
 USER root
 
 RUN apt-get update \
@@ -13,7 +15,12 @@ RUN apt-get update \
   && apt-get install -y --no-install-recommends gh \
   && rm -rf /var/lib/apt/lists/*
 
+RUN npm install -g --omit=dev --no-fund --no-audit "@openai/codex@${CODEX_VERSION}"
+
 COPY ops/scripts/configure-agent-github.sh /usr/local/bin/configure-agent-github
-RUN chmod +x /usr/local/bin/configure-agent-github
+COPY ops/scripts/episode-worker-entrypoint.sh /usr/local/bin/episode-worker-entrypoint
+RUN chmod +x /usr/local/bin/configure-agent-github /usr/local/bin/episode-worker-entrypoint
 
 USER spawnfile
+
+ENTRYPOINT ["/usr/local/bin/episode-worker-entrypoint"]

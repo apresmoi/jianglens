@@ -30,9 +30,13 @@ Docker episode workers use a small overlay image so GitHub operations are availa
 
 ```bash
 ops/scripts/build-episode-worker-image.sh
+ops/scripts/run-episode-worker-stack.sh
 ```
 
-Pass `GH_TOKEN` at runtime. Do not bake GitHub tokens into images.
+The worker stack requires `spawnfile@0.1.4` or newer and reads `GH_TOKEN` from
+`ops/secrets/episode-worker.env`. Do not bake GitHub tokens into images. See
+[Episode Worker Stack](docs/EPISODE_WORKER_STACK.md) for the full build, auth,
+environment, and Moltnet runbook.
 
 ## Working Model
 
