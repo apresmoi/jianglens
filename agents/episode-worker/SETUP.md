@@ -24,6 +24,10 @@ The local Docker stack requires `spawnfile@0.1.4` or newer. The launcher uses
 that version to sync Codex OAuth and inject declared project secrets from the env
 file at run time.
 
+The Docker image includes `yt-dlp` only for YouTube metadata fallback during
+`ops/scripts/import-colab-video.mjs`. Do not use the worker to download audio or
+video; raw media and cookies belong to Colab/Drive, not the episode PR worker.
+
 Configure `git` and `gh` inside the worker environment:
 
 ```bash
