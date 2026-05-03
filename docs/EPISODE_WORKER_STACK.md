@@ -9,6 +9,7 @@ This runbook starts the local autonomous episode worker stack:
 - Moltnet runs inside the container and exposes `local_lab/episode-floor`.
 - Codex OAuth is mounted from a local Spawnfile auth profile.
 - `GH_TOKEN` is injected from a local env file so the worker can push branches and open PRs.
+- The worker image includes `yt-dlp` for metadata fallback when a synced transcript folder lacks `metadata.youtube.json`.
 
 ## Prerequisites
 
@@ -51,7 +52,11 @@ ops/scripts/build-episode-worker-image.sh
 The build script checks the Spawnfile CLI version before compiling. It creates two local Docker images by default:
 
 - `jiang-lens-agents:spawnfile`: raw Spawnfile-generated base image
-- `jiang-lens-episode-worker:latest`: overlay image with `gh`, Codex CLI, and GitHub setup
+- `jiang-lens-episode-worker:latest`: overlay image with `gh`, Codex CLI, `yt-dlp`, and GitHub setup
+
+`yt-dlp` is present so `ops/scripts/import-colab-video.mjs` can resolve public
+YouTube title/date metadata. The worker still should not download audio/video or
+use browser/YouTube cookies; Colab and Drive remain the transcription pipeline.
 
 Useful build environment variables:
 
