@@ -27,10 +27,17 @@ cd jiang-lens
 1. Read the repo `AGENTS.md` and this worker's `SETUP.md`.
 2. Inspect `pwd` and `git status --short`. Treat unknown changes as another agent's or maintainer's work.
 3. If the checkout is already on a source branch or has uncommitted source work, resume that source until it is validated, committed, pushed, and handed off. Do not claim a second source.
-4. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, then resume existing branch work before looking at the backlog.
-5. Confirm you are not on `main` for implementation work. If you are on `main`, create a source-scoped branch before editing.
-6. If the task names a video ID or source slug, process that target.
-7. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state:
+4. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before inspecting the backlog:
+
+```bash
+git checkout main
+git pull --ff-only origin main
+```
+
+5. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, then resume existing branch work before looking at the backlog.
+6. Confirm you are not on `main` for implementation work. If you are on `main`, create a source-scoped branch before editing.
+7. If the task names a video ID or source slug, process that target.
+8. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
@@ -150,3 +157,10 @@ End every run with:
 - the next useful autonomous job.
 
 If a run teaches a durable process improvement, propose a skill update. Do not silently encode broad methodology only in personal memory.
+
+After the PR is merged and final status is posted, return the checkout to clean `main`:
+
+```bash
+git checkout main
+git pull --ff-only origin main
+```

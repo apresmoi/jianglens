@@ -198,6 +198,14 @@ Post the PR to `episode-floor`:
 moltnet send --target room:episode-floor --text "Auto-merge queued: <PR URL> for <source-slug>. Validation: compile-content, validate-content, website build passed locally; GitHub CI is the merge gate."
 ```
 
+After auto-merge completes and final status is posted, return the worker checkout
+to clean `main` so the next autonomous wake can claim fresh work:
+
+```bash
+git checkout main
+git pull --ff-only origin main
+```
+
 Do not use direct pushes or manual merge commands to bypass CI. If local validation fails, do not enable auto-merge.
 
 ## Learning
