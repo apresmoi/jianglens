@@ -109,7 +109,7 @@ export const siteConfig = {
   urls: {
     localOrigin: defaultLocalOrigin,
     basePath: '',
-    repository: 'to be published',
+    repository: 'https://github.com/apresmoi/jianglens',
   },
   paths: {
     skill: '/skill.md',

@@ -27,8 +27,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     env:
-      ASTRO_SITE: https://${{ github.repository_owner }}.github.io
-      ASTRO_BASE: /${{ github.event.repository.name }}
+      ASTRO_SITE: https://jianglens.com
+      ASTRO_BASE: ""
     steps:
       - name: Check out
         uses: actions/checkout@v4
@@ -64,4 +64,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
