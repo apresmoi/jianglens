@@ -38,6 +38,7 @@ async function walk(dir) {
 
     if (entry.isDirectory()) {
       if (relPath === 'content/_generated') continue;
+      if (relPath === 'content/sources/raw') continue;
       files.push(...await walk(fullPath));
     } else if (entry.isFile() && authoredExtensions.has(path.extname(entry.name))) {
       files.push(fullPath);

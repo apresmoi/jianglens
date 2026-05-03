@@ -9,7 +9,7 @@ Use this when testing or explaining the full path for one video:
 
 ```text
 Google Drive Colab artifacts
--> local staged artifacts
+-> committed raw source artifacts
 -> canonical source transcript
 -> semantic packet outputs
 -> internal semantic bundle
@@ -28,7 +28,7 @@ When delegating video parsing or episode writing work, use `gpt-5.5` with `reaso
 Colab automation belongs to `colab-video-pipeline`. For normal content agents, assume artifacts already exist locally after Drive sync:
 
 ```text
-ops/staging/drive/youtube/<channel>/<video-id>/
+content/sources/raw/youtube/<channel>/<video-id>/
   metadata.youtube.json
   dump.json
   grouped.json

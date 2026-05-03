@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Sync Jiang Lens transcript artifacts from Google Drive to a local staging folder.
+# Sync Jiang Lens transcript artifacts from Google Drive to committed raw source artifacts.
 # Downloads text/JSON metadata only. Audio and video artifacts stay in Drive by default.
 #
 # Usage:
@@ -13,7 +13,7 @@
 set -euo pipefail
 
 REMOTE="${LENS_COMPRESSION_DRIVE_REMOTE:-gdrive:/jianglens/youtube}"
-LOCAL="${LENS_COMPRESSION_DRIVE_LOCAL:-$(git rev-parse --show-toplevel)/ops/staging/drive/youtube}"
+LOCAL="${LENS_COMPRESSION_DRIVE_LOCAL:-$(git rev-parse --show-toplevel)/content/sources/raw/youtube}"
 
 mkdir -p "$LOCAL"
 
