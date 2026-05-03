@@ -1,0 +1,19 @@
+version: moltnet.node.v1
+
+moltnet:
+  base_url: http://127.0.0.1:8787
+  network_id: local_lab
+
+attachments:
+  - agent:
+      id: codex-operator
+      name: Codex Operator
+    runtime:
+      kind: codex
+      workspace_path: .
+    rooms:
+      - id: episode-floor
+        read: all
+        reply: never
+    dms:
+      enabled: false

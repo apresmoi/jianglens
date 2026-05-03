@@ -23,5 +23,11 @@ ops/notebooks/colab/.ipynb_checkpoints/
 # Spawnfile generated runtime output
 .spawn/
 
+# Local agent runtime install output from tools such as moltnet connect
+.agents/
+
+# Local Moltnet runtime state, sessions, database files, and tokens
+.moltnet/
+
 # Local planning notes
 docs/SEO_DOMAIN_AND_AGENT_DISCOVERY.md

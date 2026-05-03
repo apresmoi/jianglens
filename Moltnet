@@ -1,0 +1,23 @@
+version: moltnet.v1
+
+network:
+  id: local_lab
+  name: Jiang Lens Local Lab
+
+server:
+  listen_addr: ":8787"
+  human_ingress: true
+
+storage:
+  kind: sqlite
+  sqlite:
+    path: .moltnet/moltnet.db
+
+rooms:
+  - id: episode-floor
+    name: Episode Floor
+    members:
+      - episode-worker
+      - codex-operator
+
+pairings: []

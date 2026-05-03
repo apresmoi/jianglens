@@ -29,8 +29,11 @@ It should process one video per run, validate the result, and hand off. It shoul
 The team declares a local Moltnet network named `local_lab`.
 
 - `episode-floor`: the room for episode-processing status, blockers, review requests, and handoffs.
+- `codex-operator`: a local operator participant for reading and sending room messages from the repo with `moltnet read` and `moltnet send`.
 
 Each worker should expose only the rooms it actually needs. As the team grows, add rooms for distinct processes instead of using one noisy general channel for everything.
+
+The concrete local server/node configs live in `Moltnet` and `MoltnetNode`. The Codex operator attachment has DMs disabled and `reply: never`; it should not wake on room traffic. Runtime state stays ignored under `.moltnet/`.
 
 ## Growth Pattern
 
