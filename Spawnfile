@@ -1,7 +1,7 @@
 spawnfile_version: "0.1"
 kind: team
 name: jiang-lens-agents
-description: "Autonomous PicoClaw workers for turning the Jiang corpus into episodes, corpus impact records, and lens material."
+description: "Autonomous PicoClaw workers for turning the Jiang corpus into website-visible episodes."
 
 mode: swarm
 
@@ -26,7 +26,6 @@ shared:
     - ref: ./.codex/skills/jiang-video-e2e
     - ref: ./.codex/skills/jiang-episode-read-writer
     - ref: ./.codex/skills/jiang-episode-publisher
-    - ref: ./.codex/skills/jiang-corpus-impact-pass
     - ref: ./.codex/skills/jiang-provenance-linker
 
 members:

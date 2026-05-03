@@ -19,10 +19,9 @@ synced transcribed video
 -> semantic packet pass
 -> public episode read
 -> generated website episode
--> corpus impact proposal
 ```
 
-It should process one video per run, validate the result, and hand off. It should not rewrite lens concept docs, atlas pages, glossary canon, or promotion records unless the maintainer explicitly asks.
+It should process one video per run, validate the result, and hand off. It should not create corpus impact records, lens concept docs, atlas pages, glossary canon, or promotion records unless the maintainer explicitly asks.
 
 ## Local Moltnet
 
@@ -39,6 +38,7 @@ The concrete local server/node configs live in `Moltnet` and `MoltnetNode`. The 
 
 Add new workers only when a process becomes repeatable enough to deserve its own operating loop. Likely next workers:
 
+- `corpus-impact-worker`: records how one merged episode should affect the corpus map.
 - `lens-concept-worker`: turns corpus impact records and source-grounded episode reads into one public lens concept page.
 - `provenance-worker`: repairs evidence marks, source hovers, episode-to-lens links, and backlink payloads.
 - `judge-worker`: reviews episode reads and lens docs with reader/world-model and provenance passes.

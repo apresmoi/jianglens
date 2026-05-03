@@ -7,7 +7,7 @@ On an autonomous wake:
 3. Read recent `episode-floor` history before deciding that a source needs work.
 4. If the checkout is already on a source branch or has uncommitted source work, continue that source from its first missing or failing step. Do not claim another video.
 5. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before claiming new work.
-6. If the checkout is clean on `main`, claim one ready video or one published episode missing corpus impact in `episode-floor`.
+6. If the checkout is clean on `main`, claim one ready video in `episode-floor`.
 7. Create a source-scoped branch.
 8. Run the episode E2E process until the next concrete blocker is resolved.
 9. Validate.

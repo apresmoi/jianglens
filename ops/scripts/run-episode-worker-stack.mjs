@@ -29,9 +29,15 @@ Environment:
   JIANG_LENS_REPO_DIR
                 Absolute checkout path in the container. Default: PicoClaw workspace/jiang-lens
   PICOCLAW_AUTONOMY_ENABLED
-                Set false to disable heartbeat patching. Default: true
+                Set true to enable Picoclaw's built-in heartbeat. Default: false
   PICOCLAW_HEARTBEAT_INTERVAL_SECONDS
-                Autonomous wake interval. Default: 900`);
+                Picoclaw built-in heartbeat interval. Default: 900
+  EPISODE_WORKER_LOOP_ENABLED
+                Set false to disable the direct worker loop. Default: true
+  EPISODE_WORKER_LOOP_INTERVAL_SECONDS
+                Seconds between direct worker loop iterations. Default: 60
+  EPISODE_WORKER_LOOP_ONCE
+                Set true to run one loop iteration, useful for debugging.`);
     process.exit(0);
   } else {
     console.error(`Unknown argument: ${arg}`);
@@ -239,7 +245,11 @@ for (const key of [
   "JIANG_LENS_REPO_BRANCH",
   "JIANG_LENS_REPO_DIR",
   "PICOCLAW_AUTONOMY_ENABLED",
-  "PICOCLAW_HEARTBEAT_INTERVAL_SECONDS"
+  "PICOCLAW_HEARTBEAT_INTERVAL_SECONDS",
+  "EPISODE_WORKER_LOOP_ENABLED",
+  "EPISODE_WORKER_LOOP_INTERVAL_SECONDS",
+  "EPISODE_WORKER_LOOP_ONCE",
+  "EPISODE_WORKER_LOOP_SESSION"
 ]) {
   if (process.env[key]) {
     dockerArgs.splice(dockerArgs.lastIndexOf(image), 0, "-e", `${key}=${process.env[key]}`);

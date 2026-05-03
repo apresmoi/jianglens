@@ -128,7 +128,6 @@ If no task is assigned, inspect backlog:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
-node ops/scripts/audit-corpus-impact.mjs
 ```
 
 ## Branch
@@ -163,9 +162,9 @@ Use the narrower skills requested by the script status:
 - `jiang-agent-transcript-pass`
 - `jiang-episode-read-writer`
 - `jiang-episode-publisher`
-- `jiang-corpus-impact-pass`
 
 Do not operate Colab, download media, or create lens concept pages during ordinary episode work.
+Do not run corpus-impact, lens, canon, glossary, atlas, or ledger passes during ordinary episode work. The episode worker stops once the episode is website-visible and validated. Broader corpus or lens suggestions belong in PR notes or the Moltnet handoff for a separate agent.
 
 If transcription and diarization artifacts are present but
 `metadata.youtube.json` is missing, run the source importer and let its
@@ -177,13 +176,20 @@ For runs that take more than a few minutes, post concise `episode-floor` progres
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.
 
+The Docker stack runs episode work through the direct worker loop in
+`ops/scripts/episode-worker-entrypoint.sh`. The Moltnet room attachment is
+configured with `reply: never` because Moltnet auto-reply is a short chat path
+and can terminate long episode jobs. Treat Moltnet as the coordination surface,
+not as the long-running job supervisor. This does not mean silence: read the
+room at startup and stage boundaries, answer fresh direct mentions, and post
+claims, questions, blockers, PRs, and handoffs with the Moltnet CLI.
+
 ## Validate
 
-Run targeted checks for touched semantic and corpus impact files when present:
+Run targeted checks for touched semantic packet files when present:
 
 ```bash
 node ops/scripts/validate-agent-pass.mjs content/workflow/proposals/<source-slug>/*.semantic.json
-node ops/scripts/validate-corpus-impact.mjs content/workflow/proposals/<source-slug>/corpus-impact.json
 ```
 
 Run the full repo checks:
@@ -213,7 +219,7 @@ The PR body must include:
 - source slug and video ID,
 - what changed,
 - validation commands and results,
-- corpus impact classification,
+- episode-only follow-up suggestions for a separate corpus-impact/lens agent, if any,
 - memory or skill updates, if any,
 - blockers or review requests.
 
