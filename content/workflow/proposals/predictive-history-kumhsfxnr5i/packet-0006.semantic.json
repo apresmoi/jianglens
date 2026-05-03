@@ -1,0 +1,224 @@
+{
+  "packet_id": "predictive-history-kumhsfxnr5i-semantics-pkt-0006",
+  "source_id": "video:predictive-history-kumhsfxnr5i",
+  "source_date": "2024-12-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0041",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the anti-fanaticism model: Paul recodes Messiah from future anti-Roman victory into Jesus as already-arrived peaceful salvation, aimed at diaspora Jews who want assimilation without losing Jewish identity.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0043"
+      ],
+      "kind": "unclear",
+      "summary": "A brief 'Okay?' with little semantic content, likely a backchannel or clipped transition.",
+      "speaker_attribution": "unclear diarized speaker",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states his central argument: Paul sincerely wanted to save his people by adapting them to Rome, but in doing so he recast himself as messiah, changed faith from experience into belief, introduced miracles as contradiction-solvers, and elevated church tradition over scripture.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0047",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang closes the central argument and solicits questions; a student begins an Islam question, which continues into the next packet.",
+      "speaker_attribution": "Jiang followed by likely student/audience voice",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0048"
+      ],
+      "note": "Diarization marks seg-0048 as SPEAKER_00 and context indicates this is likely a student asking about Islam, not Jiang.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Paul's messianic recoding tells Jews that the Messiah has already come as Jesus, a prophet of peace fighting evil rather than Rome.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "Messiah",
+        "Paul",
+        "Rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's target audience was not fanatical Jews but diaspora Jews caught between Jewish faith and Roman imperial life.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0041",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "diaspora",
+        "assimilation",
+        "Paul"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Paul's mission sympathetically as saving his people by teaching adaptation to Rome rather than waiting for messianic rescue.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "adaptation",
+        "Rome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul radically changes faith from something one experiences into something one must believe.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "faith",
+        "belief",
+        "religion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul introduces miracles as a way to explain contradictions and inconsistencies in the Biblical story.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "miracles",
+        "Bible",
+        "contradiction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's church elevates tradition and authorized interpretation over direct Bible reading, which Jiang links to the later Catholic Church.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "tradition",
+        "Catholic Church",
+        "Bible"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044"
+      ],
+      "moment": "You cannot wait for the Messiah to save you; you save yourself by adapting to Rome.",
+      "source_phrase": "You have to save yourself. by adapting to the Roman Empire",
+      "why_it_matters": "It converts the Paul hypothesis from espionage into a theory of adaptation under empire.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "moment": "Faith changes from experience into required belief.",
+      "source_phrase": "before faith is what you experience now faith is something that you must believe",
+      "why_it_matters": "This is one of the episode's cleanest conceptual mutations and belongs in the public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "moment": "Tradition becomes more important than the Bible because interpretation is controlled by priestly authority.",
+      "source_phrase": "tradition is more important the Bible",
+      "why_it_matters": "It links Paul's organizational revolution to later institutional religion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith as belief",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Paul's transformation of faith from experiential spiritual truth into required belief in Jesus.",
+      "confidence": "high"
+    },
+    {
+      "term": "miracle as contradiction-solver",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang's account of miracles as explanations for inconsistencies in the Biblical story.",
+      "confidence": "high"
+    },
+    {
+      "term": "tradition over Bible",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The institutional claim that authorized interpretation matters more than direct scripture reading.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0046"
+      ],
+      "note": "This packet contains Jiang's stated central argument about Paul and the dated list of religious mutations he attributes to Paul's work.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0044",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript around 'in his heart...' runs across segments and is lightly ASR-damaged, but the semantic thrust is that Jiang sees Paul as acting like the true messiah for his people."
+    }
+  ]
+}

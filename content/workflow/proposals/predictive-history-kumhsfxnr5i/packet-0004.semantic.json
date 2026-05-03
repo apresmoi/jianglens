@@ -1,0 +1,211 @@
+{
+  "packet_id": "predictive-history-kumhsfxnr5i-semantics-pkt-0004",
+  "source_id": "video:predictive-history-kumhsfxnr5i",
+  "source_date": "2024-12-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0024",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0025",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang close-reads the end of Acts as a power reversal: Paul summons Jewish leaders, denies wrongdoing over circumcision, and implicitly threatens them with imperial authority.",
+      "speaker_attribution": "Jiang lecture monologue and paraphrased Acts reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0028",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "He turns the close reading into questions about Paul: why does he have untouchable power, why does Jesus disappear from his message, why does he focus on organization, and why do Romans save him?",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the Christian explanation through a McDonald's analogy: Paul is like Ray Kroc, scaling Jesus' truth into a worldwide franchise.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0029"
+      ],
+      "note": "Questions such as 'Who is this guy, Paul?' are Jiang's lecture-driving questions, not audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Paul's meeting with Roman Jewish leaders is suspicious because Acts depicts an accused criminal summoning local authorities as if he has power over them.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Lecture close reading on 2024-12-19.",
+      "topic_tags": [
+        "Acts",
+        "Paul",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Circumcision is core to Jewish identity because it marks the covenant with Yahweh; Paul is therefore not merely adjusting a minor custom.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture explanation on 2024-12-19.",
+      "topic_tags": [
+        "circumcision",
+        "Jewish identity",
+        "covenant"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's speech reverses accusation: instead of Jews accusing Paul, Paul can accuse Jews of attacking a Roman citizen.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0025",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture close reading on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "Roman citizenship",
+        "threat"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's story ends with wealth, mobility, and impunity in Rome: he can preach boldly and no one can touch him.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture reading of Acts on 2024-12-19.",
+      "topic_tags": [
+        "Rome",
+        "Acts",
+        "Paul"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul does not spread Jesus' gospel, in Jiang's reading, because he rarely quotes Jesus and teaches salvation by belief even for people who do no good works.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0027",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-19.",
+      "topic_tags": [
+        "Jesus",
+        "Paul",
+        "gospel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Christian explanation treats Paul as the organizer who allowed Jesus' truth to spread, analogous to Ray Kroc franchising McDonald's.",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0029",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-19.",
+      "topic_tags": [
+        "Paul",
+        "organization",
+        "franchise"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0026"
+      ],
+      "moment": "Paul's ending in Acts is impunity: he is in Rome, has money, preaches freely, and no one can touch him.",
+      "source_phrase": "No one could touch this guy.",
+      "why_it_matters": "This is the suspicious evidence that launches Jiang's alternative explanation of Paul.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0028"
+      ],
+      "moment": "After Jesus appears to Paul, Jesus disappears from Paul's message.",
+      "source_phrase": "Jesus sort of disappears from the story",
+      "why_it_matters": "It condenses Jiang's objection to Paul's conversion narrative.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "moment": "Paul is Ray Kroc for Christianity: not the original restaurant, but the franchiser who scales it into an empire.",
+      "source_phrase": "This is called the franchise model.",
+      "why_it_matters": "The analogy makes organization, salesmanship, and scale central to the history of religion.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "franchise model",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's analogy for Paul's scaling of Jesus' movement through repeatable organization and persuasion.",
+      "confidence": "high"
+    },
+    {
+      "term": "circumcision as covenant",
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Circumcision marks allegiance to Yahweh and anchors Jewish identity in Jiang's account.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023",
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0030"
+      ],
+      "note": "This packet gives the 2024-12-19 source's transition from close reading of Acts into explanatory models for Paul's role.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kumhsfxnr5i@transcript:v1#seg-0023"
+      ],
+      "note": "The phrase 'Brothers, thou had done nothing...' appears to be ASR-distorted quoted scripture; treat it as Jiang paraphrasing Acts, not an exact biblical quotation."
+    }
+  ]
+}
