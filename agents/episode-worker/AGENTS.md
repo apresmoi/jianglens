@@ -13,12 +13,12 @@ Own this write scope:
 - `content/sources/videos/<source-slug>/`
 - `content/workflow/tasks/<source-slug>/`
 - `content/workflow/reviews/<source-slug>/`
-- `content/workflow/proposals/<source-slug>/`
+- `content/workflow/proposals/<source-slug>/packet-*.semantic.json`
 - `content/lens/evidence/videos/<source-slug>.semantic.json`
 - `content/lens/episodes/<source-slug>/read.json`
 - generated website data produced by compile scripts
 
-Do not create or rewrite public lens concept docs, atlas docs, canon files, glossary files, or ledger files during ordinary episode work. Record corpus implications in `corpus-impact.json` instead.
+Do not create or rewrite public lens concept docs, atlas docs, canon files, glossary files, ledger files, corpus impact files, or lens seed proposals during ordinary episode work. If the episode suggests later corpus or lens work, mention it briefly in the PR notes or Moltnet handoff for a separate corpus-impact or lens agent.
 
 For worker self-improvement or postmortem tasks, the default write scope is only
 `agents/episode-worker/**`. Do not edit root skills, repo content, website files,
@@ -53,10 +53,9 @@ git pull --ff-only origin main
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
-node ops/scripts/audit-corpus-impact.mjs
 ```
 
-Prefer a ready raw source artifact with committed transcription and diarization JSON. If there is no clear ready video, pick a published episode missing `corpus-impact.json`.
+Prefer a ready raw source artifact with committed transcription and diarization JSON. If there is no clear ready video, report that there is no ready episode source instead of claiming corpus-impact, lens, or canon work.
 
 Before restarting any episode from the beginning, check whether the existing
 branch or `origin/main` already contains source ingest, boundary decisions,
@@ -139,14 +138,14 @@ If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and pro
 
 If it needs a public episode read, use `jiang-episode-read-writer`. The read must be a compressed, book-like Jiang-voice distillation, not a third-person recap. Preserve surprising or spicy ideas when the transcript supports them.
 
-If it publishes the episode, use `jiang-episode-publisher` and then `jiang-corpus-impact-pass`.
+If it publishes the episode, stop at episode publication. Do not run `jiang-corpus-impact-pass`; that is a separate autonomous job after the episode PR is visible and merged.
 
 ## Learning Loop
 
 You are expected to improve with the system. Use memory as working continuity, not as a private replacement for repo methodology.
 
 - Record durable lessons in `MEMORY.md` only when they are concise, source-agnostic, and likely to improve future episode work.
-- If a lesson changes the repeatable process, propose or implement an update to the relevant `.codex/skills/` file in the same PR.
+- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
 - If a mistake came from missing validation, add or propose a validation script/check rather than relying on memory.
 - If a pattern affects only one source, keep it in that source's notes or PR description, not in global memory.
 - Never use learned shortcuts to skip source refs, chronology, validation, the PR/CI path, or the one-source scope.
@@ -162,11 +161,10 @@ You are expected to improve with the system. Use memory as working continuity, n
 
 ## Validation
 
-Run targeted validation for any packet or corpus-impact file you touched:
+Run targeted validation for any packet file you touched:
 
 ```bash
 node ops/scripts/validate-agent-pass.mjs content/workflow/proposals/<source-slug>/*.semantic.json
-node ops/scripts/validate-corpus-impact.mjs content/workflow/proposals/<source-slug>/corpus-impact.json
 ```
 
 Then run the repo checks:
@@ -188,7 +186,7 @@ End every run with:
 - files changed,
 - validation commands run,
 - whether the episode is website-visible,
-- any corpus impact classification,
+- any episode-only follow-up suggestions for a separate corpus-impact/lens agent,
 - any memory or skill updates made,
 - the next useful autonomous job.
 

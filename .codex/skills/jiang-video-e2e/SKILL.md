@@ -123,25 +123,7 @@ Expected routes:
 /episodes/<source-slug>/transcript/
 ```
 
-## Stage 6: Corpus Impact Pass
-
-Use `jiang-corpus-impact-pass`.
-
-Every published episode should record how it applies to the corpus. The pass may classify the source as evidence-only, link-existing-lens, extend-existing-concept, create-new-lens-seed, morph-atlas-structure, or canon-candidate.
-
-Expected output:
-
-```text
-content/workflow/proposals/<source-slug>/corpus-impact.json
-```
-
-Validate it with:
-
-```bash
-node ops/scripts/validate-corpus-impact.mjs content/workflow/proposals/<source-slug>/corpus-impact.json
-```
-
-## Stage 7: Optional Lens Links
+## Stage 6: Optional Existing Lens Links
 
 During E2E, do not create or rewrite public lens docs unless explicitly asked. If the episode directly invokes an existing lens point, use `jiang-provenance-linker` to attach the existing `lens-point:*` ID to the relevant episode mark.
 
@@ -150,7 +132,6 @@ During E2E, do not create or rewrite public lens docs unless explicitly asked. I
 At the end of a successful E2E test:
 
 ```bash
-node ops/scripts/validate-corpus-impact.mjs content/workflow/proposals/<source-slug>/corpus-impact.json
 node ops/scripts/compile-content.mjs
 node ops/scripts/validate-content.mjs
 cd website && npm run build
@@ -166,6 +147,7 @@ Do not update these as part of ordinary video E2E unless the maintainer explicit
 - `content/lens/canon/`
 - `content/lens/glossary/`
 - `content/lens/ledger/`
+- `content/workflow/proposals/<source-slug>/corpus-impact.json`
 - cross-episode concept pages
 
 Those belong to corpus impact, concept writing, atlas maintenance, provenance linking, or canon promotion.

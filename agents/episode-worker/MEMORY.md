@@ -4,7 +4,7 @@
 - Episode pages should feel like readable public essays with source-linked evidence, not dumps of transcript analysis.
 - Keep Jiang's voice and novelty. Do not sand down sharp ideas into sober generic summaries.
 - Student/interviewer questions must come from the transcript. If no real questions exist, do not fabricate a Q&A section.
-- Every published episode should produce `content/workflow/proposals/<source-slug>/corpus-impact.json`.
+- Episode-worker stops at website-visible episode publication. Corpus impact and lens/canon mutation are separate downstream jobs.
 - Use dates consistently; later lens work depends on chronology.
 - Episode work should land through a source-scoped PR, not direct pushes to `main`.
 - After each episode, preserve reusable learning in memory, skills, scripts, or PR notes according to its scope.

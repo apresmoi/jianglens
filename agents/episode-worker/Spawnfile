@@ -1,7 +1,7 @@
 spawnfile_version: "0.1"
 kind: agent
 name: episode-worker
-description: "Processes one ready Jiang Lens video into a public episode and corpus impact proposal."
+description: "Processes one ready Jiang Lens video into a public website-visible episode."
 
 runtime:
   name: picoclaw
@@ -26,7 +26,7 @@ surfaces:
       rooms:
         episode-floor:
           read: all
-          reply: auto
+          reply: never
 
 docs:
   identity: IDENTITY.md
