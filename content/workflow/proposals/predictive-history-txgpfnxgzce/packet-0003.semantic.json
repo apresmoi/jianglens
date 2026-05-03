@@ -1,0 +1,235 @@
+{
+  "packet_id": "predictive-history-txgpfnxgzce-semantics-pkt-0003",
+  "source_id": "video:predictive-history-txgpfnxgzce",
+  "source_date": "2026-04-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0017",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0018"
+      ],
+      "kind": "exchange",
+      "summary": "Ivory finishes the Rousseau reading, and Jiang interprets it as liberty being God-given, inseparable from humanity, and worth dying for.",
+      "speaker_attribution": "Ivory reads quoted Rousseau in seg-0017; Jiang interprets in seg-0018.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0019",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "Ivory reads Rousseau on population growth as a sign of good government, then Jiang says liberty and population growth made the French nation-state powerful.",
+      "speaker_attribution": "Ivory reads quoted Rousseau in seg-0019; Jiang interprets in seg-0020.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0021",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0022",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0023",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang introduces Fichte, language, race, nation, and Bismarck, has Ivory read the iron-and-blood passage and a welfare-state passage, and frames German nationalism as war survival through cared-for workers and soldiers.",
+      "speaker_attribution": "Jiang frames and interprets; Ivory reads quoted passages in seg-0022 and seg-0024.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0017",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0019",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0022",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_00 is Ivory reading assigned source passages, not Jiang's own prose.",
+      "suggested_speaker": "Ivory reading quoted source",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0021"
+      ],
+      "note": "The transcript says 'Johan Fette'; context indicates Johann Fichte, discussed as a father of German nationalism.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets Rousseau as saying freedom is given by God, connects humans to God, and cannot be surrendered without surrendering humanity.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0017",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Interpretation in this lecture.",
+      "topic_tags": [
+        "rousseau",
+        "liberty",
+        "god",
+        "slavery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says French revolutionary soldiers could run into cannon fire because liberty was treated as more valuable than life.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "french-revolution",
+        "liberty",
+        "citizen-soldiers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Rousseau passage treats population growth as the surest sign that a political association preserves and prospers its members.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Quoted Rousseau material used in this lecture.",
+      "topic_tags": [
+        "rousseau",
+        "population-growth",
+        "government"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says liberty and population growth together explain the French Empire's power and the broader power of the nation-state.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "france",
+        "population-growth",
+        "liberty",
+        "nation-state"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He contrasts Rousseau's liberty-centered nationalism with Fichte's language-centered nationalism, where language binds people to the past and makes race, nation, and blood worth fighting for.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "fichte",
+        "language",
+        "german-nationalism",
+        "race"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Bismarck passage read aloud rejects speeches and majority decisions as decisive and says great questions are decided by iron and blood.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Quoted Bismarck material used in this lecture.",
+      "topic_tags": [
+        "bismarck",
+        "iron-and-blood",
+        "power"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that a war-making nation-state must take care of workers and soldiers because the whole people contribute to military production and survival.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0023",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical model developed in this lecture.",
+      "topic_tags": [
+        "bismarck",
+        "welfare-state",
+        "workers",
+        "war-production"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0018"
+      ],
+      "moment": "Liberty becomes the thing without which the human being is nothing.",
+      "source_phrase": "without my liberty, I am nothing",
+      "why_it_matters": "It explains why a philosophical claim can become military courage.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0021"
+      ],
+      "moment": "Language replaces liberty as the sacred national bond.",
+      "source_phrase": "it's language that binds us to the past",
+      "why_it_matters": "This marks the pivot from French universalism to German ethnolinguistic nationalism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0023",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024"
+      ],
+      "moment": "Worker protection enters the lecture not as compassion but as war infrastructure.",
+      "source_phrase": "you fight wars... by making sure your population is taken care of",
+      "why_it_matters": "It recasts welfare as part of the nation-state's military machine.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "liberty or death",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The revolutionary logic that freedom is so essential to humanity that death is preferable to slavery.",
+      "confidence": "high"
+    },
+    {
+      "term": "language nationalism",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Fichte's model in Jiang's account: language binds a people to the past, to each other, and to a nation worth fighting for.",
+      "confidence": "high"
+    },
+    {
+      "term": "war welfare",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0023",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "A nation-state's care for workers and soldiers as a condition of effective war-making.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0024"
+      ],
+      "note": "The source of the quoted welfare passage is not named in the segment; it appears within Jiang's Bismarck/German-state discussion."
+    }
+  ]
+}

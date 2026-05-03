@@ -1,0 +1,271 @@
+{
+  "packet_id": "predictive-history-txgpfnxgzce-semantics-pkt-0007",
+  "source_id": "video:predictive-history-txgpfnxgzce",
+  "source_date": "2026-04-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0049"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the main lecture by saying 21st-century war forces AI surveillance states because overpopulation and war make mass death unavoidable, then opens the floor for questions.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "Allen asks how a country attacked by 21st-century war can respond, specifically how Iran can respond to American strategy.",
+      "speaker_attribution": "Allen asks the question; the final sentence is Jiang acknowledging it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0052",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0053",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that game theory gives only one counter: eschatology, meaning a religious-martyrdom frame that turns suffering into fanatic courage for a committed minority, with the Iran-Iraq War as his example.",
+      "speaker_attribution": "Jiang answers Allen.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0055"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang ends class logistics and says they will continue next Thursday.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0050"
+      ],
+      "note": "SPEAKER_01 is the student Allen asking a substantive question; Jiang's brief acknowledgment is included at the end of the same segment.",
+      "suggested_speaker": "Allen, then Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says 21st-century war forces states toward AI surveillance because the best way to manage a population is with an AI surveillance state.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Future-facing diagnosis on 2026-04-28.",
+      "topic_tags": [
+        "ai-surveillance-state",
+        "population-management",
+        "twenty-first-century-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says there is no way around mass death because there are too many people and humans want to fight wars.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Future-facing diagnosis on 2026-04-28.",
+      "topic_tags": [
+        "population",
+        "war",
+        "mass-death"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Allen asks what response is available to a country attacked by 21st-century war and how Iran can respond to current American strategy.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Student question in the 2026-04-28 class.",
+      "topic_tags": [
+        "student-question",
+        "iran",
+        "strategy",
+        "twenty-first-century-war"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang answers that when America destroys an economy, destroys infrastructure, and divides and conquers, game theory leaves eschatology as the only proper response.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Answer given on 2026-04-28.",
+      "topic_tags": [
+        "eschatology",
+        "game-theory",
+        "iran",
+        "counterstrategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines this eschatological response as creating fanaticism by telling a suffering population that suffering is part of God's plan, produces invincibility, and gives martyrdom heavenly reward.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Definition/model in this answer.",
+      "topic_tags": [
+        "eschatology",
+        "fanaticism",
+        "martyrdom",
+        "suffering"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says only 10 to 20 percent of a population needs to commit to eschatology for a country to survive this kind of war.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Model claim in this answer.",
+      "topic_tags": [
+        "eschatology",
+        "population",
+        "war-survival"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses the Iran-Iraq War as evidence that martyrdom ideology galvanized Iran, frightened Iraqis, and could have defeated Iraq if America had not used chemical weapons against Iran.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0052",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0053",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Historical example used in the 2026-04-28 answer.",
+      "topic_tags": [
+        "iran-iraq-war",
+        "martyrdom",
+        "eschatology",
+        "chemical-weapons"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts a huge surge in eschatology and religious extremism over the next few years because it is the only counter to 21st-century warfare.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-28 for the next few years.",
+      "topic_tags": [
+        "eschatology",
+        "religious-extremism",
+        "prediction",
+        "twenty-first-century-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0049"
+      ],
+      "moment": "The future state is an AI surveillance state because population control becomes the core battlefield.",
+      "source_phrase": "the best way to control your population... is with an AI surveillance state",
+      "why_it_matters": "It links Jiang's war model to a concrete political technology of the future.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051"
+      ],
+      "moment": "Suffering is transformed into invincibility by making it part of God's plan.",
+      "source_phrase": "We're meant to suffer. Because when we suffer, God will make us invincible",
+      "why_it_matters": "It is the emotional and theological mechanism of Jiang's counterstrategy.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "moment": "The unafraid fighter reverses fear onto the tank crew.",
+      "source_phrase": "His fearlessness makes you afraid",
+      "why_it_matters": "This is the most vivid image of eschatology as military asymmetry.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "moment": "Religious extremism is predicted not as irrational residue but as the rational counter to a new war form.",
+      "source_phrase": "eschatology is the counter to this approach",
+      "why_it_matters": "It preserves the lecture's most provocative answer to Allen's question.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "A state form Jiang says is forced by 21st-century warfare because population management becomes the decisive battlefield.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "A religious counterstrategy that turns deprivation and suffering into fanaticism, martyrdom, and war-survival capacity.",
+      "confidence": "high"
+    },
+    {
+      "term": "martyrdom",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "Dying for God and nation, framed by Jiang as the practical military force produced by eschatology.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "note": "On 2026-04-28, Jiang predicts a surge in eschatology and religious extremism over the next few years as a counter to 21st-century war.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"
+      ],
+      "note": "The line that America used chemical weapons against Iran is Jiang's claim in the source; this pass does not independently verify it."
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0055"
+      ],
+      "note": "The transcript phrase 'next Scorpio I believe. tuesday' appears garbled class logistics and is not semantically important."
+    }
+  ]
+}

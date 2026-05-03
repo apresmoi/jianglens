@@ -1,0 +1,227 @@
+{
+  "packet_id": "predictive-history-txgpfnxgzce-semantics-pkt-0001",
+  "source_id": "video:predictive-history-txgpfnxgzce",
+  "source_date": "2026-04-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0001",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0002",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the current U.S.-Iran conflict as the first real war of the 21st century and distinguishes older battlefield war, 20th-century productive-capacity war, and 21st-century social destabilization through economic sabotage and dissent.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0004",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0005",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0007",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that the modern population boom comes from the nation-state, then reconstructs Rousseau's social contract, the common will, the general will, Kantian universality, free will, humans as ends, and the people as sovereign.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006"
+      ],
+      "note": "The transcript says 'category' and 'integral, hierarchical imperative'; context strongly indicates Kant's categorical imperative.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that the U.S.-Iran ceasefire will not hold because the two states cannot reach a mutually beneficial settlement.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-28 about the coming weeks or months.",
+      "topic_tags": [
+        "iran",
+        "united-states",
+        "war",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the historical evolution of warfare as moving from killing soldiers, to destroying civilian production, to using civilian dissent against the state.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0001",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0002",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical model stated in the 2026-04-28 lecture.",
+      "topic_tags": [
+        "warfare",
+        "civilian-population",
+        "nation-state"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that eight billion people are possible primarily because the nation-state, not science by itself, created the political machinery for mass population growth.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2026-04-28.",
+      "topic_tags": [
+        "population",
+        "nation-state",
+        "science",
+        "technology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads Rousseau's social contract as a theory in which people surrender individual freedom to society only in order to become more free through the general will.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0004",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interpretation in this lecture.",
+      "topic_tags": [
+        "rousseau",
+        "social-contract",
+        "freedom",
+        "general-will"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes common will as what the people already are from general will as what the people could become if they acted by universal moral law.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0005",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "common-will",
+        "general-will",
+        "kant",
+        "sovereignty"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats the general will as the sovereign and says the French Revolution threatened monarchies because it made the people, rather than the monarch, the highest authority.",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0007",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "french-revolution",
+        "sovereignty",
+        "monarchy",
+        "general-will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003"
+      ],
+      "moment": "The population becomes the weapon against its own state.",
+      "source_phrase": "use the population against the state",
+      "why_it_matters": "This is the lecture's compressed definition of 21st-century war.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0004"
+      ],
+      "moment": "The eight-billion-person world is credited to a political invention rather than to scientific progress.",
+      "source_phrase": "The real reason is because of the nation state",
+      "why_it_matters": "It turns demography into a consequence of political form.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006"
+      ],
+      "moment": "The common will is the present people; the general will is the people as an ideal moral body.",
+      "source_phrase": "The common will is who we are. The general will is who we could be",
+      "why_it_matters": "This distinction lets Jiang link Rousseau, Kant, sovereignty, and military mobilization.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "21st-century war",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "A war form that turns civilians against their state through discord, economic sabotage, and economic strangulation rather than battlefield annihilation.",
+      "confidence": "high"
+    },
+    {
+      "term": "general will",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0005",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The people as they could be if they came together around universal moral law and total freedom.",
+      "confidence": "high"
+    },
+    {
+      "term": "common will",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0005",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Ordinary majority preference or the people as they already are.",
+      "confidence": "high"
+    },
+    {
+      "term": "sovereign",
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0007",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The highest authority; in Rousseau's revolutionary model, the general will of the people rather than a monarch.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0001",
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003"
+      ],
+      "note": "As of 2026-04-28, Jiang identifies the U.S.-Iran conflict as the first 21st-century war and expects renewed fighting despite the ceasefire.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-txgpfnxgzce@transcript:v1#seg-0001"
+      ],
+      "note": "The phrase 'first war of the 21st century' appears where the transcript may have garbled a contrast with 19th-century battlefield war, but the later lecture repeats that Iran is the first 21st-century war."
+    }
+  ]
+}
