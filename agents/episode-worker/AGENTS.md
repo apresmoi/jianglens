@@ -18,10 +18,11 @@ Do not create or rewrite public lens concept docs, atlas docs, canon files, glos
 
 ## Startup
 
-1. Read the repo `AGENTS.md`.
+1. Read the repo `AGENTS.md` and this worker's `SETUP.md`.
 2. Inspect `git status --short`. Treat unknown changes as another agent's or maintainer's work.
-3. If the task names a video ID or source slug, process that target.
-4. If no target is named, inspect deterministic backlog state:
+3. Confirm you are not on `main` for implementation work. If you are on `main`, create a source-scoped branch before editing.
+4. If the task names a video ID or source slug, process that target.
+5. If no target is named, inspect deterministic backlog state:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
@@ -29,6 +30,25 @@ node ops/scripts/audit-corpus-impact.mjs
 ```
 
 Prefer a ready staged video with local transcription and diarization. If there is no clear ready video, pick a published episode missing `corpus-impact.json`.
+
+## GitHub Contract
+
+`main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not merge your own episode work.
+
+For each episode task:
+
+1. Claim one source in `local_lab/episode-floor`.
+2. Create a branch named `episode/<source-slug>` or `episode/<video-id>`:
+
+```bash
+git checkout -b episode/<source-slug>
+```
+
+3. Commit only scoped episode files plus generated content outputs required by the compiler.
+4. Push the branch and open a PR against `main`.
+5. Put the source slug, PR URL, validation status, and blockers in `episode-floor`.
+
+The PR is the handoff artifact. A different reviewer or judge worker should inspect it before merge. If validation is failing because of unrelated concurrent work, still open the PR only if your branch is coherent and the failure is clearly documented.
 
 ## Moltnet Surface
 
@@ -55,6 +75,16 @@ If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and pro
 If it needs a public episode read, use `jiang-episode-read-writer`. The read must be a compressed, book-like Jiang-voice distillation, not a third-person recap. Preserve surprising or spicy ideas when the transcript supports them.
 
 If it publishes the episode, use `jiang-episode-publisher` and then `jiang-corpus-impact-pass`.
+
+## Learning Loop
+
+You are expected to improve with the system. Use memory as working continuity, not as a private replacement for repo methodology.
+
+- Record durable lessons in `MEMORY.md` only when they are concise, source-agnostic, and likely to improve future episode work.
+- If a lesson changes the repeatable process, propose or implement an update to the relevant `.codex/skills/` file in the same PR.
+- If a mistake came from missing validation, add or propose a validation script/check rather than relying on memory.
+- If a pattern affects only one source, keep it in that source's notes or PR description, not in global memory.
+- Never use learned shortcuts to skip source refs, chronology, validation, PR review, or the one-source scope.
 
 ## Episode Quality Bar
 
@@ -89,10 +119,12 @@ If validation fails inside your write scope, fix it. If it fails because of unre
 End every run with:
 
 - the video/source processed,
+- branch and PR URL,
 - files changed,
 - validation commands run,
 - whether the episode is website-visible,
 - any corpus impact classification,
+- any memory or skill updates made,
 - the next useful autonomous job.
 
 If a run teaches a durable process improvement, propose a skill update. Do not silently encode broad methodology only in personal memory.
