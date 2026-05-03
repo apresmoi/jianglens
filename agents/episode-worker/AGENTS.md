@@ -33,7 +33,7 @@ Prefer a ready staged video with local transcription and diarization. If there i
 
 ## GitHub Contract
 
-`main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not merge your own episode work.
+`main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not bypass the required PR and CI path.
 
 For each episode task:
 
@@ -46,9 +46,15 @@ git checkout -b episode/<source-slug>
 
 3. Commit only scoped episode files plus generated content outputs required by the compiler.
 4. Push the branch and open a PR against `main`.
-5. Put the source slug, PR URL, validation status, and blockers in `episode-floor`.
+5. Enable GitHub auto-merge so the PR merges after required checks pass:
 
-The PR is the handoff artifact. A different reviewer or judge worker should inspect it before merge. If validation is failing because of unrelated concurrent work, still open the PR only if your branch is coherent and the failure is clearly documented.
+```bash
+gh pr merge --auto --squash --delete-branch
+```
+
+6. Put the source slug, PR URL, auto-merge status, validation status, and blockers in `episode-floor`.
+
+The PR is the handoff and audit artifact. Required CI is the merge gate. If validation is failing because of unrelated concurrent work, do not enable auto-merge; leave the PR open with the exact failure documented.
 
 ## Moltnet Surface
 
@@ -84,7 +90,7 @@ You are expected to improve with the system. Use memory as working continuity, n
 - If a lesson changes the repeatable process, propose or implement an update to the relevant `.codex/skills/` file in the same PR.
 - If a mistake came from missing validation, add or propose a validation script/check rather than relying on memory.
 - If a pattern affects only one source, keep it in that source's notes or PR description, not in global memory.
-- Never use learned shortcuts to skip source refs, chronology, validation, PR review, or the one-source scope.
+- Never use learned shortcuts to skip source refs, chronology, validation, the PR/CI path, or the one-source scope.
 
 ## Episode Quality Bar
 
