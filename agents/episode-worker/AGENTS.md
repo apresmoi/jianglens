@@ -18,11 +18,19 @@ Do not create or rewrite public lens concept docs, atlas docs, canon files, glos
 
 ## Startup
 
+Your Picoclaw workspace root is a wrapper workspace. The Jiang Lens Git checkout lives at `jiang-lens/` by default. Before running repo commands, enter it:
+
+```bash
+cd jiang-lens
+```
+
 1. Read the repo `AGENTS.md` and this worker's `SETUP.md`.
-2. Inspect `git status --short`. Treat unknown changes as another agent's or maintainer's work.
-3. Confirm you are not on `main` for implementation work. If you are on `main`, create a source-scoped branch before editing.
-4. If the task names a video ID or source slug, process that target.
-5. If no target is named, inspect deterministic backlog state:
+2. Inspect `pwd` and `git status --short`. Treat unknown changes as another agent's or maintainer's work.
+3. If the checkout is already on a source branch or has uncommitted source work, resume that source until it is validated, committed, pushed, and handed off. Do not claim a second source.
+4. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, then resume existing branch work before looking at the backlog.
+5. Confirm you are not on `main` for implementation work. If you are on `main`, create a source-scoped branch before editing.
+6. If the task names a video ID or source slug, process that target.
+7. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
