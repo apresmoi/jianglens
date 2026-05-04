@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-rkt0hqooghe-semantics-pkt-0003",
+  "source_id": "video:predictive-history-rkt0hqooghe",
+  "source_date": "2025-11-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0017",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses maps and shipwreck research to show the Bronze Age network expanding outward from copper and tin sources until even Britain, Ireland, and Scandinavia are part of the system.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0020",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0021",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0022",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0023",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He describes the Sea Peoples as famine refugees mixed with pirates, cites Egyptian records and Eric Cline’s perfect-storm explanation, then insists that capital is the deeper mechanism behind the crisis.",
+      "speaker_attribution": "Jiang classroom lecture; brief UNKNOWN “okay” segments are likely audience backchannel or ASR noise.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0019",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0021"
+      ],
+      "note": "The UNKNOWN “Okay?” segments are not substantive questions and should be treated as backchannel or ASR fragments.",
+      "suggested_speaker": "unclear audience/backchannel",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bronze Age trade routes continually expand because copper is plentiful but tin sources are scattered and must be connected.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0017",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Bronze Age network model as of 2025-11-04.",
+      "topic_tags": [
+        "tin",
+        "copper",
+        "trade-network"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Recent research shows Bronze Age globalization included the British Isles and Scandinavia, regions often left out of older Bronze Age accounts.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0017",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Research summary in 2025-11-04 lecture.",
+      "topic_tags": [
+        "scandinavia",
+        "british-isles",
+        "bronze-age-globalization"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames the Sea Peoples as economic migrants or refugees from famine who teamed up with pirates and overwhelmed existing civilizations.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0020",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0021",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Bronze Age collapse account in 2025-11-04 lecture.",
+      "topic_tags": [
+        "sea-peoples",
+        "migration",
+        "piracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Eric Cline’s perfect-storm account includes climate change, drought, famine, earthquakes, revolution, civil war, and migration, but Jiang adds capital as the system-level cause.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0023",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture synthesis as of 2025-11-04.",
+      "topic_tags": [
+        "eric-cline",
+        "perfect-storm",
+        "capital"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares the Bronze Age collapse to World War I and the present: heavily globalized systems can believe trade prevents war just before slaughter or collapse arrives.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Comparative historical analogy on 2025-11-04.",
+      "topic_tags": [
+        "world-war-i",
+        "globalization",
+        "collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0022"
+      ],
+      "moment": "The Sea Peoples are not a clean nation in the story; they are the human debris of collapse, refugees moving with pirates.",
+      "source_phrase": "economic migrants... refugees... led by pirates",
+      "why_it_matters": "It links ancient collapse to modern migration politics without turning the invaders into a single ethnic actor.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0023",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0024"
+      ],
+      "moment": "The perfect storm is accepted, then subordinated: Jiang says the storm matters because capital made the world brittle enough to break.",
+      "source_phrase": "yes... perfect storm... but... capital drives you to prosperity, but it will also drive you to crisis",
+      "why_it_matters": "This is his interpretive move from multi-causal history to a capital-centered model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "perfect storm",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Cline’s bundle of crisis factors: climate, drought, famine, earthquakes, revolutions, civil wars, and migration.",
+      "confidence": "high"
+    },
+    {
+      "term": "total capitalistic system",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang’s description of the Bronze Age network as organized so thoroughly around capital that ordinary shocks become systemic collapse.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang uses World War I as a bridge example between Bronze Age globalization and the present global order.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0020"
+      ],
+      "note": "ASR says “President of Greece/Turkey,” likely corruption around present-day Greece/Turkey; the collapse argument remains clear."
+    }
+  ]
+}
