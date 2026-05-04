@@ -1,0 +1,158 @@
+{
+  "packet_id": "predictive-history-he4l9wylf3u-semantics-pkt-0003",
+  "source_id": "video:predictive-history-he4l9wylf3u",
+  "source_date": "2026-01-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0017",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that modern dating behavior is not about sex or procreation but about status, with women clustering around high-status men and lower-ranked men withdrawing.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0021",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0022",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0023",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces superstructure as the demographic, economic, technological, political, religious, and competitive setting that changes the mating game across low-population villages, growing competitive societies, and overpopulated wealthy societies.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0017",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_00 is Jiang; all apparent questions are rhetorical lecture prompts.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Modern dating is a status game rather than a sex or procreation game: people seek partners who display or increase their social rank.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0017",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Diagnosis of the modern dating game in this lecture.",
+      "topic_tags": ["status", "dating-game", "modernity"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "People can be rational once the true game is identified; irrational-looking dating behavior follows status-maximizing incentives.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Methodological claim in the dating example.",
+      "topic_tags": ["rationality", "incentives", "status"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Superstructure determines the nature of the game; Jiang defines it as the big-picture composition of demographics, economics, culture, politics, religion, technology, and competition.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Definition introduced on 2026-01-06.",
+      "topic_tags": ["superstructure", "civilization", "game-theory"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Low-population poor societies may use dispersed sex and disguised paternity to create shared male investment in children.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0021",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0022",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "First superstructure example in this lecture.",
+      "topic_tags": ["paternity", "social-cohesion", "low-population"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Growing, competitive societies solve reproductive pressure through arranged marriage, while wealthy overpopulated societies produce a dating game where marrying up becomes the path to status.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0023",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Second and third superstructure examples in this lecture.",
+      "topic_tags": ["arranged-marriage", "dating-game", "status", "fertility"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018"
+      ],
+      "moment": "The real object of dating is not reproduction but a photograph, a public walk, a brag: status made visible.",
+      "source_phrase": "take a picture of her and post it on Instagram",
+      "why_it_matters": "It converts a biological story into a social-media status economy.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020"
+      ],
+      "moment": "The game is not fixed; the superstructure changes the game underneath the players.",
+      "source_phrase": "the game changes over time according to the superstructure of society",
+      "why_it_matters": "This is the hinge from a dating anecdote to civilizational lifecycle analysis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "superstructure",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "The big-picture conditions, including population, wealth, enemies, demographics, economics, culture, politics, and religion, that determine the game being played.",
+      "confidence": "high"
+    },
+    {
+      "term": "status game",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "A game where the payoff is social rank and visible prestige rather than sex, love, or reproduction.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0024"
+      ],
+      "note": "As of 2026-01-06, Jiang states China's fertility rate is about one and claims it was around 1.7 five years earlier.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0022"
+      ],
+      "note": "The paternity-disguise claim is Jiang's model; the packet does not provide external evidence."
+    }
+  ]
+}

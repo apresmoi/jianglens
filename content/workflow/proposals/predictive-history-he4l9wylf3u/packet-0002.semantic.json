@@ -1,0 +1,157 @@
+{
+  "packet_id": "predictive-history-he4l9wylf3u-semantics-pkt-0002",
+  "source_id": "video:predictive-history-he4l9wylf3u",
+  "source_date": "2026-01-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0009",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0010",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang transitions from the course promise into a simple dating game, defining ten ranked players and the attractiveness criteria of genes, wealth, and status.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0012",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0013",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He tests evolutionary and economic strategies: total competition for the top male is suicidal, individual maximization backfires, and stable cooperation would pair each rank with its counterpart as a Nash equilibrium.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0015",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He says real people do not follow Nash equilibrium, then recounts a classroom exercise where men accept minimal criteria while women require extreme status compensation if attraction and love are absent.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0009",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_00 remains Jiang lecturing; apparent questions such as 'What's the minimum?' are Jiang's prompts, not audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "In the dating game example, attractiveness is ranked by genes, wealth, and status.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0010",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Model setup in this lecture.",
+      "topic_tags": ["dating-game", "status", "attractiveness"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The purely evolutionary strategy in which every woman seeks the top male cannot be socially sustainable, because too many men would be eliminated from reproduction.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0011",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Dating-game model claim.",
+      "topic_tags": ["evolutionary-psychology", "fertility", "social-collapse"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "If each player individually tries to maximize the dating game, the top male and later imitators can end up worse off; cooperation is the route to stable pairings.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0012",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0013",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Model demonstration in this lecture.",
+      "topic_tags": ["cooperation", "incentives", "nash-equilibrium"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nash equilibrium is described as the state where all players maximize their outcome, but Jiang stresses that real dating behavior does not follow it.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0014",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Definition and critique in this example.",
+      "topic_tags": ["nash-equilibrium", "dating-game", "theory-versus-life"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0013"
+      ],
+      "moment": "The top man, by trying to win everything, ends up with the worst option or alone.",
+      "source_phrase": "by trying to marry all the woman is stuck with the worst choice",
+      "why_it_matters": "It makes the anti-greed logic of the game vivid before Jiang names equilibrium.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0015"
+      ],
+      "moment": "The supposedly rational equilibrium is dismissed as a made-up theory that real life refuses to obey.",
+      "source_phrase": "Nash equilibrium is just a theory we made up",
+      "why_it_matters": "This sets up Jiang's deeper move: the actual game is not procreation or equilibrium but status.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Nash equilibrium",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Jiang uses it to mean a state in which all players maximize their outcome, represented by rank-matched marriages.",
+      "confidence": "high"
+    },
+    {
+      "term": "dating game",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0010",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A simplified marriage-market game where ranked men and women choose partners under biological, economic, and status incentives.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0015",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang references a similar classroom exercise from the prior year or semester; the exact date of that earlier class is not provided.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0012"
+      ],
+      "note": "Transcript likely says 'human race' where ASR has 'human rights'."
+    }
+  ]
+}

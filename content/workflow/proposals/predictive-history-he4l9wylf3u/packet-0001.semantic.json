@@ -1,0 +1,144 @@
+{
+  "packet_id": "predictive-history-he4l9wylf3u-semantics-pkt-0001",
+  "source_id": "video:predictive-history-he4l9wylf3u",
+  "source_date": "2026-01-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0001",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0002",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0003",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the course by surveying rival theories of human motivation: religion frames behavior as good versus evil, biology as reproductive strategy, race/culture as group dominance, economics as money or self-interest, and liberalism as historical progress toward enlightenment.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0006",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0007",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He defines game theory as the study of players, rules or constraints, and incentives, then promises that learning it will make students better people, better readers of current events, and better predictors of their own and the world's future.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0001",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_00 is continuous lecture voice across the packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Game theory, in Jiang's course framing, explains behavior by identifying the players, the rules or boundary conditions, and the incentives.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Course thesis stated on 2026-01-06.",
+      "topic_tags": ["game-theory", "method", "incentives"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "If one understands a game's players, rules, and incentives, Jiang says one can understand how the game works and predict how it will turn out.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "General methodological claim in this lecture.",
+      "topic_tags": ["prediction", "game-theory", "model"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Education should make students more thoughtful, moral, curious, imaginative, and capable of analyzing themselves and the world, not merely help them get grades or jobs.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0006",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Normative education claim in this course opening.",
+      "topic_tags": ["education", "moral-formation", "analysis"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class will use current events not to moralize that events are stupid or wrong, but to explain why they happen and what they lead to.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0007",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Course method stated on 2026-01-06.",
+      "topic_tags": ["current-events", "prediction", "method"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005"
+      ],
+      "moment": "Game theory is introduced as a three-part diagnostic machine: players, rules, incentives.",
+      "source_phrase": "players... rules or the constraints... incentives",
+      "why_it_matters": "This is the engine Jiang will use to turn dating, fertility, geopolitics, and civilizational decline into one analyzable structure.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0007"
+      ],
+      "moment": "He refuses to stop at saying the world is stupid; the point is to learn why the stupid thing happened and where it goes next.",
+      "source_phrase": "why this happened and what this will lead to",
+      "why_it_matters": "It distinguishes Jiang's analytic posture from outrage or moral commentary.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "game theory",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "A method for analyzing behavior through players, rules or boundary conditions, and incentives.",
+      "confidence": "high"
+    },
+    {
+      "term": "boundary conditions",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The rules, constraints, or limits that define what can happen inside a game.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0008"
+      ],
+      "note": "The lecture, dated 2026-01-06, frames Ukraine, Israel-Iran, South America, China-Japan, and U.S.-China relations as current-event cases for the course.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0007"
+      ],
+      "note": "The Venezuela example is preserved as Jiang's spoken classroom example; no external verification is attempted in this transcript pass."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "packet_id": "predictive-history-he4l9wylf3u-semantics-pkt-0006",
+  "source_id": "video:predictive-history-he4l9wylf3u",
+  "source_date": "2026-01-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes the Saudi Arabia answer by warning that oil depletion or Middle East war would expose its fragility, then qualifies game theory as a guide for asking questions and doing research rather than an answer machine.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether the fertility/GDP data is from 2009 and whether the present data has changed.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the data shown is from 2024, acknowledges fluctuations, and repeats that Israel is the only wealthy nation with above-replacement fertility.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0042"
+      ],
+      "note": "SPEAKER_02 is a student asking a substantive data-source question.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "note": "SPEAKER_00 is Jiang answering student questions and closing class.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Saudi Arabia remains an outlier but is vulnerable if oil runs out or Middle East war disrupts it.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Conditional risk claim stated on 2026-01-06.",
+      "topic_tags": ["saudi-arabia", "oil", "war", "risk"],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Game theory does not give final answers; it gives a guide for asking questions and doing research.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Methodological qualification in this lecture.",
+      "topic_tags": ["game-theory", "method", "research"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the fertility/GDP data shown in the lecture is from 2024, not 2009.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0042",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Data-source clarification made on 2026-01-06.",
+      "topic_tags": ["data-source", "fertility", "chronology"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reiterates that Israel is the only wealthy nation in the world with an above-replacement fertility rate.",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Claim tied to 2024 data, stated on 2026-01-06.",
+      "topic_tags": ["israel", "fertility", "replacement-rate"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041"
+      ],
+      "moment": "Jiang explicitly limits his own tool: game theory is not the answer, it is the guide that tells you what to ask next.",
+      "source_phrase": "game theory doesn't give us the answers",
+      "why_it_matters": "It keeps the lecture from hardening into deterministic prophecy; the method remains investigative.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "moment": "A student tests the age of the data, and Jiang pins the graph to 2024 before restating the Israel fertility claim.",
+      "source_phrase": "this is 2024",
+      "why_it_matters": "The exchange preserves chronology and gives the later episode a concrete date for the data claim.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "above replacement",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "A fertility rate above the replacement threshold, shown in red on Jiang's map.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory as guide",
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "A methodological use of game theory as a way to generate questions and research paths rather than deliver final answers.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0042",
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043"
+      ],
+      "note": "A student asks whether the map is from 2009; Jiang clarifies that the displayed data is 2024. This is important for later latest-position comparisons.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041"
+      ],
+      "note": "The Saudi Arabia risk claim is conditional and exploratory, consistent with Jiang's immediate caveat that game theory guides research rather than proving the answer."
+    }
+  ]
+}
