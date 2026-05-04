@@ -1,0 +1,126 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0009",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0065",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0068"
+      ],
+      "kind": "exchange",
+      "summary": "A student suggests brainwashing, and Jiang agrees, arguing that apprenticeship historically taught better than school because anyone can learn a craft by mentoring and practice.",
+      "speaker_attribution": "Student in seg-0065, Jiang in seg-0066 through seg-0068.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0069",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang says school is not for knowledge but for brainwashing, then identifies Sparta, the Aztecs, and Prussia as early public-school societies unified by war-making; a student asks how schooling connects to war.",
+      "speaker_attribution": "Mostly Jiang; student question in seg-0072.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0065",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0072"
+      ],
+      "note": "Student audio is ASR-damaged but the gist is clear enough: brainwashing in seg-0065 and a war/school question in seg-0072.",
+      "suggested_speaker": "students",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that apprenticeship and direct experience produce competence more reliably than elite schooling, using medicine as the example.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0066",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Education model on 2025-08-22.",
+      "topic_tags": ["apprenticeship", "school", "learning", "medicine"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says humans are born with the capacity to learn anything if they can find a teacher or mentor, but school sorts children into smart and stupid.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0067",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Education diagnosis on 2025-08-22.",
+      "topic_tags": ["learning-capacity", "sorting", "school", "mentor"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "School is defined not as a place that teaches knowledge but as an institution that brainwashes students.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0069"],
+      "temporal_scope": "Lecture definition on 2025-08-22.",
+      "topic_tags": ["school", "brainwashing", "knowledge"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links compulsory public schooling to war societies, naming Sparta, the Aztecs, and Prussia as cases where schooling prepared people for military obedience and war-making.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0069",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": ["school", "war", "sparta", "aztecs", "prussia"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0066"],
+      "moment": "The correct answer to why school exists is brainwashing; everything else is a lie.",
+      "source_phrase": "the correct answer is brainwashing everything else is a lie",
+      "why_it_matters": "It is the sharpest transition into the school section and should survive public compression.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0070"],
+      "moment": "Sparta, Aztec schooling, and Prussia become the origin story of school as war preparation.",
+      "source_phrase": "All three societies are fundamentally war societies",
+      "why_it_matters": "It connects classroom discipline to state violence rather than to learning.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "apprenticeship learning",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0066",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "Learning by doing under a mentor, which Jiang contrasts favorably with credentialed schooling.",
+      "confidence": "high"
+    },
+    {
+      "term": "compulsory public schooling",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0069",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Schooling Jiang associates with war societies that need disciplined, obedient populations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0072"],
+      "note": "The student question is ASR-damaged; semantic extraction treats it as a question about how schooling relates to war."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0001",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0001",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the course as a training in connected ideas, uses Kant to define reality as processed imagination rather than objective access, and says the course will build predictive models for present geopolitics, future testing, and secret history.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0006",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang begins the first power example with a bank-deposit thought experiment, and a student objects that reserve requirements mean the simple zero-money answer is not what economics teaches.",
+      "speaker_attribution": "Jiang with a brief student correction in seg-0008.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_01 is a student correcting Jiang's setup about what economics teaches.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang uses Kant to argue that humans do not access objective reality directly; they transform noumena into phenomena through perception, time, space, and imagination.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0001",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Course framework stated on 2025-08-22.",
+      "topic_tags": ["kant", "imagination", "noumena", "phenomena"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class is framed as training imagination rather than transmitting facts: students build analytical models, test them by prediction, and then use them to reinterpret the past.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0003",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Course method stated on 2025-08-22.",
+      "topic_tags": ["method", "prediction", "secret-history", "model-testing"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says school history is an implanted false system and that understanding power should liberate students from manipulation.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0005",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture thesis on 2025-08-22.",
+      "topic_tags": ["power", "school-history", "manipulation", "liberation"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0003"],
+      "moment": "Reality becomes a constant act of imagination rather than a thing waiting to be copied.",
+      "source_phrase": "Life is a constant process, a constant act of imagination.",
+      "why_it_matters": "This is the course's master key: power works by controlling the imagination that constructs reality.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0005"],
+      "moment": "Secret history is introduced as the history hidden underneath the school history implanted by power.",
+      "source_phrase": "all the history that you learn in school... it is false",
+      "why_it_matters": "It turns the course from historical survey into an excavation of manipulated perception.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "noumena",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0002"],
+      "definition_or_usage": "Kant's unknowable things-in-themselves, used here as the objective reality humans cannot directly access.",
+      "confidence": "high"
+    },
+    {
+      "term": "phenomena",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0002"],
+      "definition_or_usage": "The world as it appears after human senses and cognition structure it for processing.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret history",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0005"],
+      "definition_or_usage": "Jiang's name for the hidden history reconstructed by predictive models after rejecting school-installed narratives.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0004"],
+      "note": "This is the opening framework for a semester that will use present geopolitics and prediction to revisit the past.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

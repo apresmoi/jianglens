@@ -1,0 +1,117 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0003",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0017",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0019"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers questions about why people trust money and whether contracts can be forged, distinguishing small-circle trust and symbolic debt from later counterfeiting problems.",
+      "speaker_attribution": "Jiang responding to student prompts that are mostly unheard or only implied.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0020",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "He identifies bank runs and royal default as the structural risks of receipt money, explains bank cartels and central banking as risk mitigation, then asks why poverty exists if banks can print money.",
+      "speaker_attribution": "Mostly Jiang; seg-0024 is an incomplete student answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0024"],
+      "note": "SPEAKER_02 begins an answer to Jiang's poverty question, but the answer is incomplete in this packet.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims ordinary people historically had little need for money; money first mattered as symbolic payment for debts that could never truly be repaid, such as killing someone.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0017",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical model used in this lecture.",
+      "topic_tags": ["money", "debt", "symbolic-payment", "trade"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bank runs expose the fragility of receipt money because contracts promise redemption at any time while banks hold less gold than their outstanding claims.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0019",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Banking model explained on 2025-08-22.",
+      "topic_tags": ["bank-run", "gold", "banking-risk"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Central banking is framed as a cartelized power system: banks intermarry, back each other, and can sponsor political violence to recover unpaid royal debts.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0021",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Historical model leading into a present-day claim about central banking.",
+      "topic_tags": ["central-banking", "cartel", "war", "debt"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Power is introduced as the ability to turn nothing into everything: a contract or number becomes money, and central banking still controls the world through that mechanism.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0022"],
+      "temporal_scope": "Lecture thesis on 2025-08-22.",
+      "topic_tags": ["power", "central-banking", "alchemy", "money"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0018"],
+      "moment": "Money begins as an apology for an unpayable debt, not as neutral exchange.",
+      "source_phrase": "This is a debt that can never be repaid.",
+      "why_it_matters": "It gives money a moral and symbolic origin before Jiang turns it into institutional power.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0022"],
+      "moment": "The bank cartel can create an enemy to kill the king who refuses repayment.",
+      "source_phrase": "establish a new enemy to kill the king to get the money back",
+      "why_it_matters": "The banking story becomes a theory of political coercion, not just finance.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "bank run",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0020"],
+      "definition_or_usage": "A rush to redeem receipts for gold that bankrupts a bank holding fewer reserves than outstanding promises.",
+      "confidence": "high"
+    },
+    {
+      "term": "central banking",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0022"],
+      "definition_or_usage": "Jiang's name for the cartelized bank network that manages redemption risk and political repayment risk.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0019"],
+      "note": "The transcript renders 'modern period' as 'mourning period' and 'forgery' as 'fortune' in places; the intended counterfeiting discussion is clear from context."
+    }
+  ]
+}

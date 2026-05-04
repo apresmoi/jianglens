@@ -1,0 +1,130 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0008",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0057",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0059"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says the modern scientific system installs scientists, psychologists, and psychiatrists as authority; he advises walking, resting, exercising, and talking to friends over psychiatric dependency when sad.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0060",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether gods are also authority; Jiang answers that polytheistic gods are not benevolent moral authorities but arbitrary powers, and this produces eudaimonia rather than pleasure-seeking.",
+      "speaker_attribution": "Student question in seg-0060; Jiang answer in seg-0061 through seg-0064.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0060"],
+      "note": "SPEAKER_04 asks the substantive question about whether gods count as authority.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims the psychiatric-psychological authority system is not designed to cure sadness but to make people dependent on expert authority.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0057",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Normative advice and diagnosis on 2025-08-22.",
+      "topic_tags": ["psychiatry", "authority", "sadness", "dependency"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Polytheistic gods are authority, but not benevolent expert authority; they are proud, vengeful, arbitrary forces that can favor and abandon rulers.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0060",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Worldview model on 2025-08-22.",
+      "topic_tags": ["polytheism", "authority", "fate", "kingship"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Eudaimonia is presented as flourishing under uncertainty: because fate cannot be controlled, one should live today to the best of one's ability.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0062",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Definition used on 2025-08-22.",
+      "topic_tags": ["eudaimonia", "fate", "flourishing", "greeks"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts ancient flourishing with modern pleasure: the first inspires excellence despite limited control, while the second promises control but enslaves people to not feeling sad.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0063",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Lecture contrast on 2025-08-22.",
+      "topic_tags": ["pleasure", "flourishing", "modernity", "ancients"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0058"],
+      "moment": "Sadness becomes a trapdoor into authority dependency: the system tells you to seek the expert and the drugs.",
+      "source_phrase": "the system is not designed to cure you of any problems",
+      "why_it_matters": "It gives the authority critique an intimate, everyday example.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0063"],
+      "moment": "No-control polytheism produces eudaimonia: seize the day because fate may kill you tomorrow.",
+      "source_phrase": "live your life to the best of your ability today",
+      "why_it_matters": "The reversal turns fatalism into creative discipline and modern control into enslavement.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "eudaimonia",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0062",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Flourishing: living to the best of one's ability under fate rather than chasing pleasure or emotional comfort.",
+      "confidence": "high"
+    },
+    {
+      "term": "hubris",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0061"],
+      "definition_or_usage": "A godlike excess that gods can get away with but humans cannot.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0064"],
+      "note": "Jiang flags the lecture as only the opening framework and says later classes will supply evidence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0063"],
+      "note": "The transcript likely mangles 'Euripides' as 'Eubulius' in the Greek literature list."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0002",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0009",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "The student objection about fractional reserves lets Jiang refine the bank example: even with a reserve requirement, the real-life accounting answer is not the remaining cash but newly expanded bank money.",
+      "speaker_attribution": "Jiang answering a student economics correction.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0012",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses Chinese megabanks and infrastructure lending as contemporary evidence that banks create money, then reconstructs the origin of finance through merchants, gold custody, receipts, and lending receipts instead of metal.",
+      "speaker_attribution": "Jiang; seg-0016 is a non-substantive diarization fragment.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0010"],
+      "note": "SPEAKER_01 is a student raising reserve requirements; Jiang accepts the correction before continuing.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0016"],
+      "note": "The single word 'Okay' is not a public question and may be diarization noise.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that even under fractional reserves, banks expand money beyond deposited cash; the important point is that bank accounting creates money in practice.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0010",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Money model explained on 2025-08-22.",
+      "topic_tags": ["banking", "fractional-reserve", "money-creation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He cites Chinese banks' infrastructure lending over the prior twenty years as evidence that banks create money out of nothing to finance real projects.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0012"],
+      "temporal_scope": "Retrospective claim about roughly the two decades before 2025-08-22.",
+      "topic_tags": ["china", "infrastructure", "banks", "money-creation"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's origin story of finance is that receipts for gold became tradable money, and lending receipts let banks double claims on the same underlying metal.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0013",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical model used in this lecture.",
+      "topic_tags": ["finance", "gold", "receipts", "trade"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0012"],
+      "moment": "China's skyscrapers and roads are presented as money created into reality by bank lending.",
+      "source_phrase": "create money out of nothing in order to finance China's infrastructure projects",
+      "why_it_matters": "It makes the abstract banking claim material: printed numbers become roads, towers, and state capacity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0015"],
+      "moment": "The receipt turns one pile of gold into two claims and therefore into money.",
+      "source_phrase": "I've doubled the gold in my bank",
+      "why_it_matters": "This is the first small-scale alchemy example that later becomes the whole theory of power.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "fractional reserve system",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0011"],
+      "definition_or_usage": "A banking rule requiring some deposits to be held back while the remainder is lent, used here as the student's correction to Jiang's simplified thought experiment.",
+      "confidence": "high"
+    },
+    {
+      "term": "receipt money",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0013",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A contract promising access to gold that can circulate like money and multiply claims beyond the physical metal.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0012"],
+      "note": "The Chinese-bank example is dated to the approximately twenty years before the 2025 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,107 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0004",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0025",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0030"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang presses students on scarcity after arguing money is infinite; several student replies show they remain inside the scarcity frame until one says those who have money do not want to share.",
+      "speaker_attribution": "Jiang with short student replies in seg-0026, seg-0028, and seg-0030.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0031",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns the student's answer into a model: poverty, crises, and money destruction are imposed by the powerful to preserve the illusion that money is valuable and keep people working.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0026",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0028"
+      ],
+      "note": "Some student answers are fragmentary or mis-diarized, but they function as short attempts to answer Jiang's poverty question.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang distinguishes physical limitation from social scarcity: money is not scarce because it is only a number that can be printed in unlimited quantity.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0025",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["scarcity", "money", "brainwashing"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Poverty exists, in Jiang's model, because powerful people need artificial misery to make money feel valuable and to make work feel necessary.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0030",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["poverty", "work", "power", "artificial-misery"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Economic crises are presented as mechanisms for destroying money so that people continue to experience money as scarce.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0032"],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["crisis", "money-destruction", "scarcity"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0027"],
+      "moment": "The students keep believing money is scarce right after being told it can be printed infinitely.",
+      "source_phrase": "you still believe this",
+      "why_it_matters": "The scene demonstrates Jiang's argument about power: an installed idea survives direct contradiction.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0032"],
+      "moment": "Poverty is not self-inflicted failure; it is what power does to people so money looks real.",
+      "source_phrase": "poverty isn't what you do to yourself. It is what the powerful do to you",
+      "why_it_matters": "This is the packet's core reversal and one of the lecture's sharpest public theses.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "scarcity mindset",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0027",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "The internalized belief that money and resources are naturally scarce, even when Jiang argues the monetary system can create abundance.",
+      "confidence": "high"
+    },
+    {
+      "term": "artificial misery",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0031"],
+      "definition_or_usage": "Jiang's description of poverty as manufactured suffering that motivates people to work for money.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

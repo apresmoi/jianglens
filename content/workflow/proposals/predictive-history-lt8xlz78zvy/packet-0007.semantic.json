@@ -1,0 +1,120 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0007",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0049",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts polytheism with the modern scientific-psychological worldview in which humans are memories, synapses, genes, and environment that can be managed to control anger, depression, and fate.",
+      "speaker_attribution": "Jiang; seg-0049 is a non-substantive fragment.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0052",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why power would prefer the scientific-individual system and answers that it creates individual responsibility, harder work, and powerlessness by blocking collective action; a student begins to object that perspective-taking could still exist.",
+      "speaker_attribution": "Jiang with brief student confusion and objection.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0054",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0056"
+      ],
+      "note": "SPEAKER_03 and SPEAKER_02 are students; the seg-0056 objection trails off and is answered in the next packet.",
+      "suggested_speaker": "students",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the modern scientific worldview treats people as memories and synapses produced by genes and environment, promising self-management through therapy, reflection, and exercises.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0050",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Worldview contrast on 2025-08-22.",
+      "topic_tags": ["science", "psychology", "synapses", "self-management"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He provocatively argues that polytheism is a more accurate reflection of reality than the modern neuroscience-psychology worldview.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0051"],
+      "temporal_scope": "Lecture judgment on 2025-08-22.",
+      "topic_tags": ["polytheism", "science", "worldview"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Power prefers the scientific-individual worldview because it makes people easier to control, makes them work harder, and makes them blame themselves rather than society.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0052",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["power", "individual-responsibility", "work", "collective-action"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The second worldview creates powerlessness by preventing collective action: if problems are inside the individual, people cannot identify with others or change society together.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0055"],
+      "temporal_scope": "Lecture model on 2025-08-22.",
+      "topic_tags": ["powerlessness", "collective-action", "individualism"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0051"],
+      "moment": "Science is named as the modern religion, and Jiang says the older god-filled world explains reality better.",
+      "source_phrase": "Now we live in a world where the religion is science.",
+      "why_it_matters": "The reversal converts a classroom comparison into a frontal attack on modern authority.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0055"],
+      "moment": "The self-help world ends in isolation: no collective action, then video games or porn all day.",
+      "source_phrase": "you're incapable of identifying with other people",
+      "why_it_matters": "It gives Jiang's critique of individual psychology a social and political consequence.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "individual responsibility worldview",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0050",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The modern belief that problems originate inside the individual and can be fixed by managing memories, synapses, behavior, and self-control.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective action",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0055"],
+      "definition_or_usage": "The capacity to identify with others and change the world together; Jiang says modern individualism disables it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0049"],
+      "note": "The isolated 'Okay?' appears to be a diarization fragment and is not semantically important."
+    }
+  ]
+}
