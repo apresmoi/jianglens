@@ -1,0 +1,327 @@
+# Civilization #44:  The Spanish Conquest of the New World
+
+Source: https://www.youtube.com/watch?v=-DnfGcvZrfA
+
+## seg-0001 / 00:00:00-00:01:21 / SPEAKER_00
+
+Okay, good morning. So today we are doing the European conquest of the New World, meaning North and South America. And so these people who start to conquer the New World are called the conquistadors, which is Spanish for conquerors. These are mercenaries, they're bandits, they're lower class people who have to leave Spain and Portugal and look for new opportunities in South and Central America. Okay, so some basic history. Remember that when we discussed the Islamic Golden Age, the Islamic Empire is trying to connect the world in globalized trade. And the networks run all the way. From Central Asia, over to China, into Europe, and even into parts of Africa. There's the Maritime Silk Road that they create because they want the porcelain from China. They also have an Overland Silk Road. And at this point in history, Spain, which is called Al -Andusa, it's part of the Islamic world. And it is integrated heavily into... the Islamic world.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:22-00:02:39 / SPEAKER_00
+
+It's become very wealthy, very cosmopolitan because of this. This globalized trade becomes much more concentrated, becomes much more rapid during the Mongolian conquests, okay? And because of the Mongolian Empire, the Pax Mongolica, a lot of knowledge, a lot of trade is being transferred from the east to the west, including paper, which is made in, which was first invented in China, but also gunpowder. Next class, we'll talk about the gunpowder revolution, which marks a radical change in how the world works. So historically, we have considered the Vikings to be the first to explore the new world. Remember that when we discussed the Vikings, they made it all the way to present -day Newfoundland and found a call I calliminate. But the colony didn't last very long, and that was the first encounter between the Europeans and the native people of North America. The thing that you learn in this class that's very important to understand is the world has always been interconnected in some capacity.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:39-00:03:40 / SPEAKER_00
+
+It's always been globalized, so we can assume that even before the Vikings, there were some encounters between the old world and the new world. It could have been the Egyptians, it could have been the Harappans of the Indus Valley civilization, it could have also been the Chinese. Just because we don't have written records or archaeological evidence does not mean that there was no contact. We have to assume that there was some limited contact between these worlds. But it's only under the 16th century when the old world and the new world begin to collide with each other violently. And the reason why is that... Spain was eventually reconquered by the Europeans, and it became Christian. And because of that, Spain lost its trade routes in the Islamic world. Also, at this particular time in history, the Ottoman Empire is rising in power. And what's really
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:40-00:04:58 / SPEAKER_00
+
+important is that in 1453, they conquer Constantinople, which was the seat of the Eastern Roman Empire. And so now, for the Europeans to trade with India, China, and the rest of East Asia, they have to pay a heavy tax to the Ottomans and the Italians as well. They don't want to do that. So their response is to discover their own routes to East Asia, to China, to the East Indias. And they do. They hire a lot of these very experienced Italian seamen. So Christopher Columbus is from Genoa. He is Italian. And he was hired to go discover a route to China. And he ended up discovering North America, basically. So all the major powers, France, England, Portugal, Spain, they are engaging in maritime exploration. And it started in the 16th century. What happened is that the Spanish will start to conquer Central America and South America. And they do so in less than 30 years.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:58-00:06:14 / SPEAKER_00
+
+It's a very quick conquest. And so you can see that during the 16th century, there's a lot of exploration going on. There's a lot of contacts being made. The Portuguese are really the first. The first to establish the maritime empire. And so the question then is, why is it that the Portuguese end up establishing colonies in Africa, in India, in China, throughout the East Indies? And the reason why is that the fear was that Portugal and Spain would come into conflict with each other. So the Pope divided the world into two. So the Portuguese got this part of the world. And the Spanish got the new world, basically. And the Spanish obviously got the better end of this deal. But that was the arrangement. So the Spanish got all of present -day Mexico, Central America, and most of South America. And there's a lot of gold, a lot of silver, within these regions. And as a result, Spain became very wealthy.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:15-00:07:32 / SPEAKER_00
+
+Okay? Eventually, the British and the French will get involved as well. But because South America and Central America were already taken by the Spanish and the Portuguese, they ended up in North America, which was cold and poor and inhabited by lots of very aggressive and violent natives. And it turned out that, in the long run, this would prove to be more beneficial for the British. Okay? In the long run. But currently, the Spanish have accumulated all the wealth in the new world. Okay? So the main thing I want you to remember is that because the old world and the new world collided, this marked a revolution in European agriculture. Because now the Europeans could import these extremely nutritious and easy -to -produce vegetables back into Europe. So the corn was invented by the native people of Central America. Corn is not naturally produced. You have to, basically, scientifically invent it by cross -breeding different crops.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:32-00:08:31 / SPEAKER_00
+
+Okay? It's a very long process. And corn allowed for the man civilization to flourish. So corn is an extremely important nutrient that's easy to produce, cheap, and very nutritious. So is the potato. Okay? The potato, over time, will become the staple food of Europeans. So are peanuts. So are squash. So is the tomato. Okay? So all these foods that we take for granted were actually first domesticated in the old world, which was then transported to the new world. And because of these very nutritious foods, and they're far more nutritious than wheat, you have a population explosion in Europe. Okay? So this is very important. I want you guys to remember this. The potato, the corn, led to a population explosion in Europe. And what did the natives get? Well, they got a lot of diseases. They got a lot of measles and smallpox. So the question we're looking at
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:31-00:09:36 / SPEAKER_00
+
+this morning is, how did a few thousand conquistadors, Spanish mercenaries, basically, how were they able to conquer millions and millions, millions of indigenous people in South America? There were three main civilizations in South America at this time. The Aztecs, the Mayans, and the Incas. And the Spanish were able to conquer all three major civilizations in less than 30 years. So how were they able to do so? Okay? That's the question we're looking at this morning. Okay. Now, the standard explanation is threefold. When you talk to scholars, they have three explanations for how this happened. It was a perfect storm of three factors. Okay? The first is the native people were not in contact with the Europeans. So the Europeans brought with them these diseases that the native people had no immunity against. Okay? And the four major ones are smallpox, measles, typhus, and cholera. And this wiped out about 80 % of the population in North and South America.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:37-00:10:44 / SPEAKER_00
+
+It was basically a genocide. Okay? 80 % is a lot of people. We're talking about millions and millions of people. The second major factor is that, there were these internal conflicts, tribal warfare, among the native people. And the Europeans, the Spanish, exploited this. They basically used a divide and conquer strategy against the natives. You first unite with a tribe that hated the Aztecs. You conquer the Aztecs together, and then you enslave the tribes. Okay? So that's a divide and conquer strategy. And the third factor is, the Europeans had superior weapons and technology. Okay? They had armor. They had cannons. They had horses. The natives didn't have access to any of this technology. So that's the three explanations. But if you ask the Spanish at that time, how did you do it? How were you able to, with a few thousand soldiers, conquer this vast territory? And the Spanish would just say, because one, God willed it.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0009
+
+## seg-0010 / 00:10:44-00:11:47 / SPEAKER_00
+
+Our God made us conquerors. It was a divine mission from God. Okay? And the second is, we were so powerful that the natives bowed before us. They saw us as gods. That was the standard explanation of the Spanish at that time. And because this is clearly a very racist attitude, right? We're superior. We are white. We're here to civilize you. Scholars have rejected this explanation. Okay? But what I want to show you today, and I know this is going to be controversial, and so please feel free to debate or ask questions or point out inconsistencies in my argument. Okay? But I want to argue today that the original Spanish argument actually has much more evidence. It makes much more logical and coherent sense than the current scholarly interpretation. Okay? Does that make sense? All right? So this is my thesis. This is my argument. The religious beliefs and practice of the Aztecs, Incas, and Mayans made them vulnerable to Spanish conquest.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0010
+
+## seg-0011 / 00:11:48-00:12:55 / SPEAKER_00
+
+So the ultimate weakness of these people was their religion. Okay? You're not allowed to say this today in university because it's not completely correct. But I want you to make that argument because I think this is what makes the most academic, logical, and coherent sense. Okay? That's my thesis to you today. Okay? So a quick picture to contrast the collision of civilizations. Okay? So the Aztec people, they're ferocious warriors, they love war, but they have wooden spears, and they have no armor. Okay? Whereas the Europeans, they have swords, they have shields, they have armor. Okay? So this is a class of civilizations. All right. Okay. So let's go back to the beginning of time. And one thing that we talked about before is how civilizations arise because of three factors. Geography is the main factor. Okay? So you want to be in a temperate climate.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0011
+
+## seg-0012 / 00:12:55-00:14:25 / SPEAKER_00
+
+You need rivers in order to have civilizations. And you need natural boundaries like mountains in order to protect yourself from invaders. Okay? And that's why the five earliest civilizations are all in this latitude. Right here. Right here. And they are China, India, Mesopotamia, Egypt, and the Mayan civilization. All right? And what's amazing is that when you start to analyze all five civilizations, you will discover there's actually a lot of similarities, a lot of common characteristics among these five civilizations. Okay? So yeah. So this part of the world, right here. Okay? The Tropic of Cancer. This is where all five civilizations first developed, around this area. Okay. So the Mayan civilization was one of, was just an astounding civilization. They had millions and millions of people. They spread all across Central America. They had science, they had astronomy, they had mathematics that are written in language. They built pyramids. So these are obviously temples to worship their gods.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:28-00:15:31 / SPEAKER_00
+
+They had something called the Mayan calendar. And it's an astonishing achievement because back then they used 365 days. So the Egyptians were actually the first to use a solar calendar. But the Mayans didn't. The Mayans independently also created their own calendar. And if you actually study the calendar, it's actually a very sophisticated, very nuanced, extremely scientific instrument that they used for agriculture. The most astonishing achievement of the Mayans was agriculture. And this is no different from science. Okay? They not only were the first to invent corn. Again, what's really important for us to remember is that corn is not produced naturally. Nature did not produce corn. The Mayans invented corn. And this was important because it allowed them to feed a large population with very limited agriculture. But not only that, but they figured out the most efficient way to use farmland. And this is called the three sisters planting.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:31-00:16:47 / SPEAKER_00
+
+Okay? What they would do is this. They would grow corn, bean, and squash together in a symbiotic relationship. So that they're all helping each other nourish themselves and grow. Okay? So the corn will provide the structure in order for the beans to climb in order to reach sunlight. Okay? The bean will fertilize the corn and squash by releasing nitrogen into the soil. And the squash will basically prevent weeds and insects from invading the soil. Okay? So it's a perfect symbiotic relationship that we still use today. And because of this sudden breakthrough, the Mayans were able to build a civilization of millions and millions of people. Okay? It was just an incredible achievement. Okay? Any questions? Okay? All right. Let's continue. As we discussed in this class, our goal is to build a civilization of millions and millions of people. All civilizations rise and fall. That's just a natural cycle. There's nothing you can do to prevent them from declining over time.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0014
+
+## seg-0015 / 00:16:48-00:17:55 / SPEAKER_00
+
+Same process with the Mayans where over time, because of their breakthroughs in agriculture, they reach a peak in about the year 780, 80 in their population. But after they reach a peak, okay, this is really important, there's a huge decline. All right? And the thing that you learn in this class is that there are three... Sorry. There are... Sorry. So scientists have looked at the reasons for this decline, and what they've discovered is ecological collapse. Okay? So you have this huge increase in population, and this leads to deforestation and soil erosion. Basically, they're not able to grow farmland anymore, and that's why their civilization has collapsed. Okay? But the question then is, is this correlation or is this causation? Okay? Do you guys understand? Right? Because scientists will... Well, scholars will tell you this is causation. It's because they had an overpopulation, so they were using too much of the land, and so it led to deforestation and soil erosion.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0015
+
+## seg-0016 / 00:17:55-00:18:54 / SPEAKER_00
+
+Okay? That's a causation. I... But some other scholars argue it is correlation, and the reason why is that Mayans are really famous for their ecological management. They're masters at being able to... Manage their environment. So this could be a correlation and not causation. So then what's a causation? Okay, well, if we look at all civilizations, there are three factors that lead to the decline. All right? If a civilization is prosperous, stable, and peaceful, guess what? Three things always happen. The first is the idea of elite overproduction, right? The Peter Turchin argument, which is that over time, you have too many nobles, you have too many elites who compete for status. Okay? That's the first problem. The second problem is the idea of rat utopia, where old people live too long, and as such, young people are not able to inherit status. And this leads to a malfunctioning of society, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016
+
+## seg-0017 / 00:18:54-00:19:47 / SPEAKER_00
+
+Because young people feel they have no opportunities. Same thing that's happening in the world today, where in America, there's something called quiet quitting. In China, there's something called lying flat, tongue -ping. Okay? And the third is the idea of financialization, debt slavery. Okay? And the idea here is that if you're a very prosperous society, it's very hard to get people to work, because they don't really want material goods. All they want to do is have enough food to feed their family, and they're good. Okay? That's why if you pay them more, they actually work less. So the only way you get them to work more is if you get them into debt, okay? If you enslave them. And that's what every civilization has done since the dawn of time. Debt slavery, in order to produce, get people to work harder. This idea of financialization. So all three things are correlated.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0017
+
+## seg-0018 / 00:19:47-00:20:53 / SPEAKER_00
+
+They are symbiotic. They work together. And they all spell the end of civilization. Okay? This is true for Rome. This is true for the Mayans. This has been true also for China throughout its history. Does that make sense, guys? All right. All right. So as the Mayan civilization collapsed, people... People diffused all over Central and South America. And they brought with them the main culture. Okay, because the main culture was the dominant culture of that time. It's like China in Southeast Asia. China is this huge sun that shines light on all other countries, including Japan and South Korea. And what will happen over time is that different tribes will fight over to inherit the main legacy. They will take, they will compete against each other in order to become the major empire. And the nation that eventually wins out in Central America are called the Aztecs. And the Aztecs are a really interesting people, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0018
+
+## seg-0019 / 00:20:53-00:21:55 / SPEAKER_00
+
+And they're very similar to the Romans. So if you think Aztec, think Romans as well. The main similarity is that both the Aztecs and the Romans are societies that are very similar. It's based on war. They love war, all they want to do is fight war, okay? So the Aztecs are originally from Southern United States. Okay, what is Southern United States? And because of climate change, they have to migrate to Central America for food. Problem is that Central America was already overpopulated. And they start to hire themselves out as mercenaries to the other tribes. And then eventually they came into conflicts with other tribes, and they became isolated in a place called Teno -Teclen, okay? And this is basically swamp land. It's very hard to grow food in Teno -Teclen. Today, Teno -Teclen is called what city? Do you guys know? Teno -Teclen is called what city today? Can you guess? Mexico City, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0019
+
+## seg-0020 / 00:21:55-00:23:07 / SPEAKER_00
+
+So Mexico City, if you have a chance to visit there, it is actually on the site of Teno -Teclen, which is a city that the Aztecs founded. And remember, back then, it was all, basically, swamp land. And so something miraculous happened. The Aztecs adapted themselves to the swamp land, and they began to focus on agriculture, okay? And this agriculture was very innovative. They turned, basically, swamp land into farm land, and it allowed for the populations to increase and prosper. So swamp land is bad because, you can't really say, you can't really grow crops, but swamp land is good because it's pretty defensible, okay? So they were able to very quickly expand their population. And so what did they do? Well, they started to conquer other territories because this is a war society, okay? It is a heavily military society focused on war. The religion is to defeat enemies and then sacrifice these enemies to their god, who maintains his vitality, food, blood, and food, not sacrifice, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0020
+
+## seg-0021 / 00:23:07-00:24:07 / SPEAKER_00
+
+So the Aztecs were known for the most grotesque forms of human sacrifice. They would sacrifice 1,000 people at once. They would also sacrifice you while you were alive. So they would strap you up and then cut out your heart while you were alive. And obviously, the entire point was terror, okay? To terrorize your enemies and to unite your people. And, what's really important for us to remember is that all war societies, including the Romans, the Vikings, and the Aztecs, practice a form of human sacrifice, okay? Remember this. It's very important. The Vikings, we discussed how they practiced human sacrifice. The Romans also practiced human sacrifice. And this is something that they sort of hid in their history. So the way they practiced their human sacrifice is at the end of every major military campaign, they would have a parade called a triumph, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021
+
+## seg-0022 / 00:24:07-00:25:07 / SPEAKER_00
+
+And they would parade their war captives across the Rome. And then these war captives were taken to the Temple of Jupiter where the parade would end, and then they would be strangled to death in front of Jupiter. That's human sacrifice, okay? That's like having human sacrifice. There's no other word for it. But the Romans said, oh no, no, no, we don't do this, okay? We don't do human sacrifice because we're much more civilized than other people. And they never explained why the strangulation is not human sacrifice, okay? All right. Over time, because the Aztecs were such a violent, aggressive people, they, like the Romans, were able to take over the entire territory of Central America, okay? And they did so with allies, okay? They were the main partners. They're part of something called the Triple Alliance, okay? So three tribes that united against together in order to conquer their surrounding enemies. They were the main partner.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0022
+
+## seg-0023 / 00:25:07-00:26:15 / SPEAKER_00
+
+So they were the main partners. The Aztec civilization was, like the Romans, extremely advanced. They had hierarchy. They had priests. They had universal schooling, okay? So every child was allowed to go to school and learn to read and write. They had a system of courts and judges. And they had a very strict legal code. They had a very vibrant economy, okay? So this was a very vibrant civilization. And as such, their city, Tenochtitlan, grew very fast. Very, very large. When the Spanish first came to the city, they were amazed by the extreme wealth and size and prosperity of this city, okay? It made them salivate, okay? So this is another shot of Tenochtitlan. Eventually, the Aztecs were conquered by one man with maybe a few hundred soldiers. His name is Hernan Cortes, and he's an adventurer. He did not have permission from Spain to go and conquer. To conquer the Aztecs, he just did so because he wanted to.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0023
+
+## seg-0024 / 00:26:15-00:27:22 / SPEAKER_00
+
+He was a soldier of fortune, okay? And when he first arrived with the Aztecs, the Aztecs actually treated him very, very well, okay? He was like a novelty, right? Yeah, he had weapons, but there was only a few hundred of them, whereas the Aztecs had millions and millions of soldiers. So their king at this time, Montezuma, welcomed him with open arms. And Montezuma probably wanted to co -opt him. He saw him, Montezuma saw Cortes as an opportunity to use against his enemies, and his internal enemies as well. Cortes just wanted gold, okay? That's all he cared about, gold. So wherever he could find gold, he'd be happy to go. But there was a misunderstanding, because these were two very different civilizations. So during a religious ceremony, when the Aztecs were gearing up, Cortes' men saw this as a threat, and they started to massacre these soldiers. And one thing led to another.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0024
+
+## seg-0025 / 00:27:23-00:28:31 / SPEAKER_00
+
+We don't know what happened, okay? Because the Aztecs were obviously destroyed by the Spanish. The Christian missionaries would come and destroy all written records of the Aztecs, and all we have are these stories that probably aren't true. Okay? But what probably happened is that the Spanish captured Montezuma, and held him as a captive, okay? They wanted a ransom. They couldn't get the ransom, so they killed him. And then very shortly, they were expelled from the city, but then the disease of smallpox hit the population, and they all fell sick. And that gave time for the Spanish to recuperate, and then eventually conquer the city with allies. All right, does that make sense? Okay. All right, now let's go to the Incas. The Incas. They had a very huge empire throughout South America. These mountains are called the Andes, okay? So like modern -day Peru. They were in the highlands, and they also had very advanced civilizations, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0025
+
+## seg-0026 / 00:28:31-00:29:42 / SPEAKER_00
+
+One thing that made the Incas different from the Aztecs is they practiced a form of ancestral worship, a pretty extreme form of ancestral worship. So the idea is the emperor is divine. If you're divine, it means you're immortal. So even thought the emperor dies, he's then mummified, okay? He's mummified. And so he's still alive. If he's still alive, that means he keeps all his lands and wealth. It doesn't go somewhere else, okay? So now the new emperor comes into power and now he has to conquer new lands in order to establish his divinity, okay? So the Incas are endlessly, eternally, just amazing. expansionist. They had no choice in the matter. And if you think about it, this is actually a good strategy to reduce internal conflict, right? Because this reduces the problem of elite overproduction. The old emperors' family and loyal soldiers keep their land, and now the new emperor has to go conquer new territory, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0026
+
+## seg-0027 / 00:29:42-00:30:47 / SPEAKER_00
+
+So this results in the issue of elite overproduction. But it also makes your society extremely unstable because it's too spread out and too many enemies, okay? The way that the Incas conquered other people is, when they conquer other people, their gods are incorporated into a pantheon of gods. Like the Romans, the Incas are extremely tolerant people. You can worship any god you want as long as you acknowledge the supremacy of my god, okay? Okay? So the pantheon of gods. So within the Inca Empire, everyone was allowed to practice their own religion as long as they submit themselves and pay tribute, okay? The Incas also had a very advanced bureaucratic system. They had a census, they collected tribute, they collected taxes, they had a legal code, they had a court system. What's interesting about them is they didn't have a writing system, but they had beads. Beads, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0027
+
+## seg-0028 / 00:30:47-00:32:07 / SPEAKER_00
+
+And with beads, with numerals, you can create basically a knowledge system. So this is basically like a very primitive computer or calculator. What's left of the Incas is Machu Picchu. If you ever have a chance to visit there, it's beautiful. It's a hike. I want to visit one day with my kids. Okay. The Incas were conquered by... by another conquered student named Francisco Pizarro, okay? The emperor he defeated was Ata Huapá. Sorry, I'm not going to pronounce his name properly. And what happened was that Ata Huapá had just fought a civil war, and now he's the divine emperor. And the legend is that Pizarro fought a battle with Ata Huapá. Ata Huapá had 40,000 soldiers. Francisco Pizarro had 200 soldiers. And Pizarro won and captured Ata Huapá as a hostage. This story is probably not true, okay? What probably happened was that the emperor greeted the Spanish with open arms and say, let's negotiate.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0028
+
+## seg-0029 / 00:32:07-00:33:08 / SPEAKER_00
+
+And the Spanish basically captured him, okay? Remember, in this society, the emperor is divine. He's untouchable. So it is beyond his imagination. So the Spanish would capture him, okay? Then what happened is that Pizarro said to the emperor, we'll let you go if you can fill this room with gold. And guess what happens? The emperor issues out a command, and a few days later, the entire room is filled with gold, okay? So this place is pretty wealthy. Then what do the Spanish do? What do you think? They kill him, okay? They kill him, and then they conquer the entire territory. So that's why you should not pay ransoms to pirates, okay? I think Pizarro himself was sort of astonished that there was so much gold, and the Incas could just fill a room like that, right? And then they're like, well, you know, if I can just ask for gold and they'll give it to me, then why don't I just take this entire territory?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0029
+
+## seg-0030 / 00:33:08-00:34:16 / SPEAKER_00
+
+And that's what he did. Okay. All right. So another question is, how did this happen? How was it possible that the Aztecs and Incas were defeated by just a few hundred conquisters very quickly okay in a few decades and what I want to show you now is the religious practice and belief system of the Mayans which then influenced the Aztecs and the Incas okay all right so in these societies religion is spread through oral tradition from priests to people okay but fortunately in about the year 1700 there was a Dominican priest who made it his mission to write down this oral tradition okay and this book we call the Popol Vuh it translates into the book of the community and it's just it's just a literary form of the oral tradition the oral religious tradition of the Mayan people okay so we're gonna look at
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0030
+
+## seg-0031 / 00:34:16-00:35:14 / SPEAKER_00
+
+a few passages to figure out their underlying belief system and how it governs their society all right okay so this is a story of the heroic twins so the Mayans worship the heroic twins as the savers of humanity so what happened is the twins had themselves had twin fathers who were captured and killed by demons in the underworld and this is very similar to the Egyptian myth of the Mayans and it's very similar to the Egyptian myth of the Mayans and it's very similar to the Egyptian myth of Osiris who was killed by his brother Set and then sent into the underworld okay and so the brothers want vengeance against these demons and so what they do is they become their friends with the demons and then they make themselves immortal okay when they died they come back to life and then they play a trick on these demons they go to the demons and
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0031
+
+## seg-0032 / 00:35:14-00:35:59 / SPEAKER_00
+
+say hey look at us we can play this game where we can't cure ourselves we cut our heart and we come back alive okay and the demons are like yeah we want to play this game as well and they all end up end up killing themselves okay so this is a passage from the Pope of all sacrifice in the same way said one death and seven death to Hanna pool and Zappa Zala quit these are historic twins okay these are the heroic twins very well then surely will be revived are you not deaf but we are here to gladden you Oh Lord along with your vassals and your brothers and your brothers and your brothers and your servants they said therefore to the Lord's okay so they're putting a trick on these demons the first we sacrifice was the very head of all the Lord's one death by name the Lord of Zabava he was
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032
+
+## seg-0033 / 00:35:59-00:36:53 / SPEAKER_00
+
+dead then this one death next they grab seven death but they didn't revive them thus the Zabavans took their heels when they saw that the Lord's had died so they killed all the Lord's and then they killed all the demons their hearts were now taken from the chest okay their hearts were now taken from the chest it's very important because this is how the aztecs practiced their sacrifice okay so they're trying to with their rituals they're trying to express or bring to life this mythology okay which is what the vikings did as well both of them had been torn open as punishment for what they had done straight away the one lord executed and not revived the other lord had been had begged humbly weeping before the dancers he would not accept it for he had become disorientated take pity on me okay so this is how the heroic twins conquer and destroy all the
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0033
+
+## seg-0034 / 00:36:53-00:38:00 / SPEAKER_00
+
+demons okay and the aztecs will take this story no turn it into the basis of their religious ritual okay all right uh this is a story of the creation of the first man what's interesting is that the men's believe that the gods made different attempts to create humanity the first attempt is by making them out of mud and they fall apart okay so that's a disaster then they try to make men out of wood and that doesn't work either so then they try corn maze okay and that works so that's why the um uh man's consider themselves the children of the corn okay they worship porn as something that's the vine okay um so the the god creates men and let's read the story together then the framer and the shaper asked them what is the nature of your existence do you know it do you not look and listen are not your speech and
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0034
+
+## seg-0035 / 00:38:00-00:38:57 / SPEAKER_00
+
+your walk good behold now therefore and see that which is beneath the sky are not the mountains clear do you not see the valleys try then they were told okay so the gods created man and they want men to be thankful why because the gods created man in order to serve them okay so basically basically the gods created humanity to be their slaves thus their vision of everything beneath the sky was completed and they gave thanks to the framer and the shaper and that this what man says to the gods truly we thank you doubly triply that we were created that were given our mouths and our faces we are able to speak and to listen we are able to ponder and to move about we know much for we have learned that which is far and near we have seen the great and the small all that exists in the sky and on the
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0035
+
+## seg-0036 / 00:38:57-00:39:55 / SPEAKER_00
+
+earth we thank you therefore that we were created that we were given flame and shape we became because of you our grandmother and you our grandfather they said when they gave thanks for the frame frame and shape okay so we humans are paying our thankings thanks to the gods, okay, we're showing our gratitude. Their knowledge of everything that they saw was complete, the four corners and the four sides, that which is within the sky and that which is within the earth, okay? So we now have knowledge and wisdom because of the gods. Now this is really important. But this does not sound good to the framer and the shaper. It is not good what they have said, they that we have framed and shaped. They said we have learned everything great and small, okay? So the gods don't want our gratitude. They want our subservience. They want our obedience, okay? And this becomes a basis
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0036
+
+## seg-0037 / 00:39:55-00:41:12 / SPEAKER_00
+
+of these religions where we have to believe that the gods created us in order to serve them. We are slaves to the gods, all right? And again, this is very similar to the Enuma Elish, the Babylonian creation myth, where the god Murah creates humans so that the gods wouldn't have to work anymore. This is also very similar to the Catholic Church, which believes that we are slaves to God because God freed us from the devil, okay? This is the god Tohil, okay? Which is the Mayan fire god. And what they believe is that Tohil demands that we sacrifice our enemies to him so that the blood will rejuvenate him. Okay? He's a god of fire and of sacrifice. And he's always hungry. So the Mayans believe they always have to go to war to capture slaves to be sacrificed to their god, all right? And there's a lot of mythology around this god. And this god has always demanded human sacrifice.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0037
+
+## seg-0038 / 00:41:12-00:42:04 / SPEAKER_00
+
+So the humans decide to rebel against him, okay? They try many tricks to rebel against him, okay? They all fail because he's smarter than us. So eventually, humans decide to get together and to fight him, okay? But they all get killed. Thus, only a portion of them were able to return, okay? Those who rebelled, only a few were left alive. Only a few people from the nations were able to escape from Tohil. At first, they tried to flee. When they were caught, they were finished off. They were killed. It was not just a few of the people who died. And of those that did not die, they were killed. When they did not die, the insects came upon them and tormented their hearts. They were no longer able to wage war, okay? So the gods had destroyed our capacity to ever challenge them, to ever rebel. They did not take up their arrows or their shields again.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0038
+
+## seg-0039 / 00:42:05-00:43:05 / SPEAKER_00
+
+Thus, all the nations were humiliated and begged humbly before the faces of Balaam, Kitsa, Balaam, Akka, and Mohakkata. Pity us, do not kill us, they said. Very well then, certainly you shall become obedient. You shall be servants, as long as there is sun and light, they were told, okay? So we can never, ever challenge the gods. Because when we tried, we were all killed. And so the gods showed mercy to us. And so from now on, we must obey the gods. But now, it's like, how do you obey the gods? What do the gods require of us? That's the question now. All right, we obey the gods through their priests who understand them, okay? Does that make sense, okay? So let's read. Kokapakas and Kotoa were enchanted people, priests and enchanted lords. Kopa and Kazama were also enchanted lords. They knew if there would be war. Why?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0039
+
+## seg-0040 / 00:43:05-00:43:57 / SPEAKER_00
+
+Because the gods tell them. They could see the future, okay? They talk with the gods. It was clear before their faces. They saw if there would be death, if there would be hunger. They surely knew if there would be strife. There was an instrument of sight. There was a book. Palvel was their name for it, okay? So everything that's written down here, it's sacred because it was written down by those who speak directly with the gods. So everything, all these words are the direct words from the gods themselves. But it was not only because of this that they were lords. They were great in their essence, great as well where their fast. In order to venerate their temples and venerate their sovereignty, they fasted for long periods of time and sacrificed before the faces of their gods. Not only do the gods favor them. but they themselves made many sacrifices in order to win the
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0040
+
+## seg-0041 / 00:43:57-00:44:54 / SPEAKER_00
+
+favor of the gods okay they are worthy therefore therefore we must submit them ourselves before them okay and that's how we worship the gods okay does that make sense so think about this the logic is very clear the main credit civilization that is truly religious and hierarchical okay everyone knows the people must worship their priest -king because the priest -king is the direct representative of God right but when you do that you create the condition for the Spanish to come kill that priest -king and become the new priest -king doesn't make sense that's what happened the man's create this religion in order to enslave all everyone around them and that brought the perfect opportunity for special come and take over that role so in history class you may have learned that the Spanish were the first to come and take over that role so in history class you may have learned that the Spanish were
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041
+
+## seg-0042 / 00:44:54-00:45:57 / SPEAKER_00
+
+extremely cruel to the natives not more so than the previous overlords okay does that make sense guys all right all right so what I'm gonna do now is how to explain the history I'm gonna provide the theory okay I'm going to explain the theory of all this okay but before I do so are there any questions about what we've learned so far what was this clear to you guys the logic of this all right so let me explain the theory okay um okay so what you learned in this class what we talked about this class previously is the idea of game theory okay game theory the game theory idea of game theory is that all human action it's playing a game okay we may forget we're playing a game we're still playing a game so if you understand how people behave you first have to figure out how the game works what the rules of
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042
+
+## seg-0043 / 00:45:57-00:47:07 / SPEAKER_00
+
+the game okay so I'm going to talk to you about task software that comes with it when I say sistemas with these complex reasons the with what the game school the game system actually means is where exactly what game over here on the top see this one it shows you all of the three img running again okay what see it so the game software which they basically make up is run on theал télé já no humorём At the time, these cities came into conflict with each other because of trade issues, okay? And also because of land issues, so they start to fight. At this point, this becomes a competition, it becomes a game, okay? And whenever there's a game, there has to be rules that underpin this game. And the rule, the first rule of this game was we do not attack each other's cities. Does that make sense? Why? Why? Because the city is the physical manifestation of God on Earth.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043
+
+## seg-0044 / 00:47:07-00:48:23 / SPEAKER_00
+
+So you can kill the enemy's army on the field, but you don't attack the city. And also there are city walls to protect the city, okay? And so what would happen over time is this game establishes an equilibrium. Where, okay, they fight all the time, but no one can actually conquer the other cities because these cities are protected by the gods. And so this reaches an equilibrium. This is a form of peace and stability, okay? And there are like these elaborate rules governing warfare among the people of Samaria, okay? But then you had one king named Lugazagesi who was like, screw this. I'm gonna come and I'm gonna kill your god, okay? So he comes, he sacks the city, okay? He basically steals from the temple. The temple is where all the gold, all the valuables are. And he sacks the temple, and even his soldiers are afraid that the gods will come and smite him, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044
+
+## seg-0045 / 00:48:23-00:49:25 / SPEAKER_00
+
+They're afraid, but nothing happens to him. So he does it again and again and again, and he becomes, over time, more and more powerful, okay? So he's breaking the rules of the game. He hacked the game, okay? This is called a hack, or he cheated, whatever. But he figured out what the ultimate taboo is, okay? The ultimate taboo. And he broke it. If you break it, you become god yourself. It doesn't make sense. The idea of taboo are what humans must not break, what humans must not violate. Only gods allow to break this taboo, okay? Only gods allow to kill each other. We humans must not try to kill each other's gods by ransacking their temple, okay? And now, once this rule is broken, what happens is, we have to allow a society, called the Akkadians, to come in and conquer everyone, because they are the most warlike, okay, all right?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045
+
+## seg-0046 / 00:49:26-00:50:46 / SPEAKER_00
+
+So how is it possible for a different people, who are much fewer and much poorer, to come and conquer an entire empire? We discussed this, right, the Mongols. When you are severely limited in your resources, so the three forms are escalation dominance. Escalation dominance just means that you will do more than anyone else in order to win the war. It doesn't make sense. That's what escalation dominance means. Second is the idea of terror. So the Mongols were going around and killing people randomly in order to instill terror among the population. The third is the idea of aura of inevitability. And invincibility, okay? You want people to think you are the demon, or the gods themselves. And that's how you get people to obey you. Okay, so the Mongols perfected this strategy, all right? But the Akkadians also used this strategy, Sargon the Great. Sargon, the second of Akkad, okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046
+
+## seg-0047 / 00:50:46-00:52:03 / SPEAKER_00
+
+And what he did was, he perfected siege warfare to break down the walls. And before, it was thought impossible that you could break down these city walls, but he did so. And so this created escalation dominance, terror, and the aura of inevitability and invincibility, okay? Doesn't make sense, guys. This is how, this is often what happens. When societies are playing a game against each other, when they're in competition, they establish an equilibrium, okay? The equilibrium is held together by an ultimate taboo. But then someone comes along and breaks this ultimate taboo, which then opens up the game, okay? And whoever wins, and who, whoever, whoever now is able to master psychological warfare, escalation dominance, terror, and aura of inevitability, will win this game, okay? Does that make sense? All right, now that we understand the basic theory, let's apply it to the Aztecs. All right, so the Aztecs, sorry, had escalation dominance. They had terror, right?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047
+
+## seg-0048 / 00:52:03-00:53:29 / SPEAKER_00
+
+Because of human sacrifice. And they had the aura of inevitability, and invincibility. This is how they're able to control millions of people, even though they themselves had a very limited population. They employed the same strategies as the Mongols, okay? The Incas also used these three strategies, right? And so, you can just say that it was really about God. The Aztecs proved that their God was superior to every other God, okay? Does that make sense? All right? The problem now is, you have the Spanish who come in, and they don't know how the game is played. They reject all the rules of the game. They reject the idea that God cannot be killed. They killed God, right? They killed Montezuma, who is God of the Aztecs, and they killed the Inca emperor as well. And when you do that, when you put the ultimate taboo, you leave people completely helpless. Okay, does that make sense? So, let me use an analogy so that this makes sense to you.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048
+
+## seg-0049 / 00:53:30-00:54:29 / SPEAKER_00
+
+In today's world, there is an ultimate taboo among societies, okay? So, China, United States can engage in economic warfare. Russia and Ukraine can engage in military warfare. These are not taboos. The ultimate taboo is no one is allowed to use nuclear weapons. It doesn't make sense, guys. No one is allowed to use nuclear weapons, because if anyone uses nuclear weapons, the world would end tomorrow. All right? So, if you think about it, there were actually a couple of instances where we were very close to nuclear war, okay? During something called the Cuban Missile Crisis. It was very close, okay? But there was a chain of command. So, maybe one guy would give the command to launch nuclear weapons. But then you have like 10 other people who have to say yes. And there's always going to be one guy who's like, I don't want to be the guy who ends the world.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0049
+
+## seg-0050 / 00:54:29-00:55:26 / SPEAKER_00
+
+Okay? So, I know there's talk about possibly Russia or the United States using nuclear weapons, okay? It's not going to happen, because it's the ultimate taboo. If anyone uses nuclear weapons, the world ends. It's like killing God. No one would do it, okay? But, let's imagine 10 aliens, okay? 10 aliens. Just 10 of them. There's like 8 billion of us, right? They come to Earth on their spaceship. Far away. They're out on the moon, right? They are not inhibited by this taboo of using nuclear weapons, okay? Does that make sense? So, all they would do is use one nuclear weapon against us, and then what would happen? We would all surrender. Does that make sense? Okay? Does that logic make sense to you? Same thing happened with the Aztecs and Incas. Because the Spanish were able to kill their God, everyone was like, what do we do now?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050
+
+## seg-0051 / 00:55:27-00:56:36 / SPEAKER_00
+
+What do we do now? We exist to serve God. God is invincible. But the Spanish just killed them. Which means what? Which means now, the Spanish are gods. Right? Does that make sense? So, this is what happened. It's game theory. If you're able to figure out the ultimate taboo, and you're able to use it against the local people, then you win. And you don't need that many people. You don't need that many soldiers. You don't need that much weapons or technology. You can just use the ultimate taboo against them. Okay? Because again, the thing that you learn in this class, which is very important, is the worldview, which is basically religion. It's the basis of who we are. It is our operating system. Okay? That your computer cannot run without an operating system. We cannot run without a worldview and a religion. Okay? If you destroy the worldview, it's like cutting off someone's brain.
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051
+
+## seg-0052 / 00:56:36-00:57:14 / SPEAKER_00
+
+You turn this person into zombies. And slaves. Does that make sense? So what the implication of this is, whenever society has an extremely strict hierarchy, where the majority are forced to worship minority, it makes the society extremely vulnerable to invasion and conquest. Does that make sense? All right?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0052
+
+## seg-0053 / 00:57:14-00:57:15 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0053
+
+## seg-0054 / 00:57:21-00:58:23 / SPEAKER_00
+
+It doesn't matter how many people, it doesn't matter how many people you have, it doesn't matter how much weapons you have, as long as you have a strict hierarchy, it becomes the ultimate weakness of a society. Okay? You become vulnerable to an outside invasion. All right? Okay. Any questions? Is this clear to you guys? The logic of this? Okay. Any questions? Okay. So next class, we do the gunpowder revolution. Okay? Gunpowder revolution. And this will mark a revolution in radical change in how society is structured. Okay?
+
+Ref: video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054

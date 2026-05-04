@@ -1,0 +1,1429 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-dnfgcvzrfa:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-dnfgcvzrfa",
+  "source_id": "video:predictive-history-dnfgcvzrfa",
+  "source_title": "Civilization #44:  The Spanish Conquest of the New World",
+  "source_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA",
+  "source_date": "2025-04-08",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-dnfgcvzrfa@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-dnfgcvzrfa/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-dnfgcvzrfa/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-dnfgcvzrfa/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 20,
+    "speaker_notes": 1,
+    "claims": 40,
+    "signature_moments": 23,
+    "predictions": 2,
+    "models": 15,
+    "glossary_terms": 21,
+    "chronology_notes": 5,
+    "uncertainty_notes": 7
+  },
+  "first_refs": [
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0002",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0003",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0004",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0005",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0006",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0007",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0008",
+    "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0010"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0001",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0002",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0003",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the New World conquest as a continuation of older globalization: Islamic trade, Pax Mongolica knowledge transfer, Ottoman control of routes, and European maritime exploration all set up the violent sixteenth-century collision.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0005",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0006",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0007",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He describes Spain and Portugal dividing the world, Spain gaining the richer New World, and the Columbian exchange as asymmetrical: Europe receives calorie-dense crops and population growth while native societies receive epidemic disease.",
+      "speaker_attribution": "Jiang classroom lecture; rhetorical questions are lecturer prompts, not captured audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0009",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0010",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the lecture's controversial thesis: the Spanish explanation that conquest worked through divinity and native recognition of godlike power is, despite its racist framing, closer to the causal structure than the standard secular account.",
+      "speaker_attribution": "Jiang classroom lecture; invitation to debate is addressed to the class but no audience response is captured.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0012",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0013",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He backs into the argument through Mayan civilizational achievement: geography, rivers, boundaries, astronomy, mathematics, calendars, pyramids, and sophisticated agriculture made Mayan civilization genuinely advanced.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0015",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He complicates ecological-collapse explanations for Mayan decline, arguing that overpopulation, elite overproduction, and financialization recur whenever a prosperous civilization becomes stable and peaceful.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0017",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the decline model and moves from Mayan collapse to diffusion of Mayan culture into later Central and South American powers.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0019",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0020",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0022",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "He presents the Aztecs as a Roman-like war society: displaced into overpopulated Central America, they innovate agriculturally, militarize, practice terroristic sacrifice, and still build a vibrant legal, educational, and urban civilization.",
+      "speaker_attribution": "Jiang classroom lecture; classroom prompts about Mexico City receive no captured student answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Cortes as an unauthorized soldier of fortune whom Montezuma initially treats as a potential ally or tool against internal enemies.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0025"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang stresses uncertainty in the Aztec account because Spanish conquest and Christian missionaries destroyed written records; he then gives the likely sequence of Montezuma's capture, killing, expulsion, smallpox, return, and conquest.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0026",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0027",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0028",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to the Incas, explaining mummified divine emperors, conquest pressure, pantheon incorporation, quipu-like knowledge systems, and Pizarro's capture and execution of the divine emperor for gold.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0030",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0031",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang introduces the Popol Vuh and reads the heroic twins myth as a source for understanding Mayan religion and later ritual sacrifice.",
+      "speaker_attribution": "Jiang reading and interpreting quoted Mayan material.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0033",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0034"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang interprets the heroic twins myth and creation attempts as grounding ritual sacrifice and the corn-based creation of humanity.",
+      "speaker_attribution": "Jiang reading and interpreting quoted Mayan material.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0035",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0036",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0037"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads creation passages in which gods create humans to serve them, then compares this slave-to-god structure to Babylonian and Catholic myths of divine service.",
+      "speaker_attribution": "Jiang reading and interpreting quoted myth.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0038",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0039",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0040"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads the Tohil rebellion story as a myth of failed human revolt: humans challenge a god, are crushed, then accept obedience mediated by priest-kings who see and speak for the gods.",
+      "speaker_attribution": "Jiang reading and interpreting quoted myth.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang draws the mythic logic into the conquest thesis: a society organized around worship of a priest-king creates the exact role the Spanish can seize by killing that priest-king.",
+      "speaker_attribution": "Jiang classroom lecture; 'any questions' prompts receive no captured substantive student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces game theory through ancient city warfare: cities as manifestations of gods generate a taboo against sacking temples, until a king breaks the taboo, proves the gods do not punish him, and hacks the game.",
+      "speaker_attribution": "Jiang classroom lecture with some ASR corruption in the setup.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines the conquest toolkit as escalation dominance, terror, and aura of inevitability or invincibility, then applies it from Mongols and Akkadians to Aztecs, Incas, and finally the Spanish who kill the local gods.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0049",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses nuclear weapons as the modern ultimate taboo: ordinary powers can fight economically or militarily, but nuclear use is forbidden because it means ending the world; an outsider not inhibited by that taboo would dominate instantly.",
+      "speaker_attribution": "Jiang classroom lecture; repeated checks for understanding receive no captured answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0052",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "He closes the model: worldview is the operating system of human beings, and destroying it by killing the god-king turns people helpless, like zombies or slaves.",
+      "speaker_attribution": "Jiang classroom lecture; seg-0053 is likely a non-substantive audience acknowledgment or stray diarization artifact.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "The conclusion generalizes the lesson: strict hierarchy itself becomes a civilization's ultimate weakness, then Jiang previews the next class on the gunpowder revolution.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0053"
+      ],
+      "note": "Single-word 'Okay?' is diarized as UNKNOWN and may be a student acknowledgment or a stray lecturer fragment; it does not constitute a substantive public question.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The conquest of the New World did not begin from a closed world suddenly discovering connection; Jiang says the world had always been interconnected in limited forms, but the sixteenth century made the collision violent and sustained.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0002",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical model presented in the 2025-04-08 lecture.",
+      "topic_tags": [
+        "globalization",
+        "new-world",
+        "maritime-exploration",
+        "sixteenth-century"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spain's search for maritime routes is framed as a response to Christian reconquest, loss of Islamic trade integration, and Ottoman control of the old routes through Constantinople.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0003",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical explanation in this lecture.",
+      "topic_tags": [
+        "spain",
+        "ottoman-empire",
+        "trade-routes",
+        "constantinople"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Spanish and Portuguese division of the world gave Spain the wealthier end of the bargain: Mexico, Central America, and much of South America, with gold and silver that rapidly enriched Spain.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0005",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical claim in this lecture.",
+      "topic_tags": [
+        "spain",
+        "portugal",
+        "colonial-division",
+        "silver",
+        "gold"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The old-world/new-world collision revolutionized European agriculture because corn, potatoes, peanuts, squash, and tomatoes created a more nutritious food base and helped produce a European population explosion.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0006",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation of the Columbian exchange.",
+      "topic_tags": [
+        "columbian-exchange",
+        "agriculture",
+        "population-growth",
+        "corn",
+        "potato"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "The standard scholarly explanation for Spanish conquest is a three-factor model: epidemic disease, divide-and-conquer exploitation of internal conflicts, and European superiority in weapons and technology.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang's summary of standard explanation in this lecture.",
+      "topic_tags": [
+        "conquest",
+        "disease",
+        "divide-and-conquer",
+        "technology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's core thesis is that the religious beliefs and practices of the Aztecs, Incas, and Mayans made them vulnerable to Spanish conquest.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0010",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Main interpretive thesis of the 2025-04-08 lecture.",
+      "topic_tags": [
+        "conquest",
+        "religion",
+        "aztecs",
+        "incas",
+        "mayans"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Spanish period explanation is rejected because of its racist self-understanding, but that its religious logic still contains more evidence than current scholarly interpretation allows.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historiographic provocation in this lecture.",
+      "topic_tags": [
+        "historiography",
+        "spanish-conquest",
+        "racism",
+        "religious-logic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Mayans are presented as one of the five earliest civilizations, with science, astronomy, mathematics, writing, pyramids, and a sophisticated independent calendar.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0012",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Historical characterization in this lecture.",
+      "topic_tags": [
+        "mayans",
+        "civilization",
+        "astronomy",
+        "calendar",
+        "science"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The three sisters planting system is used as evidence that Mayan agriculture was not primitive but symbiotic, scientific, and able to sustain large populations under constrained conditions.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0013",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Historical evidence in this lecture.",
+      "topic_tags": [
+        "three-sisters",
+        "agriculture",
+        "mayans",
+        "symbiosis"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's recurring decline model says prosperous, peaceful, stable civilizations tend toward overpopulation, elite overproduction, and financialization or debt slavery; these factors work together to end civilizations.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0015",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "General civilizational model restated on 2025-04-08.",
+      "topic_tags": [
+        "civilizational-decline",
+        "overpopulation",
+        "elite-overproduction",
+        "financialization",
+        "debt-slavery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mayan collapse diffused Mayan cultural patterns across Central and South America, the way Jiang compares dominant cultures radiating into surrounding regions.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "mayans",
+        "cultural-diffusion",
+        "central-america"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Aztecs are compared to Romans because both are war-centered societies that build civilization around conquest, discipline, sacrifice, and expansion.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0019",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Comparative model in this lecture.",
+      "topic_tags": [
+        "aztecs",
+        "rome",
+        "war-society",
+        "human-sacrifice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Aztec agriculture transformed swamp land into productive farm land, allowing population growth and prosperity despite difficult terrain.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical evidence in this lecture.",
+      "topic_tags": [
+        "aztecs",
+        "agriculture",
+        "tenochtitlan",
+        "swamp-land"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, Aztec human sacrifice functions as political terror: it terrorizes enemies, unites the people, and maintains a war society's religious order.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0020",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "human-sacrifice",
+        "terror",
+        "aztecs",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Roman triumphal strangulation was also human sacrifice, even if Romans denied it in order to claim greater civilization.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Comparative historical claim in this lecture.",
+      "topic_tags": [
+        "rome",
+        "human-sacrifice",
+        "triumph",
+        "civilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Aztecs are not treated as simple or backward; Jiang emphasizes courts, judges, schooling, legal code, hierarchy, economy, and one of the largest cities in the world.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical characterization in this lecture.",
+      "topic_tags": [
+        "aztecs",
+        "civilization",
+        "law",
+        "schooling",
+        "tenochtitlan"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because Christian missionaries destroyed Aztec written records, Jiang treats the conquest narrative as uncertain and likely distorted by surviving Spanish stories.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Source-critical note in this lecture.",
+      "topic_tags": [
+        "aztecs",
+        "source-destruction",
+        "missionaries",
+        "historical-uncertainty"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inca ancestral worship made dead emperors legally and ritually still alive, keeping their lands and wealth and forcing new emperors to conquer fresh territory.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "incas",
+        "ancestral-worship",
+        "divine-emperor",
+        "conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inca religious tolerance is described as imperial incorporation: conquered peoples can worship their gods as long as they acknowledge the supremacy of the Inca god.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Comparative model in this lecture.",
+      "topic_tags": [
+        "incas",
+        "pantheon",
+        "imperial-tolerance",
+        "rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pizarro's capture of Atahualpa worked psychologically because the Inca emperor was divine and untouchable, making his seizure almost unimaginable within the local worldview.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0028",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretation of Inca conquest in this lecture.",
+      "topic_tags": [
+        "pizarro",
+        "atahualpa",
+        "incas",
+        "divine-emperor",
+        "worldview"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses the Popol Vuh as evidence for a belief system in which mythic sacrifice, divine creation, and obedience to gods shaped Mayan society and later influenced Aztec and Inca vulnerability.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0030",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0031",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretive use of quoted myth in this lecture.",
+      "topic_tags": [
+        "popol-vuh",
+        "mayans",
+        "myth",
+        "sacrifice",
+        "religion"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The heroic twins myth is used to explain why heart extraction and human sacrifice are not incidental cruelty but ritual enactments of sacred mythology.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interpretation of Mayan myth in this lecture.",
+      "topic_tags": [
+        "heroic-twins",
+        "human-sacrifice",
+        "heart-extraction",
+        "ritual"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads the Mayan creation story as a claim that humans are made from corn and exist to serve the gods who created them.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0034",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0035",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Interpretation of quoted creation myth in this lecture.",
+      "topic_tags": [
+        "creation-myth",
+        "corn",
+        "mayans",
+        "service-to-gods"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares Mayan divine-service mythology to the Enuma Elish and Catholic Church, arguing that multiple religions imagine humans as servants or slaves of God.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Comparative religious model in this lecture.",
+      "topic_tags": [
+        "comparative-religion",
+        "enuma-elish",
+        "catholicism",
+        "slavery-to-god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Tohil rebellion story teaches that humans who rebel against the gods are destroyed, spared only as obedient servants, and therefore must submit to divine order.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0037",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0038",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Interpretation of quoted Mayan myth in this lecture.",
+      "topic_tags": [
+        "tohil",
+        "obedience",
+        "rebellion",
+        "divine-order"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priest-kings become politically supreme because they are believed to see the future, speak with the gods, and transmit sacred words from divine authority.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Political-theological claim in this lecture.",
+      "topic_tags": [
+        "priest-king",
+        "prophecy",
+        "sacred-text",
+        "hierarchy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A truly religious and hierarchical civilization makes itself vulnerable when everyone must worship the priest-king as God's representative, because an outsider can kill that figure and occupy the sacred role.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Core model in the 2025-04-08 lecture.",
+      "topic_tags": [
+        "hierarchy",
+        "priest-king",
+        "conquest",
+        "religion",
+        "sacred-role"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Spanish cruelty to native peoples was not unique compared with previous native overlords, because those prior religious hierarchies had already enslaved and dominated surrounding people.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Comparative claim in this lecture.",
+      "topic_tags": [
+        "spanish-conquest",
+        "native-overlords",
+        "hierarchy",
+        "cruelty"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Game theory is defined as the idea that human action operates within games whose rules must be understood before behavior makes sense.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": [
+        "game-theory",
+        "rules",
+        "human-action"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ancient city warfare reached equilibrium because the city was treated as the physical manifestation of God on Earth, producing a taboo against attacking cities and temples.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Game-theory analogy in this lecture.",
+      "topic_tags": [
+        "city",
+        "god",
+        "taboo",
+        "equilibrium",
+        "warfare"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Breaking the ultimate taboo is a game hack: once a ruler sacks the temple and survives, he shows that humans can violate what only gods were allowed to violate and can become godlike himself.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Game-theory model in this lecture.",
+      "topic_tags": [
+        "ultimate-taboo",
+        "game-hack",
+        "temple",
+        "god",
+        "conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The conquest toolkit for poorer or fewer outsiders is escalation dominance, terror, and an aura of inevitability or invincibility, which lets them win psychologically before they win materially.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Reusable conquest model in this lecture.",
+      "topic_tags": [
+        "escalation-dominance",
+        "terror",
+        "aura-of-inevitability",
+        "psychological-warfare"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Spanish defeat of Aztecs and Incas is explained as outsiders who do not know or respect the local sacred game and therefore can kill the god-king, break the ultimate taboo, and leave people helpless.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Application of model to New World conquest in this lecture.",
+      "topic_tags": [
+        "spanish",
+        "aztecs",
+        "incas",
+        "ultimate-taboo",
+        "god-killing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nuclear weapons are Jiang's modern example of an ultimate taboo: states may fight economically or conventionally, but nuclear use is forbidden because it would end the world.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0049",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Analogy stated in the 2025-04-08 lecture.",
+      "topic_tags": [
+        "nuclear-weapons",
+        "ultimate-taboo",
+        "modern-analogy",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Russia or the United States will not use nuclear weapons because nuclear use is the ultimate taboo and would be like killing God.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Time-sensitive statement dated 2025-04-08.",
+      "topic_tags": [
+        "nuclear-weapons",
+        "russia",
+        "united-states",
+        "prediction",
+        "ultimate-taboo"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "An actor not inhibited by a society's ultimate taboo can dominate that society with a small force, because violating the taboo collapses the target's assumptions before material strength matters.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "General model in this lecture.",
+      "topic_tags": [
+        "ultimate-taboo",
+        "outsider",
+        "conquest",
+        "psychological-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Worldview is defined as religion and as the operating system of human beings; without it, people cannot function.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": [
+        "worldview",
+        "religion",
+        "operating-system",
+        "human-nature"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Destroying a worldview is like cutting off someone's brain: it turns people into zombies and slaves because their basis for action has been removed.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Metaphoric diagnosis in this lecture.",
+      "topic_tags": [
+        "worldview",
+        "psychological-collapse",
+        "slavery",
+        "zombies"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Whenever a society has a strict hierarchy where the majority worships a minority, hierarchy itself becomes the ultimate weakness that makes the society vulnerable to conquest.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0052",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Final generalized thesis of the 2025-04-08 lecture.",
+      "topic_tags": [
+        "hierarchy",
+        "conquest",
+        "majority-minority",
+        "civilizational-weakness"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The next class will cover the gunpowder revolution, which Jiang says will mark a radical change in how society is structured.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Forward-looking course note dated 2025-04-08.",
+      "topic_tags": [
+        "gunpowder-revolution",
+        "course-sequence",
+        "social-structure"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0003"
+      ],
+      "moment": "The New World is not a sealed continent discovered by Europe; it is part of a world Jiang insists has always been globalized in some capacity.",
+      "source_phrase": "the world has always been interconnected in some capacity",
+      "why_it_matters": "It reframes conquest as an intensification of connection rather than the first appearance of contact.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0007",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0008"
+      ],
+      "moment": "Europe gets potatoes and population; native America gets smallpox and demographic catastrophe.",
+      "source_phrase": "what did the natives get? Well, they got a lot of diseases",
+      "why_it_matters": "It makes the Columbian exchange morally and materially asymmetrical in one compact contrast.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0011"
+      ],
+      "moment": "The forbidden claim is the lecture's thesis: the ultimate weakness of these civilizations was religion.",
+      "source_phrase": "the ultimate weakness of these people was their religion",
+      "why_it_matters": "It names the central provocation that the rest of the lecture tries to make logically coherent.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0014"
+      ],
+      "moment": "Three crops become one living machine: corn gives structure, beans fertilize, squash protects.",
+      "source_phrase": "a perfect symbiotic relationship",
+      "why_it_matters": "It prevents the argument from flattening native societies into weakness by first showing real civilizational intelligence.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016"
+      ],
+      "moment": "Quiet quitting and lying flat are folded into the same civilizational decline mechanism as the Mayans and Rome.",
+      "source_phrase": "same thing that's happening in the world today",
+      "why_it_matters": "The ancient case becomes part of Jiang's live model of prosperity turning into social malfunction.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021"
+      ],
+      "moment": "Human sacrifice is presented not as exotic cruelty alone, but as a technology of terror and unity.",
+      "source_phrase": "the entire point was terror",
+      "why_it_matters": "It turns ritual violence into a political mechanism inside Jiang's conquest model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0022"
+      ],
+      "moment": "Rome's civilized self-image is punctured by calling its triumphal strangulations human sacrifice.",
+      "source_phrase": "That's human sacrifice, okay?",
+      "why_it_matters": "It aligns Rome and the Aztecs as war societies rather than letting Europe monopolize civilization.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0023"
+      ],
+      "moment": "The Aztec city becomes the counterweight to the sacrifice imagery: a vibrant civilization with law, schooling, courts, and scale.",
+      "source_phrase": "this was a very vibrant civilization",
+      "why_it_matters": "It keeps the lecture's thesis from becoming a crude dismissal of indigenous sophistication.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0025"
+      ],
+      "moment": "The archive itself becomes part of the conquest: the victors destroy the records, so even the story arrives broken.",
+      "source_phrase": "all written records of the Aztecs",
+      "why_it_matters": "It makes source uncertainty part of the episode rather than a footnote.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0026"
+      ],
+      "moment": "An emperor who dies but keeps his land creates an empire that must keep conquering for each new ruler.",
+      "source_phrase": "If he's still alive, that means he keeps all his lands and wealth",
+      "why_it_matters": "It turns ancestor worship into a mechanism of imperial expansion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0029"
+      ],
+      "moment": "Once the room fills with gold, ransom teaches the Spanish that the whole empire can be taken.",
+      "source_phrase": "if I can just ask for gold and they'll give it to me",
+      "why_it_matters": "It captures the conversion of divine hierarchy into exploitable imperial weakness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0033"
+      ],
+      "moment": "The mythic heart pulled from the chest becomes the ritual heart pulled from the captive.",
+      "source_phrase": "their hearts were now taken from the chest",
+      "why_it_matters": "It connects story, ritual, and political terror in one image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0035",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0037"
+      ],
+      "moment": "Humanity is not created for freedom but for service: the gods make people so the gods can be served.",
+      "source_phrase": "the gods created humanity to be their slaves",
+      "why_it_matters": "It supplies the anthropology behind Jiang's later claim that hierarchy becomes conquest vulnerability.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0039"
+      ],
+      "moment": "The failed rebellion against Tohil ends in a social contract of humiliation: pity us, do not kill us; you shall be servants.",
+      "source_phrase": "certainly you shall become obedient",
+      "why_it_matters": "It shows obedience as a mythic survival bargain rather than merely social convention.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0040"
+      ],
+      "moment": "The book is sacred because it is treated as the direct word of those who speak with gods.",
+      "source_phrase": "all these words are the direct words from the gods themselves",
+      "why_it_matters": "It explains how written or priestly mediation stabilizes divine hierarchy.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041"
+      ],
+      "moment": "A religion built to make people worship the priest-king creates the role the conqueror will steal.",
+      "source_phrase": "come kill that priest -king and become the new priest -king",
+      "why_it_matters": "It condenses the whole lecture into a reversal: hierarchy designed for control becomes a conquest interface.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "moment": "The taboo breaker is described as hacking the game: not stronger in normal terms, but willing to violate the rule that made normal play stable.",
+      "source_phrase": "He hacked the game",
+      "why_it_matters": "It gives Jiang's game-theory model its sharpest metaphor.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "moment": "If only gods may break the taboo, then the human who breaks it and survives becomes godlike.",
+      "source_phrase": "If you break it, you become god yourself",
+      "why_it_matters": "It explains why sacred violation translates into political authority.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "moment": "The Spanish do not just defeat kings; in Jiang's model, they kill God.",
+      "source_phrase": "They killed God",
+      "why_it_matters": "It preserves the explosive religious interpretation behind the conquest thesis.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0049",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050"
+      ],
+      "moment": "Nuclear weapons become the modern version of killing God: everyone can imagine war, but not the act that ends the world.",
+      "source_phrase": "It's like killing God",
+      "why_it_matters": "The analogy makes an ancient religious taboo legible through a modern strategic taboo.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0050"
+      ],
+      "moment": "Ten aliens with one nuclear weapon explain how a tiny outside force can defeat eight billion people by ignoring the sacred rule.",
+      "source_phrase": "They are not inhibited by this taboo",
+      "why_it_matters": "It turns the Spanish conquest into a theory of outsider psychology rather than a numbers game.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051"
+      ],
+      "moment": "Worldview is the operating system; conquest works by crashing the system, not just killing bodies.",
+      "source_phrase": "It is our operating system",
+      "why_it_matters": "This is the lecture's most reusable definition for the Jiang Lens.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0052",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "moment": "Strict hierarchy becomes a civilization's ultimate weakness, no matter its numbers or weapons.",
+      "source_phrase": "as long as you have a strict hierarchy, it becomes the ultimate weakness",
+      "why_it_matters": "It is the final compressed model of why religious-political order can invite conquest.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "conquistadors",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Spanish for conquerors; Jiang describes them as mercenaries, bandits, and lower-class opportunity seekers leaving Spain and Portugal for South and Central America.",
+      "confidence": "high"
+    },
+    {
+      "term": "Columbian exchange",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0006",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0007",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Not named directly here, but used as the exchange model: New World crops transform European population while Old World diseases devastate native populations.",
+      "confidence": "high"
+    },
+    {
+      "term": "three sisters planting",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0013",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "A Mayan agricultural method of growing corn, beans, and squash together so each crop supports the others in a symbiotic system.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A decline mechanism in which older elites hold status too long, younger people cannot inherit opportunity, and society begins to malfunction.",
+      "confidence": "high"
+    },
+    {
+      "term": "financialization",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Linked here to debt slavery as a late-civilizational strategy for forcing work out of populations that no longer strongly desire material goods.",
+      "confidence": "high"
+    },
+    {
+      "term": "war society",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0019",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A society organized around warfare, expansion, sacrifice, and the social love of fighting; used here for both Aztecs and Romans.",
+      "confidence": "high"
+    },
+    {
+      "term": "triumph",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0021",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "A Roman victory parade that Jiang interprets as ending in ritual killing before Jupiter, functionally a form of human sacrifice.",
+      "confidence": "high"
+    },
+    {
+      "term": "Tenochtitlan",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0019",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0020",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Aztec city on the site of modern Mexico City; Jiang uses it as evidence of Aztec agricultural adaptation, scale, and urban sophistication.",
+      "confidence": "high"
+    },
+    {
+      "term": "ancestral worship",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Inca practice where a dead emperor remains ritually alive through mummification, keeping wealth and land and forcing new conquest.",
+      "confidence": "high"
+    },
+    {
+      "term": "pantheon of gods",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Inca imperial religious order in which conquered gods are incorporated under the supremacy of the Inca god.",
+      "confidence": "high"
+    },
+    {
+      "term": "Popol Vuh",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0030",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0031",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Mayan mythic text Jiang uses to reconstruct the religious worldview behind creation, sacrifice, obedience, and divine hierarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "heroic twins",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0031",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Mayan savior figures whose mythic sacrifice and revival are used by Jiang to explain later ritual sacrifice.",
+      "confidence": "high"
+    },
+    {
+      "term": "Tohil",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0037",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0038",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Mayan fire god in Jiang's account; the myth of failed rebellion against Tohil teaches humans to obey the gods.",
+      "confidence": "high"
+    },
+    {
+      "term": "priest-king",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Sacral ruler who is obeyed because he is believed to speak with the gods, see future events, and transmit sacred authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "ultimate taboo",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The sacred rule humans must not violate; breaking it opens the game and can transfer godlike authority to the violator.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation dominance",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Jiang defines it as willingness to do more than anyone else in order to win the war.",
+      "confidence": "high"
+    },
+    {
+      "term": "aura of inevitability",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Psychological condition in which people believe the conqueror is invincible, demonic, or divine and therefore obey.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's frame that human action occurs inside games with rules, taboos, equilibria, and hacks.",
+      "confidence": "high"
+    },
+    {
+      "term": "worldview as operating system",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's metaphor for religion/worldview as the basic software that lets humans function and interpret action.",
+      "confidence": "high"
+    },
+    {
+      "term": "strict hierarchy",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0052",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "A social order where the majority is forced to worship or submit to a minority; Jiang treats it as conquest vulnerability.",
+      "confidence": "high"
+    },
+    {
+      "term": "gunpowder revolution",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Next lecture topic previewed as a radical change in how society is structured.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0002",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0004"
+      ],
+      "note": "The 2025-04-08 lecture explicitly links prior classes on the Islamic Golden Age, Mongols, Vikings, and next class on the gunpowder revolution into the conquest sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0016"
+      ],
+      "note": "The 2025-04-08 lecture restates the cross-civilizational decline triad previously used for Rome, China, and other civilizations.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang dates the written preservation of the Popol Vuh material to around 1700 and uses it as a retrospective source for older Mayan belief.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046"
+      ],
+      "note": "The 2025-04-08 lecture explicitly reuses prior class material on Mongols as a model for escalation dominance, terror, and aura of invincibility.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0054"
+      ],
+      "note": "This 2025-04-08 episode explicitly hands off to the next class on the gunpowder revolution.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript phrase 'a call I calliminate' is ASR noise, likely referring to the Viking site at L'Anse aux Meadows."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0012"
+      ],
+      "note": "The transcript says 'written in language' where context likely means written language or writing; the semantic claim keeps the broader point without relying on the exact phrase."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0019",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0020"
+      ],
+      "note": "The transcript renders Tenochtitlan inconsistently as 'Teno -Teclen'; semantic output uses the likely intended name while preserving exact refs."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0028",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0029"
+      ],
+      "note": "The transcript renders Atahualpa as 'Ata Huapá'; semantic output uses the likely intended Inca emperor name."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0032",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0033"
+      ],
+      "note": "Quoted names in the Popol Vuh reading are heavily distorted by ASR; semantic extraction focuses on Jiang's interpretation rather than spelling."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043"
+      ],
+      "note": "The opening of the game-theory example has heavy ASR corruption, but the later city-war/taboo argument is clear enough for extraction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0053"
+      ],
+      "note": "The single UNKNOWN-speaker segment is too thin to classify as a substantive student question."
+    }
+  ]
+}
