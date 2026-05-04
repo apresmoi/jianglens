@@ -1,0 +1,136 @@
+{
+  "packet_id": "predictive-history-tedvhye8po0-semantics-pkt-0013",
+  "source_id": "video:predictive-history-tedvhye8po0",
+  "source_date": "2025-12-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the miracle answer by arguing that cancer can be interpreted as loss of faith and bodily fragmentation, and that recovery depends on wanting to reestablish belief, relevance, and mental orientation; meditation becomes another example of thought controlling bodily healing.",
+      "speaker_attribution": "Jiang lecture, with diarization treated as a hint",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097"
+      ],
+      "note": "The focus refs read primarily as Jiang lecturing; short classroom prompts are not treated as public questions unless a student asks a substantive question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues cancer can be interpreted as loss of faith: the body falls apart when someone stops believing in themselves, life purpose, and relevance in the world.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Classroom answer on 2025-12-04; interpretive and not medical advice.",
+      "topic_tags": [
+        "cancer",
+        "faith",
+        "body",
+        "purpose"
+      ],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "The desire to cure cancer is, for Jiang, really a desire to find new faith and reestablish relevance, which makes healing psychologically and bodily possible.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Classroom answer on 2025-12-04; interpretive and not medical advice.",
+      "topic_tags": [
+        "faith",
+        "healing",
+        "relevance",
+        "mind-matter"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang extends the model to psychiatry and meditation: chosen belief or mental orientation can heal, while externally imposed treatment often does not.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Classroom answer on 2025-12-04.",
+      "topic_tags": [
+        "psychiatry",
+        "meditation",
+        "belief",
+        "healing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097"
+      ],
+      "moment": "Cancer is translated into a spiritual image of the body falling apart because the self no longer believes in its relevance.",
+      "source_phrase": "your body literally falling apart",
+      "why_it_matters": "It is a risky but central Jiang move: disease becomes loss of faith and world-relation.",
+      "tone": "provocative-definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "moment": "The miracle is not institutional proof; it is what happens when the mind is oriented strongly enough to let the body heal.",
+      "source_phrase": "orientate your mind in a certain way",
+      "why_it_matters": "It closes the lecture by returning divine power to perception and faith rather than the Church.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "mind leads to matter",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "definition_or_usage": "Jiang’s model that perception, belief, faith, and mental orientation can shape bodily reality.",
+      "confidence": "high"
+    },
+    {
+      "term": "faith as relevance",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097"
+      ],
+      "definition_or_usage": "The idea that healing requires recovering belief in oneself, life purpose, and relevance in the world.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "note": "Dated 2025-12-04, the lecture closes by previewing capitalism for the next class after finishing the Church and miracle discussion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0097",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0098"
+      ],
+      "note": "This is Jiang’s interpretive/metaphysical answer to a classroom question, not a medical recommendation or verified cancer account."
+    }
+  ]
+}

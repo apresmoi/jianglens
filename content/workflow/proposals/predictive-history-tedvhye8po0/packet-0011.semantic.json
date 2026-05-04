@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-tedvhye8po0-semantics-pkt-0011",
+  "source_id": "video:predictive-history-tedvhye8po0",
+  "source_date": "2025-12-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0081",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0082",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0083",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0084",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0085",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0086",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0087",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0088"
+      ],
+      "kind": "monologue",
+      "summary": "A student reads Urban II’s crusade appeal; Jiang interprets it as demonizing Muslims and converting criminals into heaven-seeking fighters, then links crusade energy to massacre, the Knights Templar as the first multinational bank, Freemasonry, and Cathar persecution.",
+      "speaker_attribution": "Jiang lecture, with diarization treated as a hint",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0081"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Urban II’s crusade appeal promising remission of sins and redirecting private warriors against infidels.",
+      "speaker_attribution": "Student reading prompted by Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0085",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0086",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0087",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0088"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang prompts Alan to read about Cathars, recantation, and burning at the stake; Jiang interleaves interpretation.",
+      "speaker_attribution": "Student reading plus Jiang commentary",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0081"
+      ],
+      "note": "The focus refs read primarily as Jiang lecturing; short classroom prompts are not treated as public questions unless a student asks a substantive question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets Urban II’s crusade appeal as promising heaven to anyone who fights demons, including poor people, nobodies, criminals, and mercenaries.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0081",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "First Crusade appeal in Jiang’s account.",
+      "topic_tags": [
+        "urban-ii",
+        "crusades",
+        "salvation"
+      ],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "Crusaders are effective and abusive because religious devotion energizes them and teaches them to see Muslims and Jews literally as demons.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0082",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Crusader movement in Jiang’s account.",
+      "topic_tags": [
+        "crusaders",
+        "demonization",
+        "massacre"
+      ],
+      "claim_type": "causal-model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Knights Templar become a multinational bank by solving pilgrim money-transfer problems, then grow wealthy and heterodox enough that the Church bans them in 1307.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0083",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Crusader-era Templars through 1307.",
+      "topic_tags": [
+        "knights-templar",
+        "banking",
+        "freemasons"
+      ],
+      "claim_type": "historical-model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cathars threaten the Church because they insist the divine spark is within them and cannot be educated out of that knowledge.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0084",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0085",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0086",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0087",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Cathar persecution and crusade.",
+      "topic_tags": [
+        "cathars",
+        "divine-spark",
+        "heresy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0082"
+      ],
+      "moment": "The Crusade turns violence into a salvation shortcut: go fight demons and heaven opens, whatever your past.",
+      "source_phrase": "you will all be guaranteed access to heaven",
+      "why_it_matters": "It explains why criminal and religious energy can fuse.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0083"
+      ],
+      "moment": "The Templars begin as logistics for pilgrimage and become the first multinational bank.",
+      "source_phrase": "the first multinational bank",
+      "why_it_matters": "It gives the crusade a financial afterlife that matters for later secret-society material.",
+      "tone": "institutional-reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0087",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0088"
+      ],
+      "moment": "The Cathar who knows the divine spark can walk into fire because death no longer proves the Church right.",
+      "source_phrase": "Some entered the flames voluntarily",
+      "why_it_matters": "It sharpens the conflict between inner truth and institutional terror.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Knights Templar",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0083",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Crusader organization Jiang presents as the first multinational bank and a precursor to Freemasonry after suppression.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cathars",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0084",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0085",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0087"
+      ],
+      "definition_or_usage": "Divine-spark believers targeted by the Church because they could not be brought back into orthodoxy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Freemasons",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Secret society Jiang says partly descends from Templar survivors after the 1307 suppression.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0081"
+      ],
+      "note": "Dated 2025-12-04, this packet continues Secret History #24's account of how the Catholic Church becomes an empire-like power in Western Europe.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
