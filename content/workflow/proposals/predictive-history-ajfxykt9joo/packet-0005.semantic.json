@@ -1,0 +1,163 @@
+{
+  "packet_id": "predictive-history-ajfxykt9joo-semantics-pkt-0005",
+  "source_id": "video:predictive-history-ajfxykt9joo",
+  "source_date": "2025-08-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0033",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0035"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the resource-scarcity objection by distinguishing finite resources from abundance, using food waste to argue hunger is artificial rather than necessary.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0034"
+      ],
+      "kind": "question",
+      "summary": "A student presses the scarcity objection with oil resources.",
+      "speaker_attribution": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0035",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0036",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0037",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0038",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0039",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pivots from money to happiness, elicits modern answers such as money, power, freedom, relationships, love, games, and vacations, then contrasts individual happiness with older communal happiness shown by the feast after sudden wealth.",
+      "speaker_attribution": "Jiang with student responses",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0034",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0037"
+      ],
+      "note": "SPEAKER_03 and SPEAKER_04 are student voices; some answers are short or partly repeated by Jiang.",
+      "suggested_speaker": "students",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Food is finite but abundant enough to feed people; hunger and starvation are artificial crises, not simple consequences of natural scarcity.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "general diagnosis in lecture",
+      "topic_tags": [
+        "food",
+        "abundance",
+        "scarcity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students remain trapped in scarcity thinking because the old model is convincing and cannot be overturned in one class.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "classroom diagnosis on 2025-08-21",
+      "topic_tags": [
+        "scarcity-mindset",
+        "pedagogy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern students answer the happiness question with individual goods, which Jiang treats as historically unusual.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0035",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0036",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "modern mindset as described in lecture",
+      "topic_tags": [
+        "happiness",
+        "individualism",
+        "modernity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "For most of human history, happiness was collective: wealth was supposed to raise the family's and community's happiness, often through generosity and feasting.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0038",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0039",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "most of human history as framed by Jiang",
+      "topic_tags": [
+        "collective-happiness",
+        "feast",
+        "community"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0033"
+      ],
+      "moment": "The garbage dump becomes evidence against food scarcity.",
+      "source_phrase": "see the amount of food that is wasted every single day",
+      "why_it_matters": "It grounds the abundance argument in a concrete image instead of an abstract claim.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0039",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0040"
+      ],
+      "moment": "Ancient wealth is not hoarded but converted into a feast for everyone.",
+      "source_phrase": "they had a big feast for everyone",
+      "why_it_matters": "The feast carries Jiang's contrast between communal flourishing and modern individual accumulation.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective happiness",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Happiness understood as inseparable from the happiness of family and community.",
+      "confidence": "high"
+    },
+    {
+      "term": "big feast",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0039",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's recurring example of premodern wealth being spent into communal reputation and shared joy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0038"
+      ],
+      "note": "The transcript says 'five years ago' where context almost certainly means far back in time; avoid using that exact duration in public prose."
+    }
+  ]
+}
