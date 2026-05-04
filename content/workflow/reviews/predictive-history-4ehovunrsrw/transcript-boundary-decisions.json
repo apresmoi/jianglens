@@ -1,0 +1,85 @@
+{
+  "source_slug": "predictive-history-4ehovunrsrw",
+  "decisions": [
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:f58bd9c5c405",
+      "decision": "approve",
+      "reason": "Completes 'Agamemnon is the king of kings.'"
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:ac67a5d584d1",
+      "decision": "approve",
+      "reason": "Completes 'Achilles himself will ensure...' before the funeral explanation closes."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:b0bf3eb1936a",
+      "decision": "approve",
+      "reason": "Completes 'telling the secrets of the universe to the scientists.'"
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:1e6c576814eb",
+      "decision": "approve",
+      "reason": "Completes the question beginning 'Do you think sometimes...'"
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:aab3c6f3e2bc",
+      "decision": "approve",
+      "reason": "Completes the sentence about gods controlling humans and representing emotions and nature."
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:156c73448a70",
+      "decision": "reject",
+      "reason": "The phrase belongs inside a quoted line before Jiang's aside; appending it after 'Athena's here now, okay,' would not cleanly repair the boundary."
+    },
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:0456ec34895d",
+      "decision": "approve",
+      "reason": "Completes 'She cares for you both alike.'"
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-trailing-starter-to-next:64fa1175f044",
+      "decision": "approve",
+      "reason": "Moves the starter 'So, again, this is' before its completion 'not factual.'"
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:ea73d8773540",
+      "decision": "approve",
+      "reason": "Completes 'walked out of the room.'"
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-trailing-starter-to-next:914d98bddc1b",
+      "decision": "approve",
+      "reason": "Moves 'None that touch' before its completion 'me.'"
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:cb11f4254255",
+      "decision": "approve",
+      "reason": "Completes the quoted condition 'not till the cries and carnage reached my own ships.'"
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:7dfd3bac26df",
+      "decision": "approve",
+      "reason": "Completes the Diomedes line before the next quoted sentence begins."
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:32fc8b9f18dd",
+      "decision": "approve",
+      "reason": "Completes 'you must not burn for war against these Trojans.'"
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:39db2d7e0f7e",
+      "decision": "approve",
+      "reason": "Completes 'apologize to each other.'"
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-trailing-starter-to-next:ec508905e286",
+      "decision": "approve",
+      "reason": "Moves 'And so, what happens,' before its completion 'of course, is...'"
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-leading-completion-to-previous:7de34b8574a8",
+      "decision": "approve",
+      "reason": "Completes 'the gods are watching this and they're kind of disgusted.'"
+    }
+  ]
+}

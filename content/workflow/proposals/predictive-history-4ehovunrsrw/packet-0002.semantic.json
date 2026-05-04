@@ -1,0 +1,118 @@
+{
+  "packet_id": "predictive-history-4ehovunrsrw-semantics-pkt-0002",
+  "source_id": "video:predictive-history-4ehovunrsrw",
+  "source_date": "2025-11-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0009",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0010",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0011",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0012",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0013",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0014",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0015",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang narrates the mythic setup of the Trojan War, Paris's choice, the revenge of Hera and Athena, Agamemnon's Greek coalition, and the opening conflict of the Iliad in which Achilles withdraws from battle after Agamemnon dishonors him.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Trojan War legend begins as a mythic escalation of status, sex, divine rivalry, and trade conflict around Troy.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0009", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0010", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0011"],
+      "temporal_scope": "Jiang's reconstruction of the legendary Trojan War background.",
+      "topic_tags": ["trojan-war", "myth", "status", "troy"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Homer turns a vast epic cycle into a concentrated story about the conflict between Achilles and Agamemnon rather than retelling the entire Trojan War.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0012", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0013"],
+      "temporal_scope": "Jiang's explanation of the Iliad's narrative scope.",
+      "topic_tags": ["homer", "iliad", "story-compression"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iliad's initiating crisis is not merely military but honor-based: Agamemnon takes Achilles' prize, Achilles refuses to fight, and the Greek army becomes vulnerable.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0014", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0015", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0016"],
+      "temporal_scope": "Narrative model of the Iliad's first major conflict.",
+      "topic_tags": ["achilles", "agamemnon", "honor", "rage"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Achilles wants the Greeks to lose badly enough that they beg him to return, so his pursuit of heroic glory is already morally contaminated by resentment.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0015", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0016"],
+      "temporal_scope": "Jiang's reading of Achilles' motivation inside the Iliad plot.",
+      "topic_tags": ["achilles", "glory", "resentment", "selfhood"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0010"],
+      "moment": "Paris chooses Helen because public sexual status beats power or wisdom in face terms.",
+      "source_phrase": "what matters to guys is status face",
+      "why_it_matters": "Jiang converts a mythic beauty contest into a social-psychological model of status display.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0013"],
+      "moment": "Homer's genius is narrative selection: he tells one charged human conflict rather than the whole war.",
+      "source_phrase": "he does not tell the whole story he only tells a part of the story",
+      "why_it_matters": "It supports the episode's claim that Homer makes civilization by distilling war into psychology.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0015"],
+      "moment": "Achilles wants catastrophe as a stage on which he can become the savior.",
+      "source_phrase": "let the trojans win and then i'll come and save the greeks",
+      "why_it_matters": "This is the first clear sign that heroic glory can be parasitic on collective danger.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Trojan War",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0008", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0012"],
+      "definition_or_usage": "The legendary war over Troy that Jiang links to trade, piracy, mythic exaggeration, and Homer's narrative material.",
+      "confidence": "high"
+    },
+    {
+      "term": "Achilles",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0012", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0015"],
+      "definition_or_usage": "The bravest Greek warrior, read by Jiang as a glory-seeking figure whose wounded honor endangers everyone.",
+      "confidence": "high"
+    },
+    {
+      "term": "Agamemnon",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0011", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0014"],
+      "definition_or_usage": "The Mycenaean 'king of kings' whose assertion of rank starts the Iliad's central conflict.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0012"],
+      "note": "The lecture places Homer after the fall of the Mycenaean empire and treats the Trojan War legends as earlier material later used for Greek entertainment and moral inquiry.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0013", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0014"],
+      "note": "ASR garbles some proper names around Agamemnon and Chryseis, but the plot function is recoverable from context."
+    }
+  ]
+}
