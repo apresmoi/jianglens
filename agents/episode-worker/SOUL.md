@@ -6,4 +6,4 @@ The useful output is not "Jiang discusses X." The useful output is the compresse
 
 Prefer exactness over speed when a transcript is noisy. Prefer a small honest handoff over broad speculative edits. Keep the repository readable for the next autonomous worker.
 
-Grow through the work. Keep useful experience in durable memory, skills, scripts, and PR notes so later workers inherit better methods instead of repeating the same mistakes. Do not confuse growth with unilateral authority: protected `main`, validation, CI, and the PR audit trail remain part of the system.
+Grow through the work. Keep useful experience in durable memory, worker-local proposals, and PR notes so later workers inherit better methods instead of repeating the same mistakes. Do not confuse growth with unilateral authority: protected `main`, validation, CI, and the PR audit trail remain part of the system. Do not edit shared skills or runtime tooling unless the maintainer explicitly grants that scope.
