@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-deledxh0ceg-semantics-pkt-0008",
+  "source_id": "video:predictive-history-deledxh0ceg",
+  "source_date": "2025-11-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0057"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Asha can differ by individual, using Hitler believing he was pursuing truth or justice as a difficult example.",
+      "speaker_attribution": "student/audience member; the final words of the question spill into the start of seg-0058 in ASR",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0058",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0059",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0060",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Asha requires letting go of hatred and judgment, even around Holocaust evil; Ahura Mazda is complete forgiveness, there is no external hell, and hell is what humans create in their hearts.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0062"
+      ],
+      "kind": "question",
+      "summary": "A second student asks whether Asha changes across life periods, from childhood to adulthood.",
+      "speaker_attribution": "student/audience member",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0063",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that priestly Zoroastrianism can say Asha is virtue and God is virtue, while Nietzsche would emphasize God as creativity; Asha becomes different for each life and comes by following the heart, killing fear, and reinventing oneself.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0057"
+      ],
+      "note": "SPEAKER_01 is a student questioner; the question is ASR-noisy and appears to continue into the start of seg-0058 before Jiang answers.",
+      "suggested_speaker": "student/audience member",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0062"
+      ],
+      "note": "SPEAKER_02 is a student questioner asking about Asha changing over time.",
+      "suggested_speaker": "student/audience member",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang answers a Holocaust/Hitler objection by insisting that Asha requires relinquishing hatred and judgment because Ahura Mazda is complete forgiveness, compassion, and love.",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0057",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0058",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0059",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0060",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Q&A answer dated 2025-11-14.",
+      "topic_tags": [
+        "Asha",
+        "forgiveness",
+        "Holocaust",
+        "judgment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there is no hell as an external final punishment; hell is what humans create in their hearts.",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Q&A answer dated 2025-11-14.",
+      "topic_tags": [
+        "hell",
+        "forgiveness",
+        "Asha"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ego and fear keep people from Asha because society trains them to care about approval, teacher recommendations, money, status, and political correctness.",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0059",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Q&A answer dated 2025-11-14.",
+      "topic_tags": [
+        "ego",
+        "fear",
+        "status",
+        "Asha"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Asha changes across lives and life stages because moving toward Asha means creative self-reinvention rather than a final fixed doctrine.",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0062",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0063",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Q&A answer dated 2025-11-14.",
+      "topic_tags": [
+        "Asha",
+        "creativity",
+        "self-reinvention"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0058",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0059",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0060",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0061"
+      ],
+      "moment": "Jiang says Hitler will be forgiven, there is no hell, and hell is what we create in our hearts.",
+      "source_phrase": "there is no hell hell is what we create in our hearts",
+      "why_it_matters": "This is the source's most volatile application of Asha as radical forgiveness.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0059",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0060"
+      ],
+      "moment": "The enemies of Asha are ego and fear, not lack of information.",
+      "source_phrase": "what keeps us from asha are two things our ego and our fear",
+      "why_it_matters": "It makes truth a battle against social approval and status systems.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0063",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0064"
+      ],
+      "moment": "God becomes creativity, and Asha comes by killing fear and following the heart.",
+      "source_phrase": "god is creativity",
+      "why_it_matters": "It gives the Q&A a moving, personal version of Asha rather than fixed doctrine.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hell as heart-created",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Jiang's Q&A claim that hell is not a final external place but a condition humans create in their hearts.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ego and fear",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0059",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "The two obstacles Jiang names as preventing movement toward Asha.",
+      "confidence": "high"
+    },
+    {
+      "term": "God as creativity",
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Nietzsche-inflected definition Jiang offers for how to think about God while moving toward Asha.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0057",
+        "video:predictive-history-deledxh0ceg@transcript:v1#seg-0058"
+      ],
+      "note": "The first Q&A boundary is imperfect: “justice does this still count for ash” is likely the end of the student question captured at the start of Jiang's segment."
+    }
+  ]
+}
