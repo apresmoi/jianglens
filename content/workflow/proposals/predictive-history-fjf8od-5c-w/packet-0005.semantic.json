@@ -1,0 +1,181 @@
+{
+  "packet_id": "predictive-history-fjf8od-5c-w-semantics-pkt-0005",
+  "source_id": "video:predictive-history-fjf8od-5c-w",
+  "source_date": "2025-10-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0033",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0034",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0035",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang summarizes Gilgamesh: the tyrant king meets Enkidu, loses him, seeks immortality, fails, and becomes immortal through remembered service to his people. Jiang then reads Gilgamesh as a bureaucratic creation in which local hero legends become kingly tests, get consolidated under larger polities, and receive priestly morality to control both people and king.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0037",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0038",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0039",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "To explain story formation, he invents campus legends that grow through exaggeration, color, and consolidation: drunken exam hero, sports hero, and bear story combine into a larger Harvard legend before authorities add moralizing lines to make the story useful for control.",
+      "speaker_attribution": "Jiang classroom lecture using comic hypothetical examples.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0033",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "note": "Continuous Jiang lecture. The campus legends are invented examples, not external factual claims.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets Gilgamesh as a kingship story: a king becomes immortal not by living forever but by serving the people so they remember and celebrate him.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0033",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0034",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Interpretation in the 2025-10-29 lecture.",
+      "topic_tags": ["gilgamesh", "kingship", "immortality", "memory", "service"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hero stories begin as local legends that legitimate local kings by making their rule depend on descent from or performance of heroic acts.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0035",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Story-development model in this lecture.",
+      "topic_tags": ["hero", "local-legend", "legitimacy", "kingship"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "As regions consolidate, separate hero stories consolidate too; bureaucratic priests then add moral messages so stories control the people and discipline the king.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0036",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Story-development model in this lecture.",
+      "topic_tags": ["bureaucracy", "story", "morality", "control", "consolidation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says oral stories survive by becoming more exaggerated, colorful, funny, and memorable; without that color, stories are forgotten.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0037",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0038",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Story method in the 2025-10-29 lecture.",
+      "topic_tags": ["oral-tradition", "memory", "exaggeration", "story"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Once authorities take over a story, they can add a single moralizing line that changes its function from memorable legend into institutional messaging.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Story-control model in this lecture.",
+      "topic_tags": ["bureaucracy", "moralization", "institution", "story-control"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0034"
+      ],
+      "moment": "Gilgamesh fails to live forever and succeeds anyway because the story makes his memory immortal.",
+      "source_phrase": "even though Gilgamesh failed in his quest he ultimately succeeded",
+      "why_it_matters": "It turns literary memory into the real immortality technology of kingship.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0037",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0039"
+      ],
+      "moment": "A story lives by becoming more exaggerated, funnier, more colorful, and easier to remember.",
+      "source_phrase": "the only way to keep the story alive is by constantly exaggerating it",
+      "why_it_matters": "This is Jiang's mechanism for oral tradition before bureaucracy flattens it.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "moment": "The authorities take over the legend by adding one line.",
+      "source_phrase": "You add just one line and you change the story",
+      "why_it_matters": "It captures how small edits can redirect an entire cultural memory toward institutional control.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Epic of Gilgamesh",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0031",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Mesopotamian epic Jiang treats as a bureaucratically shaped kingship story about humility, service, and immortality through remembered deeds.",
+      "confidence": "high"
+    },
+    {
+      "term": "bureaucratic creation",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0035",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Jiang's label for stories reshaped by priests or bureaucrats to carry morality and control messages.",
+      "confidence": "high"
+    },
+    {
+      "term": "oral tradition",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0037",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "The process by which stories become more memorable through exaggeration, detail, comedy, and consolidation before being written or moralized.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0033",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "note": "This packet extends the episode's civilizational model from sacred creation myths into literary formation: oral exaggeration first, bureaucratic moralization later.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0040"
+      ],
+      "note": "The transcript cuts off mid-example at the end of the packet; the continuation appears in the next packet."
+    }
+  ]
+}
