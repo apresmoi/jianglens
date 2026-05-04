@@ -1,0 +1,178 @@
+{
+  "packet_id": "predictive-history-asbkjezwijm-semantics-pkt-0004",
+  "source_id": "video:predictive-history-asbkjezwijm",
+  "source_date": "2025-01-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0025",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0026",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0027",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0028",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes Virgil's theory of love: desire is natural and beauty inflames the soul, but ethical freedom consists in judging, curbing, and resisting bad love.",
+      "speaker_attribution": "Jiang interpreting Virgil's account of love and free will.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0030",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0031"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks students to recall Dante's answer, then states it: true love wants the beloved's happiness and dignity rather than possession.",
+      "speaker_attribution": "Jiang with a classroom prompt; student response is not captured.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to Purgatory's earthquake and Statius, setting up the difference between hell and purgatory as a matter of will and willingness to do penance.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0027",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0028"
+      ],
+      "note": "The repeated 'gathers to the earth' phrase is likely ASR damage in quoted philosophical material; the stable point is Jiang's distinction between natural longing and chosen assent.",
+      "suggested_speaker": "Jiang reading/paraphrasing Virgil",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "In Virgil's model, love is not automatically praiseworthy; it depends on the object and on whether the beloved or desired action is good.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0025",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Jiang's reading of Virgil's ethics of love.",
+      "topic_tags": [
+        "love",
+        "virgil",
+        "ethics",
+        "desire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil answers the free-will problem by saying humans may not choose the first inflaming desire, but they possess the power to judge and curb that love.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0026",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0027",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0028",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Jiang's reading of Virgil's free-will account.",
+      "topic_tags": [
+        "free-will",
+        "love",
+        "resistance",
+        "ethics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's answer, in Jiang's framing, is that true love wants what is best for the beloved and refuses to degrade the beloved into a price or object.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0030",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture contrast between Dantean and Virgilian love.",
+      "topic_tags": [
+        "dante",
+        "love",
+        "dignity",
+        "possession"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the difference between hell and purgatory as will: purgatorial sinners admit sin and commit to penance; hell's sinners refuse to admit wrong.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Beginning of the Purgatory/Statius argument.",
+      "topic_tags": [
+        "hell",
+        "purgatory",
+        "will",
+        "penance"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0029"
+      ],
+      "moment": "Virgil's ethics reduces freedom to the power to curb love.",
+      "source_phrase": "the power to curb that love is still your own",
+      "why_it_matters": "It gives the cleanest contrast between restraint-based morality and Dante's later love-as-respect model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0031"
+      ],
+      "moment": "Dantean love refuses to turn the beloved into a transaction.",
+      "source_phrase": "to my eyes you're priceless",
+      "why_it_matters": "It preserves the force of Jiang's answer to Virgil's possession model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0032"
+      ],
+      "moment": "The difference between hell and purgatory is not the sin but the will to admit wrong.",
+      "source_phrase": "The difference is the question of will",
+      "why_it_matters": "This becomes the hinge for why Statius can rise and Virgil cannot.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "power to curb love",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0029",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Virgil's free-will model: humans can resist or deny bad love even if desire first arises naturally.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dantean love",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0030",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Love that seeks the beloved's happiness and dignity rather than possession.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang asks students to remember Dante's response, but no substantive student answer is audible in the transcript."
+    }
+  ]
+}

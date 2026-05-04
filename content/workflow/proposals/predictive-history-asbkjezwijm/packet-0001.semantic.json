@@ -1,0 +1,193 @@
+{
+  "packet_id": "predictive-history-asbkjezwijm-semantics-pkt-0001",
+  "source_id": "video:predictive-history-asbkjezwijm",
+  "source_date": "2025-01-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0001",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang recaps the prior Dante argument: the Divine Comedy breaks the Holy Trinity equation open by putting us in God and God in us, making the universe a story humans are empowered to continue through love and imagination.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0003",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0004",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He explains why an obscure poem can become historically decisive: memorized poetry feeds the subconscious brain, where paradoxes force new world-patterns that become the Renaissance and scientific mind.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0006",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0007",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the day's thesis: Dante's real enemy is Virgil, but he cannot attack the old mental habit directly, so he performs subtle poetic surgery by making Virgil the beloved guide and then slowly exposing him as unreliable.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang reads Dante's final secret as the claim that humans are in God and God is in humans, turning the Trinity from an exclusionary equation into a story humans can keep writing.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0001",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive claim in the 2025-01-14 Dante lecture.",
+      "topic_tags": [
+        "dante",
+        "god",
+        "holy-trinity",
+        "story"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Dante, Jiang says love is the unifying force of the universe and imagination is its animating force; the more humans love, the more they can imagine and continue God's work.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture model of Dante's cosmology.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "dante",
+        "god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims the Divine Comedy becomes a blueprint for the Renaissance, Protestant Reformation, and Scientific Revolution because poetry enters memory and shapes the subconscious brain.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0003",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0004",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical-causal model advanced in this lecture.",
+      "topic_tags": [
+        "poetry",
+        "renaissance",
+        "reformation",
+        "scientific-revolution",
+        "subconscious"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's mission is to remove Virgil from the European mind because Virgil's poetry had become the inherited operating system of educated Europeans.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0006",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture thesis about Dante's literary strategy.",
+      "topic_tags": [
+        "virgil",
+        "education",
+        "european-mind",
+        "poetic-surgery"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante defeats Virgil indirectly by making him the hero and guide of the poem, then letting readers gradually discover that the trusted guide contradicts himself and is displaced.",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0007",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretive claim about Divine Comedy structure.",
+      "topic_tags": [
+        "unreliable-guide",
+        "virgil",
+        "dante",
+        "literary-strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0004"
+      ],
+      "moment": "Poetry becomes superfood for the brain.",
+      "source_phrase": "poetry as a superfood for the brain",
+      "why_it_matters": "It makes literary form a cognitive technology, not ornament.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0006",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0007"
+      ],
+      "moment": "Dante has to do surgery on Europe's brain without making the patient reject the operation.",
+      "source_phrase": "poetically do surgery",
+      "why_it_matters": "It condenses the lecture's model of cultural revolution as indirect alteration of inherited memory.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"
+      ],
+      "moment": "Dante makes his ultimate enemy the hero of the epic.",
+      "source_phrase": "in order to defeat Virgil he makes Virgil the hero",
+      "why_it_matters": "This reversal is the key trick that lets Dante undermine Virgil from inside admiration.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "poetic surgery",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0006",
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's phrase for a subtle literary intervention that changes the reader's inherited mental structure without direct confrontation.",
+      "confidence": "high"
+    },
+    {
+      "term": "unreliable guide",
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Virgil appears as truthful hero and guide, but the poem trains readers to notice his contradictions and eventual displacement.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0001"
+      ],
+      "note": "The lecture is dated 2025-01-14 and explicitly closes the first semester's Dante unit before moving to Crusades and later history next semester.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-asbkjezwijm@transcript:v1#seg-0003"
+      ],
+      "note": "ASR renders 'Scientific Revolution' as 'Sino -Revolution'; context indicates Jiang means the Scientific Revolution."
+    }
+  ]
+}
