@@ -1,0 +1,147 @@
+{
+  "packet_id": "predictive-history-jpti2gfywru-semantics-pkt-0001",
+  "source_id": "video:predictive-history-jpti2gfywru",
+  "source_date": "2025-10-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0001",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0002",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by reversing the school contrast between civilization and steppe barbarians: the supposedly free, curious, prosperous civilized world repeatedly loses to steppe conquerors because the usual story has the open/static sides backward.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0004",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0005",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He models early city-state innovation as open cooperative competition: trade-route cities learn from one another, compete, and generate innovation until one disadvantaged and therefore more adaptive city conquers the rest.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0007",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that empire first consolidates innovation through scale, standardization, and centralization, but then becomes insular, secretive, monopolistic bureaucracy; the Indus Valley is flagged as an exception to this historical pattern.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The standard civilizational story has the categories reversed: Jiang claims the steppe peoples were open, curious, and innovative, while mature civilizations became closed, static, and unhappy.",
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0001",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0002",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang lecture argument on 2025-10-31",
+      "topic_tags": [
+        "civilization",
+        "steppe",
+        "barbarians",
+        "reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Open cooperative competition means openness to learning, cooperation through contact and shared practices, and competition to improve; Jiang treats it as the mechanism that makes city-state systems innovative.",
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0004",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "model in this lecture",
+      "topic_tags": [
+        "open-cooperative-competition",
+        "innovation",
+        "city-states"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Empires initially innovate through scale, standardization, and centralization, but over time bureaucracy turns them into insular monopolies that kill innovation.",
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0006",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "general historical model in this lecture",
+      "topic_tags": [
+        "empire",
+        "bureaucracy",
+        "innovation",
+        "corruption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the Indus Valley Civilization as an important exception: an urban system that remained peaceful, egalitarian, artistic, and relatively non-bureaucratic.",
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "exception named in this lecture",
+      "topic_tags": [
+        "indus-valley",
+        "exception",
+        "egalitarianism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0003"
+      ],
+      "moment": "The lecture’s main reversal is that civilization is not the homeland of openness; the steppe is.",
+      "source_phrase": "it is the steps people who are open, curious, and innovative",
+      "why_it_matters": "This gives the episode its governing inversion and prevents the steppe material from becoming a generic barbarian-conquest summary.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0007"
+      ],
+      "moment": "Bureaucracy is defined as monopoly, secrecy, and insularity, the moment when empire starts killing the innovation that created it.",
+      "source_phrase": "it becomes a bureaucracy and therefore it kills all innovation",
+      "why_it_matters": "It connects this episode to Jiang’s recurring model of institutions hardening into anti-life systems.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Open cooperative competition",
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0004",
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang’s three-part mechanism for innovation: openness to learning, cooperation through contact, and competition to improve.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bureaucracy as monopoly",
+      "refs": [
+        "video:predictive-history-jpti2gfywru@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A mature empire becomes insular, secretive, and monopolistic, which Jiang says kills innovation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
