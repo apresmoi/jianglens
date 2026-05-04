@@ -1,0 +1,173 @@
+{
+  "packet_id": "predictive-history-z0awfin83lo-semantics-pkt-0001",
+  "source_id": "video:predictive-history-z0awfin83lo",
+  "source_date": "2025-11-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0001",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0002",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0003",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by reviewing three geopolitical principles: competition inside states exceeds competition between states, elites have no loyalty, and war often preserves equilibrium rather than conquering outright.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0005",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0006",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0007",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He tests the model against the Chinese Warring States: stable great states ritualize war, Qin absorbs mercenary knowledge and lower-nobility talent, and equilibrium makes the established powers unable to imagine a barbarian takeover.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang defines elite overproduction as status competition inside the state, often between upper and lower nobility rather than simply rich and poor.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0001",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture model as of 2025-11-20.",
+      "topic_tags": [
+        "elite-overproduction",
+        "status-competition",
+        "geopolitics"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that elites have no real loyalty to people, state, or family; they do whatever accumulates power.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0002",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture model as of 2025-11-20.",
+      "topic_tags": [
+        "elite-loyalty",
+        "power",
+        "game-of-thrones"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames war as a mechanism for maintaining equilibrium and status quo, using World War I and the Warring States as examples.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0003",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model as of 2025-11-20.",
+      "topic_tags": [
+        "war",
+        "equilibrium",
+        "status-quo"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Qin conquered because stable states became stagnant while Qin received mercenary knowledge, innovation, low-nobility talent, and social energy.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0005",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "qin",
+        "borderlands",
+        "innovation",
+        "stagnation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0003"
+      ],
+      "moment": "The world is Game of Thrones: power lovers will kill parents, brothers, and children to accumulate power.",
+      "source_phrase": "the world is Game of Thrones",
+      "why_it_matters": "It gives the elite-loyalty principle its brutal emotional shape.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0006",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0008"
+      ],
+      "moment": "Stable is just another word for stagnant, and equilibrium makes its insiders lazy, stupid, and arrogant.",
+      "source_phrase": "stable is stagnant",
+      "why_it_matters": "This phrase drives the whole lecture: equilibrium creates the blindness that lets the margin win.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0001",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Too many elites competing for limited positions of status and power, producing internal crisis.",
+      "confidence": "high"
+    },
+    {
+      "term": "equilibrium",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0003",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0006",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A status-quo balance that stabilizes elites but also creates stagnation and blindness.",
+      "confidence": "high"
+    },
+    {
+      "term": "energy",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0006",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Innovation, ideas, talent, and motivational force flowing into a poorer borderland power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0001",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0002",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0003",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0004",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0005",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0006",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0007",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0008"
+      ],
+      "note": "This 2025-11-20 lecture begins Secret History #20 by restating the cross-civilizational equilibrium model before applying it to Greece.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0005"
+      ],
+      "note": "ASR renders Zhao/Wei/Chu/Qin inconsistently, but the Warring States analogy is clear from context."
+    }
+  ]
+}

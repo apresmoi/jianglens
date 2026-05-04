@@ -1,0 +1,172 @@
+{
+  "packet_id": "predictive-history-z0awfin83lo-semantics-pkt-0003",
+  "source_id": "video:predictive-history-z0awfin83lo",
+  "source_date": "2025-11-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0017",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0018",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0019",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0020",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0021",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns to Greece, naming Homer, alphabet, and polis as the innovation base; contrasts Spartan land slavery and oligarchy with Athenian maritime expansion and democracy; then shows Athens, Sparta, and Thebes reaching equilibrium while Macedonia learns from all three.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0023",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He maps Alexander’s conquest of Persia onto the Qin pattern: elite overproduction and disloyal elites open the empire from inside, while Darius thinks he can bribe Alexander because equilibrium makes him underestimate unlimited conqueror appetite.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang credits Greek innovation to Homer, alphabetic writing, and the polis.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture model as of 2025-11-20.",
+      "topic_tags": [
+        "greece",
+        "homer",
+        "alphabet",
+        "polis"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He explains Sparta as a conservative oligarchic land society built around controlling Helot labor, while Athens becomes a democratic naval society because rowers fight and therefore vote.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0018",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0019",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0020",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture comparison as of 2025-11-20.",
+      "topic_tags": [
+        "sparta",
+        "athens",
+        "helots",
+        "democracy",
+        "navy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Macedonia arises when Greek city-states reach equilibrium; Philip II combines the military innovations of Sparta, Thebes, and Athens and recruits their talent.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0021",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "macedonia",
+        "philip-ii",
+        "equilibrium",
+        "military-innovation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Alexander’s Persian conquest is explained through elite disloyalty and equilibrium blindness, not merely battlefield superiority.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0023",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "alexander",
+        "persia",
+        "elite-overproduction",
+        "darius"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0017"
+      ],
+      "moment": "Greek civilization is made from Homer, the alphabet, and the polis: myth, transmission, and citizen politics in one package.",
+      "source_phrase": "Homer... the alphabet... the polis",
+      "why_it_matters": "This gives Greece its creative engine before the lecture turns it into empire.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0020"
+      ],
+      "moment": "A navy forces democracy because anyone can row.",
+      "source_phrase": "if you're a navy, you have to be a democracy",
+      "why_it_matters": "The political form is derived from military technology and participation, not abstract ideals.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0024"
+      ],
+      "moment": "Darius offers territory and treasury, but Alexander wants all of it because he thinks he is the son of God.",
+      "source_phrase": "I want it all",
+      "why_it_matters": "The equilibrium bargain fails against an unlimited sacred conqueror.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "polis",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Greek citizen political unit where citizens participate in public life; often small but numerous.",
+      "confidence": "high"
+    },
+    {
+      "term": "helots",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0018",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Conquered slave/serf population whose labor supports Sparta and whose rebellion risk keeps Sparta conservative.",
+      "confidence": "high"
+    },
+    {
+      "term": "Macedonia",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0021",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Poor, backward, formerly marginal power that unites Greece by absorbing Greek military and talent innovations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0022",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0023"
+      ],
+      "note": "Jiang flags Rome as the next power after the Hellenistic equilibrium; this lecture stops before the Rome class.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

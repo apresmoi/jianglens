@@ -1,0 +1,207 @@
+{
+  "packet_id": "predictive-history-z0awfin83lo-semantics-pkt-0012",
+  "source_id": "video:predictive-history-z0awfin83lo",
+  "source_date": "2025-11-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0089",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0090",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0091",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the post-Alexander Greek world: few Greeks must rule many subjects, so they build cities, recruit Persian and Jewish bureaucratic help, and use Alexandria’s wealth and library to systemize Greek knowledge.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0094",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0095"
+      ],
+      "kind": "monologue",
+      "summary": "He defines the Library of Alexandria and Septuagint as cultural imperialism: Greek rule censors and promotes cultures to manage Egypt and the Levant, producing Greek-Jewish-Persian syncretism that leads to Christianity and sets up Rome next class.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "After Alexander, Greek rulers face a manpower problem and govern by founding Greek cities, settling veterans, inviting Greeks, and recruiting Persian bureaucrats and Jews.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0089",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "hellenistic-world",
+        "greek-cities",
+        "bureaucracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines cultural imperialism as creating a cultural understanding of the world that allows empire to rule over people.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0090",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Lecture definition as of 2025-11-20.",
+      "topic_tags": [
+        "cultural-imperialism",
+        "library-of-alexandria",
+        "empire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the Library of Alexandria systemizes Greek knowledge into textbooks and functions as a university-like tool of empire, not merely education.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0091",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "library-of-alexandria",
+        "museion",
+        "university",
+        "empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads the Septuagint as a Ptolemaic strategy to bribe Jewish priests, control the Levant, and fold Jewish culture into Greek imperial administration.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "septuagint",
+        "jews",
+        "ptolemy",
+        "levant"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Greek, Jewish, and Persian worldviews merge in the Hellenistic empire and give rise to Christianity, which Rome will later amplify.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0094",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "christianity",
+        "syncretism",
+        "rome"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093"
+      ],
+      "moment": "A university is not really education; it is an empire’s machine for producing a worldview that lets it rule.",
+      "source_phrase": "a university is not really about education... it's really about a tool of empire",
+      "why_it_matters": "It gives the episode its institutional sting and links Alexandria to later imperial knowledge systems.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0094"
+      ],
+      "moment": "The Greeks bribe the Jews by celebrating their Bible in Greek, turning respect for tradition into imperial control.",
+      "source_phrase": "let us translate your bible into Greek",
+      "why_it_matters": "It makes cultural inclusion part of domination rather than simple tolerance.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0095"
+      ],
+      "moment": "Christianity appears as merged worldview: Greeks ruling, Persians administering, Jews helping build the empire.",
+      "source_phrase": "this will merge worldviews and this will give us Christianity",
+      "why_it_matters": "This is the final causal chain from Hellenistic empire to Rome and Christianity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "cultural imperialism",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0090",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Imperial promotion, systemization, and censorship of culture to justify rule and manage subject peoples.",
+      "confidence": "high"
+    },
+    {
+      "term": "Library of Alexandria",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0091",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Hellenistic institution Jiang treats as a university-like empire tool for systemizing Greek knowledge.",
+      "confidence": "high"
+    },
+    {
+      "term": "Septuagint",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0094"
+      ],
+      "definition_or_usage": "Greek translation of the Jewish Bible, interpreted by Jiang as a Ptolemaic project to recruit Jewish elites and control the Levant.",
+      "confidence": "high"
+    },
+    {
+      "term": "Museion",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "Institutional complex associated with the Library of Alexandria, part of the empire’s knowledge apparatus.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0089",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0090",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0091",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0092",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0093",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0094",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0095"
+      ],
+      "note": "The lecture closes by linking the Hellenistic world to Christianity and previewing Rome as the next class after 2025-11-20.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0091"
+      ],
+      "note": "ASR garbles Ptolemy/Soter naming and Greek playwright names, but the Library of Alexandria anecdote is clear."
+    }
+  ]
+}

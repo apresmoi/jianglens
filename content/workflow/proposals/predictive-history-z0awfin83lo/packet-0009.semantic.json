@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-z0awfin83lo-semantics-pkt-0009",
+  "source_id": "video:predictive-history-z0awfin83lo",
+  "source_date": "2025-11-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0065",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0066",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0067",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0068"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang introduces Pericles’ funeral oration, then a student reads the passage offering comfort rather than condolence and urging parents to have more children for the state.",
+      "speaker_attribution": "Jiang setup followed by student reading quoted Thucydides/Pericles passage.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0069",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0070"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the funeral oration as imperial logic: dead sons become useful because they died for empire, orphaned children become future soldiers, and Pericles’ equilibrium strategy creates plague in Athens.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0071",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0072"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang frames the Melian Dialogue as rebellious islands trying to leave the Athenian war, then a student begins reading the Athenian argument that they will not use moral pretenses.",
+      "speaker_attribution": "Jiang setup followed by student reading Thucydides.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0066",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0068"
+      ],
+      "note": "Quoted funeral oration passage read aloud by a student; segment 67 is a pronunciation correction.",
+      "suggested_speaker": "student reading Thucydides/Pericles",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0072"
+      ],
+      "note": "Beginning of quoted Melian Dialogue read aloud by a student.",
+      "suggested_speaker": "student reading Thucydides",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He interprets Pericles’ funeral oration as a speech about empire rather than democracy.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0064",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0065",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "pericles",
+        "funeral-oration",
+        "empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pericles’ rhetoric converts dead sons and orphaned children into resources for imperial reproduction.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0068",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0069",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "pericles",
+        "empire",
+        "soldiers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pericles’ plague strategy results from trying to preserve balance rather than decisively invading Sparta.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "pericles",
+        "plague-of-athens",
+        "equilibrium"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang introduces the Melian Dialogue as evidence that Athens coerced allies and islands that wanted out of its war.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0071",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "melian-dialogue",
+        "athenian-empire"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0069",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0070"
+      ],
+      "moment": "Pericles tells grieving parents the empire can redeem useless sons by turning their deaths and orphans into more soldiers.",
+      "source_phrase": "this is now empire guys",
+      "why_it_matters": "This is the lecture’s darkest contrast between democratic rhetoric and imperial reproduction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0070"
+      ],
+      "moment": "Put everyone inside the walls to preserve strategy, and the city manufactures its own plague.",
+      "source_phrase": "guess what happens if you put a lot of people in one place",
+      "why_it_matters": "The equilibrium-preserving tactic becomes self-destruction.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "funeral oration",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0064",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0065",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0068",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Pericles’ famous speech, interpreted by Jiang as imperial rather than democratic rhetoric.",
+      "confidence": "high"
+    },
+    {
+      "term": "Melian Dialogue",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0071",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Thucydides passage Jiang uses to show Athenian empire speaking openly in coercive terms.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0065",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0066",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0067",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0068",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0069",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0070",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0071",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0072"
+      ],
+      "note": "The packet moves from Pericles’ wartime rhetoric and plague to the Melian Dialogue as Athens’ imperial language becomes explicit.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0066",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0068",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0072"
+      ],
+      "note": "Quoted-source readings contain ASR errors, but Jiang’s interpretation around them identifies the passages."
+    }
+  ]
+}

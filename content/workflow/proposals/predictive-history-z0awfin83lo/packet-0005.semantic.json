@@ -1,0 +1,176 @@
+{
+  "packet_id": "predictive-history-z0awfin83lo-semantics-pkt-0005",
+  "source_id": "video:predictive-history-z0awfin83lo",
+  "source_date": "2025-11-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0033",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0034",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses maps to restate the geography of Sparta and Macedonia, then gives a harsh account of Spartan society as a Helot-control machine that deliberately separates boys from families, trains violence, and uses initiation killing.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0036"
+      ],
+      "kind": "unclear",
+      "summary": "Brief transition filler only.",
+      "speaker_attribution": "Unclear or Jiang transition.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0037",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0038",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0039",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He compares Greek hoplites and Persian horse archers as geography-specific innovations, explains Marathon and Thermopylae, and says Athens survives because the polis is a people, not a place.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0036"
+      ],
+      "note": "Segment contains only “All right” and has no substantive speaker content.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Macedonia is initially poor, backward, mountainous, and often subject to Persia, so its later conquest repeats the marginal-power pattern.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "macedonia",
+        "borderlands",
+        "geography"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spartan society is organized around keeping Helots under control; Helots are both Sparta’s resource and its danger.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0033",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0034",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "sparta",
+        "helots",
+        "warrior-training"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek hoplites and Persian horse archers develop from different geographies; Persia cannot use its horse-archer advantage effectively in Greece.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0037",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture model as of 2025-11-20.",
+      "topic_tags": [
+        "hoplites",
+        "horse-archers",
+        "geography",
+        "persia"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Athens survives the burning of the city by treating the polis as the people rather than the physical place.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0039",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "athens",
+        "polis",
+        "persian-wars"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0034",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0035"
+      ],
+      "moment": "Sparta manufactures warriors by manufacturing anxiety: remove boys from parents, beat them daily, bind them to mentors, then graduate them through killing.",
+      "source_phrase": "you have to create anxiety in them",
+      "why_it_matters": "It preserves Jiang’s psychological reading of military societies.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0040"
+      ],
+      "moment": "A polis is not a place. It is a people who can sail away and keep the war alive.",
+      "source_phrase": "A polis is not a place it's a people",
+      "why_it_matters": "This is the Greek civic reversal that keeps Athens from being destroyed when Athens burns.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "hoplites",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0037",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Greek heavy infantry formation suited to hilly Greek geography and decisive in infantry combat.",
+      "confidence": "high"
+    },
+    {
+      "term": "horse archers",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0037",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Persian military innovation suited to wide terrain but neutralized in Greece.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0037",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0038",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0039",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0040"
+      ],
+      "note": "The lecture marks Marathon in 490 BCE and then the later Persian invasion through Thermopylae and Athens.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0035"
+      ],
+      "note": "ASR likely renders the Spartan initiation age phrase as “1819”; context indicates ages eighteen or nineteen."
+    }
+  ]
+}

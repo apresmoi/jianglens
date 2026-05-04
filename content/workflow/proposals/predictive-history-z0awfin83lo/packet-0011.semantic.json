@@ -1,0 +1,194 @@
+{
+  "packet_id": "predictive-history-z0awfin83lo-semantics-pkt-0011",
+  "source_id": "video:predictive-history-z0awfin83lo",
+  "source_date": "2025-11-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0081",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0082",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0083"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Philip II had already conquered mainland Greece and prepared Persia through spies and diplomats, then explains his murder as Olympias protecting Alexander’s succession against a new Macedonian wife and son.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0084",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0085",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0086"
+      ],
+      "kind": "monologue",
+      "summary": "He presents Alexander as an Iliad-possessed sacred conqueror who imitates Achilles, seeks Zeus-Ammon’s confirmation, refuses Darius’ settlement, burns Thebes and Persepolis, and may treat destruction as ritual proof of divine sonship.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0087",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0088"
+      ],
+      "kind": "monologue",
+      "summary": "After a brief transition, Jiang argues Alexander’s killings of Philip’s loyal men were not random but a deliberate effort to create his own empire, which leads the generals to poison him and divide the Greek world.",
+      "speaker_attribution": "Jiang classroom lecture; segment 87 is a filler transition.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0087"
+      ],
+      "note": "Segment 87 is labeled UNKNOWN but likely a brief transition or room sound; no substantive speaker uncertainty affects the packet.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Philip II was ready to invade Persia in 336 after conquering mainland Greece and preparing diplomats and spies inside Persia.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "philip-ii",
+        "persia",
+        "macedonia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He attributes Philip II’s murder to Olympias protecting Alexander’s claim after Philip produced a Macedonian son who threatened Alexander’s succession.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0081",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0082",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "olympias",
+        "alexander",
+        "succession"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Alexander’s self-conception as son of God explains his refusal to stop at Darius’ offer, his drive toward India, and possibly ritualized destruction at Thebes and Persepolis.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0084",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0085",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "alexander",
+        "son-of-god",
+        "achilles",
+        "ritual-sacrifice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Alexander killed Philip’s loyal men to make his own empire, which caused his generals to fear they were next and conspire to poison him.",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2025-11-20.",
+      "topic_tags": [
+        "alexander",
+        "parmenion",
+        "empire",
+        "poisoning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0084",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0085"
+      ],
+      "moment": "Alexander carries the Iliad, reenacts Achilles, and walks to Ammon to hear that he is not Philip’s son but God’s.",
+      "source_phrase": "you are not the son of Philip II you're the son of God",
+      "why_it_matters": "The lecture makes myth into Alexander’s operating system.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0086"
+      ],
+      "moment": "The atrocities may be ritual sacrifices: burning cities to prove he is the son of God.",
+      "source_phrase": "ritual sacrifices necessary to prove that he was the son of God",
+      "why_it_matters": "It preserves Jiang’s provocative move from cruelty to sacred-political performance.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0088"
+      ],
+      "moment": "Alexander’s “random” violence becomes statecraft: killing the father’s men to create his own empire.",
+      "source_phrase": "random acts of violence but they're not",
+      "why_it_matters": "It turns biography into imperial consolidation logic.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Zeus-Ammon",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0084",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "Syncretic god/oracle Jiang says confirms Alexander’s divine sonship and world-conquest destiny.",
+      "confidence": "high"
+    },
+    {
+      "term": "sacred conqueror",
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0084",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0085",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Jiang’s implicit type for conquerors whose appetite is justified by divine sonship and world-unification destiny.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0081",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0082",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0083",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0084",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0085",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0086",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0087",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0088"
+      ],
+      "note": "The packet narrates 336 BCE succession, Alexander’s Persian conquest, divine claims, and death before the Hellenistic division.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0081",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0082",
+        "video:predictive-history-z0awfin83lo@transcript:v1#seg-0088"
+      ],
+      "note": "Jiang presents contested assassination/poisoning claims assertively; confidence is medium because the lecture itself notes debate around Philip’s murder."
+    }
+  ]
+}
