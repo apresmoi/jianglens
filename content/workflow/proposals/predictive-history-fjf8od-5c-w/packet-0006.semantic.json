@@ -1,0 +1,179 @@
+{
+  "packet_id": "predictive-history-fjf8od-5c-w-semantics-pkt-0006",
+  "source_id": "video:predictive-history-fjf8od-5c-w",
+  "source_date": "2025-10-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0041",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0042",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0043",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the story-control example: moralizing additions make stories less interesting but more useful for directing thought, including Chinese classics. He then reads Hesiod's Theogony as layered mythology: Gaea, Uranus, Cronus, Rhea, Zeus, and parallel origin stories for founders like Sargon, Romulus and Remus, David, and Genghis Khan.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0045",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0046",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0047",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that low-born foreign usurpers need myths like Zeus to solve legitimacy problems, then restates a dynastic cycle of high priestess, consort, hereditary elite, prince/warlord, mercenary general, and new king. Myths are house renovations with layers, and writing is then used to persuade free pastoralists to become controllable farmers.",
+      "speaker_attribution": "Jiang classroom lecture with quoted setup for the sheep-and-grain text.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0048"
+      ],
+      "note": "The final segment begins quoted/paraphrased material from The Debate Between Sheep and Grain after Jiang's framing.",
+      "suggested_speaker": "Jiang reading quoted source",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says bureaucratic edits make stories less interesting but more effective at controlling thought, turning lively legends into teachable, brainwashing classics.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0041",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Story-control claim in the 2025-10-29 lecture.",
+      "topic_tags": ["bureaucracy", "literature", "schooling", "brainwashing"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads Theogony as layered political memory: animistic creation, succession rebellion, and the recurring story of a low-born or foreign general who overthrows a ruler.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0042",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0043",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Myth interpretation in this lecture.",
+      "topic_tags": ["theogony", "zeus", "myth-layers", "usurpation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Origin stories where a hidden or foreign low-born figure becomes legitimate solve the political problem faced by talented usurpers such as Sargon, David, Genghis Khan, and others.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0043",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0044",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Historical-mythic model in this lecture.",
+      "topic_tags": ["origin-story", "legitimacy", "sargon", "genghis-khan", "zeus"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's dynastic cycle moves from mother-goddess priestess and consort to hereditary elite, rebellious prince/warlord, foreign mercenary general, and new king.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0045",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Cycle model in the 2025-10-29 lecture.",
+      "topic_tags": ["dynastic-cycle", "warlord", "mercenary", "high-priestess"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Writing is used to convince free pastoralists to give up a mobile, independent lifestyle and become controllable agricultural subjects.",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0047",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-10-29.",
+      "topic_tags": ["writing", "pastoralism", "agriculture", "control", "mythology"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0041"
+      ],
+      "moment": "Bureaucrats make stories boring enough for schoolchildren.",
+      "source_phrase": "changed them into boring stories that they can now teach school children to read and brainwash them",
+      "why_it_matters": "It condenses Jiang's theory of literary canon formation as control.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0046"
+      ],
+      "moment": "Myths are house renovations: each regime adds another layer without fully removing the old one.",
+      "source_phrase": "think of myths and stories as like house renovation",
+      "why_it_matters": "This metaphor makes the layered reading method concrete and memorable.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0048"
+      ],
+      "moment": "The myth persuades a free, happy pastoralist to become an enslaved farmer.",
+      "source_phrase": "give up the free happy lifestyle of pastoralists and become an enslaved farmer",
+      "why_it_matters": "It gives the lecture's propaganda thesis a specific economic target.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Theogony",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0042",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Hesiod's Greek mythic genealogy, read by Jiang as a layered record of animistic creation, dynastic rebellion, and usurper legitimation.",
+      "confidence": "high"
+    },
+    {
+      "term": "house renovation",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang's metaphor for myth formation: later social orders add layers onto older stories.",
+      "confidence": "high"
+    },
+    {
+      "term": "pastoral",
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0047",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A mobile sheep/goat-raising lifeway contrasted with settled agriculture; Jiang says it is freer and harder for rulers to control.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0041",
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0048"
+      ],
+      "note": "This packet links literary canon, Greek mythology, dynastic usurpation, and pastoral/agricultural conflict into the episode's broader 2025 theory of writing as social control.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fjf8od-5c-w@transcript:v1#seg-0041"
+      ],
+      "note": "Several Chinese title names are ASR-damaged, but Romance of the Three Kingdoms, Journey to the West, and Water Margin are identifiable from context."
+    }
+  ]
+}
