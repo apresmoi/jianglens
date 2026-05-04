@@ -1,0 +1,173 @@
+{
+  "source_id": "video:predictive-history-hk-yhi3-prw",
+  "source_date": "2025-10-11",
+  "packet_id": "predictive-history-hk-yhi3-prw-semantics-pkt-0005",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0033",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why a non-stupid school board does not change the system; Jiang answers that board members, presidents, and vice presidents are friends who control power and steal together.",
+      "speaker_attribution": "Student question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0035",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0036",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0037",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0038",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0039",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the corruption model from universities to Canada, US government, regulation, and the military, arguing that management expands while real work declines.",
+      "speaker_attribution": "Jiang lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0033"
+      ],
+      "note": "This is a performed student question and Jiang answers directly in segment 0034.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says corrupt university boards do not reform because the board, president, and vice president are friends who control power and can protect each other.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0033",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Lecture answer on 2025-10-11.",
+      "topic_tags": [
+        "school-board",
+        "corruption",
+        "elite-network"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's Stratford University example, administrators extracted salaries, expenses, loans, and insider payments even as the institution went bankrupt.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0035",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture evidence on 2025-10-11.",
+      "topic_tags": [
+        "stratford-university",
+        "bankruptcy",
+        "insiders"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that many US universities will face similar bankruptcies over the next five to ten years because top managers are extracting together.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0036",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Prediction made on 2025-10-11 about the next five to ten years.",
+      "topic_tags": [
+        "university-bankruptcy",
+        "prediction",
+        "administrators"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that the same bureaucratic pattern appears beyond universities: Canada, US government, regulation, and the military all show management growth over real work.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0037",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0038",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-10-11.",
+      "topic_tags": [
+        "government",
+        "military",
+        "bureaucracy",
+        "management"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts four-star generals' personal planes with veterans on food stamps to argue that military bureaucracy rewards commanders while soldiers lack basics.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0039",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture evidence on 2025-10-11.",
+      "topic_tags": [
+        "military",
+        "generals",
+        "veterans",
+        "inequality"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034"
+      ],
+      "moment": "If you steal alone you might get caught; if you steal together you become untouchable.",
+      "source_phrase": "you steal together then you're untouchable",
+      "why_it_matters": "It explains corruption as network behavior, not just individual greed.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0040"
+      ],
+      "moment": "The general has a private jet; the veteran needs food stamps.",
+      "source_phrase": "Every four-star general has this plane",
+      "why_it_matters": "It condenses the military-bureaucracy critique into a stark allocation image.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "elite extraction network",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Jiang's implied model of boards, presidents, vice presidents, and trustees protecting one another while extracting from an institution.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0036",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0037"
+      ],
+      "note": "Contains a dated prediction from 2025-10-11 that many American universities may go bankrupt over the following five to ten years.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034"
+      ],
+      "note": "Some ASR around 'dummy' and the Stratford setup is noisy; use the broader answer rather than the corrupted phrase."
+    }
+  ]
+}

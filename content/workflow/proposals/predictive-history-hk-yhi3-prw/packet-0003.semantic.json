@@ -1,0 +1,144 @@
+{
+  "source_id": "video:predictive-history-hk-yhi3-prw",
+  "source_date": "2025-10-11",
+  "packet_id": "predictive-history-hk-yhi3-prw-semantics-pkt-0003",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0017",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0018",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0019",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0020",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0021",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0023",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces his stronger explanation: universities have become bureaucracies serving administrators. He then uses the Yale Law trap-house email dispute to show deans creating a problem, mediating it, and coercing apology to justify their roles.",
+      "speaker_attribution": "Jiang lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0019"
+      ],
+      "note": "Segment 0019 contains obvious ASR corruption around the trap-house explanation, but the surrounding argument remains clear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's main explanation is that universities became bureaucracies: instead of teaching and research, they promote administrators who want salaries, offices, and self-justifying power.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0017",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture thesis on 2025-10-11.",
+      "topic_tags": [
+        "bureaucracy",
+        "university",
+        "administrators"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the Yale Law incident, Jiang says administrators blocked direct student-to-student resolution and used reputation and career threats to pressure Trevor Cooper into apology.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0020",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture interpretation of a prior incident on 2025-10-11.",
+      "topic_tags": [
+        "yale-law",
+        "coercion",
+        "administrators"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines bureaucratic behavior as making problems for everyone in order to create solutions for everyone.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture definition on 2025-10-11.",
+      "topic_tags": [
+        "bureaucracy",
+        "problem-creation",
+        "rent-seeking"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Once a university becomes a global brand and no longer needs ideological struggle, Jiang says people in charge turn to rent-seeking and pass privilege to friends and children.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0023",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture model on 2025-10-11.",
+      "topic_tags": [
+        "rent-seeking",
+        "global-brand",
+        "privilege"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022"
+      ],
+      "moment": "Bureaucrats create problems for everyone so they can create solutions for everyone.",
+      "source_phrase": "go make problems for everyone in order to create solutions",
+      "why_it_matters": "This is the compact operating logic for the whole lecture.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0023"
+      ],
+      "moment": "After the university becomes a global brand, the struggle ends and the rent-seeking begins.",
+      "source_phrase": "Once you become that global brand, there's nothing else to do",
+      "why_it_matters": "It links institutional success to internal decay rather than treating bureaucracy as accidental overhead.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "death by bureaucracy",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Jiang's title for the bureaucratic mindset taking over universities, major organizations, and the wider world.",
+      "confidence": "high"
+    },
+    {
+      "term": "rent-seeking behavior",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0023",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "People in charge exploiting their positions for easier lives and passing privilege to friends and children.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0019"
+      ],
+      "note": "ASR duplication and nonsense text around the trap-house wording should not be quoted without transcript review."
+    }
+  ]
+}

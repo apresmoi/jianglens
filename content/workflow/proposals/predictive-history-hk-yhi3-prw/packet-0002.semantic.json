@@ -1,0 +1,132 @@
+{
+  "source_id": "video:predictive-history-hk-yhi3-prw",
+  "source_date": "2025-10-11",
+  "packet_id": "predictive-history-hk-yhi3-prw-semantics-pkt-0002",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0009",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0010",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0011",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0012",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0013",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0014",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0015",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads the Yale confrontation through generational change, student contempt for professors, and three standard explanations: spoiled parenting, consumerist/neoliberal customer logic, and left-wing ideology.",
+      "speaker_attribution": "Mostly Jiang lecture with clips or quoted video material embedded in segments 0011, 0012, and 0014.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0011",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0012",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0014"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The embedded Yale video material includes students demanding apology and comfort, and Christakis refusing the premise that his job is to create comfort and home.",
+      "speaker_attribution": "Quoted or played classroom video material, not Jiang's own performed question.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0011",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0012",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0014"
+      ],
+      "note": "Diarization marks these as non-Jiang speakers, but context suggests Jiang is playing or quoting Yale confrontation video; do not treat them as live audience questions.",
+      "suggested_speaker": "quoted-video-material",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the classroom preference for safe space marks a generational divide from his youth, when free space was assumed to be the educational default.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-10-11.",
+      "topic_tags": [
+        "generation",
+        "safe-space",
+        "free-space"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the student demand for comfort turns the professor into a service worker whose job is to make students feel at home, which defeats the point of university.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0014",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture interpretation on 2025-10-11.",
+      "topic_tags": [
+        "university",
+        "comfort",
+        "professor",
+        "consumerism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists three standard explanations for the Yale-style confrontation: protected parenting, consumer/customer logic in universities, and ideological training about racism and privilege.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture model on 2025-10-11.",
+      "topic_tags": [
+        "parenting",
+        "consumerism",
+        "ideology",
+        "university"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0015"
+      ],
+      "moment": "The student demand is rendered as: I do not want openness, debate, or pain; I want to feel at home.",
+      "source_phrase": "my job is to help you grow and that means openness that means debate that means pain",
+      "why_it_matters": "It converts the campus clash into a theory of education versus comfort.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "consumerist mentality",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The view that students are customers and universities must satisfy their demand for comfort and safety.",
+      "confidence": "high"
+    },
+    {
+      "term": "neoliberalism",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Used here as a customer-is-always-right logic applied to university education.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0014"
+      ],
+      "note": "Segment 0014 appears to mix Jiang setup with quoted confrontation video; preserve as quoted material rather than clean speaker dialogue."
+    }
+  ]
+}
