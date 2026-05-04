@@ -28,14 +28,18 @@ Environment:
   AUTH_PROFILE  Spawnfile auth profile for Codex OAuth. Default: jiang-lens
   JIANG_LENS_REPO_DIR
                 Absolute checkout path in the container. Default: PicoClaw workspace/jiang-lens
+  EPISODE_WORKER_STATE_DIR
+                Absolute durable worker state path in the container. Default: PicoClaw state/episode-worker
   PICOCLAW_AUTONOMY_ENABLED
                 Set true to enable Picoclaw's built-in heartbeat. Default: false
   PICOCLAW_HEARTBEAT_INTERVAL_SECONDS
                 Picoclaw built-in heartbeat interval. Default: 900
   EPISODE_WORKER_LOOP_ENABLED
-                Set false to disable the direct worker loop. Default: true
+                Set false to disable the direct worker supervisor. Default: true
   EPISODE_WORKER_LOOP_INTERVAL_SECONDS
-                Seconds between direct worker loop iterations. Default: 60
+                Seconds between supervisor checks/iterations. Default: 60
+  EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS
+                Seconds between supervisor heartbeat writes while an iteration runs. Default: 30
   EPISODE_WORKER_LOOP_ONCE
                 Set true to run one loop iteration, useful for debugging.`);
     process.exit(0);
@@ -55,6 +59,8 @@ const spawnOut = process.env.SPAWN_OUT ?? path.join(root, ".spawn", "episode-wor
 const spawnfileBin = process.env.SPAWNFILE_BIN ?? "spawnfile";
 const defaultContainerRepoDir =
   "/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/jiang-lens";
+const defaultContainerStateDir =
+  "/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker";
 
 const fail = (message) => {
   console.error(message);
@@ -171,7 +177,12 @@ const containerRepoDir = process.env.JIANG_LENS_REPO_DIR ?? defaultContainerRepo
 if (!path.isAbsolute(containerRepoDir)) {
   fail(`JIANG_LENS_REPO_DIR must be an absolute container path, got: ${containerRepoDir}`);
 }
+const containerStateDir = process.env.EPISODE_WORKER_STATE_DIR ?? defaultContainerStateDir;
+if (!path.isAbsolute(containerStateDir)) {
+  fail(`EPISODE_WORKER_STATE_DIR must be an absolute container path, got: ${containerStateDir}`);
+}
 const runtimeRepoDir = path.join(runtimeDir, "repo");
+const runtimeStateDir = path.join(runtimeDir, "state");
 
 run("docker", ["image", "inspect", image], { stdio: "ignore" });
 
@@ -191,6 +202,7 @@ if (listening.status === 0) {
 
 fs.mkdirSync(path.join(runtimeDir, "moltnet", "servers"), { recursive: true });
 fs.mkdirSync(runtimeRepoDir, { recursive: true });
+fs.mkdirSync(runtimeStateDir, { recursive: true });
 
 const existingContainerId = spawnSync(
   "docker",
@@ -248,8 +260,10 @@ for (const key of [
   "PICOCLAW_HEARTBEAT_INTERVAL_SECONDS",
   "EPISODE_WORKER_LOOP_ENABLED",
   "EPISODE_WORKER_LOOP_INTERVAL_SECONDS",
+  "EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS",
   "EPISODE_WORKER_LOOP_ONCE",
-  "EPISODE_WORKER_LOOP_SESSION"
+  "EPISODE_WORKER_LOOP_SESSION",
+  "EPISODE_WORKER_STATE_DIR"
 ]) {
   if (process.env[key]) {
     dockerArgs.splice(dockerArgs.lastIndexOf(image), 0, "-e", `${key}=${process.env[key]}`);
@@ -283,6 +297,12 @@ dockerArgs.splice(
   0,
   "-v",
   `${runtimeRepoDir}:${containerRepoDir}`
+);
+dockerArgs.splice(
+  dockerArgs.lastIndexOf(image),
+  0,
+  "-v",
+  `${runtimeStateDir}:${containerStateDir}`
 );
 
 run(invocation.command, dockerArgs, {

@@ -44,6 +44,17 @@ Run repo commands from there:
 cd jiang-lens
 ```
 
+The worker also has durable local state mounted outside git. By default the host
+stores it at `.runtime/episode-worker/state` and the container sees it at:
+
+```text
+/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker
+```
+
+Read `STATE.md` before using these files. Runtime state helps restarts resume
+the same source, but it does not override repo status, Moltnet instructions,
+source artifacts, validation, or GitHub PR state.
+
 ## Local Docker Stack
 
 For local testing, run Moltnet inside the episode-worker container and expose it
@@ -181,12 +192,15 @@ at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.
 
 The Docker stack runs episode work through the direct worker loop in
-`ops/scripts/episode-worker-entrypoint.sh`. The Moltnet room attachment is
-configured with `reply: never` because Moltnet auto-reply is a short chat path
-and can terminate long episode jobs. Treat Moltnet as the coordination surface,
-not as the long-running job supervisor. This does not mean silence: read the
-room at startup and stage boundaries, answer fresh direct mentions, and post
-claims, questions, blockers, PRs, and handoffs with the Moltnet CLI.
+`ops/scripts/episode-worker-entrypoint.sh`. That launcher is a small supervisor:
+it starts the durable episode-worker identity, writes process heartbeat state,
+recovers stale leases after crashes, and resumes the same checkout/state on the
+next wake. The Moltnet room attachment is configured with `reply: never`
+because Moltnet auto-reply is a short chat path and can terminate long episode
+jobs. Treat Moltnet as the coordination surface, not as the long-running job
+supervisor. This does not mean silence: read the room at startup and stage
+boundaries, answer fresh direct mentions, and post claims, questions, blockers,
+PRs, and handoffs with the Moltnet CLI.
 
 ## Validate
 
@@ -224,7 +238,7 @@ The PR body must include:
 - what changed,
 - validation commands and results,
 - episode-only follow-up suggestions for a separate corpus-impact/lens agent, if any,
-- memory or skill updates, if any,
+- memory updates or worker-local proposals, if any,
 - blockers or review requests.
 
 Post the PR to `episode-floor`:
@@ -248,8 +262,8 @@ Do not use direct pushes or manual merge commands to bypass CI. If local validat
 After each episode, ask what should improve next time:
 
 - If it is an agent habit, update `MEMORY.md` concisely.
-- If it is a repeatable method, update the relevant skill.
-- If it is a missing mechanical check, propose or add a script.
+- If it is a repeatable method, write a proposal under `agents/episode-worker/proposals/` or in the PR notes.
+- If it is a missing mechanical check, write a concrete proposal instead of adding shared scripts unless the maintainer explicitly expands scope.
 - If it is source-specific, keep it in that source's artifact or PR notes.
 
 Growing with the system means preserving useful experience in durable, reviewable repo artifacts.
@@ -257,5 +271,6 @@ Growing with the system means preserving useful experience in durable, reviewabl
 For worker self-diagnosis, postmortem, or instruction-hardening tasks, durable
 changes by this worker are limited to `agents/episode-worker/**` unless the
 maintainer explicitly expands the write scope. Put recommendations for root
-skills, content tooling, website, ops scripts, or global docs in the PR notes
+skills, content tooling, website, ops scripts, or global docs in
+`agents/episode-worker/proposals/` or the PR notes.
 instead of editing those files.

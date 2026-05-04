@@ -25,7 +25,8 @@ For worker self-improvement or postmortem tasks, the default write scope is only
 ops scripts, or global documentation unless a maintainer explicitly expands the
 scope for that task. Durable self-improvement by this worker belongs in the
 worker-owned files under `agents/episode-worker/**`; broader process changes
-must be proposed in the PR notes instead of applied outside that tree.
+must be proposed under `agents/episode-worker/proposals/` or in the PR notes
+instead of applied outside that tree.
 
 ## Startup
 
@@ -36,20 +37,21 @@ cd jiang-lens
 ```
 
 1. Read the repo `AGENTS.md` and this worker's `SETUP.md`.
-2. Inspect `pwd` and `git status --short`. Treat unknown changes as another agent's or maintainer's work.
-3. Read the newest relevant maintainer or room instruction before acting on older room history. If the newest instruction says not to process a video, do not resume or claim source work even if older source-claim messages exist.
-4. If the checkout is already on a source branch or has uncommitted source work, resume that source only when the newest instruction still calls for episode production. Do not claim a second source.
-5. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before inspecting the backlog:
+2. Read `STATE.md` and the local runtime state files if `EPISODE_WORKER_STATE_DIR` is set.
+3. Inspect `pwd` and `git status --short`. Treat unknown changes as another agent's or maintainer's work.
+4. Read the newest relevant maintainer or room instruction before acting on older room history. If the newest instruction says not to process a video, do not resume or claim source work even if older source-claim messages exist.
+5. If the checkout is already on a source branch or has uncommitted source work, resume that source only when the newest instruction still calls for episode production. Do not claim a second source.
+6. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before inspecting the backlog:
 
 ```bash
 git checkout main
 git pull --ff-only origin main
 ```
 
-6. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, choose the newest applicable instruction, and ignore stale source-claim messages that predate a newer maintainer directive.
-7. Confirm you are not on `main` for implementation work. If you are on `main`, create the instructed branch or a source-scoped branch before editing.
-8. If the task names a video ID or source slug and the newest instruction is episode production, process that target.
-9. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state:
+7. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, choose the newest applicable instruction, and ignore stale source-claim messages that predate a newer maintainer directive.
+8. Confirm you are not on `main` for implementation work. If you are on `main`, create the instructed branch or a source-scoped branch before editing.
+9. If the task names a video ID or source slug and the newest instruction is episode production, process that target.
+10. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
@@ -106,7 +108,7 @@ The PR is the handoff and audit artifact. Required CI is the merge gate. If vali
 
 You are attached to the local Moltnet room `local_lab/episode-floor`.
 
-Use it for concise status, blockers, review requests, and handoffs. Keep the room operational: report concrete source IDs, files, validation results, and next actions. Do not stream internal reasoning or long transcript excerpts into the room.
+Use it for concise status, blockers, review requests, and handoffs. Keep the room operational: report concrete source IDs, files, validation results, and next actions in plain text. Do not stream internal reasoning, long transcript excerpts, or decorative status flourishes into the room.
 
 The worker launcher sets `MOLTNET_CLIENT_CONFIG`, so Moltnet CLI commands work from inside the repo checkout without extra path flags:
 
@@ -154,8 +156,8 @@ If it publishes the episode, stop at episode publication. Do not run `jiang-corp
 You are expected to improve with the system. Use memory as working continuity, not as a private replacement for repo methodology.
 
 - Record durable lessons in `MEMORY.md` only when they are concise, source-agnostic, and likely to improve future episode work.
-- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
-- If a mistake came from missing validation, add or propose a validation script/check rather than relying on memory.
+- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change under `agents/episode-worker/proposals/` or in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
+- If a mistake came from missing validation, write a concrete proposal under `agents/episode-worker/proposals/` rather than relying on memory. Do not add shared checks unless a maintainer explicitly expands scope.
 - If a pattern affects only one source, keep it in that source's notes or PR description, not in global memory.
 - Never use learned shortcuts to skip source refs, chronology, validation, the PR/CI path, or the one-source scope.
 
@@ -198,10 +200,10 @@ End every run with:
 - validation commands run,
 - whether the episode is website-visible,
 - any episode-only follow-up suggestions for a separate corpus-impact/lens agent,
-- any memory or skill updates made,
+- any memory updates or worker-local proposals made,
 - the next useful autonomous job.
 
-If a run teaches a durable process improvement, propose a skill update. Do not silently encode broad methodology only in personal memory.
+If a run teaches a durable process improvement, propose a skill update under `agents/episode-worker/proposals/` or in the PR notes. Do not silently encode broad methodology only in personal memory, and do not edit `.codex/skills/**`.
 
 After the PR is merged and final status is posted, return the checkout to clean `main`:
 
