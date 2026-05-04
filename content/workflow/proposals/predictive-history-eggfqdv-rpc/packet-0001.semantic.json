@@ -1,0 +1,190 @@
+{
+  "source_id": "video:predictive-history-eggfqdv-rpc",
+  "source_date": "2025-09-05",
+  "packet_id": "predictive-history-eggfqdv-rpc-semantics-pkt-0001",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0001",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0002",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0003",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0004",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0005",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens Secret History #5 by turning the origin of secret societies into a history of Western religion: mother goddess agriculture, polytheism born from war, and monotheism born from empire.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0007",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why men fight over women rather than women fighting over men; Jiang answers with a resource model in which surplus young men are expelled and form raiding groups.",
+      "speaker_attribution": "Student question followed by Jiang answer; the student wording is fragmentary but substantive.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0007"
+      ],
+      "note": "Diarized student question is clipped, but Jiang restates it as why men go to war and women do not.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang models Western religious development as three stages: mother goddess religion, polytheism, and monotheism.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture model on 2025-09-05.",
+      "topic_tags": [
+        "religion",
+        "western-history",
+        "secret-societies"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mother goddess civilization is explained as an agricultural religion organized around fertility, crops, the womb as a portal, astrology, and women as representatives of the mother goddess.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0001",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0002",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture reconstruction on 2025-09-05.",
+      "topic_tags": [
+        "mother-goddess",
+        "agriculture",
+        "fertility",
+        "astrology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this mother-goddess world lacks property and hierarchy and treats sex as a communal fertility ritual tied to cosmic harmony.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0004",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture reconstruction on 2025-09-05.",
+      "topic_tags": [
+        "property",
+        "hierarchy",
+        "fertility-cults"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "War begins when population pressure creates discarded young men who raid other societies for women; property, marriage, hierarchy, and male status then rise together.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0005",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0006",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture model on 2025-09-05.",
+      "topic_tags": [
+        "war",
+        "gender",
+        "property",
+        "marriage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Polytheistic pantheons are framed as religious records of war: conquered gods become subordinate to the victorious god, as in Zeus ruling the Greek pantheon.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model on 2025-09-05.",
+      "topic_tags": [
+        "polytheism",
+        "pantheon",
+        "war",
+        "zeus"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0002"
+      ],
+      "moment": "The womb is described as a divine portal where the spirit world manifests into this world.",
+      "source_phrase": "The woman's womb is considered a divine portal",
+      "why_it_matters": "It anchors the first religious world in embodiment rather than doctrine.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0005",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0008"
+      ],
+      "moment": "Discarded young men become wolf packs, and that is Jiang's origin of war.",
+      "source_phrase": "become like wolves",
+      "why_it_matters": "The image compresses population pressure, gender value, raiding, and war into one causal picture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0006"
+      ],
+      "moment": "A pantheon is a peace treaty after divine war: weaker gods become children of the stronger god.",
+      "source_phrase": "the other gods became Zeus's children",
+      "why_it_matters": "It makes mythology a political memory of conquest.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "mother goddess civilization",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0001",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's term for the agricultural fertility world centered on womb, crops, stars, women, and communal ritual.",
+      "confidence": "high"
+    },
+    {
+      "term": "fertility cults",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Ritual sex practices in the mother-goddess order, treated as communal worship and cosmic communication.",
+      "confidence": "high"
+    },
+    {
+      "term": "pantheon",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A hierarchy of gods formed when defeated peoples accept the superiority of a victorious god.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0004"
+      ],
+      "note": "ASR has garbled wording near the fertility-cult explanation, but the ritual/property contrast is clear."
+    }
+  ]
+}

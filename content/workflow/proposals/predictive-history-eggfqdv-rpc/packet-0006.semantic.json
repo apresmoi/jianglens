@@ -1,0 +1,197 @@
+{
+  "source_id": "video:predictive-history-eggfqdv-rpc",
+  "source_date": "2025-09-05",
+  "packet_id": "predictive-history-eggfqdv-rpc-semantics-pkt-0006",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Paradise Lost as the greatest English poem and says Milton was a secret-society member whose poetry embeds the hidden truth.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0042",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0043",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0044"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether there is a true God if this world is made by the false God; Jiang answers that the Monad is true but does not directly interfere, either because it leaves humans free to return or because human error expands its imagination.",
+      "speaker_attribution": "Student question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0044",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0045",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0046",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the Monad/imagination answer and frames Paradise Lost as the British imperial epic, a soul-forming text whose secrets are visible only to those who already know the secret.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0042"
+      ],
+      "note": "Real student question: whether the system has a true God if this world is from the false God.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Paradise Lost encodes secret-society truth and that proper poetic analysis can reveal what members embedded in literature.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0040",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0041",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Literary method claim in the 2025-09-05 lecture.",
+      "topic_tags": [
+        "paradise-lost",
+        "poetry",
+        "secret-societies"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In answer to a student, Jiang identifies the Monad as the true God and says it may not interfere because humans must freely choose spiritual return.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0042",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Secret-society explanation in the 2025-09-05 lecture.",
+      "topic_tags": [
+        "monad",
+        "free-will",
+        "true-god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A second explanation, attributed to Dante, says the eternal perfect Monad lacks imagination and permits flawed humans because mistakes and evil expand universal imagination.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0043",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0044",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Dante-linked explanation in the 2025-09-05 lecture.",
+      "topic_tags": [
+        "dante",
+        "imagination",
+        "evil",
+        "monad"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Milton is presented as a blind prophetic free thinker and Paradise Lost as the foundational text of many secret societies.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0045",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Literary-historical claim in the 2025-09-05 lecture.",
+      "topic_tags": [
+        "milton",
+        "paradise-lost",
+        "prophecy"
+      ],
+      "claim_type": "interpretation",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The plot of Paradise Lost is introduced as Milton's reimagining of the fall, with Satan turning from defeated rebel to the one who volunteers to go to Eden.",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Textual setup in the 2025-09-05 lecture.",
+      "topic_tags": [
+        "paradise-lost",
+        "satan",
+        "fall"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0043"
+      ],
+      "moment": "The true God does not force return; the soul must choose the path back.",
+      "source_phrase": "if you want to return to him then you have the choice",
+      "why_it_matters": "It keeps the lecture's salvation model from becoming another external command.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0044"
+      ],
+      "moment": "Human evil and mistake become the imagination engine of the universe.",
+      "source_phrase": "by committing evil by making mistakes we expand the imagination of the universe",
+      "why_it_matters": "It explains why transgression later becomes spiritually dangerous but necessary.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0046"
+      ],
+      "moment": "Paradise Lost hides secrets that only people who already know the secret can see.",
+      "source_phrase": "only if you understand the secrets yourself can you see the secrets",
+      "why_it_matters": "It names the lecture's hermeneutic: poetry is an encoded initiation device.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Paradise Lost",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0041",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Milton's epic poem, treated by Jiang as a foundational secret-society text that encodes hidden cosmology.",
+      "confidence": "high"
+    },
+    {
+      "term": "Demiurge",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0042",
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "The false God whose prison-world raises the student question about why the true God does not intervene.",
+      "confidence": "high"
+    },
+    {
+      "term": "imagination of the universe",
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "The growth of the Monad through human flaw, mistake, evil, recognition, and adjustment.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eggfqdv-rpc@transcript:v1#seg-0045"
+      ],
+      "note": "ASR has duplicated and garbled lines near “British Empire/Anglo-American Empire”; the Paradise Lost framing remains clear."
+    }
+  ]
+}
