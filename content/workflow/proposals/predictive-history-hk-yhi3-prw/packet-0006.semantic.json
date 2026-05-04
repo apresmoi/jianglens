@@ -1,0 +1,162 @@
+{
+  "source_id": "video:predictive-history-hk-yhi3-prw",
+  "source_date": "2025-10-11",
+  "packet_id": "predictive-history-hk-yhi3-prw-semantics-pkt-0006",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0041",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0042",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends bureaucratic bloat to federal departments and hospitals, arguing that administrators evaluate themselves, reward themselves, and make healthcare expensive by denying and complicating claims.",
+      "speaker_attribution": "Jiang lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0044",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0046",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0047",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He uses Kafka's The Trial and a personal Toronto policing story to argue that bureaucrats target compliant ordinary people because that justifies their existence with less risk than doing real work.",
+      "speaker_attribution": "Jiang lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says every federal bureaucracy shows a similar ratio problem: too many administrators and managers who do little, too few people doing science, engineering, and real work.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-10-11.",
+      "topic_tags": [
+        "federal-government",
+        "administrators",
+        "real-work"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that bureaucratic evaluation is rigged because managers evaluate themselves and their friends as outstanding while demanding more from workers.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0041",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-10-11.",
+      "topic_tags": [
+        "evaluation",
+        "managers",
+        "bureaucratic-game"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says US healthcare costs are driven not by superior care but by exploding administrators who invent ways to deny or complicate claims.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0042",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-10-11.",
+      "topic_tags": [
+        "healthcare",
+        "insurance",
+        "administrators"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kafka's The Trial becomes Jiang's literary model for bureaucracy: a system arrests innocent people and wages pointless prosecutions because it needs activity even when everything is meaningless.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0044",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture interpretation on 2025-10-11.",
+      "topic_tags": [
+        "kafka",
+        "the-trial",
+        "bureaucracy",
+        "meaninglessness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says bureaucrats prefer compliant innocent people over real criminals or harder problems because compliant people let bureaucrats justify themselves with minimal work.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0046",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0047",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture model on 2025-10-11.",
+      "topic_tags": [
+        "police",
+        "compliance",
+        "bureaucratic-incentives"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045"
+      ],
+      "moment": "The bureaucracy does not need guilt; it needs innocent people it can process.",
+      "source_phrase": "arrest innocent people and wage pointless prosecutions",
+      "why_it_matters": "It turns Kafka into the lecture's model of administrative self-justification.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048"
+      ],
+      "moment": "Bureaucrats make problems for ordinary citizens because ordinary citizens are easier than real problems.",
+      "source_phrase": "make problems for ordinary citizens because life becomes easier for them",
+      "why_it_matters": "It links the personal police story back to the abstract bureaucracy theory.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "The Trial",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0044",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Kafka novel Jiang uses as a model of a society where bureaucrats process innocent people because procedure has replaced meaning.",
+      "confidence": "high"
+    },
+    {
+      "term": "compliant target",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "An ordinary person bureaucrats can pressure safely because the person will not fight back.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0046"
+      ],
+      "note": "A short ASR artifact appears in the Toronto story; the narrative remains intelligible around it."
+    }
+  ]
+}

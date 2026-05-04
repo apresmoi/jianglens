@@ -1,0 +1,117 @@
+{
+  "source_id": "video:predictive-history-hk-yhi3-prw",
+  "source_date": "2025-10-11",
+  "packet_id": "predictive-history-hk-yhi3-prw-semantics-pkt-0001",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0001",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0002",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0003",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0004",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0005",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0006",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0007",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang frames the Yale Halloween email fight as safe space versus free space, then polls students. Students give fragmentary answers for free exploration, rule-respect, and a leader's duty to provide safety.",
+      "speaker_attribution": "Jiang classroom prompt with multiple student responses; student wording is noisy and partly clipped.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0004",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0006",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0008"
+      ],
+      "note": "These are student answers to Jiang's classroom poll, not Jiang claims. The ASR is clipped around segment boundaries.",
+      "suggested_speaker": "students",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents the Yale Halloween email incident as a conflict between safe space, which prioritizes avoiding offense, and free space, which treats experimentation, mistakes, and hurt feelings as part of education.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0001",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture framing on 2025-10-11.",
+      "topic_tags": [
+        "safe-space",
+        "free-space",
+        "university",
+        "education"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The classroom vote itself shows the tension Jiang wants to analyze: students can value personal exploration while also seeing institutional leaders as responsible for safety.",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0004",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0006",
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Classroom exchange on 2025-10-11.",
+      "topic_tags": [
+        "student-opinion",
+        "safe-space",
+        "authority"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0002"
+      ],
+      "moment": "The whole lecture opens on one educational fork: should a university protect feelings or let students make mistakes and recover from them?",
+      "source_phrase": "explore experiment and make mistakes",
+      "why_it_matters": "It gives the later bureaucracy argument a moral baseline: education requires risk before administration converts risk into liability.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "safe space",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "The university-side value of protecting students from offense or hurt feelings.",
+      "confidence": "high"
+    },
+    {
+      "term": "free space",
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Erika Christakis's and Jiang's educational ideal of debate, questioning, experimentation, mistakes, and growth through discomfort.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0001"
+      ],
+      "note": "The source event Jiang is discussing occurred at Yale in October 2015; the lecture itself is dated 2025-10-11.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0006"
+      ],
+      "note": "The student's answer is ASR-noisy and fragmentary; treat it as a broad safe-space/rule-respect position, not a clean quotable public question."
+    }
+  ]
+}

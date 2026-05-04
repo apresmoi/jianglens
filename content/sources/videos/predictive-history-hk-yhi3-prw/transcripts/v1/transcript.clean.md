@@ -1,0 +1,513 @@
+# Secret History #8:  Death by Bureaucracy
+
+Source: https://www.youtube.com/watch?v=hk_yhi3-prw
+
+## seg-0001 / 00:00:00-00:01:18 / SPEAKER_01
+
+Okay so welcome back from the break. Today I want to talk about an incident that happened in October 2015 at Yale University. What happened was this Halloween is coming up and then Halloween people like to dress up silly get drunk have a good time and a university department called the Intercultural Affairs Committee sent an email to students saying it's Halloween you guys want to have fun that's fine but please be sensitive about the feelings of other people. So for example do not dress up like a panda because we have Chinese students and they might be offended if you dress up like a panda. Okay so this email went out to all the students at Yale and they said, and one teacher who works at a residential college called Silliman okay so Yale University is divided into dormitories called residential colleges and she is a dean with her husband of this college called Silliman and to
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:18-00:02:42 / SPEAKER_01
+
+her students she writes an email and says that she didn't agree with the university email she says that a university is a place for you to explore experiment and make mistakes. So yes be sensitive about the feelings of others but we trust you to make mistakes and to recover from them okay so the debate was about essentially over safe space versus free space the University said that safe space is important we must respect the feelings of others but the dean of silliman her name is erica christakis she believes an idea of free space so a university is a place for debate for questioning for experimentation and yes feelings will be hurt that's part of the growing up process the intellectual process so let me ask you a question do you guys agree with number one who argues for safe space or number two erica christakis who argues for free space what do you think okay
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:43-00:02:51 / SPEAKER_01
+
+sorry sorry can can you speak into the mic please of why yeah why do you believe number two
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:51-00:03:05 / SPEAKER_02
+
+is number one and number two is correct oh because i think that university is a place that you could explore yourself you know jump out of your comfort room and try the things that you never had
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0004
+
+## seg-0005 / 00:03:05-00:03:10 / SPEAKER_01
+
+experienced before okay who disagrees who believes it's more important to respect the feelings of
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0005
+
+## seg-0006 / 00:03:10-00:03:43 / SPEAKER_07
+
+others um like if did the college prohibit these on dressing that maybe us be an offensive to other students it's just in the campus if you like work out you know the society is still have people like wants to uh dress maybe like a panda or something so um i think it's i think it's like necessary to like to um to well uh
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0006
+
+## seg-0007 / 00:03:44-00:03:52 / SPEAKER_01
+
+uh yeah okay all right any other opinions any other opinions okay so you say respect the rules
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0007
+
+## seg-0008 / 00:03:52-00:04:10 / SPEAKER_03
+
+right i think i think it depends on who decided it feels like for myself i think free space will be more important i need to explore what i want but for being as a leader being as a head of the college i think safe space will be more important for them because they need to take in
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0008
+
+## seg-0009 / 00:04:10-00:05:16 / SPEAKER_01
+
+control okay right but the problem is this is a conflict right if the teachers care about safe space you cannot have free space right so the question then is what do you think in principle is more important free space or safe space safe space okay okay all right okay so yeah so most students believe safe space is more important and this marks a generational shift because when i was growing up there was no debate it was just assumed that free space is more important because if you're not allowed to make mistakes if you're not allowed to explore you're not allowed to argue with other people if your feelings don't get hurt you will never grow as a person okay so this marks a generational divide or a generational gap okay so um we're gonna look at what happened because of this debate so the students who read the email were offended that erica christakis was
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0009
+
+## seg-0010 / 00:05:16-00:05:48 / SPEAKER_01
+
+arguing for free space because they believe that by doing this you're gonna hurt our feelings all right and so let's look at what happened and remember this is yale university so what's happening is that when chris nicholas christakis the husband of erica christakis went to meeting he was surrounded by students and they're confronting him
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0010
+
+## seg-0011 / 00:05:52-00:05:58 / SPEAKER_05
+
+telling you that you are being racist you are being offensive you admitted that you hurt us why can't you say sorry
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0011
+
+## seg-0012 / 00:06:00-00:06:26 / SPEAKER_06
+
+i'm sorry for anyone okay so look i'm not saying which side is correct
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0012
+
+## seg-0013 / 00:06:26-00:07:17 / SPEAKER_01
+
+both sides have legitimate points both sides have problems but you will notice that he the professor he's much older than that i think that's why i'm talking about university history students and the students are treating him you can see their faces right they're treating him with some contempt and that's not appropriate and when i was growing up we didn't do this if you didn't like a professor you thought well he's an and but you know what most professors are because they're professors okay you didn't you did not go and like stalk the guy and complain to him that's kind of disrespectful all right so the question then is why is this
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0013
+
+## seg-0014 / 00:07:17-00:07:53 / SPEAKER_06
+
+happening so i want to show you another video and this video is kind of crazy okay this video as your position as a master is your job to create a place of comfort and home for the students that live in filaments you have not done that by sending out that email that goes against your position as masters you understand that no i don't agree with that
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0014
+
+## seg-0015 / 00:07:57-00:09:09 / SPEAKER_01
+
+okay so this is not appropriate okay again both sides have legitimate points but this is not appropriate right because what she's saying to him is you work for us your job is to make us feel at home and his response is that my job is to help you learn my job is to help you grow and that means openness that means debate that means pain and her response is i don't want that crap i want to feel good i want to feel at home i don't be challenged and if you think about it that defeats the entire point of university so again i'm not saying who's right i'm not saying who's wrong but clearly there's a problem here and when i went to yale a long time ago we didn't have any of this in fact this sort of incident where a student would curse a professor it was unimaginable to us okay so the
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0015
+
+## seg-0016 / 00:09:09-00:10:18 / SPEAKER_01
+
+question then is why is this happening and there are three explanations for why this is happening the first explanation is parenting these kids grew up in very privileged households and their parents are very protected figure out better they pay more duties and now they're very lucky because they're of them and their parents treat them like friends and so these kids are spoiled okay that's the first explanation the second explanation is the idea of a consumerist mentality so in a university the idea is that the students are consumers their customers and the customers are always right what the customers want you have to give them so if the customers want a safe space they want to come and enjoy their time in university and they don't really challenge the professors have to meet their demands otherwise he should not have this job okay and this is a mentality that we call neoliberalism or consumerism that's the
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0016
+
+## seg-0017 / 00:10:18-00:11:47 / SPEAKER_01
+
+second explanation okay the third explanation is ideological so the idea is that at universities universities are overrun by the left -wing professors who teach students that society is racist against minorities who happen to be you know black and female and they must overturn the white racist supremacist structure and you do that by telling what professors who are privileged that they are racist okay so these are three standard explanations for why this is happening because this sort of stuff is happening quite a lot in America what I want to argue to you today is that there's actually another explanation which I think is much more compelling and the explanation is that universities have become bureaucracies before universities existed to teach you how to think to help people think in a professors do cutting -edge research that helps a society improve or innovate but today universities including Yale Harvard all the universities have become bureaucracies that exist
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0017
+
+## seg-0018 / 00:11:47-00:12:53 / SPEAKER_01
+
+in order to promote the interests of the administrators who want to sit in their office get really nice get get a really big salary and feel good about themselves okay that's argument I will make to you today and what I will show you is that this is not just true for universities it's true for every major organization in America and in the Western world and arguably all around the world okay that's the argument I will make to you today any questions before I begin all right okay so today's lecture is death by bureaucracy how the idea of bureaucracy the bureaucratic mindset is taking over the world all right so let's have another incident at Yale okay this is yeah law school and a student named Trevor Cobalt he says an email he has a party he says an email to all the students at Yale Law School and then there are actually not that many
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0018
+
+## seg-0019 / 00:12:53-00:13:28 / SPEAKER_01
+
+students at Yale Law School there's maybe 300 okay but all the students get it and he says that he's gonna organize a party and it's a trap house party and you know it's it's a bit of a joke because trap house means actually a drug house a party and there's a plan for a trap house. there's not a bun on Twitter with federal law school there's maybe 300 but all the students get it and it's a trap house party a party and you know it's a bit of a joke because So what's the good thing this is trap house means Student poll the fuck crock called partyón a place where drug dealers sell drugs. But black students, African American students, read the email and they're offended. And they're like, are you making fun of black students? So they write a letter of complaint to the deans of Yale Law School. And there are two deans who investigate, okay?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0019
+
+## seg-0020 / 00:13:28-00:14:29 / SPEAKER_01
+
+Their names are Eldick and Cosgrove, okay? And what Trevor Cooper does is, he actually records the meeting, okay, secretly. For 20 minutes, they talk. And basically, Cooper does not believe he did anything wrong. He sent an email and he said it was a funny email. He thought it was funny, okay? But the deans tell him, you think it's funny, but other students found it offensive, so you need to apologize. And Cooper's like, okay, well, I'll tell you what. If these students thought that what I wrote was offensive, then I will talk to them. We will talk together about why they found the email offensive and we will settle this amongst ourselves. And the deans are like, no, no, no. We want to help you guys out. We want to protect you guys. We're afraid that if you guys meet, you guys will fight even more. And Trevor Cooper is like, well, I want to hear what they think.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0020
+
+## seg-0021 / 00:14:29-00:15:35 / SPEAKER_01
+
+I don't want to hear this from you. I want to hear what they think, okay? And then what happens is that the deans, the deans start to threaten Trevor Cooper. They basically tell him, these things amplify over time, so you must apologize right away for your sake, okay? And they tell him, listen, if you do not apologize, then this might affect your career. This might affect your social circle, okay? So they're threatening him. And what they say is, we're doing this for your sake, okay? Eric says he worries about the email affecting the student's reputation, not just here, but when you leave. You know the legal community is a small one. And he says, you know what? I will write the email for you. I will craft the apology for you. And Karl Skroft warns that escalation is a possibility if the student doesn't apologize, okay? So this is coercion.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0021
+
+## seg-0022 / 00:15:36-00:16:35 / SPEAKER_01
+
+And again, the student, it's not clear what the student did wrong. Some students found it offensive, but it's not clear what rules, or laws, or what regulations Trevor Colbert broke, okay? It's not clear. So why is this happening, okay? My argument to you is that it's happening because these guys, Karl Skroft and Eric, they need things to do. Because being a dean of a university, it's not a real job, right? There are professors who teach, there are researchers who do research, but deans actually don't do anything. So when you have a bureaucracy, and you have a dean of a university, bureaucrats go make problems for everyone in order to create solutions for everyone, okay? So another saying this is 20 years ago, 30 years ago, when I was a student at Yale, if you had a problem, you had to go talk to a professor because there was no one else to talk to.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022
+
+## seg-0023 / 00:16:35-00:17:34 / SPEAKER_01
+
+Nowadays, you can talk to like 20 or 30 different deans, dean of student affairs, dean of student faculty, who knows, okay? But there are like all these offices that you can go to. And quite honestly, it's the same at the school as well, right? If you don't like me as a teacher, there's like four or five different people you can complain to. And quite honestly, a lot of you do complain, okay? So I know about this. And what is happening is these universities have become bureaucracies. Now the question then is, why the bureaucracies? And the answer is, in the beginning, as a university, you have to build your reputation, right? So you work hard, you focus on teaching, you focus on research. So it's a struggle to become a global brand. Once you become that global brand, there's nothing else to do. There's no more ideology, there's no more struggle. So what happens is the people in charge start engaging in rent -seeking behavior.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0023
+
+## seg-0024 / 00:17:34-00:18:36 / SPEAKER_01
+
+They take advantage of the position in order to make their life easier. And then they pass on this privilege to their friends and then to their children. And this creates a bureaucracy. And the university starts to exist in order to empower these people at the expense of students and professors, okay? All right, so to show you how ridiculous this has become, here's another example. This is from CNN, okay? And this is the year 2020. A University of South California professor is under fire for using a Chinese expression students allege sound. It sounds like an English slur, okay? So there's a Chinese word that sounds like a racial slur, an insult in English. These two words actually do not sound the same, okay? You know what the word is, right? 那个 那个桌子 那个电脑 Okay? It's not the same as the English word, but it sounds a bit similar.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0024
+
+## seg-0025 / 00:18:36-00:19:30 / SPEAKER_01
+
+So what happened was some black students, African American students, who were not in his class, okay? Wrote a letter of complaint. And honestly, if you read it, it sounds like a joke. It sounds like a prank, all right? So let's read it together. Let's, okay, so this is a professor, Greg Patton, and he's just teaching communication Chinese. He's just teaching Chinese to his students on how to communicate in China when you do business, okay? And he says, look, 那个, it's just a filler. It doesn't really mean anything. And he says it a few times, but there's no bad intention in what he's saying, right? I mean, he's just pointing out a fact. So what these students write is, this phrase, clearly and precisely before instruction, is always identified as a phonetic homonym and a racial derogatory term and should be carefully used, especially in the context of speaking Chinese within the social context of the United States, okay?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0025
+
+## seg-0026 / 00:19:30-00:20:30 / SPEAKER_01
+
+So this is a ridiculous idea. And honestly, it sounds like a joke, okay? It just sounds like these students are playing a joke. And the professor, and the professor, and the professor, the administration just ignore this, right? Guess what happens? The dean, okay, the head of the business school, announced that a different professor would take over teaching Patton's class. He fired Patton. And then he said, Professor Patton repeated several times a Chinese word that sounds very similar to a vile racial slur in English. Understandably, this caused great pain and upset among students. And for that, I am deeply sorry. It is simply unacceptable for faculty to use words in class that can marginalize students. I am sorry that I've hurt and harmed the psychological safety of our students. We must, and we will do better. Okay? He's being retarded. It's a joke, it's a prank, and he's taking it very seriously.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0026
+
+## seg-0027 / 00:20:30-00:21:45 / SPEAKER_01
+
+Why? Because he's trying to protect his job. He's trying to look good. He's trying to explain why I'm the leader, because I protect everyone, okay? So then again, why is this happening? Well, why is this happening? well again the idea of bureaucracy so this is the university of california san diego this is student enrollment okay so you can see a slight increase in student enrollment but look at this senior management deans administrators managers boom okay boom this is called rent -seeking behavior this is people in power take advantage of their power to give jobs to their friends who do nothing every day and because of that they're always looking to cause problems for everyone else especially professors who do real work okay so let's just look at universities as you can see the blue is teaching so it's really interesting is that the investment in teaching has gone down okay so the investment in
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0027
+
+## seg-0028 / 00:21:45-00:22:54 / SPEAKER_01
+
+teaching has gone down the blue okay but look at this the red is administration so over the past from 1980 to today over the past 40 years universities have put less money into both um administration as well as maintenance but i've put more money into administration into bureaucracy okay this is where your money is going guys all right so this is illinois you see a massive surge in managers at the same time student enrollment is going down it went down to three percent all right so this is a paper written about the swedish education system the higher education system system okay it's it's no different anywhere else all right so let's so the argument is that bureaucracy is ballooning in swedish higher education so let's look at some interesting statistics all right so what's happening is that this chart tells you that teachers are teaching more and more students in higher education okay so this
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0028
+
+## seg-0029 / 00:22:54-00:23:56 / SPEAKER_01
+
+is the number of teachers teaching more and more students okay teachers are teaching more and more students but administrators are managing less and less students and the reason why is teachers are fewer and fewer but managers are more and more that makes no sense okay um so you can see that teachers and researchers it's pretty flat okay it hasn't really explained that much but secretaries people who do real work it's going down but managers are going down it's going up okay so the university is facing problems the first thing you should cut other people do no work right but it's the opposite people do no work the managers keep their jobs and in fact they pay themselves more the professors and the maintenance and the secretaries lose their jobs to cut costs okay um this is how much they're paid as you can see over the same time period secretaries are getting paid less and
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0029
+
+## seg-0030 / 00:23:56-00:25:02 / SPEAKER_01
+
+less teachers are getting paid less and less but look at this managers are getting paid more and more these are the different departments okay of a university so as you can see okay the the jobs the departments that do real work i.t uh hr they're going down but management is going up all right so the people who do actually no work their jobs keep on going up and up and they get paid more and more and as i said the problem with bureaucracy is not only do managers do nothing every day but they expect others to do more work okay so professors researchers teachers they're doing more work because the managers are given more paperwork to do okay like evaluations and all that so professors spend all now almost 20 of their work day on paperwork given to them by managers and this paperwork is not necessary it's just given to them to justify
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0030
+
+## seg-0031 / 00:25:02-00:26:14 / SPEAKER_01
+
+the jobs of the managers okay this is america we go back to america and as you can see um this is a university called gallaudet debt and as you can see over a 20 -year period there's a blue are the salaries of professors and it's pretty stable okay you went from 72 to 86 not a huge increase but look for managers okay the president it doubled from 141 to 280 it doubled right now the salaries are over three times as much as faculty this is connecticut at yale the president makes two million dollars a year at westland he makes three million dollars a year okay um this is a private university called stratford university and they went bankrupt right now more and more universities are going bankrupt because obviously you have too many managers and all they do is um get huge paychecks for doing nothing eventually you're gonna go bankrupt right so yeah i
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0031
+
+## seg-0032 / 00:26:14-00:26:19 / SPEAKER_01
+
+can start sorry to interrupt but this school
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0032
+
+## seg-0033 / 00:26:20-00:26:26 / SPEAKER_02
+
+the school board is not stupid so i mean this is a fact and so why why don't they just change
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0033
+
+## seg-0034 / 00:26:26-00:27:14 / SPEAKER_01
+
+anything that's a great question okay the reason why is to all friends the school board the president the vice president they're all friends and that's why they didn't do this because they control all the power they're all friends and it's in their best interest to steal together right because we're still by yourself then you might get caught but you're still together then you're untouchable okay so this is exactly why i asked that question and they were wondering are they real people and are they not high school dummies? what happens at stratford university the university goes bankrupt and because the president and the vice president are stealing from the university stealing because they are um not only collecting huge paychecks but they're also expensing everything to the university so for example for example they buy a car or they have a gym membership they charge the university and if the university can't pay for it what
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0034
+
+## seg-0035 / 00:27:14-00:28:10 / SPEAKER_01
+
+they do is they lend money to the university okay okay all right so schultz is a president he lists himself and his wife as the biggest creditors claiming that the university owes a couple 2.5 million for eight promising notes okay so the university could not pay uh their cars or the house mortgages and they say and the social are like don't worry about it we'll lend you the money and then when the university went bankrupt was like okay now you have to pay me back all right so so again how were they able to do this because the filing also shed light on payments to university insiders in its final year of operation the college paid out of over 30 000 in segments to seven trustees so the people at the top were getting paid off even as the university was going bankrupt though the filing doesn't differentiate which expenses were richard's and which
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0035
+
+## seg-0036 / 00:28:10-00:29:00 / SPEAKER_01
+
+were marianne's the filings for 2020 alone showed over 18 000 in lease and insurance payments for the short cars okay so they had cars and they were making university pay for these cars over four point seven million in loan payments and collateral return to ego bank on behalf of schultz okay so they're also making the university pay for their houses as well and then you're like how can they do this well the answer is because in america the rich always wins in the court system so whoever is able to hire the best lawyers always wins out and they have a lot of money the university is bankrupt they don't have a lot of money so they will win out okay so i point this out because this is gonna what this is what's gonna happen to many universities over the next five ten years in america because you have a system where you have the
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0036
+
+## seg-0037 / 00:29:00-00:30:05 / SPEAKER_01
+
+managers at the top they all best friends they're all stealing from the university together and eventually the university will bankrupt so that's america okay but it's not again it's not just the universities it's every bureaucracy every organization is happening like this so you look at canada in canada you can see a rise of not percent in the population but look at the government okay it's went up by 26 percent um in america you can see a sharp decline in manufacturing jobs starting in about the 1980s because these jobs are being offshore to china but at the same time you see this steady increase in government jobs okay so people in america are doing less real work and more people are becoming bureaucrats okay so as you can see the growth in the government is basically in management okay people who will work no it's pretty flat but look at the managers look at the administrators
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0037
+
+## seg-0038 / 00:30:05-00:31:07 / SPEAKER_01
+
+okay they're going way up and it's a pretty steady increase all right so how do we know the government doesn't really do anything okay so there's a study that shows us that um it's looking at rules okay so rules help society be more efficient so as you can see um the number of rules have gone down actually number of significant rules rules that actually impact you day to day have gone way down but this is interesting the paperwork has gone up okay so this tells us the managers the administrators in the federal government of the united states they don't do anything but produce paperwork that's meaningless that has actually no impact on the lives of ordinary people okay okay let's look at the military military so everyone believes that america has the world's greatest military because it spends the most on the military and has all these high -tech weapons right the problem is the
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0038
+
+## seg-0039 / 00:31:07-00:32:18 / SPEAKER_01
+
+bureaucracy in the military right now so you see what's happening is an increase in management because the ratio of manager officer to soldier is going down okay so you have more officers and less soldiers that's a problem you're fighting a war all right so um in a civil war and this is the 1860s you had one officer for every 14 soldiers now it's one to four okay the biggest problem is the increase in generals okay so you can see three and four -star generals have increased the most in world war ii um america had about 12 million soldiers they had seven generals who are four -star today america has about 1.2 million soldiers they have 40 four -star generals and this is a huge problem why because if you're a four -star general you have a lot of privileges beyond your salary so uh this is from raymond dubas who works in the pentagon
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0039
+
+## seg-0040 / 00:32:18-00:33:18 / SPEAKER_01
+
+and he writes about the perks of a four -star general a four -star has an airplane a three -star often doesn't in a three -star get an airplane when he needs it not always okay so a four -star general always has his own personal airplane what is his personal airplane let's call it g5 this is what a g5 is guys guys. This is what a G5 is. This is his own personal plane. It's always there for him. If he doesn't want to fly, it's waiting on the tarmac for him, okay? You can see how luxurious it is. This costs $50 to $60 million per plane. Every four -star general has this plane. At the same time, guys, what's happening to soldiers? The soldiers don't have enough to eat. There's 1.2 million veterans on food stamps, okay? That's 8 % of all veterans in America. The people who actually fight, the people who actually make
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0040
+
+## seg-0041 / 00:33:18-00:34:28 / SPEAKER_01
+
+sacrifices for their country don't have enough to eat, while the generals fly around in these really nice planes. That's the state of the American military, all right? So it's not just the military. It's every single U.S. government department, okay? All the administrators, you see massive increase in administration, all right? So people who do real work is the red. People who do actually no work is the blue, okay? So people who do science, math, engineering, 621. People who do administration, 1782. So in every federal bureaucracy, you have bloat. You have managers who do nothing, and you have very few people who do the actual real work. It's true for every single federal organization in America. So this just shows you the ratio of managers and supervisors, to other employees. What's really funny about bureaucracy is evaluation is very important. Who does the evaluation? Managers do the evaluation. So at the end of the year, they
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0041
+
+## seg-0042 / 00:34:28-00:35:36 / SPEAKER_01
+
+do performance review, and what happens is they tell, they evaluate themselves and their friends, and say, you really did a great job. Then look at other people who do the real work and says, you guys can do better, okay? So outstanding is the highest performance review for the government, right? So 64 % got outstanding, okay? Managers who do nothing every day. 47 % got outstanding for every other job. All right? So it's a rigged game. Same thing with hospitals. The brown is the growth in doctors. You can see it's pretty steady, but look at the administrators, okay? The yellow are the administrators. It's blowing up, okay? And so it cost— it forces health care costs to go up the reason why health care so unaffordable United States is not because it has the best health care in the world it doesn't it's so it's expensive because it's got so many administrators who do nothing every
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0042
+
+## seg-0043 / 00:35:36-00:36:36 / SPEAKER_01
+
+day all right so what do what do these managers do well managers always think of new ways to screw everyone else okay so these are health insurance companies and this is their denial rates okay so you work hard for 40 years you pay your health insurance okay and then maybe you get cancer and then you go to a doctor the doctor charges you like a million dollars and you're like you don't have a million dollars but you have insurance so you go to insurance company it's like hey I paid 40 years of insurance fees can you help me out I mean and look the insurance company you're not healthcare about a third 32 % of all claims are denied and they do this as practice because if you fight them they'll say okay you know what well well well agreed to pay you back okay but if you don't fight them then they're like great
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0043
+
+## seg-0044 / 00:36:36-00:37:36 / SPEAKER_01
+
+okay so it's extremely unethical and so that's what managers do every day think of new ways to screw over their patients and doctors all right so why is this happening all right why is America like this why is the West like this why is the entire world like this so this is France Kafka and he was writing before World War One this is his most famous book called the trial okay I'm not sure if you guys have read this book or heard of this book okay it's very good and the novel it's a very interesting novel because the main character Joseph K he works at a bank he's a black bank clerk and he has never gone into trouble his entire life okay he's very obedient he's very nice he just sticks to himself and then one day the police come and arrest him the police don't tell him why and Joseph K tries to
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0044
+
+## seg-0045 / 00:37:36-00:38:38 / SPEAKER_01
+
+figure out why but he does not know what he did wrong he does not know why he's been arrested and then he's put on trial and the judge doesn't tell him what he did wrong okay and Joseph K is trying to figure out why is this happening to me okay and this is his answer its purpose is to arrest innocent people and wage pointless prosecutions against them which as in my case lead to no result how are we to avoid those in prison becoming deeply corrupt when everything is devoid of meaning okay because society has become a bureaucracy and bureaucrats need things to do so they go the police go and arrest innocent people and then send them to trial okay now what he doesn't say is the police could arrest criminals right but the police don't want to do that because the criminals might fight back or the criminals might be mean okay they
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045
+
+## seg-0046 / 00:38:38-00:39:39 / SPEAKER_01
+
+rather arrest an innocent person because they know the person will be compliant okay that's a logic of bureaucrats how do I justify my existence by doing as little work as possible okay so this sounds strange but let me tell you a story this is a true story I'm in Toronto with my two boys and I let them run around the park okay and and we've been doing this for two months so I trust him one of my boys he's four years old he runs too far and I lose track of him okay a stranger finds him and starts talking to him but my boy doesn't speak any English so people now surround my boy like where is your parents and he is scared because he doesn't speak any English so he faints okay that's what he does he faints to protect himself zoms like where you gonna put that dog? so they call the police
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0046
+
+## seg-0047 / 00:39:39-00:40:31 / SPEAKER_01
+
+and they call the paramedics they come and they make sure he's all right okay now i find him okay and now the police interview me they interrogate me and i explain to him what happened and at this point they just let us go home right but they insist on taking us to the hospital i'm like if we go to the hospital we can be stuck there for like 12 hours we can be in line and like the paramedics the mat has already told us there's something wrong with him okay it's not heat stroke he just fainted but he's fine his vital signs are fine but the police kept on insisting meanwhile there's a fight going on at the park okay and i'm thinking to myself why are you guys bothering me and not going to arrest those guys who are fighting somewhere else and the answer is because it's easier to deal with me than
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0047
+
+## seg-0048 / 00:40:31-00:41:37 / SPEAKER_01
+
+this to go arrest those guys okay that's how bearcats think they're always thinking of ways to you justify the existence but not do real work okay and that's the message of the trial eventually society becomes so bureaucratic that the bureaucrats only think about how to make problems for ordinary citizens because life becomes easier for them okay does that make sense all right let's move on to the origins of totalitarianism by hannah rand hannah rand is the 20th century's one of the 20th century's most important and most important and most important and most important and most powerful intellectuals and she's writing about how nazism came to dominate germany now communism came to dominate soviet russia and how these two regimes led to the deaths of tens of millions of people how they started world war ii how they create the holocaust how they create the famine okay and in her book she she says that these
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048
+
+## seg-0049 / 00:41:37-00:42:46 / SPEAKER_01
+
+two regimes are religious cults they're evil cults and they have three defining characteristics okay the first is that they're removed from reality they don't care about reality they have a religion they have a faith of a mindset and they want to impose their faith on reality okay don't care about reality remove from reality that's the first thing okay second thing is that when you remove from reality your only logic is movement expansion okay you only know you're right if you're growing okay so if the nazis their faith their religion would lead to the destruction of germany but their membership was increasing so they were right they were winning these wars against european countries therefore they're right okay they cannot use logic to explain their actions so they use movement to exp to justify their actions okay that's number two one and two means number three which is the nazis and the soviets hated reality they
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0049
+
+## seg-0050 / 00:42:46-00:43:54 / SPEAKER_01
+
+defied reality they fought against reality so even though the nazis were losing the war even though it's clear they cannot defeat the soviet russia they double down because in their religion movement is what matters defining reality is what matters and that's what led to the destruction of germany okay all right so and she explains that totalitarian regimes have these three characteristics they're removed from reality all they care about is expansionism and they want to defy reality as their true test of faith what she does not say in the book is that these three can can be applied to all bureaucracies all governments meaning that over time all governments all bureaucracies will tend towards totalitarianism because they have that's the only way they can justify their existence okay does that make sense all right so let's let's talk about this concretely okay what do i mean by this so this is a book by james scott
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0050
+
+## seg-0051 / 00:43:54-00:45:12 / SPEAKER_01
+
+it's an excellent book by the way uh called seeing like a state and he's trying to explain to us how properties blockages work how governments function and for him governments actually create more problems than they solve why well he lists four reasons the first reason is that the government is trying to explain to us how bureaucracies work how net disco works how they work how things are secret but the other clear reason that he tries to put his book through in both ways is that he next question destroys spontaneity, it destroys imagination, okay? Alright, so let's use an example of this, alright? So, my question to you is like, who are you? Can you tell us who are you? Like, who are you as a person? Tell us who you are as a person. Yeah, just use one or two minutes to introduce yourself. Who are you as a person?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0051
+
+## seg-0052 / 00:45:13-00:45:28 / SPEAKER_02
+
+Hi, my name is Banker, and I grew up in Beijing. And, I came to Moonshot, this school, in 2024, last year, and...
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0052
+
+## seg-0053 / 00:45:28-00:45:32 / SPEAKER_01
+
+Okay, wrong. Wrong, okay? That's not the correct answer. The right answer is, you're a teenage boy.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0053
+
+## seg-0054 / 00:45:33-00:45:33 / UNKNOWN
+
+Oh.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0054
+
+## seg-0055 / 00:45:33-00:46:22 / SPEAKER_01
+
+Okay? That's the correct answer. Alright? You believe that you are an individual with individual aspirations, ambitions, with a past, with a history. The state doesn't care. The state needs to classify you in a way. That it can use you, okay? You're a teenage boy, which means, like, two years time, you can be employed in a factory. Or, I can send you to war. Okay? That's all I care about. Okay? I don't care about your name. I don't care about who you are. I don't care who your parents are. I don't care about your past. I don't care what you like. All I care about is the fact that you are a teenage boy, and therefore, I can exploit you for labor. Okay? That's how states think. Okay? So, the bureaucratization of society. Second is the idea of high modernist ideology. So, because the state is a monopoly, the bureaucracy is a monopoly, it becomes arrogant.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0055
+
+## seg-0056 / 00:46:22-00:47:42 / SPEAKER_01
+
+It has hubris. It's overconfident. And it wants to impose its ideology on everyone else. It believes that through its own planning, it can achieve paradise. Okay? So it becomes authoritarian, meaning it refuses to listen to criticism, to feedback, to questions. It is not open to debate. It imposes its will on people. Okay? Which creates a weak civil society. And if, as an organization, you're not getting feedback, you're not allowing for openness, then you will wither and die. Okay? And that's why states, governments will always fail in the end. Okay. So, he uses two examples. The first example is what happened in the late... 19th century Germany. So in Germany, there's lots of forests. And the state is thinking of ways, how can we best monetize the resource of the forest? Well, there are certain trees that you can cut down for lumber, right? The problem is that in a forest, most space is occupied by useless shrubs or greenery or trees.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0056
+
+## seg-0057 / 00:47:42-00:48:52 / SPEAKER_01
+
+Okay? So, their bright idea is, you know what, here's a simple solution, we'll burn down the forest and just plant trees that we can harvest for lumber. Right? Brilliant. That's a brilliant use of space. It's more efficient. The problem though is that when you do that, the trees are now susceptible to disease, to weather changes. A forest is resilient because it's diverse. Okay? So, that's what Scott says. Monocultures are, as a rule, more fragile and hence more vulnerable to the stress of disease and weather than polycultures are. Any unmatched forest may experience stress from storms, disease, drought, fragile soil, or severe cold. A diverse, complex forest, however, with its many species of trees, its full complement of birds, insects, and mammals, is far more resilient, far more able to withstand and recover from such injuries than pure stands. So, nature has diversity because it allows for resilience. Okay?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0057
+
+## seg-0058 / 00:48:52-00:49:57 / SPEAKER_01
+
+Some parts of the forest can die, but the rest of the forest will recover from anything, whether it's disease, or drought, or weather. Okay? And we humans are the same way. If you let humans do what they want, we are resilient. So, some communities might die off, but other communities will adapt. The problem with resilience is that we are resilient. The problem with a state, with a government, is that it refuses, it sees diversity as an enemy. Okay? So, if there's a natural disaster, it's very likely that a lot more people will die off than otherwise. Okay? Another example is forest communism in Tanzania. Okay? So, it's a top -down system, and their idea is, okay, these farmers have their little small farms, and they grow their crops, but that's not efficient. What if we just got all the farmers together and had coffee, and they all had coffee, or wheat, or whatever, and then we can sell this to other countries?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0058
+
+## seg-0059 / 00:49:58-00:51:05 / SPEAKER_01
+
+Okay? And of course, you can imagine that this will lead to starvation, because it's the same principle as the forest. If there's a weather crisis, or if there's a disease, then all your crops die off, and then your people die off. Okay? What these planters carried in their mind's eye was certain aesthetic, what one might call a visual codification of modern world production and community life. So, the problem with bureaucrats is they have no imagination. Everything to them has to be mapped out. They like things that can be mapped out, that can be a blueprint. Okay? They like to brag about these things, because that's how they see the world. But real world, nature requires that. It requires diversity, it requires organic. Okay? All right. So, he gives examples of how the state transforms society. So, before, what happened is that people would just come together, and they would organize their communities according to their needs.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0059
+
+## seg-0060 / 00:51:05-00:52:06 / SPEAKER_01
+
+Okay? It's a bottom -up process. But the state wants to create permanent cities where people are just in one place all the time. Right? That's why you have cities. Before, what's natural is just for people to live on small farms and share stuff with other people, to trade with each other. The problem with this is the state cannot tax you. So, what the state does is it brings you to cities, makes you work in a factory so it can tax you. Okay? The point of giving you a wage is so it can tax you, to exploit you. Property. Before, it was very common for people to share. Share property together. Okay? Now, it's all owned and controlled by the state. Resources are the same thing. Before, people would just use resources according to their needs. But now, the state wants to centralize these resources. Okay?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0060
+
+## seg-0061 / 00:52:06-00:53:15 / SPEAKER_01
+
+So, it can tax and exploit people properly. Okay? So, that's what a state proxy does. So, what are the consequences of the over -bureaucratization of society? Well, what's happening in America is that what's happening in the United States is that while consumer goods like cars, clothing, and cell phones are going down, what's going up are hospital services. Schooling. Okay? Housing. Why? Because these are monopolies controlled by bureaucrats. All right? So, what's happening is with the over -bureaucratization of society, it's almost impossible for middle class people, ordinary people to have a good life now. Okay? Here's another really interesting chart. The black shows you the growth in the stock market. Okay? And you think, wow, this is a good thing. Okay? The problem is, first of all, only 10 % of people in the United States control most of the stocks, over 90 % of the stocks. The other issue is this. The other issue is if you look at prices, yeah, it's gone up.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0061
+
+## seg-0062 / 00:53:15-00:54:14 / SPEAKER_01
+
+But if you just turn... But if you look at stocks as units of gold, if you just go to buy stocks, guess what? The price of stocks have gone down. That's a blue. Okay? If you use money to buy stocks, it goes up. But if you use gold to buy stocks, it goes down. What this is telling us, okay, very simple, is we are living in a lie. All this wealth generation, it's all a lie. It's not real. We just think it's real. We're living in a fairyland created by bureaucrats to fool us. To believe that we are prosperous. Okay? Does that make sense? The amount of gold that you can buy with stocks has gone down. Okay? And so the blue is the gold, the black is money. The money is worthless. Okay? All right. Another problem that bureaucrats has created is people don't want to work anymore.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0062
+
+## seg-0063 / 00:54:15-00:55:30 / SPEAKER_01
+
+So in America, this is called quite quitting. In China, it's called or. Okay? People don't want to work anymore. Lying flat, let it rot. People don't want to work anymore. Why? Because it's pointless to work in a bureaucracy. Right? Leaders don't care. The organization doesn't need you. You are alienated. You are told what to do and you cannot negotiate. You cannot rise within a bureaucracy. You're being asked to work too much. You feel as though you're just a machine. Okay? And so the way you rebel is. Lying flat. Okay? Or quite quitting. Okay? So your over -bureaucratization of society means that people now have become more lazy, more complacent, more indifferent. And what this also means is that democracy is declining because people's voice, people's power is declining. Okay? So you can see that people feel as though democracy is in the decline. In fact, experts estimate that democracy, the capacity for people to
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0063
+
+## seg-0064 / 00:55:30-00:55:49 / SPEAKER_01
+
+participate in politics, the capacity for people to influence politics has declined rapidly these past 10 years. Okay? So we are living in a world that is becoming more and more bureaucratic and it's killing us. Okay? All right. Questions?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0064
+
+## seg-0065 / 00:55:49-00:56:00 / SPEAKER_02
+
+So as you say, we now live in a very corrupt world.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0065
+
+## seg-0066 / 00:56:00-00:56:02 / SPEAKER_01
+
+We live in a bureaucratic world.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0066
+
+## seg-0067 / 00:56:02-00:56:16 / SPEAKER_02
+
+Yeah. A bureaucratic world. So what, so I can't really see the future of no matter it's the mankind or like, are there any good side of the current world?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0067
+
+## seg-0068 / 00:56:18-00:56:56 / SPEAKER_01
+
+Okay. What are the good things about the current world? Well, the good side is that because things have become so corrupt, people now are forced to think for themselves. Right? Before, you could just trust your teacher. You could just trust your parent. You could just trust authority figures. But now you see them for the bureaucrats that they are. And so now you're forced to think for, forced to think for yourself. And so you're now forced to educate yourself. You're now forced to explore different opinions. So people's minds are opening. And that I think is a very good thing in today's world. Okay? Any more questions?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0068
+
+## seg-0069 / 00:57:00-00:57:09 / SPEAKER_00
+
+So will it help if we cancel most of the managers and jobs? Or just like keep one or two of them? Like.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0069
+
+## seg-0070 / 00:57:10-00:57:47 / SPEAKER_01
+
+Yeah. Okay. So that's a really good question. Okay? If this is a problem, why not just get rid of the managers? And the answer is they have all the power. Okay? They would much rather send you to war and kill you off than to tend to lose their jobs. Okay? So go back, go back to the example of Stratford University. Their mentality is, how do I maintain my privilege? They don't care about society. All they care about is maintaining their privilege. Right? So they are a bankrupt society. And then when society becomes bankrupt, they expect society to still continue to pay them off. Okay? So these are parasites and there's nothing we can do about it. Yeah.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0070
+
+## seg-0071 / 00:57:48-00:58:02 / SPEAKER_04
+
+Um, as we just said, are there less teacher and less professor or like, like most people would choose to quite quitting, then who are they going to control if there's less people to work for them?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0071
+
+## seg-0072 / 00:58:03-00:59:11 / SPEAKER_01
+
+You know, okay. That's a really good question. The problem is they don't think like that. Don't think about how efficient is my organization. Don't think about like, am I going to have a job next five years? All they care about is maintaining the position right here and now. Okay? And the way they do that is they hire their friends or people like them into other management positions. So they become like a cabal. Or a, or a network onto themselves. And for them, they become parasites. And what parasites want to do is they want to feed off the host. When the host dies, what's going to happen? They will switch to another host. Right? Why? Because they're all part of larger networks as well. So that's how they think. They're thinking, well, you know, as long as society survives, I will continue to have a job. Okay? So maybe this university goes bankrupt, but there's another university I can go to and exploit.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0072
+
+## seg-0073 / 00:59:11-00:59:42 / SPEAKER_01
+
+And you know what? It works. Okay? Because people at the top protect each other. All right? Okay? Does that make sense? They don't care about this host. They don't care about this organization. They don't care if it goes bankrupt because they can always move on to another organization to bankrupt. Okay? What matters is to maintain their patronage, the political networks. So they all help each other. Okay? Does that make sense? Okay, great. Any more questions?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0073
+
+## seg-0074 / 00:59:45-00:59:50 / SPEAKER_07
+
+Is it possible to stop or even reverse this corroborating system?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0074
+
+## seg-0075 / 00:59:51-01:00:44 / SPEAKER_01
+
+Yeah. I keep on explaining this. Okay? They are the ones in power. And so what has to happen is also society has to collapse before society can regenerate, before society can rejuvenate. Okay? But before society can collapse, they have a lot of tricks up their sleeves. Okay? So for example, they can create civil wars where the left and the right fight each other and they're left alone. Or they can use AI to control you. Right? AI is God, guys. Listen to God. Okay? Or they can fake an alien invasion. Okay? Or they can send you to war. They can start all these pointless wars. Okay? But whatever it takes in order to maintain their privilege and their power, that's a mentality. And that's how they got to where they are. Okay? And that's how they lead to think. Any more questions, guys?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0075
+
+## seg-0076 / 01:00:47-01:01:04 / SPEAKER_02
+
+Okay, Mr. Zhang. My question is, so I'm a 12th grader. So if you are in my shoe, like if you are in a 12th grader nowadays, what would you do? Like, are you still going to pursue for a further education, a higher education, or were you going to just drop out?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0076
+
+## seg-0077 / 01:01:04-01:02:04 / SPEAKER_01
+
+Yeah. Okay. That is a great question. So you are... You guys are about to go to university, and as I told you in this class, university is a complete rip off. Okay? All you're doing is you're paying for the nice salaries and perks of these administrators at university. You're not really paying for the professors. All right? You're paying for the administrators to have their nice lives. And so what I would do is maybe not go to university. What I would do is focus on education, on learning, by reading a lot of books, by asking a lot of questions and doing my own research, by learning real skills. Okay? So in a society like this, where the game is rigged, going to university means that you'll just lose. Okay? Maybe before, like 20, 30 years ago, it was good to go to university because you might become a manager, but now all those slots have been taken up by the elite and the children.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0077
+
+## seg-0078 / 01:02:04-01:02:29 / SPEAKER_01
+
+Okay? There's no space for you. Okay? So the only thing you can do in this context is to really start educating yourself in real knowledge. All right? Reading books, meeting lots of different people, exploring the world. Okay? Like really develop real knowledge. Okay? That's the best solution. All right? Any more questions?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0078
+
+## seg-0079 / 01:02:34-01:02:36 / SPEAKER_04
+
+Does it matter to the major?
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0079
+
+## seg-0080 / 01:02:36-01:02:38 / SPEAKER_01
+
+No, it does not matter to the major. It's all a scam.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0080
+
+## seg-0081 / 01:02:38-01:02:39 / SPEAKER_04
+
+Okay. Yeah.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0081
+
+## seg-0082 / 01:02:39-01:02:41 / SPEAKER_01
+
+Okay. It's all a scam.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0082
+
+## seg-0083 / 01:02:42-01:02:43 / SPEAKER_04
+
+Okay.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0083
+
+## seg-0084 / 01:02:45-01:03:14 / SPEAKER_01
+
+It's all a scam. Okay? It's all a scam. Doesn't matter what university you go to, liberal arts, Ivy League, state, it's all a scam. Doesn't matter what your major is, economics, psychology, humanities, computer science, it's all a scam. Okay? The system exists so that the managers, administrators can continue to feed off the system. All right? Okay, guys. So we'll continue this next week. Okay? All right. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0084
+
+## seg-0085 / 01:03:15-01:03:15 / UNKNOWN
+
+Bye. Bye.
+
+Ref: video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0085
