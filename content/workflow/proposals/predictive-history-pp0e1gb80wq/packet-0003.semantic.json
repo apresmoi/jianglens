@@ -1,0 +1,120 @@
+{
+  "packet_id": "predictive-history-pp0e1gb80wq-semantics-pkt-0003",
+  "source_id": "video:predictive-history-pp0e1gb80wq",
+  "source_date": "2025-11-27",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0017",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0018",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0019",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0020",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0021",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0022",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0023",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Jews or Romans killed Jesus. Jiang answers that Rome physically killed him and probably killed him for Roman reasons. He then poses three questions for the lecture: what Jesus really believed, why he became popular, and why Rome killed him. His answer begins with a perennial source model and the claim that Jesus made sense under especially evil Roman domination.",
+      "speaker_attribution": "Student asks who really killed Jesus; Jiang answers and resumes lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang directly answers the student that Romans killed Jesus, while the Bible adds the disputed claim that Jews conspired to make Rome kill him.",
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0017",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0018",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-11-27.",
+      "topic_tags": [
+        "Romans",
+        "student-question",
+        "passion-story"
+      ],
+      "claim_type": "answer",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Jesus probably did not teach belief-in-me salvation; the real questions are what he believed, why it spread, and why Rome treated him as dangerous.",
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0020",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-11-27.",
+      "topic_tags": [
+        "historical-Jesus",
+        "belief",
+        "Rome"
+      ],
+      "claim_type": "framing",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jesus is placed in a lineage of poet-prophets who teach that body is material but soul or consciousness is a divine spark cycling back toward the source.",
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0021",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-11-27.",
+      "topic_tags": [
+        "divine-spark",
+        "source",
+        "poet-prophet"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jesus becomes special because Rome is an unusually evil false world where the good are enslaved and the wicked seem to win.",
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0023",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-11-27.",
+      "topic_tags": [
+        "Rome",
+        "false-world",
+        "evil"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0023",
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0024"
+      ],
+      "moment": "The Jesus problem becomes the Roman problem: how can a good slave live in a world where evil has conquered everything visible?",
+      "source_phrase": "evil triumphs",
+      "why_it_matters": "This is the bridge from historical Jesus to Jiang’s metaphysical Jesus.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "The soul or consciousness that comes from the source and returns toward it through cycles of life.",
+      "confidence": "high"
+    },
+    {
+      "term": "false world",
+      "refs": [
+        "video:predictive-history-pp0e1gb80wq@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The corpse-like material order where evil appears to win but has already lost spiritually.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
