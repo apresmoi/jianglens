@@ -11,3 +11,4 @@
 - For worker self-diagnosis or self-improvement tasks, edit only `agents/episode-worker/**` unless the maintainer explicitly expands scope.
 - A restart is not a license to replay the whole E2E pipeline. Check room history, existing artifacts, branch state, and merged PRs; continue from validation or the first missing stage.
 - Missing YouTube metadata is metadata-only when transcript and diarization artifacts exist. Use the importer fallback provided by the worker image; reserve Colab handoff for missing raw media/transcription artifacts or importer failure.
+- Generated website data alone is not enough for episode handoff when `read` is null. Public reads need narrow hover/source marks on important phrases, no workflow/internal language, real transcript questions only, and a final heat/provenance pass before PR.
