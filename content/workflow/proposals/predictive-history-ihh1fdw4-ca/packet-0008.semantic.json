@@ -1,0 +1,144 @@
+{
+  "packet_id": "predictive-history-ihh1fdw4-ca-semantics-pkt-0008",
+  "source_id": "video:predictive-history-ihh1fdw4-ca",
+  "source_date": "2025-10-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0057"
+      ],
+      "kind": "question",
+      "summary": "A student asks why secret societies would fight governments instead of sending their own people into governments and working together.",
+      "speaker_attribution": "student/audience member",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers bluntly that they are the government.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0059"
+      ],
+      "kind": "exchange",
+      "summary": "The student acknowledges the clarification.",
+      "speaker_attribution": "student/audience member",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0060"
+      ],
+      "kind": "answer",
+      "summary": "Jiang elaborates that secret societies cannot exist outside bureaucracies; their power comes from coordinating within mature bureaucratic structures better than ordinary organizations can.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0057",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0059"
+      ],
+      "note": "SPEAKER_00 is a student/audience member asking a substantive final question and acknowledging Jiang's answer.",
+      "suggested_speaker": "student/audience member",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's direct answer to the student is that secret societies do not merely fight or infiltrate government; they are the government.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0057",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "final Q&A in this lecture",
+      "topic_tags": [
+        "secret-societies",
+        "government",
+        "bureaucracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Secret societies require bureaucracies because their power depends on coordination within large mature institutions.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "final Q&A in this lecture",
+      "topic_tags": [
+        "secret-societies",
+        "bureaucracy",
+        "coordination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A bureaucracy must reach a certain maturity and size before secret societies can have true power inside it.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "final Q&A in this lecture",
+      "topic_tags": [
+        "institutional-maturity",
+        "bureaucracy",
+        "hidden-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0057",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0058"
+      ],
+      "moment": "A student's infiltration question gets the compressed answer: no, they are the government.",
+      "source_phrase": "No, no. They are the government.",
+      "why_it_matters": "This is the cleanest public-question answer in the source and summarizes the whole bureaucracy model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0060"
+      ],
+      "moment": "Secret societies are impossible outside bureaucracy; they become powerful only when institutions are large enough to hide coordination.",
+      "source_phrase": "secret societies cannot exist outside of bureaucracies",
+      "why_it_matters": "It gives the lecture's final causal rule and connects conspiracy to institutional development rather than free-floating evil.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "secret societies as government",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0058",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang's final formulation that secret societies operate as the government because they coordinate inside mature bureaucracy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0060"
+      ],
+      "note": "The final answer tightens the bureaucracy sequence from the prior episode: hidden coordination needs mature institutional scale.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
