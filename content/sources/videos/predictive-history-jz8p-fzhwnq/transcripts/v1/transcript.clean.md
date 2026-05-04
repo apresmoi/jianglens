@@ -1,0 +1,387 @@
+# Civilization #49:  The Dutch Golden Age and the Rise of the Middle Class
+
+Source: https://www.youtube.com/watch?v=JZ8P-FZHWnQ
+
+## seg-0001 / 00:00:00-00:01:17 / SPEAKER_00
+
+Okay, good morning. So we start the very last section of the course today. It's on the Anglo -American Empire, which rules the world today. So we will first look at the rise of the British Empire. And to understand the rise of the British Empire, we first need to discuss the rise of the Spanish Empire. So let's go back, and we discussed that it was the Spanish who were the first to colonize the New World. And they did so because they were looking for gold and silver. And it turned out they found a lot of gold and silver. And all this money was now going back to Spain, and that became the basis of the Spanish Empire. And you'd think it's a really good thing that they found all this gold and silver, but it was a disaster for the nation, okay? And the reason why is that at this time in history, Spain was a feudal, catholic monarchy.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:18-00:02:29 / SPEAKER_00
+
+And all this money just made the system even worse. So let me explain. is that there's a rigid hierarchy of status. The nobles and the clergy at the very top. And because of all this gold and silver, the clergy and the nobility don't actually have to pay taxes anymore, and they actually have to make no contribution to society. So you have this group of parasites that are sucking up a lot of wealth, a lot of energy within Spain. So that's the first problem, this feudal system. Second is the idea of Catholic. So because of the Catholic religion, people don't really care about what happens today. They care about what happens when they die. They care about making sure that they have a place in heaven. So they get all this money from the New World, and none of it goes into industry, and innovation, and technology, and science. All of it goes into religious activities.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:29-00:03:32 / SPEAKER_00
+
+For example, religious festivals, churches, masses. And all this money is being wasted on these religious festivals. And the third thing is monarchy. So they have a king, and this king also happens to be, through marriage, the king of the Holy Roman Empire, which is most of Europe. So if you're a king, you have an infinite amount of money, what do you do? where you go on a series of stupid pointless wars all around Europe and he was fighting the Ottomans he was fighting the French he was even fighting the Catholic Church because he wanted to be stronger and have more authority than the Pope and he was paying for these wars through with this gold but also by borrowing and so at the end of the 16th century Spain even though it was at this point in history the most powerful Empire the wealthiest Empire with the largest army it went bankrupt
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:32-00:04:37 / SPEAKER_00
+
+basically all right so this system was was a disaster for Spain another issue is because of feudalism the Spanish nobility thought it was beneath them the Spanish nobility thought it was beneath them to work hard they believed that it was contemptuous to to exert yourself to be a noble means to sit back and enjoy life okay so this money was a disaster for Spain so to understand what happened just think of an analogy let's just say today I give each of you 100 million US dollars you think that's a lot of money and so you go and you waste it all on ski trips on buying a new Maserati or buying a private plane and then you recognize oh you know what if I keep on doing this I'm eventually going to go bankrupt so what do you what do you do well you go and you invest in businesses right and you recognize that
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:37-00:05:36 / SPEAKER_00
+
+hey if I go to invest in businesses what I should do is borrow money from the bank in order to have greater leverage in order to make more money and the bank says well you have hundred million million dollars so I will give you money and so you get you take about a billion dollars in loans and because you're not a very sharp business person you have to have seen no business yeah you're actually no experience running a business well in ten years time all your business go bankrupt okay and so you find yourself a billion dollars in debt you start out with a hundred million dollars and then through reckless expansionism you have a billion dollars in debt and that's exactly what happened to Spain okay all right but this system created opportunities for those who did work hard okay and these three countries that will take advantage of this system are France England
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0005
+
+## seg-0006 / 00:05:37-00:06:42 / SPEAKER_00
+
+and Holland okay or what we call the Dutch Republic okay don't worry about the name for now and so there are three ways in which you should invest in debt in 10 years. they took advantage of this new system that the Spanish created. The first is through industry. And what this means is the Spanish didn't have any industry. They were still an agricultural -based nation, but they wanted textiles, they wanted finished goods. So the French, the English, and the Dutch, they did work hard because of their religion. They were Protestants, and they believed in hard work. And so this created a middle class for them. So they industrialized because of Spanish demand. So that's the first way that these three countries benefited. The second way is through piracy. So what was happening was that these ships were transporting all this gold and silver from the New World back to Spain, which means that you can just hijack these ships and steal all their gold and silver for yourself.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0006
+
+## seg-0007 / 00:06:42-00:07:43 / SPEAKER_00
+
+And piracy became the official policy of the English. All right? So Francis Drake was the most famous pirate of this time, and he was like an admiral in the British Navy, sponsored by the queen, Queen Elizabeth I. And he was a national hero because he would go and he would steal all this gold and silver from the Spanish and replenish the English crown. So piracy was a really important way these three countries made money off Spain. Also because of piracy, these three countries were forced to innovate in their navy. So the system of naval warfare at this time is that you would ram your ship at another ship, you would board it, and then you would take over that ship. Okay, so it was hand -in -hand combat. And what the English figured out was, you know what, we can just have cannons on a ship and then just pound the other ships from a distance, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0007
+
+## seg-0008 / 00:07:43-00:08:46 / SPEAKER_00
+
+Basically artillery and long -range fighting. And that's what the English pioneered. And that's why eventually they become, over time, the greatest navy in the world, all right? So piracy was a very important factor in the development of the English navy. The third thing is through trade, okay? But specifically through smuggling. So the idea is all this territory in the New World was controlled by the Spanish crown. And so everyone started to smuggle in order to avoid paying taxes and levies to the crown. So what were they smuggling? Well, they were mainly smuggling slaves, okay? So slaves were, for most of human history, the most profitable product that you could trade. And this was even more true at this time because the New World had these plantations and they needed people to work these plantations. So they started to transport slaves from Africa to the New World.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0008
+
+## seg-0009 / 00:08:47-00:09:55 / SPEAKER_00
+
+Now, there is a misconception in history that the Europeans went to Africa, kidnapped these slaves, and then transported them to the New World, okay? This is not true. The reason why it's not true is the Europeans actually did not want to go to Africa and stay there. And the reason why is malaria. So what's happening was that the Europeans set up trading centers around Africa and it was the Africans themselves who would give the Europeans slaves. And the reason why is these nations, these tribes in Africa were fighting against each other and the custom at the time is if you lost a war, then we would enslave the entire population and then sell you to the Europeans. So not only were the Europeans getting rich off this trade, but so were many African clans and tribes, okay? So that is what happened. The other thing is, what people misunderstand is most of the profit was actually not in gold and silver, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0009
+
+## seg-0010 / 00:09:55-00:11:10 / SPEAKER_00
+
+At this time in history, the most profitable product, the thing that was most valuable is actually spices. Things like nutmeg, cinnamon, peppercorn, all right? These are the things that Europeans really valued. One ship of these things was enough to make fortunes for entire families for generations, all right? So in other words, the center of trade was not actually in the New World, but actually in, in Southeast Asia, okay? Southeast Asia, okay? So from China, the Europeans imported silk and porcelain and from the Southeast Asian islands, Indonesia basically, they imported spices, okay? So this became known as the East Indies, the East Indies. And this is where the money was to be made, okay? So the key to world conquest was who could control the trade routes into the East Indies, okay? So the people that first really figured this out were the Dutch, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0010
+
+## seg-0011 / 00:11:10-00:12:11 / SPEAKER_00
+
+So the Portuguese are here, but the Portuguese are like the Spanish, okay? They are a Catholic nation. But the Dutch are the ones who figure out how to make a lot of money out of the East Indies, all right? So how did the Dutch, how were the Dutch able to succeed? It has to do with the fact that at this time in history, the Dutch were controlled by the Spanish, okay? The Spanish were in charge of the Habsburg Empire, which included Spain, sorry, which included the Dutch, okay? So at this time in history, the Dutch are part of something called the Low Countries. Low Countries include today the Belgium and the Netherlands, okay? That's considered the Low Countries. And for the longest time, the Low Countries have been part of the Holy Roman Empire. And this system worked well for the Low Countries because they were poor, they didn't have much resources, so they were left alone by the Holy Roman Empire.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0011
+
+## seg-0012 / 00:12:12-00:13:09 / SPEAKER_00
+
+They had a lot of local autonomy. They were a very independent and very egalitarian nation. And everyone there, because it was cold, it was poor, people worked hard. And the Low Countries was one of the first places to develop textiles. And as such, they started to trade with Spain. They became wealthier. But over time, as Spain became more and more powerful, it wanted to exert more authority over the Low Countries. What's happening at this time is Protestantism is spreading all across Europe. And the King of Spain wanted to maintain Catholicism in the Low Countries. And it's brought them into conflict with the people in the Low Countries, okay? And this created something called the Eighty Years' War. It was really a war of independence between, so there were certain individuals, certain cities in Low Countries that wanted independence from Spain. And of course, Spain didn't want to maintain control.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0012
+
+## seg-0013 / 00:13:09-00:14:04 / SPEAKER_00
+
+This war would last for 80 years. Now, the problem is that Spain, it is the most powerful nation in the world at this time. The Low Countries, it's like 1.5 million people at this time. Okay, so it's a very, very small place. And so they can't possibly fight, fight, fight, fight, fight, fight, fight, fight, fight, fight, fight, fight, fight. They can't actually defeat Spain. But they persist because they're led by religious fanatics. And over time, what they realize is, even though they can't beat Spain on land, they can actually beat Spain in the sea, okay? So what they recognize is, you know what? The way to beat Spain is, if we can control the trade in the East Indies, that's gonna give us the military, that's gonna give us the wealth and the resources to defeat Spain. We are a small and poor nation. So how can we best do this?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0013
+
+## seg-0014 / 00:14:05-00:15:25 / SPEAKER_00
+
+And the solution would forever change human history. In 1602, okay, 1602, they created something called the Dutch East Indies Company. And it's known as VOC in Dutch, okay? The Dutch East Indies Company. This is really important in human history because this is considered the first multinational corporation in the world, okay? This corporation, it's not controlled by the government, but it has the power of government. It can raise its own military. It can create its own laws. It can issue its own currency, okay? And this company will go on to become the most profitable and most valuable company in the whole world. If you take Apple, Microsoft, and Google, these three companies, and you combine them together, they would still not be as wealthy as the Dutch East Indies Company. And the reason why is they had a monopoly over trade for spices in these indies, okay? So then the question then is, why would the Dutch do this?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014
+
+## seg-0015 / 00:15:26-00:16:26 / SPEAKER_00
+
+Why would the Dutch go out and create their first multinational corporation? And the answer is, is they needed a way to unite the people of the low countries into fighting the Spanish. How do you incentivize the people into fighting the Spanish? Most people were indifferent. They're like, we don't really care, the Spanish are far away. But you had some fanatics who wanted independence, but you also had some individuals who were heavily Catholic. Eventually what will happen is the people who want independence will move north to the Netherlands, and the people who want to remain Catholic will move south to Belgium. That's why if you go to Europe today, if you go to Belgium, it's heavily, heavily Catholic. But if you go to the Netherlands, which is still one of the wealthiest countries in the world, it's actually Protestant. And that's what happened. So they need to unite the people, and the best way to do that is to incentivize them by giving them shares, equity, in a company.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0015
+
+## seg-0016 / 00:16:29-00:17:20 / SPEAKER_00
+
+So now people actually have an incentive to actually fight the British. Because if the Dutch East Indies Company makes money, they get rich, and that's what actually happened. The Dutch East Indies Company will become extremely wealthy, and so that will create a middle class in Holland. So the first issue is equity, okay? But also, if you think about it, this is actually a very clever way to raise taxes. Because if you try to get taxes from people, they will rebel against you, right? But if you say, hey listen, we have this company, and if you invest in it, you might get rich. Well, this is equivalent of selling war bonds to people. So that's the idea, and that's why the Dutch East Indies Company, it really marked a turning point in the war between the Dutch and Spain. Also,
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0016
+
+## seg-0017 / 00:17:20-00:18:19 / SPEAKER_00
+
+this will allow the Dutch East Indies Company to work hard to control the trade in the East Indies. Because if they work hard, they're the ones who profit, not the king. And over time, what will happen is, the Dutch East Indies Company will push out the Portuguese, and they will monopolize this entire area, and as a result, they will become extremely wealthy. What's important to remember, and this is why the Dutch actually don't really talk about this history, is a lot of battalion horror happens because of this process, okay? Because they're a multinational corporation only interested in profit, they can't do anything about it. They commit ethnic cleansing. They basically wipe out the population. They enslave people to work in plantations to grow these spices. They will constantly engage in a series of wars against the Portuguese, the English, and the French in order to maintain control over the monopoly. But over time, what they
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0017
+
+## seg-0018 / 00:18:19-00:19:46 / SPEAKER_00
+
+will recognize is, they don't actually have the population resources to maintain their empire, so they will retreat and leave this empire to the French and the English, but they will still be subcontractors to the English and the French, and that's why the Netherlands remains one of the wealthiest countries in the world today, okay? A lot of their wealth is hidden, okay? All right, so what's important for us to understand is, this war is actually driving the growth of the middle class and Protestantism in Europe, all right? So let's review the Protestant religion, okay? So this is actually Calvinism. So there are actually two major ideas that differentiate Calvinism from Catholicism, okay? The first is the idea of justification by faith. So in the Catholic religion, you show your faith to God by doing good works, by giving money to the church, basically. But in the Calvin religion, which is what the Dutch Republic adopts, it's justification by faith, which means that you and God communicate.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0018
+
+## seg-0019 / 00:19:47-00:20:39 / SPEAKER_00
+
+And God knows if you are faithful, and you yourself know if you're faithful. So if you spend money, if you build stuff, that doesn't matter. The works doesn't matter. What matters is your true faith, okay? That's the first thing. Second thing, which is more important, is the idea of double predestination. So remember from our lecture on the Protestant religion, reformers are trying to destroy the influence of the Catholic church because they think the Pope is evil. All right? So the main power of the Catholic church comes from the idea that it's a church who decides whether or not you go to heaven and for how long. Sorry, whether or not you go to heaven. If you don't go to heaven, then do you go to purgatory and for how long, okay? So the church has control over your afterlife. And so what the Calvinists believe
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0019
+
+## seg-0020 / 00:20:39-00:21:43 / SPEAKER_00
+
+is, no, the church doesn't, because at the beginning, at the beginning of time, even before the world was created, God had already decided who would go to heaven and who would go to hell, okay? That's the idea of double predestination. Your destiny has already been decided. And only a minority, called the elect, will go to heaven. Everyone else will be damned to hell, okay? And again, these ideas were created in order to erode the loot, destroy the influence and power of the Catholic church so that people can be liberated from the church in order to celebrate God in the proper way. But we discussed this. These two ideas will now create a new problem, which is how do you know if you are part of the elect, right? How do you know? Well, I believe so, I believe, but how do you really know, okay? And the answer discovered is you know through your virtuous hard work.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0020
+
+## seg-0021 / 00:21:43-00:23:00 / SPEAKER_00
+
+Okay? Through simple, hard work, okay? And so how do you know if you are working hard? How do you know that your life is simple enough? Well, because you're accumulating money. Does that make sense? Money now is actually useful. Before it wasn't that useful. But now, money is now a testament to your faith, okay? And this marks a radical change. Okay? A radical change in human perception and human identity. Before we were people very much focused on status, right? Now we focus on wealth. So let me explain the difference. What does status mean? Status just means how you are perceived in your community. So you work hard in order to win approval from your peers. So remember the Vikings, okay? The Vikings would go on these crazy adventures, okay? Why? Because they would come back and tell these stories that would entertain and impress their peers, okay? Also remember, the Vikings, if they have money, what they would do is this.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0021
+
+## seg-0022 / 00:23:00-00:23:54 / SPEAKER_00
+
+Remember the Viking funerals. A third of all their wealth would go into funeral expenses, okay, having a big feast for everyone. A third of their wealth would then go into the funeral clothes, dressing well for the funeral. And a third of their money would then go on to the family members, all right? So for most of human history, we didn't believe it was important to have money. What's important was to impress the community. And that's why if you make any money, you would immediately come back and hold a huge feast for the community, right? And that's still true in China today, where you are from a village, you come to Beijing, you open a restaurant, you make a lot of money. What do you do? You go back to your village and you hold a huge feast. Okay, so that's the idea of status. And that's what before we were concerned about.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0022
+
+## seg-0023 / 00:23:54-00:25:05 / SPEAKER_00
+
+Now, we're concerned about wealth. Why? Because wealth is a measure of your faith. It is a testament to whether or not you will go to heaven or not, all right? And this marks a radical change in human perception. And this creates the idea of class now, okay? And the market, all right? So does this make sense, guys? All right, so the other issue is now that the Dutch, through trade, they're making a lot of money, but at the same time, they're actually not allowed to spend their money because they have to exemplify simple hard work, then how do they enjoy their wealth? Okay, and the answer is through art. So now you have an art market in the first time in human history. Before, you had a lot of art. Before, art was something that was patronized by the wealthy. But as the middle class rose in the Dutch Republic, now the middle class can enjoy art.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0023
+
+## seg-0024 / 00:25:05-00:26:11 / SPEAKER_00
+
+And this will mark a radical change in how art is created, okay? And also, because of this, you have a new idea called materialism. So the accumulation of goods. If you don't spend your money on the community, if you don't spend your money on the church, where do you spend your money? money on the house right on where you live so that's why it's important to buy silk and porcelain from China that's why you want to buy spices because it's a measure of your wealth within the household okay remember and this really pointed this is driven by three factors okay the first factor is anxiety anxiety comes from the fact that you don't know either faithful to God or not so you must prove to yourself you are faithful okay so that's the first idea anxiety second is the idea of uncertainty uncertainty means that at this time
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0024
+
+## seg-0025 / 00:26:11-00:27:06 / SPEAKER_00
+
+in history the Dutch Republic is at war of Spain Spain again is the most powerful Empire in the world you don't know you'll survive you don't know if the Dutch Republic will survive against Spain and it probably will not all right you don't know if the Dutch Republic will survive against Spain and it probably will not all right but the uncertainty also comes from the fact that trade is precarious right now you're wealthy because the Dutch East Indies company is profitable and you you have stock in the Dutch East Indies company but it's also possible tomorrow England or France or Spain comes and whips out the Dutch East Indies company okay so there's a lot of uncertainty in your life and the third thing is competition because remember only a few people will go to heaven but there's a lot of wealthy people in the Dutch Republic so how do you prove that you're better
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0025
+
+## seg-0026 / 00:27:06-00:28:12 / SPEAKER_00
+
+than your the other members of the middle class well there's gonna be competition okay you have to prove that you are a more simple more faithful individual all right and because of these three factors anxiety uncertainty and competition it will drive three major developments in human society the creation of money the creation of the art market okay the art market also includes literature by the way but that comes later but the art market also includes literature by the way but that comes later later and the idea of materialism in human life and if you think about it this is now becomes the prototypical middle -class identity right and so even though we're in China and we are not a Christian nation and we've never went through this history the middle class in China still has the values and the ideas that the Dutch had 500 years ago okay Chinese The Chinese middle class is obsessed with money making, it's obsessed with materialism, and it's obsessed with the accumulation of artistic objects.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026
+
+## seg-0027 / 00:28:13-00:29:50 / SPEAKER_00
+
+And so that's the history here. Any questions before I go into the evidence and some of the history? Was this clear to you guys? I know I'm going fast, but we have a lot to do in order to finish the semester. Okay, so let's go over some of the history. Okay, so let's go to an age. Alright, so 1588 is basically when the war between the Dutch Republic and Spain really begins to take off. So let's go over some basic background about the Spanish Empire, okay? So remember, Spain has territories in the New World. What's important is that Spain is not colonizing the New World, okay? Spain is only interested in extracting resources, specifically gold and silver, from the New World, okay? So, there's no colonization going on, there's just economic exploitation going on. And the ships, the navy is designed only to take the gold and silver back to Spain.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0027
+
+## seg-0028 / 00:29:50-00:30:51 / SPEAKER_00
+
+And again, everybody knows that. And what this does is it creates opportunities for piracy, which the English and the Dutch will exploit very heavily. Okay, and these centers of economic exploitation will also need a lot of slaves. And so the English, the French, and the Dutch will take these slaves from Africa and smuggle them into the plantations to feed these colonies, okay? So this wealth allows Spain to enter its golden age. And one of the main artists of this golden age is actually Miguel Cervantes. And he's famous because he wrote a novel called Don Quixote de la Mancha. And it's considered the first great novel, or the first novel in human history. It is an amazing book, Don Quixote de la Mancha. I would love to teach it to you at the time, okay? But it's about a thousand pages. But you know what?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0028
+
+## seg-0029 / 00:30:51-00:31:57 / SPEAKER_00
+
+It's easy to read, you can read it by yourself, okay? I highly recommend Don Quixote de la Mancha, okay? But during this time, of course you also had great artists and great literature happening as well. This money was being wasted in Spain, okay? It was being wasted in building these wonderful, beautiful buildings like El Escarrillo in Madrid. It's just outside Madrid, and it took about an entire year, of bringing back gold and silver from the new world to build this building but for the longest time this was the largest building complex in the entire world okay um spanish because the spain business was so wealthy became became the fashion trendsetter for all of europe so um spanish dress spanish clothing became popular throughout all of europe especially england um so what will happen is the spanish royal family will marry into the hapsburg and the haspanic family controls the holy roman empire and the
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0029
+
+## seg-0030 / 00:31:57-00:32:57 / SPEAKER_00
+
+hapsburgs are like the most famous dynasty in europe at this time they will marry uh and then carl charles will inherit both spain as well as the woman uh the holy roman empire which includes the netherlands okay and so this is his empire as you can see it's actually moving to the north of europe this is spain and this is the holy roman empire which includes the netherlands the low countries the problem though is once you have this territory you have to defend it and so he comes in conflicts with all the great powers of the day okay including france which is the peer competitor to spain at this time you he'll also come come into contact with the protestants under martin luther okay he's trying to step up uh the rise of protestantism especially calvinism in europe he'll also come into conflict with with the ottomans um and he will also come to conflict
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0030
+
+## seg-0031 / 00:32:57-00:34:08 / SPEAKER_00
+
+with the pope okay so with all this money uh the king of spain is causing wars with just basically everybody and he becomes a bit of a bully which bankrupts the nation the problem with the hapsburg is they have a terrible terrible reputation for um inbreeding okay they only marry within the family it's a terrible thing right so it's a terrible thing in bілentここ you know in this particular is that his family is poor not the children of the blood the blood of the poor number one is that the blood of the french king he's pretty high up the border okay he's going to destroy the country and so what's his plan for the future uh because the social system is changing the It's rising because it has very strong industry and then it builds trade networks all around the world. So as we discussed, it controls the Baltic trade and what it does is
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0031
+
+## seg-0032 / 00:34:08-00:35:20 / SPEAKER_00
+
+it basically trades textiles across this area and then it will trade slaves across the Atlantic and then it will monopolize trade in the East Indies. And that's why in the 17th century the Dutch Republic will become the wealthiest nation in the world and its middle class will become the most prosperous and wealthiest in the world at this time because of all this trade. All right, so this is a map that shows you the extent of trade in the Dutch Republic. So this is the Spanish and as you can see, most of the trade is actually focused across the Atlantic. All right, this is the French, they get involved as well, but their trade is nowhere near as dense as the Dutch and the British, okay? And eventually, the Dutch and the British will come into conflict with each other in the Anglo -Dutch Wars for dominance over the seas. And what will happen is the Dutch will win most of these naval battles, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0032
+
+## seg-0033 / 00:35:20-00:36:15 / SPEAKER_00
+
+The Dutch are superior sea people, but the British are superior sea people, okay? The British are much more persistent and the British have a much greater population. The British are like the Romans. Remember, the Romans didn't win that many battles, but they just never gave up, they were relentless and they were willing to sacrifice most of the population in order to eventually win, okay? That's just the British mentality, all right? They weren't great at, they were not as superior as the Dutch at sea or against the Spanish and the French on land battles, but they were just much more relentless and persistent, okay? All right, so let's go over the major differences between Spain and the Dutch Republic, okay? How was the Dutch Republic able to rise and defeat Spain and win its independence? Well, the first thing is Spain was a Catholic religion that focused on orthodoxy, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0033
+
+## seg-0034 / 00:36:15-00:37:09 / SPEAKER_00
+
+So everyone had to be Catholic and everyone had to obey the power of the church. And so you may have heard something called the Spanish Inquisition, right? So it was the Spanish who created, what people call the Jesuits, who were responsible for enforcing orthodoxy within the Catholic world. And the Jesuits will come to China as well and spread the Catholic religion, all right? Now, Dutch, because they were smaller, they had fewer people, they were forced to be tolerant. So all these Jews that were being expelled from Spain end up in the Dutch Republic. And it's important to have a group of Jews within your nation, why? The first reason is because the Jews, you know, the Jews, they have these trading networks, okay? Remember, there's a Jewish diaspora and the Jews have these trading networks all across the world, especially within the Ottoman Empire, okay? That's the first reason, trade.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0034
+
+## seg-0035 / 00:37:09-00:38:12 / SPEAKER_00
+
+Second is finances, okay? So historically, Jews have these financial networks all across Europe. And so if you need a lot of money to start a war, well, you often go to Jewish financiers, okay? The third is intellectual. The Jewish people are extremely open -minded, extremely intellectual, they bring in new ideas. So one of the most famous intellectuals at this time is named Barrack Spinoza, okay? And he's Jewish, all right? But it was not just Jews. Everyone was allowed to practice their religion in the Dutch Republic freely. And that was one of the main drawing points about the Dutch Republic, okay? The tolerance. This is important because the Dutch Republic will become the model for free movement, right? are the American Republic, right? Second difference is, Spain was a empire focused entirely on economic exploitation. They were only concerned about extracting resources. Whereas the Dutch was just focused on mercantile trade. And this is important because if all
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0035
+
+## seg-0036 / 00:38:12-00:39:18 / SPEAKER_00
+
+you do is focus on exploitation, this will lead to mismanagement and this will lead to a lot of wealth inequality. And that was the issue facing Spain. But if you focus on mercantile trade, then you can create a middle class, which is what happened in the Dutch Republic. And the third major difference, of course, is noble and clerical privilege. So only the elite benefited from the Spanish Empire. Whereas the Dutch Republic, because they were small, they had to focus on middle class growth, on making sure that as many people as possible benefited from trade and commerce. It was really trade and commerce that allowed for middle class to become so wealthy over time. And because the Dutch Republic, it's very small and the land isn't great, as the Dutch Republic became more wealthy, they focused a lot of their resources on building canals and on land reclamation from the sea. And so, as time progressed, their land increased.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0036
+
+## seg-0037 / 00:39:19-00:40:21 / SPEAKER_00
+
+All right, so another really important thing to remember about the Dutch Republic is that it's a coalition of the Dutch Republic as a federation of different city -states, okay? There's seven different places within the Dutch Republic. That's why it's a republic and not a monarchy, because a lot of their decision -making has to go through consultation and diplomacy. This is also why they created the Dutch East Indies Company, because the fear was that if they didn't have a monopoly, a company to control the monopoly, then if different city -states would open, would compete against each other for the East Indies trade. And they didn't have the resources to do that. That's why they combined the resources to create the Dutch East Indies Company, okay? What's important to first remember is that throughout its history, the Low Countries, the Netherlands, they were an egalitarian, independent, open -minded people. And so, some of the
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0037
+
+## seg-0038 / 00:40:21-00:41:23 / SPEAKER_00
+
+most famous philosophers were coming from this region, including, including Erasmus, who is contemporary of Martin Luther, and who was one of the main, considered one of the great philosophers and theologians. He's primarily responsible for something called the Northern Renaissance. Erasmus will allow for the rise of Spinoza, okay? And again, he's formerly Jewish, but then he becomes, he creates a new religion called pantheism. You might have heard about pantheism, but pantheism is the idea, You might have heard about pantheism, but pantheism is the idea, okay, that God is within every living being, including trees, including animals, including us. And therefore, we're all connected through the essence of God, okay? Let's talk about art, okay? So, I want to focus the rest of the lecture on art, because art will give us a portal into the mindset and psychology of the Dutch people. But before we do that, let's talk about Spanish art, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0038
+
+## seg-0039 / 00:41:23-00:42:30 / SPEAKER_00
+
+So, this is the Spanish Golden Age, and a lot of the time, a lot of this money is going into patronizing great art. And as you can see, Spanish art, it's very Catholic. So, if it's Catholic, then it's very allegorical. So, they're drawing images from the Bible and from the Catholic tradition, and it's a worship of the religion, okay? So, this is Madonna, the Mary, and this is baby Jesus. And as you can see, everyone's worshiping Jesus. The Protestants are iconoclasts, which is, they don't, they do not allow, they don't allow, they don't allow, they don't allow for depictions of their God in imagery, okay? This is another great artwork from the Spanish Golden Age. As you can see, it's heavily allegorical, okay? Metaphorical, all right? This is the most famous painting of the Spanish Golden Age by a painter named Diego Valquez, okay? You probably have heard of him. He's one of the most famous painters in the world.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0039
+
+## seg-0040 / 00:42:30-00:43:24 / SPEAKER_00
+
+This is his most famous painting called Las Menedez, The Handmaids, okay? What's amazing about this painting is that we are actually, as we are observing this painting, this painting is actually observing us as well. Okay, does that make sense? Because this is the painter, right? So, the painter is looking at us as we are looking at him. Now, what he's really, who he's really drawing is the royal couple, okay, as this mirror shows. But, as you can see, but, as you can see, but, as you can see, but, as you can see, but, as you can see, we are also within the universe of this painting, okay? I mean, there's a lot to say about this painting. It's one of the most famous paintings in the world, all right? But we have a lot to do today, so I'll move on. These are landscape paintings, and as you can see, there's a lot of spirituality, a lot of allegory, a lot of divinity embedded within these paintings, all right?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0040
+
+## seg-0041 / 00:43:24-00:44:26 / SPEAKER_00
+
+So, this is a Catholic mentality, all right? So, let's move on to the Calvinist, Dutch mentality of paintings. All right, so let's do a compare and contrast. This is the Dutch, this is a Dutch painting. This is a Catholic Spanish, no, no, sorry, sorry. This is actually an Italian Renaissance painting by Coraggio, okay? And this is baby Jesus and Madonna, and there are two individuals, supplicants who are worshiping Madonna, all right? So, this is the Catholic mentality, which is God can be with us at any time, all right? So, this is the Dutch equivalent, where this is a middle -class woman, and these are two street musicians who are trying to interact with this world, okay? What's really important for us to understand is, with the rise of the middle class, there's a huge focus on hierarchy and boundaries.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0041
+
+## seg-0042 / 00:44:26-00:45:39 / SPEAKER_00
+
+Why, because the middle class itself is a very fluid, very flexible, very, and, and uncertain group of people, okay? So, their paintings will reflect this anxiety and this uncertainty, all right? So, as you can see, the inner world, it's full of light. The outer world, it is pretty dark. And this door is a portal, okay? Within the house, there's this divinity, but in the outside world, there's only darkness and mystery. Okay, so God is within your household, basically. All right, so there's a lot more to be said, but as you can see, there's a huge contrast between the Catholic mentality and the Calvinist mentality. All right, let's move on. So, still life is a very important aspect of Dutch painting. Dutch, still life, it is a, it captures the material world as it is. It's a celebration of the material world, because remember, the Catholics celebrate the afterlife, but the Calvinists, the Protestants celebrate the here and now, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0042
+
+## seg-0043 / 00:45:39-00:46:58 / SPEAKER_00
+
+They do that through depictions of the, of life in the household, okay? And what will happen is this. At first, the Dutch Republic, it's at war, and it's very poor, because all this money is going into the military. But when the war ends, when the Spanish actually concede independence to the Dutch, you can see the wealth for everyone, increases dramatically, okay? And once there's peace established, then the Dutch will become the wealthiest nation in the world. And arguably, okay, arguably, even today, the Dutch are still the wealthiest middle class in the world. But a lot of their wealth is hidden, okay? All right, because the Dutch are Calvinists, they feel that life is a struggle between their urges and their faith. Okay? So in this painting, it depicts that. This man who's fat, he represents festival. He represents giving in to your urges, eating, drinking, being merry. And this person is called Lent, which is the Christian virtue of fasting and showing restraint, showing temperance, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0043
+
+## seg-0044 / 00:46:59-00:47:59 / SPEAKER_00
+
+So the Dutch see life as a constant struggle between your urges and your faith, between your emotions and reason, okay? And this picture, it depicts that. And so what paintings are doing is it's taking all this internal anxiety within you as a person, because you're a faith, and it's transposing it, projecting it onto the painting in order to create a visual, visual depiction of your anxiety as to relieve your anxiety, okay? Does that logic make sense to you guys? And that's what drives the need, or the desire, okay? The desire, the demand for middle -class art. During the 17th century, it's only about 100 years, right? From 1600 to 1700, in the Dutch Republic, and we're only talking about between one and two million people, five to 10 million paintings will be sold, okay? Five to 10 million paintings will be sold.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0044
+
+## seg-0045 / 00:47:59-00:49:24 / SPEAKER_00
+
+That's the, that gives you a sense of the appetite for the sort of visual depiction. Now, one thing that obsesses the Dutch middle class are the poor, okay? Why? Because the middle class, they are an anxious, uncertain group of people. So the way they define themselves is they try to differentiate themselves from other groups of people, including the poor and the nobility, okay? So in their imagination, the poor are, just give themselves up to temptation, okay? They're drinking all the time, they're getting drunk, they're lazy, okay? Alright, does that make sense? And by depicting the poor in this way, it's almost like a talisman to protect themselves from being poor. It's kind of taboo. The worst thing that can happen to us is if we become poor people like these people, because we'll end up drunks. Prostitution is also, very popular theme among the Dutch middle class. So what's interesting is prostitution at this time, it's very popular in the Dutch Republic.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0045
+
+## seg-0046 / 00:49:24-00:50:23 / SPEAKER_00
+
+And hey, if you go to Amsterdam today, it's still popular, right? Amsterdam is sort of famous for the legalization of prostitutes. So at this time, what's happening is you have all these prostitutes, but good middle -class women were responsible for going and negotiating with them in order to satisfy their husbands. Okay, does that make sense? So this is... So the idea of prostitution, it is a huge topic in the Netherlands. And it is a cause of a lot of anxiety and uncertainty and desire within the middle class. Alright, another depiction of poor people. Okay, so as you can see... I'm going to show you a picture of a kind of a men's prostitute who is sitting on a bench. they're having fun all the time and if you focus on these two individuals this man who's who clearly has a sexual urges he's trying to slowly
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0046
+
+## seg-0047 / 00:50:23-00:51:33 / SPEAKER_00
+
+take this maiden who's resisting but we can't resist into his world right and so this is saying like if you ever become poor you just cannot resist the temptations and the urges of this world so the worst thing that can ever happen to you is if you become poor another depiction of what it means to be poor okay to surrender yourself to luxury and to the moment this is still life and so the idea of here is one of access okay and so the psychology here it's it's it's very interesting all right but but let me give you an analogy let's just say that you are trying to lose weight okay you're kind of fat you are you're not you're not fat but you feel you could lose weight right so when you're trying to cut back on food you have all these temptations you have all these desires so one way one strategy that
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0047
+
+## seg-0048 / 00:51:33-00:52:37 / SPEAKER_00
+
+you have is if you watch a lot of videos where fat people are binging on food okay just by watching these people your sort of anxiety your desire decreases and that's the strategy of these paintings where you have these paintings of access and wealth and just by observing these paintings by putting up these paintings in your household they become signals to you that you should you should not engage in any excessive activity you should lead lead a life of moderation and temperance okay another picture of a prostitute a poor person okay so you have all these paintings about about the life of the poor. And what's really interesting is, yes, it's obvious we don't be poor, but these paintings are also very seductive, right? They're trying to show you, oh, you know what? It's actually pretty nice, a lot of fun to be poor as well. And that's what the Dutch middle class really enjoy.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0048
+
+## seg-0049 / 00:52:38-00:53:53 / SPEAKER_00
+
+They like to enjoy this anxiety between not having something because it's bad for you and wanting it, okay? This is a very famous painting called the Procurus. So remember, within this world, it's very common for middle class women to go solicit prostitutes for their husbands. And the middle man is someone called the Procurus, okay? And she looks satanic, all right? So this is an image that is supposed to represent sexual desire, but as you can see, there's some demonic qualities. There's some evilness to it, okay? You can see sort of like the evil eyes and laughter of the people involved, okay? Does that make sense to you guys? This is Jan Steen, one of the most famous painters of this time, okay? So as you can see, there are a lot of paintings that follow these themes. At the same time, you have also depictions of what it means to be a good middle class household, okay?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0049
+
+## seg-0050 / 00:53:53-00:55:19 / SPEAKER_00
+
+So as you can see, these paintings are ones of simplicity, ones of restraint, ones of temperance, ones of prudence, okay? So within these paintings captures a lot of middle class Christian values, all right? This is another representation, all right? So you can see the simple Calvinist work ethic being depicted in this picture. Rembrandt, who is the most famous painter from this period, okay, Rembrandt. This is probably the prototypical portrait of a wealthy person in the Dutch Republic, okay? She's wealthy, but the most important thing is, for you to understand, she's simple, right? She's not luxurious and decadent like the Spanish are. She is very restrained, she's very focused, she's very temperate in her behavior, okay? So she represents the quintessential, right? The quintessential wealthy middle class woman, all right? All right, so now let's discuss why the Dutch are buying these paintings, okay? The question then is, why is there an art market?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0050
+
+## seg-0051 / 00:55:19-00:56:16 / SPEAKER_00
+
+What's the purpose of an art market? And so there are different reasons, okay? Well, the first major reason is to show that you're refined, okay, to engage in beauty, to show you have taste. Okay, that's the first reason. Second reason is, because of the Calvinist religion, the money now no longer goes to churches, okay? Churches are meant to be simple. If you go into a Catholic church it's luxurious, it's golden. But if you go into a Calvinist church it's very simple, all right? So now people are transferring their wealth to the temple into the household in order to better worship God, all right? So a lot of these paintings are religious in nature because you're trying to turn the house, house into a church. into churches, all right, a second reason. A third reason is the idea of conspicuous consumption, conspicuous consumption, to enjoy your wealth and to show your wealth off to your neighbors, all right.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0051
+
+## seg-0052 / 00:56:16-00:57:21 / SPEAKER_00
+
+So when you invite people off to dinner parties, they can see how wonderful your artwork is. Nostalgia is you are thinking about classical Greece, classical Rome, and another reason is meditation, okay. And so we talked about this, where the middle class, they're always afraid of becoming poor, okay. So what they do is they freeze their anxiety, competition, and uncertainty in a contemplative hole, okay. They take their anxiety and they project it onto the painting in order to better meditate on the idea of what it means to be middle class, okay. Does that make sense? But there are other three more reasons which are more important for us. These three reasons are the representation of the other, taboos and boundaries, okay. So as you can see, the paintings of the poor represent the poor as lazy, excessive, and violent, okay, always giving in to their sexual urges. And so they're trying to create the
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0052
+
+## seg-0053 / 00:57:21-00:58:30 / SPEAKER_00
+
+idea of the other, okay, the poor or the other that we must at all times avoid. Second reason is transference, okay. So you have all these desires to eat good food, to engage in sex that you cannot do because of your religion, right. So you transfer these feelings onto the artwork itself. So the artwork itself becomes the subject of your desire. Does that make sense, guys? All right, that's the second major reason. The third major reason is just simply hypocrisy, all right. The artwork is a shield, it's an armor, it's a dress for you to show that you have good values, all right. So these are the three more nefarious reasons why dark becomes popular. And guess what, guys, they're still true today, all right. These are still the reasons what drives culture today, including literature, movies, artwork, okay. And so in every age, you, sorry, so let's now just summarize what we've learned, okay.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0053
+
+## seg-0054 / 00:58:30-00:59:30 / SPEAKER_00
+
+So the Italian Renaissance, you have great artwork from the Italian Renaissance, you have great artwork from the Dutch Golden Age, okay. What are the three differences? Well the first major difference is the Italian Renaissance, it's patronized by the wealthy people, all right. And as such, they're trying to have nostalgia for the past. That's why a lot of the paintings are of classical Greek and Roman individuals and historical and history. And the art is meant to be celebrated, because they're by the community okay that's why they're hung up in churches or public places or in the Vatican okay does that doesn't make sense but that's the main idea of Italian Renaissance when we get to the Dutch going age it's pigeonized mainly by the middle class who are interested in depicting the present in the here and now and they're only interested in their individual contemplation with the art okay their individual communication and dialogue with
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0054
+
+## seg-0055 / 00:59:30-01:00:42 / SPEAKER_00
+
+the art itself and this will give rise to the modern art market right any questions before I move on all right so to summarize art is a response to the anxiety uncertainty and competitiveness of middle -class life okay it's still true today art encapsulates the alienation of the individual and that's still true today all right that's what art is um this is happening because there's certain pathologies to middle -class life that's still true today all right the first pathology is middle -class identity demands the control regulation of yourself and other people all right but why because you are you have a fear of disorder all right so so we did we discuss this where middle -class life it's competitive it's anxious it's uncertain right so this creates pathologies within you and how do these pathologies express themselves well through a fear of disorder but you also have a fear of germs okay cleanliness all right
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0055
+
+## seg-0056 / 01:00:42-01:01:53 / SPEAKER_00
+
+the middle class is obsessed with cleanliness that's why the middle class if you just mentioned the idea of infectious diseases okay germs they just run away okay they're really afraid of the idea of infectious diseases now last is sorry sorry sorry it's a fear of loss okay sorry I this is wrong okay it should be fear of loss so the middle class is also obsessed with accumulation achievement okay and if you think about it okay this explains why Chinese parents are so obsessed with getting their kids into good universities right the Ivy League because of regulation of yourself cleanliness and accumulation achievement so there's no logical reason why your kid must get into Ivy League all right you can't explain to me through peer analysis peer reason pure logic why it's important to get your kid into Ivy League it doesn't really benefit you or the the kid in fact I personally believe that getting
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0056
+
+## seg-0057 / 01:01:53-01:02:55 / SPEAKER_00
+
+Ivy League will actually hurt and hamper your life chances for success okay but if you think about the pathology of the middle class what it means to be in middle class the fact that they're uncertain and anxious and getting their kid in Ivy League is a way to relieve their anxiety okay their OCD then it makes sense okay all right all right so now I will conclude by talking about who I think is the greatest artist of the Dutch golden age and his name is Johan Vermeer okay in every age in every movement you emerge a great artist who subverts the movement okay who shows you the pathologies and the problems the ironies the paradoxes within this movement okay so what Johan Vermeer is really good at doing in his artwork is demonstrating to us the hypocrisy of middle -class life all right so this is one of his most famous paintings called view from
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0057
+
+## seg-0058 / 01:02:55-01:04:02 / SPEAKER_00
+
+the depth guys this was painted about 1650 I have no idea how he did this no one has any idea how he did this the lighting is perfect okay it's like he had a camera like like an iPhone and a and he snapped a picture of his city. It's perfect, the lighting is absolutely perfect. How was he able to do this? And so, my only explanation, and again, it's my theory is, what makes great artists different is they're able to dissolve their ego. They're able to dissolve their body, and their soul becomes part of the moment. Okay, does that make sense? So, in other words, what Vermeer did is he became the painting itself. The painting became him, and then he became the painting. And what he's doing right now, he is just expressing his soul, okay? So, that's my theory. All right, this is his most famous painting, okay? I'm sure you guys have seen this.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0058
+
+## seg-0059 / 01:04:03-01:05:12 / SPEAKER_00
+
+Girl with the Pearl Ery, right? This is a beautiful painting, but I will show you something else. I will show you some problems or some ironies in this painting. Obviously, this Pearl Ery is a problem because she's an ordinary person, right? She's maybe a maid, she's a young person. She's poor. Why would she have a Pearl Ery, which is extremely precious, extremely valuable, extremely expensive, okay? That's the question. That's the paradox or mystery within this painting. Then, this leads to the question, this leads to the question, this leads to the question, why is she looking at us seductively, right? She's looking at us with desire, with yearning. And then you recognize, well, she probably has a master, a patron, right? She's probably working in a household. And maybe there's a relationship of sorts between the maid and the husband, okay? And so, it's a story, it's a novel that draws in your imagination.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0059
+
+## seg-0060 / 01:05:13-01:06:19 / SPEAKER_00
+
+But more importantly, it shows you the hypocrisy within middle class life. Because the entire purpose of prostitutes is so that the husband will not do this crap at home, right? Because it's important to maintain the sanity of the middle class household. It's your temple of worship. So you're not allowed to seduce your servants, okay? So this is actually a subversive painting at the same time. It kind of seduces us. It almost begs us to do the same thing, okay? It's trying to demonstrate our own sexual depravity and our own sexual desires, okay? It shows us the relationship between sex and power. Does that make sense, guys? This is the Milkmaid, another really famous painting. Again, and I have no idea how he does it, but the lighting is perfect, all right? The lighting is absolutely perfect. Not only that, but the lighting is able to highlight the blemishes of the wall, right? So he could
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0060
+
+## seg-0061 / 01:06:19-01:07:36 / SPEAKER_00
+
+have just made the wall white, but instead he's showing us the cracks, the blemishes within the wall, which is a metaphor for the blemishes and the cracks within middle class bourgeoisie life, all right? Now, when you first look at it, you think, oh, this is a picture of middle class simplicity and hard work, all right? Virtuous, faithful, young woman who's hardy, who's dedicated to her work, okay? But then you focus on this, right? And there's sexual qualities to this, which is the center of the picture. It's almost like she's peeing or, I mean, use your imagination, okay, you understand, right? So within this wholesome picture, it's embedded, right? It's embedded a picture of sexual possibilities. Doesn't make sense, guys, okay? And the idea here is it's meant to be subversive. It's meant to make you uncomfortable, right? You guys laugh a bit, but if you're a middle class person, you have this painting in your house, you're a bit disturbed by what you see, all right?
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0061
+
+## seg-0062 / 01:07:38-01:08:53 / SPEAKER_00
+
+All right, another really famous painting by Vermeer, okay? Interesting is, we are here, right? sneaking in, right? We are looking in. We're spying into the scene. And that's what Vermeer is saying is, that's what the middle class do. The middle class are afraid of participating, but they love spying, right? They love peering. They love peeking into the taboo and the forbidden. That's why we have art to peer into the forbidden, okay? And as you can see, the painter and the model, there's a bit of a sexual energy between the two, okay? And that's what excites us. That's why we are peeking into the scene. We're hiding ourselves behind the curtain, and we're trying to capture the sexual possibilities between the two, okay? Doesn't make sense, guys. So, these ideas, that middle class life, it's inherently flawed. There are blemishes, there are cracks behind the veneer.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0062
+
+## seg-0063 / 01:08:53-01:09:54 / SPEAKER_00
+
+It's fundamentally hypocritical. It gets captured in literature later on. First in Madame Bovary, okay? And then most famously, the most famous novel of all time, Anna Karenina, right? That middle class life, it's fundamentally hypocritical. So, on the surface, it seems, you know, there's a lot going on. There's a lot going on. There's a lot going on. You know, Anna Karenina, she married a very faithful, very loving husband, and then she betrayed him to have this affair that destroys entire families. On the surface, it shows you the importance of maintaining the sanctity of middle class life, of maintaining rules and order, because if you don't do so, it will lead to disaster and heartbreak, okay? At the same time, you read this novel very closely, it's about a thousand pages, by the way, It also shows you the hypocrisy of middle class life. How Anna Karenina herself has been oppressed by the taboos and the boundaries set upon her by the world that she lives in.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0063
+
+## seg-0064 / 01:09:55-01:10:39 / SPEAKER_00
+
+And this is what's going to drive literature from now on. Okay, that's it. So next class we will do the rise of England. But it's important that we remember that the British Empire, a lot of the ideas of the British Empire are now being seeded in the Dutch Republic, including the idea of multinational corporations, including the idea of capitalism, including the idea of middle class life, including the idea of artwork and literature. Okay, any questions about today? Okay, so next class we will do the rise of England.
+
+Ref: video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0064
