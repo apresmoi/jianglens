@@ -1,0 +1,168 @@
+{
+  "packet_id": "predictive-history-ks-muauq62e-semantics-pkt-0003",
+  "source_id": "video:predictive-history-ks-muauq62e",
+  "source_date": "2026-01-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0017",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0018",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0019",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts his naive 2008 assumptions about students, parents, teachers, administrators, government, and colleges with the harsher game-theory rule: players seek the best possible result with the least possible work. He then gives each player a self-interested motive.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0021",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0022",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0023"
+      ],
+      "kind": "exchange",
+      "summary": "While listing players and ranking power, a student reminds him about the government. Jiang accepts the correction, adds government back in, and then ranks the game: parents and teachers matter most, while students, government, and colleges matter far less than their public rhetoric implies.",
+      "speaker_attribution": "Jiang lecture with brief student correction.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He starts the player-by-player analysis by saying students mainly seek popularity, friendship, parental and teacher approval, grades, fun, and college, not learning itself.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0021"
+      ],
+      "note": "The short 'The government?' exchange is a student correction embedded inside Jiang's segment, despite the same diarization label.",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's game-theory principle here is that players seek the best possible result for the least possible work; he names this as the simple core behind student, parent, teacher, administrator, and government behavior.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0018",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0019",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Game-theory model stated on 2026-01-08.",
+      "topic_tags": ["incentives", "least-effort", "game-theory"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says a game is constructed when players agree on its rules and incentives; an outsider who tries to build a different game loses legitimacy when players feel control slipping away.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Model stated on 2026-01-08.",
+      "topic_tags": ["game-construction", "outsider", "rules", "incentives"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that game analysis must rank player power because not all players matter equally; in schools, students may be the majority yet their actual wants matter little.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Game-theory model stated on 2026-01-08.",
+      "topic_tags": ["power-ranking", "students", "game-theory"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's ranking, parents matter because they pay and can create trouble; teachers matter because they implement the rules; government and colleges often care only that the school produces no problems or paying students.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0021",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0022",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "School-game diagnosis on 2026-01-08.",
+      "topic_tags": ["parents", "teachers", "government", "colleges"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says students are in school mainly to please parents and teachers because parents pay for life and teachers give grades; learning is not the actual priority in the game.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "School-game diagnosis on 2026-01-08.",
+      "topic_tags": ["students", "grades", "approval"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0018"
+      ],
+      "moment": "The entire school game is compressed into one bleak rule: best result, least work.",
+      "source_phrase": "best possible result, least possible work",
+      "why_it_matters": "This is the incentive axiom that drives the rest of the lecture.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0020"
+      ],
+      "moment": "Jiang casts himself as the outsider who built a thriving game that players did not want because they could not control it.",
+      "source_phrase": "I was an outsider",
+      "why_it_matters": "It explains why a successful reform can still be rejected by the system it improves.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0024"
+      ],
+      "moment": "Grades become a visible receipt for pleasing parents and teachers, not evidence of learning.",
+      "source_phrase": "grades are a way of showing how well you're pleasing",
+      "why_it_matters": "It turns an ordinary school metric into a social-obedience signal.",
+      "tone": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "players",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0015",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The stakeholders whose motivations, power, and incentives determine how a social game is played.",
+      "confidence": "high"
+    },
+    {
+      "term": "convergence",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0021",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The point where player interests line up enough to form the actual game.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0016",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0017"
+      ],
+      "note": "Jiang explicitly marks his 2008 assumptions as a past position that he now says was wrong.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

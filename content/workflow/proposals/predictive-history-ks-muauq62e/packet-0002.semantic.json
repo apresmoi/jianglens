@@ -1,0 +1,162 @@
+{
+  "packet_id": "predictive-history-ks-muauq62e-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ks-muauq62e",
+  "source_date": "2026-01-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0009",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0010",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang describes the student coffee house as a real business and collaboration exercise. A student asks whether it was like the current campus coffee store, and Jiang answers that in 2008 his was the first such school activity and that it still exists years later.",
+      "speaker_attribution": "Student question followed by Jiang answer.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0011",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0012",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0013",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He adds the daily newspaper, then explains the cultural system behind the reform: transparency, innovation, and openness, with a curriculum that could admit mistakes and evolve. The program became highly successful by admissions and reputation measures, yet he was fired and treated as a dictator or asshole.",
+      "speaker_attribution": "Jiang autobiographical classroom narrative.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0015",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang identifies the game-theory mistake: he insisted on fairness, but the game is established by stakeholders pursuing interests. He names the players and begins contrasting his idealized 2008 assumptions with their actual incentives.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0010"
+      ],
+      "note": "SPEAKER_01 is likely a student asking about a local coffee-store comparison.",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the coffee house worked because students ran a real business, served customers, collaborated, and learned finance and entrepreneurship rather than merely performing an extracurricular label.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Autobiographical account narrated on 2026-01-08.",
+      "topic_tags": ["coffee-house", "collaboration", "entrepreneurship"],
+      "claim_type": "history",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the daily newspaper required students to gather information, write, edit, publish, and deliver under real deadlines, making it a demanding practice environment.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Autobiographical account narrated on 2026-01-08.",
+      "topic_tags": ["daily-newspaper", "student-work", "practice"],
+      "claim_type": "history",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents transparency, innovation, and openness as the cultural principles needed for a reforming curriculum to learn from mistakes and evolve.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Model articulated on 2026-01-08.",
+      "topic_tags": ["school-reform", "transparency", "innovation", "openness"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the program succeeded by conventional standards, including student outcomes and regional reputation, but the same stakeholders still pushed him out.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0013",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Autobiographical account of the post-2008 reform period.",
+      "topic_tags": ["success", "firing", "school-politics"],
+      "claim_type": "history",
+      "confidence": "high"
+    },
+    {
+      "claim": "His core explanation is that fairness was not how the school game was played; the game was made by stakeholders who played according to their interests.",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Retrospective diagnosis on 2026-01-08.",
+      "topic_tags": ["fairness", "stakeholders", "game-theory"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0012"
+      ],
+      "moment": "Learning is defined as admitting mistakes together and correcting them together.",
+      "source_phrase": "we would admit these mistakes and then we would correct them together",
+      "why_it_matters": "It explains why transparency is not a moral decoration for Jiang but the operating system of reform.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0014",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0015"
+      ],
+      "moment": "The successful reformer is not remembered as a visionary but as the asshole who insisted on fairness.",
+      "source_phrase": "Because I insisted on fairness",
+      "why_it_matters": "This is the hinge from autobiography into game theory: success failed because it violated the actual game.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "stakeholders",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "In this lecture, stakeholders are simply the players whose interests establish the game.",
+      "confidence": "high"
+    },
+    {
+      "term": "fairness",
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Used as the reform principle that angered powerful players because it ignored status, parent power, and local game rules.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0011",
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0014"
+      ],
+      "note": "Jiang narrates a sequence from 2008 reform, to durable student activities, to regional success, to firing and later exclusion from management work.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ks-muauq62e@transcript:v1#seg-0011"
+      ],
+      "note": "The phrase 'probably maybe even two years ago' is ASR-noisy, but the claim that the newspaper was an early high-school daily newspaper is intelligible."
+    }
+  ]
+}
