@@ -1,0 +1,189 @@
+{
+  "packet_id": "predictive-history-b5fthagng8c-semantics-pkt-0005",
+  "source_id": "video:predictive-history-b5fthagng8c",
+  "source_date": "2025-12-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0033",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0034",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from programming to the development of transnational capital, naming Venice, the Dutch Republic, England, and America as merchant oligarchies run by private interests and secret-society coordination.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He presents an abstraction sequence: Protestantism strengthens the Dutch Republic, the Enlightenment strengthens America, and each step makes transnational capital more powerful at extracting energy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0037",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0038",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0039",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts Catholic orthodoxy, hierarchy, and works with Protestant direct access, egalitarianism, and faith, then argues that Protestant solutions create new confusion, chaos, and anxiety.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Venice, the Dutch Republic, England, and America are presented as four stages of transnational capital because each is a merchant oligarchy controlled by private interests.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "historical sequence introduced in this lecture",
+      "topic_tags": [
+        "merchant-oligarchy",
+        "Venice",
+        "Dutch-Republic",
+        "England",
+        "America"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Merchant oligarchies use banking, navy/trade control, and diplomacy/intelligence to extract energy across time and space.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0034",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Jiang's mechanism list for merchant oligarchies",
+      "topic_tags": [
+        "banking",
+        "navy",
+        "diplomacy",
+        "energy-extraction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Protestantism and then the Enlightenment increase the abstraction and extraction power of transnational capital, culminating in money replacing God.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "historical abstraction model in this lecture",
+      "topic_tags": [
+        "Protestant-Reformation",
+        "Enlightenment",
+        "money-as-god",
+        "abstraction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames Catholicism as orthodoxy, hierarchy, and justification by works, and Protestantism as direct access, egalitarianism, and justification by faith.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0037",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0038",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "comparative religious model in the lecture",
+      "topic_tags": [
+        "Catholicism",
+        "Protestantism",
+        "justification"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Protestant direct access, egalitarianism, and justification by faith create new problems: confusion around the Trinity, sectarian chaos, and anxiety over whether one truly believes.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0039",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Jiang's diagnosis of Protestantism in this lecture",
+      "topic_tags": [
+        "Trinity",
+        "egalitarianism",
+        "anxiety",
+        "faith"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0034"
+      ],
+      "moment": "Banking lets oligarchs extract energy from across time and space.",
+      "source_phrase": "extracting energy from across time and space",
+      "why_it_matters": "This turns finance into the lecture's most compact metaphysics of capital.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0036"
+      ],
+      "moment": "As God recedes, money becomes God and capital becomes all-powerful.",
+      "source_phrase": "we turn money into God",
+      "why_it_matters": "This sentence connects theology, Enlightenment, and modern capitalism in one move.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0040"
+      ],
+      "moment": "Justification by faith solves priestly hypocrisy by creating inward anxiety.",
+      "source_phrase": "you have to really believe in God",
+      "why_it_matters": "It shows Jiang's habit of treating reforms as new control problems.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Merchant oligarchy",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0033",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "A society that looks republican or democratic but is controlled by private merchant interests and secret-society coordination.",
+      "confidence": "high"
+    },
+    {
+      "term": "Banking as time-space extraction",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Banking understood as pooling resources to borrow from the future and extract energy across geography.",
+      "confidence": "high"
+    },
+    {
+      "term": "Double predestination",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "John Calvin's doctrine, introduced here as a worsened form of Protestant anxiety about salvation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0039"
+      ],
+      "note": "The transcript briefly says 'third idea is justification by works' before correcting to faith; interpret the Protestant side as justification by faith."
+    }
+  ]
+}
