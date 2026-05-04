@@ -1,0 +1,223 @@
+{
+  "packet_id": "predictive-history-tcxloijz8v0-semantics-pkt-0001",
+  "source_id": "video:predictive-history-tcxloijz8v0",
+  "source_date": "2025-03-27",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0001",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture as an explanation of how the Protestant Reformation gave birth to capitalism, then defines Catholic orthodoxy, hierarchy, and justification by works and the problems they create: hypocrisy, corruption, and disconnection.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0004",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0005",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He presents Protestantism as a response: direct access to God, egalitarianism, justification by faith, literacy, and an aspirational middle-class base; these solve Catholic problems but create anxiety and denominational diversity.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0007",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He then moves deeper into the psychology of faith: the Holy Trinity is an impossible symbol, both nothing and everything, and removing the Church forces the believer into direct anxiety before that abstraction.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Catholic orthodoxy requires memorized dogma, hierarchy restricts proper interpretation to ordained authorities, and justification by works values correct ritual action over belief.",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0001",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-03-27.",
+      "topic_tags": [
+        "Catholicism",
+        "orthodoxy",
+        "hierarchy",
+        "justification-by-works"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, Catholic justification by works produces hypocrisy, hierarchy produces corruption, and orthodoxy produces disconnection from the human need to access God.",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-03-27.",
+      "topic_tags": [
+        "Catholicism",
+        "hypocrisy",
+        "corruption",
+        "disconnection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Protestantism responds by replacing priestly mediation with direct access to God through Bible reading, making the Church egalitarian in principle.",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-03-27.",
+      "topic_tags": [
+        "Protestantism",
+        "direct-access",
+        "egalitarianism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Justification by faith creates anxiety because believers must prove inward belief without being able to verify it through works.",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0004",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-03-27.",
+      "topic_tags": [
+        "justification-by-faith",
+        "anxiety",
+        "faith"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Direct access requires literacy and education, which helps explain why early Protestantism appeals to an aspirational middle class with some means.",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-03-27.",
+      "topic_tags": [
+        "literacy",
+        "education",
+        "middle-class",
+        "Protestantism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Holy Trinity becomes psychologically destabilizing once the Church is removed, because the believer must directly grasp an abstraction that cannot be touched or understood by ordinary cognition.",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0007",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-03-27.",
+      "topic_tags": [
+        "Holy-Trinity",
+        "symbol",
+        "anxiety"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture announces capitalism as the child of the Protestant Reformation, not as a merely economic event.",
+      "source_phrase": "the Protestant Reformation and I will explain to you how it gave birth to capitalism",
+      "why_it_matters": "This sets the lecture up as a civilizational genealogy rather than a church-history survey.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0003"
+      ],
+      "moment": "Orthodoxy becomes disconnection: the deepest human need is contact with God, but dogma turns that need into distance.",
+      "source_phrase": "Our fundamental, our first and foremost need is to connect with God",
+      "why_it_matters": "This keeps the religious anthropology at the center of the capitalism argument.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0007",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0008"
+      ],
+      "moment": "The Trinity is treated as a symbol that is both nothing and everything, and therefore a machine for anxiety when mediation disappears.",
+      "source_phrase": "A symbol is nothing that represents everything",
+      "why_it_matters": "It gives the lecture its psychological motor: abstraction becomes existential unease.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "orthodoxy",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0001",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Catholic dogma that must be memorized rather than questioned or interpreted independently.",
+      "confidence": "high"
+    },
+    {
+      "term": "justification by works",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The Catholic idea that salvation depends on correct ritual action and obedience to Church-prescribed works.",
+      "confidence": "high"
+    },
+    {
+      "term": "direct access",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0004",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0005",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The Protestant claim that believers can and must encounter God directly through scripture without priestly mediation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Holy Trinity as symbol",
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0007",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang treats the Trinity as an impossible abstraction that can be processed only symbolically: nothing that represents everything.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0001",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0003",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0004",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0005",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0006",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0007",
+        "video:predictive-history-tcxloijz8v0@transcript:v1#seg-0008"
+      ],
+      "note": "The source is dated 2025-03-27 and frames earlier course material on Catholic corruption, Cathars, and the Holy Trinity as setup for the Reformation-capitalism argument.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

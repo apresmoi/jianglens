@@ -1,0 +1,441 @@
+# Civilization #42:  The Protestant Reformation and the Birth of Capitalism
+
+Source: https://www.youtube.com/watch?v=TcxlOiJz8V0
+
+## seg-0001 / 00:00:00-00:01:16 / SPEAKER_00
+
+Okay, so good morning. This morning we are doing the Protestant Reformation and I will explain to you how it gave birth to capitalism. This class, it's going to be hard conceptually because we're going to take concepts we learned before and combine them to help explain the world we live in today. So if there's anything I'm saying that's not clear or confusing or debatable, please interrupt me, okay? Alright so I want to make sure that you can follow the logic clearly. Okay so first of all what I will do is explain the three major differences between the Protestant religion and the Catholic religion. So let's look at the Catholic first. In many ways the Protestant religion is a response to the problems created by the Catholic religion. So there are three main problems between the Protestant religion and the Catholic religion. characteristics about the Catholic religion. The first is the idea of orthodoxy or dogma. So there's a set of beliefs in the Catholic religion that you must memorize.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:16-00:02:40 / SPEAKER_00
+
+You're not allowed to question it, you're not allowed to interpret it, you must memorize it. And what maintains the orthodoxy is the idea of hierarchy. So only priests and the ordained, those sanctioned by the Catholic Church, have access to the Bible. Only they can interpret the Bible properly. They are favored by God. The Pope is God's official representative on earth. Okay, so that's the idea of hierarchy. The last concept is the idea of justification. By works. Okay? And the idea here is if you want to be saved, you have to engage in the proper rituals. You have to do what the church tells you. Your actions matter more than your beliefs. Okay? Now, as we discussed in previous classes, these three main concepts that underpin the Catholic Church, they will create problems. Okay? So justification by works. It creates a problem of hypocrisy.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:40-00:03:50 / SPEAKER_00
+
+The idea here is it'd be nice if you believed in God, it'd be nice if you believed in what you were doing, but you don't have to. Okay? As long as you do what you're told, you can still go to heaven. Okay? It creates the idea of hypocrisy. And obviously, there are a lot of people who are opposed to this. All right? Hierarchy creates a problem of corruption. There's no real mechanism to prevent the priests from abusing their powers. And as we discussed last week, the priests do engage in a lot of corruption and abuses. Okay? The problem of orthodoxy is it creates disconnection. All right? And the idea here is that ever since the dawn of human history, we humans have been able to do things that we would rather not do. We are fundamentally religious. Our fundamental, our first and foremost need is to connect with God, to be with God, to work with God, and to access God.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:50-00:05:18 / SPEAKER_00
+
+Okay? And because of these three problems—disconnection, corruption, hypocrisy—there's always been dissent, there's always been rebellion against the Catholic Church in Europe. Remember last week, we discussed the Cathars, the Waldysians. All right? So... issue in the Catholic Church. So the Protestant religion was developed in a response to these problems. Okay, so let's look at the three major responses of the Protestant religion. The first response to Orthodoxy is direct access. You don't need the priest to tell you what the Bible means. You can just read it by yourself. In fact, God wills that you talk to him directly by reading the Bible, okay? If that is the case then the Church must be fundamentally egalitarian. Because if everyone can access God, then everyone is equal in the eyes of God. But the fundamental demand now is justification by faith. you have to truly believe in God you must develop your
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:18-00:06:29 / SPEAKER_00
+
+life around this faith in God okay so on one hand the Protestant religion is solving a lot of problems created by the church but on the other hand it's also creating a lot of problems as well okay so let's go very quickly over some of the major problems if it's justification by faith it creates a problem of anxiety why because how do you know you truly believe in God does that make sense how do you really know you have faith if they can't we prove to yourself that you truly believe in God through actions for works okay you have to raise doubt in your mind and this makes you anxious it makes you antic okay so that's one huge problem created by the Protestant religion the second big problem is a problem of diversity if everyone is equal then everyone can start his or her own religion and what we'll see during the Protestant Reformation
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:29-00:07:46 / SPEAKER_00
+
+is an explosion of different religions with all their all different sets of beliefs there's only one Catholic Church but there's like tens of thousands of Protestant denominations okay does that make sense okay all right so then with Direct Access you are forced to have literacy okay you are forced to educate yourself alright and this is a good thing right but it's also a problem because if you're poor you may not have access to education alright so this is a problem for a lot of people And that's why in the beginning of the development of Protestantism, most of the adherents to this new religion are actually the aspirational middle class. The people of some means, there are people who want to aspire to more wealth. So this is the basic rundown of the differences between the Protestant religion and the Catholic religion. Are you clear about this? Any questions so far? Is this clear to you?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:47-00:09:04 / SPEAKER_00
+
+So now I'm going to go deeper and explain the problems that this new religion creates in the minds of the faithful. So the problem within the Christian religion, as we discussed in previous classes, is the idea of the Holy Trinity. The idea of the Holy Trinity is that Jesus, God, and the Holy Spirit, these are different forces that are independent of each other, but they are equal to each other, and they are part of the same thing. So for the human mind, the way that our human minds are designed, it's impossible for us to understand this concept of the Holy Trinity. It's like saying, this pen, it is here and not here. Your mind has to believe that this thing is here and not here. And your mind can't do that. Your mind has to believe in one thing, and it cannot believe in contradictions. But this is inherently a contradiction. The only way that our mind can process this is by believing that this is a symbol.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:04-00:10:19 / SPEAKER_00
+
+The reason why is that this is something, the only way that we can understand the Holy Trinity is to believe that it is both nothing and everything. And that's what a symbol is. A symbol is nothing that represents everything, depending on how you perceive it. The problem with this is that it creates the problem of anxiety. Anxiety. Why does it create anxiety? Because, again, our fundamental need is to connect with God. And the concept of the Holy Trinity means that we can never truly connect with God. It is a symbol. It is an abstraction removed from us. We can never be intimate with God. It's either away from us or through us. But we can never touch it. We can never feel it. Okay? This creates anxiety. Before, this was not a problem because the church stood between you, the believer, and the Holy Trinity.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:19-00:11:45 / SPEAKER_00
+
+Okay? All you had to do was believe in the church, and you were fine. But then, what happens if you get rid of the church? Now you have to grasp, try to grasp what the Holy Trinity is. And again, remember, one of the main ideas of the Protestant religion is that you must struggle with your faith. You must recognize and fully realize your faith in God. Otherwise, you'll be condemned to hell. But as we already discussed, this Holy Trinity is impossible to understand. Okay? So this creates anxiety. Now, the thing about anxiety is it creates the problem of like OCD. Okay? Obsessive Compulsive Behavior. Because anxiety comes about. Because of confusion. Okay? What you want to do is remove this anxiety by ordering your physical world. Right? People with obsessive compulsive behavior, what do they do? They like to clean houses. They like to buy things. They like to lose weight. They're trying to order.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:45-00:13:06 / SPEAKER_00
+
+The word we use is rationalize. They're trying to rationalize the world around them in order to reduce your anxiety. Okay? All right? Does that make sense? All right? Have you studied obsessive compulsive behavior? OCD. All right? It's caused by anxiety. And this anxiety forces you to try to rationalize the world. All right? Now, there's also a third problem in the Protestant religion. And it's the idea of double predestination. All right? Okay. So this is a big concept, but it's very easy to understand. If you remove the church, because the church is too corrupt, the problem arises, like, how do you know if you're going to heaven or not? Who's going to decide? And so a man, a theologian by the name of John Calvin, he proposed the idea of double predestination. And the idea here is this. God, at the beginning of time, has already decided. And this decision is final. You cannot persuade him that he is wrong because he is perfect, eternal, and immutable.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0010
+
+## seg-0011 / 00:13:10-00:14:22 / SPEAKER_00
+
+And only a few, the elect, will be saved. Only these people will be allowed to go to heaven. Everyone else will be condemned to hell. And who are the elect? The elect are those who truly believe that they have been saved. Only those who truly believe in God's mercy and God's grace will be saved. Okay? If you think about it, this creates even more anxiety because how do you know if you are one that's saved? You have to work hard now to solve this problem. Okay? So, let's summarize. Because of the Protestant religion, you have three new problems created. The first is the individual believer cannot understand the Holy Trinity. But they must. That's what the religion demands. That's the first problem. Second problem. is the anxiety causes OCD, which makes them want to rationalize the world. It makes them want to order the world according to their faith.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:22-00:15:48 / SPEAKER_00
+
+That's the second issue. The third issue is the idea of double predestination, which says that if you do not truly believe in God, if you do not actually figure out the grace of God, then you'll be condemned to eternal damnation. So these are the three major problems created by the process of religion. And so over time, and this is a process that will take decades, centuries, they figure out a solution. They figure out a solution. And the solution is this. The solution is money. Sorry, money. The solution is money. That's how you resolve these three paradoxes, or three contradictions, three anxieties. So first of all, let me explain what money is. So in the world, we are all different. We have different perspectives. So each individual is unique. Each individual is different. Each individual sees the world differently. And this creates confusion. This creates problems. I'm gonna ask you, while you're in school, you might say, Oh, I don't know.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:48-00:16:46 / SPEAKER_00
+
+I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. Oh, I'm here to learn mathematics. I might ask someone else, like, Oh, I want to go to America for college. Another person might be like, I want to learn. Okay? Each person is different. Okay? But what happens is this. If I introduce the concept of money, what it does is it standardizes, systemizes, clarifies, and simplifies everyone's understanding into one concept, into a coherent whole. Okay? So let me use an experiment to show you, like, why this is true. All right. So some experimenters, they gave everyone a wine test. They put three different bottles of wine in front of each person, asked each person to taste the wine, and then asked each person which wine is the best. And most people could not tell the difference.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0013
+
+## seg-0014 / 00:16:46-00:17:57 / SPEAKER_00
+
+They were different. These are different bottles of wine, but they didn't know which one was better. Okay? Then what the experimenters did was they put price tags on each bottle of wine. Okay? $10, $20, $50. And then when the experimenters did this, everyone knew, Oh, of course the $50 bottle of wine is better. Okay? So that's what money does. Money allows us to simplify the world in order to understand it. Okay? So all our beliefs, all our values, all our judgment now is placed into this one symbol, money. But then what happens is we then take this money and we reshape the world according to money. Okay? Does that make sense? Now, I asked you, why are you going to school? Everyone's like, to make money in the future. Everyone agrees on this. Okay? So that's what money is, money is a system to standardize everyone's thought and
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:57-00:19:08 / SPEAKER_00
+
+then once the standardization happens it reshapes reality into a rational order okay does that make sense all right okay so let's go back okay now that we understand what money is we can now explain how money reduces the paradoxes right money is a way for people to rationalize the world you're in your anxious what do you do to you to reduce this anxiety make money make more money don't stop until you make the most money okay then money is a way to resolve the God issue this money is also a symbol so what you can do mentally is conflate God with money money is God God is money makes sense to people right and now because you've completed God of money you can now solve the predestination problem which is like oh how do I know I have faith in God because I have a lot of money because I spend my entire life accumulating
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0015
+
+## seg-0016 / 00:19:08-00:20:10 / SPEAKER_00
+
+money and how do I know I'm going to have it because I'm rich though my wealth shows that I have true faith in God if I have true faith in God then I must be one of those predestined by God to be the elect and therefore I have nothing to worry about all right and because of this the beauty of this system is this it creates a concept of capitalism never before in human history how people people believe that this is a good thing that that you should go accumulate money for the sake of accumulating money okay before it was always about accumulating money in order to increase your social status so wealthy people would always spend their money holding community fees okay on giving money to the poor on helping the community so remember Julius Caesar when he died he was the wealthiest man in the world but he gave a third of his
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:10-00:21:17 / SPEAKER_00
+
+money to the poor people of Rome he gave a third of his money to building parks for Rome okay and the the final third went to his adopted here Octavian okay all right but now what's important is that you try to accumulate as much money as possible don't waste it because if you waste it it's corruption it shows you lack the faith in God all right and that's why we have capitalism because of the anxiety created by the Protestant Reformation all right and again um this is a process that will take centuries it doesn't happen right away okay but it's a process that takes centuries and it's and it's a process that will define the world we live in today okay even though today most people actually not Protestant most people do not believe in double predesignation most people um don't really understand the Holy Trinity most people don't want to rationalize the world we
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0017
+
+## seg-0018 / 00:21:17-00:22:27 / SPEAKER_00
+
+have absorbed this mentality okay we believe that we should accumulate money for the sake of accumulating money that's why we worship people like Jack Ma Ellen Musk Jeff Bezos even though if you think about it they've just accumulated a symbol that their Shotguns you just deserve a 165 00 right? The money is actually nothing. But we worship them because we believe that money is reality itself, all right? That's what capitalism is. Capitalism is to believe that money is reality in itself. All right, so I know conceptually this is hard and this is a lot, but now what I will do is explain the historical context and explain the evidence for this argument. But first, I want to make sure that this argument is clear to you. This is a thesis, okay? This is an explanation as to why we have capitalism today, all right? So any questions before I explain the historical context? This is all clear?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0018
+
+## seg-0019 / 00:22:28-00:23:40 / SPEAKER_00
+
+Okay, good. All right, so now what I'm going to do is explain the historical context as well as provide the evidence, okay? All right, so the Possum Reformation. All right, so the Possum Reformation. All right, so the Possum Reformation is a process that took place from 1517. 1517 is when a theologian, Martin Luther, published his 95 Theses. His 95 Theses is a direct criticism of the Catholic Church, the corruption of the Catholic Church. And it ends really in the year 1648. This is after decades of violent warfare between the Protestants and the Catholics. And at this point, Europe is completely exhausted. They just finished fighting something called the Thirty Years' War, which is before World War I, the deadliest war in European history. It kills, at most, about 8 million people. So all of Europe is completely devastated. In certain parts of Germany, which is where the war was fought, they lost about half of their population, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0019
+
+## seg-0020 / 00:23:40-00:24:49 / SPEAKER_00
+
+And this war ended in something called the Treaty of Westphalia, the Peace of Westphalia, which guarantees religious freedom to everyone in Europe. And this ends the Possum Reformation, okay? All right, so again, historians state the beginning of the Possum Reformation to Martin Luther. Last week, we discussed the Crusades, and we discussed how there were many thinkers, theologians, who opposed the Catholic Church. People like John Wycliffe, J.N. Haas, and they were eventually condemned as heretics, and the rebellion was stomped out by the Catholic Church. But Martin Luther, he's fortunate in that he has powerful political patrons. The various princes of the Holy Roman Empire want more autonomy from the Catholic Church, and Martin Luther gives them a proper pretext in order to financially divorce themselves from the Catholic Church, okay? So as I've discussed, what he's most famous for is something called the Ninety -Five Theses, which is a direct criticism of the corruption of the Catholic Church.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0020
+
+## seg-0021 / 00:24:49-00:26:03 / SPEAKER_00
+
+At this time, the Catholic Church wanted to build St. Peter's Basilica, a church in the Vatican, and they wanted this to be a gorgeous building. So to finance the building of this church, the Catholic Church saw something called indulgences. Indulgences are basically like tickets or special letters that will reduce the punishment of your relatives in purgatory, okay? It's basically to reduce the number of sins you committed. It's basically like bribing God, okay, to reduce your penalty. And this was a very popular thing, and it allowed the pope to build St. Peter's Basilica, which is one of the most beautiful buildings in the world today. But as you can imagine, if you are a true Christian, you are insulted. You are offended. you're angered by the idea of this corruption, okay? So, the 95th thesis, or 95 sentences, in which Martin Luther lays out his case against indulgences, and as such, against the authority of the Church and the Pope.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0021
+
+## seg-0022 / 00:26:03-00:27:03 / SPEAKER_00
+
+And this is the argument he makes, okay? So, let's look at some sentences. So, the 36th sentence is, every truly repentant Christian has a right to full remission of penalty and guilt, even without letters of pardon, okay? And what he's saying here is the idea of salvation by faith. You don't have to spend this money. You don't have to do what the Church tells you. If you are a true Christian, if you truly believe in God, God will forgive you. You have direct access to God, okay? So, he's denying the authority of the Pope, which makes him a heretic. He also says, Okay, this is direct insult to the Pope. He's saying, like, the person that most offends God in this world is the Pope. Because the Pope is insulting God by telling the world that God can be bribed by money, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:03-00:28:12 / SPEAKER_00
+
+So, let's pray for the Pope. Because clearly, the Pope has offended God. He also says, Why does not the Pope, whose wealth is today greater than the riches of the richest, he's saying, Why doesn't the Pope spend this money and build the Church himself? Build just this one Church of St. Peter with his own money, rather than with the money of poor believers, okay? Why is he exploiting the poor when he is the richest man in the world, okay? And as you can imagine, the Church is furious with him. And they deem him a heretic, and they want to burn him at the stake. But again, he's protected by powerful political patrons, and they fight a war over this issue. And it ends with something called the Peace of Augsburg, which divides the Holy Roman Empire, Germany, into Lutheran areas, where they are free to believe in Lutheran, and Catholic areas, where they still adhere to the Pope, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0023
+
+## seg-0024 / 00:28:12-00:29:24 / SPEAKER_00
+
+So, this is the beginning of the Protestant Reformation. Martin Luther, Martin Luther starts this doctrinal debate, and John Calvin also contributes to it by introducing the idea of double predestination, all right? So, Martin Luther, he wants to reform the Church, and then he eventually realizes that he needs to build another Church. But John Calvin, with his idea of double predestination, he's trying to deny the authority of the Church, okay? He's telling people that, because God has already decided, who will go to heaven at the beginning of time, then the Church is lying to you. The Church is fooling you, deluding you, okay? All right? So, he's a Frenchman. He went to the Sorbonne, the University of Paris. And as you can imagine, he's deemed a heretic, and he flees to a place called Geneva in Switzerland. And Switzerland is one of the birthplaces of the Protestant Reformation. The reason why is, there are a lot of individuals, independent towns in Switzerland.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0024
+
+## seg-0025 / 00:29:24-00:30:34 / SPEAKER_00
+
+And as I mentioned, the first believers in the Protestant religion are actually townspeople. That's aspirational middle class. They want to be connected with God, and they want a religion that encourages them to achieve more in life. And that's what the Protestant religion is about. There's also another famous theologian that's really not discussed today, but he's considered one of the three major founders of Protestantism. His name is Erich Zingli, and he's based in Zurich, okay? And he's probably the most extreme of the three, okay? All right, so the Protestant Reformation, it opens a kind of worms. It opens a Pandora's box. Because before, the ultimate authority was the Pope, who represented God. But now, you're free to believe whatever you want. So there are lots of peasants who, who rebelled against nobility, because they thought that feudalism was evil in the eyes of God, okay? So this is a proto -communist movement.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:34-00:31:44 / SPEAKER_00
+
+These are people who wanted total equality and democracy and freedom in the world, because they believe that is the will of God, okay? So they rebel against the feudal lords and kill them. And then the entire monarchy unite, the aristocracy unite, because they see these peasants as a threat, okay? Now, there are lots of these peasants. We estimate maybe about 300,000 joining this rebellion. But they are not educated. They are not organized. They have no weapons. And they have no centralized authority. And therefore, they're all massacred by the aristocratic armies, okay? All right, so this is the Peasants' War. And this is important, because eventually we will discuss communism. And communism, will be developed in response to the Peasants' War, okay? So this is the deadliest massacre of peasants before the French Revolution. 1534 is the Act of Supremacy. That is when the King of England, Henry VIII, declares his independence from the Pope, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0026
+
+## seg-0027 / 00:31:44-00:32:56 / SPEAKER_00
+
+But because there's such a strong Catholic contingent in England, Henry VIII maintains Catholic practices. But rather than have the Pope, be at the head of the church, he himself is now head of the church, okay? It's called the Church of England now. And the religion is called the Anglican religion, okay? The Anglican religion, all right? So the thing that we should observe about the Protestant Reformation is that, first of all, it's extremely diverse, okay? There are lots of different denominations. The Lutherans are those who believe in Martin Luther, okay? The Calvinists are those who believe in double predestination. The Anglicans are English who still follow Catholic rituals, but rather than follow the Pope, they follow the King of England, okay? The Hussites are those who adhere to Jane Huss in Bohemia. The Unitarians are interesting. The Unitarians are those who deny the divinity of Jesus. They deny the Holy Trinity.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0027
+
+## seg-0028 / 00:32:58-00:34:08 / SPEAKER_00
+
+They believe in God, and Jesus is just the Messiah. He's just a prophet of God, okay? So they affirm the moral teachings of Jesus, but they deny his divinity. You also have the Anabaptists, okay? The Anabaptists are interesting as well, because they believe that to truly believe in God, you must choose to do so. Therefore, you must not baptize infants, because when you do so, you force children to believe in God, even though they themselves lack the capacity, lack the reason to believe in God, okay? So only adults can join the faith, and they must do so voluntarily, all right? So as you can see, there's tremendous divergence. There's tremendous diversity within the Protestant faith, and it still continues today, okay? Every day, you have new denominations opening up, because people are interpreting the Bible differently. Another thing that you will notice is that most of the Protestants are actually located in Northern Europe, right?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0028
+
+## seg-0029 / 00:34:08-00:35:28 / SPEAKER_00
+
+So the countries of England, Germany, the Nordic countries, Switzerland, they will go Protestant. And in the South, France, Spain, Italy, they will remain Catholic. The only exception is this, the South of France, okay? The South of France. The South of France. The South of France will turn Protestant. It's interesting for us because if you look at a map, okay, the Protestant French are heavily centered in the South of France. And if you remember from last week, that's where the Cathars are also located, okay? So some historians believe that Protestantism and Catharism, they sort of mingle together. They combine and become conflated together, okay? Other historians believe that it's because that culturally, the South of France, because it's like surrounded by mountains, it's always been culturally independent of the rest of France. They speak a local language called Provencal, which is different from French, okay? These Protestants in French, sorry, these Protestants in France, they're mainly the middle class.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0029
+
+## seg-0030 / 00:35:28-00:36:32 / SPEAKER_00
+
+They're extremely well educated. They become very prosperous. And they're joined by the nobility. And as such, the King of France, and France is right now the most powerful country in Europe, the King of France sees them as a threat. And so what he'll do is he'll kill some of the nobles, which launches the St. Bartholomew Day's Massacre in 1572. Okay, that's a day when tens of thousands of French Protestants called Huguenots were killed. And this will start a process by which these Huguenots, extremely well educated, extremely hardworking, extremely wealthy, they will move to Protestant countries like England and the Netherlands and Germany. And they will help these countries jumpstart the Industrial Revolution, okay? They will bring their expertise, and they will help these countries jumpstart the Industrial Revolution. So this is a tremendous loss for France, tremendous gain for the other Protestant nations. Okay, so eventually, Europe is divided into two major factions, the Catholic faction and the Protestant faction.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0030
+
+## seg-0031 / 00:36:32-00:37:37 / SPEAKER_00
+
+And these two factions will eventually engage in something called the Thirty Years' War, okay, between the Habsburgs, the Holy Roman Empire, which was supported by the Pope, versus basically the independent states of Germany, okay? And this is a war that will last exactly 30 years. And again, it will kill at most 8 million people. It's the deadliest war in European history up until World War I. What's interesting about this war is that France, which is Catholic, chooses to join the Protestants in this war because they see the Holy Roman Empire as an imperial threat. They're afraid that if they allow the Habsburgs to take over Germany, then eventually they will swallow up France, okay? So it was a religious war, but it was also a geopolitical and imperial war. And again, this war ends with the Treaty of Westphalia, which guarantees religious freedom. So the religious wars will end, and Protestant religion will now be free to develop independently, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0031
+
+## seg-0032 / 00:37:39-00:38:40 / SPEAKER_00
+
+So this is called the Peace of Westphalia. Okay, so now let's summarize, and let's discuss the evidence for my argument that the Protestant Reformation gave birth to capitalism, okay? So these are the three major differences between a Catholic religion and a Protestant religion. The question then is, why is it that the North will become really Protestant and the South of Europe will stay mainly Catholic, okay? So one thing that we discussed in this class is the persistence of culture. So again, no one knows why this is the case, okay? And you'll hear different arguments. It could have been weather. It could have been personality. It could have been a lot of different factors, okay? But one possibility I want to present to you today is the cultural factor, which is that the South of France and the North of France are culturally different, all right?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0032
+
+## seg-0033 / 00:38:40-00:39:42 / SPEAKER_00
+
+So let's look at South of France. Sorry, South of Europe. The Southern Europe, countries of Spain, France, and Italy, were heavily influenced by Roman culture. That's where the Roman Empire was based, right? The Roman Empire eventually became an imperial bureaucracy. There are three core values to the Romans, right? Liberty. Now, liberty is really important. It means obedience to the law, because only by obeying the law can people be free to do what they want, okay? Secondly is the idea of repubblica. Repubblica means public virtue, to serve the public good, which basically means obeying what the Senate tells you to do, okay? Obeying authority. And lastly is the idea of piety, which is to respect the customs and history and traditions of Rome, okay? So these are the three major values of the Romans, and we can believe that they became embedded in the South of Europe. Now, let's look at Viking culture, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0033
+
+## seg-0034 / 00:39:42-00:40:37 / SPEAKER_00
+
+And when I say Vikings, I don't really mean Vikings per se. What I really mean are those Proto -Indo -Europeans that never really assimilated into Roman culture, all right? So what are their values? Well, they believe in courage, they believe in loyalty, and they believe in resourcefulness, okay? And we discuss this when we discuss the Vikings. Now, what we're going to do is this. We're going to map Catholic belief with Romans, and we're going to map Viking belief with the Protestants and see what happens. Okay, so the Catholics, they believe in orthodoxy, right? Well, the Romans also believe in orthodoxy. They call it liberty, right? Obedience to laws. Don't question laws, just obey them. Catholics believe in hierarchy. Well, Romans believe in hierarchy as well. They believe in obeying the Senate. The Senate is the ultimate authority, right? Catholics believe in justification by works. The Romans believe in piety, right? Respecting tradition.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0034
+
+## seg-0035 / 00:40:37-00:41:36 / SPEAKER_00
+
+You don't have to believe in these traditions, but you must respect them, all right? So this is pretty close. I mean, it's not perfect, all right? But this suggests that Roman culture had a tremendous influence on development of the Catholic Church. Now, let's look at the Protestants, okay? They believed in direct access to God through the Bible. Well, the Vikings believed in courage. What is courage? Courage is self -exploration. To go out into the unknown and figure out things for yourself, okay? And that's what the Bible is. That's what faith is. To read the Bible for yourself and to interpret the Bible in your own way. And you have to do so using emotional and spiritual courage, all right? Egotitarianism. So the Vikings had a concept of loyalty. And loyalty is basically the idea of mutual love. I'm loyal to you and you're loyal back to me because we love each other, all right? And the last concept is justification by faith.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0035
+
+## seg-0036 / 00:41:36-00:42:34 / SPEAKER_00
+
+And the individual struggle to come to terms with what God means to you individually, okay? And the Vikings believed in resourcefulness, right? Which is also the idea of individual struggle. You can figure it out by yourself if you work hard enough. If you will yourself, you have the courage to do so, okay? So again, I leave this as a possibility, okay? Don't treat this as a historical fact. I just suggest this as a way to think about why the Protestants became Protestants, the Catholics became Catholics, okay? And a lot of it has to do with the cultural residue from the past, okay? All right, so this is just a thought experiment. All right, so let's now talk about why is it that the Protestant Reformation won out. Again, they were up against the Holy Roman Empire. They were up against Catholic Church. There were more people in Catholic Europe.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0036
+
+## seg-0037 / 00:42:34-00:43:35 / SPEAKER_00
+
+Catholic Europe was wealthier and stronger, but they still won, okay? And the reason why they won is due to the invention of three things. The first thing is the printing press, which allowed for mass literacy and education. Now everyone could read the Bible. Before, you couldn't do so. You couldn't afford a Bible. But now everyone can read the Bible. But not only that, but everyone can now become self -educated. You can read all the classics by yourself. Okay? And the Protestant religion compelled you to be literate and to be educated. And as such, the Protestants as a whole were more well -educated than the Catholics. Okay? That's the first reason, the printing press. Second reason is the musket. This is really important. Before, the main weapon, the ultimate weapon was a knight, the armored knight. And the armored knight was a professional soldier, right? And that's why the knights were the nobility because they had to spend all their time training for war, going to war, fighting wars.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0037
+
+## seg-0038 / 00:43:36-00:44:31 / SPEAKER_00
+
+And it's very expensive to be a knight. But now, eventually, you have the gun, the musket. Okay? And it takes about 60 days for anyone to learn how to use the musket. And the musket is... The thing about the musket that's really important is it's able to pierce the armor of the knight, which makes the knight useless in war now. Okay? It's a musket that is important. So, in other words, anyone who has courage and devotion, mainly the Protestants, they're able to fight a war. And the musket will be vital, it will be crucial for both the American Revolution and the French Revolution. Okay? And we'll discuss the musket when we get to the American Revolution and the French Revolution. The last thing is that you have bank notes. Okay? Before, people used gold or coins that were minted with gold in order to...
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0038
+
+## seg-0039 / 00:44:31-00:45:27 / SPEAKER_00
+
+to trade goods. Not only... You can use bank notes, which is just money. Okay? And you can now monetize your hard work and frugality. You can now channel your hard work and frugality into bank notes. What's really important now is there's only a finite number of gold and coins, right? There's an infinite source of bank notes. So you can work infinitely hard. Okay? So what this means is before the Protestant Reformation, it was really hard to get people to work hard. Because let's just say that you are an employer and you want to be like, okay, I'm going to pay people more. Right? Well, when you pay people more, they actually work less because they can't spend that money. They're like, well, you know, if I have to work eight hours a day to make $100, but now I have to work two hours a day to make $100, I'll just work two hours.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0039
+
+## seg-0040 / 00:45:28-00:46:20 / SPEAKER_00
+
+So we actually work less. And in this system, slavery makes sense. Because the way to get people to work hard is to force them into eternal debt, which is what slavery is. But in this new Protestant system, then slavery is an evil. Because you're denying people the capacity to be with God, right? You are with God if you work hard. But if you're a slave, how do you measure the hard work? You're not able to work hard. And that's why after the Protestant Reformation, one of the main things that they did was eventually outlaw slavery. So there are lots of good things about the Protestant Reformation. You have the Industrial Revolution. You have the end of slavery. You have the rise of capitalism. You have the rise of the middle class. You have lots of really good things. But there's also no denying that there are some bad effects as well, okay? All right.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0040
+
+## seg-0041 / 00:46:20-00:47:44 / SPEAKER_00
+
+So this is a printing press invented by Gutenberg. This is what a printing press looks like. You have the musket, okay? So before, people had, you know, bows, right? And the bows were used by trained archers, and they weren't that powerful. But now with the musket, you're able to pierce knight armor, okay? Because there's more energy, 3,100 joules within the bullet. And then you have banknotes as well. And banknotes really is the exception of wealth, okay? Which means that in theory now, you could have infinite wealth. Why are we so wealthy today? Because we abstracted wealth, okay? Before, wealth was limited because gold was limited. But now with banknotes, with money, in theory, wealth can be infinite, okay? Okay. So this is John Wesley, who is the founder of the Methodist Church, okay? And he summarizes the idea of Protestantism really well. We ought not to prevent people from being diligent and frugal.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0041
+
+## seg-0042 / 00:47:45-00:48:50 / SPEAKER_00
+
+We must exhort all Christians to gain all they can and to save all they can. That is, in effect, to grow rich, all right? So Protestantists believe that it is God's calling. It is your mission to get rich. And that's how you know that you're favored by God, all right? And the way to get rich is by working hard and not spending any money. Okay. So what I'm going to do now is present the evidence for my argument that the Protestant religion gave birth to capitalism, okay? And to do so, I'm going to refer to three major thinkers. Max Weber, Imel Durkheim, and Georg Simmel. They're all sociologists. They're considered three major founders of the social sciences, okay? And they're all contemporaries. They were all writing about the year 1900. Why this is important is the year 1900 is really when the Protestant religion is most triumphant, right? This is when capitalism is most dominant.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0042
+
+## seg-0043 / 00:48:51-00:50:07 / SPEAKER_00
+
+Even though most people are not Protestants, Protestant, the work ethic, the belief system, has conquered the world. Germany, Britain, United States are the three most powerful countries in the world at this time. They're the three largest empires. And, they're all Protestant nations. And as such, they can impose Protestant beliefs on everyone else, okay? And the year 1900 is also before World War I. So at this time, everyone thinks that this is the greatest thing in the world. Protestantism, Industrial Revolution, capitalism are all divinely sent by God to bless humanity, okay? And what Max Weber, Georg Simmel, and Imel Durkheim are trying to do is figure out what's really going on, okay? And to see if there are any consequences to this system. And what they will show us is, in fact, there are a lot of problems in this system, okay? So let's first look at Max Weber, who in 1904 to 1905, from 1905, he wrote something called The Protestant Ethic and the Spirit of Capitalism.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0043
+
+## seg-0044 / 00:50:07-00:51:05 / SPEAKER_00
+
+He's trying to explain why is it that Protestants are a lot wealthier than Catholics in general, okay? And this is what he has to say. So far as predestination was not reinterpreted, toned down, or fundamentally abandoned, okay? So remember, double predestination, right? The belief that God has already selected those who will go to heaven and you must prove to yourself that you are one of them. Two principle, mutually connected types of pastoral advice appear, okay? So there are two consequences to the idea of predestination. On the one hand, it is held to be an absolute duty to consider oneself chosen, okay? So when a minority are going to heaven, the odds are you're not going to heaven, but you must believe you're going to heaven, otherwise you lack faith in God. Otherwise you don't truly believe in God. And then therefore you'll be truly damned, condemned by God.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0044
+
+## seg-0045 / 00:51:06-00:52:08 / SPEAKER_00
+
+And to combat all doubts as temptations of the devil, since lack of self -confidence is the result of insufficient faith and hence of imperfect grace, okay? To prove that God is perfect, to prove that God loves you, you must truly believe that you are chosen by God. If you doubt yourself, then you'll be condemned to hell, okay? Then you become a servant of the devil. The exhortation of the apostle to make fast one's own call is here interpreted as a duty to attain certainty of one's own election and certification in the daily struggle of life, okay? So you need to prove that you are one of the elect by focusing on this world, okay? Focus your energies on conquering this world. On the other hand, in order to attain that self -confidence, intense worldly activity is recommended as the most suitable means. It and it alone disperses religious doubt and gives the certainty of grace, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0045
+
+## seg-0046 / 00:52:08-00:53:11 / SPEAKER_00
+
+So this idea of, you have anxiety? How do you deal with anxiety? Work, work, work. Okay? OCD, obsessive compulsive behavior. What kind of work do you do? Make money. Because the money is proof of God's grace, right? Okay, so he continues. There's worldly Protestant asceticism, okay? Asceticism means like you're actually not spending any money, okay? Not only are you compelled to make a lot of money, but you're also compelled not to spend any of it. Not to enjoy it because that leads to corruption. That leads to decadence. Acted powerfully against the spontaneous enjoyment of possessions. It restricted consumption, especially of luxuries, okay? So no one's spending any of this money. Where's this money going? It's going to the bank. And who's using this money in the bank? The government is. And what are they doing? They're using it to fight wars, right? And that's how England and the Netherlands became empires.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0046
+
+## seg-0047 / 00:53:11-00:54:21 / SPEAKER_00
+
+They had access to all this surplus wealth that Protestants weren't spending. On the other hand, it had the psychological effect of freeing the acquisition of goods and inhibitions of traditionalist ethics. Okay, so the idea here is this. Before, if you were wealthy, you were expected by everyone around you to support the community, usually by organizing feasts on religious festivals, okay? You were expected to share your wealth. If you had too much money, it showed that you were against the community, okay? It showed that you were selfish. But now, people believe that if you're wealthy, it means God favors you. The more wealth you have, the more people respect you, okay? It's the complete inverse from the historical case. Historically, we believed that those who have too much money are evil. Now we believe that those who have too much money are inherently good. Okay, it's the complete reverse. It broke the bonds, the
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0047
+
+## seg-0048 / 00:54:21-00:55:30 / SPEAKER_00
+
+impulse of acquisition in that it not only legalized it, but looked upon it as directly willed by God, okay? So before, it was embarrassing to have too much money. Now it is prestigious to have too much money. The campaign against the temptations of the flesh and the dependence on external things was not a struggle against the rational acquisition, but against the rational use of wealth, okay? So what's evil is not to make a lot of money. What's evil is to use that money to enjoy yourself. Okay, so now he discusses the problems with this ideology, okay? The Puritans want to work in a calling, okay? So the Puritans want to be close to God. We are forced to do so. We're not Puritans. Most of the world is not Puritans. We're stuck. We are imprisoned in their world. They create this world and we're stuck in it. For when asceticism was carried out of monastic cells, into everyday life, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0048
+
+## seg-0049 / 00:55:30-00:56:30 / SPEAKER_00
+
+So the idea was in a Catholic church, if you wanted to be an ascetic, if you wanted to deny the world, you went into a monastery. The Puritans made the entire world into a monastery, okay? And began to dominate worldly morality. It did its part in building the tremendous cosmos of the modern economic order. He's talking about capitalism, okay? So capitalism was created by the Puritans in order to rationalize the world. This order is now bound to the technical and economic conditions of machine production, which today determine the lives of all the individuals who are born into this mechanism, not only those directly concerned with economic acquisition, with irresistible force, okay? So they create this system, which is industrial production. And this industrial production has made us all into slaves. And the soul of this industrial production system is capitalism, wealth for the sake of wealth. Okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0049
+
+## seg-0050 / 00:56:30-00:57:33 / SPEAKER_00
+
+And there's no denying this system. You cannot, you can never free yourself from the system. You're stuck inside the system. But not only that, but this entire of industrial production, it has permeated into all aspects of life. It's permeated into the family. It's permeated into the school, okay? Why do you have grades? Why do you have tests? Because of this industrial economy, right? Grades, tests are another form of money. Perhaps it will so determine until the last ton of fossilized coal is burned, okay? What he's saying here is that this system will keep on going until we destroy the planet, okay? Until we run out of resources, because that's what capitalism is. It's the exploitation of the environment. In Baxter's view, the care for external goods should only lie on the shoulders of a saint like a light cloak, which can be thrown aside at any moment, okay? So the idea of Protestantism is, listen, external wealth, wealth is just a measure of your faith in God.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0050
+
+## seg-0051 / 00:57:33-00:58:32 / SPEAKER_00
+
+That's not what's important. What's important is your faith, right? But the faith decreed that the cloak should become an iron cage, okay? Money was supposed to be a tool. Money was supposed to be a mechanism for us to connect with God, but now money, capitalism, industrial production, it's become our prison. There's no denying it. No one can now escape this, okay? Okay? Does it make sense to you? All right. So now he makes predictions. No one knows who will live in this cage in the future or whether at the end of this tremendous development entirely new prophets will arise or there will be a great rebirth of old ideas and ideals of neither mechanized petrification embellished with a sort of convulsive self -importance. Okay? Sorry, sorry, sorry. I read this wrong, okay? Let me do this again. No one knows who will live in this cage
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0051
+
+## seg-0052 / 00:58:32-00:59:41 / SPEAKER_00
+
+in the future or whether at the end of this tremendous development entirely new prophets will arise or there will be a great rebirth of old ideas. Okay, so what we're saying is this. As capitalism conquers more and more territory, as it becomes more embedded into everyday life, there will be a nostalgia for the Catholic Church and there may arise new prophets who will rebel against capitalism just like Martin Luther rebelled against the Catholic religion, okay? And these new ideas will happen. They're called fascism and communism, all right? So capitalism will give rise to the Nazis as well as the communists, the Bolsheviks. So this is the future, okay? So he's making a prophecy. But if these things don't happen, then what will happen is this. Mechanized petrification embellished with a sort of convulsive self -importance. We believe today that we have achieved divinity. We have achieved heaven on earth. Capitalism is the greatest good. But if you think about it, our civilization has become a zombie civilization.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0052
+
+## seg-0053 / 00:59:42-01:00:54 / SPEAKER_00
+
+It is without soul. It is without spirituality. It is without heart. It's all machine. It's all money. It's all obsession. Nothing else, okay? So I'm sorry that this is not appearing properly, okay? But that's what he's saying here. For of the last stage of its cultural development, it might well be truly said, specialists without spirit, okay? We have scientists who lack purpose. They have no sense of divinity. They have no sense of mission, okay? They're just doing technical work. Scientists who just do technical work. Sensualists without heart. This nullility imagines that it has achieved a level of civilization never before achieved, okay? All right? So that's what he's saying. He's saying like our civilization, it is a zombie civilization. It is nullitited. It is nothing. It is nihilistic. But we believe this is perfection, okay? And if you think about it, he's describing perfectly the world we live in today.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0053
+
+## seg-0054 / 01:00:55-01:01:56 / SPEAKER_00
+
+It's perfect, okay? He wrote this in about 1900. He predicted this would happen. And he's right. We live in a zombie civilization. All right, okay. So this is Georg Simmel, who is a friend of Max Weber's, the contemporaries, the colleagues, the friends. And he's trying to explain where money comes from, okay? And as explained previously, money now has become a substitute for the idea of God. It's become reality itself, okay? And why is that? Okay, here explains it. The projection of mere relations into particular objects is one of the great accomplishments of the mind, okay? So we're able to take an idea and transpose this idea onto a thing. Okay, we're able to take the idea of God and turn it into money. Okay, we can do that. And that's a great thing. When the mind is embodied in objects, these become a vehicle for the mind endowed with a livelier and more comprehensive activity.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0054
+
+## seg-0055 / 01:01:57-01:03:03 / SPEAKER_00
+
+Okay, when we do this, we turn God into money, our understanding of reality becomes much more vibrant. We're able to understand reality much better, okay? The ability to construct such symbolic objects attains its greatest triumph in money, okay? Money becomes a placeholder for everything, right? For money, it represents peer interaction in its purest form. How do we know if we're working hard? How do we know if we are succeeding? How do we know if we have friends? Through money, okay? Through capital accumulation. It makes comprehensible the most abstract concept. It is an individual thing whose essential significance is to reach beyond individualities. It centralizes everything, okay? Everyone agrees on money. Thus, money is the adequate expression of the relationship of man to the world, which can only be grasped in single and concrete instances, yet only really can see when the singular becomes the embodiment of the living mental process, which interweaves all singularities and in this fashion creates reality, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0055
+
+## seg-0056 / 01:03:03-01:04:16 / SPEAKER_00
+
+So, at the beginning of the class, I talked about money, right? How money takes all our different perspectives and converges into one thing, okay? And then it redesigns reality. That's what he's saying here, okay? The last person I want to talk about is Emil Durkheim, and he's a French sociologist, and his most famous book is called On Suicide. He's trying to discuss why is it that Protestants are much more likely to kill themselves than Catholics, okay? And his answer is it's because Protestants believe you have to struggle individually with faith, whereas Catholics don't believe that. Catholics believe that you just follow community rituals and you're good, okay? So, Protestants feel that they're alone and abandoned in this world, and that they must struggle out of this darkness, and that leads to tremendous energy, okay? It also leads sometimes to self -defeat. It leads to hopelessness, and that's why they kill themselves, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0056
+
+## seg-0057 / 01:04:16-01:05:17 / SPEAKER_00
+
+So, let's not read this, but that's what he's saying, okay? Okay, but I want to read this. This is really important. He's talking about the fact that Protestants transfer this anxiety and accumulation of wealth, right? They're anxious about what God is. They're anxious whether or not God loves them, and they focus on the accumulation of wealth, okay? And this is a problem because overexcited ambitions always exceeds the results that they achieve, whatever these may be, because they have not been aware that they should not go any further, okay? Right? Let's just say that you want to lose weight. Your obsession is to lose weight. It's possible that you may die in the process because you don't know how much weight you should lose. You don't know what the proper equilibrium is, okay? You just want to lose as much weight as possible. That's the problem with accumulating money.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0057
+
+## seg-0058 / 01:05:18-01:06:25 / SPEAKER_00
+
+You try to get more and more money to prove your worth to God, but you can't stop. You don't know when to stop, okay? Consequently, nothing satisfies them, and all this agitation perpetually sustains itself without reaching any form of satiety. You cannot stop, okay? You look at Jack Ma, the richest man in China at some point, right? He has all this money, $50 billion. What is he doing with it? Nothing. All he wants is to make more and more money. Why? Because only the acquisition of money brings him happiness. Nothing else does. It's a disease. Above all, as this race towards an unattainable goal can give no satisfaction but the race itself, if that can be called satisfaction, should anything chance to get in its way, then one is left empty -handed, okay? You're so focused on the obtaining of wealth that if you lose this process, okay, if you stop this process, you will feel devoid of everything, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0058
+
+## seg-0059 / 01:06:25-01:07:28 / SPEAKER_00
+
+You could have $50 billion in a bank, but if you drop out of this race, if you stop the accumulation of money, you will fall into anxiety and depression, all right? Now, it so happens that at this time, the struggle becomes more violent and more painful, both because it is less regulated and because competition is fiercer, all right? So he's talking about capitalism. How? Because it's all about the accumulation of wealth, and the accumulation of wealth can only bring about more anxiety and more stress. It's bringing out all social bonds, okay? It's bringing all traditional morality. It's bringing out all customs and norms. All classes are caught up in it because there's no longer any established classification. If you're rich, if you're poor, you're stuck in this system. No matter how rich you are, you're still playing this game. You can never escape it. So the effort is all the greater at the moment when it becomes more unproductive.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0059
+
+## seg-0060 / 01:07:29-01:08:37 / SPEAKER_00
+
+How can the will to live not be weakened in these conditions, okay? So, like, I know this is hard, and I know what I'm saying is going to be depressing, but what Max Weber is saying is, we live in a zombie civilization, okay? That's what he's saying. What Emil Durkheim is saying is that this civilization is an abomination. It's on a path to suicide. It's on a path to self -destruction. There's no purpose in this civilization. We exist for the sake of accumulating nothing of value. And eventually, we'll just recognize this and we'll all have to die. Our civilization is on a path to suicide. And you know what? They're right. They're prophets. Think about this. Never before in human history have we been as wealthy as technological progress, right? We have the internet. As more connected. We can fly all around the world.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0060
+
+## seg-0061 / 01:08:37-01:09:39 / SPEAKER_00
+
+You can go to the United States and study and then come back and work, okay? You have more opportunities than ever before. But again, think about this, okay? Never before in human history have there been more depression, anxiety, more suicides, more feeling of disconnection, okay? So, think about this. Let's do a thought experiment. Let's just say that I have anxiety. And the way that I deal with this anxiety is I collect newspapers. Every day, I'm out collecting newspapers. I fill this room with newspapers and then I go to the next room and I fill up newspapers. Everyone would say that I am hoarding, okay? The word is hoarding. And it is a disease, right? It's a disease. We all know it's a disease. If I were to go talk to a psychologist, he would say, I have a disease. I need... I need to take some anxiety medication. I need to relax, go on vacation, whatever, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0061
+
+## seg-0062 / 01:09:40-01:10:45 / SPEAKER_00
+
+But let's just say this. Let's just say I have anxiety. And all I want to do is make money. I make a million dollars. I don't spend it. I put it in the bank and I go make two million dollars. And then I go make three million dollars. And I'm not spending it. It's all in the bank, okay? How is that different from hoarding? How is that different from me collecting newspapers and just putting it in the house? It's not. There's no difference, right? But everyone would think I'm a great person. I am a good person because I'm working hard and I'm saving money, right? It's a contradiction in our society. It's a contradiction that exists because our society, our civilization is incapable of recognizing that we are a zombie civilization that is on the path to civilization of suicide, right? Okay, so this was depressing, but I feel as though we needed to discuss this, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0062
+
+## seg-0063 / 01:10:45-01:12:05 / SPEAKER_00
+
+And again, this idea that we learned previously, we're combining it, and we are going to use these ideas to understand the future development, okay? All right, so any questions? Great. Yep. Okay, you're absolutely right, okay? You're absolutely right. So in the Catholic religion, suicide is the worst sin that you can commit. Okay? And in the Protestant religion, there are also mechanisms against suicide. But let's go back to the theory. The theory is double predestination. God has already decided who will be burned in hell and who will go to heaven. And only a minority can go to heaven, right? And there's nothing you can do to change this. You understand? So if you follow the logic, you commit suicide, you're doing God's will. Because you commit suicide because you don't believe in God or you don't have enough faith in God, which means that you were condemned anyway, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0063
+
+## seg-0064 / 01:12:05-01:13:29 / SPEAKER_00
+
+So suicide, it's not a sin. It's a sign of weakness. Does that make sense? Okay? But also what's important for us to remember is that suicide, it's also a feeling of disconnection. It's a belief that no one cares if you die or not. No one supports you in your life, and therefore you're better off dead. If you die, you're not actually impacting the community, okay? And that's Emile Durkheim's argument. You're always gonna have people kill themselves in all religions. You can't really stop that. But Protestants are more likely to kill themselves because Protestant is a much more individualistic religion than Catholic, okay? All right. Does that make sense? Great, okay. Next question? Okay, so these three are not philosophers. These three are sociologists. So they're social scientists. They're Max Weber, who is considered the founder of sociology, Georg Simmel, and Emile Durkheim. These are the three major sociologists that really created modern social sciences, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0064
+
+## seg-0065 / 01:13:29-01:15:02 / SPEAKER_00
+
+Okay, that's a great question, okay? Okay, so these are social scientists. And the thing about social scientists is they feel their responsibility is to diagnose problems. And once they diagnose problems, then it's up to us to figure out the solution, okay? So let's figure out what they're saying, okay? So Weber is saying that this anxiety, which leads to capitalism, will ultimately lead to civilizational decline, okay? That's his main argument, okay? So again, he's not writing at the beginning of Protestantism, where Protestantism was a persecuted religion. And where it really gave hope to a lot of people. And it really empowered them to transform their lives, okay? He's really talking about late Protestantism when it's really conquered the world. And he's seeing a lot of issues, okay? And so he's looking at this. He's looking at the anxiety which causes capitalism, which causes civilizational decline. So he says there has to be a response. And there's going to be three possible responses.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0065
+
+## seg-0066 / 01:15:02-01:16:10 / SPEAKER_00
+
+The first possible response is nothingness. In which case, guess what? We become a zombie society. A zombie society just means that we just go on day to day doing whatever, but we don't know why. We don't really care. We have no soul. We have no spirit. We have no energy, okay? That's what a zombie society is. And that's what he's afraid of. But it's also possible that there is a reaction, which will lead to the return of the Catholic Church, which was basically a theocracy. Does that make sense? That's the second possibility. And then another possibility is the idea of new prophets, or people who are trying to channel this discontent with capitalism in order to form new movements in the way that Martin Luther and John Calvin did, right? And in the 12th century, there were two major responses to the problem of capitalism. The first, of course, is called communism.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0066
+
+## seg-0067 / 01:16:10-01:17:22 / SPEAKER_00
+
+The second is called fascism, okay, or the Nazis. All right, so the 12th century was really about defeating these two critics of capitalism, right? That's what the 12th century really was about. You first had World War II, which defeated Nazism, and then you have the Cold War, which defeated communism, all right? So this is out, okay? So right now, okay, our two paths ahead of us is either a zombie society or a return to a theocracy. And so if I'm a betting man, what our future looks like, I think it is most likely the world becomes a theocracy, all right? And there are theocracies that exist today. So for example, let's look at North Korea. North Korea is a theocracy where people are not allowed to think for themselves. People must do what they're told, okay? And it's all very heavily ritualized society, which worships the divinity of the supreme leader. We may hate this society, we may be disgusted by this society, but guess what?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0067
+
+## seg-0068 / 01:17:22-01:18:21 / SPEAKER_00
+
+Okay, this is really important. People in North Korea, even though they're poorer, even though they have less freedom, they are on average happier and more fulfilled and more energetic than most societies. You compare North Korea with South Korea, okay? Right? In South Korea, no one's having kids. That's a sign of complete hopelessness in this society. In North Korea, they're having a lot of kids. That's a sort of faith in our society, okay? So that's what Max Weber is predicting. He's predicting these three possible paths. We tried the new prophet's path. It didn't work, okay? We don't want to become a zombie society. So the only path ahead of us is to become a theocracy, a return to the tyranny of the Catholic Church. But the tyranny gives us meaning, purpose, and spirituality, a connection with God, that we are lacking into this society, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0068
+
+## seg-0069 / 01:18:21-01:19:40 / SPEAKER_00
+
+But, okay, let's just say, for the sake of argument, you know what? I like my individual freedom, right? I don't want to go to a theocracy where everyone's a slave. What can we do about this? Okay. So one issue that Max Weber doesn't really address because he doesn't recognize the problem is all these problems we're talking about is a problem of mass society, okay? When you have mass society, your options are much more limited. When you have mass society, you need to feed millions and millions of people. You need to organize them. You need to give them something to do. Therefore, your political flexibility doesn't really exist, okay? So, in other words, okay, thinking ahead, there are two solutions. Either you become a theocracy, or you figure out the problem of mass society, okay? If society becomes, I mean, like, I'm sorry to say this, but, like, if most people in the world died, then we would have more freedom in this world, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0069
+
+## seg-0070 / 01:19:40-01:21:03 / SPEAKER_00
+
+But if we choose to continue the system where you have eight billion people struggling on this earth, then you're stuck with moving towards a theocracy, okay? So that's what Max Weber is saying. He's basically saying, he's giving us a prophecy about our future, all right? Now, okay, having said that, let's look at Durkheim, okay? Durkheim. What's he saying? He's saying this, okay? And this is really important, okay? It's a hard argument, but this is what he's saying. All right. Why do you have suicide? Suicide is the result of disconnection. We do not think we are valuable in the world. We think that we are alone in this world, we don't want to be part of this world, we kill ourselves, okay? It's a very simple idea, right? But then the question then is, why is there disconnection? Because of anxiety, right? It's a belief that if I don't work hard, God will not favor me, right?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0070
+
+## seg-0071 / 01:21:03-01:22:05 / SPEAKER_00
+
+Why is anxiety important? Because it leads to capitalism. So in other words, these four concepts are interconnected, all right? Disconnection leads to suicide. We have disconnection because of anxiety. But anxiety is what feeds capitalism. If people weren't anxious, they wouldn't go out and work so hard to make money, right? They'd be like, you know what? I'm pretty happy making my $10 a day and stay at home eating noodles because I don't care, right? Your society would collapse. Capitalism would collapse, okay? So do you understand? Capitalism creates suicide. That's why we have the highest suicide rate in the whole entirety of human history, okay? More anxiety, more anxiety. More depression, more suicide, more unhappiness, more loneliness than ever before in human history, okay? So you can't say capitalism is the issue, but if you work out the logic, capitalism is the issue, right? And that's
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0071
+
+## seg-0072 / 01:22:05-01:23:06 / SPEAKER_00
+
+why today in the United States and elsewhere in the world, they're talking about a return to a theocracy because the direct response to capitalism is a theocracy. Let's just all obey the church and we're good, okay? Now, women will have to stay at home and give birth to kids. Oh, and also, like, if you're homosexual, we're going to have to kill you, but, you know, that's a price we're going to have to pay, okay? So it's a terrible world that we're going to, but what Durkheim is saying is if we continue on the path of capitalism, people are going to choose the path of theocracy. Theocracy is almost a natural outcome of capitalism because of the problem of disconnection, okay? But are you going to be able to defeat capitalism ever? And the answer is no, okay? We tried in the 20th century. It led to the death of tens of millions of people, okay?
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0072
+
+## seg-0073 / 01:23:06-01:23:44 / SPEAKER_00
+
+Good luck trying to defeat capitalism. You can't do it. It can't be done. It's too powerful, okay? Does that make sense? Any more questions? Okay, great. So next Tuesday, we do this. We're going to do the time revolution, okay? All right.
+
+Ref: video:predictive-history-tcxloijz8v0@transcript:v1#seg-0073
