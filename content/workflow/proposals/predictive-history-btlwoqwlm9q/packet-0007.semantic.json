@@ -1,0 +1,160 @@
+{
+  "packet_id": "predictive-history-btlwoqwlm9q-semantics-pkt-0007",
+  "source_id": "video:predictive-history-btlwoqwlm9q",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0049",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0050"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether governments help or are controlled by elderly pensioners; Jiang answers that in Chinese society respect for elders makes elderly cultural and political priority structurally unsurprising.",
+      "speaker_attribution": "Student question in seg-0049; Jiang answer in seg-0050.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0051",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0052",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0053",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0054",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "Amber asks Jiang to restate what evil is in the Monad model; Jiang defines evil as denial of the system, distance from Monad/love/knowledge, and excessive embrace of the material world, then Amber asks whether sacrifice can still create cohesion.",
+      "speaker_attribution": "Amber/student in seg-0051, seg-0053, seg-0056; Jiang in seg-0052 and seg-0054.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0049",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0056"
+      ],
+      "note": "This packet is mostly student Q&A; SPEAKER_02, SPEAKER_03, and possibly SPEAKER_00 are students, while SPEAKER_01 is Jiang.",
+      "suggested_speaker": "Q&A",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0055"
+      ],
+      "note": "seg-0055 is an empty residue after boundary repair and should not carry semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says elderly pensioners control Chinese society culturally and politically because respect for elders is built into Chinese social structure from childhood.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0049",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Answer during the 2025-08-29 lecture, referring back to prior class discussion.",
+      "topic_tags": [
+        "gerontocracy",
+        "china",
+        "pensioners",
+        "social-structure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Within the Monad system, evil is distance from the Monad: denying truth, love, knowledge, or the spiritual world and embracing the material shadow world.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0051",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Definition in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "evil",
+        "monad",
+        "love",
+        "knowledge",
+        "material-world"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Plato and Dante again: for Plato, good is pursuit of knowledge and evil includes denial of knowledge and shadow-making art; for Dante, more love is good and less love is bad.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Comparative model in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "plato",
+        "dante",
+        "evil",
+        "art",
+        "love"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0054"
+      ],
+      "moment": "Evil is not a monster first; it is movement away from the source.",
+      "source_phrase": "the further you move away from the Monad, that's what's evil",
+      "why_it_matters": "This gives the read its cleanest definition of evil inside Jiang's metaphysical frame.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0054"
+      ],
+      "moment": "Movies are shadows of a shadow world, making Plato's prison even thicker.",
+      "source_phrase": "movies are just a shadow of the shadow world",
+      "why_it_matters": "It is a sharp Jiang-style aside connecting art, illusion, and Plato's suspicion of representation.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Evil",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "In the Monad model, denial of the spiritual system and movement away from truth, knowledge, and love.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gerontocracy",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0049",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The prior-class model the student references, where elderly pensioners control society because culture and government orient around them.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0049",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0050"
+      ],
+      "note": "The pensioner answer explicitly refers back to the prior class and should be compared with Secret History #3 in any corpus-impact pass.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0051"
+      ],
+      "note": "The student names the board model; the transcript briefly interrupts with Jiang's 'The Monad.'"
+    }
+  ]
+}

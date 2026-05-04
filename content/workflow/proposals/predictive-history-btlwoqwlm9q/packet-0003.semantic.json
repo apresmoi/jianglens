@@ -1,0 +1,159 @@
+{
+  "packet_id": "predictive-history-btlwoqwlm9q-semantics-pkt-0003",
+  "source_id": "video:predictive-history-btlwoqwlm9q",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0017",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends Monkey Island into a secret-elite origin story: the men return to ordinary society with memories, rituals, religion, and a hive mind that later lets their descendants control power.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0019",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how returned peasants could matter if society already has leaders; Jiang answers that surface leaders are not real power and promises historical analogies.",
+      "speaker_attribution": "Student question in seg-0019; Jiang answer in seg-0020.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0021",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0022",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0023",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to Sparta: Thermopylae, Leonidas, harsh childhood hazing, same-sex mentorship, and helot terror become historical analogues for sacrifice-generated cohesion.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0019"
+      ],
+      "note": "SPEAKER_00 is a student asking about whether already-existing leaders would block returned Monkey Island men from power.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims that the Monkey Island group's intense shared ordeal would survive return to normal life as a secret religion, ritual inheritance, and elite power network.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0017",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Thought experiment in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "secret-elite",
+        "ritual-inheritance",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He distinguishes visible leadership from real power: presidents and famous figures may appear to rule, while the cohesive inherited network controls things underneath.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0018",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Model claim in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "visible-leadership",
+        "real-power",
+        "secret-elite"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses Spartan education as evidence that ritualized brutality, hazing, mentorship, and sexual bonds can manufacture brotherhood and military synchronicity.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0021",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0022",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0023",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical analogy in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "sparta",
+        "hazing",
+        "military-cohesion",
+        "synchronicity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0017",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0018"
+      ],
+      "moment": "The men come home from hell and quietly inherit the world.",
+      "source_phrase": "secretly you're the ones who are in control",
+      "why_it_matters": "This is the lecture's bridge from thought experiment to conspiracy-like power model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0022",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0023"
+      ],
+      "moment": "Spartan childhood becomes a machine for turning terror into love between boys.",
+      "source_phrase": "only by helping each other can they survive the brutality",
+      "why_it_matters": "It gives historical flesh to Jiang's claim that suffering can manufacture cohesion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Secret elite",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The hidden power network Jiang imagines arising from inherited shared ordeal, ritual, and synchronicity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Hazing",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0022",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Ritualized brutality that Jiang says builds solidarity because victims survive by helping one another.",
+      "confidence": "high"
+    },
+    {
+      "term": "Helots",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The enslaved conquered people in Sparta whom Jiang says young Spartans were sent to kill as a graduation ritual.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0020"
+      ],
+      "note": "The funeral ritual sentence is ASR-damaged; preserve only that Jiang says strange rituals around sacrifice help maintain unity."
+    }
+  ]
+}

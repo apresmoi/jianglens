@@ -1,0 +1,141 @@
+{
+  "packet_id": "predictive-history-btlwoqwlm9q-semantics-pkt-0008",
+  "source_id": "video:predictive-history-btlwoqwlm9q",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0057",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0058",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0059",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0060",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers Amber's sacrifice question: sacrifice can unlock divine energy because it is performed inside a religious framework and accesses lower evil forces rather than the Monad.",
+      "speaker_attribution": "Jiang answer with brief student acknowledgments.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0062",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0063",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Amber tries to reconcile Dante's love model with evil deeds and the socially constructed Monad; Jiang briefly confirms one step before the question continues into the next packet.",
+      "speaker_attribution": "Student in seg-0062 and seg-0064; Jiang in seg-0063.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0057",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0064"
+      ],
+      "note": "Short student acknowledgments and follow-ups are interleaved with Jiang's answer; SPEAKER_03 is Amber/student.",
+      "suggested_speaker": "Jiang and Amber/student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says sacrifice can unlock divine energy because it is not isolated violence but a ritual consummation of a religion that worships and sends victims to a god.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0057",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Answer in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "sacrifice",
+        "religion",
+        "divine-energy",
+        "evil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In this metaphysical model, sacrificial religion accesses a lower part of the universe populated by evil beings rather than returning upward toward the Monad.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Metaphysical answer in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "evil-beings",
+        "monad",
+        "sacrifice",
+        "lower-reality"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Amber's question identifies a tension in Dante's theory: if evil deeds create love or cohesion, she asks whether that could still bring people closer to the Monad.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0062",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0063",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Student question in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "dante",
+        "love",
+        "evil",
+        "monad"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "moment": "Sacrifice is not done for sacrifice's sake; it is the consummation of a religion.",
+      "source_phrase": "a consummation of their religion",
+      "why_it_matters": "This line prevents the episode from treating sacrifice as simple cruelty; Jiang is describing an internal ritual logic.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "moment": "The ritual goes lower, not higher.",
+      "source_phrase": "they go lower",
+      "why_it_matters": "It gives Jiang's metaphysics of evil a vertical geography: love ascends, transgression descends.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Consummation of religion",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Jiang's phrase for sacrifice as the ritual completion of a religious demand, not violence detached from belief.",
+      "confidence": "high"
+    },
+    {
+      "term": "Lower part of the model",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The region of Jiang's metaphysical map associated with evil beings and sacrificial transgression.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0064"
+      ],
+      "note": "Amber's question is cut off and continues into the next packet; do not treat it as a complete claim by Jiang."
+    }
+  ]
+}
