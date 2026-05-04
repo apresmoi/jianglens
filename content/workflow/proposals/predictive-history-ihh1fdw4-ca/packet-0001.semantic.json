@@ -1,0 +1,188 @@
+{
+  "packet_id": "predictive-history-ihh1fdw4-ca-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ihh1fdw4-ca",
+  "source_date": "2025-10-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0001",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by framing the moon landing, JFK assassination, and 9/11 as official American stories that many people reject, then starts with Apollo as a spectacle of impossible-seeming technological achievement.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0003",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0004",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He comments over moon-landing footage, stressing its fake-looking quality, the apparently effortless return from the moon, and the live phone call from Nixon as signs that the story asks the audience to accept extraordinary technology.",
+      "speaker_attribution": "Jiang over video playback; diarization splits are unreliable",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0006"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A historical clip of Nixon praises the astronauts and says the heavens have become part of man's world.",
+      "speaker_attribution": "Nixon archival clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0007"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang links Nixon's line to his previous theme of inversion, reading Apollo as the symbolic act of bringing heaven down to earth, then contrasts expected heroic triumph with the astronauts' later press-conference demeanor.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "A press-conference question asks whether the astronauts could see stars and the solar corona from the lunar surface.",
+      "speaker_attribution": "Press-conference questioner in archival clip",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0003",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0005"
+      ],
+      "note": "These segments are diarized as SPEAKER_05 but appear to be Jiang continuing commentary over video; treat the label as unreliable.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0006",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0008"
+      ],
+      "note": "These are archival moon-landing press or White House audio/video excerpts, not Jiang's own claims.",
+      "suggested_speaker": "archival clip",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The lecture will test three official American narratives by looking first at the official story and then at the problems or suspicious details around it.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "lecture framing on 2025-10-17",
+      "topic_tags": [
+        "official-story",
+        "conspiracy",
+        "american-history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Apollo as a technological and symbolic event whose official presentation implies a level of 1969 communications capability that seems superior to the present.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0002",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Apollo discussion within this lecture",
+      "topic_tags": [
+        "moon-landing",
+        "technology",
+        "spectacle"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Nixon's phrase that the heavens became part of man's world is used by Jiang as evidence for an inversion motif: heaven is brought down to earth.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0006",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "interpretation of archival Apollo rhetoric",
+      "topic_tags": [
+        "inversion",
+        "heaven-to-earth",
+        "apollo"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the astronauts' post-mission demeanor is strange because heroes returning from an impossible achievement should appear triumphant rather than nervous or subdued.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0007",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "moon-landing press-conference analysis",
+      "topic_tags": [
+        "moon-landing",
+        "press-conference",
+        "official-story"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0006",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0007"
+      ],
+      "moment": "Jiang catches the Apollo rhetoric as an occult-style inversion: the heavens become part of man's world.",
+      "source_phrase": "The heavens have become part of man's world",
+      "why_it_matters": "This turns Apollo from a technical achievement into a symbolic act in the lecture's larger heaven-to-earth model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0004"
+      ],
+      "moment": "The moon landing is described with deadpan suspicion as 'Humanity's greatest achievement' while the return looks too easy.",
+      "source_phrase": "No resistance at all. Okay? Perfect. Humanity's greatest achievement.",
+      "why_it_matters": "The sarcasm establishes the lecture's method: official grandeur is made suspect by small details in the performance.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "inversion",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Used here for the symbolic act of bringing the heavens down to earth.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0001",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0007"
+      ],
+      "note": "This 2025-10-17 lecture continues the prior-class theme of inversion and applies it to Apollo.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0004"
+      ],
+      "note": "The ASR contains heavy noise during part of the moon-landing footage commentary; only the clear argumentative material is extracted."
+    }
+  ]
+}

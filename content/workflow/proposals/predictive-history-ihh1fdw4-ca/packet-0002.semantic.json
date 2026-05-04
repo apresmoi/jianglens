@@ -1,0 +1,211 @@
+{
+  "packet_id": "predictive-history-ihh1fdw4-ca-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ihh1fdw4-ca",
+  "source_date": "2025-10-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0009"
+      ],
+      "kind": "answer",
+      "summary": "An astronaut in the archival press conference says they could not see stars from the lunar surface by eye and does not recall what stars were visible during solar-corona photography.",
+      "speaker_attribution": "Apollo astronaut in archival clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads the astronauts' inability to remember or see stars as strange, then shifts to 9/11 footage and argues the towers' straight-down collapse looks like demolition even while qualifying that he is not saying it is demolition.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0011",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "He adds Building 7 and George W. Bush's classroom behavior as suspicious 9/11 details, arguing that a president under attack should be rushed to safety rather than sitting calmly with children.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0013",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the Warren Commission's lone-gunman account, then attacks the security layout of JFK's Dallas motorcade as implausibly vulnerable to attack and snipers.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0015",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets Dealey Plaza through religious and Freemason symbolism, suggesting the location may have been chosen as ritual space, though the transcript has repeated ASR loops before returning to Oswald's arrest.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0009"
+      ],
+      "note": "This segment answers the press-conference question from the prior packet and should be attributed to the archival astronaut, not Jiang.",
+      "suggested_speaker": "Apollo astronaut archival clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0015",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0016"
+      ],
+      "note": "The repeated Freemason lines appear to be ASR or playback duplication; extract the stable claim but do not treat every repeat as a separate point.",
+      "suggested_speaker": "Jiang with ASR repetition",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that the astronauts' press-conference answer about not seeing stars contributes to a strange, nervous affect around the moon-landing story.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0009",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "moon-landing critique in this lecture",
+      "topic_tags": [
+        "moon-landing",
+        "press-conference",
+        "memory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He presents the straight-down collapse of the Twin Towers and Building 7 as visually suspicious because fire and plane impact do not obviously explain three buildings coming down.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0010",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "9/11 analysis in this lecture",
+      "topic_tags": [
+        "9-11",
+        "building-seven",
+        "demolition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Bush's classroom posture during 9/11 is used as evidence of abnormal official behavior because Jiang expects the president to be moved immediately to safety during an unknown attack.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0011",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "9/11 analysis in this lecture",
+      "topic_tags": [
+        "9-11",
+        "bush",
+        "security"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang disputes the sufficiency of the Warren Commission's lone-gunman account by emphasizing the motorcade's exposed security geometry and witness reports of other shooters.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0013",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "JFK analysis in this lecture",
+      "topic_tags": [
+        "jfk",
+        "warren-commission",
+        "security"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dealey Plaza is interpreted as a possible ritual site because Jiang connects its shape to the menorah and its history to Freemasonry in Texas.",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "JFK symbolic analysis in this lecture",
+      "topic_tags": [
+        "jfk",
+        "ritual",
+        "freemasonry"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0010"
+      ],
+      "moment": "Jiang repeatedly qualifies the demolition reading while still teaching the eye to see the collapse as strange.",
+      "source_phrase": "I'm not saying it's a demolition but it looks kind of strange",
+      "why_it_matters": "The formula lets him advance suspicion without fully converting it into a direct factual assertion.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0015"
+      ],
+      "moment": "Dealey Plaza becomes more than a crime scene: it is read as a ritual geometry.",
+      "source_phrase": "almost like they picked this place for a ritual sacrifice",
+      "why_it_matters": "This is where the lecture moves from suspicious logistics into symbolic causality.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Warren Commission",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0012",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The official commission Jiang says produced the lone-gunman account of JFK's assassination.",
+      "confidence": "high"
+    },
+    {
+      "term": "ritual sacrifice",
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's speculative frame for why a public killing might be staged at a symbolically loaded site.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0012",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0013"
+      ],
+      "note": "The lecture dates JFK's assassination to November 22, 1963 and uses the Warren Commission as the official account under critique.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0015",
+        "video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0016"
+      ],
+      "note": "ASR repetition around Freemasons is severe; treat the repeated wording as one intended transition rather than a literal repeated claim."
+    }
+  ]
+}
