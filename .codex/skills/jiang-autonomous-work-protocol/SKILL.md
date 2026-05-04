@@ -49,7 +49,7 @@ Load the specific process skill for the job:
 - boundary decisions: `jiang-transcript-boundary-review`
 - public episode read: `jiang-episode-read-writer`
 - episode publication: `jiang-episode-publisher`
-- per-episode corpus impact: `jiang-corpus-impact-pass`
+- per-episode corpus impact when explicitly assigned to a corpus-impact worker: `jiang-corpus-impact-pass`
 - concept page writing: `jiang-lens-concept-writer`
 - atlas maintenance: `jiang-lens-atlas-maintainer`
 - provenance linking: `jiang-provenance-linker`

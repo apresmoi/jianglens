@@ -63,10 +63,4 @@ Do not rewrite public prose except for small structural fixes required by valida
 
 Do not edit generated files by hand.
 
-After successful publication, hand off to `jiang-corpus-impact-pass`. Every published episode should record whether it only adds evidence or whether it justifies lens links, concept extension, a new lens seed, atlas mutation, or canon-candidate review.
-
-Corpus impact coverage can be audited with:
-
-```bash
-node ops/scripts/audit-corpus-impact.mjs
-```
+After successful publication, stop. Corpus impact, lens links, concept extension, new lens seeds, atlas mutation, and canon-candidate review are downstream jobs for separate agents. Mention obvious follow-up in the handoff, but do not create or require `corpus-impact.json` as part of episode publication.

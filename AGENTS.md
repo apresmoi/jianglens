@@ -112,7 +112,7 @@ Skills are process contracts, not agent personas. Use the narrowest skill that m
 - one public episode read: `.codex/skills/jiang-episode-read-writer/SKILL.md`
 - generated episode data and route/build validation: `.codex/skills/jiang-episode-publisher/SKILL.md`
 - one-video source-to-site integration test: `.codex/skills/jiang-video-e2e/SKILL.md`
-- per-episode corpus impact and mutation level: `.codex/skills/jiang-corpus-impact-pass/SKILL.md`
+- per-episode corpus impact and mutation level when explicitly assigned to a corpus-impact worker: `.codex/skills/jiang-corpus-impact-pass/SKILL.md`
 - one public concept page: `.codex/skills/jiang-lens-concept-writer/SKILL.md`
 - public lens atlas maintenance: `.codex/skills/jiang-lens-atlas-maintainer/SKILL.md`
 - evidence marks, hovers, backlinks, and lens-point links: `.codex/skills/jiang-provenance-linker/SKILL.md`
