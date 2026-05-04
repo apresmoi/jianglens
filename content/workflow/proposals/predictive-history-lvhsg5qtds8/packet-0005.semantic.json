@@ -1,0 +1,167 @@
+{
+  "packet_id": "predictive-history-lvhsg5qtds8-semantics-pkt-0005",
+  "source_id": "video:predictive-history-lvhsg5qtds8",
+  "source_date": "2025-10-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0033",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0034",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses Inuit art and the calculating horse to argue that communities and animals can perceive emotional fields modern language misses; the horse reads anticipation rather than doing math.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0035",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0036",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0037",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0038",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0039"
+      ],
+      "kind": "monologue",
+      "summary": "He rejects literal autism telepathy but retells a Chinese mother-son case as an example of hidden emotional language, pitch perception, love, and imagination strong enough to fool television until AI decoded it.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0039",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He returns to cooperative drawing and horseback riding to say creativity is released when people do not want to let each other down, and that emotional connection can make horse and rider act almost before thought.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says native communities that preserve Ice Age traditions may be misread as unintelligent because they focus energy on empathy, imagination, and intuition rather than modern essays or speeches.",
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "interpretation of native art and perception in this lecture",
+      "topic_tags": [
+        "native-art",
+        "modern-language",
+        "empathy",
+        "intuition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The calculating horse is interpreted as room-reading empathy, not arithmetic: animal perception notices excitement, breath, and anticipation.",
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0034",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "example within empathy model",
+      "topic_tags": [
+        "horse",
+        "empathy",
+        "telepathy",
+        "perception"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says supposed telepathy in autistic children is not mind-reading but can be a hidden sensory-emotional language between people who love each other.",
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0035",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0036",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0037",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0038",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "telepathy-tapes critique and Chinese example in this lecture",
+      "topic_tags": [
+        "autism",
+        "telepathy",
+        "love",
+        "pitch",
+        "hidden-language"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Creativity is released through cooperation, empathy, and wanting not to let others down, rather than through isolated ambition.",
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0039",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "creativity model in this lecture",
+      "topic_tags": [
+        "creativity",
+        "cooperation",
+        "empathy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0034",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0035"
+      ],
+      "moment": "The horse does not know math; it knows the room.",
+      "source_phrase": "the horse is reading the room",
+      "why_it_matters": "This gives Jiang a concrete, memorable definition of empathy as embodied perception.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0037",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0038",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0039"
+      ],
+      "moment": "A poor mother and autistic son invent a pitch-language so subtle only AI can expose it, and Jiang reads the deception as love and imagination rather than mere fraud.",
+      "source_phrase": "a hidden emotional language together",
+      "why_it_matters": "The episode can preserve the moral twist: the exposed trick is still evidence for extraordinary human connection.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0040"
+      ],
+      "moment": "The secret to creativity is that empathy makes people want to be at their creative best for one another.",
+      "source_phrase": "That's the secret to creativity",
+      "why_it_matters": "This condenses Jiang's cooperative model of imagination.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hidden emotional language",
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0038",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A private perceptual code created by love and close attention, here a pitch system shared by mother and son.",
+      "confidence": "high"
+    },
+    {
+      "term": "Telepathy",
+      "refs": [
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0035",
+        "video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang uses the term for emotional attunement or embodied anticipation, not literal mind-reading.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
