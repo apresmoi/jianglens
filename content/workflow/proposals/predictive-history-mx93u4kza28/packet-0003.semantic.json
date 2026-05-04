@@ -1,0 +1,186 @@
+{
+  "packet_id": "predictive-history-mx93u4kza28-semantics-pkt-0003",
+  "source_id": "video:predictive-history-mx93u4kza28",
+  "source_date": "2026-01-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0017",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0018",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why parenting diverges by class: society is hierarchical, poor people survive by obeying authority, and rich people improve outcomes by negotiating, debating, and arguing.",
+      "speaker_attribution": "Jiang classroom lecture; seg-0018 is a brief classroom acknowledgment or transcription fragment.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0020",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0021",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "He says poor parents are not optimizing for their child's long-term success but for navigating police, bosses, family, and local norms. Command parenting is adaptive because challenging authority can be dangerous and nonconforming parenting can make relatives think something is wrong.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0022",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0023",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He uses his own family as a counterexample: freedom, communication, democracy, and storytelling instead of endless activities and math classes. The price is social isolation in China, because parenting is designed to fit the surrounding social environment more than to maximize creativity.",
+      "speaker_attribution": "Jiang classroom lecture using personal example.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0018"
+      ],
+      "note": "The UNKNOWN 'Okay?' is a very brief acknowledgment or ASR fragment and does not change the interaction structure.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says hierarchy divides rich and poor into different worlds: poor people survive through obedience, while rich people maximize outcomes through negotiation.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0017",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Game-theory model in the 2026-01-13 lecture.",
+      "topic_tags": ["hierarchy", "class", "obedience", "negotiation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that poor parents command children because their children need to know how to take orders from police, bosses, and family networks.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0019",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0020",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Class-parenting diagnosis as of 2026-01-13.",
+      "topic_tags": ["parenting", "authority", "police", "work"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that rich parents respect and debate with children because the rich child's future game is negotiation with peers and institutions.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Class-parenting diagnosis as of 2026-01-13.",
+      "topic_tags": ["parenting", "negotiation", "class"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "For poor families, Jiang says command parenting can be an optimal local strategy because friends and relatives may punish or stigmatize parent-child friendship, communication, and promise-keeping as deviant.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0021",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Class-parenting diagnosis as of 2026-01-13.",
+      "topic_tags": ["local-norms", "imitation", "parenting", "class"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his own parenting in China emphasizes freedom, communication, family democracy, and stories rather than scheduled achievement activities, and that this makes his family socially abnormal in that environment.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0022",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0023",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Personal example in the 2026-01-13 lecture.",
+      "topic_tags": ["parenting", "china", "creativity", "family"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The deeper incentive of parenting, in this account, is not always child success; it is often fitting the child and family into the surrounding social environment.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture thesis as of 2026-01-13.",
+      "topic_tags": ["parenting", "social-conformity", "class-reproduction"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0019"
+      ],
+      "moment": "From day one, rich kids and poor kids are not learning different values inside one game; they are learning different games.",
+      "source_phrase": "rich kids know that they're playing a different game",
+      "why_it_matters": "This is the lecture's game-theory hinge: behavior is rational only relative to the game the child is being trained to play.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0024"
+      ],
+      "moment": "Parenting is revealed as social fitting: the goal is not necessarily to make the child successful, but to make the child fit China or the local world.",
+      "source_phrase": "The incentive is for your child to fit into China",
+      "why_it_matters": "It explains why obvious reforms do not travel cleanly across class and culture.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "obedience game",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0017",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The survival strategy Jiang associates with poor families: learn to accept authority and avoid dangerous confrontation.",
+      "confidence": "high"
+    },
+    {
+      "term": "negotiation game",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The rich-child strategy of debate, argument, and peer negotiation for maximizing outcomes.",
+      "confidence": "high"
+    },
+    {
+      "term": "imitation",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The mechanism by which local family and friend networks reproduce parenting styles.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0017",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0024"
+      ],
+      "note": "This 2026-01-13 lecture extends the Game Theory series by treating parenting as a strategy inside class hierarchy, not as isolated morality.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0023"
+      ],
+      "note": "The phrase 'normal child's family' appears to be ASR for normal Chinese families; the surrounding China comparison clarifies the meaning."
+    }
+  ]
+}
