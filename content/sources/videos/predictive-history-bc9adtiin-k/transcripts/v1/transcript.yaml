@@ -1,0 +1,33 @@
+id: "video:predictive-history-bc9adtiin-k@transcript:v1"
+source_id: "video:predictive-history-bc9adtiin-k"
+version: 1
+language: "en"
+language_probability: 0.996
+duration_seconds: 1545.172
+segments: 21
+word_count: 3271
+speakers:
+  - "SPEAKER_00"
+chronology:
+  source_date: "2025-06-25"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/@PredictiveHistory/bc9adtiIN_k"
+  youtube_metadata: "content/sources/raw/youtube/@PredictiveHistory/bc9adtiIN_k/metadata.youtube.json"
+  youtube_metadata_source: "yt-dlp"
+  transcription_json_sha256: "f11a01dea365b479513fd9591c197b9e651f9f61fdb40cabb2fb5e26d8689a99"
+  grouped_json_sha256: "9e9a1118cba1d39bf70a74d8f85eefcf6bb2bf909f61a75bbfb8ebe38065dd1e"
+  dump_json_sha256: "2b30a879c64c498264e85e1bb2cde23964cca8d7e631e92dc6a5ee3ad3dc3062"
