@@ -1,0 +1,214 @@
+{
+  "packet_id": "predictive-history-rkt0hqooghe-semantics-pkt-0005",
+  "source_id": "video:predictive-history-rkt0hqooghe",
+  "source_date": "2025-11-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0033",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0036",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039"
+      ],
+      "kind": "unclear",
+      "summary": "Short UNKNOWN “Okay?” segments appear to be backchannel or ASR artifacts rather than substantive audience questions.",
+      "speaker_attribution": "Unknown/backchannel.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0034",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes Mycenaean Greece as a sea-oriented, pirate-heavy trade-route power whose attack on Troy follows from Troy’s strategic control of the Aegean.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0037",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0038",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the Mycenaean palace economy, shows its wealth through gold objects, walls, and elaborate tombs, and links Egyptian burial practice to the problem of burying treasure with the dead.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0033",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0036",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039"
+      ],
+      "note": "These UNKNOWN one-word segments do not carry public question content.",
+      "suggested_speaker": "unclear audience/backchannel or ASR artifact",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Mycenae’s importance comes from sea transport, logistics, piracy, and trade-route control in the Mediterranean system.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Historical interpretation in 2025-11-04 lecture.",
+      "topic_tags": [
+        "mycenae",
+        "piracy",
+        "trade-routes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Greeks were mainly pirates at the beginning, and the Mycenaean assault on Troy was driven by Troy’s strategic control of the Aegean Sea.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0034",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Trojan War setup on 2025-11-04.",
+      "topic_tags": [
+        "greeks",
+        "piracy",
+        "troy",
+        "aegean"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Mycenaean palace economy centralized food in the palace and redistributed it to artisans making trade goods, producing a simple but effective command economy.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Economic model in 2025-11-04 lecture.",
+      "topic_tags": [
+        "palace-economy",
+        "mycenae",
+        "command-economy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mycenaean wealth is visible in gold masks, gold-hilted weapons, defensive walls, and increasingly elaborate tombs.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0038",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Archaeological interpretation in 2025-11-04 lecture.",
+      "topic_tags": [
+        "mycenae",
+        "wealth",
+        "tombs",
+        "gold"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Mycenaeans learned elaborate burial practices from Egypt because the two civilizations were in close contact.",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Historical contact claim in 2025-11-04 lecture.",
+      "topic_tags": [
+        "mycenae",
+        "egypt",
+        "burial-practice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0034",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0035"
+      ],
+      "moment": "The heroes of the Trojan War are stripped of romance and made pirates fighting over a tollbooth of world trade.",
+      "source_phrase": "The Mycenaeans were famous for being pirates",
+      "why_it_matters": "It prepares the Iliad as an economic and civilizational problem, not only an epic story.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0037"
+      ],
+      "moment": "The palace economy becomes an elegant machine: food flows upward, textiles and trade goods flow outward.",
+      "source_phrase": "all the food would go to the palace",
+      "why_it_matters": "It gives the reader a compact model of centralized Bronze Age wealth.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "moment": "The tomb full of treasure opens the next question: if everyone knows the dead cannot spend it, why bury wealth at all?",
+      "source_phrase": "you can't take your money with you",
+      "why_it_matters": "This sets up the psychological turn from economy to capital-induced madness.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "palace economy",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "A centralized command economy where the palace collects food and redistributes it to artisans producing trade goods.",
+      "confidence": "high"
+    },
+    {
+      "term": "Mycenaean civilization",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0034",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0035",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0036",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0037",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0038",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang presents it as a wealthy warrior and pirate trade-route civilization that becomes a precursor to Greek civilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "mastaba",
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "An Egyptian tomb form Jiang uses to discuss elite burial wealth and Mycenaean-Egyptian contact.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0038",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039",
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0040"
+      ],
+      "note": "The lecture uses Mycenaean material culture to bridge Bronze Age trade wealth into the later Iliad discussion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rkt0hqooghe@transcript:v1#seg-0038"
+      ],
+      "note": "ASR says “gold mass”; context indicates gold mask, possibly the so-called Mask of Agamemnon."
+    }
+  ]
+}
