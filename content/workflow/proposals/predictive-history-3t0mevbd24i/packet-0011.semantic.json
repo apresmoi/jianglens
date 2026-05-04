@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-3t0mevbd24i-semantics-pkt-0011",
+  "source_id": "video:predictive-history-3t0mevbd24i",
+  "source_date": "2025-11-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0081",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0082",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0083",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0085",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0086",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0087",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "A student reads Nehemiah's royal request and economic complaints; Jiang argues Nehemiah is reading imperial intention, compares this to later British Zionism, and says rebuilding walls deliberately creates local conflict.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0081",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0082",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0087"
+      ],
+      "note": "SPEAKER_00 is student reading quoted Nehemiah material.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0083",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0085",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0086",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0088"
+      ],
+      "note": "SPEAKER_02 is Jiang interpreting the reading and prompting continuation.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Bible presents Nehemiah as asking to rebuild Jerusalem, but actual imperial politics require reading and performing the king's hidden intention.",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0081",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0082",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-11-18.",
+      "topic_tags": [
+        "Nehemiah",
+        "empire",
+        "royal intention"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares Nehemiah's mission to Zionism, saying modern Israel is usually dated to Herzl but will be shown as part of British imperial policy.",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-11-18.",
+      "topic_tags": [
+        "Zionism",
+        "Theodor Herzl",
+        "British Empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jews in Babylon and later diaspora communities may be happy where they are, but empires send them back to Jerusalem to create a province and conflict with locals.",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-11-18.",
+      "topic_tags": [
+        "Babylonian Jews",
+        "Jerusalem",
+        "imperial policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nehemiah returns to build temple and walls, which angers locals and creates precisely the conflict Persia wants.",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0085",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-11-18.",
+      "topic_tags": [
+        "Nehemiah",
+        "walls",
+        "Persia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nehemiah discovers corruption and inequality inside the new Jewish province, which is dangerous because Jews are a minority in a hostile region.",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0087",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Lecture claim dated 2025-11-18.",
+      "topic_tags": [
+        "corruption",
+        "inequality",
+        "Jewish province"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0083"
+      ],
+      "moment": "Empire does not ask; empire makes you guess the king's desire and perform it as your own.",
+      "source_phrase": "You have to guess what he wants",
+      "why_it_matters": "This is Jiang's model of soft command and imperial agency.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084",
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0085"
+      ],
+      "moment": "Modern Zionism is paired with Nehemiah: empires need Jews to want the return that serves imperial strategy.",
+      "source_phrase": "create a situation in which the Jews themselves want to create their own nation",
+      "why_it_matters": "It links Persian and British policy through desire-production.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0085"
+      ],
+      "moment": "Walls are not only defense; they are a political provocation that makes neighbors angry.",
+      "source_phrase": "This is going to piss everyone off",
+      "why_it_matters": "This anticipates the later argument about conflict management.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "hidden royal intention",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0083"
+      ],
+      "definition_or_usage": "Jiang's model of imperial service: infer what the king wants and request it as if it were your desire.",
+      "confidence": "high"
+    },
+    {
+      "term": "Zionism",
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Modern Jewish national movement Jiang frames as later British imperial policy rather than a standalone origin.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084"
+      ],
+      "note": "Jiang flags a later lecture on the nation of Israel and British imperial policy behind Zionism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3t0mevbd24i@transcript:v1#seg-0084"
+      ],
+      "note": "ASR renders Herzl's book title as “Judenland, Fatherland”; context points to Theodor Herzl/Zionism but the exact title should be checked before public prose."
+    }
+  ]
+}
