@@ -1,0 +1,184 @@
+{
+  "packet_id": "predictive-history-2odo8lokuo8-semantics-pkt-0001",
+  "source_id": "video:predictive-history-2odo8lokuo8",
+  "source_date": "2025-03-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0001",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0002",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0003",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the lecture around three explanatory problems: why Islam rose while Europe entered a dark age, why the Islamic Golden Age ended, and how Christian Europe eventually overtook the Muslim world; he then introduces Islam as submission to God through Muhammad's final prophetic mission.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0005",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0006",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0007",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He frames the early Islamic expansion as astonishingly fast and sets up the Al-Aqsa/Temple Mount problem as a mystery because Islam's founding posture is open and tolerant toward Jews.",
+      "speaker_attribution": "Jiang lecture with brief non-substantive audience aside",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0008"
+      ],
+      "note": "The brief 'So that's the first thing' is likely a student or room aside, not a substantive question.",
+      "suggested_speaker": "audience",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The lecture's core problem is the divergence between Europe's dark age and Islam's golden age, followed by the later reversal in which Christian Europe overtakes the Muslim world.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Jiang's 2025-03-11 framing of the lecture",
+      "topic_tags": [
+        "islamic-golden-age",
+        "europe",
+        "civilizational-divergence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Muslim as submitting oneself wholeheartedly to God.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Definition used in this lecture",
+      "topic_tags": [
+        "islam",
+        "submission",
+        "god"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents early Islam as open, tolerant, and inclusive from the Constitution of Medina onward.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical interpretation stated in 2025 lecture",
+      "topic_tags": [
+        "constitution-of-medina",
+        "religious-tolerance",
+        "early-islam"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Al-Aqsa Mosque being built on the Jewish Temple Mount is a central paradox because it appears to conflict with Jiang's account of Islam's early openness toward Jews.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0005",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Problem posed in this lecture",
+      "topic_tags": [
+        "al-aqsa",
+        "temple-mount",
+        "jewish-history"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang emphasizes the speed and scale of Islamic expansion: in less than a century, the Umayyad Caliphate became one of the largest and wealthiest powers of its time.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical comparison in this lecture",
+      "topic_tags": [
+        "umayyad-caliphate",
+        "expansion",
+        "empire"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0006"
+      ],
+      "moment": "The Al-Aqsa question is staged as a contradiction inside Islam's founding generosity: if Jews are welcomed, why build over their holiest site?",
+      "source_phrase": "why would you build a mosque on top of the Jewish holy site?",
+      "why_it_matters": "It turns a monument into the lecture's first historical riddle.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0007"
+      ],
+      "moment": "Islam's early spread is described as lightning fast from the poorest region into world empire.",
+      "source_phrase": "The era of Islam was lightning fast",
+      "why_it_matters": "The speed of expansion becomes evidence that something more than ordinary conquest is operating.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Muslim",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "One who submits wholeheartedly to God.",
+      "confidence": "high"
+    },
+    {
+      "term": "Constitution of Medina",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang uses it as evidence that Muhammad's early movement promised religious freedom to factions around Medina.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Al-Aqsa Mosque",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0005",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The Jerusalem mosque Jiang treats as the third holiest site in Islam and as a historical problem because it sits on the Temple Mount.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0001",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0007"
+      ],
+      "note": "Dated 2025-03-11: Jiang frames the Islamic Golden Age as a key missing explanation for European modernity, not as a self-contained regional episode.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0003",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0005",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript contains visible ASR noise around repeated cave lines and mosque naming; preserve Jiang's argumentative structure rather than literal name spellings where uncertain."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "packet_id": "predictive-history-2odo8lokuo8-semantics-pkt-0004",
+  "source_id": "video:predictive-history-2odo8lokuo8",
+  "source_date": "2025-03-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0025",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0026",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0027",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0028",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reconstructs early Islam through the Byzantine-Persian war, Jewish displacement from Jerusalem, the Constitution of Medina, and an apocalyptic atmosphere in which Jews, Christians, and Zoroastrians could read Muhammad as the final unifying messenger.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0030",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0031",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0032"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads and interprets Quranic passages addressed to Jews and Christians, emphasizing Abrahamic unity and rejection of Jesus' divinity and the Trinity.",
+      "speaker_attribution": "Jiang reading Quranic material and interpreting it",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0030",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0032"
+      ],
+      "note": "Segments include quoted or paraphrased Quranic material embedded in Jiang's explanation; treat as quoted religious source plus Jiang interpretation.",
+      "suggested_speaker": "Jiang quoting/interpreting",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that Jewish support for the Persians and later displacement by Byzantines made Medina's promise of religious tolerance attractive to some Jews.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0025",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture",
+      "topic_tags": [
+        "jews",
+        "persian-byzantine-war",
+        "medina"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "At Islam's beginning, Jiang says Muslims, Jews, Christians, and Zoroastrians could be understood as one coalition of believers rather than sharply separated religions.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0026",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Jiang's early-Islam reconstruction in this lecture",
+      "topic_tags": [
+        "believers",
+        "monotheistic-coalition",
+        "early-islam"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The apocalyptic expectations of Jews, Christians, and Zoroastrians made Muhammad's message of one people united by God politically and emotionally appealing.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0028",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Historical-psychological model in this lecture",
+      "topic_tags": [
+        "apocalypse",
+        "monotheism",
+        "coalition"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reads the Quran as evidence that Muhammad's message was to collapse Jewish and Christian divisions into Abrahamic monotheism.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0030",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Textual interpretation in this lecture",
+      "topic_tags": [
+        "quran",
+        "abraham",
+        "monotheism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Muhammad's rejection of the Trinity as a liberation for persecuted Christians who already found the doctrine nonsensical.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0031",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Religious interpretation in this lecture",
+      "topic_tags": [
+        "trinity",
+        "christianity",
+        "muhammad"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0029"
+      ],
+      "moment": "Muhammad's coalition message is staged as wartime apocalypse: everyone thinks the final battle has arrived, and he tells them they are one people fighting for God.",
+      "source_phrase": "we're all one people united by God",
+      "why_it_matters": "It explains early Islamic power as a unifying interpretation of crisis rather than just doctrine.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0032"
+      ],
+      "moment": "Jiang treats the Trinity not as abstract theology but as an oppressive proposition that many Christians were punished for doubting.",
+      "source_phrase": "the Holy Trinity, the idea, is just nonsense",
+      "why_it_matters": "It shows why Islamic monotheism could feel like relief rather than mere opposition.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "believers",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0026",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's term for the early monotheistic coalition before Islam becomes sharply differentiated from Judaism, Christianity, and Zoroastrianism.",
+      "confidence": "medium"
+    },
+    {
+      "term": "apocalyptic age",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0028",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "A period when multiple traditions could interpret the Roman-Persian conflict as the final battle.",
+      "confidence": "medium"
+    },
+    {
+      "term": "people of the book",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "The Quranic address Jiang interprets as referring to Jews and Christians around Abrahamic scripture.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0024",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0028"
+      ],
+      "note": "Dated 2025-03-11: Jiang ties the Medina moment in 622 to the wider Byzantine-Persian war and apocalyptic expectations across the region.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0028"
+      ],
+      "note": "The transcript likely ASR-renders 'Armageddon' as 'Agamemnon'; keep the apocalyptic-final-battle meaning rather than the literal token."
+    }
+  ]
+}
