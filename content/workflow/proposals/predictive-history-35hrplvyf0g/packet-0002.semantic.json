@@ -1,0 +1,210 @@
+{
+  "packet_id": "predictive-history-35hrplvyf0g-semantics-pkt-0002",
+  "source_id": "video:predictive-history-35hrplvyf0g",
+  "source_date": "2026-01-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0009",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the status argument into dating data. He argues that East Asian men's school and income success does not yield equivalent status because women, including Asian and white women in his cited dating statistics, prefer other men more often; he singles out East Asian men and Black women as heavily disadvantaged in the dating market.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0013",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He turns the dating-market evidence into a broader game-theory claim: East Asian men followed the rules, got schooling, avoided crime and welfare, and still lose status positions and mate access. He then introduces the casino analogy: when someone invites you into his game, the rules are likely set so you lose.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0009",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang lecture; no substantive audience question in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "East Asian men may have high income and academic performance but still hold lower American social status than their income would suggest.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-01-15.",
+      "topic_tags": [
+        "east-asian-men",
+        "status",
+        "income",
+        "america"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses OkCupid-style dating statistics to argue that East Asian men are among the groups most discriminated against in the American dating market, alongside Black women.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0010",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Dated dating-market claim on 2026-01-15.",
+      "topic_tags": [
+        "dating-market",
+        "okcupid",
+        "east-asian-men",
+        "black-women"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says marriage patterns intensify the disparity: East Asian women are far more likely than East Asian men to marry white partners, leaving many young East Asian men single.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Dated marriage-market claim on 2026-01-15.",
+      "topic_tags": [
+        "marriage-market",
+        "east-asian-men",
+        "intermarriage",
+        "status"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He cites a finding that an Asian man would need to earn about $200,000 to be as attractive to a white woman as a white man earning about $62,000.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Dated evidence claim on 2026-01-15.",
+      "topic_tags": [
+        "dating-market",
+        "income-premium",
+        "race",
+        "status"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "His game-theory conclusion is that East Asian men lose because they obey the host society's rules, while other groups may win by refusing those rules.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0014",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0015",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Dated model on 2026-01-15.",
+      "topic_tags": [
+        "game-theory",
+        "obedience",
+        "rules",
+        "immigration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The casino analogy defines the host country's game as structurally tilted: if the game were fair, the house would not invite outsiders to play it.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Dated model on 2026-01-15.",
+      "topic_tags": [
+        "casino",
+        "rules",
+        "game-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0012"
+      ],
+      "moment": "The lecture compresses status injury into dating-market arithmetic: doing everything right still leaves many men unable to find a partner.",
+      "source_phrase": "75 % are single",
+      "why_it_matters": "It makes status measurable through marriage and mate access, not just income.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0014"
+      ],
+      "moment": "Jiang's sharpest reversal is that the rule-followers are punished precisely because they followed the rules.",
+      "source_phrase": "because they followed the rules, because they did everything right",
+      "why_it_matters": "It turns model-minority behavior from advantage into a trap.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "moment": "The casino becomes the governing metaphor for immigration: invitation is evidence that the rules favor the house.",
+      "source_phrase": "the casino is set up so that you have to lose",
+      "why_it_matters": "It supplies the episode's rule-maker lens in one image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "dating market",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0010",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A status arena where group desirability, marriage patterns, and mate access reveal whether economic achievement converts into social power.",
+      "confidence": "high"
+    },
+    {
+      "term": "rule-following trap",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0014",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The condition in which a group obeys the official path to success but still loses because the rule-maker designed the game for its own advantage.",
+      "confidence": "high"
+    },
+    {
+      "term": "casino game",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's metaphor for an apparently open game whose house rules guarantee the host's advantage.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"
+      ],
+      "note": "On 2026-01-15, Jiang explicitly connects immigration outcomes to his recurring rule-maker game theory: whoever sets the rules wins.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0010"
+      ],
+      "note": "The transcript contains obvious ASR noise around 'okay' after the first-reply statistic, but the surrounding dating-market claim is clear."
+    }
+  ]
+}
