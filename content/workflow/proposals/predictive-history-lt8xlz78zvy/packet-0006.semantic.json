@@ -1,0 +1,121 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0006",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0041",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts modern individual happiness with older collective happiness, using the big feast as an image of wealth gaining meaning through communal generosity rather than private storage.",
+      "speaker_attribution": "Jiang lecture voice with brief classroom answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0044",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether the feast is still individual reputation; Jiang answers that the individual did not exist in the same way, that exile was worse than death, and then introduces polytheism as a worldview where gods, fate, fortune, anger, and pride disrupt agency.",
+      "speaker_attribution": "Student question in seg-0044 and student answer in seg-0046; Jiang frames and answers.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0044",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0046"
+      ],
+      "note": "SPEAKER_04 asks about reputation and SPEAKER_03 answers Jiang's question about exile; both appear to be students.",
+      "suggested_speaker": "students",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that individual happiness is historically new; older happiness was collective because a person could not flourish while family or community suffered.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0041"],
+      "temporal_scope": "Lecture model on 2025-08-22.",
+      "topic_tags": ["individual", "happiness", "community", "history"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The feast is Jiang's example of old wealth ethics: sudden wealth should be spent so the community shares happiness, not hoarded for private inheritance.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0042",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": ["feast", "generosity", "wealth", "community"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the concept of an individual independent of family, community, and world is a recent invention; exile was formerly worse than death because belonging was selfhood.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0045",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Lecture model on 2025-08-22.",
+      "topic_tags": ["individual", "exile", "belonging", "community"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The polytheistic worldview is introduced as a model of limited agency: humans are constantly shaped by gods, fate, fortune, anger, and pride.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0047",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Worldview model introduced on 2025-08-22.",
+      "topic_tags": ["polytheism", "agency", "fate", "gods"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0042",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0043"
+      ],
+      "moment": "The ancient rich person does not bury gold; he throws a feast so everyone shares happiness.",
+      "source_phrase": "they had a big feast for everyone",
+      "why_it_matters": "It makes Jiang's anti-individual happiness model warm and concrete.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0047"],
+      "moment": "Exile, not death, is the worst punishment because it says you are no longer part of us.",
+      "source_phrase": "you're no longer part of us",
+      "why_it_matters": "The line makes the non-individual worldview legible without abstract anthropology.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective happiness",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0041"],
+      "definition_or_usage": "Happiness understood as inseparable from family and community flourishing.",
+      "confidence": "high"
+    },
+    {
+      "term": "polytheism",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0047",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A worldview where many gods and deeper forces control fate, pride, fortune, and human agency.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

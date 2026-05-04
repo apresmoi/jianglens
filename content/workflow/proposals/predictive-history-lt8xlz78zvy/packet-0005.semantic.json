@@ -1,0 +1,105 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0005",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0033",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends scarcity theory to war and games: wars destroy wealth to preserve the value of money, just as game credits only motivate play because they do not fall from the sky.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0035",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0038"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether non-monetary resources like food and land are genuinely scarce; Jiang answers that food is finite but abundant and that hunger is artificial when enough food exists and much is wasted.",
+      "speaker_attribution": "Student question in seg-0035, Jiang answer in seg-0036 and seg-0038.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0038",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang transitions from money to happiness, gathering student answers such as money, power, freedom, relationships, love, games, and vacations.",
+      "speaker_attribution": "Jiang prompting the room with brief student replies.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0035"],
+      "note": "SPEAKER_04 asks the substantive resource-scarcity question.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "War is framed as wealth destruction that helps preserve the illusion of scarcity and money's value, not as a natural fight over scarce resources.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0033"],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["war", "scarcity", "wealth-destruction"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the real value in the system is human work, while money is an incentive technology that induces labor.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0034"],
+      "temporal_scope": "Lecture model on 2025-08-22.",
+      "topic_tags": ["labor", "money", "central-banking", "work"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Food may be finite, but Jiang says it is abundant enough to feed people; starvation is therefore an artificial crisis rather than a simple result of natural scarcity.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0035",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["food", "abundance", "hunger", "scarcity"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0033"],
+      "moment": "The world becomes World of Warcraft: pointless labor for credits only feels meaningful because the game withholds abundance.",
+      "source_phrase": "World of Warcraft in our world, there's actually no difference",
+      "why_it_matters": "The game analogy compresses the lecture's money theory into a memorable control system.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0036"],
+      "moment": "The garbage dump becomes evidence against hunger as natural scarcity.",
+      "source_phrase": "Go to the garbage dump... see the amount of food that is wasted",
+      "why_it_matters": "It keeps the resource objection concrete instead of letting the argument stay monetary.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "abundance",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0036",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The condition Jiang opposes to scarcity: resources may be finite but sufficient enough that deprivation must be socially produced.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

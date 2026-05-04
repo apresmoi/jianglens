@@ -1,0 +1,155 @@
+{
+  "packet_id": "predictive-history-lt8xlz78zvy-semantics-pkt-0011",
+  "source_id": "video:predictive-history-lt8xlz78zvy",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0081",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083"
+      ],
+      "kind": "exchange",
+      "summary": "A student restates that school serves the nation-state; Jiang confirms and expands the final triangle: money, the individual, and nation-state are ideas beyond ordinary experience that monotheism made possible.",
+      "speaker_attribution": "Student in seg-0081, Jiang in seg-0082 and seg-0083.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0084",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0086"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by defining power as alchemy: the capacity to turn nothing into everything by making people believe money, individual happiness, and the nation-state exist; because the system was an accidental product of imagination, controlling imagination could create a new system for eudaimonia.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0081"],
+      "note": "SPEAKER_03 is a student restating Jiang's point about school serving the nation-state.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The nation-state makes obedience, service, fighting, and dying for an abstract national person feel natural.",
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0082"],
+      "temporal_scope": "Lecture diagnosis on 2025-08-22.",
+      "topic_tags": ["nation-state", "obedience", "authority", "war"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Money, the individual, and the nation-state are presented as concepts beyond direct human experience that people must be brainwashed into believing.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0082",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture synthesis on 2025-08-22.",
+      "topic_tags": ["money", "individual", "nation-state", "brainwashing"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says monotheism produced the conceptual revolution that created money, the individual, and the nation-state, thereby creating the modern world.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Course thesis preview on 2025-08-22.",
+      "topic_tags": ["monotheism", "money", "individual", "nation-state"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Power is defined as alchemy: the capacity to turn nothing into everything by making abstractions such as money, the individual, and the nation-state command real life.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0084",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Lecture definition on 2025-08-22.",
+      "topic_tags": ["power", "alchemy", "imagination", "abstraction"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because the current system was an accident of human imagination, Jiang says controlling imagination could create a new system oriented toward eudaimonia and intellectual flourishing.",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0085",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Course possibility stated on 2025-08-22.",
+      "topic_tags": ["imagination", "eudaimonia", "system-change", "flourishing"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083"],
+      "moment": "A person from a thousand years ago would look at money, individual, and nation-state and conclude that modern people are slaves.",
+      "source_phrase": "This means that you're all slaves",
+      "why_it_matters": "It compresses the final synthesis into a brutal outsider test.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0084",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0085"
+      ],
+      "moment": "Power is alchemy: the achieved art of turning nothing into everything.",
+      "source_phrase": "Power is the capacity to turn nothing into everything.",
+      "why_it_matters": "This is the lecture's final definition and the title-level formulation of how power works.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0086"],
+      "moment": "If imagination built the prison by accident, imagination can build a new system for flourishing.",
+      "source_phrase": "control the human imagination... create a new system",
+      "why_it_matters": "The ending preserves the lecture's constructive possibility after its bleak diagnosis.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "monotheism",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "The one-true-God revolution Jiang says created money, the individual, and the nation-state.",
+      "confidence": "high"
+    },
+    {
+      "term": "alchemy",
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0084",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "Jiang's final metaphor for power: turning nothing into everything, lead into gold, belief into real social order.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083",
+        "video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0086"
+      ],
+      "note": "This opening lecture previews later course work on monotheism as the source of money, individual, and nation-state rather than proving the full historical sequence here.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-lt8xlz78zvy@transcript:v1#seg-0083"],
+      "note": "The opening clause about a person from a thousand years ago is ASR-damaged, but the comparative thought experiment is clear."
+    }
+  ]
+}
