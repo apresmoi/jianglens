@@ -1,0 +1,165 @@
+{
+  "packet_id": "predictive-history-a2lmjerhckm-semantics-pkt-0004",
+  "source_id": "video:predictive-history-a2lmjerhckm",
+  "source_date": "2025-03-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0025",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0026",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang identifies the Keju as the mechanism of elite localization, then uses Huang Chao's destruction of Tang aristocratic families to explain why Song rulers could prevent nobility from re-emerging.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0028",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "He summarizes the bargain: localizing elite networks creates national unity but costs innovation and leaves China insular, poor, and divided over the long run.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0030",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0031",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He adds maritime trade as a second example: Abbasid trade pulled Chinese wealth toward the coast, so Ming and Qing rulers restricted trade to preserve internal stability.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0025",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0032"
+      ],
+      "note": "All focus refs are Jiang lecture monologue; rhetorical classroom checks in seg-0032 are not substantive audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Keju is the main mechanism that let emperors transform a national aristocracy into localized elites.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Sui/Tang origins and Song institutionalization of the civil service exam",
+      "topic_tags": ["keju", "civil-service-exam", "song", "elite-localization"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Huang Chao Rebellion eliminated Tang aristocratic families, opening space for the Song to prevent nobility from arising again.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0026",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "late Tang to Song transition",
+      "topic_tags": ["huang-chao", "tang", "song", "aristocracy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "By localizing networks, the center gains national unity but sacrifices innovation and sustainability.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0028",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Song through Qing imperial structure",
+      "topic_tags": ["national-unity", "innovation", "elite-networks"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Maritime trade initiated by the Abbasid Caliphate shifted Chinese economic power toward the coast, threatening regional balance and imperial security.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Tang/Song commercial geography and later Ming policy",
+      "topic_tags": ["abbasid-caliphate", "maritime-trade", "coastal-cities", "ming"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ming and Qing trade restriction reflects a Chinese priority for internal stability over wealth and prosperity.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Ming and Qing maritime policy",
+      "topic_tags": ["ming", "qing", "maritime-ban", "internal-stability"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0026",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0027"
+      ],
+      "moment": "A rebellion destroys the aristocracy, and the next dynasty uses the absence as an opportunity to make sure nobility cannot come back.",
+      "source_phrase": "ensure that nobility cannot arise again",
+      "why_it_matters": "It gives a violent origin story to bureaucratic China: not reform from above alone, but a social class removed by catastrophe.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0031"
+      ],
+      "moment": "China chooses stability over prosperity, closing the sea because wealth moving to the coast might become political rebellion.",
+      "source_phrase": "the priority is internal stability rather than wealth and prosperity",
+      "why_it_matters": "This preserves the lecture's sharpest institutional tradeoff.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Keju",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "The civil service examination Jiang treats as the mechanism for channeling and localizing elite ambition.",
+      "confidence": "high"
+    },
+    {
+      "term": "Huang Chao Rebellion",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0026",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "A late Tang rebellion Jiang presents as eliminating aristocratic families and enabling Song bureaucratic redesign.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0025",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0026"
+      ],
+      "note": "Jiang gives a sequence in which the Keju appears briefly in Sui, is used by Tang, and is institutionalized by Song after the late Tang aristocratic collapse.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0029"
+      ],
+      "note": "The transcript says 'the center can be challenged' where context likely means the center cannot be challenged; retain the source wording but interpret through the surrounding divide-and-conquer argument."
+    }
+  ]
+}

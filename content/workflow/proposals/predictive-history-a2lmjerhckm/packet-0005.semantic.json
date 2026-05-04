@@ -1,0 +1,169 @@
+{
+  "packet_id": "predictive-history-a2lmjerhckm-semantics-pkt-0005",
+  "source_id": "video:predictive-history-a2lmjerhckm",
+  "source_date": "2025-03-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0034",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0035",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses Rome to explain what aristocracy does: patrician networks give coherence, will to fight, unity, and culture, but they also threaten emperors.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0037",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0038",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0039",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He links Rome to China: bureaucracy can counter nobility, Byzantium rejects the Roman Republic, and the Keju is not meritocracy but a quota system for dividing local elites.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0040"
+      ],
+      "note": "All focus refs are Jiang monologue; classroom checks are rhetorical.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Roman republic is a society governed by laws, tradition, and history embodied in patrician nobility.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Roman Republic as comparative model",
+      "topic_tags": ["rome", "republic", "patricians", "nobility"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Patrician patron-client networks give Rome coherence across a spread-out empire, but they can also depose emperors.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Roman republican and imperial comparison",
+      "topic_tags": ["rome", "patron-client", "empire", "elite-power"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nobility supplies the will to fight, national unity, and culture; destroying nobility risks destroying the society's tradition and historical identity.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0035",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Roman comparison used to interpret China",
+      "topic_tags": ["nobility", "will-to-fight", "culture", "identity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang casts Byzantium not as a continuation of Rome but as a rejection of the Roman Republic because imperial bureaucracy becomes dominant.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Constantine and Byzantine Empire, 330 onward",
+      "topic_tags": ["byzantium", "rome", "bureaucracy", "republic"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Keju was never designed to choose the best and brightest; it was designed to localize and divide elites through a quota system.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0038",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0039",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Song and later imperial examination system, with Gaokao analogy",
+      "topic_tags": ["keju", "meritocracy", "quota-system", "elite-localization"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0035",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0036"
+      ],
+      "moment": "The nobility is dangerous to the emperor but also carries the society's courage, unity, and memory.",
+      "source_phrase": "you lose the idea of a national unity, a national identity. You lose culture. You lose the will to fight.",
+      "why_it_matters": "It keeps the bureaucracy critique from becoming one-dimensional; eliminating rivals also eliminates social capacities.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0037"
+      ],
+      "moment": "Byzantium is reinterpreted as Rome's bureaucratic negation rather than Rome's survival.",
+      "source_phrase": "not a continuation of the Roman Empire... a rejection of the Roman Republic",
+      "why_it_matters": "It gives Jiang a comparative bridge from Roman bureaucracy to Song China.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0038"
+      ],
+      "moment": "The exam's public myth is meritocracy; its political function is to keep elites from becoming a unified class.",
+      "source_phrase": "not a meritocracy... designed for the emperor to localize the elites",
+      "why_it_matters": "This is the key reversal behind the episode's title logic.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "patricians",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Roman nobility who embody laws, tradition, and history and exercise power through the Senate and patron-client networks.",
+      "confidence": "high"
+    },
+    {
+      "term": "quota system",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0038",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A geographically distributed selection mechanism Jiang says prevents one region's elite from dominating the center.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0032",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang dates Rome becoming a republic to around 500 BCE and Constantine's move to Byzantium to 330.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033"
+      ],
+      "note": "ASR repeatedly renders patricians as patriarchs; context indicates Roman patrician nobility."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "packet_id": "predictive-history-a2lmjerhckm-semantics-pkt-0006",
+  "source_id": "video:predictive-history-a2lmjerhckm",
+  "source_date": "2025-03-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0042",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why the Keju is unfair and discretionary: it confines elite ambition to decades of study, then lets the emperor decide who actually receives office.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0044",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0046",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0047",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He adds the bureaucracy's monopoly over literacy and culture: unlike Egypt's simplification toward alphabetic literacy, China makes literary Chinese harder, and Confucian hierarchy suppresses mobile or rival status paths.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0048"
+      ],
+      "note": "All focus refs are Jiang monologue.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Keju is restricted to elite families because mastery of literary Chinese requires money, tutoring, leisure, and decades of preparation.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0040",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Imperial examination system",
+      "topic_tags": ["keju", "elite-families", "literary-chinese", "status"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The political function of the Keju is to concentrate elite ambition away from rebellion, invention, and independent literature.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Song and later imperial China",
+      "topic_tags": ["keju", "elite-ambition", "rebellion", "innovation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Exam success is not the same as political success because the emperor retains discretionary authority over appointment and promotion.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Imperial examination system",
+      "topic_tags": ["keju", "discretion", "emperor", "promotion"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "China is unique in Jiang's telling because it made literacy harder over time, turning literary Chinese into a bureaucratic rent-seeking language.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0043",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0044",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Long-run comparison of writing systems",
+      "topic_tags": ["literacy", "literary-chinese", "rent-seeking", "bureaucracy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Confucianism functions as bureaucratic culture: it legitimizes status hierarchy, ancestor-bound locality, harmony, and the suppression of trade and innovation.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0046",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0047",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Imperial Chinese cultural order",
+      "topic_tags": ["confucianism", "bureaucracy", "culture", "status"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041"
+      ],
+      "moment": "The exam is an ambition trap: it consumes elite energy so it does not become rebellion, invention, or rival literature.",
+      "source_phrase": "concentrate the ambition and energy of the elite families into the Keju",
+      "why_it_matters": "This gives the Keju a psychological and political function beyond selection.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0046"
+      ],
+      "moment": "Literary Chinese becomes contract language: a difficulty machine that forces others to pay rent to the class that can read it.",
+      "source_phrase": "a language that only bureaucrats can understand",
+      "why_it_matters": "It turns literacy from a developmental tool into a monopoly technology.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0048"
+      ],
+      "moment": "Merchants and artists are demoted because trade and art make rival futures possible.",
+      "source_phrase": "the artists... can promote new ideas... merchants... can accumulate wealth",
+      "why_it_matters": "It preserves Jiang's claim that status hierarchy is also an anti-innovation design.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Wenyan",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0040",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Classical/literary Chinese, treated by Jiang as a hard elite skill and bureaucratic monopoly language.",
+      "confidence": "high"
+    },
+    {
+      "term": "bureaucratese",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's pejorative label for literary Chinese as a language only bureaucrats can understand.",
+      "confidence": "medium"
+    },
+    {
+      "term": "rent-seeking behavior",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Creating a specialized system only one's group can use so others must pay for access.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0044",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045"
+      ],
+      "note": "Jiang sketches a long language-history contrast from Egyptian pictograms to alphabetic simplification, then contrasts China as increasing complexity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045"
+      ],
+      "note": "ASR renders Jiang's 'bureaucratese' as variants like 'bureaucratat' and 'bureaucraties'; semantic usage is clear from the contract-language analogy."
+    }
+  ]
+}
