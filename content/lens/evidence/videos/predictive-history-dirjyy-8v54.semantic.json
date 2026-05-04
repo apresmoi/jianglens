@@ -1,0 +1,1307 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-dirjyy-8v54:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-dirjyy-8v54",
+  "source_id": "video:predictive-history-dirjyy-8v54",
+  "source_title": "Civilization #45:  The Gunpowder Revolution",
+  "source_url": "https://www.youtube.com/watch?v=DiRJyy-8V54",
+  "source_date": "2025-04-10",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-dirjyy-8v54@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0008.semantic.json",
+      "content/workflow/proposals/predictive-history-dirjyy-8v54/packet-0009.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-dirjyy-8v54/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-dirjyy-8v54/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 9,
+    "interactions": 18,
+    "speaker_notes": 2,
+    "claims": 35,
+    "signature_moments": 20,
+    "predictions": 0,
+    "models": 8,
+    "glossary_terms": 17,
+    "chronology_notes": 8,
+    "uncertainty_notes": 5
+  },
+  "first_refs": [
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0002",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0003",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0005",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0006",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0007",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0008",
+    "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0009"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0002",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0003",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around Europe's sudden world conquest and restates the course model that the nature of the military determines the political system, using Sparta, Athens, Macedonia, Rome, and the hoplite as examples.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0005",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0006",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0007",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from self-sufficient soldiers to knights and castles, then treats the Ottoman destruction of Constantinople as the moment gunpowder reveals that the old feudal order and steppe advantage are ending.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0009",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0010",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0011",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why gunpowder reverses the old borderland advantage: borderlands have energy and openness, but gunpowder rewards mass, organization, bureaucracy, and professional soldiers.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0013",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0014",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0015",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He poses the paradox that the centralized gunpowder empires had the early advantage, but Europe won by turning gunpowder into a whole-society project: nation-state, towns and industry, capitalism, and science.",
+      "speaker_attribution": "Jiang classroom lecture; rhetorical checks are not audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0017",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0018",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0019",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang names open cooperative competition as the driver of innovation, then shows how unstable early gunpowder forced a tactical race between artillery, fortification, formations, and battlefield organization.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0021",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0022",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0023",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He turns gunpowder into an economy: sulfur, saltpeter, nitrate farms, chemists, foundries, towns, and volley fire all become necessary because early guns are slow and inaccurate.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0025",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0026",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that mass gunpowder armies require obedient humans, so schools and synchronicity emerge as tools for turning people into soldiers and industrial workers.",
+      "speaker_attribution": "Jiang classroom lecture; rhetorical 'does it make sense' prompts are not audience questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0028",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0029",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0030",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0031",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He narrates European and Ottoman wars as an escalating casualty machine: continuous conflict, balance-of-power coalitions, naval shifts, religious wars, world wars, and revolutionary citizen armies all feed European innovation.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0033",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0034",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads European maps as a balance-of-power sequence: dominance moves from the Holy Roman Empire to Ottomans, France, Russia, and Germany, and each rising power provokes counter-coalitions.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0035",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0036",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0037",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0038",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "After a student asks how deadly wars can coexist with resilience, Jiang answers that the nation-state replaces religion, war creates purpose and social mobility, new crops support population growth, and peace can make young people feel blocked.",
+      "speaker_attribution": "Student question summarized by Jiang, followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He begins a recap of feudalism as fragmented lordly lands whose independent armies prevent centralized royal control.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0041",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0042",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang recaps why gunpowder forces feudalism into absolute monarchy: taxation, conscription, material supply, specialists, industry, research, bureaucracy, and hierarchy all have to be centrally coordinated.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0044",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0045",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0046",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0047",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He explains why China does not undergo the same transformation: whole-society war overturns elites, and Chinese bureaucrats had incentives to suppress the social effects of compass, print, and gunpowder to protect hierarchy.",
+      "speaker_attribution": "Jiang classroom lecture; checks for understanding are rhetorical classroom prompts.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0049",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0050",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0051",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0052",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang takes a student question about why Europe innovates and answers with a pressure model: external enemies and internal mobilized populations create contradictions that force innovation or lead to defeat and revolution.",
+      "speaker_attribution": "Audience question is summarized by Jiang; Jiang answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0053",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0054",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0055",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "A second China question lets him contrast Europe with China: China's unity and natural boundaries reduce external pressure, so bureaucrats focus on internal hierarchy, co-opting local elites, and preserving Confucian bureaucracy across regimes.",
+      "speaker_attribution": "Audience question is summarized by Jiang; Jiang answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0057",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0058",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0059",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0060",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers another question by extending the bureaucracy argument into game theory and status: related European royal families still fight because they are figureheads for factions in a winner-take-status game.",
+      "speaker_attribution": "Audience prompt is mostly inaudible; Jiang repeats and answers it.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0062",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0063",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0064"
+      ],
+      "kind": "monologue",
+      "summary": "He closes the substantive lecture by returning to schooling: Prussian-style schools separate children from families, produce anxious obedience for armies, and survive globally because industry also needs disciplined factory workers.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0065"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the lecture, praises the students' questions as perceptive, previews the Enlightenment as the path toward the American and French revolutions, and notes the midterm break.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0049",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0050"
+      ],
+      "note": "The transcript only captures short acknowledgments from non-Jiang speakers; Jiang repeats the substance of the questions before answering.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0058"
+      ],
+      "note": "Only brief audience acknowledgment is captured; the substantive question is reconstructed from Jiang's answer.",
+      "suggested_speaker": "student/audience",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's governing model is that military organization shapes political organization: hoplites tend toward oligarchy, navies toward democracy, cavalry toward monarchy, and Rome's replenishable allied manpower toward republican law and tradition.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0002",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical model presented in the 2025-04-10 lecture.",
+      "topic_tags": [
+        "military-determinism",
+        "political-forms",
+        "rome",
+        "greece"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Feudalism is explained as an economy and political order built around maintaining expensive knights and fortified local lords, leaving the king closer to a figurehead than an absolute ruler.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0005",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture explanation of medieval Europe.",
+      "topic_tags": [
+        "feudalism",
+        "knights",
+        "castles",
+        "decentralization"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Ottoman use of cannons against Constantinople in 1453 marks a European military revolution because walls that had made the city invincible could suddenly be destroyed.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical turning point in this lecture.",
+      "topic_tags": [
+        "constantinople",
+        "ottomans",
+        "gunpowder",
+        "military-revolution"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gunpowder has three world-historical effects in Jiang's frame: it ends the steppe threat, begins Europe's global dominance, and triggers a whole-society revolution in Europe.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture thesis for gunpowder's long-run effects.",
+      "topic_tags": [
+        "gunpowder",
+        "steppes",
+        "european-dominance",
+        "whole-society-revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Borderlands usually beat empires because they are hungrier, more open, and opportunistic, but gunpowder shifts advantage toward empires because it requires centralization, specialization, hierarchy, and bureaucracy.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0009",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0010",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "borderlands",
+        "empires",
+        "bureaucracy",
+        "gunpowder"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The major gunpowder empires are the Ottomans, Mughals, Safavids, and Ming China because each had centralized bureaucracy suited to early gunpowder warfare.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0011",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture classification of early modern gunpowder empires.",
+      "topic_tags": [
+        "gunpowder-empires",
+        "ottomans",
+        "mughals",
+        "safavids",
+        "ming"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "China invented gunpowder, but Jiang says Europe transformed it into projectile warfare and then the technology returned to China in adapted form.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Technology-transfer explanation in this lecture.",
+      "topic_tags": [
+        "china",
+        "europe",
+        "projectile",
+        "technology-transfer"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Europe surpassed the gunpowder empires because it adopted a whole-society approach to warfare that changed social structure: feudalism to nation-state, village agriculture to towns and industry, religion to science.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0014",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0015",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Central thesis of the 2025-04-10 lecture.",
+      "topic_tags": [
+        "whole-society-approach",
+        "nation-state",
+        "industry",
+        "science",
+        "europe"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Open cooperative competition is Jiang's term for fractured societies whose internal rivalry produces innovation in military, society, philosophy, and literature.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Reusable model stated in this lecture.",
+      "topic_tags": [
+        "open-cooperative-competition",
+        "innovation",
+        "fragmentation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Early gunpowder was not immediately revolutionary because it was unstable, hard to store, hard to make, and paired with heavy, inaccurate, slow guns.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0017",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0018",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0023",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical explanation of early gunpowder warfare.",
+      "topic_tags": [
+        "gunpowder",
+        "arquebus",
+        "musket",
+        "technology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The gunpowder revolution required a supporting economy: sulfur, saltpeter farming, chemical refinement, transport and storage systems, ironworks, and foundries.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0020",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0021",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture account of early modern military economy.",
+      "topic_tags": [
+        "gunpowder-economy",
+        "saltpeter",
+        "sulfur",
+        "towns",
+        "foundries"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Volley fire solves the musket's inaccuracy and slowness by organizing massed soldiers to fire in sequence rather than relying on individual aim.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Military-tactics explanation in this lecture.",
+      "topic_tags": [
+        "volley-fire",
+        "musket",
+        "mass-army",
+        "ming"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Schools arise, in Jiang's explanation, from the military need to create obedient mass soldiers who can be conscripted into gunpowder armies.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical-social explanation in this lecture.",
+      "topic_tags": [
+        "schools",
+        "obedience",
+        "mass-army",
+        "gunpowder"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Synchronicity means structuring society so people follow rules; Jiang names Germany and Japan as classic examples and links orderly lines to military and industrial effectiveness.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0026",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Model introduced in this lecture for later semester use.",
+      "topic_tags": [
+        "synchronicity",
+        "japan",
+        "germany",
+        "industry",
+        "military"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Europe becomes dominant because it never stops fighting internally and externally; these wars force larger armies, better weapons, more taxation, and better conscription.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0027",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0028",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0029",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Long-run European military history as presented here.",
+      "topic_tags": [
+        "europe",
+        "war",
+        "innovation",
+        "taxation",
+        "conscription"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "The War of the Holy League is presented as the turning point when Europe defeats the Ottoman Empire and the Ottomans begin rapid decline.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "European-Ottoman military chronology in this lecture.",
+      "topic_tags": [
+        "war-of-the-holy-league",
+        "ottomans",
+        "european-dominance"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "European dominance repeatedly shifts among powers, and the balance-of-power system turns each rising hegemon into the target of wider coalitions.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0033",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0034",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "European history model from 1448 through World War I in this lecture.",
+      "topic_tags": [
+        "balance-of-power",
+        "europe",
+        "great-game",
+        "world-war-i"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The nation-state replaces religion as the object of sacrifice: people work, reproduce, and die for national glory rather than the will of God.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Jiang's answer to a student question in this lecture.",
+      "topic_tags": [
+        "nation-state",
+        "religion",
+        "sacrifice",
+        "population"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "War gives meaning, purpose, patriotic energy, and future hope because death opens positions and creates social mobility.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0037",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Jiang's paradoxical explanation of wartime resilience.",
+      "topic_tags": [
+        "war",
+        "meaning",
+        "social-mobility",
+        "population-growth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links contemporary low ambition and low fertility under Pax Americana to blocked social mobility, wealth monopolized by older generations, and fewer opportunities for young people.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0038",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Contemporary analogy in the 2025-04-10 lecture.",
+      "topic_tags": [
+        "pax-americana",
+        "fertility",
+        "social-mobility",
+        "youth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Gunpowder drives feudalism toward absolute monarchy because mass gunpowder armies require taxation, conscription, and centralized bureaucracy.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0041",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Historical recap in this lecture.",
+      "topic_tags": [
+        "absolute-monarchy",
+        "feudalism",
+        "taxation",
+        "conscription",
+        "gunpowder"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "A whole-society approach directs material, trade, production, specialists, industry, research, bureaucracy, and military hierarchy toward gunpowder warfare.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0042",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Definition and model in this lecture.",
+      "topic_tags": [
+        "whole-society-approach",
+        "gunpowder-economy",
+        "bureaucracy",
+        "military-hierarchy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Most societies resist a whole-society approach because it overturns social hierarchy: aristocrats lose to bureaucrats, villages lose to merchants and industry, and priests lose authority to scientists.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0044",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Jiang's explanation of elite resistance.",
+      "topic_tags": [
+        "elite-resistance",
+        "social-hierarchy",
+        "merchants",
+        "scientists",
+        "bureaucrats"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "China invented compass, paper, printmaking, and gunpowder centuries earlier, but Europe used those same inventions to transform society through exploration, literacy, revolution, and conquest.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0046",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Comparative China-Europe argument in this lecture.",
+      "topic_tags": [
+        "china",
+        "four-great-inventions",
+        "europe",
+        "literacy",
+        "exploration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Governments, when given a choice, prefer maintaining social hierarchy over innovation; Europe innovated because neighboring threats made innovation a matter of life and death.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "General political diagnosis stated in this lecture.",
+      "topic_tags": [
+        "government",
+        "social-hierarchy",
+        "innovation",
+        "europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Europe innovates because it faces two simultaneous pressures: external enemies and internal populations who must fight, reproduce, work, and therefore demand a say in society.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0051",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Jiang's answer to a student question in this lecture.",
+      "topic_tags": [
+        "europe",
+        "innovation",
+        "external-pressure",
+        "internal-pressure",
+        "revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Contradiction forces innovation: if a European state cannot balance social contradictions, it faces either foreign conquest or domestic revolution.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0052",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture model of European modernization.",
+      "topic_tags": [
+        "contradiction",
+        "innovation",
+        "defeat",
+        "revolution"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "China's geography and unity make bureaucrats less afraid of external enemies than of internal revolution, so their priority is maintaining internal hierarchy and coherence.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0053",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "China-Europe comparison in this lecture.",
+      "topic_tags": [
+        "china",
+        "bureaucracy",
+        "geography",
+        "internal-revolution",
+        "hierarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Chiang Kai-shek and the Japanese invasion to illustrate that Chinese elites may treat peasant revolution as a deeper threat than foreign conquest because revolution overturns social hierarchy.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0054",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Modern analogy used in the 2025-04-10 lecture.",
+      "topic_tags": [
+        "chiang-kai-shek",
+        "japan",
+        "communists",
+        "social-hierarchy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, Chinese civilization is not essentially the emperor but the Confucian bureaucracy; if that culture lives on, China lives on, even under foreign rulers.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0055",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Civilizational definition in this lecture.",
+      "topic_tags": [
+        "china",
+        "confucianism",
+        "bureaucracy",
+        "emperor",
+        "civilization"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "China does not innovate because bureaucracy controls information to the emperor and therefore holds real power.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Continuation of China diagnosis in this lecture.",
+      "topic_tags": [
+        "china",
+        "bureaucracy",
+        "emperor",
+        "innovation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "European royal families can be related and still kill one another because they are participants in a game where only one faction can win status and political survival.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0059",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0060",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Game-theory answer in this lecture.",
+      "topic_tags": [
+        "game-theory",
+        "status",
+        "civil-war",
+        "princes",
+        "factions"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Civil wars between princes are really conflicts between political factions, with sons or princes serving as figureheads for groups striving for power.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0060",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Historical-political model in this lecture.",
+      "topic_tags": [
+        "civil-war",
+        "factions",
+        "princes",
+        "figureheads"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern schooling comes from the Prussian military model: separate children from families, make them anxious and obedient, and train them for soldiering; industry later adopts the same system for factory workers.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0062",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Jiang's origin story for modern schooling.",
+      "topic_tags": [
+        "schooling",
+        "prussia",
+        "obedience",
+        "military",
+        "industry"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "The next class will move from the gunpowder revolution into the Enlightenment, which Jiang frames as paving the way for the American and French revolutions.",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Course-sequence note in the 2025-04-10 lecture.",
+      "topic_tags": [
+        "enlightenment",
+        "american-revolution",
+        "french-revolution",
+        "course-sequence"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture starts with a hard causal key: change the army and you change the political form.",
+      "source_phrase": "The nature of the military determines the nature of the political system",
+      "why_it_matters": "This is the model that lets the gunpowder story become a theory of social transformation rather than a weapons lecture.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0007"
+      ],
+      "moment": "A thousand-year wall stops being a world order once cannons arrive.",
+      "source_phrase": "gunpowder that allows the Ottomans to destroy the once impenetrable Constantinople",
+      "why_it_matters": "It gives the episode its hinge image: the old order is not argued away, it is breached.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0010"
+      ],
+      "moment": "Gunpowder turns imperial bureaucracy from dead weight into the decisive advantage.",
+      "source_phrase": "with gunpowder technology, you need organization",
+      "why_it_matters": "It reverses Jiang's usual borderland-energy model at the exact technological hinge.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0016"
+      ],
+      "moment": "Science is defined brutally as the war question, not the truth question.",
+      "source_phrase": "Science is asking the question, how can we win this war?",
+      "why_it_matters": "It compresses the lecture's most provocative account of modernity: knowledge grows under military pressure.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0017"
+      ],
+      "moment": "Europe's weakness, being fractured and always fighting, becomes the engine of its strength.",
+      "source_phrase": "open cooperative competition",
+      "why_it_matters": "It is the lecture's central paradox for why Europe, rather than the richer empires, keeps improving.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0022"
+      ],
+      "moment": "Gunpowder is not just a cannon; it is manure, laboratories, rainproofing, transport, and towns.",
+      "source_phrase": "an absolute necessity to figure out how to better make, store, and use gunpowder",
+      "why_it_matters": "It grounds the whole-society thesis in ordinary logistical infrastructure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0025",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0027"
+      ],
+      "moment": "School is traced back to the need to make people obedient enough to charge into gunfire.",
+      "source_phrase": "where schools come from, it comes from the need to fight wars",
+      "why_it_matters": "It turns an ordinary institution into a military technology of the human body.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0031"
+      ],
+      "moment": "The Seven Years' War becomes the first world war because France and England fight for control of the entire world.",
+      "source_phrase": "really the first world war",
+      "why_it_matters": "It ties European balance-of-power conflict directly to global empire.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0037",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0038"
+      ],
+      "moment": "War is made to sound like a terrible engine of hope: it kills, but by killing it opens social space.",
+      "source_phrase": "With death comes opportunities that didn't exist before",
+      "why_it_matters": "It preserves the lecture's most unsettling explanation of why violent societies can remain energetic.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0039"
+      ],
+      "moment": "Peace becomes stagnation when the old do not die and the young cannot see a future.",
+      "source_phrase": "all that wealth becomes monopolized by old people",
+      "why_it_matters": "It connects early modern war logic to Jiang's diagnosis of present-day demography and ambition.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043"
+      ],
+      "moment": "Gunpowder demands that all resources of society be aimed at battle.",
+      "source_phrase": "all resources are directed to the use of gunpowder in battle",
+      "why_it_matters": "This is the operational core of the whole-society idea.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0045"
+      ],
+      "moment": "The elite do not adapt gracefully; their power has to be taken away.",
+      "source_phrase": "Their power has to be taken away from them",
+      "why_it_matters": "It gives the lecture's social revolution story its conflict: technology requires dispossession of old elites.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0048"
+      ],
+      "moment": "China chooses hierarchy; Europe does not get that choice.",
+      "source_phrase": "You either innovate or you will get destroyed by your neighbor",
+      "why_it_matters": "It compresses the China-Europe contrast into one survival rule.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0052"
+      ],
+      "moment": "Europe has no stable resting place: innovate, be conquered, or be overthrown.",
+      "source_phrase": "if you don't innovate, then you have a revolution or defeat",
+      "why_it_matters": "It captures innovation as coercion rather than virtue.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0055"
+      ],
+      "moment": "Foreign conquest can be tolerable if hierarchy survives; peasant revolt is intolerable because it changes the social order.",
+      "source_phrase": "these peasant rebels are the real problem",
+      "why_it_matters": "It sharpens Jiang's China diagnosis into a hierarchy-first political psychology.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0056"
+      ],
+      "moment": "The emperor is downgraded to a replaceable figurehead; the bureaucracy is China.",
+      "source_phrase": "The emperor doesn't really matter in this system. What matters is the bureaucracy.",
+      "why_it_matters": "It gives the China half of the episode a memorable institutional core.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0057"
+      ],
+      "moment": "The emperor sees only through bureaucratic eyes, so the bureaucracy controls the emperor.",
+      "source_phrase": "you can control and manipulate the emperor based on the information you provide him",
+      "why_it_matters": "It makes bureaucracy an information regime, not just an administrative class.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0060",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061"
+      ],
+      "moment": "Brothers fight because only one can have status; blood relation does not cancel the game.",
+      "source_phrase": "brothers hate each other the most because only one can have status",
+      "why_it_matters": "It turns dynastic violence into a compact status model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0062"
+      ],
+      "moment": "School works by making children separable, anxious, obedient, and employable.",
+      "source_phrase": "separate them from their families at an early age",
+      "why_it_matters": "It extends the gunpowder revolution into the emotional engineering of modern institutions.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0065"
+      ],
+      "moment": "The gunpowder lecture hands off to Enlightenment and revolution rather than ending with weapons.",
+      "source_phrase": "next class, we do the Enlightenment",
+      "why_it_matters": "It confirms the episode's arc: military transformation becomes intellectual and political revolution.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "military determines political system",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Course model that a society's dominant military form shapes who gets power and what political structure becomes stable.",
+      "confidence": "high"
+    },
+    {
+      "term": "feudalism",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A decentralized order where local knights and lords control territory because castles make royal coercion difficult.",
+      "confidence": "high"
+    },
+    {
+      "term": "gunpowder empire",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0011",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "A centralized empire well positioned to use gunpowder through bureaucracy, professional soldiers, and resource coordination.",
+      "confidence": "high"
+    },
+    {
+      "term": "whole-society approach",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "A warfare model where effective gunpowder integration requires reorganizing the entire society, not merely adding weapons to an army.",
+      "confidence": "high"
+    },
+    {
+      "term": "open cooperative competition",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Fragmented parts of a civilization fight and imitate one another, producing innovation through rivalry.",
+      "confidence": "high"
+    },
+    {
+      "term": "ductile",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Jiang uses the term for resilience and flexibility in material or defensive design, illustrated by star fortresses.",
+      "confidence": "high"
+    },
+    {
+      "term": "volley fire",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "A line-fire tactic where soldiers rotate forward, shoot, and move back to reload so a mass army can compensate for slow, inaccurate guns.",
+      "confidence": "high"
+    },
+    {
+      "term": "synchronicity",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "A social ordering system where people internalize rules and synchronized behavior, increasing military and industrial effectiveness.",
+      "confidence": "high"
+    },
+    {
+      "term": "balance of power",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "European policy logic where other states unite to take down whichever power becomes dominant.",
+      "confidence": "high"
+    },
+    {
+      "term": "nation-state",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A political form that replaces religious sacrifice with sacrifice for the nation and organizes people toward national competition.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The American peace; Jiang uses it as a contemporary condition in which social hierarchy stagnates and young people see fewer openings.",
+      "confidence": "medium"
+    },
+    {
+      "term": "absolute monarchy",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "A centralized monarchy that can organize bureaucracy, taxation, and conscription for gunpowder war.",
+      "confidence": "high"
+    },
+    {
+      "term": "four great inventions of China",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Compass, paper, printmaking, and gunpowder; Jiang uses them to compare Chinese invention with European social transformation.",
+      "confidence": "high"
+    },
+    {
+      "term": "two pressures",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0051",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "External enemy pressure and internal mobilization pressure; together they create contradictions that force innovation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Confucian bureaucracy",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0055",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The durable hierarchy of scholar-officials and bureaucrats that Jiang identifies as the continuity of Chinese civilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "status",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0060",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The desired top position in a hierarchy; Jiang uses it to explain fraternal and princely violence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Prussian schooling model",
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0061",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Modern universal schooling traced to Prussia as an obedience-training system for military and industrial needs.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0007",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0008"
+      ],
+      "note": "The lecture dates the gunpowder hinge to Constantinople in 1453, then frames later European world conquest as the long consequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang explicitly links this gunpowder social transformation to later French and American revolutions and to China adopting European social frameworks.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang positions the French Revolutionary Wars as the beginning of the nation-state citizen-soldier model and World War I as the casualty climax.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0035",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0039"
+      ],
+      "note": "The lecture explicitly connects early modern European balance-of-power dynamics to present-day UK-Russia rivalry and contemporary Pax Americana fertility/social mobility claims.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0046",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0047"
+      ],
+      "note": "The lecture dates Chinese printing around 800 and European printing around 1400, then contrasts non-transformative Chinese use with transformative European use.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0054",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0055"
+      ],
+      "note": "The lecture uses the World War II Japanese invasion and KMT focus on Communists as a later historical analogy for hierarchy protection.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0062",
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0063"
+      ],
+      "note": "Jiang explicitly connects the Prussian-origin schooling model to contemporary universal schooling and China's adoption of it for factory labor.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0065"
+      ],
+      "note": "This lecture is followed in the course by the Enlightenment after a midterm break.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0008"
+      ],
+      "note": "Transcript renders 'Yemnaya' for Yamnaya; retained here only as source wording."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0012"
+      ],
+      "note": "Transcript spells Safavid as 'Sepidid'; semantic extraction normalizes to Safavid while preserving the source ref."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0021"
+      ],
+      "note": "Transcript repeatedly says 'salt, pepper'; context indicates saltpeter/potassium nitrate."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0026"
+      ],
+      "note": "Transcript says '12th century' for Japan and Germany; context likely means twentieth century, but the semantic pass preserves only the source claim without correcting it."
+    },
+    {
+      "refs": [
+        "video:predictive-history-dirjyy-8v54@transcript:v1#seg-0054"
+      ],
+      "note": "Transcript says 'Jiang Jiechi'; context indicates Chiang Kai-shek/Jiang Jieshi."
+    }
+  ]
+}
