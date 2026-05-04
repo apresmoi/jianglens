@@ -1,0 +1,226 @@
+{
+  "packet_id": "predictive-history-b5fthagng8c-semantics-pkt-0008",
+  "source_id": "video:predictive-history-b5fthagng8c",
+  "source_date": "2025-12-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0057",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0058",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0059"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Britain finances empire through the Bank of England, extracts Indian wealth, turns India into a resource colony, and co-opts local elites by giving them safe offshore storage.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0060",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0061"
+      ],
+      "kind": "monologue",
+      "summary": "He claims British wealth from India and China is invested into American industrial monopolists, who serve as local agents because Americans would reject direct British ownership.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0062",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0063",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0064"
+      ],
+      "kind": "monologue",
+      "summary": "He extends the agent model to modern tech billionaires, surveillance platforms, the Federal Reserve, Bretton Woods, Nixon's gold break, and the petrodollar.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Britain's empire is presented as financed rather than directly fought, with the East India Company extracting Indian wealth and India's share of global wealth falling over the next centuries.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "British Empire and India case study",
+      "topic_tags": [
+        "British-Empire",
+        "East-India-Company",
+        "India",
+        "wealth-extraction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "England turns India into a resource colony by destroying manufacturing, imposing agriculture, forcing purchases of British manufactured goods, and co-opting Indian elites.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "colonial India model in this lecture",
+      "topic_tags": [
+        "India",
+        "resource-colony",
+        "manufacturing",
+        "elite-cooptation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The same offshore-storage strategy that co-opts Indian elites is said to operate in China through opium networks and in the present through British tax havens.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "historical-to-present continuity claim in the lecture",
+      "topic_tags": [
+        "money-laundering",
+        "tax-havens",
+        "China",
+        "opium"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "American industrial monopolists such as Vanderbilt, Carnegie, Rockefeller, and J.P. Morgan are presented as British-financed agents rather than pure rags-to-riches figures.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0060",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0061",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "American industrialization claim in this lecture",
+      "topic_tags": [
+        "America",
+        "monopolists",
+        "British-finance",
+        "agents"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Modern tech firms are presented as inheritors of the same strategy: public U.S. military technology is handed to trusted fronts so surveillance appears voluntary and private.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0062",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "present-day extension in this lecture",
+      "topic_tags": [
+        "technology",
+        "surveillance",
+        "military-technology",
+        "Facebook",
+        "Google"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The U.S. dollar's reserve role moves from gold backing at Bretton Woods to Nixon's 1971 break and petrodollar demand through oil pricing.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "1945-1971 monetary sequence in the lecture",
+      "topic_tags": [
+        "Bretton-Woods",
+        "petrodollar",
+        "Nixon",
+        "reserve-currency"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0059"
+      ],
+      "moment": "The empire remains after the flag disappears as a banking system for stolen elite wealth.",
+      "source_phrase": "the British Empire may be gone, but the British system of money laundering... still exists today",
+      "why_it_matters": "This gives the episode a strong continuity claim from colonialism to tax havens.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0061"
+      ],
+      "moment": "America needs local agents because British capital cannot openly return after 1776.",
+      "source_phrase": "they needed people like John Rockefeller and Andrew Carnegie to act as their agents",
+      "why_it_matters": "It is Jiang's mechanism for translating empire into national mythology.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0063"
+      ],
+      "moment": "Surveillance works better when it arrives as free Facebook than as a Pentagon computer.",
+      "source_phrase": "if Mark Zuckerberg says, hey, free Facebook",
+      "why_it_matters": "The example converts abstract secret-society control into a contemporary interface.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Resource colony",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0058"
+      ],
+      "definition_or_usage": "A colony stripped of manufacturing and made to produce resources while buying the empire's manufactured goods.",
+      "confidence": "high"
+    },
+    {
+      "term": "Tax havens",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Offshore private banking locations Jiang says let national elites store wealth outside their countries.",
+      "confidence": "high"
+    },
+    {
+      "term": "Petrodollar",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang's term for the post-1971 arrangement in which oil is sold in U.S. dollars, supporting dollar demand.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0058"
+      ],
+      "note": "Jiang names 1913 to 1950 as a period when average Indian income changes little in his colonial account.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0064"
+      ],
+      "note": "The source explicitly dates Bretton Woods to 1945 and Nixon's dollar-gold break to 1971.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0057"
+      ],
+      "note": "ASR has unclear phrases around estimated wealth stolen from India and India rivaling the East India Company; avoid exact numeric claims without verification."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0062"
+      ],
+      "note": "The phrase 'If you balance your social society' is likely ASR damage; the intended meaning appears to be membership/financing by secret society or imperial networks."
+    }
+  ]
+}

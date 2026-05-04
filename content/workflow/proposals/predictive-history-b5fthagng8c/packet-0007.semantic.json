@@ -1,0 +1,225 @@
+{
+  "packet_id": "predictive-history-b5fthagng8c-semantics-pkt-0007",
+  "source_id": "video:predictive-history-b5fthagng8c",
+  "source_date": "2025-12-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0049",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0050",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from Venetian networks to the Dutch Republic, arguing that Calvinist energy lets the Dutch feed off Spanish gold through piracy, industry, luxury trade, and the Dutch East India Company.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0052",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0053",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "He links Luther, Calvin, the Thirty Years' War, Jesuits, and Freemasons into a Catholic-Protestant intelligence struggle carried by schools, infiltration, oaths, and secret identities.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0055",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "He narrows the conflict to England: Elizabethan anti-Catholic struggle, the Glorious Revolution, the Bank of England, and Britain's ability to finance wars against Napoleon by borrowing from the future.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Dutch Republic becomes energetic because Calvinism treats wealth as evidence of salvation and channels labor into accumulation.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0049",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Dutch Republic case study in the lecture",
+      "topic_tags": [
+        "Dutch-Republic",
+        "Calvinism",
+        "energy",
+        "wealth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Spanish Empire's South American gold makes Spanish society lazy, allowing Dutch, British, and French industry and piracy to feed on Spanish wealth.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0049",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "early modern imperial comparison in the lecture",
+      "topic_tags": [
+        "Spanish-Empire",
+        "Dutch-Republic",
+        "piracy",
+        "industry"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Dutch East India Company is presented as a quasi-state corporation with monopoly, army, currency, government, and law-making power.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0050",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Dutch colonial-commercial example",
+      "topic_tags": [
+        "Dutch-East-India-Company",
+        "corporation",
+        "spice-trade",
+        "monopoly"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes Jesuits and Freemasons as opposing Catholic and Protestant secret-intelligence systems fighting through infiltration, schools, oaths, and trained identities.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0053",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "post-Reformation conflict model in the lecture",
+      "topic_tags": [
+        "Jesuits",
+        "Freemasons",
+        "infiltration",
+        "intelligence"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Bank of England allows Britain to become an empire by guaranteeing national debt through Parliament and financing repeated wars against Napoleon.",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0055",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "England case study in the lecture",
+      "topic_tags": [
+        "Bank-of-England",
+        "Napoleonic-Wars",
+        "empire",
+        "national-debt"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0050",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0051"
+      ],
+      "moment": "A company becomes almost a nation unto itself.",
+      "source_phrase": "almost like a nation onto itself",
+      "why_it_matters": "This captures the episode's corporate-sovereign theme before the Bank of England and Federal Reserve.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0054"
+      ],
+      "moment": "A religious war becomes a secret war of schools, spies, oaths, and identities.",
+      "source_phrase": "a secret battle going on between the Jesuits and the Freemasons",
+      "why_it_matters": "It shifts the Reformation from doctrine into Jiang's hidden-institution frame.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0056"
+      ],
+      "moment": "England can lose battles because it is not fighting; it is financing.",
+      "source_phrase": "England wasn't fighting the war it was just financing the Wars",
+      "why_it_matters": "This is Jiang's finance-over-arms reversal in its cleanest form.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Dutch East India Company",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0050",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "A Dutch spice-trade monopoly Jiang describes as a corporation with state-like powers.",
+      "confidence": "high"
+    },
+    {
+      "term": "Jesuits",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0053",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Presented as a Catholic secret/intelligence society that builds schools and infiltrates Protestant governments.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Freemasons",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0053",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Presented as the Protestant counterpart in Jiang's secret battle with the Jesuits.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Borrowing from the future",
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's description of national debt finance that lets England fund wars across time and space.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0052",
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0053"
+      ],
+      "note": "Jiang places Luther, Calvin, the Thirty Years' War, Jesuits, and Freemasons in a post-Reformation escalation sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0055"
+      ],
+      "note": "The source names 1688 as the Glorious Revolution transition to William of Orange and parliamentary authority.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0053"
+      ],
+      "note": "ASR renders Loyola as 'L Oreal'; if used publicly, verify or paraphrase as the Jesuit founder rather than quoting the name from ASR."
+    },
+    {
+      "refs": [
+        "video:predictive-history-b5fthagng8c@transcript:v1#seg-0056"
+      ],
+      "note": "ASR renders 'Napoleonic Wars' unclearly; public read can safely refer to wars against Napoleon."
+    }
+  ]
+}

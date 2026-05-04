@@ -1,0 +1,225 @@
+{
+  "source_slug": "predictive-history-b5fthagng8c",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:deb5bf423f8f",
+      "decision": "approve",
+      "reason": "Completes the sentence ending 'It's not that hard to grow grain.'"
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:4d9a447353e6",
+      "decision": "approve",
+      "reason": "Completes the equity example: 'you work a lot harder...'"
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Moves the trailing discourse marker to finish 'not in debt, okay?'"
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:eaccd3a8c5b3",
+      "decision": "reject",
+      "reason": "The boundary includes repeated ASR phrasing and the proposed text does not clearly complete the prior sentence."
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:cf9bfcf667c9",
+      "decision": "approve",
+      "reason": "Completes 'But then the question is...'"
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:c01c0cc193ef",
+      "decision": "approve",
+      "reason": "Completes the question 'what do peasants want?'"
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:355e8f467475",
+      "decision": "approve",
+      "reason": "Completes 'restrictions on your behavior, okay?'"
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-leading-completion-to-previous:722773388a7a",
+      "decision": "approve",
+      "reason": "Completes the repeated clause ending 'willing to inflict.'"
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:da95e37018f2",
+      "decision": "approve",
+      "reason": "Completes 'start this war...'"
+    },
+    {
+      "candidate_id": "seg-0019->seg-0020:move-leading-completion-to-previous:4792893e50ab",
+      "decision": "approve",
+      "reason": "Completes 'the people who want to join.'"
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:cbac1caadeb7",
+      "decision": "approve",
+      "reason": "Completes 'This is just a thought experiment, okay?'"
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-trailing-starter-to-next:1d315be944a9",
+      "decision": "approve",
+      "reason": "Moves dangling 'It's' to complete 'It's often...'"
+    },
+    {
+      "candidate_id": "seg-0023->seg-0024:move-leading-completion-to-previous:62fd539c6236",
+      "decision": "approve",
+      "reason": "Completes 'become the middle people, okay?'"
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:23c6a894d320",
+      "decision": "approve",
+      "reason": "Completes 'helots outnumber the Spartans 10 to 1.'"
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-leading-completion-to-previous:28d86b05a1d4",
+      "decision": "approve",
+      "reason": "Completes 'therefore I must die for him.'"
+    },
+    {
+      "candidate_id": "seg-0027->seg-0028:move-leading-completion-to-previous:613af99a2c3d",
+      "decision": "approve",
+      "reason": "Completes 'played the video game Assassin's Creed, okay?'"
+    },
+    {
+      "candidate_id": "seg-0028->seg-0029:move-trailing-starter-to-next:0f67514b901d",
+      "decision": "approve",
+      "reason": "Moves dangling 'And' to complete the next sentence."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:514fb1d95a71",
+      "decision": "approve",
+      "reason": "Completes 'train them to be spies, to be killers.'"
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:de4434bdd62a",
+      "decision": "approve",
+      "reason": "Completes 'the handler has programmed you...'"
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:63d4e55ae228",
+      "decision": "approve",
+      "reason": "Completes 'They're controlled by private interests.'"
+    },
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:e64f5a656ee5",
+      "decision": "approve",
+      "reason": "Completes the numbered list item 'the third is diplomacy.'"
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-trailing-starter-to-next:a9564b619e38",
+      "decision": "approve",
+      "reason": "Moves dangling 'So what I' to complete 'So what I will do...'"
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:613332168288",
+      "decision": "approve",
+      "reason": "Completes 'more capable of extracting energy...'"
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Moves the marker to finish 'you have to just obey us, okay?'"
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:852df85804c3",
+      "decision": "approve",
+      "reason": "Completes 'You can communicate with God directly, okay?'"
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:4976cedb4f36",
+      "decision": "approve",
+      "reason": "Completes 'Second problem is the idea of egalitarian.'"
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:0abc47c2310c",
+      "decision": "approve",
+      "reason": "Completes 'What's even worse is...'"
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:911c2a634715",
+      "decision": "approve",
+      "reason": "Completes 'you can't spend any of this money...'"
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-leading-completion-to-previous:be63e86cff21",
+      "decision": "approve",
+      "reason": "Completes 'what happens is...'"
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-leading-completion-to-previous:2690a88f61a6",
+      "decision": "approve",
+      "reason": "Completes 'a lot of gold.'"
+    },
+    {
+      "candidate_id": "seg-0044->seg-0045:move-leading-completion-to-previous:04e0ddc2a1ab",
+      "decision": "approve",
+      "reason": "Completes 'lend money to England to fight wars.'"
+    },
+    {
+      "candidate_id": "seg-0045->seg-0046:move-leading-completion-to-previous:268ed53db792",
+      "decision": "approve",
+      "reason": "Completes 'The Federal Reserve...'"
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:e23d68aa3e07",
+      "decision": "approve",
+      "reason": "Completes 'trade and diplomacy, okay?'"
+    },
+    {
+      "candidate_id": "seg-0047->seg-0048:move-trailing-starter-to-next:0f67514b901d",
+      "decision": "approve",
+      "reason": "Moves dangling 'And' to complete 'And this is going to make Venice...'"
+    },
+    {
+      "candidate_id": "seg-0049->seg-0050:move-leading-completion-to-previous:f34ff501d4dd",
+      "decision": "approve",
+      "reason": "Completes 'gone to South America and captured...'"
+    },
+    {
+      "candidate_id": "seg-0050->seg-0051:move-leading-completion-to-previous:d879ddfd19db",
+      "decision": "approve",
+      "reason": "Completes 'world's wealthiest corporation even today.'"
+    },
+    {
+      "candidate_id": "seg-0057->seg-0058:move-leading-completion-to-previous:20d6efd0fa56",
+      "decision": "approve",
+      "reason": "Completes the time-span clause ending in 'their wealth will plummet, okay?'"
+    },
+    {
+      "candidate_id": "seg-0059->seg-0060:move-leading-completion-to-previous:0389d66b78c2",
+      "decision": "approve",
+      "reason": "Completes 'England has some of the world's worst tax havens.'"
+    },
+    {
+      "candidate_id": "seg-0060->seg-0061:move-leading-completion-to-previous:ff8a0e7fb096",
+      "decision": "approve",
+      "reason": "Completes 'America is ruled by private banks.'"
+    },
+    {
+      "candidate_id": "seg-0061->seg-0062:move-leading-completion-to-previous:61317d94bdf4",
+      "decision": "approve",
+      "reason": "Completes 'Okay, does that make sense?'"
+    },
+    {
+      "candidate_id": "seg-0062->seg-0063:move-leading-completion-to-previous:79e20f818797",
+      "decision": "approve",
+      "reason": "Completes 'What you need to understand about these companies...'"
+    },
+    {
+      "candidate_id": "seg-0063->seg-0064:move-leading-completion-to-previous:865301b79cb0",
+      "decision": "approve",
+      "reason": "Completes 'Of course he can be trusted, right?'"
+    },
+    {
+      "candidate_id": "seg-0064->seg-0065:move-leading-completion-to-previous:2cc9a59ae14e",
+      "decision": "approve",
+      "reason": "Completes 'Can you guys guess what?'"
+    },
+    {
+      "candidate_id": "seg-0065->seg-0066:move-leading-completion-to-previous:57fae82ee690",
+      "decision": "approve",
+      "reason": "Completes the list of symbolism sources after 'the pyramid'."
+    }
+  ]
+}
