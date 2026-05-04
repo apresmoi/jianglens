@@ -1,0 +1,171 @@
+{
+  "packet_id": "predictive-history-mpqzapnjykm-semantics-pkt-0007",
+  "source_id": "video:predictive-history-mpqzapnjykm",
+  "source_date": "2025-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the collapse argument: if people are infinite resources, terror replaces enslavement; Mongol contempt for Chinese and other local cultures makes governance impossible; efforts to adopt Chinese bureaucracy clash with Mongol nobility and help collapse the empire.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0051",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0052",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0053",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0054",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0055",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0056",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0057"
+      ],
+      "kind": "exchange",
+      "summary": "A student named Doug says he has no question and is scared to comment because the class is on YouTube; Jiang invites comments and questions, and the transcript then contains brief non-substantive backchannel fragments.",
+      "speaker_attribution": "Jiang and student/audience; some backchannel diarization is noisy.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0051",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0053"
+      ],
+      "note": "SPEAKER_00 appears to be a student or audience member, probably Doug, replying to Jiang's invitation.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0055",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0056",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0057"
+      ],
+      "note": "Segments contain repeated 'Yup' backchannels and are not substantive questions.",
+      "suggested_speaker": "mixed audience/Jiang backchannel",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "If people are treated as an infinite resource, massacre for terror becomes more strategically useful than preserving conquered people as slaves.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Strategic model in the 2025-03-18 lecture.",
+      "topic_tags": [
+        "people-as-infinite-resource",
+        "terror",
+        "slavery",
+        "mongols"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mongol contempt for local culture, especially in Yuan China, made rule unstable and contributed to Chinese rebellion.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "yuan-dynasty",
+        "china",
+        "contempt",
+        "rebellion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Attempts by Mongol leadership to adopt Chinese-style bureaucracy conflicted with Mongol nobility's desire to preserve Mongolian culture, producing internal tension that led to collapse.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Collapse model in this lecture.",
+      "topic_tags": [
+        "bureaucracy",
+        "nobility",
+        "assimilation",
+        "mongol-collapse"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049"
+      ],
+      "moment": "Infinite people means you do not want slaves; you want bodies converted into terror.",
+      "source_phrase": "you don't want them as slaves. You want to kill as many people as possible in order to inflict terror",
+      "why_it_matters": "This is the brutal moral consequence of the infinite-resource idea.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0050"
+      ],
+      "moment": "The Mongol emperor needs assimilation, but the nobility needs Mongol difference.",
+      "source_phrase": "the nobility and the emperor couldn't agree",
+      "why_it_matters": "It compresses collapse into an institutional contradiction between rule and identity.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0053"
+      ],
+      "moment": "A student declines to comment because the class is on YouTube.",
+      "source_phrase": "I'm kind of scared. This is on YouTube",
+      "why_it_matters": "The aside reveals the room's awareness that frank historical interpretation is being publicly recorded.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Yuan class system",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang's example of Mongol contempt in China: Mongols at the top, Chinese at the bottom, foreigners in between.",
+      "confidence": "high"
+    },
+    {
+      "term": "Chinese-style bureaucracy",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The administrative system Mongol leaders tried to adopt to govern empire, clashing with the nobility's resistance to assimilation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0050"
+      ],
+      "note": "This packet contains the lecture's explicit collapse explanation for Yuan/Mongol rule and should anchor any later corpus-impact note on conquest logic becoming governance failure.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0055",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0056",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0057"
+      ],
+      "note": "Repeated 'Yup' spans are diarization/ASR noise or low-content backchannels and should not be promoted as substantive questions."
+    }
+  ]
+}
