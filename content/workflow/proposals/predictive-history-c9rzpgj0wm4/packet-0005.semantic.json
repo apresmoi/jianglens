@@ -1,0 +1,274 @@
+{
+  "packet_id": "predictive-history-c9rzpgj0wm4-semantics-pkt-0005",
+  "source_id": "video:predictive-history-c9rzpgj0wm4",
+  "source_date": "2025-01-02",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0034",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the reconstructed thesis directly: Muhammad was a revolutionary Messiah promising the kingdom of heaven on earth, and the early Christian description confirms a program of Abrahamic unity, divine law, promised land, and revolt against tyrants and landlords.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "He explains Muslim victory as the practical attraction of freedom from religious persecution, debt, and landlessness, then says the later Islamic empire whitewashed Muhammad's revolutionary character because empires do not want another Muhammad appearing inside them.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0038",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0039"
+      ],
+      "kind": "monologue",
+      "summary": "After an isolated backchannel, Jiang closes the Islam lecture by saying the scarcity of written material about Muhammad is itself a result of the revolution's success, then previews Dante as the next civilizational creator.",
+      "speaker_attribution": "Jiang lecture voice; seg-0038 is an isolated UNKNOWN 'Okay?' with no substantive question content.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0038"
+      ],
+      "note": "The isolated UNKNOWN 'Okay?' is a backchannel or diarization artifact, not a question.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang asks 'Do you have any questions?' but no student question is captured in the transcript.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Muhammad was a revolutionary who wanted to overthrow the social order and establish the kingdom of heaven on earth.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Core interpretive thesis of the 2025-01-02 lecture.",
+      "topic_tags": [
+        "muhammad",
+        "revolution",
+        "kingdom-of-heaven",
+        "messiah"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's reconstruction, Muhammad's law promised equality, mercy, tolerance, openness, and divine justice.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Reconstructed Muhammad message in this lecture.",
+      "topic_tags": [
+        "law-of-god",
+        "equality",
+        "mercy",
+        "tolerance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads the early Christian description as confirming that Muhammad presented himself as God's messenger, told Abraham's descendants the land was theirs, and demanded they seize it from tyrants and landlords.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0034",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Evidence reading in this lecture.",
+      "topic_tags": [
+        "early-source",
+        "god's-messenger",
+        "seize-the-land",
+        "anti-landlord"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the Muslim movement succeeded because it fused revolutionary zeal against the social order with religious devotion that God was with them.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Explanatory model for the early Muslim conquests.",
+      "topic_tags": [
+        "religious-devotion",
+        "revolutionary-zeal",
+        "muslim-conquests"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Muslim armies drew followers by freeing people from debt, landlessness, and religious persecution.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Historical explanation for the conquests in this lecture.",
+      "topic_tags": [
+        "debt",
+        "landlessness",
+        "religious-persecution",
+        "liberation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Islamic imperial successors whitewashed Muhammad's revolutionary history because empires do not want to celebrate a revolutionary model that could be used against them.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Explanation for source scarcity and later historical memory in this lecture.",
+      "topic_tags": [
+        "whitewashing-history",
+        "empire",
+        "muhammad",
+        "source-scarcity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The next lecture sequence will turn to Dante, whom Jiang calls the greatest poet and prophet in human history and the second coming of Homer.",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Forward-looking course note at the end of the 2025-01-02 lecture.",
+      "topic_tags": [
+        "dante",
+        "homer",
+        "divine-comedy",
+        "course-chronology"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033"
+      ],
+      "moment": "Muhammad is not merely the founder of a religion; he is a revolutionary Messiah trying to establish heaven on earth.",
+      "source_phrase": "Mohammed was a revolutionary who wanted to overflow the social order",
+      "why_it_matters": "This is the lecture's strongest reframing of Muhammad and the line the public read should not bury.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035"
+      ],
+      "moment": "The revolutionary command is compressed into a chant-like sequence: seize the land, overthrow the tyrants, overthrow the landlords, take it back.",
+      "source_phrase": "Seize the land. Overthrow the tyrants. Overthrow the landlords. Take it back.",
+      "why_it_matters": "This preserves the heat of Jiang's reconstruction of Islam as social revolt, not just monotheistic correction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037"
+      ],
+      "moment": "A successful revolution becomes an empire, then erases the revolutionary who made it possible.",
+      "source_phrase": "Because they won... they've become an empire",
+      "why_it_matters": "This is the final reversal explaining both the source problem and the politics of historical memory.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037"
+      ],
+      "moment": "Jiang compares Islamic imperial memory to China not teaching Mao as the revolutionary origin of current power.",
+      "source_phrase": "Do you learn about Mao Zedong in school? No, you don't.",
+      "why_it_matters": "The analogy makes the memory-politics claim concrete: regimes hide the revolutionary grammar that could be turned on them.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Kingdom of heaven on earth",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Jiang's name for the revolutionary promise of God's law realized materially through equality, mercy, tolerance, land, and freedom.",
+      "confidence": "high"
+    },
+    {
+      "term": "Whitewash history",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "A regime's rewriting of its revolutionary origin after becoming an empire, so later subjects do not learn a usable revolt template.",
+      "confidence": "high"
+    },
+    {
+      "term": "Revolutionary Muhammad",
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang's reconstructed Muhammad: a figure disgusted by inequality and corruption who promised freedom from religious persecution, debt, and landlessness.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036",
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0039"
+      ],
+      "note": "The lecture explains the later scarcity and sanitization of Muhammad material as a consequence of the revolution's success and transformation into empire.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0039"
+      ],
+      "note": "Course chronology moves next to Dante and The Divine Comedy after this Muhammad/Islam lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0035"
+      ],
+      "note": "ASR says 'Thessalonians' where context indicates Sassanians/Persians."
+    },
+    {
+      "refs": [
+        "video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0033"
+      ],
+      "note": "ASR says Muhammad wanted to 'overflow' the social order; context indicates overthrow."
+    }
+  ]
+}
