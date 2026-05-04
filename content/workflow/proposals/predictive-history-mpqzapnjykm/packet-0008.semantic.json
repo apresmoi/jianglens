@@ -1,0 +1,194 @@
+{
+  "packet_id": "predictive-history-mpqzapnjykm-semantics-pkt-0008",
+  "source_id": "video:predictive-history-mpqzapnjykm",
+  "source_date": "2025-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0057",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Responding to an audience question or prompt about Vikings and Mongols, Jiang says he would rather be a Viking than a Mongol, or even enslaved by a Viking than by a Mongol, because Vikings retained curiosity and respect for other cultures while Mongols adopted contempt and the infinite-resource view of people.",
+      "speaker_attribution": "Jiang answer to a partially uncaptured audience question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0063",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers a question about how a low-population Mongol society could believe people are an infinite resource: centuries of contact with Chinese warfare taught them that peasant armies could be thrown away and replaced.",
+      "speaker_attribution": "Jiang answering student; seg-0064 is a brief student acknowledgment.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061"
+      ],
+      "note": "The initiating student question is not fully captured, but Jiang's answer clearly compares Vikings and Mongols.",
+      "suggested_speaker": "Jiang answer to audience",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0064"
+      ],
+      "note": "UNKNOWN says 'Yeah,' likely acknowledging Jiang's answer.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang contrasts Vikings and Mongols by saying Vikings never adopted the belief that people were an infinite resource because Europe was poor and Viking opponents commanded respect.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Comparative answer in the 2025-03-18 lecture.",
+      "topic_tags": [
+        "vikings",
+        "mongols",
+        "respect",
+        "people-as-infinite-resource"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Viking curiosity and respect let Vikings assimilate into surrounding cultures, while Mongol contempt and exploitation prevented a rich cultural legacy.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Comparative interpretation in this lecture.",
+      "topic_tags": [
+        "vikings",
+        "mongols",
+        "assimilation",
+        "cultural-legacy",
+        "contempt"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Mongols learned to treat people as an infinite resource from long contact with China, where warfare used disposable peasant armies and human-wave attacks.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Answer to a classroom question in the 2025-03-18 lecture.",
+      "topic_tags": [
+        "china",
+        "human-wave-attacks",
+        "mongols",
+        "people-as-infinite-resource"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Contact between China and the Mongols happened through mercenary service, trade, and raiding or pillaging.",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Historical model in this lecture.",
+      "topic_tags": [
+        "china",
+        "mongols",
+        "trade",
+        "mercenaries",
+        "raiding"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060"
+      ],
+      "moment": "Jiang says he would rather be enslaved by a Viking than by a Mongol because a Viking might value his stories.",
+      "source_phrase": "I would much rather be a slave to a Viking than a Mongol",
+      "why_it_matters": "The provocative comparison makes the abstract respect/contempt distinction visceral.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059"
+      ],
+      "moment": "Contempt for others becomes contempt for the self.",
+      "source_phrase": "it also, in a way, makes you contemptuous of yourself",
+      "why_it_matters": "This is the psychological cost of the infinite-resource worldview and explains why conquest leaves little cultural monument.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062"
+      ],
+      "moment": "China becomes the school where Mongols learn human-wave expendability.",
+      "source_phrase": "This was pioneering in China. Okay? And the Mongols just took it and used it everywhere else",
+      "why_it_matters": "It locates the infinite-resource idea in historical contact rather than in Mongol population size.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Human wave attacks",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Jiang's term for Chinese warfare that throws peasant armies at opponents and replaces them when they die, teaching the Mongols that people are expendable.",
+      "confidence": "high"
+    },
+    {
+      "term": "Viking respect",
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "The comparative quality Jiang attributes to Vikings: curiosity about opponents and willingness to learn from other cultures.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060"
+      ],
+      "note": "This lecture explicitly compares Mongols to the prior Viking episode; later corpus work should connect these two processed episodes rather than treating the comparison as incidental.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058",
+        "video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061"
+      ],
+      "note": "The student question prompting the Viking comparison is not transcribed; interaction kind is marked as answer with medium confidence."
+    }
+  ]
+}

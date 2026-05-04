@@ -1,0 +1,417 @@
+# Civilization #39:  Genghis Khan, World Shatterer
+
+Source: https://www.youtube.com/watch?v=mPQzAPnjYkM
+
+## seg-0001 / 00:00:00-00:01:39 / SPEAKER_01
+
+Good morning. Today we will do Genghis Khan and the Mongolian Conquest. Now, as you know, the Mongols have a terrible reputation for their brutality, for their atrocities. Today, I want to make the argument to you that what they did, given the circumstances, given the constraints they were under, was actually logical and understandable, okay? So that's the argument I will make to you today. All right, so the Mongols. The Mongols, as you know, they are a steppe people. The steppe are divided into the Western steppes and the Eastern steppes. And they basically go from Hungary in Europe. Europe all the way to what is modern -day Mongolia. And as we discussed, steppe culture is very different from agricultural culture that we find in the La Vange, in Anatolia, Mesopotamia, and in China. In the grasslands, the economy is what we call nomadic pastoral, meaning they were... They will raise cattle as their source of food, and they will travel wherever there is grassland, okay?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:39-00:03:00 / SPEAKER_01
+
+And because of their economy, they have developed a certain culture. They are extremely violent. Their society, their culture is based around violence. And there's a lot of competition within these certain groups. So rather than thinking... Rather than think of these people as a nation or a race of people, it's better to think of them as a culture, okay? And for the longest time throughout human history, they have been divided among many different tribes. Throughout human history, the nomadic pastoral people of the steppes have always been in conflict with the agricultural empires. So... In response, the agricultural empires, China and the Persians, they have built walls and fortifications to counter their threat, okay? So as you can see, the Mongols will eventually come south and invade most of China. And historically, the response has been the Great Wall of China, okay? But also, in Central Asia, the steppe people have been a threat as well.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0002
+
+## seg-0003 / 00:03:00-00:04:13 / SPEAKER_01
+
+And they have... They have built fortified cities as a response, okay? So even though the steppe people and their agricultural empires have always been in conflict, the Mongols have had a unique reputation in Western history as the most brutal, as the most violent, okay? So the question we're looking at today is, why were the Mongols unique in their retaliation? Okay? So... There are lots of things that were said about the Mongols that we now know today are not true, okay? So for example, back in the day, they had a reputation for cannibalism. They ate their opponents. They ate their enemies. And we know that's not true today. They also had a reputation for being devious. So for example... When they approached an enemy, they would hold the cross, okay? The cross is a symbol of Christianity. So the Christian enemies would see this and think that they are allies, okay?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:13-00:05:35 / SPEAKER_01
+
+And only when they discovered that these are actually Mongols... By then, it was much too late, okay? So the Mongols had a reputation for being extremely devious. They had a reputation for wanton brutality. They would destroy entire cities and kill all the people. Previously, historians believed they killed about 65 million people. Today, that figure is disputed, okay? But if that were the case, then the Mongols killed more people than any other regime in human history before the 20th century. Genghis Khan is considered the greatest conqueror in human history. So the statistic that surprised everyone is 1 out of 200 males today, they are direct descendants of Genghis Khan. So that's like 60 million people, okay? 60 million males in the world are direct descendants of Genghis Khan, right? So that is the reputation. That the Mongols had for most of history. And what I want to show you today is the Mongols are not unique among the steppe people, okay?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:35-00:06:53 / SPEAKER_01
+
+And the way they behaved, there was a strategy. There's a logic to the way they behaved given the circumstances and constraints they found themselves under. Okay. So as you know in this class, the steppe people were... They were the greatest conquerors in human history, okay? So this started with the Yamnaya who were based in the Ukraine area. And we know the Yamnaya who are also referred to as the Proto -Indo -Europeans as well as the Aryans, okay? They spread throughout most of the Western world. So they went to Europe. And as you know, they basically replaced entire male population of Europe. And they intermarried with the local women to create European culture. They also went south and conquered Iran and India. And then they went over to the eastern steppes as well. So it's really important for us to remember. And I know this is hard. But the Mongol people, they are culturally more similar to...
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:53-00:08:13 / SPEAKER_01
+
+To the Yamnaya than they are to the Chinese. Even though genetically, the Mongols may be more similar to the Chinese, okay? In this class, we focus on cultural values rather than genetic affinity. Okay. So over time, what will happen to the Western steppes is it will slowly acclimatize itself to the surrounding agricultural empires. And slowly, the... Western steppes will become integrated into the agricultural... Into their agricultural neighbors. So the example here is Scythia, okay? So Scythia is slowly... It's an empire. It's a steppe empire. But slowly, it's about to integrate itself into what is modern -day Eurasia, okay? From the Scythians, you will have arise something called the Median Empire. Which will then give way to the Persian Empire. Over in the eastern steppes, okay? The steppe people come into conflict with the Han Dynasty. And the Han Dynasty, as we know from last class, is really the last ethnically Chinese dynasty.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0006
+
+## seg-0007 / 00:08:13-00:09:20 / SPEAKER_01
+
+And they are intent on a policy of eradication against the steppe people. So they come into conflict with the steppe people who are now called the Xiongnu, okay? And what this conflict will do is drive these people west, okay? And this is interesting for us because when they go west, they will splinter off into different groups. When they go all the way to Europe, they will be known as the Huns. You may know Attila the Hun. Well, Attila the Hun was the leader of these people. The Huns will drive the western steppe people, meaning the Goths, into the Roman Empire. Causing conflict with the Roman Empire, okay? And the Goths will become the foundation of modern day Europeans, okay? So this is the Hun Empire at its peak when it's in conflict with the Roman Empire. The steppe people, the Huns, will also give rise to a people called the Gorturk Empire, okay?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:20-00:10:55 / SPEAKER_01
+
+And they will sweep down and they will become the Seljuk Turks. Which will take over Mesopotamia. And then eventually you will have emerged the Ottoman Empire from these people. So in other words, the Mongols are just the most successful iteration of the steppe people. And their conflicts with the agricultural empires. So the Mongol Empire is the second largest empire ever in human history. Only the British Empire had more land. The Mongols were the largest contiguous empire. Meaning it was all interconnected together. Alright? At its height, the Mongol Empire extended from basically what is modern day Russia all the way to China. Okay? The empire that will take over. The Mongols centuries later is the Russian Empire. Okay? The Russian Empire will take over a lot of Mongol territory. Because it is so large. After the death of Genghis Khan and his son Ogedei. The Mongol Empire will splinter into four major empires.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:55-00:12:10 / SPEAKER_01
+
+Okay? And these four major empires themselves will assimilate and integrate into the local culture. The Golden Horde will eventually give rise to the Russian Empire. The Yuan Dynasty will eventually fall and give rise to the Ming Empire. Okay? So even though they conquer a lot of territory. Ultimately their empire is not sustainable. And later on I will explain to you why it was not sustainable. And why ultimately the Mongol Empire declined. But while it was still in place. It created something called the Pax Monogalica. Okay? This is Latin for the Mongol Peace. You've heard of the Pax Romana. We are now living in the Pax Americana. Okay? So the Mongols created something called the Pax Monogalica. Which just meant they believed in globalization. They wanted their conquered nation. To trade with each other. Because they could collect taxes on the trade. And they encouraged people. Especially merchants. To travel across their empire. And trade with each other.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0009
+
+## seg-0010 / 00:12:11-00:13:28 / SPEAKER_01
+
+And during this time. A very famous Italian named Marco Polo. Had a chance to visit the world. And his travels. Especially those to China. Captured the imagination of Europeans. This is really the first time that China figured into the European imagination. Okay? So this is a map of Marco Polo's travels. Okay? And as you can see. He basically traveled all across the Pax Monogalica. Okay? The problem though. Is that when you integrate the world like this. You also give rise to disease. So the Black Death. Traveled all across the world. Okay? So we believe the Black Death originated in Central Asia. In a place we call Kyrgyzstan today. And it traveled all over the Mongol Empire. It made its way to Europe. And it devastated Europe. Okay? It killed anywhere between a third to half of the entire population of Europe. It traveled also to the former empire. Islamic Empire. And it traveled to China.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0010
+
+## seg-0011 / 00:13:29-00:14:31 / SPEAKER_01
+
+But it was not as devastating. Okay? It's very important for us to understand. The Black Death was devastating for Europe. But it was not that devastating for China. And the Islamic Empire. And the reason why is sanitation and hygiene. So in China and in the former Islamic Empire. Their cities were pretty well organized. Pretty wealthy. Pretty civilized. But in Europe. Their streets were literally. Literally filled with manure. Okay? They had horses. They didn't have sanitation. People just threw shit onto the streets. And so like when you walk the streets. They were literally covered with shit. And in that sort of environment. Disease is spread very rapidly. But the Black Death is important for us also because. It will give rise to the Renaissance. Which we'll do next week. Okay? So about the Black Death. Historians believe the Renaissance could not have happened. The Black Death basically meant a reset. Of European society. And it allowed massive innovation in Europe.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:33-00:15:54 / SPEAKER_01
+
+Okay? So as you can see. The Black Death was extremely devastating for Europe. After the Mongols will come another great conqueror. Called Timur the Lane. Timur Lane. And he will be the last great conqueror from the steppes. After Timur Lane. The agricultural empires will develop the technology. To repel the steppe invasion. The invaders. Mainly gunpowder. Okay? The technology and mass armies will overwhelm the steppe people. And eventually. Over time. The agricultural nations. Mainly Russia. Will start to colonize and conquer the steppes. Okay. So let's look at today at Genghis Khan. Who is the founder of the Mongol Empire. Okay? Genghis Khan will first of all unite the warring tribes of the Mongol people. He'll turn them into a confederation. And then the confederation will aim to conquer China. But then it will come into conflict with the Central Asian nations. And so Genghis Khan will embark on the Central Asian campaigns.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:55-00:17:04 / SPEAKER_01
+
+That are brutal. He'll wipe out entire cities. He'll kill all the inhabitants. He will lay the foundation for the Mongol conquest. That will follow after him. Okay? And again. After the death of his son Ogedei. The Mongols were split into four major factions. And they will attempt to continue the legacy of conquest. But what happened is. After they conquered the Song Empire in 1279. They will attempt to conquer Japan and Vietnam. And when they try to do so. They will be repelled. They try to conquer Japan twice. And even though the legend is. That Japan was saved by the kamikaze. Right? The great divine wind. I will show you that's actually not true. There's another reason why the Mongols stopped invading Japan. So in the east. They've reached the limit of their conquest. They tried to conquer India as well. But when they tried to do so. They were repelled. And historians argue about the reason why this is the case.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0013
+
+## seg-0014 / 00:17:04-00:18:14 / SPEAKER_01
+
+Some believe it was because of the climate of India. Some believe it was because of. Because the southern of Delhi. Had a organized and conservative response. Some other believe it was just internal fighting. Okay? When they try to reach Europe. They will try to conquer Poland and Hungary. And even though they win. Every single battle against the Poles and Hungarians. They will ultimately turn back. And that will be the limit of their conquest in the west. So the Mongolian fighting style. Is great when you fight in flat plains. Okay? These are horsemen with bulls. Okay? So they're fast. They can cover great distances. But when they try to reach Europe. And Europe is thick forest. Right? They really can't conquer that terrain. One really stunning event. Is when they try to conquer Egypt. Remember Egypt for the longest time. Was the wealthiest part of the western world.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0014
+
+## seg-0015 / 00:18:15-00:19:27 / SPEAKER_01
+
+But when they try to conquer Egypt. They run into a people called the Mamluks. Who fight very similarly to the Mongols. In fact the Mamluks are originally from the steppes as well. And for the first time. The Mongols will be defeated militarily on the battlefield. And this sort of destroys the aura of inevitability and invincibility. That the Mongols had for the longest time. Okay? And this will be the extent of their conquest in the west. And after these conquests. The Mongol Empire will try to rule their respective empires. But ultimately they will fail. Okay? And later on I'll explain to you why they were doomed to fail. And the irony is. The reasons that gave rise to the empire. Are also reasons why their empire ultimately collapsed. Okay? Okay. So I want to first talk about Genghis Khan. And so we don't know much about Genghis Khan. What we do know. Comes from a book called The Secret History of the Mongols.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0015
+
+## seg-0016 / 00:19:27-00:20:34 / SPEAKER_01
+
+So it is an oral history. Of the life and times of Genghis Khan and his son Ogedei. Alright? Now the story in The Secret History is suspicious. And it's suspicious because it fits very well into the structure of Proto -Indo -European myth. Alright? So let me show you how it's similar. Okay. In The Secret History. Genghis Khan. His mother. And you know again they are in the Mongolian grasslands. His mother is about to be wed to her husband. So she's in her carriage. And she's along the way to her husband's tribe. But along the way she is ambushed and kidnapped. That's a very common thing in that culture. The way that you obtain a wife is by stealing someone else's wife. And so she's forced to marry a stranger. But this stranger. Genghis Khan's eventual wife. Genghis Khan's eventual father. Dies when Genghis Khan is eight years old.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:34-00:21:50 / SPEAKER_01
+
+When the father dies the tribe abandons the mother and her young children. So they're forced to fend for themselves. Eventually the mother finds a way to find a supporting tribe. And Genghis Khan slowly finds mentors for protection. He eventually finds a mentor who becomes his best friend. And this best friend's name is Jamukha. And the two together are great warriors. And they conquer a lot of territory together. In fact when Genghis Khan's wife is stolen by a tribe. The two will race off and get the wife back. But by this time Genghis Khan's wife is pregnant with another man's son. Genghis Khan raised the son as his own. And he made the son heir to his empire. Which will cause great difficulties when Genghis Khan dies. But that just shows you the generosity all this meant. Eventually Genghis Khan will run into conflict with Jamukha. And the two are competing for control of the Mongol world.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0017
+
+## seg-0018 / 00:21:50-00:22:58 / SPEAKER_01
+
+Genghis Khan kills him to achieve his dominance. And Genghis Khan will overthrow the existing Mongolian social order. Basically all these top chieftains, all these top shamans he will kill. In order to unite the Mongol people and bring about a new social order. So that's the story that we have from the secret history. And that's very similar by the way to other founding myths of other people. Like for example let's look at Rome. Okay? So remember last semester we discussed Virgil's Ineat. Okay? And it's about the founder of Rome. His name is Aeneas. Aeneas is a prince of Troy. And he has to watch the destruction of Troy. He escapes the sacking of Troy where everyone is killed. But he gets lost at sea. Okay? Eventually he stumbles under Carthage where he falls in love with a queen there named Dido. But the gods demand that he leaves Dido, the woman that he loves and he's married.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0018
+
+## seg-0019 / 00:22:58-00:24:02 / SPEAKER_01
+
+And he does. He betrays Dido who then kills herself. Then he goes to Italy where he has to fight a war in order to establish the Trojan people on Italy. And they will eventually give rise to the Roman people. Okay? So it's a very similar structure, the story of Genghis Khan. Let's go to another story from Rome. So the founder of Rome is named Romulus who was a direct descendant of Aeneas. So there's a king called Numitor. And his brother, Aemilius, usurps the throne. And once Aemilius usurps the throne, he puts Numitor's daughter into a temple and makes her a virgin. Okay? But Mars, the war guard Mars, visits her. And then pregnants her. Right? And Numitor is left with twins. Numitor demands the twins be killed. And the twins are left alone by the Tiber River. Okay? And everyone thinks that they will drown. But they are miraculously saved. And a she
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0019
+
+## seg-0020 / 00:24:02-00:25:14 / SPEAKER_01
+
+-wolf nurses them. And a shepherd adopts them. Eventually they discover their true heritage. And they help their grandfather, Numitor, kill his brother, Aemilius, and restore the throne. Then the two go off to found their own city, which is Rome. Okay? But there's going to be one king. So the two fight. And Romulus kills his twin brother, Remus. Alright? And then Romulus becomes Rome's first king, which will eventually give rise to the greatest empire in the European world. Alright? So as you can see, the structures are very similar. So let's go over very quickly. The structure and meaning of Proto -Indo -European myth. The thing I want you to remember is that what mythology ultimately is, it's a collective subconscious of a culture. Okay? By understanding mythology, we can understand the fundamental values that underpin this culture. So what is the structure we're looking at? Okay. The structure is this. First, the gods favor a man with a divine mission.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0020
+
+## seg-0021 / 00:25:14-00:26:11 / SPEAKER_01
+
+But the man himself does not understand this divine mission. Okay? The gods have picked this man for whatever reason, and this man must fulfill his divine mission. And in the process, he will suffer hardship to become as hard as a sword. Okay? Hardship makes you committed. It makes you strong. And to recognize his mission. Okay? In the process, he's asking himself, why am I being persecuted? Why am I suffering so much? And then eventually, he will have an epiphany. He will recognize. Oh, it's because the gods have a mission for me that I must fulfill. That's why I'm suffering. That's why I'm being persecuted. It's to make me strong and committed. Okay? And he will sacrifice his beloved to prove his commitment to his divine mission. Okay? This is really important. In Proto -Indo -European myth, the hero must always sacrifice his beloved. So remember the story of Genghis Khan. He sacrifices.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0021
+
+## seg-0022 / 00:26:11-00:27:26 / SPEAKER_01
+
+He kills his best friend Jamukha. Okay? And you think, okay, what's the big deal? Well, in that culture, when two warriors are best friends, they're not just friends. Okay? They're basically lovers. They have sex with each other. And that's why they're such great warriors together. It's a very common thing. So remember the Iliad, where in the Iliad, Hector kills Patroclus. And Achilles becomes so enraged that he goes and kills Hector. Okay? So why did Achilles become so enraged? Because Patroclus was his best friend, which at that time everyone understood to mean Patroclus and Achilles were lovers. Okay? Achilles loved Patroclus. So when Genghis Khan killed Jamukha, he was basically killing Hector. Killing the man he loved the most in this world. Okay? That's a very important part of Proto -Enduro -European myth. You have to show your commitment by making the ultimate sacrifice, which means killing the person you love the most. And once he does that, he will shatter the old world to build a new one.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:26-00:28:14 / SPEAKER_01
+
+Okay? That is the divine mission. The gods do not like this world. They want a flood to destroy this world in order for the world to be made anew. And this man, the Messiah, he is the one. He is the man who will shatter the old world. He is the world shatterer. Okay? He is the flood sent by the gods. Alright? So that's the basic structure of Proto -Enduro -European myth. And when we understand this, now what we can do is understand the power of the Jesus story within Christianity. Why is Christianity the most influential and popular religion in the world? It has to do with the story of Jesus. Okay? In the story of Jesus, according to the Gospels, it says, In the Gospel of Mark, let's look at the structure. Okay? It's very similar to Proto -Enduro -European mythology.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0023
+
+## seg-0024 / 00:28:14-00:29:13 / SPEAKER_01
+
+Jesus has a secret divine mission. Okay? He is sent by God, or he is God, who has come to redeem the world. He must suffer persecution and doubt. Okay? So everyone doubts who he is. No one knows who he is. He is laughed at. He is mocked. Okay? He then is sacrificed to wake the world. He kills himself. Well, he is sacrificed so that everyone knows. How much God loves them. And with God's sacrifice, this cycle of violence ends and a new history begins. Okay? So in Proto -Enduro -European myth, what's important is that you kill your beloved. But the founding myth of Christianity is, no, I kill myself to show you that violence is terrible. Okay? Once God has killed himself, once God has sacrificed himself, it means that all violence now must cease. The cycle of violence, the cycle of using violence to redeem the world, to cleanse the world, must come to an end.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0024
+
+## seg-0025 / 00:29:15-00:30:21 / SPEAKER_01
+
+Okay? And that's the very idea, foundational idea of Christianity. And so what Christianity is doing, and it's very clever, is it's seeking the collective subconscious that is embedded in every individual and then planting a new idea within the subconscious that grows and grows. Okay? It's almost like a virus until people recognize that violence is bad. Proto -Enduro -European mythology celebrates violence. Right? Christianity believes violence is the worst thing. Okay? So let's, sorry, this is a bit, okay. All right. Anyway, I'll just read it to you. Okay? So this is the ending of Mark. Okay? Then Jesus gave a loud cry and breathed his last. Okay? So he's been sacrificed. He's died. And the curtain of the temple was torn in two from top to bottom. The temple is the... The second temple in Jerusalem where Yahweh is. And at the very top of this temple is a room called the Holy of the Holies.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:21-00:31:32 / SPEAKER_01
+
+That's where God lives. And the curtain is what hides God from the world. Okay? So when Jesus dies, the curtain now is torn in half. Meaning God is now released into the world, which means that everyone now has access to God. God is now on earth. Okay? Now when the centurion, the soldier who stood facing him saw that in this way he breathed his last, he said, truly, this man was God's son. So the first person that Jesus revealed himself to was a Roman soldier. The first person that recognized the truth of Jesus and the power of his sacrifice was a Roman soldier who's always been taught that violence is the answer to everything. And once he's converted, he recognizes that violence is wrong and evil. Okay? So that's the power of this mythology. Does that make sense to you guys? All right. So now I want to look at real history. Okay?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0026
+
+## seg-0027 / 00:31:32-00:32:30 / SPEAKER_01
+
+Because this is mythology. And what I want to do now is show you that Genghis Khan fits into a pattern of a great conqueror. If you look at all the great conquerors of human history, and I'll list four right now, okay? Sargon of Akkad, Philip of Macedon, Julius Caesar, and Genghis Khan, you will see they are very, very similar. Okay? So let's look at Sargon of Akkad. Remember before, in Mesopotamia, it was divided into the Sumerian city -states that warred with each other. And these were walled cities because these were walled cities. They couldn't really conquer each other. Okay? So Sargon of Akkad figured out a way to conquer everyone and build the first empire in world history called the Akkadian Empire. So we don't know much about him, but this is what we know. First of all, he was probably a mercenary. Okay? It was very common back then to be a mercenary because these city -states were at war with each other always.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0027
+
+## seg-0028 / 00:32:30-00:33:29 / SPEAKER_01
+
+He was a cupbearer to the King Ur -Zaba of Kish. Kish is one of the city -states in Sumeria. Now, guys, cupbearer is a very important position. A cupbearer means that when you're the king and you have a feast or a festival for your people, the cupbearer is the man who stands beside you and pours you the alcohol, the wine. Which means this is the man you trust the most. So what does it mean for Sargon of Akkad to be a cupbearer? Well, it probably means that they were lovers. The king and Sargon were lovers who loved each other deeply. Okay? But that doesn't prevent Sargon from killing the king. And taking the throne. Which starts this massive war in the city -states in which Sargon will eventually triumph. Okay? Well, so the thing about Sargon is he is really good at winning the favor of mentors.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0028
+
+## seg-0029 / 00:33:29-00:34:39 / SPEAKER_01
+
+Right? And ultimately he will betray mentors in order to achieve his ambition. Well, that's also true for Philip of Macedon. So Philip of Macedon, he's a prince of Macedon. And at this time in the Greek world, Thebes was the dominant military power. Thebes defeated Macedon in a battle. And Thebes demanded hostages. So Philip was sent as a hostage to Thebes. Where he is now mentored by the greatest military strategist of this time, named Epaminodas. Okay? And so Philip II is learning how to win battles. He's learning all the major military innovations of this time. From the greatest general of this time. And then what he will do is he will return to Macedon. Reorganize the Macedon army. And then take them to conquer Thebes. As well as the entire Greek world at the battle of Chaeronea. Okay? Well, this pattern is also true for Julius Caesar. At this time, which is about like 50 BCE in Rome, Pompey the Great is the greatest general.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0029
+
+## seg-0030 / 00:34:40-00:35:39 / SPEAKER_01
+
+He's the man that ever lived. He's the man that everyone admires. He has the most political power. So what Julius Caesar does is he marries his daughter to Pompey the Great. And this forms a political alliance between the two. Pompey the Great grants him a generalship of the province of Gaul. Where Julius Caesar will win military glory. Okay? It basically establishes the power, prestige, and fame of Julius Caesar. And this will start a civil war. In which Julius Caesar will defeat his mentor Pompey. At the battle of Parcellas. Okay? Very similar pattern. Well, the same is also true for Genghis Khan. He is mentored by two chieftains, Jamukha and Togol. And he will defeat both in order to gain leadership of the Mongol world. So it shows you how ruthless and ambitious these great conquerors are. But at the same time, let's remember this. Philip II had a really talented subordinate in Parmenion.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0030
+
+## seg-0031 / 00:35:39-00:36:47 / SPEAKER_01
+
+Parmenion was really the person in charge of the Macedon army. In fact, it was Parmenion who was most responsible for Alexander the Great's conquest of Persia. Okay? Julius Caesar had a talented subordinate in Titus Labinius. Who was responsible for his victories in Gaul. And then Genghis Khan had a talented subordinate in Subutai. Who was considered one of the greatest military strategists. Ever. Okay? And so what this tells us is they're able to exercise tremendous judgment in people. They know who to trust. They know who not to trust. They know who is talented and who is not talented. They know how to win the loyalty of their subordinates. Okay? That's a very impressive skill. And then the question then is how is it possible that they are ruthlessly ambitious. Yet at the same time, they're able to delegate power. In a very effective manner. And the answer is they all believe they have a divine mission.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0031
+
+## seg-0032 / 00:36:47-00:37:50 / SPEAKER_01
+
+Their goal is not to conquer the world. Their goal is to change the world for the better. As demanded by the gods. Does that make sense? That's the only way we can understand this. Each in their own way believe they are the Messiah. Sent by the gods to shadow the world so that it can be built anew. Okay? And that's what drives them to kill their beloved. And that's what drives them to do what they do. Okay? All four, ultimately, they are able to conquer the world because they develop a professional, meritocratic, and innovative army. Okay? What does professional mean? It means that, look at Sargon the Great. Sargon of Akit. At this time, there were no professional soldiers. Most people were farmers. And you only fought off -season. Okay? You might fight two, three months of the year. Sargon of Akit was the first to say, nope, we will have professional soldiers.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0032
+
+## seg-0033 / 00:37:51-00:39:03 / SPEAKER_01
+
+Everyone else will pay taxes in order for me to pay my professional army. But these are professional soldiers. They are full -time soldiers at war. Okay? Meritocratic means the system before was the nobility always had a priority. The nobility was always right. And Sargon of Akit made the system more open and fair and meritocratic. So if you were talented and you were brave, you could rise within the ranks of the army regardless of your heritage and your background. Innovative means they were always adapting and learning. So Sargon of Akit was able to conquer the Sumerian city -states, which, again, were walled by adopting siege warfare. Which was unheard of before. Okay? And the same is true for Philip, Julius Caesar, and Genghis Khan. All right? So, again, Genghis Khan fits into a pattern here of what these great conquerors looked like. Does it make sense to you guys? Any questions so far?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0033
+
+## seg-0034 / 00:39:05-00:40:19 / SPEAKER_01
+
+All right. Let's continue. Okay. So now I want to discuss why the Mongols did what they did. Okay? All right. Why did the Mongols commit so many atrocities? What was the logic or reasoning behind their brutality? All right? All right. In order for me to do so, I'm going to introduce to you today a new analytical model called game theory. Okay? The idea of game theory is this. All human action can be perceived as a game in which two people, at least two people, are playing. And they're trying to defeat each other. Okay? So, for example, let's just say, you know, these two guys are fighting each other. Okay? They want to kill each other. Now, according to game theory, each person has a distinctive optimal strategy. Okay? It's called optimal strategy. Optimal strategy is given the constraints of your circumstance. What is the best way for you to win? Okay.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0034
+
+## seg-0035 / 00:40:19-00:41:13 / SPEAKER_01
+
+So if you're the big guy, okay? This is the big guy. He wants the game to be fair, which is like, let's just arrange to fight at a certain time. And we'll fight. Okay? And he wants to use this strategy because he is most likely to win. But if you're this guy, a small guy, right? Let's call him A. And you're fighting B. You don't want to do that because you're bound to lose. So what you do is. You figure out a time when B is most vulnerable. Maybe when he's asleep or he's eating and you attack him then. Okay? You basically have to cheat in order to win. So each individual has a distinctive optimal strategy. All right? Now, this sounds easy, but it's not because often there are multiple players in the game. Okay? So you have C and you have D. And when you have multiple players in the game, you have to think about alliances and coordination.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0035
+
+## seg-0036 / 00:41:13-00:42:21 / SPEAKER_01
+
+Okay? So it's possible that A and D will form an alliance to attack B, which will force B and C to form an alliance. Okay? But once maybe C and B kill off D, then A and C will form an alliance to kill off B. Okay? So what this tells us is not only does each person have an optimal strategy given the constraints of the game. But this optimal strategy will change according to the circumstances. All right? Also, what's important for us to remember is that there are always these external constraints. External constraints might be just weather or weapons or whatever. Okay? So game theory sounds easy, but it's extremely complicated because you always have to switch perspective in order to better understand why this person is doing what he or she is doing. Okay? Does that make sense? All right. So let's look at game theory and apply it to the Mongols.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0036
+
+## seg-0037 / 00:42:22-00:43:38 / SPEAKER_01
+
+Okay, remember, the Mongols are a borderland people and they're fighting empires. And remember, if you're a borderland, okay, borderland, empire, you have three distinct advantages. Okay? You have energy, you're open, and you're opportunistic. Okay? These are the three advantages that you have as a borderland people. Like the Mongols. As an empire, your three advantages are mass, you have a lot of people, you have organization, you have depth. Okay? So it seems, so again, given the strengths, it is not that easy to determine who will win. Okay? But we're trying to figure out the mentality of the Mongols. Okay? We know the Mongols have these three strengths and they're trying to defeat the empire. Which has these three strengths. At the same time, we have to remember, the Mongols themselves have three fundamental weaknesses that they must compensate for if they are to win. Okay? So let's go over their major constraints. The first constraint that they have is, excuse me, low population.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0037
+
+## seg-0038 / 00:43:40-00:44:42 / SPEAKER_01
+
+Okay? There are not that many of them. In fact, they're often outnumbered, often 100 to 1. And so that's a major constraint. When Genghis Khan was alive, at his height, he had anywhere between 100,000, 100,000 people. To 200,000 troops. Okay? The second constraint is the idea of distance and geography. What I mean by that is, the Mongols have to fight over huge territory. Because Central Asia, Asia is a huge land. Right? And this is problematic because of supply issues. Supplies. What this means is, if you are the Mongols, the thing that you cannot ever fight is a war over troops. A war of attrition. A war of attrition just means a long war in which you're trying to deplete the other person's resources. If you're the Mongols, the worst thing that can ever happen to you is if you're stuck in a war of attrition.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0038
+
+## seg-0039 / 00:44:43-00:45:42 / SPEAKER_01
+
+If the siege is too long, or the war lasts for too long. Okay? Because eventually, you'll run out of soldiers. So that's what the Mongols fear the most. Okay? So distance. The last thing, this is really important, is governance. Governance just means, the Mongols are nomadic people who do not know how to govern other people. So they don't want to be stuck in a situation where they're forced to govern other people. Okay? Does that make sense? And what this means is the idea of whole territory. When you conquer a new land, what you usually do is you put in place a new regime. They can't do that because they don't have the personnel for that. Okay? They often don't even have the personnel for siege warfare. But what they will do is recruit Chinese engineers, Indian engineers, in order to implement siege warfare. Okay? But bureaucrats are very hard to compensate for.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0039
+
+## seg-0040 / 00:45:42-00:47:00 / SPEAKER_01
+
+Okay? So these are three fundamental weaknesses of the Mongol system. Low population. They have to fight long distances. And therefore, they have to worry about supplies. And they don't know how to govern other people. Okay? And if we do this. Okay? If we look at what the strengths are and we look at what their fundamental constraints are, then we can figure out what their optimal strategy is. Okay? So this is the optimal strategy for the Mongols. The first is escalation dominance. Okay. Escalation dominance is this. Okay? There's a concept in political science called escalation ladder. The escalation ladder, I mean, it's a ladder. It's a very simple concept. It means like violence always escalates. So, for example, I get into an argument with someone. Okay? Well, what first happens is we start to argue. But then eventually, this argument becomes much more heated. We start to push each other. Okay? Then I might throw a punch.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0040
+
+## seg-0041 / 00:47:00-00:48:07 / SPEAKER_01
+
+He throws a punch back. Then I might bite him. He might bite me back. I might pull out a knife. He might pull out a gun. Okay? This is called escalation ladder. Okay? Violence has to happen over time. Okay? And this is fine. But the problem is what if you're fighting multiple people at once? Right? So what you want to do is show other people that you are more dominant. Okay? So if you insult me, I'll put a gun on you and I'll shoot you. Okay? That's the idea of escalation dominance. I always have the capacity to inflict more damage on you than you could ever do. And that's why the Mongols did what they did. So what will often happen is the Mongols would send a trade delegation to a nation to negotiate a trade deal. And the nation, usually in Central Asia, they would kill all the delegation in order to insult Genghis Khan.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0041
+
+## seg-0042 / 00:48:07-00:49:08 / SPEAKER_01
+
+In response, Genghis Khan would send his army to his country and he would kill all the people in the city. He would destroy the entire city, burn down the city, and kill everyone. Okay? This is the idea of escalation dominance. You have to prove escalation dominance if you are to be a viable threat to everyone. Okay? So that's the first idea. Escalation dominance. The second idea is the idea of terror, or what we call psychological warfare. If you are badly outnumbered in warfare, then you have to make people afraid to fight you. Okay? If you cannot govern people, if you don't know how to fight people, then you have to properly manage people. You have to make people afraid to rebel. Okay? So the Mongols were notorious for psychological warfare. So for example, what they would do is this. They would conquer some territory, and to ensure the villagers would not ever rebel, they would send one Mongol soldier into the village.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0042
+
+## seg-0043 / 00:49:08-00:50:10 / SPEAKER_01
+
+Okay? And this is one soldier, and there might be a thousand villagers. And then what this Mongol soldier will do is randomly kill some villagers. He'll say, hey, you guys come over here, line up, and he starts killing people randomly. Okay? And if the villagers ever rebel and kill him, then the Mongols will come and kill everyone in the village. All right? So that's the idea of psychological warfare. But the Mongols do this to themselves as well. Okay? So the Mongols have a system where units are divided into units of ten. Okay? So ten soldiers. And then these ten soldiers times ten make up a unit. So what would happen is this. If ever in a battle, one soldier ran away from battle, all of the people in these units would be executed. Okay? But if one unit ever ran away, then the next unit, 100 of them, would all be executed.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0043
+
+## seg-0044 / 00:50:10-00:51:24 / SPEAKER_01
+
+Okay? So this gives everyone incentive to make sure your fellow soldiers are safe. Your fellow soldier does not run away. Okay? So the Mongols had psychological warfare not just for other people but also for themselves. And that's just the way the Mongols fought. And they had to fight like this given the fact they were greatly outnumbered. And they had to win quickly against their enemies. All right? Does that make sense? Okay? And the last thing, which is the most important, is they had to create an aura of inevitability and invincibility. At this time, people were literally telling people these Mongols are not human. They are demons. They have come from Tartarus. And that's where we get the name Tartarus. They have come from Tartarus, hell, in order to kill everyone. Okay? These are demons. Guess what, guys? The Mongols wanted this reputation. Okay? They definitely could in order to promote this reputation because it gave them an aura of inevitability and invincibility.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0044
+
+## seg-0045 / 00:51:24-00:52:26 / SPEAKER_01
+
+They could not be defeated. There's no point in trying to defeat them. So let's just give up. Okay? And most did. Most said, like, the Mongols were able to conquer so much territory so fast because they had this aura of inevitability and invincibility. And most people just gave up. They just paid tribute. And if you didn't do so, then they would use escalation dominance and terror to kill everyone. Okay? And they would send refugees all around the world. So everyone would know about the ferocity and brutality of the Mongols. Okay? Does that make sense, guys? So in other words, I have to say this, but according to game theory, everything the Mongols did made complete sense. Okay? In fact, it's their optimal strategy. Okay? Given the circumstances, given the constraints, what they did was completely logical and reasonable, even though it resulted in the deaths of Mongols.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0045
+
+## seg-0046 / 00:52:26-00:53:45 / SPEAKER_01
+
+And then, of course, the Mongols did something else. So the Mongols were able to kill tens of millions of people. Okay? Does it make sense? All right. Okay. So now let's discuss why their empire collapsed. All right. So there's a fundamental weakness in the entire Mongol optimal strategy approach. It's a great strategy if you are trying to conquer other people. But when you're trying to govern them, okay, it's an issue. All right. So the Mongols, they were really, really, really good. As we discussed, the Mongols are great warriors, like all steppe people, because of their cultural values. This is a culture that emphasizes three things. First is freedom. Second is egalitarianism. And the third is self -reliance. So rather than think of the Mongol, the army, as an empire or organization, it's more like a confederation. People choose to join this confederation because of the immense rewards that can be achieved through conquest.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0046
+
+## seg-0047 / 00:53:46-00:55:01 / SPEAKER_01
+
+So this is a culture that values freedom, egalitarianism, and self -reliance. And therefore, it makes great warriors. The problem, though, is the cultures they conquer were extreme hierarchies. Where you have maybe the emperor at the top. A bishop. A bureaucracy. And then peasantry at the very bottom. So the vast majority were peasants. Now, I know this is hard for us to understand. But the reason why the Mongols were able to conquer these empires were almost a contempt for these empires. Does that make sense, guys? The Mongols had absolutely no respect for these empires. They thought they were weak. They thought they were corrupt. They thought they were corrupt and decadent. So the Mongols were able to conquer them. Does that make sense? There's a contempt for them. The contempt is this. The underlying optimal strategy of the Mongols is a concept that never existed in human history before. And the concept is this.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0047
+
+## seg-0048 / 00:55:01-00:56:16 / SPEAKER_01
+
+People are an infinite resource. So throughout most of human history, people were the most valuable resource. There was not many people around. Therefore, you have to do this. You have to treat people nicely if you want to maximize their productivity. But where were the Mongols based? They were based in East Asia. They were based in China, basically. And in China, because of the empire, people were treated like an infinite resource. You could massacre them. You could send them off in human wave attacks. It didn't matter because they were an infinite resource. And this idea never existed before in human history. And in the Western world, this concept is radically revolutionary. It was unimaginable, like, you could do this. So remember, Julius Caesar, even though he, when he conquered Rome, he wasn't intent on massacring people. Why? Because people could be sold as slaves. That was the main way he made his fortune. By selling the Gauls as slaves.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0048
+
+## seg-0049 / 00:56:19-00:57:23 / SPEAKER_01
+
+But if you believe that people are an infinite resource, then you don't want them as slaves. You want to kill as many people as possible in order to inflict terror. So that's the issue with the Mongols. First of all, their value system did not lend itself to governing a hierarchy. They didn't know how to. And they didn't want to. Also, much more problematic was their contempt for the local culture. If you have contempt for the local culture, you're going to have problems managing the people. Okay? So in China, during the Yuan Dynasty, the Chinese, there's a class system. The Mongols were at the top, and the Chinese were at the very bottom, okay? The foreigners were sort of in between. And that just shows you the Mongol contempt for Chinese people. And that's why, ultimately, the Chinese people rebelled against the Mongols. Now, eventually, the Mongol leadership would recognize this problem.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049
+
+## seg-0050 / 00:57:23-00:58:10 / SPEAKER_01
+
+And they would try to adopt a Chinese -style bureaucracy. But a bureaucracy, and we discussed this, comes into conflict with the nobility. Okay? Nobility. The nobility is intent on maintaining the Mongolian culture. They did not want to assimilate. But the emperor recognized you have to assimilate if you are to have this empire. And because they couldn't agree, the nobility and the emperor couldn't agree, ultimately, it led to the collapse of the Mongols. The Mongol Empire. Okay? All right? So that's the history of the Mongols. Any comments? Any questions? I know Doug is.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0050
+
+## seg-0051 / 00:58:12-00:58:13 / SPEAKER_00
+
+I don't have any questions yet.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0051
+
+## seg-0052 / 00:58:14-00:58:21 / SPEAKER_01
+
+But do you want to make a comment? Because I know you've studied the Mongols quite in detail.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0052
+
+## seg-0053 / 00:58:22-00:58:24 / SPEAKER_00
+
+I'm kind of scared. This is on YouTube.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0053
+
+## seg-0054 / 00:58:25-00:58:44 / SPEAKER_01
+
+Okay. All right. Yeah. All right. Okay. Okay. Any questions, guys? Like, I know there's a lot to take in. So, you know, ask questions. Tell me where areas you are confused by.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0054
+
+## seg-0055 / 00:58:53-00:59:08 / SPEAKER_00
+
+Okay? Yup. Yup. Yup. Yup.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0055
+
+## seg-0056 / 00:59:16-00:59:17 / SPEAKER_01
+
+Yup. Yup. Yup. Yup. Yup.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0056
+
+## seg-0057 / 00:59:17-00:59:21 / SPEAKER_00
+
+Yup. Yup. Yup. Yup. Yup. Yup. Yup.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0057
+
+## seg-0058 / 00:59:21-01:00:59 / SPEAKER_01
+
+Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. Yup. So, the Vikings were in Europe, and the Mongols are near China, okay? And I have to say, like, I think if I wanted to be a Viking or a Mongol, I prefer to be a Viking, okay? And the reason why is the Vikings never really adopted a belief that people were an infinite resource. They couldn't. Because Europe was very poor. And the Vikings, regardless, even though they were brutal, they still had respect for their opponents. They never developed a contempt for their opponents. They were surrounded by the Byzantines, the Muslims, and the Europeans. And these were great warriors. So, the Vikings felt they had a lot to learn from these cultures. And in fact, ultimately, the Vikings will assimilate themselves into these cultures in different environments, okay? So... Um... Um... The Mongols are different, though. The Mongols are
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058
+
+## seg-0059 / 01:00:59-01:02:05 / SPEAKER_01
+
+based in East Asia, and they did ultimately adopt a belief that people are an infinite resource. And they had tremendous contempt for Chinese culture, okay? And that changes you as a person. When you believe that people are an infinite resource, and you are contemptuous of other cultures, it also, in a way, makes you contemptuous of yourself. If that makes any sense. Okay? Um... And so, ultimately, that's why the Mongols were not able to... Even though they had tremendous wealth, they didn't really produce cultural monuments. We don't have... Like the Vikings, I mean, as I mentioned, the Vikings were fundamental development of Western civilization. The Mongols were not fundamental development of any civilization. I mean, they caused a lot of havoc, and they were great conquerors. But they didn't leave... They didn't leave a rich cultural legacy. So... And I think it has to do with the belief that people are an infinite resource. Okay? Um...
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059
+
+## seg-0060 / 01:02:05-01:02:57 / SPEAKER_01
+
+So, I would much prefer to be a Viking. I would much prefer to be enslaved by a Viking than a Mongol. Like, if I were a slave, I would much rather be a slave to a Viking than a Mongol. Okay? If I were a slave to a Viking, the Vikings would at least become my friend. They'd be like, hey... Tell me about your culture, or any stories that you can tell us. Okay? And if you were a great storyteller, then they would make you... Um... They would treat you very nicely, because you're helping them learn more about your culture. Okay? The Mongols had absolutely no interest in other cultures. They were interested in conquering and exploiting other people. All right? I could be wrong. All right? And I'm probably making these crass generalizations. But I believe with the Vikings, there's a general curiosity about the world. That comes from a general respect of other cultures.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060
+
+## seg-0061 / 01:02:58-01:04:29 / SPEAKER_01
+
+Whereas the Mongols were not curious about the world. They were intent on conquest. And enslaving other people, and exploiting other people. Okay? They were predators. And again, that could be my prejudice. But based on my readings so far, that would be my belief. But please change my mind. Okay. All right. Thanks for the question. Okay. Great question. Any other questions? Or... Sorry. Sorry. So, population. Okay? So, the Mongol population is loosely defined. Okay? Do you understand? It's hard to say who's Mongol and who's not Mongol. Because that entire area has a similar culture. And it's very hard to figure out where the borders are. Okay? Like... Yeah. Okay. Great question. Okay. Yeah. So, you're right. So, the Mongols are a low population. So, why would they believe that people are infinite resource? And the answer is because they are always in contact with China. Okay? So, the Mongols were always in contact with China. And as I mentioned, the interaction happens in three ways.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0061
+
+## seg-0062 / 01:04:29-01:05:22 / SPEAKER_01
+
+The Mongols are working as either mercenaries for dynasties in China. Or they are trading. Okay? Or they're raiding and pillaging. Okay? So, for centuries, there's been contact between China and the Mongols. So, where did the Mongols learn... The idea that people are infinite resource? Well, they learned it from China. Right? And why did they learn it from China? Because Chinese warfare was also predicated on the belief that people were infinite resource. Does that make sense? So, basically, the entire idea of warfare in China is... I organize this peasant army. I throw it at my opponent. Okay? And if my entire army dies, guess what? I'll just go and I'll raise another peasant army and throw it at my opponent again. Okay? It's like human wave attacks. Okay? We call this human wave attacks. This was pioneering in China. Okay? And the Mongols just took it and used it everywhere else.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062
+
+## seg-0063 / 01:05:24-01:05:42 / SPEAKER_01
+
+Right? So, if you're the Mongols and you're fighting this enemy and they're just throwing these peasants at you and you're killing them all but no one cares because then, like, a month later, another peasant army comes at you. Okay? You quickly adopt the idea that people are an infinite resource. Right? Does that make sense?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0063
+
+## seg-0064 / 01:05:52-01:05:52 / SPEAKER_00
+
+Yeah.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0064
+
+## seg-0065 / 01:05:52-01:06:33 / SPEAKER_01
+
+Yeah. Yeah. That's right. Yeah. That's right. Yeah. The Mongols... Yeah. Were a very open society. Like, if you had a benefit to their society... And so, for example, if you're a Chinese teacher or a Chinese scholar or a Chinese engineer or a Chinese merchant, they would quickly assimilate you. Okay? And then they would kill everyone else. Okay? So, they're a pretty open society. Okay? So, does that make sense? Okay. Great. Any more questions?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0065
+
+## seg-0066 / 01:06:40-01:06:41 / UNKNOWN
+
+Yes.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0066
+
+## seg-0067 / 01:06:50-01:08:05 / SPEAKER_01
+
+Okay. Great. Okay. All right. So, let's talk about mythology. All right. So, again, if you're actually studying mythology... What you recognize is there's a structure that's very similar across many different cultures. Right? So, if you look at Greek, if you look at Roman, Norse, Mongolian... Okay? And I could go on and on and on. There is a very similar structure, even though the characters might be different. Okay? But it's a mythology that celebrates violence and individualism as a way to remake the world. Okay? It's about strength, individualism, violence. So, why is that the case? And it's about culture, cultural values. So, as I discussed in this class, cultural values are the most persistent part of who you are. Why? Because it's part of your subconscious. Okay? There's a conscious you, and there's a subconscious. And ultimately, you are your subconscious. And subconscious is composed of your cultural values. Okay? This is the essence of who you are.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0067
+
+## seg-0068 / 01:08:05-01:09:20 / SPEAKER_01
+
+So, even though the Proto -Indo -Europeans, they were going into different environments, and they were assimilating themselves into different environments, and they looked physically different, culturally, subconsciously, they shared a similar value system. And this value system will then go on to inform the way they perceive the world, their worldview. And this worldview will then manifest itself through mythology, which will eventually become literature. Okay? Does that make sense? So, they might have changed clothes, they might have changed their hair color, but their soul was still Proto -Indo -European. Okay? And the same is also true for language. And that's why so many words repeat themselves in different languages. Okay? All right? Does that make sense? Okay. Great. Any more questions? Okay. All right. All right. Okay. Great. So, next class, we will go back to Europe. We will do the Crusades, which will then take us to the Renaissance and the Reformation and the Southern Revolution.
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0068
+
+## seg-0069 / 01:09:20-01:09:20 / SPEAKER_01
+
+Okay?
+
+Ref: video:predictive-history-mpqzapnjykm@transcript:v1#seg-0069
