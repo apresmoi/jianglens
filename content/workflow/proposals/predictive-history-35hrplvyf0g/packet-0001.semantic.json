@@ -1,0 +1,194 @@
+{
+  "packet_id": "predictive-history-35hrplvyf0g-semantics-pkt-0001",
+  "source_id": "video:predictive-history-35hrplvyf0g",
+  "source_date": "2026-01-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the lecture by asking who wins and loses the game of immigration. He contrasts high-income Indian and East Asian immigrants with lower economic outcomes for Latino and Black Americans, then uses PISA rankings to set up the usual explanation that East Asia's school performance should translate into future economic dominance.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0005",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He turns against that school-success story by arguing that East Asians do not convert academic and economic performance into American status. Corporate leadership, in his telling, rewards aggression, risk tolerance, emotional intelligence, collaboration, and articulate debate, qualities he says East Asian men are stereotyped as lacking.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous lecturer voice; diarized SPEAKER_01 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The lecture frames immigration as a game with winners and losers rather than as simple moral progress or individual opportunity.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture frame stated on 2026-01-15.",
+      "topic_tags": [
+        "immigration",
+        "game-theory",
+        "status"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Indian and East Asian immigrant groups often do well economically in America because of intense educational competition, technical training, and hard-work norms.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Dated demographic-economic claim on 2026-01-15.",
+      "topic_tags": [
+        "asian-immigrants",
+        "education",
+        "income"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents the PISA rankings as the conventional evidence for believing East Asia will dominate economically, while warning that academic performance is not the same as social power.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0003",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Dated interpretation on 2026-01-15.",
+      "topic_tags": [
+        "pisa",
+        "east-asia",
+        "economic-power",
+        "status"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He links contemporary immigration conflict to poorer populations moving into rich countries, including Latin American migration to the United States and Muslim migration to Europe after wars such as Libya, Syria, Afghanistan, and Iraq.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Contemporary diagnosis on 2026-01-15.",
+      "topic_tags": [
+        "immigration",
+        "war-on-terror",
+        "refugees",
+        "europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that East Asian men underperform in American corporate status because the boardroom rewards assertiveness, risk tolerance, emotional intelligence, collaboration, and articulate debate, not only obedience and academic focus.",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0006",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0007",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Dated status diagnosis on 2026-01-15.",
+      "topic_tags": [
+        "east-asian-men",
+        "corporate-america",
+        "status",
+        "dei"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001"
+      ],
+      "moment": "Immigration is introduced not as movement across borders, but as a game with winners and losers.",
+      "source_phrase": "who wins the game of immigration and who loses",
+      "why_it_matters": "It sets the whole episode's causal grammar: migration outcomes depend on rules, status, and strategy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0006"
+      ],
+      "moment": "The apparent model-minority success story breaks when school success fails to become social command.",
+      "source_phrase": "east asians don't do as well as you think",
+      "why_it_matters": "This is the first reversal: the group that seems best positioned to win may be losing the status game.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0008"
+      ],
+      "moment": "The skills that win school are recast as liabilities in the corporate boardroom.",
+      "source_phrase": "aggressive... high risk tolerance... high EQ",
+      "why_it_matters": "It distinguishes classroom optimization from elite competition, a key Jiang move in this lecture.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "game of immigration",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang's frame for migration as a competitive rule system in which groups pursue income, status, mating advantage, and demographic survival.",
+      "confidence": "high"
+    },
+    {
+      "term": "PISA rankings",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "International student assessment results Jiang uses as the conventional measure of future national economic capacity.",
+      "confidence": "high"
+    },
+    {
+      "term": "corporate-boardroom skills",
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Aggression or assertiveness, risk tolerance, emotional intelligence, collaboration, and articulate debate, which Jiang contrasts with school obedience.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0003",
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0005"
+      ],
+      "note": "As of 2026-01-15, Jiang is using PISA and migration flows as inputs to a game-theory account of future demographic and economic conflict.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-35hrplvyf0g@transcript:v1#seg-0007"
+      ],
+      "note": "ASR appears to garble a phrase as 'cps and the cpu'; the surrounding argument indicates underperforming Asian male subgroups but the exact words are uncertain."
+    }
+  ]
+}
