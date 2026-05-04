@@ -1,0 +1,211 @@
+{
+  "packet_id": "predictive-history-cylkqpsffry-semantics-pkt-0004",
+  "source_id": "video:predictive-history-cylkqpsffry",
+  "source_date": "2025-06-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0025",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0026",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0027",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0028",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reconstructs early Freud as an advocate for traumatized women: Freud first treats repeated patient reports of childhood sexual abuse as real, cites The Etiology of Hysteria, and is later shown by Jeffrey Masson's work on Freud's letters to have begun with a trauma theory.",
+      "speaker_attribution": "Jiang lecture with quoted Freud and summarized Masson evidence.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0030",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0031",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts that early Freud with the later Freud, who reinterprets reports of paternal abuse as fantasies produced by infantile sexuality, longing for the father, and attention-seeking hysteria, then reads Civilization and its Discontents as evidence of Freud's contempt for women.",
+      "speaker_attribution": "Jiang lecture interpreting quoted Freud passages.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0025",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0032"
+      ],
+      "note": "Single-speaker lecture; Freud passages are read or paraphrased by Jiang and should not be treated as a live second speaker.",
+      "suggested_speaker": "Jiang quoting Freud",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Freud initially concluded that women labeled hysterical were telling the truth because many patients with similar symptoms independently reported childhood sexual abuse.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical reconstruction in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "hysteria",
+        "trauma",
+        "patient-testimony"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The early Freud, as Jiang presents him, argued that hysteria symptoms were not invented in the mind but psychological symbols of physical trauma experienced by patients.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Freud model as reconstructed in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "trauma",
+        "hysteria",
+        "symbols"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jeffrey Masson's access to Freud's letters is used as evidence that early Freud and later Freud held different theories of trauma and abuse.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Evidence cited in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "jeffrey-masson",
+        "freud-letters",
+        "trauma-theory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads early Freud as careful rather than dogmatic: Freud considered the false-memory objection but argued he had not been able to force patients into reliving scenes with convincing affect.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0028",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretation of early Freud in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "false-memory",
+        "method",
+        "evidence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Later Freud, in Jiang's account, moved responsibility away from fathers by saying girls' reports of seduction were fantasies produced by infantile sexuality and paternal affection.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0030",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Freud reversal as presented in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "seduction-theory",
+        "fantasy",
+        "father"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the later Freud explains hysteria as female attention-seeking and casts women as obstacles to civilization because men supposedly bear the higher work of civilization.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Jiang's critique of later Freud in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "women",
+        "civilization",
+        "hysteria"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0026"
+      ],
+      "moment": "Early Freud is framed as saying hysteria is not imagination but injury translated into psychic symbols.",
+      "source_phrase": "This happened physically, and then it gets represented in the mind.",
+      "why_it_matters": "It sharpens the later reversal: psychoanalysis first appears as advocacy for victims before becoming a tool that doubts them.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0030",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0031"
+      ],
+      "moment": "The father is made innocent by turning the daughter's memory into her own fantasy.",
+      "source_phrase": "the father did nothing. He's innocent",
+      "why_it_matters": "This is the moral pivot of Jiang's Freud story: patient testimony is converted into the patient's pathology.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Etiology of Hysteria",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Freud's 1896 paper, presented by Jiang as the early trauma-theory statement that sexual trauma was a pathological cause of hysteria.",
+      "confidence": "high"
+    },
+    {
+      "term": "seduction theory reversal",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0027",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The shift Jiang attributes to Freud from believing patient reports of childhood abuse to treating them as fantasies generated by the child.",
+      "confidence": "high"
+    },
+    {
+      "term": "hysteria",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0025",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A historical diagnosis for women said to be emotionally uncontrolled; Jiang contrasts an early trauma reading with a later attention-seeking explanation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0025",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0032"
+      ],
+      "note": "This packet establishes Jiang's early-Freud to later-Freud reversal, which later packets explain through patronage, Vienna power, dream interpretation, and modernist spread.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0030"
+      ],
+      "note": "ASR likely renders 'infantile sexual activity' as 'infertile sexual activity'; the surrounding Freud quotation and Jiang's interpretation make the intended phrase clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0032"
+      ],
+      "note": "The Freud passage is read through Jiang's critical paraphrase; the semantic claim records Jiang's interpretation, not an independent textual judgment."
+    }
+  ]
+}

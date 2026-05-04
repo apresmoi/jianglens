@@ -1,0 +1,221 @@
+{
+  "packet_id": "predictive-history-cylkqpsffry-semantics-pkt-0005",
+  "source_id": "video:predictive-history-cylkqpsffry",
+  "source_date": "2025-06-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0033",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang asks what explains Freud's transition from nuanced scientist to myth-maker and gives a material answer: fathers were paying Freud's bills, so a theory blaming fathers threatened his clientele.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0035",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0036",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "He then looks for historical evidence that sexual abuse and taboo transgression were plausible in late nineteenth-century Vienna, connecting Frankism and Sabbatai Zevi to transgressive religious movements and arguing that this context supports the women's testimony.",
+      "speaker_attribution": "Jiang lecture using Wikipedia-style source material.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0038",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0039",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Semmelweis as the Vienna warning case: a doctor discovers handwashing prevents childbirth deaths, institutions suppress the finding to avoid blame, and Semmelweis is blacklisted and killed after defying powerful people.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0035",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang cites online/Wikipedia material rather than presenting a live second speaker; historical naming is ASR-fragile.",
+      "suggested_speaker": "Jiang citing external reference material",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets later Freud as a myth-maker or priestly figure, unlike the early Freud who appeared scientific, nuanced, and balanced.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interpretive diagnosis in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "myth",
+        "science",
+        "reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Freud had a practical incentive to change his story because the fathers of the women he treated were paying his bills and would not accept being blamed for their daughters' trauma.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Causal explanation in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "patronage",
+        "father",
+        "clientele"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Frankism as a transgressive religious movement whose taboo-breaking helps make late nineteenth-century Central and Eastern European abuse allegations historically plausible.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical evidence cited in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "frankism",
+        "transgression",
+        "vienna",
+        "abuse"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Sabbatai Zevi's conversion is used as an example of transgression recoded as true inner faith: outward action matters less than what is in the heart.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Historical example in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "transgression",
+        "faith",
+        "religion"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Freud probably knew the women were telling the truth but changed his story to protect his livelihood and avoid punishment by powerful people.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0037",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture thesis in the 2025-06-04 source.",
+      "topic_tags": [
+        "freud",
+        "power",
+        "livelihood",
+        "vienna"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Semmelweis story functions as Jiang's model of institutional self-protection: evidence that saves lives can be suppressed when it would expose elite responsibility for prior harm.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0038",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0039",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Historical analogy in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "semmelweis",
+        "institutional-power",
+        "handwashing",
+        "reputation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0034"
+      ],
+      "moment": "Freud's theory changes when the person accused by the patient is also the person paying the bill.",
+      "source_phrase": "who's paying the bills? The father",
+      "why_it_matters": "This compresses Jiang's power analysis of psychoanalysis into one practical transaction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0039",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0040"
+      ],
+      "moment": "The doctors can accept Semmelweis's discovery only if nobody learns what it means: that they had been killing women.",
+      "source_phrase": "their reputation would be in tatters",
+      "why_it_matters": "The analogy makes institutional denial the real danger facing both Semmelweis and Freud.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Frankism",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "A transgressive religious movement Jiang cites as evidence that taboo-breaking cultic milieus existed in Central and Eastern Europe around the relevant historical background.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Semmelweis case",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0038",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's example of a Vienna doctor punished for evidence that threatened institutional reputation, used to explain why Freud might avoid defying powerful people.",
+      "confidence": "high"
+    },
+    {
+      "term": "religion of transgression",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A faith model in which taboo-breaking proves courage, empowerment, and inner fidelity to God.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0033",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0040"
+      ],
+      "note": "This packet supplies Jiang's causal answer to Freud's reversal: economic dependence on fathers, plausibility of transgressive abuse networks, and the Vienna precedent of punishing doctors who expose elite culpability.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0035",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0036"
+      ],
+      "note": "ASR likely distorts historical names and periods; 'Frankenism' is treated as Frankism and 'Sibetai Zefi' as Sabbatai Zevi from context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang says the Frankism material is from Wikipedia and invites verification; confidence is medium because the packet pass records his cited argument rather than independently validating the history."
+    }
+  ]
+}

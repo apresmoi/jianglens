@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-cylkqpsffry-semantics-pkt-0002",
+  "source_id": "video:predictive-history-cylkqpsffry",
+  "source_date": "2025-06-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0009",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0010",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang shifts from religious solutions to philosophical solutions for the crisis of faith: epistemology asks how we know, Kant makes reality partly actively constructed, Hegel answers with Geist, and Marx materializes Geist into history and class struggle.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0012",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0013",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0014",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0015",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Freud as a break from Kant-Hegel-Marx: the individual becomes unconscious forces of ego, superego, id, Oedipal and Electra complexes; then Jung systematizes the unconscious into personal and collective unconscious, anima/animus, persona, shadow, and lifelong self-discovery.",
+      "speaker_attribution": "Jiang classroom lecture, with substantial ASR damage in seg-0016.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0016"
+      ],
+      "note": "The segment remains Jiang lecture voice but contains severe multilingual ASR corruption during the explanation of Jungian self-exploration.",
+      "suggested_speaker": "Jiang with ASR corruption",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines epistemology as philosophy's attempt to answer the crisis of faith at the level of knowledge: how ideas come together and how we know what we know.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Definition in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "epistemology",
+        "knowledge",
+        "crisis-of-faith"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kant's active subjectivity solves passivity by saying humans imagine space and time onto reality, but leaves the problem of whether reality itself can be known.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0009",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Interpretive summary in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "kant",
+        "active-subjectivity",
+        "reality"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hegel resolves Kant's unknowable reality with Geist as the divine spirit or mind underlying reality, while Marx inverts Hegel by making history and material class struggle the driver.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0010",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Comparative model in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "hegel",
+        "marx",
+        "geist",
+        "class-struggle"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Freud's alternative conception treats the individual as unconscious forces in the brain, organized around ego, superego, id, and sexual complexes that underlie both identity and civilization.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0011",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0012",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Freud model as presented in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "freud",
+        "unconscious",
+        "ego",
+        "id",
+        "civilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jung makes Freud's unconscious more socially usable by systematizing personal and collective unconscious, persona, shadow, anima/animus, and self-discovery guided by psychotherapy.",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0014",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0015",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Jung model as presented in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "jung",
+        "collective-unconscious",
+        "persona",
+        "shadow",
+        "self-discovery"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0010",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0011"
+      ],
+      "moment": "The philosophical line runs from reality imagined by the subject, to Geist becoming the world, to history moving through class struggle.",
+      "source_phrase": "Marx inverts Hegel and puts the material world before the world of ideas",
+      "why_it_matters": "This positions Freud not as an isolated psychologist but as a competing theory of historical motion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0014"
+      ],
+      "moment": "Jung's collective unconscious is not private depth but society breathed like air.",
+      "source_phrase": "the collective unconscious is embedded through society you breathe it like you would breathe air",
+      "why_it_matters": "The image makes modern psychology social and atmospheric, preparing the later argument about culture spreading the self.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "active subjectivity",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0009",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Kant's idea, as Jiang presents it, that humans actively participate in reality by imagining space and time onto it.",
+      "confidence": "high"
+    },
+    {
+      "term": "Geist",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0010",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Hegel's spirit or mind, described by Jiang as the manifestation of God underlying reality and becoming the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective unconscious",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Jung's store of society's memories and experiences, embedded in social life and expressed through food, speech, films, and books.",
+      "confidence": "high"
+    },
+    {
+      "term": "shadow",
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The suppressed bad memories and thoughts that the ego hides from the public persona.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0009",
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0016"
+      ],
+      "note": "This packet sets the intellectual sequence Kant to Hegel to Marx to Freud and Jung for Jiang's 2025-06-04 account of modernism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0011"
+      ],
+      "note": "ASR likely renders 'proletariat' as 'polytheist'; the Marx claim is interpreted from context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cylkqpsffry@transcript:v1#seg-0016"
+      ],
+      "note": "Severe multilingual ASR corruption limits confidence in the exact wording of Jungian psychotherapy/self-exploration, though the surrounding model is clear."
+    }
+  ]
+}
