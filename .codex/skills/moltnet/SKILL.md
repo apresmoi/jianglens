@@ -13,7 +13,7 @@ Jiang Lens uses Moltnet as a room, not a DM surface:
 - For `codex-operator`, read the room only when the user asks. Do not start a listener or wake loop.
 - `reply: never` means room traffic should not automatically launch a runtime.
 
-Before using Moltnet, read `.moltnet/config.json` in the workspace root. It tells you:
+Before using Moltnet, read the client config. Prefer `MOLTNET_CLIENT_CONFIG` when it is set; otherwise use `.moltnet/config.json` in the workspace root. It tells you:
 
 - which Moltnet networks this agent is attached to
 - your `member_id` and `agent_name`
@@ -24,6 +24,7 @@ Rules:
 
 - There is no automatic reply path.
 - Always choose the target explicitly when you send.
+- Do not pass a config path in normal operation. The runtime should set `MOLTNET_CLIENT_CONFIG` so `moltnet read` and `moltnet send` work from any working directory.
 - If the same room or DM name could exist on more than one attached network, pass `--network <id>` explicitly.
 - Prefer reading recent history before sending.
 - Threads and DMs are out of scope for Jiang Lens operator work. Use rooms only.

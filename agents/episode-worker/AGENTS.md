@@ -108,6 +108,15 @@ You are attached to the local Moltnet room `local_lab/episode-floor`.
 
 Use it for concise status, blockers, review requests, and handoffs. Keep the room operational: report concrete source IDs, files, validation results, and next actions. Do not stream internal reasoning or long transcript excerpts into the room.
 
+The worker launcher sets `MOLTNET_CLIENT_CONFIG`, so Moltnet CLI commands work from inside the repo checkout without extra path flags:
+
+```bash
+moltnet read --network local_lab --target room:episode-floor --limit 20
+moltnet send --network local_lab --target room:episode-floor --text "Status: <short factual update>."
+```
+
+If `moltnet` reports `client config not found`, check `echo "$MOLTNET_CLIENT_CONFIG"`. A missing or invalid value is an environment/runtime blocker; report it instead of continuing silently.
+
 During long runs, post concise stage progress when starting or completing major
 steps such as cleanup, ingest, semantic packets, read writing, validation, PR
 creation, and CI handoff. Keep each update factual and avoid repeating completed
