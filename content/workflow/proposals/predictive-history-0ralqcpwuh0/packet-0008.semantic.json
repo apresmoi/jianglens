@@ -1,0 +1,212 @@
+{
+  "packet_id": "predictive-history-0ralqcpwuh0-semantics-pkt-0008",
+  "source_id": "video:predictive-history-0ralqcpwuh0",
+  "source_date": "2025-05-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0057",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the main lecture by casting the Ukraine war as a clash of civilizations: Americans, in the Russian view, universalize consumer liberation, while Russians demand spiritual sovereignty and sacrifice.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0059"
+      ],
+      "kind": "exchange",
+      "summary": "A student appears to ask about Russian literature and Romanticism as a response to Enlightenment; Jiang answers that Dostoevsky rejects reason as salvation and says truth lies in the heart and a return to Orthodox civilization.",
+      "speaker_attribution": "Student question partially inaudible or omitted by ASR; Jiang answer is clear.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0059",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0060",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how Russians can be resilient if they are fatalistic; Jiang answers that knowing the world is doomed can compel one to live one's best life and that true faith means working for others without reward.",
+      "speaker_attribution": "Student question paraphrased by Jiang, followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0062",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0063"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why Russians are so pessimistic; Jiang answers with climate, violence, scarce resources, and then reverses the question, saying most people are fatalistic and the real puzzle is American optimism.",
+      "speaker_attribution": "Student question paraphrased by Jiang, followed by Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0059",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0062"
+      ],
+      "note": "Audience questions are mostly omitted or garbled by ASR; Jiang repeats enough of two questions to capture them reliably, while the Romanticism question is inferred from his answer.",
+      "suggested_speaker": "Mixed Jiang and student exchange",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Russians see American civilization as consumer-liberation expansionism: enemies are tyrants because they prevent people from buying things.",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Russian view of American civilization as described in this lecture.",
+      "topic_tags": [
+        "america",
+        "consumerism",
+        "liberation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russians see themselves as a spiritual people who demand sovereignty and will sacrifice against America because their civilization, God, and truth are unique and correct.",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0057",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Civilizational diagnosis of the Ukraine war in this lecture.",
+      "topic_tags": [
+        "russia",
+        "sovereignty",
+        "clash-of-civilizations"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dostoevsky is presented as anti-Enlightenment: reason does not save civilization because logic can justify mass killing; truth lies in the heart and in returning to Orthodox selfhood.",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Jiang answer to a classroom question near the end of the lecture.",
+      "topic_tags": [
+        "dostoevsky",
+        "enlightenment",
+        "orthodoxy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Russian fatalism and resilience are not contradictory in Jiang's answer: knowing the world is doomed can compel one to live meaningfully, care for others, and act in faith without reward.",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0059",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0060",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Answer to student question in this lecture.",
+      "topic_tags": [
+        "fatalism",
+        "resilience",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russian pessimism comes from cold, violence, scarce resources, and conflict; he reframes the larger puzzle as why Americans are so unusually optimistic.",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0062",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Answer to student question in this lecture.",
+      "topic_tags": [
+        "pessimism",
+        "american-optimism",
+        "resources"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0057",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058"
+      ],
+      "moment": "The Ukraine war becomes consumer empire versus spiritual sovereignty.",
+      "source_phrase": "We demand the right to be who we are",
+      "why_it_matters": "It is the lecture's final geopolitical compression of the whole Russian-heart argument.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058"
+      ],
+      "moment": "Reason can justify killing millions, so logic cannot be salvation.",
+      "source_phrase": "For reason. You can reason that. It's okay. To kill. Millions.",
+      "why_it_matters": "This preserves the anti-Enlightenment edge of Jiang's Dostoevsky reading.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0060",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0061"
+      ],
+      "moment": "Faith is working for doomed people without expecting reward.",
+      "source_phrase": "You know the world is ending. But you still work hard to make it better.",
+      "why_it_matters": "It turns fatalism into obligation rather than passivity.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "clash of civilizations",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0057",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058"
+      ],
+      "definition_or_usage": "Jiang's frame for the Ukraine war as an uncompromising conflict between American consumer universalism and Russian spiritual sovereignty.",
+      "confidence": "high"
+    },
+    {
+      "term": "fatalistic resilience",
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0059",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0060",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The idea that knowing doom is real can intensify duty, faith, love, and the effort to live well anyway.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0063"
+      ],
+      "note": "The lecture closes by previewing German civilization for the next class after completing the Russia/Ukraine civilizational arc.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0058",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0061",
+        "video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0063"
+      ],
+      "note": "End-of-lecture ASR is heavily punctuated and omits some student audio; two questions are reliable because Jiang restates them, while the first question is inferred from the answer."
+    }
+  ]
+}
