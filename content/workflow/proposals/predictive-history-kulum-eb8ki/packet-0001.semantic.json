@@ -1,0 +1,149 @@
+{
+  "packet_id": "predictive-history-kulum-eb8ki-semantics-pkt-0001",
+  "source_id": "video:predictive-history-kulum-eb8ki",
+  "source_date": "2025-12-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0001",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0002",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0003",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0004",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0005",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0006",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0007",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang begins Jewish history from geography: Jerusalem is the imperial trade hinge that every surrounding empire needs to control. He then narrates Babylonian destruction, Persian divide-and-rule, the emergence of Jewish identity around land, law, and Bible-memory, Hellenistic scattering, and the Maccabean revolt as a minority religious victory against Greek religious absorption.",
+      "speaker_attribution": "Jiang classroom lecture, with brief student readings or checks where noted.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0003"
+      ],
+      "note": "Segment 0003 contains ASR corruption around the first pillar, but the surrounding land/law/Bible identity model is clear.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jerusalem is framed as the center of the ancient world because it links Egypt, Anatolia, Mesopotamia, Persia, and the Mediterranean trade routes.",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-12-11.",
+      "topic_tags": [
+        "jerusalem",
+        "empire",
+        "trade"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Persians are said to solve the Jerusalem problem by financing a Jewish identity implanted in the Levant as a loyal foreign entity.",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-12-11.",
+      "topic_tags": [
+        "persia",
+        "divide-and-rule",
+        "jewish-identity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines early Jewish identity through the promised land, the Law of Moses, and the Bible as literal collective memory.",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0003",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-12-11.",
+      "topic_tags": [
+        "jewish-identity",
+        "law-of-moses",
+        "bible"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Maccabean revolt is presented as a minority religious rebellion whose success becomes Hanukkah.",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0005",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-12-11.",
+      "topic_tags": [
+        "maccabees",
+        "hanukkah",
+        "religious-conviction"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0001"
+      ],
+      "moment": "All roads lead to Jerusalem because whoever controls it controls the empire’s most profitable hinge.",
+      "source_phrase": "all roads lead to Jerusalem",
+      "why_it_matters": "This gives the lecture its geopolitical engine: religion and identity are built around a strategic choke point.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0005",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0006"
+      ],
+      "moment": "A minority wins because religious conviction turns political weakness into force.",
+      "source_phrase": "because of their religious conviction, because of the will of God, they will triumph",
+      "why_it_matters": "It sets up the later problem of faith as a power technology.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Jerusalem",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0001",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "The trade and worship hinge that empires must control and that Jewish identity later centers on.",
+      "confidence": "high"
+    },
+    {
+      "term": "Maccabean Revolt",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0005",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A Jewish rebellion against Hellenistic religious absorption, remembered in Hanukkah.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0001",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0002",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0003"
+      ],
+      "note": "Packet 1 belongs to the 2025-12-11 Secret History lecture on Jewish history, Sabbateanism, Jacob Frank, and Frankist faith as a genealogy of modernity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

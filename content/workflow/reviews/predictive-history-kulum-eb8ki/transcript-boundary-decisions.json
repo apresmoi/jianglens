@@ -1,0 +1,270 @@
+{
+  "source_slug": "predictive-history-kulum-eb8ki",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:05b375f4f9d3",
+      "decision": "approve",
+      "reason": "Moves 'going over and over.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:ed9982e6897c",
+      "decision": "reject",
+      "reason": "Reject: the proposed text is ASR-damaged and does not form a trustworthy sentence completion."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:0cde95a5925f",
+      "decision": "approve",
+      "reason": "Moves 'you become a Jew, okay?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:0c78e0d23dd4",
+      "decision": "approve",
+      "reason": "Moves 'comes into being, Jews will move around for economic opportunities, right?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:bed2bce5a534",
+      "decision": "approve",
+      "reason": "Moves 'Revolt, where a certain group of Jews decide to rebel against the Greeks.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-trailing-starter-to-next:fb1df1a24e3f",
+      "decision": "approve",
+      "reason": "Moves 'So' to the next segment so the following sentence starts cleanly."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:8f3ab602dffb",
+      "decision": "approve",
+      "reason": "Moves 'kicked them out.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:5f6ba672fa7c",
+      "decision": "approve",
+      "reason": "Moves 'allowed to stay.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:443c2dbec9a9",
+      "decision": "approve",
+      "reason": "Moves 'get into, right?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-trailing-starter-to-next:eff84dae6936",
+      "decision": "approve",
+      "reason": "Moves 'If you don't work' to the next segment so the following sentence starts cleanly."
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:b8686b3006ae",
+      "decision": "approve",
+      "reason": "Moves 'blamed and you have to leave.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:9513e094de0c",
+      "decision": "approve",
+      "reason": "Moves 'have connections to the Jewish diaspora around the world.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:72b824bc2514",
+      "decision": "approve",
+      "reason": "Moves 'bitter enemies.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0019->seg-0020:move-leading-completion-to-previous:59158ff75121",
+      "decision": "approve",
+      "reason": "Moves 'they've stayed loyal to Yahweh.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:5fcd43e83fa7",
+      "decision": "approve",
+      "reason": "Moves 'the social order.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:39930591c7d7",
+      "decision": "approve",
+      "reason": "Moves 'the religion.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:8083cb844f1f",
+      "decision": "approve",
+      "reason": "Moves 'where men and women are all equal.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0023->seg-0024:move-leading-completion-to-previous:59a941fc4387",
+      "decision": "approve",
+      "reason": "Moves 'liberation of equality of freedom.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:635f1f9be474",
+      "decision": "approve",
+      "reason": "Moves 'before we can have heaven on earth.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0025->seg-0026:move-leading-completion-to-previous:a16d082b7ced",
+      "decision": "approve",
+      "reason": "Moves 'of wild sex.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-trailing-starter-to-next:62f579960b74",
+      "decision": "approve",
+      "reason": "Moves 'So you' to the next segment so the following sentence starts cleanly."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:1f8c10fd7ae8",
+      "decision": "approve",
+      "reason": "Moves 'that?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:fb94bcc3119a",
+      "decision": "approve",
+      "reason": "Moves 'wants us to come here to learn wisdom why do we have to suffer?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:3f7f2eed43b5",
+      "decision": "approve",
+      "reason": "Moves 'access to his secret mystical magical teachings the Kabbalah.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-leading-completion-to-previous:aa55b67859f8",
+      "decision": "approve",
+      "reason": "Moves 'manipulate them.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:6bdad79848d7",
+      "decision": "approve",
+      "reason": "Moves 'a rider on horseback knocked him down with his horse.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0049->seg-0050:move-leading-completion-to-previous:956e07d3cabf",
+      "decision": "approve",
+      "reason": "Moves 'not obey conventions, not, what matters is not listening to other people, conforming to other people.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0050->seg-0051:move-leading-completion-to-previous:2ac0ce2f0d89",
+      "decision": "approve",
+      "reason": "Moves 'is the king, he's my father.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0055->seg-0056:move-leading-completion-to-previous:5564b84007bc",
+      "decision": "approve",
+      "reason": "Moves 'will do.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0060->seg-0061:move-leading-completion-to-previous:d10b21ce7278",
+      "decision": "reject",
+      "reason": "Reject: the next sentence about 19th-century Warsaw is a new thought, not a completion of the prior Bible phrase."
+    },
+    {
+      "candidate_id": "seg-0063->seg-0064:move-leading-completion-to-previous:d57a0da13315",
+      "decision": "approve",
+      "reason": "Moves 'store.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0066->seg-0067:move-leading-completion-to-previous:b5acbe360743",
+      "decision": "approve",
+      "reason": "Moves 'all the wealth, we'll be free from death, okay?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0067->seg-0068:move-leading-completion-to-previous:f5ff9b4a9f49",
+      "decision": "approve",
+      "reason": "Moves 'good.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0069->seg-0070:move-leading-completion-to-previous:a75579bf456d",
+      "decision": "approve",
+      "reason": "Moves 'I had them make a ladder for that height.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0070->seg-0071:move-leading-completion-to-previous:b9bd6f1df6f8",
+      "decision": "approve",
+      "reason": "Moves 'and recognized the theft.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0072->seg-0073:move-leading-completion-to-previous:1ae6373a1cb7",
+      "decision": "approve",
+      "reason": "Moves 'is to break the rules of man so we can be more wealthy, okay?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0073->seg-0074:move-leading-completion-to-previous:075594503921",
+      "decision": "approve",
+      "reason": "Moves 'through deception.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0076->seg-0077:move-leading-completion-to-previous:8b4e65961470",
+      "decision": "approve",
+      "reason": "Moves 'doesn't mean you're virtuous.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0079->seg-0080:move-leading-completion-to-previous:64ae5bb2800f",
+      "decision": "approve",
+      "reason": "Moves 'of these rabbis?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0091->seg-0092:move-leading-completion-to-previous:5adb68a2c0af",
+      "decision": "approve",
+      "reason": "Moves 'it.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0094->seg-0095:move-trailing-starter-to-next:a9c573d234bc",
+      "decision": "approve",
+      "reason": "Moves 'Does that make' to the next segment so the following sentence starts cleanly."
+    },
+    {
+      "candidate_id": "seg-0096->seg-0097:move-leading-completion-to-previous:d6fdd0c0f76f",
+      "decision": "approve",
+      "reason": "Moves 'the candles burn, they would see what would happen.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0098->seg-0099:move-leading-completion-to-previous:5e6ae818f43d",
+      "decision": "approve",
+      "reason": "Moves 'it's going to be like, it's governed by idiotic laws.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0099->seg-0100:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Moves 'okay?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0101->seg-0102:move-leading-completion-to-previous:73df7f8cbdb4",
+      "decision": "approve",
+      "reason": "Moves 'this place to the Lord.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0104->seg-0105:move-leading-completion-to-previous:97daddb91c54",
+      "decision": "approve",
+      "reason": "Moves 'how do you really believe, so you believe in God?' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0105->seg-0106:move-leading-completion-to-previous:0868b12881ac",
+      "decision": "approve",
+      "reason": "Moves 'strict hierarchy.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0106->seg-0107:move-leading-completion-to-previous:61cc9888f9b4",
+      "decision": "approve",
+      "reason": "Moves 'to access wisdom.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0107->seg-0108:move-leading-completion-to-previous:5bc187faea72",
+      "decision": "approve",
+      "reason": "Moves 'fakeness of this world.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0111->seg-0112:move-trailing-starter-to-next:eee696ba33ea",
+      "decision": "approve",
+      "reason": "Moves 'So if you think' to the next segment so the following sentence starts cleanly."
+    },
+    {
+      "candidate_id": "seg-0114->seg-0115:move-leading-completion-to-previous:b76cc30a6930",
+      "decision": "approve",
+      "reason": "Moves 'that he was a high religious authority.' back to complete the sentence at the prior segment boundary."
+    },
+    {
+      "candidate_id": "seg-0125->seg-0126:move-trailing-starter-to-next:fb1df1a24e3f",
+      "decision": "approve",
+      "reason": "Moves 'So' to the next segment so the following sentence starts cleanly."
+    },
+    {
+      "candidate_id": "seg-0131->seg-0132:move-leading-completion-to-previous:d9b55fcae543",
+      "decision": "reject",
+      "reason": "Reject: the closing fragment is ASR-damaged and the proposed move is not a clear boundary repair."
+    }
+  ]
+}
