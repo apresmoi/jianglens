@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-za30rbc3ttg-semantics-pkt-0001",
+  "source_id": "video:predictive-history-za30rbc3ttg",
+  "source_date": "2024-12-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0001",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0002",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by contrasting the Christian tradition's coherent self-story with his historical reconstruction: Christianity presents apostolic martyrdom, persecution, faith, miracle, and eventual imperial triumph as the reason it spread.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0004",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He turns from official Church history to his class model: Jesus was a religious genius whose movement collided with Pilate's imperial cult problem, and crucifixion inadvertently made Jesus a national martyr.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0006",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0007",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He separates James' poor of Jerusalem and the Ebionite line from Paul's Romanizing proto-Christianity, then places Paul among other marginal Jesus movements rather than as the obvious winner.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical prompts",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0003"
+      ],
+      "note": "The middle of the segment contains severe ASR multilingual noise, but the surrounding argument remains Jiang's official-history summary.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames Christianity as the first monotheistic religion and monotheism as an intellectual revolution that created the conditions for modernity.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-28.",
+      "topic_tags": [
+        "monotheism",
+        "modernity",
+        "Christianity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Christian tradition explains Christianity's rise through apostolic witness, martyrdom, persecution, faith, miracle, and eventual Roman conversion.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0001",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0002",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang's summary of Christian tradition on 2024-12-28.",
+      "topic_tags": [
+        "apostles",
+        "martyrdom",
+        "Christian tradition"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's historical alternative says Jesus' crucifixion was not the tradition's redemptive plot but Pilate's political gesture in a conflict over the imperial cult.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0004",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-28.",
+      "topic_tags": [
+        "Jesus",
+        "Pontius Pilate",
+        "imperial cult"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The poor of Jerusalem, led by James the Just, are presented as Jewish followers of Jesus who later become the Ebionites and help develop Islam through their spread into Arabia.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture claim on 2024-12-28 about early Jesus movements.",
+      "topic_tags": [
+        "James the Just",
+        "Ebionites",
+        "Islam"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Paul's proto-Christianity recasts the Messiah from a prophet of war into a prophet of peace, letting diaspora Jews assimilate into Roman society while retaining Jewish identity.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0007",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-28.",
+      "topic_tags": [
+        "Paul",
+        "diaspora Jews",
+        "assimilation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0001"
+      ],
+      "moment": "Monotheism is introduced not as a mere belief in one God but as the intellectual revolution that makes modern life possible.",
+      "source_phrase": "created the conditions for modernity",
+      "why_it_matters": "It sets the episode's scale: this is a genealogy of the present, not a church-history recap.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0005"
+      ],
+      "moment": "Pilate's attempt to humiliate the Jews by killing Jesus makes Jesus a national hero instead.",
+      "source_phrase": "a national hero, a martyr",
+      "why_it_matters": "It preserves Jiang's reversal: repression accidentally produces sacred authority.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0007"
+      ],
+      "moment": "Paul's move is to divorce the Jewish diaspora from the war-Messiah by making Jesus a prophet of peace.",
+      "source_phrase": "divorce the Jewish diaspora from the Messiah",
+      "why_it_matters": "This is the political mechanism by which Roman compatibility enters Jiang's story of Christianity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "imperial cult",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The Roman practice of treating the emperor as divine, with imperial images and statues functioning as a cult of personality.",
+      "confidence": "high"
+    },
+    {
+      "term": "poor of Jerusalem",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's name for the Jerusalem Jesus community led by James the Just and later associated with the Ebionites.",
+      "confidence": "medium"
+    },
+    {
+      "term": "proto-Christianity",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Paul's Roman-compatible version of Jesus belief, presented as a way for diaspora Jews to remain Jewish without awaiting anti-Roman war.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0001"
+      ],
+      "note": "This 2024-12-28 source follows the previous Christianity lecture and shifts from Jesus/Paul formation to monotheism's civilizational effects.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0003",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0008"
+      ],
+      "note": "Several ASR-damaged phrases remain; claims rely on the clear surrounding sentences and avoid unsupported noisy wording."
+    }
+  ]
+}

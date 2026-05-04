@@ -1,0 +1,297 @@
+# Civilization #26:  Constantine's Monotheistic Revolution
+
+Source: https://www.youtube.com/watch?v=za30rbC3tTg
+
+## seg-0001 / 00:00:00-00:01:20 / SPEAKER_00
+
+Okay, so good morning. We are doing monotheism today, and I will show you that the first monotheistic religion is Christianity. And monotheism actually marks an intellectual revolution in human history, and it really created the conditions for modernity, the lives we're living today. All right, so let's get started, and I want to review Christianity and why it grew so fast. So if you talk to Christians, they have a very easy and coherent explanation for why Christianity would come to dominate Europe. Okay, so let's look at the Christian tradition. So it's called the Christian tradition, which is to say we don't have much evidence that this is true, but this is what Christians believe. And what they tell each other. All right, so in the Christian tradition, Jesus came from heaven to redeem humanity from our evil ways. He sacrificed himself, and after he sacrificed himself, he started a new beginning in human history. He was resurrected,
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:20-00:02:29 / SPEAKER_00
+
+and then he went before his apostles and told them to spread the good news, the gospel. So they told him that he has come, and he will return, and then he will bring paradise with him. Okay, so there were 12 apostles plus Paul, and they went all around the world to spread the good news. Paul became the apostle to the Gentiles, which meant that he was trying to bring in everyone into the new religion of Christianity to show their authority and to show that they are, actually, the true apostles of Jesus. They are all martyred, okay? Martyrdom. Meaning that you know that they were telling the truth because they were persecuted. They went to India, they went to the Levant, they went everywhere to spread the good news, and they interacted, or they challenged the traditional religious authority, the pagans of that area, and so they were killed. They were stoned to death, or they were executed.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:31-00:03:31 / SPEAKER_00
+
+And after they died, their students would continue their legacy, okay? And these students would become head of the local church they set up, and they became known as the bishops, okay? And throughout all this time, they were being persecuted by the Romans and by the pagans. But because of their faith in God, and because of the miracle that is God, they would eventually triumph, and they would spread throughout the world. And so they were killed. And so they were killed. And so they were became true U ole, unfortunately, 좋을 porque fueron� Einheit in Brazil and... the Middle East and Egypt, until they became a very dominant force. Eventually, the Romans said that if you can't beat them, join them. And the first Roman emperor to convert was Constantine. So Constantine was the first Roman emperor to become a Christian himself. And then a later Roman emperor would make Christianity the official religion of the Roman Empire.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:31-00:05:05 / SPEAKER_00
+
+And this would create a Catholic Church. The Catholic Church is called so because Catholic means universal, or the one and only. And the Catholic Church, with the creation of the Catholic Church, you had a new idea called orthodoxy, or right thinking. And then, so one mission of the Catholic Church was to combat heresy, or challenging orthodoxy, to make sure that everyone stayed on the true path, okay? And so this is the official history told by the Catholic Church, and what Christians believe today. But as we discuss in our class, historically, that's not what happened, okay? So let's go over, let's review what we discussed in this class. So Jesus, I argue, was a religious genius, and he, his idea would be what we call Gnosticism today, okay? And unfortunately, he got unlucky, and he ran into the Roman governor of Judea called Pontius Pilate. Pontius Pilate had a problem. He was trying to enforce the imperial cult.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:05-00:06:10 / SPEAKER_00
+
+The imperial cult basically just means to think of the Emperor as God, and so think of a cult of personality. His picture, his statues, were everywhere, including coins. And the Jews hated that because for them, that went against their religion, okay? The first commandment is you should have no God before me, Yahweh. You shall not worship false gods. And so Pontius Pilate was having a very tough time dealing with the Jews. He threatened the Jews, and the Jews said, well, if you don't, if you don't get rid of this religious cult, then you have to come kill all of us, okay? And so Pontius Pilate had to back down. He lost face, and he killed Jesus. He crucified Jesus as basically a middle finger to the Jewish people, right? But because he did that, what he didn't expect is it would make Jesus into a national hero, a martyr. And so his followers became called the poor of Jerusalem, okay?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:10-00:07:20 / SPEAKER_00
+
+They established a church in Jerusalem, and they were supported by the Jewish leaders, and they were called the poor of Jerusalem. of Jerusalem. They were led by Jesus' brother James the Just. These people will eventually become the Ebionites. This is important for us because the Ebionites will eventually spread to Arabia where they will help develop a new religion called Islam. So from the Ebionites we will develop a new religion called Islam. The poor got along very well with the Jewish people because they just saw themselves as a branch of Judaism, as following the Law of Moses, but in a manner that conformed to how Jesus saw the world. Then you had a man named Paul and Paul was a Roman citizen and he was part of the Roman elite and he had a problem. He was part of the Jewish diaspora and because of the religious fanaticism in Jerusalem, that was creating conflict between the Romans and the Jewish diaspora.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:20-00:08:30 / SPEAKER_00
+
+The Jews believed the Romans were evil. Eventually a Messiah will emerge from the ranks from the house of David who will lead them in a final victory against the Romans. So Paul saw Jesus as an opportunity to basically divorce the Jewish diaspora from the Messiah. That's why he created proto -Christianity because what he believed, what he taught, is Jesus is the Messiah but rather than a prophet of war he's a prophet of peace. So he basically offered an opportunity for members of the Jewish diaspora to assimilate themselves into Roman society. If you consider yourself a Jew, then you believe in the Messiah who will return and fight against the Romans. But if you believe that, then eventually the Romans might come and kill you. So what Paul said is if you believe in Jesus, you can still be Jewish because
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:30-00:09:36 / SPEAKER_00
+
+Jesus was Jewish and this is a Jewish religion, but you will be part of the Roman Empire now rather than part of just this very parental religion. But what's really important for us to understand is most people refuse to follow Paul. Okay, only very small, minor people actually follow Paul. Most people who believe in Jesus were following the Ebeneitz. Okay, there's also other groups of people who believed in Jesus. For example, the Gnostics which we discussed before and also you had these mystery cults. Mystery cults were the most popular form of religious worship which meant they were just like small groups of people who believed in Jesus. They were the most popular form of religious worship which meant they were just like small groups of people who practiced the religion secretly, and what made these mystery cults special was their focus on group religious devotion and worship and they were trying to achieve a sense of oneness, unity.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:36-00:10:48 / SPEAKER_00
+
+They're trying to be egalitarian. They're trying to be anti -hierarchical. Okay and what made them interesting was they used psychedelics a lot. Okay they were in fact apparently something like that. Of course I know muchos chloründenwindeln Cadet they use drugs a lot in order to achieve a spiritual sense. And a lot of them start to believe in Jesus because Jesus could be easily incorporated into a religion, okay? So you have these different early Christian groups around. But what we know is that eventually Paul's group, which again is the smallest of these groups, would eventually triumph, okay? And the question then is why? Why is it that Paul's church, which was the smallest of all these different denominations of early Christianity, why would they triumph in the end? Okay, first of all, the dominant group were obviously James the Just and the poor, right? Well, what happened was this. From 66 to 73 CE, okay, the Romans fought a major war with the Jews.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0009
+
+## seg-0010 / 00:10:49-00:11:50 / SPEAKER_00
+
+And during this war, three things happened, okay? The first thing that happened was the temple was burned down. Remember, the temple is important because it is the site of religious worship for the Jewish people. It's the equivalent of Mecca today. So when Jews in the diaspora, when they prayed, they prayed in the direction of the temple. Well, now you have a problem because the temple has been burned down. So now you have to redefine what it means to be a Jewish person. And as it happened, Paul had a new definition of what it meant to be a Jewish person. You believe in Jesus as Messiah rather than make sacrifices at the temple, okay? Second thing that happened that was very convenient for Paul and the Romans was James and his group were wiped out, okay? Not everyone was killed, but the majority of them were wiped out.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0010
+
+## seg-0011 / 00:11:51-00:13:00 / SPEAKER_00
+
+Their denomination in Jerusalem was targeted, and they were extinguished, okay? So this is important because remember, the major authority figure at this time is James the Just, because he's the brother of Jesus. If he's dead, there's no more authority. Therefore Paul can claim as he does to be the real authority, okay? And the third thing that's important is it basically scares the Jewish diaspora. It scares the members of the Jewish diaspora, and a lot of them, some consider them to be victorious of Jesus. now see Paul's church as a very good alternative they're afraid of what they're afraid that that the Romans might target the diaspora and so to show their allegiance to the Romans but still to to but they still want to maintain the Jewish identity so a lot of them start to join Paul's church not a great deal okay but an increasing number this would just start one
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:00-00:14:07 / SPEAKER_00
+
+of three major wars between the Romans and the Jews okay it would be two more major wars and both both wars a lot of Jews would get killed a lot would get enslaved and this would drive more participation into Paul's church okay so a lot of Jews are now joining Paul's church because of these wars the church was seen as an escape mechanism for diaspora Jews from these wars does that make sense okay all right the other thing about Paul's church and what became dominant is it mirror it mirrored the social structure of the Roman Empire all right so the Roman Empire the social structure is called the pater familias and this is basically the idea of patriarchy there's one man the father who's in charge of the entire household and the household is basically a small Empire onto itself okay you have the immediate family okay so you have the sons the children you
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:07-00:15:21 / SPEAKER_00
+
+also have the freed man okay so these are slaves who are freed to work in household and then you have the slaves okay so they were in charge of their own household but they also had clients okay the client the patron -client relationship and Chinese we call this a quality right so someone who would sponsor your business and the goal from society for vocês, a salvation, e Platôm! was to have as many clients as possible because this gave you the idea of face, okay? Or what at that time was called dignitas, dignitas, right? Social prestige. The more clients you had, the more people who obeyed you, the more dignitas you had, okay? So the Polish church was a hierarchy as well modeled on the paterfamilias, okay? So at the top was the bishop, okay? And the bishop was in control of something called dogma, which is like how Jesus is to be understood. And this
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:21-00:16:49 / SPEAKER_00
+
+is important because the problem with most early Christians is they were egalitarian, which meant that you could have your own interpretation of Jesus. But in this church, which is hierarchical, only the bishop or the person in charge had the right interpretation and you had to follow his interpretation. And this allowed the church to scale out into other churches, right? But much more importantly, after you reach a certain size, it made sense for the church to participate in the patron -client relationship of the paterfamilias, which meant that they would now invite the local aristocrat to become the bishop. And if that would happen, the local bishop would then convert his entire network and become Christian, right? And the aristocrat would agree to do this because it allowed him to more quickly scale out and expand his patron -client network. The church became a mechanism for him to expand his social network, and politically, to foster the political power.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014
+
+## seg-0015 / 00:16:55-00:18:24 / SPEAKER_00
+
+Eventually, Christianity would reach a point where it actually challenged the authority of the emperor himself. Because, remember, throughout history, the nobility was always in conflict with the king, the emperor. And now that the nobility was able to better organize because of the structure of a church, the emperor saw it as a problem. So there were some persecutions, local persecutions, not, like, global, Not imperial persecution of Christians, there's some local persecution of emperors because of the power struggle. But eventually emerged an emperor named Constantine, and he had fought a very bitter civil war in order to reclaim the throne. And as we know from our history, from our reading of history, great kings always want to introduce new religions to consolidate their authority, okay? So think of King David introducing the new religion of Judaism. Think of Augustus introducing the Iniat to the Roman people, okay? So Constantine wanted to introduce a new religion to unify the empire and to consolidate his authority, and that became the Christian religion.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015
+
+## seg-0016 / 00:18:24-00:19:39 / SPEAKER_00
+
+That's why he converted to become Christian. And so he began to sponsor the beginning of something called the Catholic Church. And guess what? He was the first pope, or the head of the Catholic Church, the first head of the Catholic Church, okay? But now that you have a Catholic Church, you now have the idea of orthodoxy, okay, orthodoxy. And that's a problem because, remember, throughout this history, there are many divergent forms of Christianity. And so the Catholic Church began a process of eliminating all, all of its competitors until it became the most dominant. But the problem with orthodoxy is that a lot of Christian history is made up. It's made up on the spot. And so there are a lot of contradictions. The major contradiction, one of the major problems in Christianity is, okay, Jesus came from heaven to sacrifice himself, right?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0016
+
+## seg-0017 / 00:19:39-00:20:34 / SPEAKER_00
+
+So what is the relationship between, okay, Jesus came from heaven to sacrifice himself, right? So what is the relationship between God and Jesus? Like, who is Jesus, real, okay? And this is a fundamental problem in Christianity. It was a fundamental problem back then, and it still remains a fundamental problem today. So throughout this time, there have been different solutions, different theories proposed to solve this problem. What's the relationship between God and Jesus? There's also something called the Holy Spirit, which we haven't really discussed, okay? But think of the Holy Spirit as the expression of God on earth. So when God wants to do something on earth, for example, he wants to move this table, he does it through the Holy Spirit, okay? So the Holy Spirit is the expression of God on earth. It's what we interact with. When we pray, we pray to the Holy Spirit rather than to God.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0017
+
+## seg-0018 / 00:20:34-00:21:55 / SPEAKER_00
+
+Okay, so there have been different theories proposed to explain the relationship between God, the Holy Spirit, and Jesus. Okay? Okay, so let's look at them. The first theory is called modalism. Modalism, and it's the idea that God, Jesus, and the Holy Spirit are the same being, but they are in different modes, okay? So the metaphor is, think of water. If it's really cold, water becomes ice. If it's really hot, water becomes vapor. Now, water, ice, and vapor are the same being, but they're in different forms. And that's the idea of modalism. Jesus, God, and the Holy Spirit are the same thing, but they're expressed differently in different times, okay? But this is logical, but this creates a problem because if you actually read the Bible, you will see some passages where Jesus prays to God, right? That doesn't make any sense because why would you pray to yourself? All right, so it's a theory, but it's not a great theory.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0018
+
+## seg-0019 / 00:21:57-00:23:04 / SPEAKER_00
+
+Another theory that's popular is called partialism. Partialism, and the idea is that God, Jesus, and the Holy Spirit are parts of a higher being. So think of the ocean, right? There's one ocean that covers the entire planet, but it has different parts. For example, there's the Pacific Ocean. There's the Atlantic Ocean. There's the Indian Ocean. Okay? And that's the idea here, where God, Jesus, and the Holy Spirit are just parts of a higher being. But then the question then becomes, then what is this higher being, okay? So again, this makes sense. It's not a great, but it's not a great theory, okay? The last theory I wanna talk about is the idea of Arianism. And Arianism was created by a religious teacher named Arius. And his understanding was, look, if God created Jesus, then that means God came before Jesus, which means God has to be superior to Jesus, okay?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0019
+
+## seg-0020 / 00:23:04-00:24:16 / SPEAKER_00
+
+So God is a higher being than Jesus. Jesus is still great, but God is the superior being, okay? And again, not great, okay, but it makes sense, all right? So there's this huge controversy as to the nature of God and the nature of Jesus. And so what Constantine does, what Constantine does is in 325 CE, he orders all the bishops of the Roman Empire to converge in a place called Nicaea, okay? The Council of Nicaea. And during this conference, they have to figure out what the nature of God is, okay? So these are all the bishops from the various churches. And the four major churches, of course, are Rome, Alexandria, Antioch, and Jerusalem. And they're all there trying to figure out what, what the nature of Jesus and the Holy Spirit and God are, okay? And this is the solution. And this is the solution that, even today, no one really can figure out, okay?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0020
+
+## seg-0021 / 00:24:16-00:25:59 / SPEAKER_00
+
+But this is the solution. There are three beings, God, Holy Spirit, and Jesus. They are not the same thing. They're separate, they're not equal, okay? Which are three different entities, but they're all God. Okay? This is called the Holy Trinity. And this is the major idea underlying Christianity today. God, Jesus, and Holy Spirit are not the same thing. They're not equal. But they're all God, okay? This is called the Godhead, all right? So let's try to figure out what's going on here. Why did they pick this theory? Okay, first of all, what we need to understand is, these first three theories, modalism, partialism, and Aaronism, are really stories, okay? They're stories of who God is. This, the Godhead, is an equation, okay? Now, what's the difference? Well, in a story, you can personalize it. You can put yourself in the story, and you can talk to God. And therefore, you can interpret the story the way you want to interpret it.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0021
+
+## seg-0022 / 00:25:59-00:27:18 / SPEAKER_00
+
+And therefore, you can argue about the story with others. Right? That's what stories do. But you can't do that in an equation. Like, how do you put yourself into this equation? You don't belong anywhere, right? The system is closed off to you. You're excluded from it. You can't interact with the Godhead. Therefore, you cannot argue here, you understand? There's no room for argument. There's no room for interpretation and argument, okay? There's no room for debate. That's the first major advantage of the Godhead. You cannot debate anything because there's nothing to debate. You either accept it or you don't accept it. There's no in, there's nothing in between, okay? Second thing is, before, we understood faith as something that you experience personally. You can talk to God. You can feel God. But with a Godhead, it's something that you have to believe, okay? You have to believe in miracles, which forces the idea of faith as blind obedience.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:21-00:28:27 / SPEAKER_00
+
+Okay? Do you understand? Faith is something that you have to, before the Godhead, faith is something that you have to experience for yourself. Now faith is just blind obedience. You have to accept this as it is. You have to memorize it, okay? It's like mathematics. When you go to math class, you're not asked to figure out why the proofs work. You have to just memorize the proofs. And the third thing about the Godhead is it's exclusionary. Meaning, it's not exclusive. Exclusionary just means that you can't put any other theories in here. And if you look at these three theories, modalism, partialism, and eruditism, you can actually put them together, okay? They're not contradicting each other. They're not fighting against each other. They're different, but you can actually put them together. Whereas with this equation, it's exclusionary. You cannot put any other theories into it. And you cannot put this into any other theories.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0023
+
+## seg-0024 / 00:28:28-00:28:51 / SPEAKER_00
+
+All right? And so what this means is this. If you put these three things together, something that you have to accept, you cannot debate it, something that forces your blind obedience, something that is exclusionary, okay? It creates a new idea in human history called monotheism.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0024
+
+## seg-0025 / 00:28:55-00:28:55 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0025
+
+## seg-0026 / 00:28:55-00:30:11 / SPEAKER_00
+
+Monotheism. And this is a new radical idea in human history. Never before could we imagine something called monotheism. Before there were some religions with one God, right? But this one God would also interact with other gods. Or this one God would create new gods. But the idea of monotheism is there's only one God and that's it. And this is radical in human history. So let's try to figure out monotheism, okay? And by the way, monotheism, I think it's a very hard idea to understand. So it's okay if we don't really understand it today, but over the next few months as we explore the impact of monotheism. Okay? On society, we'll have a better understanding of it, okay? All right. So let's look at monotheism. The first thing we understand about monotheism is if we memorize this formula, and you're forced to memorize this formula, your understanding of reality changes, okay? And there's only one way to understand reality that makes this true, and the understanding is this.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0026
+
+## seg-0027 / 00:30:13-00:31:41 / SPEAKER_00
+
+God is nothing and everything, okay? Does that make sense? There's only one way that reality is structured that makes this statement true. God is Holy Spirit and Jesus, but God is not Holy Spirit and Jesus. And the understanding of reality is God is nothing and everything, okay? Meaning God is everywhere and nowhere at the same time. Meaning that God is all of reality. What this tells us is this. Symbols. Symbols become reality, okay? The symbols of reality, the representation of reality becomes conflated, okay, into reality itself. And then if we do that, this creates three new ideas that become the underlying basis of modernity, okay? And these three new ideas are capitalism, science, and the nation state. Before we didn't have these three ideas. Capitalism, science, and the nation state. But now we do because we have come to believe that symbols are reality.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0027
+
+## seg-0028 / 00:31:41-00:33:00 / SPEAKER_00
+
+We have come to believe that God is nothing and everything, okay? So let's look at this, okay? What is the underlying basis of capitalism? Money, right? Okay. So let's talk about money, okay? Because I think money is the best way to understand this idea that God is nothing and everything. Okay? So, you and I go back in time, and we ask the people there, what is the basis of wealth in your society? And they might say, gold or silver. And we ask, why is that the case? Why is gold and silver the basis of wealth in society? And they say, well, because gold is beautiful. You can make jewelry out of it. Also, it's very hard to get gold. You have to go mine it, and it's very hard to mine it. And also, it's rare. So, you're like, okay, that makes sense. Yeah, gold can be the basis of wealth. Now, let's imagine
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0028
+
+## seg-0029 / 00:33:00-00:34:16 / SPEAKER_00
+
+some people from a thousand years ago, they transport to our classroom, and they ask us the same questions. What's the basis of wealth in your society? And we say, money. And then they ask, what is money? And then we say, well, money are... you know, paper that the government prints. And then they're like, okay, but that... but wait, wait, wait, wait. That makes no sense, because the government can print as much money as it wants. And we're like, yeah, that's right. And they're like, but... and how do you... how do you trust the government? How do you trust the government not to print, like, $20 trillion today? How do you trust the government to behave itself? And we're like... we don't know. And they're like, then why do you think money is valuable? You understand? Okay? So why do we think money is valuable? Because we have... we believe money is God. Because money is nothing and everything, because the symbols have become reality.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0029
+
+## seg-0030 / 00:34:18-00:35:57 / SPEAKER_00
+
+You understand? Okay, now the question then is, why do we believe this crap? Why do we believe money is God? Why do we believe money is valuable? Because the... the power of monotheism is that it destroys other realities, okay? It crowds out realities. The first is that it symbolizes reality, the second is that it crowds out realities, because before, in human history, we believed there were many realities, there was a spiritual reality. There were many spiritual realities, and in those realities, money didn't really matter, okay? But now, with monotheism, we've destroyed those other realities. Only the material reality exists. But not only that, but for monotheism to work, it has to expand until it becomes true. It's a self -fulfilling prophecy, okay? So aggressive expansionism. Not only will it expand, but it has to destroy those who criticize it, okay? So in society, you are not ever allowed to...
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0030
+
+## seg-0031 / 00:35:57-00:37:06 / SPEAKER_00
+
+You are not allowed to ask the question, wait, what if money has no value because the government can print as much money as it wants? You are not allowed to ask this question. You are not allowed to think of this question. You are not allowed to imagine the possibility of this question, okay? So that's what monotheism is. There are three main characteristics of monotheism that has enabled it to create the world that we live in today, okay? First is it destroyed the idea of symbols. Symbols are now reality, okay? Money does not represent wealth. Money is wealth. Second is the idea that it has destroyed all realities except for the material reality that we live in today. You are not allowed to think of spiritual realities. In school, we do not teach the idea of a spiritual reality, even though in our hearts, we know it must exist. The third is the idea of aggressive expansionism.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0031
+
+## seg-0032 / 00:37:07-00:38:26 / SPEAKER_00
+
+Expansionism. Expansionism is a very important thing because only by expanding can it be true. And that's why the two major monotheistic religions of our time, Christianity and Islam, are so violent, okay? They are the source of most major wars throughout human history, right? So we think capitalism, science, and the nation state are all really good things, okay? But why? Let's look at science. Science only concerns itself with the material reality. So if you can't see it, it doesn't exist. But then this creates a problem because science refuses to engage in hard questions, okay? One question that I think is very interesting is, what is thought? What is consciousness? How do we think? And science, the response of science to all these questions is, don't think about it. It's not a problem. And you're like, wait a minute. Consciousness is what makes us human. We can't figure out what consciousness is. If consciousness is, then we will never know what it means to be human.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0032
+
+## seg-0033 / 00:38:26-00:39:51 / SPEAKER_00
+
+And science response is, a human being are just a sum of biological parts, right? You are just your brain, and your head, and your eyes, and your arms put together, because that's what we can measure. But the question of what is consciousness, how do we imagine things, how do we understand things, science doesn't know, and it refuses to engage in this problem, all right? So what is thought? One more point about symbols. So one thing that you're taught in school, which is not true, is we're so much more sophisticated than ancient civilizations, because ancient civilizations had these superstitious beliefs, like gods, okay? Like Apollo and Athena, and obviously don't exist. So the fact that these ancient humans believe they exist demonstrates how stupid they are. But here's the thing. If you go back to these societies, and you were to analyze thoroughly
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0033
+
+## seg-0034 / 00:39:51-00:41:09 / SPEAKER_00
+
+how they understood Apollo and Athena and other gods, you would understand that they didn't actually believe these gods existed, okay? But they believed these gods were metaphors and symbols for forces in nature that could influence our lives. Does that make sense? Okay. So for example, take the idea of hatred and vengeance. Well, hatred and vengeance would become manifested in gods like strife, okay? And nemesis, okay, nemesis, strife. And the ancients believed this was a better way to understand the world. They understood that these forces were so powerful that we couldn't really control them. Therefore, we must be conscious of these forces and control them better ourselves. Okay? And unfortunately today, we believe that because these gods don't exist, they're just symbols, then hatred and vengeance don't really exist either. They're just states of mind. They're just emotions. And you can just pretend they don't exist, and then you're fine, okay? The word we use for this is positive psychology.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0034
+
+## seg-0035 / 00:41:15-00:42:27 / SPEAKER_00
+
+Have you studied positive psychology? It's the dumbest idea in the world, okay? It's the idea that if you think you're happy, then you're happy, whereas the ancients thought that these were external forces. Okay? And we have to work hard to tame them or to understand them. And I think the ancients had a much more thorough and nuanced understanding of reality than we do, okay? Another idea that we don't have today is evil, right? The ancients, okay, struggled with the idea of evil. What is evil? Where does it come from? And there was a very popular book about evil. At that time, it's something called the Book of Enoch. And the Book of Enoch explains why there was a great flood. Remember in the Bible, there's this flood that wipes out humanity. Onan Noah survives, right? So the Book of Enoch tells a story of why God had to destroy the world.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0035
+
+## seg-0036 / 00:42:29-00:43:40 / SPEAKER_00
+
+So after God created the world, his angels, called the Watchers, saw humans, and they thought that humans were stupid and evil. So they came down to better manage us, okay? But then they started to lust after women, and they started to have children with these women. And these created giants, okay, called the ephelim, the nephahim, okay? Sorry. Nephilim. And these were giants. And so we humans just saw them as, like, gods. So remember the Epic of Gilgamesh? Well, Gilgamesh was a nephahim. And so we started to... We started to make sacrifices and pay tributes to these giants. But over time, these giants became more and more greedy. And so they started to devour us and fight amongst themselves. And so now God, up in heaven, he recognizes this problem. So he creates a flood to destroy these nephahim, these giants, okay? So now they're wiped out. But because they are... Because they are born of angels, they are immortal.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0036
+
+## seg-0037 / 00:43:41-00:44:54 / SPEAKER_00
+
+And so they become these evil spirits. These evil spirits that roam around the earth, okay, and they try to create chaos. There's one great king called Solomon, King David's son. And he discovers these evil spirits, and he captures them with a ring. But these evil spirits recognize that we as human beings are all flawed. So they tempt him with a beautiful woman. And Solomon wants to have sex with her, but she says, to have sex with me, you must want to worship my God. And so Solomon agrees, and he becomes controlled by these evil spirits. Now after monotheism, after the Catholic Church, they banned the Book of Enoch. Because obviously if you're a powerful person, you don't want ordinary people thinking that you can be tempted by evil. If you're an evil spirit, you're going to go tempt powerful people, right? Because it is the most advantageous to you, and the powerful people are the most easy people to tempt.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0037
+
+## seg-0038 / 00:44:54-00:46:15 / SPEAKER_00
+
+Because they love power, right? So today, we're not allowed to ask the question about evil, where does evil come from? Why are people evil? You're not allowed to think it, okay? So monotheism is crying out different realities and possibilities from us. And we live in a world that I think is, I think we live in a world that even though we are much more wealthy and technologically advanced. We are much less sophisticated than in historical times, alright? So let me conclude by summarizing what we discussed and explain what monotheism is and the consequences on our lives because of monotheism, okay? Okay, so the first thing is, back throughout most of human history.... We human beings have lived in a very, very corrupt, very corrupt world. believe that gods are everywhere every day we're not in regards because we believe in spiritual realities okay
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0038
+
+## seg-0039 / 00:46:15-00:47:37 / SPEAKER_00
+
+so and again gods are metaphors so this is pre -modern this is modern now what do we believe we believe that money is God we structure our lives around the idea of money why do we come to school to get good grades so that we can get in university why because we need a job to make money why because buying things will make us happy okay that's what everyone believes God is money money is gone and the ultimate consequence of this in our lives is life is alienating think about the number of depressed people in the world depression is a new idea it didn't exist before think about the number of people who live depressing lives who are unhappy who are angry who are who just hate themselves in their lives okay something that we believe most most of human history is spiritual reality is real okay there's a higher plane there are higher dimensions
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0039
+
+## seg-0040 / 00:47:37-00:48:58 / SPEAKER_00
+
+there are these spirits who roam in these dimensions when we die we will enter these spiritual realms and therefore we must prepare for entry into the spiritual realms by living spiritual lives on earth okay spiritual reality is real now today we only believe that material reality is real is real, and only material reality is real. When we die, we're nothing. We came from nothing, we live our lives, then we die, we become nothing. That's pretty depressing. So what this means for our society is facts matter more than truth. In school you learn facts, you don't learn truth. It doesn't make sense. In science class, you're learning facts, you're not learning truth. There's a huge difference. Facts are things that happen in the world. Truth is how the world works. There's a difference. You don't learn how the world works in science class. You just learn things that happen in the world that happen to be true.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0040
+
+## seg-0041 / 00:48:58-00:50:26 / SPEAKER_00
+
+Now the last major consequence is this. Pre -modern, we believe that slavery was the worst evil. If you believe in spiritual realities, and you believe that when you die, you will just ascend to the heavens, to the spiritual realm, then you want to live your best life on earth. You don't want to be a slave. But now, what are you taught? You're taught dying, death, is the worst evil. The worst thing that can happen to you is dying and death. Because when you die, you become nothing. So what does this mean? It means we are all slaves. If you're afraid of dying, you can't live your best life. You're not going to take risks. You're not going to ask questions. You're not going to explore. We are all slaves, every one of us. Because we are afraid to die. Okay? If you think about it, monotheism is what creates the world we live in today, and it explains why we live the lives we do today.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0041
+
+## seg-0042 / 00:50:26-00:51:27 / SPEAKER_00
+
+Alright? Now, what's important for us to understand is, this is a story. This is not an instant change, okay? This is something that will have to be fought over for about 1,000 years. Because monotheism, this godhead, it is such a strange idea that people refuse to believe it. This is a minority religion at that time. But again, because this is a religion that must expand, it will eventually triumph and create the world we live in today. But only by killing millions of people. Millions and millions of people in these religious wars. So from the first day, from the day the Catholic Church was built, it was engaging in crusades and inquisitions against people who refused to believe in this orthodoxy. Alright? Okay. So, I know this was a lot to take in, alright? But are there any questions that you have?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0042
+
+## seg-0043 / 00:51:40-00:51:41 / UNKNOWN
+
+That's right.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0043
+
+## seg-0044 / 00:51:46-00:53:02 / SPEAKER_00
+
+Okay, so I argue that we are less sophisticated than before. Because before, everyone was very intuitive. And very imaginative. Meaning that they could imagine themselves living in different realities at the same time. Right? There's the physical reality that you experience. But then there's also this high dimension, the spiritual reality that you could feel. Okay? So, for example, if I were to fight with you, okay? If we had a fight, I would experience that. But I could also see maybe this god behind me pulling my strings, and the god behind you pulling your strings Okay? So, when you read the Iliad, there are all these other realities that exist on top of each other. The reality that we live, but also a higher reality where the gods negotiate amongst themselves. And again, this is a metaphor, a symbol for these structural forces that govern the universe. Does that make sense? Alright. So, when I mean sophisticated, I really mean much more intuitive and much more imaginative than we are today.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0044
+
+## seg-0045 / 00:53:10-00:54:15 / SPEAKER_00
+
+Okay. So, what made us lose the ability to imagine, right? Okay, well, it's these three things really. Capitalism, science, and the nation state. Right? Do you understand? Because with capitalism, what it teaches us is that money is the only good, the highest good. So, it crafts on other things, like for example, love of each other, interconnectedness. Right? If you are a mother who loves your child, guess what? It doesn't matter. But if you think about it, the most beautiful thing in the world is a mother loving her children. But because of capitalism we're taught, that doesn't exist. Because you cannot financially exploit it. You can't measure it. Okay? Then you look at science. Science is the ultimate religion. Because everyone believes it has to be true. It's objective. But what you will learn next semester, I think, is that, okay, we
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0045
+
+## seg-0046 / 00:54:15-00:55:37 / SPEAKER_00
+
+won't do it this semester, but what we will learn next semester is the idea of objectivity. Okay? Objectivity. It doesn't exist. And this is suddenly proven. Okay? This is something that elite scientists know, but which no one else, but like, which we don't really understand. Objectivity doesn't exist. All right? In fact, what elite scientists now know, and this is a very strange idea we will explore next semester, is the universe, reality. It is a collective, it is a collective hallucination. Do you understand? We'll learn this next semester. Okay? But the idea is that the universe is what we imagine it to be. It doesn't exist on its own. Does that make sense? Okay? But we believe it exists on its own because of science. All right? So when you go to science class, you think you're learning the truth, but you're actually learning a religion that, um, hinders you from imagining other realities. Okay?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0046
+
+## seg-0047 / 00:55:37-00:56:11 / SPEAKER_00
+
+And of course, the nation state. The nation state now is like God. Right? Who are you? Well, you are a Chinese citizen. But before, we didn't think like that. We just saw ourselves as members of a community. And it could be a global community. Okay? And you could have many identities. But now, if you're a Chinese citizen, you're not an American citizen because you're in competition with each other. Okay? Does that make sense? So these are the three underlying ideas of the reality we live in today. And this wasn't true before.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0047
+
+## seg-0048 / 00:56:17-00:56:18 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0048
+
+## seg-0049 / 00:56:19-00:56:39 / SPEAKER_00
+
+So this is a hard idea to understand. But next semester, it will become clearer and clearer. Okay? Any more questions? Okay. All right. So, um, good.
+
+Ref: video:predictive-history-za30rbc3ttg@transcript:v1#seg-0049

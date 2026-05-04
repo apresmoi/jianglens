@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-za30rbc3ttg-semantics-pkt-0002",
+  "source_id": "video:predictive-history-za30rbc3ttg",
+  "source_date": "2024-12-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0009",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0010",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0011",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why Paul's small faction could triumph: the Jewish-Roman wars destroyed the temple, weakened James' authority, scared the diaspora, and made Paul's church an escape route from Roman danger.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He then gives the social mechanism: Paul's church mirrored the Roman paterfamilias, turned bishops into dogmatic heads, and scaled through patron-client networks when aristocrats became bishops.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He presents Constantine's conversion as a sovereign consolidation move: the church challenged imperial authority, so Constantine sponsored a Catholic Church, orthodoxy, and elimination of rival Christianities.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012"
+      ],
+      "note": "The phrase 'does that make sense' is Jiang checking comprehension, not a student question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Jewish-Roman war of 66 to 73 CE created three conditions favorable to Paul's church: temple destruction, destruction of James' group, and fear among diaspora Jews.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0009",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0010",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-28 of events in 66-73 CE.",
+      "topic_tags": [
+        "Paul",
+        "Jewish-Roman wars",
+        "diaspora"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paul's church was seen as an escape mechanism for diaspora Jews from repeated Roman-Jewish wars.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0011",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-28.",
+      "topic_tags": [
+        "Paul",
+        "diaspora Jews",
+        "assimilation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The church scaled because it mirrored Roman household hierarchy and patron-client relations, letting bishops control dogma and aristocrats convert networks.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Lecture model on 2024-12-28.",
+      "topic_tags": [
+        "pater familias",
+        "bishop",
+        "patron-client"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Constantine adopted Christianity to unify the empire and consolidate authority after civil war, in the recurring pattern of kings introducing religions to consolidate rule.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-28.",
+      "topic_tags": [
+        "Constantine",
+        "sovereignty",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Orthodoxy creates a problem because Christian history must be made on the spot while eliminating divergent forms of Christianity.",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture interpretation on 2024-12-28.",
+      "topic_tags": [
+        "orthodoxy",
+        "Catholic Church",
+        "heresy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0010",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0011"
+      ],
+      "moment": "Paul wins because catastrophe creates a vacuum: the temple burns, James' authority collapses, and the diaspora needs a Roman-safe Jewish identity.",
+      "source_phrase": "Paul had a new definition",
+      "why_it_matters": "It turns doctrinal victory into an institutional response to war and fear.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014"
+      ],
+      "moment": "The church becomes a machine for scaling social networks: bishop, dogma, aristocrat, clients, conversion.",
+      "source_phrase": "mechanism for him to expand his social network",
+      "why_it_matters": "It preserves Jiang's concrete mechanism for institutional growth.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015"
+      ],
+      "moment": "Constantine's conversion is presented as the move of a great king using religion to consolidate authority.",
+      "source_phrase": "to unify the empire and to consolidate his authority",
+      "why_it_matters": "It ties Christianity's imperial success to Jiang's larger king-making model.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "pater familias",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Roman household hierarchy in which the father rules a household that functions like a small empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "dogma",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The bishop-controlled authoritative interpretation of how Jesus is to be understood.",
+      "confidence": "high"
+    },
+    {
+      "term": "orthodoxy",
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Right thinking enforced by the Catholic Church against divergent Christian interpretations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0009",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012",
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015"
+      ],
+      "note": "The packet moves chronologically from the 66-73 CE war through later Jewish-Roman wars to Constantine's post-civil-war consolidation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013"
+      ],
+      "note": "Some terms in the patron-client explanation are ASR damaged; the semantic extraction uses clear surrounding terms like clients, dignitas, bishop, and dogma."
+    }
+  ]
+}
