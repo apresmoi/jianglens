@@ -1,0 +1,173 @@
+{
+  "packet_id": "predictive-history-2odo8lokuo8-semantics-pkt-0002",
+  "source_id": "video:predictive-history-2odo8lokuo8",
+  "source_date": "2025-03-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0009",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0010",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0011",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes Islam's five pillars as simple and demanding, then restates three unresolved mysteries: missing early records, the lack of a named successor, and Al-Aqsa on the Temple Mount.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0013",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0014",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from Bukhara and Baghdad to the Abbasids' world-making infrastructure: denser trade, the Maritime Silk Road, the House of Wisdom, and the synthesis of Greek, Persian, Jewish, Indian, and Chinese knowledge.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0009",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0016"
+      ],
+      "note": "All focus material is Jiang's lecture; references to students and Doug are addressed by Jiang rather than independent questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Islam's five pillars make the religion unusually clear and concrete compared with Christianity and Judaism.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Comparative religious model in this lecture",
+      "topic_tags": [
+        "five-pillars",
+        "clarity",
+        "islam"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents missing records, succession, and the Temple Mount as three mysteries whose answers are partly inaccessible because the early historical record is lost.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0010",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0011",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Method caveat in this lecture",
+      "topic_tags": [
+        "historical-record",
+        "early-islam",
+        "interpretation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Abbasid Caliphate made existing trade routes richer, denser, and faster, creating a form of globalization long before modern globalization.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0014",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical interpretation of the Abbasids in this lecture",
+      "topic_tags": [
+        "abbasids",
+        "globalization",
+        "maritime-silk-road"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The House of Wisdom is framed as a successor to the Library of Alexandria: a system for gathering, systemizing, and disseminating knowledge across civilizations.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Institutional model in this lecture",
+      "topic_tags": [
+        "house-of-wisdom",
+        "library-of-alexandria",
+        "knowledge-system"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0014"
+      ],
+      "moment": "The Abbasids are not just another empire; Jiang says they eventually create the world we live in by thickening old trade routes into something like global infrastructure.",
+      "source_phrase": "create the world that we live in today",
+      "why_it_matters": "It raises the Abbasids from a regional golden age to a hidden foundation of modernity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0016"
+      ],
+      "moment": "Baghdad becomes the meeting room of Greek, Jewish, Persian, Indian, and Chinese knowledge.",
+      "source_phrase": "the three major creative civilizations would meet and exchange ideas",
+      "why_it_matters": "This gives the Golden Age its mechanism: not isolated brilliance, but organized civilizational mixing.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "five pillars of Islam",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "The core practices Jiang names as belief in one God, prayer, charity, fasting, and Hajj.",
+      "confidence": "high"
+    },
+    {
+      "term": "Maritime Silk Road",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0014",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The sea trade network Jiang attributes to Abbasid initiative, bringing China more fully into world exchange.",
+      "confidence": "medium"
+    },
+    {
+      "term": "House of Wisdom",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The Abbasid institution Jiang presents as organizing cross-civilizational knowledge for mass dissemination.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0014",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015"
+      ],
+      "note": "Dated 2025-03-11: Jiang explicitly treats premodern Abbasid trade networks as a form of globalization that anticipates the modern world.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript repeats 'Maritime Silk Road' where Jiang likely contrasts overland and maritime routes; preserve the broader claim about Abbasid sea trade."
+    }
+  ]
+}

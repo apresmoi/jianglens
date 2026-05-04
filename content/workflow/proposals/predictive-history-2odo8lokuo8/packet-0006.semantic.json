@@ -1,0 +1,189 @@
+{
+  "packet_id": "predictive-history-2odo8lokuo8-semantics-pkt-0006",
+  "source_id": "video:predictive-history-2odo8lokuo8",
+  "source_date": "2025-03-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0040",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0041",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang answers the missing-records mystery by treating early Islam as a revolution that later became the social order, then argues that purges, civil wars, and legitimacy struggles required the first century of Islamic history to be disguised.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0043",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0044",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "A student, identified by Jiang as Doug, raises the point that written history itself is a Greek and Roman habit; Jiang accepts and develops it, noting that many cultures lacked institutions or incentives to write history because written history can constrain empire.",
+      "speaker_attribution": "Doug and Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0046",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "He answers the succession and Temple Mount mysteries with speculative explanations: Muhammad did not need a successor if the end of days was imminent, and Al-Aqsa may have begun as a promised third temple before Arab rulers reversed course.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0043",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0044",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript does not preserve Doug's full question, but Jiang explicitly attributes the point about written history to Doug.",
+      "suggested_speaker": "Doug then Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's first answer to missing early records is that Islam began as a revolution against the social order and later had incentives to hide that revolutionary origin.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Speculative historical explanation in this lecture",
+      "topic_tags": [
+        "early-islam",
+        "revolution",
+        "historical-memory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues early Islamic expansion may have been more revolution than conquest because many enemies surrendered or opted into a new belief system rather than being militarily defeated.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0040",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Speculative historical explanation in this lecture",
+      "topic_tags": [
+        "revolution",
+        "conquest",
+        "conversion"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "If Christians and Jews were companions of Muhammad, later Arab rulers would have legitimacy reasons to purge both those people and their history.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0041",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Speculative historical explanation in this lecture",
+      "topic_tags": [
+        "purge",
+        "legitimacy",
+        "companions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Doug's point, accepted by Jiang, is that written history is not universal; it comes especially through Greek and Roman habits and can constrain later empires.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Classroom exchange in this lecture",
+      "topic_tags": [
+        "historiography",
+        "written-history",
+        "empire"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang speculates that Al-Aqsa was originally promised to Jews as a third temple, then transformed into a mosque as Arab rulers consolidated authority and feared empowering Jews.",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0046",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Explicitly controversial interpretation in this lecture",
+      "topic_tags": [
+        "al-aqsa",
+        "third-temple",
+        "arab-rule"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0040",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0041"
+      ],
+      "moment": "Jiang flips Islamic expansion from conquest to revolution: enemies surrender because ordinary people are disgusted with the old leadership and opt into a new belief system.",
+      "source_phrase": "It's not a conquest. It's a revolution",
+      "why_it_matters": "This is the mechanism that explains why records and legitimacy later become so unstable.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0047"
+      ],
+      "moment": "The most explosive hypothesis is that Al-Aqsa began as the third temple and only later became an Islamic mosque through political consolidation.",
+      "source_phrase": "Originally it was meant to be the third temple",
+      "why_it_matters": "It is a high-heat, explicitly speculative answer to the Temple Mount mystery.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "purged to history",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0041",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Jiang's phrase for political elimination that also removes people from official memory.",
+      "confidence": "high"
+    },
+    {
+      "term": "third temple",
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0046",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Jiang's speculative original purpose for the structure later known as Al-Aqsa.",
+      "confidence": "low"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0042",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0047"
+      ],
+      "note": "Dated 2025-03-11: Jiang repeatedly flags these early-Islam reconstructions as explanations and interpretations, not settled historical fact.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0046",
+        "video:predictive-history-2odo8lokuo8@transcript:v1#seg-0047"
+      ],
+      "note": "Jiang explicitly calls the Al-Aqsa/third-temple explanation controversial and interpretive; downstream prose should preserve that status."
+    }
+  ]
+}
