@@ -1,0 +1,261 @@
+# Game Theory #1:  The Dating Game
+
+Source: https://www.youtube.com/watch?v=hE4l9WyLF3U
+
+## seg-0001 / 00:00:00-00:01:35 / SPEAKER_00
+
+This semester, we are going to analyze a question together, which is, how do societies behave? Why do we do what we do? What motivates us? What drives us? And there have been different theories as to what drives human behavior. Okay, so let's go over some theories. The first theory comes to us from religion. And the idea is that we are all driven in a war between good and evil. There's a good side to us, and there is an evil side to us. There's Satan, and there's God. And we are constantly in a battle in ourselves. Do we move towards Satan, or do we move towards God? And that's the core of human civilization. So religion is meant to give us the strength to show us the path towards goodness. Okay, that's one theory. Another theory comes to us from biology. Okay, and the idea is sex. We want to pass on our genes forward, because that's important, our existence.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:36-00:02:43 / SPEAKER_00
+
+If we cannot have children, we all die. So the point of our existence is to have children and have them pass on their genes to others, okay? And for males and females, life is different. Because as a man, you have a penis. And all you have to do is stick your penis into a woman, and you're good. Okay, that's all you have to do. So you want to stick your penis in as many women as possible. And that's the point of your existence. But as a woman, your life is different, because it's hard to give birth. It takes nine months to incubate the child in your womb. And then childbirth is the most painful experience anyone will ever experience. And then the child, it'll take like 16, 18 years to raise a child to maturity. So it's a huge investment on your part. So as a female, you have to be very cautious, very careful about who you are.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:43-00:03:58 / SPEAKER_00
+
+Who you marry, or who you have sex with, okay? And so life is a struggle between men who want to put their penis into anything, and women who want to be careful about who they marry, okay? So that's the idea of biology. Then, of course, you have the idea of race and culture. That the world, it's a struggle between these different races and cultures for dominance. And each race, each culture, has their own. They have their own characteristics, okay? So maybe the yellow race, they're very clever, but they're very weak. And then the white race are brave, but kind of stupid. And the black people are like, anyway. Anyway, that's another theory. I'm not saying it's correct. I'm just saying it's a theory that people believe in. Then you have economics, right? And what they believe is that we are driven by money or self -interest. We want to make as much money as possible, and that's what drives us, okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:58-00:05:22 / SPEAKER_00
+
+That's pretty simple. And the last big theory is the idea of liberalism. That comes from the Enlightenment. And here, the theory is that history is a progress towards enlightenment, to rationality, to truth, and to justice. So... The inevitability of history, of human development, is towards paradise, towards heaven. And maybe, you know, we go off track now and then, but inevitably, we move towards God. And this comes to us from the Enlightenment. We call this liberalism. So these are five theories. There are others, but these are five theories that show you the diversity, the variety of ideas out there. What I will do this semester is present to you another theory, which I call game theory. And my argument to you is that game theory is the best way to understand how humans behave. What drives nations, what drives societies, what drives humans, okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:22-00:06:43 / SPEAKER_00
+
+So that's my argument to you this semester. So the entire semester, we will study game theory. All right, so what is game theory? All right. Game theory is very simple. The idea is that there are three components to a game. Just three aspects to a game. There are the players, the participants, okay? Then there are the rules or the constraints. In mathematics, we would call this the boundary conditions, okay? The limits to the game. And the third aspect are the incentives. Basically, how do you win this game? What do you get from this game? And my argument to you this semester is that if you study all three, okay? If you figure out who the players are, if you understand the rules, if you understand the incentives, then you understand how the game works. And then, therefore, you can predict how the game will turn out, okay? That's the skill that I want to teach you this semester.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:43-00:07:49 / SPEAKER_00
+
+And what I want to show you, or what I promise you, is that if you learn game theory, there'll be three major benefits to you as a student. Again, you don't have to learn game theory. You don't even have to come to class. But if you spend the effort to learn game theory from me, then three things will benefit you, okay? The first benefit is that you become a better person. The point of education, guys, it's not to get good grades or get into university or get a good job. What I believe is the point of education is to make you into a better person, which means that you are a much more thoughtful person who can better analyze yourself and the world around you. This allows you to make better decisions. This makes you a much more curious, much more moral, and much more imaginative person, okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:49-00:09:03 / SPEAKER_00
+
+So one benefit of learning game theory is you become smarter, and therefore you become a better person, okay? That's number one. Number two is you'll be able to understand the world that we live in because this world is kind of stupid, okay? So you may have heard that Donald Trump and the American military went into Venezuela for no good reason, kidnapped a president of Venezuela, which is against international law, and then brought him back to New York City where he will stand trial. It's really stupid what happened. But then, but our class, it's not meant to say this is stupid or this is wrong because we all know it's stupid and wrong. We're trying to figure out why this happened and what this will lead to. And so we will be in this class studying and analyzing current events to understand how the world really works, why people behave the way they do, and understand how the game of the world works.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:03-00:10:09 / SPEAKER_00
+
+And this requires you to actually follow the news, okay? It's not hard to spend five minutes and just read up on the news. But we'll be looking at the war in Ukraine. We'll be looking at a new war between Israel and Iran. We'll be looking at what's happening in South America. We'll be looking at the conflict between China and Japan. We'll be looking at the relationship between the United States and China, okay? So this is relevant to your lives because you will eventually have to work and live in this really screwed up world that we live in, okay? And the third benefit is once you understand the game, you will have predictive powers. You'll be able to understand how the world will develop. You'll be able to analyze your own life and understand how you will develop. And that gives you control sovereignty over your own destiny, okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:09-00:11:14 / SPEAKER_00
+
+That's my promise to you. If you actually spend the time to listen carefully in class, to participate fully, to follow the news, and you spend the entire semester doing so, then these three benefits will start to accrue in you, okay? This is a life -long struggle to learn game theory. I'm a lot older than you are. I have a lot more experience than you, okay? But I want to show you how to look at the world through game theory. Another phrase that you learn in school is I'm going to teach you how to think critically about the world. Or I'll just teach you how to think, okay? All right? Are we clear? Any questions before I move on? All right. So this is all very abstract. And so what I'm going to do now is I'm going to use an example of a game to show you how game theory works, okay? All right. So let's use a really simple game, okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:14-00:12:28 / SPEAKER_00
+
+Let's imagine there are five boys and five girls. And they want to get married, okay? So these are the players. And what we're going to do is we're going to divide them up into male and female. Then what we're going to do is we will rank the males and the females. Okay? So we're going to rank 10 players into five, four, three, two, one. Five, four, three, two, one, okay? And so how do we rank them? Well, we rank them according to their attractiveness using three criteria. The first is genes. The second is wealth. And the third is status. Okay? So genes is very simple. It means that you're good looking. It means you're tall. It means you're healthy. You will live a long time, okay? Genes is pretty simple to understand. Wealth just means that you and your family have a lot of money. Status means that you have a lot of friends.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:29-00:13:51 / SPEAKER_00
+
+You have a high status job. You come from a really powerful family, okay? So these are the three criteria that we can use to judge a person's attractiveness. And then what we can do is rank them from five to one. Five means really the best. One means the worst, okay? And we can rank all 10 according to these metrics. So according to biology, what we call evolutionary biology or evolutionary psychology, we're always trying to find the best genes to procreate because this ensures that our genes pass on, okay? So remember that men have a penis which they can stick into anything. Women have to give birth, so the strategies are different, okay? So basically five, number five, is trying to have sex with all five women, right? That's his strategy. But if you want number five, you want to ensure that she only gets five, okay? So these are different strategies.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:52-00:15:15 / SPEAKER_00
+
+And according to evolutionary psychology, all five of these females should try to procreate with number five, okay? But we know you can't do this. It's suicidal. Why is it suicidal? Because the human rights couldn't survive, right? It'd be idiotic to do something like this where all five women are just trying to marry this one guy and maybe him, okay? But these three are eliminated because then your society would collapse. You can't have that many children. So this can't possibly be true, right? So let's figure out what rationally what should happen. Okay, all right. So let's think about this rationally or from an economic perspective. All right. So again, number five, he's trying to maximize the game. So he's trying to sleep with all five women, okay? The problem if he does that is these five know they're all being played. And they recognize that this guy is probably an asshole. So five, the best woman is like, you know what?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:16-00:16:16 / SPEAKER_00
+
+There's not much difference between four and five. So I'll just go. I'll marry this guy, right? So number four is gone. And number four is like, you know what? Five is probably making a good decision. So I'll just go marry number three, right? And then what happens now is that five by trying to marry all the woman is stuck with the worst choice, right? So that's kind of stupid for him. He's stuck with number one. But guess what? If any of these guys try this crap, the same thing happens to him, where four is like, you know what? I can't get five, but I'll try to get four and three together. And then three is like, screw you. I'm going to go and marry two. Four is going to marry three, okay? Then he's stuck with one as well. Or he's just alone. So if they try to individually maximize their outcome, they all get screwed in the end.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0013
+
+## seg-0014 / 00:16:16-00:17:27 / SPEAKER_00
+
+So the only way out of this is if they cooperate, okay? And the best way to cooperate is basically five is like, you know what? Screw this. I'm not going to go after four or three. I'll just have my five, okay? Four is like, yeah, I'll just go marry four. No dating. No games. I'll just go marry four. And three marries three. Two marries two. And one marries one, okay? And the world now is perfect. Everyone has a husband and a wife. And they can now just have children. And the world is perfect. And this is actually the best strategy for all the players, right? We call this, the word in game theory we use for this is called the Nash equilibrium. Nash equilibrium just means that you always reach a state in which all the players maximize their outcome. The Nash equilibrium. And so the world makes sense now.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:28-00:18:46 / SPEAKER_00
+
+There's a problem with this though. The problem is, in real life, no one does this. Okay? In real life, no one actually follows this rule. Nash equilibrium is just a theory we made up. But in real life, this is not what happens. What happens in real life is we choose to be suicidal. Okay? So, let me tell you about a game I play. So last year, I was teaching this class and I asked the boys and I asked the girls. Pretend you are now 30 years old. Right? Your parents are pestering you to get married. And you've been on the dating market for 10 years. There's really no one that you think is perfect for you. You have basically given up on love. Imagine that you want to get married now. And tell me what is the minimum requirement you need in order to agree to marry someone else? Okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0015
+
+## seg-0016 / 00:18:46-00:20:01 / SPEAKER_00
+
+What's the minimum? Okay? And then I had the boys and the girls write down a response. The boys were pretty simple, right? Well, you know, as long as she likes me and as long as I can put my penis into her, I'm good. Okay? It's that simple. Okay? It really is. Guys are like, yeah, I'll settle for anything. That's the boys, right? Girls were different. Girls were like, okay, if I don't love him, if I'm not even attracted to him, I need about a million dollars a month. Really? Yeah. I need about a million dollars. Last class? Last semester. Okay. All right. So, this makes no sense, right? So, in theory, in theory, we should follow the Nash Equilibrium. But in real life, what happens is this. All the girls want this one guy. Okay? And maybe number four. They'll settle for number four. But three, two, one, they don't want. And we know because just look at the world around you.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:01-00:21:11 / SPEAKER_00
+
+Look at these billionaires, right? Like Elon Musk. How many wives does he have? How many children does he have? Right? All the women in the world, many, not all, but many, just want to marry actors like Brad Pitt. Billionaires like Elon Musk. Right? And three, two, and one, they, what do they do? Well, they watch Netflix. They watch porn. They play video games. They've given up on life. Okay? They're like, we don't care. We call these people incels, right? Involuntary celibates because, basically, they've given up on life and life has given up on them. So, this entire competition is between number five and four for all the women in the world. And this is, again, suicidal. This will lead to the death of humanity. And the question now is, okay, why are we suicidal? And, so, let's look at game theory analysis. Right? The players, the rules, and incentives.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0017
+
+## seg-0018 / 00:21:11-00:22:13 / SPEAKER_00
+
+We know what the players are. The players are doing stupid things. The rules, we know, okay? But incentives is something that we have to think about. Why are they behaving like this? And the answer is because they're not interested in sex or procreation. What they're interested in is status. Okay? That's the game they're playing. Status. I don't want to marry someone to have children. I want to marry someone so I can take a picture of her and post it on Instagram so I can get a lot of likes. I want to marry someone so I can walk with her in the mall and all the guys are jealous. I want to marry someone who I can brag about. Okay? It's a game about status, not a game about sex or procreation. Do you understand? People are not being rational here. People are trying to maximize their status in life. And that's why everyone's behaving like this.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018
+
+## seg-0019 / 00:22:13-00:23:14 / SPEAKER_00
+
+Number one, she may be the ugliest woman in the world, but she's still like, you know what? It's still my choice whether or not to have kids. And having kids is a pain in the ass. So if I'm going to make this sacrifice, this guy better be good looking. Okay? Or this guy better be rich. Otherwise, why would I want to have kids? Okay? So, this is why people behave the way they do. If you think about it this way, what you recognize is that people are rational. But to understand why they're rational, you have to understand and figure out what the game is. Okay? But then this leads us to a question which is, okay, well clearly this is wrong because if we behave like this throughout human history, we wouldn't be here today. Okay? How is it that we have this game today and we're going to die, but we must have come from somewhere.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0019
+
+## seg-0020 / 00:23:14-00:24:40 / SPEAKER_00
+
+We've been around for like a long time. So how is it that humans have survived for so long doing these stupid things? And the answer is because the game changes over time according to the superstructure of society. Okay? The superstructure. The superstructure is what determines the nature of the game. Superstructure, just think about the big picture, right? How many people are there? Is society wealthy or poor? Are there enemies to this society? Okay? This is the superstructure, the big picture. Demographics, economics, culture, politics, religion. And these things together is what determines the nature of the game. All right? So let's look at three examples of superstructure. All right? Example one is you have a low population society. Okay? Low population is like maybe 200 people. 200 people. Okay? A village, basically. They are poor and low technology. Low technology just means they don't have access to clean water. They don't know what hygiene is.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020
+
+## seg-0021 / 00:24:40-00:25:56 / SPEAKER_00
+
+They don't understand what germs are. So it's very easy for a woman to die in childbirth. Okay? And low competition. Low competition just means that there are no competing villages against them. Okay? So that's one kind of superstructure. The early superstructure of human society. Okay? Then you have maybe growing population. Okay? So we're talking about like maybe 10,000 people, 20,000 people. They are now growing in wealth. Growing wealth. They have some technology. Meaning they have access to clean water. And they have high competition. Okay? Meaning that they're competing against different villages and societies around them. Okay? That's another superstructure. Now the third superstructure is overpopulation. Okay? Which is where we live in today. Okay? Where in China you have a billion people. Too much wealth. Okay? But with wealth you have inequality. Right? And then you have high technology. High technology just means that every woman who gives birth will not die.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0021
+
+## seg-0022 / 00:25:56-00:27:02 / SPEAKER_00
+
+And every child born will live. Okay? And then you have something called equilibrium. Equilibrium just means that yeah, there's competition but they're not going to go to war against each other. The world is basically peaceful. Okay? And according to superstructure the game is going to change. So let's go back to the game. Okay? We have 10 people. In a low population poor society guess what? They're not going to date. What they're going to do is they might get married but they're going to have sex with each other. Why? Because as a woman the only way to ensure that your child survives is if all the men in the village want to protect and nurture the child. They will do that if they believe that the child could be theirs. Okay? So the woman will maybe have a husband but the woman will also choose to sleep with other men to disguise paternity. Does it make sense?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:02-00:28:02 / SPEAKER_00
+
+So there's no dating there's just lots and lots of sex in order to maintain social cohesion. Okay? Now in a superstructure number two there's no dating either. Why? Because this society is in competition with other societies and they need to have as many children as possible. So what the solution here is to have arranged marriages. Arranged marriages. Where you know who cares who you marry just have lots and lots of kids. Okay? There's no dating either. Just have lots and lots of kids. You marry who your parents tell you to marry. You marry someone that you know. You marry your childhood best friend who cares. Okay? But you marry someone you have lots and lots of kids. Okay? That's superstructure number two. Superstructure number three is the one we live in. And here you have a dating game. Right? Because why? Because the odds of you obtaining status is really really low. Okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0023
+
+## seg-0024 / 00:28:02-00:29:31 / SPEAKER_00
+
+And the only way that you can change your status is by marrying up. And that's why you have a dating game. A dating game is an opportunity for you to find someone better than your social demographic circumstance can suggest. Okay? And that's why you have low decreasing fertility rate. Okay? Where over time because of the dating game society will collapse. Okay? Does that make sense? Alright. So now you're in the government and all around the world women who are wealthy well educated are refusing to have children especially in East Asia. Right now the fertility rate in China is about one. Okay? About one. The replacement rate that you need is a 2.1. So just to maintain your current population levels every woman in China needs to give birth to at least two kids. But right now on average only in China. And the worst thing is that this trend is increasing. So five years ago the fertility rate was maybe 1.7.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0024
+
+## seg-0025 / 00:29:32-00:30:46 / SPEAKER_00
+
+Now it's one. Okay? So the trend is very very negative. Okay? So governments all around the world are trying to figure out what to do. How do you convince women to have more kids? And what we've discovered is it's impossible. We can pay you more money like they do in South Korea. Guess what? It doesn't work. Because people don't want money. They want status. And status is a zero -sum game. Okay? Money is infinite but status power is a zero -sum game. So we have overpopulation we have too many people competing for too few status positions. You have decreasing fertility rates. And there's nothing you can do about it. The moment you give women choice they choose to improve their lives by marrying someone better. Okay? Not all but most. And so over time what happens is your society collapses. If you look at history the best
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:46-00:32:09 / SPEAKER_00
+
+indicator that a society is about to collapse is if the woman who are wealthy and well educated if they refuse to have children. This is the same this is what happened to the Romans who collapsed. This is what happened to many empires. This is what's happening around the world today in America in Britain in Europe in China. Okay? And this tells us that society is collapsing. So in other words what this really is okay these superstructures it tells us the life cycle of a civilization. Right? So this is when civilization is young then it matures it grows and then it collapses. Okay? And if you look at history all civilizations go through this process of birth maturation and then collapse. And there's no way around it. So the power of game theory is that just by one aspect okay if I just study this game alright I figure out who the players are the rules and the incentives I can figure out what the superstructure of this civilization is.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0026
+
+## seg-0027 / 00:32:09-00:33:27 / SPEAKER_00
+
+Okay? And then once I have these two I can now figure out where it came from and where it's going. Okay? That's what I want to teach you in this class. How to analyze a situation so you understand the players the rules and incentives which will give you insight into the superstructure so that you can figure out where it came from and then you can also predict where it's going. Alright? So but you can also look at the superstructure and figure out what the game is being played. Okay? So this is one example but throughout the semester we'll be doing many many many different examples of game theory. Is this clear so far? Are there any questions? Any comments? Any questions before I move on? Alright. So let's just look at some basic facts. Okay. Alright. This is a map of the world.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0027
+
+## seg-0028 / 00:33:28-00:34:29 / SPEAKER_00
+
+Okay? As you can see okay oh sorry so the color scheme is this. The red is where the population the society has an above replacement fertility rate. Okay? So above 2.1. If it's dark red like here in the middle of Africa it's six to seven or six above. Okay? Because Africa is in a situation where it's a growing society with middling tech so a lot of people die lots of competition so to survive families have to give birth to a lot of kids. Okay? They have no choice in the matter. But then you move to the rest of the world. Okay? So this is North America Europe and East Asia the three wealthiest parts of the world. And guess what? The fertility rate is collapsing because now we've entered into the end game where it is overpopulation too much wealth so too much inequality and so women are forced to pick the best possible mate or not have children at all.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0028
+
+## seg-0029 / 00:34:30-00:35:37 / SPEAKER_00
+
+Alright? And here the situation is very very dire. North America and Europe are kind of okay. Why? Because of immigration. Because even though their women are not having children they can choose to import people for their labor force. But East Asia is really really screwed guys. Okay? So just look at this region. Okay? So China is one but the worst is North Korea oh sorry South Korea. South Korea has the lowest population rate in sorry the lowest fertility rate in the world. They're at between 0.6 to 0.8. So they're probably gone in 50 years time. It's so bad that when you go to South Korea there are signs outside restaurants that says no dogs and no kids. They think that kids are a problem. Okay? So you look at the these areas again they are poorer so women are forced to have more children in order to survive.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0029
+
+## seg-0030 / 00:35:38-00:36:48 / SPEAKER_00
+
+Okay? But you look at wealthy areas well they're probably gone in 100 years time. Okay? It's total total collapse. The solution that governments are choosing right now is to import immigrants. Okay? Especially so these are the trends right now. And it's causing a lot of disruption in society because guess what guys people don't like outsiders. People don't like immigrants. But they don't have a choice in the matter because along with the fertility crisis is the aging crisis where your population is getting older and older. Okay? So life the world is not that simple. If you want to know who will rule the world in 100 years time just figure out which society in which society do wealthy well educated women choose to have children. And then that society will rule the world. Okay? It's that simple right? Well unfortunately if you do it that way you get a really really disturbing answer.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0030
+
+## seg-0031 / 00:36:48-00:38:06 / SPEAKER_00
+
+Okay? So this is per capita GDP. Okay? So how much people make. Alright? So obviously if you're zero you're very poor and if you move to over here you're very wealthy. Okay? So the United States is the wealthiest society in the world. Right? Sure we can understand that. Then this is the fertility rate which tells us how many children women have on average. Okay? So again 2.1 is replacement rate. Okay? 2.1 is replacement rate. So the United States is actually below replacement rate but the United States doesn't really care because they can import immigrants. Okay? Um China is probably around here somewhere. Somewhere. Okay? Um Angola is up here but it's poor. So what this map tells us is a country that is most likely to be dominant for the next 50 years is this country. Israel. Okay? It is the only wealthy western high tech society in which women choose to have more than two kids.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0031
+
+## seg-0032 / 00:38:06-00:39:16 / SPEAKER_00
+
+Okay? This is what game theory teaches us. And yeah I know there are people who are like yeah but Israel it's um it has 9 million people and and um it's in the middle of a desert and everyone hates Israel. I understand that. Thank you very much. Okay? I understand that. But if you just analyze how the game works okay if you just look at it objectively from a game theory perspective you are forced to conclude that Israel right now has the major advantage over everyone else. Now it is possible that societies will change the fertility rate as the world changes. Okay? But I'm saying that given the current state of things Israel their growth trajectory is very very high. But then the question then is okay why is it that Israel they are different from everyone else? And the answer is because the world hates them. Okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0032
+
+## seg-0033 / 00:39:16-00:40:32 / SPEAKER_00
+
+Because they think they are different from everyone else and and they must unite together to survive. So in Israel fertility is status. Okay? If you are a woman and you give birth to a lot of kids that means that you love Israel. That means that you are doing what you can in this war for survival. It means you are a patriot. Okay? Um but this has to do with religion. So Israel what the west has done is not only um has it created a dating game where women can choose to have kids but the western world has also given up on religion and embraced materialism. Right? So what is valued in our world in the west it's not patriotism or love of family or religious duty it's just how many Instagram followers you have. It's how many views you have. It's how many YouTube subscribers you have. It's how many how much money you have. Okay?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0033
+
+## seg-0034 / 00:40:32-00:41:35 / SPEAKER_00
+
+That's all that matters. So given the current state of state of events it's very hard for the western world and really for China to survive for the next 50 years. Okay? I and I know like well China has a billion people so even though um you know we're only giving birth to 10 million kids a year we'll still be around for a long long time. Okay? So at this rate by 2100 China will be at will be at a population about 600 million. That's still a lot of people man. Um okay. Here's the problem though. Okay? This is South Korea. Okay? South Korea is like the worst case scenario. And for South Korea this is actually the best case scenario where okay given current trends and let's let's just pretend that nothing bad happens for South Korea well by the year 2100 you'll have a situation like this where the vast majority of people are over 65 and you have no kids.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0034
+
+## seg-0035 / 00:41:36-00:42:40 / SPEAKER_00
+
+Okay? That is a zombie society where no one works and everyone just I don't know walks around the park every day. No one works. So the economy has collapsed. Okay? So look look at this trend where we are now in here okay where the majority it's still a working population which is good you need that for the economy but by the time you hit 2040 okay you've got this huge dependency in a creating population. Okay? Do you guys see this? Where we are? In okay so we're at 2020 right? Okay? Alright so it's still not too bad but by the time you're at 2040 look at this okay look at this look at this where you have absolutely no kids and then you have lots and lots of retirees. Okay? And then by the time right? Your population your working population has decreased by half by 50%. Alright?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0035
+
+## seg-0036 / 00:42:40-00:43:58 / SPEAKER_00
+
+So if things are stay the same if nothing happens South Korea will be will be dead in I don't know by 2150 okay? Best case scenario. But what we know from history is that society should not die naturally. Eventually South Korea will be forced into wars economic crises so this trend will just increase and so if North Korea got past 2080 I'd be very surprised. Okay? I'd be surprised by 2040 South Korea were to face collapse as a nation state. Okay? Because you need these people to work but guess what? You also need them to fight wars. So if North Korea ever threatened South Korea most of your adult population would be dead. Okay? So South Korea cannot fight a war now. The prospects for South Korea is utterly hopeless. There's nothing South Korea can do about this because South Korea is an extremely materialistic society where the only way to get ahead is by making a lot of money.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0036
+
+## seg-0037 / 00:43:58-00:44:42 / SPEAKER_00
+
+Okay? And if you're a middle class person in South Korea it makes no sense for you to have three kids. It makes sense for you to have one kid and put all your resources into this one kid in the hopes that he passes the college examination gets into a good university and then gets a good job at Samsung which is the only company in South Korea. Okay? Samsung. Right? So the situation is pretty dire in South Korea. All right. Okay. That's it for today. Any questions guys about what we've learned? Okay. Okay. Speak into the mic please.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0037
+
+## seg-0038 / 00:44:43-00:45:12 / SPEAKER_01
+
+So for the last graph that we talked about Israel and I've noticed that the Saudi Arabia that is also like at have not bad GDP per capita and fertility rates so but for Saudi Arabia maybe I'm wrong like stereotypically that they didn't receive much hate as Israel did so why did they like at the similar position as Israel?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0038
+
+## seg-0039 / 00:45:12-00:46:20 / SPEAKER_00
+
+Okay. That's actually a really good question. Okay. All right. So Saudi Arabia as you can see from this map has it's a very wealthy society and families have about four kids on average. All right. So Saudi Arabia is actually an outlier and the reason why is that it gets all the money from oil oil revenues. Okay. So it sells with oil around the world. What does it do? It creates a welfare state using this oil. So you're incentivized to have many children as possible because the government will pay for it. Free schooling free health care free housing and then a guaranteed job. So it's basically like socialism. It's also a Muslim country so you have this religious duty imperative to have as many children as possible. Okay. But the problem with Saudi Arabia is the idea of human capital where it is not really a modern society in which people are well educated and they're contributing to the economy.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0039
+
+## seg-0040 / 00:46:20-00:47:30 / SPEAKER_00
+
+Okay. Saudi Arabia just gets all its money from oil and that's it. It's trying to grow terrorism it's trying to develop its human capital but it doesn't really work. Okay. So you're right in that Saudi Arabia it is it seems to be doing well but it's not really. Okay. But also like people will argue about Israel as well where like well Israel gets all its money from the United States and it's the American military that supports Israel. That's true to a certain extent but I would argue that if you actually go to Israel you will see that it's an open dynamic society in which you're allowed to ask questions which you're allowed to criticize the government in which you are given a lot of opportunities for social mobility. So Israel has democracy it has innovation okay it has technology okay and Saudi Arabia doesn't have these things. If you want to be a really strong nation then you need innovation you need openness you need technology.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0040
+
+## seg-0041 / 00:47:30-00:48:10 / SPEAKER_00
+
+Okay. It's also really highly educated. Alright. So does that make sense? Okay. So Saudi Arabia it's really an outlier here. Alright. But the problem is what happens if Saudi Arabia runs out of oil right? Or there's a war in the Middle East then Saudi Arabia is kind of screwed. Alright. Alright. But you can also argue no well you know Saudi Arabia it has a lot of money and maybe okay so so game theory doesn't give us the answers. Game theory it just gives us a guide to ask questions and do research. Okay. Does that make sense? Yeah.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0041
+
+## seg-0042 / 00:48:10-00:48:27 / SPEAKER_02
+
+I was wondering about like when is this data it's it's wrote about 2009 right? So how about now? Did it change a lot? Or like is there anything changed?
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0042
+
+## seg-0043 / 00:48:29-00:49:24 / SPEAKER_00
+
+Okay. Okay. Yeah. So you asked you asked about the sourcing of the data. Okay. And you're right in that there will be fluctuation. Okay. But the but this is 2024. Okay. 2024 and this is Israel right here. Okay. Alright. So if it's red it's above replacement. Alright. And if you just Google Israel population fertility rate Israel is the only wealthy nation in the world that has an above replacement fertility rate. Okay. Alright. Okay. Any more questions guys? Alright. Great. So I will see you guys next class.
+
+Ref: video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043
