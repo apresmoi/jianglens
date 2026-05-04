@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-v6cdqjnrvlk-semantics-pkt-0002",
+  "source_id": "video:predictive-history-v6cdqjnrvlk",
+  "source_date": "2025-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0009",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0010",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang traces how Medici banking wealth becomes cultural capital: a merchant family with no warrior or priestly legitimacy funds churches, Florence, and the major artists who define the Renaissance.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0012",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He adds the printing press and major Renaissance writers: mass printing democratizes access to Plato, Aristotle, and the Bible, while Dante, Petrarch, Boccaccio, Machiavelli, and Galileo embody the new intellectual field.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0014",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0015",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines humanism as the value system behind Renaissance art: a turn from God-centered ideas and salvation to human stories, flourishing, eudaimonia, earthly beauty, truth, and art that invites imagination.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Medici use artistic and architectural patronage to turn banking wealth into legitimacy and make Florence a cultural capital.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0009",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0010",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Renaissance Florence account in this lecture.",
+      "topic_tags": [
+        "medici",
+        "patronage",
+        "florence",
+        "legitimacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The printing press produces a revolution of literacy and knowledge by rapidly multiplying books and democratizing access to Plato, Aristotle, the Bible, and major Renaissance thinkers.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Renaissance media model in this lecture.",
+      "topic_tags": [
+        "printing-press",
+        "literacy",
+        "knowledge",
+        "democratization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Machiavelli not simply as an amoral strategist but as a democratic Florentine who wrote The Prince to raise political awareness in a republic.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Machiavelli interpretation in this lecture.",
+      "topic_tags": [
+        "machiavelli",
+        "the-prince",
+        "republic",
+        "political-knowledge"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Humanism shifts the central question from God's nature and salvation to human stories, flourishing, talents, earthly goodness, beauty, and truth.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0014",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "humanism",
+        "flourishing",
+        "eudaimonia",
+        "earthly-life"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The artistic transition from classical Greece to medieval Christianity to Renaissance can be understood as a move between story, idea, and revived story: Greek sculpture invites imaginative participation, medieval Christian art demands submission, and Renaissance art returns the viewer to living drama.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Art-history model in this lecture.",
+      "topic_tags": [
+        "art",
+        "story",
+        "humanism",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0009"
+      ],
+      "moment": "The Medici do not simply buy art; they buy a public answer to the question of why merchants deserve to rule.",
+      "source_phrase": "All you have is a lot of money",
+      "why_it_matters": "It turns patronage into a legitimacy technology rather than decorative generosity.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0012"
+      ],
+      "moment": "The printing press is treated as a knowledge-democratizing shock, not just a communications upgrade.",
+      "source_phrase": "a revolution of literacy and knowledge",
+      "why_it_matters": "It connects media technology to who gets to participate in civilization.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0015"
+      ],
+      "moment": "Humanism is a reorientation from the afterworld into the here and now.",
+      "source_phrase": "from the after world into the here and now",
+      "why_it_matters": "This compact phrase marks the lecture's moral pivot from salvation to earthly flourishing.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0016"
+      ],
+      "moment": "Greek sculpture is alive because the observer's imagination supplies before and after.",
+      "source_phrase": "You are making the sculpture alive with your imagination",
+      "why_it_matters": "It foreshadows the later Dante argument that imagination animates the world itself.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Humanism",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0014",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A Renaissance value system centered on human stories, earthly flourishing, beauty, truth, and making the present world better.",
+      "confidence": "high"
+    },
+    {
+      "term": "Eudaimonia",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The Greek term Jiang uses for flourishing or having the best possible life on earth.",
+      "confidence": "high"
+    },
+    {
+      "term": "Polymath",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Da Vinci is used as the archetypal Renaissance polymath, combining sciences, philosophy, poetry, art, music, and other fields.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0014",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0015"
+      ],
+      "note": "The lecture positions humanism as a Renaissance return to classical Greek values rather than a wholly new modern invention.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0014"
+      ],
+      "note": "ASR likely garbles one contrast as 'what is the history of humanism'; context indicates Jiang is contrasting Christian concern with God/salvation against humanist concern with human stories and flourishing."
+    }
+  ]
+}

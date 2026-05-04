@@ -1,0 +1,205 @@
+{
+  "packet_id": "predictive-history-v6cdqjnrvlk-semantics-pkt-0005",
+  "source_id": "video:predictive-history-v6cdqjnrvlk",
+  "source_date": "2025-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0033",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0034",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Raphael's self-insertion and the structure of School of Athens come from Dante: like the Divine Comedy, the painting inserts the artist into debate, celebrates human diversity, and turns self-expression into a religiously charged act.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0036",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0037",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0038",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0039",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from Renaissance art to theology, asking why Jesus had to die. Paul explains sacrifice as forgiveness for original sin, Tertullian's Trinity makes the problem harder, Origen's ransom theory says God tricks Satan, and Augustine turns that into a blueprint of obedience and submission.",
+      "speaker_attribution": "Jiang interpreting Christian theology with quoted/paraphrased doctrine.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0036",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0040"
+      ],
+      "note": "Jiang blends paraphrase, quotation, and explanation of Paul, Tertullian, Origen, and Augustine; these are not student questions.",
+      "suggested_speaker": "Jiang interpreting and reading theological material",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Raphael's insertion of himself into School of Athens is read as a Dantean move: against Christian humility and self-negation, the artist re-enters the world and celebrates human curiosity.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0033",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interpretation of Raphael and Dante in this lecture.",
+      "topic_tags": [
+        "raphael",
+        "dante",
+        "self-expression",
+        "curiosity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names Dante's central intervention as a reimagining of the human relationship with God, which explains the confident self-exploration of Renaissance art.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Main thesis in this lecture.",
+      "topic_tags": [
+        "dante",
+        "god",
+        "humanity",
+        "renaissance-art"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The central Christian problem in this lecture is why Jesus had to die: Paul ties it to original sin and forgiveness, but the later doctrine that Jesus is God makes divine self-sacrifice conceptually puzzling.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0036",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0037",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Theological reconstruction in this lecture.",
+      "topic_tags": [
+        "crucifixion",
+        "paul",
+        "trinity",
+        "original-sin"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Origen's ransom theory says humanity became Satan's property after the Fall and God redeemed humans by offering his own life, tricking Satan because God cannot truly be killed.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0038",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Theological model as presented in this lecture.",
+      "topic_tags": [
+        "origen",
+        "ransom-theory",
+        "satan",
+        "redemption"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustine turns ransom theory into the Catholic Church's intellectual blueprint: because God ransomed humans, humans are now God's slaves and must distrust imagination, intuition, and self-love.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0039",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Augustine interpretation in this lecture.",
+      "topic_tags": [
+        "augustine",
+        "catholic-church",
+        "submission",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0033"
+      ],
+      "moment": "Raphael puts himself in the painting because Dante first made the poet the hero of a sacred journey.",
+      "source_phrase": "Dante makes himself the hero of divine comedy",
+      "why_it_matters": "It makes self-insertion a civilizational permission structure rather than vanity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0035"
+      ],
+      "moment": "Dante's answer to Renaissance confidence is not technical art history; it is a new relationship between humans and God.",
+      "source_phrase": "reimagine our relationship with God",
+      "why_it_matters": "This is the hinge from paintings to theology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0039"
+      ],
+      "moment": "Ransom theory flips salvation into ownership: God rescues humans from Satan, but now they are slaves to God.",
+      "source_phrase": "we are now slaves to God",
+      "why_it_matters": "It exposes the obedience logic Dante will overturn.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0040"
+      ],
+      "moment": "In Augustine's blueprint, imagination and intuition smell like Satan.",
+      "source_phrase": "When we use our imagination, when we use our intuition, we are like Satan",
+      "why_it_matters": "This is the deepest enemy of Jiang's Renaissance: a theology that makes human creativity suspect.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Ransom Theory",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0038",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Origen's explanation, as Jiang presents it, that Christ's death ransoms humanity from Satan and transfers human bondage to God.",
+      "confidence": "high"
+    },
+    {
+      "term": "City of God",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Augustine's work used here as the intellectual blueprint for submission, self-distrust, and obedience in medieval Catholic thought.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0037",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0038",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0039"
+      ],
+      "note": "The lecture gives a theological sequence: Paul, Tertullian's Trinity, Origen's ransom theory, Augustine's institutionalized obedience, then Dante's intervention.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0038"
+      ],
+      "note": "ASR repeats Origen's name and has minor disfluency, but the ransom-theory explanation is coherent across seg-0038 and seg-0039."
+    }
+  ]
+}

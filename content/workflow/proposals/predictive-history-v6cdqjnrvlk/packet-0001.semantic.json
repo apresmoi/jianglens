@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-v6cdqjnrvlk-semantics-pkt-0001",
+  "source_id": "video:predictive-history-v6cdqjnrvlk",
+  "source_date": "2025-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0001",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0002",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the Renaissance as the intellectual revolution that creates modernity by recombining classical Greece with Christian Europe, then lists mainstream causes: Constantinople's decline, Islamic Golden Age contact through Crusades and trade, and competitive Italian city-states.",
+      "speaker_attribution": "Jiang classroom lecture; brief checks are rhetorical.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0004",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0005",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the Medici legitimacy problem: unlike warriors or priests, merchant elites have only money, so patronage becomes a route to cultural authority. He then departs from scholarship by arguing Dante and the Divine Comedy are the missing main factor behind the Renaissance.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0007",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang begins the economic mechanism: Venice and Genoa prosper through coastal slave trade, Florence through wool and finance, and the gold florin becomes a common currency that lets the Medici bank underwrite European commerce.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Renaissance is defined as an intellectual revolution that combines classical Greece with Christian Europe and thereby creates the values of modernity.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Jiang lecture published 2025-03-25.",
+      "topic_tags": [
+        "renaissance",
+        "modernity",
+        "classical-greece",
+        "christian-europe"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents the mainstream Renaissance origin story as a perfect storm of Constantinople's decline, Crusader contact with the Islamic Golden Age, competitive Italian city-states, merchant wealth, universities and monasteries, and the printing press.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0001",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0002",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0003",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0004",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Mainstream account as summarized in this lecture.",
+      "topic_tags": [
+        "renaissance-causes",
+        "constantinople",
+        "crusades",
+        "printing-press",
+        "city-states"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Open cooperative competition among warring Italian city-states makes people participants in history rather than detached bureaucratic observers, forcing theory to remain relevant to political and military reality.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0002",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0003",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Civilizational model in this lecture.",
+      "topic_tags": [
+        "open-cooperative-competition",
+        "city-states",
+        "innovation",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Merchant elites such as the Medici face a legitimacy problem because they cannot claim battlefield honor or priestly divine authority, so patronage of art becomes a substitute source of status.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0003",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Renaissance Florence model in this lecture.",
+      "topic_tags": [
+        "medici",
+        "merchant-elite",
+        "legitimacy",
+        "patronage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's own thesis is that Dante, not the background perfect storm alone, is the secret sauce that sparks the Renaissance.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0005",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang's thesis in the 2025-03-25 lecture.",
+      "topic_tags": [
+        "dante",
+        "divine-comedy",
+        "renaissance",
+        "civilizational-spark"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0001"
+      ],
+      "moment": "The Renaissance is introduced as the fusion machine that makes modernity: classical Greece reimagined inside Christian Europe.",
+      "source_phrase": "combine classical Greece with Christian Europe",
+      "why_it_matters": "It sets the lecture's entire problem: modernity comes from a recombination of older worlds, not from a simple rejection of Christianity.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0003"
+      ],
+      "moment": "Jiang contrasts imperial bureaucracy with participant history: city-state politics forces everyone to think from inside reality.",
+      "source_phrase": "everyone was a participant in history",
+      "why_it_matters": "This is one of his recurring civilizational primitives: competition makes ideas answer to the world.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0005",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0006"
+      ],
+      "moment": "Against scholarship's perfect storm, Jiang names one missing ignition source: Dante as the secret sauce.",
+      "source_phrase": "Dante is most responsible for the Renaissance",
+      "why_it_matters": "It turns the lecture from a conditions story into a poet-as-civilizational-spark argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Renaissance",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Jiang defines it as a Christian-European reimagining of classical Greece that generates the values of modernity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Open cooperative competition",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0002",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A repeated Jiang model where rival polities compete yet exchange ideas and practices, driving innovation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gold florin",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Florentine gold currency treated as the prestige medium of European trade and the basis of Medici financial power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0005",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0006"
+      ],
+      "note": "This 2025 lecture explicitly updates the Renaissance origin account by subordinating broad conditions to Dante's earlier birth and poetic ignition role.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0002",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0004"
+      ],
+      "note": "ASR has minor corruption and repetition in the Constantinople and legitimacy passages, but the argument is recoverable from context."
+    }
+  ]
+}

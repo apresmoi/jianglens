@@ -1,0 +1,185 @@
+{
+  "packet_id": "predictive-history-v6cdqjnrvlk-semantics-pkt-0004",
+  "source_id": "video:predictive-history-v6cdqjnrvlk",
+  "source_date": "2025-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0025",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0026",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses The Last Supper to show Dante's theology inside Da Vinci: even entertainment claims such as The Da Vinci Code point toward Jesus' humanity, while the painting's musical and biblical structure encodes divine love and forgiveness.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0028",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "He reads the Mona Lisa as secretly alive: it changes as the viewer moves, proving that art exists fully only through engagement. He then turns to Raphael's papal-room frescoes as a Renaissance balance of philosophy, religion, poetry, and law.",
+      "speaker_attribution": "Jiang visual analysis.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0030",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0031",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets School of Athens as a staged debate between Plato's upward spiritual reality and Aristotle's earthly science, with color, gesture, depth, and surrounding figures organizing the two realities.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang treats the Da Vinci Code reading of The Last Supper as entertaining rather than scholarly, but still useful for seeing the painting's emphasis on Jesus' humanity.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0025",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Interpretive aside in this lecture.",
+      "topic_tags": [
+        "last-supper",
+        "da-vinci-code",
+        "jesus-humanity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Last Supper's hidden musical and biblical structures are read as encoding Lamentations' message that God always loves, forgives, and refuses hatred.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0026",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Interpretation of Da Vinci through Dante in this lecture.",
+      "topic_tags": [
+        "last-supper",
+        "god-is-love",
+        "forgiveness",
+        "dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Mona Lisa shows that art becomes alive only when the viewer participates; its expression changes through engagement rather than static observation.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0028",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretation of Mona Lisa in this lecture.",
+      "topic_tags": [
+        "mona-lisa",
+        "participation",
+        "art",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Raphael's papal apartment frescoes embody the Renaissance ideal of open-minded holistic learning by balancing philosophy, religion, poetry, and law.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0029",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interpretation of Raphael in this lecture.",
+      "topic_tags": [
+        "raphael",
+        "school-of-athens",
+        "holistic-learning",
+        "renaissance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "School of Athens dramatizes the split between Plato's heaven-oriented spiritual reality and Aristotle's earth-oriented science, while insisting both realities matter.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0030",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0031",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretive model in this lecture.",
+      "topic_tags": [
+        "plato",
+        "aristotle",
+        "spiritual-reality",
+        "material-reality"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0027"
+      ],
+      "moment": "Jesus in The Last Supper is calm because he has already forgiven Judas; the rage belongs to everyone else.",
+      "source_phrase": "He's already forgiven Judas Iscariot",
+      "why_it_matters": "This anchors Jiang's Dante-through-Da-Vinci claim in a vivid moral image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0028",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0029"
+      ],
+      "moment": "The Mona Lisa is alive only when the viewer moves with it.",
+      "source_phrase": "Only if you participate in the art does it become alive",
+      "why_it_matters": "It states the lecture's participatory aesthetics in its most memorable form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0031"
+      ],
+      "moment": "Plato and Aristotle split the world as they walk: heaven upward, earth downward.",
+      "source_phrase": "they're splitting the world into two",
+      "why_it_matters": "The gesture compresses metaphysics, philosophy, and visual composition into one scene.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "School of Athens",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0029",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Raphael's fresco, officially Philosophy in Jiang's framing, used to stage Renaissance balance between philosophy, religion, poetry, law, and the Plato-Aristotle divide.",
+      "confidence": "high"
+    },
+    {
+      "term": "Mona Lisa",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0028",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Da Vinci painting Jiang treats as evidence that art becomes alive through viewer participation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0025",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0028"
+      ],
+      "note": "The transcript repeatedly renders Da Vinci as Dante in some art-analysis passages; context indicates Jiang is discussing Da Vinci's paintings while arguing Dante's influence."
+    }
+  ]
+}
