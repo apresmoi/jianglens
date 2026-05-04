@@ -1,0 +1,254 @@
+{
+  "source_id": "video:predictive-history-6pdfd44dkqa",
+  "source_date": "2025-09-11",
+  "packet_id": "predictive-history-6pdfd44dkqa-semantics-pkt-0005",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0033",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from Egypt to Abu Ghraib and enhanced interrogation, rejecting the rogue-soldier explanation and saying the program was designed by psychologists working for the CIA.",
+      "speaker_attribution": "Jiang classroom lecture about modern torture; claims are his presentation of the source material.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0035",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He maps learned helplessness onto the Egyptian identities: the intended experiment is to turn Ra into Osiris, but he argues torture instead radicalizes prisoners and produces ISIS-like fighters.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0037",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang compares Abu Zubaydah's reported torture to the Egyptian ritual script and says the real goal was not information but programming prisoners into weapons.",
+      "speaker_attribution": "Jiang classroom lecture; ASR is noisy around names and transitions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0039",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He extends the modern continuity claim to MK Ultra, describing drugs, hypnosis, interrogation, foreign sites, destroyed records, and social control as the underlying goal.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the Abu Ghraib torture was not random rogue behavior but a program designed by psychologists paid by the CIA.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-11.",
+      "topic_tags": [
+        "abu-ghraib",
+        "cia",
+        "psychologists",
+        "torture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Enhanced interrogation is interpreted as an experiment in learned helplessness intended to transform a Ra-like fighter into an Osiris-like passive victim.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Lecture model on 2025-09-11.",
+      "topic_tags": [
+        "enhanced-interrogation",
+        "learned-helplessness",
+        "ra",
+        "osiris"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links learned helplessness and positive psychology through Martin Seligman and provocatively calls school-taught positive psychology brainwashing.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-11.",
+      "topic_tags": [
+        "positive-psychology",
+        "learned-helplessness",
+        "brainwashing",
+        "seligman"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture argues that torture radicalized prisoners rather than pacifying them, connecting US-controlled prisons and torture to ISIS recruitment and extremism.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0035",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-11.",
+      "topic_tags": [
+        "isis",
+        "torture",
+        "radicalization",
+        "war-on-terror"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims Abu Zubaydah's reported torture repeats the Egyptian script of force-feeding, strangling, coffin confinement, drowning, cutting, and sexual humiliation.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0037",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture comparison on 2025-09-11.",
+      "topic_tags": [
+        "abu-zubaydah",
+        "egyptian-script",
+        "torture",
+        "ritual"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the goal of torture is not to extract information but to turn people into programmable secret weapons.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2025-09-11.",
+      "topic_tags": [
+        "torture",
+        "programming",
+        "secret-weapons"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "MK Ultra is presented as a 1950s and 1960s CIA program to test drugs, hypnosis, interrogation, and brainwashing on innocent citizens and through foreign intelligence settings.",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0039",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-11.",
+      "topic_tags": [
+        "mk-ultra",
+        "cia",
+        "brainwashing",
+        "drugs"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034"
+      ],
+      "moment": "Learned helplessness becomes an attempt to turn Ra into Osiris: the fighter into the tortured victim.",
+      "source_phrase": "turn Ra into Osiris",
+      "why_it_matters": "It fuses the Egyptian myth frame with War on Terror psychology.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0036"
+      ],
+      "moment": "The intended conversion reverses: instead of Ra becoming Osiris, Osiris becomes Ra.",
+      "source_phrase": "Osiris became Ra",
+      "why_it_matters": "It is Jiang's account of why torture breeds the thing it claims to suppress.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0038"
+      ],
+      "moment": "The interrogation room is recast as a drone factory for human weapons.",
+      "source_phrase": "turn these people into drones",
+      "why_it_matters": "It preserves the lecture's hardest modern analogy.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0039",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0040"
+      ],
+      "moment": "What was done to the pharaoh becomes a general technology: drugs, torture, ritual abuse, hypnosis, and mind control.",
+      "source_phrase": "now they figure out how to do this to anyone",
+      "why_it_matters": "It turns the ancient reconstruction into a modern mass-control claim.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "learned helplessness",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "A psychological theory Jiang presents as the model behind enhanced interrogation: breaking a fighter into passive victimhood.",
+      "confidence": "high"
+    },
+    {
+      "term": "enhanced interrogation",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The official label Jiang uses for torture programs he interprets as psychological experiments.",
+      "confidence": "high"
+    },
+    {
+      "term": "MK Ultra",
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0039",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A CIA-era brainwashing and drug-testing program used by Jiang as the modern continuation of ritual programming.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0033",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0040"
+      ],
+      "note": "This packet is the explicit modern-history turn: 9/11, Abu Ghraib, CIA interrogation, ISIS, and MK Ultra are brought into the Egyptian framework.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0037",
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0038"
+      ],
+      "note": "ASR is damaged around Abu Zubaydah's name and the transition phrase 'IKEA'; do not quote those words as reliable."
+    },
+    {
+      "refs": [
+        "video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0040"
+      ],
+      "note": "ASR renders 'MK Ultra' as 'NBA ultra' in one place; context establishes the intended term."
+    }
+  ]
+}

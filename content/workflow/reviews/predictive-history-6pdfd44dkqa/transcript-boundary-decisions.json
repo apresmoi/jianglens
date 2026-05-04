@@ -1,0 +1,110 @@
+{
+  "source_slug": "predictive-history-6pdfd44dkqa",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-trailing-starter-to-next:0029c4e36f26",
+      "decision": "approve",
+      "reason": "Moves the trailing setup before 'science class' so the contrast sentence reads continuously."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:cd140dead5bc",
+      "decision": "approve",
+      "reason": "Completes 'And this is why school is so hard.'"
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-trailing-starter-to-next:dbdd1ff3b1df",
+      "decision": "approve",
+      "reason": "Moves 'So in China,' before its predicate about bureaucracy."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:ec538768b539",
+      "decision": "approve",
+      "reason": "Completes the list of natural defenses that protect China."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:f5a5bef3a274",
+      "decision": "reject",
+      "reason": "The classroom prompt after 'Regret, respect,' is not a clear sentence completion and may cross speaker turns."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:cee509aef239",
+      "decision": "approve",
+      "reason": "Completes 'He's the happiest man alive.'"
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:e8aa9f79f576",
+      "decision": "approve",
+      "reason": "Completes 'We understand this rule.'"
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:a3007bfcfc89",
+      "decision": "approve",
+      "reason": "Completes 'Lack of empathy, basically.'"
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:de9da18440c8",
+      "decision": "approve",
+      "reason": "Completes the transition phrase 'if you look at mythology...'"
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-trailing-starter-to-next:bf2187249b63",
+      "decision": "approve",
+      "reason": "Moves 'So Ra must' before 'kill him every night.'"
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:541b5cabbdfc",
+      "decision": "approve",
+      "reason": "Completes 'this tomb is really comfortable.'"
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-trailing-starter-to-next:865a12d692fb",
+      "decision": "approve",
+      "reason": "Moves 'And some of' before 'these challenges include drowning.'"
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-leading-completion-to-previous:1ebede17e8c9",
+      "decision": "approve",
+      "reason": "Completes 'the pharaoh is a literal reincarnation of Ra, Osiris, and Horus.'"
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:427f41586d8c",
+      "decision": "approve",
+      "reason": "Completes the Monkey Island sentence about the experience making them strong, wise, and powerful."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:33b37bec277b",
+      "decision": "approve",
+      "reason": "Completes 'What's going on here?'"
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:5b05f4b3826f",
+      "decision": "approve",
+      "reason": "Completes 'In fact, you can only feel misery.'"
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-trailing-starter-to-next:fb1df1a24e3f",
+      "decision": "approve",
+      "reason": "Moves 'So' before the Abu Ghraib example it introduces."
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:5f408c1e6904",
+      "decision": "approve",
+      "reason": "Completes 'It was designed by the government, by the CIA.'"
+    },
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:6234db7e1426",
+      "decision": "approve",
+      "reason": "Completes the claim that positive psychology taught in school is brainwashing."
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:5e4ee46cd822",
+      "decision": "approve",
+      "reason": "Completes 'most of these prisoners were so traumatized, they forgot what happened.'"
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:971209a71dab",
+      "decision": "reject",
+      "reason": "The boundary contains ASR damage around 'IKEA'; moving 'is the same' would preserve a noisy false phrase rather than an obvious completion."
+    }
+  ]
+}
