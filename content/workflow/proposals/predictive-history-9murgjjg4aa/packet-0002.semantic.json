@@ -1,0 +1,168 @@
+{
+  "packet_id": "predictive-history-9murgjjg4aa-semantics-pkt-0002",
+  "source_id": "video:predictive-history-9murgjjg4aa",
+  "source_date": "2025-10-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0009",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0010",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0011",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the critique of evolution into missing human history, lack of human species diversity, infant personality, worldview, consciousness, and memory storage. He argues neuroscience cannot explain where personality comes from, why it appears from the first day, or where memory is stored.",
+      "speaker_attribution": "Jiang classroom lecture; the hippocampus exchange in seg-0012 is too compressed to treat as a public question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0013",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0014",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0015",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "He attacks the school model of thinking as research-to-hypothesis-to-outline-to-draft, saying real thought works backward from an already received idea. A student asks whether the hypothesis is the idea; Jiang answers that the hypothesis is only an assumption and the final product comes first.",
+      "speaker_attribution": "Mostly Jiang; one brief student clarification is embedded in seg-0015.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0012"
+      ],
+      "note": "A possible student interjection about the hippocampus is embedded in Jiang's answer, but the performed question is not clear enough to extract as a question item.",
+      "suggested_speaker": "unclear student interjection plus Jiang reply",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0015"
+      ],
+      "note": "The hypothesis/idea clarification appears to be a student question inside a Jiang segment.",
+      "suggested_speaker": "student question embedded in Jiang segment",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues evolution has three human-specific problems: unexplained ape-to-human difference, a large gap between human existence and recorded history, and too little diversity in human species.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-10-15.",
+      "topic_tags": ["evolution", "human-history", "homo-sapiens"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the worldview-as-memory-filter model fails on babies because babies appear to have distinct personalities before they should have a developed worldview.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0010",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-10-15.",
+      "topic_tags": ["worldview", "personality", "babies", "memory"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims neuroscience does not currently have a model for consciousness or a determinate location for memory storage.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0011",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-10-15.",
+      "topic_tags": ["neuroscience", "consciousness", "memory"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the school-taught process model of thinking and says real creativity begins with the final idea, then works backward to draft, outline, and research.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0013",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0014",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture model as of 2025-10-15.",
+      "topic_tags": ["creativity", "scientific-method", "education", "thinking"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses Einstein and Watson as examples of major discoveries arriving through daydream, intuition, or dream imagery before evidence and research are assembled afterward.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0015",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture evidence as of 2025-10-15.",
+      "topic_tags": ["einstein", "watson", "dreams", "discovery"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0011"
+      ],
+      "moment": "The baby becomes the problem science cannot explain: personality seems to arrive before the world has had time to write it.",
+      "source_phrase": "they were born with a worldview",
+      "why_it_matters": "It opens the path from neuroscience into a pre-existing or nonlocal account of mind.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0014",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0015"
+      ],
+      "moment": "School teaches process creates the idea; Jiang says the idea creates the process.",
+      "source_phrase": "in reality it's the idea that creates the process",
+      "why_it_matters": "This reversal becomes the lecture's bridge from education critique to imagination as contact with a higher force.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "worldview",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0010",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The filter that decides which experiences become memory and forms a person's personality or orientation to the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "scientific method",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0013",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Used as the school-taught sequence of research, hypothesis, experiment, data, observation, and refinement that Jiang says communicates ideas but does not generate great discoveries.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0014",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0016"
+      ],
+      "note": "The lecture uses creativity and discovery as the transition from critique of science to a positive theory of received ideas.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0011"
+      ],
+      "note": "The phrase 'a lot of genders' is likely ASR damage in a neuroscience discussion; do not lean on the exact word."
+    }
+  ]
+}
