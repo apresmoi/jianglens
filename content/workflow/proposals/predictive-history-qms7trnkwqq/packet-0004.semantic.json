@@ -1,0 +1,126 @@
+{
+  "packet_id": "predictive-history-qms7trnkwqq-semantics-pkt-0004",
+  "source_id": "video:predictive-history-qms7trnkwqq",
+  "source_date": "2025-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0025",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang translates Hamlet into plain prose to show that Shakespeare is not deep like Dante, then argues that his power lies in layered meanings, visual language, and rhetoric that changes the brain.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0025",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0032"
+      ],
+      "note": "Continuous Jiang explanation with classroom comprehension prompts; no substantive student question appears.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Shakespeare gives English fluency to the British because the culture expects readers to know and recite him.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0024",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Language-culture claim stated on 2025-05-14",
+      "topic_tags": ["english", "shakespeare", "fluency"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "'To be or not to be' can mean life versus death, killing versus not killing, fate versus defiance, and the point of existence all at once.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0027",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretive model stated on 2025-05-14",
+      "topic_tags": ["hamlet", "layered-meaning", "interpretation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare's visual language lets oral audiences see images in their heads, making speeches memorable and psychologically forceful.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0029",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Aesthetic model stated on 2025-05-14",
+      "topic_tags": ["visual-language", "oral-culture", "memory"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Julius Caesar, Shakespeare shows speech making as brain surgery: rhetoric can transform the neurological structure of an audience.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0031",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Rhetorical model stated on 2025-05-14",
+      "topic_tags": ["julius-caesar", "rhetoric", "neurological-structure"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0026",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0029"
+      ],
+      "moment": "A single Shakespeare line works like a prism: suicide, murder, fate, free will, and existence can all be true at once.",
+      "source_phrase": "four possible interpretations of this speech. And they're all correct",
+      "why_it_matters": "It preserves the lecture's account of Shakespearean complexity without calling it metaphysical depth.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0031"
+      ],
+      "moment": "Thinking can wreck the ship of action: a fixed current turns awry once consciousness enters.",
+      "source_phrase": "the moment you think deeply about what you're doing, the ship collapses",
+      "why_it_matters": "It condenses Jiang's Hamlet reading into a vivid psychology of paralysis.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "layered meaning",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0026",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Multiple interpretations held simultaneously by Shakespeare's language.",
+      "confidence": "high"
+    },
+    {
+      "term": "visual language",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0029",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Words functioning as images for oral audiences, letting them see a movie in their heads.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0031"
+      ],
+      "note": "Transcript renders Hamlet's 'enterprise of great pith and moment' unevenly as 'pivot moment'; semantic extraction follows Jiang's interpretive point, not the ASR wording."
+    }
+  ]
+}

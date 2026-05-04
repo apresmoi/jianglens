@@ -1,0 +1,131 @@
+{
+  "packet_id": "predictive-history-qms7trnkwqq-semantics-pkt-0003",
+  "source_id": "video:predictive-history-qms7trnkwqq",
+  "source_date": "2025-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0017",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Shakespeare as musical mass entertainment and mass education: iambic pentameter made the plays memorable while low-class theatre carried a global imagination to ordinary people.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0021",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang sets up Hamlet and reads the 'To be or not to be' soliloquy, then comments that its smoothness and memorability come from iambic pentameter.",
+      "speaker_attribution": "Jiang reading Shakespeare and interpreting it",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0017",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang alternates lecture explanation and quoted Shakespeare; no audience question is captured in these focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Shakespeare was experienced as performance and music by ordinary audiences, not primarily as a school text.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0017",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical-literary model stated on 2025-05-14",
+      "topic_tags": ["shakespeare", "performance", "iambic-pentameter"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Theatre in Shakespeare's England was both mass entertainment and mass education, which made it politically dangerous enough for elite suspicion and Puritan prohibition.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0018",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2025-05-14",
+      "topic_tags": ["theatre", "mass-education", "puritans"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare did not invent the plots of Hamlet, Julius Caesar, Othello, or King Lear; his genius was reimagining characters and diction inside inherited theatrical material.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0019",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Literary interpretation stated on 2025-05-14",
+      "topic_tags": ["shakespeare", "theatrical-imagination", "character"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0018"
+      ],
+      "moment": "Iambic pentameter is a surgery on the imagination of civilization.",
+      "source_phrase": "performing a surgery on the imagination of civilization",
+      "why_it_matters": "It ties poetic meter directly to civilizational formation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0020"
+      ],
+      "moment": "The high-culture Shakespeare of classrooms begins beside drinking, brothels, and bear baiting.",
+      "source_phrase": "Shakespeare's plays are performed right beside bear baiting venues as well as brothels",
+      "why_it_matters": "It reverses the prestige story: mass vulgarity becomes civilizational education.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "iambic pentameter",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "A rhythmic ten-syllable pattern Jiang presents as the musical device that makes Shakespeare memorable.",
+      "confidence": "high"
+    },
+    {
+      "term": "bear baiting",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "A gambling entertainment near Shakespeare's theatres, used to show the low-class setting of early theatre.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0020"
+      ],
+      "note": "The lecture gives the Puritan theatre ban as 1642 to 1660.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0021"
+      ],
+      "note": "Transcript renders Hamlet's university as 'Wittgenstein'; context likely means Wittenberg."
+    }
+  ]
+}
