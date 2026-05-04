@@ -1,0 +1,195 @@
+{
+  "packet_id": "predictive-history-eneet-0j-y8-semantics-pkt-0005",
+  "source_id": "video:predictive-history-eneet-0j-y8",
+  "source_date": "2025-04-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0033",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0034",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0035",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines collective mythology as the force that drives history when authority breaks down, then reads Napoleon's St. Helena religious fantasy as a confession of his method.",
+      "speaker_attribution": "Jiang, with quoted/read Napoleon material in seg-0034 and seg-0035.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0037",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0038",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0039",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He reviews old-regime French army dysfunction, Carnot's conscription system, Robespierre's too-demanding virtue, and Napoleon's talent for finding patrons after Robespierre's fall.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0034",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0035"
+      ],
+      "note": "Jiang is quoting or paraphrasing Napoleon's St. Helena reflection about founding a religion and composing a new Koran.",
+      "suggested_speaker": "Napoleon quotation read by Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "When collective authority breaks down, shared mythologies begin to drive history and individuals can capture attention by acting out leading roles.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0033",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "General historical model in this lecture.",
+      "topic_tags": [
+        "mythology",
+        "authority",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Napoleon understood the French Revolution as a crusade and tried to become its Muhammad, Caesar, Alexander, and Jesus figure.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0034",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Jiang's interpretation of Napoleon's self-fashioning.",
+      "topic_tags": [
+        "napoleon",
+        "religion",
+        "messiah"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Napoleon built official history through paintings, stories, and a cult of personality, so accounts of his victories require suspicion.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture warning about Napoleon historiography.",
+      "topic_tags": [
+        "napoleon",
+        "myth-making",
+        "historiography"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Carnot created levee en masse to dilute noble influence, but later conspired against Robespierre because Robespierre's virtue prevented beneficiaries from enjoying power.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0037",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "French Revolutionary personnel history.",
+      "topic_tags": [
+        "carnot",
+        "robespierre",
+        "conscription"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Napoleon's military distinctiveness was political patronage: he identified powerful patrons and used favors to advance his career.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0038",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Career diagnosis in the lecture.",
+      "topic_tags": [
+        "napoleon",
+        "patronage",
+        "directory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0033"
+      ],
+      "moment": "Remove the teachers and no one becomes in charge; mythology takes charge.",
+      "source_phrase": "when you remove your teachers it doesn't mean no it's in charge it just means that now these mythology are in charge",
+      "why_it_matters": "It states Jiang's political psychology of authority collapse.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0034",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0035"
+      ],
+      "moment": "Napoleon dreams of founding a religion, riding an elephant into Asia, and carrying a new Koran written to suit his needs.",
+      "source_phrase": "I would found a religion",
+      "why_it_matters": "It is the lecture's sharpest evidence that Napoleon understands politics as religious staging.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0038"
+      ],
+      "moment": "Robespierre's virtue becomes politically dangerous because he demands sacrifice even from the people he promoted.",
+      "source_phrase": "Robespierre was too virtuous. He demanded on everyone making sacrifices.",
+      "why_it_matters": "It explains why the system-builder is betrayed by his own beneficiaries.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective subconscious",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "The layer of shared mythology that governs society once ordinary authority breaks down.",
+      "confidence": "medium"
+    },
+    {
+      "term": "levee en masse",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Carnot's mass-conscription system, described as getting everyone into the military to dilute noble influence.",
+      "confidence": "high"
+    },
+    {
+      "term": "cult of personality",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Napoleon's use of paintings, stories, and official history to make perception more important than underlying reality.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0034"
+      ],
+      "note": "Napoleon's St. Helena exile reflection is used as retrospective evidence of his political-religious imagination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0040"
+      ],
+      "note": "The transcript renders Barras as Paul Barat and Sieyes approximately as Csajas; the political patronage structure is clear enough for semantic extraction."
+    }
+  ]
+}

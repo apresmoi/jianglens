@@ -1,0 +1,180 @@
+{
+  "packet_id": "predictive-history-eneet-0j-y8-semantics-pkt-0003",
+  "source_id": "video:predictive-history-eneet-0j-y8",
+  "source_date": "2025-04-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0017",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0018",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0019",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Robespierre's military revolution: replacing noble officers with revolutionary merit, total conscription, high-casualty tolerance, speed, and flexible corps.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0021",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0022",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0023",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He uses the 1806 Prussian defeat to show that Robespierre's system forced European societies to abolish serfdom, open the civil service, and become more liberal in order to survive.",
+      "speaker_attribution": "Jiang; the closing question about serfdom appears to prompt his explanation.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang asks for questions and then appears to answer a serfdom clarification, but the student question is not transcribed.",
+      "suggested_speaker": "unheard student question followed by Jiang answer",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Robespierre transformed the French army by replacing noble officers with young revolutionary men from the provinces.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0017",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "French Revolution military reform as explained on 2025-04-29.",
+      "topic_tags": [
+        "robespierre",
+        "meritocracy",
+        "french-army"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Total war and conscription gave France three advantages: willingness to absorb casualties, speed, and strategic flexibility through corps.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0018",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0019",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture model of revolutionary warfare.",
+      "topic_tags": [
+        "total-war",
+        "conscription",
+        "corps"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Robespierre, not Napoleon, created the system that allowed French armies to dominate Europe.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0020",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0021",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Core lecture thesis.",
+      "topic_tags": [
+        "robespierre",
+        "napoleon",
+        "military-revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Napoleonic military pressure forced Prussia to reform society by abolishing serfdom and admitting the middle class into civil service.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0022",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0023",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical causal chain after 1806.",
+      "topic_tags": [
+        "prussia",
+        "serfdom",
+        "middle-class",
+        "liberalism"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0020",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0021"
+      ],
+      "moment": "The lecture lands the hammer: Robespierre created the system, not Napoleon.",
+      "source_phrase": "Robespierre. Not Napoleon. Robespierre.",
+      "why_it_matters": "It compresses the episode's major reversal into one sentence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0022"
+      ],
+      "moment": "The French Revolution forces enemies to become more liberal, democratic, open, and progressive just to defeat it.",
+      "source_phrase": "We need to change the fabric and structure of our society if we are to defeat Napoleon.",
+      "why_it_matters": "Military defeat becomes a transmission mechanism for modernity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0024"
+      ],
+      "moment": "Prussia loses in 1806 and thereby builds the structure that will dominate Europe in fifty or sixty years.",
+      "source_phrase": "even though the Prussians are destroyed, it allows them to build a structure",
+      "why_it_matters": "Defeat is treated as the origin of later power.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "total war",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Jiang defines it here as complete conscription: everyone must now join the army.",
+      "confidence": "high"
+    },
+    {
+      "term": "serfdom",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0023",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "A slavery-like institution tying peasants to the land and excluding much of the population from military service.",
+      "confidence": "high"
+    },
+    {
+      "term": "corps",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Smaller armies divided from a larger army, able to move independently and encircle enemies when disciplined and fast.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0021",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0022",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang identifies 1806 as the shock when France annihilates Prussia and Prussia begins reforms that later support German dominance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
