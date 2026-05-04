@@ -1,0 +1,162 @@
+{
+  "packet_id": "predictive-history-btlwoqwlm9q-semantics-pkt-0010",
+  "source_id": "video:predictive-history-btlwoqwlm9q",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0073"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pauses to restate that the model is only a theory and that he does not know whether it is true.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0074",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0075",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0076",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0077",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0078",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0079",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "Students try to clarify whether the Monad has different meanings; Jiang insists it has one meaning with many names, while Plato and Dante debate different paths of return: knowledge and love.",
+      "speaker_attribution": "Student questions in SPEAKER_00 and SPEAKER_04; Jiang in SPEAKER_01.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0074",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0080"
+      ],
+      "note": "SPEAKER_00 asks repeated clarification questions; SPEAKER_04 briefly rephrases; SPEAKER_01 is Jiang managing the Q&A.",
+      "suggested_speaker": "Q&A",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang repeats that the entire framework is speculative and not known to be true.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Method disclaimer in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "method",
+        "speculation",
+        "uncertainty"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Monad has one meaning despite many names: the divine sun, source of all life, one and all, infinite, eternal, perfect, and immutable.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0074",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0075",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0076",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Clarification in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "monad",
+        "divine-sun",
+        "source",
+        "eternal"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Plato and Dante are not defining different Monads; they are debating how humans return to the same source, through knowledge or love.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0076",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0077",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Clarification in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "plato",
+        "dante",
+        "knowledge",
+        "love",
+        "monad"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says multiple religious traditions, including Buddhism and Hinduism, share the same underlying conception of ultimate reality despite local differences.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0077",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Comparative religion claim in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "buddhism",
+        "hinduism",
+        "comparative-religion",
+        "monad"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0073"
+      ],
+      "moment": "The most extreme model is interrupted by an epistemic brake: no one knows if this is true.",
+      "source_phrase": "I don't know, okay?",
+      "why_it_matters": "This is essential public framing for a controversial lecture: Jiang is presenting a theory, not a settled doctrine.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0075",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0077"
+      ],
+      "moment": "The Monad is the sun, the one and all, the infinite and eternal.",
+      "source_phrase": "the divine sun, the source of all life",
+      "why_it_matters": "It gives the episode a compact image for an otherwise abstract metaphysical source.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Divine sun",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "Jiang's image for the Monad as the single source of all life.",
+      "confidence": "high"
+    },
+    {
+      "term": "Return to the Monad",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0077",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "The spiritual aim shared by Plato and Dante in Jiang's model, though they propose different paths.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0074",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0080"
+      ],
+      "note": "The transcript renders Monad as 'Nomad' in several student questions; semantic extraction treats the intended term as Monad."
+    }
+  ]
+}

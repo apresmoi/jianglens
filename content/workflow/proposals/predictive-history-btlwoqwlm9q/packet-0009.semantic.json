@@ -1,0 +1,154 @@
+{
+  "packet_id": "predictive-history-btlwoqwlm9q-semantics-pkt-0009",
+  "source_id": "video:predictive-history-btlwoqwlm9q",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0066",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0067",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0068"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers Amber by saying current society is anti-love: school makes parents deny children's free will and care about grades and elite college admission more than happiness; Amber restates that denial of free will is anti-love and evil.",
+      "speaker_attribution": "Jiang in seg-0065 and seg-0066; Amber/student in seg-0067; Jiang confirms in seg-0068.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0069",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0070",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0071",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Another student asks why power prevents people from approaching the Monad; Jiang answers that power rationalizes itself through rival interpretations, material-world systems, and ideas that preserve control even when they deny truth.",
+      "speaker_attribution": "Student in seg-0069 and seg-0071; Jiang in seg-0070 and seg-0072.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0072"
+      ],
+      "note": "Q&A packet; SPEAKER_03 appears to be Amber, SPEAKER_00 another student, and SPEAKER_01 Jiang.",
+      "suggested_speaker": "Q&A",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says contemporary society is anti-love because institutions such as school distort parent-child relationships from happiness and agency toward grades, elite college admission, and future employment anxiety.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Social diagnosis in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "school",
+        "anti-love",
+        "parent-child",
+        "free-will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Amber accurately restates Jiang's model: denying free will is anti-love, therefore evil, and limits movement toward the Monad.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0067",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Student restatement confirmed in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "free-will",
+        "anti-love",
+        "evil",
+        "monad"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the powerful maintain power by developing a religion and systems that justify material-world control, even if those systems invert the Monad as evil and deny truth.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0069",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0070",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0071",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Power model in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "power",
+        "material-world",
+        "truth",
+        "religion",
+        "monad"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065"
+      ],
+      "moment": "School turns parental love into anxiety over grades.",
+      "source_phrase": "because of school, parents care about your grades",
+      "why_it_matters": "It grounds the metaphysical model in an ordinary institution students immediately know.",
+      "tone": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0072"
+      ],
+      "moment": "Power does not merely disobey the Monad; it rewrites the map so its own god becomes good.",
+      "source_phrase": "In their conception, the Monad's the evil one. Their god's the good one.",
+      "why_it_matters": "This is the strongest explanation of why evil can feel righteous from inside the system.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Anti-love society",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "A society structured so normal human relationships cannot flourish because institutions deny free will and agency.",
+      "confidence": "high"
+    },
+    {
+      "term": "Denial of free will",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "The concrete form of anti-love in Jiang's answer: replacing a person's agency with institutional demands.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065"
+      ],
+      "note": "The school/parent claim may connect to earlier schooling and anti-agency materials, but this packet itself only supplies the dated 2025-08-29 formulation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0065"
+      ],
+      "note": "One middle phrase in the school example is ASR-damaged, but the institutional anti-love claim is clear."
+    }
+  ]
+}

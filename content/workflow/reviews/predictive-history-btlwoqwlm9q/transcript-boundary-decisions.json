@@ -1,0 +1,60 @@
+{
+  "source_slug": "predictive-history-btlwoqwlm9q",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:8e194cf42617",
+      "decision": "approve",
+      "reason": "Moves 'tools.' after 'These are' to complete the sentence before the next warning sentence."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:6705c641d620",
+      "decision": "approve",
+      "reason": "Moves 'human skulls.' after 'thousands and thousands of' to complete the Aztec-temple example."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:6199db4c3af5",
+      "decision": "approve",
+      "reason": "Moves the lowercase clause after 'But' to finish the sentence."
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:9b271a366d68",
+      "decision": "approve",
+      "reason": "Moves the rest of 'you guys...' into the preceding example starter."
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:2c57df07ca56",
+      "decision": "approve",
+      "reason": "Moves the continuation after 'the assumption was' to complete the Kant contrast."
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-leading-completion-to-previous:fbd7ecf26e11",
+      "decision": "approve",
+      "reason": "Moves the Geist definition after 'telling us is that' to complete the sentence."
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-leading-completion-to-previous:e3429ad75782",
+      "decision": "approve",
+      "reason": "Moves 'in depth later on' after 'we'll study Dante' to complete the aside."
+    },
+    {
+      "candidate_id": "seg-0054->seg-0055:move-leading-completion-to-previous:fc11addbf7f7",
+      "decision": "approve",
+      "reason": "Moves 'less love is bad' after 'what allows for' to complete the Dante criterion."
+    },
+    {
+      "candidate_id": "seg-0072->seg-0073:move-trailing-starter-to-next:0f67514b901d",
+      "decision": "approve",
+      "reason": "Moves trailing 'And' to the next sentence so 'And again...' reads naturally."
+    },
+    {
+      "candidate_id": "seg-0083->seg-0084:move-leading-completion-to-previous:169e84f61ab2",
+      "decision": "approve",
+      "reason": "Moves the continuation after 'But' to complete the contrast between universal love and calculus."
+    },
+    {
+      "candidate_id": "seg-0086->seg-0087:move-leading-completion-to-previous:5cc536487d3b",
+      "decision": "approve",
+      "reason": "Moves 'Geist, right?' after 'back into the' to complete the sentence."
+    }
+  ]
+}

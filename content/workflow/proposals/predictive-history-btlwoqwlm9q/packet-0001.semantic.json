@@ -1,0 +1,215 @@
+{
+  "packet_id": "predictive-history-btlwoqwlm9q-semantics-pkt-0001",
+  "source_id": "video:predictive-history-btlwoqwlm9q",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0001",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0002",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0003",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0004",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0005",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the class as speculative tool-use rather than truth, then argues that modern Gaza should be interpreted through an older pattern of public ritual sacrifice rather than only ordinary military cruelty.",
+      "speaker_attribution": "Jiang classroom lecture; censored written words are not transcribed.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks what the river is in Jiang's Chinese military analogy; Jiang answers that the taboo itself is the river, because killing children creates no exit except escalation or destruction.",
+      "speaker_attribution": "Mostly Jiang, with a brief student question embedded in the lecture segment.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from the disturbing political example into a thought experiment about an island, a safe hill, and flesh-eating monkeys as a model for how impossible danger creates group cohesion.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0001",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0008"
+      ],
+      "note": "Diarized SPEAKER_01 is Jiang across the packet; one student question is folded into seg-0007 rather than separately diarized.",
+      "suggested_speaker": "Jiang with brief student interjection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0004",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006"
+      ],
+      "note": "Several phrases are ASR-damaged in the Gaza/religion passage; preserve uncertainty around specific named terms while extracting only the clear argumentative structure.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang explicitly presents the lecture as speculative theorizing: the ideas are tools for understanding the world, not gospel or final truth.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0001",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Method framing in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "method",
+        "speculation",
+        "theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that public mass killing has a recurring sacrificial form, citing Aztec, Phoenician/Carthaginian, and Roman examples before extending the pattern to Gaza.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0002",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0003",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical analogy advanced in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "sacrifice",
+        "aztecs",
+        "rome",
+        "gaza"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "His Gaza argument depends on public visibility: he says the act is done in front of the world not despite global hatred but because hatred helps generate the taboo that binds the group.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0004",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0005",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Contemporary political diagnosis in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "gaza",
+        "public-violence",
+        "taboo",
+        "cohesion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The river-at-the-back analogy models taboo as a forced no-exit condition: once the worst modern taboo is crossed, the group either escalates together or is destroyed.",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Model introduced in the 2025-08-29 lecture.",
+      "topic_tags": [
+        "military-strategy",
+        "taboo",
+        "cohesion",
+        "sacrifice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture begins by disarming truth-claims: these are not beliefs to obey, but tools to test against the world.",
+      "source_phrase": "These are tools.",
+      "why_it_matters": "That methodological warning frames the whole lecture's extreme claims as a model to evaluate rather than doctrine.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0002",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0003"
+      ],
+      "moment": "The Roman triumph is re-read as disguised sacrifice: victory parade becomes ritual execution at Jupiter's temple.",
+      "source_phrase": "That's sacrifice. That's human sacrifice.",
+      "why_it_matters": "It supplies the historical grammar Jiang uses to reinterpret modern public violence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007"
+      ],
+      "moment": "A taboo becomes a river behind the army: the horror blocks retreat and creates unity.",
+      "source_phrase": "the river is a taboo",
+      "why_it_matters": "This gives the lecture its first compact causal model for how evil can produce solidarity.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Ritual sacrifice",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0002",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's category for public killing that is not merely instrumental but creates religious, social, or political cohesion through taboo and display.",
+      "confidence": "medium"
+    },
+    {
+      "term": "River behind your back",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A Chinese military strategy used as an analogy for forcing unity by removing the possibility of retreat.",
+      "confidence": "high"
+    },
+    {
+      "term": "Taboo",
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0005",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The forbidden act whose violation creates hatred from outside and no-exit solidarity inside the violating group.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0002",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0004"
+      ],
+      "note": "The Gaza diagnosis is a dated position from 2025-08-29 and should not be generalized as Jiang's undated or latest position without later source comparison.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0006"
+      ],
+      "note": "The religious-tradition passage contains severe ASR damage; extract the clear claim that sacrifice is said to unite the Israeli population, but do not rely on garbled named terms."
+    },
+    {
+      "refs": [
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0004",
+        "video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0005"
+      ],
+      "note": "Claims about Gaza are Jiang's controversial interpretation in this lecture, not independently verified fact."
+    }
+  ]
+}
