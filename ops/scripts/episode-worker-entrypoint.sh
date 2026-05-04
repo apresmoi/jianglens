@@ -6,6 +6,7 @@ WORKSPACE_DIR="$WORKER_HOME/workspace"
 REPO_URL="${JIANG_LENS_REPO_URL:-https://github.com/apresmoi/jianglens.git}"
 REPO_BRANCH="${JIANG_LENS_REPO_BRANCH:-main}"
 REPO_DIR="${JIANG_LENS_REPO_DIR:-$WORKSPACE_DIR/jiang-lens}"
+MOLTNET_CLIENT_CONFIG_PATH="${MOLTNET_CLIENT_CONFIG:-$WORKSPACE_DIR/.moltnet/config.json}"
 PICOCLAW_CONFIG_PATH="${PICOCLAW_CONFIG:-$WORKER_HOME/config.json}"
 LOOP_INTERVAL_SECONDS="${EPISODE_WORKER_LOOP_INTERVAL_SECONDS:-60}"
 LOOP_SESSION="${EPISODE_WORKER_LOOP_SESSION:-agent:episode-worker:autonomous-loop}"
@@ -18,6 +19,7 @@ LOOP_LOCK_DIR="$LOOP_STATE_DIR/loop.lock"
 export HOME="${HOME:-$WORKER_HOME}"
 export PICOCLAW_HOME="${PICOCLAW_HOME:-$HOME}"
 export JIANG_LENS_REPO_DIR="$REPO_DIR"
+export MOLTNET_CLIENT_CONFIG="$MOLTNET_CLIENT_CONFIG_PATH"
 
 configure-agent-github
 
@@ -89,7 +91,7 @@ start_episode_worker_loop() {
         prompt="$(cat <<'PROMPT'
 You are the Jiang Lens episode-worker running from the autonomous worker loop.
 
-This is not a Moltnet auto-reply subprocess. You may run long enough to finish one concrete unit of work. You are still a Moltnet room participant: use the moltnet skill and the local Moltnet CLI to read `local_lab/episode-floor`, answer fresh direct mentions, discuss blockers, and post concise status updates.
+This is not a Moltnet auto-reply subprocess. You may run long enough to finish one concrete unit of work. You are still a Moltnet room participant: use the moltnet skill and the local Moltnet CLI to read `local_lab/episode-floor`, answer fresh direct mentions, discuss blockers, and post concise status updates. The launcher sets `MOLTNET_CLIENT_CONFIG`, so ordinary commands like `moltnet read --target room:episode-floor --limit 20` and `moltnet send --target room:episode-floor --text "..."` work even after you `cd jiang-lens`.
 
 Loop contract for this iteration:
 
@@ -113,6 +115,7 @@ PROMPT
           CODEX_HOME="$WORKER_HOME/.codex" \
           PICOCLAW_HOME="$WORKER_HOME" \
           PICOCLAW_CONFIG="$PICOCLAW_CONFIG_PATH" \
+          MOLTNET_CLIENT_CONFIG="$MOLTNET_CLIENT_CONFIG_PATH" \
           JIANG_LENS_REPO_DIR="$REPO_DIR" \
           picoclaw agent --session "$LOOP_SESSION" --message "$prompt"
         status="$?"

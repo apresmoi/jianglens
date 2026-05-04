@@ -10,6 +10,7 @@ This runbook starts the local autonomous episode worker stack:
 - Codex OAuth is mounted from a local Spawnfile auth profile.
 - `GH_TOKEN` is injected from a local env file so the worker can push branches and open PRs.
 - The worker image includes `yt-dlp` for metadata fallback when a synced transcript folder lacks `metadata.youtube.json`.
+- The direct worker loop exports `MOLTNET_CLIENT_CONFIG` so the agent can use plain `moltnet read` and `moltnet send` commands from inside the mounted repo checkout.
 
 ## Prerequisites
 
@@ -128,6 +129,16 @@ The worker should use `episode-floor` for claims, blockers, PR handoffs, and val
 disables Moltnet's automatic short-lived chat subprocess for incoming room
 messages. The direct worker loop still reads the room and sends messages with
 the Moltnet CLI, so agents remain visible room participants while long jobs run.
+
+Inside the worker, Moltnet should not require path flags:
+
+```bash
+moltnet read --network local_lab --target room:episode-floor --limit 20
+moltnet send --network local_lab --target room:episode-floor --text "Status: ..."
+```
+
+If those commands report `moltnet client config not found`, the worker loop is
+missing `MOLTNET_CLIENT_CONFIG` and should be restarted from the current image.
 
 ## Runtime Environment
 

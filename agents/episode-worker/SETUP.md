@@ -114,9 +114,13 @@ cd ..
 Use the room, not DMs:
 
 ```bash
-moltnet read --target room:episode-floor --limit 20
-moltnet send --target room:episode-floor --text "Claiming predictive-history-example for episode processing."
+moltnet read --network local_lab --target room:episode-floor --limit 20
+moltnet send --network local_lab --target room:episode-floor --text "Claiming predictive-history-example for episode processing."
 ```
+
+The worker launcher exports `MOLTNET_CLIENT_CONFIG`, so these commands should
+work from inside `jiang-lens/` without path flags. If the client config is not
+found, report a runtime blocker instead of working silently.
 
 On restart, treat recent room history as ordered instructions, not as a backlog
 of tasks to replay. The newest maintainer instruction wins over older source
