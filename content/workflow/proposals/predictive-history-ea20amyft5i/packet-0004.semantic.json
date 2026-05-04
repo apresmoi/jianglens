@@ -1,0 +1,223 @@
+{
+  "packet_id": "predictive-history-ea20amyft5i-semantics-pkt-0004",
+  "source_id": "video:predictive-history-ea20amyft5i",
+  "source_date": "2025-05-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0025",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0026",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0027",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why the Articles of Confederation fail, how Shays’ Rebellion produces the Constitution, and how the Bill of Rights tries to preserve Jeffersonian liberty inside Hamiltonian centralization.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0029",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0030",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0031",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He describes the Constitution as a clean-slate mixed regime built from Montesquieu: branches, federalism, checks and balances, and Senate vetting meant to combine republican happiness with monarchical external power.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Articles of Confederation are framed as wartime anti-tax and anti-army arrangements that cannot sustain postwar state capacity, producing Shays’ Rebellion.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "articles-of-confederation",
+        "shays-rebellion",
+        "state-capacity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Constitution is presented as Hamilton’s solution: stronger central revenue, trade control, and military power; the Bill of Rights is Jefferson’s constraint on that power.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "constitution",
+        "bill-of-rights",
+        "hamilton",
+        "jefferson"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts agricultural slave labor with industrial free labor, arguing that industry needs differentiated skills and markets while agriculture relies on coerced field labor.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0026",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0027",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "slavery",
+        "free-labor",
+        "industry",
+        "agriculture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He locates the root of the Civil War in the ignored contradiction between Southern slave agriculture and Northern free-labor industry, not as a sudden issue appearing in 1861.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "civil-war",
+        "slavery",
+        "industry",
+        "agriculture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Constitution is treated as America’s attempt at the most perfect government: a clean-slate synthesis of republican, democratic, monarchical, and aristocratic precedents through Montesquieu’s separation of powers.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0028",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0029",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "constitution",
+        "montesquieu",
+        "separation-of-powers",
+        "checks-and-balances"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hamilton, Madison, and Jay write the Federalist Papers to persuade the states that the Constitution is necessary for imperial ambitions and national coherence.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "federalist-papers",
+        "hamilton",
+        "constitution",
+        "empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The American mixed regime lets local republican democracy coexist with national monarchical action through the president, while Senate approval checks favoritism in appointments.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "mixed-regime",
+        "senate",
+        "presidency",
+        "accountability"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0026"
+      ],
+      "moment": "The Constitution is Hamiltonian state power with Jeffersonian rights bolted onto it.",
+      "source_phrase": "The Constitution is a framework for how to build a strong central government",
+      "why_it_matters": "This clarifies why the founding settlement does not erase the Hamilton-Jefferson conflict; it institutionalizes it.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0028"
+      ],
+      "moment": "The Civil War is already latent in the economic framework: slave agriculture and free industrial labor cannot coexist indefinitely.",
+      "source_phrase": "You can't have slave labor and free labor at the same time",
+      "why_it_matters": "This is the lecture’s structural explanation of the conflict before Lincoln.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0029",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0030"
+      ],
+      "moment": "America treats itself as a clean slate and then steals from every prior regime to build checks and balances.",
+      "source_phrase": "America is a clean slate. It's a tabula rasa.",
+      "why_it_matters": "The phrase preserves the founding’s experimental confidence and its dependence on historical imitation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0031",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0032"
+      ],
+      "moment": "Hamilton’s Constitution wants small-republic happiness at home and large-monarchy power abroad.",
+      "source_phrase": "all the advantages of large monarchies",
+      "why_it_matters": "This is one of the lecture’s compact formulas for America as democratic empire.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Articles of Confederation",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Initial American governing arrangement that limited taxation and troop-raising power.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bill of Rights",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Rights amendments added to constrain the strong central government created by the Constitution.",
+      "confidence": "high"
+    },
+    {
+      "term": "separation of powers",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0029",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Montesquieu-derived design in which executive, legislative, and judicial branches check one another.",
+      "confidence": "high"
+    },
+    {
+      "term": "Federalist Papers",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Pamphlets by Hamilton, Madison, and Jay defending the need for the Constitution.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

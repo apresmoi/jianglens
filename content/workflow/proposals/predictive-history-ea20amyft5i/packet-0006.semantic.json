@@ -1,0 +1,245 @@
+{
+  "packet_id": "predictive-history-ea20amyft5i-semantics-pkt-0006",
+  "source_id": "video:predictive-history-ea20amyft5i",
+  "source_date": "2025-05-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0041",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0042",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes Lincoln’s Gettysburg Address and explains Lincoln’s synthesis: the dead consecrate the nation, the living must continue the mission, and America becomes an empire that spreads democracy.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0044",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He carries that synthesis through Alaska, Spanish-American War, world wars, Pax Americana, and then turns to Tocqueville as the critic of America as non-civilization.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0047",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Tocqueville’s fear that American democratic middle-class society produces an atomized, uniform, mediocre world through anxiety, competition, uncertainty, and endless accumulation.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Lincoln sanctifies the Civil War dead by making the living responsible for continuing their mission to spread liberty and preserve government of the people.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0041",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "lincoln",
+        "gettysburg-address",
+        "sacrifice",
+        "liberty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Lincoln resolves the Jefferson-Hamilton conflict by naming America an empire of democracy: born in liberty, fighting for liberty, and spreading liberty.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "empire-of-democracy",
+        "lincoln",
+        "jefferson",
+        "hamilton"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Post-Civil War America becomes an imperial power through industrialization, Alaska, the Spanish-American War, the Philippines, Cuba, world wars, and Pax Americana.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0043",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "american-empire",
+        "pax-americana",
+        "industrialization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tocqueville is introduced as a critic who asks why American democracy works and why it is destined to conquer the world while fearing what its liberty will do globally.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0044",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "tocqueville",
+        "democracy-in-america",
+        "american-democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang summarizes Tocqueville’s fear as the world becoming atomized, uniform, and mediocre under American democratic middle-class dominance.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0045",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "tocqueville",
+        "mediocrity",
+        "atomization",
+        "uniformity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Middle-class society creates anxiety because status is unstable, uncertainty because wealth can vanish, and competition because status must be earned rather than inherited.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0047",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "middle-class",
+        "anxiety",
+        "competition",
+        "status"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Franklin’s simple living and constant achievement are reinterpreted as symptoms of middle-class anxiety: accumulation becomes the only defense against falling back into poverty.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0047",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "franklin",
+        "middle-class-anxiety",
+        "accumulation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0042",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0043"
+      ],
+      "moment": "Lincoln fuses sacrifice, liberty, and world mission into America’s new identity.",
+      "source_phrase": "we are an empire of democracy",
+      "why_it_matters": "This is the central formula of the episode title and the bridge from Civil War to Pax Americana.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0045",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046"
+      ],
+      "moment": "Tocqueville’s nightmare is not poverty but a conquered world that becomes atomized, uniform, and mediocre.",
+      "source_phrase": "atomized uniform and mediocre",
+      "why_it_matters": "The phrase carries the lecture’s sharpest critique of democratic modernity.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0047"
+      ],
+      "moment": "The middle class is anxious because there is no stable place; wealth can disappear tomorrow.",
+      "source_phrase": "You can be rich tomorrow but you can be poor the next day.",
+      "why_it_matters": "This converts class mobility from hope into nervous compulsion.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0048"
+      ],
+      "moment": "Franklin’s discipline is no longer just virtue; it is anxiety managing itself through accumulation.",
+      "source_phrase": "The only way to resolve this anxiety is by constantly accumulating more and more.",
+      "why_it_matters": "This reinterprets the early American dream through Tocqueville’s darker psychology.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "empire of democracy",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0043",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Lincolnian synthesis in which America becomes an empire whose mission is spreading liberty and democracy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Post-Soviet global order under American hegemony.",
+      "confidence": "high"
+    },
+    {
+      "term": "atomized",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Living in one’s own isolated world, in Jiang’s Tocqueville summary.",
+      "confidence": "high"
+    },
+    {
+      "term": "middle-class anxiety",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0047",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Instability of status and wealth that drives competition, self-control, cleanliness, achievement, and accumulation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0044",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0046"
+      ],
+      "note": "Jiang explicitly identifies the 2025 world as atomized, uniform, and mediocre under American democratic empire.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
