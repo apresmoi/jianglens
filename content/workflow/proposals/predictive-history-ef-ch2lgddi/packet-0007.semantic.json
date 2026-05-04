@@ -1,0 +1,110 @@
+{
+  "packet_id": "predictive-history-ef-ch2lgddi-semantics-pkt-0007",
+  "source_id": "video:predictive-history-ef-ch2lgddi",
+  "source_date": "2025-04-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0049",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0050",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0051",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0052"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang contrasts the Declaration's sacred property right with Robespierre's attack on property as theft, slave trade, inheritance, and oppression, then reads Robespierre's proposed limits on property.",
+      "speaker_attribution": "Jiang reading and interpreting Robespierre's speech.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0053",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0054",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0055",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from property limits to the guillotine, the king's conspiracy and attempted flight, regicide as taboo-break, the Vendee rebellion, and the beginning of the Terror.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Robespierre rejects sacred property because property can require oppression; society, not God, grants property and must limit it by others' rights and national existence.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0049",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Jiang's reading of Robespierre's property speech.",
+      "topic_tags": ["property", "robespierre", "oppression", "rights"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "The execution of Louis XVI breaks a sacred taboo because many still see the king as a son of God, but Robespierre's principle is that Louis must die so the revolution may live.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0054",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Interpretation of regicide in this lecture.",
+      "topic_tags": ["regicide", "taboo", "louis-xvi", "revolution"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Terror is directed not only at enemies but also at left-wing allies when they threaten the revolution's survival or Robespierre's vision of it.",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0056"],
+      "temporal_scope": "Reading of Robespierre's political violence.",
+      "topic_tags": ["terror", "allies", "danton", "hebert"],
+      "claim_type": "historical-claim",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0051"],
+      "moment": "Property cannot be sacred if it gives one person divine permission to oppress another.",
+      "source_phrase": "God would never give you the power to oppress others",
+      "why_it_matters": "It shows Robespierre turning the Rights of Man against bourgeois property.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0055"],
+      "moment": "Louis must die so that the revolution may live.",
+      "source_phrase": "Louis may die in order that the revolution may live",
+      "why_it_matters": "It is the sacrifice formula before Robespierre applies it to himself.",
+      "tone": "sacrificial",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "sacred property",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0049"],
+      "definition_or_usage": "The Declaration's idea that property is inviolable except by public necessity and compensation; Robespierre contests it as protection for the rich.",
+      "confidence": "high"
+    },
+    {
+      "term": "guillotine",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0054"],
+      "definition_or_usage": "A supposedly humane execution device that becomes the main mechanism of revolutionary terror.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0054"],
+      "note": "Jiang dates the king and queen's attempted flight to June 20-21, 1792 in the transcript; historical context suggests the Varennes flight is 1791, so this may be a lecture or ASR date issue.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0056"],
+      "note": "ASR renders 'Reign of Terror' as 'Ring of Terror' throughout; semantic extraction preserves the intended concept."
+    }
+  ]
+}
