@@ -1,0 +1,135 @@
+{
+  "packet_id": "predictive-history-y-gxvzwbfmu-semantics-pkt-0001",
+  "source_id": "video:predictive-history-y-gxvzwbfmu",
+  "source_date": "2025-11-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0002",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0003",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0004",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0005",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0006",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0007",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames Rome as an anti-civilization born on Etruscan borderlands: poor, warlike, and geographically pressured into military organization, roads, obedience, open citizenship, and replenishable legions.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Rome begins as a poor borderland military society recruited by richer Etruscans and eventually becomes more warlike than its neighbors.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0002",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Rome",
+        "Etruscans",
+        "borderlands",
+        "war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Early Roman liberty is defined as obedience to fathers, history, and custom rather than Greek public speech.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0004",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Roman liberty",
+        "Greek liberty",
+        "citizenship"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rome can lose battles and still get stronger because open citizenship and simpler legionary service let it replenish soldiers.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0005",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0006",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0007",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "legions",
+        "citizenship",
+        "military system"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001"
+      ],
+      "moment": "Rome is named as the evil inverse of civilization at the start of the lecture.",
+      "source_phrase": "Rome is the great anti-civilization",
+      "why_it_matters": "Sets the thesis: Roman power is not merely another civilization but the negation of reflective civilization.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0003",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0004"
+      ],
+      "moment": "Geography turns poverty into militarized solidarity.",
+      "source_phrase": "forced to be the most martial",
+      "why_it_matters": "Connects landscape, poverty, and culture into Jiang’s Roman origin model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "anti-civilization",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Rome as Jiang’s name for an empire organized around war, obedience, and hatred rather than reflective civilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman liberty",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0004",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Liberty as obedience to fathers, law, custom, and historical inheritance.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001"
+      ],
+      "note": "This lecture follows Persia, Jews, and Greeks and positions Rome as the next post-Bronze Age force in the sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0008"
+      ],
+      "note": "Transcript says Pyrrhus sails to Greece while context implies the campaign concerns Italy; preserve the transcript wording for refs."
+    }
+  ]
+}

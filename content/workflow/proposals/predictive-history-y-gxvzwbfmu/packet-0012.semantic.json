@@ -1,0 +1,188 @@
+{
+  "packet_id": "predictive-history-y-gxvzwbfmu-semantics-pkt-0012",
+  "source_id": "video:predictive-history-y-gxvzwbfmu",
+  "source_date": "2025-11-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0089",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0090",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0091",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0093",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0094",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0095",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0096"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts Greek symposium and Roman feast, then answers questions about great men, Alexander as Achilles, Scandinavian cohesion, and whether AI changes imperial decline.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0091",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0093",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0095"
+      ],
+      "kind": "question",
+      "summary": "YouTube/class questions ask about great men, Alexander’s relation to the Iliad, Scandinavian difference, and AI/digital empires.",
+      "speaker_attribution": "Student or YouTube question as voiced in class",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Athenian fun is conversation, philosophy, and watered wine; Roman fun is vomiting, orgy, and mythic reenactment amid public starvation.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0088",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0089",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "symposium",
+        "Roman feast",
+        "culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang ranks poet-prophets and civilization-makers such as Homer, Dante, Plato, Jesus, Zarathustra, and Yahweh above conquerors like Caesar, Alexander, and Napoleon.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0091",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "great men",
+        "poet prophets",
+        "civilization"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Alexander acts out Achilles because he and others see him as the character who must seek glory by dying in battle.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Alexander",
+        "Achilles",
+        "Iliad"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Scandinavian cohesion comes from small scale, cold indoor sociability, cooperation under harsh climate, and surrounding enemies.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0093",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Scandinavia",
+        "cohesion",
+        "egalitarianism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "AI may increase imperial control in theory, but a dying empire lacks the energy to build real systems and instead produces scams or psychological matrices.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0095",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "AI",
+        "empire",
+        "transhumanism"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0089",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0090"
+      ],
+      "moment": "Roman feast is read as social reenactment of founding violation.",
+      "source_phrase": "reenactment of the rape of Sabine woman",
+      "why_it_matters": "Links entertainment, myth, and elite cohesion.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0091",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092"
+      ],
+      "moment": "Greatness belongs to those who create civilizations through ideas, not merely conquerors.",
+      "source_phrase": "they create civilizations based on their ideas",
+      "why_it_matters": "Clarifies Jiang’s hierarchy of prophet-poet over military hero.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0096"
+      ],
+      "moment": "A dying empire wants AI control but has energy only for scams.",
+      "source_phrase": "a lot of desire and motivation to create an AI scam",
+      "why_it_matters": "Carries a time-sensitive modern empire claim.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "symposium",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0088",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0089"
+      ],
+      "definition_or_usage": "Greek dinner conversation as civilization-through-speech.",
+      "confidence": "high"
+    },
+    {
+      "term": "poet prophet",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0091",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "Jiang’s highest category of historical greatness: figures whose ideas create civilizations.",
+      "confidence": "high"
+    },
+    {
+      "term": "transhumanism",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0096"
+      ],
+      "definition_or_usage": "Later-course topic named as psychological or technological enslavement through digital systems.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0095",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0096"
+      ],
+      "note": "Modern AI/digital technology is flagged as a topic Jiang says he will discuss toward the end of the course.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}

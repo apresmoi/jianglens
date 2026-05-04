@@ -1,0 +1,681 @@
+# Secret History #21:  Roman Anti-Civilization
+
+Source: https://www.youtube.com/watch?v=Y-gXVzwbFMU
+
+## seg-0001 / 00:00:00-00:01:22 / SPEAKER_02
+
+Today we do Rome, and so before we've done Persia, the Jews, and the Greeks, and these are the three main civilizations after the Bronze Age collapse, and now we will emerge Rome to eclipse all three and build a world empire, okay? Okay, and what I will argue to you today is that Rome is the great anti -civilization, or you can call it just the evil empire, all right? So what do we know about Rome? Well, like most great empires, they emerged initially at the borderlands of another cultural empire, okay? So these are the Etruscans, and the Etruscans are very similar to the Mycenaeans. They are the main Greeks, and as you can see, they are expanding throughout the Italian peninsula. Now, the thing about empires is that eventually the people become lazy, arrogant, and stupid, and so what they do is they get people to fight for them. So the Romans are here, and as you can see, this is the borderlands, and the entire area is surrounded by great warriors.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:22-00:02:15 / SPEAKER_02
+
+This is a poor region. And so it's always funny. They're running for resources. So the Romans get recruited as mercenaries, and over time, what will happen is that they will start to emerge as the great power in the Italian peninsula. And at this point in history, this is really important, they're surrounded by lots of different people that are like them, and they're warlike. So they triumph because they become the most warlike of everyone, okay? Their entire society is based on war. This is a Etruscan civilization. And as you can see, it is very advanced. The Etruscan civilization is heavily in contact with the Egyptians and the Greeks, and as well as people around them, because they are serfing, faring people. And this is a civilization that will most heavily influence the Romans. As you can see, the Etruscans are
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:15-00:03:17 / SPEAKER_02
+
+always at war as well, and then as they become wealthier, they will recruit the Romans to fight for them. This is not a great map, but what this map shows you is the gradual expansion of Rome. So at first, as you can see, it is actually at the most disadvantaged location, because it's always surrounded by enemies. It is on flat land, and so it's not easily defensible. And it's not really by the coast, and therefore it's hard for it to trade, but because it is in such a disadvantaged position, it is forced to be the most martial, the most violent, the most militaristic. The most aggressive, and the culture evolves around that. And so over time, they're able to conquer the entire Italian peninsula, and then expand to the Mediterranean. Okay, so this is another map that shows you Rome, and how it's going to slowly expand over time. The way it expands is through military conquest, and then by building roads.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:18-00:04:23 / SPEAKER_02
+
+And this is very impressive, because if you've ever been to Italy, it's very hilly. So there's a tremendous effort to build roads. But once they build the roads, they're able to consolidate and navigate their empire. This is a map that shows you the geography of Italy. As you can see, it's very mountainous, and there are that many rivers, which tells us it's very poor. And because it's very poor, the people tend to be very unified, very aggressive, and they have a deep egalitarianism. Because only by working together, can you ultimately triumph over Italy. Okay, so this is the main characteristic about Rome in the early days that you must remember. It is poor, it is small, and it is unified, so everyone knows each other. And so because of its geographic characteristics, we emerge its concept of liberty. And its concept of liberty is obedience to the fathers, to history, to culture, because only by doing so can you survive as a people.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:24-00:05:18 / SPEAKER_02
+
+Now, what's interesting about this is, it's a different concept from the Greek one, but the Greeks. And the Greeks believed that what liberty is, is the right to speak your mind in front of others. And as such, the major difference between the Greeks and the Romans is, in Greece, citizenship is passed on from family to family. But in Rome, citizenship can be earned, okay? It's an open citizenship system. Why? Because if you just obey the fathers, the laws, the customs, then you're going to be a Roman citizen. And as such, what's going to happen is that as Rome expands, it's going to incorporate different people into its culture. And as a result, Rome has an advantage that Athens and Sparta doesn't have. Rome can always replenish its soldiers. And as such, it can afford to lose war after war after
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0005
+
+## seg-0006 / 00:05:18-00:06:23 / SPEAKER_02
+
+war, but as it does so, it gets stronger and stronger, because it's learning with each defeat, okay? And that is the secret to Rome's ultimate victory. The heart and center of Roman society is the Senate. This is where the leading families come together to discuss the fate of Rome. And at this time in history, when Rome is poor, this is not a problem, because everyone knows each other, and there's no real inequality, therefore there can be no corruption. And so these fathers, the senators, are representing the best interests of all Romans. Right? But over time, as Rome becomes wealthier and wealthier, this becomes a huge problem, because as Rome develops more wealth, guess who gets all the wealth? These guys, okay? So we'll see this later, as Rome gets wealthier, Rome also becomes much more corrupt. All right, so the Greeks, the fighting system is the hoplites. The Romans used something called the legions. Now
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0006
+
+## seg-0007 / 00:06:23-00:07:19 / SPEAKER_02
+
+there are some major differences between these two fighting techniques, even though for their time, they are the most advanced. As you can see, they are the most advanced. As you can see, the Greek hoplites are heavily armored, okay? And as such, each hoplite needs to buy his own armor, which means that hoplites tend to be small landowners, okay? They have a bit of wealth. The legionnaires can be poor, because it doesn't actually require that much armor to be a legionnaire. Okay? That's the first thing. Second thing is that it actually takes a lot of training to be a hoplite. You basically have to spend years and years. Hone your skills because you fight in formation. The legionnaire, you don't need that much training, okay? You can actually go straight into battle. The third major difference is that, as you can see, the hoplites, they are using heavy armor, shields and helmets. The legionnaires are much lighter.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0007
+
+## seg-0008 / 00:07:19-00:08:32 / SPEAKER_02
+
+The reason why is the legionnaires were developed to fight in a mountainous region. So they need to be able to climb, to hike up mountains in formation. Whereas the Greeks are fighting more on flat land, okay? So over time, what will happen is the legionnaires will overwhelm the hoplites. This is a typical Roman peasant. He's spending most of his time farming and when it's required of him, he goes to war. Okay? He's not a full -time soldier. So the Greeks and the Romans will fight a series of wars. So as the Romans are expanding. They go closer and closer to the coast. And here are a lot of Greek colonies. And the Greeks are losing to the Romans. So they call for help from the compatriots across the sea. And a king named Pyrrhus of Epirus, he decides to take advantage of this opportunity to go conquer Italy, okay? So he and his hoplites sail over to Greece and they are destroying the Romans.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0008
+
+## seg-0009 / 00:08:32-00:09:33 / SPEAKER_02
+
+Battle after battle. Pyrrhus is defeating the Romans. And then he finally says, you know what? If I win one more battle, I'm going to have no more soldiers. Okay? And that shows you the difference between Greek fighting versus Roman fighting. Greek fighting uses specialized forces that can with over time. Whereas the Romans can just keep on replenishing their forces. Okay? So the Romans don't actually win that many battles, but they win most of their wars. Okay. Now. Okay. Now. As the Romans are expanding, they eventually reached the Mediterranean. And so now they start developing a navy in order to trade with other nations like Egypt and Greece. This comes in conflict with the Carthaginians. And at this time, the main power in the Mediterranean are the Carthaginians. Now, and they will fight a war that lasts decades, 100 years, and ultimately Rome will triumph. And
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0009
+
+## seg-0010 / 00:09:33-00:10:28 / SPEAKER_02
+
+the main reason why that Rome triumphs, and this is really important for you guys to understand, is the main difference between Carthage and Rome is Carthage is rich. Rome is poor. Okay? Why? What's the matter? Because if you're rich, what you can do is hire mercenaries to fight the war for you. And that's what Carthage does. But Rome is poor. Therefore, they must use their own citizens to fight the war. Okay? And so over time, the citizens become much tougher, much more unified. Whereas the Carthaginians, they become more corrupt. They become much more decadent. And because the Romans are more invested in the war, they will fight to the end, whereas the Carthaginians are business people. They're traders. Okay? They're very known for their sharp business skills. And so they do a cost -benefit analysis and be like, you know what? This war is going to cost us more than if we just surrender. Okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0010
+
+## seg-0011 / 00:10:28-00:11:25 / SPEAKER_02
+
+So... So the Carthaginians surrender the First Punic War. They surrender the Second Punic War. And the Third Punic War, guess what happens? They're going to be wiped out by the Romans. Okay? So that's what the Roman mentality is. We fight you, we'll fight you to the death. And if we beat you, we will kill every one of you. Okay? That's just a Roman war mentality. And that's where they ultimately triumph in the end. Okay? So this is another map that shows you the conflict between the Carthaginians and the Romans. This is the Second Punic War. Okay? So, Carthage, over here, it's expanded to Spain, and there are lots of silver mines in Spain. Rome right now, it's still pretty small. Okay? But again, because the Romans are dedicated towards war. That's the only thing they know. That's the only thing they're good at. Okay? They will eventually triumph over the Carthaginians. We actually don't know that much about the history of Rome.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0011
+
+## seg-0012 / 00:11:25-00:12:17 / SPEAKER_02
+
+Okay? But the most famous episode during the Second Punic War, is when a Carthaginian general named Hannibal Barca. Okay? He's in Spain, and he decides he's going to go destroy Rome. Now, the way he does it is by crossing the Alps. Okay? So, these are mountains. And for the longest time, the Romans thought that this was a natural barrier. And what Hannibal Barca will do is, he will cross the Alps with his war elephants and his army, land in Italy, and start attacking Rome. And then three years later, he will attack Rome. And in three decisive battles, Hannibal will destroy the entire Roman army. Okay? He will wipe out the entire Roman army. And at this point in history, Rome needs to surrender. Okay? So, Hannibal sends an envoy to the Senate and tells them, I destroyed every single one of your soldiers. You have no more army.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0012
+
+## seg-0013 / 00:12:17-00:13:24 / SPEAKER_02
+
+Therefore, I am willing to talk peace terms. And the Senate is like, screw you. Come get us. Okay? And this marks a turning point in Roman history. So, let's look over some of the major events. This is Hannibal crossing the Alps. Okay? One of the most famous military feats in human history. This is the Battle of Tribia, one of the first major battles, where even though Hannibal is under men and he's in enemy territory, what he will do is, he will use a series of brilliant military maneuvers to ambush his enemies. Okay? So, these are the Romans. As you can see, what's going to happen is the Carthaginians, their horsemen, lies in the marsh. And then they will sneak up and destroy the Romans from the rear. Okay? That's the first major battle. This is the Battle of Lake Tresemme. And the same thing basically happens where the Romans are crossing. Then Hannibal ambushes them from the hills.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0013
+
+## seg-0014 / 00:13:24-00:14:26 / SPEAKER_02
+
+Okay? The second major battle. And this is the most famous battle. This is called the Battle of Cannae. Okay? And this is what we call a double involvement strategy, where what will happen is that the two armies meet, and then Hannibal will send his cavalry on the wings. And then they will envelop the Roman army, and then they will slaughter everyone. Okay? So, Romans lose between 50,000 to 100,000 men. Their entire army is wiped out because of this battle. Okay? So, this is the first phase. Second phase is when the cavalry starts. They start to flank the Romans. And in the third phase, the soldiers come in from behind and trap the Romans and kill everyone. Okay? So, this is the most famous battle in military history. Now, there's a problem with this battle, which is this has never happened before in human history. Remember before we discussed the idea that in China, one of the most common military strategies is behind the river strategy.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0014
+
+## seg-0015 / 00:14:26-00:15:20 / SPEAKER_02
+
+Okay? So, you force your men to go to a river, and now the enemy is approaching them. They have no choice but to fight to the end, because otherwise they'll drown. Okay? If you can see this situation, it's very similar. The Romans are in a very similar situation, where they're being surrounded by enemies on all sides. Right? So, at this time, what should happen, theoretically, is they become energized. And the entire Roman army goes and fights the Carthaginians and defeats the Carthaginians. Okay? We have examples of that. We don't have an example of, in fact, an entire army in ancient times being surrounded and being slaughtered by the enemy. This is a very strange battle. In fact, if you ask ChatGPT, which battles have used double -envelopment strategy, basically, you have the Battle of Canaan. Okay, we have that. But the next one is 1940.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0015
+
+## seg-0016 / 00:15:22-00:16:22 / SPEAKER_02
+
+1940 in World War II. Now, the difference, of course, is that by the time you hit the 1940s, you have machine guns. You have tanks. So, if you start an enemy, you can destroy your enemy. But not in ancient times. Okay? In fact, the closest parallel that we have is the Battle of Marathon. But some historians suggest, okay, so even historians disagree whether or not the Battle of Marathon was actually a double -envelopment strategy. This makes no sense. This battle strategy makes no sense from a military perspective. Also, we can't find the damn place. You would think this was a huge battle. 50,000, 100,000 Romans are dead. There'd be a lot of bodies. We can't find the damn place. Okay? Look, there's no archaeological evidence to prove the battle took place. We don't have any evidence. That's kind of strange. Okay? Yeah, but maybe it's because of the weather or, you know, we don't know.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0016
+
+## seg-0017 / 00:16:22-00:17:19 / SPEAKER_02
+
+Okay? All right, guys. So, what's going on here? Okay, so on YouTube, someone asked me, how can we know what history is true or not? Okay? Now, you would think the answer is, you just ask historians whether it's true or not, and you know the answer. The problem is that every historian that you talk to tells you the Battle of the Canal must be historical fact. It must be, even though we don't have any evidence for it. So, given that, how can we understand or figure out if it's true or not? Well, in this class, what I teach you is two things. It's a new historical framework to understand history. Okay? So, this is predictive history, and we ask ourselves, does the Battle of the Canal fit into a larger historical pattern? Okay? Second question we ask is, does it make sense according to game theory? And the third question is, does religion explain the battle?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0017
+
+## seg-0018 / 00:17:20-00:18:12 / SPEAKER_02
+
+Okay? And when we do this, we use this framework to understand the Battle of the Canal, our conclusion must be, it didn't happen. It was completely made up. Okay? The Battle of the Canal did not happen. So, why? Well, first of all, when we have these great military generals like Hannibal Barca, they tend to become a king. Okay? So, think of Napoleon, or think of Julius Caesar. Hannibal Barca is the first general that we have that conquered all of Rome and decided, I'm going to sit back and retire for the next 50 years. Okay? Never happened before. Why didn't he go back to Carthage and reclaim the kingship? Right? That's the first problem. Second problem is game theory. Okay? So, if you read Roman history, what they will tell you is that Hannibal, after the Battle of the Canal, he was stuck in Italy without resources. Then
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0018
+
+## seg-0019 / 00:18:12-00:19:08 / SPEAKER_02
+
+the question is, why didn't he go to Carthage, conquer the place, and demand the resources he needs to win against Rome? Why is he sitting back? Okay? Also, remember, this is a guy who crossed the Alps on his own initiative. The Carthaginians told him, don't start a war with Rome, Hannibal. And Hannibal was like, nah, I'm going to go across the Alps. Thank you very much. Okay? So, this makes absolutely no sense whatsoever. And then, from a religious perspective, how can we explain why Hannibal did what he did? Roman historians will tell you, oh, it's because his father lost against Rome. He wanted revenge on behalf of his father. That makes no sense, guys. Okay? Usually, when a Napoleon emerges, it's because he thinks he's a son of God. Think of Napoleon. Think of Alexander the Great. Think of Julius Caesar. Okay? They all have a messianic calling, a divine mission. All right? So, from this, only conclusion can be, first of all, the Battle of Cana did not happen.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0019
+
+## seg-0020 / 00:19:08-00:20:05 / SPEAKER_02
+
+There's no way it could have happened. The second thing is, you can also say that Hannibal Barca did not exist as a person. All right? But then, this leads us to a really huge problem, which is, why would the Romans just make this stuff up? Why? Why would they say, we fought this battle, and 100,000 of our men got killed by this Carthaginian general, Hannibal, who was smarter than us? Okay? Well, the reason why is this, Carthage. Okay? Carthage is, at this time in history, about 200 B.C., the most beautiful, the most prosperous, the most cultured city in the world. And what did Romans do? They burned it to the ground and killed everyone. Okay? That's just the Roman way. Now, this is a siege of Carthage that lasted many, many years in the Third Punic War. The Romans, if they don't like you, they will come and kill every one of you.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0020
+
+## seg-0021 / 00:20:05-00:20:57 / SPEAKER_02
+
+Okay? They burned it in Carthage. Now, during this war, a Greek named Polybius, okay? Polybius was a hostage of Rome, and he became the official historian of the Roman Empire. So, this is a guy who invented the Battle of Canaan. Why? To justify the burning of Carthage. Right? Because the Romans are like, why did we kill the Carthaginians? Because that's what we do, man. Okay? But Polybius is Greek, and he understands that. You know, if Rome, you're going to be an empire, you need people on your side. You can't go around just killing people. You need to explain your actions. So, in other words, Polybius, in order to justify the Roman Empire, created this entire history of the Second Punic War that didn't really happen. Okay? Because now it's like, okay, well, the Romans felt threatened by Hannibal, right?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0021
+
+## seg-0022 / 00:20:57-00:22:00 / SPEAKER_02
+
+Hannibal was going to destroy them. And so, they all saw Carthage as a threat, and therefore, they had to destroy Carthage. Now, it's much more reasonable. Okay? So, Polybius basically made up the entire history of Rome. The thing to remember about history is that if you're a military power, you don't write history. Why? Because you're not capable of reflection. You're not capable of deep cultural production. Okay? So, the Romans won all these battles and got the Greeks to write the history for them, to just justify why they did what they did. Okay? Does that make sense, guys? All right? So, again, I hate to say this. Okay? But basically, all Roman history is complete nonsense. All right? If you read Roman history, just don't believe anything you read. Okay? So, let's look at the Roman war machine. Because after the war against Carthage, after Rome destroys Carthage, Rome is the undisputed leader of the Mediterranean. It's an empire now.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0022
+
+## seg-0023 / 00:22:00-00:22:54 / SPEAKER_02
+
+But it still keeps on fighting these wars overseas for no particular reason. Why? Because it has no choice in the matter. This is the entire Roman war machine. Okay? So, because Rome is a poor place, the only way that it can generate wealth is by conquering other people. Okay? So, the nobility wants to go fight these wars overseas so that they can capture slaves. Why? Because they can get these slaves then to work their estates. Okay? So, at this time in history, slaves are the main resource that people are fighting over. Okay? Now, to fight these wars, peasants are conscripted into the military. But once they leave the land, they need to feed their families. So, what do they do? They borrow money with their land as collateral. Okay? But over time, what happens is they can't pay back the interest. Right? They default on a loan and then landowners, the nobility, seize the land.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0023
+
+## seg-0024 / 00:22:54-00:23:43 / SPEAKER_02
+
+Then what they do is they get the slaves that they conquer to come work this land. Right? Now, the peasants have no choice but to go to Rome to look for work. Because they've lost their land. And the Roman state gives them food. It's called a grain dole. Okay? And so, now the nobility wants to go fight more wars. What they do is they bribe the peasants to vote for more wars. And then the peasants can go and maybe win some booty. Okay? Because they have no land. And so, what's happening is that what the Roman war machine is doing is creating slavery, debt, corruption, and inequality. Okay? And over time, what happens is that wealth becomes more consolidated. Inferior hands, which creates conflict between the upper nobility and the lower nobility. The optimates are called the upper nobility. And the populaires are called the lower nobility. Okay? So, what's the difference?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0024
+
+## seg-0025 / 00:23:43-00:24:37 / SPEAKER_02
+
+Optimates just means the best of the best. Okay? Why do I have so much money? Because I'm better than you are. In fact, my entire family is better than you are. Populaires is where we get the word populist from. So, this is lower nobility, people like Julius Caesar, who take advantage of the discontent in order to launch their political careers. And what they do is they promise the peasants, the people, more opportunities. Okay? To take the wealth of the rich and give it more to the poor. Okay? So, this is a conflict that will arise in Rome after the end of Carthage. And this will last for centuries, until the very end of the Roman Empire. Okay? In other words, the Roman war machine doesn't know how to stop. Even when it becomes an empire, all this aggressive military power, all this military power, all this military energy, then translate into civil war. Okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0025
+
+## seg-0026 / 00:24:37-00:24:40 / SPEAKER_02
+
+So, the Romans aren't killing other people, they're killing each other.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0026
+
+## seg-0027 / 00:24:43-00:24:44 / UNKNOWN
+
+All right.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0027
+
+## seg-0028 / 00:24:44-00:25:53 / SPEAKER_02
+
+This is a question from a YouTube viewer. And Alara Ford asked, why are wars good at maintaining equilibrium? Okay? Why is it that wars help reduce the problem of elite overproduction? Okay. And the reason why is, and I know it's hard for you guys to understand this, but wars are beneficial. All right? So, let's go over the benefits of war. Well, first of all, you create social cohesion. Right? You're fighting against another person, you have to stand together. So, it creates a dialectic, a hatred of the other, which gives meaning and purpose to life. Okay? It creates social mobility. If you're poor, you go fight a war, you get lucky, you can become pretty wealthy. Wealth destruction and generation. Okay? So, you're destroying wealth, which allows for more opportunities. Survival of the fittest. So, population control. So, basically, the strongest survive in war, the weak die off. High fertility rate. Because so many people are dying, mothers are forced to have more and more children.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0028
+
+## seg-0029 / 00:25:53-00:26:50 / SPEAKER_02
+
+Okay? They don't have a choice in the matter. Release of social tension. So, if people don't like each other, they go fight a war together and now they're best friends. Innovation, creativity, entertainment for nobility. Okay? Competition. War is often just, nobility just enjoys wars because it's like playing a chess game. Okay? They're not the ones dying. Worst case scenario, they become hostages. Right? All right. So, again, what happens is that after Carthage is destroyed, the Romans turn against each other. Okay? The first thing that happens is something called the social wars. Basically, it's the Roman allies who were told to fight a war and return. They were granted citizenship. They were not granted citizenship, so they rebelled against the Roman state and this led to civil war. Okay? But the problem is you're not fighting the Roman army, so you're not going to win. So, eventually, the Roman state had to give in and give citizenship to these people.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0029
+
+## seg-0030 / 00:26:50-00:27:37 / SPEAKER_02
+
+Okay? This is one of the most radical turning points in Roman history. So, right now, there's massive inequality in Rome. The nobility have all the land and they have slaves to work the land. The peasants are having problems feeding themselves in the cities. Okay? So, now what do you do? So, this man is named Tiberius Gracchus, and he's a reformer. And he says basically, hey guys, here's what we're going to do. The rich have all this land. We're not going to touch that because we have to respect private property. But there's all this public land that's not being used. It belongs to the Roman state. We have all these poor people that want to work the land, but they have no land. So, what we'll do is this. We'll take public land that no one's touching. Okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0030
+
+## seg-0031 / 00:27:37-00:28:36 / SPEAKER_02
+
+No one's using this stuff. Give it to the people to work to generate more wealth for our society. We have more tax revenue. The people are happier. And, yeah. And no one gets hurt. Okay? Perfect solution, right? Because he proposed a solution, the nobility, the optimists, beat him to death. Okay? Not only did they beat him to death, they beat his brother to death as well. Okay? Why did they do this? Because the nobility, they beat him to death. The nobility is, how dare you steal our public land from us? Okay? So, nobility was like, this public land belongs to us, man. Because we are the state. Screw the people. Okay? All right. So, of course, this leads to the rise of dictators. So, there have been different dictators who've come to power and they've tried to solve this sort of conflict within Rome. The first is Marius who promised reform, but really didn't deliver. Then you have Sulla.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0031
+
+## seg-0032 / 00:28:36-00:29:36 / SPEAKER_02
+
+Okay? And Sulla's solution was really simple. Let's just kill all the reformers. Pretty simple, guys. Okay? Our problem isn't the inequality, the problem is you've got too many people who propose reform. So, he just killed all the reformers. Okay? And then after he killed all the reformers, he retired. One of these reformers who got away was Julius Caesar. Okay? So, Julius Caesar, because his family was very wealthy, was able to escape Sulla. But he's a very ambitious man. So, now he's going to build his political career. Based on the discontent of the people. And what he's going to do is that he's going to bribe his way into office so that he can get a generalship to go invade Gaul. Okay? So, he goes to Gaul, which is in modern day France. He spends many years there. What's he doing there? Okay. Okay. Well, if you look at official Roman history, what he's doing there is he's trying to pacify the people of Gaul.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0032
+
+## seg-0033 / 00:29:36-00:30:33 / SPEAKER_02
+
+Okay? So, he has these series of military campaigns in Gaul. And it culminates in... So, he's leading his soldiers into war in Gaul. And it culminates in something called the Battle of Alesia, which is one of the most famous battles in history. Basically, what's happened is that this is the very last battle of Caesar's Gallic campaign. What he's done is he's surrounded a village where his enemies are. Okay? But his enemies send word to all the Gallic tribes to come and converge against the Romans. So, what the Romans do is they build fortifications to block out the invaders. Okay? So, they're fighting wars on both fronts. They're fighting in the inside against the enemy's trap here. They're also fighting against the enemies coming from outside as well. And Alesia is one of the greatest battles in human history. And again, we have reason to think that this didn't happen.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0033
+
+## seg-0034 / 00:30:33-00:31:23 / SPEAKER_02
+
+Okay? So, what was Caesar doing in Gaul? And why was he starting all these wars? The answer is really simple. Okay? There are three reasons. The first is, remember, slaves are the most valuable commodity at this time. So, what he's doing is he's basically capturing slaves. Okay? He's going and he's starting his wars in order to capture slaves. Caesar said famously, I killed a third of the people in Gaul, I enslaved a third of them, and I left a third alone. Okay? So, he basically committed genocide against the people of Gaul. Okay? And what's important to understand is he probably exaggerated. He probably didn't kill a third. Why? Because if he captures slaves, a lot of this money has to go to the Roman state. But if he pretends to kill the Gauls but actually enslaves them, then all the money goes to him. Okay? So, by enslaving people, he became filthy rich.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0034
+
+## seg-0035 / 00:31:23-00:32:16 / SPEAKER_02
+
+In fact, he became the wealthiest man in Rome. And he used his money to bribe his friends into office. Okay? So, he became also the most politically powerful individual in Rome. That's the reason, number one, why he went to Gaul. Second is that Caesar was trying to build a loyal army, a private army that was loyal to him. And so, just because he was able to give money to these soldiers, these soldiers not only were loyal to him, but they also developed a lot of fighting experience while in Gaul. Right? So, now Caesar has the world's most powerful army. The third reason why he went to Gaul, and this is the most important, is to create a myth of himself as a great conqueror. All these great politicians understand, people don't really understand the difference between reality and fantasy. In fact, they don't care about the difference. Okay? People will believe what they want to believe.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0035
+
+## seg-0036 / 00:32:17-00:33:27 / SPEAKER_02
+
+So, what Caesar was doing was, he was going to Gaul and then he was getting people to go back to Rome and announce all his victories. Okay? We have reason to believe that a lot of these victories were made up. But it gave the impression among the Romans that Caesar was this great conqueror. Okay? So, think of this guy. Right? What's he doing? He's trying to create an image of himself as energetic, dynamic, virile. Right? Right? Does that make sense? Oh, and a better example, of course, is this guy. Okay? All right? Donald Trump. He spent a lot of years in the World Wrestling Federation trying to portray himself as macho, as energetic, as strong. Right? And then for over 10 years, he had the most popular television show on TV called The Apprentice, where he pretended to be this savvy genius of a business person. Right? The Apprentice. And this is what really launched his political career.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0036
+
+## seg-0037 / 00:33:27-00:34:30 / SPEAKER_02
+
+All right? So, this is all these great politicians understand. If you really want to have a great political career, you have to create a myth of yourself as an entrepreneurial military man. Right? You have to create a myth of yourself as an entrepreneurial military genius. Okay. So, after Gaul, the Roman Senate basically gets really annoyed at Caesar because they don't understand what he's trying to do. He's trying to become king of Rome. So, they basically try to impeach him. Okay? They want to put him on trial. So, Caesar basically rebels against them, and it starts a civil war. And what's going to happen is that Caesar is going to go conquer the entire Roman Empire. Now, it's one man in his army against the entire empire. So, he should have lost. The problem is that the Ottomans are really stupid, arrogant, and lazy. Okay? So, Pompey, General Pompey, is fighting for the Ottomans, and he's going against Caesar.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0037
+
+## seg-0038 / 00:34:30-00:35:25 / SPEAKER_02
+
+And Pompey's strategy, it's really simple. Okay? Caesar has control over Italy. There's a problem, though. Italy is poor. It does not produce enough food. So, all we have to do is lay siege to Italy, and the people will starve. War is over. That's all we have to do. Right? We don't have to fight Caesar. Just lay siege to Italy. The people starve. The people rebel against Caesar, and then Caesar loses the war. The problem, though, is the Ottomans were afraid that if Pompey won the war, then they would make Pompey king. Right? So, what the Ottomans wanted to do was force Pompey. Pompey will shoot you and Caesar into a battle and kill both. Okay? They wanted to destroy both. And this led to something called the Battle of Pharsalus. Remember, at this time, Caesar needs to go fight Pompey, but Pompey doesn't have to actually fight Caesar, but the Ottomans force him to fight in a battle called Pharsalus.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0038
+
+## seg-0039 / 00:35:25-00:36:30 / SPEAKER_02
+
+Okay? And in this battle, because Caesar has a loyal army, they defeat Pompey, even though Pompey has more soldiers. Okay? And then what Caesar will do is then go call Pompey. He will conquer the entire Roman Empire, and he makes himself dictator of Rome. And this, of course, leads to his assassination. Why is he assassinated? Because the Romans are afraid that he will make himself king, and he will abolish the debt of the people, and he will reappropriate the land and give it to the people. Okay? He will basically make himself king by making Rome a much more equal and egalitarian place. And so, they killed him. And this led to more civil war. More civil war in which Octavius Caesar, Augustus Caesar, will be triumphant because he will inherit Julius Caesar's army. And at the Battle of Actium in 31 BC, he will destroy Mark Anthony and Cleopatra, making himself the supreme ruler of the Roman Empire.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0039
+
+## seg-0040 / 00:36:30-00:37:25 / SPEAKER_02
+
+Okay? And he's really considered the first Roman emperor. But what's really important for us to understand is... At this point in history, the problems of Rome don't really go away. He is emperor, and during his time, things are stable. But after he dies, the Roman Empire goes back into civil war. And it does not stop fighting civil war until it's very collapsed. Okay? What makes him emperor is the fact that he will take Egypt and turn it into his private property. And he will use the wealth of Egypt to fund the army. So all the soldiers are now loyal to him individually, as opposed to the king. As opposed to the Roman state. Okay? Now, Augustus Caesar, he was not a military genius, but he appreciated that if the Roman people were to survive, they needed a culture as distinct and as powerful as Greek culture.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0040
+
+## seg-0041 / 00:37:25-00:38:27 / SPEAKER_02
+
+At this time in history, the Greeks were culturally dominant. And he was afraid that over time, all Romans would just become Greeks. So he needed to create a culture that was distinct and powerful. He wanted to create a culture that was distinct from the Greeks, but also considered much more powerful than the Greeks. Okay? So that was his main major contribution to the Roman Empire. So what he does is he takes the work of Polybius. Remember, Polybius is the main architect of the history of Roman Empire. And he tells Livy to basically rewrite the history, but from a Roman lens, as opposed to a Greek lens. Okay? So this is a really famous book written by Livy, sponsored by Octavius Caesar. Okay? So we're going to read a bit of it to understand the Roman mentality. Okay? All right. All right. So what's happening is this. The book starts with the founding of Rome.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0041
+
+## seg-0042 / 00:38:27-00:39:31 / SPEAKER_02
+
+And in the Roman tradition, what's going to happen is the Romans are descendants of Troy. Remember, Troy and Aelian was destroyed by the Greeks. How did the Greeks destroy Troy? Through Troy. Through trickery. Through deception. Right? The Trojan horse. And then what will happen is the Greeks flood into the city and kill everyone. But there's a Trojan general named Aeneas and his wife, Cretia. What they will do is they will escape, okay? In order to found Rome. Now, Cretia is the wife. And what she will do is, as they're leaving Troy, she will kill herself in order to allow Aeneas to escape fully. Okay? So in the Roman tradition, all that matters is the father. Okay? So you can see the father can't walk. So Aeneas has to shoulder him to the ship. And women don't matter at all. Okay? That's the Roman tradition. All right. So what happens
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0042
+
+## seg-0043 / 00:39:31-00:39:47 / SPEAKER_02
+
+next is Rome is founded by twins, Romulus and Remus, and they will fight for the kingship of Rome. Okay? So can you read the story of Romulus and Remus?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0043
+
+## seg-0044 / 00:39:47-00:40:37 / SPEAKER_00
+
+Remus is said to have been the first to receive an omen. Six vultures appeared to him. The augury had just been announced to Romulus when double the number appeared to him. Each was saluted as king by his own party. The one side based their claim on the priority of the appearance, the other on the number of the birds. Then followed an angry altercation. Heated passions led to bloodshed. In their turmoil, Remus was killed. The more common report is that Remus contemptuously jumped over the newly raised walls and was forthwith killed by the enraged Romulus who exclaimed, so shall it be henceforth with everyone who leaps over my walls. Romulus thus became sole ruler and the city was called after him, its founder.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0044
+
+## seg-0045 / 00:40:37-00:41:35 / SPEAKER_02
+
+So Romulus and Remus are twins. Okay? They love each other. And, um, Rome was founded on violence. Okay? That's the very nature of Rome, a city based on violence. This story, if you remember, um, sorry. Okay. So, so now Romulus founds a city called Rome and he invites anyone to join him. And over time they become much more powerful and they threaten their neighboring states. And they cannot, these states cannot defeat Rome in war. So what they decide is, you know what? We can't beat the Romans in battle, but if our daughters don't marry into them, they'll be dead after one generation. They don't have any children. Okay? So there's this compact among the nations of Italy not to marry into Rome. So Romans discover this and they hatch this plan. What they're going to do is you're going to have this major festival and they invite all the families to come to this festival.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0045
+
+## seg-0046 / 00:41:35-00:41:42 / SPEAKER_02
+
+And then, um, they will kidnap a woman and kill her. They're going to rape them. Okay? That's the plan. Okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0046
+
+## seg-0047 / 00:41:44-00:42:58 / SPEAKER_00
+
+They were invited to accept hospitality at the different houses. And after examining the situation of the city, its walls and the large number of dwelling houses it included, they were astonished at the rapidity with which the Roman state had grown. When the hour for the games had come and their eyes and minds were alike riveted on the spectacle before them. The preconcert, the preconcerted signal was given in the Roman state. The Roman youth dashed in all directions to carry off the maidens who were present. The larger part were carried off indiscriminately, but some particular beautiful girls who had been marked out of the leading patricians were carried to their houses by plebeians told off for the task. Alarm and concernation broke up. The games and the parents of the maidens fled, distracted with grief, uttering bitter reproaches on the violators of the laws of hospitality and appealing to the god to whose solemn games they had come, only to be the victims of impious perfidy.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0047
+
+## seg-0048 / 00:42:54-00:42:58 / SPEAKER_00
+
+
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0048
+
+## seg-0049 / 00:42:59-00:43:26 / SPEAKER_02
+
+Okay. So this is actually a very serious crime because when you invite people into your house, there are these laws that you must show hospitality. Uh, hospitality to your guests. Otherwise you will offend the gods themselves because it's possible the person you invite into your house is a god himself. Okay. So what the Romans did was outrageous. Okay.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0049
+
+## seg-0050 / 00:43:26-00:44:26 / SPEAKER_00
+
+The abducted maidens were quite as despondent and indignant. Romulus, however, went around in person and pointed out to them that it was all owing to the pride of their parents in denying rights of intermarriage to their neighbors. They would live in honorable wedlock. And share all their property and civil rights and dearest of all to human nature would be the mothers of freemen. He begged them to lay aside their feelings of resentment and give their affections to those whom fortune had made masters of their persons. An injury had often led to reconciliation and love. They would find their husbands all the more affectionate because each would do his utmost so far as in him lay to make up for the loss of parents and comfort. These arguments were reinforced by endearments of the other husbands who excused their conduct by pleading the irresistible force of their passion, a plea effective beyond all other and appealing to a woman's nature.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0050
+
+## seg-0051 / 00:44:25-00:44:26 / SPEAKER_00
+
+
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0051
+
+## seg-0052 / 00:44:26-00:45:21 / SPEAKER_02
+
+Okay. So the Romans are pretty disgusting. Okay. They raped a woman and said, it's your fault or it's your parents' fault. And I really couldn't control myself. So sorry, man. But I'll be nice to you. Okay. Yep. All right. So this is a pretty memorable event in Roman history. It's called the Rape of the Sabine Woman. Okay. And these are different artworks depicting the event. Okay. So the fathers are obviously pissed off about this. Okay. So a huge army is created to rescue the woman back. And now these Roman soldiers are now facing this huge army. And when this happens, as with the clash, these women who are raped, they come screaming forward in the middle and say, stop, stop, stop. You're my husband. You're my father. We don't want you to fight. Okay. Can you read, please?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0052
+
+## seg-0053 / 00:45:22-00:46:25 / SPEAKER_00
+
+Then it was that the Sabine women whose wrongs had led to the war, throwing off all womanish fears in their distress, went boldly into the midst of the flying missiles with disheveled hair and rent garments. Running across the space between the two armies. They tried to stop any further fighting and calm the excited passions by appealing to their fathers in the one army and their husbands in the other, not to bring upon themselves a curse by staining their hands with the blood of a father -in -law or a son -in -law, nor upon their posterity the taint of parasite. Parasite. Parasite. If, they cried, you are wary of these ties of kindred, these marriage bonds, then turn your anger upon us. It is we. It is we who are the cause of the war. It was we who had wounded and slain our husbands and fathers. Better for us to perish rather than live without one or the other of you, as widows or as orphans.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0053
+
+## seg-0054 / 00:46:25-00:46:46 / SPEAKER_00
+
+The armies and their leaders were alike moved by this appeal. There was a sudden hush and silence. Then the generals advanced to arrange the terms of a treaty. It was not only peace that was made. The two nations were united into one state. The royal power was shared between them, and the seat of government for both nations was Rome.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0054
+
+## seg-0055 / 00:46:47-00:47:42 / SPEAKER_02
+
+Okay, so this couldn't possibly happen, right? So, these women are abducted, the fathers try to rescue them, and then the women say, hey, it was our fault. Like, let this all be one big family, okay? So, this is one of the founding myths of Rome. And I keep on saying this, but like, just take all Roman history and just, like, throw it in the garbage, okay? Because it's basically all made up. All right. So, Rome becomes more and more powerful, and now they have a king, okay? But over time, their king becomes very corrupt. Their king is Sarcanius Superbus. Superbus just means arrogant. And his son falls in love with a noble woman named Lucretia. But Lucretia is already married to a man named Colantinus. And so, the prince decides to go, you know, rape her, okay? And, yeah, okay.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0055
+
+## seg-0056 / 00:47:42-00:48:47 / SPEAKER_00
+
+They found Lucretia sitting in her room, prostrate with grief. As they entered, she burst into tears, and to her husband's inquiry whether all was well, replied, no, what can be well with a woman when her honor is lost? The marks of a stranger, Colantinus, are in your bed, but it is only the body that had been violated. The soul is pure. Thou shalt bear witness to that. But pledge me your solemn word that the adulterer shall not go unpunished. It is Sextus Tarquin who, coming as an enemy instead of a guest, forced from me last night by brutal violence a pleasure fatal to me, and, if you are a man, fatal to him. They all successively pledged their word and tried to console the distracted woman by turning the guilt from the victim of the outrage to the perpetrator and urging that it is not the mind that sins, not the body. And, where there has been no consent, there is no guilt.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0056
+
+## seg-0057 / 00:48:47-00:49:10 / SPEAKER_00
+
+It is for you, she said, to see that he gets in deserts. Although I acquit myself to the sin, I do not free myself from the penalty. No unchaste woman shall henceforth live and plead Lucretia's example. She had a knife concealed in her dress, which she plunged into her heart and fell dying on the floor. Her father and husband raised the death cry.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0057
+
+## seg-0058 / 00:49:10-00:50:08 / SPEAKER_02
+
+Okay, so she is raped by the prince, and her husband and best friend, the best friend is Lucius Brutus, okay? They try to console her, and they know she's distraught, okay? But Lucretia is like, no, I don't want to be consoled. I want revenge. We're Romans, man! We fight to the bitter end. If you hit me, I go kill you. If you kill me, I go kill your entire family, okay? And that's just the Roman way. So what happens is, like, Brutus, Lucius Brutus, he leads a revolt against the king, and the king is forced out of Rome. And now, Rome is a republic. It's now run by the nobility. And a lot of people are unhappy with this system because before, if you were good friends with the king, you could do whatever you want. But now, you have to follow the laws of Rome, and so people conspire against the new rule, um, republic.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0058
+
+## seg-0059 / 00:50:08-00:50:36 / SPEAKER_02
+
+And a couple of the conspirators include two of Lucius Brutus' sons, okay? His two sons. And the conspiracy is found out, and all the conspirators are arrested, and they're condemned to death. Lucius Brutus decides he's going to put his own sons to death. So he orders and organizes the execution of his two sons, okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0059
+
+## seg-0060 / 00:50:37-00:51:40 / SPEAKER_00
+
+Their punishment created a great sensation owing to the fact that the consular office imposed upon a father the duty of inflicting punishment on his own children. He who ought not to have witnessed it was destined to be the one to see it duly carried out. Youths belonging to the noblest families were standing tied to the post, but all eyes were turned to the consul's children. The others were unnoticed. Men did not grieve more for their punishment than for their children. They did not grieve more for their crime, which had incurred it, that they should have conceived the idea in that year above all of betraying to one who had been a ruthless tyrant and was now an exile and an enemy, a newly liberated country, their father who had liberated it, the consulship which had originated in the Junian House, the Senate, the plebs. All the Rome possessed of human or divine. The consuls took their seats.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0060
+
+## seg-0061 / 00:51:41-00:52:02 / SPEAKER_00
+
+The lictors were told off to inflict the penalty. They scourged their bare backs with rods and then beheaded them. During the whole time, the father's countenance betrayed his feelings, but the father's stern resolution was still more apparent as he superintended the public execution.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0061
+
+## seg-0062 / 00:52:02-00:52:57 / SPEAKER_02
+
+So you're a father, right? And these are your two sons. You love your two sons more than anything else in the world. You are forced by the law to execute your two sons, okay? Now, most fathers would be like, you know what? I'm going to call in sick. I'm going to go home and sleep until my sons are dead. Lucius Brutus is like, no, I'm going to actually watch my two sons get killed. Not only that, but I'm going to organize their execution, okay? And we can imagine, okay, this is Lucius Brutus. And he has to watch as his sons are being beheaded right before him. And he's the one ordering their execution. As you can see, people are disgusted. They have to look away. And people are looking at his expression. And you can see the emotional turmoil in his face, right? There's hatred. There's disgust. There's contempt. There's guilt. He hates himself, right?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0062
+
+## seg-0063 / 00:52:57-00:53:51 / SPEAKER_02
+
+He hates his son, but he hates himself even more. There's all this crazy energy, hateful energy that's being unleashed. The Roman way is to take all this energy and turn it against your enemy, okay? That's the secret of the Roman military. To create a society so hateful, so angry, so vicious, that people have all this demonic energy in them that they can now use against them. That's your enemy, okay? So let's see what happens. What's going to happen now is the king decides to attack Rome because this conspiracy has failed, right? What Lucius Brutus is going to do is ride out and meet the army head on, okay? Can you read, please?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0063
+
+## seg-0064 / 00:53:51-00:54:11 / SPEAKER_00
+
+So two armies from these cities followed Tarquin to recover his crown and chastise the Romans. When they had entered the Roman territory, the consuls advanced against them. Valerius, with the infantry and phalanx formation, Brutus recon...
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0064
+
+## seg-0065 / 00:54:12-00:54:13 / SPEAKER_02
+
+Reconquering.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0065
+
+## seg-0066 / 00:54:13-00:55:19 / SPEAKER_00
+
+Reconquering in advance with the cavalry. Similarly, the enemy's cavalry was in front of his main body, Aaronus Tarquin, the king's son, in command. The king himself followed with the legionnaires whilst still at a distance. Aaronus distinguished the consul by his escort of lictors. As they drew nearer, he clearly recognized Brutus by his features, and in a transport of rage exclaimed, That is the man who drove us from our country. See him proudly advancing, adorned with our insignia. Ye god, avengers of kings, aid me. With these words, he dug spurs into his horse and rode straight at the consul. Brutus saw that he was making for him. It was a point of honor in those days for the leaders to engage in single combat, so he eagerly accepted the challenge, and they charged with such fury, neither of them thinking of protecting himself. If only he could wound his foe, that each drove his spear at
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0066
+
+## seg-0067 / 00:55:19-00:55:25 / SPEAKER_00
+
+the same moment through the other's shield, and they fell dying from their horses with their spears sticking in them.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0067
+
+## seg-0068 / 00:55:25-00:56:28 / SPEAKER_02
+
+So you see what happened, okay? So Brutus is traumatized by the execution of his two sons. There is now a void in his heart. There is now a tear in his heart, right? But this tear is unleashing all this energy that he can now use against his enemy. That is a secret. Trauma is a drug. The Roman way is to use trauma as a drug to empower you against your enemies. Okay? Alright, so the problem though is that the Roman army is much smaller than the king's army. So the Romans are forced back into their city. They have to hide behind their walls, and they are under siege. And there is a Roman nobleman named Musius. And Musius decides to offer a proposal to the Senate. He says to the Senate, listen, we are never going to beat this king's army. What I can do is I can sneak into his camp and assassinate the king.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0068
+
+## seg-0069 / 00:56:28-00:57:15 / SPEAKER_02
+
+And so the Senate is like, sure. So Musius swims across the Tiber and he sneaks into the enemy camp. And he sees it is payday. So there is two men, the king and the secretary, giving out cash, giving out money to the soldiers. They look the same, they dress the same. And Musius doesn't know which is which. And at this point he should be like, you know what, I will come back another day and figure out who is the king. But now he is like, you know what, it is 50 -50. You know, it is a coin flip. So he takes his dagger and he stabs the guy. And it turns out to be the secretary. And he is arrested, okay. And he appears before the king. And the king says to him, you tell me the truth or I will burn you in this fire. And then Musius says, okay, the truth is this.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0069
+
+## seg-0070 / 00:57:15-00:58:04 / SPEAKER_02
+
+I am one of hundreds of young Roman men who have sworn to come and kill you. One of us will succeed. I fail today, but tomorrow someone else will come. If he fails, someone else will come back. And Musius will come as well. And then the king says, are you telling the truth? If you are not telling the truth, I will burn you alive. And then Musius is, you know what, he takes his hand, okay, he takes his hand and he puts it in the fire. And his hand is being burned, okay. He is just like, The king is freaked out. He is like, you Romans are the craziest bastards. You guys are demonic. I am out of here, okay. The war is over. All right. All right. Can you read, please?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0070
+
+## seg-0071 / 00:58:05-00:58:15 / SPEAKER_00
+
+Here alone, and helpless in the utmost peril, he was still able to inspire more fear than he felt. I am a citizen of Rome, he said. Men call me C...
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0071
+
+## seg-0072 / 00:58:16-00:58:16 / SPEAKER_02
+
+Musius.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0072
+
+## seg-0073 / 00:58:17-00:59:16 / SPEAKER_00
+
+Musius. As an enemy, I wish to kill an enemy, and I have as much courage to meet death as I had to inflict it. It is the Roman nature to act bravely and to suffer bravely. I am not alone in having made this resolve against you. Behind me there is a long list of those who aspire to the same distinction. If then it is your pleasure, make up your mind for a struggle in which you will every hour have to fight for your life and find an armed foe on the threshold of your royal tent. This is the war which we, the youth of Rome, declared against you. You have no seried ranks, no pitched battle to fear. The matter will be settled between you alone and each one of us singly. The king, furious with anger and at the same time terrified at the unknown danger, threatened that if he did not promptly explain the nature of the plot, which he was darkly hinting at, he should be roasted alive.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0073
+
+## seg-0074 / 00:59:17-01:00:11 / SPEAKER_00
+
+Look, Musius cried, and learned how lightly those regard their bodies who have some great glory in view. Then he plunged his rod with his right hand into a fire burning on the altar. Whilst he kept it roasting there as if he were devoid of all sensation, the king, astounded at his preternational conduct, sprang from his seat and ordered the youth to be removed from the altar. Go, he said. You have been a worse enemy to yourself than to me. I would invoke blessings on your courage if it were displayed on behalf of my country as it is. I send you away, exempt from all rights of war, unhurt and safe. Then Musius, reciprocating as it were this generous treatment, said, Since you honor courage, know that what you could not gain by threats you have obtained by kindness. Three
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0074
+
+## seg-0075 / 01:00:11-01:00:25 / SPEAKER_00
+
+hundred of us, the foremost amongst the Roman youth, have sworn to attack you in this way. The lot fell to me first. The rest, in the order of their lot, will come each in his turn, till fortune shall give us a favorable chance against you.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0075
+
+## seg-0076 / 01:00:54-01:02:08 / SPEAKER_02
+
+So everything that we've read is not true, but the Romans thought it was true. And remember, people cannot differentiate between fantasy and reality. So as long as you believe it is true, then it's true. And this is how Romans behave. So the story of Lucius Brutus kicking out the Tarkins is the story of the third man, stealing the cattle. So basically stealing a throne from Tarquin. And the story of the man sacrificing his twin is the story of Romulus and Remus. So now we get to the most famous of all Roman epics called the Iliad. And so at this time again, Augustus Caesar has a problem in that everyone acknowledges the Greek culture to be superior. Why? Because of Homer. Because of the Iliad. Remember, we read the Iliad, and we remember how the Iliad ends with an act of love and forgiveness and compassion, right? Achilles feels guilt for what he's done for killing Patroclus.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0076
+
+## seg-0077 / 01:02:08-01:03:13 / SPEAKER_02
+
+He takes out this rage on Hector, which is a Roman way. And then Prime comes and forgives Achilles by kissing his hand. And this allows Achilles to escape his guilt and they forgive each other. And in the face of Priam, Achilles sees his father. In the face of Achilles, Prime sees Hector. And so they hug and they weep together. And this idea of love as a unifying force in the universe becomes the basis of Greek culture, of Greek civilization. The Romans don't like this. For them, if your culture is based on hate, love is the greatest enemy. So what is going to happen is Augustus Caesar is going to ask a poet, named Virgil, to rewrite this story in a way that puts hate at the center of the universe and not love, okay? All right. All right. So this is the Inead by Virgil, considered one of the greatest books in human history.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0077
+
+## seg-0078 / 01:03:14-01:04:08 / SPEAKER_02
+
+It is a complete piece of crap, okay? It's propaganda. All right. When you read it, you see how terrible it is. And basically Virgil, who was the most famous poet in the Roman Empire at this time, he's being ordered by Augustus Caesar to write the Inead. And they write it together, basically. Basically, with each draft, Virgil has to read it to Augustus Caesar, and then Augustus Caesar tells him how to rework it so it captures the Roman spirit. When Virgil was about to die, he asked for the book to be burned, okay? Because he, as a poet, understands that if you are using the gift of God, poetry is a gift of God, to promote hatred, then you're going to burn in hell, man. Okay? So he asked for this book to be burned, but Augustus Caesar, no, no. I like it the way it is, okay? So this is a rewriting of the Inead.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0078
+
+## seg-0079 / 01:04:09-01:04:39 / SPEAKER_02
+
+What's going to happen is this. The Greeks have broken into Troy, and they're killing everyone, okay? And the son of Achilles, named Pyrrhus, is killing the sons of Priam. And Priam faces, Pyrrhus, and he tells Pyrrhus, you're the son of Achilles. Achilles was a noble person. Have you no mercy? And the people's like, no. And then he kills Pyrrhus, okay? All right, so can you read, please?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0079
+
+## seg-0080 / 01:04:40-01:05:14 / SPEAKER_00
+
+Suddenly, look, a son of Priam, Pryam, Pallites just escaped from slaughters as Pyrrhus' hands, comes racing in through spears, through enemy fighters, fleeing down the long arcades, and deserted hallways, badly wounded. Pyrrhus hot on his heels, a weapon poised for the kill, about to seize him, about to run him through, and pressing home as Pallites reaches his parents and collapses, vomiting out his lifeblood before their eyes.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0080
+
+## seg-0081 / 01:05:14-01:05:27 / SPEAKER_02
+
+Okay, so this is very similar to the death of Hector, right? So remember, Achilles kills Hector, and Priam witnesses it, right? And something is happening here, where Pallites is being killed in front of Priam. So again, it's a rewriting of the Iliad. Keep on going.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0081
+
+## seg-0082 / 01:05:28-01:06:14 / SPEAKER_00
+
+At that, Pryam, trapped in the grip of death, not holding back, not checking his words, his rage, you, he cries, and you and your vicious crimes. If any power on high recoils at such an outrage, let the gods repay you for all your reckless work. Grant you the thanks, the rich reward you've earned. You've made me see my son's death with my own eyes, defiled a father's sight with a son's lifeblood. You've made me see my son's death with a son's lifeblood. You say you're Achilles' son. You lie. Achilles never treated his enemy, Priam, so. No, he honored, he honored as suppliant's right. He blushed to betray my trust. He restored my Hector's bloodless corpse for burial, sent me safely home to the land I ruled.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0082
+
+## seg-0083 / 01:06:14-01:06:25 / SPEAKER_02
+
+Okay, so this is the end of the Iliad, okay? So he's reminding everyone the Iliad is a story about love, forgiveness, compassion, okay? Okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0083
+
+## seg-0084 / 01:06:27-01:06:53 / SPEAKER_00
+
+With that and with all his might, the old man flaying his spear, but too important how to pierce. In merely grace, the fire sprays a shield that blocks its way and clings there, dangling limp from the boss, all for nothing. Pyrrhus shouts back, well then, down you go, a messenger to my father. Peleus. Peleus' son. Tell him about my vicious work, how Nepo...
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0084
+
+## seg-0085 / 01:06:55-01:06:55 / SPEAKER_02
+
+Neoptolemus.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0085
+
+## seg-0086 / 01:06:56-01:07:39 / SPEAKER_00
+
+Neoptolemus, who degrades his father's name, don't you forget, now die. That said, he dragged the old man straight to the altar, quaking, slithering on through slicks of his son's blood, and twisting Priam's hair in his left hand, his right hand sweeping forth his sword, a flash of steel, he buries its heel deep in the king's flank. Such was the fate of Pyrrhum, his death, his lot on earth, with Choi blazing before his eyes, her ramparts down, the monarch who once had ruled in all his glory, the many land of Asia, Asia's many tribes, a powerful trunk is lying on the shore, the head wrenched from the shoulders, a corpse without a name.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0086
+
+## seg-0087 / 01:07:40-01:08:41 / SPEAKER_02
+
+Okay, so all Roman school children have to memorize this poetry. And obviously, if you are a Roman school child, and you know that Priam is one of your ancestors, you have a deep hatred of the Greeks. Okay, so the entire purpose of the Indian ad is to create hatred of the Greeks in order to create a Roman identity. All right, so again, the Greeks were the greatest civilization we ever had. Why? Because they were a civilization based on reflection, on debate, on openness. This is a modern reactment of the play, The Trojan Woman, okay? This is a play by Eupides that discusses what happens to the Trojan woman after Troy falls. They become enslaved, their children are killed. And so the Greeks, when they watch this play, they have to watch their own darkness. They have to see for themselves their own heart of darkness. It causes tremendous empathy for their enemies, okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0087
+
+## seg-0088 / 01:08:41-01:09:55 / SPEAKER_02
+
+This is a very idea of civilization. And what do the Romans do? They do this, okay? Gladiators. They watch lions eat people. They watch men kill each other, okay? That's the Roman way. The Greeks want to understand and feel empathy for other people. The Romans just want to kill other people, all right? And in America today, we have a very similar Roman culture as well. This is American football, of course, and it is pretty violent, okay? It is pretty barbaric. All right. The Greeks, for fun, what they really do is they organize dinner parties called symposia. Symposium. And in the symposium, what happens is that people come together and they have conversations about love, about poetry, about life. They will drink wine, but the wine is watered down, okay? So they can keep on drinking for a long, long time. And the entire argument is just to have a conversation, all right? All right. And so this is the idea of the symposium, okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0088
+
+## seg-0089 / 01:09:55-01:10:54 / SPEAKER_02
+
+This is a famous painting of Alcibiades coming in and having a discussion with everyone. So in Athenian culture, what's important is to be a great speaker, to be intelligent, to engage people in debate and conversation and philosophy, okay? And what do the Romans do instead? They get drunk and they throw up and they have orgies, okay? So the Roman, what Romans were fun is they had this huge feast, these huge banquets. And what they will do is, they will gobble down the food in the first course. They'll go outside and throw up, okay? They will throw up the food so they can enjoy the second course. They will wolf down the food and then go and throw up again, okay? And guys, this is wild people on the streets starving to death, okay? Okay? This is the Roman way, okay? So this is the feast. This is almost a reenactment of the rape of Sabine woman, right?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0089
+
+## seg-0090 / 01:10:54-01:12:03 / SPEAKER_02
+
+So they take these myths. So the death of Lucretia, Musius burning his hand, the rape of the Sabine woman, and they use it as entertainment for the societies, okay? So this is really the beginning of secret societies, right? So what secret societies do is they will take these myths and reenact them out in order to build solidarity and trust and cohesion among the secret members. This is a picture of Nero just getting drunk, having a lot of sex, and he's like, okay, so it's pretty pointless existence. And of course, in America, you have this. I don't understand why is it that people think it's fun to do drugs, get drunk, and then go party all night, okay? But apparently, it's supposed to be a lot of fun. Okay, all right, so that is Roman culture. So Rome becomes the dominant empire at this time. And it is an empire based on hatred.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0090
+
+## seg-0091 / 01:12:04-01:13:14 / SPEAKER_02
+
+And it seems life is hopeless. And so what will happen is the universe will send a messenger to remind people there's still hope because there's God in you. And this person's name is? Jesus, right? So we'll discuss Jesus next class, okay? So Jesus' response to the Roman Empire. So I'll take some quick questions from YouTube, and then we'll end the class, okay? All right. So, so what does it mean to be a great man? Okay? So I say that love is the unifying force of the universe, but then you have these great men who come and conquer people. So which is which? Okay, so in my understanding of things, poor prophets are the greatest men, okay? People like Zarathustra, Homer, Jesus. These are the, the Yahwehs in the Bible. These are the great individuals of human history because they represent the truth, okay? They are messengers of the monad.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0091
+
+## seg-0092 / 01:13:14-01:14:16 / SPEAKER_02
+
+And then you have people like Julius Caesar, Alexander the Great, Napoleon, who you are conquering, okay? And they have been identified as great men of history. But I think it's really Homer and Dante, and Plato, who are the greatest people because they create civilizations based on their ideas. They actually change the course of human history based on their ideas. Whereas people like Napoleon, Julius Caesar, Alexander the Great, they're more like a culmination of the trajectory of human history, okay? If that makes any sense. All right. Let's move on. All right. Yeah. So Alexander the Great, he loved the Iliad. So what did the Iliad mean to Alexander the Great? Okay. So to understand this idea, think of a play, okay? We all want to put in a play. We all know the script, but we need an actor to play a certain character. And then we're like, you know what? Alexander the Great plays Achilles, okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0092
+
+## seg-0093 / 01:14:16-01:15:18 / SPEAKER_02
+
+So it's expected that Alexander the Great will behave the way of Achilles in the Iliad. How did Achilles behave? Achilles saw himself as a young romantic hero. He was going to die on the beach of Detroit in order to achieve achievement. He wanted to achieve eternal glory, okay? That's why Alexander the Great could not stop fighting the war. In every battle, he was leading the charge because he wanted to die in battle. He wanted to be Achilles. Only by dying in battle could he achieve the fame of Achilles. Okay? So he was acting out the play. What's important is that he himself saw himself as the reincarnation of Achilles. And everyone else saw him as also the personification of Achilles as well. Okay? So that's how this works. All right. This person asks, why is it that Denmark, Norway, these Scandinavian countries are so different from other countries? Okay, well, first of all, they're small.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0093
+
+## seg-0094 / 01:15:18-01:16:15 / SPEAKER_02
+
+Okay? They're really small countries, millions of people. Everyone knows each other. If you go to Denmark, everyone knows the prime minister of Denmark. Maybe she was their neighbor or their friend. If they don't know the prime minister, then they know a friend who knows the prime minister. So it's a really small place. Okay? That builds cohesion. That's number one. Number two is, guys, Denmark, Norway, are really cold places. That means that people spend a lot of time indoors together talking and becoming friends. Okay? And also because it's so cold, they have to work together. The third factor is these countries are surrounded by lots of dangerous enemies. Germany, Russia, Sweden. Okay? And as such, they learn that it's really important to stick together and to work together. Now, what's interesting is that if you go to a place like Holland, you go and you think it's very egalitarian. But what's really interesting is that
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0094
+
+## seg-0095 / 01:16:15-01:17:20 / SPEAKER_02
+
+it's actually one of the most unequal places on earth because the aristocrats have a lot of money. But the problem is, the difference is, like, the aristocrats understand that if the people are happy, the aristocrats have a lot of money. But the problem is, they're more safe. Okay? So the aristocrats will actually promote and support the welfare state because of social cohesion. Okay? All right. A couple of questions. So we are moving to the age of digital technology, artificial intelligence. Does it mean that empires will change over time? Okay. This is something that I will discuss towards the end of the semester, to the end of this course. And it's a really interesting idea where okay, you're an empire, you're lazy, arrogant, and stupid. But maybe with artificial intelligence, you have more control over people. And in theory, that's true. Okay? Once you have the AI system, you'll be able to control people better. But you have to first build the AI system.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0095
+
+## seg-0096 / 01:17:20-01:18:17 / SPEAKER_02
+
+And that takes a lot of effort and energy. And if you're in a dying empire like America, you don't have the energy to build this AI system. Okay? What you do have is a lot of desire and motivation to create an AI scam. Okay? So ChatGPT, it's a scam, guys. It's not really doing anything. But you can actually take this technology and create like a matrix to enslave people psychologically, mentally. Okay? We'll discuss this towards the end of the semester. We call this transhumanism. All right? All right. Okay. So, Athenians and Spartans didn't want to destroy each other but that led to the rise of Macedonia. How did that happen? The answer is because they didn't care. Okay? Do you understand? They're the empire so they think they're invincible. If an empire believed that a challenge could arise, they would never ever fall, guys.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0096
+
+## seg-0097 / 01:18:17-01:19:16 / SPEAKER_02
+
+If an empire recognized that it could fall one day, it would never ever fall. It's because of hubris. Because it's so arrogant, lazy and stupid that it falls. Okay? So it's impossible for either Athens or Sparta to imagine that Macedonia would one day overtake them. All right. Um, last question is about secret societies. Um, how do secret societies work? All right. So this is something that we'll discuss towards the end of the course. Okay? But why is it that secret societies are so powerful? All right. To understand this, let's just do a thought experiment. All right? So imagine this. There's four groups of 100 people each. Okay? This is this huge mountain, the Himalayas. Okay? As quickly as possible. There are four teams. Okay? Team one is like, you guys can do whatever you want. Okay? We don't care. Team two is like, if everyone gets to the top, you get a million dollars each. Right?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0097
+
+## seg-0098 / 01:19:16-01:20:10 / SPEAKER_02
+
+Team three is one of the team members has a child who's going to die unless you get to the top. Because at the top is this magic doctor who can save your son. Okay? That's team three. Team four is there are these demons that are chasing you and they want they will you won't be able to sleep. You won't be able to live in peace if you don't stop running from these demons. Okay? So guess what? Team one, team two, team three, team four, who wins? Team four, obviously. Right? That's secret societies. Secret societies create so much trauma. They can create so much guilt and hatred and contempt that they're forced to keep on moving and running. Okay? That's the Roman way, guys. Okay? Remember, Lucius Brutus. He killed his own two sons. What do you do after that? Well, you have to go kill someone else. Okay? And then after you kill him, what do you do?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0098
+
+## seg-0099 / 01:20:10-01:20:58 / SPEAKER_02
+
+You go kill someone else. And you keep on going because the guilt of killing your own two sons, it's too much to bear. If you just stop and you rest, your sons will appear before you as ghosts and they'll be like, Dad, why did you kill us? What did we do? Why did you kill us? You cannot bear that guilt. Okay? So, you have to keep on moving forward. You rush forward. Okay? Even if it kills you. All right? So, at this time, we have so much guilt. You either conquer the world or you kill yourself. Your choice. And that's why secret societies are so powerful, guys. Okay? Not because they have secrets. Okay? I actually don't know if they have secrets or not. All right? But I imagine they don't have secrets. But I imagine like they do so much evil in the world that they can only do more evil in order to escape the evil that they've already done.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0099
+
+## seg-0100 / 01:20:58-01:21:03 / SPEAKER_02
+
+Okay? It's as though demons are chasing them. Does that make sense, guys? Yes. All right. So, questions?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0100
+
+## seg-0101 / 01:21:05-01:21:26 / SPEAKER_01
+
+So, I think I did not fully understand the part which the romance rape of those women and women blame the sins on themselves. I think that part I think is a bit confusing. I think.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0101
+
+## seg-0102 / 01:21:26-01:22:05 / SPEAKER_02
+
+Okay. So, I think that's a good question. Okay. I think that's a good question. Okay. So, the rape of the seven women didn't really happen. But what the custom is if I go kill you, I kill you and I steal your wife. Okay? So, it is a metaphor for war. Does that make sense? Okay? Okay. And, but what this is saying is like if you go and kill your enemy and you steal his wife, the wife will thank you. Alright? So, it's creating this mythology. Alright?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0102
+
+## seg-0103 / 01:22:05-01:22:07 / SPEAKER_01
+
+But why would the wife thank you?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0103
+
+## seg-0104 / 01:22:07-01:23:01 / SPEAKER_02
+
+The wife won't thank you. The wife won't hate you. But, do you care? You don't care. Okay? The winners write the history. Do you understand? When you become a slave, you are not allowed to speak. You're not allowed to think for yourself. You have to do whatever the man tells you to do. Okay? Does that make sense? So, even though you feel hate for the man who's killed your family, you're now a slave. So, you lost your soul. And, if you lost your soul, it means I can do whatever I want to your mind as well as your body. Okay? So, this is the Roman way. And, guys, it's no different from any empire that emerged after the Romans. Okay? The British Empire is the same way. The American Empire is the same way as well. In that, if we conquer you, we can now implant anything into your soul because your soul is now ours.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0104
+
+## seg-0105 / 01:23:01-01:23:32 / SPEAKER_02
+
+Okay? So, if you go to Germany and you see, you talk to Germans, the Germans will tell you, oh, we are the worst people in the world. We're the most evil people in the world. We did the Holocaust. We started World War I. We started World War II. If you give us any opportunity, we'll start wars for no reason. Okay? You go to Japan, same thing. Okay? So, the winners write the history and the losers have to accept this history. Okay? Does that make sense? Any more questions, guys?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0105
+
+## seg-0106 / 01:23:35-01:24:00 / SPEAKER_00
+
+I remember when you were talking about Julius Caesar, you said the only reason why he survived was because, like, survived the Holocaust. Not the Holocaust, but like, people in Rome were being killed, I think. And he was able to survive because his father had a lot of money, had a lot of wealth. But you also mentioned that he was a part of the populace. So, how does that add up?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0106
+
+## seg-0107 / 01:24:00-01:24:52 / SPEAKER_02
+
+Okay. So, to remind you, okay, the conflict arises between upper nobility and lower nobility. So, upper nobility are just the optimists, people like, I have all the power. Lower nobility are the children who are like, I want the status. Okay? So, yes, Julius Caesar did come from a very wealthy family, but he didn't have status. Okay? So, money and status are not the same thing. And that's why there's a civil war because the people who are part of the elite aren't able to access power. So, they scheme on how to access power. So, look at Donald Trump. Okay? Donald Trump has money but he doesn't have power. And that's why he ran for presidency. Okay? Does it make sense? So, remember, all these conflicts that happen in the world are always between upper nobility and lower nobility. Between the have a lot and the have some but want some more. Okay? It's never between rich and poor.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107
+
+## seg-0108 / 01:24:52-01:25:08 / SPEAKER_02
+
+The poor don't do anything. Okay? The poor just, like, I'm poor, I'm useless, I'll just sit and die. Okay? That's what poor people are like. Middle class people, rich people are like, you know, I want more. Okay? They're aspirational. Is that clear?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0108
+
+## seg-0109 / 01:25:09-01:25:10 / UNKNOWN
+
+Okay.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0109
+
+## seg-0110 / 01:25:10-01:25:22 / SPEAKER_01
+
+But I think if the middle class, like, if they want more, the more higher class, they will not allow the middle class to, they won't allow them to have more. Like, they will suppress them.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0110
+
+## seg-0111 / 01:25:22-01:25:24 / SPEAKER_02
+
+Yeah, and that's what creates the French Revolution. Okay?
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0111
+
+## seg-0112 / 01:25:24-01:25:25 / SPEAKER_01
+
+All right.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0112
+
+## seg-0113 / 01:25:27-01:25:54 / SPEAKER_02
+
+All right. Any more questions, guys? Okay, great. So remember, this is the Roman Empire. We've done the Roman Empire and it's an empire based on hate. And people's lives under the Roman Empire, it's just terrible. There's massive slavery, there's massive debt, there's massive corruption. And so, now will emerge another poet prophet named Jesus to try to redeem people. You know, okay? So we'll discuss Jesus next class.
+
+Ref: video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0113
