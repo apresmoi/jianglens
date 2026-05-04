@@ -1,0 +1,224 @@
+{
+  "packet_id": "predictive-history-tymnsa83nhy-semantics-pkt-0005",
+  "source_id": "video:predictive-history-tymnsa83nhy",
+  "source_date": "2025-03-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0033",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0034",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the funeral reading: the sacrifice is scripted, drugged, violent, and communal, and he interprets the ship-burning as a way of implanting the chieftain's memory into the community.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0036",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "He compares Viking funerals with Roman triumphs and Greek theater as different civic technologies for producing collective consciousness.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0038",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0039",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He begins matching Norse myths to values: Odin's self-sacrifice for knowledge personifies courage, and Tyr's willingness to lose his hand to Fenris personifies loyalty.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0033",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0040"
+      ],
+      "note": "All focus segments are Jiang lecture; no direct student question is present.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads the funeral sacrifice as highly choreographed ritual rather than chaotic violence, with each participant following a script that gives the event communal meaning.",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0033",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interpretation of funeral ritual in this lecture",
+      "topic_tags": [
+        "ritual",
+        "funeral",
+        "script"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The ship-burning and sacrifice celebrate the chieftain and implant his achievements into communal memory because everyone participates in the funeral.",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Interpretation of Viking funeral practice in this lecture",
+      "topic_tags": [
+        "funeral",
+        "memory",
+        "community"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Roman triumphs, Viking funerals, and Greek theater are parallel communal forms, but they generate different kinds of collective consciousness: sacrifice and domination for Rome, funeral memory for Vikings, and perspective-changing empathy for Greeks.",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0036",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Comparative civilizational model in this lecture",
+      "topic_tags": [
+        "roman-triumph",
+        "greek-theater",
+        "collective-consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek civilization is imaginative because theater practices empathy by writing war from the enemy's perspective.",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Jiang's comparative claim in this lecture",
+      "topic_tags": [
+        "greek-theater",
+        "empathy",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odin's sacrifice of his eye and then himself makes courage a relentless pursuit of unknown knowledge even at the cost of life.",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0038",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Interpretation of Norse myth in this lecture",
+      "topic_tags": [
+        "odin",
+        "courage",
+        "knowledge"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tyr's hand in Fenris's mouth becomes Jiang's model of loyalty: accepting real personal loss to protect companions from danger.",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0039",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Interpretation of Norse myth in this lecture",
+      "topic_tags": [
+        "tyr",
+        "fenris",
+        "loyalty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037"
+      ],
+      "moment": "Greek theater becomes a civic empathy machine: the community learns imagination by seeing war through the enemy's eyes.",
+      "source_phrase": "war from the perspective of the enemy",
+      "why_it_matters": "It gives Jiang's comparative frame a positive Greek counterpoint to Viking funeral memory.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0038"
+      ],
+      "moment": "Odin kills himself because death is the only way into the death world.",
+      "source_phrase": "If you want to enter a death world you have to kill yourself.",
+      "why_it_matters": "It makes courage literal and extreme: knowledge requires entering the unknown by becoming what one seeks to know.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0040"
+      ],
+      "moment": "Tyr knowingly feeds his hand to Fenris so the gods can bind the wolf.",
+      "source_phrase": "Knowing that he's going to lose his hand",
+      "why_it_matters": "It embodies loyalty as accepted sacrifice rather than verbal allegiance.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective consciousness",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "The shared civic imagination produced by public forms such as Roman triumphs, Greek theater, and Viking funerals.",
+      "confidence": "high"
+    },
+    {
+      "term": "Roman triumph",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A Roman military parade culminating in sacrifice to Jupiter, used by Jiang as Rome's analogue to other civic memory forms.",
+      "confidence": "high"
+    },
+    {
+      "term": "Fenris",
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0039",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The dangerous wolf whose binding costs Tyr his hand and illustrates loyalty in Jiang's Norse value map.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0037"
+      ],
+      "note": "Dated 2025-03-06: Jiang frames Viking funeral, Roman triumph, and Greek theater as comparable civilizational memory technologies.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0033",
+        "video:predictive-history-tymnsa83nhy@transcript:v1#seg-0034"
+      ],
+      "note": "Jiang's ritual reading is interpretive and based on a reported account; public prose should not turn the reconstruction into direct evidence of participants' intentions."
+    }
+  ]
+}
