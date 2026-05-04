@@ -1,0 +1,255 @@
+{
+  "packet_id": "predictive-history-dnfgcvzrfa-semantics-pkt-0006",
+  "source_id": "video:predictive-history-dnfgcvzrfa",
+  "source_date": "2025-04-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang draws the mythic logic into the conquest thesis: a society organized around worship of a priest-king creates the exact role the Spanish can seize by killing that priest-king.",
+      "speaker_attribution": "Jiang classroom lecture; 'any questions' prompts receive no captured substantive student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces game theory through ancient city warfare: cities as manifestations of gods generate a taboo against sacking temples, until a king breaks the taboo, proves the gods do not punish him, and hacks the game.",
+      "speaker_attribution": "Jiang classroom lecture with some ASR corruption in the setup.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines the conquest toolkit as escalation dominance, terror, and aura of inevitability or invincibility, then applies it from Mongols and Akkadians to Aztecs, Incas, and finally the Spanish who kill the local gods.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "A truly religious and hierarchical civilization makes itself vulnerable when everyone must worship the priest-king as God's representative, because an outsider can kill that figure and occupy the sacred role.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Core model in the 2025-04-08 lecture.",
+      "topic_tags": [
+        "hierarchy",
+        "priest-king",
+        "conquest",
+        "religion",
+        "sacred-role"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Spanish cruelty to native peoples was not unique compared with previous native overlords, because those prior religious hierarchies had already enslaved and dominated surrounding people.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Comparative claim in this lecture.",
+      "topic_tags": [
+        "spanish-conquest",
+        "native-overlords",
+        "hierarchy",
+        "cruelty"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Game theory is defined as the idea that human action operates within games whose rules must be understood before behavior makes sense.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": [
+        "game-theory",
+        "rules",
+        "human-action"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ancient city warfare reached equilibrium because the city was treated as the physical manifestation of God on Earth, producing a taboo against attacking cities and temples.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Game-theory analogy in this lecture.",
+      "topic_tags": [
+        "city",
+        "god",
+        "taboo",
+        "equilibrium",
+        "warfare"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Breaking the ultimate taboo is a game hack: once a ruler sacks the temple and survives, he shows that humans can violate what only gods were allowed to violate and can become godlike himself.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0044",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Game-theory model in this lecture.",
+      "topic_tags": [
+        "ultimate-taboo",
+        "game-hack",
+        "temple",
+        "god",
+        "conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The conquest toolkit for poorer or fewer outsiders is escalation dominance, terror, and an aura of inevitability or invincibility, which lets them win psychologically before they win materially.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Reusable conquest model in this lecture.",
+      "topic_tags": [
+        "escalation-dominance",
+        "terror",
+        "aura-of-inevitability",
+        "psychological-warfare"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Spanish defeat of Aztecs and Incas is explained as outsiders who do not know or respect the local sacred game and therefore can kill the god-king, break the ultimate taboo, and leave people helpless.",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Application of model to New World conquest in this lecture.",
+      "topic_tags": [
+        "spanish",
+        "aztecs",
+        "incas",
+        "ultimate-taboo",
+        "god-killing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0041"
+      ],
+      "moment": "A religion built to make people worship the priest-king creates the role the conqueror will steal.",
+      "source_phrase": "come kill that priest -king and become the new priest -king",
+      "why_it_matters": "It condenses the whole lecture into a reversal: hierarchy designed for control becomes a conquest interface.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "moment": "The taboo breaker is described as hacking the game: not stronger in normal terms, but willing to violate the rule that made normal play stable.",
+      "source_phrase": "He hacked the game",
+      "why_it_matters": "It gives Jiang's game-theory model its sharpest metaphor.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045"
+      ],
+      "moment": "If only gods may break the taboo, then the human who breaks it and survives becomes godlike.",
+      "source_phrase": "If you break it, you become god yourself",
+      "why_it_matters": "It explains why sacred violation translates into political authority.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "moment": "The Spanish do not just defeat kings; in Jiang's model, they kill God.",
+      "source_phrase": "They killed God",
+      "why_it_matters": "It preserves the explosive religious interpretation behind the conquest thesis.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "ultimate taboo",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The sacred rule humans must not violate; breaking it opens the game and can transfer godlike authority to the violator.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation dominance",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Jiang defines it as willingness to do more than anyone else in order to win the war.",
+      "confidence": "high"
+    },
+    {
+      "term": "aura of inevitability",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0047",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Psychological condition in which people believe the conqueror is invincible, demonic, or divine and therefore obey.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory",
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0042",
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's frame that human action occurs inside games with rules, taboos, equilibria, and hacks.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0046"
+      ],
+      "note": "The 2025-04-08 lecture explicitly reuses prior class material on Mongols as a model for escalation dominance, terror, and aura of invincibility.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0043"
+      ],
+      "note": "The opening of the game-theory example has heavy ASR corruption, but the later city-war/taboo argument is clear enough for extraction."
+    }
+  ]
+}
