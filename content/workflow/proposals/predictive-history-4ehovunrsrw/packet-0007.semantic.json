@@ -1,0 +1,150 @@
+{
+  "packet_id": "predictive-history-4ehovunrsrw-semantics-pkt-0007",
+  "source_id": "video:predictive-history-4ehovunrsrw",
+  "source_date": "2025-11-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0049",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0050",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0051",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0052",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0053",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0054",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0055",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reaches the Priam/Achilles meeting, argues that love enables mutual forgiveness, runs a thought experiment about guilt and a drunk driver, then connects Homer's oral culture to Greek theater, agora debate, symposia, trials, and communal recitation before turning to Anna Karenina.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0049",
+        "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0050"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads the Iliad scene of Priam kissing Achilles' hands and both men weeping, then interprets it as a victorious emotional duel.",
+      "speaker_attribution": "Jiang reading Homer and commenting",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Priam wins an emotional duel by submitting before Achilles, because his act destroys Achilles' pride and changes the destiny of the world.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0049"],
+      "temporal_scope": "Jiang's reading of the Iliad's final encounter.",
+      "topic_tags": ["priam", "achilles", "submission", "emotional-duel"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priam and Achilles forgive each other because each sees the person he loves in the other's face; love becomes the unifying force that makes forgiveness possible.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0050", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0051"],
+      "temporal_scope": "Jiang's central Iliad interpretation.",
+      "topic_tags": ["love", "forgiveness", "priam", "achilles"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In real life, guilt and responsibility are usually mixed; people struggle to forgive others because they first cannot forgive themselves.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0051", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0052"],
+      "temporal_scope": "General psychology model stated through Jiang's driving thought experiment.",
+      "topic_tags": ["forgiveness", "self-forgiveness", "guilt", "responsibility"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greek civilization's greatness comes from an oral public culture constantly probing the mysteries of the human heart through theater, debate, symposia, trials, and recitation.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0053", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0054", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0055"],
+      "temporal_scope": "Jiang's account of Greek civic and artistic culture after Homer.",
+      "topic_tags": ["oral-culture", "greek-civilization", "theater", "agora", "socrates"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Communal recitation matters because writing should be tested against the feelings and reactions of others, unlike solitary modern writing.",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0055"],
+      "temporal_scope": "General literary method claim stated in the lecture.",
+      "topic_tags": ["writing", "community", "recitation", "modernity"],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0049"],
+      "moment": "Submission destroys Achilles' pride.",
+      "source_phrase": "this submission destroys the pride of Achilles",
+      "why_it_matters": "It states the strange power at the heart of Jiang's Priam reading.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0051"],
+      "moment": "Love is the unifying force of the universe.",
+      "source_phrase": "love is the unifying force of the universe",
+      "why_it_matters": "This is the metaphysical peak of the Iliad interpretation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0052"],
+      "moment": "In real life it is almost always scenario three: the other person is guilty, but so are you.",
+      "source_phrase": "in real life it's always number three",
+      "why_it_matters": "The thought experiment turns Homer into an everyday model of resentment and self-accusation.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0055"],
+      "moment": "Modern solitary writing is bad because it lacks communal feeling.",
+      "source_phrase": "today we just write by ourselves and that's why our writing is crap",
+      "why_it_matters": "A blunt Jiang line connecting literary quality to social form.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "emotional duel",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0049"],
+      "definition_or_usage": "Jiang's phrase for Priam's nonviolent conquest of Achilles through submission and grief.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-forgiveness",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0051", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0052"],
+      "definition_or_usage": "The prior condition for forgiving others; without it, guilt turns outward into continuing injury.",
+      "confidence": "high"
+    },
+    {
+      "term": "agora",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0054"],
+      "definition_or_usage": "Greek marketplace where public debate and Socratic questioning model the social source of creativity.",
+      "confidence": "high"
+    },
+    {
+      "term": "symposium",
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0054", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0055"],
+      "definition_or_usage": "Elite gathering for wine and philosophical conversation about love, death, and meaning.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0053", "video:predictive-history-4ehovunrsrw@transcript:v1#seg-0055"],
+      "note": "After the Homer close reading, Jiang extends the Greek origin story forward into Pericles, theater, Socrates, trials, and Herodotus as downstream forms of the same oral-public civilization.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-4ehovunrsrw@transcript:v1#seg-0056"],
+      "note": "Anna Karenina is introduced at the end of the packet and continues in the next packet; this packet only captures the transition."
+    }
+  ]
+}
