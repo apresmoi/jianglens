@@ -1,0 +1,156 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0010",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0073",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0074"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads Rousseau's civil religion as rejection of Christian politics and as the basis for separation of church and state, secular state religion, and conflict between peasants and revolutionaries.",
+      "speaker_attribution": "Jiang classroom lecture with quoted Rousseau passages.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0075",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0076",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why peasants are so loyal to religion. Jiang answers that religion becomes habit, land, family, tradition, food, and the felt goodness of home; the French Revolution will transplant this sacrificial loyalty into the nation.",
+      "speaker_attribution": "Student question followed by Jiang answer; diarization labels do not separate speakers cleanly.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0079",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how religion can be based on reason. Jiang answers that Enlightenment religion bypasses priests: reason deduces basic dogmas such as God, heaven and hell, moral reward, and tolerance of beliefs that do not contradict the state religion.",
+      "speaker_attribution": "Student question followed by Jiang answer; speaker boundary inferred from Jiang repeating the question.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0075"],
+      "note": "The transcript folds the student question into Jiang's segment; 'why are peasants so loyal to the religion' is treated as a real classroom question because Jiang explicitly calls it a good question and answers it.",
+      "suggested_speaker": "student then Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078"],
+      "note": "The religion-based-on-reason question is likewise embedded in Jiang's segment but functions as a substantive classroom question.",
+      "suggested_speaker": "student then Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Rousseau's civil religion rejects a Christian republic, separates church and state, and helps create the basis for the French nation-state.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0073",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Lecture interpretation of Rousseau's civil religion.",
+      "topic_tags": ["civil-religion", "secular-state", "rousseau", "french-nation-state"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Peasants are loyal to religion because over generations religion becomes tradition, land, family, food, habit, and the felt texture of home.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0075",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0076",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Jiang answer to a classroom question in this lecture.",
+      "topic_tags": ["religion", "habit", "peasants", "home", "tradition"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The French Revolution transplants religious loyalty into the nation, making people willing to die for national ideas and helping explain later mass wars.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Lecture claim about nationalism after the French Revolution.",
+      "topic_tags": ["nation", "religion", "world-war", "sacrifice"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A religion based on reason bypasses priests because humans can use reason to access God and deduce basic civil dogmas from first principles.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0079",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Jiang answer to a classroom question in this lecture.",
+      "topic_tags": ["reason", "civil-religion", "priests", "rousseau"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0074"],
+      "moment": "Reason becomes a state religion that rejects other religions because they are intolerant.",
+      "source_phrase": "a new religion a state religion that is based on reason",
+      "why_it_matters": "It shows Enlightenment secularism becoming religious in structure.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077"],
+      "moment": "Religion is a metaphor for land, family, tradition, food, and everything people know and love.",
+      "source_phrase": "religion is really a metaphor for all these things that people understand and know and love",
+      "why_it_matters": "It explains why rational reform fails when it attacks lived loyalty.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078"],
+      "moment": "The nation inherits religion's power to make people die without thinking.",
+      "source_phrase": "Our ideas of religion become transplanted into the nation",
+      "why_it_matters": "It links French revolutionary civil religion to twentieth-century national sacrifice.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "civil religion",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0073", "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0074"],
+      "definition_or_usage": "A simple, reason-based state religion with basic dogmas and an exclusion of intolerance, used to ground the secular French nation-state.",
+      "confidence": "high"
+    },
+    {
+      "term": "religion as habit",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0075", "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077"],
+      "definition_or_usage": "Jiang's explanation that religion becomes loyalty to home, family, tradition, food, and the feelings attached to repeated practice.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0080"],
+      "note": "The lecture ends by explicitly handing off to the next class on Robespierre.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0074"],
+      "note": "Jiang uses contemporary French Islam/secularism as an analogy; keep it tied to the lecture's civil-religion argument rather than extending it beyond this source."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0006",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0041",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0042",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0043",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0044",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0045",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0046",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads Faust as the story of curiosity protected by God. Faust experiences the world, briefly becomes complacent in civic achievement, but is saved because God ultimately rewards striving, curiosity, forgiveness, and love.",
+      "speaker_attribution": "Jiang classroom lecture with quoted Faust passages.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to Kant's 'What is Enlightenment?' and defines enlightenment as the courage to use one's own understanding without another's guidance.",
+      "speaker_attribution": "Jiang classroom lecture with quoted Kant passage.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "In Jiang's reading of Faust, curiosity is how humans show faith in God; God leads the curious into clarity.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Lecture interpretation of Faust.",
+      "topic_tags": ["faust", "curiosity", "faith", "god"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Faust loses the wager when he wants to stay forever in the moment of civic fulfillment, but angels take his soul because God values striving and mercy over contractual damnation.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0044",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0045",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0046",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Lecture interpretation of Faust's ending.",
+      "topic_tags": ["faust", "striving", "mercy", "complacency"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kant's Enlightenment means emergence from self-imposed immaturity: the problem is not lack of reason but laziness, cowardice, and dependence on another's guidance.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture introduction to Kant.",
+      "topic_tags": ["kant", "enlightenment", "immaturity", "courage"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0041"],
+      "moment": "Curiosity itself becomes a form of faith.",
+      "source_phrase": "to be curious and that's how we show our faith in God",
+      "why_it_matters": "It captures the optimistic Enlightenment theology Jiang finds in Goethe.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0047"],
+      "moment": "God protects the striving soul no matter how many stupid things it does.",
+      "source_phrase": "God will always protect us, no matter how many stupid things we do",
+      "why_it_matters": "This is the warmest form of Jiang's Enlightenment reading: reason and curiosity are underwritten by divine mercy.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048"],
+      "moment": "Enlightenment is not information possession; it is courage to stop outsourcing your mind.",
+      "source_phrase": "have the courage to use your own understanding",
+      "why_it_matters": "This prepares Kant's free-expression argument and links education to autonomy.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "striving",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0045", "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0047"],
+      "definition_or_usage": "The Faustian refusal to become complacent; for Jiang, it is the activity God ultimately protects.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-imposed immaturity",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048"],
+      "definition_or_usage": "Kantian condition of relying on another's guidance despite possessing the capacity to reason oneself.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048"],
+      "note": "Kant is introduced after Goethe as the next major Enlightenment figure and Jiang says Kant will recur throughout the semester.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048"],
+      "note": "Transcript says 'self-imposed knowledge'; context and Kant reference indicate self-imposed immaturity/nonage."
+    }
+  ]
+}

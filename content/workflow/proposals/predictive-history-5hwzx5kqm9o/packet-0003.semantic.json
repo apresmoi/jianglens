@@ -1,0 +1,120 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0003",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0017",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0018",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines the proletariat as precarious urban craftspeople who provide revolutionary muscle, then warns that class categories and loyalties are unstable. Religious allegiance can make peasants side with nobility against urban revolutionaries.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0020",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0021",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0022",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0023",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He identifies education, achievement, and morality as middle-class identity markers, ties sexual morality and childhood to class resources, and defines the Enlightenment as science brought into society to create a European middle-class identity.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The proletariat are precarious urban craftspeople who tend toward violence and supply the muscle of revolutions, while petite bourgeois thinkers often supply leadership.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture definition of revolutionary social roles.",
+      "topic_tags": ["proletariat", "revolution", "precarity", "violence"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Class loyalties in revolution are unstable; in the French Revolution, religious interest led peasants and nobility to cooperate against revolutionaries who threatened Catholicism.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0018",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "French Revolution framework in this lecture.",
+      "topic_tags": ["class-loyalty", "religion", "peasants", "french-revolution"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Middle-class identity is built around education, achievement, and morality, including sexual self-control and the capacity to give children a childhood.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0020",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0021",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0022",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Lecture model of middle-class formation.",
+      "topic_tags": ["middle-class", "education", "achievement", "morality", "childhood"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The European Enlightenment is a movement to systemize and institutionalize Dante for a new European middle-class identity, and Jiang distinguishes it from the British Enlightenment.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0023",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture definition before the thinker survey.",
+      "topic_tags": ["enlightenment", "dante", "middle-class", "britain", "europe"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0018"],
+      "moment": "Poor people can fight poor people because religion can matter more than class.",
+      "source_phrase": "why would poor people be fighting against poor people? Well, it's because they have different religious interests",
+      "why_it_matters": "It blocks a flat economic reading of revolution and keeps worldview as the deeper causal layer.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0023"],
+      "moment": "Childhood itself becomes a middle-class invention, not an eternal human default.",
+      "source_phrase": "The modern concept of childhood comes from this period",
+      "why_it_matters": "It shows Jiang treating moral life and family structure as products of class resources.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "achievement ethos",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0020", "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0021"],
+      "definition_or_usage": "Middle-class belief that one should always improve and that children should live better lives than parents.",
+      "confidence": "high"
+    },
+    {
+      "term": "European Enlightenment",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0024"],
+      "definition_or_usage": "For Jiang here, the continental movement that institutionalizes Dante through reason to build a European middle-class identity, distinct from the British Enlightenment.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0024"],
+      "note": "Jiang says Britain will be treated after the French Revolution, so this lecture intentionally narrows to the continental Enlightenment.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

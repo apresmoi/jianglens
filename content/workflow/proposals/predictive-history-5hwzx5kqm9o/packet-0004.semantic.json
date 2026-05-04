@@ -1,0 +1,119 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0004",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts Dante's love with Enlightenment reason: love requires connection and restrains thought, while independent reason can justify anything. He also locates Enlightenment sociability in salons and coffeehouses.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0027",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0028",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0029",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0030",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0031",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to Descartes, reading Meditations as the Enlightenment method: demolish inherited belief, withdraw into self-examination, doubt everything, and find the self in the capacity to doubt.",
+      "speaker_attribution": "Jiang classroom lecture with quoted Descartes passages.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The decisive difference between Dante and the Enlightenment is that Dante's divine gift is love, while Enlightenment thinkers make reason the central organizing principle.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Interpretive contrast in this lecture.",
+      "topic_tags": ["dante", "reason", "love", "enlightenment"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reason without love's relational restraint can reason its way to concentration camps, nuclear bombs, and genocide.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Normative warning in this lecture.",
+      "topic_tags": ["reason", "love", "violence", "restraint"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Descartes represents a radical departure from authority because truth becomes something the individual must test through self-doubt and self-examination.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0028",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0029",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0030",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture interpretation of Descartes.",
+      "topic_tags": ["descartes", "doubt", "authority", "education"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Descartes' famous formula as 'I doubt, therefore I am': doubt is the irreducible certainty and the evidence of the soul.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture interpretation of Descartes.",
+      "topic_tags": ["descartes", "doubt", "soul"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025"],
+      "moment": "Love restrains reason because it forces connection; reason alone can become capable of anything.",
+      "source_phrase": "if you're capable of reasoning by yourself, you can reason anything",
+      "why_it_matters": "This is the lecture's sharpest moral distinction between Dante and Enlightenment modernity.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0032"],
+      "moment": "The Enlightenment self begins not with thought in general but with doubt as the one thing that cannot be doubted.",
+      "source_phrase": "I doubt. Therefore, I am.",
+      "why_it_matters": "It condenses Jiang's Descartes into the method that later modern institutions inherit.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "love as restraint",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025"],
+      "definition_or_usage": "Jiang's contrast to autonomous reason: love requires connection to another person and therefore limits what reason can justify.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-examination",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0029", "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0031"],
+      "definition_or_usage": "Descartes' method of withdrawing from inherited authority and testing belief through one's own reason.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0028"],
+      "note": "Jiang says Meditations on First Philosophy will recur later in the semester, making this an early setup rather than the final Descartes treatment.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
