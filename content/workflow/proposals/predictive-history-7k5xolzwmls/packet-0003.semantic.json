@@ -1,0 +1,184 @@
+{
+  "packet_id": "predictive-history-7k5xolzwmls-semantics-pkt-0003",
+  "source_id": "video:predictive-history-7k5xolzwmls",
+  "source_date": "2025-03-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0017",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0018"
+      ],
+      "kind": "unclear",
+      "summary": "A blank/near-blank transition and short 'Okay?' provide no substantive content.",
+      "speaker_attribution": "Diarization uncertain; no meaningful exchange recovered.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0019",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0020",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads Viking social form out of longhouses and longships: people live together, tell stories, build efficient river craft, and preserve egalitarian cohesion because hierarchy would weaken battlefield unity.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0021",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "He compares cultural spectacles: Roman triumph, Greek theater, Viking funeral. The funeral is expensive, sacrificial, ship-centered, and culturally central because it preserves the warrior in communal memory.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0023",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "In response to a student question about the slave trade, Jiang explains slavery as a normal part of medieval European life, driven by Byzantine and Arab demand and made profitable for pagan Vikings because co-religionists could not be enslaved.",
+      "speaker_attribution": "Student question is mostly inaudible; Jiang restates and answers it.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0023"
+      ],
+      "note": "The actual student question is not captured; Jiang repeats it as 'The slave trade, right?' and then answers.",
+      "suggested_speaker": "Student question reconstructed through Jiang's answer",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Viking longhouses and halls matter because they show a highly social oral culture built around shared life, drinking, and storytelling.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Cultural interpretation in this lecture.",
+      "topic_tags": [
+        "longhouse",
+        "oral-tradition",
+        "sociality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Longships embodied Viking egalitarianism and innovation: they were small, flexible, low-hierarchy, river-capable, and constantly improved.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0019",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0020",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Viking technology model in the 2025-03-04 lecture.",
+      "topic_tags": [
+        "longships",
+        "egalitarianism",
+        "innovation",
+        "river-navigation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Viking funeral, not the triumph or theater, was the central cultural spectacle, investing a warrior's savings into a ritual that sent the dead into the afterlife and communal memory.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0021",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Cultural comparison in this lecture, with further treatment promised for the next class.",
+      "topic_tags": [
+        "viking-funeral",
+        "spectacle",
+        "memory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Slave trade profitability depended on religious boundaries: Muslims and Christians could not enslave fellow believers, while pagan Vikings could supply enslaved pagans to both Byzantines and Arabs.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0023",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Viking Age slave-trade explanation in this lecture.",
+      "topic_tags": [
+        "slave-trade",
+        "religion",
+        "byzantines",
+        "arabs"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0021",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0022"
+      ],
+      "moment": "The Vikings' central spectacle is not victory but a funeral where wealth burns into memory.",
+      "source_phrase": "the spectacle that they cared the most about was a funeral",
+      "why_it_matters": "It shifts Viking culture from conquest alone to remembered contribution and ritualized afterlife.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0020"
+      ],
+      "moment": "The ship has a captain, but he does not visually dominate the crew.",
+      "source_phrase": "he's really not that different from the others",
+      "why_it_matters": "It turns material design into evidence for a social model: cohesion over visible hierarchy.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "longship",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0019",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Dominant Viking maritime technology, deliberately small and maneuverable for rivers and flexible travel.",
+      "confidence": "high"
+    },
+    {
+      "term": "Viking funeral",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0021",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Elite burial spectacle that consumed wealth, sacrifices, and ship burial to carry the dead into afterlife and cultural memory.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang explicitly defers detailed funeral meaning to the next Viking class, so this lecture gives only the preview and cultural placement.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0017",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0018"
+      ],
+      "note": "Segment 0017 is blank and 0018 is only 'Okay?'; no substantive speaker turn can be recovered."
+    }
+  ]
+}
