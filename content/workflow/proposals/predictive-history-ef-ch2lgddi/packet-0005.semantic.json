@@ -1,0 +1,105 @@
+{
+  "packet_id": "predictive-history-ef-ch2lgddi-semantics-pkt-0005",
+  "source_id": "video:predictive-history-ef-ch2lgddi",
+  "source_date": "2025-04-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0033",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0034",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0035",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0036"
+      ],
+      "kind": "exchange",
+      "summary": "After stating that Napoleon will exploit the second-coming expectation, Jiang pauses for clarity and answers a student question about whether Robespierre knew people would interpret his sacrifice that way.",
+      "speaker_attribution": "Jiang with a brief student question not fully captured in transcript.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0038",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0039",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that prophetic action is an act of faith rather than certainty, then moves into Robespierre's biography and the financial-political crisis around Necker and the Estates General.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0035"],
+      "note": "A student question is present only as Jiang's answer; the student's exact wording is not captured.",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Robespierre did not need full conscious certainty that his sacrifice would work; like a prophet, he acts through doubt and faith.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0036",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Jiang's answer to a student question in this lecture.",
+      "topic_tags": ["faith", "prophet", "doubt", "robespierre"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that if Robespierre had seized the crown like Napoleon, the French Revolution would have failed and lost world-historical force.",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037"],
+      "temporal_scope": "Counterfactual claim in the 2025-04-24 lecture.",
+      "topic_tags": ["counterfactual", "robespierre", "napoleon", "french-revolution"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Robespierre's early life is framed as a petit-bourgeois orphaned responsibility story that prepares his idealism, Rousseauian ambition, and defense of the poor.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0038",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Biographical setup in this lecture.",
+      "topic_tags": ["robespierre", "biography", "rousseau", "poor"],
+      "claim_type": "historical-claim",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037"],
+      "moment": "No prophet ever truly believes he is the prophet; doubt is part of the heroic act.",
+      "source_phrase": "No prophet ever truly believes he's the prophet",
+      "why_it_matters": "It keeps Jiang's Robespierre from becoming a flat fanatic and makes the sacrifice psychologically unstable.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037"],
+      "moment": "Without Robespierre's sacrifice, Napoleon could not have become Napoleon.",
+      "source_phrase": "Without Robespierre's sacrifice, Napoleon could not have become Napoleon",
+      "why_it_matters": "It links this episode directly to the next lecture's imperial mythology.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "act of faith",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0036"],
+      "definition_or_usage": "Jiang's explanation for prophetic action under uncertainty: trusting the people without knowing the mythic outcome will succeed.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037"],
+      "note": "The lecture explicitly previews that the next class will show Napoleon's rise as dependent on Robespierre's sacrifice.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

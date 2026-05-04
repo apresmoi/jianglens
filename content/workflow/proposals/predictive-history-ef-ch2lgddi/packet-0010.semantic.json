@@ -1,0 +1,115 @@
+{
+  "packet_id": "predictive-history-ef-ch2lgddi-semantics-pkt-0010",
+  "source_id": "video:predictive-history-ef-ch2lgddi",
+  "source_date": "2025-04-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0073",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0074",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0075"
+      ],
+      "kind": "exchange",
+      "summary": "Answering the student question about consciousness, Jiang formalizes the model: mythology is collective subconscious, it takes over when authority breaks down, and leaders become actors in a play that only works while they stay in role.",
+      "speaker_attribution": "Jiang answering a student question; student wording is inferred from Jiang's restatement in the previous packet.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0076",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0077",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers another question by clarifying that the Reign of Terror is human sacrifice, not the Jesus story; Jesus ends the need for sacrifice, while Robespierre purifies the polluted energy of Terror by becoming scapegoat.",
+      "speaker_attribution": "Jiang answering a student question whose exact wording is not captured.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0075",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0076"
+      ],
+      "note": "The transcript captures Jiang's prompts and answers but not the students' exact wording.",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Mythology functions as a play requiring actors; revolutionary leaders gain followers by volunteering to play the role the collective subconscious demands.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0073",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Final model statement in this lecture.",
+      "topic_tags": ["mythology", "play", "role", "leadership"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Napoleon initially succeeds by playing the messianic role, but by declaring himself emperor he breaks the play, becomes like everyone else, destroys the French Revolution, and falls.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0074",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Preview of the Napoleon lecture.",
+      "topic_tags": ["napoleon", "messiah", "emperor", "role-breaking"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "Robespierre purifies the polluted energy of the Terror by becoming the scapegoat who takes guilt for the nation and allows France to move on.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0077",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Final explanation of Robespierre's sacrifice.",
+      "topic_tags": ["scapegoat", "terror", "guilt", "purification"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0074"],
+      "moment": "The mythology only works if everyone keeps speaking the lines of the play.",
+      "source_phrase": "The entire play dies",
+      "why_it_matters": "It explains why Robespierre's refusal of kingship matters and why Napoleon's coronation breaks the spell.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078"],
+      "moment": "Robespierre tells the nation: blame me, sacrifice me, let me cleanse you of your sins.",
+      "source_phrase": "I will take the guilt for the nation",
+      "why_it_matters": "This is the final form of the lecture's Jesus-scapegoat reading.",
+      "tone": "sacrificial",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "mythology as play",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0073"],
+      "definition_or_usage": "A story structure that requires leaders to become actors and remain in role for collective belief to hold.",
+      "confidence": "high"
+    },
+    {
+      "term": "polluted energy",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0077"],
+      "definition_or_usage": "The violent energy released by the Terror, based on vengeance and hatred, which Robespierre purifies through scapegoat sacrifice.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078"],
+      "note": "Jiang ends by saying the next Tuesday class is Napoleon and will close the French Revolution trilogy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

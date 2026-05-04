@@ -1,0 +1,110 @@
+{
+  "packet_id": "predictive-history-ef-ch2lgddi-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ef-ch2lgddi",
+  "source_date": "2025-04-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0001",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the lecture's controversial thesis: Robespierre saw himself as the second coming of Jesus and sacrificed himself to save the French Revolution.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0003",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0004",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0005",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0006",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0007",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He reviews the class structure behind the Revolution: the growing middle class, France's war debts, the Estates General, and the third estate's move toward a National Assembly seeking constitutional limits on royal power.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Robespierre is introduced not only as a revolutionary leader but as a prophet figure who takes Rousseau's promised land of reason into revolutionary action.",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0001"],
+      "temporal_scope": "Lecture thesis on 2025-04-24.",
+      "topic_tags": ["robespierre", "prophet", "rousseau", "french-revolution"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's basic social model of revolution is that bourgeois counter-elites use the proletariat as the muscle of revolt, then often try to control or kill the revolution when it threatens their interests.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0003",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Model used in this lecture to read the French Revolution.",
+      "topic_tags": ["class", "revolution", "bourgeoisie", "proletariat"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "France's fiscal crisis comes from absolute-monarchy war decisions, especially the Seven Years' War and sponsorship of the American Revolution, forcing the king to call the Estates General in 1789.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0005",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical setup for 1789 in the lecture.",
+      "topic_tags": ["absolute-monarchy", "debt", "estates-general", "1789"],
+      "claim_type": "historical-claim",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0001"],
+      "moment": "Robespierre is framed as the prophet who takes Rousseau's promised land of reason into history.",
+      "source_phrase": "Robespierre saw himself as the second coming of Jesus",
+      "why_it_matters": "This gives the episode its controlling interpretation: political violence is being read through religious myth.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0006"],
+      "moment": "France reaches revolution through empty treasury, hunger, and no bread repeated almost like a chant.",
+      "source_phrase": "there's no food there's no food there's no food there's no food there's no bread",
+      "why_it_matters": "It preserves the material pressure underneath the later mythic reading.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "counter-elite",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0004"],
+      "definition_or_usage": "The political class that needs the people to revolt against existing elites but may later try to control the revolution.",
+      "confidence": "high"
+    },
+    {
+      "term": "absolute monarchy",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0005"],
+      "definition_or_usage": "A monarchy where the king personally decides war, power distribution, and taxation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0001"],
+      "note": "This lecture follows the Rousseau lecture and is the Robespierre installment of the French Revolution sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0003"],
+      "note": "ASR mangles some class labels, but the bourgeoisie/proletariat/petite bourgeoisie structure is clear from context."
+    }
+  ]
+}

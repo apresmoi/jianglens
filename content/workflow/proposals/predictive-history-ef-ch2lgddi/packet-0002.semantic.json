@@ -1,0 +1,113 @@
+{
+  "packet_id": "predictive-history-ef-ch2lgddi-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ef-ch2lgddi",
+  "source_date": "2025-04-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0009",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0010",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0011",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang maps the National Assembly's internal factional splits: Jacobins divide into bourgeois conservatives, Girondin war speculators, Cordeliers seeking fuller proletarian revolution, and anti-Catholic radicals.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0013",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0014",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0015",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Robespierre as a petit-bourgeois provincial lawyer whose virtue, labor, Rousseauian conviction, and force of ideas make him de facto leader and lead to the Reign of Terror.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The French Revolution's internal factions reflect conflicting economic interests inside the middle class, not a unified people moving with one interest.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0009",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Reading of the revolutionary factional landscape.",
+      "topic_tags": ["factions", "middle-class", "jacobins", "cordeliers"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Robespierre's authority comes less from formal dictatorship than from conviction, virtue, work, and Rousseauian clarity inside a collapsing revolutionary field.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0013",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Robespierre characterization in this lecture.",
+      "topic_tags": ["robespierre", "virtue", "rousseau", "leadership"],
+      "claim_type": "interpretation",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads the Reign of Terror as a policy of mass execution justified as revolutionary purification against internal enemies, speculation, hoarding, and conspiracy.",
+      "refs": [
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0015",
+        "video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Description of the Terror in the lecture.",
+      "topic_tags": ["reign-of-terror", "purification", "execution", "internal-enemies"],
+      "claim_type": "historical-claim",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0013"],
+      "moment": "Robespierre is almost a nerd, but he becomes dangerous because he believes the revolution must win if he works hard enough.",
+      "source_phrase": "almost like a nerd",
+      "why_it_matters": "The image distinguishes charismatic dictatorship from obsessive prophetic conviction.",
+      "tone": "portrait",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0016"],
+      "moment": "The Terror is recoded as human sacrifice, not only as policy.",
+      "source_phrase": "It's the idea of human sacrifice",
+      "why_it_matters": "This turn opens the lecture's deeper mythic explanation of revolutionary violence.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Sans-culottes",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0011"],
+      "definition_or_usage": "The lower-class proletarian force of the revolution, named as those without expensive breeches or silk socks.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Reign of Terror",
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0015"],
+      "definition_or_usage": "Robespierre's radical policy of mass execution meant to solidify and advance the revolution through terror.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0013"],
+      "note": "The transcript says '1990, 1991' in the revolutionary crisis setup; context indicates 1790-1791.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0010"],
+      "note": "Several faction names are distorted by ASR; interpretation relies on context and conventional French Revolution terms."
+    }
+  ]
+}

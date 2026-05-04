@@ -1,0 +1,471 @@
+# Civilization #47:  The Passion of Robespierre
+
+Source: https://www.youtube.com/watch?v=ef-Ch2LGDDI
+
+## seg-0001 / 00:00:00-00:01:16 / SPEAKER_00
+
+So we continue the French Revolution today and last class we looked at Jean -Jacques Rousseau and how he is the philosopher poet of the revolution. He provided the dream for the revolution. He told the French that there was a promised land of reason where if you use your reason, which is God's gift to us, you could build a new society, a utopia, a kingdom on earth. In today's class we will look at Robespierre, Maximilien Robespierre, who is a prophet who will take his people into the promised land. So he is the main instigator, the main leader of the French Revolution. And I'm going to make a very strange argument today about Robespierre that no one has made before. So it's going to be very controversial. It's going to be very strange. So I will do this very slowly, okay? Basically, I'm going to make the argument to you that Robespierre saw himself as the second coming of Jesus.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:17-00:02:35 / SPEAKER_00
+
+And because he did so, he sacrificed himself in order to save the French Revolution. Okay? So that's my argument to you today. Again, it's going to be a very controversial, provocative argument. So I will work very slowly to explain it. Alright. Okay. So let's go over some, let's review some information we discussed last class that's very important. Okay. So as we discussed last class, traditionally in Europe, there have been two major groups of people. Okay. There are the peasants and the poor. the slaves okay so basically the lower class the underclass and then at the top are the nobility and clergy now there's always been townspeople there's always been merchants and artisans and crafts people but they're the minority but because of the gunpowder revolution as Europe begins to industrialize these people are going in number and influence and power okay and we call these people today the middle class and the
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:35-00:04:16 / SPEAKER_00
+
+middle class it's an extremely diverse group of people and you can simplify the middle class into three major categories okay there's the bourgeoisie the bourgeoisie remember are the elite of the town so these are bankers lawyers doctors factory owners industrialists merchants okay so they are the elite of a town then you have what what we call later the proletariat okay the proletariat are the lower class of a town they include artisans workers okay they're often the majority and then in between are what we call the petite bourgeoisie or the petty middle class and these are just people who are just stuck in between these two major categories and they include schoolteachers journalists small lawyers okay notaries small business owners okay so this is extremely diverse group of people okay now and as we discussed last class what often happens in revolution is shit. that is that the political see will often be become the counter
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:16-00:05:40 / SPEAKER_00
+
+elites the counter leads are just those who need the people to revolt against the elites the proletariat will be the muscle or the army okay and the forces e are in a very unstable position because at first they will often support revolutions because they want more political power but over time they will become reactionaries or they will try to control the revolution or even kill the revolution because the revolution is threatening threatening their economic interests okay so this is the pattern that we see in human history okay so um let's let's go over some terms that we will need in order to understand the French Revolution okay um so what happens is this the middle class is growing in France throughout the 17th and 18th century in fact they become the main economic engine for France at this time France is the most populous the wealthiest nation in all of Europe but it is an
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:40-00:06:44 / SPEAKER_00
+
+absolute monarchy an absolute monarchy is one in which the king makes all the decisions he decides whether or not to go to war he decides who has the power he decides who has to pay taxes okay he has absolute power an absolute monarchy the absolute monarchy leads France into a series of disastrous wars in this in the 18th century the most prominent the most important is something called a seven years war fought between France and England primarily there are other participants as well and this is a world war okay this is really the first world war you can actually call this world war zero it's fought all around the world in North America in Europe in Asia it's fought everywhere and France loses this war okay when you lose the war you incur a lot of debt but not only that right after seven years war France sponsors the American Revolution okay so France becomes
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:44-00:07:47 / SPEAKER_00
+
+the main economic political and military sponsor of the American Revolution in the revolution against the British and of course the Americans win this war when the Americans refuse to pay back the debt that they owe to the French okay so these are two major wars that are now that have now left France in very dire economic straits in fact their Treasury it's empty okay the government has no more money food prices are off the charts people don't have enough to eat there's no food there's no food there's no food there's no food there's no bread the economy's in tatters so what the king needs to do now is he needs to call an assembly of the people okay and this and this what's called the estate general the estate general this happens in the year 1789 and this marks the beginning of the French Revolution and the purpose was estate general it's very simple all
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:47-00:08:55 / SPEAKER_00
+
+the king wants to do is get these people the nobility the clergy and the middle class bourgeoisie to agree to even more money okay to pay more taxes to replenish the Treasury of course the middle class everyone in the middle class is like this is a bad deal for us we are the main economic engine for France we pay the most taxes we do the most work but we have no political power therefore we should have some political power in fact we should check the power of the king to declare war and to raise taxes okay so they want a constitutional monarchy no at this time in history no one is saying that they should depose the king and declare Republic no one is saying that okay all they want is a more a greater diffusion of power all right less power for the king more power for the people that makes sense okay but
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:55-00:09:54 / SPEAKER_00
+
+of course the king and the elite don't really like this idea and the king this is Louis the 16th and he's very indice in decisive okay he wants to maintain the absolute monarchy but he lacks the cutthroat mentality mentality that they would need to achieve his power okay so he should have sat in the military to kill every one of them he would have killed every one of them one but he didn't want to do that he goes back and forth okay and so what happens is now the estate general breaks off in the estate general there are three estates okay three major groups there's the no the first estate is called the clergy the catholic church the second estate is nobility the third estate is everyone else the commoners okay so what happens is the third estate breaks off and they form something called the national assembly and they use national assembly as a
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:54-00:11:02 / SPEAKER_00
+
+mechanism to press for more rights in the national assembly because it's made up of most of the members of the middle class you have different groups of the proletariat the petite bourgeoisie the bourgeoisie um they argue amongst themselves as well so what what's happening now is that within the national assembly these political groups political clubs are forming in order to divide strategy and to consolidate the political system and to consolidate the political system ideology amongst themselves okay and the most famous of these clubs is are called the you guys remember the jacobins right have you guys studied this history okay the jacobins or anyway the jacobins the jackman's and this is just a meeting place for um revolutionaries to come together and discuss ideology how do we best proceed now over time as the revolution develops the jacoblins will split off into other groups okay um and the reason why they split off is because
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:02-00:12:08 / SPEAKER_00
+
+the economic interests the political economic social interests of these different groups do not align with each other all right so from the jacobins you will emerge the police the fulhans represent the bourgeoisie they don't want any economic change they want political change they don't want to have a more equal society they just want more power or they don't want a more more for people they don't want more power over the king, okay? So these are conservatives. But then you will also emerge the Girondins. Girondins. Now Girondins are lower Portuguese. These are merchants, these are tradespeople. And what they want is war. They want France to declare war against their enemies, Austria, Prussia, basically. And the reason why is, if there's war, they can make money off war. Okay, because these are merchants, these are tradespeople, these are industrialists. So they see war as an opportunity to enrich themselves. They're speculators, basically. And these are called the Girondins.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:08-00:13:30 / SPEAKER_00
+
+And then you will also emerge the Cordeliers. And the Cordeliers represent a more extreme faction of the Jacobins who want universal suffrage. They want the proletariat to have more rights. Okay, at this point, the proletariat is called the Sainte -Colottes. The Sainte -Colottes, okay? These are very important people because they provide the muscle for the revolution. Sainte -Colottes is French meaning without breaches. So the custom at that time is that if you are a middle class person, you wear like silk socks, okay? But they're expensive. So the lower class, the proletariat, they cannot afford these socks. Therefore, they're called the Sainte -Colottes. Okay, the Sainte -Colottes. And the Cordeliers want to galvanize these people to create a full revolution where the complete social, economic, political, and religious order is overthrown, okay? Then you have people called the Herpetists. And what they want to do is overthrow the Catholic Church. Okay, so throughout this revolution, over time, you have different groups emerging with different political interests.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:30-00:14:28 / SPEAKER_00
+
+With different political interests within the middle class. Okay, does that make sense? But at the same time, you have threats to the revolution. Okay? So the main threat is the king because the king is a Bourbon and his brother is king of Spain, he has relatives all over Europe. So he writes to Austria -Prussia to ask for aid. Can you come in, send your army, and crush this revolution for me? Because my army's not listening to me. Okay? So the king is conspiring against the revolution. There are these invasions from Austria and Prussia, okay? And then England also sees the revolution as a threat as well. Because remember, every nation has a new class and they're afraid that the middle class in their nations will rise up against them as well. So you have these external threats coming in. And then you also have internal threats, okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:28-00:15:47 / SPEAKER_00
+
+You have counterrevolutionaries, the nobility who try to raise their own army, to crush the revolution. You also have economic collapse going on, okay? So the revolution at this point, in the year 1990, 1991, it seems threatened. So what happens is that someone emerges from this chaos to lead the revolution. And his name is Maximilien Robespierre, okay? Maximilien Robespierre. And Robespierre, he is just a provincial lawyer. Okay? He is not from Paris. He is from Arras, a province in France. He's a lawyer and he's part of the Petit Bourgeoisie. And he's not imposing. He's not huge. He's not powerful. He doesn't have a faction behind him. And he's not extremely charismatic. He's almost like a nerd. But the thing about Robespierre is that he is completely convinced that the revolution must win. And it will win if he works hard enough. He works 18 hours a day. The moment he gets up, he works.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:47-00:17:02 / SPEAKER_00
+
+He gives speeches. He gives over 500 speeches in the National Assembly over his career. He is extremely virtuous. He comes to Paris with no money and he leaves Paris with no money. His entire career as a lawyer, back in his hometown, he spent defending the poor and the weak against the powerful. And he has... And he has... He has very clear ideas about how to proceed with the revolution based on Jean -Jacques Rousseau. He sees himself as a disciple of Jean -Jacques Rousseau. Remember last class, we looked at Rousseau's ideas and how to implement a kingdom of reason, okay? So, Robespierre, because he is the most virtuous, he has the most conviction. He becomes the de facto leader of the revolution, okay? He becomes head of something called the Committee for Public Safety. And it's not a dictatorship, okay? He's not a dictator, but he's head of a committee that advises the National Assembly on how to proceed.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:02-00:18:08 / SPEAKER_00
+
+And because he is the most forceful, he has the most ideas, his ideas usually win out, okay? And what... And all of this is because he's a dictator. Over time, as he accumulates more and more power, he makes more and more radical proposals. His most radical proposal is called the Reign of Terror. The Reign of Terror is a time of mass execution, okay? The guillotine in Paris. In order to solidify the revolution, in order to advance the revolution, Robespierre says we must instill terror in our people. Our enemies. We must investigate our enemies and execute them if they are plotting with the king against us. If they are plotting with enemies against us. If they are conspiring against us. If they are engaged in economic speculation. If they're hoarding food. These are all enemies. They're trying to sabotage the revolution. Therefore, we must kill them, okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0015
+
+## seg-0016 / 00:18:08-00:19:27 / SPEAKER_00
+
+So, over a few years, three or four years, the Reign of Terror will kill, at all, at least 40,000 people within Paris alone, okay? We don't know in the provinces how many people are killed. The Reign of Terror will also execute the king and queen. So they will kill the king and queen as well, alright? So, historians have been debating for a long time if the Reign of Terror was necessary, because obviously it's a terrible thing to kill, 40,000 people for holding opposing political opinions, okay? And a lot of these people were, in fact, just political enemies of Robespierre, okay? So, how can we best understand the Reign of Terror? Well, if you think about it, in this class, we've actually studied the Reign of Terror before, okay? It's the idea of human sacrifice. And we've discussed this before. All societies engaged in war, pre -modern times, practiced human sacrifice. So, Romans did it. The Vikings did it.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0016
+
+## seg-0017 / 00:19:27-00:20:37 / SPEAKER_00
+
+The Aztecs did it, okay? The Aztecs were famous for doing it. So, why would you do human sacrifice if you're engaged in war, okay? Well, there are different reasons. And there are three main reasons. The first reason is you want to unify and energize the people, okay? When people observe or they watch human sacrifice, when they engage in a spectacle, they become much more excited. They have bloodlust. Okay? We call this bloodlust, warlust. They want to kill now. Okay? They're excited to kill. Okay? That's one purpose. Second purpose, of course, is to terrorize your enemy, to put fear in your enemy. Okay? That's obvious. And then there's a third reason, which is the most important. The third reason is to break taboo, okay? To break the taboo. When you break a taboo, you are signaling that you are crossing a boundary. You've crossed a line, and you can never go back. You can no longer compromise.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0017
+
+## seg-0018 / 00:20:37-00:21:44 / SPEAKER_00
+
+You can only move forward, okay? So the taboo they broke in the French Revolution is they killed the king and queen of France. That meant that now all of Europe would unite against the French. And there would come an exact, a bloody vengeance on the people of France. The enemies of France, which include England, the Netherlands, Prussia, Austria, Russia, the five most powerful nations in all of Europe, they will now come, and they will not stop until they have avenged the dead king and queen. Okay? Because the French people have broken this taboo, and the monarchs cannot allow the French people to get away with this. Okay? Because if they did, then this will encourage their people to rise up against them as well. Okay? So by... Terror, Robespierre, breaks the taboo and when you break the taboo then you are now all in. You are fully committed to the revolution. There's no more compromise.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0018
+
+## seg-0019 / 00:21:44-00:22:52 / SPEAKER_00
+
+There's no more surrender. There's no more going back into the past. You are now in the promised land. You are now in a new world. You must fight to the death for this world. Does that make sense? Okay, but what happens next and it's very strange is Robespierre has accumulated all the power in France. He's not dictator. He doesn't have the powers of a dictator but he's de facto dictator and at this point in his life, he's only like in his mid -30s, he could choose to become king, right? He could be like, you know what? For the revolution to fall. For the revolution to fully succeed, I need to become a dictator and the people, the Sainte -Colote love him. The Jacobins love him. He would win, okay, but at this particular stage in the revolution, he decides to just sit at home. He goes into seclusion. He kind of gives up
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0019
+
+## seg-0020 / 00:22:52-00:23:58 / SPEAKER_00
+
+and this gives time for his enemies to conspire against him and he has a lot of enemies because this is the ring of terror. Robespierre is virtuous and no one can be as virtuous as Robespierre and his enemies think this guy is crazy. He's going to kill everyone who is not as virtuous as he is and therefore, we're all going to be killed at some point, okay? So they decide to act first. So the National Assembly conspire to vote for his condemnation. They vote for his death. And he does not resist. The most he does is he goes to the National Assembly and he gives a speech cursing them all, okay? But then afterwards, they send soldiers to arrest him and he doesn't really resist. And then he's sent off to the guillotine and then he's killed and that's the end of Robespierre. And this is a mystery, a paradox to historians like why did Robespierre fall?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0020
+
+## seg-0021 / 00:23:58-00:25:22 / SPEAKER_00
+
+Why didn't he resist? Why did he just give up? Okay? All right. So to answer this question, I'm going to provide you with a new idea, okay? And this is a hard idea so please feel free to challenge me or ask questions. Make sure you're clear. Okay? All right. So the thing you need to understand is this. In a time of revolution, when people reject authority, when people say, I no longer believe in God. I refuse to listen to my priest. The nobility is evil. I refuse to submit to the king. The question then is what takes charge? What guides society now? And the answer is mythologies. Mythologies are the subconscious operating system of society. Does that make sense? So what mythology does everyone in France know? Well, the story of Jesus, right? What's the story of Jesus? Um. Jesus is persecuted for telling the truth, for trying to bring about a more equal, more just world.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0021
+
+## seg-0022 / 00:25:22-00:26:37 / SPEAKER_00
+
+In fact, he is murdered. He's crucified. Okay? It's crucification. Okay? And the moment he's crucified, people discover that he's truly the son of God. And then after he dies, he ascends to heaven. Okay? And then he awaits the day when he has to return. Okay? And he does return in something called the second coming. Second coming. And the second coming, Jesus will become the God of war. Okay? The Messiah. And he will lead his people into victory against the entire world. And once he defeats the entire world, he will build a kingdom of heaven, a thousand years of peace. And then after a thousand years of peace, heaven will come onto earth. We will all become immortal. And those who have been good will live in heaven. Those who have been bad will burn in hell. Okay? The final judgment. Okay? So that's a story, a mythology, that everyone understands, that everyone knows in France.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0022
+
+## seg-0023 / 00:26:37-00:27:43 / SPEAKER_00
+
+And so even though the French Revolution was a revolution of reason when they're trying to reject the Christian faith, the mythology is still implanted in their brains. And this mythology becomes the operating system of the French Revolution. Revolution. Okay? So, using this mythology, let's now ask ourselves, what happened when Robespierre died? Okay? Three things happened when Robespierre died. The first one that happened is, Robespierre became a scapegoat. A scapegoat is someone who takes the blame for all the crimes of the community. So the Ring of Terror is when the Parisians killed 40,000 people. and some of them were innocent and when Robespierre died he took the blame for the ring of terror right they killed him because they call him a tyrant he's the one responsible for those 40,000 deaths and he said sure I'll take the blame okay he becomes a scapegoat that's the first thing that happens
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0023
+
+## seg-0024 / 00:27:43-00:28:51 / SPEAKER_00
+
+second thing that happens is he becomes a martyr for the revolution he died in order to save the revolution Robespierre said to the people if you need me to die in order to cleanse you of your sins then I will do so I will do so because what matters is that my life but the revolution okay he becomes a martyr and when he became a martyr what he did was he made people feel guilty for having persecuted and killed him okay and so the third thing he becomes is a role model okay or a paragon a hero he's telling the French people listen I could have become king and all the power in the world but I chose to sacrifice myself because what mattered most was the revolution if you feel guilty for having killed me then you have an obligation to a revolution to sacrifice to make the sacrifice necessary in order to save
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0024
+
+## seg-0025 / 00:28:51-00:30:17 / SPEAKER_00
+
+the revolution okay so this is what happened the moment he killed himself he became a scapegoat a martyr and a paragon of virtue a hero to the people people will feel guilty for having killed him and now they will transfer this guilt into promoting and saving the revolution and so in other words but the moment that he died Robespierre became Jesus he became in the minds of the French people second coming of Jesus does it make sense okay so that's my argument to you today and so over the rest of the class we will look at the evidence and actually the best evidence is how Robespierre died okay so let's compare the death of Jesus and the death of Robespierre and you will see they match up they line up perfectly okay so let's look at the death of Jesus and then we'll look at Robespierre his death Jesus spends his life preaching the truth
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:17-00:31:20 / SPEAKER_00
+
+to the people and trying to build a more just and equal world but he knows that eventually he must die in order to complete his mission okay so in the Last Supper he tells his followers the disciples one of you will betray me okay betrayal and of course this person name is Julius Iscariot who betrays Jesus to the high priest of Jerusalem okay so the first so the first thing is for betrayal but after the dinner everyone goes to sleep and Jesus goes to a quiet place okay he isolates himself why because he knows that the soldiers are coming to arrest him and to put him to death okay the servants of the high priest are going to come in and arrest him the servants do come in and arrest him and the servants do come in and arrest him come to arrest Jesus and Jesus submits okay submission he does not resist but one
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0026
+
+## seg-0027 / 00:31:20-00:31:57 / SPEAKER_00
+
+of his disciples Peter if he sees what's happening and he rushes to try to save Jesus and Peter cuts off the ear of one of the servants of the high priest and Jesus tells him no no no Peter go home this is what I must do by myself I must go with the with the hype to the high priest okay he goes to the high priest who then presents Jesus to the high priest who then presents Jesus to the high priest okay he goes to the high priest who then presents Jesus to the high priest who then presents Jesus to the high priest who then presents him to the Roman governor Pontius Pilate right and him to the Roman governor Pontius Pilate right and Pontius Pilate says Jesus you've been accused Pontius Pilate says Jesus you've been accused of crimes against your people of defying the laws of your God what do you have to
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0027
+
+## seg-0028 / 00:31:57-00:33:13 / SPEAKER_00
+
+say in your defense and Jesus says nothing Jesus does not defense defend himself okay okay so submission okay and then Pontius Pilate says fine if you refuse to defend yourself then I can only condemn you to death So Jesus, he has to bear a cross, okay? And he's bearing the cross. The Jews line up and see him, and they jeer him, okay? They curse him. They spit at him. They throw stones at him. And all this while, there's someone, a soldier, a centurion, following him and whipping him, okay? This is called a passion, okay? He is punished. And then he is, of course, crucified. And he's crucified. It's the worst way to die, right? Right? People, thousands of people come and watch him get crucified and then die, okay? That's the story of Jesus. Guess what, guys? This story becomes the death of Robespierre, too. So Robespierre is betrayed. He is betrayed by his political allies and friends.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0028
+
+## seg-0029 / 00:33:15-00:34:15 / SPEAKER_00
+
+He helped these people amass power. And once they amass power, and Robespierre gets rid of all the other enemies, they see Robespierre as the ultimate threat. So they conspire against him, okay? So it's a betrayal. Robespierre is asked to speak to the assembly. He does, okay? But he knows the assembly has already condemned him to death. There's no point in him arguing, okay? So what he does is, after his speech, he goes to a building, a town hall, and he goes to the second floor, and he is isolated from everyone, okay? He knows his fate. He knows they're going to come and kill him, and he just stands there. His friends, his most loyal followers, okay, say to him, Robespierre, they're coming to kill you. Let's rally the people. Let's go to the sections, the Saint -Colote. We have thousands, tens of thousands of loyal followers. Let's rally them. Let's inspire them to revolt.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0029
+
+## seg-0030 / 00:34:15-00:35:14 / SPEAKER_00
+
+Let's raise an army and kill the entire National Assembly. And Robespierre refuses, okay? Then you have the Paris Conflict. And you have a commotion, let's call it a Commune. Leaders from the Paris Commune, they've heard what happened to Robespierre. So they send a delegation to the sections and say, hey guys, we need to defend our hero, okay? And so you have this huge crowd moving towards the National Assembly. And they're waiting for Robespierre to appear before them and say, fight, fight, fight, okay? Defend the revolution, save the revolution, save Robespierre. They're waiting for the hero to come out and lead them. Robespierre refuses to say a word. He just sits there. And everyone's begging Robespierre, please, Robespierre, we have to do something. And Robespierre just, he stares off into space, okay? He's like Jesus at this point. He knows his fate. He knows his destiny. He refuses to fight his destiny. He submits, okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0030
+
+## seg-0031 / 00:35:14-00:36:21 / SPEAKER_00
+
+Submission. The soldiers come, and his followers, they get into a fight. Some people die. But a soldier shoots a pistol into the jaw of Robespierre, okay? And now he's covered in blood. And he's trying to wipe off the blood. But he's in pain, okay? And even though he's in pain, they still take him to the guillotine. So the passion of Robespierre. And he's being driven on a horse cart with his followers, and there's about 100 of them, to the guillotine. They'll be all massacred at once, okay? And 1,000 people line up on the streets to shout, down with the tyrant, down with the tyrant, okay? They hate Robespierre. These are people who lost friends, family in the Ring of Terror. So they want to see this guy dead. And ultimately then, Robespierre then is guillotined. And that's the end of Robespierre, okay? Do you see how these stories line up perfectly? It is
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0031
+
+## seg-0032 / 00:36:21-00:37:47 / SPEAKER_00
+
+almost as if Robespierre is trying to act, without the story of Jesus, for the French people. That is his intention. That is his legacy. He wants people to understand that it was Jesus who appeared before them. And Jesus made the ultimate sacrifice because he loved his people, in order to rally his people to save the revolution and fight off the enemies of France, okay? These stories line up too well. Now, we know that this story is basically just mythology, okay? But I keep on telling you guys, in history, for us humans, mythology ideas are real, okay? So Robespierre remembers this mythology, or subconsciously knows this mythology, and he acted it out for the French people in order to inspire them, in order to fully realize the revolution, okay? So, in other words, the French Revolution was essentially a religious mythology, in which Robespierre volunteered to play the part of Jesus, right?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0032
+
+## seg-0033 / 00:37:47-00:39:05 / SPEAKER_00
+
+To be Jesus, you need to make the ultimate sacrifice. You need to sacrifice yourself in front of people, and that's what he did, okay? And after his death, people now see that he's Jesus, and now people are inspired to believe that there will be a second coming of Robespierre. Someone will come who will be Robespierre, and who will lead them to final victory against all their enemies. And this person's name is? Who? Who comes after Robespierre? Napoleon! Did you understand? So Napoleon takes advantage of all this mythology, and he uses it in order to become the king of France, okay? Robespierre refused to become king, but Napoleon will become king. And we'll discuss Napoleon next class. And this will end our French Revolution. Trilogy. All right. So this is the main argument, okay? So I've provided basically the basic story. But what's important for us is now to look at the evidence, okay? So we're going to look at the speeches of Robespierre in the context of French revolutionary history, all right?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0033
+
+## seg-0034 / 00:39:05-00:39:43 / SPEAKER_00
+
+To understand his mentality. Right now, what's really important is for us to understand his psychology and ask ourselves, if Robespierre really believed he was Jesus or a prophet, then do his speeches, do his words, actually provide evidence for this, okay? And I will show you that, in fact, there is evidence that he does, in fact, see himself as a prophet. But before I start the evidence, are you guys clear about this argument? Are you clear about the story I'm telling you? All right. Are you guys clear? All right, good. So let's look at the evidence.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0034
+
+## seg-0035 / 00:40:02-00:40:07 / UNKNOWN
+
+All right. Okay. Yep.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0035
+
+## seg-0036 / 00:40:13-00:41:19 / SPEAKER_00
+
+That is a great question. Does Robespierre, does Robespierre, know that people will know? He doesn't, right? He can't know. And in fact, if you look at the Bible, the Bible is very clear. Jesus himself was full of doubt. He was not completely sure that people will remember him, okay? But that's the problem of faith. If you truly believe in the people, you will have faith in the people. You understand? So it was an act of faith. Right? Robespierre never at any point said, hey, I am the prophet. I need to sacrifice myself in order to save the revolution, okay? He hints at that, but he never really says it outright. And so he himself is an extremely conflicted person. All right? There's a part of him that is pulling him towards his destiny. But there's also another part of him that resists against this, okay? Do you understand? We humans are extremely complicated. Robespierre was a human being.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0036
+
+## seg-0037 / 00:41:20-00:42:16 / SPEAKER_00
+
+Okay? Does that make sense? He can never be confident that this will work out in the end. But because he took that leap of faith, it radically changed human history. Okay? Because I believe, okay, and I will argue this, if he actually didn't do this, if he actually just became king, right, if he seized the crown like Napoleon did, the French Revolution would have failed. And we really wouldn't remember the French Revolution. And it really wouldn't change the course of human history. What I will show you next class is, because he did survive, and also because he sacrificed himself, it allowed Napoleon to defeat all of Europe. Okay? Without Robespierre's sacrifice, Napoleon could not have become Napoleon. All right? So does that make sense? No prophet ever truly believes he's the prophet. There's always a part of him that is doubtful, that is skeptical. Okay? But he persists nonetheless. And that's what makes him heroic.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0037
+
+## seg-0038 / 00:42:16-00:43:25 / SPEAKER_00
+
+Okay? And this is true for all prophets. Does that make sense? All right. French Revolution. Maximilien Robespierre. Okay. So some basic biographical details about Robespierre. Okay? He was born in a town called Arras, which is a province of France. And his family there for a few generations was bourgeoisie. They were all lawyers. His grandfather was a lawyer. His father was a lawyer. But his mother, Robespierre's mother, died giving birth to a younger brother. They both died. And then Robespierre's father left the family and died a few years later in Belgium or somewhere. So Robespierre went from bourgeoisie to petit bourgeoisie. His family is still wealthy, but not as wealthy as before. Robespierre becomes, at a very early age, okay, maybe seven or eight, he becomes the man of a family. Okay? He's responsible for taking care of his younger brother and his younger sister. His grandparents are still pretty wealthy. They send him to a Jesuit school where he excels academically.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0038
+
+## seg-0039 / 00:43:25-00:44:33 / SPEAKER_00
+
+Okay? His ambition is really to be Jean -Jacques Rousseau. He wants to be a philosopher. He wants to be like a poet philosopher like Jean -Jacques Rousseau. He writes a lot. He dreams of a better world. He's very idealistic. He becomes a lawyer. And as a lawyer, as I mentioned, he spends all his time defending the poor and the weak. He's a champion of the oppressed. The Estates General is organized, and he goes and becomes a representative. And as I said, over the next few years, he rises to the very top. So the question we're looking at today is, how did Robespierre fall? Okay. So as I mentioned, before the Estates General is called, France is in a, is facing economic financial collapse. And so King Louis XVI appoints Jacques Necker to become the finance minister. The thing about Necker is that he understands that, listen, if you want people to pay more taxes, you need to give them more political representation.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0039
+
+## seg-0040 / 00:44:34-00:45:27 / SPEAKER_00
+
+Okay? So Necker becomes a champion of the middle class. And he's worshipped by the middle class. Louis XVI doesn't really like what he has to say. And so they have this back and forth for many years where, Louis XVI fires him. The people revolt. Louis XVI hires him back, then fires him again. Okay? So this goes on for quite some time. Necker will also become, okay. Around this time, as the Estates General is being called in order to raise more taxes from the people, the Abbé Sayet, who's a clergyman, he writes a very influential pamphlet called What is the Third Estate? Right? Because the first, second, and third estates are being called. The first and second estates have all the power. The third estate has no power. So he writes a very influential pamphlet asking the question, what is the third estate?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0040
+
+## seg-0041 / 00:45:27-00:46:42 / SPEAKER_00
+
+And the answer, and his answer is, everything. Okay? The third estate is everyone in France. 99.99%. What has it been until now in the political order? Nothing. What does it demand to be? Something. Okay? So during this time, pamphlets are like the internet of today. It's how most people get their news. And the pamphlets become extremely violent and call for radical change. May 5th, 1789, the three estates meet. King Louis XVI refuses to acknowledge the third estate. He refuses to meet with them. He refuses to heed their demands. So what happens is the third estate form their own national assembly. Okay? And these people are radical. This is everyone in the middle class. The bourgeoisie, the Sainte -Colote. They want more political power. They want more political representation in government. While this is happening, people's mood is becoming more and more radical and violent. Okay? So the people perish. They don't have any bread.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0041
+
+## seg-0042 / 00:46:42-00:47:54 / SPEAKER_00
+
+They're hungry. They're unemployed. They feel hopeless. They feel the king is aloof. So a group of people, they storm the Bastille. The storming of the Bastille happens on July 5th. July 14th, 1789. This is important because the national day of France today is July 14th. Why? Because on July 14th, the people rose up and stormed the fortress of the Bastille in order to get gunpowder. In order to have their own army. Okay? Not only that, but they kill the governor of the Bastille and parade his head in front of everyone. Okay? So people's mood is extremely violent. And this violence is happening all around France. It's been decades of economic stagnation, poverty, military defeat. People want a revolution. August 27th, 1789, the National Assembly declares a new constitution. Okay? This new constitution is something called the Declaration of the Rights of Man and the Citizen. And it becomes a basis for most constitutions in the world.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0042
+
+## seg-0043 / 00:47:56-00:49:04 / SPEAKER_00
+
+Okay? This marks the beginning of a new age in human history. So let's look at a few passages from the Declaration of Rights of Man. For these reasons, the National Assembly do recognize and declare in the presence of the Supreme Being, the Supreme Being is a God of Reason, and with the hope of his blessing and favor, the following sacred rights of man and of citizens. Okay? Do you understand? These rights were not given to you by the government. They were given to you by God. And these rights can never be taken away from you. Okay? First, men are born and always continue free and equal in respect of their rights. Civil distinctions, therefore, can be found only on public utility. Okay? This is a radical statement. Everyone is equal in the eyes of God and therefore in the eyes of the law. If there's nobility, if there's a clergy, it's only because we agree to give them this distinction based on their utility.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0043
+
+## seg-0044 / 00:49:04-00:50:06 / SPEAKER_00
+
+Okay? Based on the fact that they do public good for us. Alright? So that's a radical statement. Second, the end of all political associations is the preservation of the natural and imprescriptible rights of man. And these rights are liberty, property, security, and resistance of oppression. Okay? These are the fundamental human rights. All government, all laws, all society must be based on these fundamental principles. Liberty, property, security, and oppression. Resistance of oppression. Okay? Third, the nation is essentially the source of all sovereignty nor can any individual or any body of man be entitled to any authority which is not expressly derived from it. So what this is saying is that we have a new God. It's a nation state. France becomes the first nation state. And all authority derives from the idea of the nation. Okay? And no power can supersede the power of the nation.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0044
+
+## seg-0045 / 00:50:06-00:50:59 / SPEAKER_00
+
+Okay? Does that make sense guys? Okay? This is the beginning of modernity, right? Four, political liberty consists in the power of doing whatever does not injure another. You can do whatever you want as long as you don't harm someone else. The exercise of the natural rights of every man has no other limits than those which are necessary to secure to every other man and these limits are determined only by the law. Five, the law ought to prohibit only actions hurtful to society. What is not prohibited by the law should not be hindered nor should anyone be compelled to that which the law does not require. Okay? So this is a new idea of freedom. Negative freedom. Okay? Before it was positive freedom where you had to do certain things to become a citizen. Now it's like if you're a citizen you can do whatever you want as long as you are not hurting someone else and you're not breaking the law.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0045
+
+## seg-0046 / 00:51:02-00:52:04 / SPEAKER_00
+
+And so this is the where the modern or our modern idea of freedom comes from. All right. Six, the law is an expression of the will of the community. All citizens have a right to concur either personally or by their representatives in its formation. It should be the same to all whether it protects or punishes and all being equal in its sight are equally eligible to all honors places and employments according to different abilities without any other distinction than that created by their virtues and talents. Not only is the government now responsive to the needs and demands of the people but the people can at any time become the government. Okay? So the people are above the government. Okay? So the hierarchy now is at the very top is the nation and then below the nation now is the people. Below now is the government. The government only exists in order to protect the rights of the people.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0046
+
+## seg-0047 / 00:52:04-00:52:54 / SPEAKER_00
+
+So the government only exists at the behest and concurrence of the people. All right. Number 10. No man ought to be molested on account of his opinions not even on account of his religious opinions provided his avowal of them does not disturb the public order established by law. Okay? Number 11. You are free to believe whatever you want. 11. The unrestrained communication of thoughts and opinions being one of the most precious rights of man every citizen may speak write and publish freely provided he is responsible for the abuse of this liberty in case determined by law. You are free to say whatever you want. Okay? This is the freedom of expression. Okay? So the Declaration of Rights of Man basically defines the new liberal order.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0047
+
+## seg-0048 / 00:52:54-00:52:54 / SPEAKER_01
+
+Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0048
+
+## seg-0049 / 00:52:56-00:53:59 / SPEAKER_00
+
+Last is 17. The right to property being invaluable and sacred no one ought to be deprived of it except in case of evident public necessity legally ascertained and on condition of a previous just indemnity. Okay? So property is also a sacred right. If you have property it is yours by the will of God. Obviously Robespierre does not like this idea. Okay? So Robespierre gives a speech arguing against this idea and he proposes an amendment to this idea. In the last session this is Robespierre speaking before the National Assembly. Okay? In the last session I took the floor in order to make a few important additions to the Declaration of the Rights of Man and of the Citizen. It was my intention to expand your Declaration of the Theory of Property by the addition of a few articles. Let the word property frighten no one. Filthy souls who value only your money I will not violate
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0049
+
+## seg-0050 / 00:53:59-00:54:56 / SPEAKER_00
+
+your treasures even though I know how unclean the source from which they are from which they come. Okay? So Robespierre is saying to everyone I know you guys are rich and you all want to protect your property I won't take away your property but please remember everyone of you stole this from someone else. This is how you became rich through theft through crimes. Okay? So Robespierre has a contempt for the wealthy. Ask any one of these traders in human flesh what is property? Okay? How do people make money? Through the slave trade basically. He will show you the long coffin called a ship in which men are packed together and chained men who seem yet alive and he will tell you bought it head for head. It's a known fact that at this time in history a lot of people are getting rich off the slave trade. Okay? Question this noble man who has goods
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0050
+
+## seg-0051 / 00:54:56-00:55:58 / SPEAKER_00
+
+and subjects and who believes that the world will come to an end now that he no longer possesses them and he will expound similar ideas on property to you. Okay? Rich people love their land. They love their wealth. Question the members of the Carpathian dynasty and they will tell you that the most sacred property is the right of inheritance that they have the ancient right of oppression the 25 million persons now populating the territory of France of destroying them of treating them legally and monarchically according to their own royal will. So what Wilson is saying is that property cannot be a sacred right because property requires the oppression of others. Right? How do you make money off land? By getting people to farm them. Right? You're exploiting people. You're exploiting people. Therefore this is a contradiction. If you're saying that property is a sacred right then you're saying that God gave people this right. But God would never give you the power to oppress others.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0051
+
+## seg-0052 / 00:55:58-00:56:55 / SPEAKER_00
+
+That makes no sense. You have increased the number of articles in order to afford the largest possible latitude the right to one's property and yet you have not added a word in limitation of this right with the result that the declaration might make the impression of having been created not for the poor but for the rich the speculators for the stock exchange troopers to remedy these defects I propose the following addition. So he's saying at this point in the revolution the entire middle class including the bourgeoisie are participating in this revolution. But he's also saying that you the bourgeoisie have written this constitution for your benefit and not for the benefit of everyone for the people. So we need to make changes. First property is that right held by each citizen of that portion of the general goods guaranteed him by the laws. So it's society that gives people property not God who gives people property.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0052
+
+## seg-0053 / 00:56:55-00:57:57 / SPEAKER_00
+
+There's a difference. Second the right to property like all other rights is limited by the obligation to regard the rights of others. So when you speak you can do whatever you want as long as you don't harm others. Well what Roesler is saying is that's also part of property. You can own property as long as you are doing so to protect others. And the third is property may not cause any detriment to our security or to our liberty or our existence or to the property of our neighbor. Okay? Owning property should also not harm the national interest as well. So he's putting severe limitations on the idea of property because what Roesler wants is a society based on equality of all. Okay? Now as this revolution is happening there's a man named Joseph Ignatz Guillotin who will create something called the guillotine. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0053
+
+## seg-0054 / 00:57:57-00:59:11 / SPEAKER_00
+
+He's a doctor and he wants to create a more humane way of executing people. The guillotine will become the main mechanism of terror during the French Revolution. Alright? So if you are an enemy of the state they will guillotine you. Um as all this is happening the king is trying to work with the National Assembly but the king is also conspiring against the National Assembly by trying to write to his family and friends overseas to raise armies against the revolution. And um on June 20 to 21 1792 the king and queen actually try to flee France but they're recognized and they're captured and sent back to Paris. A month later August 10th the people actually storm the king's residence and um basically his Swiss Guard the mercenaries who are paid to protect him. Okay? Finally they decide to just kill this guy because he's been he's threatening the revolution. Okay? King Louis is always trying to conspire against the revolution so they break the taboo.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0054
+
+## seg-0055 / 00:59:11-01:00:11 / SPEAKER_00
+
+Okay? Because remember many people many people believe that the king is a son of God and they kill him. Okay? And Rose Pier is explaining why. And it's very simple. Okay? Louis may die in order that the revolution may live. It's that simple. What matters first and foremost is the revolution. In order to advance the revolution everyone is expandable including Rose Pier. Okay? Rose Pier is only the prophet of the revolution he is not the revolution itself. Um as this is happening there is now counter -revolutionary. So in the Vendée which is in West France peasants are rebelling against the French Revolution. Why? Because French Revolution is calling for a secular state. It's calling for negation of religion. And um the thing about peasants is they love their religion. Okay? So the peasants are now rising up against the French Revolution and it is a brutal war of genocide.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0055
+
+## seg-0056 / 01:00:12-01:01:19 / SPEAKER_00
+
+Okay? There are massacres and atrocities on both sides. Um on May uh 31st the French takes command of the National Assembly. This is something called the because he's in charge of a faction called the mountain. Okay? This is French for mountain. And of course he then begins the Ring of Terror. Okay? And we discussed why he starts the Ring of Terror. He needs to unite the energies of people to commit them fully to the revolution. Okay? We can't go back. There's no coming back after this Ring of Terror. We have too many enemies now. Um the thing about the um Ring of Terror is he doesn't he kills his enemies but more importantly he's also killing his political allies. Okay? The people on the left he's also killing as well because they also threaten the revolution. So this is George uh Denton and he's one of the leaders of the Cordeliers which
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0056
+
+## seg-0057 / 01:01:19-01:02:22 / SPEAKER_00
+
+as as I mentioned is a very left -wing political group calling for the uh for universal suffrage for property rights for the Sainte -Colote and he's he's seen as a threat to the revolution and like Rose Pier he's also fanatical he's a fanatical prophet. So the National Assembly votes to condemn him to death and he says in a pantheon here is my head it will it will answer for everything my life is a burden to me I shall be glad to be rid of it. Okay? He's like screw you all I don't care I have done God's work if I must rest I shall rest. Okay? And then he's guillotined. Um Jacques Herbert is the leader of the Herbertists he's a journalist and he's calling for the complete abolishment of the Catholic Church and of course the peasants don't like that the peasants would all unite against you so he's seen as a threat to
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0057
+
+## seg-0058 / 01:02:22-01:03:25 / SPEAKER_00
+
+the revolution even though he is a close ally of Rose Pier and Rose Pier also has him killed. Okay? So Rose Pier is not just killing his enemies he's also killing his friends as well and it's all in order to advance the revolution. Um so now Rose Pier needs to explain why this is happening. Okay? And he presents a vision of the revolution which tells us that he sees himself as a prophet. He's trying to build a new world. Right now there's a war between good and evil and good must triumph no matter what the cost. Alright so his speech before the National Assembly to explain the Ring of Terror to judge by the power and the will of a Republican soldier it will be easy to defeat the English and the traitors but we have another task of no less importance but unfortunately of greater difficulty. This task is a task of frustrating but an uninterrupted access of energy.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0058
+
+## seg-0059 / 01:03:26-01:04:30 / SPEAKER_00
+
+Okay? So the Ring of Terror is to energize the people. Right? The eternal intrigues of all enemies of freedom within the country and of paving the way for the victory of the principles on which the general well depends. Okay? So our true enemies are not the English the Austrians the Prussians our true enemies are those traitors within us. They're the ones who most threaten the revolution. This is another speech okay? What's the goal toward which we are heading? Why are we doing this? Why the Ring of Terror? The peaceful enjoyment of liberty and equality. Kingdom of Kingdom on Earth Utopia Paradise. Okay? Justice and equality. The Ring of that eternal justice whose laws have been inscribed not in marble and stone but in the hearts of all men. Even in that of the slave who forgets them and in that of the tyrant who denies them. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0059
+
+## seg-0060 / 01:04:30-01:05:30 / SPEAKER_00
+
+This law this justice this equality is what God promised us because it's implanted in our hearts. We all yearn for this world when we are all equal. When justice prevails. Okay? We are fighting for the freedom and liberation of all humanity from oppression. That's why we're fighting. We seek and order things in which all the base and cruel passions are in chains. Okay? So last class we discussed Jean -Jacques Rousseau. And remember Jean -Jacques Rousseau his most famous line is we are born free but we are all in chains. Okay? So this is a rewriting of that idea. So what keeps us in chains are our emotions. So we want a world in which our reason prevails and we are in control of our emotions. Then we will be truly liberated. All the beneficent and generous passions are awakened by the laws where ambition becomes the desire to merit glory and to serve our country. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0060
+
+## seg-0061 / 01:05:30-01:06:32 / SPEAKER_00
+
+So your ambition is not to gain wealth at the expense of others. It is to the community grow and thrive. Where distinctions are born only of equality itself. Where the citizen is subject to the magistrate the magistrate to the people and the people to justice. Where our country assures the well -being of each individual and where each individual proudly enjoys our country's prosperity and glory. Where every soul grows greater through the continual flow of republican sentiments and by the need of deserving the esteem of a great people. Where the arts are the adornments of the liberty which ennobles them and calms the source of public wealth rather than solely the monstrous opulence of a few families. Guys, he's talking about communism. He's talking about a world in which everyone is equal. Everyone is free to do what he or she wants and this will lead to the general prosperity, wealth, and happiness of the entire nation. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0061
+
+## seg-0062 / 01:06:32-01:07:41 / SPEAKER_00
+
+So, Rose Pier is dreaming of a world in which everyone is equal. The great purity of the French Revolution's fundamental elements, the very solemnity of its objective is precisely what creates our strength and our weakness. Our idealism is what gives us power. Okay? Our strength because it gives us the victory of truth over deception and our weakness because it rallies against us all men who are vicious, all those who in their hearts plan to despoil the people and all those who have despoiled them in what impunity and those who reject liberty as a personal calamity and those who have embraced the revolution as a livelihood and the republic as it were an object of prey. Okay? So, we are fighting a war of good versus evil. Among us are men of good who want to build a better world, who care for others but there are also speculators among us who use the revolution in order to advance his or her interests.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0062
+
+## seg-0063 / 01:07:41-01:08:43 / SPEAKER_00
+
+Okay? That's why we're fighting this war. We're trying to rid the world of those who seek to exploit others, who prey on others. Okay? Who enjoy being bad. That's why we're fighting this war. Hence the defection of so many ambitious or greedy men who since the beginning have abandoned us along the way because they had not begun the voyage in order to reach the same goal. Okay? One could say that the two contrary geniuses that have been depicted competing for control of the realm of nature are fighting in this great epoch of human history to shape irrevocably the destiny of the world. And that, friends, is the theater of this mighty struggle. Okay? This is the end of the world. This is the end of the world. This is good versus evil. Good must triumph. It must. So every sacrifice must be made. Without all the tyrants encircle
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0063
+
+## seg-0064 / 01:08:43-01:09:50 / SPEAKER_00
+
+you, within all the friends of tyranny conspire, they will conspire until crime has been robbed in this situation. The first maximum of your policy ought to be to lead the people by reason and the people's enemy by terror. Okay? This reign of terror, it is about the ultimate victory against evil. We are killing our enemies because our enemies destroy want to destroy all good in the world. If the main spring of popular government in peacetime is virtue, amid revolution it is, at the same time, virtue and terror. Virtue, without which terror is fatal. Terror, without which virtue is impotent. Terror is nothing but prompt, severe, inflexible justice. It is, therefore, an emanation of virtue. It is less a special principle than a consequence of a general principle of democracy applied to our country's most pressing needs. We have to be as brutal as our enemies if we are truly to promote democracy. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0064
+
+## seg-0065 / 01:09:50-01:11:03 / SPEAKER_00
+
+There's no other choice. All right. So, the Ring of Terror is just one policy that Robespierre adopts in order to save the revolution. But he also adopts a new religion called the Festival of the Cold of the Supreme Being. Okay? This is a new religion where God is the God of Reason. All right? So, Robespierre is adopting a lot of different policies. And again, he is working selflessly in order to promote the revolution. But eventually, he gets exhausted. Okay? He just breaks down. He has a nervous breakdown because it's too hard. Like, he wants people to be virtuous. He wants people to be reasonable. And everywhere he sees, like, he sees everyone in front of him and everyone's plotting against him. Everyone's trying to exploit the revolution for his or her own benefit. Okay? And eventually, Robespierre is brought down and he is guillotined. Okay? But, let us look at his last speech to fully understand how he sees the revolution and his own death.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0065
+
+## seg-0066 / 01:11:03-01:12:04 / SPEAKER_00
+
+Okay? This is his last speech before the National Assembly. This is two days before he is to be executed. Okay? This is July 26, 1794. The enemies of the Republic called me tyrant. Okay? The National Assembly is now calling for his execution because he's a tyrant. Were I such, they would grovel at my feet. I would gorge them with gold. I should grant them impunity for their crimes and they would be grateful. Right? If I'm a tyrant, then I would make political alliances. I would bribe people. I would benefit people. But I don't do that. I am incorruptible. I am virtuous. Were I such, the kings we have vanquished far from denouncing Robespierre would lend me their guilty support. Okay? So, the kings of England, Netherlands, France, Austria, Prussia, Russia are all aligned against the French Revolution. Why? Because they are afraid of revolution at home. Right?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0066
+
+## seg-0067 / 01:12:04-01:13:11 / SPEAKER_00
+
+So Robespierre is saying, listen, if I just became a king, they would marry their daughter to me and we would all be one big happy family. Okay? They would not seem as a threat. There would be a covenant between them and me. Tyranny must have tools. But the enemies of tyranny, immortality, what tyrant is my protector? To what faction do I belong? Yourselves. Everything I've done is for the people of France and you know this. Since the beginning of the revolution has crushed and annihilated so many detected traitors. You, the people, our principles are that faction. A faction to which I am devoted and against which all the scoundrelism of the day is banded. Okay? It is because I, Robespierre, am the only virtuous person who has fought for the revolution. Now do you conspire against me. The confirmation of the republic has been my object and I know that the republic can be established only on the internal basis of morality.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0067
+
+## seg-0068 / 01:13:12-01:14:17 / SPEAKER_00
+
+Okay? Only if we are virtuous can we win out in the end against evil. Against me, against those who hold kindred principles, the league is formed. My life, oh my life, I abandon without a regret. I see the future. I am the prophet. I have seen the past and I foresee the future. You will kill me. I accept my fate. What friend of his country would wish to survive the moment when he could no longer serve it? When he could no longer defend innocence against oppression? You have taken away my powers? Fine, take away my life as well because I serve, I live only to serve. Wherefore should I continue in an order of things where intrigue eternally triumphs over truth? Mocked were passions the most abject or fears the most absurd override the sacred interests of humanity. The revolution has been polluted. It is now corrupt. If you take my life I will be glad to give it to you.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0068
+
+## seg-0069 / 01:14:17-01:15:33 / SPEAKER_00
+
+Question history and learn how all the defenders of liberty in all times have been overwhelmed by calamity. All prophets in their time were prosecuted in Jesus and Socrates. But their traducers died also. The good and the bad disappear alike from the earth but in very different conditions. O Frenchmen! O my countrymen! Let not your enemies with their desolating doctrines degrade your souls and enervate your virtues. Now is the time to stand up and fight for the revolution. I may die but the revolution must live. Death is not an eternal sleep. Citizens, efface the tomb that mortal, graven by sacrilegious hands which breaths over all nature a funeral crepe, takes from oppressed innocents its support and affronts the beneficent the desperation of death. Inscribe, rather, therefore, these words. Death is the commencement of immortality. I leave to the oppressors of the people a terrible testament which I proclaim with the independence befitting one whose career is so nearly ended.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0069
+
+## seg-0070 / 01:15:33-01:16:39 / SPEAKER_00
+
+It is the awful truth. Thou shall die. Yes, today I die but so will you. And when we all die we must face our Maker. We must all see God and we must account for our lives. I go to God in full conscious. I am happy to go directly to God and await my fate. And these are his last words. Why should I wish to live under system where intrigue triumphs over truth, where justice is a lie, where the basest passions and the most ridiculous of terrors supersede in man's heart the most sacred duties? Why should I regret to escape from the eternal torture of seeing this horrible secession of traitors who, by concealing the turpitude of the greater the cowardice or their crimes? You, members of the National Assembly, were elected to serve the people. You have only served yourself.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0070
+
+## seg-0071 / 01:16:39-01:18:00 / SPEAKER_00
+
+You have only fought for your own economic interests. And because you see me as a threat, you see Robespierre as a man of purity, of virtue, of reason, you conspire against me. And I am happy to be condemned to death from this evil world that you have created. But upon my death, there shall come vengeance. Okay? So, that's it, guys. That's Robespierre. All right? So, does this make sense? Okay? He sees himself as a prophet who must save the revolution. At first, he believes that he must kill his enemies, the enemies of the revolution, in order to save the revolution. But then, he recognizes that no, no, no. This ring of terror, it's not really about energizing the people. It's really about eliminating the enemies of his allies. Okay? It's really about political intrigue. And so, he recognizes that if this revolution is to really triumph, then he must make the ultimate sacrifice.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0071
+
+## seg-0072 / 01:18:00-01:20:00 / SPEAKER_00
+
+Rather than try to seize the crown, he must give his life for the revolution to set an example for everyone, especially the oppressed and the weak. And, after he dies, this will energize France. It will unite France. It becomes a hurricane. Okay? The French Revolution now becomes a hurricane. All right? And Napoleon will come. He will take this hurricane and he will unleash it on the entire world. Okay? We will look at Napoleon. But, does this make sense to you guys? Any questions? Yeah, go. Okay. Okay. So, the question is, are people conscious of what Robespierre is doing? And, I know this is a hard argument. And, I know this is hard to understand. But, this is all happening subconsciously. Okay? That people are not aware of it. Okay? So, the argument goes like this. First of all, mythology is the collective subconscious. Okay? Mythology is the collective subconscious. That's the first idea. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0072
+
+## seg-0073 / 01:20:00-01:21:33 / SPEAKER_00
+
+Does that make sense to you? Okay? Second idea is this. When authority breaks down, the mythology takes over. Okay? Do you understand? Okay? The argument is this. Usually, someone in authority orders people around. Right? Someone in authority, whether it's a general or a priest or a teacher, tells you what to do. But, when you deny this authority, when you reject this authority, what tells you what to do? Well, mythology. Okay? Your collective subconscious. Okay? You're guided by your collective subconscious, even though you don't know it. Okay? The third argument is that mythology is essentially a play. Okay? A mythology is a play. It's a story. And, this play requires actors. Okay? So, the leaders become now the actors. This play must take place because that's what people want. Now, you need actors. You need volunteers to come and be the actors in this play. So, whoever volunteers now must play that role and then people will follow that person.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0073
+
+## seg-0074 / 01:21:33-01:22:37 / SPEAKER_00
+
+Okay? So, Robespierre played the role of Jesus so people followed him. Even though people don't really know why they're following him. Okay? Does that make sense? But, they're following him because he's willing to play the role that's required of him in this play that's being acted out during the French Revolution. Okay? But, and this is really important, this play only works if people play the role they're supposed to play. When they speak the lines they're supposed to speak, right? That's really important. Because what happens is if people break the role and say to people, listen, I was just acting. The entire play dies. Okay? The play dies. Why is this important? Because in the next class we will look at Napoleon. Okay? In the beginning Napoleon's playing his role. Right? He's the messiah come to earth to lead the French people to final victory against evil. To unite the world in good.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0074
+
+## seg-0075 / 01:22:37-01:23:45 / SPEAKER_00
+
+He's playing that role. But then he does something that he should not do and which breaks the play. And which is what? Do you guys know? What does Napoleon do that Robespierre doesn't do? That's right. He declares himself emperor. And you're not supposed to do that! Okay? If you're Robespierre you would never declare yourself emperor. You can make yourself first citizen. You can make yourself council, dictator, whatever. But you cannot make yourself emperor because now you're like everyone else. Right? And when he does that this is very important he destroys the French Revolution. And after that France is now destroyed by their enemies. Napoleon falls. Okay? Does that make sense guys? So only if you are playing your role can this play work out. Once this play works out people are energized to sacrifice their lives. Okay? The reason why Napoleon at first could defeat all his enemies is his soldiers were not afraid to die.
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0075
+
+## seg-0076 / 01:23:45-01:25:00 / SPEAKER_00
+
+Okay? They didn't care. They were like well you know if we die we're going to heaven. That's what Robespierre did. Okay? But we'll discuss this in the next class. Okay? Does that make sense? So it's a hard argument there is a subconscious operating system to society that we don't ever see. Okay? That we don't ever talk about. But once we see this okay? Then it helps us explain the world we live in. It explains a lot of history to us. But you need to be able to see it first. And most people don't see it. Okay? If you look at the traditional accounts of the French Revolution it's always these economic political I'm presenting a different idea here. Does that make sense? Great. Any other questions? Yeah? No. No. The Ring of Terror was a form of human sacrifice. Okay? They literally took their enemies and they killed them in front of everyone. Right?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0076
+
+## seg-0077 / 01:25:00-01:26:03 / SPEAKER_00
+
+And it's no different from the Aztecs no different from the Vikings no different from the Romans. Okay? These are all societies that practice human sacrifice in order to unite the people right? To galvanize the people energize them create blood lust to terrorize their enemies and to break taboo to tell to send a message that we will never go back. We are going towards total victory. We won't surrender we won't compromise. Okay? This has nothing to do with Jesus. In fact Jesus the story of Jesus is to tell us we no longer need human sacrifice because Jesus made the ultimate sacrifice. Okay? Does that make sense? Okay? But um but the Ring of Terror what it did was unleash all this energy. Okay? And this energy it's polluted energy because it's it's it's based on violence on vengeance on hatred. Right? So what Wiltshire decides to do and it's very clever of him right? And how do you purify this energy?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0077
+
+## seg-0078 / 01:26:03-01:26:47 / SPEAKER_00
+
+By becoming a scapegoat. By sacrificing yourself. By telling the French people the Ring of Terror was not your fault it was my fault. Blame me. Sacrifice me. Okay? For what happened. I will take the guilt for the nation. I will cleanse cleanse you of your sins so that you may move on. Okay? Does that does that make sense? Okay? Good. Any more questions? Great questions guys. Okay. Alright. So this ends part two of the French Revolution. Next class on Tuesday is Napoleon. And this will end the French Revolution trilogy. Okay?
+
+Ref: video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078
