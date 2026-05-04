@@ -1,0 +1,187 @@
+{
+  "packet_id": "predictive-history-lagsxfvlofk-semantics-pkt-0006",
+  "source_id": "video:predictive-history-lagsxfvlofk",
+  "source_date": "2025-05-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0041",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the British-versus-European political contrast with an ice-cream example for general will, then moves from British practicality into Bentham's utilitarian calculus and Mill's classical liberalism.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0046",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He summarizes why Britain conquered: historical, geographic, and demographic pressure forced innovation; empire's legacy survives in the Commonwealth; and the British Navy maintained markets and trade routes for finished goods.",
+      "speaker_attribution": "Jiang lecture voice, with low-confidence transcript quality in seg-0047",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0041",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0048"
+      ],
+      "note": "Continuous Jiang monologue. Segment 0047 is severely degraded ASR and should be used only for broad transition, not fine claims.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines the European general will as what is in everyone's best interest after reasoned reflection, not what the majority currently wants.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Political-philosophy definition stated on 2025-05-08",
+      "topic_tags": ["general-will", "rousseau", "reason"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He summarizes the British and American tradition as practical and utilitarian, asking what works, while the European tradition asks what is good or right and becomes romantic or idealistic.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Comparative model stated on 2025-05-08",
+      "topic_tags": ["british-enlightenment", "european-enlightenment", "pragmatism"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Rousseau's line of thinking gives rise to communism and Nazism, while Locke's gives rise to the U.S. Constitution.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Historical-philosophical claim stated on 2025-05-08",
+      "topic_tags": ["rousseau", "locke", "communism", "nazism", "us-constitution"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bentham's utilitarianism is presented as a mathematical social philosophy that maximizes pleasure and reduces pain, arriving at liberal tolerance through calculation.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0042",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Political-philosophy interpretation stated on 2025-05-08",
+      "topic_tags": ["bentham", "utilitarianism", "liberalism"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mill refines utilitarianism into classical liberalism: people may do and say what they want if they do not harm others, and open debate lets society progress.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Political-philosophy interpretation stated on 2025-05-08",
+      "topic_tags": ["john-stuart-mill", "classical-liberalism", "free-speech"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mill's crucial refinement is that pleasure divides into short-term pleasure and long-term happiness, so what feels good now is not necessarily good for life.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0045",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Political-philosophy interpretation stated on 2025-05-08",
+      "topic_tags": ["mill", "pleasure", "happiness"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The British Empire's main purpose, in Jiang's summary, was to maintain global trade by opening markets and securing sea routes for Britain's finished goods.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Empire model summarized on 2025-05-08",
+      "topic_tags": ["british-navy", "global-trade", "industrialization"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0042"
+      ],
+      "moment": "The British and later Americans ask the smaller, colder question: not what is good, but what works.",
+      "source_phrase": "what works",
+      "why_it_matters": "It is the political-philosophy hinge of the episode's Anglo-American tradition.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0045"
+      ],
+      "moment": "Mill's pleasure test moves from ice cream and TikTok to mountains, Shakespeare, and Dante.",
+      "source_phrase": "short-term pleasure and there's long-term pleasure",
+      "why_it_matters": "It keeps liberalism from becoming mere indulgence and turns it into cultivated happiness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0048"
+      ],
+      "moment": "The navy's empire is not only conquest; it is markets, trade routes, pirates, and finished goods.",
+      "source_phrase": "maintain safe trade routes against pirates",
+      "why_it_matters": "It reframes naval power as commercial infrastructure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "utilitarianism",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0042",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Bentham's philosophy that pleasure and pain govern motivation and society should maximize pleasure while reducing pain.",
+      "confidence": "high"
+    },
+    {
+      "term": "classical liberalism",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Mill's refined liberalism where people may act and speak freely so long as they do not harm others.",
+      "confidence": "high"
+    },
+    {
+      "term": "British Commonwealth",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Post-imperial community of English-speaking nations that Jiang treats as a surviving legacy of British culture and empire.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0047"
+      ],
+      "note": "Segment 0047 contains severe ASR corruption; the semantic pass avoids extracting specific claims from it."
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0042",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0043"
+      ],
+      "note": "Transcript renders Jeremy Bentham as 'Jeremy Bantham'; context indicates Bentham."
+    }
+  ]
+}

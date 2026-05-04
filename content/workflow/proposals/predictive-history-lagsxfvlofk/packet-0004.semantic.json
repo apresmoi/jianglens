@@ -1,0 +1,182 @@
+{
+  "packet_id": "predictive-history-lagsxfvlofk-semantics-pkt-0004",
+  "source_id": "video:predictive-history-lagsxfvlofk",
+  "source_date": "2025-05-08",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0025",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang connects Puritan and pilgrim religious dissent to America, then returns to England's civil war, Cromwell's failed theocracy, the Restoration, and the Glorious Revolution that makes Parliament sovereign.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0029",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He slows down for finance: Parliament solves the king-credit problem, the Bank of England makes lending to the nation safer than lending to kings, and central banking lets Britain borrow from people, foreigners, and the future.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0032"
+      ],
+      "note": "'Does that make sense, guys?' is a Jiang comprehension check, not a captured student question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says America was founded by pilgrims seeking to build a kingdom of heaven on earth, while Puritans stayed in England and fought the Civil War.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0025",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2025-05-08",
+      "topic_tags": ["pilgrims", "puritans", "america", "theocracy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cromwell's Commonwealth is described as a failed Puritan centralized theocracy because it violated England's independent and autonomous tradition.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0026",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture",
+      "topic_tags": ["cromwell", "commonwealth", "puritanism"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Glorious Revolution officially establishes Parliament as Britain's ultimate sovereign authority over the king.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0027",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Historical constitutional claim stated on 2025-05-08",
+      "topic_tags": ["glorious-revolution", "parliament", "sovereignty"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Parliamentary sovereignty energized the middle class by protecting patents, trademarks, and the incentive to get rich, helping lead to the Industrial Revolution.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0028",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Historical-economic model stated on 2025-05-08",
+      "topic_tags": ["middle-class", "industrial-revolution", "property-rights"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Bank of England solves the credit crisis by turning loans from personal loans to kings into loans to the nation, making repayment survive the death or deposition of any monarch.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0029",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Central-bank model stated on 2025-05-08",
+      "topic_tags": ["bank-of-england", "credit", "parliament"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says central banking let Britain borrow from its people, foreigners, and the future through money-printing and bonds, giving it effectively infinite war financing.",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0030",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Finance-war model stated on 2025-05-08",
+      "topic_tags": ["central-banking", "war-finance", "napoleon"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0026"
+      ],
+      "moment": "America enters the lecture as a civilization founded by persecuted separatists trying to build heaven on earth.",
+      "source_phrase": "build a kingdom of heaven on earth",
+      "why_it_matters": "It sets up the later American conflict between theocratic and Enlightenment strands.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0028"
+      ],
+      "moment": "The Glorious Revolution turns the king into a figurehead and lets the middle class imagine getting rich as a political project.",
+      "source_phrase": "Parliament is the ultimate authority",
+      "why_it_matters": "It links constitutional structure directly to economic motivation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0032"
+      ],
+      "moment": "Central banking is defined as mortgaging a nation's future for total war.",
+      "source_phrase": "mortgage your nation's future in the pursuit of total war",
+      "why_it_matters": "This is the lecture's sharpest finance claim and later explains Napoleon, world wars, and American foreign policy.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Glorious Revolution",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "The 1688 replacement of James II by William of Orange, presented as the moment Parliament becomes sovereign over the king.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bank of England",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0029",
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Central banking institution that Jiang says let Britain borrow against national trust and finance wars at unmatched scale.",
+      "confidence": "high"
+    },
+    {
+      "term": "central banking",
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A system that lets a nation borrow from present citizens, foreigners, and the future by issuing money and debt.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang says the central-banking argument will later explain World War I, World War II, and American foreign policy toward the end of the semester.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-lagsxfvlofk@transcript:v1#seg-0029"
+      ],
+      "note": "Transcript renders 'the charge of second'; context likely refers to Charles II borrowing from London goldsmiths."
+    }
+  ]
+}
