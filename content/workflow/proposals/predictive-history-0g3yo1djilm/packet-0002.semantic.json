@@ -1,0 +1,138 @@
+{
+  "packet_id": "predictive-history-0g3yo1djilm-semantics-pkt-0002",
+  "source_id": "video:predictive-history-0g3yo1djilm",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0009",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "A student suggests unaffordable housing benefits owners and real estate interests; Jiang accepts this and turns it into a model of policy captured by vested interests rather than national welfare.",
+      "speaker_attribution": "Student answer followed by Jiang response.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0011",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0012",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0013",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that Canada is increasing immigration despite housing, inflation, and ethnic tension, and that Indian immigration is becoming both a precarious labor stream and a powerful political force.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0015",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how local Canadians are doing; Jiang answers that immigrants suffer but locals suffer even more because economic decline, job pressure, prices, and immigration combine.",
+      "speaker_attribution": "Student question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang claims Canadian housing policy is controlled by vested interests, especially property owners, who benefit when immigration increases demand while supply remains constrained.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0009",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Policy diagnosis as of 2025-08-29.",
+      "topic_tags": ["housing", "vested-interests", "property-owners", "canada"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts that if Canadian demographic trends continue for 40 to 50 years there will be very few white Canadians, producing conflict and tension.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0011"],
+      "temporal_scope": "Forward-looking demographic claim from 2025-08-29.",
+      "topic_tags": ["canada", "demography", "ethnic-tension"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Canada aims for 100 million people by 2100 and expects much of the increase to come from India and probably China.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0012"],
+      "temporal_scope": "Forward-looking policy claim from 2025-08-29.",
+      "topic_tags": ["canada", "immigration", "population", "india", "china"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Indian students in Canada are economically exploited while Indians as a group are becoming unusually effective in Canadian politics because of democratic organizing skills.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0012",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0013",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Diagnosis as of 2025-08-29.",
+      "topic_tags": ["indian-diaspora", "student-visas", "canadian-politics", "collective-action"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In answer to the student, Jiang says locals suffer even more than immigrants because immigration adds job and price pressure to an already declining economy.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0015",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Diagnosis as of 2025-08-29.",
+      "topic_tags": ["local-population", "young-people", "economic-decline", "ethnic-tension"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0010"],
+      "moment": "Policy is not governed by the nation or the people but by the interests that profit from the crisis.",
+      "source_phrase": "policy is not being controlled by what's best for the nation and the people",
+      "why_it_matters": "This is the first explicit 'who benefits' logic that later becomes the rich-pensioner model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0014"],
+      "moment": "The immigrant group that arrives as labor becomes a possible future ruling bloc.",
+      "source_phrase": "there could be a situation where the Indians take over the Canadian government",
+      "why_it_matters": "It gives the lecture's immigration section its political stakes, beyond housing or wages.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "vested interests",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0010"],
+      "definition_or_usage": "Groups that shape policy because they make money from the process, here real estate developers and property owners.",
+      "confidence": "high"
+    },
+    {
+      "term": "population replacement theory",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0014"],
+      "definition_or_usage": "Used here for a disputed theory that native Canadians could be displaced politically and demographically by Indian immigration.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0012"],
+      "note": "Canada reaching 100 million by 2100 is presented as a future policy target in this 2025-08-29 source.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0013"],
+      "note": "The transcript says 243 parliamentary seats, which may be ASR or factual noise; reuse should be source-attributed rather than normalized."
+    }
+  ]
+}

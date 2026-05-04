@@ -1,0 +1,163 @@
+{
+  "packet_id": "predictive-history-0g3yo1djilm-semantics-pkt-0006",
+  "source_id": "video:predictive-history-0g3yo1djilm",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0041",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines the generational character of gerontocracy: young people are rebellious and creative, mature people seek slow growth and consensus, and elderly rulers become reactionary, stubborn, and safety-obsessed.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0043",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0044",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He projects gerontocracy into police-state administration, surveillance, online-speech limits, digital currency, and monitored transactions.",
+      "speaker_attribution": "Jiang; the brief 'Oh!' is likely an audience reaction or fragment.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0046",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "He extends the model to microchip implants, immigrant labor to care for elderly people, prisons, and war, then says this is what death by gerontocracy means.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether young people can overthrow or solve a society controlled by elders who exploit them.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0045"],
+      "note": "A one-word 'Oh!' is labeled UNKNOWN and appears to be a reaction or ASR fragment rather than substantive content.",
+      "suggested_speaker": "audience reaction or unclear",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang models age cohorts as political temperaments: young people want change and creativity, mature people want gradual growth and consensus, and elderly people become reactionary, safety-first, and stubborn.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0041"],
+      "temporal_scope": "Model in the 2025-08-29 lecture.",
+      "topic_tags": ["age-cohorts", "reactionary-politics", "safety", "creativity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts a gerontocratic world will respond to viruses with lockdowns because old people prioritize safety from germs.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0042"],
+      "temporal_scope": "Forward-looking diagnosis from 2025-08-29.",
+      "topic_tags": ["lockdown", "safety", "gerontocracy", "virus"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines police state less as brutal police and more as intrusive government interference into personal life with no individual freedom.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0042",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": ["police-state", "individual-freedom", "surveillance", "canada"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats digital currency as financial repression because eliminating cash enables transaction monitoring and limits on what people can buy.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0044"],
+      "temporal_scope": "Prediction and definition on 2025-08-29.",
+      "topic_tags": ["digital-currency", "financial-repression", "cash", "surveillance"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts gerontocracy will demand immigrant and student labor to care for elderly people, more prisons because elderly people fear criminals, and recurring wars because elderly people can send young people to die.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0046",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Forward-looking model from 2025-08-29.",
+      "topic_tags": ["immigrant-labor", "prisons", "war", "gerontocracy", "young-people"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0041"],
+      "moment": "The elderly are defined not as wise but as reactionary, safety-obsessed, and stubborn.",
+      "source_phrase": "No, no, no, guys. No",
+      "why_it_matters": "This reversal attacks the comforting cultural story that age naturally brings wisdom.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0043"],
+      "moment": "The police state appears as nice police plus total intrusion into family life.",
+      "source_phrase": "Intrusive government interference into your personal lives",
+      "why_it_matters": "It shifts authoritarianism from dramatic violence to everyday managed dependency.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047"],
+      "moment": "Death by gerontocracy culminates in old people sending young people to die for glory.",
+      "source_phrase": "Elderly people are perfectly happy to send young people to die for their glory",
+      "why_it_matters": "This is the lecture title's most direct moral charge.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "police state",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0043"],
+      "definition_or_usage": "Jiang defines it as intrusive government interference into personal life, not necessarily police brutality.",
+      "confidence": "high"
+    },
+    {
+      "term": "financial repression",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0044"],
+      "definition_or_usage": "The restriction and monitoring of transactions through digital currency after cash is eliminated.",
+      "confidence": "high"
+    },
+    {
+      "term": "death by gerontocracy",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047"],
+      "definition_or_usage": "Jiang's phrase for a world governed by elderly people that produces surveillance, prisons, immigrant labor, and wars fought by the young.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0046"],
+      "note": "Jiang says 'today' Trump announced wanting 600,000 Chinese students in the United States; this is a date-sensitive claim from 2025-08-29.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0043"],
+      "note": "The transcript dates the Online Safety Act as '2003' and then '2002 or 23'; keep the uncertainty if referenced."
+    }
+  ]
+}

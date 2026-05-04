@@ -1,0 +1,137 @@
+{
+  "packet_id": "predictive-history-0g3yo1djilm-semantics-pkt-0003",
+  "source_id": "video:predictive-history-0g3yo1djilm",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0018",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0019",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from immigration to Canada's MAID policy, arguing that bureaucratized death converts suicide into a state-managed service and makes death easier to approve.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0021",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0022"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether Canadian suicide is euthanasia; Jiang distinguishes suicide from doctor-assisted euthanasia and defines euthanasia as painless government-assisted suicide.",
+      "speaker_attribution": "Student question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0022",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0023",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that people with costly illnesses and poor people are being encouraged to die because they burden the medical system, then asks why older societies resisted euthanasia.",
+      "speaker_attribution": "Jiang; ends with a prompt to class.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang defines MAID as medical assistance in dying, euthanasia, and describes it as the government helping people kill themselves when life feels meaningless, depression is present, or disease feels incurable.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017"],
+      "temporal_scope": "Definition and critique in the 2025-08-29 lecture.",
+      "topic_tags": ["MAID", "euthanasia", "canada", "suicide"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats the Canadian defense of MAID as bureaucratic rationalization: suicide alone is bad, but professionally facilitated death is framed as orderly and acceptable.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Diagnosis as of 2025-08-29.",
+      "topic_tags": ["bureaucracy", "MAID", "state", "death"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that rising euthanasia deaths and faster approval windows in Canada show death becoming a first resort rather than a last resort.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0018",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0019",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Diagnosis as of 2025-08-29.",
+      "topic_tags": ["canada", "euthanasia", "bureaucratization", "decline"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says cancer patients and poor people are encouraged toward euthanasia because expensive treatment makes them burdens on the medical system.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0022",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Moral-political diagnosis as of 2025-08-29.",
+      "topic_tags": ["poverty", "healthcare", "euthanasia", "cancer"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017"],
+      "moment": "The state turns suicide into a legitimate service by putting professionals around it.",
+      "source_phrase": "Suicide is bad, but suicide by government is good",
+      "why_it_matters": "This reversal is Jiang's clearest image of bureaucracy laundering moral collapse.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0019"],
+      "moment": "Death changes from medicine's last resort into the first thing the system offers.",
+      "source_phrase": "in Canada, death is now the first resort",
+      "why_it_matters": "It compresses the MAID section into a single moral inversion.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "MAID",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017"],
+      "definition_or_usage": "Medical Assistance in Dying; Jiang treats it as Canadian government-facilitated euthanasia.",
+      "confidence": "high"
+    },
+    {
+      "term": "euthanasia",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0022"],
+      "definition_or_usage": "Jiang says euthanasia means good death and defines it in class as doctor-assisted or government-assisted suicide.",
+      "confidence": "high"
+    },
+    {
+      "term": "over-bureaucratization",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0018"],
+      "definition_or_usage": "A sign of decline where government interferes in everything, here even the management of death.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0018"],
+      "note": "Jiang dates Canadian euthanasia deaths from 2016 to 2021 as evidence of a rapid increase.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0020"],
+      "note": "Jiang's language about quotas and rushing to kill people is an interpretive accusation, not independently established by this transcript."
+    }
+  ]
+}
