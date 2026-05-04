@@ -1,0 +1,136 @@
+{
+  "packet_id": "predictive-history-y-gxvzwbfmu-semantics-pkt-0008",
+  "source_id": "video:predictive-history-y-gxvzwbfmu",
+  "source_date": "2025-11-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0057",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0058",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0059",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0060",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0061",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0062",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0063",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0064"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang follows Lucretia into the republic and Brutus’s execution of his sons, then interprets the scene as the Roman method of converting guilt, hatred, and self-loathing into military energy.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0060",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0061",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0064"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Livy on Brutus supervising the execution of his sons and then the battle with Tarquin’s forces.",
+      "speaker_attribution": "Student or reader reading quoted source material",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Roman republic begins with Lucius Brutus turning private violation into revenge against the king and then enforcing law against his own sons.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0057",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0058",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Brutus",
+        "republic",
+        "revenge"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Brutus watching and organizing his sons’ execution creates an unbearable emotional charge that Jiang identifies as the Roman military secret.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0060",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0061",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0062",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Brutus",
+        "trauma",
+        "Roman military"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Roman society weaponizes hatred, guilt, contempt, and self-disgust by redirecting the energy toward enemies.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0062",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "trauma",
+        "hatred",
+        "military energy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0063"
+      ],
+      "moment": "Trauma becomes the Roman drug.",
+      "source_phrase": "all this demonic energy",
+      "why_it_matters": "The lecture’s most compact explanation of Roman power as emotional alchemy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0062"
+      ],
+      "moment": "Brutus does not avoid the execution; he organizes it.",
+      "source_phrase": "I’m going to actually watch my two sons get killed",
+      "why_it_matters": "Shows Roman virtue as self-wounding discipline.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Lucius Brutus",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0058",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Founder figure of the republic whose execution of his sons models Roman self-sacrifice and hatred.",
+      "confidence": "high"
+    },
+    {
+      "term": "trauma as a drug",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0063",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "Jiang’s model that trauma releases energy that can be weaponized against enemies.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0064"
+      ],
+      "note": "Reading is cut off mid-word and continues in the next packet."
+    }
+  ]
+}

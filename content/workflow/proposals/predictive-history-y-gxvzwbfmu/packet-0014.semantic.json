@@ -1,0 +1,158 @@
+{
+  "packet_id": "predictive-history-y-gxvzwbfmu-semantics-pkt-0014",
+  "source_id": "video:predictive-history-y-gxvzwbfmu",
+  "source_date": "2025-11-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0105",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0106",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0108",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0109",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0110",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0111",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0112"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the Q&A by extending winner-written history to Germany and Japan, then answers a class question about Caesar, money, status, lower nobility, and why revolutions come from blocked aspirants rather than the poor.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0106",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0110"
+      ],
+      "kind": "question",
+      "summary": "Students ask how Caesar can be wealthy yet populares, and whether higher classes suppress middle-class aspiration.",
+      "speaker_attribution": "Student or YouTube question as voiced in class",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0108",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0111"
+      ],
+      "kind": "answer",
+      "summary": "Jiang distinguishes money from status and says conflict comes from lower nobility or aspirational classes being blocked.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Postwar Germany and Japan illustrate Jiang’s point that losers must accept the winners’ history about their own evil.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Germany",
+        "Japan",
+        "winner history"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caesar can be wealthy and still populares because money and status are different; civil war comes when elites without status cannot access power.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0106",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "Caesar",
+        "populares",
+        "status",
+        "money"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Major conflicts are between upper nobility and lower nobility, not rich and poor; aspirational middle and rich people want more while the poor are inert.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "class conflict",
+        "upper nobility",
+        "lower nobility"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Suppression of aspiring middle classes by higher classes creates revolutionary dynamics such as the French Revolution.",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0110",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "2025-11-25 lecture claim",
+      "topic_tags": [
+        "French Revolution",
+        "middle class",
+        "revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107"
+      ],
+      "moment": "Money and status are separated as different currencies of power.",
+      "source_phrase": "money and status are not the same thing",
+      "why_it_matters": "Clarifies why Caesar belongs to lower nobility despite wealth.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107",
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0108"
+      ],
+      "moment": "Jiang’s class-conflict model excludes the poor as revolutionary agents.",
+      "source_phrase": "never between rich and poor",
+      "why_it_matters": "Provocative but central to his lower-nobility model.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "upper nobility",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107"
+      ],
+      "definition_or_usage": "Elite holders of status and power, named here as optimates.",
+      "confidence": "high"
+    },
+    {
+      "term": "lower nobility",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107"
+      ],
+      "definition_or_usage": "Elite or near-elite aspirants with money or ambition but blocked access to status/power.",
+      "confidence": "high"
+    },
+    {
+      "term": "status",
+      "refs": [
+        "video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0107"
+      ],
+      "definition_or_usage": "Political-social access distinct from wealth.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
