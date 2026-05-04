@@ -162,6 +162,8 @@ You are expected to improve with the system. Use memory as working continuity, n
 ## Episode Quality Bar
 
 - Keep the main read human-facing. Do not expose internal labels like models, diagnoses, proposal tiers, or confidence buckets.
+- A generated episode with `read: null` is not publication-quality handoff. Before PR, ensure `content/lens/episodes/<source-slug>/read.json` exists, reads like a compact public essay, and has meaningful `marks` on sharp thesis phrases, Jiang moves, and jump-worthy moments. Do not ship `mark_count: 0`.
+- Do a final heat/provenance pass before PR: sharp Jiang voice, enough detail to be worth reading, source refs on every section, selective marks, no public workflow leakage, no invented FAQ questions, and no transcript dump.
 - Questions are only questions asked by students, interviewers, or other speakers in the source. Do not invent reader questions.
 - Do not bury the best idea. If Jiang says poetry acts like a virus, stories train attention, or a guide becomes a trap, preserve that force in the public read.
 - Preserve chronology. Source date is not metadata trivia; it controls later contradiction, buildup, and "latest position" reasoning.

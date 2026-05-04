@@ -1,0 +1,212 @@
+{
+  "packet_id": "predictive-history-gdbzbvuivde-semantics-pkt-0003",
+  "source_id": "video:predictive-history-gdbzbvuivde",
+  "source_date": "2024-12-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0017",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0018",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang recounts Lucretia's rape and suicide as the Roman origin myth of the Republic, then says Augustine reverses the Roman honor story by calling her suicide pride rather than heroism.",
+      "speaker_attribution": "Jiang lecture voice with short City of God reading.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0019",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0020",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets Augustine's logic as gaslighting: people are God's property, action risks sin or interference with God's plan, and the safest path is obedience and passivity.",
+      "speaker_attribution": "Jiang lecture voice.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0022",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0023"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads and glosses Augustine's standard-of-God language: living by one's own nature makes one like the devil, so even angels and humans must live by God's truth rather than their own.",
+      "speaker_attribution": "Jiang reading and interpreting Augustine.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "A student appears to answer Jiang's prompt about what City of God is, leading into the next packet's point that Augustine's audience is the priesthood.",
+      "speaker_attribution": "Jiang plus partially captured student response.",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0024"
+      ],
+      "note": "The segment contains a truncated classroom exchange: 'we yeah yeah that's a great...' likely follows an unheard or partial student response.",
+      "suggested_speaker": "student response partially captured",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Roman memory honors Lucretia's suicide as the act that gives birth to the Roman Republic, but Augustine reframes it as shame, pride, and ego.",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0017",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Interpretation in the 2024-12-31 lecture.",
+      "topic_tags": [
+        "lucretia",
+        "roman-republic",
+        "pride",
+        "chastity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads Augustine as arguing that suicide is worse than rape because humans are God's property and killing oneself offends God.",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0019",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interpretation of Augustine in this lecture.",
+      "topic_tags": [
+        "rape",
+        "suicide",
+        "god-property",
+        "obedience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Augustine's doctrine makes inaction morally safer than action because sinful humans can only do wrong and may interfere with God's plan.",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0020",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Model extracted in this lecture.",
+      "topic_tags": [
+        "passivity",
+        "god-plan",
+        "sin",
+        "dark-ages"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links this doctrine of passivity and obedience to the beginning of the Dark Ages because it prevents questioning, exploration, and social innovation.",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "dark-ages",
+        "obedience",
+        "questioning",
+        "exploration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Augustine repeatedly equates living by one's own standard, instinct, intuition, or imagination with becoming like the devil.",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0022",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Interpretive claim in this lecture.",
+      "topic_tags": [
+        "devil",
+        "self-negation",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0018"
+      ],
+      "moment": "A Roman founding heroine becomes, in Augustine's hands, an example of pride.",
+      "source_phrase": "no, she's not a hero... this is pride",
+      "why_it_matters": "The reversal shows Augustine converting civic virtue into spiritual disobedience.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0020",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021"
+      ],
+      "moment": "The good person is the one who does nothing.",
+      "source_phrase": "when you do nothing you are doing good in the world",
+      "why_it_matters": "It condenses Jiang's diagnosis of how theology can produce passivity as virtue.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0022"
+      ],
+      "moment": "Trusting your own intuition makes you devil-like.",
+      "source_phrase": "if you trust your instincts if you trust your intuition if you use your imagination you are like the devil",
+      "why_it_matters": "It preserves the heat of Jiang's claim that Augustine criminalizes the inner resources needed for human agency.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Lucretia",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0017",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Roman woman whose rape and suicide Jiang presents as a founding myth of the Roman Republic and as Augustine's target for reversing Roman honor into Christian pride.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gaslighting",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0019",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang's repeated description of Augustine's rhetorical method: twisting moral premises so listeners accept obedience and passivity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Standard of God",
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0021",
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Augustine's contrast between living by God's truth and living by human nature or one's own standard, which Jiang reads as a demand for self-negation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gdbzbvuivde@transcript:v1#seg-0024"
+      ],
+      "note": "The student exchange at the end of the packet is fragmentary and should not be turned into a public question without nearby context."
+    }
+  ]
+}
