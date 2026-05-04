@@ -1,0 +1,191 @@
+{
+  "packet_id": "predictive-history-3751zjwmrbw-semantics-pkt-0001",
+  "source_id": "video:predictive-history-3751zjwmrbw",
+  "source_date": "2025-03-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0001",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around three Crusades questions, then begins with the Christian reversal of older religious wealth logic: early Christianity makes humility and poverty the route to heaven.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He poses the central contradiction: the church built on poverty becomes the wealthiest religious organization in history, partly because Europe's post-1000 agricultural and urban revival produces wealth and inequality.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang models the church as a control form stronger than empire: empire commands labor through a mortal ruler, while the church commands soul, heart, mind, and eternal fate through God, Latin, hierarchy, and a faith monopoly.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Early Christianity is presented as a religion of humility and poverty that negates wealth by promising heaven rather than worldly favor.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0001",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang's lecture interpretation on 2025-03-20.",
+      "topic_tags": [
+        "early-christianity",
+        "poverty",
+        "wealth",
+        "salvation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Catholic Church's historical power is paradoxical because a religion founded on poverty became immeasurably wealthy.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "catholic-church",
+        "wealth",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "After the year 1000, climate, agricultural tools, trade, and urban growth make Europe wealthier, but that wealth also produces inequality and the high point of feudalism.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Medieval background as presented in the 2025-03-20 lecture.",
+      "topic_tags": [
+        "medieval-warm-period",
+        "agriculture",
+        "urbanization",
+        "feudalism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the church pioneered a new control technology: unlike empire, it governs through an eternal, infallible God and can threaten eternal damnation.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Control model in this lecture.",
+      "topic_tags": [
+        "church",
+        "empire",
+        "control",
+        "eternal-damnation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Latin, priestly authorization, and hierarchical bureaucracy are treated as mechanisms that tell ordinary people theology is not for them.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Institutional diagnosis in this lecture.",
+      "topic_tags": [
+        "latin",
+        "bureaucracy",
+        "priesthood",
+        "orthodoxy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003"
+      ],
+      "moment": "Christianity reverses older sacrifice logic: wealth no longer proves divine favor; giving it up becomes the path to heaven.",
+      "source_phrase": "Jesus is negating wealth",
+      "why_it_matters": "This reversal makes the later wealth of the church the lecture's founding contradiction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004"
+      ],
+      "moment": "The church has 'more money than God' inside a religion supposedly built against wealth.",
+      "source_phrase": "more money than God",
+      "why_it_matters": "The phrase gives the episode a sharp image for institutional contradiction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007"
+      ],
+      "moment": "Empire can kill the body; the church can threaten the soul forever.",
+      "source_phrase": "the Church demands your soul",
+      "why_it_matters": "It defines the difference between political coercion and religious world-control.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith monopoly",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The church's claim to be the only true religion, giving it control over salvation, orthodoxy, and social obedience.",
+      "confidence": "high"
+    },
+    {
+      "term": "imperial bureaucracy",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's description of the medieval church as a top-down administrative hierarchy comparable to empire.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005"
+      ],
+      "note": "The post-1000 agricultural and urban revival is used as background for church wealth and feudal inequality.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006"
+      ],
+      "note": "A short ASR-damaged phrase appears after Muslim Spain; it does not affect the surrounding control-model argument."
+    }
+  ]
+}

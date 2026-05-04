@@ -1,0 +1,199 @@
+{
+  "packet_id": "predictive-history-3751zjwmrbw-semantics-pkt-0008",
+  "source_id": "video:predictive-history-3751zjwmrbw",
+  "source_date": "2025-03-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang finishes the Inquisition answer by explaining precision as a way to punish only the suspected Cathars and threaten the rest of the community; he then acknowledges classroom questions before moving to scapegoating.",
+      "speaker_attribution": "Jiang answering an implied classroom question; student voices are mostly not captured.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines scapegoating through the ritual goat and then applies it to feudal antisemitism: Jews are used as sacrificial middlemen so peasants discharge anger and return to work.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "kind": "monologue",
+      "summary": "He closes by defining religion as culture, worldview, and belief system: medieval Christians act from afterlife belief just as modern Chinese students act from education-as-life-success belief.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060"
+      ],
+      "note": "Several student questions are implied by Jiang's acknowledgments, but the student words are not captured.",
+      "suggested_speaker": "student question not captured",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Inquisition precision is described as more effective than indiscriminate crusade violence because it identifies a minority, punishes them publicly, and makes resistance feel futile.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Inquisition model in this lecture.",
+      "topic_tags": [
+        "inquisition",
+        "precision",
+        "deterrence",
+        "cathars"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines scapegoating as blaming someone else for one's troubles or distracting people from the real source of conflict.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": [
+        "scapegoating",
+        "ritual",
+        "blame"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The feudal scapegoat mechanism lets nobles preserve property and labor by allowing periodic violence against Jews, after which peasants return to work.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Medieval social-control model in this lecture.",
+      "topic_tags": [
+        "feudalism",
+        "antisemitism",
+        "scapegoating",
+        "political-control"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines religion broadly as culture, worldview, and belief system that drives action, whether medieval afterlife belief or modern education belief in China.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "General definition in this lecture.",
+      "topic_tags": [
+        "religion",
+        "culture",
+        "worldview",
+        "belief-system"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture closes by saying the Crusades material is needed for future classes, especially the Renaissance and Protestant Reformation.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Course-sequence note on 2025-03-20.",
+      "topic_tags": [
+        "renaissance",
+        "protestant-reformation",
+        "course-sequence"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057"
+      ],
+      "moment": "The Inquisition wins by making resistance feel futile: they will figure out the truth, so people stop resisting.",
+      "source_phrase": "resistance is futile",
+      "why_it_matters": "It turns the Inquisition into a psychological control system, not just a punishment system.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059"
+      ],
+      "moment": "Jiang describes anti-Jewish violence as a ritual sacrifice that cleanses peasant anger so the feudal economy can continue.",
+      "source_phrase": "a ritual sacrifice of certain Jews in order to cleanse the peasants of their anger",
+      "why_it_matters": "It is the lecture's most disturbing and precise account of political scapegoating.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "moment": "Religion is not just church doctrine; it is any belief system strong enough to drive behavior, even exam culture.",
+      "source_phrase": "That's a religion. That's a belief system",
+      "why_it_matters": "It expands the episode's medieval argument into Jiang's broader definition of culture as lived faith.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "scapegoating",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Blaming or sacrificing another group to redirect social anger away from the real conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "religion as worldview",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Jiang's broad definition of religion as culture and belief system that organizes action.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "note": "Jiang places this lecture immediately before the Renaissance and Protestant Reformation in the course sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059"
+      ],
+      "note": "The transcript repeatedly renders 'scapegoating' as 'skateboarding' or 'skip voting'; semantic extraction follows context and uses scapegoating."
+    }
+  ]
+}

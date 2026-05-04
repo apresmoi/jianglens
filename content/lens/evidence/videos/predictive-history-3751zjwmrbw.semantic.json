@@ -1,0 +1,1558 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-3751zjwmrbw:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-3751zjwmrbw",
+  "source_id": "video:predictive-history-3751zjwmrbw",
+  "source_title": "Civilization #40:  Church and Empire",
+  "source_url": "https://www.youtube.com/watch?v=3751ZjwmrBw",
+  "source_date": "2025-03-20",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-3751zjwmrbw@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-3751zjwmrbw/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-3751zjwmrbw/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-3751zjwmrbw/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 27,
+    "speaker_notes": 4,
+    "claims": 43,
+    "signature_moments": 24,
+    "predictions": 0,
+    "models": 17,
+    "glossary_terms": 21,
+    "chronology_notes": 8,
+    "uncertainty_notes": 4
+  },
+  "first_refs": [
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0001",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007",
+    "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0001",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around three Crusades questions, then begins with the Christian reversal of older religious wealth logic: early Christianity makes humility and poverty the route to heaven.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He poses the central contradiction: the church built on poverty becomes the wealthiest religious organization in history, partly because Europe's post-1000 agricultural and urban revival produces wealth and inequality.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang models the church as a control form stronger than empire: empire commands labor through a mortal ruler, while the church commands soul, heart, mind, and eternal fate through God, Latin, hierarchy, and a faith monopoly.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0009",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0010",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0011",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the church's sacramental and judicial powers: priests control interpretation, sacraments channel divine force, the church assigns purgatory and sainthood, and heresy becomes refusal of church authority after instruction.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0013",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0014",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "He catalogs church corruption as legal practice: indulgences, simony, relic commerce, worldly clerics, tithes, and landholding transform spiritual authority into wealth and privilege.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0015",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from corruption to legitimacy: a church's authority depends on enforcing orthodoxy, and around 1000 it faces five pressures beginning with Muslim control of Jerusalem and the comparative success of Muslim Spain.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0017",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the legitimacy problem list: schism, corruption, and the church's denial of religious intimacy produce discontent, so the church develops scapegoating, persecution, and crusading as recurring European strategies.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0019",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0020",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "He explains medieval antisemitism as a political-economic channeling mechanism: nobles use dependent Jews as middlemen, peasants experience exploitation through them, and resentment is redirected onto Jews through massacre and expulsion.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0021",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0022",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang gives the Crusades background: Muslim Jerusalem had been open to pilgrimage, but weakening empires, Seljuk pressure, pilgrim danger, and Byzantine appeal let Pope Urban II channel Christendom toward Jerusalem.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads and interprets Pope Urban II's speech promising remission of sins for those who die against pagans, framing it as a Christian form of jihad.",
+      "speaker_attribution": "Jiang reading and interpreting quoted material from Pope Urban II.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0025",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0026",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0027"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads and comments on Pope Urban II's racist and salvific rhetoric, showing how crusade transforms criminals, robbers, and mercenaries into honored Christian heroes.",
+      "speaker_attribution": "Jiang reading quoted Urban II material and interpreting it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0028",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0029",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "He inventories motivations for crusading: penance, clerical immunity, vengeance, elite overproduction, Second Coming apocalypticism, adventure, chivalry, piety, fanaticism, and glory.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0030",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0031",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang ties crusade motives to later European conquest, then describes the grassroots, locally organized crusading movement, the first Crusader States, and the massacre of Jerusalem as celebrated righteous killing.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0033",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts the 1099 massacre with Saladin's peaceful 1187 capture, then introduces crusader military orders, especially the Knights Templar and Teutonic Knights.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0035",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He describes the Templars as Europe's first multinational organization and a banking-trading network that became cosmopolitan, tolerant, rational, and therefore dangerous to church orthodoxy.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0037",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says persecuting the Templars drives them underground and helps incubate later reform movements; he then maps three directions of crusade: Jerusalem, Spain, and internal dissenters.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0039",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces internal dissenters such as Beguines, Beghards, and Waldensians as poverty movements that embarrass and defy a wealthy church.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0041",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0042",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Cathar dualism: the visible world is the devil's painful prison for pure souls, so martyrdom and escape from the body can look like salvation rather than defeat.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0042",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0043",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "He stresses why Catharism survives violence: the community admires Cathars as good neighbors, converts under siege, and sees their joyful martyrdom as proof the church cannot beat them by killing them.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0044",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0045",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes the church's response: Franciscans imitate poverty within obedience, while Dominicans and the Inquisition replace mass killing with educated, written, police-like interrogation.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0047",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to the end of crusading power: fourteenth-century climate crisis, famine, war, mercenaries, and plague make Europeans read catastrophe as divine anger and begin losing faith.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0049",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0050",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains how plague, papal division, and rebellion break confidence in the church, moving from Dolcinian egalitarian revolt to Wycliffe, Hus, and Luther.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0052",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "He concludes the three lecture questions: crusade is religious war, it happens because the church has a legitimacy problem, and it stops because Europe falls into internal turmoil, though Jiang says the mentality persists.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0053",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0054",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0055",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "After an implied student question about the Inquisition, Jiang explains clerical versus secular authority and the police-like logic of separating suspects, taking testimony, and letting inconsistent stories reveal hidden Cathars.",
+      "speaker_attribution": "Mostly Jiang; the student's question is not transcribed but Jiang's 'Yeah? Okay, sure' indicates a classroom prompt.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang finishes the Inquisition answer by explaining precision as a way to punish only the suspected Cathars and threaten the rest of the community; he then acknowledges classroom questions before moving to scapegoating.",
+      "speaker_attribution": "Jiang answering an implied classroom question; student voices are mostly not captured.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines scapegoating through the ritual goat and then applies it to feudal antisemitism: Jews are used as sacrificial middlemen so peasants discharge anger and return to work.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "kind": "monologue",
+      "summary": "He closes by defining religion as culture, worldview, and belief system: medieval Christians act from afterlife belief just as modern Chinese students act from education-as-life-success belief.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0024"
+      ],
+      "note": "The segment alternates between quoted crusade rhetoric and Jiang's commentary.",
+      "suggested_speaker": "Jiang reading quoted source",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0025",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0026"
+      ],
+      "note": "The packet includes quoted crusade rhetoric and Jiang's explicit correction that Muslims worship the same God as Jews and Christians.",
+      "suggested_speaker": "Jiang reading and commentary",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0053"
+      ],
+      "note": "An audience question about the Inquisition is implied by Jiang's response but not audible in the transcript.",
+      "suggested_speaker": "student question not captured",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060"
+      ],
+      "note": "Several student questions are implied by Jiang's acknowledgments, but the student words are not captured.",
+      "suggested_speaker": "student question not captured",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Early Christianity is presented as a religion of humility and poverty that negates wealth by promising heaven rather than worldly favor.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0001",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang's lecture interpretation on 2025-03-20.",
+      "topic_tags": [
+        "early-christianity",
+        "poverty",
+        "wealth",
+        "salvation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Catholic Church's historical power is paradoxical because a religion founded on poverty became immeasurably wealthy.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "catholic-church",
+        "wealth",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "After the year 1000, climate, agricultural tools, trade, and urban growth make Europe wealthier, but that wealth also produces inequality and the high point of feudalism.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Medieval background as presented in the 2025-03-20 lecture.",
+      "topic_tags": [
+        "medieval-warm-period",
+        "agriculture",
+        "urbanization",
+        "feudalism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the church pioneered a new control technology: unlike empire, it governs through an eternal, infallible God and can threaten eternal damnation.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Control model in this lecture.",
+      "topic_tags": [
+        "church",
+        "empire",
+        "control",
+        "eternal-damnation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Latin, priestly authorization, and hierarchical bureaucracy are treated as mechanisms that tell ordinary people theology is not for them.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Institutional diagnosis in this lecture.",
+      "topic_tags": [
+        "latin",
+        "bureaucracy",
+        "priesthood",
+        "orthodoxy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Priestly control over preaching and the Bible gives clerics power by making authorized interpretation a church monopoly.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Medieval church model in this lecture.",
+      "topic_tags": [
+        "priesthood",
+        "interpretation",
+        "authority"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Eucharist is presented as a ritual where priests channel Jesus into bread and wine, a practice Jiang says later Protestants will reject as superstitious.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Medieval practice and later Protestant reaction as explained on 2025-03-20.",
+      "topic_tags": [
+        "eucharist",
+        "transmutation",
+        "protestant-reformation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Heresy is defined not as initial misunderstanding but as refusal to admit church authority after the church has educated someone.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0011",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "heresy",
+        "authority",
+        "excommunication"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that indulgences, simony, relic sales, worldly clerics, tithes, and landholding turned the church's spiritual authority into corruption and special privilege.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0013",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0014",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical diagnosis in this lecture.",
+      "topic_tags": [
+        "corruption",
+        "indulgences",
+        "simony",
+        "tithes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A church's legitimacy depends on enforcing orthodoxy; as disagreement spreads, the church's authority decreases.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "General institutional model in this lecture.",
+      "topic_tags": [
+        "orthodoxy",
+        "legitimacy",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Muslim control of Jerusalem and Muslim Spain's wealth, cosmopolitanism, innovation, and tolerance are presented as challenges to Catholic legitimacy.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Around the year 1000 as framed in this lecture.",
+      "topic_tags": [
+        "jerusalem",
+        "muslim-spain",
+        "legitimacy",
+        "al-andalus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names scapegoating, persecuting, and crusading as a three-pronged strategy the Catholic Church develops to manage legitimacy pressure.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "European history model in this lecture.",
+      "topic_tags": [
+        "scapegoating",
+        "persecution",
+        "crusading",
+        "legitimacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture explains European antisemitism as a structure in which nobles depend on Jews as middlemen, peasants encounter them as agents of exploitation, and elites redirect conflict onto Jews.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0019",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0020",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical diagnosis extending through European history as presented on 2025-03-20.",
+      "topic_tags": [
+        "antisemitism",
+        "scapegoating",
+        "nobility",
+        "peasants"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this long-term European enmity against Jews, created by nobility and repeated through expulsion and massacre, is needed to understand why the Holocaust happened.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0020",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Long-run historical diagnosis in this lecture.",
+      "topic_tags": [
+        "holocaust",
+        "antisemitism",
+        "european-history"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Before crusading violence, Jiang presents Muslim-controlled Jerusalem after 638 as open and inclusive for Christians, Jews, and Muslims.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "After 638 as described in this lecture.",
+      "topic_tags": [
+        "jerusalem",
+        "islam",
+        "tolerance"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pope Urban II's 1095 appeal is interpreted as political opportunity: unite Christendom under Rome, reclaim Jerusalem, and redirect peasant religious energy against Muslims.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0023",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "1095 First Crusade framing in this lecture.",
+      "topic_tags": [
+        "pope-urban-ii",
+        "first-crusade",
+        "christendom",
+        "religious-energy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Urban II's speech is presented as spreading racist rumors about Muslims to generate crusading anger.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Interpretation of 1095 rhetoric in this lecture.",
+      "topic_tags": [
+        "pope-urban-ii",
+        "racism",
+        "muslims",
+        "crusades"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says crusade rhetoric, logic, and emotion later justify European conquest, exploration, and imperialism.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0026",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Long-run historical connection made on 2025-03-20.",
+      "topic_tags": [
+        "imperialism",
+        "age-of-exploration",
+        "crusade-logic"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The First Crusade recruits many motives at once, including forgiveness, legal immunity, vengeance, land hunger, apocalyptic belief, chivalric loyalty, piety, fanaticism, and glory.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0028",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0029",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "First Crusade motivation model in this lecture.",
+      "topic_tags": [
+        "first-crusade",
+        "motivation",
+        "elite-overproduction",
+        "second-coming"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Crusades are described as not centrally organized but as a grassroots movement led by local lords, with peasants also going independently.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "First Crusade organization as described in this lecture.",
+      "topic_tags": [
+        "grassroots",
+        "local-lords",
+        "first-crusade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Christian celebration of Jerusalem's 1099 massacre with Saladin's later peaceful taking of the city.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "1099 event contrasted with later 1187 event in the next packet.",
+      "topic_tags": [
+        "jerusalem",
+        "massacre",
+        "righteous-killing"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes Saladin's 1187 capture of Jerusalem as peaceful and contrasts it with Christian violence in 1099.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Historical contrast in this lecture.",
+      "topic_tags": [
+        "saladin",
+        "jerusalem",
+        "violence",
+        "islam"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Knights Templar became influential because they functioned as a multinational banking and trade organization, not only as pilgrim protectors.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Crusader-state period as described in this lecture.",
+      "topic_tags": [
+        "knights-templar",
+        "banking",
+        "trade",
+        "multinational-organization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that governing Jerusalem forced the Templars to work with Jews and Muslims, learn from them, and become more tolerant, rational, and cosmopolitan than the church bureaucracy.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0035",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Templar development as presented on 2025-03-20.",
+      "topic_tags": [
+        "knights-templar",
+        "tolerance",
+        "reason",
+        "religious-diversity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Persecuting and disbanding the Templars is said to drive their beliefs underground, incubating the Protestant Reformation and influencing the American Revolution.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Long-run influence claim in this lecture.",
+      "topic_tags": [
+        "knights-templar",
+        "protestant-reformation",
+        "american-revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Al-Andalus is presented as wealthy, cosmopolitan, innovative, beautiful, and open because Jews, Christians, and Muslims worked together there.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0037",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Medieval Spain as framed in this lecture.",
+      "topic_tags": [
+        "al-andalus",
+        "spain",
+        "cosmopolitanism",
+        "architecture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Poverty movements such as Beguines, Beghards, and Waldensians threaten the church by restoring early Christian humility and exposing clerical wealth.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0039",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Internal dissent in the crusading period as presented in this lecture.",
+      "topic_tags": [
+        "poverty-movements",
+        "waldensians",
+        "begiunes",
+        "church-corruption"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Catharism is presented as a dualist belief that this world was created by the devil and traps pure souls in corrupt bodies.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0041",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Cathar belief model as presented in this lecture.",
+      "topic_tags": [
+        "catharism",
+        "dualism",
+        "gnosticism",
+        "body"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that violence fails against Cathars because martyrdom confirms their theology and can strengthen community attachment.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0042",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0043",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Albigensian Crusade interpretation in this lecture.",
+      "topic_tags": [
+        "cathars",
+        "martyrdom",
+        "persecution",
+        "community"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Franciscan Order is presented as a church-safe imitation of humility and poverty because it remains inside papal obedience.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Church response to poverty heresies as framed in this lecture.",
+      "topic_tags": [
+        "franciscans",
+        "poverty",
+        "obedience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Dominican Order and Medieval Inquisition are described as replacing indiscriminate crusade violence with written testimony, interrogation, and identification of specific heretics.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0045",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Medieval Inquisition model in this lecture.",
+      "topic_tags": [
+        "dominicans",
+        "inquisition",
+        "writing",
+        "interrogation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that fourteenth-century crisis erodes church legitimacy because famine, war, plague, and climate disaster make people read catastrophe as punishment for Christian sin.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0047",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Fourteenth-century crisis as interpreted on 2025-03-20.",
+      "topic_tags": [
+        "fourteenth-century-crisis",
+        "little-ice-age",
+        "black-death",
+        "legitimacy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the 1378 split into two popes as a major legitimacy crisis that deepens loss of faith in the Catholic Church.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "1378 papal schism as described in this lecture.",
+      "topic_tags": [
+        "papal-schism",
+        "legitimacy",
+        "church-crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Dolcinians are described as proto-communists who wanted to destroy church, feudal hierarchy, and the feudal order in favor of an egalitarian society.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Late medieval rebellion as framed in this lecture.",
+      "topic_tags": [
+        "dolcinians",
+        "egalitarianism",
+        "proto-communism",
+        "feudalism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Wycliffe and Hus are framed as reformers who challenge priestly monopoly and anticipate Luther's Protestant Reformation.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0050",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0051",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Reform sequence leading to the next class.",
+      "topic_tags": [
+        "wycliffe",
+        "john-hus",
+        "martin-luther",
+        "protestant-reformation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the Crusades as religious war, comparable in Western imagination to jihad in Muslim imagination.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": [
+        "crusades",
+        "jihad",
+        "religious-war"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the Crusades technically end in 1290 but continue to manifest in the Age of Exploration, conquest of the New World, and even modern Middle East wars as crusading mentality.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0052",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Long-run continuity claim made on 2025-03-20.",
+      "topic_tags": [
+        "crusading-mentality",
+        "age-of-exploration",
+        "new-world",
+        "middle-east"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Inquisition is modeled as a division of clerical judgment over the soul and secular power over the body, with interrogation used to find truth without direct church bloodshed.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0054",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0055",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Inquisition model in this lecture.",
+      "topic_tags": [
+        "inquisition",
+        "clerical-authority",
+        "secular-authority",
+        "interrogation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inquisition precision is described as more effective than indiscriminate crusade violence because it identifies a minority, punishes them publicly, and makes resistance feel futile.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Inquisition model in this lecture.",
+      "topic_tags": [
+        "inquisition",
+        "precision",
+        "deterrence",
+        "cathars"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines scapegoating as blaming someone else for one's troubles or distracting people from the real source of conflict.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Definition in this lecture.",
+      "topic_tags": [
+        "scapegoating",
+        "ritual",
+        "blame"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The feudal scapegoat mechanism lets nobles preserve property and labor by allowing periodic violence against Jews, after which peasants return to work.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Medieval social-control model in this lecture.",
+      "topic_tags": [
+        "feudalism",
+        "antisemitism",
+        "scapegoating",
+        "political-control"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines religion broadly as culture, worldview, and belief system that drives action, whether medieval afterlife belief or modern education belief in China.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "General definition in this lecture.",
+      "topic_tags": [
+        "religion",
+        "culture",
+        "worldview",
+        "belief-system"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The lecture closes by saying the Crusades material is needed for future classes, especially the Renaissance and Protestant Reformation.",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Course-sequence note on 2025-03-20.",
+      "topic_tags": [
+        "renaissance",
+        "protestant-reformation",
+        "course-sequence"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0002",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0003"
+      ],
+      "moment": "Christianity reverses older sacrifice logic: wealth no longer proves divine favor; giving it up becomes the path to heaven.",
+      "source_phrase": "Jesus is negating wealth",
+      "why_it_matters": "This reversal makes the later wealth of the church the lecture's founding contradiction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004"
+      ],
+      "moment": "The church has 'more money than God' inside a religion supposedly built against wealth.",
+      "source_phrase": "more money than God",
+      "why_it_matters": "The phrase gives the episode a sharp image for institutional contradiction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007"
+      ],
+      "moment": "Empire can kill the body; the church can threaten the soul forever.",
+      "source_phrase": "the Church demands your soul",
+      "why_it_matters": "It defines the difference between political coercion and religious world-control.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0010"
+      ],
+      "moment": "The priest does not merely symbolize Jesus; in Jiang's description, the rite makes people eat and drink Jesus.",
+      "source_phrase": "You eat Jesus, you drink Jesus",
+      "why_it_matters": "It preserves the strangeness that later Protestant rejection will target.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0012"
+      ],
+      "moment": "Excommunication is not social exclusion only; it is removal from the community that controls hell.",
+      "source_phrase": "you will burn in hell forever",
+      "why_it_matters": "The phrase shows why institutional discipline has cosmic force.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0015"
+      ],
+      "moment": "Orthodoxy is power: the church must enforce right thinking or its authority dissolves.",
+      "source_phrase": "the church must enforce right thinking",
+      "why_it_matters": "It names the mechanism that drives the rest of the lecture's persecution and crusade logic.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0018"
+      ],
+      "moment": "The church's recurring European toolkit is reduced to three verbs: scapegoating, persecuting, crusading.",
+      "source_phrase": "scapegoating, persecuting, and crusading",
+      "why_it_matters": "It gives the episode a compact model for later events.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0020"
+      ],
+      "moment": "Class resentment is displaced onto the middleman: peasants cannot strike nobles, so Jews become the target.",
+      "source_phrase": "peasants' resentment against nobility is channeled towards the Jews",
+      "why_it_matters": "This is the lecture's hardest political mechanism and should survive compression.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0024"
+      ],
+      "moment": "Jiang refuses the clean Islam-versus-Christianity distinction by calling crusade rhetoric a Christian jihad.",
+      "source_phrase": "This is a jihad. He's calling for jihad",
+      "why_it_matters": "It reframes jihad as a general religious-war technology rather than an Islamic exception.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0027"
+      ],
+      "moment": "The crusade is a moral laundering machine: the robber becomes knight, the criminal becomes hero, the sinner receives heaven.",
+      "source_phrase": "Let those who for a long time have been robbers now become knights",
+      "why_it_matters": "It shows why the offer was socially explosive, not just devotional.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0029"
+      ],
+      "moment": "The Second Coming makes Jerusalem into an end-of-world battlefield where Jesus returns to inaugurate a new order.",
+      "source_phrase": "usher in a new world order",
+      "why_it_matters": "It captures the apocalyptic charge inside crusade motivation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0032"
+      ],
+      "moment": "For the crusaders, massacre becomes righteous killing when performed for God's glory.",
+      "source_phrase": "for the glory of God, it is righteous killing",
+      "why_it_matters": "It gives the lecture's violence model its moral inversion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0035",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"
+      ],
+      "moment": "The Templars become modern by having to govern diversity: trade, banking, Jews, Muslims, and heretics train them into free thinkers.",
+      "source_phrase": "absorbing all this diverse religious belief",
+      "why_it_matters": "It turns crusading contact into an unexpected source of European modernity.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"
+      ],
+      "moment": "Suppression does not destroy the Templars; it drives their beliefs underground where they can spread.",
+      "source_phrase": "you drive the organization underground",
+      "why_it_matters": "It is a reusable Jiang mechanism: persecution can preserve and distribute the threat.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0040"
+      ],
+      "moment": "A simple Christian life becomes dangerous because it makes wealthy clerics look corrupt.",
+      "source_phrase": "fat, wealthy, and corrupt",
+      "why_it_matters": "It explains why poverty itself becomes an institutional threat.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0041",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0042"
+      ],
+      "moment": "Catharism makes the body the prison and death a release from the devil's world.",
+      "source_phrase": "pure, divine souls in these corrupt, ugly, painful bodies",
+      "why_it_matters": "This explains why ordinary coercion cannot defeat the movement.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0044"
+      ],
+      "moment": "The church learns a terrifying lesson: you cannot beat people who happily go to the stake.",
+      "source_phrase": "you can't beat people like this",
+      "why_it_matters": "It marks the pivot from brute crusade to institutional interrogation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0046"
+      ],
+      "moment": "The pen becomes more effective than the sword.",
+      "source_phrase": "the power of the pen",
+      "why_it_matters": "It compresses the lecture's Inquisition model: documentation and interrogation outperform massacre.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0050"
+      ],
+      "moment": "Even in the Middle Ages, Jiang sees people longing for a lost human condition of freedom, openness, and equality.",
+      "source_phrase": "nostalgic for a time when humans were free",
+      "why_it_matters": "It links medieval revolt to Jiang's wider history of hierarchy and lost egalitarianism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0051"
+      ],
+      "moment": "The church is so committed to punishing heresy that it burns Wycliffe after death.",
+      "source_phrase": "He was already dead, but they burned him anyway",
+      "why_it_matters": "It is the episode's sharpest image of institutional authority reaching beyond life.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0053"
+      ],
+      "moment": "The Crusades stop, and also do not stop: the mentality persists after the technical endpoint.",
+      "source_phrase": "they never really stopped",
+      "why_it_matters": "This is the lecture's continuity claim connecting medieval holy war to later conquest and contemporary politics.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0057"
+      ],
+      "moment": "The Inquisition wins by making resistance feel futile: they will figure out the truth, so people stop resisting.",
+      "source_phrase": "resistance is futile",
+      "why_it_matters": "It turns the Inquisition into a psychological control system, not just a punishment system.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059"
+      ],
+      "moment": "Jiang describes anti-Jewish violence as a ritual sacrifice that cleanses peasant anger so the feudal economy can continue.",
+      "source_phrase": "a ritual sacrifice of certain Jews in order to cleanse the peasants of their anger",
+      "why_it_matters": "It is the lecture's most disturbing and precise account of political scapegoating.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "moment": "Religion is not just church doctrine; it is any belief system strong enough to drive behavior, even exam culture.",
+      "source_phrase": "That's a religion. That's a belief system",
+      "why_it_matters": "It expands the episode's medieval argument into Jiang's broader definition of culture as lived faith.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith monopoly",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The church's claim to be the only true religion, giving it control over salvation, orthodoxy, and social obedience.",
+      "confidence": "high"
+    },
+    {
+      "term": "imperial bureaucracy",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's description of the medieval church as a top-down administrative hierarchy comparable to empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "indulgence",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "A payment to the church that Jiang describes as reducing time in purgatory; he calls it spiritual bribery.",
+      "confidence": "high"
+    },
+    {
+      "term": "simony",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Buying one's way into church office regardless of education or theological understanding.",
+      "confidence": "high"
+    },
+    {
+      "term": "orthodoxy",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Right or correct thinking enforced by the church as the basis of institutional legitimacy.",
+      "confidence": "high"
+    },
+    {
+      "term": "scapegoating",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0018",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Redirecting social conflict away from elites onto a vulnerable group, especially Jews in Jiang's medieval Europe model.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian jihad",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's label for Pope Urban II's promise of salvation through holy war for Jerusalem.",
+      "confidence": "high"
+    },
+    {
+      "term": "clerical immunity",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Jiang's term for the promise that criminals could be absolved by going on crusade.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "A condition where younger sons and surplus elites seek land and status through conquest.",
+      "confidence": "high"
+    },
+    {
+      "term": "righteous killing",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Violence against religious enemies treated as morally righteous because it is done for God.",
+      "confidence": "high"
+    },
+    {
+      "term": "Knights Templar",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A crusader military order Jiang treats as a multinational bank and cosmopolitan free-thinking network.",
+      "confidence": "high"
+    },
+    {
+      "term": "Al-Andalus",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0037",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Muslim Spain, described as a wealthy and innovative society shaped by Muslim, Jewish, and Christian cooperation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Waldensians",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A poverty movement founded by Peter Waldo that Jiang says condemned the pope and was persecuted by the church.",
+      "confidence": "high"
+    },
+    {
+      "term": "Catharism",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0041",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "A dualist Christian heresy Jiang describes as seeing the material world as the devil's prison for pure souls.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dominican Order",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0044",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "An educated order Jiang frames as created to combat Cathar heresy through inquiry and the Inquisition.",
+      "confidence": "high"
+    },
+    {
+      "term": "Medieval Inquisition",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "A written and interrogatory method for identifying heretics, more precise than crusade violence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dolcinians",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "A revolutionary late medieval movement Jiang describes as proto-communist and anti-feudal.",
+      "confidence": "medium"
+    },
+    {
+      "term": "clerical authority",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Church authority over spiritual judgment and the soul.",
+      "confidence": "high"
+    },
+    {
+      "term": "secular authority",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Noble or princely authority over physical life and death.",
+      "confidence": "high"
+    },
+    {
+      "term": "scapegoating",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Blaming or sacrificing another group to redirect social anger away from the real conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "religion as worldview",
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0060",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Jiang's broad definition of religion as culture and belief system that organizes action.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0004",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0005"
+      ],
+      "note": "The post-1000 agricultural and urban revival is used as background for church wealth and feudal inequality.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0016"
+      ],
+      "note": "The lecture places these legitimacy problems around the year 1000, before the First Crusade.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0021",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0023"
+      ],
+      "note": "The sequence runs from Muslim capture of Jerusalem in 638, to Seljuk pressure after 1071, to Urban II's 1095 call.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0031",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0032"
+      ],
+      "note": "The lecture marks 1095 as Urban II's First Crusade call and 1099 as the crusader capture and massacre of Jerusalem.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0033",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"
+      ],
+      "note": "The packet moves from Saladin in 1187 to Templar persecution in 1307, then uses that as bridge toward later Reformation and revolution claims.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0047",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0048"
+      ],
+      "note": "Jiang dates the Little Ice Age from 1303, Great Famine to 1315-1317, and Black Death to 1346-1353.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0049",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0052"
+      ],
+      "note": "Jiang connects the 1378 papal split to the path through Wycliffe, Hus, and Luther; he says the Crusades technically end in 1290.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0061"
+      ],
+      "note": "Jiang places this lecture immediately before the Renaissance and Protestant Reformation in the course sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0006"
+      ],
+      "note": "A short ASR-damaged phrase appears after Muslim Spain; it does not affect the surrounding control-model argument."
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0039"
+      ],
+      "note": "The transcript renders 'Beguines and Beghards' as 'Beguins and Beggars'; semantic interpretation uses the likely historical terms."
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0050"
+      ],
+      "note": "The transcript says 'Docinians'; this likely refers to the Dolcinians."
+    },
+    {
+      "refs": [
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058",
+        "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059"
+      ],
+      "note": "The transcript repeatedly renders 'scapegoating' as 'skateboarding' or 'skip voting'; semantic extraction follows context and uses scapegoating."
+    }
+  ]
+}
