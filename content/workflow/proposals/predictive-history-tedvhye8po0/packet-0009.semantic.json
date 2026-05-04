@@ -1,0 +1,173 @@
+{
+  "packet_id": "predictive-history-tedvhye8po0-semantics-pkt-0009",
+  "source_id": "video:predictive-history-tedvhye8po0",
+  "source_date": "2025-12-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0065",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0066",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0067",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0068",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0069",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0070",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0071",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0072"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the Islam section with religion as trust infrastructure, then pivots back to Western Europe: Rome’s imperial shell collapses, Augustine turns Paul into a church beyond history, Frankish rulers need papal legitimacy, and the Church becomes wealthy despite Jesus’s anti-rich teaching.",
+      "speaker_attribution": "Jiang lecture, with diarization treated as a hint",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0069",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0070",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0071"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang prompts Alan to read a Bible passage on the rich man and the kingdom of heaven.",
+      "speaker_attribution": "Student reading prompted by Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0065"
+      ],
+      "note": "The focus refs read primarily as Jiang lecturing; short classroom prompts are not treated as public questions unless a student asks a substantive question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Islam builds global trade by making Muslims trustworthy to one another, giving the Islamic Empire prosperity through religious community rather than just conquest.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Islamic trade networks in Jiang’s account.",
+      "topic_tags": [
+        "islam",
+        "trade",
+        "trust",
+        "community"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Rome’s western fall is less meaningful than it appears because power had already shifted from empire to Church, and post-Roman warlords still considered themselves heirs of Rome.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0066",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Western Roman collapse and post-Roman Europe.",
+      "topic_tags": [
+        "rome",
+        "augustine",
+        "city-of-god",
+        "warlords"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Augustine systematizes Paul into the Church as beyond history, where kings fight for land but the Church decides heaven and hell.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Augustinian Catholic model in Jiang’s lecture.",
+      "topic_tags": [
+        "augustine",
+        "paul",
+        "church",
+        "salvation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Charlemagne’s coronation makes public legitimacy depend on papal anointing: the Holy Roman Emperor is treated as chosen by God through the Church.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Around 800 in Jiang’s account.",
+      "topic_tags": [
+        "charlemagne",
+        "holy-roman-empire",
+        "pope"
+      ],
+      "claim_type": "historical-model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Catholic Church becomes extremely wealthy despite Jesus’s anti-rich teaching, because Western Europe’s growing population, trade, cities, climate, and technology enrich the institution.",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0071",
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Roughly 1000-1300 in Western Europe.",
+      "topic_tags": [
+        "vatican",
+        "wealth",
+        "jesus",
+        "european-growth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0066"
+      ],
+      "moment": "Rome falls, but the contest is really over who gets to inherit Rome’s ghost.",
+      "source_phrase": "they are going to compete for the legacy of Rome",
+      "why_it_matters": "It frames medieval politics as succession to a dead empire that nobody experiences as dead.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0072"
+      ],
+      "moment": "The Church becomes gold-filled while quoting a Jesus who says the rich cannot enter heaven.",
+      "source_phrase": "Inside, guys, it is all gold",
+      "why_it_matters": "It gives the episode a visible paradox of anti-rich doctrine funding maximum wealth.",
+      "tone": "paradox",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "City of God",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "Augustine’s framework that Jiang says makes the Catholic Church divine and outside history.",
+      "confidence": "high"
+    },
+    {
+      "term": "Holy Roman Emperor",
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "Frankish/Roman successor whose public legitimacy comes through papal anointing.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-tedvhye8po0@transcript:v1#seg-0065"
+      ],
+      "note": "Dated 2025-12-04, this packet continues Secret History #24's account of how the Catholic Church becomes an empire-like power in Western Europe.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
