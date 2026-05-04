@@ -1,0 +1,170 @@
+{
+  "packet_id": "predictive-history-vtnra-gnkm8-semantics-pkt-0002",
+  "source_id": "video:predictive-history-vtnra-gnkm8",
+  "source_date": "2025-10-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0009",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0011",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang rejects survival of the fittest, human progress as greater intelligence, and ape descent as cultural myths, using compassion, Polynesian navigation, embodied memory, and imagination to argue that humans have always been smart in different ways.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0014"
+      ],
+      "kind": "question",
+      "summary": "A student challenges the Polynesian example, arguing that modern computers are used not because people cannot navigate but because they produce more precise and accurate information.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0015",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects the student's premise, says a modern person put on a sailing vessel would die, and pivots to the pyramids as an example of ancient imagination misread by modern confirmation bias as alien or Atlantean technology.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0014"
+      ],
+      "note": "Diarization separates a student question from Jiang's lecture; the ASR is rough but the challenge about computers and navigation is clear.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Survival of the fittest is not Jiang's account of historical human organization; he says humans are usually compassionate toward the ill, elderly, and weak.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "broad historical claim in this lecture",
+      "topic_tags": [
+        "survival-of-the-fittest",
+        "compassion",
+        "human-nature"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Polynesian ocean navigation is used as evidence that ancient intelligence was embodied in memory, sensitivity, resilience, star reading, currents, wind, and ecosystem knowledge rather than computers.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0011",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "human imagination example in this lecture",
+      "topic_tags": [
+        "polynesian-navigation",
+        "memory",
+        "imagination",
+        "technology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the school story that humans evolved from apes as a hierarchy-justifying myth; he says bodies may have evolved from apes, but minds come from somewhere else.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "human-origins claim in this lecture",
+      "topic_tags": [
+        "evolution",
+        "mind",
+        "hierarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Alien and Atlantis explanations for the pyramids are, for Jiang, examples of modern confirmation bias that assumes ancient people were too stupid to build complex structures.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "pyramid interpretation in this lecture",
+      "topic_tags": [
+        "pyramids",
+        "confirmation-bias",
+        "ancient-intelligence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012"
+      ],
+      "moment": "The sleepless Polynesian navigator becomes a figure of imagination as computation: if the navigator sleeps, the boat is lost.",
+      "source_phrase": "they had to do this all in their heads",
+      "why_it_matters": "It gives Jiang's anti-progress argument a concrete bodily image rather than a generic claim about ancient wisdom.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "moment": "The mind is separated from the evolutionary body: maybe the body came from apes, but the mind comes from somewhere else.",
+      "source_phrase": "our minds come from somewhere else",
+      "why_it_matters": "This sharpens the series' recurring claim that human imagination is not reducible to biological utility.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Confirmation bias",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang uses the term for modern people's desire to believe they are smarter than earlier humans, which leads to bad explanations of ancient achievement.",
+      "confidence": "high"
+    },
+    {
+      "term": "Human imagination",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The internal power to map, remember, visualize, and coordinate reality without external machines.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "note": "This 2025-10-24 lecture continues Jiang's post-Darwin critique from the prior human-imagination lecture by repeating that mind is not explained by ape descent.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0014"
+      ],
+      "note": "The student question is ASR-noisy but its objection about modern precision and computers is clear enough for question extraction."
+    }
+  ]
+}

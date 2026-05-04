@@ -1,0 +1,1447 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-vtnra-gnkm8:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-vtnra-gnkm8",
+  "source_id": "video:predictive-history-vtnra-gnkm8",
+  "source_title": "Secret History #12:  Heaven on Earth",
+  "source_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8",
+  "source_date": "2025-10-24",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-vtnra-gnkm8@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0008.semantic.json",
+      "content/workflow/proposals/predictive-history-vtnra-gnkm8/packet-0009.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-vtnra-gnkm8/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-vtnra-gnkm8/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 9,
+    "interactions": 25,
+    "speaker_notes": 5,
+    "claims": 36,
+    "signature_moments": 24,
+    "predictions": 0,
+    "models": 14,
+    "glossary_terms": 20,
+    "chronology_notes": 4,
+    "uncertainty_notes": 9
+  },
+  "first_refs": [
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0001",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0005",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0004",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0006",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0007",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0008",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0009",
+    "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0001",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0002",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by using YouTube comments to review cave painting as ritual imagination, then links Beethoven, Euler, blindness, synesthesia, and indigenous cleanliness to the claim that imagination and sensory integration are central human powers.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0004",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0005",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He frames the lecture as a correction of cultural myths: history should teach ideas, not fact lists, and the modern claim that humans are basically materialistic is a control story that suppresses religious impulse, differentiation, curiosity, and exploration.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0007",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He argues against the nuclear family as the natural human unit, describing ancient matriarchal organization, hidden paternity, sexual politics, egalitarian balance, population control, and patriarchy as a system for maximizing births at women's expense.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0009",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0011",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang rejects survival of the fittest, human progress as greater intelligence, and ape descent as cultural myths, using compassion, Polynesian navigation, embodied memory, and imagination to argue that humans have always been smart in different ways.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0014"
+      ],
+      "kind": "question",
+      "summary": "A student challenges the Polynesian example, arguing that modern computers are used not because people cannot navigate but because they produce more precise and accurate information.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0015",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects the student's premise, says a modern person put on a sailing vessel would die, and pivots to the pyramids as an example of ancient imagination misread by modern confirmation bias as alien or Atlantean technology.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0017",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0018",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0019",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0020",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the pyramids as temples and public works built by religious devotion, empathy, shared vision, and inner visualization, contrasting that with modern process management, cheapness, pay incentives, and loss of purpose.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0022",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0023",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He supports the pyramid argument with Hagia Sophia, Aachen cathedral, and the Manhattan Project, treating monumental work as an attempt to create heaven on earth and eternal peace through shared dedication.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0025",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0026",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0027",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses Gobekli Tepe to describe a recurring human process: a charismatic leader with a temple vision gathers people, the temple becomes valuable real estate, succession conflict follows, factions form secret societies, and religious politics can end in sacrifice.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0029",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0030",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0031",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He moves from competing mythologies at Gobekli Tepe, Karahan Tepe, skull cults, and Jericho to Catalhoyuk, arguing that early settlement and farming were religious choices despite the easier, healthier life of hunter-gatherers.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0033",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0034",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0035",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads Catalhoyuk through mother goddess and bull worship, house-temples, animal reciprocity, charismatic settlement, population growth, elected leadership, environmental stress, hereditary hierarchy, corruption, and exit.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0037",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0038",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0039",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He abstracts three laws of community formation: societies are fluid, internal diversity exceeds cross-society difference, and communities define themselves against each other; then he uses Graeber/Wengrow and Northwest Coast seasonal identities to show social structures as chosen and dynamic.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0041",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0042",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0043",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0044"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads and paraphrases Wade Davis on Amazonian cosmology, where ancestral mothers, rivers, rocks, animals, plants, spirits, and everyday life belong to one saturated mythic universe.",
+      "speaker_attribution": "Jiang reading and interpreting quoted material",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0045",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets the Amazonian material as a sophisticated imagination of harmonious wholes, reciprocal contracts with animal spirits, karma, and continuity with cave painting as thanks to animals from the spirit world.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0047",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He shifts to African forest people and the molimo ritual, arguing that membership depends on ritual participation and that refusal or disrespect can make someone a threat to the community.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0049",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the forest-people example: ritual wakes the forest when things go wrong and shares happiness when things go well; the world is a script whose practices maintain harmony and heaven on earth.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "A student agrees that modern people lack vision but asks why modern societies, which can build skyscrapers and metropolises, cannot build pyramid-like structures.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0053",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that resources, will, and organization block rebuilding the pyramids, especially because ancient people were united by a vision of bringing heaven to earth while modern inspiration is reduced to money, cheating, lying, and stealing.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0055",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The student asks whether powerful modern religions could still build tremendous structures; Jiang replies that today's effective religion is capitalism, whereas the Egyptian age was spiritual and sought inspiration from heaven rather than numbers, computers, and process.",
+      "speaker_attribution": "student question, Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the answer by saying spiritual life, purpose, and faith make otherwise unimaginable disciplines possible, while modern people both lack these things and think they do not matter.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059"
+      ],
+      "kind": "question",
+      "summary": "A student grants that modern people cannot build the pyramids or navigate like Polynesians but asks whether modern achievements still show that people today can do spectacular things earlier people could not.",
+      "speaker_attribution": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0061",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0062",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0063",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by pressing the student for a modern example of something wonderful, spectacular, and amazing, making the absence of an example part of his critique.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0065",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0066"
+      ],
+      "kind": "exchange",
+      "summary": "The prior student exchange trails off; Jiang asks for an example, thanks the student, and opens the room for more questions.",
+      "speaker_attribution": "student hesitation, Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0067"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether it matters who first has the vision to build something and whether a second person must have the same vision, or whether the shared aim of bringing heaven to earth is enough.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0069",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0070"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that ancient monumental work did not depend on individual ownership, patents, credit, or private property; what mattered was expressing a shared vision together, and that common-sacrifice mentality makes tremendous collective work possible.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0014"
+      ],
+      "note": "Diarization separates a student question from Jiang's lecture; the ASR is rough but the challenge about computers and navigation is clear.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0052",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0055"
+      ],
+      "note": "Segments 0052 and 0055 are student questions despite rough ASR; Jiang's answer begins in the following segment each time.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059"
+      ],
+      "note": "Segment 0059 is a student question with noisy ASR; the comparative-modern-achievement challenge is discernible.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "note": "Short segments 0060-0064 are Jiang repeatedly asking the student for an example, not separate public questions by different speakers.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0067"
+      ],
+      "note": "Segment 0067 is a clear student question about shared vision and individual originators.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Cave paintings were made primarily as ritual celebrations and expressions of religious imagination, not as attempts to leave a historical legacy.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "lecture interpretation of Ice Age cave art",
+      "topic_tags": [
+        "cave-art",
+        "ritual",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines religion here as the human attempt to answer three questions: where we come from, why we are here, and where we are going.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "definition in this lecture",
+      "topic_tags": [
+        "religion",
+        "human-nature"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The modern myth that humans are naturally materialistic exists because obedient workers are easier to control than people who believe they want to explore, differentiate, and express religious imagination.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0004",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0005",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang's social-control model in this lecture",
+      "topic_tags": [
+        "materialism",
+        "control",
+        "obedience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents ancient matriarchal social organization as sexually autonomous, politically flexible, child-centered, and more egalitarian than later patriarchal arrangements.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0006",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0007",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "broad historical model in this lecture",
+      "topic_tags": [
+        "matriarchy",
+        "patriarchy",
+        "family",
+        "population-control"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Survival of the fittest is not Jiang's account of historical human organization; he says humans are usually compassionate toward the ill, elderly, and weak.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "broad historical claim in this lecture",
+      "topic_tags": [
+        "survival-of-the-fittest",
+        "compassion",
+        "human-nature"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Polynesian ocean navigation is used as evidence that ancient intelligence was embodied in memory, sensitivity, resilience, star reading, currents, wind, and ecosystem knowledge rather than computers.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0011",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "human imagination example in this lecture",
+      "topic_tags": [
+        "polynesian-navigation",
+        "memory",
+        "imagination",
+        "technology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the school story that humans evolved from apes as a hierarchy-justifying myth; he says bodies may have evolved from apes, but minds come from somewhere else.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "human-origins claim in this lecture",
+      "topic_tags": [
+        "evolution",
+        "mind",
+        "hierarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Alien and Atlantis explanations for the pyramids are, for Jiang, examples of modern confirmation bias that assumes ancient people were too stupid to build complex structures.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "pyramid interpretation in this lecture",
+      "topic_tags": [
+        "pyramids",
+        "confirmation-bias",
+        "ancient-intelligence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The pyramids are better understood as temples or churches for the gods, not merely as pharaohs' tombs.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0016",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "pyramid interpretation in this lecture",
+      "topic_tags": [
+        "pyramids",
+        "temple",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says we could not build the pyramids today because modern work lacks the religious devotion, shared vision, care, and purpose that organized ancient labor.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0018",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0019",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0020",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "modernity critique in this lecture",
+      "topic_tags": [
+        "pyramids",
+        "work",
+        "religious-devotion",
+        "management"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Top-down process-oriented management produces worse results because workers focus on steps and budget rather than the vision of the finished work.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0019",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Jiang's critique of modern work",
+      "topic_tags": [
+        "process-management",
+        "vision",
+        "school",
+        "work"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hagia Sophia, Aachen cathedral, and the Manhattan Project are presented as examples of collective work driven by the desire to bring heaven to earth or create eternal peace.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0021",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0022",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0023",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "examples spanning ancient, medieval, and twentieth-century projects",
+      "topic_tags": [
+        "heaven-on-earth",
+        "architecture",
+        "manhattan-project"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gobekli Tepe is treated as the first known temple and as evidence for Jiang's claim that humans are first and foremost religious builders.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "prehistoric temple model in this lecture",
+      "topic_tags": [
+        "gobekli-tepe",
+        "temple",
+        "religion"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "A temple starts as a place for God on earth, but because it attracts tribute and authority it can become the most valuable real estate and provoke succession crisis.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0025",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0026",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "recurring social process in Jiang's account",
+      "topic_tags": [
+        "temple",
+        "real-estate",
+        "succession",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang traces secret societies, blood oaths, factional politics, religious dispute, and human sacrifice back to the beginning of settled human society.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "prehistoric political model in this lecture",
+      "topic_tags": [
+        "secret-societies",
+        "human-sacrifice",
+        "faction",
+        "religious-conflict"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that early people became farmers for religious settlement around gods and charismatic leaders, not because farming was healthier or easier than hunting and gathering.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0031",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Neolithic transition model in this lecture",
+      "topic_tags": [
+        "farming",
+        "settlement",
+        "religion",
+        "hunter-gatherers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Catalhoyuk is presented as a religious settlement where each house is a temple and people accepted a harder life to be with their gods.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0033",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Catalhoyuk interpretation in this lecture",
+      "topic_tags": [
+        "catalhoyuk",
+        "house-temple",
+        "mother-goddess",
+        "settlement"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hunt is framed as reciprocal contract: people ask permission before killing animals and thank them afterward to preserve cosmic balance.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0034",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "religious anthropology model in this lecture",
+      "topic_tags": [
+        "reciprocity",
+        "animals",
+        "ritual",
+        "cosmic-balance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's model of settlement rise and fall begins with messianic vision and artistic community, then moves through population pressure, farming dependence, hereditary hierarchy, corruption, memory loss, and exit.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0035",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "general model of human settlements",
+      "topic_tags": [
+        "settlement-cycle",
+        "charismatic-leader",
+        "hierarchy",
+        "exit"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang formulates three laws for communities: they are fluid and dynamic, internal diversity is greater than diversity across societies, and communities exist in opposition to each other.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0037",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "explicit lecture framework",
+      "topic_tags": [
+        "community",
+        "diversity",
+        "opposition",
+        "social-change"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Northwest Coast seasonal example shows, for Jiang, that ancient people could choose different social organizations and even different identities at different times of year.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0039",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "example from Graeber/Wengrow as used in this lecture",
+      "topic_tags": [
+        "seasonal-society",
+        "identity",
+        "graeber-wengrow",
+        "social-fluidity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Amazonian mythology is presented as a complete, unified, complex universe where natural forms have spiritual essence and visible reality is only one layer of perception.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0041",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0042",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "interpretation of Wade Davis material in this lecture",
+      "topic_tags": [
+        "amazon",
+        "mythology",
+        "spirit-world",
+        "perception"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For the Amazonian example, mythology organizes survival by making land, life, social behavior, and interaction with wild beings part of one integrated whole.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "quoted/paraphrased anthropology in this lecture",
+      "topic_tags": [
+        "mythology",
+        "survival",
+        "spirit-of-place",
+        "ecology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hunting is treated as reciprocal courtship or contract with spirit guardians; killing without permission risks spiritual retaliation.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0045",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Jiang's ritual ecology model",
+      "topic_tags": [
+        "hunting",
+        "reciprocity",
+        "spirit-guardian",
+        "karma"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the forest-people example, participation in ritual and honoring ancestors is not optional culture but the basis of community membership.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0047",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "African forest-people example in this lecture",
+      "topic_tags": [
+        "ritual",
+        "community-membership",
+        "ancestors",
+        "molimo"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The forest ritual wakes the forest when illness, bad hunting, death, or danger suggest the forest has fallen asleep and stopped looking after its children.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0049",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "forest-people example in this lecture",
+      "topic_tags": [
+        "forest-people",
+        "ritual",
+        "song",
+        "harmony"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the ritual world as a script: living well means following inherited practices that respect the world's traditions and keep balance with the environment.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "definition in this lecture",
+      "topic_tags": [
+        "world-script",
+        "ritual",
+        "environment",
+        "tradition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says rebuilding the pyramids would require not just technical ability but massive resources, will, and organization around a shared sacred vision.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0053",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "answer to student question in this lecture",
+      "topic_tags": [
+        "pyramids",
+        "organization",
+        "will",
+        "resources"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern religion is capitalism in Jiang's answer: the age believes in money, numbers, computers, and process rather than divinity, spirit, and ideas from heaven.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0055",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "modernity critique in this lecture",
+      "topic_tags": [
+        "capitalism",
+        "religion",
+        "materialism",
+        "spiritual-age"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says spiritual purpose can make people capable of feats modern materialist people find unimaginable, such as extended meditation or physical austerity.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "answer to student question in this lecture",
+      "topic_tags": [
+        "spirituality",
+        "discipline",
+        "purpose",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, modern loss is doubled: people lack purpose, meaning, and spirit, and also believe those things do not matter.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "modernity critique in this lecture",
+      "topic_tags": [
+        "modernity",
+        "purpose",
+        "meaning",
+        "spirit"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang challenges the idea of modern superiority by asking for a contemporary achievement that is wonderful and spectacular enough to rival the achievements under discussion.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0062",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "classroom exchange in this lecture",
+      "topic_tags": [
+        "modern-achievement",
+        "comparison",
+        "pyramids"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says ancient monumental work was not organized around individual proprietary credit; it was organized around whether the shared vision was built.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "answer to student question in this lecture",
+      "topic_tags": [
+        "shared-vision",
+        "individualism",
+        "credit",
+        "pyramids"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, the desire to patent, get credit, and monetize an idea is part of why modern ideas become weak.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "modern creativity critique in this lecture",
+      "topic_tags": [
+        "patent",
+        "credit",
+        "capitalism",
+        "ideas"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes inspiration as arriving when people share who they are; if the motive is only money, God leaves and the ideas stop coming.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "creativity model in this lecture",
+      "topic_tags": [
+        "inspiration",
+        "god",
+        "money",
+        "creativity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Common sacrifice and lack of individualism, capitalism, and private-property orientation are presented as the mentality that makes tremendous collective projects possible.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0069",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "final synthesis of this lecture",
+      "topic_tags": [
+        "common-sacrifice",
+        "collective-work",
+        "private-property",
+        "heaven-on-earth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0005"
+      ],
+      "moment": "Religion is compressed into three childlike but permanent questions: origin, purpose, and destination.",
+      "source_phrase": "where do we come from... why are we here... where we going",
+      "why_it_matters": "This gives the episode a simple frame for why art, settlement, temples, and social order are religious before they are economic.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0006"
+      ],
+      "moment": "The myth of materialism becomes a management technology: if people think they are explorers, they will not be obedient enough.",
+      "source_phrase": "you're not gonna be obedient enough",
+      "why_it_matters": "Jiang turns anthropology into a politics of attention and labor discipline.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012"
+      ],
+      "moment": "The sleepless Polynesian navigator becomes a figure of imagination as computation: if the navigator sleeps, the boat is lost.",
+      "source_phrase": "they had to do this all in their heads",
+      "why_it_matters": "It gives Jiang's anti-progress argument a concrete bodily image rather than a generic claim about ancient wisdom.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "moment": "The mind is separated from the evolutionary body: maybe the body came from apes, but the mind comes from somewhere else.",
+      "source_phrase": "our minds come from somewhere else",
+      "why_it_matters": "This sharpens the series' recurring claim that human imagination is not reducible to biological utility.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0019"
+      ],
+      "moment": "Ancient builders are imagined as almost telepathic, seeing the same pyramid in their heads and working toward one shared image.",
+      "source_phrase": "it was almost like they had telepathy",
+      "why_it_matters": "This is the lecture's strongest image for imagination as collective coordination.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0020",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0021"
+      ],
+      "moment": "Modern process produces decay because it trains people to complete steps cheaply instead of trying to create eternity.",
+      "source_phrase": "you're trying to create eternity",
+      "why_it_matters": "The contrast between eternity and budget gives the episode its moral architecture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024"
+      ],
+      "moment": "The Manhattan Project is folded into the same sacred pattern as temples: a terrifying modern project becomes an effort to create eternal peace on earth.",
+      "source_phrase": "creating eternal peace on earth heaven on earth",
+      "why_it_matters": "This prevents the lecture from being simple nostalgia; Jiang sees the sacred form recurring even in nuclear modernity.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0026"
+      ],
+      "moment": "The temple is not just holy; it is the most valuable real estate on earth.",
+      "source_phrase": "a temple is always the most valuable real estate on earth",
+      "why_it_matters": "This phrase turns sacred architecture into the seed of political economy and factional power.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0030"
+      ],
+      "moment": "A skull becomes a portal into the afterworld, allowing the living to draw on the wisdom and spirit of the dead.",
+      "source_phrase": "a skull becomes a portal into the afterworld",
+      "why_it_matters": "It preserves the strange religious imagination behind ancestor worship rather than reducing it to a burial custom.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0032"
+      ],
+      "moment": "Farming is recast from progress into sacrifice: hunter-gathering is easy and healthy, farming sucks, but people accept it to live near the sacred center.",
+      "source_phrase": "Being a farmer sucks",
+      "why_it_matters": "This is the lecture's decisive reversal of the standard agriculture-as-progress story.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0034",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0035"
+      ],
+      "moment": "Killing an animal is not extraction but contract: permission before the kill, thanks after the sacrifice.",
+      "source_phrase": "it's almost like a contract",
+      "why_it_matters": "This is the clearest bridge between cave art, Catalhoyuk, Amazonian ritual, and the episode's moral ecology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0036"
+      ],
+      "moment": "When hierarchy corrupts the sacred settlement, people can simply get up and leave to build a new community on different principles.",
+      "source_phrase": "you can always choose to leave",
+      "why_it_matters": "Exit becomes a deep political freedom in Jiang's model of early societies.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0039",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0040"
+      ],
+      "moment": "People literally become someone else in summer and winter, like changing characters in a game.",
+      "source_phrase": "literally becoming someone else depending on the time of year",
+      "why_it_matters": "The image makes social identity feel chosen, seasonal, and playful rather than fixed.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0043"
+      ],
+      "moment": "The world behind waterfalls and stones is alive with ancestors, shining feathers, coca, tobacco, and the skull and brain of the sun.",
+      "source_phrase": "the skull and brain of the sun",
+      "why_it_matters": "This preserves the vivid excess of the cosmology Jiang wants students to feel, not just understand.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0044"
+      ],
+      "moment": "Mythology is not decoration; it encodes the expectations and behaviors necessary for survival in the forest.",
+      "source_phrase": "encoding expectations and behaviors essential to survival",
+      "why_it_matters": "The phrase links religious imagination to practical ecology without reducing it to utility.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0046"
+      ],
+      "moment": "Meat is not a hunter's right but a gift from the spirit world.",
+      "source_phrase": "Meat is not the right of a hunter, but a gift from the spirit world",
+      "why_it_matters": "It crisply states the moral economy that underlies the lecture's heaven-on-earth anthropology.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "moment": "The forest sleeps, so the people sing it awake.",
+      "source_phrase": "We wake it up by singing to it",
+      "why_it_matters": "This is the episode's most compact image of ritual as maintenance of heaven on earth.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "moment": "The world is a script, and living means following practices that keep the script in harmony.",
+      "source_phrase": "The world is a script",
+      "why_it_matters": "It gives later public prose a concise phrase for Jiang's ritual anthropology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0054",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "moment": "Modern people cannot imagine the pyramid because the old religion was heaven on earth and today's religion is capitalism.",
+      "source_phrase": "today our religion is capitalism",
+      "why_it_matters": "This is the direct answer to the student's challenge and the lecture's bluntest modernity critique.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057"
+      ],
+      "moment": "The monk's answer to impossible austerity is not utility but the desire to be with God.",
+      "source_phrase": "because I want to be with God",
+      "why_it_matters": "It makes faith a practical engine of capacity, not an ornamental belief.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "moment": "Jiang turns the student's faith in modern achievement into a live demand: name one thing we do today that is wonderful and spectacular.",
+      "source_phrase": "Give me an example",
+      "why_it_matters": "The repeated challenge creates a classroom hinge before the final answer about shared vision.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068"
+      ],
+      "moment": "The pyramid has no author because authorship is beside the point: all that matters is that it was built.",
+      "source_phrase": "Why? Because it doesn't matter who built the pyramids. All that matters is it was built.",
+      "why_it_matters": "This answers the student's question by dissolving modern authorship into shared sacred accomplishment.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068"
+      ],
+      "moment": "God gives ideas to the person who shares who they are; money-mindedness makes God leave.",
+      "source_phrase": "God comes into you and gives you ideas",
+      "why_it_matters": "It makes Jiang's creativity model explicitly theological and anti-proprietary.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0070"
+      ],
+      "moment": "Common sacrifice is the lost mentality that makes tremendous things possible together.",
+      "source_phrase": "this mentality, of common sacrifice",
+      "why_it_matters": "This is the closing public thesis of the episode: heaven on earth is a collective discipline, not a technology stack.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Synesthesia",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang uses the term for a mixing of senses where, for example, sound is seen as color.",
+      "confidence": "high"
+    },
+    {
+      "term": "Materialism as control myth",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0004",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The modern story that humans chiefly want money, sex, and power, which Jiang says makes people more governable.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hidden paternity",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's description of a matriarchal strategy that diffuses responsibility for children across the community.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Confirmation bias",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0010",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang uses the term for modern people's desire to believe they are smarter than earlier humans, which leads to bad explanations of ancient achievement.",
+      "confidence": "high"
+    },
+    {
+      "term": "Human imagination",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The internal power to map, remember, visualize, and coordinate reality without external machines.",
+      "confidence": "high"
+    },
+    {
+      "term": "Heaven on earth",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0018",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "A shared religious or civilizational project that tries to bring divine order, eternal peace, or spiritual meaning into worldly form.",
+      "confidence": "high"
+    },
+    {
+      "term": "Top-down process-oriented management",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0019",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's term for modern management that fragments work into steps and thereby severs work from vision.",
+      "confidence": "high"
+    },
+    {
+      "term": "Temple real estate",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang's model of temples as sacred sites that also concentrate tribute, authority, and factional competition.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cult of the skull",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0029",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A religious model where the skull maintains contact with ancestors or the spirit world.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Religious farming",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0031",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's claim that farming began as a sacrifice made to settle near religious centers and charismatic leaders.",
+      "confidence": "high"
+    },
+    {
+      "term": "Settlement cycle",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0035",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Jiang's sequence from charismatic sacred founding through growth, farming dependence, hierarchy, corruption, and exit.",
+      "confidence": "high"
+    },
+    {
+      "term": "Community laws",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0037",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The three principles Jiang asks students to remember for understanding how societies form, thrive, and die.",
+      "confidence": "high"
+    },
+    {
+      "term": "Spirit of place",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "The mythic and behavioral anchoring of a community to its land and life-world.",
+      "confidence": "high"
+    },
+    {
+      "term": "Reciprocity",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0045",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The ritual exchange in which humans ask permission, receive animal life as gift, and give thanks to maintain balance.",
+      "confidence": "high"
+    },
+    {
+      "term": "Molimo",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0047",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A forest-people musical ritual/instrument Jiang describes as communication with the spirits of the forest.",
+      "confidence": "medium"
+    },
+    {
+      "term": "World as script",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's phrase for a ritual world where proper living requires following practices that keep human and environmental order aligned.",
+      "confidence": "high"
+    },
+    {
+      "term": "Capitalism as religion",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's claim that modern purpose has been captured by the command to make as much money as possible.",
+      "confidence": "high"
+    },
+    {
+      "term": "Spiritual capacity",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "The expanded capacity Jiang attributes to people living for faith, purpose, and divine presence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Common sacrifice",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "The shared mentality Jiang says allows people to achieve tremendous things together.",
+      "confidence": "high"
+    },
+    {
+      "term": "Anti-proprietary vision",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0068",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "A collective relation to ideas where credit, patents, money, and private ownership do not matter as much as manifesting the shared vision.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0013"
+      ],
+      "note": "This 2025-10-24 lecture continues Jiang's post-Darwin critique from the prior human-imagination lecture by repeating that mind is not explained by ape descent.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0022"
+      ],
+      "note": "ASR says Aachen cathedral was built in 1790, which is likely a transcription/date issue; do not rely on that date without external correction.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang dates Gobekli Tepe to around 9600 BCE and uses it as the first discovered temple in this lecture's chronology.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0070"
+      ],
+      "note": "The lecture closes by contrasting ancient common sacrifice with contemporary examples such as ChatGPT, which Jiang dismisses as not a comparable wonder.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0002",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0003"
+      ],
+      "note": "ASR appears to render synesthesia as symphysesia and contains unclear phrases around Euler and a YouTube username; preserve the conceptual point but avoid relying on the exact proper nouns beyond Beethoven/Euler."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0014"
+      ],
+      "note": "The student question is ASR-noisy but its objection about modern precision and computers is clear enough for question extraction."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0016",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0017"
+      ],
+      "note": "ASR around the conventional school explanation of the pyramid is repetitive and noisy; the interpretive contrast tomb versus temple remains clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0029",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0031"
+      ],
+      "note": "ASR spellings for Karahan Tepe and Catalhoyuk vary; use normalized names in prose while keeping refs to the transcript."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0038"
+      ],
+      "note": "ASR renders The Dawn of Everything as 'the thought everything'; the book reference is clear from context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0047",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0048"
+      ],
+      "note": "ASR renders Colin Turnbull as Colin Trimble and molimo as molomo; normalize cautiously in public prose."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0053"
+      ],
+      "note": "ASR includes unclear text around the student's interjection during the first pyramid-answer exchange; the three-factor answer is still clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059"
+      ],
+      "note": "The student's comparison is semantically clear but ASR is rough around examples such as 'iron' and 'previous people'; treat the public question broadly."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0065",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0066"
+      ],
+      "note": "The short hesitant exchange before the final student question is not substantive enough to treat as a public question."
+    }
+  ]
+}

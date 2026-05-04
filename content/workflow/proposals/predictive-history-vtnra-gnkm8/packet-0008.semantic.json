@@ -1,0 +1,149 @@
+{
+  "packet_id": "predictive-history-vtnra-gnkm8-semantics-pkt-0008",
+  "source_id": "video:predictive-history-vtnra-gnkm8",
+  "source_date": "2025-10-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the answer by saying spiritual life, purpose, and faith make otherwise unimaginable disciplines possible, while modern people both lack these things and think they do not matter.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059"
+      ],
+      "kind": "question",
+      "summary": "A student grants that modern people cannot build the pyramids or navigate like Polynesians but asks whether modern achievements still show that people today can do spectacular things earlier people could not.",
+      "speaker_attribution": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0061",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0062",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0063",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by pressing the student for a modern example of something wonderful, spectacular, and amazing, making the absence of an example part of his critique.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059"
+      ],
+      "note": "Segment 0059 is a student question with noisy ASR; the comparative-modern-achievement challenge is discernible.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "note": "Short segments 0060-0064 are Jiang repeatedly asking the student for an example, not separate public questions by different speakers.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says spiritual purpose can make people capable of feats modern materialist people find unimaginable, such as extended meditation or physical austerity.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "answer to student question in this lecture",
+      "topic_tags": [
+        "spirituality",
+        "discipline",
+        "purpose",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, modern loss is doubled: people lack purpose, meaning, and spirit, and also believe those things do not matter.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "modernity critique in this lecture",
+      "topic_tags": [
+        "modernity",
+        "purpose",
+        "meaning",
+        "spirit"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang challenges the idea of modern superiority by asking for a contemporary achievement that is wonderful and spectacular enough to rival the achievements under discussion.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0062",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "classroom exchange in this lecture",
+      "topic_tags": [
+        "modern-achievement",
+        "comparison",
+        "pyramids"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057"
+      ],
+      "moment": "The monk's answer to impossible austerity is not utility but the desire to be with God.",
+      "source_phrase": "because I want to be with God",
+      "why_it_matters": "It makes faith a practical engine of capacity, not an ornamental belief.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0060",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0064"
+      ],
+      "moment": "Jiang turns the student's faith in modern achievement into a live demand: name one thing we do today that is wonderful and spectacular.",
+      "source_phrase": "Give me an example",
+      "why_it_matters": "The repeated challenge creates a classroom hinge before the final answer about shared vision.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Spiritual capacity",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "The expanded capacity Jiang attributes to people living for faith, purpose, and divine presence.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0059"
+      ],
+      "note": "The student's comparison is semantically clear but ASR is rough around examples such as 'iron' and 'previous people'; treat the public question broadly."
+    }
+  ]
+}
