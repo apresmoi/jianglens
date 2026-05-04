@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-mx93u4kza28-semantics-pkt-0006",
+  "source_id": "video:predictive-history-mx93u4kza28",
+  "source_date": "2026-01-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0041",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0042",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0043",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0044",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the debt-cancellation revolution pattern to Donald Trump's popularity, then restates the game-theory frame: individuals matter less than large-group structure, and poor children's outcomes cannot change without changing the structure they live in.",
+      "speaker_attribution": "Jiang classroom lecture; brief UNKNOWN segments are classroom acknowledgments.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "Alan asks whether ruling elites allow a limited degree of social mobility to preserve power and keep lower classes hopeful enough to avoid revolution.",
+      "speaker_attribution": "Student named Alan.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0047",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees and defines social mobility as the best form of governance. It can make societies stable, prosperous, and creative across political systems, but the positions of power fill quickly and incumbents prefer their children to inherit them.",
+      "speaker_attribution": "Jiang answer to Alan.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0042",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0044"
+      ],
+      "note": "Brief UNKNOWN 'Okay' fragments appear to be classroom acknowledgments and do not constitute substantive questions.",
+      "suggested_speaker": "student or room acknowledgment",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0046"
+      ],
+      "note": "The question is syntactically messy in ASR, but its substance is clear: whether controlled social mobility stabilizes elite rule.",
+      "suggested_speaker": "Alan",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang connects Trump's popularity to the same revolutionary promise: indebted people imagine a king who can cancel debt, and debt cancellation weakens the rich who threaten the king.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Political analogy in the 2026-01-13 lecture.",
+      "topic_tags": ["trump", "debt", "king", "revolution"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He states the game-theory principle that individuals matter less than group structure; poor children's outcomes cannot be changed without changing the structure around them.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Game-theory model in the 2026-01-13 lecture.",
+      "topic_tags": ["game-theory", "structure", "class", "education"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Alan's question frames social mobility as an elite governance strategy: enough hope to prevent revolution, but not enough mobility to threaten elite power.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Student question in the 2026-01-13 lecture.",
+      "topic_tags": ["social-mobility", "elite-rule", "governance"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang answers that social mobility is the best form of governance because it lets talented, ambitious people climb, stabilizes society, and increases prosperity and creativity.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Answer in the 2026-01-13 lecture.",
+      "topic_tags": ["social-mobility", "governance", "stability", "prosperity"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the political system matters less than available mobility: both 1950s America and 1950s China could motivate hard work when people believed advancement was possible.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0047",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Historical comparison in the 2026-01-13 lecture.",
+      "topic_tags": ["social-mobility", "america", "china", "political-system"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Social mobility decays because the first generation of successful talent fills the top positions and then tries to reserve replacement slots for its own children.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Institutional decay model in the 2026-01-13 lecture.",
+      "topic_tags": ["social-mobility", "inheritance", "elite-reproduction"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0043"
+      ],
+      "moment": "Game theory dissolves the individual: poor kids cannot be fixed one by one if their whole structure stays the same.",
+      "source_phrase": "individuals don't really matter",
+      "why_it_matters": "This is the lecture's explicit methodological claim and explains why school reform keeps failing.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0047",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "moment": "Social mobility is stronger than regime type: democracy, communism, capitalism, command economy all matter less than whether people can climb.",
+      "source_phrase": "You don't need democracy. You don't need any system",
+      "why_it_matters": "It makes the governance claim unusually stark and separates Jiang's model from familiar ideology comparisons.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "moment": "The talented people who opened the ladder become the parents who close it.",
+      "source_phrase": "they don't want people like them to replace them. They want their children to replace them.",
+      "why_it_matters": "This gives social mobility its built-in decay mechanism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "social mobility as governance",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0047",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's claim that allowing talent and ambition to climb is the best stabilizer of society, regardless of formal political system.",
+      "confidence": "high"
+    },
+    {
+      "term": "structure",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "The large-group social environment that determines outcomes more strongly than individual effort in Jiang's game-theory frame.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0041",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "note": "The Trump debt-cancellation analogy is a dated 2026-01-13 classroom claim and should be preserved with that source date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0048"
+      ],
+      "note": "The transcript says top positions are 'failed'; context indicates 'filled.'"
+    }
+  ]
+}

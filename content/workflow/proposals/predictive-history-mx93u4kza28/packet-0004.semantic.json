@@ -1,0 +1,181 @@
+{
+  "packet_id": "predictive-history-mx93u4kza28-semantics-pkt-0004",
+  "source_id": "video:predictive-history-mx93u4kza28",
+  "source_date": "2026-01-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0025",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0026"
+      ],
+      "kind": "question",
+      "summary": "After Jiang says social structures are rigid, a student asks whether poor kids can still succeed and become the kind of rich parent he has described.",
+      "speaker_attribution": "Student question after Jiang's prompt.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0027",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0028",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0029",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that some poor kids do succeed, using his own move from poor immigrant Toronto to the United States as an example. But the route requires leaving community, war, revolution, marrying up, immigration, luck, ambition, individualism, and high risk tolerance, so it remains an exception rather than the rule.",
+      "speaker_attribution": "Jiang answer to the student.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0031",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "A second student asks whether luck can count as an ability. Jiang answers that luck is a form of strategy: one can position oneself where luck is more likely, but the outcome is still luck.",
+      "speaker_attribution": "Student question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0026",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0031"
+      ],
+      "note": "These are substantive student questions and should be preserved as public episode questions if the read uses a Q&A surface.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says social structures are rigid because people usually play the game of fitting into their environment.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture model as of 2026-01-13.",
+      "topic_tags": ["social-structure", "rigidity", "game-theory"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Poor kids can succeed, but Jiang frames the main path as leaving one's community for a more mobile environment, which is high-risk and requires unusual individualism.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0026",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0027",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Answer in the 2026-01-13 lecture.",
+      "topic_tags": ["social-mobility", "community", "risk"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He names war, revolution, marrying up, and immigration to a more mobile place as traditional or modern mechanisms of social mobility.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0028",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture taxonomy as of 2026-01-13.",
+      "topic_tags": ["social-mobility", "war", "marriage", "immigration"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents his own success as luck shaped by migration: he says he was born poor and 'lucked into Yale' after leaving a rigid Canada for the more mobile United States.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0027",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0029",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0030",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Personal example in the 2026-01-13 lecture.",
+      "topic_tags": ["luck", "yale", "immigration", "social-mobility"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Luck can be strategized but not eliminated: successful people position themselves where luck can happen, but the outcome still depends on luck.",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0031",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Answer in the 2026-01-13 lecture.",
+      "topic_tags": ["luck", "strategy", "success"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0027"
+      ],
+      "moment": "The way out of class is described as abandonment: to succeed, you may have to leave your community.",
+      "source_phrase": "One way to succeed is to abandon your community.",
+      "why_it_matters": "It keeps the lecture from turning mobility into optimism; the escape route has a real social cost.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0029",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0030"
+      ],
+      "moment": "Jiang punctures the merit story of his own life: 'I lucked into Yale.'",
+      "source_phrase": "I was born poor. I lucked into Yale.",
+      "why_it_matters": "The personal example gives the lecture's anti-meritocratic claim emotional force.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0032"
+      ],
+      "moment": "Luck becomes strategic positioning without becoming desert.",
+      "source_phrase": "position yourself in a place that allows you to get lucky",
+      "why_it_matters": "This preserves agency without reverting to the simple story that hard work causes success.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "social mobility",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0027",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Movement from a lower-status position to a higher-status one, possible through risky mechanisms such as migration, war, revolution, marriage, or unusual luck.",
+      "confidence": "high"
+    },
+    {
+      "term": "luck as strategy",
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0031",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's answer that people can increase their chances by moving into luck-producing positions, while still depending on luck.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0026",
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0032"
+      ],
+      "note": "This exchange supplies two student questions for the 2026-01-13 episode: whether poor kids can succeed, and whether luck is a kind of ability.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mx93u4kza28@transcript:v1#seg-0029"
+      ],
+      "note": "The phrase 'badminton community' is likely ASR noise in a sentence about immigration or abandoning community; the mobility claim is clear from context."
+    }
+  ]
+}
