@@ -1,0 +1,139 @@
+{
+  "packet_id": "predictive-history-plmnq44tbg0-semantics-pkt-0003",
+  "source_id": "video:predictive-history-plmnq44tbg0",
+  "source_date": "2025-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0017",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0018",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0019",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0020"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads the serpent scene as a debate in which Eve judges for herself, eats first, becomes the real hero, and Adam follows before blaming her.",
+      "speaker_attribution": "Jiang quoting and interpreting Genesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0021",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0022",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0023",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Yahweh's response as revolutionary forgiveness and self-reflection, then reframes expulsion and death as conditions for human and species-level creativity.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0017",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang moves between quotation, paraphrase, and interpretation; no separate audience speaker occurs in these focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Eve is the hero of the Eden story because she independently judges the fruit and chooses knowledge before Adam follows.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0017",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Genesis interpretation in this source.",
+      "topic_tags": ["Eve", "judgment", "creativity"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Yahweh differs from Greek-style vengeful gods because he does not kill Adam and Eve but gives them clothing, implying forgiveness and possible self-reflection.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0020",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Comparative religious interpretation in this lecture.",
+      "topic_tags": ["Yahweh", "forgiveness", "Greek gods"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the naming of Eve as honoring her as the mother of all living and even as a true goddess figure.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Genesis interpretation in this source.",
+      "topic_tags": ["Eve", "motherhood", "goddess"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Creativity requires death; without mortality, humans lack urgency and later generations cannot have their own creative life.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0023",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Anthropological claim in this lecture.",
+      "topic_tags": ["death", "creativity", "Eden"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0018"
+      ],
+      "moment": "Eve looks at the fruit and says, in effect, I can see for myself what is true.",
+      "source_phrase": "no i can see for myself what is true",
+      "why_it_matters": "It makes the fall into the birth of independent judgment.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0021"
+      ],
+      "moment": "God's first response to disobedience is a present.",
+      "source_phrase": "instead of being angry... he offers them a present",
+      "why_it_matters": "It crystallizes Jiang's Yahweh as forgiveness rather than vengeance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0024"
+      ],
+      "moment": "Creativity is death.",
+      "source_phrase": "creativity is death",
+      "why_it_matters": "It is the sharpest formulation of the lecture's mortality-creativity model.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "God of forgiveness",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Yahweh as a deity who can recognize his role in a mistake, forgive, and revise his response.",
+      "confidence": "high"
+    },
+    {
+      "term": "Death and creativity",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The idea that finite life creates urgency and generational turnover, making creativity possible.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

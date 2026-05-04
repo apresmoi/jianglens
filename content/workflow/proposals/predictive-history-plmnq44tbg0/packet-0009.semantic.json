@@ -1,0 +1,181 @@
+{
+  "packet_id": "predictive-history-plmnq44tbg0-semantics-pkt-0009",
+  "source_id": "video:predictive-history-plmnq44tbg0",
+  "source_date": "2025-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0065"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks the student to clarify the David question.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0066"
+      ],
+      "kind": "question",
+      "summary": "The student clarifies that they are asking whether David stories teach Israelite culture or serve another intention.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0067",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0068",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0069",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0070"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the Bible changes with Israel's political needs; in David and Solomon's world, writing spins dangerous village gossip about David into a more forgivable story.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0071"
+      ],
+      "kind": "question",
+      "summary": "A student summarizes the point as the Bible being used to manipulate David's image.",
+      "speaker_attribution": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives the final formula: writing creates legitimacy, unity, and differentiation, making David God's poet king and Israel a forgiving, debating family distinct from other peoples.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0066",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0071"
+      ],
+      "note": "SPEAKER_01 is a student. Seg-0071 is fragmentary but functions as a performed follow-up that Jiang answers directly in seg-0072.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Bible's function changes as Israel changes; early Davidic stories work as public relations for a king surrounded by gossip.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Answer to student question in this lecture.",
+      "topic_tags": ["Bible", "David", "public relations"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The dangerous gossip is that David killed Uriah because Uriah was a threat; the safer spin is that David was an irresponsible lover who made a mistake.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0067",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0068",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0069",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "David-Bathsheba interpretation in this lecture.",
+      "topic_tags": ["David", "Uriah", "spin", "political violence"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Writing does three things for early Israel: legitimacy, unity, and differentiation.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Final synthesis in this lecture.",
+      "topic_tags": ["writing", "legitimacy", "unity", "differentiation"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Yahweh's difference from Greek gods is forgiveness, fallibility, reflection, debate, and openness rather than pure vengeance.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Comparative claim in this lecture.",
+      "topic_tags": ["Yahweh", "Greek gods", "forgiveness"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0067"
+      ],
+      "moment": "Writing is village gossip management for a king who cannot simply terrorize everyone into silence.",
+      "source_phrase": "you need to spin this",
+      "why_it_matters": "It makes scripture a media technology before it is theology.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0069"
+      ],
+      "moment": "The murder story becomes a forgiveness story.",
+      "source_phrase": "no, it was really about Bathsheba",
+      "why_it_matters": "It captures the precise narrative substitution Jiang thinks stabilizes David's rule.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0072"
+      ],
+      "moment": "Writing's three tasks are legitimacy, unity, and differentiation.",
+      "source_phrase": "Writing does three things",
+      "why_it_matters": "It is the lecture's portable model for political scripture.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Spin",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0067",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Retelling a politically dangerous fact in a less destabilizing frame.",
+      "confidence": "high"
+    },
+    {
+      "term": "Differentiation",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Writing's role in defining Israel as unlike neighboring peoples through a distinct God and values.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0067",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0072"
+      ],
+      "note": "Jiang explicitly says the Bible's nature changes over time and that this early construction function will be revised in later lectures.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0071"
+      ],
+      "note": "The student follow-up is ASR-fragmented; treat it as a paraphrase prompt only when paired with Jiang's clear answer in seg-0072."
+    }
+  ]
+}
