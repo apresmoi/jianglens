@@ -1,0 +1,132 @@
+{
+  "packet_id": "predictive-history-zgvahzqaawa-semantics-pkt-0005",
+  "source_id": "video:predictive-history-zgvahzqaawa",
+  "source_date": "2025-07-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0033"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by promising that the next video will connect the pieces into a five-to-ten-year forecast, then gives channel announcements about a break, a Discord live stream, and audience support.",
+      "speaker_attribution": "Jiang single-speaker YouTube monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0034",
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "He explains his public method: the project is a shared learning process of building theories and analytical models, with predictions serving as tests that either support the model or force revision.",
+      "speaker_attribution": "Jiang single-speaker YouTube monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0033",
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0035"
+      ],
+      "note": "Continuous one-speaker closing monologue; seg-0035 is empty after boundary repair because its text was merged into seg-0034.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the next video will connect the pieces of this sequence and try to predict world events over the next five to ten years.",
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Forward-looking program note on 2025-07-18.",
+      "topic_tags": [
+        "forecasting",
+        "five-to-ten-years",
+        "sequence"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines his mission as educating people to understand the world, while acknowledging that listeners may be confused or disagree.",
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Channel-method statement on 2025-07-18.",
+      "topic_tags": [
+        "education",
+        "public-method",
+        "audience"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents model-building as an iterative learning process: make theories and hypotheses, attach predictions, keep the model if predictions happen, and revise if they do not.",
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Method statement on 2025-07-18.",
+      "topic_tags": [
+        "prediction",
+        "model-building",
+        "hypothesis",
+        "learning-process"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0033"
+      ],
+      "moment": "The source ends by opening the next scale: all the scattered pieces are supposed to predict the next five to ten years.",
+      "source_phrase": "predict what will happen around the world in the next five to ten years",
+      "why_it_matters": "It makes this episode a hinge in a forecast sequence rather than a standalone Putin speculation.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0034"
+      ],
+      "moment": "The method is explicitly falsifiable: if the predictions fail, change the analytical model.",
+      "source_phrase": "If they don't happen, then we'll just go back and change the analytical model.",
+      "why_it_matters": "This is the public warrant for preserving the wildness of the hypothesis while not treating it as dogma.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "analytical model",
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "A theory or hypothesis for understanding the world that must be tested by predictions and revised if those predictions fail.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0033"
+      ],
+      "note": "The promised next video is part of the same July 2025 geopolitical forecast sequence and should be checked as a likely continuation of this model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zgvahzqaawa@transcript:v1#seg-0033"
+      ],
+      "note": "Transcript says 'desperate pieces'; context indicates 'disparate pieces.'"
+    }
+  ]
+}
