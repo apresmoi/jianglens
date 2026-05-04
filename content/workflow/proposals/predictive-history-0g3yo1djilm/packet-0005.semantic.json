@@ -1,0 +1,156 @@
+{
+  "packet_id": "predictive-history-0g3yo1djilm-semantics-pkt-0005",
+  "source_id": "video:predictive-history-0g3yo1djilm",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang applies the who-benefits test and identifies rich pensioners as the class most helped by rising property prices, stock values, euthanasia of the poor, cheap immigrant labor, and other decline trends.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0036",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0037",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "He narrows the target to old rich people, then explains pension systems as models broken by longevity assumptions, stock-market volatility, too many retirees, and too few workers.",
+      "speaker_attribution": "Jiang; includes rhetorical questions to class.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0039",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns pension math into political gerontocracy, using the aging U.S. population and elderly officeholders as examples of old people dominating policy and refusing to give up power.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang argues that rich pensioners benefit most from the decline trends: high property values, stock valuations, euthanasia freeing medical access, mass immigration as cheap labor, and other trends that either help them or do not hurt them.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Analytic claim in the 2025-08-29 lecture.",
+      "topic_tags": ["rich-pensioners", "who-benefits", "property", "immigration", "healthcare"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He distinguishes old people in general from old rich people, saying the latter are the problem because they have resources, want pensions, and benefit from social arrangements that burden the young and poor.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"],
+      "temporal_scope": "Clarification in the 2025-08-29 lecture.",
+      "topic_tags": ["rich-pensioners", "inequality", "old-age", "pensions"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says pension systems assumed old people would die soon after retirement and that investment returns would steadily improve, but longevity and market volatility break those assumptions.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0036",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Pension model in the 2025-08-29 lecture.",
+      "topic_tags": ["pensions", "longevity", "assumption-changes", "stock-market"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts that pensions will go bankrupt in five to ten years because there are too many retirees and not enough workers.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0038"],
+      "temporal_scope": "Forward-looking claim from 2025-08-29.",
+      "topic_tags": ["pensions", "bankruptcy", "retirees", "workers"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that older people, especially very old officeholders, increasingly dominate society and policy, with gerontocracy visible in the U.S. Senate and former leaders such as Joe Biden, Mitch McConnell, Dianne Feinstein, and Chuck Grassley.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0038",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0039",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Diagnosis as of 2025-08-29.",
+      "topic_tags": ["gerontocracy", "senate", "aging", "power"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033"],
+      "moment": "The whole map of decline resolves into one beneficiary: rich pensioners.",
+      "source_phrase": "the answer you would get is rich pensioners",
+      "why_it_matters": "This is the thesis turn where scattered symptoms become a single power model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"],
+      "moment": "Jiang refuses a generic anti-old claim and targets old wealth instead.",
+      "source_phrase": "I'm not saying that old people are the problem. I'm saying that old rich people are the problem",
+      "why_it_matters": "This distinction keeps the argument from collapsing into age resentment and locates the mechanism in wealth plus pensions.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0040"],
+      "moment": "Gerontocratic power is pictured as people who will not give up office even at the edge of death.",
+      "source_phrase": "They refuse to give up power. They won't give up power if they die",
+      "why_it_matters": "It gives the episode its sharp image of power as biological persistence plus institutional capture.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "rich pensioners",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Jiang's proposed beneficiary class: older wealthy people who benefit from property, stocks, pensions, medical access, cheap labor, and political influence.",
+      "confidence": "high"
+    },
+    {
+      "term": "assumption changes",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0036"],
+      "definition_or_usage": "Pension-plan assumptions about death and market returns that change when people live longer and investment returns fluctuate.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0038"],
+      "note": "The five-to-ten-year pension bankruptcy claim is a dated prediction from 2025-08-29.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0039"],
+      "note": "Jiang refers to Biden and McConnell as retired in this August 2025 lecture; preserve this date for later political chronology.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0039"],
+      "note": "The transcript says '15 million Americans who are 85' and then 'these 15 Americans'; the second phrase likely omits 'million' through ASR/context compression."
+    }
+  ]
+}

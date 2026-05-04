@@ -1,0 +1,142 @@
+{
+  "packet_id": "predictive-history-0g3yo1djilm-semantics-pkt-0007",
+  "source_id": "video:predictive-history-0g3yo1djilm",
+  "source_date": "2025-08-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the student's resistance question by saying young people can do nothing because humans are biologically wired to respect and obey elders.",
+      "speaker_attribution": "Jiang answer to the student question in seg-0048.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0050",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0051",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0052",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0053"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks what happens to rich pensioners' money after they die; Jiang says pensioners will divert money from schooling, healthcare, and elsewhere because they dominate politics and nobody wants to deny grandparents care.",
+      "speaker_attribution": "Student question, brief acknowledgment, and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0054",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether the problem ends when old people die; Jiang answers that modern medicine and abundance let wealthy elderly people keep living, so each aging cohort can replace the prior ruling cohort unless catastrophe interrupts the trend.",
+      "speaker_attribution": "Student question and Jiang answer; seg-0054 appears to include Jiang's 'great point' at the end despite the student label.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0054"],
+      "note": "The final phrase 'That's a really great point' is likely Jiang responding, though the full segment is labeled SPEAKER_03.",
+      "suggested_speaker": "student question followed by Jiang response fragment",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says young people cannot overthrow gerontocracy because they are biologically trained to respect and obey elders, which is why elders can send them to wars.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049"],
+      "temporal_scope": "Answer in the 2025-08-29 lecture.",
+      "topic_tags": ["obedience", "elders", "war", "young-people"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts a pension crisis will divert money from schooling, public schooling, healthcare, and almost everywhere else because pensioners are politically powerful and socially protected.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0050",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0051",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Forward-looking claim from 2025-08-29.",
+      "topic_tags": ["pension-crisis", "schooling", "healthcare", "political-power"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that wealthy elderly people are not simply dying off because modern medicine and abundance can keep rich people alive for years even in severe decline.",
+      "refs": [
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0054",
+        "video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer in the 2025-08-29 lecture.",
+      "topic_tags": ["modern-medicine", "abundance", "longevity", "wealth"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says gerontocratic control can persist for a long time because as one elderly cohort dies, the next aging cohort replaces it, and wars kill young people rather than old people.",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056"],
+      "temporal_scope": "Forward-looking model from 2025-08-29.",
+      "topic_tags": ["gerontocracy", "cohort-replacement", "war", "young-people"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049"],
+      "moment": "The answer to youth resistance is brutally closed: nothing.",
+      "source_phrase": "what can young people do about this? And the answer is nothing",
+      "why_it_matters": "This gives the Q&A its bleak endpoint and explains why gerontocracy is hard to dislodge.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0053"],
+      "moment": "The moral shield around grandparents becomes the political shield around pension transfers.",
+      "source_phrase": "Do you want to deny healthcare and pension to your grandparents?",
+      "why_it_matters": "It shows how affection and respect become fiscal power.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056"],
+      "moment": "Even when one cohort dies, the next cohort becomes the old ruling class.",
+      "source_phrase": "when the green goes away the red becomes the green",
+      "why_it_matters": "This chart image turns gerontocracy from a temporary problem into a self-renewing structure.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "pension crisis",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0051"],
+      "definition_or_usage": "The condition where there are too many pensioners and not enough money, causing resources to be diverted from other public needs.",
+      "confidence": "high"
+    },
+    {
+      "term": "cohort replacement",
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056"],
+      "definition_or_usage": "Jiang's chart-based image that one aging cohort replaces another as the elderly ruling group.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055"],
+      "note": "The claim that modern medicine can keep rich elderly people alive for much longer is used as a 2025 explanation for why gerontocracy may not naturally expire.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055"],
+      "note": "Jiang's anecdote about a wealthy 90-year-old friend and a doctor's '20 years' answer is anecdotal; public treatment should keep it as Jiang's example, not a general medical fact."
+    }
+  ]
+}
