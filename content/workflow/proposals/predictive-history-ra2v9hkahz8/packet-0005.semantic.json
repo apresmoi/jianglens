@@ -1,0 +1,218 @@
+{
+  "packet_id": "predictive-history-ra2v9hkahz8-semantics-pkt-0005",
+  "source_id": "video:predictive-history-ra2v9hkahz8",
+  "source_date": "2025-06-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Freud's reversal through patronage and context: fathers paid the bills, Vienna had evidence of transgressive sects, and Frankism/Sabbatai Zevi show how taboo-breaking could become a religious logic.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0038",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0039",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He uses Semmelweis as the Vienna warning story: a doctor saves women by handwashing, threatens powerful reputations, is blacklisted and dies after confinement, showing what happens when one defies power.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "note": "Several names are ASR-damaged: Frankenism likely refers to Frankism, and Sibetai Zevi to Sabbatai Zevi.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "note": "Ignat Simmelweis is an ASR spelling of Ignaz Semmelweis.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang offers a material explanation for Freud's reversal: Freud's patients were young women, but their fathers were often paying him.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Lecture diagnosis of Freud's incentives.",
+      "topic_tags": [
+        "Freud",
+        "patronage",
+        "fathers",
+        "patients"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues there is some evidence that sexual trauma and abuse were real problems in late nineteenth-century Vienna, including transgressive religious sects.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical context offered in the lecture.",
+      "topic_tags": [
+        "Vienna",
+        "sexual-trauma",
+        "Frankism",
+        "transgression"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Frankism is presented as a transgressive religious movement in Central and Eastern Europe that treated taboo-breaking as proof of faith.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Historical example used in this lecture.",
+      "topic_tags": [
+        "Frankism",
+        "Sabbatai-Zevi",
+        "taboo",
+        "transgression"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Freud likely knew many women were telling the truth but changed his story to protect his livelihood.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Lecture diagnosis of Freud's reversal.",
+      "topic_tags": [
+        "Freud",
+        "patients",
+        "livelihood",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Semmelweis is used as evidence that nineteenth-century Vienna punished doctors whose truths threatened powerful professional reputations.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0038",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0039",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Historical analogy used to explain Freud.",
+      "topic_tags": [
+        "Semmelweis",
+        "Vienna",
+        "medicine",
+        "power",
+        "truth"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034"
+      ],
+      "moment": "Freud's theory changes when the bill payer enters the room: the daughter suffers, but the father pays.",
+      "source_phrase": "who's paying the bills? The father",
+      "why_it_matters": "It turns an intellectual reversal into an incentive story.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "moment": "Sabbatai Zevi's transgression logic says God cares about the heart, not the act.",
+      "source_phrase": "God cares about what's in your heart. As long as you're true to God, what you do in life does not matter",
+      "why_it_matters": "It links the lecture's opening model of transgression to Freud's Vienna context.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "moment": "Semmelweis is the cautionary tale: save women, embarrass doctors, get destroyed.",
+      "source_phrase": "that's what happens to you when you defy powerful people",
+      "why_it_matters": "It supplies the fear logic Jiang uses to explain Freud's retreat.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Frankism",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "A transgressive Jewish sect discussed as evidence that taboo-breaking religious practices existed in Freud's broader Central/Eastern European context.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Sabbatai Zevi",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Charismatic Jewish messianic figure used to explain a religion of transgression where inner faith matters more than outward conduct.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Semmelweis",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Vienna doctor used as a warning example of what happens when a medical truth threatens powerful colleagues.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "note": "This packet anchors Freud's reversal in late nineteenth-century Vienna and uses earlier religious/transgressive movements plus Semmelweis's 1840s Vienna as context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "note": "The transcript's dates for Sabbatai Zevi are likely ASR-damaged; the semantic point is the religious-transgression model, not the exact date."
+    }
+  ]
+}
