@@ -1,0 +1,194 @@
+{
+  "packet_id": "predictive-history-abs6z7vpemc-semantics-pkt-0001",
+  "source_id": "video:predictive-history-abs6z7vpemc",
+  "source_date": "2025-02-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0001",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture around three problems: why Constantine moved the capital to Byzantium, how the Byzantine Empire endured for over a thousand years, and why it eventually declined.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0002",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0003",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He presents the conventional problem of Rome as an overlarge empire without natural boundaries, threatened externally and internally weakened by Senate-aristocratic corruption.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0005",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0006",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0007",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He summarizes the scholarly strategic explanation for Constantinople: defensibility, eastern center of gravity, and proximity to Persia, before signaling that he thinks a deeper cultural reason matters more.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0001"
+      ],
+      "note": "Single-speaker classroom lecture; the questions in these segments are Jiang's framing questions, not student questions.",
+      "suggested_speaker": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang treats the Byzantine Empire as historically continuous with Rome but argues that explaining it requires asking why Constantine moved the capital, why the empire endured, and why it declined.",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0001",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture dated 2025-02-25; historical span 330 to 1453.",
+      "topic_tags": [
+        "byzantine-empire",
+        "constantinople",
+        "episode-frame"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Roman Empire was structurally hard to sustain because it was too large, lacked natural boundaries comparable to China, faced northern invaders and Persia, and kept republican institutions unsuited to imperial management.",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0002",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Ancient Roman imperial period as explained on 2025-02-25.",
+      "topic_tags": [
+        "rome",
+        "empire",
+        "institutional-contradiction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a Senate composed of aristocratic ruling houses produces corruption when power is evenly divided, because the houses can mainly agree to share corruption together.",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0003",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Rome diagnosis in this lecture.",
+      "topic_tags": [
+        "senate",
+        "aristocracy",
+        "corruption"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The standard strategic explanation is that Constantinople was chosen because Rome was easy to overrun, the empire's wealth and center of gravity were in the east, and Persia was the main competitor.",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0006",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0007",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Scholarly-consensus account summarized on 2025-02-25.",
+      "topic_tags": [
+        "constantinople",
+        "strategic-consensus",
+        "persia"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the strategic consensus as incomplete and says the more important reason for Constantine's move is tied to Byzantium becoming the birthplace of modern Christianity.",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang interpretation dated 2025-02-25.",
+      "topic_tags": [
+        "christianity",
+        "constantine",
+        "culture-shift"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0003"
+      ],
+      "moment": "Committee rule among ruling houses decays into shared corruption.",
+      "source_phrase": "the only thing they can really agree on is to be corrupt together",
+      "why_it_matters": "It compresses Jiang's institutional model: oligarchic balance can preserve form while destroying public purpose.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0008"
+      ],
+      "moment": "The lecture pivots from geography to Christianity as the deeper reason for Byzantium.",
+      "source_phrase": "I think there was a much more important reason why Constantine made this move",
+      "why_it_matters": "This is the hinge from consensus history into Jiang's cultural-civilizational argument.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Byzantine Empire",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0005",
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Later historians' name for the Eastern Roman Empire, whose people still called themselves Romans.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third-century crisis",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Roman collapse pressure marked by civil wars, northern invasions, economic collapse, and plague.",
+      "confidence": "high"
+    },
+    {
+      "term": "Council of Nicaea",
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Constantine-linked council that Jiang says laid the intellectual basis for modern Christianity by debating the nature of Jesus and his relation to God.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0001"
+      ],
+      "note": "The lecture dates Constantine's transfer to 330 and the Ottoman conquest of Constantinople to 1453.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-abs6z7vpemc@transcript:v1#seg-0002"
+      ],
+      "note": "Transcript phrase 'Unlike China. China. In the Indian Ocean.' appears damaged; the broader point is lack of natural boundaries."
+    }
+  ]
+}

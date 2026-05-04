@@ -1,0 +1,327 @@
+# Civilization #33:  The Rise and Fall of the Byzantine Empire
+
+Source: https://www.youtube.com/watch?v=abs6z7VPEMc
+
+## seg-0001 / 00:00:00-00:01:23 / SPEAKER_01
+
+Okay, so good morning. Today, this morning, we are doing the Byzantine Empire, and I will be looking at three questions. The first question is, why do we have the Byzantine Empire? Historically, we have seen the Byzantine Empire as a continuation of the Roman Empire. We have the Byzantine Empire because Constantine the Great, in 330, transfer the capital of the Roman Empire from Rome to Byzantium, which later became, which he called New Rome, and which eventually was renamed to Constantinople. So, why did he make that transition? That's the first question. Second question is how did the Byzantine Empire rise? It fell... So it lasted from 330 until 1453 when the Ottoman Turks overran the capital of Constantinople. So it lasted for over a thousand years. Arguably it is the most enduring world empire in human history. So how was it so successful? That's the second question. And the third and last question is why did it ultimately decline?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:24-00:02:45 / SPEAKER_01
+
+Why did it collapse? What were the factors that led to its eventual demise? So those are the three questions we will be looking at this morning. And what I want to do, first I want to present the scholarly consensus. What is generally accepted? What is generally believed about these three questions? And then I want to present my own perspective in order to refute the scholarly consensus. All right. So let's start. This is the Roman Empire in 117. And as you can see, it is huge. It spans across the Mediterranean. This is Spain. Over here is Anatolia, Egypt, the Levant. So it is a huge world empire. And that's a problem. It's just much too big. Unlike China. China. In the Indian Ocean. It has no natural boundaries. And throughout most of its history, it was invaded by barbarians. What the Romans call barbarians. Basically these Germanic Gothic tribes from the north. It also had a major adversary in the Persian empire.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:46-00:03:58 / SPEAKER_01
+
+At this time they were fighting against the Parthians. But later on they would fight against what is what we call the Sassanid Persian. empire. And so this was not a really sustainable empire. Internally, as we discussed last class, there was a contradiction. They were an empire, but they believed themselves to be a republic. It was important for them to maintain republican institutions like the Senate, even though it was to the detriment of the management of the empire. What I mean by that is that throughout this time, on paper in theory, it was committee, it was rule by committee. The Senate was really in command. And as we discussed in previous classes, the Senate is composed of the Roman aristocracy, the ruling houses of Rome. When you have that, when you have committee, rule by committee, committee, when powers divide up evenly among the ruling houses of an empire, the only thing they can really agree on is to be corrupt together.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:59-00:05:08 / SPEAKER_01
+
+And so the Senate was a huge problem because they basically monopolized wealth. And there was a lot of discontent in the provinces. There was a lot of discontent among the people. And the Romans tried different solutions to this. But none of the solutions worked. And eventually, we had something called the third century crisis, the crisis of the third century, which basically meant the Roman Empire was about to disintegrate. There were civil wars going on. There were these invasions in the north. There was economic collapse. There was a plague. So in the third century, it really seemed the Roman Empire was on the brink of complete implosion. Then a military genius by the name of Diocletian, he reunited the empire, and he recognized we basically needed to change the system. And we needed to make radical changes in order to save the Roman Empire.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:09-00:06:38 / SPEAKER_01
+
+As you can see, it is extremely difficult to protect Rome against the barbarian invaders over time. Eventually, the western portion of the empire will be overrun by these barbarians who we call the Germanics, the Goths, the Slavs, the Huns. Basically, these are the successors to the Yamnaya people, and they come from the steppes. So they are extremely aggressive, mobile people who will eventually overrun the Roman Empire. And they will establish... Basically, the Roman Empire. The tribes that will eventually give us the modern states of Germany, Britain, France. So basically, these are the ancestors of Western Europeans. So as you can see, these barbarians, they will establish their own empires. And all that will be left after about the year 500 is the Eastern Roman Empire, which is a successor. It is a successor to the Roman Empire. And even though they call themselves Romans, and they identify themselves as Romans, historians refer to the Eastern Roman Empire as the Byzantines.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:39-00:07:45 / SPEAKER_01
+
+Again, they themselves did not call themselves the Byzantines. It's what later historians call them. So the man who makes this transition... Who basically is the founder of the Byzantine Empire. His name is Constantine the Great. And what he does that's very important is that he shifts the capital from Rome to Byzantium on the Bosporus. And today we call this place Constantinople. It's still there, guys, if you want to visit. It's called Istanbul in Turkey, and it's a beautiful city. Definitely one of the most beautiful cities in the world. Now. The question is... Sorry, I skipped. The question then is, why was this move made? And what modern historians believe is that this was a strategic decision. First of all, Rome was not easily defended. So it's very common throughout its history for it to be overrun by a provincial military governor. So think of Julius Caesar. But also
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:45-00:08:55 / SPEAKER_01
+
+there were others as well who did the same thing, who were extremely successful in the provinces. Okay. And they took their military and conquered Rome. It was very easy to overrun Rome and then declare himself emperor. So by moving into Constantinople, the city, the capital is now impregnable. Okay. It is impossible to besiege. It is easily defensible. And how so, I will show you later on. Okay. The other thing that's really important about this transition is Constantinople is really at the center of the empire. Now, Rome was too far to the west and most of the Roman Empire's most wealthy provinces, the most important province like Egypt, Anatolia, and the Levant were actually in the east. Okay. So it's recognition, the fact, the center of gravity in the empire was really in the east. And the third reason is, again, throughout most of its history, Rome's main competitor were the Persian Empire to the east.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:55-00:10:10 / SPEAKER_01
+
+And so by moving to Constantinople, it allows the emperor to most easily and most directly respond to the threat of the Persians. Okay. So this is the scholarly consensus. Okay. But as I will show you later on, I disagree with this consensus. I think there was a much more important reason why Constantine made this move. Okay. The Byzantine Empire becomes the birthplace of modern Christianity. Okay. Constantine the Great is the first Christian Roman Emperor. He converts to Christianity. But not only that, but he lays the intellectual basis for modern day Christianity through something called the Council of Nicaea. The pronunciation is different. Okay. It's properly pronounced Nicaea, but most people pronounce it Nicaea. Okay. So the Council of Nicaea. We talked about this last semester, where the Council of Nicaea was established to answer a theological debate in the Christian world. What is the nature of Jesus? What is the relationship with God? As we
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:10-00:11:24 / SPEAKER_01
+
+discussed, one more popular interpretations, explanations is the idea of Arianism, where Jesus is a lesser divinity to God. Okay. The Council of Nicaea established the idea of the Holy Trinity, which is that God, Jesus and Holy Spirit are co -equal. They are separate, but they are co -equal. We call this the Holy Trinity, the Godhead. Okay. So that is Constantine's major contribution. After Constantine, one of his successors, Theodosius, makes Christianity the official religion of the Roman Empire. Okay. So there is now a crackdown on both the idea of paganism, which used to be the religion of the Roman Empire, as well as the idea of heresy, especially the idea of Arianism. He also builds something called the few Docian walls, which makes Constantinople basically impenetrable. Okay. It makes it an impenetrable fortress and allows Constantinople to stand for a thousand years. Okay. As you can see from the field Docian walls, it's huge. Okay.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:24-00:12:35 / SPEAKER_01
+
+This is just a person. You can see that there are two walls. There's a moat protecting it. So for a thousand years, these walls protected the city. There weren't that many soldiers in the city. You didn't actually need that many soldiers to protect against invaders. The other thing, so these walls are still standing today. You can actually go get on a plane. Fly. Fly to Istanbul and visit these walls. Okay. They were basically designed to stand for all eternity. And that was the idea of Constantinople, the eternal city. They also had sea walls. So not only could you not attack Constantinople by land, you couldn't even attack it by sea. One of the great inventions of Constantinople is the idea of Greek fire. Okay. The story is that they were being attacked by fire. They were being attacked by the Muslims. This is in the eighth century when the Muslims are expanding throughout the world. They're conquering both the Sassanian Empire as well as the Roman Empire.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:36-00:13:45 / SPEAKER_01
+
+And they want to obviously overrun Constantinople. And ultimately what saves the city is the invention of something called Greek fire, which is basically kerosene. Right? You take kerosene. You throw it at someone. And then the boat is lighted. The boat is lighted on fire. And the story is that this was invented by a Hellenized Jew who converted to Christianity. And he has this great idea and then he approaches the emperor with this invention. The emperor believes that he is an angel sent by God to save the city. Okay. And so it is impossible to actually launch a naval expedition against Constantinople because they'll just burn down your ships. At the height of the Byzantine Empire, it almost reestablishes, reconstitutes the entire Roman Empire. And this is the year 565. At this point, the emperor is Justinian. And at this point, the one who is leading the military of the Byzantines, his name is Belisarius.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:46-00:14:49 / SPEAKER_01
+
+And he is considered the last great Roman general. Okay. His military genius is on par with that of Julius Caesar. Julius Caesar, Hannibal, all the great generals. And through his military conquest, the Byzantine Empire is able to expand its influence. But as we learn in this class, once you reach a peak of empire, there are problems. Okay. So the first problem is that your city becomes overpopulated. And when your city becomes overpopulated, it becomes susceptible to the plague. Okay. So there's something called the Justinian Plague, which wiped out. It wiped out anywhere between 50 to 60 % of the entire population of Constantinople. At this point, the population of the city is about 500,000, half a million. The plague killed 300,000 people. That's a lot of people. Okay. Even today, scholars debate where this plague came from. Originally, we believe it came from grain ships from Egypt, right?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:49-00:15:56 / SPEAKER_01
+
+Because Constantinople imports all its food from Egypt. And so there were rats on these ships, and these rats spread basically the bubonic plague. Now historians believe that it actually came from the steppes, the Huns, and through their invasion. Okay. So we don't know what happened. We just know it killed a lot of people. And this greatly reduced the power of the empire. Also when you have these military conquests, you overextend it. Okay. So it is very difficult to maintain this empire. And the third problem is that whenever there's a military expansion, the empire, the emperor, comes into conflict with the general. So even though Justinian and Belisarius, they were great friends, the wives were great friends, they themselves had a lot of personal conflict. In fact, towards the end of his life, Belisarius was actually tried for treason. And there were many times when Belisarius was on military campaign, it was clear that Justinian was trying to sabotage him.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:56-00:17:22 / SPEAKER_01
+
+Because obviously if you're emperor, you're afraid that your general, your great conquering general will eventually come back and take your throne. Okay. So because of what happened between Justinian and Belirius, basically this was the last time that the Byzantines embarked on a massive military campaign. Okay. From now on, they're defensive. And also they focus on the idea of diplomacy, basically bribing their enemies not to attack them, especially the Huns, but also the Arabs as well as the Persian Empire. Okay. This is the Hagia Sophia, the Cathedral to Wisdom. And this is the great monument, the great legacy of the Byzantine Empire. It's absolutely beautiful. Again, guys. This is what's amazing. It's still there. Okay. You can actually get on a plane, go to Istanbul and visit this place. It's absolutely gorgeous. Definitely worth visiting. All right. Now why did Constantinople fall? And so what happened was that again, even though Constantinople itself is impenetrable, it's invincible, it's still an empire.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:22-00:18:30 / SPEAKER_01
+
+And so eventually its regions were eventually overrun by great enemies. So for example, in about the year 1450, and this is three years before the eventual fall of the city, the Ottoman Empire just, it's basically taking over the Byzantines. Okay. And the only city left standing is Constantinople. Okay. So you can see over here are the Ottomans. Over here is the Ottomans. Okay. The Ottomans were able to conquer the city because of the invention of the Byzantine of siege engines. Okay. These are, these canyons are as big as houses and they basically overwhelm the walls and allow the Ottomans to overrun the city. Now what's important to understand is even though the Byzantines were Christian and the Ottomans were Muslim, and even though the Turks overran the city, the Turks were extremely respectful to the citizens of the city. Because they were considered the heirs, the successors to the Roman Empire.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0015
+
+## seg-0016 / 00:18:31-00:19:32 / SPEAKER_01
+
+And this was the center of what we call the Orthodox Church. So the, so, so the citizens were treated extremely well. Okay. This again is another picture of the siege of Constantinople. All right. Let's talk lastly about the significance and power of the city. The city was the center of the world. Okay. Constantinople was the center of the world for hundreds of years, both intellectually, because it, again, it was the here to not just the Roman Empire, but also to Greek civilization. It was also in terms of trade, the capital of the world, because it was a meeting place of both the Aegean, which leads to the Mediterranean, as well as the Black Sea, which leads into what is Russia today. Okay. So if you wanted to go anywhere, you basically had to go through Constantinople. It was really the center of the world. And through trade, taxing trade, the city became extremely wealthy.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0016
+
+## seg-0017 / 00:19:32-00:20:43 / SPEAKER_01
+
+Also because it was the center of the world, it was very multicultural, very cosmopolitan. You had basically all major ethnicities living inside the city. Jews, Christians, Muslims were all treated with extreme tolerance. They basically had their own quarters within the city. Okay. As you can see, at its height, the city was extremely beautiful and very wealthy. It was really, for a hundred years, the capital of the world, the capital of the universe basically. As you can see, it is almost impossible to besiege. Okay. You can never cut it off from supplies. You can never isolate the city because it is the meeting place of so many rivers. Okay. This is the Bosporus. Okay. So that is the Roman Empire, okay? So this is the, again, what we know about it. And now I'm going to explain my theory to these three questions. Why did Constantine make the move from Rome to Byzantium?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0017
+
+## seg-0018 / 00:20:44-00:22:42 / SPEAKER_01
+
+Why did it rise? Why did it decline? Okay. But before I start with my explanation, are there any questions about what I just presented? This is all pretty basic stuff. This is stuff you can find on the internet, on Wikipedia. You can ask, chat to Bettina, and he'll probably give you the same answers, okay? But are there any questions so far about Constantinople and the Byzantine Empire before I present my ideas? Was this clear to you guys? Any questions, guys? Right. Okay. That's a great question. So culturally, were the Romans at this time Greek or Roman? And you're absolutely right, Doug, in that. Greek culture is really the hegemon, right? I mean, it's so much so superior to Roman culture. I mean, Romans really were peasants who built an empire, but the Greeks basically built Western civilization, okay? You had Homer. You had Plato. You had Herodotus. The Romans
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0018
+
+## seg-0019 / 00:22:42-00:23:50 / SPEAKER_01
+
+were aware of this, and this was a conflict within Roman culture, civilization, for a long, long time. Because they felt that even though they had conquered the world, they didn't want to conquer They were about to be conquered culturally by the Greeks. So the Romans were aware of this, and they rebelled against this. And you weren't here for my lecture on the Aeneid, but really, Augustus Caesar sponsored the writing of the Aeneid in response to the hegemony of Greek culture. So even though you're right in that most of the Roman aristocracy, they embraced Greek culture, such as, like, Mark Anthony, right? Mark Anthony saw himself as more Christian. He saw himself as more Greek than Roman. There was a lot of pushback from the empire against this, okay? But eventually, as we'll see, eventually Greek culture does triumph, all right? So let me explain how. All right. So the first question I want to look at is, why did Constantine make the move from Rome to Byzantium, okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0019
+
+## seg-0020 / 00:23:50-00:24:50 / SPEAKER_01
+
+So let me give you some background. Okay. So during the time of Augustus, Augustus, we today see him as the first Roman emperor. But he didn't himself see himself as the first emperor. He just saw himself as just a citizen of Rome, okay? He is what we call a princep, or he calls himself a princep. And this is where we get the modern English word prince, as well as principal, high school principal. And it just means first citizen. So again, the problem with Rome is that... You had the aristocracy, through the Senate, monopolize all wealth and power. And this led to a lot of contradictions and conflicts within the Roman Empire. And so the solution that Augustus proposed is, make the princep, make me the CEO, okay? This is still committee. It's still rule by committee, but I'll be the coordinator, I'll be the CEO, okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0020
+
+## seg-0021 / 00:24:50-00:25:58 / SPEAKER_01
+
+And the idea here was... Okay. So even though this was not a great system, it did preserve the culture, okay? The history, the legacy, and the traditions of the Roman people. And that was what was important, to protect and preserve the culture, especially the idea of libertas, okay? Liberty. But this system didn't really work, right? You had these civil wars. You had a lot of provincial riots. Okay? Rebellions. So this system simply didn't work. And this led to what we call the crisis of the third century, when basically the Roman Empire was about to collapse, okay? And again, as we said, a governor, a commander named Diocletian, he saved the Roman Empire by reuniting, okay? And at this point, he's like, this system doesn't work. What we need to do is study the Persian Empire, because even though we don't like the Persians, their empire seems a lot more sustainable and continuous than our empire, okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0021
+
+## seg-0022 / 00:25:58-00:27:11 / SPEAKER_01
+
+And so this started a period, what we call the Dominate, okay? Basically the idea of starting an imperial bureaucracy, centralizing power with the emperor through the bureaucracy. And the Romans hated this idea, okay? What emperors discovered is this cultural shift. What? The Romans just found it absolutely disgusting. Go back to the assassination of Julius Caesar, right? The Romans were extremely culturally arrogant. Why did they assassinate Julius Caesar? And the people who assassinated Julius Caesar were his best friends. In fact, we believe Marcus Brutus, who was one of the lead conspirators, was actually his biological son, right? Why? Because Julius Caesar was threatening the cultural traditions of Rome. They were afraid that Julius Caesar would become king. Okay? So what these emperors, first under Diocletian, but especially under Constantine, discovered is it's really hard to change culture. And there's really one solution to this problem. Okay, to understand this, let's run a thought experiment, okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:11-00:28:16 / SPEAKER_01
+
+So you understand the persistence of culture. So we're at school, and this school is known for being innovative. It's known for being innovative. It's known for being student -centered. It focuses a lot on activities and extracurriculars, right? And that's great. I'm very supportive of this. But let's just say that the school brings me in as a consultant and asks me to help improve the school. And I spend months interviewing students and teachers, and I feel this school is great in terms of innovation, but it needs to focus more on academics. Kids need to focus more on academics. Kids need to read more. Kids need to focus more on test scores. And then you have a perfect balance, okay? And that's my solution. Well, I'm pretty sure if I tried that, I'd be fired within a week. Okay? And the reason why is I am attacking your cultural traditions. I'm attacking your identity, your sense of self.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0023
+
+## seg-0024 / 00:28:17-00:29:19 / SPEAKER_01
+
+So if I want to implement my vision, I can't force my vision on you. Okay? So what I can do is switch schools and build my own school. Okay? Does that make sense to you guys? Okay? And this is a pretty persistent thing throughout the world, okay? So that's why Constantine made the move to Byzantium. He recognized that if I'm going to build an empire, and Rome needs to be an empire if it is to endure, I need to switch cultures. And the best way to switch culture is by moving your capital from Rome. Rome to Byzantium. And when he did that, the entire culture shifted. Okay? So let me very quickly explain the cultural shift. In Rome, it was pagan. Okay? Oh, by the way, pagan is not the word that they use. Okay? Pagan is a word that Christians use to insult them, basically. Okay? But for the sake of convenience, we'll use the word pagan.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0024
+
+## seg-0025 / 00:29:20-00:30:41 / SPEAKER_01
+
+That was their religion. They were Roman, meaning that they had a distinct cultural identity. And lastly, they were republic, meaning they were run by the Senate, basically. Okay? Not just Senate, but by tradition and by custom. Okay? By Senate poll, okay, the Byzantine Empire was completely different. First of all, it was Christian. And the pagan and Christian worldview are in conflict with each other. This is a major shift. Second is they were multicultural. So, as Doug says, in the time of Rome, in the time of Augustus, there was a major conflict, major debate between Roman culture and Greek culture. But when they switched over to Constantinople, they completely embraced Greek culture. In fact, the language switched from being Roman to Greek. They spoke Greek. And they embraced Greek culture. Herodotus. Plato. Plato were major thinkers that the Byzantine Empire embraced and celebrated. And lastly, it switched from
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:41-00:32:00 / SPEAKER_01
+
+being republic, meaning that it went, being run by Senate, to an empire, which basically meant it was being run by a bureaucracy. Okay? So, Byzantine, the Byzantine Empire, is a very distinct entity from the Roman Empire. Historians today argue the Byzantine Empire is a continuation of the Roman Empire, but that's only a superficial and shallow understanding. Culturally, the Byzantine Empire was a radical departure from the Roman Empire or the Roman Republic. Okay? And so, I will explain what these differences are. And this, it's been important because it's going to inform our understanding of future events in Western civilization. Okay? So, let me first explain the difference in worldview between the pagan and the Christian. All right? All right. Pagan. And again, guys, I will have to make a lot of generalizations, but it's a useful framework for the understanding of ancient cultures. Okay? So, what's the pagan worldview? Well, in the pagan worldview, there are different layers to your understanding of the world.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0026
+
+## seg-0027 / 00:32:00-00:33:03 / SPEAKER_01
+
+The forces, the superpowers. The two supernatural forces that you interact with intimately are the gods. Okay? And the gods is really a metaphorical way to understand nature. Right? So, in nature, there are all of these natural forces that we can't really see. For example, the wind. We can't really see the wind. But also, we can't really see creativity or luck. Well, in the pagan worldview, these hidden invisible forces are the forces of nature. Okay? So, these invisible forces are rendered and expressed as gods. Okay? And the gods are those that we interact with every day on an intimate basis. It was very important for us to maintain good relations with the gods by making ritual tributes to the gods. Okay? So, sacrifice and rituals were a very important part of the pagan worldview. Above the gods are actually even higher invisible forces that no one has seen before.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0027
+
+## seg-0028 / 00:33:03-00:34:14 / SPEAKER_01
+
+No one has control of. Okay? Which includes fate. Which includes luck. Okay? Fortune. Okay? But there are these invisible forces that even the gods must submit to. And then, at the highest level, are what are called unwritten and immutable. Immutable just means unable to change, eternal, laws of the universe. And think of this structure. As giving the universe some order and structure. Okay? So, think of gravity. Right? It's an unwritten and immutable law of the universe. And what they really mean by this is the idea really of karma or justice. Right? If you do good in the world, good will happen to you. If you do evil in the world, evil will happen to you. It may not happen to you, but it may happen to your children. Okay? So, there is a cosmic balance to the world. And this is really the pagan worldview. Right? The Christian worldview is very simple. There's you.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0028
+
+## seg-0029 / 00:34:14-00:35:30 / SPEAKER_01
+
+Okay? You. And then there's God. And the thing that matters is your personal relationship with God. That's it guys. Alright? So, let's look at the three major differences between the pagan worldview and the Christian worldview. Okay? And again, this is a generalized, simplified version. And we use it. We use it in order to be clear about the differences and that there are, in fact, differences. Alright. So, the three major differences are this. The Christian worldview introduces into the Roman world three ideas that really didn't exist before. Okay? They are truth, evil, and the individual. Now, these ideas actually existed in other traditions, like the Jewish tradition and the Persian tradition through Zoroastrianism. But they really didn't exist. They existed in the Greek and the Roman tradition. So, the counterpart to truth in the pagan tradition is the idea of chaos or luck. Okay? So, there's no structure to the universe. In the Christian worldview, there's a God who has designed the universe.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0029
+
+## seg-0030 / 00:35:31-00:36:46 / SPEAKER_01
+
+And that is the truth. Okay? So, the intention of God is the truth. The plan is the truth. Whereas in the pagan worldview. There's no design, guys. It's just complete random chaos. And you just have to do try your best in this world. Okay? In the Christian worldview is the idea of evil. Which is if you go against the intention of God, you commit sin. That is evil. Now, what's interesting for us is in the pagan worldview, the opposite idea is action. Okay? In other words, in the world of chaos. You have to act. Okay? You have to do stuff. If you refuse to act, you are a slave. So think back to the Iliad. Right? In the Iliad, Achilles says why he is in Troy. Why he's fighting in Troy. And he says that before he came to Troy, he was told his fate. He could either die old back at home or he could die young in Troy.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0030
+
+## seg-0031 / 00:36:46-00:37:42 / SPEAKER_01
+
+But by dying young in Troy, he'll become famous. He'll be remembered forever. And for Achilles, that's not really a choice. What he's being told is you must come to Troy and you must die. And that will win you eternal glory. Okay? It's the idea of action. Also think of the Romans. Okay? In their legends, they have a name named Musius. Remember? At the beginning of the Roman Republic. The Romans are besieged by the Etruscan king. And Musius is a young, normal man, only 20 years old. He decides to assassinate the king in order to free the Romans. He swims across the Tiber and he's about to do his deed, but it's payday. And the king is with his secretary. And they look alike. They dress alike. They look alike. And Musius is hiding with his dagger and he knows it's 50 -50. Okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0031
+
+## seg-0032 / 00:37:43-00:38:43 / SPEAKER_01
+
+Now, for us, we'd be like, you know what? 50 -50 is terrible odds. So let me come back another day. Or let me be more patient. But for Musius, it's fortune favors the bold. So he's like, 50 -50 is great. It's great odds. I'm never getting better odds. So he takes his dagger and he kills the secretary. Okay? He misses. Then he's captured by the king and the king wants to torture him and force him to confess. And the king threatens him and says, I will burn you alive. Okay? There's a great fire beside Musius if you do not tell me the truth. And what Musius does is he puts his hand into the fire and lets it burn in front of the king. And that scares the king. Okay? That's the idea of action. You make your fortune through your action. You cannot sit and wait. You cannot deliberate. You cannot be clever. You're just apt.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0032
+
+## seg-0033 / 00:38:43-00:39:50 / SPEAKER_01
+
+You're just brave. Okay? That's a pagan worldview. This is important for us. This is important for us because the people who will feature in our course who's very important and who follow this worldview are also the Vikings. Okay? So the Vikings share this similar worldview. It's a pagan worldview. The last thing is the idea, in the Christian worldview, it's an individual that matters. The individual's soul is what matters. Okay? But in the pagan worldview, what matters is the community. Why are Achilles... Why is Achilles fighting in Troy? Why is Musius sacrificing himself for Rome? Because they want to be remembered by their community. Alright? So let me give you two examples of this. Let's go back to the Iliad. Hector. Remember Hector? Hector, in the Iliad, he is the greatest Trojan warrior and he's destroying the Greeks because Achilles refuses to fight. But then Achilles enters the battlefield. And at this point, he's not fighting.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0033
+
+## seg-0034 / 00:39:51-00:40:50 / SPEAKER_01
+
+Hector's lieutenant tells him, Hector, Achilles is back. Let's go home. Let's go hide behind the walls of Troy. We'll be fine. But Hector says, no. Fortune favors the both. The gods are with me. And so, of course, Achilles and the Greeks destroy the Trojans. And they're all forced to run back to the walls of Troy. Every Roman enters Troy except for Hector. Hector stays outside the walls of Troy. And waits for Achilles to come. He knows for a fact that Achilles will kill him. Achilles is a god. He's a great warrior, but he's not a god. And at this point, he knows he's about to be killed. And most of us would just sneak back into the walls of Troy, right? He can't do that because he's afraid of being laughed at by his lieutenant. He's afraid of shame. He has to die for his community. He has to die for his community.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0034
+
+## seg-0035 / 00:40:50-00:42:13 / SPEAKER_01
+
+Okay? So that's Hector. But also, think about Lucretia. Lucretia. Lucretia, remember, is the woman, noblewoman, who is raped by the son of Tarquinius Superbus, the last king of Rome. And this is what starts the rebellion that overflows the Roman monarchy. Lucretia is raped. And then she kills him. Lucretia kills herself because she's dishonored. And Augustine, remember Augustine in the City of God, he writes about this. Okay? And from his perspective, it was a crime for Lucretia to kill herself. Why? Because we are all the creation of God. Therefore, we are the property of God. Therefore, when we kill ourselves, we are committing a sin against God. We are basically stealing. We are stealing from God. And that's why if you commit suicide, you'll be condemned to hell forever. Okay? You'll be condemned to damnation forever. And then Augustine explains Lucretia killed herself because she's afraid of the shame that she would have to endure if she lived.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0035
+
+## seg-0036 / 00:42:13-00:43:21 / SPEAKER_01
+
+She was afraid that she'd be laughed at by the other woman of Rome. Okay? And that's the idea of community versus the indemnity. Okay? And that's the idea of community versus the indemnity. So, it's a radically different worldview, the pagan versus the Christian. Let me explain some other differences. For example, the attitude towards sex. Okay? Christians, because we live in a Christian world, we know that sex is bad. Okay? Sex should only happen between husband and wife, and it should only happen for the purpose of procreation. We shouldn't do it because we enjoy it. The pagans have the complete opposite attitude towards sex. Sex was to be embraced. It was to be enjoyed. It was to be celebrated. Why? Because if the gods didn't mean for us to have sex, they wouldn't make it so much fun. Okay? So, sex was a very important part of pagan life, as well as violence. Okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0036
+
+## seg-0037 / 00:43:21-00:44:32 / SPEAKER_01
+
+They also embraced and celebrated violence. Okay? So, think about the Vikings. Think about the Romans. Right? They loved violence, and the Christians hated violence. So, the argument is that the Christian worldview is an improvement on the pagan worldview, because the pagans, they had things like orgies. They had things like child sacrifice. They had things like genocide. Okay? This is all bad, right? But, remember, and this is really important. Okay? These are just two different worldviews. And it's hard for us to objectively assess which one is better. We can only say that they both have their benefits, and they both have their consequences. Okay? So, an example is food. If we were to go to America today and look at the food that Americans eat, we'd be disgusted, right? Hamburgers, Coca -Cola, French fries. But guess what, guys? If Americans were to come to China, they would be equally disgusted by the food that Chinese eat.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0037
+
+## seg-0038 / 00:44:32-00:45:28 / SPEAKER_01
+
+Okay? Like malatang and this stuff. Okay? Some of this stuff is really bad for you. So, I would keep that in mind. It's easy for us to be culturally arrogant and say, like, we are so better than these ancients. But it's all a matter of perspective. If we were to go back in time and look at the pagan world, we'd be disgusted by the murders, by the violence, by all the sex going on. Okay? But at the same time, and this is really hard for us to understand, but if they were to come here, if they were to time travel and come here and see our world, they'd be disgusted. Okay? Because, like, from their perspective, we'd behave like slaves. Achilles is out winning glory on the beaches of Troy, while we are in school memorizing useless facts so that we can get useless pieces of paper so that we can make useless things. Pieces of money.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0038
+
+## seg-0039 / 00:45:28-00:46:47 / SPEAKER_01
+
+Right? Money is paper. They would not understand why we're doing this to ourselves. All right? So, I would keep that in mind. Like, the pagan worldview is very different from the Christian worldview, and that's it. All right? And, in fact, we will later in the semester discover that there are some thinkers such as Nietzsche, Frederick Nietzsche, who believe that the switch from the pagan worldview to the Christian worldview was a major setback in the development of civilization. Okay? All right. Any questions about the difference between the pagans and the Christians before I move on? Any questions? Was this clear? All right. Now, let's move on to the idea of republic versus empire. Okay? And, look, I mean, the differences are pretty stark. Right? So, in a republic, it's usually just like egalitarianism. Okay? Everyone's opinion does matter. And, in an empire, there's a hierarchy. Okay? So, that's the first major difference. Okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0039
+
+## seg-0040 / 00:46:47-00:47:53 / SPEAKER_01
+
+In a republic, people are egalitarian. And, in an empire, there's a hierarchy. So, think about this. In the Persian empire, if you were to meet the emperor, what you have to do was prostrate yourself first and then kiss his feet. All right? That's the idea of empire. But, in a republic, you didn't do that. In fact, even though Rome was becoming a welfare city, a major tradition in Rome was you didn't lock your doors. You didn't have guards. So, a senator who was in charge of Gaul, he could literally put millions of people to death if he wanted to. He didn't lock his door. So, you, the lowliest Roman, could just walk into his house and have tea with him or coffee with him and talk about life. Okay? That was the tradition in Rome. Also, another thing is when Roman senators walked the streets of Rome, they always carried an umbrella, something called a, to protect themselves.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0040
+
+## seg-0041 / 00:47:53-00:49:01 / SPEAKER_01
+
+Okay? And the reason why is this. Roman houses were two stories, and they didn't have a sewage system. So, if you did go to the bathroom, you did so using a bucket on the second floor. Okay? And so, what would happen is, if you saw someone you didn't like walk the streets, you would actually take your bucket and throw all this shit at him. Okay? That's literally what they did. So, if you were a senator, you could be the most powerful man in the world, but you could still literally risk having shit thrown at you. Okay? So, that's the Roman world. It was egalitarian. Where there's an empire, there's hierarchy. So, in the egalitarian world, it means there's openness. People are open to new ideas. There's debate. Okay? Literally anyone could propose a new idea. Whereas, in the empire, it was a very closed system. Okay? They didn't like new ideas. So, go back to the example of Greek fire.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0041
+
+## seg-0042 / 00:49:01-00:50:00 / SPEAKER_01
+
+Right? A guy, and it's a story, so we don't know if it's true. But a guy had to go to the emperor and get his approval before the military could adopt it. That's really inefficient, guys. Okay? The Greeks would have just gone and done it. The Romans would have let the commanders make their own decisions. It would not have been the decision of the Senate. It would have been the decision of the military commander that was appointed by the Senate. Okay? So, the republic would be much more innovative than the empire. Okay? Because the republic would be much more open. Okay? So, there would be a lot more diversity in a republic. And in an empire, things would be much more conformist. Okay? You would have a lot more creativity, a lot more diversity within a republic than within an empire. All right? And that's kind of intuitive
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0042
+
+## seg-0043 / 00:50:00-00:51:08 / SPEAKER_01
+
+because, if you think about it, an empire has so much more people and so much more wealth and resources than a republic. But, historically, we found that republics and democracies are much more innovative and creative than empires. And the reason has to do with the idea of a bureaucracy. All right? Something that a democracy or a republic does not have is the idea of an imperial bureaucracy. All right? They have bureaucracies, but they're not that big and they're not imperial. So, let's talk about bureaucracy. All right? And this is a very important idea that I want you guys to remember for the rest of the semester because we will refer to this idea. All right? Now, in the beginning, bureaucracies are good for empires because what they do is they do centralization. All right? They're able to centralize the empire, unite the empire, basically. Something that they do that's important is the idea of systemization.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0043
+
+## seg-0044 / 00:51:08-00:52:24 / SPEAKER_01
+
+All right? Basically, keep records, create laws, systemization. And last is the idea of standardization. Standardization. Uniformity. Okay? So, getting people to speak the same language, getting people to use the metric system, getting people to use money. All right? And this creates tremendous wealth within the empire in the early years because, again, what you have is you have the creation of money because you have a legal system. You have a monopoly on violence. Monopoly on violence just means that these neighbors don't fight anymore. Okay? Because there's a police. There are these courts. They can just sue each other. There's a legal system and people are now using money. This leads to contracts and this leads to trade and increased economic activity. So, you have peace and prosperity. People feel safe. People feel that life is predictable. So, they do more. They work harder. Okay? And this leads to, in the early stages of an empire, to tremendous prosperity.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0044
+
+## seg-0045 / 00:52:25-00:53:46 / SPEAKER_01
+
+Okay? But, over time, what will happen is this bureaucracy will ossify. Meaning, the people within the bureaucracy will think of how to use the bureaucracy for their own personal benefit. Okay? We can say this is corruption. Okay? So, centralization leads to corruption where just a minority of people with all the power use it for their own personal benefit. They're basically parasites. The technical word we use for this is rent seeking. Okay? Rent seeking. So, think of landlords who charge rent to their tenants. Well, if it's a monopoly, they can charge as much as they want. There's nothing you can do about it. Okay? It's what we call rent seeking. Okay? So, centralization eventually leads to corruption. Systemization leads to, ultimately, stagnation. Okay? There's nothing new going on. And, centralization leads to the idea of conformity or homonization. Okay? Where everything becomes the same. Where everything is bland. Okay? Does that make sense? All right.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0045
+
+## seg-0046 / 00:53:46-00:55:16 / SPEAKER_01
+
+Okay. So, why this happens? What happens is because even though the bureaucracy is only an institution among different institutions. Okay? So, think about this. You have the pure bureaucracy, but they are competing against the court system. Okay? Which is basically emperor. Okay? And, the court is usually controlled by eunuchs. Okay? So, these are servants of the emperor. The bureaucracy is up against the court. It's also up against the nobility. Right? The traditional power of society. It's also up against the military. It's also up against the church. Okay? So, there are different institutions that can counter the bureaucracy. But, over time, in terms of peace and prosperity, if things are really stable, eventually, the bureaucracy triumphs over all these other institutions. Okay? And, the reason why is this. First is the bureaucracy can monopolize status. Okay? And, mobility. So, if you're just an ordinary person, well, the best way to rise from a society is through the bureaucracy.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0046
+
+## seg-0047 / 00:55:16-00:56:51 / SPEAKER_01
+
+This is certainly true in China. Right? Where everyone wants to be a bureaucrat because that's seen as the mechanism of achieving social status as well as social mobility. Also, bureaucracies monopolize information. It controls what information flows into the system. It controls what the emperor sees. Okay? So, we can say this is about censorship and secrecy. And, the last thing that it does is it monopolizes the idea of narrative. Okay? It controls the production of culture. And, we can... So, and it does this mainly through the process of writing history. Okay? So, remember, history is the creation of a cultural narrative to bind people together. And, it's usually the imperial bureaucrats who do this. In other words, what's important for us to understand is the bureaucrats have a monopoly of literacy and knowledge. They control the schools. They control the media. They control history writing. They control how you think and write. So, even though these are...
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0047
+
+## seg-0048 / 00:56:51-00:58:12 / SPEAKER_01
+
+They are competing institutions, the bureaucracy, by controlling this meta -reality that's culture, it controls the way that these other institutions behave. Okay? So, the example I want to use... The example I want to use is the idea of the Godhead. Alright? The Godhead. So, my argument to you is the Godhead, it's really a bureaucratic invention. Alright? Because, remember, during the Council of Nicaea, there's a debate as to the nature of Jesus. There are these Aryans who believe that Jesus was a lesser divinity. Then, there are people who call... Who believed in modalism. Who just believe the Holy Spirit, Jesus, and God were different forms of the same entity. Then, you have partialism, which is to say that they are part of the same entity. Okay? And these three different explanations make sense. They make intuitive sense. The idea of the Godhead, where God, Jesus, and the Holy Spirit are co -equal.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0048
+
+## seg-0049 / 00:58:13-00:59:25 / SPEAKER_01
+
+Separate, but the same thing. Makes no sense. And the reason why they would do this is to create a sense of mystery. Right? And distance. And secrecy. And that, my friends, is the definition of a bureaucracy. Right? I'm not sure if you've dealt with bureaucracies. I have. They suck. They dehumanize you. So, think of... I'll just use a silly example. Right? So, in America, there's something called a census. And on the census, you have to write down what racial group you belong to. And the racial group I belong to, if I were American, is Asian American. Right? Guess what? Guess who else belongs in that group? Indian people. Vietnamese people. Japanese people. Korean people. That makes no sense. We know that in Asia, the Indian culture is vastly different from the Japanese culture, which is vastly different from the Korean culture and the Chinese culture and the Vietnamese culture. Okay? These are different people with their own belief systems.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0049
+
+## seg-0050 / 00:59:25-01:00:53 / SPEAKER_01
+
+But in a bureaucracy, it just categorizes everyone together almost randomly or indifferently. Okay? And that's why I would make the argument that, ultimately, multicultural societies are not as creative. They're not as creative as tribal societies. Okay? Tribal versus multicultural. Think about the multicultural societies that are around us today. Okay? Singapore is a multicultural society. Canada is a multicultural society. They're not very creative guys. They're very bland. They're very conformist. They're very bureaucratic. Okay? Very tribal societies, like the Greeks. The Greeks were extremely tribal. They were extremely chauvinistic. Okay? They were extremely creative. Right? As were, as are the Europeans. Okay? As are the Vikings. And the reason why is, tribalism is energetic. It makes you passionate. It makes you think deeply about the world. Whereas in a multicultural society, people have to spend their energies getting along with each other. It's important not to be offensive. Okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0050
+
+## seg-0051 / 01:00:53-01:02:20 / SPEAKER_01
+
+And so, it's because of these three reasons, the certain cultural construct of the Byzantine Empire, it was Christian. It was multicultural. The word we can also use is cosmopolitan. Okay? Also, it was bureaucratic. The Byzantines were not a very creative people. Okay? Even though they had access to every culture in the world, even though they had access to the classics like Plato, Homer, Herodotus, as well as Virgil, they were not that creative. In fact, if you had a genius like Homer or Dante living in the Byzantine Empire, well, he would just become a bureaucrat. We would never know the genius of Homer and Dante. Homer and Dante could only arise in tribal societies. So, does that make sense to you guys? Okay. And again, this is just an introduction to the conflict between these political systems. Empire versus Republic. Bureaucracy versus... Yeah. All right? We will continue these themes and these topics as we move on throughout Western history.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0051
+
+## seg-0052 / 01:02:20-01:03:36 / SPEAKER_01
+
+But I want to say something. But I first want to introduce these ideas to you. It's really important that you understand the difference between paganism and Christianity because we'll be referring to this conflict, this division, later on in the semester as well. Any questions about this? Please feel free to argue. Okay? Please feel free to ask questions, to argue because when you do that, it helps me improve my own thinking. All right? Any comments? Any feedback? Okay. So, I want to give you guys some time to think about questions. But before I do that, I want to look ahead over the next couple of weeks and tell you what we'll be doing. Okay? So, we did the Roman Empire, then we did the Byzantines. So, as I explained to you, the Roman Empire, Western Roman Empire, will collapse in the year 476. When? When the last emperor, Romulus Augustus, is deposed. Okay?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0052
+
+## seg-0053 / 01:03:36-01:04:59 / SPEAKER_01
+
+But when he's deposed, people don't understand the Roman Empire has come to an end. Okay? Because the people who are still in charge think the Roman Empire is continuing. But now, we have a long period of civil wars throughout Europe. All right? And these civil wars will eventually lead to something called the Holy Roman Empire, which is something that the... Which is what Charlemagne of the Franks will create. And this will lead, interesting for us, to the rise of the Vikings. Okay? Okay? And the Vikings are important because they will go on and basically influence British culture, as well as Russian culture. All right? So, Russia comes from the idea of the Rus'. Okay? And the Rus' are basically just Vikings. Over here, we will begin, we will see the beginning of the Abbasid Caliphate, which is really the golden age of the Muslims. But, eventually, they'll be conquered by the Mongols. All right? And the conquest of the Mongols will eventually take us into the Renaissance, Dante.
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0053
+
+## seg-0054 / 01:04:59-01:05:32 / SPEAKER_01
+
+And this will mark a new beginning in world history. Okay? So, I just want to explain to you what we'll be doing. We will definitely have to do the Holy Roman Empire. That's number one. Then, this will lead us to the Vikings, number two. Then, we'll talk about the Abbasid Caliphate, number three. And then, we'll talk about the Mongols, and then the Renaissance. Okay? So, this is what we'll be doing over the next two to three weeks. All right? We'll be going very fast throughout. We'll be going very fast this semester. Okay? So, just to let you know. All right?
+
+Ref: video:predictive-history-abs6z7vpemc@transcript:v1#seg-0054
