@@ -1,0 +1,154 @@
+{
+  "packet_id": "predictive-history-9murgjjg4aa-semantics-pkt-0001",
+  "source_id": "video:predictive-history-9murgjjg4aa",
+  "source_date": "2025-10-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0001",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0002",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0003",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by reconstructing the standard scientific story: Big Bang, evolution, survival of the fittest, language, neuroscience, memory, identity, and worldview. He distills that worldview into three principles: randomness, materialism, and bottom-up emergence.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0006",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0007",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He begins attacking that worldview by arguing that dark energy is a patch for Big Bang anomalies, compares it to adding 'dark energy' to a wrong math answer, and says a multiple-Big-Bang model would explain more but is blocked by scientific paradigm loyalty. He then pivots to evolution, saying it works for animals but fails to explain the human gap.",
+      "speaker_attribution": "Jiang classroom lecture with rhetorical questions voiced by Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang frames the dominant scientific worldview as a story about where humans came from, who they are, and where they are going: Big Bang cosmology, mutation-based evolution, human language, neuroscience, memory, identity, and worldview formation.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0001",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0002",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture reconstruction as of 2025-10-15.",
+      "topic_tags": ["science", "evolution", "neuroscience", "worldview"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the current scientific worldview has three core characteristics: reality is random rather than designed, material rather than spiritual, and emergent from particles upward.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-10-15.",
+      "topic_tags": ["scientific-worldview", "randomness", "materialism", "emergence"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that dark energy functions as an explanatory patch for cosmological anomalies and compares it to adding 'dark energy' to a wrong math-test answer.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0006",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-10-15.",
+      "topic_tags": ["dark-energy", "big-bang", "scientific-paradigms"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims the Big Bang model may be wrong because scientists defend it as a paradigm even when a multiple-Big-Bang possibility would fit the anomalies better.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0007",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-10-15.",
+      "topic_tags": ["big-bang", "paradigm", "cosmology"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says evolution broadly works for animals but becomes problematic for human beings because it does not explain the sharp ape-to-human difference.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-10-15.",
+      "topic_tags": ["evolution", "human-origins"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005"
+      ],
+      "moment": "The whole modern worldview is reduced to three axioms: random, material, emergent.",
+      "source_phrase": "random ... material ... emergent",
+      "why_it_matters": "This gives the lecture its target; every later spiritual and metaphysical move is an attack on these three assumptions.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0006",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0007"
+      ],
+      "moment": "Dark energy becomes the classroom joke for institutional science: a magic plus sign added to a wrong answer.",
+      "source_phrase": "plus dark energy. Problem solved.",
+      "why_it_matters": "The analogy makes his critique of scientific patches memorable and polemical.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "scientific worldview",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's label for a worldview built from randomness, materialism, and bottom-up emergence.",
+      "confidence": "high"
+    },
+    {
+      "term": "dark energy",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0006",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Used as Jiang's example of a scientific unknown that preserves a paradigm by explaining away cosmological irregularities.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0001",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0008"
+      ],
+      "note": "This 2025-10-15 lecture begins Secret History #9 by making the prior scientific-origin story the object of critique before building the alternative metaphysical model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0003",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0006"
+      ],
+      "note": "The transcript has ASR contamination around the identity sentence and the dark-energy phrase, but the surrounding argument is clear."
+    }
+  ]
+}

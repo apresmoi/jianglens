@@ -1,0 +1,199 @@
+{
+  "packet_id": "predictive-history-9murgjjg4aa-semantics-pkt-0007",
+  "source_id": "video:predictive-history-9murgjjg4aa",
+  "source_date": "2025-10-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0049",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0050",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0051",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says religion or eschatology is the coordination script by which secret societies work without meeting. Because transgressive secret societies know they are doing evil, they invert the world by worshiping Satan, elevating material power, and making heaven into hell and hell into heaven.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "A student asks why God would not intervene if secret societies devote themselves to Satan and Satan's power goes beyond God.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0055"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that free will means God and Satan cannot interfere directly, that successful secret societies use all three principles, and that only in darkness can humans fully shine, with one person's light reflecting into everyone else.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether God and Satan are real beings, one God and one source of bad things, or two positive and negative worlds.",
+      "speaker_attribution": "Student question.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0052",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0053"
+      ],
+      "note": "The segment boundary splits Jiang's prompt 'who are the' from the student's 'major players and what will happen'; treat seg-0053 as the substantive student question.",
+      "suggested_speaker": "Jiang prompt followed by student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0056"
+      ],
+      "note": "The student's wording is fragmentary but clearly asks about whether God/Satan are real or metaphorical/polar worlds.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines religion or eschatology as a script for understanding the world that lets people coordinate secretly without meeting.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Lecture definition as of 2025-10-15.",
+      "topic_tags": ["religion", "eschatology", "coordination", "secret-societies"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that secret societies embedded in bureaucracy invert religion by worshiping Satan so that transgression becomes empowerment rather than guilt before God.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0049",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-10-15.",
+      "topic_tags": ["secret-societies", "inversion", "satan", "transgression"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the metaphysical system has three exploitable principles: unity, symmetry or polarity, and as-above-so-below reflection.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Lecture model as of 2025-10-15.",
+      "topic_tags": ["unity", "polarity", "as-above-so-below", "metaphysics"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that today's power struggle is a war between heaven and hell, where power holders invert the world by making people worship money, power, technology, science, and material reality while abandoning God, compassion, and love.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-10-15.",
+      "topic_tags": ["heaven", "hell", "inversion", "materialism", "power"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In answer to the student, Jiang says God and Satan cannot interfere because of free will, and God's nonintervention means God trusts humans to stand up in darkness.",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0053",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Answer during the 2025-10-15 lecture.",
+      "topic_tags": ["free-will", "god", "satan", "darkness", "human-choice"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0049"
+      ],
+      "moment": "Religion becomes a covert coordination protocol.",
+      "source_phrase": "religion is just a script ... that allows you to coordinate secretly",
+      "why_it_matters": "It recasts eschatology as infrastructure for power, not only belief.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0051"
+      ],
+      "moment": "The lecture names modern politics as an inversion war: hell made heaven, heaven made hell.",
+      "source_phrase": "make hell into heaven and heaven into hell",
+      "why_it_matters": "This is the sharp public thesis of the final third of the lecture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0055"
+      ],
+      "moment": "God's answer to darkness is not intervention but trust that humans can shine.",
+      "source_phrase": "only in time of complete darkness only when satan rules can humans fully shine",
+      "why_it_matters": "It gives Jiang's free-will model its moral drama.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "A religious script for coordinating action and understanding the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "inversion",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0049",
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The act of flipping heaven and hell, good and evil, spiritual and material values to preserve power.",
+      "confidence": "high"
+    },
+    {
+      "term": "as above, so below",
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The principle that everything reflects everything else, allowing corruption of humans to become metaphysically significant.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0051"
+      ],
+      "note": "Jiang says this heaven/hell war will structure the rest of the semester, making this lecture a course-framing source.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054"
+      ],
+      "note": "ASR renders 'different secret societies' poorly as 'differences to secure societies'; the semantic point is still clear."
+    }
+  ]
+}
