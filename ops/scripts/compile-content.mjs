@@ -459,6 +459,18 @@ function annotateParagraphs(paragraphs, segmentByRef, lensPointById) {
   });
 }
 
+function questionAnswerParagraphs(question) {
+  if (Array.isArray(question.answer_paragraphs)) return question.answer_paragraphs;
+
+  const answerText = String(question.answer ?? question.answer_summary ?? '').trim();
+  if (!answerText) return [];
+
+  return [{
+    text: answerText,
+    refs: question.answer_refs ?? question.refs ?? [],
+  }];
+}
+
 function annotateRead(read, segmentByRef, lensPointById = new Map()) {
   if (!read) return null;
   const opening = read.opening ? annotateLensPointOwner(annotateRefOwner(read.opening, segmentByRef), lensPointById) : null;
@@ -478,7 +490,7 @@ function annotateRead(read, segmentByRef, lensPointById = new Map()) {
       ...question,
       refs_detail: (question.refs ?? []).map((ref) => refDetail(ref, segmentByRef)),
       answer_paragraphs: annotateParagraphs(
-        question.answer_paragraphs ?? (question.answer ? [{ text: question.answer, refs: question.refs ?? [] }] : []),
+        questionAnswerParagraphs(question),
         segmentByRef,
         lensPointById,
       ),

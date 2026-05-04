@@ -501,6 +501,41 @@ async function validateGeneratedLinkIndex(errors) {
   }
 }
 
+async function validateGeneratedEpisodeQuestions(errors) {
+  const episodeFiles = (await listJsonFiles(websiteEpisodesDataRoot))
+    .filter((filePath) => path.basename(filePath) !== 'index.json');
+
+  for (const episodePath of episodeFiles) {
+    const relPath = path.relative(repoRoot, episodePath);
+    const episode = await readJson(episodePath, errors, relPath);
+    if (!episode) continue;
+
+    for (const [index, question] of (episode.read?.questions ?? []).entries()) {
+      const location = `${relPath}:read.questions[${index}]`;
+      const paragraphs = question.answer_paragraphs ?? [];
+
+      if (!question.question || typeof question.question !== 'string') {
+        errors.push(`Episode question is missing question text in ${location}`);
+      }
+
+      if (!Array.isArray(paragraphs) || paragraphs.length === 0) {
+        errors.push(`Episode question has no rendered answer paragraphs in ${location}. Run node ops/scripts/compile-content.mjs or add answer/answer_paragraphs.`);
+        continue;
+      }
+
+      for (const [paragraphIndex, paragraph] of paragraphs.entries()) {
+        if (!paragraph.text || typeof paragraph.text !== 'string') {
+          errors.push(`Episode question answer paragraph is missing text in ${location}.answer_paragraphs[${paragraphIndex}]`);
+        }
+
+        if (!Array.isArray(paragraph.refs) || paragraph.refs.length === 0) {
+          errors.push(`Episode question answer paragraph has no refs in ${location}.answer_paragraphs[${paragraphIndex}]`);
+        }
+      }
+    }
+  }
+}
+
 async function main() {
   const errors = [];
   const ids = new Map();
@@ -545,6 +580,7 @@ async function main() {
   }
 
   await validateGeneratedLinkIndex(errors);
+  await validateGeneratedEpisodeQuestions(errors);
 
   const corpusImpactFiles = await findCorpusImpactFiles(repoRoot);
   errors.push(...await validateCorpusImpactFiles(corpusImpactFiles, { repoRoot }));
