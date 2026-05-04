@@ -1,0 +1,135 @@
+{
+  "packet_id": "predictive-history-plmnq44tbg0-semantics-pkt-0004",
+  "source_id": "video:predictive-history-plmnq44tbg0",
+  "source_date": "2025-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0025",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0026",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0027",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0028"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads Cain and Abel as another test of Yahweh: Cain kills Abel, Cain objects that exile is too much, and Yahweh compromises by marking and protecting him.",
+      "speaker_attribution": "Jiang quoting and interpreting Genesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0029",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0030",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0031",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the same pattern through the flood, Noah, Abraham, covenant, and Sodom: Yahweh makes mistakes, reflects, promises restraint, and enters debate with a human friend.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0026"
+      ],
+      "note": "Segment contains ASR corruption in a short aside after the Cain offering explanation; the surrounding semantic point is clear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Cain and Abel shows Yahweh learning compromise: instead of executing Cain, he accepts Cain's objection and protects him with a mark.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0027",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Genesis interpretation in this source.",
+      "topic_tags": ["Cain", "forgiveness", "compromise"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Perfection is not available in Jiang's Yahweh model; reflection and improvement are the achievable moral standard.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Moral model in this lecture.",
+      "topic_tags": ["Yahweh", "self-reflection", "imperfection"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "After the flood, Yahweh recognizes that free-willed humans will do evil and promises not to solve it by destroying all life again.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0030",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Noah interpretation in this source.",
+      "topic_tags": ["Noah", "free will", "evil"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Abrahamic covenant begins as a loyalty contract, but Abraham's argument over Sodom turns the relationship into debate rather than simple servitude.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0031",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Abraham interpretation in this lecture.",
+      "topic_tags": ["Abraham", "covenant", "debate"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0028"
+      ],
+      "moment": "Cain tells God the punishment is unfair, and God accepts the point.",
+      "source_phrase": "you make a good point",
+      "why_it_matters": "It makes argument with God a sacred pattern, not blasphemy.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0030"
+      ],
+      "moment": "The flood ends with God saying, in Jiang's reading, oops, I made a mistake again.",
+      "source_phrase": "oops I made a mistake again",
+      "why_it_matters": "It gives Yahweh a startlingly human capacity for error and learning.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Abrahamic covenant",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "A contract in which Yahweh favors Abraham's people in exchange for exclusive loyalty.",
+      "confidence": "high"
+    },
+    {
+      "term": "Friend-friend relation",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The emerging relationship where Abraham can honestly argue with Yahweh rather than merely obey.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0032"
+      ],
+      "note": "ASR renders Sodom and Gomorrah inconsistently; the biblical referent is clear from context."
+    }
+  ]
+}

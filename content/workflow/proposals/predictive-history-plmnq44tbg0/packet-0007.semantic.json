@@ -1,0 +1,147 @@
+{
+  "packet_id": "predictive-history-plmnq44tbg0-semantics-pkt-0007",
+  "source_id": "video:predictive-history-plmnq44tbg0",
+  "source_date": "2025-11-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0049",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that David must have authorized Joab's killing of Abner; the biblical story is a lie but leaves clues that readers can use to reconstruct the truth.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0052",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0053",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0054",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0055",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang rereads Bathsheba and Uriah: David fears Uriah as a rival, arranges his death, marries Bathsheba as domination, and the Bible reframes the crime as passion and repentance.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0049",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0056"
+      ],
+      "note": "All focus refs are Jiang; ASR frequently renders Joab as 'Job'.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Joab killing Abner without punishment is, for Jiang, evidence that David likely ordered or permitted the killing.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0049",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Davidic reconstruction in this lecture.",
+      "topic_tags": ["David", "Joab", "Abner", "loyalty"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Biblical stories differ from truisms because even when they lie, they provide clues that let readers reconstruct the truth and reimagine the story.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Literary method claim in this lecture.",
+      "topic_tags": ["stories", "truth", "interpretation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "David's likely motive toward Uriah is fear and rivalry, not merely desire for Bathsheba.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0052",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0053",
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "David-Bathsheba interpretation in this lecture.",
+      "topic_tags": ["David", "Uriah", "Bathsheba", "rivalry"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Genesis helps legitimate David by making Yahweh and David alike: both are fallible figures who can admit mistakes, reflect, and improve.",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Bible-as-propaganda model in this lecture.",
+      "topic_tags": ["Genesis", "David", "Yahweh", "legitimacy"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050"
+      ],
+      "moment": "A lie can still teach readers to reconstruct the truth because stories are living things.",
+      "source_phrase": "stories are living things",
+      "why_it_matters": "It captures Jiang's strongest defense of biblical literature as a creativity engine.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0054"
+      ],
+      "moment": "David proves superiority over his enemy by killing him and marrying his wife.",
+      "source_phrase": "ha, I'm better than Uriah",
+      "why_it_matters": "It preserves the violence and status logic Jiang sees underneath the pious story.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0055"
+      ],
+      "moment": "Yahweh is looking for a friend, and David is his best friend because David is most like him.",
+      "source_phrase": "Yahweh is looking for a friend",
+      "why_it_matters": "It ties the political apology for David back to the lecture's theology of fallible friendship.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Stories are living things",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's model of narrative as something readers can reconstruct and reinterpret, unlike closed sayings.",
+      "confidence": "high"
+    },
+    {
+      "term": "Apology for David",
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "The Bible as a literary defense that disguises or reframes David's crimes.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-plmnq44tbg0@transcript:v1#seg-0056"
+      ],
+      "note": "Nathan's parable begins in this packet and continues into the next packet; claims about its gaslighting function are completed there."
+    }
+  ]
+}
