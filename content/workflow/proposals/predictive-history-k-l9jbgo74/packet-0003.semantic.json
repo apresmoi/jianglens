@@ -1,0 +1,215 @@
+{
+  "packet_id": "predictive-history-k-l9jbgo74-semantics-pkt-0003",
+  "source_id": "video:predictive-history-k-l9jbgo74",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0017",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the rat utopia analogy: status is zero-sum, confined losers cannot exit, and elite children competing for power turn status conflict into war or revolution.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0019",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0020",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0021",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0022",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Spengler and the civilizational life cycle from village to town, city, and megacity, arguing that abstraction and atomization replace tradition, relationships, trust, fertility, and work.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether a universal target or shared external challenge could force people to put down internal problems and work together.",
+      "speaker_attribution": "Student question captured in transcript.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0024"
+      ],
+      "note": "Substantive student question and should be preserved as a public source question.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0017",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0018",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0019",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0020",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0021",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0022",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0023"
+      ],
+      "note": "Diarization labels are mostly undefined after import; context indicates Jiang classroom lecture voice except explicit student question spans.",
+      "suggested_speaker": "Jiang except explicit student questions",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Status is a zero-sum game: one winner means others lose, and confinement turns status competition into repeated violence.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Model presented in the 2025-08-22 lecture.",
+      "topic_tags": [
+        "status",
+        "zero-sum",
+        "rat-utopia"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Turchin elite overproduction maps onto elite children and top graduates who want power but have too few places to go, producing social conflict, war, or revolution.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Turchin interpretation and China example in the 2025-08-22 lecture.",
+      "topic_tags": [
+        "elite-overproduction",
+        "graduates",
+        "war",
+        "revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spengler is presented as arguing that civilizations have life cycles like people: village, town, city, megacity, then death at the height of civilization.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0019",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0020",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Spengler theory as presented on 2025-08-22.",
+      "topic_tags": [
+        "spengler",
+        "civilizational-life-cycle",
+        "megacity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Abstraction means removal from reality; civilizational maturity increases abstraction, individualism, atomization, and dependence on money.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0021",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Definition in the 2025-08-22 lecture.",
+      "topic_tags": [
+        "abstraction",
+        "individualism",
+        "money",
+        "atomization"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0017"
+      ],
+      "moment": "Status is compressed into the brutal formula: I win, you lose.",
+      "source_phrase": "Status is what we call a zero -sum game. I win, you lose",
+      "why_it_matters": "It connects rat violence, elite competition, and collapse into one reusable model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0019",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0020"
+      ],
+      "moment": "Civilization dies at its height, not after obvious weakness.",
+      "source_phrase": "at the height of the civilization, the civilization must now die",
+      "why_it_matters": "This is the Spenglerian reversal that makes success itself dangerous.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0022"
+      ],
+      "moment": "Money is the greatest abstraction because it lets neighbors stop needing each other.",
+      "source_phrase": "Money is the greatest abstraction",
+      "why_it_matters": "It ties the prior monotheism and money frame to social atomization.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "zero-sum game",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "A competition where one participant winning means the other loses; Jiang applies it to status.",
+      "confidence": "high"
+    },
+    {
+      "term": "civilizational life cycle",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0019",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0020",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Spenglerian sequence from village to town to city to megacity and eventual death.",
+      "confidence": "high"
+    },
+    {
+      "term": "abstraction",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0021",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Removal from direct reality; in the city people no longer see where food, trust, or social support come from.",
+      "confidence": "high"
+    },
+    {
+      "term": "megacity",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0022",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The mature urban form Jiang treats as civilizational death because money, atomization, low fertility, and outsourced labor replace village relationships.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0018"
+      ],
+      "note": "The Beida/Tsinghua example is a contemporary China analogy for elite overproduction in the 2025-08-22 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0019"
+      ],
+      "note": "Transcript spells Oswald Spengler as Spangler; semantic extraction treats the intended reference as Spengler."
+    }
+  ]
+}

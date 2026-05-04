@@ -1,0 +1,201 @@
+{
+  "packet_id": "predictive-history-k-l9jbgo74-semantics-pkt-0002",
+  "source_id": "video:predictive-history-k-l9jbgo74",
+  "source_date": "2025-08-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0009",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the symptom list with immigration, housing, fiscal crisis, and future pension pressure, then introduces the first theory of decline: Piketty and financialization.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0010",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0012",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0013",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He defines the capitalist sequence from consumer capitalism to financial capitalism to monopoly capitalism, distinguishing real wealth creation from money growth and arguing that speculation outruns the productive economy.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0014",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0015",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to Turchin and elite overproduction, introducing rat utopia as the image for abundance turning into status violence.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0009",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0010",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0012",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0013",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0014",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0015",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0016"
+      ],
+      "note": "Diarization labels are mostly undefined after import; context indicates Jiang classroom lecture voice except explicit student question spans.",
+      "suggested_speaker": "Jiang except explicit student questions",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Financialization explains decline as capitalism moving from consumer wealth creation to financial speculation and then monopoly, where money grows faster than the real economy.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0010",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0012",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Theory presented in the 2025-08-22 lecture.",
+      "topic_tags": [
+        "financialization",
+        "capitalism",
+        "piketty",
+        "monopoly"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Wealth and money are not the same thing: factories, workers, technology, and goods create real wealth, while stock-market investment can grow money without comparable productive capacity.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0012",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Definition inside the 2025-08-22 lecture.",
+      "topic_tags": [
+        "wealth",
+        "money",
+        "real-economy",
+        "stock-market"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Elite overproduction means too many powerful people competing for limited positions of power, a condition Jiang says causes decline, war, revolution, or collapse.",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0014",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0015",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Turchin theory as presented on 2025-08-22.",
+      "topic_tags": [
+        "elite-overproduction",
+        "turchin",
+        "collapse",
+        "status"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0012"
+      ],
+      "moment": "The crucial distinction is that money can multiply while wealth stops being made.",
+      "source_phrase": "Wealth and money are not the same thing",
+      "why_it_matters": "This bridges the prior money lecture to concrete social stagnation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0013"
+      ],
+      "moment": "A restaurant becomes irrational when the stock market promises more money without the trouble of making anything.",
+      "source_phrase": "If you open a restaurant. You will make at most $20,000 a year. But if you were to put it in the stock market. You would make $50,000 a year.",
+      "why_it_matters": "The example makes financialization an incentive trap, not just greed.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0016"
+      ],
+      "moment": "Rat utopia becomes the reversal of abundance: remove scarcity and the fight moves to status.",
+      "source_phrase": "The rats were not competing for food. They were really competing for status.",
+      "why_it_matters": "It sets up elite overproduction as a zero-sum status problem.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "financialization",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0010",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0012",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "A phase where capitalism prioritizes financial returns and speculation over creating goods, jobs, and real wealth.",
+      "confidence": "high"
+    },
+    {
+      "term": "monopoly capitalism",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A late phase where a few companies dominate because monopoly is more profitable than competition.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Too many elite children or powerful aspirants competing for too few positions of power.",
+      "confidence": "high"
+    },
+    {
+      "term": "rat utopia",
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0015",
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "James B. Calhoun experiments Jiang uses as an analogy for abundance producing status conflict rather than peace.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0009"
+      ],
+      "note": "The pension crisis claim is a future-oriented warning framed as five to ten years from the 2025-08-22 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-k-l9jbgo74@transcript:v1#seg-0010"
+      ],
+      "note": "Transcript says capitalism transitions from face to face to face; context indicates phase to phase."
+    }
+  ]
+}
