@@ -1,0 +1,182 @@
+{
+  "packet_id": "predictive-history-cjtunkcu1ia-semantics-pkt-0004",
+  "source_id": "video:predictive-history-cjtunkcu1ia",
+  "source_date": "2025-04-01",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0025",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0026",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang follows Kepler and Galileo: Kepler uses data to support elliptical heliocentrism, while Galileo's telescopic observations undermine Earth-centered assumptions and make him famous.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0028",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0029",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0030",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0031",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He narrates Galileo's trial as a mixture of limited evidence, arrogance, scriptural-interpretive overreach, satire against Pope Urban VIII, house arrest, and later Protestant propaganda.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Kepler's data-supported claims that planets move around the Sun and in elliptical orbits challenged theological assumptions that heavenly motion must be perfect and circular.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "kepler",
+        "elliptical-orbits",
+        "data",
+        "theology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Galileo's telescope showed moons revolving around Jupiter and Venus moving in ways that challenged the assumption that everything revolves around Earth.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0026",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical evidence in this lecture.",
+      "topic_tags": [
+        "galileo",
+        "telescope",
+        "jupiter",
+        "venus",
+        "heliocentrism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Galileo's real danger was not disagreement with Church science but claiming authority to interpret Scripture above the Church.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0028",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation of the Galileo trial.",
+      "topic_tags": [
+        "galileo",
+        "heresy",
+        "scripture",
+        "church-authority"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Galileo's Dialogue became explosive because he mocked his enemies and placed Pope Urban VIII's arguments in the mouth of Simplicitus, making a banned book into a sensation.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0030",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": [
+        "dialogue",
+        "urban-viii",
+        "satire",
+        "inquisition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Galileo's fall can be read as hubris and personality, but history remembers it as science versus Church because Protestants used the trial as anti-Catholic propaganda.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretive claim dated 2025-04-01.",
+      "topic_tags": [
+        "galileo",
+        "protestant-propaganda",
+        "hubris",
+        "science-and-religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0025"
+      ],
+      "moment": "Kepler says no to perfect circles: the heavens are elliptical.",
+      "source_phrase": "nope, the orbit is elliptical",
+      "why_it_matters": "It makes data an offense against inherited theological beauty.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0028"
+      ],
+      "moment": "Galileo's argumentative posture is reduced to: I speak to God, I know the truth, and you are all idiots.",
+      "source_phrase": "I speak to God, I know the truth, and you're all idiots",
+      "why_it_matters": "It preserves Jiang's spicy recasting of scientific genius as theological arrogance.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0032"
+      ],
+      "moment": "The Galileo story becomes a Greek tragedy of hubris before it becomes a Protestant myth of anti-science Catholicism.",
+      "source_phrase": "It was his hubris. It's a very classic Greek tragedy",
+      "why_it_matters": "It keeps the lecture from flattening Galileo into the standard martyr-of-science narrative.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "heresy",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "In Jiang's explanation, not mere disagreement with the Church but refusal to accept Church authority and claiming superior scriptural interpretation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dialogue Concerning the Two Chief World Systems",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0030",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Galileo's 1632 dialogue defending heliocentrism and satirizing opponents, including arguments associated with Pope Urban VIII.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang dates Galileo's renewed publication conflict to 1632 under Pope Urban VIII.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0028"
+      ],
+      "note": "The transcript says Galileo's enemies made their living off the 'heliocentric model'; context suggests Jiang likely meant the geocentric model."
+    }
+  ]
+}
