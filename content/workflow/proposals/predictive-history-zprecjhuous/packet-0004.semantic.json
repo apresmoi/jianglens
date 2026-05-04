@@ -1,0 +1,162 @@
+{
+  "packet_id": "predictive-history-zprecjhuous-semantics-pkt-0004",
+  "source_id": "video:predictive-history-zprecjhuous",
+  "source_date": "2025-12-16",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0026",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0027",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0028",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0029",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0030",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0031",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "A student reads Disraeli on Christianity's Jewish origins; Jiang interprets the passage as asserting not only Jewish importance but Jewish superiority, then introduces Sidonia as a Rothschild-like figure who will explain how Jews control the world.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0027",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0029",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0031"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Student reads quoted source material that Jiang immediately interprets in the surrounding focus refs.",
+      "speaker_attribution": "student reading quoted material",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0026",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0027",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0028",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0029",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0030",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0031",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints, while student readings/questions are separated when context shows them.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets Disraeli as arguing that Christianity is founded by Jews and that medieval Christian hatred forgot its own Jewish origins.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0026",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0029",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "christianity",
+        "jewish-origins",
+        "disraeli"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the passage goes beyond Jewish importance and implies Jewish superiority as the intellectually creative source behind Christianity and other institutions.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "jewish-superiority",
+        "coningsby",
+        "sidonia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sidonia is framed as a Rothschild-based wealthy Jewish character who voices the novel's theory of Jewish global power.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "sidonia",
+        "rothschild",
+        "coningsby"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0031",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "moment": "Disraeli's Christianity argument becomes, in Jiang's reading, a claim that the Church itself sits on Jewish foundations.",
+      "source_phrase": "the infallible throne of Rome itself was established by a Jew",
+      "why_it_matters": "It ties religious authority to the episode's hidden-founder pattern.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "moment": "Sidonia enters as the Rothschild mask who can say the world-power thesis out loud.",
+      "source_phrase": "a wealthy Jewish person based on the Rothschild family",
+      "why_it_matters": "This sets up the source-reading engine for the next stretch.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Sidonia",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A Coningsby character Jiang treats as modeled on the Rothschild family and used to voice elite Jewish power claims.",
+      "confidence": "high"
+    },
+    {
+      "term": "theocratic principle",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Phrase from the Disraeli reading tied to Christianity's Jewish origin in the passage.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0032"
+      ],
+      "note": "Dated December 16, 2025, this source follows the Secret History sequence and sets up the next class on Pax Judaica.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0025",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0027",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0029",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0031"
+      ],
+      "note": "These are student-read quoted passages from Coningsby with ASR damage; Jiang's interpretation appears in the even-numbered response segments."
+    }
+  ]
+}

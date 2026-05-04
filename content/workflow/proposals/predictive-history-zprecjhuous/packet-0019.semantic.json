@@ -1,0 +1,185 @@
+{
+  "packet_id": "predictive-history-zprecjhuous-semantics-pkt-0019",
+  "source_id": "video:predictive-history-zprecjhuous",
+  "source_date": "2025-12-16",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0146"
+      ],
+      "kind": "question",
+      "summary": "A student asks why this kind of rape seems frequent in the upper class but not the lower class.",
+      "speaker_attribution": "student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0147"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that upper-class women are more likely to report and access psychiatrists, while the evidence does not prove abuse is more common only among the rich.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0149",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0151"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Student reads quoted source material that Jiang immediately interprets in the surrounding focus refs.",
+      "speaker_attribution": "student reading quoted material",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0145",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0146",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0147",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0148",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0149",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0150",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0151",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints, while student readings/questions are separated when context shows them.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang distinguishes incidence from reporting: upper-class patients appear more often because they have education, money, and access to psychiatrists.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0146",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0147"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "class",
+        "reporting",
+        "psychiatry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Freud then allies with the Frankists and radically changes how he interprets patients.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0147",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0148"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "freud",
+        "frankists",
+        "reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Later Freud recasts reports of paternal abuse as childhood sexual fantasy and masturbation-driven resentment, the basis Jiang identifies with the Oedipal complex.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0149",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0151",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "oedipal-complex",
+        "seduction-fantasy",
+        "freud"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects this later Freudian theory as nonsense that nevertheless became mainstream academic knowledge for decades.",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "temporal_scope": "Claim stated in the December 16, 2025 lecture.",
+      "topic_tags": [
+        "psychology",
+        "mainstream-knowledge",
+        "oedipal-complex"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0147"
+      ],
+      "moment": "The class point is about who can report, not who can be harmed.",
+      "source_phrase": "it's the rich who have money to send their daughters to psychiatrists",
+      "why_it_matters": "This keeps the answer from turning into a crude class-essential claim.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "moment": "Psychology flips the abused child into the fantasist who accuses the father out of frustrated desire.",
+      "source_phrase": "seduction fantasy",
+      "why_it_matters": "This is the packet's brutal reversal and central Freud critique.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "moment": "What Jiang calls complete nonsense becomes school knowledge for decades.",
+      "source_phrase": "standard, mainstream academic knowledge",
+      "why_it_matters": "It links elite protection to institutionalized worldview.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Oedipal complex",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "definition_or_usage": "Later Freudian theory Jiang reads as transforming reported abuse into child sexual fantasy and rivalry.",
+      "confidence": "high"
+    },
+    {
+      "term": "seduction fantasy",
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0151",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "definition_or_usage": "Freud's later explanation that childhood abuse reports mask infantile sexuality rather than real rape.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0145",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0152"
+      ],
+      "note": "Dated December 16, 2025, this source follows the Secret History sequence and sets up the next class on Pax Judaica.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0149",
+        "video:predictive-history-zprecjhuous@transcript:v1#seg-0151"
+      ],
+      "note": "Quoted Freud passage is student reading; Jiang's judgment appears in seg-0152."
+    }
+  ]
+}
