@@ -1,0 +1,315 @@
+# Civilization #34:  The Useful Fiction of the Holy Roman Empire
+
+Source: https://www.youtube.com/watch?v=1dwvgtc7XzY
+
+## seg-0001 / 00:00:00-00:01:26 / SPEAKER_00
+
+Okay, good morning. So, today we are doing the Holy Roman Empire. Now, last class we did the Byzantine Empire, which is considered the continuation of the Roman Empire in Eastern Europe. The Holy Roman Empire is considered the continuation of the Roman Empire in Western Europe. So, when we think about the Holy Roman Empire in the West, we think of the famous Voltaire quotation about the Holy Roman Empire. Voltaire is a very famous French Enlightenment thinker. We will talk about Voltaire when we get to Enlightenment. What he said was, the Holy Roman Empire was in no way holy nor Roman nor ancient. It was an empire. And this sounds funny, and a lot of historians thought it was a joke, but what I will show you in this class is, actually, this is very true. So, the Holy Roman Empire was started in the year 800, when the Frankish king, Charlemagne, was crowned Holy Roman Emperor by Pope Leo III in Rome.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:27-00:02:39 / SPEAKER_00
+
+And this marked a turning point in Western history, because this was really the first time that the pope could anoint a monarch. Before, it was the emperor who anointed the pope. Now, it's a bit reversed, and this shows the supremacy of the Catholic Church. Historians have debated for a long time why Charlemagne would agree to such an arrangement. And so, this is the topic we will examine in this class. What motivated Charlemagne to agree to such a deal, and what gave the Catholic Church so much power and prestige that they had the power to anoint emperors? Okay, so that's the topic we are looking at today. Alright, so let's first look at Charlemagne's motivations. Charlemagne, his name means Charles the Great. And he is of the Frankish Empire. And he was able to unite most of Europe through major innovations in the military. So, he was the first to
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:39-00:04:04 / SPEAKER_00
+
+introduce the idea of armored knights, which became the standard military doctrine and practice in Europe for centuries. And the idea of the knight would also pave the way for feudalism in Europe. And these are topics we will discuss later on in the class. Okay, next semester. What Charlemagne is most celebrated for is the fact that he started something called the Caroligian Renaissance. Caroligian is the name of his family. And the Renaissance is this period of peace and prosperity in Europe. And he's most famous for the building of cathedrals. He built 14 of them. This is the most famous. It's called the Aachen Cathedral in Aachen, Germany. You can, guys, you can still go visit it, okay? It is beautiful. The cathedrals of medieval Europe are really the pyramids, like the pyramids. They are meant to give people a sense of awe and unity. The cathedral was meant to bring heaven onto earth. One really amazing aspect about the cathedrals are the acoustics, the sounds within the buildings.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:04-00:05:12 / SPEAKER_00
+
+It is designed in a way that when the priest speaks, his voice is projected all around the cathedral, and the walls bounce the voice back. And so the parishioners, the people who listen to the priest, they feel they're surrounded by the voice of God, okay? The voice literally enters you and makes you feel transcendent. It makes you feel you are moving towards heaven and that you are approaching God. All right? And these buildings are still around. So you can actually go and visit them. This is a picture of modern -day Aachen, Germany, where tourists go and visit the cathedral. Okay? So these buildings were designed to be eternal. Okay. So before I talk about Charlemagne and why he chose to be crowned Holy Roman Emperor, I need to give you a little bit of background about the geography of Europe. Now, if we
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:12-00:06:31 / SPEAKER_00
+
+look at the four major civilization empires of early human history, mainly Egypt, Mesopotamia, Indus Valley, and China, we will discover that there are three major similarities among all four. Okay? The first, as you can see from this picture, is latitudinally, okay, they are in the same place. They all benefit from temperate climate, which allows for year -long agriculture. That's the first major similarity. The second major similarity is these are all river civilizations, meaning that at the center is a major river surrounded by flatlands that allows for the production of agriculture. All right? So in Egypt, there's the Nile. In Mesopotamia, there are two rivers, the Tigris and Euphrates. Indus Valley civilization is obviously the Indus River, and in China, there are two rivers, right? There's the Yellow River, and then there's the Yangtze, okay, the Changjiang. All right? And the third major characteristic that's very important is, they're surrounded by natural boundaries, whether it's mountains or deserts or oceans or seas.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:32-00:07:51 / SPEAKER_00
+
+Okay? And from this map, you can see very clearly these three characteristics for Egypt, right? Egypt has the Nile surrounded by natural boundaries, the desert, the Sahara Desert to the west, these mountains, then protect Egypt. And that's what allows unity. The unity to take hold very quickly in these civilizations and what allows this civilization to defend against outside invaders. Okay? The same is true in China, obviously, right? Okay? Surrounded by mountains to the south, to the west, and to the north, and then the sea. Okay? So for most of its history, China was protected from outside invaders. This is all especially true in humanity's greatest empire called the United States. All right? So if you look at the United States, it is a fortress, basically. It's protected by two oceans and then mountains. But within the United States, it's serviced by the Mississippi River, which allows for agricultural surplus and which allows for trade and communication within the United States.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:51-00:09:10 / SPEAKER_00
+
+So very early on, the United States could become very wealthy as well as unified. And it did not have to fear external enemies, and therefore it could prosper without worrying too much about its national defense. Okay? This is very important because none of these three things are true for the European continent. Okay? Especially Western Europe. It's much too north. And it's surrounded by lots and lots of mountains. It also has no major rivers. Okay? So as you can see from this map, in southern Western Europe, it's mainly mountains. And to the north, there are flatlands, but they're usually covered by forests. Okay? So for most of its history, Europe was divided and poor and isolated from the rich. Okay? The other thing about Europe that made it distinct from the other civilizations is, within Europe, there are lots of natural boundaries. And that's why Europe remained divided for such a long time.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:10-00:10:32 / SPEAKER_00
+
+It was extremely hard to unite Europe. Please remember, Rome was not a European empire. It was a Mediterranean empire. That's a huge difference. Okay? So, throughout most of its history, Europe was divided into different fiefdoms. And the princes, the princes, the kings, had complete authority over their kingdom. And it was very hard to compel them to listen to your authority. Charlemagne had, at that time, the greatest army in Europe. But even then, he was still compelled to cooperate with the other kings. Okay? So, he achieved a lot of what he did through conquests, but he also achieved a lot of what he did through alliances and treaties and friendships and marriages. Okay? So, what this means is, if you want to unify Europe, you cannot do so through military conquest. You have to do so through the idea of legitimacy. People have to believe you are the legitimate ruler.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:33-00:11:45 / SPEAKER_00
+
+You cannot compel them. You must win their hearts and minds. Okay? And this explains why Charlemagne would want to be crowned by the pope. Because the pope did have legitimacy. He did have authority. Because the pope was the leader of the Catholic Church. And at this time, there were many kings, not all of them, but there were many kings in Europe who were of the Catholic faith. Okay? So, this is a map of the major cities of the world at the time of the fall of the Roman Empire. Okay? As you can see, most of the cities are located at a certain latitude. And to the north, okay, which is where Europe is, there are not that many major cities. All right? So, at the fall of the Roman Empire, Europe was a divided, weak, and poor place. Okay? All right? So, again, please remember, for the rest of the semester, these three factors, right?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:45-00:12:57 / SPEAKER_00
+
+Latitude. You need a temperate climate. You need natural boundaries. And you need a major river. And this will allow civilizations to rise and prosper. The great irony here, of course, and we will learn about this later in the semester, is despite its disadvantages, Europe was still able to conquer the world. All right? And it did so because of these disadvantages. If you think about it, these disadvantages compel you as a people, as a culture, to be innovative. To overcome these disadvantages. All right? And this is something that we will learn when we get to the Enlightenment, Renaissance, and Southern Revolution, which we will do very quickly. All right? The other thing about Europe that's very important is it was constantly being invaded. Look, if you look at this map, you will see, like, there are a lot of mountains protecting Egypt, Mesopotamia, and the Indus Valley in China, but there are almost none protecting Europe from the steppes.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:58-00:14:08 / SPEAKER_00
+
+As we discussed last semester, the steppes, traditionally, has been the most aggressive place in human history. People are always fighting each other for territory. These are pastoral people who need land to raise their sheep and cattle. And so they're always fighting each other. So what happens over time is these people are pushed further out into the... borderlands. Okay? They're often pushed into Europe. All right? So remember about the Yamnaya people, how they migrated from the steppes to Europe and basically conquered all of Europe. Well, this process never really stops. Okay? So in the time of the Roman Empire, towards the collapse of the Western Roman Empire, there's huge migrations of people from the steppes into Europe. And they're being pushed out by a new, more aggressive people called the Huns. Okay? You may have heard of Attila the Hun. Well, he's of that group. And they are extremely violent. And
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:08-00:15:25 / SPEAKER_00
+
+they have made major military innovations that allow them to out -compete others in the steppes, which force these other tribes and groups into Europe. Okay? Which is the only place they can go. All right? After the collapse of the Roman Empire, these different groups start to form their own kingdoms. Around Germany are the Franks. And then eventually, over time, as these groups compete against each other, the Franks will ultimately defeat them and expand. Okay? But this is a process that will take centuries through multiple kings and through multiple dynasties. But eventually, the Franks will expand out from Germany and conquer most of Europe. Not all of Europe, but they will conquer most of Europe. And in the process, what's interesting for us is they will make contact with the once -isolated Scandinavian countries, the Norsemen. Okay? They're called the Norse. We often refer to them as Vikings, and we will study them very closely. In the next class.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:26-00:16:43 / SPEAKER_00
+
+Okay? But now they're brought into the orbit of this new Frankish Empire. Okay? But again, and this is the Frankish Empire at the time of Charlemagne when he creates the Holy Roman Empire. But again, because this is not really an empire, it's more of a confederation, it doesn't really last much longer after his death. What's really interesting for us is to remember that these emperors, they are not born as emperor. They are elected by other kings. So again, you should see this as an alliance, as confederacy, where each king has voting power. Okay? So this is not a hereditary title. This is something that you are elected to. Okay? So after the death of Charlemagne, a couple decades later after his death, the empire splits into three. Okay? And even though on paper this empire does last into the year 1806, it's a history that is extremely tumultuous. And most, and there are some times when the empire completely disintegrates.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0013
+
+## seg-0014 / 00:16:44-00:17:57 / SPEAKER_00
+
+Okay? But they keep up the pretense of having an empire because again, in Egypt, what matters is not territory or military or power or resources. What matters the most is legitimacy. And the idea of the Holy Roman Empire gives legitimacy, confers legitimacy, mainly through the Catholic Church. Okay? Does that make sense, guys? So we'll be discussing more of this as we go into the history of Europe. But before that, are there any questions? I'm sorry. Are there any questions? All right. So now what I want to discuss is why the Catholic Church is able to confer legitimacy. What gives the Catholic Church the power and authority to confer legitimacy to kings and emperors? Okay? But before I do that, are you guys clear about what I just presented? Pope Leo III, yes. Oh, well, sorry. Okay, so I'll explain. Okay? The pope is considered the leader of the church in Rome.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:58-00:19:25 / SPEAKER_00
+
+So he's a bishop. Okay? We call him pope because historically, Rome was the most powerful of all the churches. Okay? So I'll explain who the pope is later on. Okay? But does that make sense? Good. Any more questions before I continue? Because right now, what I'll do is explain how the Catholic Church became so powerful in Europe. Okay, that's a good question. Okay. So who are these kings? Well, most of these kings are actually, uh, hereditary. Okay? Their fathers were kings. Their grandfathers were kings. And they often related to each other. Okay? But they were in control of a certain fiefdom. Right? And you couldn't really conquer them because they had castles. And they had, and they were, like, in mountains. And they were a very aggressive people. So you couldn't really conquer them. So you needed to, um, get them to, to agree to make you king. And so the way they did that was by having these elections where the kings got together.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0015
+
+## seg-0016 / 00:19:26-00:20:27 / SPEAKER_00
+
+They're called princelectors. And they pick the, the king. And this is also true for the Catholic Church where different bishops would get together and they would elect the pope. Okay? But I'll explain this later on. Okay? Does that make sense? All right? Okay. All right. So, um, let's go over the history of the Catholic Church and explain, understand why it became so powerful for the Catholic Church. I want to present to you the official history of the Catholic Church as presented by the Catholic Church. So, um, there was a man named Jesus who was actually a god. We didn't know he was a god but he was a god who came down from heaven in order to sacrifice himself in order to free us of our sins. In order to redeem us. Okay? Now, Jesus had disciples. There were 12 major ones but there were others.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:28-00:21:42 / SPEAKER_00
+
+And after his death, Jesus reappeared before them and told them to spread the gospel, the good news that he has freed humanity of their sins and that he will return to create a heaven on earth. Okay? So that's the good news, the gospel. So, these disciples, they're illiterate peasants. They set up and they set up churches in the honor of Jesus. Okay? These are the first fathers of the church. And these people are called bishops. Okay? So the bishop is the head of the church in a certain area. And the tradition is that the very first bishop of all the major churches and there were like five, were disciples of Jesus. That's where their authority and legitimacy comes from, from Jesus himself. As the movement is spreading, Rome sees them as a threat because Rome are pagans and Christianity is an anti -pagan religion. So, there's a lot of persecution
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0017
+
+## seg-0018 / 00:21:42-00:23:02 / SPEAKER_00
+
+going on but the Christians are armored by their faith and their love of Jesus and the miracle that is God. So, triumph and convert all of Rome into Christianity. Now, Christianity is the official religion of Rome and now they have the power to spread the message to all people around the world but especially the barbarians of Europe and convert them. Okay? So that's the official history of the church. And there are lots and lots of other with this story. I mean the first issue, the major issue is how is it that a peasant religion was able to conquer the Roman Empire? There are certainly other belief systems that were much more compelling than the Christian faith. There's a Greek system, the philosophy of Plato. paganism itself has many traditions and as I keep on explaining to you in this class, culture is persistent. People do not want to change their cultures. So it's a complete mystery how Christianity was able to spread and conquer Europe.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0018
+
+## seg-0019 / 00:23:03-00:24:19 / SPEAKER_00
+
+An explanation if you talk to Christians, especially Catholic Church, is it's a miracle guys. It's the power of faith. That's the explanation. That's it. There are lots of issues with this official story. So I want to give you my understanding of the history. I talked about this last semester and I want to review it and apply it to the context of the Roman Empire. What's important for us to understand is during the time of the Roman Empire, the Romans had major conflicts with the provincials, especially the Jews. Okay, Romans and Jews did not get along. In fact, they were often in conflict with each other. The Romans were pagan and the Jews were monotheistic people who only worshiped Yahweh and they refused to worship the Roman Emperor, which was demanded of them by the Romans. Sometimes the Romans were very tolerant and said, well, we'll make a special reception for you Jews.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0019
+
+## seg-0020 / 00:24:19-00:25:28 / SPEAKER_00
+
+But sometimes they were extremely violent. And this led to a series of wars in Judea between the Jews and the Romans. These were terrible, terrible wars that killed millions of people. Three major wars were fought. Another problem is that the Jews were spread all around the Roman Empire. So this was not a problem isolated to one poor province called Judea. This was a problem throughout the Roman Empire. Okay? So, um, historians estimate that Jews accounted for about 10 % of the population of the Roman Empire. That's a lot of people. In certain cities like Alexandria, um, it was a third of the population. And there were a couple of riots in Alexandria by the Jews against Roman rule. Also, the Jews were at, as a whole, a pretty cosmopolitan people who were well educated, uh, and who were very well established, who looked down upon the Romans. The Jews had respect for the Greeks because the Greeks had a very, uh, superior culture.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0020
+
+## seg-0021 / 00:25:29-00:26:30 / SPEAKER_00
+
+Jews and Persians got along really well because Persians are extremely tolerant people. But Jews really didn't like Romans. And the Romans really didn't like the Jews either. Okay? So, of how after the wars, um, between the Romans and the Jews, Jews were enslaved and sent to Rome. And the Romans released the Jews from slavery because they didn't like Jews. Okay? And Jews became traitors and settled, um, in other parts of, of the Empire. Okay? So the Romans and the Jews didn't get along. And so there's this constant conflict going on. And so, um, were very well established within the Empire. And he got along very well with the Romans. He really much wanted to be part of the Roman Empire. And these wars were badly affecting him and his, and his family and, and their friends. Okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0021
+
+## seg-0022 / 00:26:30-00:27:46 / SPEAKER_00
+
+So there were a certain segment of the, of the Jewish Diaspora who very much wanted to assimilate into, um, Roman, into the Roman Empire. But their religion, okay, their religion, which believed that eventually a Messiah, who is a prince from the House of David, born of the House of David, he will return and he will lead the Jews to ultimate victory against the Romans. That's what the Jews believed as part of their religion. And, so, this presented a problem for Paul of Tarsus and other Jews who wanted to assimilate. Okay? When Jesus died, he became like a rock star within the Jewish community. And, the fact that he died, the way that, the fact that he was crucified, which is a, which is a horrible way to die, um, it basically captured the imagination of many Jews. And, after his death, there were a lot of people who started to flock to, uh, they were very curious about him, um, so they flocked to, uh, his disciples.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:46-00:28:59 / SPEAKER_00
+
+And, so, um, his brother James led his movement called the Poor of Jerusalem. Later on, they'll be called the Abianites, okay? And, these are the people who will influence the Islamic religion. But, there were other groups who started around Jesus, around the idea of Jesus as well. Okay? So, Jesus was a growing popularity, um, and Paul saw an opportunity to resolve this conflict between Romans and Jews. Remember, the problem for Jews is their religion believed that the Messiah would return who would lead them to victory against the Romans. And, this is a problem, uh, because Paul knew that if the Jews united against the Romans, the Romans would probably win, okay? So, Jesus is the solution because Jesus is a prophet of peace, right? Jesus was a prophet who preached the importance of peace, mercy, and forgiveness. Forgive the Romans for destroying our temple. Forgive the Romans for persecuting us.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0023
+
+## seg-0024 / 00:29:00-00:30:12 / SPEAKER_00
+
+Show mercy. Because what mattered is not what happens here, what matters is what happens in heaven, alright? So, Paul of Tarsus, backed by the Roman state, started this religion as a way for Jews to practice their faith without incurring the wrath of the Roman Empire, without being a threat to the Roman Empire, okay? Does that make sense to you guys? Now, over time, as the conflict between the Romans and Jews became worse and worse, the Christian movement spread, okay? And eventually, to gain legitimacy, they won the patronage of Roman patriarchs, okay? So, you had a certain segment of elite Jews and a certain segment of elite Romans who came together in the Christian church to build an alliance, okay? Does that make sense? So, in other words, the Catholic church, the beginning of the Catholic church, it was basically an elite church social club for Jews and Romans to get together and to work together, okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0024
+
+## seg-0025 / 00:30:12-00:31:17 / SPEAKER_00
+
+Does that make sense? Now, what's important for us to understand is there are other Christian factions during this time, but because the Catholic church, the beginning, the portal Catholic church, it's backed by the Roman state and because of its organization and its wealth, it was able to ultimately win out over the other Christian sects, okay? Does that make sense? All right. Now, over time, what the Romans recognize is, wow, the Christian church is great at solving the Jewish problem and then they recognize that, oh, wouldn't it be good for solving all our problems, okay? Because eventually, the Jews cease to be the major problem and these barbarians coming in from the steppes and from the north are the major problem and there's just two many of them, okay? So, remember, you have all these barbarians coming in. What's important to remember about these barbarians is this is not an invasion, okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0025
+
+## seg-0026 / 00:31:17-00:32:30 / SPEAKER_00
+
+An invasion. Often, historians will use the word barbarian invasion. They're not invaders. They're migrants. It's a migration, guys. What's the difference? Well, if it's an invasion, these people are looking to conquer the Roman Empire and instill upon the Empire their worldview, their culture, their religion. If it's a migration, these people are looking for better economic opportunities and, therefore, they are willing to conform to your worldview, to your religion, all right? So, think about the United States where, on the southern border, there are millions of people every year who are trying to get into the United States. They're not there to conquer the United States. They're there to migrate the United States and seek a better life. And they know that if they are to succeed in the United States, they must assimilate, okay? And the best way to assimilate the United States, of course, is to go to university, right?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0026
+
+## seg-0027 / 00:32:30-00:33:44 / SPEAKER_00
+
+Because once you're part of the university, you're now part of the social elite, okay? That's the best thing to do. But a lot of people don't have the wealth, the education to go to university. So, what they often do is join the church, okay? The church. If you look at these hundreds of thousands, these millions of Chinese students who have gone to the United States, the group that has assimilated the best are Chinese Christians, right? These are Chinese who are either practicing Christians or they convert to Christianity when they go to the United States. Because when they're Christians, there's an immediate social community for them that welcomes them and supports them, okay? Does that make sense, guys? All right? So, this is the United States. But this was true during the late Roman Empire as well, okay? You have all these barbarians, they're called barbarians, and they're coming in and they're trying to assimilate. And the Roman Empire needs to assimilate them as well.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0027
+
+## seg-0028 / 00:33:44-00:35:06 / SPEAKER_00
+
+And what they discovered is, the best way to do that is through the Catholic Church, right? Because remember, these barbarians, they're pagans. They worship war, they worship violence. They're a problem in the long term. But they convert to Christianity, which is a religion that preaches mercy, forgiveness, kindness, right? Then, they're easier to manage. And what happens is that a lot do convert, okay? Now, some of you may say, well, this sounds very cynical, right? These people are changing their religion and they're doing so for their own material benefit. Okay, what's important for us to understand is that if you look at any religion, if you go into any church, you will find that the people who most believe in this religion, who are the most fanatical about this religion, are new converts. Does that make sense? If you're born into this religion, if your parents are Christians, you take it for granted, okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0028
+
+## seg-0029 / 00:35:06-00:36:22 / SPEAKER_00
+
+And you are often dubious and skeptical because children like to rebel against their parents. But, if you convert to Christianity, if you do so out of your own choice, well, then you are fully committed now, okay? And this is because of a psychological principle called the sunk cost fallacy. To turn to a new religion means to give up your community, your traditions, your history, your sense of identity. And because of all this, you are stuck with this new religion, whether or not you truly believe it or not. And because of that, because of the sunk cost fallacy, because you have lost so much in the process, you are now fully committed to the religion. You are so fanatical that you not only convert, but you want to convert others as well, okay? Does that make sense? So, so, with the barbarian invasions, the Catholic Church experiences tremendous growth because now they are letting in lots of converts who are fanatical about the new religion, all right?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0029
+
+## seg-0030 / 00:36:24-00:37:28 / SPEAKER_00
+
+The church is also a mechanism of social mobility for the barbarians because Roman society, it's very parochial. It's very close -minded. It doesn't like, it doesn't like, it doesn't like foreigners, okay? But traditionally, in human history, the church and the military were the two major mechanisms of social mobility. If you're an outsider and you want to rise in society, you either join the church or you join the military. And this, and this has been true for, in Europe for hundreds of years, okay? The last thing about the church that's very important is, in trying to co -op new people, it recognizes that it must first co -op the elite, okay? Now, barbarians do not, they do not have, or most barbarians do not have a concept of a hereditary elite. Their leaders are often people who are elected for the moment, okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0030
+
+## seg-0031 / 00:37:28-00:38:57 / SPEAKER_00
+
+So it's possible to switch leaders if the leaders aren't performing a good job. What the church does is, in exchange for joining the church, the church can make these leaders, who again are only temporary, into a hereditary elite, meaning their advantages and social status will pass on to their children, which is an extremely appealing deal for these barbarian leaders, okay? Does that make sense? Alright? So, as the barbarians keep on migrating to Rome, the Catholic church is the main mechanism that absorbs them, okay? Also the military as well. Of the Roman Empire, that mainly absorbs them. And this, and because of this idea, the church is a mechanism which allows you to join the Roman Empire, the church acquires tremendous legitimacy and prestige and status, okay? Does that make sense for you guys? Alright? Alright. But in this system, okay, local churches have local autonomy. Because you're trying to let in local elites, okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0031
+
+## seg-0032 / 00:38:57-00:40:19 / SPEAKER_00
+
+If you let in local elites, you have to give them autonomy. And, towards the end of the Roman Empire, there are five major churches that rule collectively. The major church is in Rome, okay? Again, the leaders, all these churches are called bishops. There's Rome, there's Constantinople, there is Antioch, there's Alexandria, and these are the four major population centers of the Roman Empire. And then, of course, there is Jerusalem. And Jerusalem is part of this five because of its prestige, right? This is where Jesus died. And this is where the Jewish and Christian religions were born, okay? So, throughout most of this history, these are the five major churches, and for most of this history, they are independent of each other. There are other churches in other places as well that are also extremely independent of each other, meaning they were allowed to, within the Christian framework, give up their own doctrine and practices, okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0032
+
+## seg-0033 / 00:40:19-00:41:39 / SPEAKER_00
+
+But, it was understood the primary church was Rome because Rome was the center, the capital, of the Roman Empire. And because of this, the bishop here is called the Pope in order to distinguish him from the other bishops, okay? Does that make sense? Alright? The problem with this system is that the capital in 330 switches from Rome over to Constantinople. And over time, the Constantinople Church, because it is now the capital, it wants to assert its authority over the other churches, mainly through the idea of orthodoxy, right? Orthodoxy or doctrine. Remember, for most of this history, each local church is free to create its own ideology within the Christian framework, mainly because no one's in a position to enforce doctrine on others. Now, Constantinople want, because it's the capital of the empire, it wants to impose orthodoxy on others. And this is what leads to the idea of the Nicene Creed. Remember, the Nicene Creed is the idea of the Holy Trinity.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0033
+
+## seg-0034 / 00:41:40-00:43:04 / SPEAKER_00
+
+And, at this time, when the Nicene Creed is first formulated, most people, most churches, do not buy into the Nicene Creed. They do not buy into the Holy Trinity. But, Constantinople sees the power of the Catholic Church as a source of its legitimacy. Therefore, it will, over the decades, embark on military expeditions to enforce the Nicene Creed on all its centers. Eventually, the Nicene Creed will triumph over other doctrine. Okay? So, the Catholic Church is able to build legitimacy and power by imposing orthodoxy. But, over time, as we know, the Byzantine Empire will decline in power and prestige, mainly because the Byzantine Empire, militarily, is not as strong as it used to be. And, at this point, the Catholic Church is declining. Other churches, especially in Rome, they want now to assert their local autonomy. Okay? So, this created a major controversy called iconoclasm. Iconoclasm. Iconoclasm just means that Constantinople believes that God should not be celebrated in images.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0034
+
+## seg-0035 / 00:43:04-00:44:27 / SPEAKER_00
+
+You cannot paint God. You cannot paint Jesus. Okay? And, the Church in Rome, the Pope, saw this as an opportunity to push back because this was actually a very unpopular decree. And this created a major conflict between Rome and Constantinople. And, what this iconoclasm debate shows us is that Rome wants to maintain its independence. Not only does Rome want to maintain its independence, it wants to regain its lost authority. Okay? And, that's why when Charlemagne comes along, the Church sees Charlemagne as the perfect opportunity to reassert its dogma and its Its dominance over the idea of legitimacy. Okay? Right? And so, they work together to create the idea of the Holy Roman Empire as a competitor to the Byzantine Empire and as a mechanism in order to ensure the legitimacy and the prestige of the Catholic Church in Rome against that of its competing churches, mainly in Constantinople but also in places like Alexandria, Antioch, and Jerusalem.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0035
+
+## seg-0036 / 00:44:27-00:45:38 / SPEAKER_00
+
+All right? And this will eventually climax in something called the Great Schism. The Great Schism. And we'll study this later on. The idea of the Great Schism, which happens around 1000, all right, is that these two churches, Rome and Constantinople, permanently break off. They refuse to acknowledge each other. Before, they would have meetings and they would share doctrine, but now they actually refuse to talk to each other, okay? And Rome will become the basis of the Catholic Church, Catholic means universal, which is still around today and which is believed by about 1 billion people, okay? Constantinople becomes the basis of the Eastern Orthodox Church, the Eastern Orthodox Church, which is Eastern Europe, okay? So if you're Western Europe, you're Catholic. Sorry, if you're Eastern Europe, you're Orthodox. If you're Western Europe, you're Catholic. Does that make sense, guys? And at first, look, there's only one major doctrinal difference between Rome and Constantinople.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0036
+
+## seg-0037 / 00:45:39-00:47:20 / SPEAKER_00
+
+Rome asserts that the Pope is the first among equals, okay? So the Pope has the ultimate authority. The Pope is a true representative of God on Earth. Everyone else is lesser than the Pope. Whereas the Orthodox Church asserts that all the churches are equal to each other. There's no higher authority, okay? But later on, because the church in Rome will experience the Protestant Reformation, then their doctrine will rather diverge over time, okay? Does that make sense? All right. Any questions about this? Okay, so let's summarize, okay? Let's go back to the year 800 when Charlemagne, he's in St. Peter's Basilica, and he's being crowned Holy Roman Empire by Leo III. Why does this happen, okay? And let's look at it from the perspective of Charlemagne as well as Pope Leo III, all right? So for Charlemagne, it's the three major reasons are legitimacy, unity, and differentiation.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0037
+
+## seg-0038 / 00:47:21-00:49:00 / SPEAKER_00
+
+And this has been true for kings throughout human history, okay? Why did King David sponsor the writing of the Bible? For these three reasons. Why did Augustus Caesar sponsor the writing of the Iniat? For these three reasons, okay? Legitimacy. I'm the rightful king because God said so. Unity. We're all part of the community of God, okay? And that's what differentiates. We're Christians, and everyone else is pagan or infidel or heretic. Differentiation. We are not the Byzantine Empire, okay? So, Charlemagne is trying to create legitimacy, unity, and differentiation with the Holy Roman Empire, okay? So, Pope Leo, why does he sponsor Charlemagne? Why is he crowning Charlemagne the Holy Roman Empire? Well, he's trying to assert his authority, right? He's trying to establish the fact that the pope is a true representative of God on earth, okay? Second is he's trying to protect himself. So, you guys don't know this, but in this world, there's no central power, and the pope is elected by other bishops.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0038
+
+## seg-0039 / 00:49:01-00:50:26 / SPEAKER_00
+
+But in this process, you always have a faction who refuses to accept the authority of the pope, and this will lead to civil conflict. So, before Pope Leo made Charlemagne emperor, he was almost assassinated by his enemies, right? So, by making Charlemagne the Holy Roman Emperor, he's actually appealing to Charlemagne for military protection against his enemies, okay? So, there's a lot of politics within the Catholic Church which still persists today, okay? And, of course, differentiation, okay, or competition, sorry, competition. The Catholic Church in Rome is in constant conflict with that in Byzantine. Both the Byzantine Empire and the Catholic Church in Rome are trying to assert that they are the legitimate heirs to the Roman Empire, okay? And obviously, Byzantine has a better case than Rome. And that's why Pope Leo feels compelled to create the idea of the Holy Roman Empire. All right? What
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0039
+
+## seg-0040 / 00:50:26-00:51:45 / SPEAKER_00
+
+I want to show you also, that the idea of the Holy Roman Empire comes from Augustine, okay? One thing that you will learn in this class that's very different from other history classes you will take is the power of ideas. You're taught usually that it's economics or power or kings that move history. You're taught in this class and this is very important. It's ideas that move history. Let me show you how. Augustine wrote a book called City of God which is what we read last semester or parts of it last semester. We discussed it. What is City of God? Well, Augustine, he's basically a high leader of the church. He's Bishop of Hippo, okay? Which is in Northern Africa. And he's a problem because in year 410 Rome is sacked. Okay? And this is only a few a couple of decades after Christianity is made the official religion of the Roman Empire. Now Rome is sacked by the Goths by barbarians who are pagans.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0040
+
+## seg-0041 / 00:51:45-00:53:03 / SPEAKER_00
+
+And so what a lot of people start to believe is that the pagan gods are enacting revenge vengeance against Rome for disavowing them. In other words the Christian god is the false god. The pagan gods are the true gods. And this historical event where Rome is sacked is so traumatizing that people start to believe this. So Augustine feels compelled to write the City of God to explain the sack and why Christianity is a true faith. In the City of God Augustine says there are two there are two cities. There's a city of man of empire called Rome. Rome is a place where people pursue power. Where kings try to outdo each other. Then there's Jerusalem. Okay? Jerusalem. Which is the city of God. And this is metaphorical. Rome is temporal it is in time it is off earth. But Jerusalem is heaven itself. And in heaven it's a city a spiritual place where people practice their faith the devotion to God.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0041
+
+## seg-0042 / 00:53:03-00:54:13 / SPEAKER_00
+
+And that is what we should be pursuing. Okay? So Rome is trying to create the end of history meaning that it is trying to create an eternal peace. Right? What is called the Pax Romana. The emperors are trying to be the ultimate emperor of humanity. But Jerusalem means out of history. You are taking yourself out of human affairs because human affairs don't really matter. What matters is spiritual faith. Because only spiritual faith will give you salvation and redemption. And that's what matters. Okay? So our mission is to create Jerusalem. And that's what the Catholic Church does. The Catholic Church is the city of God. It's the new Jerusalem. It's what allows humanity to step out of history and to celebrate God on earth. Okay? And the city of God in other words becomes the basis of the Holy Roman Empire.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0042
+
+## seg-0043 / 00:54:14-00:55:27 / SPEAKER_00
+
+In other words Charlemagne and Leo worked together to create the Holy Roman Empire in order to achieve Augustine's vision of heaven on earth. was an intellectual blueprint for the Holy Roman Empire. Okay? Does that make sense guys? In fact what's really interesting is Charlemagne who apparently was illiterate I'm not completely sure but apparently he was illiterate every day he had the city of God read to him. That's how much he loved city of God. And he basically made city of God the official text of the Holy Roman Empire. Okay? Does that make sense? And that's the power of ideas. Charlemagne in the city of God had already created the intellectual framework for the Holy Roman Empire that 400 years later Leo and Charlemagne could take in order to build the Holy Roman Empire. Without the city of God they could not have imagined the Holy Roman Empire. Okay? make sense guys? That's the power of ideas.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0043
+
+## seg-0044 / 00:55:27-00:57:00 / SPEAKER_00
+
+You need someone to imagine the idea before you can actually implement it on earth. All right. So let me conclude by going back to Voltaire's quotation that we looked at at the beginning of class. The Holy Roman Empire was in no way holy Roman or an empire. And as I promised you I will show you that this is true. Okay? So let's look at this. Holy Roman Empire. The idea of holy is that the Catholic Church is really the power in charge. But that's just pageantry. That's the fiction. Okay? The entire Holy Roman Empire is a useful fiction. Okay? So the king and the pope are benefit from pretending the Catholic Church is in charge in order to confer legitimacy onto the king. Okay? And the king and the pope benefit from displaying an alliance to the people of Europe. Okay? To create a sense of unity. But this fiction depends on the pope and the emperor getting along.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0044
+
+## seg-0045 / 00:57:00-00:58:13 / SPEAKER_00
+
+And after Charlemagne what we'll see is that they don't get along. Because the pope insists on having power over the emperor. The emperor insists on having power over the pope. But not only that remember the pope and the emperor are all elected by local lords. Okay? So the pope is elected by the bishops of Western Europe. The emperor is elected by the prince electors. And these people are also extremely ambitious. Okay? So with the idea with the idea of the Holy Roman Empire there's still conflict going on. There's still wars and competition going on that will last for centuries and carry us into basically the 20th century. But it all goes underground. They all hide it. They pretend that Europe is at peace when really it's at war. Okay? And some of the most atrocious gruesome stories will come from this medieval period. It's a Game of Thrones situation. Okay?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0045
+
+## seg-0046 / 00:58:13-00:59:30 / SPEAKER_00
+
+So it's not holy. Everyone pretends the church is in charge but it's not really. Okay? Roman. So the authority of the Catholic Church comes from the fact that it is the direct descendant of the Roman Empire. In fact the Catholic Church goes out of its way to appear like the Roman Empire. Latin is the language that the Catholic Church uses for bureaucracy. A lot of their practices or cultural practices are like the Roman. Okay? Remember that in the Roman Empire it's the Senate that confers legitimacy onto the Emperor. And in this world it's the Catholic Church that confers legitimacy onto the Emperor. So the Catholic Church is trying to present itself as a continuation of the Roman Senate. But as we discussed in previous classes what matters is the culture. And as I explained to you the culture of the Romans died with the Empire. And the death of this culture started in the year 212 when Roman citizenship was given to everyone within the Empire.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0046
+
+## seg-0047 / 00:59:30-01:00:35 / SPEAKER_00
+
+Okay? So the Roman Empire died a long time ago. The Roman Empire died a long time ago. Okay? So the Byzantines were an empire because they had an imperial bureaucracy and its own military that could enforce its will on the provinces. The Holy Roman Empire was never truly an empire in the sense that the Emperor's will was absolute. He needed the support of his allies. And there were many times throughout this history when the Emperor tried to enforce his will on the Prince and the Prince's electors of Germany and so they rebelled against him because they need to protect his autonomy. And this idea that what matters the real powers is in these princes in the local areas this is what will give rise to the idea of feudalism in Europe. Okay? Before the Kings decide to assert their authority over everyone. All right.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0047
+
+## seg-0048 / 01:00:36-01:01:04 / SPEAKER_00
+
+So the Holy Roman Empire was a useful fiction for its time in order to present the idea of legitimacy and unity across a divided Europe at war with each other. All right. Okay. So next class we'll do the Vikings. All right. But before we end any questions?
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0048
+
+## seg-0049 / 01:01:13-01:01:18 / UNKNOWN
+
+Yes. Yes.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0049
+
+## seg-0050 / 01:01:30-01:02:54 / SPEAKER_00
+
+Okay. That's a really good question. Okay. What's the relationship of the prince -electors to the emperor? Okay. Um so this is a really interesting question. Okay. So let's think about this if you are a prince -elector. You are a local prince um in Europe. Okay. How do you benefit from the Holy Roman Empire? Well you benefit because the Holy Roman Empire confirmed the first legitimacy to you as well. Does that make sense? Right? Because if you're a local prince you also have people who want your throne. You also need to keep your people united. And the Catholic Church the religion of Catholicism was an important mechanism for you to assert authority over your people and to keep you safe from your enemies. In many ways the Catholic Church it's trying to be the freelance imperial bureaucracy of Europe. There's no emperor. The emperor has no power. So the Catholic Church is trying to be the imperial bureaucracy where it's trying to create the culture or the meta -reality of all Europeans.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050
+
+## seg-0051 / 01:02:55-01:04:04 / SPEAKER_00
+
+Okay. And it does that through its local churches. Right? The priests. Because if you think about it um the people are interacting with the local priests not with bureaucrats. Right? So through the priests you can collect information on the people like how much money they're making so you can tax them better and you can better control their thoughts. Okay? So everyone's benefiting from this relationship. But it's a delicate balance because the local princes even though they're benefiting from this relationship they still demand autonomy. Right? And the Catholic Church and the emperor they want to assert authority over the local areas. So it's a delicate balance. Right? Okay? Great question though. Does it make sense to you, Echo? Alright, great. Any more questions? Okay. Great. So um next class we will do the Vikings which will be a lot of fun.
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051
+
+## seg-0052 / 01:04:04-01:04:04 / SPEAKER_00
+
+
+
+Ref: video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0052

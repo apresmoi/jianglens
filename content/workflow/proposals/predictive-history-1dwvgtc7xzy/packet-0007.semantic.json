@@ -1,0 +1,170 @@
+{
+  "packet_id": "predictive-history-1dwvgtc7xzy-semantics-pkt-0007",
+  "source_id": "video:predictive-history-1dwvgtc7xzy",
+  "source_date": "2025-02-27",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0049",
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "A student asks about the relationship of the prince-electors to the emperor; Jiang restates the question and answers from the prince-elector's point of view.",
+      "speaker_attribution": "Student question is not transcribed directly; Jiang restates it before answering.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050",
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains that prince-electors benefit from the empire because it legitimizes their local rule, while the Catholic Church acts as a freelance imperial bureaucracy producing European meta-reality through local priests.",
+      "speaker_attribution": "Jiang answering a classroom question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051",
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "He closes by emphasizing the delicate balance: local princes benefit from legitimacy but demand autonomy, while church and emperor want authority over local areas.",
+      "speaker_attribution": "Jiang classroom lecture close.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0049",
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "note": "The transcript only records 'Yes. Yes.' for the student span; Jiang recovers the substantive question as the relationship of prince-electors to the emperor.",
+      "suggested_speaker": "student question partially omitted",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Prince-electors benefit from the Holy Roman Empire because imperial and Catholic legitimacy helps them secure their own local thrones and unite their own people.",
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Jiang's answer to a classroom question in this lecture.",
+      "topic_tags": [
+        "prince-electors",
+        "legitimacy",
+        "holy-roman-empire",
+        "local-rule"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Catholic Church functions as a freelance imperial bureaucracy of Europe because it creates culture or meta-reality where no effective emperor exists.",
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Jiang's answer to a classroom question in this lecture.",
+      "topic_tags": [
+        "catholic-church",
+        "bureaucracy",
+        "meta-reality",
+        "europe"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Local priests give the church bureaucratic reach by interacting with people directly, gathering information useful for taxation, and shaping thought.",
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Jiang's answer to a classroom question in this lecture.",
+      "topic_tags": [
+        "priests",
+        "bureaucracy",
+        "information",
+        "social-control"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Holy Roman order is a delicate balance because princes benefit from church-emperor legitimacy while still demanding local autonomy against church and imperial authority.",
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Jiang's answer to a classroom question in this lecture.",
+      "topic_tags": [
+        "local-autonomy",
+        "legitimacy",
+        "holy-roman-empire",
+        "delicate-balance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "moment": "The Catholic Church becomes the freelance imperial bureaucracy of a Europe without an emperor.",
+      "source_phrase": "the freelance imperial bureaucracy of Europe",
+      "why_it_matters": "This is the concise end-state of the lecture: the church performs imperial functions without holding imperial office.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050",
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051"
+      ],
+      "moment": "Meta-reality is produced locally through priests who know, tax, and shape the people.",
+      "source_phrase": "create the culture or the meta -reality of all Europeans",
+      "why_it_matters": "It ties Jiang's cultural theory to a concrete mechanism of parish-level information and thought control.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "freelance imperial bureaucracy",
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's phrase for the Catholic Church acting like Europe's imperial administrative and cultural apparatus despite the absence of a powerful emperor.",
+      "confidence": "high"
+    },
+    {
+      "term": "meta-reality",
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The shared cultural reality the church creates for Europeans through Catholic doctrine, local institutions, and priestly mediation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0051",
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0052"
+      ],
+      "note": "The lecture closes by previewing the next class on the Vikings.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-1dwvgtc7xzy@transcript:v1#seg-0049"
+      ],
+      "note": "The student's actual words are not captured; only Jiang's restatement preserves the question."
+    }
+  ]
+}
