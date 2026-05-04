@@ -1,0 +1,1535 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-ra2v9hkahz8:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-ra2v9hkahz8",
+  "source_id": "video:predictive-history-ra2v9hkahz8",
+  "source_title": "Civilization #57:  How Modernism Ruined Everything",
+  "source_url": "https://www.youtube.com/watch?v=ra2v9HkaHz8",
+  "source_date": "2025-06-04",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-ra2v9hkahz8@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-ra2v9hkahz8/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-ra2v9hkahz8/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-ra2v9hkahz8/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 19,
+    "speaker_notes": 7,
+    "claims": 42,
+    "signature_moments": 23,
+    "predictions": 0,
+    "models": 13,
+    "glossary_terms": 23,
+    "chronology_notes": 8,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0001",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0002",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0003",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0004",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0005",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009",
+    "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0007"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0001",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0002",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0003",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang places Freud inside a long Western religious sequence: animism, mother goddess fertility, competitive polytheism, Christian monotheism, Catholic mediation, and Protestant direct access to God.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0005",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He defines Protestant faith as an anxious demand for absolute certainty and lists three historical solutions: Calvinist wealth accumulation, jihad, and transgression.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0007",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang illustrates transgression with a hypothetical class assignment to shoplift: breaking taboo, trusting the guide, and feeling exhilarated becomes a model of faith through violation.",
+      "speaker_attribution": "Jiang, with some ASR damage in the example.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0010",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from religious faith to epistemology: Kant makes humans active participants in reality, Hegel makes Geist the ground of reality, Marx materializes Geist as history and class struggle, and Freud will offer a different model of history and the individual.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0012",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He defines Freud's individual as ego, superego, and id, with sexual complexes as the hidden foundation of identity and civilization, then asks where this strange theory came from.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0014",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0015",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang presents Jung as systematizing Freud into ego, personal and collective unconscious, animus/anima, persona, shadow, and lifelong guided self-discovery, then contrasts that with Freud's secretive reaction against criticism.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0017",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the lecture's three questions: where Freud's Oedipal theory came from, why Freud was secretive, and why Freud and Jung spread so quickly through modernism, which he defines as the cult of the self.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0019",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0020",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "He places Freud in late nineteenth-century Vienna, where urban modernity replaces emotional village life with money, clock time, rational abstraction, and new disciplines of sociology and psychology.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0022",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0023",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains anomie, alienation, and disenchantment as city pathologies, then introduces Freud's early hysterical patients as women whose trauma accounts made him initially advocate for them.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0025",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0026",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0027",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0028"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads and interprets early Freud and Jeffrey Masson's evidence: Freud initially treated childhood sexual trauma as real, widespread, and physically traumatic rather than imagined.",
+      "speaker_attribution": "Jiang reading quoted Freud/Masson material and interpreting it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0029",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0030",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0031",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0032"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He contrasts early Freud with later Freud: trauma becomes fantasy, fathers become innocent, women become attention-seeking, and Civilization and Its Discontents is read as contempt for women.",
+      "speaker_attribution": "Jiang reading quoted Freud and interpreting it critically.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Freud's reversal through patronage and context: fathers paid the bills, Vienna had evidence of transgressive sects, and Frankism/Sabbatai Zevi show how taboo-breaking could become a religious logic.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0038",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0039",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He uses Semmelweis as the Vienna warning story: a doctor saves women by handwashing, threatens powerful reputations, is blacklisted and dies after confinement, showing what happens when one defies power.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0041",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Freud's dream interpretation becomes the technique for persuading patients to accept the new fantasy theory, then turns to why Freud spread through Jung and modernism.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0043",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0044",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0045",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0046"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads Joyce's Ulysses, admits he cannot explain it as he can Dante, Homer, or Shakespeare, and argues that modern literature becomes musical, allusive, elitist, self-referential, and cut off from democratic truth-seeking.",
+      "speaker_attribution": "Jiang reading quoted Joyce and interpreting it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0047",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0048"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads Virginia Woolf and treats stream of consciousness as Freud-influenced attention to memory, perception, and the unconscious, then contrasts this inward modernism with Dostoevsky's communal, outward, redemptive psychology.",
+      "speaker_attribution": "Jiang reading quoted Woolf and interpreting it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang connects Jung to Picasso's cubism, then reads a JSTOR article on modern art and argues that Cold War modern art served liberal individualism and the cult of the self against collective action.",
+      "speaker_attribution": "Jiang reading and interpreting art-historical material.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads Bakunin against isolated freedom, interpreting Christianity, psychoanalysis, and the cult of the self as forms of slavery that block collective freedom and recognition.",
+      "speaker_attribution": "Jiang reading quoted Bakunin and interpreting it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by tying social media to the democratization of the cult of the self, a post-2015 spike in depression and suicide, and the need to rediscover humanity by caring for others and killing the cult of the self.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0007",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0008"
+      ],
+      "note": "The transgression example has repeated ASR fragments, but the argumentative movement is clear: taboo-breaking is framed as proof of faith and route to empowerment.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0025",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0032"
+      ],
+      "note": "These segments alternate between quoted Freud/Masson/Ferenczi material and Jiang's interpretation; the quoted source boundaries are not always marked cleanly by ASR.",
+      "suggested_speaker": "Jiang reading and interpreting quoted sources",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "note": "Several names are ASR-damaged: Frankenism likely refers to Frankism, and Sibetai Zevi to Sabbatai Zevi.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "note": "Ignat Simmelweis is an ASR spelling of Ignaz Semmelweis.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0043",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0047"
+      ],
+      "note": "The packet includes quoted literary passages from Joyce and Woolf, embedded inside Jiang's critical commentary.",
+      "suggested_speaker": "Jiang reading quoted literature",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050"
+      ],
+      "note": "The JSTOR passage is heavily ASR-damaged; keep only the stable Jiang interpretation about modern art, liberal individualism, and the cult of the self.",
+      "suggested_speaker": "Jiang reading quoted source",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "note": "Bukhanyan is likely Bakunin; the quoted passage and Jiang's interpretation are sufficiently clear.",
+      "suggested_speaker": "Jiang reading Bakunin",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames human religious history as moving from animist interconnection, to mother goddess fertility, to polytheistic city competition, to Christian monotheism.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0001",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical model used in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "religious-history",
+        "animism",
+        "polytheism",
+        "monotheism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Christian monotheism creates the individual because direct relation to an all-encompassing God removes the person from the community.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-06-04.",
+      "topic_tags": [
+        "monotheism",
+        "individual",
+        "community",
+        "Christianity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Catholic Church temporarily solves monotheism's individualizing problem by mediating God for everyone and thereby creating a community around mediation.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical model used in this lecture.",
+      "topic_tags": [
+        "Catholic-Church",
+        "mediation",
+        "community",
+        "monotheism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Protestant direct access to God creates a crisis in faith because believers must prove absolute devotion without institutional mediation.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0004",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-06-04.",
+      "topic_tags": [
+        "Protestantism",
+        "crisis-in-faith",
+        "Martin-Luther"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies wealth accumulation, jihad, and transgression as three religious solutions to the crisis of faith.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0005",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture typology as of 2025-06-04.",
+      "topic_tags": [
+        "wealth-accumulation",
+        "jihad",
+        "transgression",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Transgression is presented as proving faith by rejecting human morality and social taboo, producing liberation and empowerment through violation.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0007",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture definition as of 2025-06-04.",
+      "topic_tags": [
+        "transgression",
+        "taboo",
+        "faith",
+        "empowerment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines epistemology as philosophy's attempt to answer the crisis of faith by asking how knowledge and ideas come together.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "epistemology",
+        "crisis-in-faith",
+        "knowledge"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kant's active subjectivity says humans do not passively receive reality but imagine space and time onto it, leaving the problem of whether reality exists.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Lecture reconstruction of Kant.",
+      "topic_tags": [
+        "Kant",
+        "active-subjectivity",
+        "reality"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hegel solves Kant's problem by introducing Geist as the divine ground of reality, while Marx inverts Hegel by making history and class struggle primary.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0010",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture reconstruction of Hegel and Marx.",
+      "topic_tags": [
+        "Hegel",
+        "Geist",
+        "Marx",
+        "class-struggle"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Freud offers a model in which the individual is unconscious forces in the brain, with ego, superego, and id structured around hidden sexual urges.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture reconstruction of Freud.",
+      "topic_tags": [
+        "Freud",
+        "unconscious",
+        "ego",
+        "id",
+        "superego"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jung systematizes Freud by distinguishing ego, personal unconscious, collective unconscious, animus/anima, persona, shadow, and self.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0013",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0014",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture reconstruction of Jung.",
+      "topic_tags": [
+        "Carl-Jung",
+        "collective-unconscious",
+        "persona",
+        "shadow",
+        "self"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Jung's self-discovery model became the standard model for modern psychology, while Freud reacted to Jung's revisions by excommunicating him.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0015",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-06-04.",
+      "topic_tags": [
+        "modern-psychology",
+        "Freud",
+        "Jung",
+        "self-discovery"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modernism is defined as the cult of the self: a culture obsessed with self-improvement and self-empowerment.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "modernism",
+        "cult-of-the-self",
+        "self-improvement"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's thesis is that Freud became famous not because psychoanalysis helped patients, but because it protected powerful men.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture argument as of 2025-06-04.",
+      "topic_tags": [
+        "Freud",
+        "psychoanalysis",
+        "power",
+        "modernism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Freud's system is presented as godless: sexual urges underpin identity and civilization, religion manages guilt, and truth lies in suppressed memories.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0018",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture reconstruction of Freud.",
+      "topic_tags": [
+        "Freud",
+        "sexual-urges",
+        "religion",
+        "suppressed-memory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Urban modernity replaces emotionally embedded village life with money, clock time, abstraction, and institutional regulation.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0019",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical diagnosis of Freud's context.",
+      "topic_tags": [
+        "urban-modernity",
+        "Vienna",
+        "clock-time",
+        "money",
+        "abstraction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The move from village to city to internet increases abstraction and produces psychological problems.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0021",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture model connecting nineteenth-century city life to the present.",
+      "topic_tags": [
+        "abstraction",
+        "city",
+        "internet",
+        "psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Freud's early patients are described as traumatized women whose symptoms followed abuse, and early Freud initially believed and advocated for them.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0023",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture reconstruction of early Freud.",
+      "topic_tags": [
+        "Freud",
+        "hysteria",
+        "trauma",
+        "patients"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Early Freud is presented as arguing that hysteria was rooted in real childhood sexual trauma, often involving respected families and trusted relatives.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0025",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture reconstruction of Freud's 1896 position.",
+      "topic_tags": [
+        "early-Freud",
+        "hysteria",
+        "trauma",
+        "sexual-abuse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Jeffrey Masson's access to Freud's letters to argue that early Freud and later Freud held two different theories of trauma and abuse.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0026",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical evidence as presented in this lecture.",
+      "topic_tags": [
+        "Jeffrey-Masson",
+        "Freud-letters",
+        "trauma-theory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents early Freud as a nuanced scientist who considered false-memory suggestion but concluded that repeated patient testimony supported real trauma.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0027",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0028",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture evaluation of early Freud.",
+      "topic_tags": [
+        "early-Freud",
+        "evidence",
+        "false-memory",
+        "patients"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Later Freud is presented as reversing the story: the father is innocent and the girl's fantasy or sexuality produces the apparent trauma.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0029",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture reconstruction of later Freud.",
+      "topic_tags": [
+        "later-Freud",
+        "fantasy",
+        "father",
+        "trauma"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that later Freud explains hysteria as women wanting attention, a move that shifts blame away from abusers and toward female patients.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture critique of later Freud.",
+      "topic_tags": [
+        "hysteria",
+        "women",
+        "attention",
+        "Freud"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Freud's Civilization and Its Discontents as claiming that women oppose civilization because they represent family and sexual life while men perform civilization's public work.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0031",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture interpretation of Freud.",
+      "topic_tags": [
+        "Civilization-and-Its-Discontents",
+        "women",
+        "civilization",
+        "Freud"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang offers a material explanation for Freud's reversal: Freud's patients were young women, but their fathers were often paying him.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Lecture diagnosis of Freud's incentives.",
+      "topic_tags": [
+        "Freud",
+        "patronage",
+        "fathers",
+        "patients"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues there is some evidence that sexual trauma and abuse were real problems in late nineteenth-century Vienna, including transgressive religious sects.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Historical context offered in the lecture.",
+      "topic_tags": [
+        "Vienna",
+        "sexual-trauma",
+        "Frankism",
+        "transgression"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Frankism is presented as a transgressive religious movement in Central and Eastern Europe that treated taboo-breaking as proof of faith.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Historical example used in this lecture.",
+      "topic_tags": [
+        "Frankism",
+        "Sabbatai-Zevi",
+        "taboo",
+        "transgression"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Freud likely knew many women were telling the truth but changed his story to protect his livelihood.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Lecture diagnosis of Freud's reversal.",
+      "topic_tags": [
+        "Freud",
+        "patients",
+        "livelihood",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Semmelweis is used as evidence that nineteenth-century Vienna punished doctors whose truths threatened powerful professional reputations.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0038",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0039",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Historical analogy used to explain Freud.",
+      "topic_tags": [
+        "Semmelweis",
+        "Vienna",
+        "medicine",
+        "power",
+        "truth"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Freud's interpretation of dreams let him suggest new ideas and memories to patients, effectively implanting memories and gaslighting them.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0041",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture critique of Freud.",
+      "topic_tags": [
+        "dream-interpretation",
+        "Freud",
+        "gaslighting",
+        "memory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jung spreads Freud's influence by systematizing the unconscious into popular concepts such as personality types, introvert, and extrovert.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture diagnosis of Freud's spread.",
+      "topic_tags": [
+        "Jung",
+        "personality-types",
+        "modernism",
+        "Freud"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Joyce's Ulysses as a founding modernist work that imitates and tries to surpass Dante while turning literature toward style, music, allusion, and elite interpretation.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0043",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0044",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture interpretation of modernism.",
+      "topic_tags": [
+        "James-Joyce",
+        "Ulysses",
+        "Dante",
+        "modernism",
+        "elitism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Joyce with Dante: Dante uses poetry to bring people into the mind of God, while Joyce makes readers spend years entering Joyce's own mind.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture comparison of literary models.",
+      "topic_tags": [
+        "Dante",
+        "Joyce",
+        "poetry",
+        "God",
+        "modernism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern literature is described as a break from Homeric democratic truth-seeking into an elite, arrogant club organized around self-referential stream of consciousness.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture critique of modern literature.",
+      "topic_tags": [
+        "modern-literature",
+        "Homer",
+        "stream-of-consciousness",
+        "elitism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dostoevsky is used as the counter-model: the heart is a deep ocean, psychology responds to the world, and salvation requires others and community rather than self-mastery.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture comparison with a prior Dostoevsky discussion.",
+      "topic_tags": [
+        "Dostoevsky",
+        "community",
+        "salvation",
+        "heart",
+        "modernism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Picasso's cubist portrait as visually representing Jung's theory of the divided self.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Lecture interpretation of modern art.",
+      "topic_tags": [
+        "Picasso",
+        "Jung",
+        "cubism",
+        "self"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that modern art spread in part because it served liberal individualism and opposed collective action during the Cold War.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture diagnosis of modern art's mid-twentieth-century spread.",
+      "topic_tags": [
+        "modern-art",
+        "CIA",
+        "Cold-War",
+        "individualism",
+        "collective-action"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The cult of the self is said to make collective action impossible by teaching that the self is the source of everything.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-06-04.",
+      "topic_tags": [
+        "cult-of-the-self",
+        "collective-action",
+        "individualism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reading Bakunin, Jiang argues that freedom exists only through a community of free others; isolated freedom is nothingness and slavery.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture interpretation of Bakunin.",
+      "topic_tags": [
+        "Bakunin",
+        "freedom",
+        "community",
+        "slavery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Christianity and psychoanalysis as cults of individual inwardness that can trap people inside themselves and make them controllable.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-06-04.",
+      "topic_tags": [
+        "Christianity",
+        "psychoanalysis",
+        "individualism",
+        "control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Social media is described as democratizing the cult of the self: what only the wealthy could once enjoy becomes available to everyone, producing a global depression epidemic.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Present-day diagnosis in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "social-media",
+        "depression",
+        "cult-of-the-self",
+        "technology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's proposed solution is to rediscover humanity by caring for others, putting others' interests before one's own, and killing the cult of the self.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Normative conclusion of the 2025-06-04 lecture.",
+      "topic_tags": [
+        "humanity",
+        "care",
+        "cult-of-the-self",
+        "collective-good"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0003"
+      ],
+      "moment": "Monotheism creates the individual by making God both everything and nothing, then giving each person a direct line to that totality.",
+      "source_phrase": "God is both nothing and everything",
+      "why_it_matters": "It turns a theological abstraction into the lecture's first engine of modern individualism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0004",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0005"
+      ],
+      "moment": "Removing the Church does not simply free the believer; it creates a crisis in faith.",
+      "source_phrase": "this creates the idea of a crisis in faith",
+      "why_it_matters": "The lecture's causal chain begins with freedom producing unbearable uncertainty.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0007",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0008"
+      ],
+      "moment": "Transgression sells taboo-breaking as faith: steal the candy, feel liberation, and mistake exhilaration for destiny.",
+      "source_phrase": "you will feel an extreme sense of acceleration liberation excitement",
+      "why_it_matters": "It gives the episode a concrete image for why immoral acts can be recoded as spiritual courage.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0010"
+      ],
+      "moment": "Kant's active subjectivity opens the possibility that reality itself may be a simulation.",
+      "source_phrase": "It's entirely possible that we are in a computer simulation",
+      "why_it_matters": "It shows why epistemology inherits the crisis of faith rather than escaping it.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0012"
+      ],
+      "moment": "Freud's individual is not a free rational self but unconscious sexual forces embedded in the brain.",
+      "source_phrase": "the individual is really just unconscious forces embedded within the brain",
+      "why_it_matters": "This is the hinge from philosophy's knowledge problem to modernism's interior self.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0014"
+      ],
+      "moment": "The collective unconscious is not inside you like a private memory; you breathe it like air.",
+      "source_phrase": "You breathe it like you would breathe air",
+      "why_it_matters": "It gives Jung's abstract social unconscious a memorable image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0017"
+      ],
+      "moment": "Modernism is not first a style; it is the cult of the self.",
+      "source_phrase": "the easiest definition is cult of the self",
+      "why_it_matters": "This phrase becomes the episode's central shorthand for Freud, Jung, modern art, social media, and depression.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0018"
+      ],
+      "moment": "The lecture's accusation is blunt: psychoanalysis was designed to protect powerful men.",
+      "source_phrase": "designed to protect the interests of powerful interests powerful men",
+      "why_it_matters": "It gives the Freud story moral stakes beyond intellectual history.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0021"
+      ],
+      "moment": "The city turns food into abstraction; the internet intensifies that abstraction again.",
+      "source_phrase": "from the village to the city, now to the internet",
+      "why_it_matters": "It connects Simmel's metropolis to contemporary online life through a concrete everyday image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0025"
+      ],
+      "moment": "Early Freud becomes an advocate: the women are not crazy, they were hurt.",
+      "source_phrase": "they're not crazy, they're not being hysterical, they were traumatized",
+      "why_it_matters": "This makes the later reversal more morally charged.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0030"
+      ],
+      "moment": "Later Freud flips the accusation: the father did nothing, the girl produced the fantasy.",
+      "source_phrase": "it's not the father, the father did nothing, he's innocent",
+      "why_it_matters": "This is the lecture's central indictment of psychoanalytic revision.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033"
+      ],
+      "moment": "The scientist becomes a myth maker, almost a priest.",
+      "source_phrase": "This Freud, he's like a myth maker. He's almost like a priest",
+      "why_it_matters": "It compresses Jiang's contrast between early empirical Freud and later ideological Freud.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0033",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034"
+      ],
+      "moment": "Freud's theory changes when the bill payer enters the room: the daughter suffers, but the father pays.",
+      "source_phrase": "who's paying the bills? The father",
+      "why_it_matters": "It turns an intellectual reversal into an incentive story.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "moment": "Sabbatai Zevi's transgression logic says God cares about the heart, not the act.",
+      "source_phrase": "God cares about what's in your heart. As long as you're true to God, what you do in life does not matter",
+      "why_it_matters": "It links the lecture's opening model of transgression to Freud's Vienna context.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "moment": "Semmelweis is the cautionary tale: save women, embarrass doctors, get destroyed.",
+      "source_phrase": "that's what happens to you when you defy powerful people",
+      "why_it_matters": "It supplies the fear logic Jiang uses to explain Freud's retreat.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0042"
+      ],
+      "moment": "Dream interpretation becomes a soft technology of memory implantation.",
+      "source_phrase": "implant new memories and basically gaslight that person",
+      "why_it_matters": "It connects Freud's therapeutic method to the lecture's wider story of elite manipulation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0043"
+      ],
+      "moment": "Jiang can explain Dante, Homer, and Shakespeare, but Joyce defeats explanation.",
+      "source_phrase": "I can explain to you Dante. I can explain to you Homer and Shakespeare. But I struggle with James Joyce.",
+      "why_it_matters": "It dramatizes the lecture's criticism that modernism becomes inaccessible by design.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0045"
+      ],
+      "moment": "Dante brings people toward God's truth; Joyce makes access to truth pass through Joyce's mind.",
+      "source_phrase": "James Joyce believes that he is God. He has the mind of God.",
+      "why_it_matters": "It gives Jiang's modernism critique its theological reversal.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0048"
+      ],
+      "moment": "Dostoevsky's heart is a deep ocean, not a private self-help project.",
+      "source_phrase": "the heart, it's a deep impenetrable ocean",
+      "why_it_matters": "It preserves the lecture's strongest counter-image to modern self-mastery.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "moment": "If you believe you are the source of everything, you cannot act collectively.",
+      "source_phrase": "if you believe that you are the source of everything, then you're not capable of collective action",
+      "why_it_matters": "This compresses Jiang's political critique of modern selfhood.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052"
+      ],
+      "moment": "Freedom without others becomes slavery to the self.",
+      "source_phrase": "If we are free, but no one else is free, then we are slaves as well",
+      "why_it_matters": "It is the strongest counter-formula to individualist freedom in the lecture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "moment": "Social media democratizes the cult of the self and spreads a European inward sickness through technology.",
+      "source_phrase": "social media is it is the democratization of the call to the self",
+      "why_it_matters": "It brings the lecture's history of Freud and modernism into a contemporary diagnosis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "moment": "The ending is not therapy but revolt against the cult of the self.",
+      "source_phrase": "choose to kill the cult of itself",
+      "why_it_matters": "It gives the episode its closing imperative.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "crisis in faith",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The Protestant problem of proving absolute love and devotion to God without doubt or institutional mediation.",
+      "confidence": "high"
+    },
+    {
+      "term": "transgression",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A religious solution in which breaking social taboos proves courage, faith, and mastery.",
+      "confidence": "high"
+    },
+    {
+      "term": "wealth accumulation",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The Calvinist solution that money becomes evidence of God's love and the believer's faith.",
+      "confidence": "high"
+    },
+    {
+      "term": "active subjectivity",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Kant's idea, as Jiang presents it, that humans actively participate in and imagine reality rather than merely consume information.",
+      "confidence": "high"
+    },
+    {
+      "term": "Geist",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Hegel's spirit or mind, presented as the divine ground from which material reality comes.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective unconscious",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Jung's store of society's memories and experiences, embedded in food, speech, movies, books, and social life.",
+      "confidence": "high"
+    },
+    {
+      "term": "shadow",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The ego's suppressed bad memories and thoughts, described as the alter ego of the ego.",
+      "confidence": "high"
+    },
+    {
+      "term": "cult of the self",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Jiang's compact definition of modernism as obsession with self-improvement, self-empowerment, and the self as the center of culture.",
+      "confidence": "high"
+    },
+    {
+      "term": "anomie",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "A city condition where older rules no longer apply and people do not know what to do.",
+      "confidence": "medium"
+    },
+    {
+      "term": "alienation",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0022",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Lack of freedom under regulated, repetitive city life.",
+      "confidence": "high"
+    },
+    {
+      "term": "disenchantment",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Feeling like a machine and losing human agency under modern conditions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Etiology of Hysteria",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Freud's 1896 paper, presented as his early argument that hysteria had origins in real trauma.",
+      "confidence": "high"
+    },
+    {
+      "term": "hysteria",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "A period term for women described as unable to control emotions or form healthy relationships; Jiang notes it is not a word used now.",
+      "confidence": "high"
+    },
+    {
+      "term": "The Assault on Truth",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jeffrey Masson's book, used as evidence for Freud's shift from trauma advocacy to fantasy theory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Frankism",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "A transgressive Jewish sect discussed as evidence that taboo-breaking religious practices existed in Freud's broader Central/Eastern European context.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Sabbatai Zevi",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Charismatic Jewish messianic figure used to explain a religion of transgression where inner faith matters more than outward conduct.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Semmelweis",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0037",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Vienna doctor used as a warning example of what happens when a medical truth threatens powerful colleagues.",
+      "confidence": "high"
+    },
+    {
+      "term": "stream of consciousness",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0046",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Modernist writing that tries to capture the mind as it thinks and works, linked here to Freud and the unconscious.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ulysses",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0043",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Joyce's 1922 modernist work, treated as elitist, musical, allusive, and self-referential.",
+      "confidence": "high"
+    },
+    {
+      "term": "To the Lighthouse",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0046",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Virginia Woolf's 1927 novel, used as a Freud-influenced modernist example about memory and perception.",
+      "confidence": "high"
+    },
+    {
+      "term": "positive psychology",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Used critically as the idea that thinking happy thoughts can solve suffering or poverty.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective action",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Shared political or social action that the cult of the self makes people incapable of performing.",
+      "confidence": "high"
+    },
+    {
+      "term": "democratization of the cult of the self",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang's phrase for social media making elite self-indulgence available to everyone.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0001",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0006"
+      ],
+      "note": "This 2025-06-04 lecture reuses a broad religious chronology from Ice Age animism to Protestant capitalism while preparing Freud and modernism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0009",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0016"
+      ],
+      "note": "The lecture builds a sequence from Kant to Hegel to Marx to Freud to Jung as successive responses to faith, knowledge, history, and selfhood.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0019",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0023"
+      ],
+      "note": "Freud is placed in late nineteenth-century Vienna during the transition from pre-modern village life to modern urban society.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0024",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0030"
+      ],
+      "note": "The lecture distinguishes early Freud around 1896 from a later Freud who reworks trauma into fantasy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0034",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0040"
+      ],
+      "note": "This packet anchors Freud's reversal in late nineteenth-century Vienna and uses earlier religious/transgressive movements plus Semmelweis's 1840s Vienna as context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0043",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0046"
+      ],
+      "note": "The lecture dates Ulysses to 1922 and To the Lighthouse to 1927 as early twentieth-century modernist texts carrying Freud/Jung into culture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "note": "The lecture identifies 2015 and smartphone access as a turning point for depressive symptoms and suicide among young people.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "note": "The next class is announced as nationalism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0007",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0008"
+      ],
+      "note": "ASR damage obscures several words in the shoplifting example; semantic extraction preserves only the stable claim about taboo-breaking and exhilaration."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0022"
+      ],
+      "note": "The transcript says enemy, but the context indicates the sociological term anomie."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0035",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0036"
+      ],
+      "note": "The transcript's dates for Sabbatai Zevi are likely ASR-damaged; the semantic point is the religious-transgression model, not the exact date."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript says James Joyce is more accessible than James Joyce, likely an ASR slip in a Dante/Joyce comparison."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050"
+      ],
+      "note": "ASR damage makes the JSTOR quote unreliable in detail; only Jiang's stated interpretive takeaway is extracted."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "note": "The closing review lines are ASR-damaged, but the broader conclusion about powerful interests and the cult of the self is clear."
+    }
+  ]
+}

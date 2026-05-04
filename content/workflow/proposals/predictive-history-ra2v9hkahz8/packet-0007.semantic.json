@@ -1,0 +1,274 @@
+{
+  "packet_id": "predictive-history-ra2v9hkahz8-semantics-pkt-0007",
+  "source_id": "video:predictive-history-ra2v9hkahz8",
+  "source_date": "2025-06-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang connects Jung to Picasso's cubism, then reads a JSTOR article on modern art and argues that Cold War modern art served liberal individualism and the cult of the self against collective action.",
+      "speaker_attribution": "Jiang reading and interpreting art-historical material.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads Bakunin against isolated freedom, interpreting Christianity, psychoanalysis, and the cult of the self as forms of slavery that block collective freedom and recognition.",
+      "speaker_attribution": "Jiang reading quoted Bakunin and interpreting it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by tying social media to the democratization of the cult of the self, a post-2015 spike in depression and suicide, and the need to rediscover humanity by caring for others and killing the cult of the self.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050"
+      ],
+      "note": "The JSTOR passage is heavily ASR-damaged; keep only the stable Jiang interpretation about modern art, liberal individualism, and the cult of the self.",
+      "suggested_speaker": "Jiang reading quoted source",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "note": "Bukhanyan is likely Bakunin; the quoted passage and Jiang's interpretation are sufficiently clear.",
+      "suggested_speaker": "Jiang reading Bakunin",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads Picasso's cubist portrait as visually representing Jung's theory of the divided self.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Lecture interpretation of modern art.",
+      "topic_tags": [
+        "Picasso",
+        "Jung",
+        "cubism",
+        "self"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that modern art spread in part because it served liberal individualism and opposed collective action during the Cold War.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture diagnosis of modern art's mid-twentieth-century spread.",
+      "topic_tags": [
+        "modern-art",
+        "CIA",
+        "Cold-War",
+        "individualism",
+        "collective-action"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The cult of the self is said to make collective action impossible by teaching that the self is the source of everything.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-06-04.",
+      "topic_tags": [
+        "cult-of-the-self",
+        "collective-action",
+        "individualism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reading Bakunin, Jiang argues that freedom exists only through a community of free others; isolated freedom is nothingness and slavery.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture interpretation of Bakunin.",
+      "topic_tags": [
+        "Bakunin",
+        "freedom",
+        "community",
+        "slavery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Christianity and psychoanalysis as cults of individual inwardness that can trap people inside themselves and make them controllable.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture critique as of 2025-06-04.",
+      "topic_tags": [
+        "Christianity",
+        "psychoanalysis",
+        "individualism",
+        "control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Social media is described as democratizing the cult of the self: what only the wealthy could once enjoy becomes available to everyone, producing a global depression epidemic.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Present-day diagnosis in the 2025-06-04 lecture.",
+      "topic_tags": [
+        "social-media",
+        "depression",
+        "cult-of-the-self",
+        "technology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's proposed solution is to rediscover humanity by caring for others, putting others' interests before one's own, and killing the cult of the self.",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Normative conclusion of the 2025-06-04 lecture.",
+      "topic_tags": [
+        "humanity",
+        "care",
+        "cult-of-the-self",
+        "collective-good"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "moment": "If you believe you are the source of everything, you cannot act collectively.",
+      "source_phrase": "if you believe that you are the source of everything, then you're not capable of collective action",
+      "why_it_matters": "This compresses Jiang's political critique of modern selfhood.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0052"
+      ],
+      "moment": "Freedom without others becomes slavery to the self.",
+      "source_phrase": "If we are free, but no one else is free, then we are slaves as well",
+      "why_it_matters": "It is the strongest counter-formula to individualist freedom in the lecture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "moment": "Social media democratizes the cult of the self and spreads a European inward sickness through technology.",
+      "source_phrase": "social media is it is the democratization of the call to the self",
+      "why_it_matters": "It brings the lecture's history of Freud and modernism into a contemporary diagnosis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "moment": "The ending is not therapy but revolt against the cult of the self.",
+      "source_phrase": "choose to kill the cult of itself",
+      "why_it_matters": "It gives the episode its closing imperative.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "positive psychology",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Used critically as the idea that thinking happy thoughts can solve suffering or poverty.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective action",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Shared political or social action that the cult of the self makes people incapable of performing.",
+      "confidence": "high"
+    },
+    {
+      "term": "democratization of the cult of the self",
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang's phrase for social media making elite self-indulgence available to everyone.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0054",
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "note": "The lecture identifies 2015 and smartphone access as a turning point for depressive symptoms and suicide among young people.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0056"
+      ],
+      "note": "The next class is announced as nationalism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0050"
+      ],
+      "note": "ASR damage makes the JSTOR quote unreliable in detail; only Jiang's stated interpretive takeaway is extracted."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ra2v9hkahz8@transcript:v1#seg-0055"
+      ],
+      "note": "The closing review lines are ASR-damaged, but the broader conclusion about powerful interests and the cult of the self is clear."
+    }
+  ]
+}
