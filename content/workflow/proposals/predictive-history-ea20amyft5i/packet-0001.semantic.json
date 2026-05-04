@@ -1,0 +1,193 @@
+{
+  "packet_id": "predictive-history-ea20amyft5i-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ea20amyft5i",
+  "source_date": "2025-05-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0001",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture as America after Britain in a four-civilization competition and introduces America as an anti-civilization designed from Enlightenment principles to redeem humanity from older civilizational prejudice and atrocity.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0003",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He traces the opening of North America after Spanish conquest and English piracy, then contrasts French, Dutch, and British colonial strategies, emphasizing that Britain succeeds through grassroots settlement rather than only top-down imperial extraction.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0005",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0006",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0007",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He explains Boston, Puritan literacy, eastern seaboard economics, colonial diversity, Pennsylvania Quaker tolerance, Maryland Catholic tolerance, and the demographic imbalance that makes British expansion collide with French and Native resistance.",
+      "speaker_attribution": "Jiang classroom lecture; questions in this span are lecturer prompts or comprehension checks.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang argues that America was deliberately designed as an anti-civilization: a new Enlightenment government meant to overcome the prejudice and atrocity of older civilizations.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0001",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "america",
+        "anti-civilization",
+        "enlightenment",
+        "founding"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents Spanish conquest and plantation extraction as the first profitable European model in the Americas, which then draws English, French, and Dutch competitors into the New World.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0002",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "new-world",
+        "spanish-empire",
+        "plantation",
+        "colonization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He explains British success in North America as unusually bottom-up and settler-driven, especially through Jamestown persistence and Boston Puritan family settlement.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0004",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "british-colonies",
+        "boston",
+        "puritans",
+        "settler-colonialism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats early American colonial society as diverse in economy, religion, and motive, with mercantile North, agricultural South, Quaker Pennsylvania, and Catholic Maryland all present before independence.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0006",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0007",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "colonial-diversity",
+        "religious-tolerance",
+        "economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The demographic pressure of roughly a million British colonists against far fewer French settlers drives expansion, Native conflict, and the French and Indian Wars.",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2025-05-15.",
+      "topic_tags": [
+        "demography",
+        "french-and-indian-war",
+        "expansion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0001",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0002"
+      ],
+      "moment": "America enters the lecture as an anti-civilization rather than merely a younger civilization.",
+      "source_phrase": "America, in many ways, it was designed as the anti-civilization",
+      "why_it_matters": "This is the source’s organizing reversal: America is built to cure civilization and eventually becomes another world-ordering force.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0005"
+      ],
+      "moment": "Boston becomes powerful because Puritan literacy turns a colony into a political, literate, fast-growing society.",
+      "source_phrase": "Boston, from the very beginning, it's a literate society",
+      "why_it_matters": "The lecture ties later American politics to literacy, Protestant discipline, and Atlantic commercial position.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0007",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0008"
+      ],
+      "moment": "The American seed already contains tolerance, diversity, and conflict: Quaker pacifism survives only until it meets frontier violence.",
+      "source_phrase": "this experiment persists for decades",
+      "why_it_matters": "This gives the early openness a hard edge; tolerance is real but not outside power politics.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "anti-civilization",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0001",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "America as a designed alternative to inherited civilization, meant to remedy civilizational prejudice and atrocity.",
+      "confidence": "high"
+    },
+    {
+      "term": "Puritan literacy",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The Puritan duty to read and interpret the Bible becomes a source of schools, newspapers, politics, and colonial growth.",
+      "confidence": "high"
+    },
+    {
+      "term": "religious tolerance",
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0007",
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Early American openness through Quaker Pennsylvania, Catholic Maryland, and diverse settlement motives.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ea20amyft5i@transcript:v1#seg-0001"
+      ],
+      "note": "Positions this 2025-05-15 lecture after the British lecture and before planned Russian and German civilization lectures in the course sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
