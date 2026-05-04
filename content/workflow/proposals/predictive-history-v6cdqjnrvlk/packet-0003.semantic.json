@@ -1,0 +1,174 @@
+{
+  "packet_id": "predictive-history-v6cdqjnrvlk-semantics-pkt-0003",
+  "source_id": "video:predictive-history-v6cdqjnrvlk",
+  "source_date": "2025-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0017",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0018",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0019",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts medieval Christian art with Renaissance art: stained glass is high, illuminated, blinding, and submissive, while Da Vinci's Last Supper uses depth to pull the viewer into the event.",
+      "speaker_attribution": "Jiang; seg-0018 is a single unclear 'Okay?' likely lecture filler rather than a separate question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0021",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0022",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0023",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He reads The Last Supper as a human drama of betrayal: the incomplete table expands toward the viewer, the apostles' bodies and hands disclose fear, and Judas is marked subtly by darkness, silver, and tension rather than by a crude halo contrast.",
+      "speaker_attribution": "Jiang visual analysis.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0018"
+      ],
+      "note": "The diarizer marks a one-word UNKNOWN span, but it functions as an 'Okay?' transition and not a substantive student question.",
+      "suggested_speaker": "Jiang or unclear classroom filler",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Medieval Christian art is presented as idea-centered and submissive: its stained glass overwhelms the viewer with divine awesomeness rather than inviting imaginative participation.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0017",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0019",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Art-history model in this lecture.",
+      "topic_tags": [
+        "medieval-art",
+        "christianity",
+        "submission",
+        "stained-glass"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Renaissance art moves from 'blinding and awesome' to 'compelling and curious' by using depth, spatial motion, and dramatic tension to make the viewer participate.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0020",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Renaissance art model in this lecture.",
+      "topic_tags": [
+        "renaissance-art",
+        "viewer-participation",
+        "depth",
+        "curiosity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Da Vinci's Last Supper forces investigation because Judas is not obviously isolated; the viewer must read faces, hands, light, coins, and bodily tension to discover betrayal.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0021",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0022",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0023",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Interpretation of The Last Supper in this lecture.",
+      "topic_tags": [
+        "last-supper",
+        "da-vinci",
+        "betrayal",
+        "emotion",
+        "observation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Da Vinci as an astute observer of emotion whose art turns anatomy, facial expression, breathing, eyes, and hand motion into evidence of inner life.",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0023",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Interpretation of Da Vinci in this lecture.",
+      "topic_tags": [
+        "da-vinci",
+        "emotion",
+        "anatomy",
+        "inner-life"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0019"
+      ],
+      "moment": "Christian stained glass is not there for you to enter; it is there to make you submit.",
+      "source_phrase": "You're not here to participate. You're here to submit.",
+      "why_it_matters": "This sharp contrast carries the whole art-history transition from obedience to participation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0020",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0021"
+      ],
+      "moment": "The too-thin table in The Last Supper expands outward until the viewer becomes part of the picture.",
+      "source_phrase": "this table is expanding outwards",
+      "why_it_matters": "It makes viewer participation concrete instead of merely aesthetic.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0023",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0024"
+      ],
+      "moment": "Judas is betrayed not by a label but by darkness, silver, and a neck too tense to breathe.",
+      "source_phrase": "all the tension is captured in his neck",
+      "why_it_matters": "It shows how Renaissance art turns moral drama into embodied clues.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Blinding and awesome",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0019",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's phrase for medieval Christian art that overwhelms the observer with divine mystery and discourages participation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Compelling and curious",
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's phrase for Renaissance art that draws the viewer into the scene and makes interpretation necessary.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0022",
+        "video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0023"
+      ],
+      "note": "Some Last Supper visual-detail wording is ASR-damaged, but the interpretive structure is clear from surrounding segments."
+    }
+  ]
+}
