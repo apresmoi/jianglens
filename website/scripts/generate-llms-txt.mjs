@@ -111,7 +111,9 @@ async function main() {
     '',
     `> ${siteConfig.summary}`,
     '',
-    'This is an independent research project, not an official Jiang Xueqin publication. Agents should separate Jiang-sourced material from project interpretation and generated analysis.',
+    'This is an independent research project, not an official Jiang Xueqin publication. It is designed for human readers and for agents such as ChatGPT, Claude, and Codex that need source-grounded access to the corpus.',
+    '',
+    'Agents should separate Jiang-sourced material from project interpretation and generated analysis.',
     '',
     '## Agent Entry Points',
     '',
@@ -130,7 +132,7 @@ async function main() {
     '',
     '> Compact public snapshot for agents using the Jiang Lens corpus.',
     '',
-    'Important boundary: generated analysis is a Jiang Lens reading, not Jiang Xueqin speaking. Prefer cited canon, glossary, evidence, and ledger references when available.',
+    'Important boundary: generated analysis is a Jiang Lens reading, not Jiang Xueqin speaking. Prefer cited canon, glossary, evidence, and ledger references when available. Use this snapshot with ChatGPT, Claude, Codex, or another assistant when exact public pages are not enough.',
     '',
   ];
 
@@ -158,7 +160,17 @@ async function main() {
     fullLines.push('---', '', `# Generated ${fileName}`, '', '```json', json.trim(), '```', '');
   }
 
-  indexLines.push('', '## Source', '', `- Public repository: ${siteConfig.urls.repository}`, '- License: to be selected before launch', '');
+  indexLines.push(
+    '',
+    '## External Profiles',
+    '',
+    ...siteConfig.externalProfiles.map((profile) => `- ${profile}`),
+    '',
+    '## Source',
+    '',
+    `- Public repository: ${siteConfig.urls.repository}`,
+    '',
+  );
 
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));

@@ -5,7 +5,9 @@ import { configuredBasePath } from '../../site.config.mjs';
 const basePath = configuredBasePath();
 const base = basePath ? `${basePath}/` : '/';
 const pathname = Astro.url.pathname;
-const current = pathname.includes('/episodes/')
+const current = pathname.includes('/use-with-your-agent/')
+  ? 'agent'
+  : pathname.includes('/episodes/')
   ? 'episodes'
   : pathname.includes('/lens/')
     ? 'lens'

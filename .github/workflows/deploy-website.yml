@@ -51,6 +51,10 @@ jobs:
         working-directory: website
         run: npm run build
 
+      - name: Check production output
+        working-directory: website
+        run: npm run check:production-output
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
         with:

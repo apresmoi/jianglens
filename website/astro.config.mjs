@@ -28,7 +28,17 @@ export default defineConfig({
           items: [
             { label: 'Introduction', slug: 'introduction' },
             { label: 'The Jiang Lens', slug: 'lens' },
-            { label: 'Use With Your Agent', slug: 'use-with-your-agent' },
+            { label: 'Use With ChatGPT Or Claude', slug: 'use-with-your-agent' },
+          ],
+        },
+        {
+          label: 'Discovery',
+          items: [
+            { label: 'Who Is Jiang Xueqin?', slug: 'who-is-jiang-xueqin' },
+            { label: 'What Is Predictive History?', slug: 'what-is-predictive-history' },
+            { label: 'Is Professor Jiang Legit?', slug: 'is-professor-jiang-legit' },
+            { label: 'Professor Jiang Predictions', slug: 'professor-jiang-predictions' },
+            { label: 'Professor Jiang Transcripts', slug: 'professor-jiang-transcripts' },
           ],
         },
         {

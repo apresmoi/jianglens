@@ -15,7 +15,7 @@ The aim is compression without flattening. Each source is kept traceable, each d
 
 This site is a readable map of Jiang Xueqin's Predictive History corpus: lectures, interviews, and writing where he develops a way of reading geopolitics, civilization, education, literature, religion, strategy, and social behavior.
 
-It has three main doors. **Episodes** turn individual videos into compact readings with video, timestamped source trails, and full transcript access. **Lens pages** collect recurring concepts across sources, so a reader can follow ideas such as game theory, eschatology, false authority, or poetry as world-making beyond one lecture. **Use With Your Agent** explains how to bring the lens into ChatGPT, Claude, or another assistant.
+It has three main doors. **Episodes** turn individual videos into compact readings with video, timestamped source trails, and full transcript access. **Lens pages** collect recurring concepts across sources, so a reader can follow ideas such as game theory, eschatology, false authority, or poetry as world-making beyond one lecture. **Use Jiang Lens With ChatGPT Or Claude** explains how to bring the lens into an assistant.
 
 Each section should make sense on its own. A reader who lands on an episode, a concept page, or an agent-use page should still understand that Jiang Lens is compressing Jiang's public corpus into a traceable interpretive map.
 
