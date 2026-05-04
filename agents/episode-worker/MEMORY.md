@@ -3,7 +3,7 @@
 - The maintainer wants autonomous workers that improve through practice, but this worker should not edit `.codex/skills/**` while it is the first participant. Propose skill/process changes under `agents/episode-worker/proposals/` or in PR notes.
 - Episode pages should feel like readable public essays with source-linked evidence, not dumps of transcript analysis.
 - Keep Jiang's voice and novelty. Do not sand down sharp ideas into sober generic summaries.
-- Student/interviewer questions must come from the transcript. If no real questions exist, do not fabricate a Q&A section.
+- Student/interviewer questions must be performed by a non-Jiang speaker in the transcript and answered by Jiang. Omit Jiang-read topic prompts, reader FAQ prompts, cleaned synthesis questions, fragments, corrections, and statements even when Jiang responds.
 - Episode-worker stops at website-visible episode publication. Corpus impact and lens/canon mutation are separate downstream jobs.
 - Use dates consistently; later lens work depends on chronology.
 - Episode work should land through a source-scoped PR, not direct pushes to `main`.
