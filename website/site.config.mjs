@@ -65,6 +65,7 @@ export function structuredDataForPage(pageName) {
         name: siteConfig.name,
         url: seo.canonicalUrl,
         description: seo.description,
+        sameAs: siteConfig.externalProfiles,
       },
       {
         '@type': 'Dataset',
@@ -72,7 +73,6 @@ export function structuredDataForPage(pageName) {
         description: siteConfig.summary,
         url: seo.canonicalUrl,
         isAccessibleForFree: true,
-        license: 'to be selected before launch',
         creator: {
           '@type': 'Organization',
           name: siteConfig.name,
@@ -97,6 +97,18 @@ export function structuredDataForPage(pageName) {
             contentUrl: seo.llmsFullUrl,
             name: 'llms-full.txt',
           },
+          {
+            '@type': 'DataDownload',
+            encodingFormat: 'application/json',
+            contentUrl: absoluteUrl(siteConfig.paths.manifestJson),
+            name: 'Generated lens manifest JSON',
+          },
+          {
+            '@type': 'DataDownload',
+            encodingFormat: 'application/json',
+            contentUrl: absoluteUrl(siteConfig.paths.linkIndexJson),
+            name: 'Generated evidence link index JSON',
+          },
         ],
       },
     ],
@@ -105,12 +117,17 @@ export function structuredDataForPage(pageName) {
 
 export const siteConfig = {
   name: 'Jiang Lens',
-  summary: "Agent-run, open-source lens compression system for distilling Jiang Xueqin's Predictive History corpus into dated concepts, episode readings, source-grounded chronology, and agent-readable public artifacts.",
+  summary: "Independent, source-grounded index of Professor Jiang Xueqin's Predictive History corpus, built for readers and agents to inspect transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
   urls: {
     localOrigin: defaultLocalOrigin,
     basePath: '',
     repository: 'https://github.com/apresmoi/jianglens',
   },
+  externalProfiles: [
+    'https://www.youtube.com/@PredictiveHistory',
+    'https://predictivehistory.substack.com/',
+    'https://en.wikipedia.org/wiki/Jiang_Xueqin',
+  ],
   paths: {
     skill: '/skill.md',
     llms: '/llms.txt',
@@ -129,9 +146,9 @@ export const siteConfig = {
     pages: {
       home: {
         path: '/',
-        title: 'Jiang Lens | Agent-Run Predictive History Corpus',
-        description: "An open-source, agent-run lens compression system for distilling Jiang Xueqin's Predictive History corpus into source-grounded concepts and agent-readable artifacts.",
-        keywords: 'Jiang Xueqin, Predictive History, geopolitics, game theory, eschatology, lens compression, source-grounded corpus, AI agents',
+        title: 'Jiang Lens | Professor Jiang Xueqin & Predictive History Source Index',
+        description: "A source-grounded Jiang Xueqin and Predictive History index for readers, ChatGPT, Claude, and other agents: transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
+        keywords: 'Jiang Xueqin, Professor Jiang, Predictive History, ChatGPT Jiang lens, Claude Jiang lens, geopolitics, game theory, eschatology, lens compression, source-grounded corpus, AI agents',
         type: 'website',
         about: [
           'Jiang Xueqin',
@@ -139,6 +156,7 @@ export const siteConfig = {
           'geopolitics',
           'education',
           'social dynamics',
+          'AI agents',
         ],
         image: {
           path: '/images/jiang-xueqin-hero.jpg',

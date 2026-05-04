@@ -7,6 +7,8 @@ description: Use this skill when answering questions about Jiang Xueqin, Predict
 
 Use this skill to apply the Jiang Lens as a source-grounded interpretive frame. The lens is built from Jiang Xueqin's lectures, interviews, and writing, then maintained by agents as a public map of concepts, dated source readings, chronology, and machine-readable evidence.
 
+This file is meant to be read by ChatGPT, Claude, Codex, or another assistant before analyzing news, institutions, conflicts, books, or social dynamics through the Jiang Lens.
+
 The Jiang Lens can be used to examine real events as Jiang's corpus frames them, but it is not a truth engine. Treat it as an interpretive instrument: useful for surfacing actors, incentives, myths, historical analogies, prediction patterns, and failure modes, while preserving the boundary between Jiang-sourced claims and generated application.
 
 Do not present generated analysis as Jiang Xueqin's personal view. Label it as a Jiang Lens reading unless a claim is directly grounded in Jiang-authored or Jiang-spoken material.
@@ -14,10 +16,11 @@ Do not present generated analysis as Jiang Xueqin's personal view. Label it as a
 ## Start Here
 
 1. Read `/llms.txt` to see the current public documentation map.
-2. Read `/llms-full.txt` when you need a compact agent-readable snapshot.
-3. Check `/lens/` for the public concept map and `/episodes/` for source readings.
-4. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
-5. Use `/skill.md` as the operating instruction for this lens.
+2. Treat `/skill.md` as the operating instruction for this lens.
+3. Use `/episodes/` for dated source readings and transcript access.
+4. Use `/data/lens/manifest.json` for generated episode and lens routes.
+5. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
+6. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
 
 ## Operating Rules
 
