@@ -1,0 +1,122 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0002",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0009",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0010",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang gives the three-class framework: the French Revolution is a religious crusade requiring a poet, prophet, and prince. Rousseau imagines the rational world, Robespierre leads people toward it, and Napoleon conquers outward from it.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0012",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0013",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0014",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0015",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He connects Dante, Renaissance, Reformation, the Second Revolution, and gunpowder to structural changes that create the middle class. He then classifies bourgeoisie and petite bourgeoisie by wealth, status, and revolutionary appetite.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The French Revolution was ultimately a religious crusade that needed three cooperating figures: Rousseau as poet, Robespierre as prophet, and Napoleon as prince.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0009",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0010",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Thesis for this and the following two French Revolution lectures.",
+      "topic_tags": ["french-revolution", "crusade", "rousseau", "robespierre", "napoleon"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's prophetic reimagining of the world helps unleash the Renaissance, Reformation, and Second Revolution, which combine with gunpowder to produce nation, urban industry, and science.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0012",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Jiang's causal bridge from Dante to the Enlightenment.",
+      "topic_tags": ["dante", "enlightenment", "gunpowder", "nation-state", "science"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bourgeoisie are the moneyed town elite who finance war, industry, and roads and therefore tend to be conservative because they already possess status.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0014",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture definition of the bourgeoisie.",
+      "topic_tags": ["bourgeoisie", "middle-class", "finance", "conservatism"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The petite bourgeoisie are comfortable but aspirational provincial elites, and Jiang identifies them as the group most likely to lead revolutions.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture definition with French and Communist Revolution examples.",
+      "topic_tags": ["petite-bourgeoisie", "revolutionary-leadership", "middle-class"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0009"],
+      "moment": "A revolution needs a poet to see the promised land, a prophet to walk people toward it, and a prince to conquer it.",
+      "source_phrase": "the poet to envision the future... the prophet... the prince, or the conqueror",
+      "why_it_matters": "This gives the whole French Revolution mini-series its mythic architecture.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0016"],
+      "moment": "The revolutionary leader is not the poorest person but the provincial elite who can see higher status and cannot reach it.",
+      "source_phrase": "They're the provincial elite",
+      "why_it_matters": "It explains revolution as frustrated aspiration, not simple poverty.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "poet, prophet, prince",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0009"],
+      "definition_or_usage": "Jiang's triad for a successful revolutionary crusade: imagination, sacrificial leadership, and military expansion.",
+      "confidence": "high"
+    },
+    {
+      "term": "petite bourgeoisie",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0016"],
+      "definition_or_usage": "Comfortable but not elite middle-class stratum, often provincial and aspirational, that Jiang treats as the typical source of revolutionary thought leaders.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0010",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0011"
+      ],
+      "note": "The lecture previews the next two classes: Robespierre follows Rousseau, and Napoleon follows Robespierre.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,124 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0001",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0001",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0002",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0003",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0004",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens a three-part French Revolution sequence by mapping four religious worldviews: animism, polytheism, monotheism, and modern deism. Modernity replaces faith, orthodoxy, and truth with reason, debate, and progress.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0006",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0007",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He explains each worldview transition as a social mechanism, culminating in the French Revolution as the unprecedented hinge from Christian monotheism to modernism. Older worldviews persist, but newer systems try to displace them.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Society is underpinned by religious worldview; Jiang's simplified sequence is animism, polytheism, monotheism, and modern deism.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0001",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0002",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0003",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Framework presented in the 2025-04-22 lecture.",
+      "topic_tags": ["worldviews", "religion", "modernity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modernity is the Christian worldview inverted: faith becomes reason, orthodoxy becomes debate, and truth becomes progress.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0004",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Definition of the modern period in this lecture.",
+      "topic_tags": ["deism", "reason", "debate", "progress"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The French Revolution is the most radical turning point in human history because modernity, communism, World War I, and World War II become unintelligible without it.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture thesis about the French Revolution's long-run significance.",
+      "topic_tags": ["french-revolution", "modernity", "world-war", "communism"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "No worldview is inherently superior, but each newer worldview believes itself superior and therefore attempts to crush or displace older ones.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Worldview-conflict model in this lecture.",
+      "topic_tags": ["worldview-conflict", "superiority", "displacement"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0005"],
+      "moment": "Modernity is not secular emptiness; it is a new religious grammar built from reason, debate, and progress.",
+      "source_phrase": "replacing faith with reason, orthodoxy with debate, and truth with progress",
+      "why_it_matters": "This is the lecture's compressed key for treating Enlightenment reason as a religious mutation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0007"],
+      "moment": "The French Revolution is presented as the event without which modernity cannot happen.",
+      "source_phrase": "Without the French Revolution, modernity could not happen",
+      "why_it_matters": "It sets the stakes for the next three lectures and turns the episode from intellectual history into world-historical origin story.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "modern deism",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0004"],
+      "definition_or_usage": "The worldview that God created a perfect universe, left humans reason as the tool for understanding its laws, and expects humans to perfect life through those laws.",
+      "confidence": "high"
+    },
+    {
+      "term": "worldview displacement",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0008"],
+      "definition_or_usage": "Jiang's pattern that newer religious worldviews do not merely compete with older ones; they claim superiority and try to crush or replace them.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0007"],
+      "note": "The lecture explicitly begins a three-class French Revolution sequence and places this source before the Robespierre and Napoleon classes.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0001"],
+      "note": "The transcript contains ASR noise in the animism setup, but the surrounding wording clearly supports the balance, harmony, and oneness model."
+    }
+  ]
+}

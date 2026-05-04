@@ -1,0 +1,483 @@
+# Civilization #46:  The Revolution of Reason
+
+Source: https://www.youtube.com/watch?v=5HwZx5kQm9o
+
+## seg-0001 / 00:00:00-00:01:22 / SPEAKER_00
+
+So today we start a three -part series on the French Revolution, which I believe to be the most significant event in human history. Okay, so let me very quickly explain its significance. So as I keep on mentioning in this class, it is the religious worldview that underpins society and civilization. It is what allows society to function. And to over simplify, there've been four major religious worldviews in human history. Okay, so let's go over them briefly. The first is what we call the animistic, and this is basically during the Ice Age when we were hunter -gatherers and we were just roaming the earth. And there are three major key words that underlieising. When we think about the early 90s, when we think about charges against poverty and this worldview balance harmony and oneness we did not believe that we were different from the plants the animals that lived on this planet we were one with them
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:22-00:02:45 / SPEAKER_00
+
+we were interconnected with them we didn't fear death because life and death were part of the same continuous cycle okay so this is the idea of the animistic worldview from then we moved on to the polytheistic polytheistic many gods and the three main ideas that underpin the polytheistic worldview are action ritual and fate no one not even the gods can escape their fate our fate has been preordained what courage is is the willingness to embrace with with honor and with dignity your fate so think of hector as he is about to battle achilles he knows he is going to get killed and he's afraid he shakes but he still confronts his fate and he dies and that's what's expected of you in the viking world in the greek world in the roman world in the roman world to face your death with honor and dignity to live your life with courage action but in a
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:45-00:04:02 / SPEAKER_00
+
+ritualized manner okay in a way that the community expects of you and to embrace your fate no matter what it is okay that is the polytheistic worldview this then this uh leads us to the monotheistic worldview the monotheistic okay so the monotheistic are the jews the christians and the muslims the three major ideas that are under the underpin the monotheistic worldview are faith orthodoxy and truth there is an eternal truth called god we must have faith in him and faith and truth are expressed through orthodoxy there is a set of beliefs that you cannot question that you must believe and you must live your life according to this orthodoxy okay so these are these are three major ideas underlying monotheistic now we move to the modern period okay another word that we can use for modern is uh diaz okay diaz you may have heard of this but the idea of diaz is that there
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:02-00:05:14 / SPEAKER_00
+
+is a god god created the universe but then he left us he doesn't care about what happens anymore because the word he created was perfect and it is up to us to understand the perfect laws of the universe and then perfect our lives according to these laws okay so let's say you have diaz this is important because diaz is the founding religion of both the american as well as the french revolutions all right and there are three major beliefs that underpin diaz the first is reason okay so rather than faith we have to use our reason because that's the gift that god gave us before he left we are able to using logic using intuition using skepticism to understand how the world works okay reason all right but reason by itself is not enough you have to engage in debate in order to fully use our reason you may not able to reason out for
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:14-00:06:30 / SPEAKER_00
+
+yourself the truth but you have to make But in the debate, you're able to hear out the truth, okay? And if we do this, if we continue to exercise our reason, if we continue to engage in debate, what is often called the marketplace of ideas, this will lead to the idea of progress, okay? So what's happened is that the modern period is responding to the Christian period by replacing faith with reason, orthodoxy with debate, and truth with progress, okay? And these three ideas, reason, debate, and progress, are the foundations of the period we live in today called the modern period. It is about these three ideas are the foundations of our school system, for our universities, for our scientific institutions, okay? Does that make sense? All right, now having gone through these four different periods, I want to do some analysis, okay? The first analysis is to explain to you how these changes manifested themselves.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:31-00:07:46 / SPEAKER_00
+
+So the animistic period is the most natural. It's what makes the most sense. Quite honestly, if animals had a religion, it would probably be an animistic religion, okay? So how do we transition from the animistic to apotheistic? Well, the main reason is because of civilization, okay? Because of mass society, civilization. Because we chose to settle down and learn agriculture and develop religious systems, all right? And with that comes war, comes hierarchy, comes inequality. And as such, we develop the polytheistic worldview, all right? From the polytheistic worldview, we then transition into the monotheistic worldview, why? Because of Christianity, all right? Christianity. Remember, you're usually taught that Christianity is, oh, Jesus dies and then everyone becomes a Christian. That's not what happened, okay? As you learn in this class, Christianity was a mechanism developed by the Roman Empire in order to assimilate the Jews and then later on to assimilate barbarians who were economic migrants, into the Roman Empire.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:46-00:09:02 / SPEAKER_00
+
+Basically, it was a tool of control for the Roman Empire, okay? But then you have this massive transition from monotheism, the Christian period, into modernism, all right? And this turning point, which is the most radical turning point in human history, is what we call the French Revolution. Without the French Revolution, modernity could not happen, all right? And what's amazing about the French Revolution is, it is entirely unprecedented. We've never had anything like this before. It was entirely unpredictable. It was unique in human history, all right? So we will start the next three classes to understand how the French Revolution happened, because without understanding the French Revolution, you cannot understand future events, especially communism, the rise of communism, World War I, World War II. None of these things would have been possible without the French Revolution, okay? All right, so another thing that's really important for us to understand is that all four worldviews still exist today, all right?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:02-00:10:26 / SPEAKER_00
+
+There are still people who believe in animism, polytheism, okay, but they're the minority. The dominant people are still the monotheists, okay? And they're in competition with the modernists, okay, who are the anarchists, okay? The educated elite, okay? So this conflict is still going on today. The other thing that's really important for us to understand is none of these beliefs is inherently superior to the other, okay? You cannot make the argument to me, at least, that one is better than the other. But new systems believe they are superior to the other, okay? To the previous. The polytheists believe they are superior to the animists. The monotheists think they are superior to the polytheists. And the deists think they are superior to the monotheists. Okay? And because of this sense of superiority, they try to crush previous worldviews, okay? So these four worldviews are not in competition with each other. But the new ones seek to displace the old ones.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:27-00:11:50 / SPEAKER_00
+
+And this has led to a lot of conflict throughout human history, all right? So this is the overall framework we are working with. I know it's a bit simple, but for the purpose of this class, it's good enough, okay? All right, so now what I'm gonna do is explain the framework for the next three classes. Okay? My argument to you is the French Revolution was ultimately a religious crusade. That is the main thesis of this, of the next three classes. In each class, we will introduce different elements of this crusade that made it possible. For a crusade to happen, you need three different types of geniuses. You need the poet to envision the future. Okay? The poet. But then you need the prophet, who has the courage to take the people into this new land. And then you need the prince, or the conqueror, who has the conviction and the determination to physically conquer this new land and expand the revolution, okay?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:52-00:13:08 / SPEAKER_00
+
+So the poet is Rousseau, Jean -Jacques Rousseau. He wrote the social contract. We will be focusing on Rousseau. We will be focusing on him, mainly today. Okay? He's the one who introduces the idea that it is possible to build a new world based entirely on reason itself. All right? That's Rousseau. Then you have the prophet. The prophet is the one who has the courage to lead the people into the new land, even though it may cost him his life. And this person, his name is Maximilien Robespierre. Okay? Maximilien Robespierre is, in my opinion, one of the most misunderstood and underrated individuals in human history. Next class, we'll focus on Robespierre. Without Robespierre, the French Revolution could not have succeeded. And then, now you need a prince, who will take the ideas of the prophet, and he will militarily expand, into the world, and conquer a new world, and build a new world.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0010
+
+## seg-0011 / 00:13:08-00:14:15 / SPEAKER_00
+
+And this person's name, of course, is Napoleon Bonaparte. Napoleon. And this is the last class. All right? And my argument to you today is that, without the active cooperation of all three, if they're not able to build on each other's work, the French Revolution would not have succeeded. Because if you just look at the French Revolution, the odds were so high, they were so against the revolutionaries, right? They were not only against the aristocracy and their own people, they were up against the entire world. Britain, Prussia, Russia, Austria. Everyone wanted to destroy the revolution before it threatened their nations. So the odds were completely against the French Revolution, but they succeeded. It was only because of the cooperation of these three particular types of geniuses. Rousseau, the poet, Robespierre, the prophet, and Napoleon, the prince. Okay? So that's what we'll be doing these next three classes.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0011
+
+## seg-0012 / 00:14:15-00:15:45 / SPEAKER_00
+
+All right. So, let's talk about the ideas that underpin the French Revolution. The Enlightenment. Okay? How did we get into the modern period where the ideas are now reason, debate, and progress? Okay. So let's go back to Dante. Dante's Divine Comedy is a prophecy. It is a new understanding of the world. Okay? So what the Divine Comedy does is, what it helps people do is take all these new structural forces that are being unleashed onto the world and understand it in a new way that unleashes three major movements. Okay? These are, of course, the Renaissance, the Reformation, and the Second Revolution. Now, as these things are happening, what else is happening is the Gunpowder Revolution. The Gunpowder Revolution. And these things combine in order to create massive structural changes within European society. Okay? So we discussed this, but there are three major changes that are happening throughout this period. The first is the transition from feudalism to a nation.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0012
+
+## seg-0013 / 00:15:46-00:17:02 / SPEAKER_00
+
+Okay? The idea of a nation. Okay? At first, it's an absolute monarchy, but then after the French Revolution, it transitions into a nation state. Okay? From decentralization into centralization, basically. That's the first major change. Second major change is from rural to urban. Basically, from agriculture into industry. Okay? And the third major change is from religion into science. All right? And this is what's happening in Europe because of the Gunpowder Revolution. Now, what's important about this is with these structural changes comes massive demographic, political, and economic changes. Essentially, what's happening is that new groups of people are being created. And these groups of people are who we collectively call the middle class. Okay? So let's look at the middle class. All right. So, previously in Europe, there are, just roughly speaking, two major groups. Okay? There's the nobility and the clergy. Okay? There's almost no difference between the two because they intermarry.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0013
+
+## seg-0014 / 00:17:02-00:18:16 / SPEAKER_00
+
+They come from the same families. Okay? But they're the leading elite of society. Okay? You have the tall people, the nobility and the clergy. And then at the other end are the peasants and slaves. But of course, I mean, this is not that simple. I mean, you always have, in the middle class, you always have tradespeople. You always have people working in towns. But they're a minority. And what's happening now, because of all these changes in society, is they now become an increasingly powerful group of people. They're the ones who are driving economic change. Okay? Now, the middle class, an extremely complicated set of people, but roughly speaking, we can divide them into three major categories. Three major categories. The first is what we call the bourgeoisie. The bourgeoisie. Okay? The bourgeoisie is a French term that we use. And it comes actually from the German, which is burger. Burger means the leading citizens of a town.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0014
+
+## seg-0015 / 00:18:17-00:19:28 / SPEAKER_00
+
+The burgers. And the leading citizens of a town usually are the factory owners. The merchants. The people who trade. The bankers. The people who have control of the money. The lawyers. Okay? So these are the bourgeoisie. These are the elite. And this is a new group of people that work very closely with the nobility, but they have some differences. Okay? And the thing to remember about these people is they tend to be conservative. Because in terms of status, they already have, all the status that they want. Okay? And over time, what will happen is that the king and nobility will increasingly depend on the bourgeoisie for financing. Okay? So they pay for wars. They pay for new industry. They pay for roads. Okay? So the bourgeoisie are the ones who are most heavily taxed. But they're usually conservative. They're really happy with the way things are. At the other end, sorry, next to the bourgeoisie are what we call the petite bourgeoisie.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0015
+
+## seg-0016 / 00:19:28-00:20:39 / SPEAKER_00
+
+All right? And these people are not rich, but they're solidly middle class. They're comfortable where they are. Okay? These people are school teachers. Maybe they're restaurant owners. Maybe they're notaries. Okay? So the thing about these people is that they tend to be aspirational. They're not happy with their lives. They want more. And as such, they are opportunistic. Okay? Usually, the people who are most likely to lead the revolution come from members of the petite bourgeoisie. Okay? So most of the leaders of the French Revolution, the most radical members, were provincial lawyers. Okay? Lawyers who worked in small cities. They're not part of the elite, the bourgeoisie. Okay? But they're pretty comfortable where they are. Okay? They're the provincial elite. If you look at the communist revolution, Mao Zedong, he was a petite bourgeoisie. He was a provincial elite, not a Beijing elite. And
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:39-00:22:04 / SPEAKER_00
+
+the last group is what will be referred to in the future, not now, as the proletariat. Proletariat. The proletariat are basically artisans, craftspeople, people who work in cities and in the urban centers, and they have a specialized craft. That makes them valuable. Okay? They're not peasants. They're not poor. But the problem is they are very precarious. Okay? Precarious. What this means is that as the Sandic Revolution progresses, new technology will start to replace the artisans. Okay? Like a sewing machine. And as such, they lose their livelihoods. So their lives are very precarious. Therefore, they most likely tend towards violence. So these are the foot soldiers of revolutions. Okay? The petite bourgeoisie are often the thought leaders, but the proletariat are the ones who provide the muscle. Okay? So if you look at most revolutions, this is how it works. What's really important for us to understand is that, first of all, these categories are not strict.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0017
+
+## seg-0018 / 00:22:04-00:23:20 / SPEAKER_00
+
+Okay? There are lots of interchange between the proletariat and the peasantry. There's lots of interchange between the bourgeoisie and the nobility. Okay? These categories are not static. The other thing is that the loyalties of each group will change according to the circumstance. Okay? So the petite bourgeoisie is not definite that they will rebel against the bourgeoisie. It depends on their economic interests. And it is not definite that the peasants will work with the petite bourgeoisie against the nobility. In fact, during the French Revolution, this is really important, the nobility and the peasants were working together to suppress the revolution. Why? Because the French Revolution wanted to destroy the Catholic religion. And the peasants love their religion. Okay? The peasants wanted to be Catholic and they want to protect their priests. So there was a massive civil war going on in France between the peasants and the proletariat. And that would be counterintuitive if you think it's like why would poor people be fighting against poor people?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0018
+
+## seg-0019 / 00:23:20-00:24:28 / SPEAKER_00
+
+Well, it's because they have different religious interests. Okay? Does that make sense? All right? So this is a framework that I want you guys to remember. There are different groups. This is an oversimplification. And their loyalties will change. So during the revolution, the loyalties will change and it will mark different stages in the French Revolution. And you can use this framework to also understand future revolutions, especially the Communist Revolution. And it's also important for us to remember that most revolutions will fail. All right. So this is the middle class. Now think about the middle class. The thing about new groups is that what they have to do is they have to establish group solidarity. Okay? And the way you do that is by establishing group identity. So how is it that the middle class is different from everyone else? Okay? And as we
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0019
+
+## seg-0020 / 00:24:28-00:25:54 / SPEAKER_00
+
+discuss, what the middle class will do is they will slowly adopt the Enlightenment principles of reason, debate, and progress. Okay? That's how the middle class, or most members of the aspirational middle class, will try to differentiate themselves from everyone else, by embracing the Enlightenment. And that's why we have the Enlightenment. Okay? So over time, these things will become much more concrete. Okay? So what makes the middle class identity? The first is the idea of education. Second is the idea of achievement. And the third is the idea of morality. All right? So what is the middle class? The middle class are those who embrace these three ideas, education, achievement, and morality. Right? If you're in the middle class, you'll be much more educated than nobility and the peasantry. You will read books. You will read newspapers. That's why we have newspapers, okay? Because the middle class wants information. Achievement, the achievement ethos is I will always strive to be better.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0020
+
+## seg-0021 / 00:25:54-00:26:50 / SPEAKER_00
+
+I want my children to be better than me. Okay? If you're a peasant, you don't believe your children will live a better life. If you're nobility, you don't really care if your children live a better life. But for the middle class, it's very important that their children live better lives. Okay? So the idea of the achievement ethos, to work hard. Okay? So you guys should understand this because you're all members of the middle class in China. Right? And the last is the idea of morality. Okay? And this is really important. Morality is especially when it comes to sexual morality. All right? Sexual morality. So the idea is that if you're a poor person, the thing about being poor is you have no control over your body. So during this time of industrialization, what's happening is a lot of peasants are moving into the cities. And what are women doing? Well, they're becoming prostitutes.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0021
+
+## seg-0022 / 00:26:50-00:27:48 / SPEAKER_00
+
+There are tons and tons of prostitutes in these cities. At this time in Europe. Okay? We just walk on the street and guess what? There are prostitutes everywhere. So as a poor person, you have absolutely no control over your body. So with the middle class, the way that they differentiate themselves is by saying that we have enough resources to protect our bodies. And if you're part of the middle class, then you're expected to adhere to a very strict morality. Okay? Does that make sense? That's where we get the idea of morality from, from the development of the middle class. As a middle class, you have sexual, you are much more sexually pure, but also you have a new idea called childhood. If you are a poor person, your child at age 6 starts to work. Okay? At age 10, he or she may be working in a factory and by 12 may be dead.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:48-00:29:00 / SPEAKER_00
+
+What the middle class can do is give his or her child a childhood. Okay? The modern concept of childhood comes from this period when we're looking at this. All right? Okay. So that's the idea here. The Enlightenment basically was a movement in which a new group of people, the middle class, they've always existed, but now they exist in quantity. And they have more resources than they used to have before, especially literacy, access to information. They have more wealth. They have more technology. They are the future leaders of the world. And as such, they want to embrace a new identity. And that's why we have the Enlightenment. Okay? The Enlightenment was basically a period when they tried to bring the ideas of science into society in order to create a new middle class identity. And it still exists today. All right. So that is the basic framework for today. Now we will look at specific writers and thinkers of the Enlightenment.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0023
+
+## seg-0024 / 00:29:00-00:30:18 / SPEAKER_00
+
+Okay? Any questions so far? Okay, great. All right. So let's start looking at some major thinkers of the Enlightenment. All right. So today's class is on the European Enlightenment. Now, what's really important for us to remember is that there are major ideological differences between the British Enlightenment and the European Enlightenment. Okay? European just means France, Germany, Netherlands. Okay? Basically, continent of Europe. The ideas that develop in Europe will be different from the ideas that develop in Britain. After the French Revolution, we'll look at Britain specifically. But now I just want to focus on the European Enlightenment. Okay? So please remember that. The British Enlightenment and the European Enlightenment have contrasting ideas, even though most historians consider them part of the same historical movement. All right. So what is Enlightenment? It is a movement to systemize and institutionalize Dante to create a new European middle -class identity. So all these ideas are coming from Dante.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0024
+
+## seg-0025 / 00:30:18-00:31:37 / SPEAKER_00
+
+But there is a major difference that we must remember. Remember, the Enlightenment, for the Enlightenment thinkers, what God left us is a capacity to reason. Through reason, we can access the mind of God. Okay? Reason is the fundamental principle of Enlightenment. That's not what Dante said, though. Okay? Dante said love is what God gave us. Love is the light in us. Now you think, well, what's the difference between love and reason? Okay. What I will do over the course of the semester is show you that there's actually a huge, huge difference between love and reason. Specifically, reason is independent. You can, by yourself, reason out things. But love requires you to connect with someone else. Either your child, your wife, your mother, who knows, okay? But you must connect with someone else. And because of that idea, interconnectedness, it puts a restraint on your reason. But if you're capable of reasoning by yourself, you can reason anything, including concentration camps, nuclear bombs, genocide.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025
+
+## seg-0026 / 00:31:37-00:32:57 / SPEAKER_00
+
+Okay? So there's a huge difference between love and reason. And it's really important that the Enlightenment thinkers see reason as the central organizing principle of human society and not love. Okay? So I just want you guys to keep that in mind as we move on. The Enlightenment happened mainly in salons. These are places organized by wealthy, bourgeoisie, women. And these salons were not political. They were mainly designed to learn manners, speech, refinement. Right? Because they're trying to differentiate themselves from the nobility, the clergy, and the peasantry. And one way that they want to do this is through their education, through their knowledge, expertise. Okay? Salons. In Britain, they mainly spread ideas through coffeehouses. Right? Coffeehouses. So the idea of meaning a coffeehouse comes from this period in Britain. So these women, like Madame Labarthe, were the ones who were driving Enlightenment ideas.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0026
+
+## seg-0027 / 00:32:58-00:34:03 / SPEAKER_00
+
+Okay? And these salons were places for the leading intellectuals of the time to come and debate ideas. Right? So these were the leading women of that time. All right. So there were, there are lots and lots of Enlightenment thinkers. Because this is a time of literacy. Right? People want to read. There's a marketplace of ideas. So money can be made from writing books. And that's why you have this explosion of ideas, the marketplace of ideas during this time. But now I want to just go through some of the major thinkers of the Enlightenment. Okay? The first major thinker of the Enlightenment is René Descartes. And René Descartes wanted, he is a mathematician. He's a philosopher. He wanted to ask two questions. The first question is, how do we know that God exists? And how do we know the soul exists? Okay, these are the two questions that he is trying to grapple with in his philosophy.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0027
+
+## seg-0028 / 00:34:03-00:35:04 / SPEAKER_00
+
+And he wrote a book called Meditations on the First Philosophy. This is a really, really important book in development of Western civilization. We will be referring to this book quite often for the rest of the semester. So I want you guys to remember this book, Meditations on the First Philosophy. And so he's asking these questions. And let's read a few paragraphs from his book to understand his thinking. It is some years now since I realized how many false opinions I had accepted as true from childhood and that whatever I had since built on such shaky foundations could only be hardly doubtful. All right. So what he's doing here is saying, okay, I want to know if God exists. But first I must ask myself, what do I believe? And how do I know if it's true or not? I must look inside myself. All right. Hence, I saw that at some stage in my
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0028
+
+## seg-0029 / 00:35:04-00:36:00 / SPEAKER_00
+
+life, the whole structure would have to be utterly demolished and that I would have to begin again from the bottom up if I wish to construct something lasting and unshakable in the sciences. And what he's saying here is that after I examine my own beliefs, I recognize that most of my beliefs are not true. Okay. This is a radical departure from previous traditions where you know something is true because someone really smart said it. Okay. You defer to authority, right? That's a practice here we use in China where, well, Confucius said this, so this must be true. And what René Descartes is saying is that, no, that's not true. Okay. I myself have the capacity to know if something is true and I have a responsibility to reflect and question everything I know. And through that process of self -doubt, self -examination, I can construct something that is more truthful. Okay.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0029
+
+## seg-0030 / 00:36:00-00:36:48 / SPEAKER_00
+
+And this is the idea of enlightenment. All right. And this is the idea of education. You know, when we try to teach you critical thinking skills, this is what we're trying to do. Okay. Trying to get you to question things so that you may construct a more eternal truth. All right. But this seemed to be a massive task and so I postponed it until I had reached the age when one is as fit as one would ever be to master the various disciplines. So to get to this point, you also have to go through a long process of education. Okay. You just can't be like, okay, I'm going to do this right now. You have to first learn these beliefs and then you have to go back and then re -examine these beliefs. I've delayed so long that now I should be at fault if I use up and deliberating the time that is left for acting. The moment
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0030
+
+## seg-0031 / 00:36:48-00:37:50 / SPEAKER_00
+
+has come and so today I have discharged my mind from all its cares and I've carved out a space of untroubled leisure. I've withdrawn into seclusion and shall at last be able to devote myself seriously without encumbrance to the task of destroying all my former opinions. Okay. What he's doing here is saying that for me to discover the truth, I just have to rely solely on my reason, not debate, not talking to others, not reading old books, but by self -examination. Okay. And so this is the beginning of the book. We will read other sections later on in the semester, but this is the introduction. Okay. So this project is a process of self -examination. And through this self -examination, what he discovers is everything is false. How do we know the sky is blue? How do we know the sky exists? We don't. How do I know that the words I'm speaking make any sense?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0031
+
+## seg-0032 / 00:37:50-00:38:19 / SPEAKER_00
+
+I don't. It's a constant process of self -negation. Okay. But what then he recognizes is that the only way that I can actually engage in this process of self -examination is through doubt. Right. So what do I know to be true? Doubt is true. I doubt. Therefore, I am. Right. You know the expression, I think. Therefore, I am. Right. It's actually, I doubt. Therefore, I am. The Latin is.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0032
+
+## seg-0033 / 00:38:21-00:38:21 / UNKNOWN
+
+Okay.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0033
+
+## seg-0034 / 00:38:24-00:39:31 / SPEAKER_00
+
+The thing that I know to be absolutely true is my capacity to doubt. And that is who I am. Therefore, I exist. And so the capacity to doubt is my soul. Right. Now, how do I know that God exists? Well, if God didn't exist, then I would not have the capacity to doubt. Right. Someone must have given me the capacity to doubt, and that must be God, whoever God is. But now, how do I know that God is good? Right. Because God could be a trickster. God could be the devil. And God could be deceiving me. And my capacity to doubt will only lead me into error. Okay. So that's the question he asks now. And then he says, well, because God is perfect. If you are perfect, you are incapable of fault. Therefore, I know God is good. Okay. And obviously, this makes no logical sense. This is not logical. It's what we call a tautology.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0034
+
+## seg-0035 / 00:39:31-00:40:42 / SPEAKER_00
+
+Right. God is perfect. Therefore, I know God is good. God is good. Therefore, he's perfect. Okay. It makes no sense. But, what's important is that René Descartes is asking us to challenge our assumptions about the world. To doubt, to reason. And he's saying that the idea of reason is the most powerful force in the world. More powerful than the church. More powerful than dogma. More powerful than society itself. Okay. Our individual capacity to reason is what matters. It is what allows us to have access to God. Does that make sense? Right. So this is one of the major ideas underpinning the Enlightenment. All right. Now let's move on to Goethe. Johann Wolfgang von Goethe. He is considered the greatest German writer of all time. And he wrote a book called Faust. Okay. Faust. And we'll just read a few passages from Faust. But Faust is also a very quintessential Enlightenment work of art.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0035
+
+## seg-0036 / 00:40:42-00:41:46 / SPEAKER_00
+
+Okay. And so Faust the book of Faust it's based on another book called the book of Job which we find in the Bible. In the book of Job it's about this very pious individual who is very faithful to God. Okay. He's very wealthy. He has a lot of children. He's very happy. And he's very devout. He prays to God all the time. He makes sacrifice to God all the time. He gives he's very he's very generous. He has a lot of friends. One day God is in heaven. And he has a meeting with Satan. Okay. Satan in the Bible means adversary. So Satan is actually an archangel. An agent of God who roams the planet. And God is very proud of Job. And he says to Satan have you seen Job? Do you see how faithful he is to me? He's very proud. And Satan says God he's only faithful to you because Okay. You take away his money.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0036
+
+## seg-0037 / 00:41:46-00:42:46 / SPEAKER_00
+
+You take away his children. And he will curse you. And God says fine. I make you this bet. You can do anything you you can do anything you want to him. But you must not kill him. Okay. That's the only condition. So Satan basically makes Job's life a living hell. All his children die in accidents. He loses all his money. He becomes infected with diseases. He's old. He's and eventually he curses God. And he's like why is God doing this to me? And then God appears before him and says how dare you question me God? I create the world. What have you done with your life? Okay. But basically God calls him for a long long time and curses Job. And says you as a human being have absolutely no right to ever doubt to ever question me. I can do whatever I want. I'm God. I'm a mystery. Do not ever think you can understand me.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0037
+
+## seg-0038 / 00:42:46-00:43:51 / SPEAKER_00
+
+Do not ever believe you can question me. Okay. And then what God does is he restores Job's health and wealth. Okay. So it's a very strange story. And it's one that is meant to inspire fear among people. And so what God does that's really interesting is that he reimagines the story of Job and turns it into a much more confident optimistic story that captures the spirit of the enlightenment. Okay. Does that make sense? The story goes like this. Phos, he is a professor. He loves learning. He's very curious. But what he recognizes is that despite all his book learning he doesn't really have access to the truth. He's not really learning new information new knowledge. He doesn't feel as though he's accessing God. So he tries magic. One day the Satan and Satan's name here in Phos is named Mephistopheles. Okay. Mephistopheles talks to God and Mephistopheles says to
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0038
+
+## seg-0039 / 00:43:51-00:44:49 / SPEAKER_00
+
+God you know what the worst thing you ever did was allow humans the capacity to reason. Because you're idiots. You're stupid. If you're stupid and you can reason all it does is confuse you and make you unhappy. And then God is like well have you met Phos? Phos is my favorite person in the whole world because he's curious he loves learning. Eventually through the process of self exploration he will discover the truth. He will get there. I have faith in Phos. And Mephistopheles says fine I'll make you a bet. I bet you I can make him complacent. I bet you that I can make him not want to learn anymore to lose his curiosity. And if I win this bet then Phos will become my servant. Okay? His soul will be will be mine. I will damn him to hell for eternity. Okay? And that's a bet. All right. So let's look at some passages.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0039
+
+## seg-0040 / 00:44:49-00:45:50 / SPEAKER_00
+
+This is Mephistopheles saying to God their lives will be a little easier if you not let them glimpse the light of heaven. They call it reason and employ it only to be more bestial than any beast. Okay. What's important for us to remember is that here Goethe is invoking Dante. Right? Remember Dante in the Divine Comedy says that love is the light of heaven. And here Goethe and the Enlightenment thinkers are saying that no, it's reason that is the light of heaven. In fact in many ways Phos is a rewriting of the Divine Comedy. Right? So Mephistopheles is saying to God reason is bad because it makes people who are stupid more confused. And then God says do you know Phos? And then Mephistopheles says the doctor the Lord says and my servant my favorite person in the whole world Mephistopheles indeed he serves you in a curious way the fool is not content with
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0040
+
+## seg-0041 / 00:45:50-00:46:57 / SPEAKER_00
+
+earthly food or drink some ferment makes him want what is exotic yet he's half conscious of his father. Okay? Phos wants to understand the world he's curious he's driven by his curiosity and his imagination. And Mephistopheles makes fun of him because he'll never get there. Okay? From heaven he claims as his the brightest stars and from the earth all of its highest joys but nothing near and nothing far away can satisfy a heart so deeply agitated. Okay? He's just too curious he can't be satisfied. And the God says though now he only serves me blindly and ineptly I shall soon lead him into clarity the gardener knows when the sapling turns green the blossoms and fruit will brighten future years. Okay? So God is saying if he continues to be curious eventually I God will lead him into the light. Okay? So what's important for us as humans is to be curious and that's how we show our faith in God.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0041
+
+## seg-0042 / 00:46:57-00:47:55 / SPEAKER_00
+
+Alright? Now so Mephistopheles and Phos meet and Mephistopheles says to Phos listen I know you want to know the truth about the world I want I know you want to experience the whole world but you can't do it by yourself so I will help you okay? I will grant you the knowledge of the world but if at any point you become complacent you stop striving you're happy with the way things are you're happy with the moment then you will become my servant is that a deal Phos? And Phos says sure because Phos does not believe that he can ever lose his curiosity okay? So what happens is all these strange events where Phos falls in love with a maiden named Gretchen and Gretchen falls in love with him and they try to have sex but the mother gets in the way so Phos has Gretchen kill the mother the
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0042
+
+## seg-0043 / 00:47:55-00:48:59 / SPEAKER_00
+
+brother finds out and tries to kill Phos Phos kills the brother Gretchen is pregnant and then has to kill the baby because Phos has disappeared and then Gretchen basically dies in prison okay? So it sounds terrible but what happens is that eventually Gretchen forgives Phos because Gretchen goes to heaven and then Phos has more adventures he becomes a servant to the king he builds a lot of roads and a lot of cities he marries Helena of Troy he goes back and he's that happen okay? But what's happening is that he's experiencing life for all for all its potential for its all its possibilities and so as he gets older he's about to die and Mephistopheles comes to collect his soul okay? and this is the last speech of thoughts before he dies. A swamp lies there below the hill, infecting everything I've done. My last and greatest act of will succeeds when that foul pool is gone.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0043
+
+## seg-0044 / 00:49:00-00:50:00 / SPEAKER_00
+
+Okay, so he is an architect, and he is an urban planner working for the government. He's a civil servant, basically. And his job is to make the city much more livable for people, okay? To help civilize the world. And he's seeking pride in his work. Succeeds when that foul pool is gone, okay? Let me make room for many a million. Okay, let me make space for more people. Not wholly secure, but free to work on. Green fertile fields where men and herds may gain swift comfort from the new -made earth. Quickly settled in those hills embrace. Piled high by a brave industrial race. And in the center here, a paradise, whose boundaries hold back the raging tide, and though it gnaws to enter in by force, the common earth unites to hold its course, okay? So he's seeking pride in all that he's accomplished and that he will accomplish, okay? He's seeking pride in this moment, when he's actively contributing to the betterment of civilization.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0044
+
+## seg-0045 / 00:50:01-00:51:02 / SPEAKER_00
+
+But because he's seeking pride in this moment, he's now lost a bet to Mephistopheles, right? He's now become complacent. He wants to live in the moment. You can't do that. Yes, I've surrendered to this thought's insistence, the last word wisdom ever has to say. He only earns his freedom in the existence forced to win them freshly every day. Childhood, manhood, age, vigorous years, surrounded by dangers, they'll spend here. I wish to gaze again on such a land, free earth, where free race and freedom stand, okay? So to be alive means to constantly struggle to progress things, okay? And this is it. Then to the moment I dared say, stay awhile, you are so lovely. He wants to stay in this moment forever. Through eons, then, never to fade away, this path of mine, through all that's earthly, anticipating here its deep enjoyment. Now I savor it, that highest moment, okay?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0045
+
+## seg-0046 / 00:51:02-00:52:22 / SPEAKER_00
+
+In this moment, when he feels he's contributed to development of society, he feels at peace. He feels fulfilled, okay? And so, the irony is that at this moment, when he's most fulfilled, he's at peace. He should not be damned to hell, right? But, what happens as Mephistopheles is about to claim false soul is, angels appear and steal it from Mephistopheles. Mephistopheles, okay? The angels. Pure incandescence, whom its flames bless. Blissful of goodness is their existence. Gather together, rise now and praise. Spirit can breathe here in pure waves. So God has come to save us. False. They rise carrying away the immortal part of false. False soul is now in heaven. Mephistopheles says, how then? Where did they vanish to? You took me by surprise, you adolescents. Now with what they've salvaged from the tomb as their own prize, they've flown off to heaven. They've stolen a great and unique treasure, that noble soul mortgaged to my pleasure.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0046
+
+## seg-0047 / 00:52:22-00:53:26 / SPEAKER_00
+
+They've snatched it away with cunning even, but whom could I even complain to anyway, okay? So Mephistopheles knows he's been tricked. But he has no say in the matter, okay? And so false, it is considered the greatest work of German literature. And the main message is God loves us. God wants us to be curious. God wants us to explore, to challenge ourselves, to grow. If we do that, God will always protect us, no matter how many stupid things we do, okay? God is ultimately about forgiveness and love and mercy and kindness. Kindness and generosity. So that's a very optimistic and confident view of the world. All right? Any questions so far? Okay, let's move on to Immanuel Kant. Immanuel Kant is the greatest philosopher who ever lived. We'll be spending a lot of time on Immanuel Kant throughout the semester, okay? So I introduce you to him here.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0047
+
+## seg-0048 / 00:53:26-00:54:27 / SPEAKER_00
+
+In the world of our influential essay called What is Enlightenment? Why do we have enlightenment, okay? All right. So, enlightenment is man's emergence from his self -imposed knowledge. Knowledge is the inability to use one's own reasoning without another's guidance. This knowledge is self -imposed if its cause lies not in lack of understanding, but in indecision and lack of courage to use one's own mind without another's guidance. Dear to know, have the courage to use your own understanding is therefore the model of enlightenment, okay? So, what he's saying here is that your students, your parents, and I'm the teacher, okay? I'm enlightened because I'm using my reason, but you're not enlightened because you're relying on my reason, right? And what he's saying is that it's not because you lack the capacity to reason, that's the problem, it's because you guys are lazy, right? It's just easier for you to just sit there and take
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0048
+
+## seg-0049 / 00:54:27-00:55:24 / SPEAKER_00
+
+notes rather than to actually read this text for yourself and understand them yourself, that's why you rely on me, okay? What well... But if you don't ever rely on yourself, you going to be free to think. It doesn't make sense. That's what he's saying here. Laziness and cowardice are the reasons why such a large part of mankind gladly remain me and my nurse all their lives long after nature has freed them from external guidance, okay? You have the capacity to reason, you can just read these things by yourself, but you're lazy and you're cowardly, okay? You don't want to... you don't make a mistake you don't be wrong thus it is very difficult for the individual to work himself out of knowledge which has become almost second nature to him he has even grown to like it and is at first really incapable of using his own understanding because he has never been permitted to
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0049
+
+## seg-0050 / 00:55:24-00:56:23 / SPEAKER_00
+
+try it okay so everyone can do it but only a few can do it so what's the solution to this problem the solution is free and open debate does that make sense if you're able to access information you're able to access different points of view then you're able to do hear the truth for yourself okay does that make sense all right so you don't want to find the truth for yourself but if you're able to hear the truth here the opinions of others then you can make up for your mind make up your own mind that's what the truth is and you can because of access to reason that God implanted in you okay that's a logic here it is more nearly possible however for the public to enlighten itself indeed if it is only given freedom enlightenment is almost inevitable there will always be a few independent thinkers even among the self appointed guardians
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0050
+
+## seg-0051 / 00:56:23-00:57:23 / SPEAKER_00
+
+of the multitude okay so this idea of reason debate and progress if there's a debate if everyone is able to hear different opinions then society will always be able to hear different opinions if there's a debate almost always progress it doesn't make sense this enlightenment requires nothing but freedom and the most innocent of all that may be called freedom freedom to make public use of one's reason all matters now I hear the cry from all sides do not argue the officer says do not argue drill the tax collector do not argue pay to have pastor do not argue believe only one ruler in the world which says argue as much as you please but obey we find we shrieks on freedom everywhere but which restrictions is harmful to enlightenment which restriction is innocent and which advances enlightenment I reply the public use of one's reason must be free at all times and this alone can
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0051
+
+## seg-0052 / 00:57:23-00:58:23 / SPEAKER_00
+
+bring and Lenement to main kind he is arguing for absolute freedom of expression okay even if it's hate speech in you say racist things you're still allowed to say it because people have reason and for the capacity to judge have reasons and for the capacity to judge for himself or herself what is true whenever you censor something you're denying freedom to people okay so this is an absolutist understanding of freedom and this becomes a foundation for of course the American Constitution or the American Revolution in view of this he as preacher is not free and ought not to be free since he's carrying out the orders of others on the other hand as a scholar who speaks to his own public through his writings the minister in the public use of his reason enjoys unlimited freedom to use own reason and to speak for himself okay this is a really important idea all right so
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0052
+
+## seg-0053 / 00:58:23-00:59:32 / SPEAKER_00
+
+I'm your teacher okay I'm your teacher now I can perceive myself in different ways I can perceive myself as a employee of a school in China therefore I must be aware of I must be aware of censorship laws in China I must be aware of what I can teach you and what and what I cannot teach you I must also be aware that my main responsibility is to make you a citizen of China and therefore make you feel good about China okay if I see myself as an employee of a school in China but if I see myself as a free individual in a service of human progress then my job is to ensure と be able to teach and reach out to it I will help class and serve your other students and also go perform at my class my main mission is to work with students who areINKING to different levels of human
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0053
+
+## seg-0054 / 00:59:32-01:00:34 / SPEAKER_00
+
+development in European countries so I have something different in theff I tell the different simplify I try toарищ a traditional statement to show a personal есть the world as a citizen dedicated to the progress of human civilization okay that's your choice but your society of ministers say a church council have the right to commit itself by oath to a certain unultimal doctrine in order to secure perpetual partnership over all its members and through them over the people i say that this is quite impossible such a contract concluded to keep all further enlightenment from humanity is simply no and void even if it should be confirmed by the sovereign power by parliament and the most solemn treaties an epoch cannot conclude a pact that will commit succeeding ages prevent them from increasing their significant insights purging themselves of errors and generally progressing in enlightenment that would be a crime against human nature whose proper destiny lies
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0054
+
+## seg-0055 / 01:00:34-01:01:37 / SPEAKER_00
+
+precisely in such progress okay this is a radical statement what he's saying is that i'm i'm a i'm of an older generation than you right i have absolutely no right to tell you what you think i was absolutely no right to tell you what to think i can show you possibilities i can argue with you but i must not enforce my ideas on you because that would limit human progress progress is determined by a new generation's capacity to question and negate uh previous generations ideas okay does that make sense all right all right so um this is voltaire um voltaire i don't really want to spend too much time on but voltaire is considered a celebrity of enlightenment okay he was very famous at that time because he is what we what we call today a troll okay a troll why because he's always making fun of the nobility and the clergy the powers that
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0055
+
+## seg-0056 / 01:01:37-01:02:37 / SPEAKER_00
+
+be and as such the middle class basically um worshipped him okay they love his contributions but he himself was not a very deep thinker okay himself was not a great thinker so i don't want to spend too much time on him all right um so let's go move on to jonathan russo who is the most influential enlightenment thinker in france this is it is his ideas that will drive the french revolution okay all right so he wrote a very influential book called emile emile is his treatise on education how should you best educate children on the subject of the french revolution children okay all right so let's just read some basic passages if the infant sprang at one bound from its mother's breast to the age of reason the present type of education would be quite suitable but its natural growth calls for quite a different training the mind should be left undisturbed till its
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0056
+
+## seg-0057 / 01:02:37-01:03:41 / SPEAKER_00
+
+faculties have developed for while it is blind it cannot see the torch you offer it nor can it follow through the vast expanse of ideas of paths so faintly traced by reason that eyes can scarcely follow it okay so what he's saying here it's a very controversial idea what he's saying here is that kindergarten and primary school make no sense kids come into school to learn math to learn language right but the problem is that their faculty for reason has not fully developed okay it's like me asking you to uh fly even though you don't have wings so what he's saying is this before the age of 12. let kids play because if you ask them to come to school all that will do is screw up their minds right if a child is crawling and you make the child walk all that's going to do is make the bones deformed okay it's going to
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0057
+
+## seg-0058 / 01:03:41-01:04:40 / SPEAKER_00
+
+really screw up the legs and that's what what we're always saying do not ever send kids to learn anything before the age of 12 because their faculty of reason has not developed before the age of 12. and guess what guys this is the idea of childhood okay childhood children should be allowed to play until the age of 12. and it comes from result okay does that make sense therefore the education of the earliest years should be merely negative negative just means like don't have kids jump in the pool by themselves okay but don't be positive don't make them learn mathematics it consists of a lot of things that are true but in preserving the heart from vice and from the spirit of error if only you could let the well alone and get others to follow your example if you could bring your scholar to the age of 12 strong and healthy but unable to
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0058
+
+## seg-0059 / 01:04:40-01:05:40 / SPEAKER_00
+
+tell his right hand from his left the eyes of his understanding would be open to reason as soon as you began to teach him free from prejudices and free from habits there would be nothing in him to counteract the effects of your labors in your hands he would soon become the wisest of men by doing nothing to begin with you would end with a project of education okay that's the secret of education before age 12 leave the kid alone make sure he's he or she is healthy make sure he or she is eating well but do not teach mathematics okay because because by leaving the child alone you free the child from bad mental habits you allow the child to think for himself or herself okay so the very idea of childhood comes from rousseau and this is this is an idea that a lot of middle class parents will adopt okay i myself um
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0059
+
+## seg-0060 / 01:05:40-01:06:34 / SPEAKER_00
+
+also believe very heavily in this idea i'm not i don't want to send my kids to school before age 12 possibly even age 16. okay i don't i work in a school so i don't really trust schools i don't trust teachers it's it it it's like being a cook and you work in a restaurant like you would you would never actually go eat in a restaurant because you know how how to make the food okay all right let's continue there are two classes of men who are constantly engaged in bodily activity peasants and savages okay there are these peasants who work the farm there's savages who run around the forest all day okay so you think there's no difference but in fact there's a world of difference and certainly neither of these pays the least attention to the cultivation of the mind peasants are rough coarse and clumsy savages are noted not only for their
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0060
+
+## seg-0061 / 01:06:34-01:07:35 / SPEAKER_00
+
+keen senses but for great subtlety of mind savages are really smart peasants are really dull why generally speaking there is nothing duller than a peasant or sharper than a savage what is the cause of this difference the peasant has always done as he was told what his father did before him what he himself has always done he's a creature of habit he spends his life almost like an ottoman and an ottoman on the same task having obedience has taken a place of reason the casual savage is very different he is tied to no one place he has no prescribed task no superior to obey he knows no law but his own will he is therefore forced to reason at every step he takes he can neither move nor walk without considering the consequences thus the more his body is exercised the more alert is his mind his strength and his reason increase together and each
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0061
+
+## seg-0062 / 01:07:35-01:08:33 / SPEAKER_00
+
+helps to explore the other the savage is an explorer the savage is a problem solver the savage is free and independent to make his own destiny that's the difference okay so if you want to educate your child well then let the child be a savage and not a peasant oh man seek no further for the author evil that are he there's no evil but the evil you do or the evil you suffer and both come from yourself evil in general can only spring from this order and in the order of the world i find a never failing system evil in particular cases exists only in the mind of those who experience it and this feeling is not the gift of nature the work of man himself pain has low power over those who have thought little look neither before nor after take away our fatal progress take away our faults and our vices take away
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0062
+
+## seg-0063 / 01:08:33-01:09:44 / SPEAKER_00
+
+man's handiwork and all as well if you take children out of school you have to play by themselves whatever they want guess what they become smart they become resilient they become educated they become curious they love learning so we if we try to build structure we try to build civilization if we move children away from the state of nature we can only screw things up schools are not designed to educate children schools are first and foremost designed to control children right why because we don't like kids running around okay it's that simple they're not meant for kids they're meant for adults so that parents don't actually have to see them and teachers don't have to deal with them okay and so that's what russo is saying and he's he's absolutely right all right um so that was emil now russo also wrote a really famous book called discourse on the origin of inequality which will
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0063
+
+## seg-0064 / 01:09:44-01:10:40 / SPEAKER_00
+
+have a major impact on the french revolution and enlightenment okay it's an idea of private property where does private property come from the first man who having closed a piece of ground he thought himself of saying this is mine and found people simple enough to believe him was the real founder of civil society okay so we have society because some people want property private property okay from how many crimes wars and murders from how many horrors and misfortunes might not anyone have saved mankind by pulling up the stakes or filling up the ditch and crying to his fellows beware of listening to this imposter you're undone if you cut if you want to forget that the fruits of the earth belong to us all and the earth itself to nobody what he's saying is this suddenly one day some people in our society are like oh this is mine this ground is mine you can't
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0064
+
+## seg-0065 / 01:10:40-01:11:44 / SPEAKER_00
+
+come here we should all been like what are you talking about that makes no sense how do you claim this ground for yourself well we didn't do that in fact we claim our own ground or we let we let them have their own crown ground and because of this because of the idea because of the idea of private property we now have inequality patriarchy war okay this is where war and patriarchy and equality come from because of some people's insistence on having private property right okay any questions so far okay it is all clear to you all right so let's move on to the final book the social contract okay the social contract is the bible of the french revolution it is the um book that is most influential in the most influential development of the thinkers of the french revolution all right the most famous sentence um the sentence that begins of social contract
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0065
+
+## seg-0066 / 01:11:44-01:13:14 / SPEAKER_00
+
+is man is born free and everywhere he is in chains here is one who thinks he is the master of others yet is more enslaved than they are okay so we were born free but we choose to become slaves but knowing that the people who have enslaved us think they're our masters but in fact they're more enslaved than us because they are trapped by the system you understand slavery is a system that enslaves all it's saving it's not a system where a few oppress the others slavery system where an idea has oppressed everyone especially the masters right we see at once that on this account of things we're talking about as simple as that i'm now going to show you that these are brotherly uh by the French Revolution. All right, so Rousseau is trying to reason from general principles as to how to form a good society, a social contract where everyone chooses to participate in a society, and is not compelled to participate in a society.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0066
+
+## seg-0067 / 01:13:14-01:14:12 / SPEAKER_00
+
+And what he says is this. There are two types of will. There's the general will and there's the particular will. General will is what we can agree on if we are left to reason by ourselves. Particular will is what we believe if we are part of a group of people, a part of an interest. So let's just say, for example, the central government in China is like, I want to spend $10 billion on roads, on new roads. Where should we invest this money? General will is everyone agrees that we should invest these roads where they're most needed in China. Maybe Guizhou, maybe Yunnan, the poorest parts, because they will do the most good. We can all agree on that, right? But, because we are in Beijing, we will be like, no, you should put the money in Beijing. That's a particular will, okay?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0067
+
+## seg-0068 / 01:14:12-01:15:08 / SPEAKER_00
+
+So in other words, society, if it is to function well, must be based entirely on the general will and negate the particular will, on the common interest. And that's why everything works, because if laws are based on the general will, then all the laws are acceptable to people, because the laws are just an expression of the general will. And the king, he's just acting out the general will. So the king is acceptable to everyone, okay? Does that make sense? The problem with this, of course, is that that's not how the world works, okay? There's actually no one in the world who is like, oh, I should do this because of the general will. It's always a particular will, right? Does that make sense? And so this is the, this is the, this is the, this is the, this is the, this is the major divergence between the French Revolution and the American Revolution. The French Revolution, it is fundamentally idealistic.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0068
+
+## seg-0069 / 01:15:08-01:16:06 / SPEAKER_00
+
+It believes that people are capable of considering the common interest. The American Revolution denies this, okay? So we will discuss the American Revolution later on, but I just want you to be aware of this, okay? The French Revolution, it's based on the idea of the general will, that everyone is capable of reason and of promoting the common interest. The American Revolution refuses to believe this. All right, each of us puts his person and all his power in common under the supreme direction of the general will, and in our corporate capacity, we receive each member as an individual part of the whole, okay? So as long as we are capable of reason, which we are, we can understand the general will. If the populace held its deliberations on the basis of adequate information about the citizens communicating with one another, what emerged from all that particular will would always be the general will, and the decision would always be good, okay?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0069
+
+## seg-0070 / 01:16:06-01:17:05 / SPEAKER_00
+
+So if you only think about the common interest, everyone would come to the same conclusion about everything. Okay? If the general will is to emerge clearly, it's important that there should be no partial society within the state, and that each citizen should think only his own thoughts, which was indeed, I'm continually astonished that such a simple sign of good government isn't recognized, or perhaps may do recognize it, but aren't honest enough to say so. This is the purpose of any particular association, the preservation and prosperity of its members. And what is the surest sign of their preservation and prosperity? Their number and their population growth. That's the sign you're looking for. Other things being equal, the unquestionably best government is the one under which the population increases most without external help from naturalizing foreigners or establishing colonies. The government under which the population shrinks is the worst.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0070
+
+## seg-0071 / 01:17:05-01:18:06 / SPEAKER_00
+
+Over to you. Calculators. Count. Measure. Compare. Okay. This is a really important idea here. What Rousseau is saying is that not only can we deduce good government from general principles, but good government can be measured, okay? So we can know how we are doing as a society through measurement, by measuring things, by counting things, okay? Count. Measure. Compare. And that's what progress means. Now, what we'll learn later on is this is actually a really dumb idea, okay? But for now, I want you to be aware of this. And the French Revolution will embrace this. And that's why in the French Revolution they will introduce the metric system. The metric system comes from the French Revolution. And the metric system is now used by every country in the world except two, right? There are two countries in the world who don't use the metric system. They are? Do you guys know? There are exactly two countries in the world that do not use the metric system.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0071
+
+## seg-0072 / 01:18:06-01:19:09 / SPEAKER_00
+
+They are? Can you guess? These two countries are the countries that are most, that were most against the French Revolution. These countries are? America and Britain, okay? Yeah, it's true. In China we use Celsius, right? When you go to America, they don't use Celsius. They use Fahrenheit, okay? And when you go to Britain, they use something called the imperial system. So just be aware, when you go to America, you will hear terms like, oh, America needs uh 12 yards and you're like what is 12 yards okay so so so they don't actually use the metric system in america but but everyone else does but i'm wrong to speak of a christian republic those two terms are mutually exclusive christianity preaches only servitude independence its spirit is so favorable to tyranny that it always profits by such a regime genuine christians are made
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0072
+
+## seg-0073 / 01:19:09-01:20:06 / SPEAKER_00
+
+to be slaves and they know it and don't mind much this short life counts for too little in their eyes okay so we're always rejecting religion in government this is the idea of separation of church and state which becomes the basis for the french nation state it's a very important idea and during the resolution this will lead to civil wars between the peasants who want to be christians and the revolutionaries who want to establish a secular state the dogmas of civil religion ought to be few simple and exactly worded with no explanation or a concept of religion the dogmas of civil religion are the existence of a mighty intelligent and beneficent divinity possessed of foresight and providence the life to come the happiness of the just the punishment of the wicked the sanity of the social contract and the laws and just one dominant exclusion in the exclusion of intolerance which is a feature of
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0073
+
+## seg-0074 / 01:20:06-01:21:09 / SPEAKER_00
+
+the cult we have rejected okay so what we're saying here is that the new society should now have a new religion a state religion that is based on reason okay and this new religion of reason must reject all other religions because these religions are intolerant of each other and that's why in french today there's so much conflict between uh there's so much conflict in in society okay you have a lot of islamic immigrants and they're always in conflict with the french state because the french state insists on secular um on a secular religion the islamists want to practice their own religion okay okay so that's it okay so these ideas that we looked at will now become the basis of the french revolution right so next class we'll look at the french revolution all right so so i know this was a lot but are there any questions about what we've learned so far excuse
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0074
+
+## seg-0075 / 01:21:12-01:22:30 / SPEAKER_00
+
+me why are peasants so loyal to the religion right okay great great question all right sorry let me um all right so what you learned in this class is that the christian religion it is something that is um adopted okay or enforced but over generations right over the centuries it becomes part of your tradition right so what is religion okay good people okay what do we know that people are loyal to people are loyal to their home right their land and that's true right people like being in a place they they don't want to move most people in the world don't want to move if you give Maybe if people of Chinese, the choice of just moving to America, you think everyone would go. But no, no, no. Most people would not go because they want to live where they grew up. So they're loyal to the land, they're loyal to the family, they're loyal to tradition or culture, they're loyal to food.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0075
+
+## seg-0076 / 01:22:32-01:23:31 / SPEAKER_00
+
+This is true for most people. If you grew up eating, I don't know, rice, you don't want to eat potatoes. You want to eat rice. So what this tells us is that people are, first and foremost, people of habit. Does that make sense? Why? Why are people of habit? Because this is a really important idea. And I know this is a strange idea because it feels good. Do you understand? Because when you do something out of habit, you feel good. You feel good about yourself. When you break this habit, you feel bad about yourself. And the only way that you know if something is good or bad is how you feel about it, okay? Right? Like, you're eating rice and you're happy eating rice because you've been doing this all your life, and now you're eating potatoes, and it kind of tastes weird. But I tell you, hey, no, no.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0076
+
+## seg-0077 / 01:23:31-01:24:43 / SPEAKER_00
+
+Eating potatoes is better for you. It's more nutritious, it's cheaper, you don't care. Okay? You're not feeling good. So you resort to habit. And habit is in the land, the family, the tradition, and the food. Does that make sense? And guess what? These ideas are all encapsulated in religion because religion is what determines your culture, your food. It's what your family practices. It is your connection to your family. It's your connection to your land. Okay? And that's why people will die for the religion because religion is really a metaphor for all these things that people understand and know and love. Does that make sense? Okay? Now, what you will learn in this class is people just don't die for religion. They also die for ideas, which include the nation. Right? The nation state. Because all that, because what you will learn in this class is what the French Revolution will do is sort of process where religion becomes part of the nation.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077
+
+## seg-0078 / 01:24:44-01:26:10 / SPEAKER_00
+
+Our ideas of religion become transplanted into the nation. Okay? So people will also die for the nation. That's why you have these incredibly devastating wars like World War I and World War II where people will die for the nation. Okay? And they won't even think about it. But it starts during the French Revolution. Okay? Does that make sense to you? Okay. Great. Okay. All right. Good question. So how can a religion be based on reason? All right. So traditionally, religion is given to us by God. Okay? Right? Every religion is like, well, we have this religion because God told us to believe in it. Okay? So the way you do that is through priests who then tell you what to believe. Okay? So this is the way that most religion is practiced. Right? What the Enlightenment thinkers are saying, especially Rousseau is, no, no, no, no.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078
+
+## seg-0079 / 01:26:10-01:27:19 / SPEAKER_00
+
+This system doesn't really work. Right? Because you have reason. And, therefore, you have the capacity to access God. So you don't really need priests. Right? So we can just think reasonably what religion should be like. And from first principles, you can deduce the religion. Right? Okay? Does that make sense? Now, if you just reason from first principles about what religion should be like, what are they? Well, first of all, there is a God. Okay? First of all, there is a God. Second of all is that there is heaven and hell. You do good things, you go to heaven. You do bad things, you go to hell. Right? That's the second thing. Third thing is good people go to heaven. Therefore, you should do good. Okay? And then fourth would be like, if you believe in these things, you are free to believe anything else. For example, you're like, I don't know. I believe that animals have the same rights as humans.
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0079
+
+## seg-0080 / 01:27:20-01:28:11 / SPEAKER_00
+
+Well, that doesn't contradict what we already believe. Therefore, you can believe that animals can go to heaven as well. Okay? Do you understand? So what we're saying is that just from general principles, just if you're able to exercise reason by yourself, you should be able to deduce the basic principles of an organized state religion. And that's what he does in the social contract. And it becomes a basis, again, for the French Revolution. Okay? Does that make sense? All right. Any more questions? Okay. Great. Okay. So I apologize for the length of this class, but the French Revolution is really complicated, and I really need to explain some basic ideas to you. Okay? So next class, we'll do Rose Pier. All right?
+
+Ref: video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0080

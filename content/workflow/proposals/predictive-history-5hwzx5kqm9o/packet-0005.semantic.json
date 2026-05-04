@@ -1,0 +1,127 @@
+{
+  "packet_id": "predictive-history-5hwzx5kqm9o-semantics-pkt-0005",
+  "source_id": "video:predictive-history-5hwzx5kqm9o",
+  "source_date": "2025-04-22",
+  "interactions": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0033"],
+      "kind": "unclear",
+      "summary": "A one-word unknown-speaker segment appears between Descartes passages; it does not form a substantive public question.",
+      "speaker_attribution": "Unknown diarization label.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0034",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes Descartes by arguing that the proof of God's goodness is tautological, but the important legacy is the elevation of individual reason over church, dogma, and society.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0036",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0037",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0038",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0039",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Goethe's Faust as an Enlightenment rewriting of Job. Job's God forbids questioning, while Faust's God values curiosity; Mephistopheles attacks reason as a gift that makes confused humans more beastly.",
+      "speaker_attribution": "Jiang classroom lecture with quoted Job/Faust material.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0033"],
+      "note": "The UNKNOWN 'Okay' is likely incidental classroom audio or diarization noise, not a meaningful exchange.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Descartes' proof that God is good is tautological, but his important move is making individual reason stronger than church, dogma, and society.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0034",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Lecture interpretation of Descartes.",
+      "topic_tags": ["descartes", "tautology", "reason", "church"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Goethe's Faust rewrites Job from a fear-inspiring story about God's unquestionable mystery into an optimistic Enlightenment story about curiosity.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0036",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0037",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture interpretation of Faust against Job.",
+      "topic_tags": ["goethe", "faust", "job", "curiosity", "enlightenment"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's reading of Faust, Mephistopheles' wager is to make Faust complacent and lose curiosity, not merely to tempt him with ordinary sin.",
+      "refs": [
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0039",
+        "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture interpretation of Faust.",
+      "topic_tags": ["faust", "curiosity", "complacency", "mephistopheles"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0035"],
+      "moment": "Reason becomes more powerful than the church, dogma, and society itself.",
+      "source_phrase": "the idea of reason is the most powerful force in the world",
+      "why_it_matters": "It marks the Enlightenment's transfer of authority into the individual mind.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0037"],
+      "moment": "Job's God terrifies humans away from questioning: do not ever think you can understand me.",
+      "source_phrase": "Do not ever think you can understand me",
+      "why_it_matters": "It sets up why Faust's curious God feels like a revolution in religious psychology.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "tautology",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0034"],
+      "definition_or_usage": "Jiang's label for Descartes' circular claim that God is perfect because God is good and good because perfect.",
+      "confidence": "high"
+    },
+    {
+      "term": "Faust as Enlightenment Job",
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0038", "video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0040"],
+      "definition_or_usage": "Goethe's work read as a reversal of Job in which curiosity and reason are favored rather than punished.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0035"],
+      "note": "The Goethe section follows Descartes as the second major Enlightenment thinker/work after the reason-through-doubt setup.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0038"],
+      "note": "Transcript renders Faust as 'Phos' or 'false' in places; semantic extraction normalizes the literary reference to Faust while refs preserve source provenance."
+    }
+  ]
+}
