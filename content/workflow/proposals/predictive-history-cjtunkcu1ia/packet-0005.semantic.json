@@ -1,0 +1,201 @@
+{
+  "packet_id": "predictive-history-cjtunkcu1ia-semantics-pkt-0005",
+  "source_id": "video:predictive-history-cjtunkcu1ia",
+  "source_date": "2025-04-01",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0033",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0034",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0035",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from Galileo's mythic afterlife to Newton: calculus and the Principia make heliocentrism mathematically persuasive, but Newton himself is framed as theologian and alchemist, not a secular scientist.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0037",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0038",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0039",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He explains Newton's unresolved causation problem and Einstein's answer: mass-energy relation, space-time curvature, prediction, black holes, and relativity emerging from solitary thought rather than laboratory bureaucracy.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Galileo becomes remembered as the father of modern science because Protestants turn his trial into propaganda about science above religion, even though Jiang says the math for heliocentrism was still weak at the time.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Historical interpretation in the 2025-04-01 lecture.",
+      "topic_tags": [
+        "galileo",
+        "protestant-propaganda",
+        "modern-science",
+        "heliocentrism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Newton's calculus and Principia provided the mathematics that made the heliocentric model widely accepted, while also preserving the unity of religion and science in Newton's own life.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0033",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0034",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Historical sequence in this lecture.",
+      "topic_tags": [
+        "newton",
+        "calculus",
+        "principia",
+        "religion-and-science"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang emphasizes that Newton saw himself primarily as a theologian and alchemist seeking biblical secrets and the end of the world, not as a modern secular scientist.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0034",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Newton interpretation in this lecture.",
+      "topic_tags": [
+        "newton",
+        "theology",
+        "alchemy",
+        "2060"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Newton unified earthly and heavenly motion mathematically but did not solve why the correlation existed; Jiang assigns the causal explanation to Einstein's space-time curvature.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0036",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0037",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Scientific history model in this lecture.",
+      "topic_tags": [
+        "gravity",
+        "newton",
+        "einstein",
+        "space-time"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Einstein's E=mc^2 is presented as the insight that mass and energy are correlated, opening the possibility of nuclear energy by splitting the atom.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0037",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Explanation within this lecture.",
+      "topic_tags": [
+        "einstein",
+        "mass-energy",
+        "nuclear-bomb",
+        "relativity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Einstein's relativity is praised as a successful predictive model because space-time curvature predicts phenomena such as black holes.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0039",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Scientific model explanation in this lecture.",
+      "topic_tags": [
+        "relativity",
+        "black-holes",
+        "prediction",
+        "space-time"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0034"
+      ],
+      "moment": "Newton's science is dragged back into theology: his real work was reading the Bible for cosmic secrets.",
+      "source_phrase": "What he really was was a theologian",
+      "why_it_matters": "It keeps the lecture's anti-secular genealogy of science alive at the moment Newton appears.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0035"
+      ],
+      "moment": "Newton's alchemical search for the Philosopher's Stone includes eating or tasting mercury and losing sleep and hair.",
+      "source_phrase": "He was eating it. He was tasting it",
+      "why_it_matters": "It makes scientific genius look bodily, dangerous, and strange rather than cleanly rational.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0039"
+      ],
+      "moment": "Einstein solves heaven's causation problem while sitting at a patent-office desk.",
+      "source_phrase": "he was just thinking by himself his daydreaming",
+      "why_it_matters": "It supports the later claim that revolutionary science comes from imagination, not bureaucracy.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Principia",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0035",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Newton's book that Jiang presents as mathematically proving heliocentrism and formulating laws of motion.",
+      "confidence": "high"
+    },
+    {
+      "term": "space-time curvature",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0038",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Einstein's explanation for gravity: massive objects warp space-time and draw bodies into orbit.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0034"
+      ],
+      "note": "Jiang reports Newton's end-of-world calculation as roughly 2050 or 2060 here, before later settling the classroom exchange around 2060.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0036"
+      ],
+      "note": "The transcript says 'Laws of planetary motion' after Newton; context is Newton's mathematical account of gravity and motion, not Kepler's original laws alone."
+    }
+  ]
+}

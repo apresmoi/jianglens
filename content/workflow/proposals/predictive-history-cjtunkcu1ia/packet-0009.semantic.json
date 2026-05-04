@@ -1,0 +1,195 @@
+{
+  "packet_id": "predictive-history-cjtunkcu1ia-semantics-pkt-0009",
+  "source_id": "video:predictive-history-cjtunkcu1ia",
+  "source_date": "2025-04-01",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0065",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0066",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0067",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0068"
+      ],
+      "kind": "exchange",
+      "summary": "After Jiang asks for questions, a student remarks that modern science is great and later says they did not know about the Newton material; Jiang acknowledges and continues.",
+      "speaker_attribution": "Jiang and at least one student, based on diarization and conversational timing.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0069",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0072"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang answers the implicit Newton curiosity by explaining how Newton's papers were auctioned, bought by Keynes, revealed theology and alchemy, and showed Newton searching the Bible for the Second Coming and Christian Zionist conditions.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0066",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0068"
+      ],
+      "note": "These short segments are student remarks rather than Jiang; neither is a substantive question.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Newton's papers became known because his estate passed to aristocratic relatives who eventually auctioned the papers, with the sale going poorly enough that notes were sold piecemeal.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0069",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Historical anecdote in this lecture.",
+      "topic_tags": [
+        "newton",
+        "papers",
+        "auction",
+        "keynes"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "John Maynard Keynes bought and read some Newton papers expecting mathematics but found alchemy and theology instead.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Historical anecdote in this lecture.",
+      "topic_tags": [
+        "keynes",
+        "newton",
+        "alchemy",
+        "theology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Newton searched the Bible for a secret code that would reveal the future and was convinced of the Second Coming.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Newton interpretation in this lecture.",
+      "topic_tags": [
+        "newton",
+        "bible-code",
+        "second-coming",
+        "prophecy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Newton is described as a Christian Zionist because he believed Jesus's return required conditions, including the return of Jews to Jerusalem under Ottoman control.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Jiang's historical interpretation dated 2025-04-01.",
+      "topic_tags": [
+        "newton",
+        "christian-zionism",
+        "second-coming",
+        "jerusalem",
+        "ottoman-empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Newton was part of a secret society with John Locke and others who saw themselves as the true church and rejected the Trinity in favor of one God.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Historical claim in this lecture.",
+      "topic_tags": [
+        "newton",
+        "john-locke",
+        "secret-society",
+        "trinity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070"
+      ],
+      "moment": "Keynes opens Newton expecting mathematics and finds alchemy and theology.",
+      "source_phrase": "He was absolutely aghast at what he discovered. It was alchemy, it was theology",
+      "why_it_matters": "It crystallizes the lecture's insistence that science's heroes were not secular rational machines.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070"
+      ],
+      "moment": "Newton is pictured reading the Bible as a future-decoding machine.",
+      "source_phrase": "look for a secret code within the Bible that would tell him the future",
+      "why_it_matters": "It keeps the theological strangeness of Newton central rather than marginal.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0072"
+      ],
+      "moment": "Prophecy turns into logistics: if Jesus returns, someone must arrange Jerusalem.",
+      "source_phrase": "once you predict the future and you know when Jesus is returning, you want to know how he returns",
+      "why_it_matters": "This is the bridge from belief to political plan that drives the closing tangent.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Second Coming",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0070",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Christian belief in Jesus's return, here used as the target of Newton's biblical prediction and political-theological planning.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian Zionism",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "In Jiang's usage, the belief that facilitating Jewish return to Jerusalem helps create the conditions for Jesus's return.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0071"
+      ],
+      "note": "Jiang says Newton made a prediction around 2060 but marks uncertainty in this segment before a student later supplies 2060.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0066",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0068"
+      ],
+      "note": "Student remarks are captured without the full classroom context; they are not treated as public episode questions."
+    }
+  ]
+}

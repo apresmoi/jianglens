@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-cjtunkcu1ia-semantics-pkt-0003",
+  "source_id": "video:predictive-history-cjtunkcu1ia",
+  "source_date": "2025-04-01",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0017",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0018",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the forces driving science, then defines the Scientific Revolution as the move from truth claims to methods of knowing, producing hypothesis, experiment, peer criticism, and publication.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0020",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0021",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0022",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0023",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to cosmology: productivity explodes after 1700, then the geocentric-heliocentric debate moves through Ptolemy's refined theology-compatible model, Copernicus's Catholic-supported but underdeveloped alternative, and Tycho's data that Kepler uses.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "War with the Ottoman Empire and the age of exploration pushed European science because conquest required navigation tools, compasses, and astrolabes.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Historical-causal claim in this lecture.",
+      "topic_tags": [
+        "war",
+        "ottoman-empire",
+        "exploration",
+        "navigation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Science separates itself from religion by asking religion to justify truth claims through methods of testing.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0017",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Core model of the Scientific Revolution.",
+      "topic_tags": [
+        "science",
+        "religion",
+        "method",
+        "truth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The scientific method consists of questions and hypotheses, protocols for testing hypotheses, experimentation, and a system of doubt and criticism through peer review.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0018",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Definition used in this lecture.",
+      "topic_tags": [
+        "scientific-method",
+        "peer-review",
+        "hypothesis",
+        "experiment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang credits this method with an explosion of productivity, population capacity, wealth, technology, and progress beginning around 1700, while questioning whether the population outcome is good.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0019",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Long-run historical diagnosis in the 2025-04-01 lecture.",
+      "topic_tags": [
+        "productivity",
+        "population",
+        "progress",
+        "technology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ptolemy's geocentric model endured because it was mathematically detailed, refined by centuries of work, and aligned with theology, whereas Copernicus's Catholic-supported heliocentric model initially lacked comparable mathematical refinement.",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0021",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0022",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical reconstruction in this lecture.",
+      "topic_tags": [
+        "ptolemy",
+        "copernicus",
+        "geocentric-model",
+        "heliocentric-model"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0018"
+      ],
+      "moment": "Science rises above religion by asking, 'How do you know if you're right?'",
+      "source_phrase": "how do you know if you're right?",
+      "why_it_matters": "It captures science as a tribunal of method rather than a collection of facts.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0019"
+      ],
+      "moment": "Peer review is described as institutionalized criticism.",
+      "source_phrase": "a system of doubt and criticism",
+      "why_it_matters": "It ties the social form of science to the epistemic form of doubt.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0023"
+      ],
+      "moment": "The Church is remembered through a saying: it tells you how to go to heaven, not how the heavens go.",
+      "source_phrase": "how to go to heaven, not how the heavens go",
+      "why_it_matters": "It punctures the simple anti-science Church narrative that the lecture later complicates through Galileo.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "peer review",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "A modern scientific institution where published results are presented to peers who criticize and search for flaws.",
+      "confidence": "high"
+    },
+    {
+      "term": "geocentric model",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Ptolemy's model that Earth stands still while celestial bodies revolve around it in circular motion.",
+      "confidence": "high"
+    },
+    {
+      "term": "heliocentric model",
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0022",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Copernicus and Kepler's sun-centered alternative, initially less refined but increasingly supported by observation and data.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0019",
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0020"
+      ],
+      "note": "Jiang dates the visible productivity inflection to around 1700 and frames it as an effect of scientific method.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0024"
+      ],
+      "note": "The transcript appears to say 'heliocentric model' where context requires 'geocentric model' for the more refined accepted model; treat as ASR or speech slip."
+    }
+  ]
+}
