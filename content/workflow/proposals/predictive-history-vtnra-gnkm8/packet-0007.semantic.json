@@ -1,0 +1,184 @@
+{
+  "packet_id": "predictive-history-vtnra-gnkm8-semantics-pkt-0007",
+  "source_id": "video:predictive-history-vtnra-gnkm8",
+  "source_date": "2025-10-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0049",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the forest-people example: ritual wakes the forest when things go wrong and shares happiness when things go well; the world is a script whose practices maintain harmony and heaven on earth.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "A student agrees that modern people lack vision but asks why modern societies, which can build skyscrapers and metropolises, cannot build pyramid-like structures.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0053",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that resources, will, and organization block rebuilding the pyramids, especially because ancient people were united by a vision of bringing heaven to earth while modern inspiration is reduced to money, cheating, lying, and stealing.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0055",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The student asks whether powerful modern religions could still build tremendous structures; Jiang replies that today's effective religion is capitalism, whereas the Egyptian age was spiritual and sought inspiration from heaven rather than numbers, computers, and process.",
+      "speaker_attribution": "student question, Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0052",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0055"
+      ],
+      "note": "Segments 0052 and 0055 are student questions despite rough ASR; Jiang's answer begins in the following segment each time.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The forest ritual wakes the forest when illness, bad hunting, death, or danger suggest the forest has fallen asleep and stopped looking after its children.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0049",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "forest-people example in this lecture",
+      "topic_tags": [
+        "forest-people",
+        "ritual",
+        "song",
+        "harmony"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the ritual world as a script: living well means following inherited practices that respect the world's traditions and keep balance with the environment.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "definition in this lecture",
+      "topic_tags": [
+        "world-script",
+        "ritual",
+        "environment",
+        "tradition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says rebuilding the pyramids would require not just technical ability but massive resources, will, and organization around a shared sacred vision.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0053",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "answer to student question in this lecture",
+      "topic_tags": [
+        "pyramids",
+        "organization",
+        "will",
+        "resources"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern religion is capitalism in Jiang's answer: the age believes in money, numbers, computers, and process rather than divinity, spirit, and ideas from heaven.",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0055",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "modernity critique in this lecture",
+      "topic_tags": [
+        "capitalism",
+        "religion",
+        "materialism",
+        "spiritual-age"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "moment": "The forest sleeps, so the people sing it awake.",
+      "source_phrase": "We wake it up by singing to it",
+      "why_it_matters": "This is the episode's most compact image of ritual as maintenance of heaven on earth.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "moment": "The world is a script, and living means following practices that keep the script in harmony.",
+      "source_phrase": "The world is a script",
+      "why_it_matters": "It gives later public prose a concise phrase for Jiang's ritual anthropology.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0054",
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "moment": "Modern people cannot imagine the pyramid because the old religion was heaven on earth and today's religion is capitalism.",
+      "source_phrase": "today our religion is capitalism",
+      "why_it_matters": "This is the direct answer to the student's challenge and the lecture's bluntest modernity critique.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "World as script",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's phrase for a ritual world where proper living requires following practices that keep human and environmental order aligned.",
+      "confidence": "high"
+    },
+    {
+      "term": "Capitalism as religion",
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's claim that modern purpose has been captured by the command to make as much money as possible.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0053"
+      ],
+      "note": "ASR includes unclear text around the student's interjection during the first pyramid-answer exchange; the three-factor answer is still clear."
+    }
+  ]
+}

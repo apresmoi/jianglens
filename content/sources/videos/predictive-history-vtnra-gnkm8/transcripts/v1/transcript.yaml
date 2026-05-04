@@ -1,0 +1,36 @@
+id: "video:predictive-history-vtnra-gnkm8@transcript:v1"
+source_id: "video:predictive-history-vtnra-gnkm8"
+version: 1
+language: "en"
+language_probability: 0.998
+duration_seconds: 3441.534
+segments: 70
+word_count: 9292
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+  - "SPEAKER_02"
+  - "SPEAKER_03"
+chronology:
+  source_date: "2025-10-24"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/@PredictiveHistory/VtnRA-GNKM8"
+  youtube_metadata: "content/sources/raw/youtube/@PredictiveHistory/VtnRA-GNKM8/metadata.youtube.json"
+  youtube_metadata_source: "yt-dlp"
+  transcription_json_sha256: "7df303a462f73663baf156b36fc5668cb956b441cb0fbc472962907186c77d85"
+  grouped_json_sha256: "fc1429f1a4724f33174b7df02b9dd101f9f94456053558ab13c325f31be6cc69"
+  dump_json_sha256: "da4eabdf31cd50efc8875df281f3cbe53aeb02cb0513cee6d027f36c83de248a"
