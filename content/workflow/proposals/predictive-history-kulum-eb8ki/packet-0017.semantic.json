@@ -1,0 +1,92 @@
+{
+  "packet_id": "predictive-history-kulum-eb8ki-semantics-pkt-0017",
+  "source_id": "video:predictive-history-kulum-eb8ki",
+  "source_date": "2025-12-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0129",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0130",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0131",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0132"
+      ],
+      "kind": "monologue",
+      "summary": "The lecture ends abruptly after the Israel-Palestine question. A student acknowledges Jiang’s answer, Jiang begins to say what is happening in Palestine and Israel today, the transcript becomes garbled, and he closes by saying he will see the class next week.",
+      "speaker_attribution": "Jiang classroom lecture, with brief student readings or checks where noted.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0130",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0131",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0132"
+      ],
+      "note": "Segments 0130-0132 are heavily ASR-damaged; do not use them as firm evidence except for the visible closeout.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The closing exchange continues the previous question about Israel-Palestine but the transcript becomes too garbled to extract a reliable substantive claim beyond Jiang’s earlier answer.",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0129",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0130",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0131",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0132"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-12-11.",
+      "topic_tags": [
+        "israel-palestine",
+        "closing",
+        "asr"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang ends the session by deferring continuation to the next week.",
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0132"
+      ],
+      "temporal_scope": "Lecture claim as of 2025-12-11.",
+      "topic_tags": [
+        "course-sequence",
+        "next-week"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0129",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0130",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0131",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0132"
+      ],
+      "moment": "The lecture closes on an unfinished Israel-Palestine bridge, leaving the Frankist-modernity claim for next week.",
+      "source_phrase": "I’ll see you guys next week",
+      "why_it_matters": "It marks the episode as part one of a continuing argument.",
+      "tone": "method",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0129",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0130",
+        "video:predictive-history-kulum-eb8ki@transcript:v1#seg-0131"
+      ],
+      "note": "Packet 17 belongs to the 2025-12-11 Secret History lecture on Jewish history, Sabbateanism, Jacob Frank, and Frankist faith as a genealogy of modernity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
