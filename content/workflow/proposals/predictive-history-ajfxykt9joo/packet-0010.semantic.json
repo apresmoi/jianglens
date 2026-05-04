@@ -1,0 +1,158 @@
+{
+  "packet_id": "predictive-history-ajfxykt9joo-semantics-pkt-0010",
+  "source_id": "video:predictive-history-ajfxykt9joo",
+  "source_date": "2025-08-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0073",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0074",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0075",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0076",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0078",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0079"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that human beings can learn anything with a mentor, that school instead sorts students into smart and stupid, and that the first compulsory public-school societies were war societies designed to take children from parents.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0077",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "Students ask why older societies did not teach everyone through schools and suggest parents must work to survive.",
+      "speaker_attribution": "students",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0077"
+      ],
+      "note": "Student wording is noisy, but it functions as an objection about why societies without school could still teach people.",
+      "suggested_speaker": "student",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Humans are born with the capacity to learn any craft if they can find a teacher or mentor.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "general human-learning model in lecture",
+      "topic_tags": [
+        "learning",
+        "capacity",
+        "mentorship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern schooling creates artificial hierarchy by labeling students smart or stupid and routing them into different life outcomes.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0073",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "modern education diagnosis",
+      "topic_tags": [
+        "school",
+        "sorting",
+        "meritocracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sparta, the Aztecs, and Prussia are presented as early compulsory-schooling societies united by war-making.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0074",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0075",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "historical examples in lecture",
+      "topic_tags": [
+        "sparta",
+        "aztecs",
+        "prussia",
+        "war",
+        "school"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "School prepares people for war because it is designed to take children away from parents, the worst thing for a mother or father.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0076",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0078",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "lecture diagnosis on 2025-08-21",
+      "topic_tags": [
+        "school",
+        "war",
+        "family-separation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0073"
+      ],
+      "moment": "The school system invents smart and stupid where older learning only needed a teacher.",
+      "source_phrase": "Smart students go to good schools... Stupid students go wash dishes.",
+      "why_it_matters": "It links school to status sorting rather than education.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0078"
+      ],
+      "moment": "The school question becomes the family-separation question.",
+      "source_phrase": "School is designed to take your child away from you.",
+      "why_it_matters": "This is the emotional mechanism that sets up the next packet's theory of brainwashing.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "compulsory education",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0074",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "Mandatory public schooling, which Jiang associates with war societies rather than neutral learning.",
+      "confidence": "high"
+    },
+    {
+      "term": "war societies",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0075",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's category for Sparta, the Aztecs, and Prussia as societies organized around defeating neighbors and training children for war.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0074",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0075"
+      ],
+      "note": "Historical claims about first compulsory schooling societies should remain attributed to Jiang unless independently verified by a separate research pass."
+    }
+  ]
+}

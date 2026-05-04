@@ -1,0 +1,161 @@
+{
+  "packet_id": "predictive-history-ajfxykt9joo-semantics-pkt-0011",
+  "source_id": "video:predictive-history-ajfxykt9joo",
+  "source_date": "2025-08-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0081",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0082"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the school-together question by saying children separated from parents feel insecure and therefore trust teachers, while secure children with parents nearby can disobey, question, and think for themselves.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0083",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0084",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0085",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0086"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether Jiang is brainwashing them; Jiang answers that students can challenge him, choose not to listen, and are not coerced through grades or compulsory attendance.",
+      "speaker_attribution": "student question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0087",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0088"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang identifies the nation-state as what school brainwashes students to believe, especially by teaching language, history, and geography as if Mother China or other nations are real persons requiring sacrifice.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0083"
+      ],
+      "note": "SPEAKER_02 asks the sharp student question 'So, are you brainwashing now?'",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "School brainwashing works by separating children from parents; insecurity makes children trust teachers as replacement authorities.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0081",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "psychological model in lecture",
+      "topic_tags": [
+        "school",
+        "brainwashing",
+        "parents",
+        "security"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes his class from compulsory schooling by saying students may question, challenge, think for themselves, and choose not to attend without coercive penalties.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0083",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "course self-description on 2025-08-21",
+      "topic_tags": [
+        "pedagogy",
+        "coercion",
+        "questioning"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Schools are designed to make students believe the nation-state exists as a person, such as Mother China, to whom they owe love, sacrifice, and dedication.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "lecture diagnosis on 2025-08-21",
+      "topic_tags": [
+        "nation-state",
+        "school",
+        "sacrifice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "History is defined as the false memory of a nation-state: a school-implanted memory that replaces local identity with national identity.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0087",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "lecture definition on 2025-08-21",
+      "topic_tags": [
+        "history",
+        "nation-state",
+        "false-memory"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0081"
+      ],
+      "moment": "The child without parents nearby must trust the teacher.",
+      "source_phrase": "You've lost your parent. You feel really insecure. So, who do you trust? Your teacher.",
+      "why_it_matters": "This gives the school-brainwashing thesis its emotional mechanism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0088"
+      ],
+      "moment": "History is not memory but false national memory implanted by school.",
+      "source_phrase": "History is the false memory of a nation state.",
+      "why_it_matters": "This phrase is a compact lens point for the episode and later corpus work.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "nation-state",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0087",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0088"
+      ],
+      "definition_or_usage": "A collective fiction that school teaches students to treat as a real person requiring love, obedience, and sacrifice.",
+      "confidence": "high"
+    },
+    {
+      "term": "false memory of a nation-state",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0088"
+      ],
+      "definition_or_usage": "Jiang's definition of history as school-taught national memory that replaces local belonging.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0086"
+      ],
+      "note": "The coercion contrast includes the claim that parents get arrested if children do not attend school; keep attributed to Jiang."
+    }
+  ]
+}

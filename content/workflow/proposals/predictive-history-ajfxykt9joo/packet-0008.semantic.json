@@ -1,0 +1,152 @@
+{
+  "packet_id": "predictive-history-ajfxykt9joo-semantics-pkt-0008",
+  "source_id": "video:predictive-history-ajfxykt9joo",
+  "source_date": "2025-08-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0057",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0058",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0059",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0060",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0061",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0063"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether gods are also authorities in the first worldview; Jiang answers that polytheistic gods are authorities but not benevolent ones, and that recognizing arbitrary fate can inspire eudaimonia rather than passive pleasure.",
+      "speaker_attribution": "student question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0062",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0064"
+      ],
+      "kind": "unclear",
+      "summary": "Two brief 'Okay?' fragments are diarized as unknown and do not affect the argument.",
+      "speaker_attribution": "unclear",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0058"
+      ],
+      "note": "SPEAKER_03 asks a substantive student question about whether God counts as authority.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "In Jiang's contrast, ancient gods are authorities but not benevolent authorities; they are angry, proud, vengeful, and able to get away with what humans cannot.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "polytheistic worldview as explained in lecture",
+      "topic_tags": [
+        "polytheism",
+        "authority",
+        "gods"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The idea that rulers are benevolent authority figures is described as a new modern concept; older kings rule because the gods favor them, not because they are good.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0059",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "historical contrast in lecture",
+      "topic_tags": [
+        "kingship",
+        "authority",
+        "modernity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Polytheistic fate teaches that because tomorrow may destroy you, the point of life is eudaimonia: flourishing and living to the best of one's ability today.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0060",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "course model of ancient worldview",
+      "topic_tags": [
+        "eudaimonia",
+        "fate",
+        "flourishing"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reverses the apparent agency story: the worldview that says humans lack control inspires excellence, while the worldview that says humans control everything enslaves them.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "lecture synthesis on 2025-08-21",
+      "topic_tags": [
+        "agency",
+        "eudaimonia",
+        "enslavement"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0060",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0061"
+      ],
+      "moment": "Because fate can kill you tomorrow, the right answer is not despair but flourishing today.",
+      "source_phrase": "live your life to the best of your ability today",
+      "why_it_matters": "This is Jiang's strongest positive counter-model in the lecture.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0063"
+      ],
+      "moment": "No agency can inspire freedom; total agency can enslave.",
+      "source_phrase": "you have complete control over your life. It enslaves us.",
+      "why_it_matters": "It captures the paradox behind his critique of modern individualism.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "eudaimonia",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0060",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Flourishing: living life to the best of one's ability under conditions of fate and limited control.",
+      "confidence": "high"
+    },
+    {
+      "term": "hubris",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "A divine excess that gods can get away with but humans cannot.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0061"
+      ],
+      "note": "The transcript renders Euripides as 'Euboides'; public prose should normalize only if necessary."
+    }
+  ]
+}

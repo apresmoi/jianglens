@@ -1,0 +1,160 @@
+{
+  "packet_id": "predictive-history-ajfxykt9joo-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ajfxykt9joo",
+  "source_date": "2025-08-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0009",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "A student invokes fractional reserve limits against Jiang's simple bank example, and Jiang accepts the correction as the economics-class version of the story.",
+      "speaker_attribution": "student question and Jiang answer setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0011",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0012",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0013",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0014",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0015",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from fractional reserves to bank-created money, uses Chinese bank growth as evidence, and gives a merchant-gold-receipt origin story for how contracts double money before explaining older money as symbolic unpayable debt.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0010"
+      ],
+      "note": "SPEAKER_00 continues as a student who knows the reserve-limit objection.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The economics-class answer to banking is fractional reserve logic, but Jiang says the real system creates a larger balance sheet by treating the loan and deposit as coexisting claims.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "banking model in lecture",
+      "topic_tags": [
+        "banking",
+        "fractional-reserve",
+        "money-creation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents the rise of major Chinese banks over the previous 20 years as evidence that banks create money to finance infrastructure rather than merely store preexisting wealth.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "roughly 2005-2025 as described on 2025-08-21",
+      "topic_tags": [
+        "china",
+        "banks",
+        "infrastructure"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The origin of finance is narrated as merchants turning gold receipts into transferable contracts, then lending receipts instead of gold and thereby multiplying claims on the same underlying gold.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0013",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0014",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "historical model in lecture",
+      "topic_tags": [
+        "finance-origin",
+        "receipts",
+        "contracts"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For most people in most of human history, money was not everyday utility but symbolic debt, especially a debt that could never really be repaid.",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "most of human history as framed by Jiang",
+      "topic_tags": [
+        "money",
+        "debt",
+        "anthropology"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0011"
+      ],
+      "moment": "The correct answer is not the logical answer: the bank has more money after lending.",
+      "source_phrase": "This makes no sense, right? But it happens in reality.",
+      "why_it_matters": "This is the first concrete demonstration of power turning an imagined accounting relation into institutional fact.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0015"
+      ],
+      "moment": "The receipt duplicates the gold without adding any gold.",
+      "source_phrase": "I've created money out of nothing",
+      "why_it_matters": "This anticipates the closing definition of power as alchemy.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "fractional reserve",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The economics concept that banks must retain a reserve while lending the rest; Jiang uses it as the conventional model he then complicates.",
+      "confidence": "high"
+    },
+    {
+      "term": "receipt",
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0013",
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A contract promising return of deposited gold; Jiang treats it as the primitive form of bank-created money.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0012"
+      ],
+      "note": "The Chinese-bank claim is date-sensitive because Jiang frames it as the past 20 years from the 2025 lecture date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ajfxykt9joo@transcript:v1#seg-0011"
+      ],
+      "note": "The transcript says '$4,000' where context implies $4.5 million or 90 percent of a $5 million deposit; avoid over-relying on the exact ASR amount."
+    }
+  ]
+}
