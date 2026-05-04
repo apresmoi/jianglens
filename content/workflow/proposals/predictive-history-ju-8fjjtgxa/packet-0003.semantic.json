@@ -1,0 +1,182 @@
+{
+  "packet_id": "predictive-history-ju-8fjjtgxa-semantics-pkt-0003",
+  "source_id": "video:predictive-history-ju-8fjjtgxa",
+  "source_date": "2025-09-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0017"
+      ],
+      "kind": "question",
+      "summary": "A student asks why Yale picked Jiang.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0018",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0020",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0021",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0022",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0023",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he will explain through the venture-capital model, then reviews his own ordinary Yale application: public Canadian school, decent scores, thin activities, boring essay, and teachers who saw him as aggressive or ambitious.",
+      "speaker_attribution": "Jiang answering a student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0018",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0020",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "Before the application details, he defines Harvard as a venture capital firm that prefers a small chance at a billion-dollar world-changer over a safe moderate return.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0022",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0023",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "A short “okay” is likely transcript noise or Jiang filler; the substantive focus remains his application profile.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0022"
+      ],
+      "note": "Single-word UNKNOWN segment is likely filler or diarization noise, not a separate substantive speaker turn.",
+      "suggested_speaker": "unclear filler",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Harvard and Yale operate like venture capital firms: they prefer risky applicants with possible world-changing upside over solid applicants with predictable modest success.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0018",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "venture-capital",
+        "admissions",
+        "risk"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The admissions prize is not the professor or reliable professional but the crazy person who might change the world and make the university famous.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "brand",
+        "risk",
+        "success"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang’s surface Yale application looked decent but not stellar: ordinary school context, non-top rank, modest SAT by elite standards, minor activities, a generic essay, and recommendations shadowed by perceived ambition.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0023",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "jiang-biography",
+        "yale",
+        "application"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0018",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019"
+      ],
+      "moment": "Harvard is first and foremost a venture capital firm.",
+      "source_phrase": "first and foremost, a venture capital firm",
+      "why_it_matters": "It converts admissions from education into portfolio theory.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019"
+      ],
+      "moment": "Harvard would rather ten students become famous and ninety-nine fail than one thousand succeed slightly.",
+      "source_phrase": "10 people succeed and 99 fail",
+      "why_it_matters": "This is the lecture’s most compact description of winner-take-all institutional morality.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0024"
+      ],
+      "moment": "In Canada, “ambitious” becomes a dirty word.",
+      "source_phrase": "Ambitious is a dirty word in Canada",
+      "why_it_matters": "It shows how Jiang’s personality could read as social violation before it read as elite potential.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "venture capital firm",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0018",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0019",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang’s analogy for Harvard/Yale admissions: a portfolio seeking rare enormous upside rather than broad moderate success.",
+      "confidence": "high"
+    },
+    {
+      "term": "brand name recognition",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "The institutional payoff Harvard receives when a graduate becomes publicly famous or powerful.",
+      "confidence": "high"
+    },
+    {
+      "term": "ambitious",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "In Jiang’s Canadian context, a negative label meaning pushy, rule-breaking, or too aggressive.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0022"
+      ],
+      "note": "Speaker label UNKNOWN on a one-word filler does not affect the packet’s semantic claims."
+    }
+  ]
+}

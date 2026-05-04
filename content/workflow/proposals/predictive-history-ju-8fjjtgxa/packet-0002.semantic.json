@@ -1,0 +1,198 @@
+{
+  "packet_id": "predictive-history-ju-8fjjtgxa-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ju-8fjjtgxa",
+  "source_date": "2025-09-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0009",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Harvard’s holistic admissions and character language emerged to balance alumni power with academic talent, historically to exclude Jews and today to manage Asian access while preserving Harvard power.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0012",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0013",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He stages the admissions officer thought experiment: Harvard wants the applicant most likely to become powerful or famous, not the academically best student, and even welcomes brilliant rejects because selectivity metrics help the brand.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether all American admissions officers behave this way intentionally.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang distinguishes elite schools from ordinary schools: the Ivy League can select for power because everyone wants in, while average colleges mainly recruit tuition-paying students.",
+      "speaker_attribution": "Jiang answering a student question.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010"
+      ],
+      "note": "A brief student interjection about household profiles appears inside the lecture flow and Jiang immediately affirms it; it is not framed as a public episode question.",
+      "suggested_speaker": "student interjection plus Jiang response",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Holistic admissions and character assessment were built as discretionary screens that could preserve alumni power and exclude disfavored groups while appearing morally selective.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0009",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "holistic-admissions",
+        "character",
+        "exclusion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Harvard is interested less in academics than in institutional power, so “best” means most likely to succeed publicly rather than smartest.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "harvard",
+        "power",
+        "success"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang’s admissions model, a multigenerational Harvard legacy or world-famous athlete beats the math genius because fame, presidency, and corporate power build the university brand.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0012",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0013",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "legacy-admissions",
+        "brand",
+        "elite-selection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Elite admissions officers may operate by this power logic, but most non-elite schools are mainly trying to enroll paying students.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0015",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "elite-schools",
+        "admissions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0009",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010"
+      ],
+      "moment": "“Character” becomes the velvet glove around exclusion.",
+      "source_phrase": "character",
+      "why_it_matters": "It gives the admissions system its moral disguise.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011"
+      ],
+      "moment": "Harvard is described not as a school but as an institution of power.",
+      "source_phrase": "not interested in academics, it’s interested in power",
+      "why_it_matters": "This phrase unlocks the whole admissions argument.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0013",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0014"
+      ],
+      "moment": "The math genius loses because a math professor does not make Harvard famous enough.",
+      "source_phrase": "We don’t want professors",
+      "why_it_matters": "It makes the admissions calculus brutally concrete.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "holistic admissions",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0009",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "A multi-factor admissions regime presented as character evaluation but used, in Jiang’s account, to preserve elite control.",
+      "confidence": "high"
+    },
+    {
+      "term": "secrecy",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Admissions refusal to disclose why someone was accepted or rejected.",
+      "confidence": "high"
+    },
+    {
+      "term": "discretion",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Admissions freedom to choose applicants for opaque institutional reasons.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0009",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0012",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0013",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0014",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0015",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0016"
+      ],
+      "note": "The 2025-09-12 lecture makes a direct contemporary claim that Harvard-style holistic admissions now functions to manage Asian applicants as earlier character screens targeted Jews.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-ju-8fjjtgxa-semantics-pkt-0005",
+  "source_id": "video:predictive-history-ju-8fjjtgxa",
+  "source_date": "2025-09-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0033",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0034",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0035",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Yale is the Hunger Games: after admission, students face relentless classroom, club, scholarship, and status competition, which creates insecurity and then reproduces itself backward through high school and parenting. He says the model has conquered the world.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0039"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Jiang would still choose Yale if he had a second chance, given the negative emotions it created.",
+      "speaker_attribution": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says probably yes, because the system gives poor people few options for moving ahead, but he would not send his own children into the Ivy League.",
+      "speaker_attribution": "Jiang answering a student question.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Yale functions as the Hunger Games: a zero-sum competition among the most competitive people in the world, extending through classes, clubs, secret societies, graduate school, and scholarships.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0033",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0034",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "yale",
+        "competition",
+        "hunger-games"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Elite competition creates deep insecurity: students learn that everyone is an enemy and that stopping achievement means social death.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0035",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "insecurity",
+        "achievement",
+        "elite-formation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Meritocratic parenting neglects children while making love conditional on performance, producing trauma that can drive endless achievement.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "parenting",
+        "conditional-love",
+        "trauma"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The meritocracy has conquered the world from Harvard outward, including China, which is why Jiang says the world is so distorted.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "global-meritocracy",
+        "china",
+        "harvard"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he would probably go to Yale again because poor people trying to move ahead have few alternatives, but he refuses to send his children into that traumatic environment.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0039",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "yale",
+        "poor-students",
+        "children"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0033",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0034"
+      ],
+      "moment": "Yale is named as the Hunger Games, not a sanctuary after winning admission.",
+      "source_phrase": "Yale is actually the Hunger Games",
+      "why_it_matters": "It captures the hidden second-stage competition after acceptance.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0035"
+      ],
+      "moment": "The elite student’s worldview becomes “everyone is an enemy.”",
+      "source_phrase": "Everyone’s an enemy",
+      "why_it_matters": "It condenses the moral injury produced by winner-take-all schooling.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037"
+      ],
+      "moment": "Conditional ice cream replaces unconditional love as the parenting engine of meritocracy.",
+      "source_phrase": "if you win... then I’ll take you for ice cream",
+      "why_it_matters": "It makes structural trauma domestic and intimate.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0040"
+      ],
+      "moment": "He would probably repeat Yale for himself but not impose it on his children.",
+      "source_phrase": "I do not plan to send my kids to the Ivy League",
+      "why_it_matters": "It gives the critique its practical edge.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hunger Games",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0033",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0034",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Jiang’s metaphor for Yale as relentless zero-sum competition after admission.",
+      "confidence": "high"
+    },
+    {
+      "term": "conditional parenting",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "A system that withholds attention unless the child performs, creating achievement trauma.",
+      "confidence": "high"
+    },
+    {
+      "term": "global meritocracy",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The Harvard-born competition model after it spreads into China and the wider world.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
