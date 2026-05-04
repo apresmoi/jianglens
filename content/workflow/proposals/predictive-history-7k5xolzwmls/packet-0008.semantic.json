@@ -1,0 +1,201 @@
+{
+  "packet_id": "predictive-history-7k5xolzwmls-semantics-pkt-0008",
+  "source_id": "video:predictive-history-7k5xolzwmls",
+  "source_date": "2025-03-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0057",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0058"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the intermarriage answer: royal wives represent political alliances, marriage into another elite means marriage into her faith, and conversion unfolds slowly because culture is persistent.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0059",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0060",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "After an inaudible student prompt, Jiang restates the question as whether pre-modern pagan cultures were tolerant toward gays and minorities, then argues that modern superiority narratives are nation-state propaganda because pre-modern communities categorized people less rigidly.",
+      "speaker_attribution": "Student question is not captured; Jiang restates and answers it.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0062",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0063",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Answering a follow-up about banishment, Jiang says Viking and Athenian exile show the ancient assumption that identity comes from community; outside a community a person is treated like a ghost, and the first question is where one is from.",
+      "speaker_attribution": "Student prompt is mostly inaudible; Jiang repeats enough to identify the topic.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0059",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0060"
+      ],
+      "note": "Only 'Yep' is captured before Jiang restates the question about pagan tolerance; treat the question wording as Jiang's paraphrase.",
+      "suggested_speaker": "student question reconstructed through Jiang's answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0064"
+      ],
+      "note": "Short 'Okay?' is likely a student or room acknowledgment, not a substantive question.",
+      "suggested_speaker": "student/audience",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Intermarriage is a political technology: kings and princes use marriages to form alliances, but marriage can also require religious conversion.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Historical-political model in this lecture.",
+      "topic_tags": [
+        "intermarriage",
+        "alliance",
+        "conversion",
+        "kingship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that pre-modern pagan cultures could be more tolerant than modern nation-state narratives admit because they did not classify homosexuality, race, and minority status in the same rigid modern way.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0060",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Answer to student question in the 2025-03-04 lecture.",
+      "topic_tags": [
+        "tolerance",
+        "pagan-culture",
+        "nation-state",
+        "race",
+        "homosexuality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Race and racism are framed as modern concepts produced by imperialism's need to justify conquest by calling conquered peoples inferior.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Modernity diagnosis in this lecture.",
+      "topic_tags": [
+        "race",
+        "racism",
+        "imperialism",
+        "modernity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Viking and Athenian banishment show that the worst punishment in community-centered societies is removal from the group that makes the person socially real.",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0062",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Answer to student question in this lecture.",
+      "topic_tags": [
+        "banishment",
+        "community",
+        "athens",
+        "vikings",
+        "selfhood"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0057"
+      ],
+      "moment": "A king's wives become a map of his alliances, not evidence of private appetite.",
+      "source_phrase": "These wives represented different political alliances",
+      "why_it_matters": "It sharpens Jiang's non-romantic model of marriage as political infrastructure.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0060",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0061"
+      ],
+      "moment": "Modern tolerance becomes a nation-state story that Jiang calls propaganda.",
+      "source_phrase": "This is a propaganda from the nation state",
+      "why_it_matters": "It is a provocative reversal of the standard civilizational-progress story.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0062",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0063"
+      ],
+      "moment": "Without community, the banished person is a ghost or zombie.",
+      "source_phrase": "You were basically a ghost or a zombie",
+      "why_it_matters": "It gives concrete force to the claim that ancient personhood is communal.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "culture is persistent",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "Jiang's recurring principle that conversion and cultural change unfold slowly over generations.",
+      "confidence": "high"
+    },
+    {
+      "term": "banishment",
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0062",
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Worst punishment in community-centered cultures because it removes a person from the social body that makes identity possible.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0061"
+      ],
+      "note": "The transcript says race/racism are 'only in the past 20 years'; this is likely damaged or imprecise, but the core dated lecture claim is that race is a relatively new modern concept tied to imperialism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0060"
+      ],
+      "note": "The answer touches contemporary categories and uses broad claims about homosexuality and minorities; preserve as Jiang's classroom answer, not as external validation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-7k5xolzwmls@transcript:v1#seg-0062"
+      ],
+      "note": "The exact student question before the banishment answer is inaudible; Jiang's answer suggests it concerns Viking punishment or exile."
+    }
+  ]
+}
