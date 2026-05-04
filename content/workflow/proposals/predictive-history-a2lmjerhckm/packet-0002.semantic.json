@@ -1,0 +1,179 @@
+{
+  "packet_id": "predictive-history-a2lmjerhckm-semantics-pkt-0002",
+  "source_id": "video:predictive-history-a2lmjerhckm",
+  "source_date": "2025-03-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0009",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0010",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes Qin legalism, centralization, and total war, then argues that the Han disparaged Qin while continuing the Qin system.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0012",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0013",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0014",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0015"
+      ],
+      "kind": "exchange",
+      "summary": "He moves from Han-steppe pressure to the Xianbei origin of the Tang, prompting the room for the dynasty name before supplying the answer.",
+      "speaker_attribution": "Jiang with a minimal student/audience response at seg-0014",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He presents Tang openness and power as structurally vulnerable because reliance on generals produces An Lushan, mass death, and eventually Huang Chao.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0014"
+      ],
+      "note": "The isolated 'Hmm?' is likely a student/audience response to Jiang's prompt about which dynasty the Xianbei produced.",
+      "suggested_speaker": "student/audience",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0012"
+      ],
+      "note": "This segment contains severe ASR contamination in the middle, but the surrounding argument resumes with Han-steppe conflict and dependency.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Qin power rests on legalism, collective responsibility, centralization, bureaucracy, and total war.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Qin unification period",
+      "topic_tags": ["qin", "legalism", "centralization", "total-war"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Han disparaged Qin as barbaric and censorious while preserving the basic Qin system of empire.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0010",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Han interpretation of Qin",
+      "topic_tags": ["han", "qin", "historiography", "empire"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Han conflict with northern steppe peoples gradually becomes cooperation and dependency through trade, intermarriage, and mercenary use.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0012",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Han and post-Han frontier relations",
+      "topic_tags": ["han", "steppe", "xiongnu", "frontier"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang calls the Han the last ethnically Chinese dynasty committed to protecting and propagating Chinese culture, and presents the Tang as a Xianbei-founded universal multicultural empire.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Han-to-Tang transition",
+      "topic_tags": ["han", "tang", "xianbei", "multicultural-empire"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tang reliance on powerful generals creates the conditions for the An Lushan Rebellion and later leaves the dynasty vulnerable to Huang Chao.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Tang Dynasty",
+      "topic_tags": ["tang", "an-lushan", "huang-chao", "generals"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0011"
+      ],
+      "moment": "The victorious successor writes the predecessor as barbaric while quietly inheriting its machinery.",
+      "source_phrase": "the Han Dynasty continues the system first introduced by the Qing",
+      "why_it_matters": "This gives the episode a pattern of moral repudiation masking institutional continuity.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0015"
+      ],
+      "moment": "The Tang, often imagined as peak China, becomes in Jiang's telling a non-Chinese multicultural empire.",
+      "source_phrase": "The Tang Dynasty, the founders... they're actually of the Shanbei tribe",
+      "why_it_matters": "It destabilizes ethnic continuity as the organizing story of Chinese power.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "legalism",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "A Qin state philosophy of draconian law, collective responsibility, centralization, and social discipline for war.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective responsibility",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "A legalist punishment structure in which a crime implicates not only the individual but the family.",
+      "confidence": "high"
+    },
+    {
+      "term": "Xianbei",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0013",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The steppe people Jiang identifies as giving rise to the Tang's Li family.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0015",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang moves from Han to Xianbei/Tang, then to An Lushan and Huang Chao as crises that lead toward Song institutionalization.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0012"
+      ],
+      "note": "The middle of seg-0012 has multilingual ASR noise; semantic extraction should rely on the clear steppe-conflict material before and after the corrupted span."
+    }
+  ]
+}

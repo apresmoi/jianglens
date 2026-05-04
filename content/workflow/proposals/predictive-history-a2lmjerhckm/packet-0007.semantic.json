@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-a2lmjerhckm-semantics-pkt-0007",
+  "source_id": "video:predictive-history-a2lmjerhckm",
+  "source_date": "2025-03-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0050",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0051",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that China's four inventions transformed the West but not China because culture, not technology alone, determines whether inventions become social revolutions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0053",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0054"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Confucianism is a religion or a culture, and Jiang answers that it is ultimately a religion best understood as bureaucratism.",
+      "speaker_attribution": "Student question recovered through Jiang's restatement; Jiang answers.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0055",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "He closes with Zhu Yuanzhang's examination scandal: a minister proves the Keju was fair, and the emperor kills the officials and top scorers anyway.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0053"
+      ],
+      "note": "The student question is not directly audible as a separate speaker segment; Jiang restates it as 'is Confucianism a religion or a culture?'",
+      "suggested_speaker": "student/audience via Jiang restatement",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The bureaucracy's dominance over military policy helps stunt Chinese development.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Song and later imperial China",
+      "topic_tags": ["bureaucracy", "military", "song", "development"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paper, printmaking, compass, and gunpowder revolutionized world history by enabling capitalism, mass literacy, exploration, colonization, and mass politics through gunpowder warfare.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0050",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Song inventions and later European modernity",
+      "topic_tags": ["four-inventions", "modernity", "printing", "gunpowder"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Technology does not matter by itself; culture determines whether technology produces social transformation.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0051",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Comparative theory of technology and culture",
+      "topic_tags": ["technology", "culture", "innovation", "modernity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Confucianism is, in Jiang's answer, a religion of bureaucratism designed to make bureaucratic society seem best, sophisticated, and legitimate.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0053",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Jiang's 2025-03-13 interpretation of Confucianism",
+      "topic_tags": ["confucianism", "bureaucratism", "religion", "legitimacy"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Zhu Yuanzhang Keju story shows that the emperor did not want fairness; he wanted a system preventing localities from rebelling against the center.",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0055",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Ming restoration of the Keju",
+      "topic_tags": ["zhu-yuanzhang", "keju", "fairness", "center"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052"
+      ],
+      "moment": "The lecture's hardest sentence is that technology does not matter; the culture decides whether technology can act.",
+      "source_phrase": "technology does not matter... What matters is the culture",
+      "why_it_matters": "It prevents the episode from becoming a list of inventions and makes culture the active machinery.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0053"
+      ],
+      "moment": "Confucianism is recoded as bureaucratism: a religion whose god is the status order of scholar-officials.",
+      "source_phrase": "one way to explain Confucianism is bureaucratism",
+      "why_it_matters": "It preserves Jiang's most pointed answer to the classroom question.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0056"
+      ],
+      "moment": "The honest report proves fairness; the emperor answers by killing the people who proved it.",
+      "source_phrase": "I can guarantee you the Kezhu... was a fair open and transparent process... he killed them all",
+      "why_it_matters": "It dramatizes that the system's real purpose is not truth or merit but imperial balance.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "four major inventions",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Paper, printmaking, compass, and gunpowder, which Jiang treats as technologies that transformed the world but not China under bureaucratic culture.",
+      "confidence": "high"
+    },
+    {
+      "term": "bureaucratism",
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0053",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang's term for Confucianism as a religion or ideology legitimizing rule by bureaucratic scholar-officials.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0051"
+      ],
+      "note": "Jiang places China's possession of the four inventions by the Song around 1200 CE, then traces their later revolutionary effects in Europe and the Americas.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049",
+        "video:predictive-history-a2lmjerhckm@transcript:v1#seg-0051"
+      ],
+      "note": "ASR says 'bag notes' and 'all four invasions'; context indicates bank notes and all four inventions."
+    }
+  ]
+}

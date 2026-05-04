@@ -1,0 +1,345 @@
+# Civilization #38:  Twilight of the Middle Kingdom
+
+Source: https://www.youtube.com/watch?v=A2LMJerHcKM
+
+## seg-0001 / 00:00:00-00:01:11 / SPEAKER_00
+
+Okay, good morning today we do China Obviously we are in China and we will we know a lot of Chinese history So I will go fairly quickly and deeply This is an opportunity for us to look back on the theories. We've developed over the course of this year and really Think about how they apply to the Chinese context It's a chance for us to see if our models work if they do work Then they would be true in the Western context and also in the Chinese context. It's also a chance for us to deeply interrogate Our theories and see where flaws might arise Okay, so I'll get I'll be going through some Chinese history, but I will do so By applying the theories we've learned so far Mainly the oceanic currents of history, right? So let's get started today. We're gonna look at a question That is fundamental to China, which is we know That
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:11-00:02:34 / SPEAKER_00
+
+for the longest time China really was the civilized civilization poor excellence in the world It gave us all the great inventions that would make modernity possible including the compass paper printmaking gunpowder Okay, but after Song dynasty, which is about the year 1200 trying to stop being creative and So why did this happen and that is the question that will frame our discussion? This morning. All right, let's go over some quick Chinese history so Chinese civilization as you know developed along the yellow river the yellow river is It's perfect for agriculture and as a result Population expanded very quickly when that happens conflict and war will ensue and that's and that's what will give rise to settlements and fortified cities that will drive the development of the state and civilization and technology Okay, um the Hallmark all China civilization is what we call the warring states period tune chill and At this time the foundations of
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:34-00:03:56 / SPEAKER_00
+
+Chinese civilization will come into being at this time You will have something called the hundred schools of thought Confucianism will develop as well Taoism and legalism okay, and these ideas will form the foundation of Chinese civilization and As you can see in this period all these hundred schools of thought developed because of a process we call open cooperative Competition which as we have discussed is the main driver of innovation in human civilization Okay, openness means that there is no centralized authority cooperation means that Even though there's no centralized authority the different states are trading communicating with each other and they are intermarrying into each other and Competition means that there is a lot of conflict between them There are warring against each other for dominance in their region Okay, and in this process this will give rise to The ideas the technology the values the culture that will underpin China civilization for the next 2
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:56-00:05:18 / SPEAKER_00
+
+,000 years Confucius is obviously Who is best remembered? from this era, but you also have Lao Tzu who is the founder of Taoism? Okay, as well as Zhuang Tzu and Mo Tzu Sun Tzu will at this time write his book the art of war So in a process that is open cooperative competition eventually one state will be the one to win the war The state will emerge to conquer the rest and as we discussed why the state Emerges is because of three things energy. They're much more energetic. They're much more ambitious Second is openness. They're much more willing to adopt innovation in the ruthless pursuit of military conquest and they are opportunistic meaning that they will Do whatever it takes to win? Okay so in this period the state that we eventually conquer all China and create the first Empire is the Qing and again if you think about it in the year 500 BCE
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:19-00:06:35 / SPEAKER_00
+
+We could not possibly predict that the Qing would conquer and unite all of China because of all these states the Qing was the porous it was situated in the mountains whereas The other states are situated in these fertile valleys Its culture was not as developed as the rest and its population was smaller So we couldn't predict that the Qing would eventually unite all of China But at the same time near 500 we cannot have predicted that Rome would unite the Mediterranean and we cannot have predicted that Macedonia would have united the Greek world All right So let's discuss very quickly why the Qing was able to succeed Okay, even though this is the warring states period and there's a lot of warfare going on What we need to remember is that this warfare is heavily regulated War in this period. It's almost like an aerostatic aristocratic game okay, so there are stories where This general
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:35-00:07:41 / SPEAKER_00
+
+was leading sickly the Laying siege to a city and the people inside were starving to death Which is what you do in a siege, right? You starve the population to death, but the general felt tremendous regret and guilt for putting the population Under such misery so he retreated and withdrew to give time for the population to recover and that was considered. What was gentlemanly, okay, that was what was considered chivalrous civilized back then another story Is that an army was crossing the river which is a great time to attack them? But the opposing army let them cross the river because that is what is civilized, okay, what is gentlemanly so this period Was heavily regulated by a gentleman's code of conduct Okay, and then you ask yourself. Why is that the case and the answer is that remember this is a a open cooperative competition environment in which Even though the states are at war
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:41-00:08:47 / SPEAKER_00
+
+they still a lot of intermarriage between them There's still a lot of trade a lot of communication so these states are not trying to use warfare to overturn the social order because they benefit from the status quo they're using Warfare as a means to maintain the social order and that's why warfare is extremely heavily regulated And so let's think about the Peloponnesian War between Athens and Sparta. When we look at the war, we know that the Peloponnesian War was extremely bloody, it was extremely deadly, but at the same time it was extremely regulated. And a lot of their strategies didn't really make any sense. It was really about defeating the enemy. So for example, we know that in Sparta, there are people called the Helots, who are basically slaves to the Spartan people. And the Helots outnumber the Spartans ten to one. So all Athens had to do was say to the Helots, if you fight for us, if you revolt against your masters, we will grant you freedom.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:47-00:09:57 / SPEAKER_00
+
+That's all Athens had to do. But Athens never did that. Because by doing that, you would disrupt the social order from which Athens benefited, and you would unleash your power. So it was a major revolution that could possibly engulf the entire Greek world. Also, even though Sparta and Athens were enemies, they were united by intermarriage among their elites. They had a similar culture. And they historically were allies, especially against the Persians. So warfare at this time was about maintaining the status quo, rather than overturning the status quo. And this presents a lot of problems. There was an opportunity for the Qing Dynasty, which is in the margins of the status quo. So the Qing Dynasty started to invent warfare in a way that opportunistically took advantage of the status quo situation. And they committed themselves to total warfare, meaning their entire society was engineered in a way to allow them to win against their enemies.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:57-00:11:10 / SPEAKER_00
+
+So certain characteristics about the Qing Dynasty at this time. First is the idea of legalism. Draconian laws that force a population to behave in a certain way. Something that is very fundamental to the idea of legalism is collective responsibility. What that means is that if you commit a crime, you'll be punished, but so will your entire family. The idea of collective responsibility is pioneering today. The idea of collective responsibility is pioneering at this time in order to maintain a very strict society that can be purposed for war. So that's the first thing. Legalism. Second thing is the idea of centralization, meaning that you have a bureaucracy. You have centralization. And this allows you to actually expand very quickly. It allows you to expand and govern new territories that you conquer. And the third, of course, is total war, meaning you devote all your resources to warfare in order to conquer your enemies.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:10-00:12:11 / SPEAKER_00
+
+The Qing Dynasty was also known for its openness. So if you were a man of talent and you could contribute to the military and the bureaucracy, they would welcome you. So think of the Qing as a revolutionary system that sought to overturn the Qing Dynasty. And the Qing dynasty was a state that tried to maintain the status quo. And the other states like Wei, Zhao, Han, and Chu, especially Chu, they were trying to maintain the status quo. And therefore they were not that well equipped to deal with the challenge from the Qing. Now we know that the Qing would unite all of China, but because their system was so draconian, eventually the other states would rebel against them. and this would eventually lead to the Han Dynasty okay now the Han Dynasty is actually well even though the Han Dynasty disparages the Qing right
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:11-00:13:16 / SPEAKER_00
+
+so our very conception of the Qing comes from Han historians who tell us that the Qing buried scholars and they burned books and that's extreme and that in our eyes is barbaric right we don't know that's true we know that the Qing practice heavy censorship so those hundred schools of thought a lot of these books were censored and destroyed during this period but we don't know for fact that they buried scholars okay but this is what so the Han Dynasty is trying to disparage trying to refute the Qing Dynasty that said the Han Dynasty continues the system first introduced by the Qing okay the Han is a really at this point the height of Chinese civilization there's a confidence there's an arrogance to the Han and one of the top priorities for the Han is now that they've united China they have to deal with the northern steps people okay remember that throughout history the
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:16-00:14:22 / SPEAKER_00
+
+steps people have proven to be the most daunting challenge for civilizations they are extremely they're ferocious warriors and the step people were the most ferocious warriors now they're många so the Korean people who were fully fallen Anatolia China then get back to China the Koreans who wanted to take by〇〇〇 but were probably more want to is there can really be someone to step in to bring this to Ganzhou and prove that the Muslim structure is much more modern now right noodles see you and then След 음 yeah it's all right I'm gonna get some treatments ah in Rome itself, until the Han, the Han people are descendants of the Xiongnu, okay? But over time, because of this conflict between the Han and the northern steppe people, this will create tremendous strain on the Han. And eventually the policy will evolve to one of cooperation and dependency. And so what will happen is there will be
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:22-00:15:00 / SPEAKER_00
+
+a lot of trade, there will be a lot of intermarriage, and the steppe people will be hired as mercenaries for internal conflicts within China, okay? So open cooperation now switches from the Han, which has become a centralized power, to the steppe people. So within these people, and there's quite a lot of different tribes, there will be now tremendous competition. And one group, one tribe, that will eventually triumph is called the Shanbei, okay? And the Shanbei will give rise to which dynasty, do you guys know?
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:03-00:15:04 / UNKNOWN
+
+Hmm?
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0014
+
+## seg-0015 / 00:15:06-00:16:26 / SPEAKER_00
+
+Okay, but Shanbei will give rise to which major Chinese dynasty? You guys should know this. What comes after the Han? The Tang Dynasty, okay? So this is one thing that is misunderstood. The Han Dynasty is really... It's really the last Chinese dynasty. It is the last ethnically Chinese dynasty committed to the protection and propagation of Chinese culture. The Tang Dynasty, the founders, the Li family, they're actually of the Shanbei tribe, okay? And as a result, they will switch China into a universal multicultural empire. The Tang Dynasty is famous for being... Extremely open, tolerant, and inclusive, okay? All right, so this is the Tang Dynasty, which is considered the height of power, the height of Chinese power in the world. The Tang Dynasty will try to expand westwards into Central Asia, and it will start the Silk Road and trade networks all around the world. Buddhism at this point will come into China, and it will become, at certain points, a state religion, okay?
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0015
+
+## seg-0016 / 00:16:26-00:17:38 / SPEAKER_00
+
+But there are many problems with the Tang Dynasty. So there's a heavy reliance on generals to fight wars, and this will eventually lead to the An Lushan Rebellion, okay? Which lasts for almost 10 years. An Lushan is the top general of the Tang Dynasty, and because he's given too much power, he has too much independence. He's much too trusted by the emperor. He eventually rebels and seeks the throne for himself, okay? This rebellion will kill anywhere between a third to half of the Tang population, okay? Sixty million to 30 million people. And this is devastating and traumatic for the Tang Dynasty, okay? But somehow it recovers. But then you will have another rebellion called the Huang Chao. The Huang Chao Rebellion, which will end the Tang Dynasty. I'll talk about the Huang Chao later on, okay? The Tang Dynasty will give rise to the Song Dynasty, and
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0016
+
+## seg-0017 / 00:17:38-00:18:58 / SPEAKER_00
+
+the Song Dynasty will adopt a policy of diplomacy to build assimilation with the northern tribes, okay? They're trying to avoid the trap of the Tang, where you give too much power to a general, and the general will rebel, okay? So a lot of power. At the time of the Song Dynasty, a lot of power will be invested in the imperial bureaucracy, okay? That's the Song. Eventually the Song Empire will be carved up and conquered. The ultimate winners of this war will be the Mongols, who, in the year 1279, conquers the entirety of the Song Empire and unites China, okay? But the Yuan dynasty... The Mongols are considered a foreign dynasty. So I mentioned that the Tang Dynasty is actually non -Chinese. But the Mongols understood themselves to be non -Chinese, and as a result, they discriminated against Chinese people, which ultimately led to a rebellion that will establish the Ming Empire, and eventually the Ming Empire will give way to the Qing Empire.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0017
+
+## seg-0018 / 00:18:58-00:20:08 / SPEAKER_00
+
+The Manchus are just another iteration of the Ming Empire. They will rule China until 1911, when the empire is overthrown, a republic is established, and this gives way to, of course, the People's Republic of China, okay? So the big question, again, we're looking at is, why is it that the Song Dynasty is the last creative dynasty, all right? And if we use the idea of open cooperative competition, then we know the answer, all right? And the answer is this. Previous dynasties were not able to exert national control. They were always competing against other states within China proper, okay? So you look at the Han Dynasty. Well, the Han Dynasty would give way to dozens of other states that would compete against each other, okay? So in theory, the Qing and the Han united China. Okay? But not for long, all right? And the same is true for the Tang as well.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0018
+
+## seg-0019 / 00:20:08-00:21:18 / SPEAKER_00
+
+China for the longest time was just too large, too diverse to be unified centrally. And as a result, the idea of open cooperative competition would still give rise to innovation. But starting at the time of the Song, we see a radical change. Look at the Song, okay? Okay? The Song is pretty united, and the Yuan is extremely united. So the Yuan Dynasty is able to unite all of China. And then after the Yuan Dynasty, the Ming is also pretty united, and the Qing is extremely united, okay? So in other words, the answer is this. After the Song, and starting with the Yuan, China became nationally unified, and the center was able to exert control. It was able to control the provinces in a way that was not true before in Chinese history, okay? So the idea of open competitive competition died with the Song Dynasty. And that's why after the Song, China stopped being creative, okay?
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0019
+
+## seg-0020 / 00:21:18-00:22:35 / SPEAKER_00
+
+So that's the answer. But then this gives rise to another question, which is, how was China able to create national unity? All right? All right. So to answer this question, I want to refer to the work of Professor Wang Yuhua. He is a professor of Chinese history at Harvard, okay? And he wrote a new book called The Rise and Fall of Imperial China, and it's a wonderful book. If you're interested in Chinese history, I strongly recommend that you look at this book. All right. So. So he begins the book by asking a central question, and the central question is this. We know that the Tang Dynasty was really the height of Chinese power. It had about a quarter of the world's GDP, and it influenced the cultures of Korea, Japan, and this extremely diverse, inclusive, multicultural empire that introduced Buddhism to China, okay? But the problem with the Tang is their emperors didn't really live that long.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0020
+
+## seg-0021 / 00:22:35-00:23:45 / SPEAKER_00
+
+Five emperors, at least five emperors, during the Tang Dynasty were deposed by the elite. The aristocracy got together and were through the emperor, usually by killing him, okay? So this is the Tang Dynasty. But when you look at the Qing, Qing only had 5 % of the world's GDP, and it was wracked by internal rebellions like the Taipei. And it was far behind in terms of science and technology to Europe. But the emperors, like Tianlong, they could rule for 60 years peacefully, okay? They transitioned into a throne peacefully, and they died peacefully. So the Qing, even though it marked a low point in Chinese prosperity, the emperors lived for a long time, which meant that the bureaucracy, the center, was really stable. This is a paradox, okay? Why is it that when China is wealthy, the emperor is weak, but when the emperor is strong, China is poor?
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0021
+
+## seg-0022 / 00:23:45-00:24:53 / SPEAKER_00
+
+That's a paradox that Professor Wang Yuhua is trying to answer in his book. Okay. So he, so, I mean, he is, he used a lot of social science analysis. He used a lot of social science analysis and research for his book. So first of all, what he does is he analyzes the probability, as an emperor, that you're deposed by the elite, okay? And it turns out, like, the Tang was really the height. But then when you get to the Song, the probability decreases significantly, okay? But at the same time, what we need to understand is, even though the emperor lived longer, he The state's ability to collect taxes, to control the economy, decreased over time, okay? So you can see that starting in the year zero, all the way down, there's a downward slope. Now, this is not straight down, okay? There are peaks, right? So you go down, then you go up, you go down.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0022
+
+## seg-0023 / 00:24:53-00:26:15 / SPEAKER_00
+
+The up is when a new dynasty starts. And so at this time, the new dynasty is run by a very strong leader, like, for example, Zhu Yuanzhang of the Ming Dynasty, the founder of the Ming Dynasty, okay? These are extremely capable leaders, and they are supported by really talented bureaucrats. And at this point, they're able to collect a lot of taxes, which strengthens the center. But over time, the trend is fairly clear. Starting at the time of the Song, you see a steep decline in the state's ability to collect taxes, okay? The only exceptions are around the year 1600, when the Ming transitions to the Qing, okay? And so what Professor Wang Yi Hua has discovered is, the reason why you have this transition is the emperor, starting around the time of the Song, he's actually figured out a way to divide and conquer the elite, okay? So, the elite, when they are united, they are able to promote strong centralized policies that promote national growth.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0023
+
+## seg-0024 / 00:26:16-00:27:21 / SPEAKER_00
+
+But the centralized elite can always threaten the emperor, who is dependent on the elite for their support in the military and in government, okay? Starting around the Song… Okay? The centralized elite is now broken down into localized elite. So the trick that China has discovered in maintaining a strong center is by localizing the elites. Okay? So the idea is you localize the elites. When you localize the elites, you can implement a policy we call divide and conquer. Okay? So you get the elites in this province to fight amongst themselves. If they're too busy fighting amongst themselves, they're not going to ever rebel against you, and they're not going to build alliances with other provinces to ever challenge you. Okay? And their priorities and focus is in the provinces, and they really don't care what you guys do in the capital. All right? So that's the thesis.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0024
+
+## seg-0025 / 00:27:23-00:28:44 / SPEAKER_00
+
+All right. And what Professor Wang Yuhua says is the main mechanism that the emperor used in order to achieve this radical cultural shift is the kezhu. Okay? The kezhu is the civil service examination that promoted bureaucrats into positions of power. Okay? The kezhu. The civil service examination. And so the history of the kezhu is that it was introduced briefly in the Sui, and then the Tang Dynasty started to use it. Okay? But it was really the Song Dynasty. That really systemized and promoted it. Okay? Basically, the Song Dynasty institutionalized the kezhu. Okay? And before the kezhu, it was really an aristocratic system where you had to be of noble birth in order to become a high official in government, which is true for most cultures. Okay? So that's what he argues. All right. So he looks at times of major revolution. Major rebellions. And what he shows is that whenever there's massive climate change, you have violence erupt.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0025
+
+## seg-0026 / 00:28:44-00:29:49 / SPEAKER_00
+
+Okay? Because when you have a centralized system, what often happens is that the nobility engage in rent -seeking behavior. Basically, they exploit the peasants. And that's fine if the weather is good. When the weather is bad and the peasants don't have enough to eat, they often rebel. Okay? And in the Tang, this would culminate in something called the Huang Chao Rebellion, which would last for 10 years. When a salt merchant named Huang Chao, he would lead an uprising that would overwhelm and destroy the Tang Dynasty. The thing that's important for us to remember is that he would go all the way to Chang 'an. And Chang 'an is where all the elite live. Okay? There are about 200 aristocratic families in the Tang Dynasty, and they were all killed in this rebellion. When you remove the aristocracy, this gives the Song Dynasty room to implement a new policy and ensure that nobility cannot arise again.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0026
+
+## seg-0027 / 00:29:50-00:31:01 / SPEAKER_00
+
+Okay? So that is the significance of the Huang Chao Rebellion. It eliminated the idea of aristocracy in China. Okay. So Professor Wang Yuhua. What he does is he shows you how networks work in China. So during the Tang Dynasty, as you can see, there are centers which then moved to the provinces. Okay? So these families are all interconnected together because there's only 200 aristocratic families. If you are a wealthy family in a province, what you want to do is intermarry into one of these aristocratic families. Okay? Because that's the best way to ensure your advantage and privilege in life. Okay? So this is during the Tang Dynasty when families are united nationally. But when you get to the Song Dynasty, what you will see is that the center has been localized, meaning it's been spread out. And what you will also see is that these networks are localized. They're not connected together now nationally.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0027
+
+## seg-0028 / 00:31:01-00:32:11 / SPEAKER_00
+
+All right? And this, again, allows now the emperor to divide and conquer. All right? So let's just do a comparison of the Tang and the Song. As you can see, what's really important is, look at this, guys. The networks become more and more localized over time. It is the deliberate policy of the imperial bureaucracy to localize elite networks so that they can never unite and challenge the center. Okay? So these networks are becoming much more fractured and localized over time. All right? Okay. So the main benefit of this system is, of course, national unity. So again, during the Han, you have all these different provinces that form their own dynasties and which challenge the center. Okay? So China was in a constant process of war. The Tang Dynasty was a bit better. But when you get to the Song, the Yuan, the Ming, and the Qing, it's all pretty unified nationally.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0028
+
+## seg-0029 / 00:32:11-00:33:25 / SPEAKER_00
+
+Okay? By localizing elites, you ensure the center can be challenged, and as a result, you give a semblance of national unity. But the problem with this, as we know, is it comes at the cost of innovation, which will make China insular, poor, and divided in the long term. And it's not really a sustainable system. Okay? But that's a system that China has chosen to adopt for the past thousand years. All right? A divide and conquer policy against the local elites. All right. So let's look at another example of how China became insular, poor, and divided over time. So this is a map of the top 30 cities by population throughout Chinese history. Okay? As you can see, during the Western Han, during the Han Dynasty, most of these cities are centered around the Huang He, the Yellow River. Okay? That makes sense because that's where Chinese civilization began. But starting by the time of the Tang, they're starting to spread out more.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0029
+
+## seg-0030 / 00:33:26-00:34:36 / SPEAKER_00
+
+And by the time of the Song, they're actually congregating to the coast. All right? So why is this happening? It's happening because of maritime trade. Maritime trade initiated by the Abbasid Caliphate. Okay? Remember in our last class, we learned about the Islamic Golden Age and how the Abbasid Caliphate became so wealthy that it established trade networks all around the world. And these trade networks are so powerful that they could influence the national economic development of China. Okay? And we can expect that because of maritime trade, over time, all the major cities of China would all shift. They would shift to the coast. And that's why when Zhu Yuanzhang came into power, he initiated a policy of closed borders. He shut down maritime trade because he was afraid that if this continued, then all the power would be located in the coastal areas, and therefore, the North, the West, the South will become much poorer.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0030
+
+## seg-0031 / 00:34:37-00:35:53 / SPEAKER_00
+
+Okay? Therefore, they are much more incentivized to rebel. Also, the coastal areas would have so much power that they could ultimately depose him. Okay? And that's why Zhu Yuanzhang would impose a policy of maritime trade ban. And this would make China much more insular and weak and poor. Okay? So again, remember back to the Islamic Golden Age when the Islamic world united all the entire world. And China pulled China into its system. But because of that, it was causing wealth inequality in China. And that's why the Ming Dynasty will shut down this trade network. Not completely, but mostly. Okay? And that's why you see this massive Chinese immigration to Southeast Asia, because they want to maintain these trade networks. And there's a trade ban enforced in the Ming Dynasty. Okay? And the Qing Dynasty will continue this policy as well. For China, the priority is internal stability rather than wealth and prosperity.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0031
+
+## seg-0032 / 00:35:53-00:37:53 / SPEAKER_00
+
+Okay? All right? So that's a quick introduction. All right? Any questions about this so far? Are you guys clear? Any questions? You guys are clear, right? Okay. All right. So that is Professor Wang Yihua's argument. And as you can see, he backs up with a lot of data. Okay? I'm just presenting to you his argument. Okay. So now I want to talk more about the idea of the imperial bureaucracy, because this will inform and help us better understand world history. As we move along. Okay? So to better understand the rise of the imperial bureaucracy, let's first re -examine the history of Rome. Okay? So in the year 500 BCE, Rome became a republic. And Rome, the republic, will become the model for the British Empire as well as the American Republic. Okay? So it's very important that you fully understand the Rome idea of republic. Okay? So a republic is, again, a society governed by laws, tradition, and history.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0032
+
+## seg-0033 / 00:37:54-00:39:37 / SPEAKER_00
+
+Okay? And these three things are manifested in the nobility. Okay? What the Romans call patricians. Patricians. And the patricians will exercise power. For something called the Senate. Okay? And it's this very idea that Rome is ultimately a culture, a republic, governed by laws, tradition, and history. It's what will allow it to expand very quickly until it dominates the entire Mediterranean. These patricians are the ones who will establish these international networks that will make the Roman Republic coherent. Okay? And they will do so through the idea of a patron -client relationship. Okay? So the idea is you have a patriarch, and then the patriarch has clients. And this will expand across the entire Mediterranean. So in other words, the emperor is just one among equals. The emperor has his empire, but these patriarchs have their own empires within the empire. Okay? And this gives Rome, even though it's very spread out, a coherence and a unity that most empires don't have.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0033
+
+## seg-0034 / 00:39:37-00:40:44 / SPEAKER_00
+
+And again, this is important for us because the British will copy this model when they build their empire. Okay? As well as the Americans. The problem with this system, though, is that if the patriarchs don't like the emperor, the patriarchs can get together and depose the emperor, which has happened a lot of times throughout the history of the Roman Republic. So think of Julius Caesar, right? Julius Caesar wanted more power for himself, and so the patriarchs got together and killed him. But Julius Caesar was just one of many. There was also Caligula, Nero. And a lot more emperors. Okay? So because of this, new emperors, but especially people like Diocletian. Diocletian was a military general who won the Roman Civil War and so became emperor. They had to fix this problem. Okay? Because obviously, if you're emperor, your biggest problem is how do you stay alive?
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0034
+
+## seg-0035 / 00:40:46-00:42:07 / SPEAKER_00
+
+And in the Roman Republic, the chances of you staying alive aren't very high. Okay? So starting with Diocletian, they start to develop an imperial bureaucracy to counter the power of the nobility. Okay? The problem, though, is that the nobility solves three problems for you that the bureaucracy cannot solve. Okay? The first is a problem of the will to fight. The second is unity. And the third is culture. Okay? So the will to fight means, like, in a war, the nobility are those who have the most to lose. And therefore, they're the most willing to die. So think about the year 216 when Hannibal invaded the Italian peninsula. And he had destroyed all the Roman armies. At this point, Rome should have surrendered. But nobility refused to surrender because if they surrendered, then Hannibal would have instituted changes to their culture that would have destroyed the prestige, power, and wealth of nobility.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0035
+
+## seg-0036 / 00:42:07-00:43:10 / SPEAKER_00
+
+That's why the nobility refused to surrender. They fought to the very bitter end. And eventually, they were able to triumph over Carthage. Okay? So the will to fight. The nobility gives a society the will to fight. Second, of course, is unity. Okay? National unity. And the third is culture. So the people who wrote the history books. The people who wrote the history of Rome were actually the nobility. They were the settlers, the aristocrats. Okay? So when you get rid of nobility, you lose these three things. You lose the idea of a national unity, a national identity. You lose culture. You lose the will to fight. Okay? And that's why, for the longest time, the system stayed in place. Because to reject the nobility, to kill all the nobility, would be to destroy the true tradition, culture, and history of Rome. Alright? But Diocletian would try to solve this problem by implementing imperial bureaucracy.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0036
+
+## seg-0037 / 00:43:10-00:44:33 / SPEAKER_00
+
+But the imperial bureaucracy could not challenge the authority, power, and legitimacy of nobility. Okay? That's why Constantine would, in 330, move the capital to Byzantium and create the Byzantine Empire. Okay? And as we discussed previously, the Byzantine Empire, folk had an imperial bureaucracy and it was the dominant power. And so the Byzantine Empire is not a continuation of the Roman Empire. It is a rejection of the Roman Republic. Okay? So does that make sense? The history of Rome. Okay. This is important for us because the same thing will happen in China. Okay? The same thing will happen in China. After the Tang Dynasty, the Song Dynasty will look at the mistakes of the Tang Dynasty and they will start to implement the Keju system and create an imperial bureaucracy that will rule China for the next thousand years. Okay? Alright. So the Keju. There is a great misconception in China that the Keju is a meritocracy.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0037
+
+## seg-0038 / 00:44:33-00:45:34 / SPEAKER_00
+
+But it is not a meritocracy. It was never designed to be a meritocracy. I know that in school you are taught that they have the Keju in order for the emperor to select the best and brightest in China and because they are the best and brightest, they will rule China virtuously. That's what you've been taught in school. That is not correct. That's not what the Keju is designed for. The Keju is designed for the emperor to localize the elites and to divide and conquer them. Okay? So let me explain why it's not a meritocracy. First thing. First thing about the Keju that's important for us is that there is a quota system in place. Okay? So if it was just a meritocracy, then the very best and brightest would win out. Right? But think about the Gaokao. Okay? If it was just a meritocracy, then who would get into the top universities in China? I assure you that 90 % of all the top students would come from two cities.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0038
+
+## seg-0039 / 00:45:34-00:46:32 / SPEAKER_00
+
+Right? Beijing and Shanghai. Right? But that's not how the system works. There is a quota system in place. There's geographic distribution. Only certain number of students from Beijing and Shanghai can get into Beijing and Tsinghua. The rest come from the provinces. Okay? And the Keju is the same system. So let's look at it very quickly. You're at the center. Everyone's trying to get into the center. Let's say you have province A, B, C, and D. And they're all the same. You have 10 wealthy families. Okay? And you have 10,000 poor families. Okay? Peasants. How this system works is A will send two. D will send two. B will send two. C will send two. Okay? And when you do it this way, this creates competition among the local elites. Right? To win these positions. And therefore, they will fight amongst themselves.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0039
+
+## seg-0040 / 00:46:32-00:47:39 / SPEAKER_00
+
+Does that make sense? If you don't do it this way, if it's just the best and brightest, then what will happen is, like, A, B, C, D will compete amongst themselves. And eventually, one of the provinces, like maybe B, will develop the innovation in order for their children to always finish first or place the top in the Keju. Okay? Does that make sense, guys? All right? So it's not meritocracy. It's a quota system. That's the first thing. Second thing you need to understand is that it is unfair. Why is it unfair? Well. Because in order to do well on the Keju. Remember, the Keju is testing your knowledge of something called Wen Yan. Okay? Or classical Chinese. Classical literary Chinese. Okay? This is a very hard skill to learn. It will take you decades. You will need prior tutoring. Your family needs to have a lot of money. You need to spend decades on this project, which means that you have a lot of leisure time.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0040
+
+## seg-0041 / 00:47:39-00:48:38 / SPEAKER_00
+
+You don't have to work. Okay? So in other words, only the elite families of China can compete in the system. And that's the point. Okay? The point is to concentrate the ambition and energy of the elite families into the Keju. Otherwise, they might come up with ideas like rebellion. Okay? They also might come up with new inventions and amazing literature. But they'll also come up with ideas. They'll also probably think of ways to rebel. Okay? That's why you want to concentrate their energies on the Keju. All right? Does that make sense? The third thing that's really important for us to remember is that this system is discretionary. What does that mean? It means that just because you finished first on the Keju does not mean you've become a government official. Okay? Do you guys understand? Success on the Keju does not translate into success in politics.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0041
+
+## seg-0042 / 00:48:38-00:49:53 / SPEAKER_00
+
+It is discretionary. Meaning the emperor. The emperor gets to decide who becomes an official and who gets promoted. Only the emperor. All right? And often what will happen is the emperor will start to promote maybe someone from the poor families. Okay? So not poor, but lower nobility. And the reason why you want to do that is to create a precarious situation in the provinces where no family feels secure enough to feel as though they're the nobility. Okay? You want to create conflict and precariousness in the provinces, divide and conquer. And therefore you can exert greater control over the provinces. But by doing that, you limit economic growth. You limit cultural innovation. Okay? Does that make sense, guys? All right. So what this means is the bureaucracy is able to control China. Because of its monopoly. It has a monopoly over three aspects. All right? The first is status. All right? So if
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0042
+
+## seg-0043 / 00:49:53-00:51:08 / SPEAKER_00
+
+you want to be admired, if you want to be respected in China, you do well in the Keju and you become an official. That's a dream of every family in China. Right? It's still true today. Right? Where the dream of every Chinese family is for you guys to get into an Ivy League school or take the Gaokao and go to Beijing or Tsinghua. Okay? The idea of status is still associated with the Keju. Even though we know that success on the Keju and success on the Gaokao does not necessarily translate into success in school or in life. Okay? That's the first thing. The second is the monopoly over literacy. Okay? The monopoly over literacy. What I mean by that is this. In most cultures, your goal is to make literacy more widespread. Because when you do that, you allow for faster economic development. Okay? So throughout history, all cultures have tried to figure out how to make literacy more widespread, more prevalent.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0043
+
+## seg-0044 / 00:51:08-00:52:24 / SPEAKER_00
+
+So let's look at an example of Egypt. Okay? Egypt. Egypt has been around for as long as China. And over centuries, they would make their language a lot easier to understand. So in the beginning, they had hieroglyphics. Okay? So maybe the sun. This represents sun. This is moon. Okay? So that's the first stage. They have pictograms to represent ideas. Okay? Then what they would do is make the symbols shorter. Okay? So that it's easier to remember. And then what they would do is they would make these symbols phonological. Meaning they don't represent ideas. They represent sounds. Okay? So this now becomes the English word monsoon. Right? Does that make sense? And then what they would do is they would take the word and make it into just one consonant. Okay? So this would become S. This would become M. And therefore, you now have the English word sum.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0044
+
+## seg-0045 / 00:52:25-00:53:43 / SPEAKER_00
+
+Okay? And that's where we have the alphabet. Because of this evolution of language in Egypt. It was the Egyptians who developed this system. And then the Greeks stole it through the Phoenicians. Okay? All right? So most cultures follow this pattern. Because now it's easier for people to become literate. Which just drives economic growth. Okay? China is the only culture in human history that has made literacy more difficult over time. All right? China took the pictograms and made them even more complex. And added these very complex grammatical rules to the language. And created something called literary Chinese. Okay? Literary Chinese. But that's a nice... That's a euphemism. That's a nice way of saying it. It really... What it is is bureaucratat. Bureaucraties. Okay? Bureaucraties is a language that only bureaucrats can understand. So think of contracts. Right? When you look at legal contracts, you can't read it. Why? Because the language, the grammar, is designed so that only as a specialized lawyer could you understand the contract.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0045
+
+## seg-0046 / 00:53:43-00:54:58 / SPEAKER_00
+
+All right? And this is what we call rent -seeking behavior. You create something that only you can use. And people have to pay rent in order to access your knowledge. All right? So literacy, the problem with literacy, will keep China back from developing. And the third is culture. Okay? Culture. And when I mean culture, I really mean Confucianism. So Confucianism is really a bureaucratic philosophy system designed to maintain the status quo. To control how people think about the world. All right? So remember, in the Confucian religion, what really... What matters first and foremost is balance, harmony. There's also a concept called ancestor worship. So you can't leave your village. Because if you leave your village, you can no longer worship your ancestors. Right? You can't clean their graves. And so people are just stuck in place. And that limits trade and innovation in China.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0046
+
+## seg-0047 / 00:54:58-00:56:27 / SPEAKER_00
+
+Okay? So the Kuju... Sorry. The bureaucracy, the imperial bureaucracy was able to maintain its monopoly over status, literacy, and culture through three mechanisms. The Kuju, Wenyan, literary Chinese, and Confucianism. Okay? And that stopped the development of... That stopped the cultural economic development of China. Okay. So let's better understand this idea. Okay. In a society, there are different ways to seek success and status. All right? So you have the bureaucracy, of course. And that's the way people do it in China. But you also have the military. You also have nobility. Right? Chinese nobility. You also have church. Religion. Right? By becoming a priest. By becoming a spiritual leader. You also have merchants. Right? Commerce. You can also do it through artistic endeavors. Okay? So these are the main ways people achieve status in society. And in most societies, you have these different systems in place. What is unique about China is the dominance of the bureaucracy.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0047
+
+## seg-0048 / 00:56:28-00:57:40 / SPEAKER_00
+
+Okay? So the nobility was wiped out. And through the Kuju... The Kuju ensures that no nobility can arise again in China. Church religion was outlawed for most of Chinese history. Okay? The merchant and the artistic people are low status in China. So go back to the Confucian system. The scholar officials are at the top. Then you have the farmers. Then you have the merchants. And you have the artists. Right? So the Confucian religion puts the merchants... And the artists at the very bottom. And this is intentional because the artists... Okay. They can promote new ideas. But the merchants are even more problematic because they trade. Okay? And they can accumulate wealth. And that wealth can challenge the authority of the empire. Alright? So the merchants are a problem. The military, as we know, was heavily suppressed... Throughout Chinese history. Okay? So the Song Dynasty, there was these massive conflicts between the military and the bureaucracy.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0048
+
+## seg-0049 / 00:57:41-00:59:04 / SPEAKER_00
+
+The military wanted to go fight and defend Song territory. The bureaucracy wanted to just bribe everyone. Okay? Alright? Okay. So... And because you have too much power within the bureaucracy, this will stunt development in China. Alright. Let's look at one more example. Okay? So we know that by the time of the Song, China had four major inventions. Okay? These four major inventions, of course, are paper, printmaking, compass, and gunpowder. Alright? And these four inventions, guys, will revolutionize the world. Alright? So if you look at paper, it will give rise to bag notes. Okay? So the Song had bag notes. And this will give rise to... Capitalism in the West. Printmaking is important because remember, in the 15th century, Gutenberg created something called the printing press in Europe. And because of the printing press, you're now able to manufacture books at scale. And when you do that, what happens is that people become more literate. So
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0049
+
+## seg-0050 / 00:59:04-01:00:08 / SPEAKER_00
+
+the very idea of the printing press made available all these books, all this knowledge that wasn't available before. And now people could just learn how to read and write. Okay? So this will give rise to literacy. And when you give rise to literacy, you will give rise to things like the Renaissance, the Protestant Reformation, the Second Revolution, the Enlightenment, the French Revolution. Okay? So this marked a revolution in European affairs. The compass, right, will allow for the age of exploration. So these Europeans are able to discover new lands and conquer and conquer. And colonize them, right? So North America, South America will eventually all become colonized by the Europeans using the compass. Gun power is important because it is the... It is a revolution in warfare. From gun power, you will have things like the cannon. And also, eventually, the musket. The musket is just an individual gun. And this marks a revolution, not only in warfare, but also in human affairs.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0050
+
+## seg-0051 / 01:00:08-01:01:22 / SPEAKER_00
+
+Because when you have the musket, now individual soldiers do matter. Okay? Before, it was the knight who was the main weapon in the warfare. But now when you have a musket, you can now equal the playing field. Okay? It's more important to have more soldiers than to have knights. And this will allow for things like the American Revolution. Right? When you have these farmers with muskets, they were able to overthrow the British Empire. It will give rise to the French Revolution. When you have citizens who are not professional soldiers, they will take these muskets and defend their country against a European invasion. Right? So all these are major revolutions that will give rise to modernity. Okay? And again, China, by the Song Dynasty, 1200 CE, had all four invasions. But because of the culture in place, because of the bureaucratic culture in place, neither, not any of these inventions had an impact on Chinese society.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0051
+
+## seg-0052 / 01:01:22-01:02:46 / SPEAKER_00
+
+China did nothing whatsoever with all four inventions. All right? So the key lesson here, guys, and this is really important, technology does not matter. You can steal the technology. What matters is the culture. All right? Another example, of course, is the Yuan Dynasty. During the Yuan Dynasty, China was importing a lot of foreign experts, a lot of foreign bureaucrats, Christians, Muslims, Jews. They were importing a lot of foreign technology. And then when the Ming Empire came into place, they got rid of all this stuff. They got rid of the foreigners. They got rid of the technology. China became much more insular and backward. Okay? Okay. So. So that explains why after the Song Dynasty, China did not innovate anymore because the empire did not want to innovate. Innovation is a threat to the status quo. Okay? And what's important is to maintain the status quo, even though by doing so, ultimately, you make China poor, weak, and divided.
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052
+
+## seg-0053 / 01:02:47-01:04:10 / SPEAKER_00
+
+All right. Good. Any questions? Does it make sense to you guys? Does this conform to your understanding of Chinese history? Yeah. Okay. So the question is, is Confucianism a religion or a culture? So, no one thinks Confucianism is a religion. At most, people will say that Confucianism is a civic religion, okay, or philosophy. All right? So, I would say that Confucianism, ultimately, what it is, is a religion. And one way to explain Confucianism is bureaucratism. I can't even spell bureaucrat anymore, okay? Bureaucratism. Okay? What I mean by that is that it is something that's designed to make everyone believe that a bureaucratic society is the best society. It is one that is the most sophisticated. And it's designed in order to maintain a status quo where bureaucrats are at the top, okay? That's what Confucianism really is. so the example is that if you read
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0053
+
+## seg-0054 / 01:04:10-01:05:31 / SPEAKER_00
+
+Chinese history the most virtuous people are always bureaucrats scholar officials right and this propaganda is so effective that eventually Europeans will stop what will start to mimic this propaganda so Voltaire the French Enlightenment thinker says that Chinese have the best system because they allow only the educated to rule not soldiers not priests but scholar officials mandarins okay so this is so the idea of Confucianism is that it's bureaucratism it's designed to legitimize and give authority to the bureaucratic elite right so so so thank you does it make sense to you okay any more questions okay so I'm gonna in the class of a story okay and the story has to do with you the first emperor of the Ming dynasty Zhu Yuanzhang so Zhu Yuanzhang he is now emperor and he reinstitutes the Kezhu okay the the Mongols got rid of the Kezhu because they had a nobility but Zhu Yuanzhang he restores the Kezhu
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0054
+
+## seg-0055 / 01:05:31-01:06:32 / SPEAKER_00
+
+and everyone's excited okay so everyone comes and takes the examination when the results come out what happens is that the the test takers from the south do a lot better from the north so these northern test takers feel there must be corruption in place so they set the default petition to the emperor the emperor looks at the petition and he agrees there must be corruption how is that no northerner was able to pass the Kezhu so he calls in his chief minister and he says this is a huge scandal I want you to resolve this issue okay figure out who responsible for this corruption and kill them all right and so let's go so the chief minister he really wants to impress the emperor so he spent months painstakingly rigorously examining the issue investigating the issue he has commissioned he has hundreds of staff he personally looks at every single Kezhu and then he writes
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0055
+
+## seg-0056 / 01:06:32-01:07:45 / SPEAKER_00
+
+his report he presents to the emperor okay and he says to the emperor your majesty I personally have done this investigation and and we have written like thousands of pages of report directly to you I can guarantee you the Kezhu when implemented was a fair open and transparent process the fact of the matter is that people in the south there are more civilized they're more culture they're more educated and therefore they just did better on the better than the northerners and I'm really sorry this happened but I guarantee you the Kezhu is a fair open and transparent process you have nothing to worry about it's all been taken care of so what do you think the emperor did what do you think the emperor did have you guys heard of the story he killed them all he killed the high official he killed the high officials commissioners he killed the test makers he killed those
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0056
+
+## seg-0057 / 01:07:45-01:08:08 / SPEAKER_00
+
+who got the very best scores on the Kezhu okay the reason why is the emperor does not want a fair open and transparent system he wants a system in which the localities will not rebel against the center okay and that's what the Kezhu is all right so that is it we will do Genghis Khan next class
+
+Ref: video:predictive-history-a2lmjerhckm@transcript:v1#seg-0057
