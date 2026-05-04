@@ -1,0 +1,131 @@
+{
+  "packet_id": "predictive-history-qms7trnkwqq-semantics-pkt-0007",
+  "source_id": "video:predictive-history-qms7trnkwqq",
+  "source_date": "2025-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0049",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns sharply against Anglo-American culture, calling it narrow and mediocre beside Russian, German, Homeric, Virgilian, and Dantean achievements, then concludes Britain through island fortress, Anglicanism, empiricism, utilitarianism, and Shakespeare.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0053",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how Shakespeare's plays survive if he never published them. Jiang answers with copyright absence, oral/actor memory, posthumous friends, and the First Folio.",
+      "speaker_attribution": "Question likely from student; answer from Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0053",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0054"
+      ],
+      "note": "Diarization around the student question is noisy; Jiang restates the question before answering.",
+      "suggested_speaker": "student question restated by Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang judges Anglo-American culture, despite global dominance, as practical, narrow-minded, and less artistically or philosophically impressive than Russian, German, Homeric, Virgilian, and Dantean traditions.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0049",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Normative cultural judgment stated on 2025-05-14",
+      "topic_tags": ["anglo-american-culture", "cultural-judgment", "paradise-lost"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare is great but, in Jiang's current view, less impressive than Homer and Dante because Shakespeare offers beautiful language more than deep metaphysical truth.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0049",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Current assessment in a lecture published 2025-05-14",
+      "topic_tags": ["shakespeare", "homer", "dante", "pretty-nothingness"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare's plays survive because friends and actors assembled posthumous texts from notes and memory in the First Folio after a performance-centered culture did not incentivize publication.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0054",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Historical explanation stated on 2025-05-14",
+      "topic_tags": ["first-folio", "actor-memory", "publication"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0050"
+      ],
+      "moment": "Shakespeare is beautiful, but Jiang wonders whether it is a pretty nothingness.",
+      "source_phrase": "is it a pretty nothingness?",
+      "why_it_matters": "It keeps the episode from becoming simple Shakespeare praise; the lecture admires him while doubting his depth.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0056"
+      ],
+      "moment": "The monument of Shakespeare is partly built from actors' memories and incomplete notes.",
+      "source_phrase": "they also got the actors to basically write down what they remember",
+      "why_it_matters": "It links oral memory back to the survival of English's foundational texts.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "First Folio",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The posthumous collection assembled from Shakespeare's surviving notes and actors' memories.",
+      "confidence": "high"
+    },
+    {
+      "term": "pretty nothingness",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's provocative doubt that Shakespeare's beauty may lack the depth of Homer or Dante.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0050"
+      ],
+      "note": "Jiang says he may teach Shakespeare a few years later to test whether his current assessment is wrong.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0052"
+      ],
+      "note": "Transcript renders 'Anglin' and 'euthanasian'; context indicates Anglican and utilitarian."
+    }
+  ]
+}

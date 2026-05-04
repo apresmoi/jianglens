@@ -1,0 +1,132 @@
+{
+  "packet_id": "predictive-history-qms7trnkwqq-semantics-pkt-0009",
+  "source_id": "video:predictive-history-qms7trnkwqq",
+  "source_date": "2025-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0065",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0069"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues answering Othello and Shakespeare's education: Othello is a Greek-style human tragedy of pride, jealousy, and fate, and Shakespeare's lack of elite schooling gave him empathy and psychological freedom.",
+      "speaker_attribution": "Jiang answering student questions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0070",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how Shakespeare develops themes. Jiang answers that Shakespeare takes known legends and fuses them with observations from theatre life, turning stock figures into psychologically observed humans.",
+      "speaker_attribution": "Student question partly captured; answer by Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0070"
+      ],
+      "note": "Segment appears to contain the tail of a student question or cross-talk; Jiang restates the question in seg-0071.",
+      "suggested_speaker": "student or transitional audio",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Othello is best understood as a Greek tragedy about hubris, arrogance, fate, jealousy, and human vulnerability rather than as primarily a racial issue.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0065",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Interpretive position stated on 2025-05-14",
+      "topic_tags": ["othello", "greek-tragedy", "human-psychology"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare's lack of elite education helped him observe people without elite prejudice and see common people as equal reflections of his own psychology.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0066",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Interpretive model stated on 2025-05-14",
+      "topic_tags": ["education", "empathy", "psychology"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Elite universities can train rigid thinking that inhibits empathy, curiosity, and psychological understanding; passionate self-taught historians may understand history better than credentialed academics.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0067",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Personal diagnosis stated on 2025-05-14",
+      "topic_tags": ["elite-education", "self-taught-knowledge", "empathy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare develops themes by combining known legends with direct observation of actors, audiences, customers, and human emotional diversity.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0071",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Literary method model stated on 2025-05-14",
+      "topic_tags": ["shakespeare", "theme-development", "observation"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0068"
+      ],
+      "moment": "For Shakespeare, truth is not in books but in people.",
+      "source_phrase": "not in books but in people",
+      "why_it_matters": "It condenses Jiang's defense of the unschooled observer as psychological genius.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0071"
+      ],
+      "moment": "Shakespeare turns legends into people he has observed.",
+      "source_phrase": "he turns them into people he's observed",
+      "why_it_matters": "It gives a clean account of Shakespeare's originality: humanization through observation.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Shakespeare as anthropologist",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "Jiang's description of Shakespeare as first and foremost an observer of how people think and behave.",
+      "confidence": "high"
+    },
+    {
+      "term": "human issue",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Jiang's preferred frame for Othello: jealousy toward achievement rather than race as the primary explanatory lens.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0065"
+      ],
+      "note": "Transcript has ASR noise around 'insurance'; context indicates Othello's pride or honor being used against him."
+    }
+  ]
+}

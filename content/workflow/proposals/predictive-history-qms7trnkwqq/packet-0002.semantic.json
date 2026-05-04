@@ -1,0 +1,125 @@
+{
+  "packet_id": "predictive-history-qms7trnkwqq-semantics-pkt-0002",
+  "source_id": "video:predictive-history-qms7trnkwqq",
+  "source_date": "2025-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0009",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang asks how Shakespeare turned English into the language of empire, then builds a theory of art as neurological rewiring and diction as a mechanism that makes a civilization imagine, feel, and think differently.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0009",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang lecture; rhetorical questions are lecture prompts rather than audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "English is not just grammar and vocabulary; learning English means absorbing Anglo-American culture, philosophy, and identity through soft power.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0009",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Language-civilization model stated on 2025-05-14",
+      "topic_tags": ["english", "soft-power", "anglo-american-culture"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Great art changes society by entering collective consciousness and rewiring how people see and behave.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0010",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Aesthetic-civilizational model stated on 2025-05-14",
+      "topic_tags": ["great-art", "collective-consciousness", "neurological-rewiring"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare established English cultural identity and historical memory by innovating in imagery, grammar, vocabulary, and new uses of words.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0011",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Historical-literary claim stated on 2025-05-14",
+      "topic_tags": ["shakespeare", "english-identity", "diction"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shakespeare's diction makes ordinary words into tools of perception: changing how a word is used can change how the mind imagines reality.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0013",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Interpretive model stated on 2025-05-14",
+      "topic_tags": ["diction", "metaphor", "language-as-surgery"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0010",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0011"
+      ],
+      "moment": "Great art is described as something that seeps into collective consciousness and rewires civilization's brain.",
+      "source_phrase": "rewires the brain to make the civilization see the world in a new way",
+      "why_it_matters": "This is the lecture's core mechanism for how poetry becomes power.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0016"
+      ],
+      "moment": "Language becomes a portal into the neurological framework of the mind, where Shakespeare performs surgery on synapses.",
+      "source_phrase": "perform a sort of surgery on these synapses",
+      "why_it_matters": "It gives the episode a vivid image for linguistic empire: control the words, alter the brain.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "diction",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0012",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "New uses of words that expand what a civilization can imagine and say.",
+      "confidence": "high"
+    },
+    {
+      "term": "language as neurological surgery",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's model that manipulating language can alter the mind's pathways and habits of perception.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript says 'bag in my pocket' while discussing being daggered; likely ASR noise for dagger in pocket, but the semantic point is the shift from noun to metaphorical action/adjective."
+    }
+  ]
+}

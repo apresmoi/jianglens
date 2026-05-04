@@ -1,0 +1,138 @@
+{
+  "packet_id": "predictive-history-qms7trnkwqq-semantics-pkt-0001",
+  "source_id": "video:predictive-history-qms7trnkwqq",
+  "source_date": "2025-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0001",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by mapping four modern Christian-Roman civilizations: Russian, German, British, and American. Geography, inherited Rome, and religious form produce different world-pictures and political drives.",
+      "speaker_attribution": "Jiang lecture voice",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0001",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous Jiang monologue; the end contains a lecturer prompt for questions, not a captured audience question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang models modernity as a struggle among four civilizations, each claiming Christian and Roman inheritance but interpreting both through different geography and culture.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0001",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Framework stated in a lecture published 2025-05-14",
+      "topic_tags": ["modern-civilizations", "christianity", "rome"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Russia is defined by vast, cold geography and a dark imagination tied to Eastern Orthodoxy, Mother Russia, border defense, and geopolitical genius.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0002",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Historical-cultural diagnosis stated on 2025-05-14",
+      "topic_tags": ["russia", "eastern-orthodoxy", "geography"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Germany is framed through will to power and living space: vulnerability inside Europe produces a drive to colonize surrounding territory and make it German.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0005",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical-cultural diagnosis stated on 2025-05-14",
+      "topic_tags": ["germany", "will-to-power", "living-space"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Britain is introduced as practical, empiricist, utilitarian, and imperial; America is introduced as a continental fortress whose Manifest Destiny imagines divine control of the Western Hemisphere.",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0006",
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Comparative civilizational model stated on 2025-05-14",
+      "topic_tags": ["britain", "america", "manifest-destiny"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0008"
+      ],
+      "moment": "The lecture makes Shakespeare the founder of the British Empire, not merely its national poet.",
+      "source_phrase": "the British Empire, which is founded by William Shakespeare",
+      "why_it_matters": "It turns literary language into imperial infrastructure.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0008"
+      ],
+      "moment": "Civilizational conflict becomes the engine of science, philosophy, creativity, and the cultural flowering from 1800 to 2000.",
+      "source_phrase": "conflict between these four great civilizations that will drive human creativity",
+      "why_it_matters": "It preserves Jiang's larger course map: competition generates modern culture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "living space",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's gloss for the German concept that national survival requires outward colonization of surrounding territory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Manifest Destiny",
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The American belief that God wills American control of the Western Hemisphere.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0007"
+      ],
+      "note": "The 2025-05-14 lecture explicitly links Trump's Canada and Greenland rhetoric to older Manifest Destiny logic.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0003"
+      ],
+      "note": "Transcript renders 'Daesh' for the American elite religion; context indicates deism."
+    },
+    {
+      "refs": [
+        "video:predictive-history-qms7trnkwqq@transcript:v1#seg-0003"
+      ],
+      "note": "Transcript repeatedly says 'Anglianism'; context indicates Anglicanism."
+    }
+  ]
+}
