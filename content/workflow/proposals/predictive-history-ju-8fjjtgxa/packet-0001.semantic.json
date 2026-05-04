@@ -1,0 +1,179 @@
+{
+  "packet_id": "predictive-history-ju-8fjjtgxa-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ju-8fjjtgxa",
+  "source_date": "2025-09-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces meritocracy as talent, ability, and hard work, then says the school-system ideal hides a destructive effect on American society and asks why American admissions became uniquely complicated.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0003",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He roots American higher education in Protestant dissent: pilgrims seek a New Jerusalem, Bible literacy becomes a divine imperative, and Harvard begins as a minister-training school.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0005",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0006",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0007",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He tracks the Ivy League from religious colleges into rich social clubs, then explains state schools and research universities as the stronger practical and scientific system that threatened Harvard until the SAT scholarship pipeline redirected talent back to Harvard.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Meritocracy appears fair because it rewards talent, ability, and hard work, but Jiang frames it as one of the forces destroying American society.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "meritocracy",
+        "american-society"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "American admissions is uniquely complicated because Harvard turned selection away from exams alone and toward a power-preserving system of essays, recommendations, activities, and moral self-presentation.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "admissions",
+        "harvard",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Ivy League begins in Jiang’s account as Protestant literacy infrastructure, then mutates into rich social clubs once America becomes wealthier and less religious.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0003",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0004",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "ivy-league",
+        "religion",
+        "elite-cohesion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "State schools and research universities were the healthier American system: trades and science moved poor and smart people into useful work, while the Ivy League risked becoming irrelevant.",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0006",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0007",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture claim on 2025-09-12.",
+      "topic_tags": [
+        "state-schools",
+        "research-universities",
+        "ivy-league"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture opens by naming the polite school ideal and immediately turning it into a social-destruction thesis.",
+      "source_phrase": "destroying American society",
+      "why_it_matters": "This is the episode’s governing reversal: meritocracy is not just unfair, it is corrosive.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0004"
+      ],
+      "moment": "Harvard begins as a Bible-reading machine for a religious colony, not as a neutral excellence factory.",
+      "source_phrase": "education literacy learning it is the divine imperative",
+      "why_it_matters": "It strips modern prestige back to a theological origin story.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0007",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0008"
+      ],
+      "moment": "Harvard faces extinction by smarter research universities, so the SAT becomes a way to import brilliance into the old power club.",
+      "source_phrase": "the origin of the SAT",
+      "why_it_matters": "It recasts standardized testing as an institutional survival technology.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "meritocracy",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "The belief that people should succeed according to talent, ability, and hard work.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ivy League",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0004",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "In this lecture, originally Protestant religious colleges that later became social clubs for the American rich.",
+      "confidence": "high"
+    },
+    {
+      "term": "SAT",
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Presented as a Harvard scholarship tool for identifying bright students and preserving Harvard’s institutional supremacy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0002",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0003",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0004",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0005",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0006",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0007",
+        "video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0008"
+      ],
+      "note": "Dated 2025-09-12 Secret History lecture continues the prior series by moving from social control and dissociation into meritocracy as an American institutional technology.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
