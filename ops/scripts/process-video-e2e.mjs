@@ -135,18 +135,11 @@ async function main() {
   await runNode("ops/scripts/compile-content.mjs", []);
   await runNode("ops/scripts/validate-content.mjs", []);
 
-  const corpusImpactPath = path.join("content/workflow/proposals", manifest.source_slug, "corpus-impact.json");
-  const hasCorpusImpact = await exists(path.join(repoRoot, corpusImpactPath));
-  if (hasCorpusImpact) {
-    await runNode("ops/scripts/validate-corpus-impact.mjs", [corpusImpactPath]);
-  }
-
   console.log(JSON.stringify({
-    status: hasCorpusImpact ? "published" : "published-pending-corpus-impact",
+    status: "published",
     source_id: imported.source_id,
     semantic_bundle: `content/lens/evidence/videos/${manifest.source_slug}.semantic.json`,
     episode_data: `website/src/data/lens/episodes/${manifest.source_slug}.json`,
-    corpus_impact: corpusImpactPath,
     website_path: `/episodes/${manifest.source_slug}/`,
     counts: {
       claims: aggregate.claims,
@@ -154,9 +147,7 @@ async function main() {
       models: aggregate.models,
       glossary_terms: aggregate.glossary_terms,
     },
-    next: hasCorpusImpact
-      ? "Corpus impact file exists and validated."
-      : "Run an agent with .codex/skills/jiang-corpus-impact-pass/SKILL.md, then rerun this command.",
+    next: "Episode is published. Corpus impact and lens/canon work are separate downstream jobs.",
   }, null, 2));
 }
 
