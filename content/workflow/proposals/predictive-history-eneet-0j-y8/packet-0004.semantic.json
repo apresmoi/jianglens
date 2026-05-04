@@ -1,0 +1,180 @@
+{
+  "packet_id": "predictive-history-eneet-0j-y8-semantics-pkt-0004",
+  "source_id": "video:predictive-history-eneet-0j-y8",
+  "source_date": "2025-04-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0025",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0026",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0027",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0028"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers a student question about military identity by distinguishing early revolutionary religious fever from Napoleon's post-1804 military cabal and empire exhaustion.",
+      "speaker_attribution": "SPEAKER_01 appears to ask the question in seg-0027; Jiang answers in seg-0028.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0029",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0030",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0031",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He returns to Robespierre's meritocracy, frames Napoleon as a Corsican nobody, and recasts the French Revolution as a religious crusade whose new god was reason and whose myths Napoleon exploited.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0027",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0028"
+      ],
+      "note": "seg-0027 is the main captured student question in this packet.",
+      "suggested_speaker": "student question",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Military service offered serfs social mobility and respect unavailable in agricultural servitude.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0025",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Explanation of serfdom and military eligibility.",
+      "topic_tags": [
+        "serfdom",
+        "military-service",
+        "social-mobility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "After Napoleon became emperor in 1804, French soldiers were no longer fighting for the nation but for the emperor and a military cabal that benefited from war.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0027",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Interpretation of post-1804 France.",
+      "topic_tags": [
+        "napoleon",
+        "empire",
+        "military-cabal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Robespierre created meritocracy partly because noble officers were a threat who might restore monarchy.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0029",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "French Revolution military logic.",
+      "topic_tags": [
+        "robespierre",
+        "meritocracy",
+        "army"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "The French Revolution tried to remove religion but functioned as a religious crusade whose new god was reason.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0031",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture model of the French Revolution.",
+      "topic_tags": [
+        "french-revolution",
+        "reason",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mythologies are prophecies and plans of action embedded in the subconscious; Napoleon saw that controlling them could make him emperor.",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "General model stated in this lecture.",
+      "topic_tags": [
+        "mythology",
+        "prophecy",
+        "napoleon"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0028"
+      ],
+      "moment": "The revolutionary army becomes a military nation: generals love war, profit from war, and everyone supports French military adventurism.",
+      "source_phrase": "France becomes a military nation",
+      "why_it_matters": "It marks the betrayal of revolutionary sacrifice into imperial machinery.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0031",
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"
+      ],
+      "moment": "A revolution against religion becomes the ultimate religious crusade, with reason installed as the new god.",
+      "source_phrase": "Their new god was reason.",
+      "why_it_matters": "This gives the lecture its deeper account of why Napoleon needed myth, not just strategy.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"
+      ],
+      "moment": "Mythology is not decoration; it is prophecy, plan of action, and political operating system.",
+      "source_phrase": "mythologies are prophecies, and prophecies are plans of action",
+      "why_it_matters": "This model carries the second half of the lecture into Caesar, Hitler, and Trump.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "mythologies as prophecies",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Shared subconscious stories that forecast a role and become plans of action for people who act them out.",
+      "confidence": "high"
+    },
+    {
+      "term": "military cabal",
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Jiang's description of post-1804 France as Napoleon heading generals who love and benefit from war.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-eneet-0j-y8@transcript:v1#seg-0028"
+      ],
+      "note": "1804 is the lecture's transition point from revolutionary nation-in-arms to Napoleon's imperial military cabal.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
