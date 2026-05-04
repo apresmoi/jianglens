@@ -1,0 +1,36 @@
+id: "video:predictive-history-deledxh0ceg@transcript:v1"
+source_id: "video:predictive-history-deledxh0ceg"
+version: 1
+language: "en"
+language_probability: 0.984
+duration_seconds: 3796.405
+segments: 68
+word_count: 9989
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+  - "SPEAKER_02"
+  - "UNKNOWN"
+chronology:
+  source_date: "2025-11-14"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/@PredictiveHistory/dELEdxh0ceg"
+  youtube_metadata: "content/sources/raw/youtube/@PredictiveHistory/dELEdxh0ceg/metadata.youtube.json"
+  youtube_metadata_source: "yt-dlp"
+  transcription_json_sha256: "0b3a2fcbcaffbc48dca36aab02e0e4058ff9e183010e118c0d81149c9ab84238"
+  grouped_json_sha256: "a853b98ab6f2fe3cf5566ed17d8a69fdf167287cd1ed5b044bf7ee6f90b0b75d"
+  dump_json_sha256: "a1311b193e6a6237501310dcd30c0f981f2d343d10626d025fbd580af6515024"
