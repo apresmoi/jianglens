@@ -1,0 +1,199 @@
+{
+  "packet_id": "predictive-history-hioyqbbbllk-semantics-pkt-0002",
+  "source_id": "video:predictive-history-hioyqbbbllk",
+  "source_date": "2025-02-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0009",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0010",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0011",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0012",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains a Greek-Roman political cycle in which people, nobility, and king continually realign: oligarchy creates debt slavery, a king clears debts, monarchy decays, democracy forms, and wealthy speakers recreate oligarchy.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0013",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He maps the cycle onto contemporary America by reading Trump as a would-be king who appeals to the people against corrupt elites.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0015",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to the line model: history as progress toward truth, illustrated through the Hebrew Bible, Virgil, Pax Romana, and Fukuyama.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "In the cyclical political model, people, nobility, and king each hold a different power, and regime form changes as two factions ally against the third.",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0009",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0010",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical model presented in this lecture.",
+      "topic_tags": [
+        "cycle",
+        "regime-cycle",
+        "people",
+        "nobility",
+        "king"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Debt is the mechanism by which oligarchy corrupts itself: nobles turn renters into debtors and then slaves, creating the crisis a king can exploit.",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0010",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Model of oligarchic decay in this lecture.",
+      "topic_tags": [
+        "debt",
+        "oligarchy",
+        "slavery",
+        "jubilee"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Trump as a king figure in the cycle because he tells the people corrupt elites are stealing from them and asks for power to destroy those elites.",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0013",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Contemporary application stated on 2025-02-18.",
+      "topic_tags": [
+        "trump",
+        "king",
+        "elite-conflict",
+        "united-states"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The line model treats history as progress toward truth or a good end rather than an endless cycle.",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0015",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Definition of a historical model in this lecture.",
+      "topic_tags": [
+        "line-model",
+        "progress",
+        "truth",
+        "end-of-history"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang groups the Bible, Virgil, Pax Romana, and Fukuyama as variants of line-history because each imagines movement toward an end point where conflict is resolved.",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0015",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Comparative model stated in this lecture.",
+      "topic_tags": [
+        "bible",
+        "virgil",
+        "pax-romana",
+        "fukuyama"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0011",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0012"
+      ],
+      "moment": "The first king is loved because he clears the debts.",
+      "source_phrase": "if you make me king I will clear your debts",
+      "why_it_matters": "It gives the political cycle its material engine, not just a constitutional vocabulary.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0013"
+      ],
+      "moment": "Trump is not merely president in this cycle; Trump is a king.",
+      "source_phrase": "Trump is a king",
+      "why_it_matters": "It is the provocative present-tense application of the ancient cycle.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0016"
+      ],
+      "moment": "Pax Romana is presented as an ancient end of history.",
+      "source_phrase": "this is the end of history",
+      "why_it_matters": "It links Roman imperial ideology to modern end-of-history thinking.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "jubilee",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Debt cancellation that legitimizes a new king by resolving the conflict between people and nobility.",
+      "confidence": "high"
+    },
+    {
+      "term": "line model of history",
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A model in which history moves toward truth, peace, or a final good end rather than repeating in cycles.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0013",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014"
+      ],
+      "note": "The Trump-as-king diagnosis is dated to the first months of the 2025 Trump presidency and should remain tied to this date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0012",
+        "video:predictive-history-hioyqbbbllk@transcript:v1#seg-0013"
+      ],
+      "note": "ASR renders oligarchy inconsistently as Arlarchy; context indicates Jiang means oligarchy."
+    }
+  ]
+}
