@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-jz8p-fzhwnq-semantics-pkt-0002",
+  "source_id": "video:predictive-history-jz8p-fzhwnq",
+  "source_date": "2025-05-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0009",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang complicates the Atlantic frame: slave trading involved African sellers as well as Europeans, while the biggest profits were not New World metals but Asian spices, silk, and porcelain.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0011",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0012",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He sets up the Low Countries as poor, autonomous, egalitarian textile traders whose conflict with Spanish Catholic control becomes the Eighty Years' War and pushes them toward maritime strategy.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0015",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He presents the VOC as the solution that changes history: a quasi-sovereign corporation whose shares unify a divided population, raise war finance without ordinary taxation, and create a Dutch middle class.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical questions",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0015"
+      ],
+      "note": "Questions such as 'why would the Dutch do this?' are Jiang's own lecture framing, not student questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang rejects the simple kidnapping model of the Atlantic slave trade and says Europeans set up African trading centers while African groups sold war captives into slavery.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture claim on 2025-05-06 about early modern slave trading.",
+      "topic_tags": [
+        "slave-trade",
+        "Africa",
+        "Europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The most profitable early modern trade, in Jiang's telling, was control of East Indies spices rather than New World gold and silver.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Lecture claim on 2025-05-06 about early modern global trade.",
+      "topic_tags": [
+        "spices",
+        "East Indies",
+        "global-trade"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Low Countries' poverty and autonomy fostered egalitarian independence, textile work, and eventual conflict with Spanish attempts to enforce Catholic control.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0011",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture interpretation on 2025-05-06.",
+      "topic_tags": [
+        "Low Countries",
+        "Spanish Empire",
+        "Protestantism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Dutch strategy against Spain was to use sea power and East Indies trade to generate the wealth and military resources a small population lacked on land.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Lecture interpretation on 2025-05-06 of the Eighty Years' War.",
+      "topic_tags": [
+        "Dutch Republic",
+        "Eighty Years War",
+        "sea-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The VOC is presented as the first multinational corporation: not government-controlled, but empowered to raise armies, make laws, issue currency, and monopolize spice trade.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Lecture claim on 2025-05-06 about the VOC founded in 1602.",
+      "topic_tags": [
+        "VOC",
+        "corporation",
+        "sovereignty"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dutch equity shares turned war finance into self-interest: investing in the company gave ordinary people a reason to support the anti-Spanish struggle.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0015",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture interpretation on 2025-05-06.",
+      "topic_tags": [
+        "equity",
+        "war-finance",
+        "middle-class"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014"
+      ],
+      "moment": "A company appears that is not the state but can act like a state: it raises armies, makes laws, prints money, and becomes richer than today's tech giants combined.",
+      "source_phrase": "not controlled by the government, but it has the power of government",
+      "why_it_matters": "It makes the corporation a political technology, not merely a business form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0015",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0016"
+      ],
+      "moment": "Equity becomes war bonds with upside: the Dutch solve political indifference by letting people imagine the war as their own investment.",
+      "source_phrase": "equivalent of selling war bonds",
+      "why_it_matters": "It links capitalism, patriotism, and military mobilization in one mechanism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Dutch East Indies Company",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The VOC, founded in 1602, described by Jiang as the first multinational corporation and as a quasi-sovereign monopoly over East Indies spice trade.",
+      "confidence": "high"
+    },
+    {
+      "term": "Low Countries",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The region Jiang identifies with present-day Belgium and the Netherlands under Habsburg/Spanish influence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Eighty Years' War",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0012",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The Dutch war of independence from Spain, framed as the conflict that forced maritime and corporate innovation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0014"
+      ],
+      "note": "Jiang dates the VOC's creation to 1602 and makes it the turning-point institution in Dutch resistance to Spain.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0016"
+      ],
+      "note": "The transcript says the company incentivized people to fight 'the British'; context strongly indicates Jiang meant the Spanish."
+    }
+  ]
+}

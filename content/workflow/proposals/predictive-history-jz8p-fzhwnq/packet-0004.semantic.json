@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-jz8p-fzhwnq-semantics-pkt-0004",
+  "source_id": "video:predictive-history-jz8p-fzhwnq",
+  "source_date": "2025-05-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0025",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang names anxiety, uncertainty, and competition as the Dutch middle-class pressures that generate money, the art market, literature, and materialism; he extends the pattern to contemporary Chinese middle-class life.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0027",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0028",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "After a brief comprehension check, he returns to history: Spain extracts rather than colonizes, enabling piracy, smuggling, slavery, Cervantes, architecture, and aristocratic display.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical classroom check",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0030",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0031",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He sketches Habsburg overextension and then contrasts it with Dutch trade networks, textile exchange, Atlantic slave trading, East Indies monopoly, and 17th-century Dutch prosperity.",
+      "speaker_attribution": "Jiang lecture monologue; seg-0031 contains heavy ASR damage",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0027"
+      ],
+      "note": "The 'Any questions' prompt is a classroom check; no student question is captured in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Dutch middle-class life is driven by anxiety over salvation, uncertainty over war and trade, and competition with other wealthy people.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0025",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture model on 2025-05-06.",
+      "topic_tags": [
+        "middle-class",
+        "anxiety",
+        "competition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Those three pressures generate modern money-making, the art market, literature, and materialism as a prototypical middle-class identity.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture model on 2025-05-06.",
+      "topic_tags": [
+        "materialism",
+        "art-market",
+        "middle-class-identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that contemporary Chinese middle-class values repeat Dutch middle-class values without the Christian historical background.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Contemporary comparison made on 2025-05-06.",
+      "topic_tags": [
+        "China",
+        "middle-class",
+        "Dutch-Republic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spain's New World territories are framed as economic extraction rather than colonization, with the navy built to carry gold and silver back to Spain.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture interpretation on 2025-05-06 of Spanish imperial practice.",
+      "topic_tags": [
+        "Spain",
+        "New-World",
+        "economic-exploitation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spanish wealth creates both a golden age of art and literature and wasteful monuments such as El Escorial.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0028",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture claim on 2025-05-06 about Spain's Golden Age.",
+      "topic_tags": [
+        "Spanish-Golden-Age",
+        "Cervantes",
+        "El-Escorial"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the 17th century, Dutch trade in textiles, Atlantic slaves, and East Indies goods makes the Dutch Republic the wealthiest nation and its middle class the wealthiest in the world.",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture claim on 2025-05-06 about the 17th century.",
+      "topic_tags": [
+        "Dutch-Republic",
+        "trade-networks",
+        "middle-class"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0025",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "moment": "Modern middle-class identity is born from three pressures: anxiety about salvation, uncertainty about survival, and competition to prove one is better than the other elect.",
+      "source_phrase": "anxiety uncertainty and competition",
+      "why_it_matters": "It gives the episode its psychological engine and connects religion to contemporary class behavior.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "moment": "China did not pass through Dutch Calvinism, but Jiang says its middle class still lives with Dutch values: money-making, materialism, and art objects.",
+      "source_phrase": "the values and the ideas that the Dutch had 500 years ago",
+      "why_it_matters": "It makes the historical lecture a diagnosis of current Chinese class psychology.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "anxiety, uncertainty, and competition",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0025",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang's triad for the inner pressures that produce Dutch and modern middle-class culture.",
+      "confidence": "high"
+    },
+    {
+      "term": "economic exploitation",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's description of Spanish New World rule as resource extraction without genuine colonization.",
+      "confidence": "high"
+    },
+    {
+      "term": "Don Quixote de la Mancha",
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0028",
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Cervantes' novel, described by Jiang as the first great novel or first novel in human history.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang locates Dutch peak wealth and middle-class prosperity in the 17th century and connects it to dense trade networks.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0031"
+      ],
+      "note": "Segment 0031 contains severe ASR damage around Habsburg inbreeding and dynastic politics; claims were limited to surrounding clearer material."
+    }
+  ]
+}
