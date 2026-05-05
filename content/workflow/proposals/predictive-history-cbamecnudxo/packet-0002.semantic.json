@@ -1,0 +1,173 @@
+{
+  "packet_id": "predictive-history-cbamecnudxo-semantics-pkt-0002",
+  "source_id": "video:predictive-history-cbamecnudxo",
+  "source_date": "2026-01-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0009",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0010",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0011",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0012",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0013",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the divergence between Spain and the rising Dutch/British/French system: piracy enriches England, Spanish hubris bankrupts Spain, Protestant/Calvinist energy differentiates England and the Dutch from Catholic Spain, the Thirty Years' War makes merchant wealth insecure, and the Glorious Revolution creates a parliamentary order built to protect capital through national sovereignty and the Bank of England.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0009",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang lecture; 'does that make sense' and similar lines are classroom checks rather than student questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "England becomes wealthy partly through state-sponsored piracy against Spanish silver, with Sir Francis Drake serving under Elizabeth I.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical evidence used in the lecture.",
+      "topic_tags": [
+        "england",
+        "piracy",
+        "spanish-silver"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Spanish imperial decline as the result of wealth-driven laziness, insularity, hubris, overextension, war spending, and corruption.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical model applied to Spain.",
+      "topic_tags": [
+        "spanish-empire",
+        "hubris",
+        "imperial-decline"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Protestant or Calvinist England and the Dutch Republic are presented as becoming energetic, open, cohesive, trade-oriented societies in contrast with Catholic Spain.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0011",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical differentiation in early modern Europe.",
+      "topic_tags": [
+        "calvinism",
+        "protestantism",
+        "trade",
+        "cohesion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Thirty Years' War is used as the crisis that makes European merchants ask how wealth can be made secure against armies, conquest, and religious conflict.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0013",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Historical setup for the Glorious Revolution.",
+      "topic_tags": [
+        "thirty-years-war",
+        "merchant-security",
+        "capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Glorious Revolution is interpreted less as a religious event than as a capital-protection pact in which Parliament becomes sovereign and William of Orange accepts figurehead monarchy.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Interpretation of 1688 and 1694 offered in the lecture.",
+      "topic_tags": [
+        "glorious-revolution",
+        "parliament",
+        "capital-protection",
+        "bank-of-england"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015"
+      ],
+      "moment": "The monarch becomes the puppet and Parliament becomes the real sovereign power because capital needs a safer container than a king.",
+      "source_phrase": "the real power is in Parliament",
+      "why_it_matters": "It recasts national sovereignty as financial engineering rather than civic idealism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "moment": "The Bank of England is born when Dutch wealth moves to an island and is guaranteed by Parliament.",
+      "source_phrase": "they want to protect capital",
+      "why_it_matters": "This is the episode's hinge from European religious war to the modern financial empire.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "national sovereignty",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "In Jiang's account, the parliamentary state that protects capital more reliably than a king.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bank of England",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The institution created in 1694 that lets wealth be held under parliamentary guarantee.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang's sequence moves from the Thirty Years' War to 1688 Glorious Revolution to the 1694 Bank of England as one capital-security chain.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0011",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0012"
+      ],
+      "note": "ASR is noisy around the Protestant/Catholic contrast and a non-English fragment appears in seg-0012; extraction keeps only the clear argumentative line."
+    }
+  ]
+}
