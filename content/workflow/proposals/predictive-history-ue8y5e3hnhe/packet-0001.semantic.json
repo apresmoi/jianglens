@@ -1,0 +1,159 @@
+{
+  "packet_id": "predictive-history-ue8y5e3hnhe-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ue8y5e3hnhe",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0001",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0002",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0003",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0004",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0005",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0006",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0007",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the midterm by reading the Trump-Iran ceasefire as theater: the public terms look like U.S. surrender, but military movements, Mosaic Defense, and the Lebanon loophole make a real peace impossible.",
+      "speaker_attribution": "Jiang lecture and midterm answers",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0001",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0008"
+      ],
+      "note": "Focus refs are primarily Jiang speaking; embedded questions are Jiang reading or paraphrasing midterm/audience prompts unless separately noted.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads the announced U.S.-Iran pause and 10-point Iranian framework as almost a complete U.S. surrender on paper, which is why he thinks Trump is not serious about it.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0001",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0002",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Assessment of the reported 2026 ceasefire framework stated on 2026-04-09.",
+      "topic_tags": [
+        "Iran war",
+        "Trump",
+        "ceasefire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran's Mosaic Defense makes a negotiated ceasefire hard to implement because provincial military units would not automatically obey political leadership.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0004",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "War diagnosis stated on 2026-04-09.",
+      "topic_tags": [
+        "Mosaic Defense",
+        "Iran",
+        "military cohesion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The continued U.S. military air bridge suggests the political systems of both the United States and Iran have lost control once the militaries start fighting.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0005",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Diagnosis of the U.S.-Iran war stated on 2026-04-09.",
+      "topic_tags": [
+        "military autonomy",
+        "political control",
+        "Iran war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if the war drags on, economic strain will turn global opinion and even Russia and China against Iran while U.S.-Israeli strategy grows more coherent.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0006",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Prediction for the ongoing Iran war made on 2026-04-09.",
+      "topic_tags": [
+        "Iran",
+        "global opinion",
+        "Russia",
+        "China"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Lebanon/Hezbollah loophole lets Israel and the United States blame Iran for defending proxies that Iran thought were covered by the ceasefire.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0007",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Ceasefire loophole diagnosis stated on 2026-04-09.",
+      "topic_tags": [
+        "Lebanon",
+        "Hezbollah",
+        "ceasefire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0005"
+      ],
+      "moment": "Mosaic Defense is a dead man's switch: killing the center tells the provinces to fight to the end.",
+      "source_phrase": "almost a dead man's switch",
+      "why_it_matters": "It makes Iran's defense a system that can survive or even intensify after leadership loss.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0007",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0008"
+      ],
+      "moment": "The ceasefire is a PR stunt with a loophole already built into Lebanon.",
+      "source_phrase": "They've already found a loophole.",
+      "why_it_matters": "It condenses Jiang's view that peace language is being used to continue the war.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Mosaic Defense",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0004",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Iranian defense model described as 31 provincial cells or units responsible for local attack and defense without centralized command.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0001",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0008"
+      ],
+      "note": "This source is dated 2026-04-09 and treats the reported two-week U.S.-Iran pause as already breaking through Lebanon and military deployments.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

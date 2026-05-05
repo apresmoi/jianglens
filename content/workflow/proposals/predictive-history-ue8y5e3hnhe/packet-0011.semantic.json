@@ -1,0 +1,166 @@
+{
+  "packet_id": "predictive-history-ue8y5e3hnhe-semantics-pkt-0011",
+  "source_id": "video:predictive-history-ue8y5e3hnhe",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0081"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the individual-value question by saying not to worry about secret societies or others, but to focus on learning and personal spiritual, intellectual, and emotional transformation.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0082"
+      ],
+      "kind": "question",
+      "summary": "A student asks how Chinese students in the United States will be perceived in the future and whether Chinese people will discriminate against U.S.-educated Chinese students.",
+      "speaker_attribution": "Student/audience question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0084"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that globalization is over, the American-degree path is finished, China is a global-economy mirage rather than a real nation-state, and Chinese students need passion and love of learning rather than degree-seeking.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0082"
+      ],
+      "note": "Segment 82 is a student/audience question with ASR ambiguity around discrimination wording.",
+      "suggested_speaker": "Student/audience",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says individuals should stop worrying about secret societies and the end of the world and focus on personal transformation through learning, spiritual development, reading, and questions.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Normative closing answer stated on 2026-04-09.",
+      "topic_tags": [
+        "personal transformation",
+        "learning",
+        "secret societies"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The age of globalization is over, so the path of Chinese students learning English, studying in America, returning home, and getting good jobs is over.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Chinese-student/globalization prediction stated on 2026-04-09.",
+      "topic_tags": [
+        "globalization",
+        "Chinese students",
+        "education"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes China as not a real nation-state but a projection or mirage created by the global economy.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "China diagnosis restated on 2026-04-09.",
+      "topic_tags": [
+        "China",
+        "nation-state",
+        "global economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese students are highly motivated by grades and degrees, but to thrive in the future they must learn passion, intrinsic motivation, and love of learning for itself.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Education advice stated on 2026-04-09.",
+      "topic_tags": [
+        "Chinese students",
+        "education",
+        "passion"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0081"
+      ],
+      "moment": "Stop worrying about secret societies and the end of the world; focus on your own transformation.",
+      "source_phrase": "focus on your own personal transformation",
+      "why_it_matters": "It is the humane counterweight to the lecture's large collapse models.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083"
+      ],
+      "moment": "The American-degree globalization path is over.",
+      "source_phrase": "that era is over",
+      "why_it_matters": "It gives the Chinese-student answer its historical finality.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0084"
+      ],
+      "moment": "Chinese students need to love learning for itself once grades and degrees stop carrying them.",
+      "source_phrase": "love learning for itself",
+      "why_it_matters": "It turns the closing from geopolitics into a direct educational ethic.",
+      "tone": "normative",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "personal transformation",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0081",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Jiang's practical answer to collapse anxiety: learning, spiritual/intellectual/emotional development, questions, passion, and intrinsic motivation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0084"
+      ],
+      "note": "The 2026-04-09 closing ties the end of globalization directly to Chinese overseas education and degree-seeking.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0082"
+      ],
+      "note": "The student question about future discrimination against U.S.-educated Chinese students is ASR-rough, but Jiang's answer clearly targets globalization and degree-seeking."
+    }
+  ]
+}
