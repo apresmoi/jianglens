@@ -110,6 +110,16 @@ The cave, the dead world, and the guide who becomes a trap all ask how a person 
 
 This family prevents the atlas from becoming only civilizational sociology. Jiang's lens is also about the soul: what a person can see, what a person desires, what a person fears losing, and whether the person can reject a world that has trained him to call captivity normal.
 
+## Free Will As Cosmic Burden
+
+The cave and Dante material also force a separate free-will family. Jiang's strongest claim is not that free will makes people politely autonomous. It makes them answerable for the worlds they help create, the lies they keep choosing, and the hells they desire.
+
+In the cave lecture, [a slave is someone who wants to be a slave, who chooses to be a slave]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0042"}. In Dante, [free will and reciprocity are a contradiction]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0018"}, and hell is chosen because [the soul thinks hell is best for it]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031"}. Secret History #9 adds the cosmic version: [God and Satan cannot interfere in this world]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054"}, so darkness becomes a test in which human light can appear.
+
+<!-- lens-point id="free-will-burden-makes-choice-cosmic" concept="free-will-burden" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0042 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054" -->
+<span id="free-will-burden-makes-choice-cosmic" class="lens-point-anchor"></span>
+Free will becomes a cosmic burden when choice is not mere preference but participation in reality: people can choose the familiar lie, desire hell, refuse intervention, or shine in darkness in a way that changes the field for others.
+
 ## Current Atlas Families
 
 | Family | Working question | Strong source clusters |
@@ -121,6 +131,7 @@ This family prevents the atlas from becoming only civilizational sociology. Jian
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
+| Free will as burden | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
 
 ## Chronology Of The Current Map
 
@@ -131,6 +142,7 @@ This family prevents the atlas from becoming only civilizational sociology. Jian
 - **2024-11-12 to 2024-11-21**: Rome becomes the laboratory for myth and empire: Caesar changes reality, Octavian inherits the wound, and Virgil fights Homer for Rome's soul.
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
+- **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
 - **2026-04-07 to 2026-04-08**: The later processed Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
 
 ## How To Use The Atlas
