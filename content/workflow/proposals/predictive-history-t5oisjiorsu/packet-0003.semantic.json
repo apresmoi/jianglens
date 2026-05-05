@@ -1,0 +1,204 @@
+{
+  "packet_id": "predictive-history-t5oisjiorsu-semantics-pkt-0003",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_date": "2026-03-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0019",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0023",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts American constraints with Iranian assets. America lacks political will, manufacturing depth, and casualty tolerance; Iran has faith, terrain, and nationalism, though each advantage also carries possible blindness, confinement, and ethnic division.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "America's three major problems in the war are lack of political will, weak logistics/manufacturing, and inability to tolerate large battlefield casualties.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0019",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "american-constraints",
+        "political-will",
+        "manufacturing",
+        "casualties"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war is existential for Iranians but not for Americans, giving Iran greater motivation and America less political will.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran",
+        "political-will",
+        "existential-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran's three major advantages are Shia faith and martyrdom, mountainous fortress terrain, and deep Persian civilizational nationalism.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran",
+        "faith",
+        "terrain",
+        "nationalism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Each Iranian advantage can become a weakness: faith can become zealotry, terrain can become a prison vulnerable to infrastructure disruption, and nationalism can expose ethnic divisions.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0023",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iranian-weaknesses",
+        "zealotry",
+        "ethnic-division"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang expects the American strategy to kill many Iranians, destroy infrastructure, and inflame ethnic tensions by arming minorities against Tehran.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "american-strategy",
+        "infrastructure",
+        "ethnic-tension"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017"
+      ],
+      "moment": "For America defeat is a bad trip home; for Iran defeat is the loss of country, society, civilization, and identity.",
+      "source_phrase": "they lose their civilization, they lose their identity",
+      "why_it_matters": "It explains political will as existential asymmetry rather than morale rhetoric.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021"
+      ],
+      "moment": "Iran is named a mountain fortress, three times Iraq, nearly suicidal to invade.",
+      "source_phrase": "It is a mountain fortress",
+      "why_it_matters": "This anchors the military argument in geography.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0023"
+      ],
+      "moment": "The fortress can also become a prison.",
+      "source_phrase": "it's a fortress, but it can also be a prison",
+      "why_it_matters": "It keeps Jiang's rule that every advantage carries its own inversion.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "political will",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The public and governmental willingness to sustain a war despite costs and casualties.",
+      "confidence": "high"
+    },
+    {
+      "term": "faith",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Iranian/Shia willingness to sacrifice and seek martyrdom or vengeance for a greater good.",
+      "confidence": "high"
+    },
+    {
+      "term": "mountain fortress",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Iran's terrain advantage as a large, mountainous country difficult to invade or occupy.",
+      "confidence": "high"
+    },
+    {
+      "term": "nationalism",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Persian civilizational pride as a reason Iranians know what they are fighting for.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "note": "The lecture marks the question of why the war is happening as the most important and postpones it until later, after building the asymmetry model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020"
+      ],
+      "note": "ASR identifies the assassinated religious leader as Ayatollah Khomeini; the extraction preserves the transcript wording without independently correcting the named figure."
+    }
+  ]
+}
