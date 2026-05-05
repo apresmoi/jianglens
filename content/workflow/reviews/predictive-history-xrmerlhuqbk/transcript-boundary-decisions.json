@@ -1,0 +1,110 @@
+{
+  "source_slug": "predictive-history-xrmerlhuqbk",
+  "decisions": [
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:c719351a1f5d",
+      "decision": "approve",
+      "reason": "Moves the troop count phrase back to complete 'not only have they sent...'."
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:4a163dd9dede",
+      "decision": "approve",
+      "reason": "Moves 'this will happen' back to complete the market-bet sentence."
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-trailing-starter-to-next:53a4060f65e0",
+      "decision": "approve",
+      "reason": "Moves '20 % of its' forward so it joins 'oil from the Middle East'."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-trailing-starter-to-next:fb1df1a24e3f",
+      "decision": "approve",
+      "reason": "Moves the trailing 'So' forward to start the next explanatory sentence."
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:b18ca500b201",
+      "decision": "reject",
+      "reason": "The proposed completion is ASR-damaged text and not a reliable sentence repair."
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-leading-completion-to-previous:c5e75a12401b",
+      "decision": "approve",
+      "reason": "Moves the dependency phrase back to complete 'now the world...'."
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:628531a3a5bb",
+      "decision": "approve",
+      "reason": "Moves the nitrogen sentence back after the trailing 'So' and completes the transition."
+    },
+    {
+      "candidate_id": "seg-0019->seg-0020:move-leading-completion-to-previous:7191b8e75c29",
+      "decision": "approve",
+      "reason": "Moves 'is this' back to complete 'what's interesting about this'."
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:857b788a765c",
+      "decision": "approve",
+      "reason": "Moves the oil-source phrase back to complete the China/India/Japan/South Korea sentence."
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:30b6fd2ccb7d",
+      "decision": "approve",
+      "reason": "Moves 'a mining operation' back to complete 'It's...'."
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:ec2726ed6fa9",
+      "decision": "approve",
+      "reason": "Moves the debt consequence back to complete the North America dependency sentence."
+    },
+    {
+      "candidate_id": "seg-0025->seg-0026:move-leading-completion-to-previous:24367a9ff837",
+      "decision": "approve",
+      "reason": "Moves 'war of attrition...' back to complete 'this long...'."
+    },
+    {
+      "candidate_id": "seg-0028->seg-0029:move-leading-completion-to-previous:64a38b27100e",
+      "decision": "approve",
+      "reason": "Moves the collapse clause back to complete 'when the world...'."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:59f4afd19390",
+      "decision": "approve",
+      "reason": "Moves the verb phrase back to complete 'what Russia needs to...'."
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:c7d8513f3fc0",
+      "decision": "approve",
+      "reason": "Moves 'by invading Ukraine' back to complete the sentence about Russia's movement."
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:f5c4ff206aef",
+      "decision": "approve",
+      "reason": "Moves the three-pillars clause back after the trailing 'And'."
+    },
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:dfb2a8598d17",
+      "decision": "approve",
+      "reason": "Moves the guarantee phrase back to complete the security-for-all sentence."
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-trailing-starter-to-next:3ff6e6bbbde0",
+      "decision": "approve",
+      "reason": "Moves the sentence starter forward so it joins 'world is going into permanent war'."
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:3069cd7b912d",
+      "decision": "approve",
+      "reason": "Moves 'time, this reversed itself' back to complete 'over time'."
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:15264fdd98d3",
+      "decision": "approve",
+      "reason": "Moves 'elected?' back to complete the question 'why did Donald Trump get elected?'."
+    },
+    {
+      "candidate_id": "seg-0044->seg-0045:move-leading-completion-to-previous:f4c3fa6f6e38",
+      "decision": "approve",
+      "reason": "Moves 'factors, different vectors?' back to complete the final question."
+    }
+  ]
+}
