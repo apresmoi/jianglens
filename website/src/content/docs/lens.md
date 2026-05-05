@@ -24,6 +24,18 @@ The lens therefore asks a double question:
 
 The first question captures the creative side of the lens. The second captures the danger.
 
+## Power As Alchemy
+
+The first Secret History lecture gives the atlas a root mechanism: power is alchemy. Jiang begins from Kant because the political field is already perceptual. If reality is processed through imagination, then power does not only command bodies after reality is given. It trains the imagination that decides what reality feels like.
+
+Jiang's formula is direct: [power is the capacity to turn nothing into everything]{evidence="video:predictive-history-ajfxykt9joo@transcript:v1#seg-0094"}. Money, the individual, and the nation-state are his three opening examples. A contract or number becomes money. Scarcity makes the number command work. The individual turns shared suffering into private responsibility. The nation-state becomes a beloved person through school, language, history, and geography.
+
+<!-- lens-point id="power-alchemy-atlas" concept="power-alchemy" evidence="video:predictive-history-ajfxykt9joo@transcript:v1#seg-0094 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0025 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0088" -->
+<span id="power-alchemy-atlas" class="lens-point-anchor"></span>
+Power becomes alchemy when it trains imagination until invented abstractions such as money, the individual, or the nation-state organize labor, desire, memory, fear, and obedience as if they were unavoidable facts.
+
+The diagnostic question is "which nothing has become everything?" Once that question is asked, later atlas families become less isolated. Attention capture extracts the energy that alchemy has redirected. Education installs the national memory and authority relation. Bureaucracy manages abstractions after they harden. Story and scripture give alchemy durable forms.
+
 ## World-Making Media
 
 Jiang treats poetry, mythology, scripture, film, and philosophy as media that build worlds rather than decorate them.
@@ -172,6 +184,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 
 | Family | Working question | Strong source clusters |
 | --- | --- | --- |
+| Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
 | World-making media | How do poems, myths, scripture, film, and philosophy make reality inhabitable? | Homer, Bible/Yahwist, Hollywood-Pentagon |
 | Sacred machines | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
 | Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
@@ -195,6 +208,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
 - **2025-01-02 to 2026-01-20**: The borderland engine becomes explicit across Arabia, Vikings, China, Hellenistic history, Rome, and the World Game: margins can defeat centers when pressure becomes energy, openness, cohesion, borrowed knowledge, and organized motion.
 - **2025-02-25 to 2025-10-11**: Bureaucracy becomes visible as institutional death: Byzantium preserves and flattens genius, China traps status through exams and official culture, science bureaucratizes doubt and then risks gatekeeping discovery, and modern universities manufacture problems for management.
+- **2025-08-21**: Secret History #1 names the root alchemy of power: money, the individual, and the nation-state become realities when imagination is trained to treat them as scarce, personal, natural, and sacrificial.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
