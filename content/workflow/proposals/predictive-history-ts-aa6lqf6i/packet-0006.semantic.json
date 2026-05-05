@@ -1,0 +1,175 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0006",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang translates the strategy's peace language as 'obey us and there will be peace; defy us and there will be war,' then predicts a worse second round if the ceasefire fails: civilian infrastructure attacks, Iranian energy retaliation, and possible removal of a third of world energy supply.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "He expands the choke-point map: America controls the Panama Canal, the Western Hemisphere, South American resources, and the Strait of Malacca through Indonesia and first-island-chain militarization.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0045",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0047",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says America's real goal is not humiliating China but controlling China's trade and forcing purchases in U.S. dollars by blocking alternatives: Greenland and the Arctic, Gibraltar, Iran's role in Russian and Chinese corridors, Malacca, and insufficient Russian oil.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang predicts that if the Iran ceasefire fails, the next round will target civilian and energy infrastructure and could take one-third of world energy supply offline.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Conditional forecast on 2026-04-21.",
+      "topic_tags": ["iran-war", "energy", "infrastructure", "forecast"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says U.S. strategy no longer needs to control the whole ocean; it only needs the key choke points that make trade depend on American generosity.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Strategic model in the 2026-04-21 lecture.",
+      "topic_tags": ["choke-points", "navy", "global-trade", "american-empire"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames the Western Hemisphere as an American-controlled trade zone where China must go through the United States for South American resources.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Western Hemisphere diagnosis on 2026-04-21.",
+      "topic_tags": ["western-hemisphere", "south-america", "china", "resources"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that America is militarizing the first island chain and using Indonesia, Japan, Australia, and other partners to embargo rather than destroy China.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0044",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Indo-Pacific diagnosis on 2026-04-21.",
+      "topic_tags": ["first-island-chain", "indonesia", "japan", "china"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran is central to Russian and Chinese trade corridors, so America will not stop attacking Iran while Iranian peace would let Russia and China trade with the world.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Geostrategic diagnosis on 2026-04-21.",
+      "topic_tags": ["iran", "russia", "china", "trade-corridors", "belt-and-road"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says forcing China to buy from America in U.S. dollars would let America set terms and support the dollar economy.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Dollar-strategy model in the 2026-04-21 lecture.",
+      "topic_tags": ["dollar", "china", "energy", "trade"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041"
+      ],
+      "moment": "The strategy's noble-peace language becomes a gangster sentence: obey us and there will be peace; defy us and there will be war.",
+      "source_phrase": "Obey us and there will be peace. Defy us and there will be war.",
+      "why_it_matters": "It is the simplest public-readable distillation of Jiang's interpretation of the document.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "moment": "World trade is recast as a dependency relation: if you trade, you depend on American generosity.",
+      "source_phrase": "then you must depend on American generosity",
+      "why_it_matters": "This line converts naval geography into the episode's moral economy of dependence.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "choke points",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Strategic passages such as Hormuz, Malacca, Panama, Gibraltar, Greenland/Arctic access, and Iran-centered land corridors that Jiang says let America control trade.",
+      "confidence": "high"
+    },
+    {
+      "term": "Darnold Doctrine",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "ASR rendering of Jiang's label for a doctrine under which America can do whatever it wants in the Western Hemisphere.",
+      "confidence": "medium"
+    },
+    {
+      "term": "North-South Corridor",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Russian trade corridor through Iran that Jiang says motivates U.S. attacks on Iran.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "note": "The lecture's Iran-war forecast is conditional on the ceasefire failing and explicitly links escalation to energy-infrastructure retaliation.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043"
+      ],
+      "note": "The phrase 'Darnold Doctrine' may be an ASR or classroom label issue; preserve it as heard rather than normalizing without evidence."
+    }
+  ]
+}

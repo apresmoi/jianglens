@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0007",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0049",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0050",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues the China map: U.S. bases surround China, Malacca and the Indian Ocean can be cut off, Russia cannot replace Middle Eastern supply quickly, so China must deal with America while the Western Hemisphere stays a resource fortress.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "He states the imperial business model: keep the world at war, lend dollars so others buy American energy, resources, and weapons, then sustain three conflicts and a national draft plus continuity of agenda.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says the plan requires preventing Vietnam-style revolt through an AI surveillance state: ICE normalizes armed soldiers in cities, its budget becomes a private Trump police force, and data centers are for digital ID, currency, and monitoring rather than profitable chatbots.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang argues that surrounding China with U.S. bases and cutting Malacca, the Middle East, Angola, and Indian Ocean routes would leave China dependent on U.S. terms for food, energy, and factories.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0049",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "China containment model in the 2026-04-21 lecture.",
+      "topic_tags": ["china", "malacca", "indian-ocean", "u-s-bases"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the Western Hemisphere as a peaceful fortress that can supply a world at war with energy, resources, weapons, financing, and dollars.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Imperial economic model in the 2026-04-21 lecture.",
+      "topic_tags": ["western-hemisphere", "fortress", "resources", "dollar"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the plan needs three things: a national draft for enforcement, continuity of agenda through a Trump third term, and an AI surveillance state to prevent domestic revolt.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Domestic-political model on 2026-04-21.",
+      "topic_tags": ["draft", "third-term", "ai-surveillance", "police-state"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues ICE is not mainly about illegal immigration but about normalizing armed soldiers in American streets and building the conditions for a police state.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Domestic enforcement diagnosis on 2026-04-21.",
+      "topic_tags": ["ice", "police-state", "domestic-control", "trump"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says data centers and Operation Stargate make sense as infrastructure for digital ID, digital currency, and AI surveillance rather than as consumer AI profit engines.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "AI infrastructure diagnosis on 2026-04-21.",
+      "topic_tags": ["data-centers", "operation-stargate", "ai-surveillance", "digital-id"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052"
+      ],
+      "moment": "The future world is poor and at war, but America lends it the money to buy American stuff.",
+      "source_phrase": "America will lend you money to buy energy, resources, and weapons from America",
+      "why_it_matters": "This is Jiang's Marshall Plan inversion: empire becomes vendor, banker, and arsenal to a managed world conflict.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054"
+      ],
+      "moment": "The AI surveillance state exists to 'help them see the light' before Americans can revolt.",
+      "source_phrase": "you need an AI surveillance state in order to help them see the light",
+      "why_it_matters": "The phrase captures the lecture's dark joke: persuasion becomes monitoring and coercion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055"
+      ],
+      "moment": "ICE becomes Donald Trump's private police force in Jiang's reading.",
+      "source_phrase": "Donald Trump's private police force",
+      "why_it_matters": "It makes domestic enforcement part of the imperial plan rather than a separate immigration story.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "continuity of agenda",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The requirement that government not change while the imperial plan is being implemented; Jiang links it to a Trump third term.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "A domestic monitoring system using digital ID, digital currency, data centers, and police infrastructure to prevent revolt.",
+      "confidence": "high"
+    },
+    {
+      "term": "technate",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's label for a greater North American fortress with resources, manpower, and export power.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "note": "The third-term, ICE, and data-center claims are dated 2026-04-21 and tied to Jiang's near-future U.S. domestic forecast.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0050"
+      ],
+      "note": "ASR renders 'spare' as 'spear' in the Russia-resources sentence; semantic extraction treats it as spare."
+    }
+  ]
+}
