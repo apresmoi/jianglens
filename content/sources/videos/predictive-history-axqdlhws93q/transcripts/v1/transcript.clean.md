@@ -1,0 +1,285 @@
+# Game Theory #8:  Communist Specter
+
+Source: https://www.youtube.com/watch?v=axqDLhWs93Q
+
+## seg-0001 / 00:00:00-00:01:26 / SPEAKER_01
+
+Today, we discuss communism, Marxism. We will discuss what it is, where did it come from, and why did it succeed. Now, the 20th century had the Cold War, and so that was an ideological struggle between capitalism and communism. And for the longest time, we believed that capitalism and communism were polar opposites, a dialectic, okay, a black and white. But if that is the case, then how do we explain China? Because for the longest time, China was a communist country, and then in the 1980s, it started to reform. It reformed, and now China is very much a capitalist country. In fact, if you think about it, this transition has been seamless. There hasn't been much conflict because of this transition, and this is not true historically where transitions have been very violent, okay? So think of the transition from feudalism to capitalism, okay? That was a very violent process. Think of the process from Catholicism. That was a very violent process.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:26-00:02:38 / SPEAKER_01
+
+That was also a very violent process. But in China, communism transitioned into capitalism pretty easily, pretty quickly, and extremely successfully, okay? And in fact, you could say that today, China is very much a capitalist country with some communist elements, but it's very much capitalistic. So the question then is, if these two ideologies, capitalism and communism, are such polar opposites. Then how this happened in China. And what I want to show you today is that actually, this is a false dialectic, okay? Meaning that communism and capitalism are actually more similar than they are different. In fact, what I will show you is that in many ways, communism is a creation of capitalism. As a weapon to destroy capitalism's major enemies. Capitalism's major enemies. Okay? So communism is not really the enemy of capitalism. The real enemies of capitalism are different ideologies, okay? So these ideologies include monarchy. The idea of monarchy
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:38-00:03:53 / SPEAKER_01
+
+is that rather than power in the hands of the capitalist, power is in the hand of the king, okay? And what a king often does is redistribute capital in a way that the capitalists don't care about. That is more fear. So for example, when a king first comes into power, what a king often does is cancel all debts and redistribute the land. And that's why he's so popular, okay? So capitalists are afraid of kings. They don't want kings. Because a king will often redistribute property. Another great enemy of capitalism is religion, or theocracy. Okay? And the idea here is that all religions teach the same thing. They teach you that money is evil, right? God doesn't want you to make money. God wants you to be kind to others, to love your children, to be a nice person, okay? So that's why in Catholic Europe, they were so poor because people were more focused on redemption and salvation than they were on making money, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:53-00:04:59 / SPEAKER_01
+
+So theocracy is also a major enemy of capitalism. Then you also have nationalism. Okay? So nationalism is the idea of loyalty to your people, loyalty to your nation. For capitalism, that's a problem, okay? Because capitalism wants to be loyal to capital, and it wants capital to flow across borders. So I see an investment opportunity in China, I want to take my money from America and put it into China. I don't want to worry about, oh, China's my enemy, China is not my people, okay? So nationalism is also a major problem. And then you also have another problem, okay, called democracy. So believe it or not, capitalists hate democracy. Why do they hate democracy? Because if you think about it, if people had power, the workers had power, they would all get together and vote to redistribute wealth, right? To make the rich pay more taxes.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:59-00:06:24 / SPEAKER_01
+
+We call this socialism. So you think about it, the enemy of capitalism is not communism, it's these four other things. You actually think about it, okay? Communism is working with capitalism to destroy all four of these things, right? So let's look at this. Monarchy, okay? Communism does not allow for monarchs to rise. It allows for a party to arise, right? What is a party? Party is a nation. It's an oligarchy, all right, which is a capitalist system. Now theocracy, what does Marx say? Marx says is that religion is the opiate of the people. Religion is the great evil of the world. Religion creates false consciousness, therefore we must destroy all religion, right? And if religion is destroyed, what is left? The only thing that is left is money, okay? Now nationalism. Nationalism. Communism is international, right? Workers of the world unite. So nationalism is also bad. We want to unite as a world. All workers unite.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:24-00:08:00 / SPEAKER_01
+
+The class consciousness is more important than national identity, right? Now democracy. No, no, no. This is bad too, right? Because workers cannot defend their rights. Workers have false consciousness. Workers have been brainwashed by the capitalists in school, in the media, by the internet, by Hollywood, okay? Therefore a vanguard, the party, must lead the people into socialism, all right? So this is really convenient, how capitalism and communism have similar enemies, and communism helps destroy all four enemies in a way that capitalism can't do. Cannot, right? So you could also make the argument that maybe communism was a weapon or a virus created by capitalism in order to conquer the world, in order to destroy the world so that capitalism can spread throughout the world. And China is an example of this, right? Think about the Cultural Revolution that destroyed religion. That destroyed tradition. That destroyed cultural identity. And what happened after the Cultural Revolution? China became capitalist, and it became hyper -capitalistic.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0006
+
+## seg-0007 / 00:08:00-00:09:04 / SPEAKER_01
+
+China had the fastest growth rate, economic growth rate in the world. How did that happen? Okay? So I'm not saying this is true. I'm saying, like, this is something for us to think about, all right? All right. So let us now think about this, and again, this is all just speculation on my part, okay? I don't really know. I'm saying, like, you know, why is this happening? Why is this the correlation, right? All right. So an example is Karl Marx. And Karl Marx, of course, is the founder of communism. And the history of Karl Marx is, like, really, really strange. So for example, he is a German citizen, but he spent all his time in Britain. He was exiled from Germany because... He advocated for a world revolution. So he went to Britain. But Britain is also a capitalistic country. So why is it that he's allowed to do whatever he wants in Britain?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:04-00:10:04 / SPEAKER_01
+
+He wrote most of his works in a British library, in the British Museum. So why did the British authorities allow him to do that? That's a question for us, right? Britain is the most capitalist country in the world at this time, 19th century. And Britain basically allowed Marx to live there and do whatever he wants. Okay? That's strange. Number two is, Karl Marx, where did he get his money from, okay? So Karl Marx, actually, his wife is a German aristocrat. So she's used to luxury. But Karl Marx never made any money in his life, right? If he writes these works, The Communist Manifesto, That's Capital, no one's going to read them. They don't sell, right? So he's not a wealthy person. But we know for a fact that he actually lived a very good life, okay? He wasn't an aristocrat. He wasn't wealthy, but he was middle class. His kids went to private school.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:04-00:11:18 / SPEAKER_01
+
+They had a nice house in Britain. So the question is, where did he get his money from? Well, what they say is he got his money from his partner, Frederick Engels. And where did Frederick Engels get his money from? Well, his father was a capitalist. An industrialist. So there's a question for you. Why would his father, who is a very wealthy person, give Engels a lot of money to give to Marx, and Marx is calling for a world revolution to destroy the capitalists? Why would they do that? That's kind of strange. The third thing is that at this time, socialism was the most dominant ideology. For many reasons. Okay? And the idea of socialism is that it will evolve naturally, okay? But Marx says, no, no, no. We cannot allow it to evolve naturally. It will not evolve naturally. We need a revolution, okay? We need a world revolution, all right?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:18-00:12:37 / SPEAKER_01
+
+So that's a question for us. Why would he say this, okay? So let's look at what socialism is. Okay? Let's look at socialism. All right. The idea of socialism is pretty simple, all right? So before you had a feudal society, and then it became industrial. Because it becomes industrial, you have lots and lots of workers, okay? And you have capitalists. The problem, though, is that capitalism exploits labor. It makes people very unhappy, okay? So the workers want change. Then you have the industrialists, the capitalists. The problem is that capital consolidates, okay? So maybe you have a thousand capitalists to start, but then maybe ten will take over all the money, okay? All the means of production, the factories. Then maybe one, okay? Because that's how capitalism works. It consolidates, which means that eventually the capitalists will churn against capitalism as well, okay? And because of democracy, because people can vote, they can then together affect political change.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:37-00:13:53 / SPEAKER_01
+
+And this will lead to socialism. And what is socialism? Socialism is a redistribution of wealth. A redistribution of wealth. Now, let's, for the sake of simplicity, say there are three classes, okay? You have the rich, you have the middle class, and you have the poor. Okay? Redistribution is doing is taking the money from the rich and giving it to the poor. You understand? But because of this, what happens is the middle class improves in status and power, okay? So if you look at the system, you would think, okay, look, the poor want the system because they have more money, they have more equality, but also the people who really want the system are the middle class. Okay? They want the system because it means that over time, they have more power and status than the rich, right? And this is a pretty powerful coalition. That's why socialists believe that over time, this is a natural evolution, and this is true for most of human history, right?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:53-00:14:59 / SPEAKER_01
+
+So think of after World War II, Europe didn't become communist, it didn't become capitalist, it became socialist. It had a very strong welfare system, okay? So just the natural course of human history. Socialism. Socialism will become inevitable. It doesn't make sense to you guys because this is the majority of people. But Marx had problems with this, okay? Marx says, okay, all right, the major problem with this is false consciousness. Okay? You think that this is a natural process, but capitalists, the ruling elite have a lot of tricks up their sleeves. Okay? For example. Oh, okay. they can brainwash the workers right so for this to work out you need to create true consciousness so you need to destroy religion you need to revamp the education system you need to control the media okay otherwise the capitalists will use the schools the
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:59-00:16:24 / SPEAKER_01
+
+media religion to brainwash the workers and also these workers need to unite together across the world to have true power okay why because the real struggle is one of class okay consciousness and for socialism to arise we need to destroy class okay so the idea of the middle class updating power that's bad what we should have is just everyone the same okay equality all right and that's the idea of Marxism destroy all property okay that's the main difference between the middle class and the middle class. socialism and communism. Socialism it's the redistribution of property, communism is a destruction of property. But if you do it this way, what happens is that the middle class now lose status, right? And so it's both the rich and middle class that suffer under communism and therefore they will probably unite together against the poor, understand? So it sounds similar, socialism and communism, but it's night and day. Socialism seems like the natural evolution of things, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0013
+
+## seg-0014 / 00:16:24-00:17:37 / SPEAKER_01
+
+And so it sounds right, so why is Marx screwing around this okay? He also says that, okay, you also need a party, you also need a vanguard, an elite to destroy the false conscientious, divide the workers, workers and create a common society and when they do that when the system is completely communist then the party will give up power and you will have a socialist paradise but then the question then is why would the party give up power right so if the party is capable of creating consciousness why don't they just switch to a different false consciousness okay so the problem marks is that it's working on socialism and making it more extreme it's also making it more confusing and why would he do that okay it's very confusing now all right and my argument to you is that when this happens when an idea becomes more
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:37-00:18:51 / SPEAKER_01
+
+extreme the intention is to discredit it to make it illegitimate to destroy the idea all right so if you think about it according to game the people responsible for communism is that marx the people responsible for communism are the capitalists the ruling elite because they want to destroy the idea of socialism right they don't want this unity between the middle class and the work and the workers they want the middle class to to remain with the nobility and the oligarchy okay does that make sense all right so let me show how this works all right in the field economy you have the monarch and the nobility okay and the modern ability have power through three mechanisms first of all they control the land uh they control the military and they control the religion okay so this is the status quo and then the peasants are the people who work the land and this is true
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0015
+
+## seg-0016 / 00:18:51-00:20:07 / SPEAKER_01
+
+for most of catholic europe but then with the rise of industrial ism you have new people come into power okay so for example you have the bourgeoisie who are the bourgeoisie bourgeoisie are just the capitalists the factory owners okay and because of the bourgeoisie you now have the workers and then because of this industrial economy you have the middle class okay the middle class are just like lawyers teachers accountants journalists people who support the industrial economy all right now when this happens when you have a uh new groups of people emerge you now have tension of violence okay and this is ultimately what led to the french revolution where the new order okay these people work together to overthrow the old order and this led to the nepalite wars seven wars fought between france and everyone else okay and that led to the deaths of millions tens of millions of people who in europe it
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0016
+
+## seg-0017 / 00:20:07-00:21:26 / SPEAKER_01
+
+was a deadly war and after napoleon was defeated all the leaders the the nobility of europe got together and set and decided that from now on we will no longer fight war okay they create something called the concert of europe the concept of europe is basically um these different monarchies agreeing to resolve the differences over negotiations rather than on the battlefield so think of it as the as the united nations okay and it worked really really well the problem is that it worked too well because you're not resolving this problem okay you're not resolving this conflict between the new order and the old order right the these people want to maintain the status quo but these people the industrial economy wants a new step a new um order that allows for democracy okay liberalism okay socialism okay so a more redistribution of wealth um greater participation in the political system and the limitations of the
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0017
+
+## seg-0018 / 00:21:26-00:22:41 / SPEAKER_01
+
+uh religion okay so basically the french revolution all right so right now so this system was created to avoid the french revolution but because of peace the ingredients for the revolution french revolution are increasing okay and this led to something called the 1848 revolutions 1888 revolutions and this happened throughout the entirety of europe where each place there was a uprising a combination of these people the bourgeoisie middle class and workers who called for changes in government okay some places were violent some places were peaceful some places focused more on democracy some places focused more on liberalism some places focused more on socialism okay all right so it doesn't make sense after 1848 what the leaders of europe recognize is that you know what if you don't do anything about the situation eventually the new order is going to consume us the new order of the bourgeoisie middle class and workers this alliance is going to
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0018
+
+## seg-0019 / 00:22:41-00:24:12 / SPEAKER_01
+
+destroy us so what can we do about it their solution is we have to divide them okay we have to divide them so before the conflicts were about power status religion okay so the first idea is let's create the idea that the real conflict is class okay so the real enemy is not between nobility and the bourgeoisie okay the real enemy is between the bourgeoisie and the bourgeoisie and the workers okay this is the real conflict right second is that we have to discredit these people and make this movement seem extreme fanatical zealous okay and you do that by saying okay no property what we want is not a warfare society what you want is a completely equal society where no one has any money no one has any rights no one has any freedom communism okay and the third way you deletionize it is say that this is a international conspiracy hey guys Jews
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0019
+
+## seg-0020 / 00:24:13-00:25:33 / SPEAKER_01
+
+these communists are in secret society who want to take over the entire world so it's not that oh these workers just want more rights no no no these workers are tools international conspiracy to conquer the entire world they are funded by Jews by capitalist by the British who cares okay but they're not Germans they're not French they're not us you understand so you think about it communism was a psyop okay a tool used by the elite by the nobility to make the movement of democracy socialism and liberalism illegitimate okay this is his propaganda okay doesn't make sense guys all right so let's look at the evidence for this all right so this is the 1848 revolutions so what happened was that because of peace you have overpopulation you have economic growth okay that led to inequality that led to corruption that led to conflict between the bourgeoisie the new rising powers and the nobility the
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0020
+
+## seg-0021 / 00:25:33-00:26:37 / SPEAKER_01
+
+status quo powers okay and that's why you have these revolutions throughout Europe okay so look at France okay this is a French um you look at like all these places this is happening all at the same time okay everywhere and again different systems will respond differently the only place in Europe these revolutions is England and the reason why is that England has colonies where if you're not happy you can go somewhere else like Canada or United States or Australia New Zealand okay but you can leave but everyone else is stuck where they are and they are fighting for more rights and again this puts the fear of God into the European nobility okay for the longest time they go along they maintain peace but now the bourgeoisie the industrialists the capitalists want to overthrow the regime okay so what they do now is they sponsor creation of communism to divide the capitalists the middle class
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0021
+
+## seg-0022 / 00:26:37-00:27:46 / SPEAKER_01
+
+and the workers against each other okay to create the idea of class conflict all right okay so Karl Marx and Frederick Engels all right they write something called the Communist Manifesto and this comes after the 1848 revolutions because they were because after the 1848 revolution they were absolutely convinced that Europe is in is ready for a global revolution okay and this is their agenda and this is also a secret document because at this time the Communists are secret society all around Europe okay and I would argue that this was probably being funded by the nobility okay okay so it caused full -scale museums okay from the September of 18 Gazette and this is where we discover the central position states accounting for the identity fund the family fund okay public sector civilization for the Central Committee of the Reich between the Eastern party Communist Bernie köttover wrote about this but he was successful and then
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0022
+
+## seg-0023 / 00:27:46-00:28:52 / SPEAKER_01
+
+in 1838 he signed the Bill ofpm and then in the 18нали you only got owner rights anyway after all you need to end the production right now so collect money and give it to my children, now I can't anymore, okay? This is pretty awful. All right, centralization of credit in the hands of the state, okay? By means of a national bank. Okay, and you think, okay, this is, this sounds pretty extreme. But you know what, they already do this in capitalism. It's called the Bank of England, right? All right, so there are already some, a lot of similarities between capitalism and communism. Remember, the Bank of England is where all wealth around the world is stored, right? So a centralized bank and communist system, it's the same thing, right? Centralization of the means of communication, right? A party. Well, this is just the capitalist class, an oligarchy. Like, does it really matter if it's an oligarchy or a party?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0023
+
+## seg-0024 / 00:28:52-00:30:08 / SPEAKER_01
+
+It's the same thing, really, right? Extension of factories and instruments of production owned by the state, equal liability of our work, combination of agriculture and manufacturing industries. All right, so this is the idea of creating a proletariat. All right, or manufacturing. And this is what capitalists want, guys, okay? So for, at this time, most of the world is agricultural, feudal, and this calls for the creation of a manufacturing, industrial economy. This is what capitalists want, right? Because that way, they can better exploit people. Free education for all children. And you're like, oh, well, that's great, man. Free schooling. No, it's not. Because now you can brainwash them, right? This is brainwashing. So, you know, you're like, okay, well, this agenda is communist. Well, if I'm a capitalist, I'm okay with this agenda, right? I'm happy with this agenda. What's wrong with this agenda, right? This development, class distinctions have disappeared, and all production has been captured in the hands and vast distortion of the whole nation.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0024
+
+## seg-0025 / 00:30:08-00:30:53 / SPEAKER_01
+
+The public power will lose its political character. Political power, probably so -called, is merely organized power of one class for oppressing another. The proletariat, during its contest, with abortion, is compelled by the force of circumstances to organize itself as a class. If, by means of a revolution, it makes itself the ruling class, and as that sweeps away by force the old conditions of production, then it will, along with these conditions, have swept away the conditions for the existence of class and antagonism of classes, generally, and will thereby have abolished its own supremacy as a class. Okay, all right. So this sounds very complicated, but it's not, okay? First of all, it establishes the proletariat and the bourgeoisie are the real enemies. Not between the capitalist and the monarchy, between capitalism and the bourgeoisie. And religion. The real conflict is class between the bourgeoisie and the proletariat, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0025
+
+## seg-0026 / 00:30:53-00:32:03 / SPEAKER_01
+
+And for the proletariat to win, they need a party, okay? They need a vanguard party. But, hey, once this vanguard party establishes itself and destroys class, it will go away. Okay, do you understand? It will give up power voluntarily. It will choose to not exist anymore. This has never happened in history before, but trust us on this one, okay? This time it'll be different. All right. All right. Okay, so this is interesting. In the Communist Manifesto, it says, okay, Switzerland, we support the radicals. In Poland, we support the agrarian revolution. In Germany, we support the bourgeoisie, oh, sorry, yeah, the proletariat, okay? So in different places, they have different concerns. They have different needs. Right? And what these people are saying is that we're not part of the national conspiracy. All we want is a more fair, just society. That's all we want. We're not part of a secret society bent on world domination.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0026
+
+## seg-0027 / 00:32:04-00:33:23 / SPEAKER_01
+
+What the Communist Manifesto says is, yes, you are. Yeah, we're all part of this great conspiracy to conquer the world and establish communism, right? So why would they do that? That's really strange, guys, right? Why would they admit we are a national conspiracy? Why would they admit we are a national conspiracy? We're a secret society. This is a secret document that we read amongst ourselves. But it's also possible for you to steal and show that, yes, there is this secret society, a national conspiracy of Jews who are trying to destroy the world, okay? Really interesting. Okay, so now I want to talk about 1917. What happens in 1917 is this. World War I is breaking out, okay? The Russians are losing the war. The Tsar, Nicholas II, he abdicates. And now you have a democratic government in Russia. But then the Bolsheviks, the Bolsheviks are an extreme communist faction, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0027
+
+## seg-0028 / 00:33:23-00:34:40 / SPEAKER_01
+
+They launched the October Revolution. So basically they seized power for themselves. And then they have an election. As you can see from this election, the Bolsheviks, even though they have seized power, they're not as popular, okay, as the socialists, okay? The socialists are gonna argue for more gradual change. The Bolsheviks want radical change. So you can see 17 million people voted for the socialists. Only 10 million people voted for the Bolsheviks, even though the Bolsheviks controlled the government, okay? And also, look, look at this. At the end of the day, they only got 23%. All the popular vote, okay? So they are not a popular faction. They're a minority, okay? But, and so this launches the civil war, okay? And as you can see at this time in history, yes, the communists have control over the major cities of Russia, but they don't really control most of Russia. In fact, they have lots and lots of enemies.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0028
+
+## seg-0029 / 00:34:40-00:36:11 / SPEAKER_01
+
+They have the Whites to deal with. The Whites is basically the nobility, okay? And they have also allied armies who come in. They have the Greens, who are the peasants, okay? They have lots and lots of enemies. And at this time in history, you cannot possibly expect that the Bolsheviks would win this battle, okay? But they do. All right, here's something interesting. This is the Romanovs, okay? The Romanovs. Sorry, the Romanovs. The Romanovs have been in power in Russia for a hundred years, okay? And the Romanovs are beloved by the peasants, and they themselves are part of the Orthodox tradition. They're also relatives of the nobility of Europe, okay? So England and Germany, all right? So this is the Tsar Nicholas II. The Tsar here is Nicholas II, okay? And these are all his relatives. This is the Romanov dynasty. Now, when the revolution broke out, you would think that they would just run away to Europe, right, where their relatives are.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0029
+
+## seg-0030 / 00:36:11-00:37:19 / SPEAKER_01
+
+They didn't do that. They just stuck around. So the question then is, why would they just stick around? The answer is, they never believed they were in danger, okay? First of all, they could not expect the Bolsheviks to win out, but also, they're beloved by the peasants. They're part of the Orthodox church tradition, and they have relatives who are the most powerful people in Europe, including in England, including in Germany, right, the Kaiser. So they thought they were fine. But then something strange happens. The Bolsheviks decides to kill every one of them, okay? They wipe out the Romanov family. Between 17 and 18, all members of the Romanov family were assassinated. And you're like, that makes no sense. Why would they do that? By doing that, first of all, you piss off the peasants, right? You turn the peasants against you because the peasants love the royal family.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0030
+
+## seg-0031 / 00:37:20-00:38:37 / SPEAKER_01
+
+You now get the families of Europe pissed off at you, because you killed their relative, but also you come across as fanatical then on World Revolution, okay? And then you piss off the Orthodox as well. So these communists are fanatics. But let's just assume they're not fanatics, and let's assume that, in fact, they had a good reason to do this. Why would they do that, okay? And the answer is this. The Romanovs had billions, billions of dollars in foreign banks, okay? In the city of London on Wall Street, okay? A lot of their wealth, billions and billions of dollars, is stored overseas. What happens if they die? What happens if they all die, right? Guess what? These billions now belong to the foreign banks. That's a lot of money, man. And in fact, this is exactly what happened where they all died, and the foreign banks just took control over this money.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0031
+
+## seg-0032 / 00:38:38-00:39:53 / SPEAKER_01
+
+This is one of the great controversies of the 20th century. The government of Russia has been trying for a long time to get this money back, and the foreign banks like, well, you don't own this money. It's the Romanovs who own this money, okay? So this is evidence that the communists and the capitalists actually are friends. They are working together, okay? Does that make sense, guys? guys? All right. Let's continue. All right. Another thing is that, again, the Bolsheviks are not that popular, okay? The peasants are pissed off at them because they just killed the noble family. There aren't that many workers. So how can they fight this war? Well, they fight this war using mercenaries, okay? From Latvia, from China, from the Hungarians, okay? So there's over 200,000 of these mercenaries. And you're like, wait a minute here. How did these guys get paid? The Bolsheviks don't have any money. How were they getting paid, right?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0032
+
+## seg-0033 / 00:39:53-00:41:00 / SPEAKER_01
+
+And the answer is, well, Wall Street, guys. Wall Street and the City of London gave the Bolsheviks money to pay these mercenaries. It was Wall Street who paid for these mercenaries. And you're like, why would they do that? And the answer is because the Bolsheviks, to pay Wall Street back, created the Red Terror, okay? The Red Terror is when the Bolsheviks basically went to all the rich people in Russia. The nobility then says, you either give me all your money or I will rip your daughter. I will kill your wife. I will kill you, right? And guess what? By doing that, they made a lot of money. And that money went to pay Wall Street for the foreign mercenaries. Capitalists and communists work well together, okay? Then you have the allies, right? So Britain, America, France, Japan sent these huge armies to Russia. And everyone thought, okay, it should destroy communism because these are capitalists.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0033
+
+## seg-0034 / 00:41:00-00:42:11 / SPEAKER_01
+
+They're afraid of the communists. But in fact, that's how it happened, okay? They went to collect debt, okay? So Russia owed these countries money. The Soviet Union, the Soviet Union, the Soviet Union, the Soviet Union, the Soviet Union, the Bolshevik paid off this debt. So then the allies left and attacked the whites, okay? Alright? So the allies helped the Bolsheviks and Wall Street gave money to the Bolsheviks for mercenaries. And that's how the Bolsheviks won the war. Does that make sense? Alright. So capitalists and communists work well together because they have a similar worldview. alright? All right, so this is a passage from a book called Wall Street and the Russian Revolution by Richard Spence. And Richard Spence is a historian and he had lots of documentation where Wall Street is actually financing the Bolsheviks. And he explains why this is happening. He says that Wall Street wants to destroy the Russian economy, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0034
+
+## seg-0035 / 00:42:11-00:43:17 / SPEAKER_01
+
+Destroy the Russian economy because Russia's a threat, okay? And then it wants to steal the riches and the resources from the Russians, okay? That's the purpose of financing the Bolsheviks, to destroy the Russian economy and to steal the wealth of Russia, all right? From 1918 until 1921, the Bolsheviks reduced Russia to an economy based on barter and robbery, okay? So the Bolsheviks basically stole everything from the rich, the middle class, and the poor to finance their war. Besides the abolition of private trade and the destruction of the monetary system, the Red Regime embarked on a massive looting campaign, ransacking palaces, bank vaults, churches, and museums. Okay, we call this asset stripping. So basically, the Bolsheviks destroyed their own society in order to get the money to finance this war, in order to pay off Wall Street, okay? They expropriated every valuable they could, get their hands on and stash it all in a new state treasury.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0035
+
+## seg-0036 / 00:43:17-00:44:10 / SPEAKER_01
+
+By the close of 1921, an estimated $450 million in valuables had been sequestered there with more to come, much of it destined to be fenced abroad for a faction of its value in capitalist hard currency, okay? So basically, the Bolsheviks stole everything in order to finance the war, okay? And in the process, by destroying their tradition, by destroying their wealth, by destroying their religion, by destroying their nobility, it made the Soviet Union now much more amendable to capitalism. And that's what happened when the Soviet Union fell, it became capitalist, okay? So, this shows us is that capitalism and communism are not enemies, they're partners in world conquest. And that's what the 12th century is about. All right, any questions?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0036
+
+## seg-0037 / 00:44:16-00:44:58 / SPEAKER_00
+
+So, I think for China, when China is officially recognized as a country, Mao Zedong said that we need to pursue communism and abandon capitalism, but there is, like, they followed Marx's thinking. And, like, currently there is a special term, which is, I think, I don't know the English name, but it's called Chinese unique socialism. I don't know, like, is that a way that the leaders deal with when the country is, you know, actually pursuing capitalist, or is actually pursuing capitalist, but the communism goal is just professed?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0037
+
+## seg-0038 / 00:44:59-00:46:19 / SPEAKER_01
+
+Okay, so China is an interesting example, because when Marx was examining the world, the two places he didn't really consider are Russia and China, okay? So, Marx, okay, Russia and China, okay, why? The answer is because both are agricultural agrarian, or what he calls feudal. So, from his perspective, Russia and China have not reached a state of development, which is ripe for world revolution, okay? For him, the focus is on Germany. And this makes sense, because remember, Marx is being supported by Britain, right? And Britain is the great enemy of Germany. So, that's why Britain would support Marx, because he wants, he wants, because Marx is trying to create a revolution in Germany, which is a great enemy of Britain, okay? That makes sense. So, for Marx, he thinks that China and Russia don't really matter, because they're backward, they're agricultural, they have monarchies, okay? So, it doesn't really fit into his model. But then, Lenin, okay, came and said, no, you can speed up the revolution, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0038
+
+## seg-0039 / 00:46:19-00:47:41 / SPEAKER_01
+
+Even though peasants, peasants become workers, if you have a party to help the, the process, okay? So, that was Lenin's contribution. And Mao is like, no, you don't even need workers, okay? You can have a movement entirely on peasants. And then, once you have won the revolution, then you can create an industrial revolution. So, really, if you think about it, Mao wasn't really leading a communist revolution. It was, you know, it had the facade of communism, but it was really a peasant uprising. Okay? So, Mao was not a great communist theoretician, like Marx or Lenin. Mao was a military commander, okay? So, he was no different from other peasant leaders in the past. People like Zhu Yuanzhang, okay, of the Ming Dynasty. These people. But in order to create legitimacy, in order to, have support from the Soviet Union, from Russia, they had the communist facade, okay?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0039
+
+## seg-0040 / 00:47:43-00:48:41 / SPEAKER_01
+
+And also, communism provided a framework in order to industrialize very quickly. So, what's important to understand is that, at this time in history, Mao was trying to actually work with the United States as well, okay? He's trying to work with both the Soviet Union and the United States. The United States wanted to support Zhang Jiechi, Zhang Haixian. So, when Mao won, Mao was trying to support Zhang Jiechi. Basically, the United States shut off China, embargoed China, which forced Mao to fully embrace communism, okay? All right? But for Mao, communism was not that important. What's important is to industrialize very quickly. Industrialization. Okay, so for him, what's important is industrialization. The other idea is the idea of national sovereignty. All right? So, he didn't really want to be controlled by the Soviet Union. If China was fully communist, the Soviet Union would say, well, you're our little brother, okay? But for
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0040
+
+## seg-0041 / 00:48:41-00:48:52 / SPEAKER_01
+
+Mao, what was important is national sovereignty, and that's what ultimately led to the Sino -Soviet split in 1957, okay? Does that make sense? All right. Okay.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0041
+
+## seg-0042 / 00:48:56-00:49:16 / SPEAKER_00
+
+So, can we understand that capitalist equals to communism, or capitalism equals to communism, or communism is a weapon of capitalism, but if we try to pursue, you know, communism at the end, we will finally achieve capitalism.
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0042
+
+## seg-0043 / 00:49:18-00:50:55 / SPEAKER_01
+
+Okay. All right. So, capitalism is the belief that you can structure society around capital, okay? And this was a direct threat to the old order, okay? The old order, which focused on religion, the king, the military, okay? Okay? So the capitalist is like, no, let's get away with all this complexity, let's just make capital the basis of society, okay? Now what happened is that as these two systems came into conflict, all right, the workers wanted socialism, okay, social democracy. So capitalism, from capitalism you had social democracy, right? Social democracy is as easy, okay? Yes, yes, we believe in capitalism, but we believe in restraints on capitalism. We believe on a fair distribution of capital, all right? And that makes sense because, well, you can't just have a few people with all the money, okay, all right? But what happened was social democracy was both a threat to the old order as a threat to communism as well, right?
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0043
+
+## seg-0044 / 00:50:55-00:51:53 / SPEAKER_01
+
+So the old order, it was a threat to communism. capitalism what they did was they would mutate social democracy into communism in order to delegitimize okay delegitimize social democracy to make it this into a threat against everyone okay does that make sense all right so to summarize capitalism is as a natural outgrowth of history but this comes in conflict with the old order and capitalism will give birth to social democracy all right which is a natural response to capitalism social democracy becomes a threat to both the old order and as well as capitalism capitalism and the old order are also in contact with each other so what they do is they conspire to create communism okay so in the early days communism is being supported by both the nobility and the capitalist but for different reasons all right and then what happens is that you have the old order and the new
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0044
+
+## seg-0045 / 00:51:53-00:53:05 / SPEAKER_01
+
+order are in conflict with each other so they because of this support communism becomes much more extreme which leads to bolshevism okay or revolution right all right does that make sense how the system worked out so we can't say okay well they all have this plan out no it's actually much more organic much more confusing than that at first they had communism just as a psyop okay no one actually believed that oh my god from communism you have bolshevism okay because bolshevism is just crazy okay but at first if our communism was crazy but then it became much more mainstream and that led to the birth of bolshevism which became which was really crazy at that time but over time it also became more extreme sorry became much more mainstream which led to the rise of communism everywhere including in china okay so 1917 1917 the october revolution it was a wild gamble and it
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0045
+
+## seg-0046 / 00:53:05-00:54:02 / SPEAKER_01
+
+worked because of the greed of capitalists okay but once it worked out once communism was established in soviet union then it changed the way people saw the world and they thought that now communism is possible anywhere including in china okay does that make sense all right any more questions guys okay great all right so we go on break for a month and then we come back from the break what we're going to do is we're going to learn we're going to take all that we've learned okay all this history all this game theory and apply it to the modern world so we look at specific current events so during the break i want you guys to focus on current events reading news right so america is about to attack iraq iran soon uh america is going to take over greenland canada um trump is visiting china in april there's there's gonna be a lot of
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0046
+
+## seg-0047 / 00:54:02-00:54:12 / SPEAKER_01
+
+news for us to cover okay so uh during a break uh please focus on keeping up with current events all right okay guys all right see you after the break
+
+Ref: video:predictive-history-axqdlhws93q@transcript:v1#seg-0047
