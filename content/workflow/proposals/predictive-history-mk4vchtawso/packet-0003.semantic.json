@@ -1,0 +1,195 @@
+{
+  "packet_id": "predictive-history-mk4vchtawso-semantics-pkt-0003",
+  "source_id": "video:predictive-history-mk4vchtawso",
+  "source_date": "2026-03-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0017",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0018",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0019",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0020",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0021",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang builds a four-dimensional war model: narrative, political, economic, and military. He says America forces the first three spheres to conform to a decapitation military strategy, while Iran reverses the order and uses military action to strengthen economic, political, and narrative position.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0023",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He shifts to a world-system model: empire supplies muscle, finance sets the game, the dollar economy runs the game, multilateral organizations hide its coercive core, and culture, education, and media justify the system.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang defines war as operating across narrative, political, economic, and military dimensions.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Model stated in the 2026-03-26 lecture.",
+      "topic_tags": [
+        "war-model",
+        "strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that American strategy subordinates narrative, politics, and economics to a military strategy of decapitation and forced surrender.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0017",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Diagnosis of American strategy as of 2026-03-26.",
+      "topic_tags": [
+        "american-strategy",
+        "decapitation",
+        "surrender"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Iranian strategy reverses the American model by using military moves to improve Iran's economic, political, and narrative position.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0019",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Diagnosis of Iranian strategy as of 2026-03-26.",
+      "topic_tags": [
+        "iranian-strategy",
+        "narrative",
+        "gulf-states",
+        "oil"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because American strategy lacks reflection, flexibility, and resilience, Jiang believes America is losing and will ultimately lose, though an empire can drag the war on for at least 20 years.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0020",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0021",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Prediction and diagnosis made on 2026-03-26.",
+      "topic_tags": [
+        "american-defeat",
+        "resilience",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "His world model puts empire at the core as muscle, finance as game master, the dollar economy as the game, and multilateral organizations and culture as legitimacy layers hiding coercion and rent extraction.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0023",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Model restated in this lecture from the prior class.",
+      "topic_tags": [
+        "world-system",
+        "empire",
+        "finance",
+        "multilateral-organizations"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0019"
+      ],
+      "moment": "Iran flips the direction of strategy: the military serves economics, politics, and narrative instead of demanding their obedience.",
+      "source_phrase": "It's completely reversed",
+      "why_it_matters": "This is the strategic hinge of the lecture's explanation for Iranian advantage.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0021"
+      ],
+      "moment": "The desperate empire doubles down when it cannot reflect.",
+      "source_phrase": "what they do is they double down",
+      "why_it_matters": "It connects lack of reflection to escalation and possible suicidal ground war.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0023"
+      ],
+      "moment": "Empire is the muscle; finance is the game master.",
+      "source_phrase": "The empire is the muscle but the finance are the ones who actually set the game",
+      "why_it_matters": "This compact model supports the later claim that the system can replace one empire with another.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "four dimensions of war",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Narrative, political, economic, and military spheres that can either be subordinated to one military plan or coordinated strategically.",
+      "confidence": "high"
+    },
+    {
+      "term": "reflection",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "The ability to sit with strategists, assess how the war is going, and change course.",
+      "confidence": "high"
+    },
+    {
+      "term": "resilience",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0021",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "The ability to draw support, recruits, money, and sympathy as the war continues rather than exhausting one's base.",
+      "confidence": "high"
+    },
+    {
+      "term": "game masters",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Finance actors such as the City of London, Wall Street, central banking institutions, and asset managers who set the game behind the empire's muscle.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0022"
+      ],
+      "note": "As of 2026-03-26, Jiang says America will probably lose the war, while acknowledging the loss may take years because empires can prolong conflict.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0024"
+      ],
+      "note": "Segment 0024 ends mid-sentence; later packet context completes the occult/transnational-capital layer."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "packet_id": "predictive-history-mk4vchtawso-semantics-pkt-0007",
+  "source_id": "video:predictive-history-mk4vchtawso",
+  "source_date": "2026-03-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0049",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0050",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes Pax Judaica materially: Israel need not defeat Iran, but can control Middle East resources, trade routes, AI data centers, and surveillance infrastructure.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0052",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0053",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "He then describes Iran's postwar role: sanctions relief, oil exports, the north-south corridor, Belt and Road, Hormuz tolls, and Russian/Chinese incentives make Iran a second regional power and trade hub.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0055",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "He answers the objection that Iran and Israel are enemies with a game-theory rule: strong players respect each other and prey on the weak, so a strong Iran and strong Israel may abandon the weak GCC and United States to build a new order.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0054"
+      ],
+      "note": "The transcript repeatedly says 'Terrain' where context indicates Iran/Tehran; preserve refs but avoid making a glossary term from the ASR error.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He predicts that America will be forced to retreat from the Middle East, leaving Israel and Iran as two regional powers.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-26 about the postwar order.",
+      "topic_tags": [
+        "america",
+        "middle-east",
+        "israel",
+        "iran",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pax Judaica would be a trade network in which Israel controls Middle Eastern resources, logistics, AI data centers, and surveillance infrastructure linking the Middle East to Europe, East Asia, India, Africa, Ukraine, and Russia.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0050",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0051",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Projected postwar model in the 2026-03-26 lecture.",
+      "topic_tags": [
+        "pax-judaica",
+        "trade",
+        "ai",
+        "surveillance",
+        "resources"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the war has delivered Iran de facto sanctions relief and made continued war economically beneficial to Iran.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0052",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "War diagnosis made on 2026-03-26.",
+      "topic_tags": [
+        "iran",
+        "sanctions",
+        "oil",
+        "global-economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The postwar order, in Jiang's model, has Israel controlling Middle Eastern resources while Iran controls Hormuz, collects tolls, and becomes central to north-south and Belt and Road trade.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0053",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Projected postwar model in this lecture.",
+      "topic_tags": [
+        "iran",
+        "israel",
+        "trade-corridors",
+        "hormuz"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "His first geopolitics rule is that strong players respect each other and prey on the weak.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Game-theory rule stated in this lecture.",
+      "topic_tags": [
+        "game-theory",
+        "geopolitics",
+        "strength",
+        "weakness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "If Iran proves strong and the United States and GCC prove weak, Jiang predicts Israel will abandon them and work with Iran to build a new Middle East order.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0055",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Conditional prediction made on 2026-03-26.",
+      "topic_tags": [
+        "israel",
+        "iran",
+        "gcc",
+        "game-theory"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0050",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0051"
+      ],
+      "moment": "Pax Judaica is drawn as oil, trade routes, data centers, and surveillance, not only military command.",
+      "source_phrase": "the backbone of Pax Judaica",
+      "why_it_matters": "It gives the replacement empire a concrete infrastructure.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0053"
+      ],
+      "moment": "The war meant to isolate Iran embeds Iran into the global economy.",
+      "source_phrase": "It's the complete opposite of the intention of this war",
+      "why_it_matters": "This is one of the lecture's strongest strategic reversals.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0055",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0056"
+      ],
+      "moment": "Ideological enemies can become partners when both prove strong and the old allies prove weak.",
+      "source_phrase": "Israel and Iran are going to get together and say screw these guys",
+      "why_it_matters": "It turns the lecture's most counterintuitive forecast into a game-theory move.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "India Middle East Trade Corridor",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The trade corridor Jiang uses as the concrete map of Pax Judaica, linking India and the sub-Asian continent to Europe through Israel.",
+      "confidence": "medium"
+    },
+    {
+      "term": "north-south transport corridor",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "A Russia-Iran trade corridor Jiang says will make Iran an access route to Europe.",
+      "confidence": "high"
+    },
+    {
+      "term": "law of the jungle",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's game-theory shorthand for strong powers respecting each other and abandoning weak allies when interests shift.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0054",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0056"
+      ],
+      "note": "As of 2026-03-26, Jiang's forecast is a two-pole Middle East order with Israel and Iran as regional powers despite ideological enmity.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0052"
+      ],
+      "note": "The transcript says 'Trudy Parsi'; context likely means Trita Parsi, but the semantic pass preserves the source spelling unless checked elsewhere."
+    }
+  ]
+}
