@@ -1,0 +1,185 @@
+{
+  "packet_id": "predictive-history-spg58glfz68-semantics-pkt-0001",
+  "source_id": "video:predictive-history-spg58glfz68",
+  "source_date": "2026-03-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture as the third prediction in his Iran-war sequence: the Al-Aqsa/Dome of the Rock site will be destroyed, after earlier predictions of U.S. ground troops/national draft and no tactical nuclear use.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0003"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A clip of Senator Blumenthal complains that the briefing left unanswered questions about costs, American ground troops in Iran, and Russian aid to Iran.",
+      "speaker_attribution": "Richard Blumenthal clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0004",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extracts three takeaways from the Blumenthal clip: no war budget, path to ground troops and therefore a draft, and Russian involvement on Iran's side.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0006",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0007",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "A journalist asks Iran's foreign minister about U.S. boots on the ground; the answer is that Iran is waiting for them and sees an invasion as disastrous for the United States.",
+      "speaker_attribution": "NBC-style interview clip; Iranian foreign minister and journalist",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang predicts that the United States will use ground troops in the Iran war, leading Donald Trump to institute a national draft.",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-12 about the unfolding Iran war.",
+      "topic_tags": [
+        "Iran war",
+        "ground troops",
+        "draft"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Israel and the United States will not use tactical nuclear weapons in this war.",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-12 about the same war.",
+      "topic_tags": [
+        "Iran war",
+        "nuclear weapons"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the Al-Aqsa/Dome of the Rock site, described in the transcript as the third holiest site in Islam, will be destroyed during the war.",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-12 about this war.",
+      "topic_tags": [
+        "Al-Aqsa",
+        "Third Temple",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Blumenthal's briefing comments are used as evidence that the White House has not specified the cost or endpoint of the war and is moving toward ground deployment.",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0003",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang reading of a contemporary clip in the 2026-03-12 lecture.",
+      "topic_tags": [
+        "war cost",
+        "ground troops",
+        "Congress"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iranian official's comfort with U.S. invasion is treated as evidence that Iran sees American ground troops as a trap it has prepared for.",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0006",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0007",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Clip interpreted in the 2026-03-12 lecture.",
+      "topic_tags": [
+        "Iran",
+        "trap",
+        "ground troops"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture stakes itself on one falsifiable shrine prediction.",
+      "source_phrase": "If they do not destroy the Al-Aqsa Mosque... my predictive model, my analysis is completely wrong",
+      "why_it_matters": "Jiang is not treating the site as background symbolism; he makes it the test of the whole model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0006",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0007",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0008"
+      ],
+      "moment": "Iran is presented not as afraid of invasion but as waiting for it.",
+      "source_phrase": "we are waiting for them",
+      "why_it_matters": "This reverses the Washington assumption that ground troops automatically intimidate Iran.",
+      "tone": "reversal",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "national draft",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The domestic consequence Jiang attaches to U.S. ground troops in Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gang of Eight",
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "The confidential congressional group the White House briefs on war objectives and progress.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0001"
+      ],
+      "note": "The lecture is dated 2026-03-12 and explicitly presents the Al-Aqsa destruction prediction as the third prediction in a continuing Iran-war sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0006",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0007",
+        "video:predictive-history-spg58glfz68@transcript:v1#seg-0008"
+      ],
+      "note": "The interview clip speakers are not Jiang; diarization labels split journalist and foreign minister but exact names are only partly captured in ASR."
+    }
+  ]
+}
