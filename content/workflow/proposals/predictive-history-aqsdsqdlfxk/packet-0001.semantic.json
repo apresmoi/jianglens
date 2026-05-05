@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-aqsdsqdlfxk-semantics-pkt-0001",
+  "source_id": "video:predictive-history-aqsdsqdlfxk",
+  "source_date": "2026-03-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0002",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0007",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the Iran-war lecture by using Plato's cave to argue that social reality is a collective hallucination, then defines attention and consciousness as the wealth that capital, religion, stories, the dollar, and AI compete to extract.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0008"
+      ],
+      "note": "Single-speaker lecture; the opening questions are Jiang's framing questions, not audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the talk around why the United States-Iran war started, how it will end, and what comes after it, saying the answers require a theory of reality itself.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Framing claim made on 2026-03-17.",
+      "topic_tags": [
+        "Iran war",
+        "reality",
+        "episode framing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reality is described as a collective hallucination: people name shadows, build language around them, and mistake that shared symbolic order for the real world.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0002",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "General model stated on 2026-03-17 through Plato's cave.",
+      "topic_tags": [
+        "Plato's cave",
+        "reality",
+        "language"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines wealth as consciousness and attention: a vase becomes valuable when focused consciousness is stored in it, and money or capital extracts and stores that consciousness as wealth.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Definition introduced on 2026-03-17.",
+      "topic_tags": [
+        "attention",
+        "capital",
+        "wealth"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Religious monuments, Homeric stories, the Bible, the U.S. dollar, and artificial intelligence are presented as successive mechanisms for focusing attention and extracting or storing human consciousness.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical model stated on 2026-03-17.",
+      "topic_tags": [
+        "religion",
+        "stories",
+        "U.S. dollar",
+        "artificial intelligence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the coming struggle is a war for human consciousness between the U.S. dollar as old world order and artificial intelligence as new world order.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Forward-looking model stated on 2026-03-17.",
+      "topic_tags": [
+        "AI",
+        "U.S. dollar",
+        "human consciousness",
+        "new world order"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The people who maintain power in Plato's cave do not need force; they rule by manipulation because prisoners believe in the shadows and in the rulers' power.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0007",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Model stated on 2026-03-17 through the cave allegory.",
+      "topic_tags": [
+        "power",
+        "manipulation",
+        "belief"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003"
+      ],
+      "moment": "The Iran war is made to pass through Plato's cave: before geopolitics can be explained, the listener has to accept that the world is a collective fantasy.",
+      "source_phrase": "our world is a hallucination",
+      "why_it_matters": "This is the episode's root move: the war is not just a military event but a struggle over the manufactured reality people live inside.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004"
+      ],
+      "moment": "A vase becomes a theory of capital: money is stored consciousness.",
+      "source_phrase": "our conscious attention that creates wealth",
+      "why_it_matters": "It supplies the economic metaphysics behind the later dollar, AI, academia, and Epstein arguments.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0008"
+      ],
+      "moment": "The rulers do not stop the cave escapee because their real power is the prisoners' belief that they have power.",
+      "source_phrase": "all their power rests on our belief in their power",
+      "why_it_matters": "This reversal recasts domination as a confidence trick maintained by the ruled.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective hallucination",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's phrase for social reality as a shared fantasy produced by imagination, perception, language, and attention.",
+      "confidence": "high"
+    },
+    {
+      "term": "conscious attention",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The focused human awareness Jiang says creates value and can be extracted and stored by capital.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001"
+      ],
+      "note": "This 2026-03-17 lecture treats an already-started United States-Iran war as the immediate political problem to be explained.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0001",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006"
+      ],
+      "note": "ASR repeatedly renders 'Allegory of the Cave' as 'Aligoi' or 'Avenue'; semantic extraction treats the reference as Plato's cave."
+    }
+  ]
+}

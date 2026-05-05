@@ -1,0 +1,181 @@
+{
+  "packet_id": "predictive-history-aqsdsqdlfxk-semantics-pkt-0006",
+  "source_id": "video:predictive-history-aqsdsqdlfxk",
+  "source_date": "2026-03-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0041",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0042",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0043",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0044",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0046",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0047",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Amber continues reading source material about Masha Drukova, Putin, Chabad Lubavitch, Russo-Jewish oligarchs, and the Trump presidency while Jiang identifies Chabad Lubavitch and corrects a name in the reading.",
+      "speaker_attribution": "Amber reads quoted document excerpts; Jiang prompts and comments",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0041",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0043",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Amber reads document claims about a Silicon Valley investor tied to Putin's youth movement, Chabad's alleged role with the Trump presidency, and Ivanka Trump's election-day visit to a rabbi's gravesite.",
+      "speaker_attribution": "Amber reading quoted material",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0041",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "note": "SPEAKER_00 is a student reader quoting a displayed source; these are not audience questions.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0042",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0048"
+      ],
+      "note": "SPEAKER_01 is Jiang guiding the reading and clarifying names.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The quoted material identifies Masha Drukova as a Silicon Valley investor formerly tied to Putin's youth movement who spoke favorably of Epstein.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Quoted source material discussed on 2026-03-17.",
+      "topic_tags": [
+        "Masha Drukova",
+        "Vladimir Putin",
+        "Silicon Valley",
+        "Jeffrey Epstein"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats the Drukova material as evidence that Epstein was connected to Vladimir Putin.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0041",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Interpretation made on 2026-03-17.",
+      "topic_tags": [
+        "Jeffrey Epstein",
+        "Vladimir Putin",
+        "network"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted material says Chabad Lubavitch was trying to co-opt the Trump presidency and was used by Putin to monitor Russo-Jewish oligarchs.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0043",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0044",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Quoted source material discussed on 2026-03-17.",
+      "topic_tags": [
+        "Chabad Lubavitch",
+        "Trump presidency",
+        "Putin",
+        "Russo-Jewish oligarchs"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted material says Ivanka Trump and a person read as Jared were at Rabbi Schneerson's gravesite on the day Trump was elected president.",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0046",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0047",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Quoted source material discussed on 2026-03-17 about the day of Trump's election.",
+      "topic_tags": [
+        "Ivanka Trump",
+        "Jared Kushner",
+        "Rabbi Schneerson",
+        "Chabad Lubavitch"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0042",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "moment": "The Epstein network reaches from Silicon Valley to Putin to Chabad to Trump.",
+      "source_phrase": "connected with Vladimir Putin",
+      "why_it_matters": "This packet supplies the bridge from Epstein as trained operator to Epstein as transnational connector.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Chabad Lubavitch",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0043",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0044",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "The transnational Jewish religious organization Jiang identifies as part of the network linking Putin, Russo-Jewish oligarchs, Trump-world actors, and Epstein.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Russo-Jewish oligarchs",
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "A group named in the quoted source as people Putin allegedly monitored through Chabad.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "note": "The quoted source anchors one claimed Chabad-Trump linkage to the day Donald Trump was elected president.",
+      "possible_update_to_prior_position": false,
+      "confidence": "low"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0048"
+      ],
+      "note": "Jiang says the displayed source may not actually say 'Kushner'; the Jared/Kushner identification is therefore low confidence."
+    },
+    {
+      "refs": [
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0043",
+        "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0045"
+      ],
+      "note": "Sensitive claims about Chabad and Jewish oligarchs are quoted source material within Jiang's lecture and are not independently verified here."
+    }
+  ]
+}
