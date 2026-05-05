@@ -114,6 +114,18 @@ The family also adds anxiety as work discipline. Debt, poverty, war, and depress
 <span id="attention-capture-extracts-energy" class="lens-point-anchor"></span>
 Attention capture extracts energy when a cave wall, school, platform, money system, debt regime, or capital structure turns human focus and imagination into usable power while making the capture feel like normal reality.
 
+## Education As A Soul Game
+
+The school lectures add an education family to the atlas. Jiang does not treat school as neutral infrastructure with occasional failures. In Secret History #1, school begins as separation and brainwashing: [the child taken away from the parent learns to trust the teacher]{evidence="video:predictive-history-ajfxykt9joo@transcript:v1#seg-0078 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0081"}, and the teacher's world can become national memory, obedience, and sacrifice. In Game Theory #2, the same institution becomes a stakeholder game where parents, students, teachers, administrators, government, and colleges converge around incentives that can make [actual learning the least important game]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0047"}.
+
+The elite version is meritocracy. The Secret History meritocracy lecture treats Harvard and Yale as power institutions that select for brand upside, trauma, hunger, and transgression rather than simple academic merit. The damage moves backward into parenting and high school: [the child is neglected and demanded at the same time]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037"}. That makes education a soul game, not only a credential market. It trains what the student trusts, fears, wants, and becomes.
+
+The positive counterform is not anti-education. Predictive History itself begins from a school problem: [Great Books can move students, but without historical context the books do not yet become a world]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0003 video:predictive-history-voqeteh6hko@transcript:v1#seg-0004"}. Jiang's later Great Books lecture makes the alternative explicit: [the dead school teaches materialism, while Great Books offer rival universes and a discipline of soul formation]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0032 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0033 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0034"}. The atlas should therefore read education as ambivalent: it can manufacture obedience, anxiety, and elite extraction, or it can train attention, history, love, and imagination toward escape.
+
+<!-- lens-point id="education-soul-game-atlas" concept="education-soul-game" evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0021 video:predictive-history-ks-muauq62e@transcript:v1#seg-0024 video:predictive-history-ks-muauq62e@transcript:v1#seg-0025 video:predictive-history-ks-muauq62e@transcript:v1#seg-0027 video:predictive-history-ks-muauq62e@transcript:v1#seg-0028 video:predictive-history-ks-muauq62e@transcript:v1#seg-0047 video:predictive-history-ks-muauq62e@transcript:v1#seg-0048" -->
+<span id="education-soul-game-atlas" class="lens-point-anchor"></span>
+Education becomes a soul game when the school rewards pleasing parents, teachers, peers, administrators, colleges, and governments more reliably than learning; students then adapt to the rewarded game until the game helps decide what kind of person they become.
+
 ## Guidance, Authority, And Escape
 
 The Great Books material gives the exit problem.
@@ -143,6 +155,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
+| Education as soul game | What kind of person does school make when learning is displaced by trust transfer, status, compliance, and credential competition? | Secret History school, meritocracy, Game Theory schools, Great Books |
 | Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
 | Free will as burden | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
 
@@ -155,6 +168,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2024-11-12 to 2024-11-21**: Rome becomes the laboratory for myth and empire: Caesar changes reality, Octavian inherits the wound, and Virgil fights Homer for Rome's soul.
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
+- **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
 - **2025-12-09 to 2026-01-07**: Attention becomes an explicit energy theory. Capital extracts human focus through freedom, money, anxiety, and destroyed security; the Great Books cave lecture then names attention as true wealth and captured imagination as reality construction.
 - **2026-04-07 to 2026-04-08**: The later processed Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.

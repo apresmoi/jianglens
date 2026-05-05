@@ -127,6 +127,7 @@ Use this lens when a surface starts acting like reality itself.
 
 ## Related Concepts
 
+- [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as one of the cave-wall systems that can make materialism, status, and obedience feel like reality.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - the narrative version of the cave: stories organize the world people think they are acting inside.
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - the constructive version: language, memory, and imagination can found a living shared world.
 - [How Fictional Heroes Become Part Of The Self](/lens/how-fictional-heroes-become-part-of-the-self/) - the interior version: a figure becomes real by entering self-recognition.

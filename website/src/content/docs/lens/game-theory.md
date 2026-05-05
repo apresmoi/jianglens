@@ -53,5 +53,6 @@ This is where game theory becomes concrete. If an actor's narrative says it is w
 
 ## Related Concepts
 
+- [Education As A Soul Game](/lens/education-as-a-soul-game/)
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
 - [How Stories Control Reality](/lens/how-stories-control-reality/)

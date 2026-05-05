@@ -88,6 +88,7 @@ The Great Books become positive practice because they compete for attention at t
 
 ## Related Concepts
 
+- [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as an attention and trust-transfer system before it becomes credential competition.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for the metaphysical account of material false reality, captured attention, and escape.
 - [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) - for chosen slavery and the responsibility of imagination inside the cave.
 - [Game Theory](/lens/game-theory/) - for analyzing the player incentives that make schools, institutions, and markets stabilize bad games.
