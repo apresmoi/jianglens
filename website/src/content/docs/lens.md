@@ -102,6 +102,18 @@ The family also connects to war. Jiang's bleak Q&A claim is that young people ar
 <span id="gerontocracy-extracts-future" class="lens-point-anchor"></span>
 Gerontocracy extracts the future when old wealth uses assets, pensions, healthcare priority, political time, and respect for elders to turn younger life into rent, taxes, care labor, surveillance compliance, and war risk.
 
+## Attention Capture And Capital Extraction
+
+The Secret History capital lecture and the Great Books cave lecture add an attention family to the atlas. Jiang's key move is to treat attention as a metaphysical and economic substance, not a lifestyle concern. In the cave lecture, [attention is energy and true wealth]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}; in the capital lecture, capital becomes [a mechanism for extracting human energy]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0001"}.
+
+That makes the cave wall and the money system neighboring machines. The wall gathers attention until a constructed world feels like the only world. Capital gathers attention by making people direct their own focus toward work, debt, money, status, and future security. Freedom itself can become more efficient than command when [capital can extract more energy, attention, and focus]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0002"}.
+
+The family also adds anxiety as work discipline. Debt, poverty, war, and depression matter because stored rest interrupts extraction; when security is destroyed, attention returns to earning and survival. The political extension is mobility: [the ruling class has no homeland; it has only capital]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0009"}, so extraction can leave one place after its attention and security have been consumed.
+
+<!-- lens-point id="attention-capture-extracts-energy" concept="attention-capture" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011 video:predictive-history-b5fthagng8c@transcript:v1#seg-0001 video:predictive-history-b5fthagng8c@transcript:v1#seg-0008" -->
+<span id="attention-capture-extracts-energy" class="lens-point-anchor"></span>
+Attention capture extracts energy when a cave wall, school, platform, money system, debt regime, or capital structure turns human focus and imagination into usable power while making the capture feel like normal reality.
+
 ## Guidance, Authority, And Escape
 
 The Great Books material gives the exit problem.
@@ -130,6 +142,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
+| Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
 | Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
 | Free will as burden | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
 
@@ -143,6 +156,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
+- **2025-12-09 to 2026-01-07**: Attention becomes an explicit energy theory. Capital extracts human focus through freedom, money, anxiety, and destroyed security; the Great Books cave lecture then names attention as true wealth and captured imagination as reality construction.
 - **2026-04-07 to 2026-04-08**: The later processed Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
 
 ## How To Use The Atlas
@@ -150,6 +164,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 When reading a new source or applying the lens to an event, start with these discriminators:
 
 - What symbolic form is making the world feel real: poem, scripture, film, monument, office, algorithm, currency, war story, school, or sacred text?
+- Who is gathering attention as energy, and what world does that focused imagination make durable?
 - What material test can still falsify the story: cost, logistics, ecology, debt, institutional capacity, demographic pressure, or violence?
 - Who benefits if the story is treated as history, destiny, morality, or nature?
 - Which older world is being erased, translated, defeated, or made unreadable?
