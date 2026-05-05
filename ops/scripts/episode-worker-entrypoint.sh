@@ -135,8 +135,8 @@ start_episode_worker_loop() {
         existing_pid="$(sed -n 's/.*"pid":[[:space:]]*\([0-9][0-9]*\).*/\1/p' "$LOOP_LEASE_FILE" | head -n 1)"
       fi
 
-      if [ -n "$existing_pid" ] && [ -d "/proc/$existing_pid" ]; then
-        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null)"
+      if [ -n "$existing_pid" ] && [ -r "/proc/$existing_pid/cmdline" ]; then
+        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null || true)"
         case "$existing_cmd" in
           *"picoclaw agent --session $LOOP_SESSION"*|*"picoclaw agent"*)
             now="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
@@ -304,8 +304,8 @@ start_lens_steward_loop() {
         existing_pid="$(sed -n 's/.*"pid":[[:space:]]*\([0-9][0-9]*\).*/\1/p' "$LENS_LOOP_LEASE_FILE" | head -n 1)"
       fi
 
-      if [ -n "$existing_pid" ] && [ -d "/proc/$existing_pid" ]; then
-        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null)"
+      if [ -n "$existing_pid" ] && [ -r "/proc/$existing_pid/cmdline" ]; then
+        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null || true)"
         case "$existing_cmd" in
           *"picoclaw agent --session $LENS_LOOP_SESSION"*|*"picoclaw agent"*)
             now="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
@@ -450,6 +450,32 @@ JSON
   ) &
 }
 
+repair_moltnet_room_membership() {
+  (
+    set +e
+    for attempt in $(seq 1 60); do
+      if ! curl -sf "http://127.0.0.1:8787/healthz" >/dev/null 2>&1; then
+        sleep 1
+        continue
+      fi
+
+      if curl -fsS \
+        -X PATCH \
+        -H "Content-Type: application/json" \
+        -d '{"add":["codex-operator","episode-worker","lens-steward"],"remove":[]}' \
+        "http://127.0.0.1:8787/v1/rooms/episode-floor/members" >/dev/null 2>&1; then
+        echo "Moltnet room membership repaired for episode-floor"
+        return
+      fi
+
+      sleep 1
+    done
+
+    echo "Warning: could not repair Moltnet room membership for episode-floor" >&2
+  ) &
+}
+
+repair_moltnet_room_membership
 start_episode_worker_loop
 start_lens_steward_loop
 
