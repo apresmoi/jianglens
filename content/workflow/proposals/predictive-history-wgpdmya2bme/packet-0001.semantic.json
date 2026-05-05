@@ -1,0 +1,190 @@
+{
+  "packet_id": "predictive-history-wgpdmya2bme-semantics-pkt-0001",
+  "source_id": "video:predictive-history-wgpdmya2bme",
+  "source_date": "2026-04-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the final Inferno lecture by reconstructing Dante's cosmology: a perfect God lacks imaginative change, so humans are created as embodied beings capable of pain, sin, free will, creativity, redemption, and return to the divine source.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He defines love as giving oneself to another spark without requiring reciprocity; unconditional love makes the divine spark glow, reconnects the person to the source, and expands perception beyond the self.",
+      "speaker_attribution": "Jiang classroom lecture with repeated ASR fragments.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0006",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses Odysseus and Penelope to show love expanding imagination: the Trojan Horse is born from the desire to return home, but its violence traumatizes Odysseus until mutual love helps heal him. Dante, without reading Homer, arrives at the same cosmic framework.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "note": "Several phrases are ASR-damaged or repeated, but the through-line is clear enough from surrounding lecture context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante's God is perfect and eternal, and that perfection creates a problem because it lacks imagination and cannot itself generate creative expansion.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["dante", "god", "imagination", "cosmology"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Humans solve the cosmic problem because embodiment gives them free will, pain, death, sin, risk, creativity, redemption, and self-forgiveness.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["free-will", "sin", "creativity", "redemption"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the divine spark in humans as love, and says that loving another person awakens the spark's desire to return to God.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["love", "divine-spark", "source", "god"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Unconditional love expands the lover's understanding of the universe, taking the person out of the self and into a more cosmic view that empowers imagination.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["love", "imagination", "cosmos", "self-transcendence"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Dante and Homer independently reach the same framework: love expands imagination, and imagination can heal trauma and enlarge the universe.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0006",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["homer", "odyssey", "dante", "love", "imagination"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002"
+      ],
+      "moment": "Human sin is not an accidental defect in the cosmos; it is the condition that makes imagination, risk, and renewal possible.",
+      "source_phrase": "what's important to sin though is that you can now be creative",
+      "why_it_matters": "It turns Dante's moral universe into a theory of why imperfection is necessary for creation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "moment": "Love is a divine spark recognizing another spark and glowing its way back to the source.",
+      "source_phrase": "there's a spark in us that's divine and it is called love",
+      "why_it_matters": "This image anchors the episode's whole account of heaven, hell, imagination, and redemption.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "moment": "Dante never read Homer, yet Jiang says both poets discovered the same machinery of love, trauma, return, and imagination.",
+      "source_phrase": "Dante never read Homer",
+      "why_it_matters": "It lets Jiang treat the Great Books as converging maps of the same human metaphysics rather than isolated texts.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's name for the love-bearing divine element in humans that wants to return to God.",
+      "confidence": "high"
+    },
+    {
+      "term": "source",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "God or the monad, the origin to which the spark tries to return through love.",
+      "confidence": "high"
+    },
+    {
+      "term": "unconditional love",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Giving to another person without needing the other to love back; in Jiang's reading, this activates imagination and cosmic expansion.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001"
+      ],
+      "note": "This Great Books lecture is dated 2026-04-29 and frames Dante's Inferno through Jiang's mature love/imagination cosmology.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "note": "ASR damage obscures a few terms and repeats phrases; claims rely on repeated surrounding formulations rather than exact damaged wording."
+    }
+  ]
+}
