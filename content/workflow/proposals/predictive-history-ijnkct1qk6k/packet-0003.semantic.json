@@ -1,0 +1,184 @@
+{
+  "packet_id": "predictive-history-ijnkct1qk6k-semantics-pkt-0003",
+  "source_id": "video:predictive-history-ijnkct1qk6k",
+  "source_date": "2026-01-27",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0017",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0018",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang presents America's founding problem as rapid expansion against Britain, France, Spain, and indigenous peoples, then says the founders design the nation as an open, clear, fair game where citizens maximize wealth and thereby enrich the whole nation.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0020",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0021",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that America uniquely rewards merit despite racism and discrimination, contrasting it with Canada and China, and says that merit reward is why people want to go to America.",
+      "speaker_attribution": "Jiang classroom lecture with personal anecdote.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0022",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0023",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He explains the Constitution as the rule structure that puts the game above power through checks and balances, rule of law, courts, and property rights, then names the Civil War as the first major challenge to that game.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0017"
+      ],
+      "note": "Segment contains clear ASR contamination around the American Revolution transition; surrounding references establish the intended argument.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the American founders made the nation a game where citizens are players maximizing wealth, and that personal wealth-seeking becomes national energy and growth.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture model as of 2026-01-27.",
+      "topic_tags": ["america", "nation-game", "wealth", "incentives"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The American game requires openness, fairness, and clarity: anyone can come and play, the rules are simple, and wealth should follow work, talent, and merit.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0018",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture definition as of 2026-01-27.",
+      "topic_tags": ["american-dream", "openness", "fairness", "clarity", "merit"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that America really does reward merit in a way most of the world does not, even when discrimination exists at first contact.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0020",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0021",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Personal and comparative claim in the 2026-01-27 lecture.",
+      "topic_tags": ["meritocracy", "america", "canada", "china"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the Constitution as the mechanism that puts the American game above power through checks and balances, the Supreme Court, rule of law, and property-rights courts.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0022",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Lecture model as of 2026-01-27.",
+      "topic_tags": ["constitution", "rule-of-law", "checks-and-balances", "property-rights"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the Civil War as a clash between the Northern free-labor game and the Southern slave-labor system, with slavery corrupting the game's openness, fairness, and clarity.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2026-01-27.",
+      "topic_tags": ["civil-war", "slavery", "free-labor", "american-game"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0018"
+      ],
+      "moment": "The citizen is reimagined as a player whose hunger for wealth powers national growth.",
+      "source_phrase": "the citizen is a player",
+      "why_it_matters": "This is the clearest statement of Jiang's America-as-game thesis.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0021"
+      ],
+      "moment": "America may begin with discrimination, but Jiang says it can be won over by argument and talent.",
+      "source_phrase": "they are won over by my logic",
+      "why_it_matters": "The personal anecdote gives the meritocracy claim heat without making it naive.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0024"
+      ],
+      "moment": "Slavery is offensive not only morally but game-theoretically: the slave can never participate.",
+      "source_phrase": "if you're a slave that's not fair",
+      "why_it_matters": "It translates the Civil War into Jiang's game vocabulary.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "melting pot",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0018",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "America's openness mechanism: eliminating inherited history and ethnicity so anyone can assimilate into the game.",
+      "confidence": "high"
+    },
+    {
+      "term": "American Dream",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The simple rule of the American game: follow the law, work hard, and get rich.",
+      "confidence": "high"
+    },
+    {
+      "term": "rule of law",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The Constitution and judiciary as a parallel legal system protecting the game's rules and property rights.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0017",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0024"
+      ],
+      "note": "This packet moves from the American Revolution and Constitution to the Civil War as the first internal test of the American game.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0017"
+      ],
+      "note": "The transcript has heavy ASR noise in one sentence around the American Revolution, so semantic extraction relies on the surrounding clean sentences."
+    }
+  ]
+}

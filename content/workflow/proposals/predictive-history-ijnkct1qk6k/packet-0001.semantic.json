@@ -1,0 +1,168 @@
+{
+  "packet_id": "predictive-history-ijnkct1qk6k-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ijnkct1qk6k",
+  "source_date": "2026-01-27",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0001",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0002",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0003",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reviews the British Empire as a first global game powered by the Bank of England, property-rights shelter for capital, soft power, and naval control, then names its three limits: race, gold-based wealth, and the small-island resource ceiling.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0005",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0006",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0007",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He pivots to America as the power that resolves Britain's limits by turning itself into a continental fortress, making the dollar an infinite conceptual wealth standard, and presenting the nation not as race or land but as a game.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0001",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous single-speaker classroom lecture; diarized SPEAKER_01 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says British imperial power rested on financial absorption through the Bank of England, legal protection for property, soft-power security, and naval control of sea lanes.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0001",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture reconstruction as of 2026-01-27.",
+      "topic_tags": ["british-empire", "bank-of-england", "soft-power", "navy"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He diagnoses Britain's imperial limits as ethnicity, gold scarcity, and insufficient population and resources; those limits prevented the British game from scaling to everyone.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0003",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture diagnosis as of 2026-01-27.",
+      "topic_tags": ["british-empire", "race", "gold-standard", "resources"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "America, in Jiang's model, solves Britain's resource problem by functioning as a continental fortress that controls the wealthy Western Hemisphere.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0005",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model as of 2026-01-27.",
+      "topic_tags": ["america", "western-hemisphere", "resources"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says America makes wealth infinite by replacing gold with the U.S. dollar as a conceptual wealth standard that anyone can play for.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model as of 2026-01-27.",
+      "topic_tags": ["us-dollar", "wealth", "game-theory"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames America's national identity as a game rather than an ethnicity or a land, contrasting it with monarchy, oligarchy, democracy, and theocracy as older political forms.",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0007",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture definition as of 2026-01-27.",
+      "topic_tags": ["nation-game", "america", "political-forms"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0004"
+      ],
+      "moment": "Gold makes empire a game only for the elite because the prize itself is scarce.",
+      "source_phrase": "there's a limit to the amount of gold in the world",
+      "why_it_matters": "This is the hinge between British imperial limits and America's later dollar game.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0006"
+      ],
+      "moment": "The dollar turns wealth from a metal into an idea, letting the game become infinite.",
+      "source_phrase": "the U.S. dollar is just a concept, it's just an idea",
+      "why_it_matters": "It gives Jiang's American world-game model its most compact financial mechanism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0007"
+      ],
+      "moment": "America tells the world it is not a race and not a land, but a game.",
+      "source_phrase": "we're not a land what we really are is a game",
+      "why_it_matters": "This phrase is the episode's central political definition.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "nation game",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's term for America as a political order defined by participation rules and incentives rather than ethnicity or land.",
+      "confidence": "high"
+    },
+    {
+      "term": "wealth standard",
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0004",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The underlying object that defines what participants are playing for, first gold in the British game and then the U.S. dollar in the American game.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0001",
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0008"
+      ],
+      "note": "This 2026-01-27 lecture continues the Game Theory sequence by moving from British imperial mechanics to America's attempt to globalize the game.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0005"
+      ],
+      "note": "ASR is rough around 'to click to create' and the conquest phrase, but the America-resolves-Britain argument is clear."
+    }
+  ]
+}
