@@ -90,7 +90,7 @@ The scapegoat form routes guilt. In the Church and Empire lecture, resentment is
 <span id="taboo-control-surface-atlas" class="lens-point-anchor"></span>
 Taboo becomes a control surface when a sacred boundary organizes who may act, what breach would change the world, and whether violation produces pollution, cohesion, sovereignty transfer, or scapegoat purification.
 
-## Legitimacy As Fiction That Becomes Real
+## [Legitimacy As Fiction That Becomes Real](/lens/legitimacy-fiction/)
 
 The Roman and biblical lectures keep sharpening a related mechanism: legitimacy can begin as fiction, but if enough people inhabit it, the fiction becomes a real political force.
 
@@ -215,7 +215,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | World-making media | How do poems, myths, scripture, film, and philosophy make reality inhabitable? | Homer, Bible/Yahwist, Hollywood-Pentagon |
 | [Sacred machines](/lens/sacred-machines/) | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
 | Taboo as control surface | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
-| Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
+| [Legitimacy fiction](/lens/legitimacy-fiction/) | How does political invention become inherited reality? | Caesar/Octavian, David, Holy Roman Empire, Cyrus, America as game |
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
 | Bureaucracy as institutional death | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
