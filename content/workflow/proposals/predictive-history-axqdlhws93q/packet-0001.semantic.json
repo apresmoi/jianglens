@@ -1,0 +1,223 @@
+{
+  "packet_id": "predictive-history-axqdlhws93q-semantics-pkt-0001",
+  "source_id": "video:predictive-history-axqdlhws93q",
+  "source_date": "2026-01-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0001",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by rejecting the normal Cold War picture of capitalism and communism as polar opposites. China's smooth transition from communism into capitalism becomes the puzzle that lets him call the dialectic false.",
+      "speaker_attribution": "Jiang classroom lecture; rhetorical questions are Jiang's own framing.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0003",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He names capitalism's real enemies as monarchy, theocracy, nationalism, and democracy: kings redistribute property, religion devalues money, nationalism blocks borderless capital, and democracy lets workers vote for redistribution.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0005",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that communism conveniently attacks the same four enemies: it replaces monarchs with party oligarchy, attacks religion, elevates class over nation, and distrusts democratic workers in favor of a vanguard.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0007",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He states the speculative thesis in its strongest form: communism may be a weapon or virus of capitalism, with China after the Cultural Revolution as a test case, then turns to Marx's comfortable British life as suspicious evidence.",
+      "speaker_attribution": "Jiang, explicitly marking the thesis as speculation.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0001",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0008"
+      ],
+      "note": "Continuous single-speaker lecture; diarized SPEAKER_01 appears to be Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that China's post-1980s movement from communism to capitalism exposes the capitalism-versus-communism dialectic as false because the transition was unusually smooth compared with earlier ideological transitions.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0001",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture thesis as of 2026-01-29.",
+      "topic_tags": ["capitalism", "communism", "china", "false-dialectic"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says capitalism's real enemies are monarchy, theocracy, nationalism, and democracy rather than communism.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Model stated in the 2026-01-29 lecture.",
+      "topic_tags": ["capitalism", "monarchy", "theocracy", "nationalism", "democracy"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines monarchy as dangerous to capital because kings can cancel debts and redistribute land, making capital subordinate to royal authority.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Historical model used in this lecture.",
+      "topic_tags": ["monarchy", "debt", "property", "capitalism"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents religion as anti-capitalist because it teaches that money is morally suspect and redirects attention toward redemption, salvation, family, and kindness.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0003",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture model as of 2026-01-29.",
+      "topic_tags": ["religion", "theocracy", "money", "capitalism"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that communism helps capitalism destroy monarchy, religion, nationalism, and democracy in ways capitalism cannot openly do itself.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0005",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Speculative causal model in the 2026-01-29 lecture.",
+      "topic_tags": ["communism", "capitalism", "vanguard", "false-consciousness"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Cultural Revolution destroyed Chinese religion, tradition, and cultural identity, after which China became capitalist and then hyper-capitalistic.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "China example inside the 2026-01-29 speculative model.",
+      "topic_tags": ["china", "cultural-revolution", "capitalism"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats Marx's residence in capitalist Britain and comfortable middle-class life as suspicious facts that raise the question of why a capitalist power tolerated and indirectly supported a revolutionary theorist.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0007",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Evidentiary setup in this lecture.",
+      "topic_tags": ["marx", "britain", "capitalism", "evidence"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002"
+      ],
+      "moment": "The Cold War black-and-white turns into a false dialectic once China becomes capitalist without a violent rupture.",
+      "source_phrase": "this is a false dialectic",
+      "why_it_matters": "This is the lecture's opening inversion: the supposed enemy pair becomes a hidden partnership.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006"
+      ],
+      "moment": "Communism is imagined as a weapon or virus created by capitalism so capitalism can conquer the world by first destroying rival orders.",
+      "source_phrase": "a weapon or a virus created by capitalism",
+      "why_it_matters": "It is the sharpest formulation of the source's central conspiracy model.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0005",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006"
+      ],
+      "moment": "The party, not the king, becomes the new oligarchy: communism removes old rulers only to install a form capitalism can understand.",
+      "source_phrase": "What is a party? Party is a nation. It's an oligarchy",
+      "why_it_matters": "It compresses his claim that communism replaces capitalism's enemies with compatible institutions.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "false dialectic",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's label for the misleading opposition between capitalism and communism.",
+      "confidence": "high"
+    },
+    {
+      "term": "vanguard",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The party elite that claims workers have false consciousness and must therefore be led into socialism.",
+      "confidence": "high"
+    },
+    {
+      "term": "capitalism's enemies",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0002",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Monarchy, theocracy, nationalism, and democracy in Jiang's model.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0001",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0008"
+      ],
+      "note": "This 2026-01-29 Game Theory lecture frames communism as a capitalism-compatible force after the preceding Great Books and Game Theory episodes have built models of old orders, world games, and bank power.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0007"
+      ],
+      "note": "Jiang explicitly marks the capitalism-created-communism thesis as speculative in this passage."
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript renders Das Kapital as 'That's Capital'; semantic extraction treats this as an ASR issue."
+    }
+  ]
+}

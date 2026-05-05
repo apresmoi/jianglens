@@ -1,0 +1,232 @@
+{
+  "packet_id": "predictive-history-axqdlhws93q-semantics-pkt-0005",
+  "source_id": "video:predictive-history-axqdlhws93q",
+  "source_date": "2026-01-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0033",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0034",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0035",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang answers the mercenary-money question by claiming Wall Street and the City of London financed Bolshevik mercenaries, then argues Red Terror, asset stripping, and allied debt collection show capitalist and communist partnership.",
+      "speaker_attribution": "Jiang; includes quoted/paraphrased material from Richard Spence in seg-0034 to seg-0036.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0037"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether China's officially professed communism, or 'Chinese unique socialism,' is a way to manage a country that is actually pursuing capitalism.",
+      "speaker_attribution": "Student or audience member.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0038",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0039",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by distinguishing Marx, Lenin, and Mao: Marx ignored agrarian Russia and China; Lenin said a party could speed revolution; Mao built a peasant uprising under a communist facade because he needed legitimacy, industrialization, and sovereignty.",
+      "speaker_attribution": "Jiang answering the student.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0037",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0038"
+      ],
+      "note": "Diarized SPEAKER_00 asks a real student question; SPEAKER_01 answers as Jiang.",
+      "suggested_speaker": "student question followed by Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0034",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "note": "Jiang introduces Richard Spence and appears to quote or paraphrase a passage about Wall Street, Bolshevik finance, and asset stripping.",
+      "suggested_speaker": "Jiang reading/commenting on quoted source",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims Wall Street and the City of London paid Bolshevik mercenaries, and that the Bolsheviks repaid them through Red Terror extraction from Russian wealth holders.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Controversial evidence claim in the 2026-01-29 lecture.",
+      "topic_tags": ["wall-street", "city-of-london", "bolsheviks", "red-terror"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says allied armies in Russia did not destroy Bolshevism but collected debts, then left and attacked the Whites, helping the Bolsheviks win.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0033",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Civil-war interpretation in this lecture.",
+      "topic_tags": ["allied-intervention", "russian-civil-war", "debt", "bolsheviks"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang cites Richard Spence for the argument that Wall Street financed the Bolsheviks to destroy Russia's economy and extract its wealth and resources.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0034",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Source-backed claim as presented in this lecture.",
+      "topic_tags": ["richard-spence", "wall-street", "russian-revolution"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines Bolshevik asset stripping as reducing Russia to barter and robbery, looting palaces, banks, churches, and museums, and fencing valuables abroad for capitalist hard currency.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0035",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Interpretation of 1918-1921 events in this lecture.",
+      "topic_tags": ["asset-stripping", "red-terror", "russia", "capitalist-currency"],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that by destroying Russian tradition, wealth, religion, and nobility, Bolshevism made the Soviet Union more amenable to capitalism after its fall.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Causal model stated in the 2026-01-29 lecture.",
+      "topic_tags": ["soviet-union", "capitalism", "tradition", "religion"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In response to a student question, Jiang says Marx did not focus on Russia and China because they were agrarian or feudal rather than industrially ripe for revolution.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0037",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Answer in the 2026-01-29 lecture.",
+      "topic_tags": ["marx", "russia", "china", "agrarian-society"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He distinguishes Lenin's contribution as accelerating revolution through a party and Mao's contribution as building a peasant uprising under communist legitimacy rather than a worker-led Marxist revolution.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0038",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Answer in this lecture.",
+      "topic_tags": ["lenin", "mao", "peasants", "communist-facade"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Mao used communism for legitimacy, Soviet support, rapid industrialization, and national sovereignty, and that U.S. embargo pressure helped push Mao fully into the communist camp.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0039",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "China answer in the 2026-01-29 lecture.",
+      "topic_tags": ["mao", "industrialization", "national-sovereignty", "united-states"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0033"
+      ],
+      "moment": "The Red Terror becomes, in Jiang's telling, a debt-payment machine for Wall Street.",
+      "source_phrase": "that money went to pay Wall Street",
+      "why_it_matters": "It is the brutal causal chain behind his claim that capitalists and communists worked together.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "moment": "Capitalism and communism are not enemies but partners in world conquest.",
+      "source_phrase": "they're partners in world conquest",
+      "why_it_matters": "This is the lecture's thesis restated after the Russian evidence.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0039"
+      ],
+      "moment": "Mao's revolution is recast as a peasant uprising wearing a communist facade.",
+      "source_phrase": "it had the facade of communism, but it was really a peasant uprising",
+      "why_it_matters": "It answers the student by separating Communist label from the actual social engine of Chinese revolution.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Red Terror",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Bolshevik violence and extraction from Russian wealth holders, framed by Jiang as a way to raise money for foreign-backed mercenaries.",
+      "confidence": "medium"
+    },
+    {
+      "term": "asset stripping",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0035",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "The destruction and looting of an economy's stored wealth, here applied to Bolshevik Russia.",
+      "confidence": "high"
+    },
+    {
+      "term": "communist facade",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's phrase for Mao's use of communist legitimacy over a peasant and nationalist revolutionary project.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0040"
+      ],
+      "note": "This packet connects Russia's communist-to-capitalist aftermath with the student question about China, moving the model from Bolshevik Russia into Mao's national-industrial strategy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0033",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0036"
+      ],
+      "note": "The Wall Street/Bolshevik finance and Red Terror causal chain is controversial and should be attributed to Jiang and his cited source rather than treated as project fact."
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0040"
+      ],
+      "note": "Chinese names in this segment are ASR-damaged; semantic extraction preserves the strategic claim without normalizing uncertain proper names."
+    }
+  ]
+}

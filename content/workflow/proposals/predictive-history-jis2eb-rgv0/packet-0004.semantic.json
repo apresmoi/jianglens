@@ -1,0 +1,207 @@
+{
+  "packet_id": "predictive-history-jis2eb-rgv0-semantics-pkt-0004",
+  "source_id": "video:predictive-history-jis2eb-rgv0",
+  "source_date": "2026-03-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0025",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0026",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0027",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0028",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0029",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0030",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0031",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang sharpens the asymmetry argument: cheap Iranian drones can damage critical infrastructure while American air-defense systems are expensive, slow, and doctrinally corrupt. He then returns to water scarcity as the true battlefield: GCC desalination can be destroyed quickly, Iran itself is water-stressed, and the American-Israeli plan is to fracture Iran through water pressure and ethnic enclaves.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0025",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0032"
+      ],
+      "note": "Focus refs are Jiang monologue with classroom address; no substantive audience exchange.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Iranian drones are cheap, easy to make, numerous, mobile, concealable, and able to hit desalination plants, oil fields, hotels, and other high-value GCC targets.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "drones",
+        "iran",
+        "asymmetry"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "American systems such as THAAD/Patriot are presented as strategically mismatched because they may spend millions of dollars trying to stop cheap drones and are large, slow, and visible targets.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0025",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "thaad",
+        "patriot",
+        "cost-asymmetry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "American military doctrine is described as a Cold War inheritance built for flexing, impressing, and spending rather than for resilience, openness, or winning a drone war.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0026",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0027",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "cold-war",
+        "military-doctrine",
+        "corruption"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines water stress as using as much or more water than the environment produces, then uses extreme Middle East ratios to argue that water is the decisive vulnerability.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0028",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Definition stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "water-stress",
+        "middle-east",
+        "scarcity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran can destroy the GCC faster than America can destroy Iran by targeting desalination plants, but Iran remains vulnerable because it also faces serious water scarcity.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0029",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0030",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "desalination",
+        "iran-water",
+        "gcc-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The American-Israeli strategy is described as attacking Iran's fresh water and ethnic cohesion so Iran breaks into sponsored enclaves that fight over water forever.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0031",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "iran-fragmentation",
+        "ethnic-enclaves",
+        "water-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0026"
+      ],
+      "moment": "The empire answers a fifty-thousand-dollar drone by throwing million-dollar missiles at it, sometimes more than once.",
+      "source_phrase": "you throw a million dollar missile at it",
+      "why_it_matters": "It is the cleanest cost-asymmetry image in the lecture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0027"
+      ],
+      "moment": "Cold War weapons are theater props: they flex, scare, and impress, but do not adapt.",
+      "source_phrase": "The Cold War was about flexing",
+      "why_it_matters": "This explains Jiang's corruption critique through doctrine, not just moral failure.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0032"
+      ],
+      "moment": "The evil plan is permanent water war: break Iran into enclaves, arm them, and let them fight forever.",
+      "source_phrase": "this war will wage over water forever",
+      "why_it_matters": "It gives the episode its darkest map of fragmentation as strategy.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "THAAD",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0025",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Transcript renders this as 'FAD'/'Thermal High Altitude Air Defense'; Jiang uses it as an example of expensive U.S. anti-missile defense.",
+      "confidence": "medium"
+    },
+    {
+      "term": "water stress",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0028",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "A ratio between human water use and what the environment produces; Jiang says above 100% is unsustainable.",
+      "confidence": "high"
+    },
+    {
+      "term": "Lake Urmia",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0030",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Northern Iranian lake Jiang uses as a visual example of Iran's worsening water scarcity.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0030",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0031"
+      ],
+      "note": "Dated March 3, 2026, Jiang links future geopolitical tensions in the Middle East and India to water scarcity, using Lake Urmia's decline as evidence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0025"
+      ],
+      "note": "ASR likely mishears THAAD as 'FAD' and expands it incorrectly; extraction preserves the intended military-system role with medium confidence."
+    }
+  ]
+}
