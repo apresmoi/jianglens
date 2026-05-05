@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-t5oisjiorsu-semantics-pkt-0007",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_date": "2026-03-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0049"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student continues reading the complaint: the commander is described as a Christian-first supporter, the briefing is called toxic and over the line, and multiple troops of different religious backgrounds seek help.",
+      "speaker_attribution": "student reader quoting email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats apocalyptic Christianity as a possible motive for the war, then reframes game theory: actors may not be playing for material rewards at all. The real currency, he says, is human consciousness, making the war a struggle for the soul of humanity.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0049"
+      ],
+      "note": "SPEAKER_00 continues reading quoted complaint material from the email, not asking a live question.",
+      "suggested_speaker": "student reader / quoted email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "note": "SPEAKER_01 is Jiang concluding the lecture and opening the larger consciousness thesis.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The quoted complaint says the commander's Christian-first framing was toxic enough that 16 troops, including Christians, a Jewish troop, and a Muslim troop, sought help.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "quoted-email",
+        "military-religion",
+        "complaint"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang presents apocalyptic Christians in the U.S. military/government who want to force Jesus' return as a possible explanation for why the war is being fought, while explicitly marking it as a possibility rather than proven fact.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "christian-zionism",
+        "war-motive",
+        "apocalypse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Religion remains part of game theory because the analyst may be wrong about the game being played and the reward actors want.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "game-theory",
+        "religion",
+        "reward-structure"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang states the course's grand reveal: real power and currency are not money but human consciousness, because consciousness creates reality and is the source of wealth and power.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "human-consciousness",
+        "real-currency",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "World War III is framed as a final war for the soul of humanity, where the winner controls human consciousness and therefore reality.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "world-war-iii",
+        "soul-of-humanity",
+        "consciousness"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050"
+      ],
+      "moment": "The war may be fought by people trying to end the world to force Jesus to return.",
+      "source_phrase": "use this war to end the world, to force Jesus to return",
+      "why_it_matters": "It names the apocalyptic alternative to material strategy.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051"
+      ],
+      "moment": "Game theory still applies, but only if you identify the game and reward the actor actually wants.",
+      "source_phrase": "the game that you think they're playing is not the game they're playing",
+      "why_it_matters": "This preserves the methodological turn from bad motive analysis to hidden payoff analysis.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052"
+      ],
+      "moment": "The real currency in the world is human consciousness.",
+      "source_phrase": "not money, it is human consciousness",
+      "why_it_matters": "This is the lecture's largest thesis and bridge to the larger course.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "moment": "World War III is a war for the very soul of humanity.",
+      "source_phrase": "a war for the very soul of humanity",
+      "why_it_matters": "It closes the episode by expanding Iran from regional war into metaphysical endgame.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "human consciousness",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The real power and currency in Jiang's model, the source of reality, wealth, and political control.",
+      "confidence": "high"
+    },
+    {
+      "term": "game being played",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's warning that apparent material incentives may not be the actual payoff structure motivating actors.",
+      "confidence": "high"
+    },
+    {
+      "term": "soul of humanity",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The final object of World War III in Jiang's metaphysical framing: control over human consciousness and existence.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "note": "This March 5, 2026 lecture escalates from U.S.-Iran strategic asymmetry to the course's larger consciousness thesis, flagged by Jiang as material he will explain in later classes.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050"
+      ],
+      "note": "Jiang explicitly qualifies the Christian-apocalyptic motive as a possibility, not a proven sole cause; public read should preserve that qualification."
+    }
+  ]
+}

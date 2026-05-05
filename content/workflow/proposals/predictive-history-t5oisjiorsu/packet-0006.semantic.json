@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-t5oisjiorsu-semantics-pkt-0006",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_date": "2026-03-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0043",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads from an email by a U.S. NCO alleging that a commander framed combat operations in Iran as God's plan, Revelation, Armageddon, Trump anointed by Jesus, and the return of Christ.",
+      "speaker_attribution": "student reader quoting email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0042",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0044",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interrupts the reading to interpret its key tells: fear signals losing, divine-plan language displaces human command responsibility, and apocalyptic joy makes the war motive appear deranged.",
+      "speaker_attribution": "Jiang commentary during reading",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0043",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0047"
+      ],
+      "note": "SPEAKER_00 is not Jiang here; Avery is reading quoted email material at Jiang's request.",
+      "suggested_speaker": "student reader / quoted email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0042",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0044",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "note": "SPEAKER_01 is Jiang interrupting and commenting on the quoted email.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The quoted email alleges that a commander urged troops not to be afraid about Iran operations, which Jiang reads as evidence that the war is going badly.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "quoted-email",
+        "fear",
+        "war-status"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted email alleges that troops were told the war was part of God's divine plan and tied to Revelation, Armageddon, and Jesus' return.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0043",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "armageddon",
+        "revelation",
+        "quoted-email"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the cited claim about Trump lighting a signal fire in Iran as a plan to destroy the world so Jesus will return.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "trump",
+        "apocalypse",
+        "war-for-jesus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The reader reports the commander had a grin while delivering the message, and Jiang treats that as apocalyptic delight rather than sober strategy.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0047",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "apocalyptic-joy",
+        "commander"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046"
+      ],
+      "moment": "Trump lighting the signal fire in Iran becomes, in Jiang's reading, a plan to destroy the world so Jesus returns.",
+      "source_phrase": "light the signal fire in Iran",
+      "why_it_matters": "This is the apocalyptic hinge that makes material war aims insufficient.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang hears a grin at Armageddon as happiness that the world is ending.",
+      "source_phrase": "The world is ending. Yeah!",
+      "why_it_matters": "It preserves the grotesque emotional temperature of the quoted scene.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Armageddon",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Apocalyptic battle language from Revelation that the quoted email says was used to explain Iran operations.",
+      "confidence": "medium"
+    },
+    {
+      "term": "signal fire in Iran",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Quoted phrase for Iran as a trigger for Armageddon and Christ's return.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "note": "The email is presented as a contemporaneous complaint about combat operations in Iran during the March 5, 2026 lecture; it should be kept distinct from Jiang's own claims.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "note": "Segments 0041, 0043, 0045, and 0047 are quoted/read material, not Jiang's claims; the underlying report is presented through Jiang's cited source and classroom reading."
+    }
+  ]
+}

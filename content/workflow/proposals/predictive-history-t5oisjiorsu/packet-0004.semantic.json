@@ -1,0 +1,218 @@
+{
+  "packet_id": "predictive-history-t5oisjiorsu-semantics-pkt-0004",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_date": "2026-03-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0026",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang maps the internal attack strategy against Iran: exploit Baluch, Kurdish, Sunni, and Azerbaijani tensions, embed special forces and air cover, then use decapitation, air supremacy, soft targeting, double taps, and insurgent bribery. He argues the strategy backfires by making Iran more energetic, open, and cohesive.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0029"
+      ],
+      "kind": "unclear",
+      "summary": "A brief single-word interjection is captured by diarization as UNKNOWN and does not alter the lecture argument.",
+      "speaker_attribution": "unclear classroom audio",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0029"
+      ],
+      "note": "Single \"Okay\" span is marked UNKNOWN and may be classroom audio or diarization noise.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang expects American and Israeli strategy to focus on Iran's problem areas: Baluch Sunni unrest, Kurdish separatism, Sunni groups in Iraq, and Azerbaijani reunification incentives.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0026",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran-ethnic-map",
+        "baluch",
+        "kurds",
+        "azerbaijan"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The external/internal strategy is to arm insurgents, embed special forces, provide air cover, and cause pain inside Iran through decapitation and bombardment.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "special-forces",
+        "insurgents",
+        "air-cover",
+        "decapitation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Decapitation attacks remove leadership and command-and-control, limiting the state's capacity to govern itself.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "decapitation",
+        "command-and-control"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Soft targeting and double taps are described as attacks on hospitals, rescuers, and civilians designed to degrade resilience and produce fear.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "soft-targeting",
+        "double-tap",
+        "civilian-fear"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the American strategy helps Iran by solving elite overproduction, increasing meritocratic mobility, and making leadership leaner and more strategic.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "strategy-backfire",
+        "elite-overproduction",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027"
+      ],
+      "moment": "The ethnic map becomes the war map: the places America will watch are the fault lines inside Iran.",
+      "source_phrase": "these are the three major problem areas for Iran",
+      "why_it_matters": "It translates abstract asymmetry into geography and internal fracture.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "moment": "The double tap is described as killing the helpers after the first strike to break a society's capacity to resist.",
+      "source_phrase": "then you strike again",
+      "why_it_matters": "This is the darkest concrete tactic in the lecture's strategy section.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "moment": "By killing leaders, America accidentally solves Iran's elite overproduction problem.",
+      "source_phrase": "you're solving the problem of elite overproduction",
+      "why_it_matters": "It is a signature asymmetry reversal: attack becomes reform.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "decapitation",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Removing leadership or command-and-control to limit a state's capacity to govern and fight.",
+      "confidence": "high"
+    },
+    {
+      "term": "soft targeting",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Attacking hospitals or non-military infrastructure to degrade resilience rather than only military installations.",
+      "confidence": "high"
+    },
+    {
+      "term": "double tap",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "A second strike after rescuers arrive, intended to maximize casualties and fear.",
+      "confidence": "high"
+    },
+    {
+      "term": "command and control",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Leadership and governing capacity that lets Iran coordinate itself during war.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang makes a near-term forecast that these three pillars of American strategy will be visible over the next few weeks.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027"
+      ],
+      "note": "ASR renders ethnic names as \"Baliks/bollocks\" and \"Azzaris/ethnic Israelis\" in places; extraction treats the intended references as Baluch/Baloch, Kurds, Hazaris, and Azerbaijanis where context supports it."
+    }
+  ]
+}

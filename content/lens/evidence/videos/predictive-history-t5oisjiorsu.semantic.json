@@ -1,0 +1,1342 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-t5oisjiorsu:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-t5oisjiorsu",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_title": "Game Theory #10:  The Law of Asymmetry",
+  "source_url": "https://www.youtube.com/watch?v=t5oisJiorsU",
+  "source_date": "2026-03-05",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-t5oisjiorsu@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-t5oisjiorsu/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-t5oisjiorsu/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-t5oisjiorsu/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 10,
+    "speaker_notes": 10,
+    "claims": 35,
+    "signature_moments": 22,
+    "predictions": 6,
+    "models": 10,
+    "glossary_terms": 25,
+    "chronology_notes": 7,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0003",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0005",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0006",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007",
+    "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0003",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0005",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0006",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the law of asymmetry through the U.S.-Iran war: the stronger empire appears to have overwhelming mass, organization, and expendability, but those strengths decay into inequality, elite parasitism, factionalism, insularity, and hubris.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0009",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0010",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0011",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0012",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0013",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0014",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0015",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns the law of asymmetry into a test: Iran wins if it becomes energetic, open, and cohesive, while America's apparent advantages of technology, propaganda, and money mutate into dependence, censored debate, and untrustworthy mercenary incentives.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0019",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0023",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts American constraints with Iranian assets. America lacks political will, manufacturing depth, and casualty tolerance; Iran has faith, terrain, and nationalism, though each advantage also carries possible blindness, confinement, and ethnic division.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0026",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang maps the internal attack strategy against Iran: exploit Baluch, Kurdish, Sunni, and Azerbaijani tensions, embed special forces and air cover, then use decapitation, air supremacy, soft targeting, double taps, and insurgent bribery. He argues the strategy backfires by making Iran more energetic, open, and cohesive.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0029"
+      ],
+      "kind": "unclear",
+      "summary": "A brief single-word interjection is captured by diarization as UNKNOWN and does not alter the lecture argument.",
+      "speaker_attribution": "unclear classroom audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0033",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0038",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why the American strategy backfires: bombing cities unites urban and rural Iran, insurgent arming reactivates Persian nationalism, and America is trapped by its need to win fast. Iran's answer is guerrilla hide-and-seek designed to provoke an unwinnable ground invasion; Jiang then turns to the unanswered motive for the war and introduces a Christian apocalyptic clue.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0043",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads from an email by a U.S. NCO alleging that a commander framed combat operations in Iran as God's plan, Revelation, Armageddon, Trump anointed by Jesus, and the return of Christ.",
+      "speaker_attribution": "student reader quoting email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0042",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0044",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interrupts the reading to interpret its key tells: fear signals losing, divine-plan language displaces human command responsibility, and apocalyptic joy makes the war motive appear deranged.",
+      "speaker_attribution": "Jiang commentary during reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0049"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student continues reading the complaint: the commander is described as a Christian-first supporter, the briefing is called toxic and over the line, and multiple troops of different religious backgrounds seek help.",
+      "speaker_attribution": "student reader quoting email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats apocalyptic Christianity as a possible motive for the war, then reframes game theory: actors may not be playing for material rewards at all. The real currency, he says, is human consciousness, making the war a struggle for the soul of humanity.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0009",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0016"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0029"
+      ],
+      "note": "Single \"Okay\" span is marked UNKNOWN and may be classroom audio or diarization noise.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0033",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0043",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0047"
+      ],
+      "note": "SPEAKER_00 is not Jiang here; Avery is reading quoted email material at Jiang's request.",
+      "suggested_speaker": "student reader / quoted email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0042",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0044",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "note": "SPEAKER_01 is Jiang interrupting and commenting on the quoted email.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0049"
+      ],
+      "note": "SPEAKER_00 continues reading quoted complaint material from the email, not asking a live question.",
+      "suggested_speaker": "student reader / quoted email",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "note": "SPEAKER_01 is Jiang concluding the lecture and opening the larger consciousness thesis.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that the United States will lose the U.S.-Iran war and frames the law of asymmetry as the theoretical reason why a much stronger power can lose to an underdog.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "u-s-iran-war",
+        "law-of-asymmetry",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Historical empires are vulnerable to borderland or smaller peoples because the underdog can exploit weaknesses that the empire does not see in itself.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "underdog-advantage",
+        "empire",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "An empire has three apparent advantages: mass, organization, and death, where death means enough resources and people to absorb repeated military losses.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0003",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "empire-model",
+        "mass",
+        "organization",
+        "death"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The same imperial advantages become long-term weaknesses: mass creates inequality and debt, organization creates rent-seeking elites and elite overproduction, and expendability creates hubris.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0005",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0006",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "imperial-decline",
+        "elite-overproduction",
+        "hubris"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "An empire only collapses when an enemy emerges with energy, openness, and cohesion, because those qualities exploit imperial demotivation, insularity, and fracture.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0009",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "energy-openness-cohesion",
+        "empire-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the decisive question is whether Iran is transforming into a motivated, learning, resilient, united society; if yes, Iran wins and America loses.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0010",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran",
+        "social-transformation",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "America's three operational advantages in this war are technology, propaganda, and money: advanced targeting and weapons, control of information platforms, and the dollar money printer.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0012",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "american-empire",
+        "technology",
+        "propaganda",
+        "dollar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Technology becomes a disadvantage when the military becomes lazy, arrogant, dependent on tools, and less innovative or resilient on the battlefield.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0013",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "technology-dependence",
+        "resilience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Propaganda undermines strategy by censoring dissent and preventing rigorous debate, which produces hubris and repeated bad decisions.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0014",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "propaganda",
+        "censorship",
+        "hubris"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Money can buy militias and opposition groups, but Jiang argues these actors become hustlers who seek U.S. money rather than victory.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "mercenaries",
+        "bribery",
+        "money"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "America's three major problems in the war are lack of political will, weak logistics/manufacturing, and inability to tolerate large battlefield casualties.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0019",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "american-constraints",
+        "political-will",
+        "manufacturing",
+        "casualties"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war is existential for Iranians but not for Americans, giving Iran greater motivation and America less political will.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran",
+        "political-will",
+        "existential-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran's three major advantages are Shia faith and martyrdom, mountainous fortress terrain, and deep Persian civilizational nationalism.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran",
+        "faith",
+        "terrain",
+        "nationalism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Each Iranian advantage can become a weakness: faith can become zealotry, terrain can become a prison vulnerable to infrastructure disruption, and nationalism can expose ethnic divisions.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0023",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iranian-weaknesses",
+        "zealotry",
+        "ethnic-division"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang expects the American strategy to kill many Iranians, destroy infrastructure, and inflame ethnic tensions by arming minorities against Tehran.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "american-strategy",
+        "infrastructure",
+        "ethnic-tension"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang expects American and Israeli strategy to focus on Iran's problem areas: Baluch Sunni unrest, Kurdish separatism, Sunni groups in Iraq, and Azerbaijani reunification incentives.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0026",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "iran-ethnic-map",
+        "baluch",
+        "kurds",
+        "azerbaijan"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The external/internal strategy is to arm insurgents, embed special forces, provide air cover, and cause pain inside Iran through decapitation and bombardment.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "special-forces",
+        "insurgents",
+        "air-cover",
+        "decapitation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Decapitation attacks remove leadership and command-and-control, limiting the state's capacity to govern itself.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "decapitation",
+        "command-and-control"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Soft targeting and double taps are described as attacks on hospitals, rescuers, and civilians designed to degrade resilience and produce fear.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "soft-targeting",
+        "double-tap",
+        "civilian-fear"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the American strategy helps Iran by solving elite overproduction, increasing meritocratic mobility, and making leadership leaner and more strategic.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "strategy-backfire",
+        "elite-overproduction",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bombing Tehran and other cities turns urban and rural Iranians from internal opponents into a more cohesive society oriented against America and Israel.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "cohesion",
+        "urban-rural-divide",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Arming minorities against Iran activates Persian nationalism and long-lost historical memory, producing energy, openness, and cohesion rather than fragmentation.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "persian-nationalism",
+        "memory",
+        "strategy-backfire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "America repeats this policy because empire cares about itself, wants a cheap and fast victory, and lacks manufacturing capacity and political will for a long war.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "empire",
+        "cheap-fast-war",
+        "political-will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran's guerrilla strategy is hide-and-seek: absorb bombing in mountains, then create recurring economic damage and fear through drones and rockets until America is tempted into invasion.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "guerrilla-warfare",
+        "hide-and-seek",
+        "iran-strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if America launches a ground invasion of Iran, it has lost the war, because Iran is impossible to occupy with America's constraints.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "ground-invasion",
+        "occupation",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the public explanations for the war as inadequate and introduces reporting that soldiers were told the Iran war is for Armageddon and the return of Jesus.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0038",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "war-motive",
+        "armageddon",
+        "christian-zionism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted email alleges that a commander urged troops not to be afraid about Iran operations, which Jiang reads as evidence that the war is going badly.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "quoted-email",
+        "fear",
+        "war-status"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted email alleges that troops were told the war was part of God's divine plan and tied to Revelation, Armageddon, and Jesus' return.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0043",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "armageddon",
+        "revelation",
+        "quoted-email"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the cited claim about Trump lighting a signal fire in Iran as a plan to destroy the world so Jesus will return.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "trump",
+        "apocalypse",
+        "war-for-jesus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The reader reports the commander had a grin while delivering the message, and Jiang treats that as apocalyptic delight rather than sober strategy.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0047",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "apocalyptic-joy",
+        "commander"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted complaint says the commander's Christian-first framing was toxic enough that 16 troops, including Christians, a Jewish troop, and a Muslim troop, sought help.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "quoted-email",
+        "military-religion",
+        "complaint"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang presents apocalyptic Christians in the U.S. military/government who want to force Jesus' return as a possible explanation for why the war is being fought, while explicitly marking it as a possibility rather than proven fact.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "christian-zionism",
+        "war-motive",
+        "apocalypse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Religion remains part of game theory because the analyst may be wrong about the game being played and the reward actors want.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "game-theory",
+        "religion",
+        "reward-structure"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang states the course's grand reveal: real power and currency are not money but human consciousness, because consciousness creates reality and is the source of wealth and power.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "human-consciousness",
+        "real-currency",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "World War III is framed as a final war for the soul of humanity, where the winner controls human consciousness and therefore reality.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "world-war-iii",
+        "soul-of-humanity",
+        "consciousness"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001"
+      ],
+      "moment": "The stronger side is not automatically favored; asymmetry means the obvious winner may be structurally set up to lose.",
+      "source_phrase": "the law of asymmetry states that that's usually not the case",
+      "why_it_matters": "This is the lecture key: not military balance but how imbalance changes incentives and adaptation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang names death itself as an imperial advantage: vast resources let an empire treat losses as replaceable.",
+      "source_phrase": "the last great strength of the empire is the idea of death",
+      "why_it_matters": "The strange category turns casualty tolerance and imperial depth into a moral and strategic liability.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "moment": "Hubris is violent arrogance that repeats mistakes because it cannot recognize them.",
+      "source_phrase": "blindness to your own arrogance",
+      "why_it_matters": "It links psychology, bureaucracy, and defeat into one mechanism.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0010",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0011"
+      ],
+      "moment": "Iran's fate is compressed into one test: is it becoming energetic, open, and cohesive?",
+      "source_phrase": "Will Iran become an energetic, open, and cohesive society?",
+      "why_it_matters": "This gives the episode its operational scoreboard.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0013",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0014"
+      ],
+      "moment": "ChatGPT becomes the everyday analogy for imperial technology: access can make you dumber by making you lazy.",
+      "source_phrase": "No, you become dumber because you become lazy",
+      "why_it_matters": "It preserves Jiang's classroom move from school tool to military dependency.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0015"
+      ],
+      "moment": "America gets high on its own information control.",
+      "source_phrase": "getting high on their own supply",
+      "why_it_matters": "The phrase turns propaganda from dominance into self-intoxication.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017"
+      ],
+      "moment": "For America defeat is a bad trip home; for Iran defeat is the loss of country, society, civilization, and identity.",
+      "source_phrase": "they lose their civilization, they lose their identity",
+      "why_it_matters": "It explains political will as existential asymmetry rather than morale rhetoric.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021"
+      ],
+      "moment": "Iran is named a mountain fortress, three times Iraq, nearly suicidal to invade.",
+      "source_phrase": "It is a mountain fortress",
+      "why_it_matters": "This anchors the military argument in geography.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0023"
+      ],
+      "moment": "The fortress can also become a prison.",
+      "source_phrase": "it's a fortress, but it can also be a prison",
+      "why_it_matters": "It keeps Jiang's rule that every advantage carries its own inversion.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027"
+      ],
+      "moment": "The ethnic map becomes the war map: the places America will watch are the fault lines inside Iran.",
+      "source_phrase": "these are the three major problem areas for Iran",
+      "why_it_matters": "It translates abstract asymmetry into geography and internal fracture.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "moment": "The double tap is described as killing the helpers after the first strike to break a society's capacity to resist.",
+      "source_phrase": "then you strike again",
+      "why_it_matters": "This is the darkest concrete tactic in the lecture's strategy section.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0032"
+      ],
+      "moment": "By killing leaders, America accidentally solves Iran's elite overproduction problem.",
+      "source_phrase": "you're solving the problem of elite overproduction",
+      "why_it_matters": "It is a signature asymmetry reversal: attack becomes reform.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034"
+      ],
+      "moment": "The attack that should fragment Iran instead wakes Persian memory.",
+      "source_phrase": "activate their long-lost memories",
+      "why_it_matters": "This is the episode's strongest civilizational backfire image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036"
+      ],
+      "moment": "Iranian guerrilla warfare is hide and seek in the mountains.",
+      "source_phrase": "it's this simple, it's hide and seek",
+      "why_it_matters": "It compresses the military strategy into a memorable children's-game metaphor.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037"
+      ],
+      "moment": "The ground invasion is not escalation toward victory; it is the sign America has already lost.",
+      "source_phrase": "if it does, then they've lost the war",
+      "why_it_matters": "It gives a concrete future threshold for the prediction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039"
+      ],
+      "moment": "The hidden clue is that soldiers are allegedly told the war is for Jesus.",
+      "source_phrase": "this is a war for Jesus",
+      "why_it_matters": "It pivots the lecture from material game theory into religious endgame logic.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0046"
+      ],
+      "moment": "Trump lighting the signal fire in Iran becomes, in Jiang's reading, a plan to destroy the world so Jesus returns.",
+      "source_phrase": "light the signal fire in Iran",
+      "why_it_matters": "This is the apocalyptic hinge that makes material war aims insufficient.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang hears a grin at Armageddon as happiness that the world is ending.",
+      "source_phrase": "The world is ending. Yeah!",
+      "why_it_matters": "It preserves the grotesque emotional temperature of the quoted scene.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050"
+      ],
+      "moment": "The war may be fought by people trying to end the world to force Jesus to return.",
+      "source_phrase": "use this war to end the world, to force Jesus to return",
+      "why_it_matters": "It names the apocalyptic alternative to material strategy.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051"
+      ],
+      "moment": "Game theory still applies, but only if you identify the game and reward the actor actually wants.",
+      "source_phrase": "the game that you think they're playing is not the game they're playing",
+      "why_it_matters": "This preserves the methodological turn from bad motive analysis to hidden payoff analysis.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052"
+      ],
+      "moment": "The real currency in the world is human consciousness.",
+      "source_phrase": "not money, it is human consciousness",
+      "why_it_matters": "This is the lecture's largest thesis and bridge to the larger course.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "moment": "World War III is a war for the very soul of humanity.",
+      "source_phrase": "a war for the very soul of humanity",
+      "why_it_matters": "It closes the episode by expanding Iran from regional war into metaphysical endgame.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "law of asymmetry",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's model for why a weaker, more adaptive side can defeat an apparently overwhelming empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "death",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "In this lecture, the imperial capacity to absorb losses and return with more soldiers and weapons.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Peter Turchin's term, used by Jiang for too many elites competing in a zero-sum hierarchy and creating factional conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "hubris",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Blindness to one's own violent arrogance, producing repeated strategic mistakes.",
+      "confidence": "high"
+    },
+    {
+      "term": "energy",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "A society's motivation to fight and act, contrasted with imperial demotivation.",
+      "confidence": "high"
+    },
+    {
+      "term": "openness",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Willingness to admit mistakes, learn, debate, and promote merit.",
+      "confidence": "high"
+    },
+    {
+      "term": "cohesion",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Common purpose and unity that let a people remain strong under pressure.",
+      "confidence": "high"
+    },
+    {
+      "term": "infinite money printer",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's phrase for U.S. dollar reserve power as a war-funding tool.",
+      "confidence": "high"
+    },
+    {
+      "term": "political will",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0017",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The public and governmental willingness to sustain a war despite costs and casualties.",
+      "confidence": "high"
+    },
+    {
+      "term": "faith",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Iranian/Shia willingness to sacrifice and seek martyrdom or vengeance for a greater good.",
+      "confidence": "high"
+    },
+    {
+      "term": "mountain fortress",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Iran's terrain advantage as a large, mountainous country difficult to invade or occupy.",
+      "confidence": "high"
+    },
+    {
+      "term": "nationalism",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0021",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Persian civilizational pride as a reason Iranians know what they are fighting for.",
+      "confidence": "high"
+    },
+    {
+      "term": "decapitation",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0028",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Removing leadership or command-and-control to limit a state's capacity to govern and fight.",
+      "confidence": "high"
+    },
+    {
+      "term": "soft targeting",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Attacking hospitals or non-military infrastructure to degrade resilience rather than only military installations.",
+      "confidence": "high"
+    },
+    {
+      "term": "double tap",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "A second strike after rescuers arrive, intended to maximize casualties and fear.",
+      "confidence": "high"
+    },
+    {
+      "term": "command and control",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Leadership and governing capacity that lets Iran coordinate itself during war.",
+      "confidence": "high"
+    },
+    {
+      "term": "guerrilla warfare",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Iran's proposed hide-and-seek response: avoid decisive battle, strike after bombing ends, and impose recurring costs.",
+      "confidence": "high"
+    },
+    {
+      "term": "siege warfare",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "America's approach in Jiang's model: pressure, bombard, and try to win cheaply and quickly from outside.",
+      "confidence": "high"
+    },
+    {
+      "term": "Persian nationalism",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Civilizational memory and identity that Jiang says can be reactivated by external attack and minority insurgency.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian Zionism",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Introduced as a future topic for why some Christians might connect Middle East war to Jesus' return.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Armageddon",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Apocalyptic battle language from Revelation that the quoted email says was used to explain Iran operations.",
+      "confidence": "medium"
+    },
+    {
+      "term": "signal fire in Iran",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Quoted phrase for Iran as a trigger for Armageddon and Christ's return.",
+      "confidence": "medium"
+    },
+    {
+      "term": "human consciousness",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0052",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The real power and currency in Jiang's model, the source of reality, wealth, and political control.",
+      "confidence": "high"
+    },
+    {
+      "term": "game being played",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's warning that apparent material incentives may not be the actual payoff structure motivating actors.",
+      "confidence": "high"
+    },
+    {
+      "term": "soul of humanity",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The final object of World War III in Jiang's metaphysical framing: control over human consciousness and existence.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001"
+      ],
+      "note": "Dated March 5, 2026, this lecture follows an earlier class on the military and strategic position in the U.S.-Iran war and explicitly extends Jiang's prediction that the United States will lose.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0011",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0012"
+      ],
+      "note": "This March 5, 2026 formulation gives a live-war criterion for later checking: Iran wins if bombing and pressure create motivation, learning, resilience, and unity.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0018",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0024"
+      ],
+      "note": "The lecture marks the question of why the war is happening as the most important and postpones it until later, after building the asymmetry model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang makes a near-term forecast that these three pillars of American strategy will be visible over the next few weeks.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0038",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang dates the Rubio statement as \"yesterday\" relative to the March 5, 2026 lecture and uses it as live evidence that official war motives were incoherent.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0045"
+      ],
+      "note": "The email is presented as a contemporaneous complaint about combat operations in Iran during the March 5, 2026 lecture; it should be kept distinct from Jiang's own claims.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0053"
+      ],
+      "note": "This March 5, 2026 lecture escalates from U.S.-Iran strategic asymmetry to the course's larger consciousness thesis, flagged by Jiang as material he will explain in later classes.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0013"
+      ],
+      "note": "ASR says \"invisible\" where context indicates Jiang likely means \"invincible\" when describing America's apparent position."
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0020"
+      ],
+      "note": "ASR identifies the assassinated religious leader as Ayatollah Khomeini; the extraction preserves the transcript wording without independently correcting the named figure."
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0025",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0027"
+      ],
+      "note": "ASR renders ethnic names as \"Baliks/bollocks\" and \"Azzaris/ethnic Israelis\" in places; extraction treats the intended references as Baluch/Baloch, Kurds, Hazaris, and Azerbaijanis where context supports it."
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "note": "The Armageddon/Jesus motive is attributed to reporting Jiang cites from John Larson/Substack and framed by Jiang as a clue rather than fully proven cause at this point."
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0041",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0048"
+      ],
+      "note": "Segments 0041, 0043, 0045, and 0047 are quoted/read material, not Jiang's claims; the underlying report is presented through Jiang's cited source and classroom reading."
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0050"
+      ],
+      "note": "Jiang explicitly qualifies the Christian-apocalyptic motive as a possibility, not a proven sole cause; public read should preserve that qualification."
+    }
+  ]
+}

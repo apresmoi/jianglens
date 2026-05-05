@@ -1,0 +1,175 @@
+{
+  "packet_id": "predictive-history-t5oisjiorsu-semantics-pkt-0001",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_date": "2026-03-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0003",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0005",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0006",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the law of asymmetry through the U.S.-Iran war: the stronger empire appears to have overwhelming mass, organization, and expendability, but those strengths decay into inequality, elite parasitism, factionalism, insularity, and hubris.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that the United States will lose the U.S.-Iran war and frames the law of asymmetry as the theoretical reason why a much stronger power can lose to an underdog.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "u-s-iran-war",
+        "law-of-asymmetry",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Historical empires are vulnerable to borderland or smaller peoples because the underdog can exploit weaknesses that the empire does not see in itself.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "underdog-advantage",
+        "empire",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "An empire has three apparent advantages: mass, organization, and death, where death means enough resources and people to absorb repeated military losses.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0003",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "empire-model",
+        "mass",
+        "organization",
+        "death"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The same imperial advantages become long-term weaknesses: mass creates inequality and debt, organization creates rent-seeking elites and elite overproduction, and expendability creates hubris.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0005",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0006",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "imperial-decline",
+        "elite-overproduction",
+        "hubris"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001"
+      ],
+      "moment": "The stronger side is not automatically favored; asymmetry means the obvious winner may be structurally set up to lose.",
+      "source_phrase": "the law of asymmetry states that that's usually not the case",
+      "why_it_matters": "This is the lecture key: not military balance but how imbalance changes incentives and adaptation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang names death itself as an imperial advantage: vast resources let an empire treat losses as replaceable.",
+      "source_phrase": "the last great strength of the empire is the idea of death",
+      "why_it_matters": "The strange category turns casualty tolerance and imperial depth into a moral and strategic liability.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "moment": "Hubris is violent arrogance that repeats mistakes because it cannot recognize them.",
+      "source_phrase": "blindness to your own arrogance",
+      "why_it_matters": "It links psychology, bureaucracy, and defeat into one mechanism.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "law of asymmetry",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's model for why a weaker, more adaptive side can defeat an apparently overwhelming empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "death",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "In this lecture, the imperial capacity to absorb losses and return with more soldiers and weapons.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Peter Turchin's term, used by Jiang for too many elites competing in a zero-sum hierarchy and creating factional conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "hubris",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Blindness to one's own violent arrogance, producing repeated strategic mistakes.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0001"
+      ],
+      "note": "Dated March 5, 2026, this lecture follows an earlier class on the military and strategic position in the U.S.-Iran war and explicitly extends Jiang's prediction that the United States will lose.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

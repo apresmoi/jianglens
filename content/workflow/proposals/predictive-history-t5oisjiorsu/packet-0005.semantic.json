@@ -1,0 +1,221 @@
+{
+  "packet_id": "predictive-history-t5oisjiorsu-semantics-pkt-0005",
+  "source_id": "video:predictive-history-t5oisjiorsu",
+  "source_date": "2026-03-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0033",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0038",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why the American strategy backfires: bombing cities unites urban and rural Iran, insurgent arming reactivates Persian nationalism, and America is trapped by its need to win fast. Iran's answer is guerrilla hide-and-seek designed to provoke an unwinnable ground invasion; Jiang then turns to the unanswered motive for the war and introduces a Christian apocalyptic clue.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0033",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "note": "Main speaker is Jiang; diarization labels are treated as hints and non-Jiang reading/question spans are separated when visible in context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bombing Tehran and other cities turns urban and rural Iranians from internal opponents into a more cohesive society oriented against America and Israel.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "cohesion",
+        "urban-rural-divide",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Arming minorities against Iran activates Persian nationalism and long-lost historical memory, producing energy, openness, and cohesion rather than fragmentation.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "persian-nationalism",
+        "memory",
+        "strategy-backfire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "America repeats this policy because empire cares about itself, wants a cheap and fast victory, and lacks manufacturing capacity and political will for a long war.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "empire",
+        "cheap-fast-war",
+        "political-will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran's guerrilla strategy is hide-and-seek: absorb bombing in mountains, then create recurring economic damage and fear through drones and rockets until America is tempted into invasion.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "guerrilla-warfare",
+        "hide-and-seek",
+        "iran-strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says if America launches a ground invasion of Iran, it has lost the war, because Iran is impossible to occupy with America's constraints.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "ground-invasion",
+        "occupation",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the public explanations for the war as inadequate and introduces reporting that soldiers were told the Iran war is for Armageddon and the return of Jesus.",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0038",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Claim stated in the March 5, 2026 lecture.",
+      "topic_tags": [
+        "war-motive",
+        "armageddon",
+        "christian-zionism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034"
+      ],
+      "moment": "The attack that should fragment Iran instead wakes Persian memory.",
+      "source_phrase": "activate their long-lost memories",
+      "why_it_matters": "This is the episode's strongest civilizational backfire image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036"
+      ],
+      "moment": "Iranian guerrilla warfare is hide and seek in the mountains.",
+      "source_phrase": "it's this simple, it's hide and seek",
+      "why_it_matters": "It compresses the military strategy into a memorable children's-game metaphor.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0037"
+      ],
+      "moment": "The ground invasion is not escalation toward victory; it is the sign America has already lost.",
+      "source_phrase": "if it does, then they've lost the war",
+      "why_it_matters": "It gives a concrete future threshold for the prediction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039"
+      ],
+      "moment": "The hidden clue is that soldiers are allegedly told the war is for Jesus.",
+      "source_phrase": "this is a war for Jesus",
+      "why_it_matters": "It pivots the lecture from material game theory into religious endgame logic.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "guerrilla warfare",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Iran's proposed hide-and-seek response: avoid decisive battle, strike after bombing ends, and impose recurring costs.",
+      "confidence": "high"
+    },
+    {
+      "term": "siege warfare",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "America's approach in Jiang's model: pressure, bombard, and try to win cheaply and quickly from outside.",
+      "confidence": "high"
+    },
+    {
+      "term": "Persian nationalism",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Civilizational memory and identity that Jiang says can be reactivated by external attack and minority insurgency.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian Zionism",
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Introduced as a future topic for why some Christians might connect Middle East war to Jesus' return.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0038",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang dates the Rubio statement as \"yesterday\" relative to the March 5, 2026 lecture and uses it as live evidence that official war motives were incoherent.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0039",
+        "video:predictive-history-t5oisjiorsu@transcript:v1#seg-0040"
+      ],
+      "note": "The Armageddon/Jesus motive is attributed to reporting Jiang cites from John Larson/Substack and framed by Jiang as a clue rather than fully proven cause at this point."
+    }
+  ]
+}
