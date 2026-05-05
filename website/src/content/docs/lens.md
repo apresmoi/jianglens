@@ -138,7 +138,7 @@ Bureaucracy becomes institutional death when a successful organization preserves
 
 The diagnostic question is not "does this institution have offices?" It is "which layer is growing, what work is being converted into procedure, what sources of status are being monopolized, and could the system still admit the person who founded its greatness?"
 
-## Empire, War, And Material Reality
+## [Empire, War, And Material Reality](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
 
 The geopolitical episodes make the atlas harder.
 
@@ -219,7 +219,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | [Civilization as inner order](/lens/civilization-as-inner-order/) | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
 | Bureaucracy as institutional death | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
-| Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
+| [Empire and material test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon, Iran escalation |
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
 | Education as soul game | What kind of person does school make when learning is displaced by trust transfer, status, compliance, and credential competition? | Secret History school, meritocracy, Game Theory schools, Great Books |
