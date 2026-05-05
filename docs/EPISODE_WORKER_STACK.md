@@ -92,8 +92,9 @@ The launcher does this on every run:
 10. Mounts Plato's separate checkout and state directories.
 11. Starts Virgil's direct episode-worker autonomy loop unless `EPISODE_WORKER_LOOP_ENABLED=false`.
 12. Starts Plato's direct lens-steward autonomy loop unless `LENS_STEWARD_LOOP_ENABLED=false`.
-13. Mounts persisted Moltnet state under `.runtime/episode-worker/`.
-14. Registers the local `codex-operator` participant so host `moltnet send` messages are visible in room history.
+13. Repairs the persisted `episode-floor` room membership so old Moltnet SQLite state picks up newly declared agents.
+14. Mounts persisted Moltnet state under `.runtime/episode-worker/`.
+15. Registers the local `codex-operator` participant so host `moltnet send` messages are visible in room history.
 
 If an older container already has an unmounted checkout and `.runtime/episode-worker/repo` is empty, the launcher snapshots that checkout before replacing the container.
 
