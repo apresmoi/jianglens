@@ -1,0 +1,951 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-cbamecnudxo:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-cbamecnudxo",
+  "source_id": "video:predictive-history-cbamecnudxo",
+  "source_title": "Game Theory #6:  The World's Bank",
+  "source_url": "https://www.youtube.com/watch?v=CbamEcNuDXo",
+  "source_date": "2026-01-22",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-cbamecnudxo@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-cbamecnudxo/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-cbamecnudxo/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-cbamecnudxo/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-cbamecnudxo/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-cbamecnudxo/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-cbamecnudxo/packet-0006.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-cbamecnudxo/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-cbamecnudxo/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 6,
+    "interactions": 8,
+    "speaker_notes": 6,
+    "claims": 28,
+    "signature_moments": 13,
+    "predictions": 1,
+    "models": 12,
+    "glossary_terms": 10,
+    "chronology_notes": 6,
+    "uncertainty_notes": 5
+  },
+  "first_refs": [
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0001",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0002",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0003",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0005",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0006",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0007",
+    "video:predictive-history-cbamecnudxo@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0001",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0002",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0003",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0005",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0006",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0007",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by treating elite Chinese students' love of English, U.S. dollars, and emigration as strange behavior that needs a historical explanation. He then starts the genealogy with poor Europe, spice trade, Spanish conquest, silver wealth, and the way Spanish over-wealth outsources industry and trade to England, France, and the Dutch.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0009",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0010",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0011",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0012",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0013",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the divergence between Spain and the rising Dutch/British/French system: piracy enriches England, Spanish hubris bankrupts Spain, Protestant/Calvinist energy differentiates England and the Dutch from Catholic Spain, the Thirty Years' War makes merchant wealth insecure, and the Glorious Revolution creates a parliamentary order built to protect capital through national sovereignty and the Bank of England.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0017",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0018",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0019",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0020",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0021",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0022",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0023",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why lending to a nation through the Bank of England is safer than lending to a king, then expands the model into property rights, offshore financial centers, Britain's wars against Napoleon, the East India Company, India and China extraction, and the game that incentivizes local elites to help Britain steal and export wealth.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0025",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0026",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0027",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0029",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0030",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0031",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang names the mechanisms that keep local elites inside the British game: money laundering through offshore centers, schooling and English as elite indoctrination and mobility, Rhodes-style networks, and the Navy. He then argues that the old British Empire survives as a covert legal-financial system protecting drug money and other immoral markets, with morality as the reason most societies do not copy it.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0033",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0034",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0035"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that the supposedly demonic financial system underpins the present world by moving corrupt money from the third world into first-world banking and real estate. He defines over-financialization as too much money making Western societies corrupt, lazy, arrogant, unequal, politically captured, and near a game reset.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0036"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Western success leading to corruption and fall means success itself is self-defeating, and asks what success is for.",
+      "speaker_attribution": "Student or audience member",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0037",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0038",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0039",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that wealth does not create happiness, but the game forces everyone to worship the rich and chase money because short-term cheating creates national power even though long-term it corrupts and destroys the people.",
+      "speaker_attribution": "Jiang answering the student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the class by naming the tragedy of the game and saying the class will continue next time.",
+      "speaker_attribution": "Jiang lecture close",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0001",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0008"
+      ],
+      "note": "Focus refs are a continuous Jiang monologue with rhetorical questions directed at students; no substantive audience question occurs in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0009",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang lecture; 'does that make sense' and similar lines are classroom checks rather than student questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0017",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0024"
+      ],
+      "note": "Continuous Jiang monologue with classroom checks; the brief 'yes' in seg-0020 is not developed as a substantive question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0025",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0032"
+      ],
+      "note": "Continuous Jiang monologue; the 'question someone asked me' in seg-0031 is a reported question, not a live student interaction in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0036"
+      ],
+      "note": "SPEAKER_01 is a substantive student question and should be preserved as a public question rather than folded into Jiang's monologue.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0041"
+      ],
+      "note": "Closing Jiang remarks; 'Any more questions?' receives no substantive answer in the focus ref.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames Chinese students' pursuit of English, U.S. dollars, and Western immigration as a historically constructed game rather than natural self-interest.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0001",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0002",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0003",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Diagnosis stated in the January 22, 2026 lecture.",
+      "topic_tags": [
+        "elite-education",
+        "english",
+        "immigration",
+        "world-game"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The British Empire is identified as the creator of a game later inherited by America and played globally.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Historical model stated in the lecture.",
+      "topic_tags": [
+        "british-empire",
+        "american-empire",
+        "global-game"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Europe's early poverty and desire for East Indies spices pushed Spain and Portugal to seek new routes after Muslim-controlled trade routes became costly or blocked.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0005",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Historical setup for early modern European expansion.",
+      "topic_tags": [
+        "spice-trade",
+        "european-poverty",
+        "colonial-expansion"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Spanish silver wealth quickly creates the same pathology Jiang has been tracking: wealth makes a society lazy, insular, arrogant, and dependent on others' labor.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0007",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical model applied to Spain in this lecture.",
+      "topic_tags": [
+        "spain",
+        "silver",
+        "hubris",
+        "outsourcing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "England becomes wealthy partly through state-sponsored piracy against Spanish silver, with Sir Francis Drake serving under Elizabeth I.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical evidence used in the lecture.",
+      "topic_tags": [
+        "england",
+        "piracy",
+        "spanish-silver"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Spanish imperial decline as the result of wealth-driven laziness, insularity, hubris, overextension, war spending, and corruption.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Historical model applied to Spain.",
+      "topic_tags": [
+        "spanish-empire",
+        "hubris",
+        "imperial-decline"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Protestant or Calvinist England and the Dutch Republic are presented as becoming energetic, open, cohesive, trade-oriented societies in contrast with Catholic Spain.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0011",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical differentiation in early modern Europe.",
+      "topic_tags": [
+        "calvinism",
+        "protestantism",
+        "trade",
+        "cohesion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Thirty Years' War is used as the crisis that makes European merchants ask how wealth can be made secure against armies, conquest, and religious conflict.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0013",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Historical setup for the Glorious Revolution.",
+      "topic_tags": [
+        "thirty-years-war",
+        "merchant-security",
+        "capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Glorious Revolution is interpreted less as a religious event than as a capital-protection pact in which Parliament becomes sovereign and William of Orange accepts figurehead monarchy.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Interpretation of 1688 and 1694 offered in the lecture.",
+      "topic_tags": [
+        "glorious-revolution",
+        "parliament",
+        "capital-protection",
+        "bank-of-england"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Bank of England changes debt by making creditors lend to the nation rather than to a mortal or defaulting king, so the people remain liable even when the ruler dies.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0017",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "General model stated in the lecture.",
+      "topic_tags": [
+        "bank-of-england",
+        "national-debt",
+        "credit"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "England becomes attractive to wealth because it combines island security, naval protection, intermarriage, religion or secret societies, and contract law.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0018",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Historical explanation in the lecture.",
+      "topic_tags": [
+        "england",
+        "contract-law",
+        "freemasons",
+        "capital-security"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Locke-style rights as a property-protection doctrine: the state protects private property regardless of origin and treats it as God-given.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0019",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interpretive model stated in the lecture.",
+      "topic_tags": [
+        "john-locke",
+        "property",
+        "courts",
+        "parliament"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Britain is presented as the creator of the offshore financial center: a legal and financial shelter that does not care where money comes from.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0020",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical model stated in the lecture.",
+      "topic_tags": [
+        "offshore-financial-center",
+        "britain",
+        "capital"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Britain defeated Napoleon by financing seven wars, then became a global financial empire with the East India Company extracting wealth from India and China.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0021",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0022",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical sequence in the lecture.",
+      "topic_tags": [
+        "napoleon",
+        "east-india-company",
+        "india",
+        "china"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The British imperial game works because it incentivizes local elites in India and China to cooperate: help Britain steal, and Britain helps them move wealth and children abroad.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0023",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical model stated in the lecture.",
+      "topic_tags": [
+        "local-elites",
+        "imperial-cooperation",
+        "capital-flight"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Money laundering is defined as the process by which Britain and its offshore centers disguise stolen or illicit wealth as legitimate assets such as restaurants, real estate, or overseas investments.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Definition and model stated in the lecture.",
+      "topic_tags": [
+        "money-laundering",
+        "offshore-financial-centers",
+        "local-elites"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "British schooling works as elite indoctrination: English education teaches colonial elites to see British culture as superior and to seek British mobility.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0026",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical and institutional model stated in the lecture.",
+      "topic_tags": [
+        "schooling",
+        "english",
+        "indoctrination",
+        "soft-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Rhodes Scholar system is described as a secret-society-like network that selects imperial elites, bonds them at Oxford, and sends them to spread British power.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0027",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Historical model stated in the lecture.",
+      "topic_tags": [
+        "rhodes-scholar",
+        "oxford",
+        "imperial-elites"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Britain's world empire rests on three mechanisms: finance through the Bank of England, schooling or soft power, and the Navy's coercive force.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "General model stated in the lecture.",
+      "topic_tags": [
+        "finance",
+        "soft-power",
+        "navy",
+        "british-empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The old British Empire still exists as a covert legal and financial system whose offshore centers protect profits from global drug trade and other illicit markets.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0029",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0030",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Claim about the present world made on 2026-01-22.",
+      "topic_tags": [
+        "drug-trade",
+        "offshore-centers",
+        "british-empire",
+        "financial-system"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says societies avoid easy money from gambling, prostitution, human trafficking, slavery, or money laundering because immorality destroys energy, openness, cohesion, and the soul.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0031",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Moral-political model stated in the lecture.",
+      "topic_tags": [
+        "morality",
+        "cohesion",
+        "easy-money",
+        "soul-corruption"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the world economy is based on stealing from the third world and transferring that money into first-world banking and real estate systems.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Present-world diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "third-world-extraction",
+        "banking",
+        "real-estate",
+        "money-laundering"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Over-financialization is defined as too much money making people corrupt, lazy, arrogant, and insular, with Canada, the United States, Britain, and Australia named as examples.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0033",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Definition and present diagnosis stated in the lecture.",
+      "topic_tags": [
+        "over-financialization",
+        "western-world",
+        "corruption",
+        "inequality"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Western world is described as a victim of its own success: stolen wealth made it powerful, but that same wealth corrupted its people and politics.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0034",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Present diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "western-decline",
+        "success-corruption",
+        "political-capture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the current game is not sustainable and is approaching a reset or end, with a new game about to emerge.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Forward-looking diagnosis made on 2026-01-22.",
+      "topic_tags": [
+        "game-reset",
+        "unsustainable-system",
+        "western-chaos"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "In answer to the student, Jiang distinguishes happiness from success: happiness comes from family, love, community, meaning, purpose, and generosity, not wealth.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0036",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Normative answer stated in this lecture.",
+      "topic_tags": [
+        "happiness",
+        "success",
+        "family",
+        "community"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The money game persists because it gives short-term military and national advantages even though it destroys people and societies over the long term.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0038",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0039",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "General game-theory model stated in the lecture.",
+      "topic_tags": [
+        "short-termism",
+        "zero-sum-game",
+        "corruption",
+        "national-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concludes that the great tragedy of the game is that people believe short-term success will produce future happiness even though it will not.",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Closing thesis of the January 22, 2026 lecture.",
+      "topic_tags": [
+        "tragedy",
+        "happiness",
+        "game"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0001",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004"
+      ],
+      "moment": "The supposedly rational ambitions of elite Chinese students become evidence that they are already inside a foreign-designed game.",
+      "source_phrase": "how is this game constructed",
+      "why_it_matters": "This gives the episode its public hook: English, dollars, and emigration are symptoms of imperial game design.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0007"
+      ],
+      "moment": "Spain wins silver and loses its character: wealth changes energetic, open, cohesive people into lazy, insular, arrogant people.",
+      "source_phrase": "if you become too wealthy and too powerful, you change as a people",
+      "why_it_matters": "It states the lecture's recurring law: success corrupts the capacities that created success.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015"
+      ],
+      "moment": "The monarch becomes the puppet and Parliament becomes the real sovereign power because capital needs a safer container than a king.",
+      "source_phrase": "the real power is in Parliament",
+      "why_it_matters": "It recasts national sovereignty as financial engineering rather than civic idealism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "moment": "The Bank of England is born when Dutch wealth moves to an island and is guaranteed by Parliament.",
+      "source_phrase": "they want to protect capital",
+      "why_it_matters": "This is the episode's hinge from European religious war to the modern financial empire.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0017",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0018"
+      ],
+      "moment": "The debt survives the king because the nation, not the ruler, now owes the money.",
+      "source_phrase": "not to the king, but to the nation",
+      "why_it_matters": "This is Jiang's compact explanation of why modern state finance is more powerful than royal borrowing.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0023",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0024"
+      ],
+      "moment": "Empire does not only conquer; it builds a game where local elites help steal their own country because the exit door leads to British protection.",
+      "source_phrase": "if you help us, we will help you steal the gold from this country",
+      "why_it_matters": "It turns colonial extraction into incentive design, not just military domination.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0026",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028"
+      ],
+      "moment": "English education is not neutral knowledge; it is the machine that teaches talented colonial students to want to become British.",
+      "source_phrase": "try my best to be British",
+      "why_it_matters": "This ties the opening Chinese-student puzzle back to the empire's soft-power technology.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0031"
+      ],
+      "moment": "The British Empire did not disappear; it changed from overt military rule into covert financial and legal control.",
+      "source_phrase": "transformed from one that is overt... to one that is covert",
+      "why_it_matters": "This is the episode's strongest continuity claim about empire after empire.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0032"
+      ],
+      "moment": "A city can be rich and still be spiritually disgusting if its wealth comes from laundering the world's corruption.",
+      "source_phrase": "your soul is going to become corrupted",
+      "why_it_matters": "It keeps the heat of Jiang's moral diagnosis instead of reducing the passage to finance mechanics.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0033",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0034"
+      ],
+      "moment": "The first world becomes rich by laundering the third world's stolen wealth, then starts rotting from the money it absorbed.",
+      "source_phrase": "stealing from the third world and transferring this money to the first world",
+      "why_it_matters": "This is Jiang's sharpest condensation of over-financialization as both theft and self-poisoning.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0035"
+      ],
+      "moment": "The system is not just bad; it has become too successful to survive.",
+      "source_phrase": "this game right now is not sustainable",
+      "why_it_matters": "It turns collapse into the consequence of the model working exactly as designed.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0039"
+      ],
+      "moment": "The money game is like Olympic doping: one cheater wins, so everyone else must poison themselves to stay in the race.",
+      "source_phrase": "one guy uses a drug and he wins",
+      "why_it_matters": "The metaphor explains why immoral systems spread even when everyone knows they destroy the players.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0041"
+      ],
+      "moment": "The game is tragic because its players sacrifice happiness while believing the sacrifice will eventually make them happy.",
+      "source_phrase": "the great tragedy of this game",
+      "why_it_matters": "It gives the episode an emotional endpoint after the historical finance argument.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "the game",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0001",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang's name for the incentive structure that makes students chase English, dollars, and Western immigration.",
+      "confidence": "high"
+    },
+    {
+      "term": "hubris",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The arrogance produced when wealth and power make an empire think it is invincible.",
+      "confidence": "high"
+    },
+    {
+      "term": "national sovereignty",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0015",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "In Jiang's account, the parliamentary state that protects capital more reliably than a king.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bank of England",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The institution created in 1694 that lets wealth be held under parliamentary guarantee.",
+      "confidence": "high"
+    },
+    {
+      "term": "offshore financial center",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0020",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A legal-financial jurisdiction that protects money without asking where it came from.",
+      "confidence": "high"
+    },
+    {
+      "term": "contract law",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The English system Jiang says made private property secure enough for transnational wealth.",
+      "confidence": "high"
+    },
+    {
+      "term": "money laundering",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0025",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Cleaning illicit or stolen wealth through legal and financial systems so it can be invested as legitimate money.",
+      "confidence": "high"
+    },
+    {
+      "term": "soft power",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Schooling and cultural prestige used to align local elites with imperial power.",
+      "confidence": "high"
+    },
+    {
+      "term": "over-financialization",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0033",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Too much money in a society, producing corruption, laziness, arrogance, insularity, inequality, and political capture.",
+      "confidence": "high"
+    },
+    {
+      "term": "game reset",
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Jiang's phrase for the end of the current unsustainable game and the emergence of a new one.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0004"
+      ],
+      "note": "This January 22, 2026 lecture follows earlier Game Theory classes and explicitly promises to explain the British-created game that America inherits.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0014",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang's sequence moves from the Thirty Years' War to 1688 Glorious Revolution to the 1694 Bank of England as one capital-security chain.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0021",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0023"
+      ],
+      "note": "This packet bridges the Bank of England and Napoleon into the East India Company, India deindustrialization, China opium extraction, and U.S. industrialization.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang treats British imperial mechanisms as surviving into the American imperial era rather than ending with formal decolonization.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0040"
+      ],
+      "note": "Jiang says the next class will explain how the American Empire adds U.S. dollars to the British game and universalizes capitalism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0041"
+      ],
+      "note": "This is the lecture close and points to a continuation in the next class.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0007"
+      ],
+      "note": "ASR phrase 'stop contract' appears to mean Spain outsourced or subcontracted labor to other places."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0011",
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0012"
+      ],
+      "note": "ASR is noisy around the Protestant/Catholic contrast and a non-English fragment appears in seg-0012; extraction keeps only the clear argumentative line."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0018"
+      ],
+      "note": "The phrase 'I cannot put my money in the Bank of England' appears from context to mean 'I can now put my money' or a similar positive statement."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0028"
+      ],
+      "note": "ASR says 'open wars' in the China passage; context likely means the Opium Wars."
+    },
+    {
+      "refs": [
+        "video:predictive-history-cbamecnudxo@transcript:v1#seg-0035"
+      ],
+      "note": "The transition into the student question begins at the end of seg-0035 and completes in seg-0036; public question extraction should include seg-0036 as the clean question span."
+    }
+  ]
+}
