@@ -1,0 +1,167 @@
+{
+  "packet_id": "predictive-history-mk4vchtawso-semantics-pkt-0001",
+  "source_id": "video:predictive-history-mk4vchtawso",
+  "source_date": "2026-03-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0001",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0003",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0005",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by saying he cannot predict when the war will end, but will predict how it will end; he interprets Trump, the White House, and the Pentagon as revealing that America expected a quick decapitation and surrender and cannot process Iranian resistance.",
+      "speaker_attribution": "Jiang lecture monologue around quoted clips.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0002",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0004",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0006",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0007"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The packet includes clips of Trump, the White House press secretary, and a defense official presenting the war as successful, Iran as defeated, and negotiation as something conducted with bombs.",
+      "speaker_attribution": "Quoted public officials shown in lecture clips, not Jiang's own claims except where interpreted.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript says 'Peter Heksev'; context indicates Jiang is referring to a Pentagon/war secretary figure in the clip, but the exact name is ASR-uncertain.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the lecture as a prediction about how the war will end, while explicitly saying he cannot predict when it will end.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Stated on 2026-03-26 about the ongoing war.",
+      "topic_tags": [
+        "war",
+        "prediction",
+        "iran",
+        "united-states"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the United States entered the war expecting to kill Iranian leadership, trigger surrender, and avoid serious retaliation against Gulf states.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0002",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Diagnosis of the war as of 2026-03-26.",
+      "topic_tags": [
+        "american-strategy",
+        "iran",
+        "gulf-states"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads White House messaging as a narcissistic explanation: America believes it already defeated Iran and blames Iran for not recognizing defeat.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0004",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interpretation of cited official messaging on 2026-03-26.",
+      "topic_tags": [
+        "white-house",
+        "propaganda",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the military posture is that America is winning, does not need real negotiation, and will negotiate with bombs.",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0006",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0007",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretation of the Pentagon clip in this lecture.",
+      "topic_tags": [
+        "pentagon",
+        "military-strategy",
+        "negotiation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0003"
+      ],
+      "moment": "America's first error is not a bad tactic but the fantasy that enemies would not fight back.",
+      "source_phrase": "we really didn't think our enemies... would fight back",
+      "why_it_matters": "This sets up hubris as the motor of the whole lecture.",
+      "tone": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0005"
+      ],
+      "moment": "The official story becomes: we won; the Iranians are too stupid to know they lost.",
+      "source_phrase": "the Iranians, being stupid, don't know they've been defeated",
+      "why_it_matters": "It captures Jiang's account of American self-deception before the strategic model begins.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0008"
+      ],
+      "moment": "The Pentagon's diplomacy is reduced to 'negotiate with bombs.'",
+      "source_phrase": "let's negotiate with bombs, man",
+      "why_it_matters": "The phrase condenses the military mindset Jiang thinks prevents reflection.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "negotiate with bombs",
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's shorthand for a military posture that treats continued bombing as negotiation because it believes victory is already assured.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0001"
+      ],
+      "note": "As of 2026-03-26, Jiang says the end-date is not predictable but the structure of the ending can be predicted.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0002",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0004",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0006",
+        "video:predictive-history-mk4vchtawso@transcript:v1#seg-0007"
+      ],
+      "note": "These are quoted clips shown inside the lecture; semantic claims should distinguish the clip speakers' claims from Jiang's interpretation of them."
+    }
+  ]
+}
