@@ -1,0 +1,234 @@
+{
+  "packet_id": "predictive-history-zaer-mqe7tq-semantics-pkt-0001",
+  "source_id": "video:predictive-history-zaer-mqe7tq",
+  "source_date": "2026-03-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0002",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0003",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0004",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0005",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0006",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0007",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames Fukuyama's end-of-history thesis as the ideological form of the unipolar moment, then defines that moment through Pax Americana, science as global religion, and the universality of the U.S. dollar.",
+      "speaker_attribution": "Jiang lecture monologue; the brief 'Okay' in seg-0006 is likely an audience or classroom interjection.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0006"
+      ],
+      "note": "The isolated 'Okay' is tagged SPEAKER_00 and appears to be a non-substantive audience/classroom response rather than Jiang's argument.",
+      "suggested_speaker": "audience",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Fukuyama's end-of-history thesis named the liberal consumer democracy as the supposed apex of civilization, and Jiang treats that as the ideology of a unique American-led unipolar moment.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "historical framing of the post-Cold-War order, discussed on 2026-03-24",
+      "topic_tags": [
+        "end-of-history",
+        "unipolar-moment",
+        "liberal-consumer-democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The current Iran war marks, for Jiang, the end of the unipolar moment created by American hegemony.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "diagnosis of the 2026 Iran-war context",
+      "topic_tags": [
+        "iran-war",
+        "unipolar-moment",
+        "american-empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pax Americana worked through aerial supremacy, special forces, CIA influence, and the capacity to sabotage or destroy governments that challenged the American empire.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "model of American power during the unipolar moment",
+      "topic_tags": [
+        "pax-americana",
+        "cia",
+        "aerial-supremacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The internet is presented not primarily as a communications tool but as a mass surveillance system that lets military power read and manipulate regional moods through social media.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "model of internet function under Pax Americana",
+      "topic_tags": [
+        "internet",
+        "surveillance",
+        "social-media"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The rules-based international order hid American domination behind multilateral bodies, making empire appear as fairness, logic, reason, and debate.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "definition of the rules-based international order in the unipolar moment",
+      "topic_tags": [
+        "rules-based-order",
+        "empire",
+        "multilateralism"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Science became the dominant global religion under Pax Americana, with scientists acting as transnational priests loyal to an international brotherhood controlled by the American empire.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0004",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0005",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "diagnosis of science's role during the unipolar moment",
+      "topic_tags": [
+        "science-as-religion",
+        "transnational-priests",
+        "covid"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The universality of the U.S. dollar made a piece of paper socially equivalent to gold and organized life around accumulation even when more money no longer changes consumption.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0007",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "diagnosis of dollar universality during the unipolar moment",
+      "topic_tags": [
+        "us-dollar",
+        "accumulation",
+        "capitalism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001"
+      ],
+      "moment": "The Iran war is treated not as one crisis among many but as the event that ends the end of history.",
+      "source_phrase": "we've come, with this one Iran, to the end of this moment",
+      "why_it_matters": "It compresses the lecture's scale: one contemporary war becomes the terminus of the post-Cold-War world.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0003"
+      ],
+      "moment": "The internet is recast as a planetary mood-reading and mood-steering machine.",
+      "source_phrase": "a mass surveillance system over the entire human population",
+      "why_it_matters": "The familiar communications network becomes infrastructure for imperial perception and emotional governance.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0007"
+      ],
+      "moment": "Scientists become transnational priests, and science becomes a brotherhood more binding than nation.",
+      "source_phrase": "transnational priests",
+      "why_it_matters": "It turns secular expertise into a religious-political order, a core Jiang move in the lecture.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0007",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0008"
+      ],
+      "moment": "A dollar works because everyone collectively treats paper as gold, and life becomes a race to pile up unusable numbers.",
+      "source_phrase": "just a piece of paper, you think it's gold",
+      "why_it_matters": "It makes monetary hegemony look like shared enchantment rather than neutral economics.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "unipolar moment",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The post-Cold-War American hegemonic order: globalized, capitalist, individualistic, and structured by Pax Americana, science, and the U.S. dollar.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0002",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "American military and institutional dominance that guarantees peace while enforcing imperial control.",
+      "confidence": "high"
+    },
+    {
+      "term": "science as religion",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0004",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Science functions as the dominant global belief system, with experts acting as priests and enforcing orthodoxy.",
+      "confidence": "high"
+    },
+    {
+      "term": "rules-based international order",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The multilateral language and institutions that make American imperial dominance appear fair, rational, and universal.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001"
+      ],
+      "note": "On 2026-03-24 Jiang dates the end of the unipolar moment to the Iran-war context rather than treating end-of-history liberalism as still stable.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript phrase 'with this one Iran' appears to mean the current war in Iran; preserve the source wording in downstream quotation-sensitive use."
+    }
+  ]
+}
