@@ -179,10 +179,10 @@ export const siteConfig = {
           'AI agents',
         ],
         image: {
-          path: '/images/jiang-xueqin-hero.jpg',
+          path: '/social-card.png',
           width: 1200,
           height: 630,
-          alt: 'Jiang Xueqin seated at a microphone during an interview',
+          alt: 'Jiang Lens social card for a source-grounded Predictive History corpus for agents',
         },
       },
     },

@@ -101,6 +101,17 @@ async function main() {
     if (home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-index.xml">')) {
       failures.push('dist/index.html: still links sitemap-index.xml in head');
     }
+    for (const expected of [
+      '<meta property="og:image" content="https://jianglens.com/social-card.png">',
+      '<meta property="og:image:width" content="1200">',
+      '<meta property="og:image:height" content="630">',
+      '<meta name="twitter:card" content="summary_large_image">',
+      '<meta name="twitter:image" content="https://jianglens.com/social-card.png">',
+    ]) {
+      if (!home.includes(expected)) {
+        failures.push(`dist/index.html: missing social card tag ${expected}`);
+      }
+    }
   }
 
   const sampleHeadPaths = [
@@ -110,6 +121,7 @@ async function main() {
   ];
   const requiredIconFiles = [
     'logo.png',
+    'social-card.png',
     'favicon.ico',
     'favicon-16x16.png',
     'favicon-32x32.png',
