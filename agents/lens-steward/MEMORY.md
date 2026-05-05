@@ -10,3 +10,4 @@
 - Do not edit shared skills directly; propose improvements under `agents/lens-steward/proposals/`.
 - Bureaucracy-as-institutional-death should stay ambivalent: bureaucracy can initially coordinate scale, standardization, records, and doubt, but its mature danger is monopoly over status, literacy, information, and narrative that converts living work into management preservation.
 - Power-as-alchemy should stay narrow as a root conversion mechanism, not absorb the whole atlas: it names how imagination is trained until abstractions like money, the individual, and the nation-state become lived realities that command labor, fear, isolation, obedience, and sacrifice.
+- Taboo-as-control-surface should stay focused on the boundary mechanism: a taboo marks what humans may not do, what only gods/kings/states may do, and what public breach removes retreat, transfers sovereignty, or routes guilt into a scapegoat.

@@ -64,6 +64,18 @@ Mesopotamia supplies the contrast. Where Egypt imagines divine generosity and py
 <span id="sacred-machine-coordinates-life" class="lens-point-anchor"></span>
 A sacred machine is a material form that a civilization imagines as a bridge between invisible order and public life. It concentrates labor, belief, hierarchy, and cosmic hope into an object or institution; its danger is that failed transcendence becomes centralized waste.
 
+## Taboo As Control Surface
+
+The taboo family names the boundary where a shared world tells people what humans may not do, what only gods or kings may do, and what breach would make return impossible. It grows from several source clusters: early ritual balance, Spanish conquest, Church scapegoating, Robespierre, and the Secret History lecture on evil.
+
+In the Religious Imagination lecture, early humans are described as living inside a spirit order where killing animals requires tribute to maintain cosmic harmony. The Secret History taboo lecture turns that primitive into a political mechanism: [the river behind the army is a taboo]{evidence="video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007"}. Cross the forbidden line publicly and retreat disappears; outside hatred can become inside cohesion. The conquest lecture gives the strategic form: in a sacred game, [breaking the ultimate taboo can make the violator seem godlike]{evidence="video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045 video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0048"}.
+
+The scapegoat form routes guilt. In the Church and Empire lecture, resentment is channeled toward a vulnerable intermediary; in the Robespierre lecture, the revolutionary leader becomes the one who takes the guilt for the nation. Taboo therefore has two faces in the atlas: it can preserve harmony by marking sacred boundaries, and it can produce power when violation, sacrifice, or scapegoating reorganizes a people around a breach.
+
+<!-- lens-point id="taboo-control-surface-atlas" concept="taboo-control-surface" evidence="video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0007 video:predictive-history-dnfgcvzrfa@transcript:v1#seg-0045 video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078" -->
+<span id="taboo-control-surface-atlas" class="lens-point-anchor"></span>
+Taboo becomes a control surface when a sacred boundary organizes who may act, what breach would change the world, and whether violation produces pollution, cohesion, sovereignty transfer, or scapegoat purification.
+
 ## Legitimacy As Fiction That Becomes Real
 
 The Roman and biblical lectures keep sharpening a related mechanism: legitimacy can begin as fiction, but if enough people inhabit it, the fiction becomes a real political force.
@@ -187,6 +199,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
 | World-making media | How do poems, myths, scripture, film, and philosophy make reality inhabitable? | Homer, Bible/Yahwist, Hollywood-Pentagon |
 | Sacred machines | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
+| Taboo as control surface | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
 | Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
@@ -202,6 +215,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 
 - **2024-08-29**: Agriculture appears as a bad bargain that religion makes livable; settlement needs meaning before it can become civilization.
 - **2024-09-10**: Old Europe becomes the counter-image: a peaceful Mother Goddess civilization that makes war, property, and patriarchy look historical rather than natural.
+- **2024-09-05 to 2025-08-29**: Taboo becomes visible as a control surface: ritual maintains harmony with the spirit world, sacred kings and temples define what only gods may touch, scapegoating routes social pressure, regicide makes revolution irreversible, and Secret History #4 names taboo as the no-exit river.
 - **2024-10-08**: Bronze Age collapse adds the elite-overproduction model: civilizations break when status, rent, debt, and resources no longer fit the hierarchy.
 - **2024-10-10**: Homer turns Greek collapse into an opening; poetry, alphabet, poverty, and polis create a new human type.
 - **2024-11-12 to 2024-11-21**: Rome becomes the laboratory for myth and empire: Caesar changes reality, Octavian inherits the wound, and Virgil fights Homer for Rome's soul.
@@ -220,6 +234,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 When reading a new source or applying the lens to an event, start with these discriminators:
 
 - What symbolic form is making the world feel real: poem, scripture, film, monument, office, algorithm, currency, war story, school, or sacred text?
+- Which taboo marks the edge of the game, and who gains power if that boundary is honored, broken, or loaded onto a scapegoat?
 - Who is gathering attention as energy, and what world does that focused imagination make durable?
 - What material test can still falsify the story: cost, logistics, ecology, debt, institutional capacity, demographic pressure, or violence?
 - Which layer is growing: the people doing real work, or the offices that classify, manage, review, and justify that work?
