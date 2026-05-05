@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-yxtrlvfirt8-semantics-pkt-0009",
+  "source_id": "video:predictive-history-yxtrlvfirt8",
+  "source_date": "2026-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0065"
+      ],
+      "kind": "question",
+      "summary": "A student challenges Jiang's robot reading of Aeneas by asking whether love for Pallas is still an emotion that contributes to Turnus's death.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0066",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0067",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that vengeance cannot be love: if you truly love someone, you do not turn their memory into hatred and violence; you honor them through generosity and forgiveness.",
+      "speaker_attribution": "Jiang answer to student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0069"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by previewing the Divine Comedy lectures and says the difficulty of understanding love comes from the students' prior brainwashing.",
+      "speaker_attribution": "Jiang class closeout.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0065"
+      ],
+      "note": "SPEAKER_01 asks the only substantive student question in the source.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang accepts the student's premise that Aeneas's love for Pallas could appear to motivate Turnus's death, but he rejects vengeance as true love.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0065",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Question-answer exchange on 2026-03-25.",
+      "topic_tags": [
+        "pallas",
+        "aeneas",
+        "vengeance",
+        "love"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "True love, in Jiang's answer, cannot use a beloved person's memory as an excuse for hatred, violence, or evil.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0066",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Definition stated on 2026-03-25.",
+      "topic_tags": [
+        "love",
+        "violence",
+        "memory",
+        "evil"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "To celebrate someone you love is to remain open and generous toward others, and even to forgive the killer rather than avenge the dead.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0066",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Normative definition stated on 2026-03-25.",
+      "topic_tags": [
+        "forgiveness",
+        "generosity",
+        "love",
+        "dante"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says modern education has trained students in utility, obedience, and compliance, but not in love.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0067",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Educational diagnosis stated on 2026-03-25.",
+      "topic_tags": [
+        "education",
+        "utility",
+        "obedience",
+        "love"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The great books, especially Homer and Dante, are presented as an education in what love is because love is where God is.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Pedagogical claim stated on 2026-03-25.",
+      "topic_tags": [
+        "great-books",
+        "homer",
+        "dante",
+        "god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0066"
+      ],
+      "moment": "You do not avenge someone you love by killing someone.",
+      "source_phrase": "you don't avenge someone you love by killing someone",
+      "why_it_matters": "It answers the strongest student objection and flips heroic vengeance into anti-love.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0066"
+      ],
+      "moment": "Love celebrates the dead by making the living more open and generous.",
+      "source_phrase": "You celebrate the person's life by being open and generous with others.",
+      "why_it_matters": "It gives the episode a positive doctrine of love, not only a critique of Virgil.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0067",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "moment": "The students can understand utility and compliance, but they have not received an education in love.",
+      "source_phrase": "what you have not received is an education in love",
+      "why_it_matters": "It turns the lecture back on the classroom and names the Great Books course's purpose.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "moment": "If your best friend were killed, love would mean forgiving the killer.",
+      "source_phrase": "you would actually forgive that person",
+      "why_it_matters": "It preserves the most difficult Dante-facing claim in the source.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "education in love",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0067",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "The Great Books training Jiang contrasts with education in utility, obedience, and compliance: learning what love is and why love is where God is.",
+      "confidence": "high"
+    },
+    {
+      "term": "anti-love world",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "A world whose education mistakes vengeance, utility, and compliance for moral action because it lacks a real account of love.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0068",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0069"
+      ],
+      "note": "The lecture closes by making the next Divine Comedy sequence responsible for explaining the difficult claim that love means forgiveness and God.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0065"
+      ],
+      "note": "Student question ASR says Aeneas 'didn't fail and proceed towards Ternus'; context indicates the student is asking whether love for Pallas emotionally motivates the killing of Turnus."
+    }
+  ]
+}

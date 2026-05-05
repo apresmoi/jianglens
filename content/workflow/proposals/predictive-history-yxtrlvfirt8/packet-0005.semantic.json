@@ -1,0 +1,181 @@
+{
+  "packet_id": "predictive-history-yxtrlvfirt8-semantics-pkt-0005",
+  "source_id": "video:predictive-history-yxtrlvfirt8",
+  "source_date": "2026-03-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0031",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0033",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0034",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0038",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Aeneas's denial, Dido's fall, and the anti-Odyssey logic: Homeric love gives strength and resurrects Odysseus; Virgilian love disintegrates Dido from queen into someone imagining slavery and death.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0032",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0035",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0036",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0039",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0041",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0042"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Aeneas's defense, Dido's humiliation and death-wish, Aeneas sleeping peacefully, and Mercury's warning to flee before Dido's desperate plot erupts.",
+      "speaker_attribution": "Student reading from the Aeneid.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0035",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0036",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0041"
+      ],
+      "note": "Quoted readings are ASR-damaged but structurally distinct from Jiang's interpretation.",
+      "suggested_speaker": "student reader",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Aeneid turns love into the opposite of Homeric love: instead of empowering and resurrecting the self, love makes Dido disintegrate.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-03-25.",
+      "topic_tags": [
+        "love",
+        "dido",
+        "homer",
+        "aeneid"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dido's arc is from proud queen to emotional collapse, including the thought of begging to become a slave girl if it keeps her near Aeneas.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Narrative diagnosis stated on 2026-03-25.",
+      "topic_tags": [
+        "dido",
+        "madness",
+        "slavery",
+        "suicide"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Aeneas sleeping in peace while Dido breaks means, for Jiang, that he never loved her and treated her as a plaything.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0039",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-03-25.",
+      "topic_tags": [
+        "aeneas",
+        "dido",
+        "indifference"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The gods protect Aeneas from witnessing Dido's suicide by urging him to flee, which keeps the imperial hero from confronting the human consequences of his mission.",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0038",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-03-25.",
+      "topic_tags": [
+        "gods",
+        "aeneas",
+        "dido",
+        "flight"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037"
+      ],
+      "moment": "Dido's love becomes anti-love: the force that should resurrect her instead breaks her apart.",
+      "source_phrase": "by falling in love, you disintegrate as a person",
+      "why_it_matters": "It is the episode's emotional center, where Jiang names the Virgilian reversal most starkly.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0038"
+      ],
+      "moment": "A queen falls so far that slavery near Aeneas becomes imaginable.",
+      "source_phrase": "from a queen to essentially to a slave girl",
+      "why_it_matters": "The image makes Virgil's love-as-degradation impossible to miss.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0040"
+      ],
+      "moment": "Aeneas sleeps in peace because Dido was never love, only a plaything.",
+      "source_phrase": "He was never in love with her. She was just a plaything.",
+      "why_it_matters": "It strips away tragic-romance readings and pushes the propaganda critique forward.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "anti-love",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang's implied term for Virgilian love: a force that disintegrates and enslaves rather than resurrecting and freeing.",
+      "confidence": "high"
+    },
+    {
+      "term": "Homeric resurrection",
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Love restoring strength and identity, exemplified by Odysseus's bow and return to Penelope.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0038"
+      ],
+      "note": "This packet bridges Dido's personal collapse into the political-propaganda explanation of Carthage and Rome that follows.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0035",
+        "video:predictive-history-yxtrlvfirt8@transcript:v1#seg-0036"
+      ],
+      "note": "ASR in Dido's quoted speech is especially noisy; semantic extraction focuses on Jiang's explicit explanation in seg-0037 and seg-0038."
+    }
+  ]
+}

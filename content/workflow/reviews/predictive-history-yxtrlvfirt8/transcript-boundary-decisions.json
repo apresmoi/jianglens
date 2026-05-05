@@ -1,0 +1,120 @@
+{
+  "source_slug": "predictive-history-yxtrlvfirt8",
+  "decisions": [
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:ce40b299f0a4",
+      "decision": "approve",
+      "reason": "Completes 'each line is a truth...' after the previous segment ends on 'Each'."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:15dd4831be20",
+      "decision": "approve",
+      "reason": "Completes 'And the two fall in love' across the cut."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:1a1a79b690fc",
+      "decision": "approve",
+      "reason": "Completes Jiang's reading request, 'Ivory, can you read please?' before the quoted passage begins."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:7a4ecb4e8e5e",
+      "decision": "approve",
+      "reason": "Completes 'he chooses to return to Penelope' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:a8800e08d055",
+      "decision": "approve",
+      "reason": "Completes 'And then at night, I will just sneak away.'"
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-trailing-starter-to-next:1f9662c09f02",
+      "decision": "approve",
+      "reason": "Moves the sentence starter so the next segment begins 'And what Virgil is saying...'."
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:d7a81d2c12d8",
+      "decision": "approve",
+      "reason": "Completes the quoted phrase 'the renown I once held dear.'"
+    },
+    {
+      "candidate_id": "seg-0023->seg-0024:move-leading-completion-to-previous:e66979b343ac",
+      "decision": "approve",
+      "reason": "Completes 'my love for you...' across the cut."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:a657190c0f51",
+      "decision": "approve",
+      "reason": "Completes 'And this is Aeneas' response.' before the response analysis continues."
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-leading-completion-to-previous:23a162a8ce6b",
+      "decision": "reject",
+      "reason": "The previous segment ends inside a quoted reading, while the next text begins Jiang's interpretation rather than completing 'At last, he ventured'."
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:64026e2a0408",
+      "decision": "approve",
+      "reason": "Completes 'broke her vow to her former husband, Sychaeus.'"
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:c7f914d59167",
+      "decision": "approve",
+      "reason": "Completes 'from a queen to essentially to a slave girl.'"
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:3291b63a4ee7",
+      "decision": "approve",
+      "reason": "Completes the quoted line 'Woman's a thing that's always changing...'."
+    },
+    {
+      "candidate_id": "seg-0044->seg-0045:move-leading-completion-to-previous:f6135e0680a1",
+      "decision": "approve",
+      "reason": "Completes 'I pour it out with my own lifeblood.'"
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:c59ccc2dd068",
+      "decision": "approve",
+      "reason": "Completes the filler phrase 'you know, her husband was killed in Phoenicia.'"
+    },
+    {
+      "candidate_id": "seg-0047->seg-0048:move-leading-completion-to-previous:1b3f3d01ab79",
+      "decision": "approve",
+      "reason": "Completes 'she enslaves them into a mission to avenge her.'"
+    },
+    {
+      "candidate_id": "seg-0050->seg-0051:move-leading-completion-to-previous:c00de65b5124",
+      "decision": "approve",
+      "reason": "Completes 'the ability of love to both redeem and to save.'"
+    },
+    {
+      "candidate_id": "seg-0051->seg-0052:move-trailing-starter-to-next:a11db5539af3",
+      "decision": "approve",
+      "reason": "Moves 'Can you' to complete the next segment's reading prompt, 'Can you read?'"
+    },
+    {
+      "candidate_id": "seg-0061->seg-0062:move-leading-completion-to-previous:e86552892f2f",
+      "decision": "approve",
+      "reason": "Completes 'no, your son is destined for great things.'"
+    },
+    {
+      "candidate_id": "seg-0062->seg-0063:move-leading-completion-to-previous:4aa1f145c3be",
+      "decision": "approve",
+      "reason": "Completes 'I must abandon my own soul if I am to serve the gods.'"
+    },
+    {
+      "candidate_id": "seg-0063->seg-0064:move-leading-completion-to-previous:af04d0ac3d80",
+      "decision": "approve",
+      "reason": "Completes 'You transform yourself from someone who was a human...'."
+    },
+    {
+      "candidate_id": "seg-0067->seg-0068:move-leading-completion-to-previous:b2df6bba3c71",
+      "decision": "approve",
+      "reason": "Completes the question 'What draws us to love?'"
+    },
+    {
+      "candidate_id": "seg-0068->seg-0069:move-leading-completion-to-previous:09bd8c608891",
+      "decision": "approve",
+      "reason": "Completes 'Any more questions, guys?'"
+    }
+  ]
+}
