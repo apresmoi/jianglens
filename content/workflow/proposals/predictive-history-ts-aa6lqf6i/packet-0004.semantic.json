@@ -1,0 +1,158 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0004",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0025",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0026",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student continues reading the strategy and Jiang stops on 'peace through strength,' defining it as hegemonic peace: America becomes so mighty and feared that others obey, and obedience produces peace.",
+      "speaker_attribution": "Student reading official text; Jiang interrupts to interpret.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0028",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0029",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The strategy says America is not isolationist but focused and realistic; Jiang translates that as concentration on core strategic interests, divide-and-rule, then has a student read the four strategic interests.",
+      "speaker_attribution": "Student reading official strategy with Jiang commentary.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the four interests: rebuild the defense industrial base, turn allies into vassals, contain China through Japan and economic strangulation, and treat the Western Hemisphere as American property.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0026",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0028",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030"
+      ],
+      "note": "These are official strategy passages read aloud by students at Jiang's request.",
+      "suggested_speaker": "student reading quoted material",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines 'peace through strength' as hegemony: America creates peace by being feared, and fear produces obedience.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Definition in the 2026-04-21 lecture.",
+      "topic_tags": ["peace-through-strength", "hegemony", "obedience"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the strategy is not isolationism but focused divide-and-rule around core American strategic interests.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0028",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Reading of the 2026 National Defense Strategy.",
+      "topic_tags": ["isolationism", "divide-and-rule", "strategic-interests"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads burden-sharing as vassalage: Japan, South Korea, Europe, and NATO are no longer friends but subordinate partners ordered to protect U.S. power.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Interpretation of the strategy in the 2026-04-21 lecture.",
+      "topic_tags": ["vassalage", "allies", "burden-sharing", "nato"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says America's China strategy is not to destroy China but to make China obey through economic strangulation, Japanese balancing, and U.S. sales of resources, weapons, and financing to both sides.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "China-strategy diagnosis on 2026-04-21.",
+      "topic_tags": ["china", "japan", "containment", "balance-of-power"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He interprets defending the homeland and Western Hemisphere interests as the claim that the Western Hemisphere belongs to America and outsiders need U.S. permission to trade there.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Western Hemisphere diagnosis on 2026-04-21.",
+      "topic_tags": ["western-hemisphere", "monroe-doctrine", "trade", "american-empire"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "moment": "Peace is not harmony; it is what happens when everyone is afraid enough to obey.",
+      "source_phrase": "When people fear us, that's when people will obey us",
+      "why_it_matters": "This is Jiang's core translation of the strategy's moral language into imperial mechanics.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031"
+      ],
+      "moment": "Burden-sharing becomes a system of vassalage, where allies are told they are no longer friends but subjects.",
+      "source_phrase": "from now on, we're not friends. From now on, we're the boss",
+      "why_it_matters": "The sentence turns a bland policy term into a feudal map of U.S. alliance management.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "peace through strength",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's definition: hegemonic peace produced by fear, invincibility, and obedience.",
+      "confidence": "high"
+    },
+    {
+      "term": "vassalage",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang's term for allies and partners being subordinated to U.S. strategic command.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "note": "The lecture ties its China and Western Hemisphere model directly to the four strategic interests of the 2026 strategy.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,159 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0005",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0033",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0034",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang says 'defend the homeland' means securing the home front as a police state after the Vietnam example, then has a student read the strategy's China section about balance of power and first-island-chain denial.",
+      "speaker_attribution": "Jiang commentary plus student reading official strategy.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang translates first-island-chain denial as an embargo on China through Japan, Taiwan, the Philippines, and the Strait of Malacca, making China obey by cutting off the energy route that supplies most of its needs.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0038",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0039",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0040"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the conclusion's noble-peace language; the text says America will offer peace if others respect U.S. interests and will fight if the offer is rejected.",
+      "speaker_attribution": "Student reading official strategy.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0034",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0038",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0039",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0040"
+      ],
+      "note": "These are quoted/read official strategy passages, not Jiang's own claims except insofar as he frames and interprets them.",
+      "suggested_speaker": "student reading quoted material",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says defending the homeland means preventing a Vietnam-style home-front revolt through domestic order, obedience, and a police-state logic.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interpretation of strategy language on 2026-04-21.",
+      "topic_tags": ["homeland", "police-state", "vietnam", "domestic-order"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He interprets first-island-chain denial as an embargo strategy that can block China's access to the Strait of Malacca and force Chinese obedience.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "China-strategy diagnosis on 2026-04-21.",
+      "topic_tags": ["first-island-chain", "strait-of-malacca", "embargo", "china"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Japan, South Korea, Taiwan, Malaysia, Singapore, and Indonesia become U.S.-enabled counterweights to Chinese supremacy, while all sides remain dependent on U.S. energy, food, weapons, and financing.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Regional-balance model in the 2026-04-21 lecture.",
+      "topic_tags": ["balance-of-power", "east-asia", "resources", "financing"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The strategy's final peace language is read as an ultimatum: accept U.S. interests as reasonable or face America's military sword.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0038",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0039",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Reading of the strategy conclusion in this lecture.",
+      "topic_tags": ["peace", "ultimatum", "american-interests", "military-force"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0033"
+      ],
+      "moment": "The Vietnam War is recoded as a lesson in domestic control: the war was lost at home, so future empire needs a secured home front.",
+      "source_phrase": "the war was lost at home",
+      "why_it_matters": "This connects foreign strategy to the later AI-police-state argument.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "moment": "A bland phrase, 'denial defense,' becomes an embargo of China's energy throat.",
+      "source_phrase": "China cannot access the state of Malacca",
+      "why_it_matters": "It makes Jiang's choke-point model concrete: geography becomes obedience.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "first island chain",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Japan, Taiwan, and the Philippines as a U.S.-enabled barrier for denying China sea access.",
+      "confidence": "high"
+    },
+    {
+      "term": "deterrence by denial",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Strategy language Jiang interprets as embargoing China's access to energy routes.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "note": "This lecture makes the Strait of Malacca a central mechanism in Jiang's 2026 China-containment forecast.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "note": "ASR repeatedly renders 'Strait of Malacca' as 'state of Malacca'; semantic extraction treats this as the maritime choke point."
+    }
+  ]
+}

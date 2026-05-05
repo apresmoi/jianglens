@@ -1,0 +1,1583 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-ts-aa6lqf6i:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-ts-aa6lqf6i",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_title": "Game Theory #21:  World War Trump",
+  "source_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I",
+  "source_date": "2026-04-21",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-ts-aa6lqf6i@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0008.semantic.json",
+      "content/workflow/proposals/predictive-history-ts-aa6lqf6i/packet-0009.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-ts-aa6lqf6i/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-ts-aa6lqf6i/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 9,
+    "interactions": 26,
+    "speaker_notes": 8,
+    "claims": 42,
+    "signature_moments": 22,
+    "predictions": 8,
+    "models": 12,
+    "glossary_terms": 20,
+    "chronology_notes": 9,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0009",
+    "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens from a two-week Iran-U.S. ceasefire and argues that even if negotiations occur, the war will not really end because it belongs to a larger American imperial strategy. He points to refinery fires, an oil shock, and a U.S. blockade of Iran as early signs.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0004",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0006",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang plays or paraphrases official clips about piracy, tanker seizures, and Rick Scott, then turns them into a double-standard argument: piracy is illegal when Iran does it, legitimate order when America does it, and strategically acceptable if it destroys China's oil access.",
+      "speaker_attribution": "Jiang with embedded media clips and interview audio; diarization labels split clips from Jiang.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0009",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the Rick Scott point: if no oil reaches China and China's economy is destroyed, that is treated as a strategic success even if America loses the Iran war.",
+      "speaker_attribution": "Rick Scott clip followed by Jiang commentary.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0011",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "A press briefing clip gives the official rationale for Operation Epic Fury as a presidential feeling based on facts; Jiang treats that as an absurdly thin public explanation for war.",
+      "speaker_attribution": "Reporter and press secretary clip, then Jiang commentary.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0014",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Trump's public signals change constantly, so listeners should ignore them and focus on the larger strategy; he predicts the war may last years or even decades and returns to oil fires as evidence of widening energy conflict.",
+      "speaker_attribution": "Jiang with brief embedded Trump clip.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0017",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that global oil fires are likely deliberate supply reduction by actors who benefit, probably Russia and America, and that the war is raising food, energy, sulfur, jet fuel, urea, diesel, and gasoline prices while the U.S. benefits from selling its own oil.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "He says America is moving into a war economy: auto companies are being pulled toward munitions, the Defense Production Act subsidizes weapons, young men will be automatically registered for the draft, veterans serve longer, and the Pentagon budget rises sharply.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads the Democrats' failure to restrict Trump's war powers as political theater and then introduces the 2026 National Defense Strategy as the blueprint for the next five to ten years.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads from the National Defense Strategy; Jiang interprets it as replacing ideals and rules-based order with concrete American interests, warrior ethos, and permission to kill as necessary to win.",
+      "speaker_attribution": "Student reading official text, followed by Jiang analysis.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0025",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0026",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student continues reading the strategy and Jiang stops on 'peace through strength,' defining it as hegemonic peace: America becomes so mighty and feared that others obey, and obedience produces peace.",
+      "speaker_attribution": "Student reading official text; Jiang interrupts to interpret.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0028",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0029",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The strategy says America is not isolationist but focused and realistic; Jiang translates that as concentration on core strategic interests, divide-and-rule, then has a student read the four strategic interests.",
+      "speaker_attribution": "Student reading official strategy with Jiang commentary.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the four interests: rebuild the defense industrial base, turn allies into vassals, contain China through Japan and economic strangulation, and treat the Western Hemisphere as American property.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0033",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0034",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang says 'defend the homeland' means securing the home front as a police state after the Vietnam example, then has a student read the strategy's China section about balance of power and first-island-chain denial.",
+      "speaker_attribution": "Jiang commentary plus student reading official strategy.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang translates first-island-chain denial as an embargo on China through Japan, Taiwan, the Philippines, and the Strait of Malacca, making China obey by cutting off the energy route that supplies most of its needs.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0038",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0039",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0040"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the conclusion's noble-peace language; the text says America will offer peace if others respect U.S. interests and will fight if the offer is rejected.",
+      "speaker_attribution": "Student reading official strategy.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang translates the strategy's peace language as 'obey us and there will be peace; defy us and there will be war,' then predicts a worse second round if the ceasefire fails: civilian infrastructure attacks, Iranian energy retaliation, and possible removal of a third of world energy supply.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "He expands the choke-point map: America controls the Panama Canal, the Western Hemisphere, South American resources, and the Strait of Malacca through Indonesia and first-island-chain militarization.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0045",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0047",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says America's real goal is not humiliating China but controlling China's trade and forcing purchases in U.S. dollars by blocking alternatives: Greenland and the Arctic, Gibraltar, Iran's role in Russian and Chinese corridors, Malacca, and insufficient Russian oil.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0049",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0050",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues the China map: U.S. bases surround China, Malacca and the Indian Ocean can be cut off, Russia cannot replace Middle Eastern supply quickly, so China must deal with America while the Western Hemisphere stays a resource fortress.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "He states the imperial business model: keep the world at war, lend dollars so others buy American energy, resources, and weapons, then sustain three conflicts and a national draft plus continuity of agenda.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says the plan requires preventing Vietnam-style revolt through an AI surveillance state: ICE normalizes armed soldiers in cities, its budget becomes a private Trump police force, and data centers are for digital ID, currency, and monitoring rather than profitable chatbots.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0057",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0058",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0059",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0060"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang summarizes the imperial design as a world forever at war, balanced through control of choke points, then explains why it will fail: nationalism, corruption, and division always undermine empires, even if the short-term benefits tempt rulers.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0061",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0062",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0063",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether Jiang's prediction still means America loses; Jiang answers that America may appear to win short term but will retreat to the Western Hemisphere, lose the empire, and not need to win Iran if chaos keeps others dependent. Another student asks whether China and others understand the trade-route strategy.",
+      "speaker_attribution": "Student questions and Jiang answers; diarization separates questions from Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0066"
+      ],
+      "kind": "answer",
+      "summary": "Answering whether China and others discern the strategy, Jiang says America's choke-point control is obvious but hard to resist because of U.S. blue-water naval power. Over time Russia will challenge the U.S. Navy at choke points, use Cuba and energy disruption, and most of the world will side with Russia to balance the bully.",
+      "speaker_attribution": "Jiang answering a student question from the previous segment.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0067",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0068"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how Trump will handle internal U.S. conflict and what Democrats' plan is; Jiang answers that Democrats have no plan and would likely continue Trump's plan, while Trump will try to stay in power by cheating and rigging elections.",
+      "speaker_attribution": "Student question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0069",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0070"
+      ],
+      "kind": "monologue",
+      "summary": "The lecture closes with a brief check for more questions and a promise to continue in the next class.",
+      "speaker_attribution": "Jiang classroom close.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0004",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0006",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "note": "These segments contain quoted or played media clips, not Jiang's own uninterrupted lecture voice.",
+      "suggested_speaker": "embedded media / interview audio",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0011",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0014"
+      ],
+      "note": "These are played news or press clips inside Jiang's lecture, not student questions.",
+      "suggested_speaker": "embedded media",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023"
+      ],
+      "note": "Jiang asks a student to read; the segment is quoted official strategy text rather than Jiang's own prose.",
+      "suggested_speaker": "student reading quoted material",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0026",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0028",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030"
+      ],
+      "note": "These are official strategy passages read aloud by students at Jiang's request.",
+      "suggested_speaker": "student reading quoted material",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0034",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0038",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0039",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0040"
+      ],
+      "note": "These are quoted/read official strategy passages, not Jiang's own claims except insofar as he frames and interprets them.",
+      "suggested_speaker": "student reading quoted material",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0061",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0064"
+      ],
+      "note": "These are substantive student questions and should be preserved as public episode questions.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0067"
+      ],
+      "note": "This is a substantive student question about domestic conflict, Trump's support, and Democrats' plan.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0069"
+      ],
+      "note": "Single-word acknowledgment with unclear speaker; it has no semantic weight beyond closing the exchange.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Iran war is not merely Trump's personal choice but part of a larger strategic vision for maintaining the American empire.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture forecast and diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "iran-war",
+        "american-empire",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats refinery fires and oil infrastructure disruptions as evidence that the wider war is already attacking world energy supply.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Recent-events diagnosis in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "energy",
+        "oil-refineries",
+        "sabotage",
+        "war-economy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that U.S. seizure of Iranian-linked shipping would normally be called piracy, but America treats its own control of the sea lanes as rule-setting authority.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-21.",
+      "topic_tags": [
+        "piracy",
+        "sea-lanes",
+        "american-rules",
+        "blockade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Rick Scott clip is used to show Jiang's claim that U.S. elites can accept failure in Iran if the war cuts China off from Middle Eastern oil.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretation of a contemporary political clip within the 2026-04-21 lecture.",
+      "topic_tags": [
+        "china",
+        "oil",
+        "rick-scott",
+        "iran-war"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the strategic objective can be to hurt China even if the Iran campaign itself looks unsuccessful for the United States.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0009",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Jiang's 2026-04-21 reading of contemporary U.S. political statements.",
+      "topic_tags": [
+        "china",
+        "iran-war",
+        "oil",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that about 50 days into the war, the U.S. still has not given a coherent public explanation for why the war began.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0011",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "War-status diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "operation-epic-fury",
+        "war-rationale",
+        "press-briefing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the Iran war will not end in months and may last years, possibly 10 or 20 years, once understood as imperial strategy rather than daily Trump messaging.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Forecast made on 2026-04-21.",
+      "topic_tags": [
+        "prediction",
+        "iran-war",
+        "long-war",
+        "american-strategy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says repeated oil refinery fires around the world should be read through the question of who has means, motive, and opportunity to benefit from reducing global oil supply.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Analytic method applied in this 2026-04-21 lecture.",
+      "topic_tags": [
+        "oil",
+        "sabotage",
+        "means-motive-opportunity"
+      ],
+      "claim_type": "method",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the global oil fires are probably deliberate acts to reduce world oil supply, with Russia and America as the actors most likely to have means, motive, and opportunity.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Speculative diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "oil",
+        "sabotage",
+        "russia",
+        "america"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that the Iran war is already moving the world economy by raising prices for energy, fertilizer inputs, jet fuel, diesel, gasoline, and food.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0017",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Economic diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "energy-prices",
+        "fertilizer",
+        "food",
+        "war-economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims the United States is preparing for total war through industrial mobilization, weapon subsidies, draft registration, longer service, and a rapidly rising Pentagon budget.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "U.S. domestic diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "total-war",
+        "war-economy",
+        "draft",
+        "defense-production-act"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads the Democratic vote pattern on war powers as staged opposition that ultimately supports Trump's Iran war.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Congressional-politics diagnosis in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "democrats",
+        "war-powers",
+        "political-theater",
+        "iran-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the National Defense Strategy as a shift from ideals, globalism, and rules of engagement to concrete interests, America First, and warrior ethos.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Reading of the January 2026 strategy in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "national-defense-strategy",
+        "warrior-ethos",
+        "america-first"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines 'peace through strength' as hegemony: America creates peace by being feared, and fear produces obedience.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Definition in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "peace-through-strength",
+        "hegemony",
+        "obedience"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the strategy is not isolationism but focused divide-and-rule around core American strategic interests.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0028",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Reading of the 2026 National Defense Strategy.",
+      "topic_tags": [
+        "isolationism",
+        "divide-and-rule",
+        "strategic-interests"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads burden-sharing as vassalage: Japan, South Korea, Europe, and NATO are no longer friends but subordinate partners ordered to protect U.S. power.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Interpretation of the strategy in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "vassalage",
+        "allies",
+        "burden-sharing",
+        "nato"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says America's China strategy is not to destroy China but to make China obey through economic strangulation, Japanese balancing, and U.S. sales of resources, weapons, and financing to both sides.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "China-strategy diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "china",
+        "japan",
+        "containment",
+        "balance-of-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He interprets defending the homeland and Western Hemisphere interests as the claim that the Western Hemisphere belongs to America and outsiders need U.S. permission to trade there.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Western Hemisphere diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "western-hemisphere",
+        "monroe-doctrine",
+        "trade",
+        "american-empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says defending the homeland means preventing a Vietnam-style home-front revolt through domestic order, obedience, and a police-state logic.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interpretation of strategy language on 2026-04-21.",
+      "topic_tags": [
+        "homeland",
+        "police-state",
+        "vietnam",
+        "domestic-order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He interprets first-island-chain denial as an embargo strategy that can block China's access to the Strait of Malacca and force Chinese obedience.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "China-strategy diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "first-island-chain",
+        "strait-of-malacca",
+        "embargo",
+        "china"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Japan, South Korea, Taiwan, Malaysia, Singapore, and Indonesia become U.S.-enabled counterweights to Chinese supremacy, while all sides remain dependent on U.S. energy, food, weapons, and financing.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Regional-balance model in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "balance-of-power",
+        "east-asia",
+        "resources",
+        "financing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The strategy's final peace language is read as an ultimatum: accept U.S. interests as reasonable or face America's military sword.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0038",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0039",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Reading of the strategy conclusion in this lecture.",
+      "topic_tags": [
+        "peace",
+        "ultimatum",
+        "american-interests",
+        "military-force"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if the Iran ceasefire fails, the next round will target civilian and energy infrastructure and could take one-third of world energy supply offline.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Conditional forecast on 2026-04-21.",
+      "topic_tags": [
+        "iran-war",
+        "energy",
+        "infrastructure",
+        "forecast"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says U.S. strategy no longer needs to control the whole ocean; it only needs the key choke points that make trade depend on American generosity.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Strategic model in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "choke-points",
+        "navy",
+        "global-trade",
+        "american-empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames the Western Hemisphere as an American-controlled trade zone where China must go through the United States for South American resources.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Western Hemisphere diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "western-hemisphere",
+        "south-america",
+        "china",
+        "resources"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that America is militarizing the first island chain and using Indonesia, Japan, Australia, and other partners to embargo rather than destroy China.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0044",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Indo-Pacific diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "first-island-chain",
+        "indonesia",
+        "japan",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran is central to Russian and Chinese trade corridors, so America will not stop attacking Iran while Iranian peace would let Russia and China trade with the world.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Geostrategic diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "iran",
+        "russia",
+        "china",
+        "trade-corridors",
+        "belt-and-road"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says forcing China to buy from America in U.S. dollars would let America set terms and support the dollar economy.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Dollar-strategy model in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "dollar",
+        "china",
+        "energy",
+        "trade"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that surrounding China with U.S. bases and cutting Malacca, the Middle East, Angola, and Indian Ocean routes would leave China dependent on U.S. terms for food, energy, and factories.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0049",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "China containment model in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "china",
+        "malacca",
+        "indian-ocean",
+        "u-s-bases"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the Western Hemisphere as a peaceful fortress that can supply a world at war with energy, resources, weapons, financing, and dollars.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Imperial economic model in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "western-hemisphere",
+        "fortress",
+        "resources",
+        "dollar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the plan needs three things: a national draft for enforcement, continuity of agenda through a Trump third term, and an AI surveillance state to prevent domestic revolt.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Domestic-political model on 2026-04-21.",
+      "topic_tags": [
+        "draft",
+        "third-term",
+        "ai-surveillance",
+        "police-state"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues ICE is not mainly about illegal immigration but about normalizing armed soldiers in American streets and building the conditions for a police state.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Domestic enforcement diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "ice",
+        "police-state",
+        "domestic-control",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says data centers and Operation Stargate make sense as infrastructure for digital ID, digital currency, and AI surveillance rather than as consumer AI profit engines.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "AI infrastructure diagnosis on 2026-04-21.",
+      "topic_tags": [
+        "data-centers",
+        "operation-stargate",
+        "ai-surveillance",
+        "digital-id"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the U.S. plan is to create conflict among China and Japan, Iran/Israel/GCC, and Europe/Russia so America can control resources through key choke points.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Strategic model in the 2026-04-21 lecture.",
+      "topic_tags": [
+        "world-war",
+        "balance-of-power",
+        "choke-points",
+        "conflict"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the plan will fail because nationalism makes subordinate nations seek independence, while corruption and polarization weaken America internally.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0058",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Empire-collapse model on 2026-04-21.",
+      "topic_tags": [
+        "nationalism",
+        "corruption",
+        "division",
+        "empire-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that America may seem to win short term but will lose its empire and retreat to the Western Hemisphere because of corruption, division, and nationalism.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0061",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Explicit forecast in answer to a student on 2026-04-21.",
+      "topic_tags": [
+        "prediction",
+        "american-empire",
+        "western-hemisphere",
+        "collapse"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says America will lose the Iran war but does not need to defeat Iran if Iran remains in chaos and helps keep choke points under American control.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0062",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Iran-war forecast on 2026-04-21.",
+      "topic_tags": [
+        "iran-war",
+        "prediction",
+        "chaos",
+        "choke-points"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America's attempt to control China's trade routes is obvious to other countries, but U.S. blue-water naval dominance means they cannot immediately stop it.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Answer to student question on 2026-04-21.",
+      "topic_tags": [
+        "china",
+        "blue-water-navy",
+        "trade-routes",
+        "choke-points"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts Russia will challenge America at maritime choke points through attrition, including around Cuba, and will also disrupt energy supplies to create dependency on Russia.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Long-term forecast on 2026-04-21.",
+      "topic_tags": [
+        "russia",
+        "cuba",
+        "naval-attrition",
+        "energy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts most of the world will eventually side with Russia to balance the United States because America is too much of a bully, while China must work with both powers in the short term.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Long-term alignment forecast on 2026-04-21.",
+      "topic_tags": [
+        "russia",
+        "china",
+        "balance-of-power",
+        "american-bullying"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Democrats have no independent plan and would probably continue Trump's plan if they won in 2028.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0067",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "U.S. domestic political forecast on 2026-04-21.",
+      "topic_tags": [
+        "democrats",
+        "2028",
+        "trump-plan",
+        "domestic-politics"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Trump's plan to stay in power is to cheat, rig elections, and probably get away with it.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Trump political forecast on 2026-04-21.",
+      "topic_tags": [
+        "trump",
+        "elections",
+        "third-term",
+        "authoritarianism"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"
+      ],
+      "moment": "The ceasefire is demoted to surface theater: the real plot is an imperial war architecture that can last beyond any treaty.",
+      "source_phrase": "this war will not end",
+      "why_it_matters": "It gives the episode its governing frame: short-term ceasefire news is less important than the strategic machine underneath.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007"
+      ],
+      "moment": "Piracy becomes legal when the pirate is the rule-maker.",
+      "source_phrase": "Unless the Americans do this",
+      "why_it_matters": "This compact double-standard becomes the lecture's first demonstration of empire as control over rules, not moral consistency.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+      ],
+      "moment": "The war can be 'worth it' even in failure if China loses Middle Eastern oil.",
+      "source_phrase": "if the end result is that China no longer gets any oil...it's worth it",
+      "why_it_matters": "This states the lecture's brutal strategic calculus in one sentence.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0013"
+      ],
+      "moment": "The war rationale collapses into a joke: a feeling based on facts.",
+      "source_phrase": "a feeling based on facts",
+      "why_it_matters": "Jiang uses the phrase to show official explanation becoming circular, affective, and unfalsifiable.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "moment": "The car factories turning toward weapons mark America crossing from policy into total war economy.",
+      "source_phrase": "factories that used to make cars were now making tanks",
+      "why_it_matters": "It makes the domestic mobilization legible as World War II-style conversion rather than ordinary defense spending.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021"
+      ],
+      "moment": "Anti-war opposition becomes theater: if more Republicans defected, Jiang says more Democrats would switch to keep the war alive.",
+      "source_phrase": "this is all political theater",
+      "why_it_matters": "It compresses Jiang's account of bipartisan imperial coordination.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "moment": "Rules of engagement are translated as the thing empire now wants to throw away.",
+      "source_phrase": "Screw rules of engagement",
+      "why_it_matters": "This is Jiang's sharpest reading of warrior ethos: it means removing moral and legal friction from killing.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "moment": "Peace is not harmony; it is what happens when everyone is afraid enough to obey.",
+      "source_phrase": "When people fear us, that's when people will obey us",
+      "why_it_matters": "This is Jiang's core translation of the strategy's moral language into imperial mechanics.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031"
+      ],
+      "moment": "Burden-sharing becomes a system of vassalage, where allies are told they are no longer friends but subjects.",
+      "source_phrase": "from now on, we're not friends. From now on, we're the boss",
+      "why_it_matters": "The sentence turns a bland policy term into a feudal map of U.S. alliance management.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0033"
+      ],
+      "moment": "The Vietnam War is recoded as a lesson in domestic control: the war was lost at home, so future empire needs a secured home front.",
+      "source_phrase": "the war was lost at home",
+      "why_it_matters": "This connects foreign strategy to the later AI-police-state argument.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "moment": "A bland phrase, 'denial defense,' becomes an embargo of China's energy throat.",
+      "source_phrase": "China cannot access the state of Malacca",
+      "why_it_matters": "It makes Jiang's choke-point model concrete: geography becomes obedience.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041"
+      ],
+      "moment": "The strategy's noble-peace language becomes a gangster sentence: obey us and there will be peace; defy us and there will be war.",
+      "source_phrase": "Obey us and there will be peace. Defy us and there will be war.",
+      "why_it_matters": "It is the simplest public-readable distillation of Jiang's interpretation of the document.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "moment": "World trade is recast as a dependency relation: if you trade, you depend on American generosity.",
+      "source_phrase": "then you must depend on American generosity",
+      "why_it_matters": "This line converts naval geography into the episode's moral economy of dependence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0052"
+      ],
+      "moment": "The future world is poor and at war, but America lends it the money to buy American stuff.",
+      "source_phrase": "America will lend you money to buy energy, resources, and weapons from America",
+      "why_it_matters": "This is Jiang's Marshall Plan inversion: empire becomes vendor, banker, and arsenal to a managed world conflict.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054"
+      ],
+      "moment": "The AI surveillance state exists to 'help them see the light' before Americans can revolt.",
+      "source_phrase": "you need an AI surveillance state in order to help them see the light",
+      "why_it_matters": "The phrase captures the lecture's dark joke: persuasion becomes monitoring and coercion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0055"
+      ],
+      "moment": "ICE becomes Donald Trump's private police force in Jiang's reading.",
+      "source_phrase": "Donald Trump's private police force",
+      "why_it_matters": "It makes domestic enforcement part of the imperial plan rather than a separate immigration story.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0057"
+      ],
+      "moment": "The empire wants a world forever at war because war lets it ration resources through choke points.",
+      "source_phrase": "a world forever at war so that you can control the world",
+      "why_it_matters": "This is the lecture's most compact statement of the global design.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0058",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0059"
+      ],
+      "moment": "Nationalism, corruption, and division are the three acids that dissolve empire.",
+      "source_phrase": "nationalism, corruption, and division",
+      "why_it_matters": "This gives the public read its counterweight: Jiang's vision is not American omnipotence but imperial overreach.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0062",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0063"
+      ],
+      "moment": "Winning Iran becomes irrelevant; chaos is enough if it makes the world depend on America.",
+      "source_phrase": "it doesn't really have to win the war",
+      "why_it_matters": "It flips victory from conquest to managed dependency.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065"
+      ],
+      "moment": "The strategy is obvious, but obviousness does not matter when the other side controls the oceans.",
+      "source_phrase": "There's nothing you can do about it because America has a blue water navy",
+      "why_it_matters": "It answers the student question by separating knowledge from power.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0066"
+      ],
+      "moment": "Russia becomes the counter-empire not by defeating the U.S. Navy outright, but by raising its costs until the world balances America.",
+      "source_phrase": "fight a war of attrition against the American navy",
+      "why_it_matters": "This extends the lecture's model from American design to the counter-move it will provoke.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0068"
+      ],
+      "moment": "Democratic opposition disappears into planlessness, leaving Trumpism as the default program even after Trump.",
+      "source_phrase": "Democrats have no plan",
+      "why_it_matters": "It closes the domestic-politics loop: opposition is not an exit from the imperial machine.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "blockade",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The U.S. restriction and seizure of Iranian-linked shipping, treated by Jiang as an act of strategic sea control.",
+      "confidence": "high"
+    },
+    {
+      "term": "American rule-setting",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's implicit model that America can define conduct as piracy or order depending on whether it serves U.S. power.",
+      "confidence": "high"
+    },
+    {
+      "term": "Operation Epic Fury",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The named U.S. operation invoked in the press clip as the strike against Iran.",
+      "confidence": "medium"
+    },
+    {
+      "term": "means, motive, and opportunity",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's investigative method for interpreting the oil refinery fires.",
+      "confidence": "high"
+    },
+    {
+      "term": "war economy",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "An economy redirected toward weapons, munitions, draft preparation, military budgets, and total-war production.",
+      "confidence": "high"
+    },
+    {
+      "term": "warrior ethos",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's reading of a strategy term meaning fewer restraints, fewer rules of engagement, and fighting wars to win.",
+      "confidence": "high"
+    },
+    {
+      "term": "peace through strength",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's definition: hegemonic peace produced by fear, invincibility, and obedience.",
+      "confidence": "high"
+    },
+    {
+      "term": "vassalage",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang's term for allies and partners being subordinated to U.S. strategic command.",
+      "confidence": "high"
+    },
+    {
+      "term": "first island chain",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Japan, Taiwan, and the Philippines as a U.S.-enabled barrier for denying China sea access.",
+      "confidence": "high"
+    },
+    {
+      "term": "deterrence by denial",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0035",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Strategy language Jiang interprets as embargoing China's access to energy routes.",
+      "confidence": "high"
+    },
+    {
+      "term": "choke points",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Strategic passages such as Hormuz, Malacca, Panama, Gibraltar, Greenland/Arctic access, and Iran-centered land corridors that Jiang says let America control trade.",
+      "confidence": "high"
+    },
+    {
+      "term": "Darnold Doctrine",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "ASR rendering of Jiang's label for a doctrine under which America can do whatever it wants in the Western Hemisphere.",
+      "confidence": "medium"
+    },
+    {
+      "term": "North-South Corridor",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Russian trade corridor through Iran that Jiang says motivates U.S. attacks on Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "continuity of agenda",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The requirement that government not change while the imperial plan is being implemented; Jiang links it to a Trump third term.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0054",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "A domestic monitoring system using digital ID, digital currency, data centers, and police infrastructure to prevent revolt.",
+      "confidence": "high"
+    },
+    {
+      "term": "technate",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's label for a greater North American fortress with resources, manpower, and export power.",
+      "confidence": "medium"
+    },
+    {
+      "term": "nationalism",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0058"
+      ],
+      "definition_or_usage": "The force by which used or subordinated nations eventually seek independence and resist empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "corruption and division",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0058",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang's domestic failure modes for an empire in decline: stolen military spending and political polarization or civil conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "blue-water navy",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "America's ocean-going naval capacity, which Jiang says lets it control trade routes despite others understanding the strategy.",
+      "confidence": "high"
+    },
+    {
+      "term": "war of attrition",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Russia's predicted method for challenging the U.S. Navy by raising costs rather than winning direct naval supremacy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"
+      ],
+      "note": "The source is dated 2026-04-21 and frames the Iran war as already about two weeks into a ceasefire, not as an abstract future scenario.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015"
+      ],
+      "note": "This source contains an explicit long-war forecast dated 2026-04-21 and should be compared against later Iran-war episodes if any.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang names the National Defense Strategy as January 2026 and treats it as the blueprint behind the Iran war and coming five-to-ten-year military posture.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0030",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0032"
+      ],
+      "note": "The lecture ties its China and Western Hemisphere model directly to the four strategic interests of the 2026 strategy.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "note": "This lecture makes the Strait of Malacca a central mechanism in Jiang's 2026 China-containment forecast.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0041",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"
+      ],
+      "note": "The lecture's Iran-war forecast is conditional on the ceasefire failing and explicitly links escalation to energy-infrastructure retaliation.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0053",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"
+      ],
+      "note": "The third-term, ICE, and data-center claims are dated 2026-04-21 and tied to Jiang's near-future U.S. domestic forecast.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0062"
+      ],
+      "note": "This packet contains the clearest dated 2026-04-21 statement of Jiang's prediction that America loses the Iran war and eventually retreats to the Western Hemisphere.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0065",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0068"
+      ],
+      "note": "The closing questions create dated forecasts about Russia's counter-strategy, China's short-term constraint, Democrats' lack of plan, and Trump's election-rigging path.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0006",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "note": "Clip audio has ASR damage and mixed speakers; extraction relies on Jiang's surrounding interpretation rather than treating every phrase as a clean quotation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0014"
+      ],
+      "note": "The Trump clip is fragmentary and ASR-damaged; the semantic point is Jiang's interpretation of contradictory public signals."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "note": "ASR says 'Soviet Union' inside the Iran-war opposition passage; context indicates this is likely a transcription error."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0036"
+      ],
+      "note": "ASR repeatedly renders 'Strait of Malacca' as 'state of Malacca'; semantic extraction treats this as the maritime choke point."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0043"
+      ],
+      "note": "The phrase 'Darnold Doctrine' may be an ASR or classroom label issue; preserve it as heard rather than normalizing without evidence."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0050"
+      ],
+      "note": "ASR renders 'spare' as 'spear' in the Russia-resources sentence; semantic extraction treats it as spare."
+    }
+  ]
+}

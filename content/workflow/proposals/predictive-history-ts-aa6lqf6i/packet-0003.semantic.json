@@ -1,0 +1,185 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0003",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0017",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues that global oil fires are likely deliberate supply reduction by actors who benefit, probably Russia and America, and that the war is raising food, energy, sulfur, jet fuel, urea, diesel, and gasoline prices while the U.S. benefits from selling its own oil.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "He says America is moving into a war economy: auto companies are being pulled toward munitions, the Defense Production Act subsidizes weapons, young men will be automatically registered for the draft, veterans serve longer, and the Pentagon budget rises sharply.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reads the Democrats' failure to restrict Trump's war powers as political theater and then introduces the 2026 National Defense Strategy as the blueprint for the next five to ten years.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads from the National Defense Strategy; Jiang interprets it as replacing ideals and rules-based order with concrete American interests, warrior ethos, and permission to kill as necessary to win.",
+      "speaker_attribution": "Student reading official text, followed by Jiang analysis.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023"
+      ],
+      "note": "Jiang asks a student to read; the segment is quoted official strategy text rather than Jiang's own prose.",
+      "suggested_speaker": "student reading quoted material",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the global oil fires are probably deliberate acts to reduce world oil supply, with Russia and America as the actors most likely to have means, motive, and opportunity.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Speculative diagnosis on 2026-04-21.",
+      "topic_tags": ["oil", "sabotage", "russia", "america"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that the Iran war is already moving the world economy by raising prices for energy, fertilizer inputs, jet fuel, diesel, gasoline, and food.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0017",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Economic diagnosis on 2026-04-21.",
+      "topic_tags": ["energy-prices", "fertilizer", "food", "war-economy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims the United States is preparing for total war through industrial mobilization, weapon subsidies, draft registration, longer service, and a rapidly rising Pentagon budget.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "U.S. domestic diagnosis on 2026-04-21.",
+      "topic_tags": ["total-war", "war-economy", "draft", "defense-production-act"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads the Democratic vote pattern on war powers as staged opposition that ultimately supports Trump's Iran war.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Congressional-politics diagnosis in the 2026-04-21 lecture.",
+      "topic_tags": ["democrats", "war-powers", "political-theater", "iran-war"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the National Defense Strategy as a shift from ideals, globalism, and rules of engagement to concrete interests, America First, and warrior ethos.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Reading of the January 2026 strategy in the 2026-04-21 lecture.",
+      "topic_tags": ["national-defense-strategy", "warrior-ethos", "america-first"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "moment": "The car factories turning toward weapons mark America crossing from policy into total war economy.",
+      "source_phrase": "factories that used to make cars were now making tanks",
+      "why_it_matters": "It makes the domestic mobilization legible as World War II-style conversion rather than ordinary defense spending.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021"
+      ],
+      "moment": "Anti-war opposition becomes theater: if more Republicans defected, Jiang says more Democrats would switch to keep the war alive.",
+      "source_phrase": "this is all political theater",
+      "why_it_matters": "It compresses Jiang's account of bipartisan imperial coordination.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "moment": "Rules of engagement are translated as the thing empire now wants to throw away.",
+      "source_phrase": "Screw rules of engagement",
+      "why_it_matters": "This is Jiang's sharpest reading of warrior ethos: it means removing moral and legal friction from killing.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "war economy",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0019",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "An economy redirected toward weapons, munitions, draft preparation, military budgets, and total-war production.",
+      "confidence": "high"
+    },
+    {
+      "term": "warrior ethos",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0023",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's reading of a strategy term meaning fewer restraints, fewer rules of engagement, and fighting wars to win.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang names the National Defense Strategy as January 2026 and treats it as the blueprint behind the Iran war and coming five-to-ten-year military posture.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0020"
+      ],
+      "note": "ASR says 'Soviet Union' inside the Iran-war opposition passage; context indicates this is likely a transcription error."
+    }
+  ]
+}

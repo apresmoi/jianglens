@@ -1,0 +1,156 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0009",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the Rick Scott point: if no oil reaches China and China's economy is destroyed, that is treated as a strategic success even if America loses the Iran war.",
+      "speaker_attribution": "Rick Scott clip followed by Jiang commentary.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0011",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "A press briefing clip gives the official rationale for Operation Epic Fury as a presidential feeling based on facts; Jiang treats that as an absurdly thin public explanation for war.",
+      "speaker_attribution": "Reporter and press secretary clip, then Jiang commentary.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0014",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Trump's public signals change constantly, so listeners should ignore them and focus on the larger strategy; he predicts the war may last years or even decades and returns to oil fires as evidence of widening energy conflict.",
+      "speaker_attribution": "Jiang with brief embedded Trump clip.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0011",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0014"
+      ],
+      "note": "These are played news or press clips inside Jiang's lecture, not student questions.",
+      "suggested_speaker": "embedded media",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the strategic objective can be to hurt China even if the Iran campaign itself looks unsuccessful for the United States.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0009",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Jiang's 2026-04-21 reading of contemporary U.S. political statements.",
+      "topic_tags": ["china", "iran-war", "oil", "strategy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that about 50 days into the war, the U.S. still has not given a coherent public explanation for why the war began.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0011",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "War-status diagnosis on 2026-04-21.",
+      "topic_tags": ["operation-epic-fury", "war-rationale", "press-briefing"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the Iran war will not end in months and may last years, possibly 10 or 20 years, once understood as imperial strategy rather than daily Trump messaging.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Forecast made on 2026-04-21.",
+      "topic_tags": ["prediction", "iran-war", "long-war", "american-strategy"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says repeated oil refinery fires around the world should be read through the question of who has means, motive, and opportunity to benefit from reducing global oil supply.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Analytic method applied in this 2026-04-21 lecture.",
+      "topic_tags": ["oil", "sabotage", "means-motive-opportunity"],
+      "claim_type": "method",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0010"
+      ],
+      "moment": "The war can be 'worth it' even in failure if China loses Middle Eastern oil.",
+      "source_phrase": "if the end result is that China no longer gets any oil...it's worth it",
+      "why_it_matters": "This states the lecture's brutal strategic calculus in one sentence.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0013"
+      ],
+      "moment": "The war rationale collapses into a joke: a feeling based on facts.",
+      "source_phrase": "a feeling based on facts",
+      "why_it_matters": "Jiang uses the phrase to show official explanation becoming circular, affective, and unfalsifiable.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Operation Epic Fury",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The named U.S. operation invoked in the press clip as the strike against Iran.",
+      "confidence": "medium"
+    },
+    {
+      "term": "means, motive, and opportunity",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's investigative method for interpreting the oil refinery fires.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015"
+      ],
+      "note": "This source contains an explicit long-war forecast dated 2026-04-21 and should be compared against later Iran-war episodes if any.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0014"
+      ],
+      "note": "The Trump clip is fragmentary and ASR-damaged; the semantic point is Jiang's interpretation of contradictory public signals."
+    }
+  ]
+}

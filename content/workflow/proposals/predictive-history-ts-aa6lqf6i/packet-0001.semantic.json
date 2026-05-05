@@ -1,0 +1,150 @@
+{
+  "packet_id": "predictive-history-ts-aa6lqf6i-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ts-aa6lqf6i",
+  "source_date": "2026-04-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens from a two-week Iran-U.S. ceasefire and argues that even if negotiations occur, the war will not really end because it belongs to a larger American imperial strategy. He points to refinery fires, an oil shock, and a U.S. blockade of Iran as early signs.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0004",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0006",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang plays or paraphrases official clips about piracy, tanker seizures, and Rick Scott, then turns them into a double-standard argument: piracy is illegal when Iran does it, legitimate order when America does it, and strategically acceptable if it destroys China's oil access.",
+      "speaker_attribution": "Jiang with embedded media clips and interview audio; diarization labels split clips from Jiang.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0004",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0006",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "note": "These segments contain quoted or played media clips, not Jiang's own uninterrupted lecture voice.",
+      "suggested_speaker": "embedded media / interview audio",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Iran war is not merely Trump's personal choice but part of a larger strategic vision for maintaining the American empire.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture forecast and diagnosis on 2026-04-21.",
+      "topic_tags": ["iran-war", "american-empire", "trump"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats refinery fires and oil infrastructure disruptions as evidence that the wider war is already attacking world energy supply.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Recent-events diagnosis in the 2026-04-21 lecture.",
+      "topic_tags": ["energy", "oil-refineries", "sabotage", "war-economy"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that U.S. seizure of Iranian-linked shipping would normally be called piracy, but America treats its own control of the sea lanes as rule-setting authority.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-21.",
+      "topic_tags": ["piracy", "sea-lanes", "american-rules", "blockade"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Rick Scott clip is used to show Jiang's claim that U.S. elites can accept failure in Iran if the war cuts China off from Middle Eastern oil.",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interpretation of a contemporary political clip within the 2026-04-21 lecture.",
+      "topic_tags": ["china", "oil", "rick-scott", "iran-war"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"
+      ],
+      "moment": "The ceasefire is demoted to surface theater: the real plot is an imperial war architecture that can last beyond any treaty.",
+      "source_phrase": "this war will not end",
+      "why_it_matters": "It gives the episode its governing frame: short-term ceasefire news is less important than the strategic machine underneath.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007"
+      ],
+      "moment": "Piracy becomes legal when the pirate is the rule-maker.",
+      "source_phrase": "Unless the Americans do this",
+      "why_it_matters": "This compact double-standard becomes the lecture's first demonstration of empire as control over rules, not moral consistency.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "blockade",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0002",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The U.S. restriction and seizure of Iranian-linked shipping, treated by Jiang as an act of strategic sea control.",
+      "confidence": "high"
+    },
+    {
+      "term": "American rule-setting",
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0005",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's implicit model that America can define conduct as piracy or order depending on whether it serves U.S. power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"
+      ],
+      "note": "The source is dated 2026-04-21 and frames the Iran war as already about two weeks into a ceasefire, not as an abstract future scenario.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0006",
+        "video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0008"
+      ],
+      "note": "Clip audio has ASR damage and mixed speakers; extraction relies on Jiang's surrounding interpretation rather than treating every phrase as a clean quotation."
+    }
+  ]
+}
