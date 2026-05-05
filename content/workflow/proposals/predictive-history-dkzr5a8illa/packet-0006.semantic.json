@@ -1,0 +1,153 @@
+{
+  "packet_id": "predictive-history-dkzr5a8illa-semantics-pkt-0006",
+  "source_id": "video:predictive-history-dkzr5a8illa",
+  "source_date": "2026-01-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0041"
+      ],
+      "kind": "unclear",
+      "summary": "A duplicated or stray prompt asks Ivory to read; it likely belongs to Jiang's prompt at the end of the previous segment.",
+      "speaker_attribution": "Likely Jiang prompt duplicated by diarization or ASR.",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0042",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0044",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0048"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Priam kneeling before Achilles, kissing the hands that killed his sons, being compared to a murderer in exile, and then appealing to Achilles through the memory of Achilles' father and Hector.",
+      "speaker_attribution": "Student reading Homer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0043",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0045",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0046",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Priam's kneeling and kissing as the decisive act: Priam could kill Achilles but forgives him instead, and that act changes fate, history, and the universe.",
+      "speaker_attribution": "Jiang interpreting Priam's act.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0041"
+      ],
+      "note": "The UNKNOWN segment appears to duplicate Jiang's prompt 'Ivory, can you read, please?' from the preceding segment rather than a separate speaker contribution.",
+      "suggested_speaker": "Jiang prompt duplicated/unclear",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Priam's greatness comes from refusing revenge: he kneels to and kisses the hands of the man who killed his sons instead of killing Achilles when he has the chance.",
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0042",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture interpretation as of 2026-01-28.",
+      "topic_tags": ["priam", "forgiveness", "achilles", "greatness"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greatness does not come from defeating enemies but from forgiving them.",
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture moral claim as of 2026-01-28.",
+      "topic_tags": ["forgiveness", "greatness", "enemy"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "A memorable act can change history by implanting itself throughout the universe for future generations; Homer draws such memories from the universe into the Iliad.",
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0046",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Lecture metaphysical model as of 2026-01-28.",
+      "topic_tags": ["memory", "history", "homer", "forgiveness"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iliad is a depiction of the universe in motion, a universe of consciousness.",
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Lecture definition as of 2026-01-28.",
+      "topic_tags": ["iliad", "conscious-universe", "poetry"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0043",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0045"
+      ],
+      "moment": "Priam's victory is kneeling before the murderer of his sons and refusing the obvious revenge.",
+      "source_phrase": "greatness does not come from defeating your enemies it comes from forgiving your enemies",
+      "why_it_matters": "This is the emotional and moral center of Jiang's Iliad ending.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0047"
+      ],
+      "moment": "Homer is not inventing a scene; he is drawing a living memory out of the universe.",
+      "source_phrase": "Homer is drawing from the universe this memory",
+      "why_it_matters": "It connects literary creation directly to Jiang's metaphysics of memory.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "as above, so below",
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Used to describe how one act in the present can change fate and the larger world because levels of reality mirror one another.",
+      "confidence": "high"
+    },
+    {
+      "term": "universe in motion",
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Jiang's definition of the Iliad as a moving display of conscious reality rather than a static literary artifact.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0045",
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0047"
+      ],
+      "note": "The lecture positions forgiveness, not martial victory, as the act that changes history and gives the Iliad its highest meaning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dkzr5a8illa@transcript:v1#seg-0041"
+      ],
+      "note": "This very short UNKNOWN span is probably duplicate prompt noise and should not be treated as a student question."
+    }
+  ]
+}
