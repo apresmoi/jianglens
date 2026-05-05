@@ -1,0 +1,203 @@
+{
+  "packet_id": "predictive-history-zaer-mqe7tq-semantics-pkt-0006",
+  "source_id": "video:predictive-history-zaer-mqe7tq",
+  "source_date": "2026-03-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the lecture by rejecting the illusion that the war will end and the old world will return; the future is a new world whose shape can still be controlled.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether relationships and orders among countries such as China, Japan, and other major powers will all change in the new world.",
+      "speaker_attribution": "student or audience member",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that geopolitics will be constantly dynamic: enemies and allies cannot be fixed, nation-states may fragment into resilient communities, and East Asian alignments could shift from containing China to containing Japan.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0042"
+      ],
+      "note": "SPEAKER_00 asks a substantive student question; this should be eligible for the public episode questions field.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the war will not end with a return to the old world; the world is moving into a new order whose form remains open to human choice.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "closing diagnosis of the 2026 war context",
+      "topic_tags": [
+        "new-world",
+        "iran-war",
+        "agency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Geopolitics in the new world will be constantly in flux, making fixed enemy/alliance categories unreliable.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "model of future geopolitics",
+      "topic_tags": [
+        "geopolitical-flux",
+        "alliances",
+        "new-world"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nation-states may break apart into more resilient communities, possibly resembling city-states.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "future political-structure prediction",
+      "topic_tags": [
+        "nation-state",
+        "city-states",
+        "resilience"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In East Asia, Jiang says an initial coalition of Vietnam, Japan, South Korea, the United States, and Russia might form to contain China, but could later shift to contain Japan as Japan rises.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "example of future alliance flux",
+      "topic_tags": [
+        "east-asia",
+        "china",
+        "japan",
+        "alliances"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Students are told to open their minds because everything taught in school and believed about the world will change under constant political flux.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "normative closing instruction for the coming decades",
+      "topic_tags": [
+        "political-flux",
+        "education",
+        "worldview"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the next class will examine how the war between the United States and Iran will eventually end.",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "course chronology after 2026-03-24",
+      "topic_tags": [
+        "course-sequence",
+        "iran-war",
+        "united-states"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0041"
+      ],
+      "moment": "The old world is not coming back, but the new world is still something people can choose to control.",
+      "source_phrase": "what this new world will look like is something that we can choose to control",
+      "why_it_matters": "It keeps agency inside a bleak collapse forecast.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043"
+      ],
+      "moment": "The right model is not a new static order but constant flux.",
+      "source_phrase": "constantly in flux. It's constantly dynamic",
+      "why_it_matters": "It answers the student's question by denying that a stable replacement order can be mapped in advance.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "moment": "Everything taught in school about the world becomes provisional.",
+      "source_phrase": "everything that you've been taught in school... will change",
+      "why_it_matters": "It is the pedagogical close: the lecture wants to break the student's inherited map.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "constant political flux",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043",
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "A future geopolitical condition where alliances shift, enemy categories are unstable, and political units may reorganize into smaller resilient communities.",
+      "confidence": "high"
+    },
+    {
+      "term": "resilient communities",
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Possible post-nation-state political units, perhaps like city-states, better adapted to flux than centralized nation-states.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0044"
+      ],
+      "note": "This 2026-03-24 lecture explicitly sets up the next class as a continuation on how the U.S.-Iran war will end.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0042"
+      ],
+      "note": "The student's phrase 'those five big countries' is indistinct, but the question clearly concerns whether major-country relationships and orders will change."
+    }
+  ]
+}
