@@ -64,7 +64,7 @@ Film is the modern institutional version. The Hollywood-Pentagon lecture shows t
 <span id="symbolic-media-makes-worlds" class="lens-point-anchor"></span>
 Symbolic media make worlds when they give people the language, memory, images, roles, and emotional grammar through which reality becomes livable. The same mechanism can found civilization, legitimate power, or detach an institution from material constraint.
 
-## Sacred Machines
+## [Sacred Machines](/lens/sacred-machines/)
 
 One of the strongest new atlas families from the Civilization arc is the sacred machine.
 
@@ -213,7 +213,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
 | Nation as god-machine | What sacred body is turning isolated individuals into unity of will, sacrificial population, or a playable national board? | Nation-state lecture, gunpowder revolution, America as game, population-war lecture |
 | World-making media | How do poems, myths, scripture, film, and philosophy make reality inhabitable? | Homer, Bible/Yahwist, Hollywood-Pentagon |
-| Sacred machines | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
+| [Sacred machines](/lens/sacred-machines/) | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
 | Taboo as control surface | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
 | Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
