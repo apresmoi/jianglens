@@ -1,4 +1,5 @@
 ---
+import GoogleAnalytics from '../../components/GoogleAnalytics.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import { absoluteUrl, siteConfig } from '../../../site.config.mjs';
 import { readEpisodeIndex } from '../../lib/episodes.mjs';
@@ -28,6 +29,7 @@ function thumbnailUrl(episode) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <GoogleAnalytics />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={absoluteUrl('/episodes/')} />

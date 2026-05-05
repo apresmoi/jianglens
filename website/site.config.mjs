@@ -37,11 +37,28 @@ export function pageSeo(pageName) {
     ...page,
     canonicalUrl: absoluteUrl(page.path),
     imageUrl: absoluteUrl(page.image.path),
-    sitemapUrl: absoluteUrl('/sitemap-index.xml'),
+    sitemapUrl: absoluteUrl('/sitemap-0.xml'),
     skillUrl: absoluteUrl(siteConfig.paths.skill),
     llmsUrl: absoluteUrl(siteConfig.paths.llms),
     llmsFullUrl: absoluteUrl(siteConfig.paths.llmsFull),
   };
+}
+
+export function googleAnalyticsScriptSrc() {
+  const googleTagId = siteConfig.analytics?.googleTagId;
+  return googleTagId ? `https://www.googletagmanager.com/gtag/js?id=${googleTagId}` : '';
+}
+
+export function googleAnalyticsInlineScript() {
+  const googleTagId = siteConfig.analytics?.googleTagId;
+  if (!googleTagId) return '';
+
+  return [
+    'window.dataLayer = window.dataLayer || [];',
+    'function gtag(){dataLayer.push(arguments);}',
+    "gtag('js', new Date());",
+    `gtag('config', ${JSON.stringify(googleTagId)});`,
+  ].join('\n');
 }
 
 export function structuredDataForPage(pageName) {
@@ -128,6 +145,9 @@ export const siteConfig = {
     'https://predictivehistory.substack.com/',
     'https://en.wikipedia.org/wiki/Jiang_Xueqin',
   ],
+  analytics: {
+    googleTagId: 'G-EWK5R4CE72',
+  },
   paths: {
     skill: '/skill.md',
     llms: '/llms.txt',

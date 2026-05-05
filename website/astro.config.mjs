@@ -2,10 +2,43 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
-import { configuredBasePath, configuredOrigin, siteConfig } from './site.config.mjs';
+import {
+  configuredBasePath,
+  configuredOrigin,
+  googleAnalyticsInlineScript,
+  googleAnalyticsScriptSrc,
+  siteConfig,
+} from './site.config.mjs';
 
 const site = configuredOrigin();
 const base = configuredBasePath();
+const sitemapHref = `${site}${base ? `${base}/` : '/'}sitemap-0.xml`;
+const googleTagId = siteConfig.analytics?.googleTagId;
+const analyticsHead = googleTagId
+  ? [
+      {
+        tag: 'script',
+        attrs: {
+          async: true,
+          src: googleAnalyticsScriptSrc(),
+        },
+      },
+      {
+        tag: 'script',
+        content: googleAnalyticsInlineScript(),
+      },
+    ]
+  : [];
+const starlightHead = [
+  {
+    tag: 'link',
+    attrs: {
+      rel: 'sitemap',
+      href: sitemapHref,
+    },
+  },
+  ...analyticsHead,
+];
 
 export default defineConfig({
   site,
@@ -18,6 +51,7 @@ export default defineConfig({
     starlight({
       title: siteConfig.name,
       description: siteConfig.seo.pages.home.description,
+      head: starlightHead,
       customCss: ['./src/styles/custom.css'],
       components: {
         Header: './src/components/StarlightHeader.astro',
