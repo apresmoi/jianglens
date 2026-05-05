@@ -36,6 +36,20 @@ Power becomes alchemy when it trains imagination until invented abstractions suc
 
 The diagnostic question is "which nothing has become everything?" Once that question is asked, later atlas families become less isolated. Attention capture extracts the energy that alchemy has redirected. Education installs the national memory and authority relation. Bureaucracy manages abstractions after they harden. Story and scripture give alchemy durable forms.
 
+## Nation As God-Machine
+
+The nation-state now needs its own atlas family because Jiang returns to it from several angles: Secret History treats it as alchemical memory, the Civilization nation-state lecture treats nationalism as a replacement religion, the gunpowder lecture treats modern war as whole-society transformation, and the later population-war lecture turns population itself into both strength and target.
+
+The June 2025 nation-state lecture gives the clean mechanism. The state is sovereign authority over territory; the nation is the more dangerous imagined people. Once fused, [the nation-state becomes the most powerful ideology in human history]{evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0002"} because it solves religious loneliness, property anxiety, industrial dislocation, and social alienation by giving isolated individuals a sacred collective body. Nationalism then [absorbs other ideologies and makes one people into a struggle against other peoples]{evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0010"}.
+
+The war grammar is the hard edge. The French Revolution makes citizen armies because people believe they are fighting for themselves; Germany turns culture into church; America turns citizenship into a game. Across the variants, the key variable is [unity of will and cohesion]{evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0012 video:predictive-history-tquo1usc5nw@transcript:v1#seg-0013"}. The April 2026 population-war lecture then updates the family: once the nation-state creates mass populations, twentieth-century war attacks productive civilians, and twenty-first-century war tries to [use the population against the state]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003"}.
+
+<!-- lens-point id="nation-god-machine-atlas" concept="nation-god-machine" evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0010 video:predictive-history-tquo1usc5nw@transcript:v1#seg-0013 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0003" -->
+<span id="nation-god-machine-atlas" class="lens-point-anchor"></span>
+The nation becomes a god-machine when it gives isolated individuals a sacred collective body, converts that body into unity of will, and organizes population, school, welfare, industry, and war around the survival of the national form.
+
+The diagnostic question is "what is this national body making people do?" The answer may be noble defense, cultural resurrection, and civic solidarity. It may also be obedience, standardization, total war, population growth, hatred, or a consumer game that replaces sacrifice with debt and managed happiness.
+
 ## World-Making Media
 
 Jiang treats poetry, mythology, scripture, film, and philosophy as media that build worlds rather than decorate them.
@@ -197,6 +211,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Family | Working question | Strong source clusters |
 | --- | --- | --- |
 | Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
+| Nation as god-machine | What sacred body is turning isolated individuals into unity of will, sacrificial population, or a playable national board? | Nation-state lecture, gunpowder revolution, America as game, population-war lecture |
 | World-making media | How do poems, myths, scripture, film, and philosophy make reality inhabitable? | Homer, Bible/Yahwist, Hollywood-Pentagon |
 | Sacred machines | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
 | Taboo as control surface | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
@@ -223,6 +238,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2025-01-02 to 2026-01-20**: The borderland engine becomes explicit across Arabia, Vikings, China, Hellenistic history, Rome, and the World Game: margins can defeat centers when pressure becomes energy, openness, cohesion, borrowed knowledge, and organized motion.
 - **2025-02-25 to 2025-10-11**: Bureaucracy becomes visible as institutional death: Byzantium preserves and flattens genius, China traps status through exams and official culture, science bureaucratizes doubt and then risks gatekeeping discovery, and modern universities manufacture problems for management.
 - **2025-08-21**: Secret History #1 names the root alchemy of power: money, the individual, and the nation-state become realities when imagination is trained to treat them as scarce, personal, natural, and sacrificial.
+- **2025-04-10 to 2026-04-28**: The nation-state becomes visible as a god-machine: gunpowder requires whole-society war capacity, nationalism becomes replacement religion and unity of will, America mutates the nation into a game, and later war turns the population against the state.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
@@ -234,6 +250,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 When reading a new source or applying the lens to an event, start with these discriminators:
 
 - What symbolic form is making the world feel real: poem, scripture, film, monument, office, algorithm, currency, war story, school, or sacred text?
+- What sacred collective body is being invoked: nation, culture, race, citizenry, market, rules-based order, or game?
 - Which taboo marks the edge of the game, and who gains power if that boundary is honored, broken, or loaded onto a scapegoat?
 - Who is gathering attention as energy, and what world does that focused imagination make durable?
 - What material test can still falsify the story: cost, logistics, ecology, debt, institutional capacity, demographic pressure, or violence?
