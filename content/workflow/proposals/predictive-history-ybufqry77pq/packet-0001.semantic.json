@@ -1,0 +1,157 @@
+{
+  "packet_id": "predictive-history-ybufqry77pq-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ybufqry77pq",
+  "source_date": "2026-01-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0002",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by asking why nations rise and fall, then uses the Chinese Warring States to attack resource-based forecasting: population, farmland, rivers, technology, and location all suggest Chu or another obvious power, yet Qin comes from the poor, isolated mountains and conquers China.",
+      "speaker_attribution": "Jiang lecture; classroom checks are rhetorical.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Ibn Khaldun's asabiyyah as group solidarity and turns it into a three-part metric for dynamic societies: energy, openness, and cohesion. Rich centers decay into low effort, arrogance, stagnation, corruption, and atomization, which lets marginal groups conquer them.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0007",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He begins the Greek analogy: Athens has wealth, navy, population, strategic location, and cultural prestige, but Macedon, the poor uncultured border power, eventually conquers the Greek city-states.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+      ],
+      "note": "The packet is Jiang's lecture voice; no substantive student question appears in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Resource-based metrics such as population, farmland, rivers, technology, and strategic location fail to explain why poor, isolated Qin rather than an obvious rich state conquered China.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical model introduced in the 2026-01-20 lecture.",
+      "topic_tags": ["game-theory", "warring-states", "qin", "resources"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Across history, the strongest nation in a region often does not win; the weakest or most marginalized area eventually conquers the civilized center and creates empire.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "General historical pattern asserted on 2026-01-20.",
+      "topic_tags": ["empire", "borderlands", "asabiyyah"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines a society's dynamism through energy, openness, and cohesion: willingness to work toward a goal, humility and resilience, and readiness to act as a sacrificing team.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture definition stated on 2026-01-20.",
+      "topic_tags": ["energy", "openness", "cohesion", "asabiyyah"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Wealth tends to lower energy, openness, and cohesion because elites stop working, exploit others, become arrogant, refuse correction, and atomize society through corruption.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "General civilizational diagnosis in this lecture.",
+      "topic_tags": ["wealth", "decadence", "corruption", "stagnation"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Athens had the conventional advantages for Greek unification, but Macedon conquered the Greek city-states because borderland energy, openness, and cohesion mattered more than obvious wealth and prestige.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0007",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Greek example in the 2026-01-20 lecture.",
+      "topic_tags": ["athens", "macedon", "city-states", "empire"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"],
+      "moment": "History is backwards from the usual scoreboard: the marginal, poor, improbable player is often the one that conquers the center.",
+      "source_phrase": "the strongest nation does not come out on top",
+      "why_it_matters": "This is the lecture's reversal of conventional geopolitical prediction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0004"],
+      "moment": "Energy, openness, and cohesion become Jiang's portable meter for whether a society is alive enough to win.",
+      "source_phrase": "energy openness and cohesion",
+      "why_it_matters": "The triad organizes the entire episode and later examples.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "asabiyyah",
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"],
+      "definition_or_usage": "Ibn Khaldun's term for cohesion or group solidarity, used here to explain why poor marginal peoples can conquer rich centers.",
+      "confidence": "high"
+    },
+    {
+      "term": "energy, openness, and cohesion",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's three metrics for a dynamic society: motivated work, adaptive humility, and sacrificial group solidarity.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0001"],
+      "note": "Dated 2026-01-20, this is Game Theory #5's opening theory of imperial rise and fall.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"],
+      "note": "ASR likely renders Ibn Khaldun and asabiyyah imperfectly, but the intended concepts are clear from context."
+    }
+  ]
+}

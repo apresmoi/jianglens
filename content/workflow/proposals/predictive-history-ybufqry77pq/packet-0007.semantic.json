@@ -1,0 +1,152 @@
+{
+  "packet_id": "predictive-history-ybufqry77pq-semantics-pkt-0007",
+  "source_id": "video:predictive-history-ybufqry77pq",
+  "source_date": "2026-01-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0049",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0050",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the Japan resource question by rejecting resources as decisive: a poor team can cheat, steal, beg, work for free, and exploit creativity because it has no choice.",
+      "speaker_attribution": "Jiang answer to seg-0048, with a brief student acknowledgment in seg-0050.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0052"],
+      "kind": "question",
+      "summary": "A student challenges the claim that poorer and more dangerous positions always produce enough energy and cohesion to succeed.",
+      "speaker_attribution": "Student question, continued after Jiang's clarification.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0053"],
+      "kind": "answer",
+      "summary": "Jiang clarifies that poverty alone does not mean openness, energy, and cohesion; those qualities are necessary to move from poverty to wealth, but poor societies such as African countries may lack them.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0054"],
+      "kind": "question",
+      "summary": "A student asks why Germany and Japan would keep cohesion after becoming wealthy and after younger generations forget war, rather than decaying like other rich societies.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by distinguishing wealth from power: Japan and Germany became wealthy but remained under the American game master, so their wealth did not equal sovereignty. He uses Plaza Accords/Treasury-bond framing to argue America could extract their gains and impose rules.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0052",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0054"
+      ],
+      "note": "Segments 0052 and 0054 are substantive student questions and should be preserved as question material.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Resources are not necessary for success because poor players can cheat, steal, beg, trade, work for free, and become creative under pressure.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0049",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Answer in the 2026-01-20 lecture.",
+      "topic_tags": ["resources", "creativity", "scarcity", "world-game"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Poverty alone does not cause success; a poor society must become open, energetic, and cohesive to move from poverty to wealth.",
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0053"],
+      "temporal_scope": "Clarification stated on 2026-01-20.",
+      "topic_tags": ["poverty", "energy", "openness", "cohesion"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Power means being able to impose your game on other people, make them play by your rules, and extract rent from them.",
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"],
+      "temporal_scope": "Definition stated on 2026-01-20.",
+      "topic_tags": ["power", "game-master", "rent-extraction"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Japan and Germany became wealthy after World War II but did not gain true power because America remained the game master and could redirect their wealth or force economic decisions.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Post-World War II geopolitical model stated on 2026-01-20.",
+      "topic_tags": ["america", "japan", "germany", "vassal-state", "power"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0049"],
+      "moment": "Resources can be replaced by cheating, stealing, and begging when a player is desperate enough.",
+      "source_phrase": "you don't need resources. You can cheat. You can steal. You can beg",
+      "why_it_matters": "It states the scandalous practical edge of Jiang's resource-scarcity model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"],
+      "moment": "The game master is the one who gets to make others play his game and pay rent.",
+      "source_phrase": "who becomes the game master",
+      "why_it_matters": "This turns power from possession of wealth into control over the rules of play.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "game master",
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"],
+      "definition_or_usage": "The power holder who imposes the game on others and extracts rent from them.",
+      "confidence": "high"
+    },
+    {
+      "term": "Plaza Accords",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's example of America forcing Japan to change economic behavior and damage its own economy; ASR renders this as 'Plastic Accords'.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "note": "This 2026-01-20 answer qualifies earlier Germany/Japan predictions by arguing their postwar wealth did not yet equal sovereign power.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"],
+      "note": "ASR says 'Plastic Accords'; context indicates Plaza Accords."
+    }
+  ]
+}
