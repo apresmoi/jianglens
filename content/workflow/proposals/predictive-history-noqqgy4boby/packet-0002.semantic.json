@@ -1,0 +1,222 @@
+{
+  "packet_id": "predictive-history-noqqgy4boby-semantics-pkt-0002",
+  "source_id": "video:predictive-history-noqqgy4boby",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0009",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0010",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains why leader-killing is strategically dangerous: war needs leaders who can authorize treaties, and killing them creates succession contests in which the most extreme figure tends to win, removing the off-ramp.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0012",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He names the three questions of the lecture: how leaders are dying, why they are dying, and what the strikes mean for the war and the world, then introduces the law of proximity as the answer.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0013",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0014",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0015",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang builds the law of proximity through everyday games: family, school, workplace, city, and nation. The nearest game dominates decision-making, so national behavior is driven by internal games more than by the external international game.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0009",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang monologue; rhetorical questions are organizing prompts, not public audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang models war as political bargaining: the point is not to kill everyone but to negotiate the treaty most beneficial to one's side.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "General game-theory model stated on 2026-03-19.",
+      "topic_tags": [
+        "war",
+        "bargaining",
+        "game-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Killing a leader is dangerous because it eliminates the treaty authority and often elevates a more violent successor, making escalation and no-off-ramp dynamics more likely.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "General model applied to Larajani on 2026-03-19.",
+      "topic_tags": [
+        "leader-killing",
+        "escalation",
+        "off-ramp",
+        "succession"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Both sides are described as maximalist: Israel and the United States seek to destroy Iran permanently, while Iran seeks to destroy the global economy to restore the country.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "War diagnosis on 2026-03-19.",
+      "topic_tags": [
+        "maximalism",
+        "iran",
+        "israel",
+        "united-states"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that human intelligence, not merely electronic surveillance, is the more reliable explanation for how leaders are being located and killed.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Assessment of decapitation strikes on 2026-03-19.",
+      "topic_tags": [
+        "human-intelligence",
+        "signal-intelligence",
+        "decapitation-strikes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The law of proximity says people play many games at once, but the nearest visible game has the strongest effect on decision-making.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0013",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0014",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Core model introduced on 2026-03-19.",
+      "topic_tags": [
+        "law-of-proximity",
+        "game-theory",
+        "decision-making"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang applies the law of proximity to nations: what looks like interstate behavior is often determined by the conflict within each nation.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0015",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Core model introduced on 2026-03-19.",
+      "topic_tags": [
+        "law-of-proximity",
+        "civil-conflict",
+        "foreign-policy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0010"
+      ],
+      "moment": "The leader is not just a target; the leader is the off-ramp.",
+      "source_phrase": "Because then there's no off ramp",
+      "why_it_matters": "This compresses Jiang's anti-decapitation argument into one political function.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011"
+      ],
+      "moment": "Iran's maximalism becomes not merely state survival but a desire to destructure reality itself.",
+      "source_phrase": "They want to destructure reality itself",
+      "why_it_matters": "The line supplies the lecture's cosmic scale: war over infrastructure becomes war over reality's structure.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0013"
+      ],
+      "moment": "The nearest game wins inside the mind before the geopolitical board ever appears.",
+      "source_phrase": "the game that is most proximate to you",
+      "why_it_matters": "This is the central analytic machine for the rest of the episode.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "law of proximity",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0013",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's rule that actors play many games at once, but the game closest to them dominates decisions.",
+      "confidence": "high"
+    },
+    {
+      "term": "off-ramp",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "A leader or political channel capable of authorizing settlement; leader-killing removes it.",
+      "confidence": "high"
+    },
+    {
+      "term": "human intelligence",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Embedded local spies and networks, which Jiang treats as more convincing than electronic surveillance for locating protected leaders.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0013"
+      ],
+      "note": "This lecture introduces the named law of proximity after earlier Game Theory laws, and uses it to reinterpret the current Iran-Israel-United States war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0011"
+      ],
+      "note": "ASR renders HUMINT/SIGINT as HUMET/SIGNET; extraction treats these as human intelligence and signal intelligence from context."
+    }
+  ]
+}

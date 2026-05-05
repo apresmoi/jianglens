@@ -1,0 +1,253 @@
+{
+  "packet_id": "predictive-history-noqqgy4boby-semantics-pkt-0003",
+  "source_id": "video:predictive-history-noqqgy4boby",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0017",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang applies the law of proximity to American party conflict: Democrats may support an unpopular war because they expect it to destroy Trump electorally, while Republicans may use war powers, voter ID, and a draft to manipulate or suspend elections.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0019",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "He deepens the U.S. divide from Democrats versus Republicans into elite versus counter-elite: empire and Wall Street against MAGA and Silicon Valley, each seeking control of Washington and the economy.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0021",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0022",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0023",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says finance and AI are rival bubbles and rival parasites: private credit expects a 2008-style bailout, while AI companies circulate money through each other and expect Trump-aligned Washington to rescue them when the GCC funding channel breaks.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0017",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0024"
+      ],
+      "note": "Single-speaker lecture; 'national giraffe' in ASR is treated as national draft from context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Democrats support the war because they expect it to become unpopular enough to destroy Trump and the Republican Party in elections.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0016",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Diagnosis of U.S. politics on 2026-03-19.",
+      "topic_tags": [
+        "democrats",
+        "war",
+        "elections",
+        "law-of-proximity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Republicans can support even an unpopular or losing war because emergency powers, voter ID rules, and a draft could help them delay, suspend, or manipulate elections.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0017",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Diagnosis of U.S. politics on 2026-03-19.",
+      "topic_tags": [
+        "republicans",
+        "emergency-powers",
+        "voter-id",
+        "draft"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The deeper U.S. conflict is elite overproduction: Democrats represent the imperial elite, Republicans represent the MAGA counter-elite, and both fight for zero-sum power.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Model applied to America on 2026-03-19.",
+      "topic_tags": [
+        "elite-overproduction",
+        "mAGA",
+        "empire",
+        "civil-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Wall Street backs the current elite and Silicon Valley backs the counter-elite, making control of Washington a financial fight between status quo and revolution.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0019",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Diagnosis of U.S. factional conflict on 2026-03-19.",
+      "topic_tags": [
+        "wall-street",
+        "silicon-valley",
+        "counter-elite",
+        "washington"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Private credit is described as a parasite bubble created by moral hazard after 2008, because lenders expect the government to rescue them if bad loans fail.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0021",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Financial diagnosis on 2026-03-19.",
+      "topic_tags": [
+        "private-credit",
+        "moral-hazard",
+        "bailouts",
+        "finance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The AI bubble is described as companies lending money in circles and relying on GCC investors and Trump-aligned Washington for eventual bailout support.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0022",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Financial diagnosis on 2026-03-19.",
+      "topic_tags": [
+        "ai-bubble",
+        "gcc",
+        "bailouts",
+        "silicon-valley"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The government does not have infinite bailout capacity, so finance and AI are fighting over which bubble will be rescued after the burst.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0023",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Prediction/diagnosis of coming U.S. factional conflict from 2026-03-19.",
+      "topic_tags": [
+        "bailouts",
+        "finance",
+        "ai",
+        "civil-conflict"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018"
+      ],
+      "moment": "The war is no longer about beating Iran; it is the instrument Democrats and Republicans use to win America.",
+      "source_phrase": "not really about America defeating Iran",
+      "why_it_matters": "This is the law of proximity applied: domestic power is closer than foreign victory.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0021"
+      ],
+      "moment": "Bailouts become a stupidity engine: if there is no consequence for stupidity, more stupidity is rational.",
+      "source_phrase": "you do not suffer consequences for your stupidity",
+      "why_it_matters": "This gives Jiang's private-credit critique its moral mechanism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0023"
+      ],
+      "moment": "The AI boom is reduced to a circular exchange where I hand you a billion, you hand it back, and both sides pretend value doubled.",
+      "source_phrase": "It's a circle jerk",
+      "why_it_matters": "The image preserves Jiang's blunt bubble diagnosis.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The Peter Turchin model Jiang uses for too many elites competing over zero-sum power, leading toward civil war.",
+      "confidence": "high"
+    },
+    {
+      "term": "moral hazard",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Jiang's bailout logic: actors who do not suffer consequences for bad risk become more reckless.",
+      "confidence": "high"
+    },
+    {
+      "term": "private credit bubble",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0021",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Private company-to-company lending that Jiang describes as fee-driven, extend-and-pretend, and bailout-dependent.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI bubble",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0022",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The Silicon Valley bubble Jiang says depends on circular deals, GCC money, and expected political rescue.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0020"
+      ],
+      "note": "Jiang says he will discuss the American elite/counter-elite civil war more in the future; this packet is an introductory application of the proximity model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0018",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0023"
+      ],
+      "note": "ASR likely renders national draft as 'national giraffe' and stock market as 'start market'; extraction uses the surrounding political and financial context."
+    }
+  ]
+}
