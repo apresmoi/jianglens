@@ -24,7 +24,12 @@ The repo has three main layers:
 - `ops/` contains the scripts, schemas, validators, and notebooks that ingest, compile, and check the corpus.
 - `website/` renders the public Astro site from the content layer.
 
-There is also an `agents/` folder for Spawnfile worker definitions. The first worker is `episode-worker`, which processes one already-transcribed video into a public website-visible episode. Corpus impact, lens pages, canon, glossary, and atlas work are downstream jobs for separate agents.
+There is also an `agents/` folder for Spawnfile worker definitions. The current durable agents are:
+
+- `episode-worker` / Virgil: processes one already-transcribed video into a public website-visible episode.
+- `lens-steward` / Plato: turns the processed episode corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
+
+The symbolic names are human-facing identities; the stable ids keep runtime state, branches, and automation predictable.
 
 Docker episode workers use a small overlay image so GitHub operations are available:
 

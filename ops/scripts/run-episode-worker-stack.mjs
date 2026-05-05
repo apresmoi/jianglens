@@ -35,13 +35,21 @@ Environment:
   PICOCLAW_HEARTBEAT_INTERVAL_SECONDS
                 Picoclaw built-in heartbeat interval. Default: 900
   EPISODE_WORKER_LOOP_ENABLED
-                Set false to disable the direct worker supervisor. Default: true
+                Set false to disable Virgil's direct autonomy loop. Default: true
   EPISODE_WORKER_LOOP_INTERVAL_SECONDS
-                Seconds between supervisor checks/iterations. Default: 60
+                Seconds between Virgil autonomy checks/iterations. Default: 60
   EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS
-                Seconds between supervisor heartbeat writes while an iteration runs. Default: 30
+                Seconds between Virgil autonomy heartbeat writes while an iteration runs. Default: 30
   EPISODE_WORKER_LOOP_ONCE
-                Set true to run one loop iteration, useful for debugging.`);
+                Set true to run one loop iteration, useful for debugging.
+  LENS_STEWARD_LOOP_ENABLED
+                Set false to disable Plato's direct autonomy loop. Default: true
+  LENS_STEWARD_LOOP_INTERVAL_SECONDS
+                Seconds between Plato autonomy checks/iterations. Default: 180
+  LENS_STEWARD_HEARTBEAT_INTERVAL_SECONDS
+                Seconds between Plato autonomy heartbeat writes. Default: 45
+  LENS_STEWARD_LOOP_ONCE
+                Set true to run one Plato loop iteration, useful for debugging.`);
     process.exit(0);
   } else {
     console.error(`Unknown argument: ${arg}`);
@@ -61,6 +69,10 @@ const defaultContainerRepoDir =
   "/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/jiang-lens";
 const defaultContainerStateDir =
   "/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker";
+const defaultLensContainerRepoDir =
+  "/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/jiang-lens";
+const defaultLensContainerStateDir =
+  "/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/state/lens-steward";
 
 const fail = (message) => {
   console.error(message);
@@ -181,8 +193,18 @@ const containerStateDir = process.env.EPISODE_WORKER_STATE_DIR ?? defaultContain
 if (!path.isAbsolute(containerStateDir)) {
   fail(`EPISODE_WORKER_STATE_DIR must be an absolute container path, got: ${containerStateDir}`);
 }
+const lensContainerRepoDir = process.env.LENS_STEWARD_REPO_DIR ?? defaultLensContainerRepoDir;
+if (!path.isAbsolute(lensContainerRepoDir)) {
+  fail(`LENS_STEWARD_REPO_DIR must be an absolute container path, got: ${lensContainerRepoDir}`);
+}
+const lensContainerStateDir = process.env.LENS_STEWARD_STATE_DIR ?? defaultLensContainerStateDir;
+if (!path.isAbsolute(lensContainerStateDir)) {
+  fail(`LENS_STEWARD_STATE_DIR must be an absolute container path, got: ${lensContainerStateDir}`);
+}
 const runtimeRepoDir = path.join(runtimeDir, "repo");
 const runtimeStateDir = path.join(runtimeDir, "state");
+const runtimeLensRepoDir = path.join(runtimeDir, "lens-steward", "repo");
+const runtimeLensStateDir = path.join(runtimeDir, "lens-steward", "state");
 
 run("docker", ["image", "inspect", image], { stdio: "ignore" });
 
@@ -203,6 +225,8 @@ if (listening.status === 0) {
 fs.mkdirSync(path.join(runtimeDir, "moltnet", "servers"), { recursive: true });
 fs.mkdirSync(runtimeRepoDir, { recursive: true });
 fs.mkdirSync(runtimeStateDir, { recursive: true });
+fs.mkdirSync(runtimeLensRepoDir, { recursive: true });
+fs.mkdirSync(runtimeLensStateDir, { recursive: true });
 
 const existingContainerId = spawnSync(
   "docker",
@@ -224,6 +248,22 @@ if (existingContainerId && !fs.existsSync(path.join(runtimeRepoDir, ".git"))) {
   } else {
     fs.rmSync(snapshotDir, { force: true, recursive: true });
     fail(`Could not snapshot existing ${name} checkout from ${containerRepoDir}`);
+  }
+}
+
+if (existingContainerId && !fs.existsSync(path.join(runtimeLensRepoDir, ".git"))) {
+  const snapshotDir = `${runtimeLensRepoDir}.snapshot`;
+  fs.rmSync(snapshotDir, { force: true, recursive: true });
+  const copyResult = spawnSync(
+    "docker",
+    ["cp", `${name}:${lensContainerRepoDir}`, snapshotDir],
+    { cwd: root, stdio: "ignore", env: process.env }
+  );
+  if (copyResult.status === 0) {
+    fs.rmSync(runtimeLensRepoDir, { force: true, recursive: true });
+    fs.renameSync(snapshotDir, runtimeLensRepoDir);
+  } else {
+    fs.rmSync(snapshotDir, { force: true, recursive: true });
   }
 }
 
@@ -263,7 +303,14 @@ for (const key of [
   "EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS",
   "EPISODE_WORKER_LOOP_ONCE",
   "EPISODE_WORKER_LOOP_SESSION",
-  "EPISODE_WORKER_STATE_DIR"
+  "EPISODE_WORKER_STATE_DIR",
+  "LENS_STEWARD_REPO_DIR",
+  "LENS_STEWARD_STATE_DIR",
+  "LENS_STEWARD_LOOP_ENABLED",
+  "LENS_STEWARD_LOOP_INTERVAL_SECONDS",
+  "LENS_STEWARD_HEARTBEAT_INTERVAL_SECONDS",
+  "LENS_STEWARD_LOOP_ONCE",
+  "LENS_STEWARD_LOOP_SESSION"
 ]) {
   if (process.env[key]) {
     dockerArgs.splice(dockerArgs.lastIndexOf(image), 0, "-e", `${key}=${process.env[key]}`);
@@ -303,6 +350,18 @@ dockerArgs.splice(
   0,
   "-v",
   `${runtimeStateDir}:${containerStateDir}`
+);
+dockerArgs.splice(
+  dockerArgs.lastIndexOf(image),
+  0,
+  "-v",
+  `${runtimeLensRepoDir}:${lensContainerRepoDir}`
+);
+dockerArgs.splice(
+  dockerArgs.lastIndexOf(image),
+  0,
+  "-v",
+  `${runtimeLensStateDir}:${lensContainerStateDir}`
 );
 
 run(invocation.command, dockerArgs, {

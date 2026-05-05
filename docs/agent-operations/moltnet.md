@@ -8,7 +8,7 @@ The committed topology is:
 
 - `Moltnet`: local server config for `local_lab`.
 - `MoltnetNode`: local Codex attachment named `codex-operator`.
-- `episode-floor`: room for episode-worker status, blockers, review requests, and handoffs.
+- `episode-floor`: shared room for Virgil/episode-worker status, Plato/lens-steward status, blockers, review requests, and handoffs.
 
 `codex-operator` is an operator participant, not an autonomous worker. It can read and send messages from this repo, but its node attachment uses `reply: never` and has DMs disabled so room traffic does not automatically launch new Codex runs.
 

@@ -5,8 +5,10 @@ This runbook starts the local autonomous episode worker stack:
 - Spawnfile compiles the Jiang Lens team.
 - Docker runs the generated PicoClaw worker image.
 - The worker keeps a persisted Git checkout at `.runtime/episode-worker/repo`, mounted inside PicoClaw as `workspace/jiang-lens`.
-- The wrapper runs a small episode-worker supervisor so long episode jobs are not owned by Moltnet's short chat-reply path.
+- Plato keeps a separate persisted Git checkout at `.runtime/episode-worker/lens-steward/repo`, mounted inside Plato's PicoClaw workspace as `workspace/jiang-lens`.
+- The wrapper runs small autonomy loops for Virgil and Plato so durable work is not owned by Moltnet's short chat-reply path.
 - The worker keeps durable local state and heartbeat files under `.runtime/episode-worker/state`.
+- Plato keeps durable local state and heartbeat files under `.runtime/episode-worker/lens-steward/state`.
 - Moltnet runs inside the container and exposes `local_lab/episode-floor`.
 - Codex OAuth is mounted from a local Spawnfile auth profile.
 - `GH_TOKEN` is injected from a local env file so the worker can push branches and open PRs.
@@ -87,9 +89,11 @@ The launcher does this on every run:
 7. Mounts `.runtime/episode-worker/repo` as the worker checkout.
 8. Clones `https://github.com/apresmoi/jianglens.git` into the mounted checkout if missing, or fast-forwards a clean `main` checkout.
 9. Mounts durable worker state from `.runtime/episode-worker/state`.
-10. Starts the direct episode-worker supervisor unless `EPISODE_WORKER_LOOP_ENABLED=false`.
-11. Mounts persisted Moltnet state under `.runtime/episode-worker/`.
-12. Registers the local `codex-operator` participant so host `moltnet send` messages are visible in room history.
+10. Mounts Plato's separate checkout and state directories.
+11. Starts Virgil's direct episode-worker autonomy loop unless `EPISODE_WORKER_LOOP_ENABLED=false`.
+12. Starts Plato's direct lens-steward autonomy loop unless `LENS_STEWARD_LOOP_ENABLED=false`.
+13. Mounts persisted Moltnet state under `.runtime/episode-worker/`.
+14. Registers the local `codex-operator` participant so host `moltnet send` messages are visible in room history.
 
 If an older container already has an unmounted checkout and `.runtime/episode-worker/repo` is empty, the launcher snapshots that checkout before replacing the container.
 
@@ -124,14 +128,15 @@ Expected topology:
 - Network: `local_lab`
 - Room: `episode-floor`
 - Member: `episode-worker`
+- Member: `lens-steward`
 - Local operator: `codex-operator` can read and send from the host, with no automatic replies.
 
-The worker should use `episode-floor` for claims, blockers, PR handoffs, and validation status.
+Virgil should use `episode-floor` for episode claims, blockers, PR handoffs, and validation status. Plato should use the same room for lens claims, corpus-to-lens handoffs, room-noise reports, PR handoffs, and validation status.
 `reply: never` on the room attachment does not make the worker silent. It only
 disables Moltnet's automatic short-lived chat subprocess for incoming room
-messages. The direct worker supervisor still launches a room-aware agent that
-reads the room and sends messages with the Moltnet CLI, so agents remain visible
-room participants while long jobs run.
+messages. The direct autonomy loops still launch room-aware agents that read the
+room and send messages with the Moltnet CLI, so agents remain visible room
+participants while long jobs run.
 
 Inside the worker, Moltnet should not require path flags:
 
@@ -161,20 +166,27 @@ Useful run environment variables:
 | `JIANG_LENS_REPO_BRANCH` | `main` | Base branch used for clean checkout updates. |
 | `JIANG_LENS_REPO_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/jiang-lens` | Absolute checkout path used by the worker container. |
 | `EPISODE_WORKER_STATE_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker` | Absolute durable worker state path inside the container. Mounted from `.runtime/episode-worker/state` by default. |
-| `EPISODE_WORKER_LOOP_ENABLED` | `true` | Set `false` to disable the direct worker supervisor. |
-| `EPISODE_WORKER_LOOP_INTERVAL_SECONDS` | `60` | Seconds between supervisor checks/iterations. |
-| `EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS` | `30` | Seconds between supervisor heartbeat writes while a worker process is alive. |
+| `EPISODE_WORKER_LOOP_ENABLED` | `true` | Set `false` to disable Virgil's direct autonomy loop. |
+| `EPISODE_WORKER_LOOP_INTERVAL_SECONDS` | `60` | Seconds between Virgil autonomy checks/iterations. |
+| `EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS` | `30` | Seconds between Virgil heartbeat writes while a worker process is alive. |
 | `EPISODE_WORKER_LOOP_ONCE` | `false` | Set `true` for one loop iteration while debugging. |
-| `PICOCLAW_AUTONOMY_ENABLED` | `false` | Set `true` only to test Picoclaw's built-in heartbeat. Episode work should use the direct supervisor. |
+| `LENS_STEWARD_REPO_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/jiang-lens` | Absolute checkout path used by Plato inside the container. |
+| `LENS_STEWARD_STATE_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/state/lens-steward` | Absolute durable Plato state path inside the container. Mounted from `.runtime/episode-worker/lens-steward/state` by default. |
+| `LENS_STEWARD_LOOP_ENABLED` | `true` | Set `false` to disable Plato's direct autonomy loop. |
+| `LENS_STEWARD_LOOP_INTERVAL_SECONDS` | `180` | Seconds between Plato autonomy checks/iterations. |
+| `LENS_STEWARD_HEARTBEAT_INTERVAL_SECONDS` | `45` | Seconds between Plato heartbeat writes while a worker process is alive. |
+| `LENS_STEWARD_LOOP_ONCE` | `false` | Set `true` for one Plato loop iteration while debugging. |
+| `PICOCLAW_AUTONOMY_ENABLED` | `false` | Set `true` only to test Picoclaw's built-in heartbeat. Durable work should use the direct autonomy loops. |
 | `PICOCLAW_HEARTBEAT_INTERVAL_SECONDS` | `900` | Picoclaw built-in heartbeat interval when explicitly enabled. |
 
 ## Durable Worker State
 
-The worker is meant to behave like a durable participant, not a stateless cron
-task. The supervisor stores local runtime state in the gitignored host folder:
+The workers are meant to behave like durable participants, not stateless cron
+tasks. The autonomy loops store local runtime state in gitignored host folders:
 
 ```text
 .runtime/episode-worker/state
+.runtime/episode-worker/lens-steward/state
 ```
 
 Expected files:

@@ -1,7 +1,7 @@
 spawnfile_version: "0.1"
 kind: team
 name: jiang-lens-agents
-description: "Autonomous PicoClaw workers for turning the Jiang corpus into website-visible episodes."
+description: "Autonomous PicoClaw workers for turning the Jiang corpus into website-visible episodes and a source-grounded public lens."
 
 mode: swarm
 
@@ -10,10 +10,10 @@ docs:
 
 shared:
   env:
-    GIT_AUTHOR_NAME: "Jiang Lens Episode Worker"
-    GIT_AUTHOR_EMAIL: "episode-worker@jianglens.local"
-    GIT_COMMITTER_NAME: "Jiang Lens Episode Worker"
-    GIT_COMMITTER_EMAIL: "episode-worker@jianglens.local"
+    GIT_AUTHOR_NAME: "Jiang Lens Agents"
+    GIT_AUTHOR_EMAIL: "agents@jianglens.local"
+    GIT_COMMITTER_NAME: "Jiang Lens Agents"
+    GIT_COMMITTER_EMAIL: "agents@jianglens.local"
   secrets:
     - name: GH_TOKEN
       required: true
@@ -26,11 +26,19 @@ shared:
     - ref: ./.codex/skills/jiang-video-e2e
     - ref: ./.codex/skills/jiang-episode-read-writer
     - ref: ./.codex/skills/jiang-episode-publisher
+    - ref: ./.codex/skills/jiang-corpus-impact-pass
+    - ref: ./.codex/skills/jiang-lens-distillation
+    - ref: ./.codex/skills/jiang-lens-concept-writer
+    - ref: ./.codex/skills/jiang-lens-atlas-maintainer
     - ref: ./.codex/skills/jiang-provenance-linker
+    - ref: ./.codex/skills/jiang-lens-judge
+    - ref: ./.codex/skills/jiang-canon-promotion
 
 members:
   - id: episode-worker
     ref: ./agents/episode-worker
+  - id: lens-steward
+    ref: ./agents/lens-steward
 
 networks:
   - id: local_lab
@@ -39,7 +47,7 @@ networks:
     expose: true
     rooms:
       - id: episode-floor
-        members: [episode-worker]
+        members: [episode-worker, lens-steward]
 
 policy:
   mode: warn
