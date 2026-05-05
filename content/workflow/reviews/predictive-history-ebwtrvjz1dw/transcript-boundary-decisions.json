@@ -1,0 +1,80 @@
+{
+  "source_slug": "predictive-history-ebwtrvjz1dw",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:9663b300cb8a",
+      "decision": "approve",
+      "reason": "Completes the sentence \"uses his speech in order to fulfill...\" across the boundary."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:b1445f59ff0d",
+      "decision": "approve",
+      "reason": "Completes \"And then by telling the story...\" before the Dido example continues."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:4a8c51c18b0a",
+      "decision": "approve",
+      "reason": "Moves \"and spoke\" to complete the quoted line before the speech begins."
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:79f13ede66ca",
+      "decision": "approve",
+      "reason": "Completes Jiang's dating phrase \"this is about 30 BCE.\""
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:ec969f404793",
+      "decision": "approve",
+      "reason": "Completes the quoted action \"Priam takes command, has him freed...\"."
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:51813c998d30",
+      "decision": "approve",
+      "reason": "Completes \"save as many people as he can\" before the next thought."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:4b17ad3d544a",
+      "decision": "approve",
+      "reason": "Completes Jiang's prompt to a student, \"can you read Ivory?\"."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:517d48e80037",
+      "decision": "approve",
+      "reason": "Completes the quoted phrase \"such help...\"."
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:8703c095e1e8",
+      "decision": "reject",
+      "reason": "Reject: the prior quote ends cleanly at \"Before their eyes\" and the next segment starts Jiang's new interpretive comment."
+    },
+    {
+      "candidate_id": "seg-0030->seg-0031:move-leading-completion-to-previous:7dbd6ba74afb",
+      "decision": "approve",
+      "reason": "Completes the quoted phrase \"her deserted husband's rage.\""
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:9db90f6f15f4",
+      "decision": "approve",
+      "reason": "Completes Jiang's claim \"Love is what corrupts you.\""
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-trailing-starter-to-next:3d4634e5e5c9",
+      "decision": "approve",
+      "reason": "Moves the sentence starter so \"The most important person in the family...\" stays together."
+    },
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:809609f16215",
+      "decision": "approve",
+      "reason": "Completes \"he must marry into a new lineage...\"."
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:f5c09c801ccc",
+      "decision": "approve",
+      "reason": "Completes the quoted prophecy line \"Their great joy and the kingdom...\"."
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:59502af5dace",
+      "decision": "approve",
+      "reason": "Completes Jiang's Jupiter/Zeus phrase before the sacrifice interpretation continues."
+    }
+  ]
+}
