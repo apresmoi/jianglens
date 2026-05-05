@@ -1,0 +1,210 @@
+{
+  "packet_id": "predictive-history-vbowbtjwkbo-semantics-pkt-0001",
+  "source_id": "video:predictive-history-vbowbtjwkbo",
+  "source_date": "2026-03-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0002",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by rejecting the standard boom-bust story as inadequate and announces a speculative thesis: financial collapses, including a coming U.S. collapse tied to war, are engineered rather than natural accidents.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0004"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Amber reads Andrew Ross Sorkin/Salkin on 1920s booms producing collective delusion, optimism as drug or religion, and lost risk calculation.",
+      "speaker_attribution": "Student reader, prompted by Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0005",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0006",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0007",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts the delusion-and-gravity explanation with an engineered-collapse model, then builds a bank-money model: banks create liquidity, central banks coordinate banks, and interest rates signal banks more than consumers.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0004"
+      ],
+      "note": "SPEAKER_00 is a student reading quoted financial-history material, not Jiang asserting the quoted explanation.",
+      "suggested_speaker": "student reader Amber",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims the U.S. and global economy will collapse because financial collapse must be engineered, not because boom-bust cycles naturally self-correct.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Prediction and framing stated in the 2026-03-31 lecture.",
+      "topic_tags": [
+        "engineered-collapse",
+        "u-s-economy",
+        "boom-bust-cycle"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The standard economics explanation says bubbles pop because collective optimism becomes delusion, like gravity pulling down what flew too high.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0003",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0004",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Conventional account summarized before Jiang rejects it on 2026-03-31.",
+      "topic_tags": [
+        "boom-bust-cycle",
+        "financial-crisis",
+        "delusion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues another explanation exists: people behind the scenes have the power to make economies rise and fall.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Speculative model stated on 2026-03-31.",
+      "topic_tags": [
+        "engineered-collapse",
+        "hidden-power",
+        "financial-crisis"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Banks do not merely store money; in Jiang’s model they create money/liquidity, making money a collective hallucination rather than a fixed object.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0005",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Banking model stated on 2026-03-31.",
+      "topic_tags": [
+        "banking",
+        "liquidity",
+        "money"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Interest rates are not primarily consumer guidance in Jiang’s model; they coordinate whether banks should release or withhold liquidity.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0007",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Liquidity-signaling model stated on 2026-03-31.",
+      "topic_tags": [
+        "interest-rates",
+        "central-bank",
+        "liquidity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001"
+      ],
+      "moment": "The lecture begins with the blunt reversal that collapse is not natural but engineered.",
+      "source_phrase": "financial collapse do not happen accidentally or naturally it has to be engineered",
+      "why_it_matters": "It supplies the source’s governing provocation and turns economics into agency, not weather.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0006"
+      ],
+      "moment": "Money becomes a concept held together by shared belief.",
+      "source_phrase": "money is just an idea it's a concept it's a collective hallucination",
+      "why_it_matters": "It turns banking from bookkeeping into a reality-management system.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0008"
+      ],
+      "moment": "Interest rates are reinterpreted as commands to banks, not nudges to homeowners.",
+      "source_phrase": "it is set in order to coordinate liquidity in the marketplace",
+      "why_it_matters": "This is the first mechanical lever in the engineered-collapse model.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "engineered financial collapse",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang’s model that major financial collapses are caused by actors who benefit from triggering them, rather than by impersonal boom-bust gravity.",
+      "confidence": "high"
+    },
+    {
+      "term": "signaling mechanism",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0007",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A coordinating signal such as interest rate that tells banks whether to release or restrict liquidity.",
+      "confidence": "high"
+    },
+    {
+      "term": "collective hallucination",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang’s description of money as an idea sustained by shared belief and bank-created liquidity.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001"
+      ],
+      "note": "On 2026-03-31 Jiang explicitly ties a predicted U.S. economic collapse to “this war,” making the claim time-sensitive and situated after the Iran-war framing in this course sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0003"
+      ],
+      "note": "ASR likely renders Andrew Ross Sorkin as Andrew Ross Salkin; extraction keeps the quoted function without relying on exact author spelling."
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0006"
+      ],
+      "note": "ASR is noisy around “super-assist”; the surrounding meaning is clear enough to extract the bank-created-liquidity model, not the garbled phrase."
+    }
+  ]
+}
