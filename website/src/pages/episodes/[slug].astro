@@ -1,8 +1,9 @@
 ---
 import GoogleAnalytics from '../../components/GoogleAnalytics.astro';
+import IconLinks from '../../components/IconLinks.astro';
 import InlineEvidence from '../../components/InlineEvidence.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
-import { absoluteUrl, siteConfig } from '../../../site.config.mjs';
+import { absoluteUrl } from '../../../site.config.mjs';
 import { episodeJsonPath, listEpisodeSlugs, readEpisode } from '../../lib/episodes.mjs';
 
 export async function getStaticPaths() {
@@ -40,11 +41,11 @@ const structuredData = {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <GoogleAnalytics />
+    <IconLinks />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
     <link rel="alternate" type="application/json" href={jsonUrl} title="Episode JSON" />
-    <meta name="theme-color" content={siteConfig.seo.themeColor} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="article" />

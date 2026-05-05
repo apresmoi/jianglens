@@ -24,7 +24,9 @@ const links = [
 >
   <nav class="site-nav" aria-label="Primary navigation">
     <a class="brand" href={normalizedBase} aria-label="Jiang Lens home">
-      <span class="brand-mark" aria-hidden="true">江</span>
+      <span class="brand-mark" aria-hidden="true">
+        <img src={href('logo.png')} alt="" />
+      </span>
       <span>Jiang Lens</span>
     </a>
     <div class="nav-links">
@@ -70,14 +72,19 @@ const links = [
   .brand-mark {
     width: 34px;
     height: 34px;
-    display: grid;
+    display: block;
     flex: 0 0 auto;
-    place-items: center;
     border: 1px solid var(--line-strong, rgba(244, 234, 216, 0.28));
-    border-radius: 50%;
-    background: rgba(244, 234, 216, 0.04);
-    color: var(--gold, #c9a765);
-    font-family: Georgia, "Times New Roman", serif;
+    border-radius: 6px;
+    background: #050505;
+    overflow: hidden;
+  }
+
+  .brand-mark img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
   }
 
   .nav-links {

@@ -101,6 +101,17 @@ async function main() {
     if (home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-index.xml">')) {
       failures.push('dist/index.html: still links sitemap-index.xml in head');
     }
+    for (const expected of [
+      '<meta property="og:image" content="https://jianglens.com/social-card.png">',
+      '<meta property="og:image:width" content="1200">',
+      '<meta property="og:image:height" content="630">',
+      '<meta name="twitter:card" content="summary_large_image">',
+      '<meta name="twitter:image" content="https://jianglens.com/social-card.png">',
+    ]) {
+      if (!home.includes(expected)) {
+        failures.push(`dist/index.html: missing social card tag ${expected}`);
+      }
+    }
   }
 
   const sampleHeadPaths = [
@@ -108,6 +119,23 @@ async function main() {
     'episodes/index.html',
     'introduction/index.html',
   ];
+  const requiredIconFiles = [
+    'logo.png',
+    'social-card.png',
+    'favicon.ico',
+    'favicon-16x16.png',
+    'favicon-32x32.png',
+    'apple-touch-icon.png',
+    'icon-192.png',
+    'icon-512.png',
+    'site.webmanifest',
+  ];
+  for (const iconFile of requiredIconFiles) {
+    if (!existsSync(path.join(distRoot, iconFile))) {
+      failures.push(`dist/${iconFile}: missing brand icon asset`);
+    }
+  }
+
   for (const relPath of sampleHeadPaths) {
     const htmlPath = path.join(distRoot, relPath);
     if (!existsSync(htmlPath)) {
@@ -120,6 +148,17 @@ async function main() {
     }
     if (!html.includes(`gtag('config', "G-EWK5R4CE72")`)) {
       failures.push(`dist/${relPath}: missing Google Analytics config`);
+    }
+    for (const expected of [
+      'href="/favicon.ico"',
+      'href="/favicon-16x16.png"',
+      'href="/favicon-32x32.png"',
+      'href="/apple-touch-icon.png"',
+      'href="/site.webmanifest"',
+    ]) {
+      if (!html.includes(expected)) {
+        failures.push(`dist/${relPath}: missing icon head link ${expected}`);
+      }
     }
   }
 

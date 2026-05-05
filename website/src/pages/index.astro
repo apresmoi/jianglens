@@ -1,5 +1,6 @@
 ---
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import IconLinks from '../components/IconLinks.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import { pageSeo, siteConfig, structuredDataForPage } from '../../site.config.mjs';
 
@@ -12,6 +13,7 @@ const structuredData = structuredDataForPage('home');
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <GoogleAnalytics />
+    <IconLinks />
     <title>{homeSeo.title}</title>
     <meta name="description" content={homeSeo.description} />
     <meta name="keywords" content={homeSeo.keywords} />
@@ -21,7 +23,6 @@ const structuredData = structuredDataForPage('home');
     <link rel="alternate" type="text/markdown" href={homeSeo.skillUrl} title="Jiang Lens skill" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsUrl} title="llms.txt" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsFullUrl} title="llms-full.txt" />
-    <meta name="theme-color" content={siteConfig.seo.themeColor} />
     <meta property="og:title" content={homeSeo.title} />
     <meta property="og:description" content={homeSeo.description} />
     <meta property="og:type" content={homeSeo.type} />
@@ -94,10 +95,10 @@ const structuredData = structuredDataForPage('home');
       .hero-image {
         position: absolute;
         top: 0;
-        right: -22vw;
+        right: -0vw;
         bottom: 0;
         z-index: 0;
-        width: 128vw;
+        width: 100vw;
         height: 100%;
         object-fit: cover;
         object-position: center center;
@@ -404,7 +405,7 @@ const structuredData = structuredDataForPage('home');
 
       @media (max-width: 1020px) {
         .hero-image {
-          right: -42vw;
+          right: -15vw;
           width: 150vw;
           opacity: 0.64;
         }
@@ -493,10 +494,10 @@ const structuredData = structuredDataForPage('home');
       <section class="hero" aria-label="Predictive History lens overview">
         <img
           class="hero-image"
-          src="./images/jiang-xueqin-hero.jpg"
+          src="./images/jiang-xueqin-hero.png"
           alt="Professor Jiang Xueqin seated at a microphone during an interview"
-          width="3674"
-          height="2156"
+          width="1731"
+          height="909"
         />
         <div class="shell hero-inner">
           <div class="hero-copy">

@@ -1,7 +1,8 @@
 ---
 import GoogleAnalytics from '../../components/GoogleAnalytics.astro';
+import IconLinks from '../../components/IconLinks.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
-import { absoluteUrl, siteConfig } from '../../../site.config.mjs';
+import { absoluteUrl } from '../../../site.config.mjs';
 import { readEpisodeIndex } from '../../lib/episodes.mjs';
 
 const episodeIndex = await readEpisodeIndex();
@@ -30,10 +31,10 @@ function thumbnailUrl(episode) {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <GoogleAnalytics />
+    <IconLinks />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={absoluteUrl('/episodes/')} />
-    <meta name="theme-color" content={siteConfig.seo.themeColor} />
     <style>
       :root {
         color-scheme: dark;
