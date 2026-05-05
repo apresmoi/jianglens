@@ -135,8 +135,8 @@ start_episode_worker_loop() {
         existing_pid="$(sed -n 's/.*"pid":[[:space:]]*\([0-9][0-9]*\).*/\1/p' "$LOOP_LEASE_FILE" | head -n 1)"
       fi
 
-      if [ -n "$existing_pid" ] && [ -d "/proc/$existing_pid" ]; then
-        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null)"
+      if [ -n "$existing_pid" ] && [ -r "/proc/$existing_pid/cmdline" ]; then
+        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null || true)"
         case "$existing_cmd" in
           *"picoclaw agent --session $LOOP_SESSION"*|*"picoclaw agent"*)
             now="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
@@ -304,8 +304,8 @@ start_lens_steward_loop() {
         existing_pid="$(sed -n 's/.*"pid":[[:space:]]*\([0-9][0-9]*\).*/\1/p' "$LENS_LOOP_LEASE_FILE" | head -n 1)"
       fi
 
-      if [ -n "$existing_pid" ] && [ -d "/proc/$existing_pid" ]; then
-        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null)"
+      if [ -n "$existing_pid" ] && [ -r "/proc/$existing_pid/cmdline" ]; then
+        existing_cmd="$(tr '\0' ' ' <"/proc/$existing_pid/cmdline" 2>/dev/null || true)"
         case "$existing_cmd" in
           *"picoclaw agent --session $LENS_LOOP_SESSION"*|*"picoclaw agent"*)
             now="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
