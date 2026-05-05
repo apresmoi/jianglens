@@ -1,5 +1,6 @@
 ---
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import IconLinks from '../components/IconLinks.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import { pageSeo, siteConfig, structuredDataForPage } from '../../site.config.mjs';
 
@@ -12,6 +13,7 @@ const structuredData = structuredDataForPage('home');
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <GoogleAnalytics />
+    <IconLinks />
     <title>{homeSeo.title}</title>
     <meta name="description" content={homeSeo.description} />
     <meta name="keywords" content={homeSeo.keywords} />
@@ -21,7 +23,6 @@ const structuredData = structuredDataForPage('home');
     <link rel="alternate" type="text/markdown" href={homeSeo.skillUrl} title="Jiang Lens skill" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsUrl} title="llms.txt" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsFullUrl} title="llms-full.txt" />
-    <meta name="theme-color" content={siteConfig.seo.themeColor} />
     <meta property="og:title" content={homeSeo.title} />
     <meta property="og:description" content={homeSeo.description} />
     <meta property="og:type" content={homeSeo.type} />

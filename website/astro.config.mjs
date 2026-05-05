@@ -29,6 +29,63 @@ const analyticsHead = googleTagId
       },
     ]
   : [];
+const iconHead = [
+  {
+    tag: 'link',
+    attrs: {
+      rel: 'icon',
+      href: '/favicon.ico',
+      sizes: 'any',
+    },
+  },
+  {
+    tag: 'link',
+    attrs: {
+      rel: 'icon',
+      type: 'image/png',
+      sizes: '16x16',
+      href: '/favicon-16x16.png',
+    },
+  },
+  {
+    tag: 'link',
+    attrs: {
+      rel: 'icon',
+      type: 'image/png',
+      sizes: '32x32',
+      href: '/favicon-32x32.png',
+    },
+  },
+  {
+    tag: 'link',
+    attrs: {
+      rel: 'apple-touch-icon',
+      sizes: '180x180',
+      href: '/apple-touch-icon.png',
+    },
+  },
+  {
+    tag: 'link',
+    attrs: {
+      rel: 'manifest',
+      href: '/site.webmanifest',
+    },
+  },
+  {
+    tag: 'meta',
+    attrs: {
+      name: 'theme-color',
+      content: siteConfig.seo.themeColor,
+    },
+  },
+  {
+    tag: 'meta',
+    attrs: {
+      property: 'og:logo',
+      content: `${site}${base ? `${base}/` : '/'}logo.png`,
+    },
+  },
+];
 const starlightHead = [
   {
     tag: 'link',
@@ -37,6 +94,7 @@ const starlightHead = [
       href: sitemapHref,
     },
   },
+  ...iconHead,
   ...analyticsHead,
 ];
 
@@ -51,6 +109,7 @@ export default defineConfig({
     starlight({
       title: siteConfig.name,
       description: siteConfig.seo.pages.home.description,
+      favicon: '/favicon.ico',
       head: starlightHead,
       customCss: ['./src/styles/custom.css'],
       components: {

@@ -1,7 +1,8 @@
 ---
 import GoogleAnalytics from '../../../components/GoogleAnalytics.astro';
+import IconLinks from '../../../components/IconLinks.astro';
 import SiteHeader from '../../../components/SiteHeader.astro';
-import { absoluteUrl, siteConfig } from '../../../../site.config.mjs';
+import { absoluteUrl } from '../../../../site.config.mjs';
 import { listEpisodeSlugs, readEpisode } from '../../../lib/episodes.mjs';
 
 export async function getStaticPaths() {
@@ -74,10 +75,10 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <GoogleAnalytics />
+    <IconLinks />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
-    <meta name="theme-color" content={siteConfig.seo.themeColor} />
     <style>
       :root {
         color-scheme: dark;
