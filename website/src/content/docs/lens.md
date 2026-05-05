@@ -76,6 +76,16 @@ The atlas family here is civilization as inner order. A civilization is not only
 
 This makes "civilization" a dangerous word. It can name a real expansion of human possibility, as in Homer teaching empathy. It can also hide conquest, debt, hierarchy, and the erasure of a previous world. The atlas has to keep both pressures visible.
 
+## The Borderland Engine
+
+The civilization family now needs a sharper edge family: the borderland engine. Jiang repeatedly treats the margin as the place where historical motion returns after the center has reached equilibrium. The center has resources, status, bureaucracy, and official culture; the margin has pressure. When that pressure becomes [energy, openness, and cohesion]{evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0004 video:predictive-history-ybufqry77pq@transcript:v1#seg-0005"}, the poor or backward-looking edge can become more dangerous than the visible winner.
+
+The mature formula appears in the Hellenistic World lecture: [stable is stagnant]{evidence="video:predictive-history-z0awfin83lo@transcript:v1#seg-0006 video:predictive-history-z0awfin83lo@transcript:v1#seg-0008"}. Qin receives mercenaries, tactical knowledge, low-nobility talent, and energy while the established states imagine the old equilibrium can contain it. Greeks learn Persian tactics and piracy while Persia thinks like empire. Macedon absorbs Greek military and intellectual innovations after Athens, Sparta, and Thebes settle into their own status game. The World Game then abstracts the rule: [having nothing can force creativity, relationship, and motion]{evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0033 video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"}.
+
+The family is not a romance of poverty. Jiang explicitly says [poverty is not magic]{evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0053"}. Scarcity becomes historical force only when it is organized into a people, a school, a prophet, a military machine, a trade network, a common wound, or another form of collective motion. That is why the same mechanism can produce Homeric Greece, Muhammad's revolution, Viking openness, Qin total war, Macedonian empire, or Roman anti-civilization.
+
+The diagnostic question is therefore not "who is weak?" but "where is adaptive pressure accumulating, what is it learning from the center, and what will it become after victory?"
+
 ## Empire, War, And Material Reality
 
 The geopolitical episodes make the atlas harder.
@@ -152,6 +162,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Sacred machines | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
 | Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
+| Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
@@ -167,6 +178,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2024-10-10**: Homer turns Greek collapse into an opening; poetry, alphabet, poverty, and polis create a new human type.
 - **2024-11-12 to 2024-11-21**: Rome becomes the laboratory for myth and empire: Caesar changes reality, Octavian inherits the wound, and Virgil fights Homer for Rome's soul.
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
+- **2025-01-02 to 2026-01-20**: The borderland engine becomes explicit across Arabia, Vikings, China, Hellenistic history, Rome, and the World Game: margins can defeat centers when pressure becomes energy, openness, cohesion, borrowed knowledge, and organized motion.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
