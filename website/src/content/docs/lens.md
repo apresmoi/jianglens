@@ -86,6 +86,20 @@ The family is not a romance of poverty. Jiang explicitly says [poverty is not ma
 
 The diagnostic question is therefore not "who is weak?" but "where is adaptive pressure accumulating, what is it learning from the center, and what will it become after victory?"
 
+## Bureaucracy As Institutional Death
+
+The borderland family exposes one side of Jiang's map: pressure can become motion. The bureaucracy family exposes the reverse: successful institutions can preserve their outer form while draining away openness, discovery, and lived reality.
+
+In the modern "Death by Bureaucracy" lecture, the university becomes the clean example. Once a school is a global brand, the struggle that built it can disappear; administrators then turn student life into solvable cases, offices, policies, and paperwork. Jiang's definition is brutal: [bureaucrats make problems for everyone in order to create solutions for everyone]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022"}. The same pattern spreads through government, military, healthcare, and civic life until ordinary people feel the organization no longer needs them as humans.
+
+The older civilization lectures show why the mechanism is not merely modern bloat. Byzantium can endure because bureaucracy centralizes, systemizes, standardizes, records, and stabilizes. Then it ossifies into [corruption, stagnation, and homogenization]{evidence="video:predictive-history-abs6z7vpemc@transcript:v1#seg-0045"}. Imperial China adds the status trap: the Keju, literary Chinese, and Confucian bureaucratism concentrate elite ambition into official channels until [technology does not matter because the empire does not want innovation]{evidence="video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052"}. Science adds the ironic case: bureaucratized doubt makes modern discovery possible, but a mature research system can become so specialized and gated that [Galileo, Newton, or Einstein might no longer be welcome]{evidence="video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0064"}.
+
+<!-- lens-point id="bureaucracy-institutional-death-atlas" concept="bureaucracy-institutional-death" evidence="video:predictive-history-abs6z7vpemc@transcript:v1#seg-0045 video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0064 video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022" -->
+<span id="bureaucracy-institutional-death-atlas" class="lens-point-anchor"></span>
+Bureaucracy becomes institutional death when a successful organization preserves offices, procedures, rankings, and authorized knowledge while losing the openness, risk, feedback, and genius that made the institution alive.
+
+The diagnostic question is not "does this institution have offices?" It is "which layer is growing, what work is being converted into procedure, what sources of status are being monopolized, and could the system still admit the person who founded its greatness?"
+
 ## Empire, War, And Material Reality
 
 The geopolitical episodes make the atlas harder.
@@ -163,6 +177,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
+| Bureaucracy as institutional death | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
@@ -179,6 +194,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2024-11-12 to 2024-11-21**: Rome becomes the laboratory for myth and empire: Caesar changes reality, Octavian inherits the wound, and Virgil fights Homer for Rome's soul.
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
 - **2025-01-02 to 2026-01-20**: The borderland engine becomes explicit across Arabia, Vikings, China, Hellenistic history, Rome, and the World Game: margins can defeat centers when pressure becomes energy, openness, cohesion, borrowed knowledge, and organized motion.
+- **2025-02-25 to 2025-10-11**: Bureaucracy becomes visible as institutional death: Byzantium preserves and flattens genius, China traps status through exams and official culture, science bureaucratizes doubt and then risks gatekeeping discovery, and modern universities manufacture problems for management.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
@@ -192,6 +208,7 @@ When reading a new source or applying the lens to an event, start with these dis
 - What symbolic form is making the world feel real: poem, scripture, film, monument, office, algorithm, currency, war story, school, or sacred text?
 - Who is gathering attention as energy, and what world does that focused imagination make durable?
 - What material test can still falsify the story: cost, logistics, ecology, debt, institutional capacity, demographic pressure, or violence?
+- Which layer is growing: the people doing real work, or the offices that classify, manage, review, and justify that work?
 - Who benefits if the story is treated as history, destiny, morality, or nature?
 - Which older world is being erased, translated, defeated, or made unreadable?
 - Is the guide opening a path, or installing the world that will later need to be escaped?

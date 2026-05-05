@@ -8,3 +8,4 @@
 - Preserve Jiang's vivid pressure and uncomfortable claims when sources support them.
 - Chronology matters. Older late-processed episodes can change the origin, buildup, or latest formulation of a concept.
 - Do not edit shared skills directly; propose improvements under `agents/lens-steward/proposals/`.
+- Bureaucracy-as-institutional-death should stay ambivalent: bureaucracy can initially coordinate scale, standardization, records, and doubt, but its mature danger is monopoly over status, literacy, information, and narrative that converts living work into management preservation.
