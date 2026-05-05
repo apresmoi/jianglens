@@ -90,6 +90,18 @@ The current atlas therefore treats strategy as a double test. Does the actor und
 <span id="strategy-tests-story-against-material-reality" class="lens-point-anchor"></span>
 Strategy fails when story and material reality are no longer checking each other. A state can possess power, myth, and will, yet still lose if its story cannot pass the tests of cost, organization, logistics, alliance, and time.
 
+## Gerontocracy And Intergenerational Extraction
+
+The Secret History gerontocracy lecture adds an age-and-asset family to the atlas. Jiang begins with the plain definition of [gerontocracy as rule by old people]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001"}, but the sharper mechanism is intergenerational extraction: old wealth converts property, pensions, healthcare claims, safety politics, and respect for elders into power over the young.
+
+The analytic key is Jiang's "who benefits?" test. When housing inflation, stock valuations, medical scarcity, immigration, debt, surveillance, prisons, and war are passed through that question, [the answer becomes rich pensioners]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0032 video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033 video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"}. The mechanism is not generic hostility to age. It is old age joined to assets, pension claims, medical technology, political time, and the moral protection of family duty.
+
+The family also connects to war. Jiang's bleak Q&A claim is that young people are trained to respect elders, so they cannot easily refuse the older generation's claims; that same obedience helps explain why [old people can send young people to die in wars]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049 video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047"}. Gerontocracy therefore tests strategy, morality, and fiscal policy by asking which generation receives safety and which generation pays with its future.
+
+<!-- lens-point id="gerontocracy-extracts-future" concept="gerontocracy-extraction" evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033 video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049 video:predictive-history-0g3yo1djilm@transcript:v1#seg-0051" -->
+<span id="gerontocracy-extracts-future" class="lens-point-anchor"></span>
+Gerontocracy extracts the future when old wealth uses assets, pensions, healthcare priority, political time, and respect for elders to turn younger life into rent, taxes, care labor, surveillance compliance, and war risk.
+
 ## Guidance, Authority, And Escape
 
 The Great Books material gives the exit problem.
@@ -107,6 +119,7 @@ This family prevents the atlas from becoming only civilizational sociology. Jian
 | Legitimacy fiction | How does political invention become inherited reality? | Caesar/Octavian, David, Yahwist |
 | Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
+| Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
 
 ## Chronology Of The Current Map
@@ -117,6 +130,7 @@ This family prevents the atlas from becoming only civilizational sociology. Jian
 - **2024-10-10**: Homer turns Greek collapse into an opening; poetry, alphabet, poverty, and polis create a new human type.
 - **2024-11-12 to 2024-11-21**: Rome becomes the laboratory for myth and empire: Caesar changes reality, Octavian inherits the wound, and Virgil fights Homer for Rome's soul.
 - **2024-11-26 to 2024-12-10**: Egypt, Mesopotamia, David, and the Yahwist move the atlas toward sacred machines, remembered immortality, scripture as political imagination, and cosmology over chronology.
+- **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2026-04-07 to 2026-04-08**: The later processed Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
 
 ## How To Use The Atlas
