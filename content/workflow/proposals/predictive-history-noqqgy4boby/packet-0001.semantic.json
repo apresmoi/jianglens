@@ -1,0 +1,200 @@
+{
+  "packet_id": "predictive-history-noqqgy4boby-semantics-pkt-0001",
+  "source_id": "video:predictive-history-noqqgy4boby",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0001",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0002",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens from an escalated Iran-Israel war: Iran is striking GCC energy infrastructure and Tel Aviv, while a Jerusalem rabbi treats the destruction not as a catastrophe but as a sign of the Messiah, forcing the lecture away from geopolitics and into eschatology.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0003",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0004",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0005",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He maps the war as a regional escalation with maximalist objectives: the United States and Israel seek to break Iran as a state, while Iran seeks to break the global economy through cheap energy chokepoints, drawing in Saudi Arabia, Pakistan, Japan, and South Korea.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0006",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0007",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats rumors about Netanyahu and the killing of senior Israeli and Iranian officials as the puzzle that makes ordinary state-level analysis insufficient, then foregrounds Ali Larajani's assassination as removing the pragmatic Iranian figure who could have negotiated an off-ramp.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0001",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0008"
+      ],
+      "note": "All focus refs are Jiang monologue with displayed visuals and paraphrased public claims. No audience question occurs in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Iran's strategy in this phase is to destroy the global economy by attacking GCC energy infrastructure because the modern economy rests on cheap energy.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0001",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Assessment of the war on 2026-03-19.",
+      "topic_tags": [
+        "iran",
+        "gcc",
+        "energy",
+        "global-economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The war cannot be understood only through a geopolitical lens because some Israeli religious actors welcome destruction as a condition for the coming of the Messiah.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture framing on 2026-03-19.",
+      "topic_tags": [
+        "eschatology",
+        "israel",
+        "messiah",
+        "geopolitics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the United States will eventually have no choice but to launch a ground invasion, with Clark Island and the Iranian coastline producing mission creep.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Forward-looking prediction from 2026-03-19.",
+      "topic_tags": [
+        "ground-invasion",
+        "iran",
+        "mission-creep",
+        "clark-island"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Saudi entry into the war could activate Pakistan through mutual defense, opening an eastern front and putting nuclear weapons into play even if Jiang does not expect tactical nuclear weapons to be used.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Conditional escalation pathway described on 2026-03-19.",
+      "topic_tags": [
+        "saudi-arabia",
+        "pakistan",
+        "nuclear-risk",
+        "war-escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Larajani's death makes a ceasefire almost impossible because he was pragmatic, experienced, and able to convene Iranian factions.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Assessment of Ali Larajani's reported death on 2026-03-19.",
+      "topic_tags": [
+        "larajani",
+        "ceasefire",
+        "iran",
+        "decapitation-strikes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0002"
+      ],
+      "moment": "Tel Aviv is being pummeled, but Jiang says some Israelis are animated, even excited, because destruction reads to them as Messiah weather.",
+      "source_phrase": "you have to look at it from an eschatological perspective",
+      "why_it_matters": "This is the episode's first reversal: suffering is not only damage but religious evidence for one side.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0004"
+      ],
+      "moment": "The first soldier on Clark Island becomes a story machine: once inserted, the mission itself starts justifying the war.",
+      "source_phrase": "mission creep becomes just justification for the war",
+      "why_it_matters": "It captures Jiang's war model as a self-expanding logic rather than a bounded campaign.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0008"
+      ],
+      "moment": "Killing the pragmatic man does not end the war; it removes the person who could have ended it.",
+      "source_phrase": "With him dead, it is now almost impossible",
+      "why_it_matters": "This sets up the later gang analogy and Jiang's warning against decapitation strikes.",
+      "tone": "warning",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "eschatological perspective",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "A way of reading war as prophecy, messianic timing, and spiritual purification rather than merely state interest.",
+      "confidence": "high"
+    },
+    {
+      "term": "mission creep",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang's term for a military step that creates the need for the next military step and then becomes its own justification.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0001",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0005"
+      ],
+      "note": "Dated March 19, 2026, this lecture explicitly follows the previous class on Iran's strategy and continues the Game Theory sequence after the law of eschatological convergence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0003",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0004"
+      ],
+      "note": "ASR likely renders Kharg Island as Clark Island and contains a possible Israel/Iran substitution in seg-0003; semantic extraction preserves Jiang's stated argument without correcting source text in place."
+    }
+  ]
+}

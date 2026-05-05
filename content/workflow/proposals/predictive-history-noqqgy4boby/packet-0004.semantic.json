@@ -1,0 +1,257 @@
+{
+  "packet_id": "predictive-history-noqqgy4boby-semantics-pkt-0004",
+  "source_id": "video:predictive-history-noqqgy4boby",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0025",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0026",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns to Israel's internal game: Netanyahu was threatened by protest and corruption charges before October 7 created permanent war and emergency powers, while Israel's party fragmentation and Jewish factional history show division is structural rather than accidental.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0027",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0028",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0029",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "He casts Israel's civil conflict as Tel Aviv versus Jerusalem: open, secular, Western, David-as-empire Tel Aviv against religious, conservative, David-as-repentant-prophet Jerusalem.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0031",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the religious logic by mapping Tel Aviv to the animal soul and Jerusalem to the divine soul: suffering, like Job's suffering, purifies desire and can make Israel want God and the Messiah.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0025",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0032"
+      ],
+      "note": "Single-speaker lecture with some ASR damage around the Jerusalem religious faction; the Tel Aviv/Jerusalem contrast is clear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Netanyahu's domestic survival is tied to permanent war because October 7 and emergency powers interrupted a protest movement that could have removed him over corruption.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0024",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Diagnosis of Israeli politics on 2026-03-19.",
+      "topic_tags": [
+        "netanyahu",
+        "israel",
+        "emergency-powers",
+        "corruption"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Israel is presented as structurally divided: its parliamentary fragmentation and Jewish factional history show intense internal conflict rather than unified conspiracy.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0025",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0026",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical-political model stated on 2026-03-19.",
+      "topic_tags": [
+        "israel",
+        "knesset",
+        "jewish-history",
+        "factionalism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tel Aviv and Jerusalem represent two centers of gravity in Israel: Tel Aviv is democratic, secular, progressive, and Western, while Jerusalem is religious, conservative, and theocratic.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0027",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Model of Israeli internal conflict on 2026-03-19.",
+      "topic_tags": [
+        "tel-aviv",
+        "jerusalem",
+        "theocracy",
+        "secularism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says some people in Jerusalem can accept or welcome Tel Aviv's destruction because they see Tel Aviv as the great Satan and want a theocratic Israel.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Diagnosis of Israeli religious politics on 2026-03-19.",
+      "topic_tags": [
+        "tel-aviv",
+        "jerusalem",
+        "destruction",
+        "theocracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Tel Aviv reads David as an imperial, cosmopolitan, creative king, while Jerusalem reads David as the repentant poet-prophet whose sin leads to redemption.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0028",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0029",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Biblical-political interpretation stated on 2026-03-19.",
+      "topic_tags": [
+        "david",
+        "repentance",
+        "tel-aviv",
+        "jerusalem"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's account of the Jerusalem religious vision, Tel Aviv represents Israel's animal soul and Jerusalem represents its divine soul.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Religious-political model stated on 2026-03-19.",
+      "topic_tags": [
+        "animal-soul",
+        "divine-soul",
+        "tel-aviv",
+        "jerusalem"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "War and suffering are treated by the Jerusalem faction as spiritually useful because losing everything can make people rediscover God, as in Job.",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0031",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Religious-political model stated on 2026-03-19.",
+      "topic_tags": [
+        "suffering",
+        "job",
+        "redemption",
+        "messiah"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0026"
+      ],
+      "moment": "The anti-conspiracy move is that Jewish history is not secret unity but permanent creative infighting.",
+      "source_phrase": "the Jewish people have never, ever gotten along",
+      "why_it_matters": "It turns a conspiracy trope into Jiang's internal-conflict model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0028"
+      ],
+      "moment": "Tel Aviv's destruction becomes acceptable because, in the Jerusalem frame, Tel Aviv is not Israel's body but Israel's Satanic temptation.",
+      "source_phrase": "Tel Aviv is the great Satan",
+      "why_it_matters": "This is the sharpest form of the Tel Aviv/Jerusalem split.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0031"
+      ],
+      "moment": "Israel becomes a single divided person: Tel Aviv is the animal soul, Jerusalem the divine soul.",
+      "source_phrase": "Tel Aviv is the animal soul",
+      "why_it_matters": "The political geography turns into spiritual anthropology, setting up the student question and Jiang's conclusion.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0032"
+      ],
+      "moment": "The most extreme Jerusalem logic is purification by destruction: destroy Israel so Israel can rediscover love for God.",
+      "source_phrase": "let's destroy Israel so that we can refine, rediscover our love for God",
+      "why_it_matters": "It preserves the episode's dangerous religious causal chain without smoothing it into generic zealotry.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "animal soul",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The material-desiring part of the person or nation; Jiang says Jerusalem religious actors map Tel Aviv to it.",
+      "confidence": "high"
+    },
+    {
+      "term": "divine soul",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The God-seeking part of the person or nation; Jiang says Jerusalem religious actors map Jerusalem to it.",
+      "confidence": "high"
+    },
+    {
+      "term": "redemption and repentance",
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0029",
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "The David model in which sin, grief, daily prayer, and forgiveness become the template for national restoration.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0025"
+      ],
+      "note": "Jiang frames October 7 as the event that transformed Netanyahu's domestic vulnerability into permanent war and emergency powers.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-noqqgy4boby@transcript:v1#seg-0032"
+      ],
+      "note": "ASR is damaged around the phrase identifying the Jerusalem religious faction; the surrounding Tel Aviv/Jerusalem animal-soul/divine-soul model is clear enough to extract."
+    }
+  ]
+}
