@@ -104,7 +104,7 @@ This is why the atlas should not separate "religion," "literature," and "politic
 <span id="legitimacy-fiction-becomes-real" class="lens-point-anchor"></span>
 Legitimacy fiction becomes real when a story invented to solve a political crisis changes what later actors can feel, say, inherit, punish, or obey. The fiction is not harmless because it is invented; it becomes force when it reorganizes the field of action.
 
-## Civilization As Inner Order
+## [Civilization As Inner Order](/lens/civilization-as-inner-order/)
 
 Jiang's civilization lectures are not a march from primitive to advanced. They are a series of reversals.
 
@@ -216,7 +216,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | [Sacred machines](/lens/sacred-machines/) | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
 | Taboo as control surface | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
 | [Legitimacy fiction](/lens/legitimacy-fiction/) | How does political invention become inherited reality? | Caesar/Octavian, David, Holy Roman Empire, Cyrus, America as game |
-| Civilization as inner order | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
+| [Civilization as inner order](/lens/civilization-as-inner-order/) | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
 | Bureaucracy as institutional death | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
 | Empire and material test | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon |
