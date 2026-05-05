@@ -1,0 +1,435 @@
+# Civilization #54: The German Will to Power
+
+Source: https://www.youtube.com/watch?v=o2Nq--qU9Kc
+
+## seg-0001 / 00:00:00-00:01:20 / SPEAKER_00
+
+Okay, good morning. So today we will do Germany and thus conclude our discussion of the four great civilizations that are fighting for global dominance. We previously did Britain, America. Tuesday we did Russia. Today we do Germany. So to recap, Russian civilization is very distinct from Anglo -American civilization, and German civilization is also distinct as well. We're going to focus on the idea of unity of will in German civilization today. We don't know much about German civilization because they were defeated in World War II. And because the Anglo -Americans continued. They control the history of the world. We tend to think Anglo -American civilization is superior to German and Russian civilization. But what I will show you today is that in many respects, the most advanced civilization that humans have ever created is actually the German civilization. Okay, so if you look at a map today in Europe, there's a really interesting fact that may surprise you.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:20-00:02:37 / SPEAKER_00
+
+The green is Russia. It's the largest country in the world. Over here are the Baltic nations. And over here is a place called Kaliningrad. It's actually Russian. So the question then is, how did this come to pass? How was it that you've got this colony of Russians far away from the motherland? And the answer is this. Because historically, this was not Russian. Historically, this was a place called Konigsberg, which was part of a nation that no longer exists called Prussia. And for a couple hundred years, Prussia was the strongest military, the most advanced civilization in the world. And now it's disappeared. And it's been replaced by Poland. And parts of Belarus, and West Prussia has now become part of Germany. But Prussia is no longer, it's extinct. And the reason why is that in World War II, the allies who won the war, the Soviet Union, the British, the Americans, decided to destroy Prussia.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:37-00:04:07 / SPEAKER_00
+
+And the rationale was that Prussia is a militaristic society that is hell -bent on world domination. And by eliminating Prussia, we can now bring peace to the world. The problem though is that Konigsberg, which is now Kaliningrad, was really the center of civilization for a few decades. This is Konigsberg before the 1800s. As you can see, it's a beautiful port city by the Baltic Sea. And it was really the apex of human civilization. And then of course, World War II happened. And then after World War II, Konigsberg was destroyed. It was turned into rubble. And today, it's like this, Kaliningrad. A very Soviet city. A stale city with no character, with no culture, with no civilization. And that's the intent, to destroy Konigsberg, which was for the longest time the heart and soul of German civilization. It is true that Konigsberg and Prussia were an extremely powerful military nation. And as you can see, this is from Wikipedia, by the way.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0003
+
+## seg-0004 / 00:04:07-00:05:19 / SPEAKER_00
+
+As you can see, there are many great generals and officers who are from Konigsberg. We're talking about the city. We're not talking about the nation Prussia. We're talking about the city of Konigsberg. But you also see that there are many intellectuals, writers, who come from Konigsberg. And the most famous of these intellectuals is Immanuel Kant, who we'll discuss next class. He basically changed the course of Western history with his philosophy. So Konigsberg was the birthplace of Immanuel Kant. So how is it that the man who was most responsible for the Enlightenment happens to be born in a military -signation? That's a question. But not only Immanuel Kant, but you have also many other great thinkers, including Hannah Arendt, who was a Jewish philosopher. And who was considered one of the greatest political philosophers of the 20th century. She's also from Konigsberg. Scientists. Just an amazing group of scientists, as well as mathematicians.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0004
+
+## seg-0005 / 00:05:22-00:06:41 / SPEAKER_00
+
+And then, of course, you have musicians and artists. So the contribution of Konigsberg to world civilization cannot be overstated. And there are quite a few Jews who lived in Konigsberg. Konigsberg, for the longest time, was considered one of the most tolerant cities in Germany for Jews. Let's now look at Nobel Prize winners in the sciences. Physics, chemistry, and medicine. As you can see, in 1925, the majority were actually from Germany. Germany had the best scientists in the world. 1933, same thing. You go to 1950, same thing. In fact, by 1975, Germany is still dominant. The United States is catching up. It's only by about 2000 when the United States starts to overtake Germany. So again, the question then is, how is it possible for a militaristic nation, hell -bent on world domination, how are they able to produce so many great scientists, so many great philosophers? And this is a very famous quote from Motaire that captures the prejudice of the West against Prussia.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0005
+
+## seg-0006 / 00:06:41-00:07:53 / SPEAKER_00
+
+Where some states have an army, the Prussian army has a state. This is pretty insulting to Prussian culture. We've looked at many civilizations that are militaristic, including the Romans, Spartans, Aztecs, Macedonians, and Qing Chinese, among others. They're extremely successful militarily, but guess what? They were not creative. In fact, they were anti -creative. So how is it possible for the Prussians to be both creative and militaristic? And the answer is, because the Western prejudice against Prussia is wrong. They were not a militaristic nation bent on world domination. They were first and foremost a creative, humanistic society that was forced into military confrontation with its neighbors because of its geographic location. So let's go back to the history of the Holy Roman Empire. As we discussed in a previous class, the Holy Roman Empire was a confederation of German city -states. And there were thousands and thousands of them that were in competition with each other.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0006
+
+## seg-0007 / 00:07:53-00:09:03 / SPEAKER_00
+
+Over time, because of competition from the more powerful states like France, Poland, Lithuania, Russia, Sweden, these city -states were now forced to gel together. The most successful of these city -states is Prussia. And for the longest time, Prussia was a vassal state of the Polish -Lithuanian Commonwealth, or the Swedes. But by the end of the 19th century, by about the year 1700, it started to come into its own through the leadership, through great military leadership. And it started to spread out. And as you can see, it's spreading out really quickly because of its military victories and because of its high culture. By the 19th century, Prussia has dedicated itself to uniting all of Germany. And it starts a series of wars that allow for the unification of all the German people. The first is something called the Dano -Prussian War. Then they fight against the Austrian -Hungary Empire, which is a successor to the Holy Roman Empire.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0007
+
+## seg-0008 / 00:09:03-00:10:04 / SPEAKER_00
+
+And they defeat the Austrians really quickly. Then they move on to France, which is the dominant power of this time. And they defeat France, thus allowing for the complete unification of Germany under Prussian leadership. Okay, so how was Prussia able to be so successful? Well, as we discussed last class, there are certain characteristics about these city -states that go on to unify a nation. And the three major ones that Moscow and Prussia share is open cooperative competition. They're surrounded by enemies, and they're forced to be innovative, open, and tolerant in order to succeed. They're forced to be unified, advantaged by disadvantage. So Prussia and Moscow have limited resources, which forces them to focus on human capital, on making sure the citizens were well -educated and the citizens were hard -working and vacillage. So again, Moscow was under the vacillage of the Mongols,
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0008
+
+## seg-0009 / 00:10:05-00:11:18 / SPEAKER_00
+
+and Prussia for the longest time was under the vacillage of the Swedes, the Poles, the Lutheranians. And as a result, they're always engaged in a process of reflection and resilience. And that's really the secret to the success of Prussia. Alright, at the same time, the thing to remember about the Prussians that differentiates them from the Muscovites is because Prussia is situated within Europe, it has a very different attitude towards humans than the Muscovites. The Muscovites, because of their Mongolian heritage, they tend to oppress their subjects, whereas the Prussians are much more democratic, they're much more progressive, they're much more open. So this is Frederick the Great, who is considered the great nation -builder of Prussia through his military victories. What is often ignored is his socio -economic -political reforms. He really is the first Enlightenment despot. He's heavily influenced by Immanuel Kant, they fought very highly of each other, and he was very intent on making Prussia the first enlightened state of Prussia.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0009
+
+## seg-0010 / 00:11:18-00:12:19 / SPEAKER_00
+
+So let's look at the few things he did. He radically reformed the Prussian judicial system so that you had rule of law, so that everyone had recourse to justice. Even if you were poor, you could still sue. He abolished torture in the military, and this was revolutionary at this time, because it was always assumed that you kept your soldiers in check by scaring them. He established religious tolerance. Remember, at this time in Europe, there's a huge war going on between the Catholics and the Protestants, and he was tolerant towards both the Catholics and the Protestants, and even, to a certain extent, to the Jews as well. And over time, Konigsberg, which is the heart and center of the Prussian nation, has one of the largest Jewish settlements in Europe, about 5,000 at that point. He grants basic form of freedom of speech. And the most important
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0010
+
+## seg-0011 / 00:12:19-00:13:32 / SPEAKER_00
+
+thing is that in 1763, he establishes a public school system that becomes a source for Prussia's future greatness. And to put this in context, it's only over 100 years later when Britain and France does this. Japan and America will copy, especially steal, the Prussian education system. In 1806, Prussia is defeated by Napoleon. We discussed this. And as a result, Prussia becomes a vassal state to Napoleon. And at this point, what the Prussians do is what they've always done, which is engage in a deep process of reflection. And they decide that in order to defeat France, they must be like France. Remember, this is the French Revolution, and there's a spread of liberalism throughout France in the French Revolution. So the Prussians decide to copy the most important reforms of the French Revolution, which include the abolishment of serfdom. Now, peasants can become landowners. They destroy monopolies to encourage free market competition. They open a civil service to the middle class before it's only available to the nobility.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011
+
+## seg-0012 / 00:13:33-00:14:33 / SPEAKER_00
+
+And the most important thing is the reforms of a man named William von Humboldt. He creates the modern research university. So he founded something called the Berlin University. And so he conceptualized the research university where before you sat in class and you listened to lectures and you memorized what the professor told you, but now you're encouraged to do your own research, to write a thesis, which is what we do today. The most important reform he did was to conceptualize public education as a meritocracy, as an opportunity for the middle class to grow. To give the middle class a greater economic role in society. And these reforms, in only a few years, will allow Prussia to defeat Napoleon and establish itself as a great power again. This is Karl von Clausewitz. And he's considered the greatest military strategist of all time. He's Prussian. He was an officer in the Prussian military.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:34-00:15:55 / SPEAKER_00
+
+And he thought very deeply about the war situation. Why is it that Napoleon and the French were so great? And his conclusion is because they were able to mobilize the resources of society for total war. And his conclusion is that in the future, as a nation, if you want to win militarily, then you must engage your citizens. You must increase the morale of your citizens. You must make them want to die for your nation. 1848 is one of the most important years in human history. And the reason why is, in 1848, these red spots, these were all revolutionary hotspots. So after Napoleon was defeated in 1815, the European powers, led by Murdanek of the Austrian -Hungary Empire, he sits everyone down and decides, first of all, how to ensure no wars like that of Napoleon arise again in Europe, how to create peace, but also, most importantly, how to maintain the feudal structure of Europe.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:56-00:17:08 / SPEAKER_00
+
+And they were very successful at that until 1848, when the middle class, when the workers rebelled in 17 different places. You will notice that in England, in Britain, there was no revolution. There were no rebellions. And the reason why is because Britain at this point had colonies overseas, right? Canada, New Zealand, Australia. And so these people who were upset about the economic status in Britain could migrate elsewhere. But these other places did not have any colonies. There was no pressure valve for social discontent. And so these revolutions started to take place. A lot of these revolutions were suppressed violently. And you would think that Prussia, because it is a military dictatorship, it would suppress the middle class liberals violently. But that's not what happened. Let's see what happened. So this is from Wikipedia. What happened was that there were public demonstrations because people wanted more political reforms. And the army killed certain people.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0014
+
+## seg-0015 / 00:17:08-00:18:23 / SPEAKER_00
+
+And now people are really, really angry. So they erect barricades. They're getting ready for civil war. This is another French Revolution. And at this point, the emperor, Frederick William, what he does is he goes and reassures the public that they will negotiate a peace. And what he does to calm the public is the king also approved arming the citizens. He gives guns to the citizens to ensure that the citizens will feel safe negotiating with the army. But not only that, but when the crowds of people went to the king, the king basically agreed to all their demands, including parliamentary elections, a constitution, and freedom of press. Also, he promised everyone that Prussia was to be merged forthwith into Germany. Because not only is there liberal socialist sentiments at this point, there's also nationalist sentiments. People want to feel united as a German people. And then what calms people down is the king attends a funeral for those citizens who died during the rebellion.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0015
+
+## seg-0016 / 00:18:23-00:19:26 / SPEAKER_00
+
+And they war. He and his ministers war the revolutionary tricolor of black, red, and gold, which is, by the way, the flag of Germany right now. So he's showing tremendous respect to his people. And that's his Prussian attitude. Again, the historical image of Prussians is very stern, very austere, very dictatorial. But if you look at their behavior, they're very respectful of their people because they understand that in this world, we're surrounded by enemies. We're under central power with France, Russia, all around them. They need to stay united as a people. This is Otto von Bismarck, the most famous Prussian in world history. He is the founder of something called the Second Reich. The Holy Roman Empire was the First Reich. And the unified Germany is the Second Reich. So he's really the founder of modern -day Germany. He's known as the Iron
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0016
+
+## seg-0017 / 00:19:26-00:20:27 / SPEAKER_00
+
+Chancellor because he gave a speech in which he said that the position of pressure in Germany will not be determined by its liberalism but by its power. So he's rejecting the idea of liberalism, of free speech, of openness, of negotiation, of institutions. And he's focusing on the military. Prussia must cultivate its strength and hold it for the favorable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill -designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided. That was a great mistake of 1848 and 1849, but by iron and blood. Through violence and sacrifice. So when you read the speech, you understand that he's repudiating the liberalism of King Frederick Wilhelm. He's saying that, nope, the armies have gone in and killed all the demonstrators. That's what he's saying. And that's why he has a reputation for being the Iron Chancellor.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0017
+
+## seg-0018 / 00:20:27-00:21:32 / SPEAKER_00
+
+A man of violence, a man of sternness. But he was an extremely pragmatic man. And his ambition was to have a unified Germany in which people were content. And so this is another speech he made. Same man, but completely different tone. And so he says, The real grievance of the worker is the insecurity of his existence. He is not sure that he will always have work. He is not sure that he will always be healthy. And he perceives that he will one day be old and unfit to work. So he's sympathizing with the plight of the factory worker. He understands that it's wrong for workers to lose their hand at work and not be compensated. It's wrong for workers to get sick and their entire family to go into poverty. It's wrong for kids who are six years old to go to factories to work. It's wrong for managers to beat the crap out of other factory workers.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0018
+
+## seg-0019 / 00:21:32-00:22:36 / SPEAKER_00
+
+So what they will do is institute the first welfare state, the first socialist state in the world. Look at this. They have health insurance. They have accident insurance. So if you get injured at work, then the state will come in and give you money. They have a pension. They protect workers from abuse. They have Children Protection Act, which means children are not allowed to go work in factories. So in other words, in the year 1800 to 1900, if you could be a citizen of anywhere in the world, you would definitely want to be a citizen of Germany. At this point in Britain, in France, in America, workers are being exploited everywhere. But in Germany, workers are being given rights. And because they're being given rights, they want to fight for their country. They want to die for their country. And this makes Germany the most powerful nation in the world at this time.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0019
+
+## seg-0020 / 00:22:37-00:23:40 / SPEAKER_00
+
+And when that happens, in Europe, when you become a hegemon, guess who gets scared at you? Guess who is now going to plot to get rid of you? Britain, right? All right. So at the same time, I don't want to say that Germany is a liberal democracy at this point. It's not. Why? Because as these industrial reforms are happening, there are more groups that are discontent. And they pose a problem to German unity. And these groups are obviously the Catholics. A third of Germany now is Catholic because Prussia has united all of Germany, right? For the longest time, the Holy Roman Empire was Catholic. So a third of all the people is Catholic. Bismarck, his biggest failure, his biggest mistake was his attempt to suppress the Catholics. He basically said, listen, we're not going to fund you anymore. And if you insist on swearing loyalty to the Pope, then we will put you in prison.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0020
+
+## seg-0021 / 00:23:40-00:24:40 / SPEAKER_00
+
+You now have to swear loyalty to Germany. And so the priests all went to prison. And this was a disaster for Bismarck and ultimately he had to compromise and relent. So the Catholics are a huge problem. Then you have the liberals. So you may have heard the term liberalism, socialism, communism. There's a huge difference between these three terms, guys. So let me explain what the differences are. Liberalism means more political rights for the middle class. Freedom of speech, freedom of assembly, voting power. Why? Because the middle class have economic power and they want to transform that into political power. The socialists want democracy for all. They understand that for democracy to really happen, you need to provide worker protection. You need to create class consciousness. You need to let workers have unions. So that's socialism. Then you have communism, which is more radical. Basically, communists believe wealth should be redistributed.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0021
+
+## seg-0022 / 00:24:40-00:25:45 / SPEAKER_00
+
+We should get rid of private property and redistribute wealth for more equality in society. Also, communism is an international movement. You also have Polish nationalists. A lot of people in Germany at this time are Poles. They're Slavic people who have their own language, have their own ethnic identity. And ultimately, they will form Poland. And at this time, they're a huge problem for the German state and they are suppressed as well. Then you have people called the anarchists. The anarchists are people who believe that we don't need government. We don't need authority. People should just be allowed to do whatever they want to do. People are self -organizing. And as a result, government is bad. So you have all these different political groups and they're all very powerful. And they all pose a problem to German unity. And as a result, they are persecuted one by one. This is important because at the end of World War I, when Germany has surrendered, they will reflect on why they lost.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0022
+
+## seg-0023 / 00:25:45-00:26:44 / SPEAKER_00
+
+And one conclusion that they had was because of all these political divisions. There are too many divisions within society. Therefore, we need to suppress this division and create one political entity. And this is what allows for the rise, of course, of Hitler and the Nazis. So this is important to understand. World War I, again, if Germany is too powerful, Britain is forced into action. Britain cannot allow for a hegemon to be dominant in Europe. Britain went into action against Napoleon when Napoleon was a hegemon. Now they're going into action against Germany because Germany is too powerful. And World War I, no one expected this, but World War I was a catastrophe. Millions of people died. And it was an alliance of Britain, France, and Germany. And Russia, basically against Germany. I mean, Germany did have the Ottoman Empire and the Austria -Hungary Empire as allies, but they were not affected.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0023
+
+## seg-0024 / 00:26:44-00:27:38 / SPEAKER_00
+
+It was really Germany versus the world. And what's amazing is Germany was able to create a stalemate. Actually, sometimes when Germany was about to win. And of course, when that happens, if Germany is going to win this war, it forces the Americans into action. Why? Well, first of all, the Americans think like the British. The Americans and British do not want a European power to emerge to unite the heartland. To unite Asia and Europe because then it negates naval trade. Does that make sense? Second reason is the Americans actually lend a lot of money to the British. Something called a land lease policy. So if Britain lost the war, then all that money is gone. So America comes in to save Britain. But even at this point, this is really important. Even at this point, it was not clear that Germany was going to lose the war.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0024
+
+## seg-0025 / 00:27:39-00:28:41 / SPEAKER_00
+
+Russia was knocked out of the war. France was divided. Britain was not that effectual. So it was not clear at this point that Germany was going to lose. Chances are Germany was going to lose, but Germany had not lost yet. And if Germany could mobilize all its resources, then Germany could withstand this onslaught. But then something happened that was very important. That changed the mind, the calculus of these German generals. The 1917 Russian Revolution. Why did the revolution happen? Because Tsar Nicholas was too focused on the war. He neglected the political divisions at home. And this allowed for a revolution to happen. So the German generals, who were in control of Germany at this point, they were scared to death of this happening in Germany. Because remember, at this point in history, the nation with the strongest working class, the proletariat, is actually Germany, not Russia. So as a result, this man's name is Paul von Hindenburg.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0025
+
+## seg-0026 / 00:28:42-00:29:50 / SPEAKER_00
+
+He's very important. He's now head of the German military, as well as head of the German nation. And he forced the German government to surrender to the Allies. And this led to the 1919 Treaty of Versailles. The Treaty of Versailles had many stipulations that were unfair to the Germans. So the Germans had to pay a lot of debt. They could no longer rearm. They had to reduce the military. They lost a lot of land to France. But the worst thing that the Allies did in this negotiation was, it forced Germany to admit complete guilt for starting the war. That was completely unfair. This war happened for many reasons. Everyone was involved. Everyone had a certain blame. But Germany had to take all the blame. And as a result, the government did not want to sign this treaty, because obviously this is going to piss off all your people. But the army forced the government to sign the treaty.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0026
+
+## seg-0027 / 00:29:51-00:31:06 / SPEAKER_00
+
+And the thinking of the army at this point is, listen, we've been in this situation before. We lost Napoleon. And so we just paid off a lot of debt to Napoleon. And then we built. And when we rebuilt, we made the nation stronger. We're resilient. So we'll do the same thing here. We'll just surrender, accept all the terms, then we'll start to rebuild and unify the nation and take revenge against everyone. And that was the thinking of the military. Very simple strategy. The Weimar Republic is what follows after the war. And the Weimar Republic is ten years of hyperinflation, social discontent, complete chaos. And when a nation suffers economically, politically, culturally, what it often does is it engages in a deep process of reflection. It goes back into the past and thinks about how to rebuild itself. So some philosophers that are very important for thinkers of how to unify Germany are like Arthur Schopenhauer.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0027
+
+## seg-0028 / 00:31:06-00:32:19 / SPEAKER_00
+
+Arthur Schopenhauer is a very, very important philosopher. His conception of the world is that the underlying force of the world is the will, desire. And the will manifests itself physically in us in bodies. Do you understand the idea? So the underlying force of the universe is the will, desire. And then the will will physically manifest itself in our bodies. And then our bodies will seek to do what the will wants, which is to procreate, to have sex, to have children, to eat food. Now, the great paradox of this situation is before the manifestation in our bodies, the will was just one. There was no differentiation. But once the will manifests itself in our bodies, there's now differentiation. There's multiplicity. And as such, we see the world from our own perspective, from our own selfish perspective, which leads to conflict. You understand? It is because we've forgotten that we are just one that leads to conflict and suffering.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0028
+
+## seg-0029 / 00:32:20-00:33:15 / SPEAKER_00
+
+So his great solution to this is compassion. As humans, we must first and foremost be compassionate towards each other and remind ourselves that we are just one people. And we can do that through the appreciation of art, because art is a great unifier. Art is the thing that allows us to contemplate the wholeness and the harmony of the world. And then he says that there are some of us who should engage in self -denial, who should become like monks, who should deny the world, because the world is inherently evil. So when you refuse to have children, when you refuse to struggle, to suffer, then you achieve enlightenment. And this is easy for us to understand because this is a very Buddhist ideology. So he's basically taking Buddhism and Hinduism from India, and he's making it more secular. He's trying to remove the religious aspects of it and make it into a logical system.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0029
+
+## seg-0030 / 00:33:16-00:34:17 / SPEAKER_00
+
+Does that make sense? So he says, Life has no intrinsic worth but is kept in motion merely by desire and illusion. And as such, if you can remove the desire from your life, you achieve nirvana, you achieve enlightenment. This is a really important passage. Music is thus by no means like the other arts, the copy of the ideas but the copy of the will itself. Whose objectivity the ideas are. This is why the effect of music is so much more powerful and penetrating than that of the other arts. For they speak only of shadows, but it speaks of the thing itself. This is really important. So how do we know the will? How can we access the will? It's through music. Music is the perfect encapsulation of desire. It is the perfect expression of emotions. And so through music, we discover the unity of the world, the unity of the will.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0030
+
+## seg-0031 / 00:34:17-00:35:23 / SPEAKER_00
+
+And why is this important? Because it inspires Richard Wagner. Richard Wagner is the most famous musician in Germany. He's really the national poet of Germany. He's a genius. And his great insight is that all art can be combined into one. And this is before movies. This is before cinema. So you can put in music, paintings, theatre, poetry, philosophy, everything together to create one total art that will inspire and unite the people. And this is why he spends 30 years to create something called the Ring Trilogy. And this is held every year at the Beirut Festival. He creates his own opera house in order to stage a play. And it's 15 hours. It's four parts, 15 hours. And it's the inspiration for the Lord of the Rings movies. I'm sure you've seen Lord of the Rings, right? It's a very similar plot. And the plot is very simple. It's 15 hours. Sorry, it's not a simple plot.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0031
+
+## seg-0032 / 00:35:23-00:36:21 / SPEAKER_00
+
+But I'll put it in very simple terms. It's 15 hours, four parts. So there are people called the Rhine Maidens. These are river goddesses who control the river Rhine. And they have a lot of gold. There's a dwarf, an evil dwarf, who steals all this gold. And with all this gold, he crafts a ring to control the world, to rule the world. And this is important because it's actually taking Schopenhauer's philosophy, right? Desire is a source of evil in the world. And turn it into a metaphor. The ring is desire. The ring is what represents evil and suffering in the world. And because we all seek the ring, we cause misery. All right? Okay. So this is how it starts. Now, up in the sky, there's a god named Wotan, okay? So Wagner's using a lot of Norse mythology that we learned before from the Vikings, right? Wotan is another name for Odin.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0032
+
+## seg-0033 / 00:36:22-00:37:27 / SPEAKER_00
+
+And Wotan and the gods want to create a palace for themselves called Valhalla. And they hire a giant to build this Valhalla. And they sign a contract with him. But the giants want payment first, okay? So Wotan and the gods steal this ring from the dwarf, okay? And they give it to the giant. But then the dwarf places a curse on this ring. And the curse is that the gods will see their end, the end of days, Ragnarok, every day, okay? So the gods are haunted. And so the gods are like, we need to destroy this ring. Otherwise, we're always going to be haunted. We won't be able to sleep, okay? And so they need to kill the giant and get the ring back. But they have a contract with this giant. So Odin, Wotan, conspires to give birth to a great hero who's half human, half god, but he's not fully god, who will now go kill the giant and get the ring back, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0033
+
+## seg-0034 / 00:37:27-00:38:26 / SPEAKER_00
+
+That's his great idea. So he gives birth to twins, Siglinde and Sigmund. They're separated at birth, they're twins, and then they run into each other and they fall in love with each other. Remember, they're twins, okay? Siglinde is already married, and so Sigmund is determined to kill her husband, Hundig, and marry Siglinde, okay? And this is all part of Wotan's plan. He's really happy. But then his wife, Fricka, says to him, no, no, no, no, no. They've broken the incest law, okay? They're not allowed to have incest with each other. And so you have to kill Sigmund. And Wotan doesn't really have a choice in the matter. He has to agree to the death of Sigmund, okay? So he sends his daughter, a Valkyrie named Bohendi, to go make sure that Sigmund is killed against Hundin. But Bohendi, when she arrives, she
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0034
+
+## seg-0035 / 00:38:26-00:39:41 / SPEAKER_00
+
+sees the love between Siglinde and Sigmund, and she wants to save Sigmund and defy Wotan's orders. Wotan hears about this and punishes Bohendi and kills Sigmund, okay? And what he does by punishing Bohendi is he sentences her to eternal sleep, surrounded by a wall of flames. Only the greatest hero in the world, the hero who is capable of killing a giant and retrieving the ring, can save her. And this hero is named Siegfried, who is the son of Sigmund, okay? This is Act 3 now. Sigmund saves her, kills the giant, and now has retrieved the ring. But because he has the ring now, everyone around him is now conspiring to kill him and get the ring for themselves, okay? The problem of desire, which causes misery. So in the end, what happens is that Sigfrid is killed, Bohendi learns of this treachery, and then she kills those who killed him, and then what she does
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0035
+
+## seg-0036 / 00:39:41-00:40:45 / SPEAKER_00
+
+is she sacrifices herself in the flames and throws the ring back to the river maidens, okay? And then what happens, and this is the ending, is the river maidens destroy the ring. But when they destroy the ring, they destroy everything, okay? They destroy Valhalla as well. The gods are destroyed, Valhalla is destroyed, the entire world is destroyed, okay? And this goes back to Schopenhauer's idea that the source of the world is desire, okay? When you destroy desire, you destroy the world. But when you do that, you allow for a new beginning, okay? So that's the national epic of Germany, the Ring Cycle. And again, this is put on every year at Beirut. It's four nights, and it's 15 hours in total. There are some theaters that put on 15 hours straight, okay? And the Germans love this, all right? So I'm gonna play for you some music from this opera. And this is the most famous part, called the Ride of the Valkyries, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0036
+
+## seg-0037 / 00:40:45-00:41:15 / SPEAKER_00
+
+As you can see, it's very powerful, right? It represents the unity of the will. So as people are watching this, they become united as one. Time, space collapse, past, present collapse. This is meant to depict the will, the unity of the will.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0037
+
+## seg-0038 / 00:41:15-00:41:39 / SPEAKER_02
+
+Okay, that's it, great.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0038
+
+## seg-0039 / 00:41:40-00:42:51 / SPEAKER_00
+
+Now let's move on, okay? So building on top of Wagner and Schopenhauer is Friedrich Nietzsche, okay? Who is considered one of the greatest German philosophers of all time, okay? And he makes certain corrections to the philosophy of Schopenhauer and the music of Wagner, all right? Here are the three major differences between Schopenhauer and Nietzsche. You can see that Schopenhauer, he's a pessimistic Plato, okay? Whereas Nietzsche, he's an optimistic Aristotle. So Nietzsche's main complaint is this. Okay, Schopenhauer's conception is the source of everything is desire. And from desire, desire manifests itself in physical bodies in order to obtain what it wants, okay? And that's true, that makes sense. And then Schopenhauer's solution is that we must deny this desire, okay? We must negate this desire and then we will bring peace to the world. So for Nietzsche, this is confusing because, wait a minute here. The desire, the will manifests itself in physical bodies. Why would it do that?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0039
+
+## seg-0040 / 00:42:51-00:43:56 / SPEAKER_00
+
+What's the logic of that, okay? And Schopenhauer would say, well, because God is evil, because God wants us to suffer. And then Nietzsche is like, okay, first of all, if God is evil, what's the point of resisting him, right? If it brings us enjoyment to seek desire, then what's wrong with it? Is it possible that God is good and that God lets desire manifest itself in us in order for us to pursue our desire, okay? So this is one of the major differences. For Schopenhauer, we are just biological beings that have a will to life, we want to procreate. But for Nietzsche, it's the will to power, okay? This is a really famous phrase from Nietzsche, the will to power, the will to expand ourselves, okay? The will to achieve our fullest desires, okay? Not just to procreate, but to impose our will on reality itself. That's the true purpose of life.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0040
+
+## seg-0041 / 00:43:56-00:45:09 / SPEAKER_00
+
+That's why God created us, to become gods ourselves. Otherwise, this makes no sense. How do we go from desire to bodies? It only makes sense if the bodies can amplify our desire and help us achieve our desire, okay? The will to power is a really important concept. Schopenhauer believes that multiplicity is conflict. The fact that this will manifests itself in our bodies can only lead to conflict, because we're all fighting for scarce resources. For example, the ability to procreate, okay? But for Nietzsche, multiplicity is creativity. It's because there's conflict that you have action, and action leads to innovation, and innovation by itself is progress, okay? And so for Schopenhauer, the ideal person, the superman, is the compassionate monk, the person who feels sympathy for the world, and as such engages in a process of self -denial, self -negation. He refuses to procreate, he refuses to struggle, he refuses to eat, okay? The monk. But for Nietzsche, the ideal is the obermensch, the obermensch.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0041
+
+## seg-0042 / 00:45:10-00:46:11 / SPEAKER_00
+
+The obermensch is hard to translate. We usually translate it as superman, but you can also translate it as overman, okay? The person above humanity, the person above history. So the ideal, the paragon, the example that Nietzsche uses is Napoleon, right? Who's Napoleon? Napoleon is an individual who can step outside of history to control history, to manipulate history. That's what the obermensch is, okay? We ourselves are always controlled by social forces, right? We don't want to piss off our classmates, we want to please our teachers and our parents. So therefore, we are slaves to public opinion. But, Nietzsche says, to be an obermensch, you have to ignore public opinion. You have to ignore community consensus and just focus on what is right to you. To look deep into yourself and figure out what is right for you and only you. Okay, that's the obermensch. And for him, the ideal example, of course, is Napoleon.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0042
+
+## seg-0043 / 00:46:11-00:46:30 / SPEAKER_00
+
+Okay, and why is this important? Because his ideas, in the context of Weimar Republic, will lead to the rise of the Nazis and Hitler, okay? Because Hitler is promising himself to be the next Napoleon, right? That's Hitler's promise to the German people. I will be your Napoleon, I will unite you, and I will lead you to victory against all enemies.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0043
+
+## seg-0044 / 00:46:32-00:46:33 / SPEAKER_02
+
+Right? Okay.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0044
+
+## seg-0045 / 00:46:34-00:47:36 / SPEAKER_00
+
+Does that make sense, guys? Are you guys following this? Alright, so let's look at a couple passages from Nietzsche, okay? Nietzsche is a very brilliant philosopher, so he's very complicated, he's very complex, and he can at times be very contradictory, okay? Alright, so let's read a passage from The Genealogy of Morals, which is his most famous book. We can no longer conceal from ourselves precisely what this will, under the direction of the aesthetic ideal, expresses, which is hatred of anything human, animal, or material, abhorrence of the senses of reason itself, fear of happiness and beauty, the desire to escape from all illusion, change, growth, death, wishing even from desire itself. All this means, let us have the courage to confront it, a wish for oblivion, an aversion to life, a reputation of everything vital to existence, but it is and remains a will, to say at the end that which I said at the beginning, men will desire oblivion rather than not desire at all.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0045
+
+## seg-0046 / 00:47:36-00:48:35 / SPEAKER_00
+
+We are desire, okay? It's really a question of how we manifest our desire. In today's society, in the Christian Buddhist worldview, it's important to negate our desire. But when we negate our desire, we negate what our desire could lead us to, which is truth and beauty, and creativity and progress and innovation, okay? And when we negate ourselves, we're not returning back to unity, we are only embracing oblivion, okay? That's the problem with Christianity. It's turning us into slaves. That's a problem with modernity. That's a problem with society. We are all being forced to become slaves, okay? Does that make sense? All right, let's go on. To call the taming of an animal improving it sounds to ears almost like a joke. He who knows what goes on in menageries doubts very much whether an animal is improved in such places. It is certainly weakened, it
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0046
+
+## seg-0047 / 00:48:35-00:49:25 / SPEAKER_00
+
+is made less dangerous, and by means of the depressing influence of fear, pain, wounds, and hunger, it is converted into a sick animal, and the same holds good of the tame man whom the priest has improved, okay? This is a great metaphor. How can we understand the impact of society on people? Well, society is a zoo, okay? We're all caged animals. Think about it, okay? What is school then? School is a zoo, okay? Before, you were allowed to run around and explore the world and learn things for yourself, right? And as such, you mastered the world around you. You could hunt, you could farm, you could kill people, you could build alliances, you could write plays. But in school, what do we ask you to do? We ask you to come to school, we ask you to come to class on time, take notes, take tests, and then we give you a piece of paper, right?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0047
+
+## seg-0048 / 00:49:25-00:50:31 / SPEAKER_00
+
+We turn you into caged animals, so you lose the capacity to think for yourself, right? That's what school is. So there's nothing wrong with what Nietzsche is saying, okay? This is a good metaphor to capture the essence of modernity, okay? Society, education, it's all meant to degrade your capacity to think for yourself in order to make you more obedient to power, okay? All right. So if you take Schopenhauer, Wagner, and Nietzsche together and combine them, what you get is a rejection of Christianity and a return to paganism, okay? So let's look at the differences. In the Christian worldview, there is a God. If there's a God, there is a framework of good and evil. So you must do good and you must avoid evil, okay? But in the pagan worldview, there is no God. There's many gods, but the gods themselves have no power over fate. And as a result, it is up to you to define good and evil.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0048
+
+## seg-0049 / 00:50:31-00:51:24 / SPEAKER_00
+
+It's up to you to act and to find meaning in the world, okay? So going back to school, the metaphor, right? Today, we have grades, and therefore, you're focused on getting grades. But if we have no grades, we have no teachers, then you have to go learn for yourself. You would have to go figure out your own education. What's amazing about this idea is you would want to, because Nietzsche says, we are first and foremost desire. We desire to grow. So if we left you alone and said, no grades, no school, no test, it does not mean that you will stop learning. It just means that you will learn what you want to learn, okay? All right, second difference. Christianity demands faith, obedience to God. Paganism demands action, okay? You seek meaning for yourself through action. The last difference is Christianity focuses on individual free will, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0049
+
+## seg-0050 / 00:51:24-00:52:32 / SPEAKER_00
+
+Which just means you are free to obey the powerful. But in the pagan mindset, it's about unity of will, okay? If we want to act, we can only do so by working together, all right? We will find a leader to lead us, but the leader only represents the unity of will, okay? Does that make sense? So during the Weimar Republic, with the rise of Nazism, you now have a rejection of Christianity and a return to paganism as a solution to the national humiliation of Germany, all right? And this is what leads to the rise of Hitler, okay? This man is Paul von Hindenburg. The same man who ordered the surrender of Germany. In 1933, he is president of Germany, the leader, and he appoints Adolf Hitler the chancellor of Germany, okay? The question then is, why would he do that, right? Yeah, I mean, like, why would the head of the army, the head of the nation, make Adolf Hitler chancellor?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0050
+
+## seg-0051 / 00:52:32-00:53:30 / SPEAKER_00
+
+And the reason is this. Adolf Hitler was a German spy. He was a German, sorry, sorry. He was a spy for the German army, okay? This is really important. Let me explain this. This is from Wikipedia, guys, okay? So I'm not making this up. It says very clearly, as an intelligence agent of the army, Hitler's job was to influence other soldiers and to infiltrate the German worker's party, okay? The Nazi party, National Socialist. Okay, so why is this happening? So remember, the German army surrendered because they were afraid of revolution back at home. Who was leading the revolution? The extreme left and extreme right, okay? What's the difference between extreme left and extreme right? Both are populists. They all believe in workers' rights. The left believe in national solidarity, okay? Specifically with Russia, the Soviet Union, and other workers in the world. The right are nationalists. They believe in German unity, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0051
+
+## seg-0052 / 00:53:30-00:54:33 / SPEAKER_00
+
+So the army is like, okay, right now the most powerful group in Germany are the socialists, right? The left. We need to support the right. So Hitler goes into the Nazi party, the German worker's party, and he helps to finance it, okay? Hitler is giving money to these guys. And because he's such a charismatic speaker, he eventually becomes their leader. But there's a point in history, okay? This is really important. This is a really small group of people. But they are a minority. The majority are the socialists, okay? This is something that you're not taught in school. But this is very important to remember. It is the army that finances the building of the Nazi party in order to dampen the influence of the socialists, okay? Because remember, the army now is still dedicated to avenging the national humiliation of World War I, okay? All right. So this is Carroll Quigley. And he wrote a long book called Tragedy and Hope, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0052
+
+## seg-0053 / 00:54:33-00:55:28 / SPEAKER_00
+
+And he explains in, oh, sorry. Carroll Quigley, he is a professor. He was a professor at Georgetown University in Washington, D.C. He was Bill Clinton's teacher, okay? He was Bill Clinton's teacher. And he's a widely respected scholar. And in his book, he explains how Hitler was able to rise and take over the leadership of Germany. He explains at this point in history that Germany is threatened by two opposing forces. The first force, of course, is communism, right? The Soviet Union. That's a huge menace to Germany. But another menace that's actually even more menacing is capitalism, okay? Because at this point in history, what's happening is the national capitalists are trying to create a central banking system in order to control the entire global economy. He writes about this. This is 1920s. The powers of financial capitalism had another far -reaching aim, nothing less than to create
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0053
+
+## seg-0054 / 00:55:28-00:56:28 / SPEAKER_00
+
+a world system of financial control in private hands, able to dominate the political system of each country and the economy of the world as a whole, okay? This is really important to understand. 1920s, all these bankers in the world, America, Britain, France, Germany, they're getting together and they're conspiring on how to create a global financial system that can control the world and create a feudal system, right? And guess what, guys? You don't know this, but they succeeded. The system we have today is the one they created, okay? But I will explain this later on in the course, okay? But this is something that the German nationalists like Hitler didn't want, okay? So Hitler, he's allowed to rise and the Nazi party is becoming more and more popular. But again, even though they are popular, they're not as popular as the socialists, okay? So what happens now is the army and the Nazi party get together and assume power, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0054
+
+## seg-0055 / 00:56:28-00:57:26 / SPEAKER_00
+
+So the first step for Hitler in order to assume power is something called the Night of the Long Knives, okay? This is really important because the Nazi party is an extreme right -wing workers party, right? So the army orders Hitler to kill all their leaders and that's what happened. This is called the Night of the Long Knives, the brown shirts. The extreme right -wing was eliminated by the army. So now the Nazi party and the army are now symbiotic, okay? They rely on each other. From now on, the Nazi party will ensure total unity of will at home through suppression of people, okay? And the army will now go march and conquer the world. Doesn't make sense, guys. That's the plan. All right. So Adolf Hitler is the perfect man for the job assigned to him by the army because he is a fantastic speaker, okay? He's very charismatic. We're going
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0055
+
+## seg-0056 / 00:57:26-00:58:47 / SPEAKER_00
+
+to listen to his voice so you can appreciate how powerful his speech is, his voice is. What his speeches do is they create unity of will in Germany, okay? Again, the goal is to rejuvenize the nation and reunite the German people, right? And so the unity of will creates the idea of synchronicity. Remember, synchronicity is a secret to modern warfare. Synchronicity means the organization and mobilization of your people into one task. And this is represented by the picture. If you can get people to stand in line for a long time, you can fight a war, okay? And the people and the nations that are really strong at synchronicity, of course, are Germany and Japan, right? Go to Germany, go on the subway. Go to Japan, go on the subway. No one is struggling against each other, okay? No one's pushing everyone. Even though it's crowded, people are standing exactly where they should be standing perfectly.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0056
+
+## seg-0057 / 00:58:48-00:59:41 / SPEAKER_00
+
+That is the idea of synchronicity. If your people can do that, they can fight a war and win the war, okay? So this idea of unity of will, all right? They can stand in line for a long, long time, all right? All right, so we're gonna look at some speeches from Hitler, from Hitler, okay? And we can see from his speeches, he's trying to create unity of will. He's trying to be the, the superman who will unite his people like Napoleon and carry them to victory through faith in themselves, okay? The unity of will. If man wish to live, then they are forced to kill others. The entire struggle for survival is a conquest of the means of existence, which in turn results in elimination of others from the same sources of substance. As long as there are peoples on this earth, there will be nations against nations, and they will be forced to
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0057
+
+## seg-0058 / 00:59:41-01:00:32 / SPEAKER_00
+
+protect their vital rights in the same way as the individual is forced to protect his rights. One is either the hammer or the anvil. We confess that it is our purpose to prepare the German people, again, for the role of the hammer, okay? So he's saying we must unite as a people. We must have unity of will if we are to triumph against our enemies. All right. Nothing is possible unless one will commands, a will which has to be obeyed by others, beginning at the top and ending only at the very bottom. This is the expression of an authoritarian state, not of a weak, babbling democracy of an authoritarian state where everyone is proud to obey, because he knows, I will likewise be obeyed when I must take command, all right? Hitler is not being a dictator. He is trying to create unity of will. He is the leader. He's the uberman, but that's only because God demanded him to be so, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0058
+
+## seg-0059 / 01:00:32-01:01:18 / SPEAKER_00
+
+He will unite the German people into a hurricane, into an ocean to crash itself upon the world. In the course of my life, I have very often been a prophet, and I have usually been ridiculed for it. During the time of my struggle for power, it was in the first instance the Jewish race which only received my prophecies with laughter when I said that I would one day take over the leadership of the state, and with it, that of the whole nation, and that I would then, among many other things, settle the Jewish problem. Their laughter was uproarious, but I think that for some time, now they have been laughing on the other side of their face. Today, I will once more be a prophet. The national Jewish financiers in and outside Europe should succeed in plunging the nations once more into a world war, then the
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0059
+
+## seg-0060 / 01:01:18-01:02:18 / SPEAKER_00
+
+result will not be the Bolshevization of the earth and thus the victory of Jewry, the annihilation of the Jewish race in Europe, okay? So, we don't actually have any concrete evidence for the Holocaust, okay? So, one piece of evidence for the Holocaust is this speech by Hitler. But I want to explain what he is saying here, okay? What he's saying is, we, the German nation, want to be left alone. We want to be united. We want to be unified. But the capitalists and the communists all seek to undermine us. And who are the communists and who are the capitalists? The Jews, okay? It's the Jews who are a metaphor for a national elite group of individuals who are conspiring to undermine the vitality and the strength of the German nation. All right, so that's what he's saying here. All right, 1939, September 1st, is the beginning of World War II, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0060
+
+## seg-0061 / 01:02:18-01:03:12 / SPEAKER_00
+
+And so, he's going to explain why this is happening. As a national socialist and as a German soldier, I enter upon the struggle of a restored heart. My whole life has been nothing but one struggle for my people, for its restoration and for Germany. There was only one watchword for that struggle, faith in this people, one word I've never learned, and that is surrender, okay? So, he's telling the people, we're going to fight this war again. Why did we lose World War I? Because we didn't have faith. We surrendered. If we all came together and we fought to the very better end, we would have prevailed against our enemies, okay? It is quite unimportant whether we ourselves live, but it's essential that our people shall live, that Germany shall live. The sacrifice that is amended of us is not greater than the sacrifice that many generations have made. If we form a community closely bound together by vows, ready for anything, resolve never to surrender, and our will will master every hardship and difficulty, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0061
+
+## seg-0062 / 01:03:12-01:03:58 / SPEAKER_00
+
+It is the unity of will that matters. All right, 1942, November 8th, it's basically at a time in history when the Germans understand they've lost the war. They're now in the war. The Americans are getting ready to invade Europe. The German invasion of the Soviet Union has failed, okay? They're bogged down in the Soviet Union. Germany is overstretched. The entire world has allied itself against Germany, okay? So, the war is about to be lost. But let's look at what Hitler has to say. It is with the same conviction that I now stand before you and has never left me, either, since the day on which, as an unknown man in this city, I began to struggle first for the soul of the German people and then on beyond the city for more and more followers. In the beginning, I
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0062
+
+## seg-0063 / 01:03:58-01:05:06 / SPEAKER_00
+
+did not have much more to give than faith, the faith that if anyone pursues a just aim, I will, with unchanging and undisturbed loyalty, and never let himself be diverted from it but puts everything into it, then others will be found who are determined to be his followers and that from this host an ever stronger faith must gradually radiate to the whole people, okay? So, this is unity of will. We reject reality. Reality does not matter, because we impose our will on reality. As long as we have faith, as long as we have unity of will, we will triumph, okay? Alright, so, let's go back to the beginning. We were talking about Kaliningrad, right? It is one of the greatest injustices in human history that Konigsberg, which was, for the longest time, the cradle of human civilization, the epicenter of the Enlightenment, it is now completely destroyed, okay? But, and this is a really, this is an idea from Wagner, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0063
+
+## seg-0064 / 01:05:06-01:06:08 / SPEAKER_00
+
+By destroying this, the world has cursed itself, okay? Let me explain why. First of all, the German question now is more relevant than ever before. You've destroyed Konigsberg, but you have not destroyed the desire for unity among the German people, okay? So, this is the memory that will not fade, okay? So, will the Germans seek vengeance? Will another Hitler arise to unite the German people? Now, what you guys don't know is that the Prussians were one of the main forces opposing Hitler, as well as inhibiting Hitler, okay? Because Prussia had a very proud culture, and it was the very strongest part of Germany. But now that they destroyed Prussia, if another Hitler arises, there's really nothing to stop him, okay? That's the first problem. Second question is, okay, let's go back to this map. Europe and Russia are about to go to war with each other, right?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0064
+
+## seg-0065 / 01:06:08-01:07:18 / SPEAKER_00
+
+Okay, well, if you are Europe and you go into Ukraine, you're going to be slaughtered, okay? But, this is Klanagrad, Russian territory, 500,000 Russians, right? You can blockade Klanagrad, you understand? So, this could be the start of World War III, right? Does that make sense to you guys? When the Europeans blockade Klanagrad, and they try to starve the people, Putin would have no choice but to intervene, okay? But the main problem is this. Konigsberg was one of the main intellectual, scientific, and cultural centers of Europe. That its laws reduce the innovative potential of humanity, alright? So, what I will show you in the next class when we discuss Kant is, science comes from philosophy, okay? Culture leads to philosophy, which leads to science, which leads to technology. You cannot have science independent of philosophy. When you destroy a center of philosophical innovation, you destroy a center for scientific progress, okay? So, this is something that we will discuss in depth next class as well.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0065
+
+## seg-0066 / 01:07:19-01:08:41 / SPEAKER_00
+
+So, when we look at Kant. So, that is Germany. Okay, any questions about what we've learned so far? Was this clear to you guys? Okay. Any questions? Excuse me? Yeah, okay. So, where did Hitler come from, right? How did Hitler become so charismatic? Okay. So, there's a lot of randomness to life, okay? There's a lot of randomness going on in life. So, the army wanted to inhibit the growth of the socialist left -wing movement. And it did so by financing these right -wing parties. The Nazi party was just one of many parties that the army financed and supported, okay? Hitler became a spy and he became part of this movement. And as such, he became exposed to a lot of the ideas of the Nazi party. The Nazi party, a lot of the ideas come from Nietzsche and Wagner and others as well, okay? And over time, Hitler came to believe that he was the messiah, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0066
+
+## seg-0067 / 01:08:41-01:09:48 / SPEAKER_00
+
+He was the messiah dedicated to restoring German unity, okay? And, I mean, like, this is hard to understand, but human population is very diverse. So, you always have a subset of people who have these delusions of grandeur. And in certain circumstances, they will be proven right, okay? That doesn't make sense, okay? So, another way of saying this is the army needed someone to play the part of the obermanns, the supermen who could unite the German people and create national unity so the army could seek its vengeance against the rest of Europe and unite the German people, okay? So, they're looking for this role. And then Hitler auditioned for this role. And he got the role, okay? Does that make sense? And this is important because towards the end of the class, we'll discuss Donald Trump. And what I will show you is, this is exactly what happened with Donald Trump, okay?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0067
+
+## seg-0068 / 01:09:48-01:10:47 / SPEAKER_00
+
+So, the American military needs an obermanns to lead America to war against Putin. And there were different people who auditioned. Biden auditioned, he was terrible. Harris auditioned, he was terrible. And they picked Donald Trump, okay? This is a very familiar pattern in human history. You can also argue that Napoleon was the same way, okay? And what makes these people different from us, Napoleon, Hitler, Julius Caesar, Trump, is they are the total expression of the Zion will, you understand? They have absolutely no compassion, no sympathy for anyone. They believe they are here on a divine mission. They are complete, they are the will itself. And they are, and they must impose their will on others to save the world. Does that make sense? So, look at Donald Trump, okay? If you want to understand Hitler, look at Donald Trump. The guy is like almost 80. He doesn't sleep, okay? He's off traveling around the world all the time.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0068
+
+## seg-0069 / 01:10:47-01:11:49 / SPEAKER_00
+
+The guy in his, when he was campaigning, he was giving like three speeches a day, right? He would get up in the morning at 4 o 'clock, fly somewhere, give a two -hour speech. People loved him. Then he would get on the plane and fly somewhere else. And he would, he could not stop talking to reporters, okay? He has tremendous energy that comes from the perfect expression of the will, you understand? Donald Trump is all will, all desire, all ego, and no sympathy, no empathy, no compassion. That's Hitler and Napoleon. Yeah, that's a great question. So, won't people rebel against us? Won't people think this is reckless? And so, what Schopenhauer and Nietzsche and others will say is, what we want first and foremost is a return to unity of will, right? In the very beginning, the will was God. That's a big bang. And then the will expanded itself, right?
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0069
+
+## seg-0070 / 01:11:49-01:12:53 / SPEAKER_00
+
+And so, we find ourselves alone in an ocean of alienation. And what our hearts really aspire to is a return to a unity of will. And so, when someone says, you can be part of a movement to transform the world, that's much more appealing to us psychologically than to say, oh, you know what, come to school, do your homework, get good grades, do the SAT, get into a top 50 American school, become an accountant, and for 50 years do something meaningless but make a lot of money, and then you will die a happy person. Like, seriously, there's no competition, right? There's no competition. Donald Trump is saying to the Americans, we will make America great again. We will be a civilization, a great civilization again. It will require sacrifice, it will require my sacrifice, but it will be worth it because we will make the world whole again, right? Okay, so,
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0070
+
+## seg-0071 / 01:12:54-01:13:58 / SPEAKER_00
+
+again, when you go back to the Hitler speeches, from our perspective, it's not that persuasive, okay? But when you're in a crowd of people and this man is speaking to you with his voice, it's like Wagner, okay? It's like going to a concert. The music fills you and it inspires your heart, okay? It makes you want to be the ubermensch, okay? Hitler is just the example, but he's saying you can also aspire to be the ubermensch if you are willing to sacrifice your life for the unity of will, okay? So, this is really important. This is far more appealing to people than the idea of materialism, okay? This is religion, right? Hitler is creating a new religion, and it's intoxicating, right? I mean, like, World War II, I mean, the fact that the Germans were able to fight for so long against the entire world, I mean, it's incredible. I mean, like, it was America, Britain, France, Soviet Union against the Germans.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0071
+
+## seg-0072 / 01:13:58-01:15:03 / SPEAKER_00
+
+And the fact that the Germans fought so bravely and fought to the very bitter end. I mean, it just shows you the power of unity of will, okay? And what this also tells us is these things don't die, okay? You can kill a civilization, you can destroy a city, you can massacre people, but you cannot destroy the desire for unity of will because that's what fundamentally makes us human. Okay, does that make sense? Okay, great. Any more questions, guys? But that's a great question, thank you. Does that make sense to you? Okay, great, okay. Any more questions, guys? Okay, so next week we will do Kant, okay? And Kant will lead us to Marx and Freud and modernity, okay? Okay.
+
+Ref: video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0072
