@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-o2nq-qu9kc-semantics-pkt-0002",
+  "source_id": "video:predictive-history-o2nq-qu9kc",
+  "source_date": "2025-05-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0009",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0010",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0012",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0014",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0015",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang develops Prussia as an Enlightenment and reform state: Frederick the Great, public education, Napoleon-era reform, Humboldt's research university, Clausewitz, 1848, and the Prussian need to respect citizens as military-political capital.",
+      "speaker_attribution": "Jiang lecture monologue; diarization labels are treated as hints.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Prussia's success is attributed to reflection and resilience under vassalage, combined with a more progressive European attitude toward subjects than Muscovy.",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0009",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0010",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "2025-05-22 lecture claim",
+      "topic_tags": [
+        "Prussia",
+        "Muscovy",
+        "reflection",
+        "resilience"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Frederick the Great is presented as an Enlightenment despot who created rule of law, religious tolerance, limited speech freedom, and a public school system copied later by other powers.",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0010",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "2025-05-22 lecture claim",
+      "topic_tags": [
+        "Frederick the Great",
+        "education",
+        "Enlightenment"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "After defeat by Napoleon, Prussia allegedly copied French revolutionary reforms and Humboldt's research university to rebuild stronger.",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "2025-05-22 lecture claim",
+      "topic_tags": [
+        "Napoleon",
+        "Humboldt",
+        "research university"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Clausewitz's lesson is that future military success requires mobilizing citizen morale and making citizens willing to die for the nation.",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "2025-05-22 lecture claim",
+      "topic_tags": [
+        "Clausewitz",
+        "total war",
+        "citizen morale"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts violent suppression elsewhere in 1848 with Prussian concessions, arguing Prussian rulers respected citizens because unity was necessary for survival amid enemies.",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0014",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0015",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "2025-05-22 lecture claim",
+      "topic_tags": [
+        "1848",
+        "Prussia",
+        "citizenship",
+        "unity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011"
+      ],
+      "moment": "Public school becomes a civilizational weapon rather than social benevolence.",
+      "source_phrase": "source for Prussia's future greatness",
+      "why_it_matters": "The education system links moral reform, state capacity, and later power.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0012"
+      ],
+      "moment": "The research university is described as replacing passive reception with original thesis-making.",
+      "source_phrase": "encouraged to do your own research, to write a thesis",
+      "why_it_matters": "This turns German intellectual culture into an engine of modernity.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013"
+      ],
+      "moment": "Clausewitz turns war into a whole-society morale problem.",
+      "source_phrase": "make them want to die for your nation",
+      "why_it_matters": "The sentence foreshadows unity-of-will politics and Hitler.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0016"
+      ],
+      "moment": "Prussian respect is explained not as liberal niceness but as strategic necessity.",
+      "source_phrase": "They need to stay united as a people",
+      "why_it_matters": "This keeps the lecture's hard political logic intact.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Enlightenment despot",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0009",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Frederick the Great as a ruler combining military state-building with legal, educational, and religious reforms.",
+      "confidence": "high"
+    },
+    {
+      "term": "research university",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Humboldt's model of education built around original research rather than memorized lecture reception.",
+      "confidence": "high"
+    },
+    {
+      "term": "total war",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Clausewitz-derived idea that military victory requires mobilizing society and citizen morale.",
+      "confidence": "high"
+    },
+    {
+      "term": "pressure valve",
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Colonies are described as outlets for British social discontent that continental states lacked in 1848.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0009",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0010",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0011",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0012",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0014",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0015",
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0016"
+      ],
+      "note": "This packet locates the German argument in a sequence from 1763 education reform to 1806 defeat, 1815 restoration politics, and 1848 revolutions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0013"
+      ],
+      "note": "The transcript likely mishears Metternich as Murdanek and Austrian-Hungarian chronology is compressed."
+    }
+  ]
+}
