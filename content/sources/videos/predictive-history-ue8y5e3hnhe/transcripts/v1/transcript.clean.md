@@ -1,0 +1,507 @@
+# Game Theory #20:  Mid-Term Examination
+
+Source: https://www.youtube.com/watch?v=ue8y5e3HnHE
+
+## seg-0001 / 00:00:00-00:01:25 / SPEAKER_01
+
+Today is our midterm examination, a chance for you to question and examine me. Alright, so before we look at the questions for the midterm examination, I want to discuss briefly the ceasefire between the United States and Iran. So yesterday, Donald Trump announced that there will be a two -week pause to this war and that the United States and Iran will meet in Pakistan to negotiate a possible long -term ceasefire. And what he said that's very important is that he will use the 10 -point Iranian plan as a framework to discuss a peace treaty. And as you can see from the 10 -point plan, in fact, this is almost a complete U.S. surrender to Iran. The first point is that the United States will guarantee never to attack Iran again. Iran will have complete control over the Strait of Hormuz. Iran can choose to enrich uranium for its nuclear program. All sanctions on Iran will be removed.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:25-00:02:49 / SPEAKER_01
+
+This is a very big deal. Removal of all secondary sanctions against foreign entities that do business with Iran, end of all United Nations Security Council resolutions against Iran, end of all international atomic energy agency resolutions, compensation, reparations for all the damage that the United States and Israel did to Iran, withdrawal of U.S. combat forces from the Middle East, giving Iran control over the Middle East. The last and the most important is that the United States will also agree to end hostilities against all of Iran's proxies, including Hezbollah and the Houthis in Yemen. So as you can see, this is basically a complete U.S. surrender to Iran, which tells us right away. That Donald Trump is not serious. If you go into a shop and you negotiate with the shop owner and you want to sell maybe a book to the guy and you're hoping for a hundred dollars, but because it's bargaining, you think, oh, maybe I should start high.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:49-00:03:45 / SPEAKER_01
+
+So you say a thousand dollars. If you say a thousand dollars and the shop owner says, yeah, yeah, I'll take that deal. There's something wrong here. Okay. All right. So the U.S. has done something very wrong and there's very little chance that the ceasefire will hold. And in fact, we're already seeing news that the ceasefire is being broken. Okay. So there are three individuals on Twitter who've made some very interesting points. All right. So in this tweet, Mr. Bojak said that, listen, if this is really a ceasefire, why is the United States continue to send aircraft carriers? The USS George Bush to Iran? The USS George Bush to the Middle East? What they're really trying to do is buy time in order for their ground troops to get ready to attack and seize the strait. Okay. So once everything is in position, then probably what
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:45-00:04:52 / SPEAKER_01
+
+will happen is that Israel will launch a false flag against the Americans, which will justify an American attack against Iran. All right. So that's a possible scenario. But again, the question is, if this is really a ceasefire, if Donald Trump is really in intent on peace, why does he continue to send US forces to the Middle East? That's question number one. Question number two is, the problem is how Iran is defending itself. It's using something called the Mosaic Defense, which is a state that has 31 provinces and these are 31 cells or units that are all responsible for their own strategy and attack and defense. Meaning that there's no longer a centralized command. So it doesn't matter if you negotiate with the leadership of Iran, because the IRGC, the people who are fighting, will not agree to a ceasefire because they do not trust the Americans or the Israelis. So whatever happens in Pakistan will not affect the outcome of the battlefield.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:52-00:05:52 / SPEAKER_01
+
+That's a problem with the Mosaic Defense. Think of the Mosaic Defense as almost a dead man's switch, where if you kill the Ayatollah, the Ayatollah will tell his people to fight to the end. So the Mosaic Defense will only come to an end if either Iran is defeated or the Americans are defeated. This thing collapses if there's in between a ceasefire, because in order for the Iranians to implement a ceasefire, they themselves will have to go and control these Mosaic units in the provinces, which basically means a civil war. Okay? So it's almost impossible, even if Iran were to negotiate a favorable peace deal, for Iran to actually implement this peace deal within its military. Okay? That's problem number two. Problem number three is the United States continues to have an air bridge to the Middle East. So even though there's a ceasefire, you have this massive movement of U.S.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0005
+
+## seg-0006 / 00:05:52-00:06:58 / SPEAKER_01
+
+ground troops, of U.S. planes, of U.S. artillery and tanks to the Middle East. So if there's really a peace, why is this happening? And another way of saying this is that the political systems of both the United States and Iran have lost control over the war. Once these militaries start fighting, they are determined to fight to the bitter end. Okay? But unfortunately, what this tells me, the fact that Iran is willing to negotiate a peace treaty. Probably means that there is a schism or divide between the political leadership in Iran and the military leadership in Iran. And this is going to cause a lot of problems in the future. So maybe before this past month, it seemed as though that Iran had control over the battlefield and Iran was winning it. But I think over time, what's going to happen is that fissures will arise in Iran and Iran will start losing the battlefield.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0006
+
+## seg-0007 / 00:06:58-00:08:10 / SPEAKER_01
+
+And Iran will continue to battle more and more as the United States and Israel develop a much more coherent strategy against Iran. Another major issue is that as this war drags on, the world economy is going to suffer, which means that people can no longer drive their cars, and which means maybe a lot of people will also starve. And this means that ultimately, public or global opinion will slowly turn against Iran. Okay? And even Iran's closest allies, Russia and China. Will feel the strain of this war and maybe even pressure Iran to end this war. But again, as we discussed previously, because of the way that Iran has structured its military defense, it's impossible for Iran to end this war unless it's either destroyed or it's destroyed the Americans. Okay? So this war, the ceasefire, it's only a PR stunt. It will actually lead to nothing. All right. So the major point of contention is whether or not Lebanon is part of the peace treaty.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0007
+
+## seg-0008 / 00:08:10-00:09:20 / SPEAKER_01
+
+So the Iranians believe that this peace treaty also includes its proxies, specifically Hezbollah in Lebanon and the Houthis in Yemen. But after this peace treaty was announced, Israel launched more than a hundred strikes in 10 minutes across Lebanon, killing 20 to 50 people. At least 150 people. Okay? So Iran is obligated to defend Hezbollah morally. And Israel understands that if Iran breaks the peace treaty and defends Hezbollah, then it is Iran's fault. Okay? And the Americans have come out and said that, well, you know, we agreed that Lebanon was not part of the deal. Um. And. Um. That's what the, um, vice president said. Oh, it's a legitimate misunderstanding. We thought that Hezbollah wasn't part of this deal, but the Iranians thought it was. Okay? So this is a misunderstanding. Okay? But this tells you that, uh, the Americans and Israelites are not serious about maintaining the cease fire.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:21-00:10:32 / SPEAKER_01
+
+They've already found a loophole. All right. Okay. So let's now go on to the midterm examination. And, um, uh. As I said, YouTube can ask me questions and I will try my best to answer them. This Twitter account, Oris App, did a very nice thing and basically analyzed all 8,000 plus questions and broke it down into some major categories. What I'm going to do first is I will look at these questions and then answer them. Then we'll look at some other questions. All right. The first question is, all right, I said that the empire is declining, but at the same time the US could benefit from this war. How do I reconcile the contradiction? The answer is, it's not really a contradiction. The United States is extremely powerful. It's really a question of who benefits from these changes. Even though the US empire will lose control over the Middle East, the American economy nation could still exert control over Mexico and Canada.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0009
+
+## seg-0010 / 00:10:32-00:11:33 / SPEAKER_01
+
+That's something I will discuss later on. That's number one. What's the role of eschatology in shaping global events? How do you account for the influence of six societies? These are the same question and I'll answer it right now. Let's examine how all this works. First thing you need to understand is that history moves in a certain direction. All right. This is a question. Okay. It's very complicated. It's very messy, but there is a structure and a pattern to the movement of history. Okay. A structure and a pattern. So think of a river and when you see a river current, you think, I can't see anything. It's just complete chaos. But if you're able to read the river well, you know how the river is moving. Okay. So you can position your canoe or kayak in a way that allows you to seamlessly, smoothly, smoothly cross the river.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0010
+
+## seg-0011 / 00:11:34-00:12:39 / SPEAKER_01
+
+All right. So that's the idea. Okay. But this is all very chaotic. So what happens is that there's certain individuals, we can call them occultists, who try to read the river or try to read historical patterns in history and they create something called an eschatology. Okay. So think of the stars. When you try to read the stars and try to find meaningless stars, we call this astrology. Right. Right. But when you try to read human history and you try to find a pattern in human history, we can call this eschatology. And the thing about the eschatology is that it's a story. And so you want the story to work out. So it's both a prophecy as well as a plan. You think it's going to happen, but you also think that you are obligated to make it happen as well. Okay. So the occultists, these are religious people.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0011
+
+## seg-0012 / 00:12:39-00:14:01 / SPEAKER_01
+
+They try to turn the chaotic movement of history into a story that comes to an end in which you can participate in. All right. Okay. Then from these occultists are formed secret societies in order to understand this eschatology and also to promote this eschatology. Now what happens is that powerful people. Okay. Powerful people. The rich and the powerful, they join these secret societies. Why? Because as a rich and powerful person, you want to know how history moves in order to better position yourself in order to protect your power and your wealth. Okay. That's why very famous people, they often have astrologers to work for them. And that's why rich and powerful people join secret societies because they want access to this secrets. That tells them how to make better investments and how to have more political power. Also, secret societies enable them to create networks in order to maintain their power. Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0012
+
+## seg-0013 / 00:14:01-00:15:19 / SPEAKER_01
+
+But the problem is that you need people to actually move towards the ending to propel this eschatology. And these people we can call agents. Okay. Agents. And these agents of course include Donald Trump and Vladimir Putin. Okay. And this is how the world works where the occultists are the ones who imagine the world and the rich and powerful are the ones who act out the world in order to benefit themselves. And then they appoint certain agents who are like puppets in order to move the world in a certain direction. Okay. So these agents are like vectors. All right. But there's some problems with this system. The first problem is that there are different secret societies and they fight amongst themselves to achieve different eschatologies. Okay. The other problem is that rich and powerful will often switch secret societies, switch loyalties in order to maximize the benefit. So they don't have any loyalties. All right. And then the
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0013
+
+## seg-0014 / 00:15:19-00:16:23 / SPEAKER_01
+
+last problem is that these agents like Donald Trump, and Vladimir Putin, they seem like puppets, but they themselves believe they are using these secret societies to achieve their own vision, which is given to them by God. Okay. So it's a very complicated system. And this is why no one thinks that it's all a grand conspiracy because each person is doing his or her own part subconsciously to maximize his or her benefit. Okay. So it's not a top -down system. It's a much more dynamic, fluid game than people assume. Okay. So this is a map that helps us understand how the world works. And this is why I'm able to figure out what's happening in the Middle East. Because if you're able to focus on the story, okay, the story here, you basically know where people are going, even though you may not be aware of what the different secret societies are doing. And how the different agents are thinking.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0014
+
+## seg-0015 / 00:16:24-00:17:33 / SPEAKER_01
+
+Okay. As long as you're able to figure out their cult is, how they're thinking, if you're able to figure out the story that they want to tell the world, you can basically figure out the general direction of the world in the long term. Okay. All right. So now what I want to talk about is China. What is China and what is China going to do? All right. So again, let's go back to our culture. Let's go back to our theory of how the world works, of how the world is structured. You have the empire. And then from the empire, you have the game masters. Okay. The people in finance. Then they create the global economy. Then this creates the rule space in actual order. And then you have the education system, media, and culture in order to indoctrinate people to believe in the system, that the system is fair, right, and natural.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0015
+
+## seg-0016 / 00:17:33-00:19:04 / SPEAKER_01
+
+Okay. And then you have parasitic organizations, science, crime, intelligence, to control the system, but also to draw benefit, to extract value from the system. Now, what we understand is that the beauty of the system is that it is capable of extending itself and replicating itself. In other societies. Okay. So the two examples are the GCC and China. Okay. This is really important for us to appreciate. China is not a civilization. China is not a nation state. China is a construct of empire. Okay. China is what the system has done is basically taken all its elements and embedded itself into the system. Okay. So the system has been built into China to create a vassal state. Okay. Or you can also say a mirage. And then you're like, okay, well, what, what, what does that mean? Well, just think of the GCC where before the empire, the GCC was just a desert and the empire, the system takes the GCC and turns it into this seemingly vibrant cosmopolitan, wealthy center.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0016
+
+## seg-0017 / 00:19:04-00:20:07 / SPEAKER_01
+
+And then they bring in the universities, right? Like Georgetown, NYU, they bring in culture. They bring in the media ecosystem. So this system replicates, replicates itself into the GCC as well as China. Now this is important because the moment that this system is under strain. Okay. For example, Iran attacks it. We see it's all just a mirage. This system is not sustainable. It collapses onto itself. Because it doesn't have a civilization. It doesn't have an existing soul. Okay. It's all just appearance. And what I believe is that China is in a very similar situation. That's why China was allowed to join WTO. That's why China, so many Chinese students go overseas to become educated. Okay. To create this mirage that China is this modern, flourishing economy. So, um, that's, this is China's relationship to the world. So rather than believe
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0017
+
+## seg-0018 / 00:20:07-00:21:21 / SPEAKER_01
+
+that China is competitor to the system, we need to appreciate that China is really an extension of the system. So if this system comes under strain, China itself comes under strain. That's why China is so desperate, so anxious to see peace in the Middle East again. Okay. So there's, there are rumors. There's news reporting that China has exerted pressure on Iran to negotiate a ceasefire. Because if the global economy collapses, China is in a lot of trouble. All right. Okay. Okay. So, um, what are long -term implications of the Hollywood Pentagon complex? Okay. And, um, the answer is if you go back to the system, okay, no one actually knows what's going on, but they believe they know what's going on. And they believe they're individual parts of the story. Okay. So if you're in culture, you think you're the ones in control and you're the ones dictating policy. If you're in the media, you think you're the ones in control.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0018
+
+## seg-0019 / 00:21:21-00:22:17 / SPEAKER_01
+
+If you're in education, you think you're in control. Okay. So everyone just basically lives in his own bubble, in his own fantasy world, about being able to see the bigger picture. And that's why we don't have control and agency and free will over how the system will turn out. Okay. And we cannot because it's actually very difficult for us to really appreciate, um, how the system works. It's much easier for us to believe in our fantasies because it allows us to work with our friends and our colleagues much easier. Okay. It's much easier for people to live in his own bubble and to be delusional than it is for the person to be objective. Okay. So the Hollywood Pentagon complex, it is not just unique to America. It is true for everyone. How do emerging powers like China, um, factor in the shifts in global order? I already told
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0019
+
+## seg-0020 / 00:22:17-00:23:18 / SPEAKER_01
+
+you that all these things that you believe are alternatives, including digital currency, renewables, China, they're all just projections, extensions of the system. The system is under strain. These are under strain as well. Okay. What strategies can individuals employ to navigate potential global economic disability and resource scarcity? Okay. So the problem is that individuals by themselves cannot navigate change. Individuals need to enter into communities. Okay. So if you really want to survive the change, well, first of all, you need to educate yourself as to what's going on. And that's why I teach these classes to give you the bigger picture as to how the world works and where things are going. But you also need to make, need to make a commitment. To reach out to other people, become their friends, be generous and open with them, share with them and build a community. Okay. Also, one thing that I would recommend is maybe starting a family.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0020
+
+## seg-0021 / 00:23:18-00:24:18 / SPEAKER_01
+
+And the reason, and you're like, okay, wait a minute here. This is silly because you have said for the longest time, the world is collapsing. This is the end of the world. Why would you have children? And the answer is because first of all, death doesn't matter. Destruction doesn't really matter. What matters is our ability in this world to live a creative, purposeful, significant life. Okay. That's why we're here. It's not to make a million dollars. It's not to eat a lot of food. It's to have the best experience possible, to extend the imagination of the universe. And what I found having children, I have three kids, is that I live every day with tremendous energy. Energy and purpose, because I'm here not to become famous or to make a lot of money. I'm here to make sure that my kids are happy and healthy. And that's why I get up in the morning and work very hard.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0021
+
+## seg-0022 / 00:24:19-00:25:21 / SPEAKER_01
+
+Okay. I don't really care about the world. All I care about is, are my kids happy and healthy? So, children and family give you a energy, a purpose, a meaning that drives you to greater creative heights. Okay. All right. What are the primary drivers? What are the drivers behind specific geopolitical actions? And how do these motivations impact the game theory? Okay. All right. So, again, this is a really important theory to understand. Where the occultists are the main drivers. Why? Because the occultists, whether they be poets or prophets, they're the ones who imagine the world we live in. Okay. And we can, and others can only work within the boundaries of this imagination. So, yes. The rich and the powerful, they have all the money and all the wealth, but they don't have an imagination. So, and ultimately your actions have to be driven by your thoughts. And it's these occultists, okay, who drive your thoughts, who control your thoughts.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0022
+
+## seg-0023 / 00:25:21-00:26:24 / SPEAKER_01
+
+So, we just live in the world imagined by occultists. Who they are, what they want, how they work is something that we'll discuss after the break. Okay. After today, we're going on a one -week break for the midterms. Then we'll come back. We'll start more, we'll talk more about these people, the occultists. Okay. They're very important people to talk about. All right. So, let's move on. Okay. Now, I want to look at some individual questions. All right. So, this is Joyce Lay from Substack. She's a founding member. So, thank you, Joyce, for your generosity. Okay. She asked this question. You make three predictions about the outcome of the U.S.-Iran war. But I don't have any timeframes. Yeah, I don't do timeframes because these things are trends. Okay. They're general movements. Okay. And she says, well, if all three come true then, then we have to believe that it may not be because of the war itself.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0023
+
+## seg-0024 / 00:26:25-00:27:15 / SPEAKER_01
+
+How do you differentiate between causation and correlation? Okay. This is a great question. And it's something that I think a lot about. So, I make these predictions in order to validate my prediction model. But just because these predictions don't work. Turn out to be correct. Does not validate my prediction model. Hundred percent. Okay. And that's why it's important to keep an open mind and to continue to make predictions. Now, what I will say is this. When I first started making predictions two years ago, I was just looking at patterns and then trying to figure out what patterns were the most salient or the most obvious. And then I made those predictions and I was very confident about these predictions. Now that I'm famous, now that people are demanding I make predictions every day. It's hard for me to make accurate predictions because I don't have access to all the information.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0024
+
+## seg-0025 / 00:27:16-00:28:21 / SPEAKER_01
+
+And it's hard for me to think clearly, objectively, because I know that whatever I say is to have an impact on global events. Okay. So, this is a major constraint on my capacity to make accurate predictions. I'm no longer an observer. I'm a player. Okay. And I also get a lot of influence from other people who want to control my predictions. I understand that. So, I try to keep away from people as much as possible, but it's an impossible thing. So, I appreciate this question. Yes. Correlation and causation are two different things altogether. It's possible that we'll never really understand causation. The other thing that I want to emphasize is that I myself appreciate the limitations to my own objectivity because of my status today. So, that's from Joyce. Isn't pump and every politician just a puppet of the societies? This is a great question. It's something that I addressed earlier, which is, yes, they are agents.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0025
+
+## seg-0026 / 00:28:22-00:29:27 / SPEAKER_01
+
+They can only be agents. But at the same time, the agents have agency. The agents have free will. So, think of Napoleon and Julius Caesar. And they were obviously supported by secret societies. But they reach a certain point where they can betray the secret society or veer off in a different direction. And Hitler and Stalin are also different examples. Okay. So, every great person in history, most of them are supported by secret societies, but they also reach a point where they feel they have a higher calling and it is God that they must be loyal to. So, they betray their secret society. And I think that something will happen with both Trump and Vladimir Putin. Okay. I have the Third Rome. I have the American Technate. And I have Pax Judaica. Wait a minute here. These are three different empires. And the reality is that this unipolar moment where America controls everything, it is unique in human history.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0026
+
+## seg-0027 / 00:29:27-00:30:36 / SPEAKER_01
+
+It's not sustainable. And it will not last. So, the idea of competing empires, it's much more common in human history. So, yes, you'll have the Technate where America retreats into greater North America, Russia exerts control over its territory, and Israel tries to build a Pax Judaica in the Middle East. And they will be in competition against each other. There'll be some areas in which they cooperate. There are some areas in which they compete. And so, we are moving towards a multipolar world. Okay. And we don't actually even know how long this multipolar world will sustain itself. Probably not very long, maybe 10 years, maybe 20 years. Okay. All right. So, this question is, why would the world be dependent on American fertilizers, energy, when the other parts of the world have energy and fertilizers as well? And the answer is trade access. Okay. What
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0027
+
+## seg-0028 / 00:30:36-00:31:36 / SPEAKER_01
+
+America can do that other nations cannot do is basically retreat into its continental fortress and control sea trade. Okay. So, right now, the easiest way to trade is through the sea. And unfortunately, for the world, America controls the seas with its navies. Okay. So, what America can do is basically allow its ships to go anywhere in the world and block Chinese ships. Okay. block Chinese, Iranian, Russian ships from accessing the rest of the world. Now, a counter to this is that, well, you know, you don't have to go by sea. If you were to unite Europe, Asia, and Africa in the Middle East, you can just use railways. And that's what China wants to do. The problem is Iran. And that's why America is so invested in destroying Iran, because Iran is really the pivot of the world. If you're going to destroy Iran, it'll be very hard for China to access Belt and Road, and hard for the United States.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0028
+
+## seg-0029 / 00:31:36-00:32:47 / SPEAKER_01
+
+So, you have to challenge Russia to trade with Africa. Okay. All right. I would challenge Professor Zhao on his assessment of why Russia attacked Ukraine. Russia was not prepared for the long war and it adapted. Okay. Yeah. So, the general theory, the general explanation is that NATO provoked Russia into an attack. And that's true to a certain extent, but we have to remember that if you commit to a long war if you commit to any war you need to have a long -term strategy because you need so many different organizations institutions parties involved in a war okay a war means a fundamental restructuring of society and therefore you need a grand strategy you need a eschatology okay because this is what allows for political will and that's the issue that the Americans are facing in Iran where they don't really have an eschatology or grand strategy that's articulated okay
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0029
+
+## seg-0030 / 00:32:47-00:33:40 / SPEAKER_01
+
+there are people in America who do have the grand strategy and that's called eschatology but it's not articulated to American people okay and that's why America doesn't really have the political will to sustain this war in Iran so again it there's there's a misconception that these people Putin Trump they just work they just have these emotions they just have these emotions they just have these emotions and they like I want to go attack so they go attack that's not how these things work okay you need a lot of people to agree to attack Ukraine to attack to agree to attack Iran before these things happen okay the idea that one man can control an entire country it is just a myth it cannot happen that way a country is controlled by different vested interests different institutions these institutions have to align together in order for something to happen okay otherwise they'll just sit back and
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0030
+
+## seg-0031 / 00:33:40-00:34:38 / SPEAKER_01
+
+do nothing they'll do nothing and that's the situation that Iran face in the lead up to this war where everyone's like You Know the Americans you know the Israelis are going to attack you so take the initiative why are you still sitting around doing nothing and the answer is because there are different factions there are different institutions who cannot align together on how to respond to the Americans and Iraunalyn so they just sat back and wait to be attacked okay why don't Asian and Middle Eastern nations unite to achieve to a sweep the Balkan exchange agreement to prevent American interference driven by its own interests. Okay. Yeah. Okay, another misconception is that the nation state, it is real. It is not real. It's just a made -up concept, okay? The idea of China, the idea of America, the idea of Russia, they're all made -up concepts. They don't exist. What these nation states are, are a collection of interests.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0031
+
+## seg-0032 / 00:34:42-00:35:53 / SPEAKER_01
+
+Collection of elite interests. And all this means is that the people don't matter, okay? The people are resourced to be exploited by the elite. What matters is the elite. So the question then is, where are the elite, where are their allegiances, where are their loyalties? And the fact of the matter is that in East Asia, in the Middle East, much of the elite have their family and have their wealth all stored in the Western world. So they're not loyal. They're loyal to the people. They are never loyal to the people. They are loyal to themselves, to their families, to their social network. And because all of their wealth and family is located overseas, they're loyal to overseas. So these elite in Asia, in the Middle East, they are basically carpetbaggers, okay? And that's why we have this situation. And that's why, as things progress, nations that have very close relationships with the Western world, for example, the GCC, they are much likely to fall.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0032
+
+## seg-0033 / 00:35:53-00:36:59 / SPEAKER_01
+
+They're much likely to collapse because these are very unstable countries. Whereas countries like Iran that have been isolated, ostracized by the West, are much more cohesive, okay? All right, can the Strait of Hormuz be avoided by laying gaps pipe through Oman? No, no, that's not how these things work, okay? What? What Iran is doing is using the Strait of Hormuz to blockade the global economy, to disrupt the global economy. The Strait of Hormuz is the most convenient way of doing so. It is the least controversial. But if forced to, Iran can also destroy energy production in the GCC. It can destroy pipelines. If a drone can attack a city, it can attack a pipeline as well, okay? So these pipelines are extremely vulnerable. And already, we're seeing reporting that just yesterday, the Iranians attacked a pipeline in Saudi Arabia. These pipelines are extremely vulnerable.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0033
+
+## seg-0034 / 00:36:59-00:38:10 / SPEAKER_01
+
+Just think about all this gas and oil, right? It's all combustible. So a drone can just blow it up. It's not hard, all right? So again, understand, the point is not the Strait of Hormuz. The point is the vulnerability and the fragility of the global economy that is completely dependent on cheap access to energy. That's where the problem lies. All right, Donald Trump, he's erratic. Do you believe this behavior is calculated strategy or does it stem from lack of understanding? Is he just stupid? Do you think that people advising him are also stupid or are they strategic? What is he trying to achieve? Okay, again, this goes back to our understanding of how the world works. You have the eschatology, then you have the six societies, then you have the agents, okay? And Trump is an agent. Now, what makes him a very powerful agent is his unpredictability. Today, he's like, I'm going to nuke Iran.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0034
+
+## seg-0035 / 00:38:10-00:39:27 / SPEAKER_01
+
+Tomorrow, he's like, let's have peace in the world, guys, okay? He's just unpredictable. It's all a show, okay? And there are three reasons why unpredictability is so powerful. The first reason is that it's paralyzing. Paralyzing just means like you don't know how to respond to him. Like, what do you do? How do you fight a guy who changes his opinion every single day? Okay? It paralyzes you into inaction. Second is distracting. All your attention is focused on his antics and you don't realize that behind the scenes, things are happening, okay? There are people who are implementing certain things, but you don't really notice the backstage because you're just focused on Trump being a clown online. Okay? And the last advantage is flexibility, which is to say that he is not beholden to any strategy. And he can change his strategy at any time, okay? So, yes, we think he's a clown and he is a clown, but there's a method to his madness, okay?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0035
+
+## seg-0036 / 00:39:27-00:40:20 / SPEAKER_01
+
+So, it paralyzes enemies. It distracts his enemies. And he's able to maintain maximum flexibility in his actions. Okay? And that's why he's so successful. All right. The people around him just do whatever he tells him to. People around him just tell him exactly what he wants to hear. Okay? It's actually Donald Trump that's making all the decisions. And his ultimate purpose is to get his third term. All right? Because from this perspective, if he actually wants to implement his vision for America, he needs the third term. Okay? And again, his vision is a technique where America becomes a fortress. Okay? Abandons the world and just trades with the world. Okay? We discussed this previously. But for him to achieve that, he needs his third term. And so, he needs to figure out how to get his third term. And this war in Iran
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0036
+
+## seg-0037 / 00:40:20-00:41:30 / SPEAKER_01
+
+is the best strategy because if this war continues and it goes badly for America, then Trump can declare martial law and have a lot of powers. Okay? And again, his enemies are too distracted to appreciate that this is strategic. And they're paralyzed into inaction. The Democratic Party, which should be opposing Trump and this war, are just sitting back and doing nothing. Hoping that in the midterms, Trump's party, the Republicans, get wiped out. And they go into power. And then the world is perfect again. Okay? So, the Democrats actually don't have a strategy for this. All right. The petrodollar collapses. Okay? Let's pretend the petrodollar collapses. AI. AI collapses. Treasury bond collapses. Will the U.S. not suffer an economic and development catastrophe, which is not part of the U.S. plans? Yeah, this is a good question. But you have to understand, again, a nation -state is a collection of different interests. And these interests are competing against each other.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0037
+
+## seg-0038 / 00:41:30-00:42:37 / SPEAKER_01
+
+Okay? So, you have different interest groups. You have AI. You have finance. You have resources. Okay. And so, what matters is the general direction. So, if the economy were to collapse, the main losers would be finance and AI. Okay? But then what America can do, because it's so wealthy, and its people are so energetic, is, well, let's just focus on building resources. Okay? Oil, food, water, fertilizer. Let's just make this stuff and sell it to the world. Then the economy rebounds. Okay? So, this is actually restructuring. Okay? So, it's something we talked about before, where the purpose is not to destroy America. The purpose is to move power away from one elite to another elite. Okay? This is basically a revolution in America. AI can actually be saved. Okay? With government bailout. And that's what I imagine will happen. Okay? AI and finance, their bubbles will burst. Finance will be allowed to collapse.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0038
+
+## seg-0039 / 00:42:37-00:43:53 / SPEAKER_01
+
+AI will be bailed out, because Trump is very close with these AI overlords, like Peter Thiel and Senator Altman. And then resources. Resources and manufacturing, okay, will become the dominant center of gravity in the American economy. Okay? So, that's a plan. I'm not saying this will happen exactly like this, but that's what they intend to happen. All right. Transnational capital is a game master. Transnational capital will then take its money elsewhere if the empire collapses. So, transnational capital doesn't lose any power. And they can just bet on different horses, Japan, Israel, Germany. Okay. Yeah. So, in my analysis, I use abstract terms that are not accurate, but are useful for simplicity and clarity. Okay? So, you're right in that transnational capital also have competing interests. And just because the empire collapses doesn't mean that all the money goes to Israel. This money will spread out. And that's true. Okay? But the point
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0039
+
+## seg-0040 / 00:43:53-00:44:59 / SPEAKER_01
+
+I'm trying to make is that first of all, most of the money will go to Israel. Why? Because Israel provides the best short -term investment opportunities if you're a trillionaire. Okay? But you're right in that other money will go to other places as well. But again, the best opportunity is Israel. So, you will see the most growth in Israel. And that's why over time, more capital will shift towards Israel. That's how capital works. Okay? Yes, capital will allocate its resources. Capital will put its eggs in different baskets. But ultimately, you have to ask yourself, where is the best investment opportunity? And in the short term, not in the long term, but in the short term, it's going to be the Middle East. Okay? All right. How do we combat the war against truth? How do we engage in discussion that transnational biases? Okay. We all live in fantasies. How do we overcome this? What techniques do you employ in your research?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0040
+
+## seg-0041 / 00:45:00-00:45:59 / SPEAKER_01
+
+All right. Okay. So, things that I do that I think are very important is, first of all, doubt. You always want to question yourself. You always want to ask yourself, am I correct? That's why making predictions is important. Because making predictions, it's actually about creating doubt in yourself. Because if the predictions are wrong, it's not good. If they're wrong, it's a mechanism for you to self -reflect and appreciate the limitations of your model. Okay? So, that's one strategy. Another strategy is debate. Okay? Where you engage in people who think differently than you do. And I do that by watching a lot of YouTube videos, and I try to watch people of different political leanings, who have different viewpoints than I, because I'm interested in hearing their perspective. Okay? So, keep an open mind, engage in people who disagree with you, and have an honest debate with them as well as yourself.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0041
+
+## seg-0042 / 00:46:00-00:47:10 / SPEAKER_01
+
+Now, the last piece, and this is actually something that I do, but most people don't do, is I use my imagination. And all this means is I will go places, I will make certain assumptions that other people don't do. Okay? That's why I think people find me so interesting, because I will say things that are imaginative, that are speculative. But which is not backed up by any evidence. Don't be afraid to do that. Okay? If you want to seek the truth, you have to make some imaginative leaps, into leaps, into the unknown, in order to find the truth. Okay? The truth is not in front of you. The truth is often behind you, or far away from you. Okay? So, you need to be, you don't be afraid to just leap far, okay, into the unknown. All right. Let's continue. Okay. So, Asia and Australia are suffering the most from this global conflict.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0042
+
+## seg-0043 / 00:47:11-00:48:24 / SPEAKER_01
+
+Why are these nations passive? Won't these nations intervene? Okay. Again, a lot of this is misconception in that everyone thinks that the nation states are the constituent players in this game, and the nation states are all equal. They're not equal. They're not. Nation states, they're only certain nations. They're only certain nation states that have the capacity to project force overseas. Russia, America, maybe some European countries. Australia, Asia, and most European countries are just vassal states. They are not capable of playing this game. They're only capable of obeying. Okay? Maybe over time, they'll change their attitude and develop the capacity to play this game. But you have to remember that, like, the GCC, a lot of these European countries, they're anti -European countries, Japan, South Korea, Malaysia, Indonesia, Philippines, they are all co -opted by the CIA. These are all American vassal states. And so they're not capable of acting independently of American policy. There is the illusion that they are independent, but they're not, okay?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0043
+
+## seg-0044 / 00:48:24-00:49:24 / SPEAKER_01
+
+And you can tell because of their actions, in that you're absolutely right in that, okay, if you're Australia and you don't have any more jet fuel, well, then you should send your army or... negotiate with Americans or negotiate with Iranians, but they're not doing that, okay? Japan is, in fact, negotiating with Iran, but Japan is still a vassal state of America. Pakistan is the mediator for this ceasefire talk between America and Iran, but guess what? Pakistan is also just another vassal state, okay? They pretend not to be, but just by their actions, you can know that they are, in fact, vassal states, all right? Okay, civil war breaks out. Who's going to win? Christian Nationalists, Silicon Valley versus the Oman Wall Street, a city versus a country like conflict. Do you believe it will result in separation of the unit into multiple factions? Okay, so
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0044
+
+## seg-0045 / 00:49:24-00:50:36 / SPEAKER_01
+
+if you look at the history of the Roman Republic, once a civil war starts, it almost never ends, okay? That's just the nature of American society, where America is so vast and people are so energetic and ambitious that once a civil war starts, it's very unlikely that it will ever stop, okay? Maybe the intensity will shift over time, but you will have civil war for the next few hundred years, okay? And the question then is, who triumphs? Okay, so if you just use our game theory formula, okay? Cohesion, energy, and openness, and you ask yourself, okay, let's just look at American society and ask yourself, which state has all three? The answer is Texas, okay? And this is pretty clear. If you just look at the 50 states and which state is the most dynamic, which is the most energetic, the most open -minded, it's going to be Texas. California, New York. New York are going to suffer in a civil war.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0045
+
+## seg-0046 / 00:50:36-00:51:50 / SPEAKER_01
+
+The economies will suffer a great deal. Societies will suffer a great deal. Texas will emerge as a clear winner in any conflict, okay? And with Texas, you also have Christian Nationalists, AI, okay? Why Christian Nationalists? Because Christian Nationalists is actually a coherent philosophy. It's coherent. It has a direction. It has a strategy. It has a purpose, okay? So I think Christian Nationalists, will also win out, and then AI will win out because AI can provide the technological support to Christian Nationalists, okay? So if you are working in Texas, if you live in Texas, and if you work in AI, and you're a Christian Nationalist, well, you're going to be a big winner of this civil war, okay? And if you're the opposite, okay? If you are maybe living in New York or California, and you work... and you are maybe an atheist, and you, I don't know, work
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0046
+
+## seg-0047 / 00:51:50-00:53:09 / SPEAKER_01
+
+in art, I don't know, well, you're going to be a clear loser in this war, okay? Often these, what's called professional managerial elite, professional managerial elite living on the coast, these guys are done, okay? Completely useless, cost too much money, contributes nothing to society. These guys are just done, all right? All right, how does an individual survive for what's coming? Family and community, guys, okay? Forget the fact that you are an individual. Leave that behind. You will not survive as an individual. I don't care how much money you have. I don't care how prepared you are. You might have a bad bunker. I don't know. I don't care, okay? But you have to focus on family and community if you are to survive the new world. All right. All right, do you think Iran should have nuclear weapons? No, the worst thing Iran can do at this point is develop a nuclear weapon. Iran can at most have 10 nuclear weapons.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0047
+
+## seg-0048 / 00:53:09-00:54:08 / SPEAKER_01
+
+America has a thousand. There's one way for Iran to lose this war really quickly, and it's to threaten America with a nuclear weapon because that gives America the justification to use its nuclear arsenal, okay? But the other problem, and this is actually more important, problem is the idea of complacency, where if you think you have nuclear weapons, or sorry, if you have nuclear weapons, you think you're, I'm safe. I don't have to worry about anything. No, no, no. It's much better to be creative and resilient and open -minded, okay? So if you don't have nuclear weapons, you're always under threat, right? That forces your people and your society to constantly think about how to be strategic. All right. So nuclear weapons is a bad thing. It's not a good thing. All right. Pax Judaica, doesn't Saudi Arabia see that coming? Why would they allow that to happen? Well, because
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0048
+
+## seg-0049 / 00:54:08-00:55:22 / SPEAKER_01
+
+for Saudi Arabia, what matters is first defeating Iran because the strategy is I defeat Iran, then I'm master of the Muslim world, so I can unite all the two billion Muslims in the world behind me to defeat Israel, okay? So from a perspective of the GCC in Saudi Arabia, Iran is a much bigger threat. Why hasn't the GCC said anything about what's happening in Palestine and Lebanon? The GCC are corrupt vassal states of America. All right. It's not hard. These are all run by the CIA. If Trump is a strategic genius, why did he authorize the insane and stupid film mission to steal uranium, uranium, uranium, uranium? Okay. All right. This is a really good question, and the answer is this. Trump is a genius at politics. He's a genius at screwing over his enemies and accumulating power for himself. He is not a military genius, okay? Trump is a genius at controlling his base.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0049
+
+## seg-0050 / 00:55:24-00:56:34 / SPEAKER_01
+
+Trump is a genius at being a TV star. He's not a genius at geopolitics, okay? These things don't have to be the same. All right. How can Israel sustain a global empire when their religious leaders view the physical destruction of their own cities as a spiritual victory? Okay. It's not that hard to rebuild an economy in a city. It's not, okay? What is hard, though, is to develop the spiritual cohesion of a people, to make them believe in something so that they're willing to die for it, okay? That's what matters. All right. Destroying a city, you can rebuild it in five years' time. It's not that hard. Just hire the Chinese to do it, okay? On nuclear taboos, why would they respect a rational escalation ladder to avoid using nukes? Okay. That's a really good question. If these people are religious, and they're fanatical, and they're crazy, why do they care about nukes? And the answer is they don't care about nukes.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0050
+
+## seg-0051 / 00:56:34-00:57:26 / SPEAKER_01
+
+They think this world is fake, okay? But the problem is they don't care about nukes. The problem is that nuclear weapons, there are institutional constraints and restraints on the use of nuclear weapons, okay? So there's this myth that Donald Trump can just press one button, and all the nukes will go flying. That's not how it works, okay? There are lots of subtle constraints on the president, okay? He has to go get the nuclear football. Then someone has to open for him, and then he can press a button. But if people think Donald Trump is crazy, he's not. If he's crazy, I guarantee you that nuclear football guy is going to run away, okay? There's so many taboos against the use of nuclear weapons. Again, I keep on saying this, but if nuclear weapons are used in this war, we are completely screwed, okay? I don't think nuclear weapons will be used in this war.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0051
+
+## seg-0052 / 00:57:26-00:58:28 / SPEAKER_01
+
+All right. If mass organization are the primary cause of imperial decay, why are unlimited population, unlimited land, so there's reasons that US TechNet will succeed? Okay. All right. Look, I said the US TechNet is the plan. I didn't say it would succeed. Yes, I understand. America can take over all of North America. It can occupy Canada. It can occupy Mexico, Cuba, but when it does that, it's going to create a lot of insurgencies. It's going to create a lot of conflict, so it will be a dumpster fire, okay? Just because you are able to accomplish it doesn't mean you should accomplish it. It doesn't mean it'll be successful. Immigration trap. Why is conforming to rules and working hard considered playing the game wrong if high competence requires resilience in the coming era of resource scarcity? Look, if the game is fair, you want to conform to rules and you
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0052
+
+## seg-0053 / 00:58:28-00:59:41 / SPEAKER_01
+
+want to work hard, but if there's an elite that is parasitic, that is rent -seeking, then by working hard, you're just transferring your energy to the elite. Okay. So before, maybe 20 years ago, America was a place that was very fair, and so if you just worked hard and played by rules, you would succeed. This is no longer true where it's basically an oligarchy and where few people control all the power, okay? All right. The Marines are growing less religious, and so as this war becomes, as this war continues, the framework of Shia -Martinism will continue. So energized Iranians become more cohesive, and the answer is yes. One outcome of this war that we should expect is that Iranian society becomes much more religious, much more fanatical, all right? And one reason is that the Americans are intent on destroying Iranian urban centers like Tehran, okay? So the Americans and the Israelis are bombing railway
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0053
+
+## seg-0054 / 00:59:41-01:00:56 / SPEAKER_01
+
+networks that connect Iran, Tehran to the countryside, and so Tehran might not have access to food. Okay. In which case, Tehran might disappear as a city. In that case, when people are in desperate need, they turn to religion for comfort, okay? And then they have this eschatological drive. So yes, we can expect Iran to become much more eschatological as this war continues. Okay. The U.S. implements a draft, Generation Z refuses, so you have a civil war. Then where's the U.S. military going to get its soldiers? Okay. Let's do a question, and the answer is illegal immigrants, okay? There are about 20 million illegal immigrants in America. They can be arrested, and they can be conscripted, okay? So that's the solution to this problem, because as he points out, young people are not going to fight in this war because it's suicidal. All right. What if you can make cheap drones? Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0054
+
+## seg-0055 / 01:00:56-01:02:18 / SPEAKER_01
+
+So I say, you know. Okay. One of the reasons why cheap drones is with a ground invasion, but America can make even cheaper drones, then wouldn't that solve the problem? And yeah, so the answer is this. We become too obsessed with technology. We think that technology can solve all the problems. And what you don't understand, what people don't appreciate is that technology is built on people, okay? Technology is meant to complement people, to enhance the skills of people. Technology is not designed to replace people. That's the issue that America is facing in this war, where America thinks that by using sophisticated air defense, by using super carriers, by using fighter jets that are stealth, we can reduce civilian casualties and win the war. And it's turned out not to be the case. Why? Because people are much more creative, much more resilient, and much more determined than technology. Okay? So if you have a group of people together, they're always going to figure out a way to defeat your technology.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0055
+
+## seg-0056 / 01:02:18-01:03:28 / SPEAKER_01
+
+So imagine this, okay? You build a robot, and this robot is invincible. Lots of machine guns, nighttime vision, 360 vision, okay? If I fight this robot one -on -one, I'm dead. Right? Okay? But I'm a human being. I'm not stupid. So what I'm going to do is I'm going to lure this robot into a dark forest or a cave where the robot's going to stumble and where I can maybe throw a rock or pour water on it, okay? But because technology, it's static, people are dynamic and creative, okay, and spontaneous. So that's what makes people so wonderful. Because we humans, we're dynamic. We're creative. We're spontaneous. We're not afraid to die for what we believe in. A robot is just going to do what a robot's going to do. So it's completely predictable. We are not predictable, okay? That's why if you insist on using technology and drones as your main military strategy, you will lose this war.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0056
+
+## seg-0057 / 01:03:28-01:04:29 / SPEAKER_01
+
+You have to commit your people to total war. You have to find people who are willing to die for what they believe in, and then you'll win this war. And that's why I believe that, ultimately, America will lose this war. America will lose this war in Iran because American people don't have the political will to fight this war. I don't care how much money you put in this war, you're going to spend $100 trillion. I don't care. I don't care how much technology you have, you're still going to lose this war unless you're able to galvanize the patriotism and political will of your people, okay? Alright. Israel will be humbled. Doesn't that change Pax Judaica? Okay. Alright. Okay. So Pax Judaica and Israel are not the same thing. Okay. So Pax Judaica is a project of transnational capital. So think of Israel as the host, Pax Judaica as the parasite, okay?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0057
+
+## seg-0058 / 01:04:29-01:05:27 / SPEAKER_01
+
+And the same thing happened in America, where at the end of the 19th century, you have all this transnational capital coming into America through Wall Street and through manufacturing, the economy. They were able to control America through the Federal Reserve, okay? So transnational capital is the parasite. America is the host. So in this situation, Israel is the host and Pax Judaica will be the parasite or transnational capital. Okay. So it doesn't matter what happens to Israel. They can bomb Israel through smithereens. It doesn't matter. Who cares? Because transnational capital can come into the region, hire Chinese, Filipinos, Indians to rebuild Israel, okay? Is the war going to transfer? The transfer? Is the transfer going to transfer wealth from the old to the young in the US or worsen it? Okay. Yeah. This is an excellent question. This is really a key question if you really understand geopolitics.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0058
+
+## seg-0059 / 01:05:27-01:06:38 / SPEAKER_01
+
+The answer is, as this war continues, as chaos continues throughout the world, more money will be transferred to the old than to the young. Okay? So all this inequality, this generational inequality that we're seeing in America will worsen. And the reason why is that in a time of chaos, in a time of conflict, okay, capital always triumphs. Okay? And the reason why is that capital is able to foresee risk, to distribute risk properly, and take advantage of risk. Okay? If I have $200, it's almost impossible for me to lose my money. And I can make more money. Okay? So imagine a situation where, okay, I have $200, I'll invest a billion in America, a billion in Iran, a billion in Israel. I can't possibly lose this war. Okay? But if you have like a thousand dollars, I guarantee you, you're going to lose all your money. And the reality right now
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0059
+
+## seg-0060 / 01:06:38-01:07:53 / SPEAKER_01
+
+is that the old, not all the old, but a minority of the old, the old hierarchy have all the capital and the young have nothing. Okay? So it's the young who will give up all their money to the old, and it's the young who will be asked to die in the Middle East so that the old can maintain their power. Okay? And that's a historical pattern. Okay, civil war, AI, Republicans, finance, Democrats. Okay, absolutely correct in that. These categories are not that simple. It's a very fluid situation where AI is going to bet on both Democrats and Republicans. Finance is going to bet both on Republicans and Democrats. But for the sake of my analysis, I create these categories so that I can project into the future. I can extrapolate into the future, but you're absolutely right in that these categories are problematic. Okay? All right. America's plan is to weaken the global economy by letting the war drag on.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0060
+
+## seg-0061 / 01:07:54-01:08:59 / SPEAKER_01
+
+Okay? So if Iran wants the U.S. to leave, how can Israel still achieve its plan? Okay, first question. Is America trying to slowly weaken the global economy by letting the war drag on? And the answer is, it's not intentional, but it's a consequence, meaning America can suffer the consequence of the collapse of the global economy because America is self -sufficient and it can always retreat back into its fortress. It's the global economy that will suffer. So it will seem in hindsight that America had this plan all along, when in reality it's just because no matter what America does, it always wins. Okay? That's a benefit of being America. No matter what happens, you always win. Iran wants the U.S. to leave, but then how can Israel achieve the greater Israel project? And the answer is, Israel will not let the U.S. leave. Okay? I mean, Israel right now is a parasite, the U.S.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0061
+
+## seg-0062 / 01:08:59-01:10:03 / SPEAKER_01
+
+is the host. Once the U.S. leaves, Israel becomes a host, Pax Judica, transnational capital, becomes a parasite. Okay? So there's no way the U.S. is going to leave the GCC region. Will the two weeks ceasefire hold? No. Okay? No. Forget about the ceasefire. It's all theater. And like, think about who is negotiating the ceasefire. Do you have George Kushner? No. And you have Sivakov. The same two guys that screw up the negotiations which led to this war in Oman. Okay? And then where is this taking place? It's taking place in Pakistan, which is a vassal state of the United States. So these negotiations will go nowhere. All right. How do you fit variables and general human in your game theory model? Yeah, that's a really good question. Okay? And the answer is, I don't use math. It's impossible. It's impossible to model random human behavior. It's just impossible.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0062
+
+## seg-0063 / 01:10:03-01:11:02 / SPEAKER_01
+
+Maybe if I had like a million years of data, I could do that, but I can't do that. I have like a few hundred years of data, so I don't even use math. I know it's game theory. I know it's supposed to use math, but I'll be constrained by math. Okay? So I use a lot of intuition. I use a lot of doubt. I use a lot of debate. Okay? So doubt, debate, imagination. How would Israel... Wait. Okay. So Israel is a prized state. How can I achieve Pax Judaica? Okay. Okay. So this is confusing for people, but like public opinion does not matter in geopolitics. Rome was this genocidal state. No one cared. It didn't care. It still became the empire lasted for a thousand years. Okay? Even today, we still worship Rome. The Aztecs were known for human sacrifice. Didn't matter. They still became the empire of Mexico. The British. The British.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0063
+
+## seg-0064 / 01:11:02-01:12:17 / SPEAKER_01
+
+Hmm. They created all these wars in Europe. They enslaved the Indian population and destroyed their economy and stole trillions of dollars from them. They addicted Chinese to opium. Do we ever talk about this? I mean like if we had an opinion poll back in the 1850s, I think most of the world would be like the British empire is evil. They're genocidal. We still worship the British empire today. Okay? So public opinion does not matter. We've come to this delusion that our opinions matter in geopolitics. It doesn't matter in geopolitics. What matters is power. Okay? Oh, that's it, guys. Wow. Oh, okay. All right. We did it, guys. We did the midterm. Okay? So hopefully I did well on this midterm. We also have a final examination. So I look forward to that. But thank you for the questions. And we will take a one -week break next week and then we'll come back and continue game theory and our analysis of the U.S.-Iran war.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0064
+
+## seg-0065 / 01:12:17-01:12:23 / SPEAKER_01
+
+So any questions? Yeah. Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0065
+
+## seg-0066 / 01:12:25-01:13:38 / SPEAKER_00
+
+So I have like... So my first question is about the global economy. Like in one previous discussion, you argued that the U.S.-centric global economy system would collapse after the Iran war, leading to the re -militarization of virus nations and severely disrupting the global trade. However, why a new global economic system created while a few countries will not emerge? Because even though this system would inevitably create significant inequality, it's not going to bring about the economic inequality among the countries. It would still bring substantial wealth and economic benefits to participating nations. Why create... Which I think will create motivation for these countries to build it. Okay. Yeah. And historically, after the age of explorations, I think the collapse of each imperial system leads to the rise of the new empires. For example, the Spanish maritime collapse and the British empire gradually replaced. And after the World War I and II, the new empire was created.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0066
+
+## seg-0067 / 01:13:38-01:13:45 / SPEAKER_00
+
+The American became the empire that replaced the British. Like, so why won't this happen again?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0067
+
+## seg-0068 / 01:13:45-01:15:12 / SPEAKER_01
+
+Okay. Okay. So the basis of the global economy is the U.S. dollar. Okay. So what is the U.S. dollar? The U.S. dollar is basically a contract system. Okay. So when I use U.S. dollar, basically it's a contract that our trade will be honored. Okay. Right. But with a contract system, you also need an enforcement mechanism. Okay. Meaning, look, if you don't honor the contract, then someone has to come beat you up. Right. Otherwise, you'll just ignore the contract. So that's what the U.S. military is for. All right. Now, there's certain problems with this system. The first problem is that it's actually very costly to create a contract system. Okay. Why? Because you're absorbing all the risk. Okay. So you're the U.S. economy, you print U.S. dollars to enable the world to trade with each other. Okay. But when you do that, you are collecting a tax. But at the same time, it's putting a tremendous strain on your economy.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0068
+
+## seg-0069 / 01:15:13-01:16:25 / SPEAKER_01
+
+Okay. Because this leads to financialization, which is just risk and speculation. Okay. So all this excess money is being created around the world, and you have to absorb it into your economy, which causes inflation, which causes things to be unaffordable to your people. All right. So that's the first problem. Okay. It's really expensive on the population. The population in America must absorb the cost of excess liquidity in the world. Okay. Does that make sense? Okay. The second problem is the military. The military must be willing to fight any wars around the world at any time. Okay. So the question then is, is there any nation in the world besides America? That's one, willing to absorb the cost of creating a contract system, being the global reserve currency, and number two, that's willing to fight a war to enforce this mechanism anytime anywhere in the world.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069
+
+## seg-0070 / 01:16:25-01:17:08 / SPEAKER_01
+
+And the answer is no, hell no. Okay. This system is retarded. It is unbelievable that America agreed to the system in the first place. And most Americans would say, well, we just got stuck. We're stuck with this system. And certain people benefited from the system, but most people don't actually benefit from the system. So the idea that anyone is going to come and say, oh, you know, we'll just take over the system, whether it be Russia or China, that's just retarded. Okay. No one's going to replace America. So the global economy is just going to fracture because again, no one's willing to accept the cost to be the global reserve currency. It's just too expensive. Right. Does that make sense? Yeah. Okay. Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0070
+
+## seg-0071 / 01:17:14-01:17:24 / SPEAKER_00
+
+So you're talking about a country like Japan and Germany as you mentioned before, or America, like they fall into a group that, well, together built a global economic system.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0071
+
+## seg-0072 / 01:17:27-01:18:09 / SPEAKER_01
+
+Because ultimately you have to resolve the issue of benefit. Okay. Okay. Like we have to negotiate who benefits. Okay. It doesn't make sense. And it's hard for nation states to figure that out. It's much easier to have an empire. It's much easier for me to impose my power onto you. But for us to like work together peacefully, maybe for a couple of years, okay, but it's very unsustainable. All right. Why? Because of domestic concerns, which your population will want to maximize the benefit from this relationship. Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0072
+
+## seg-0073 / 01:18:12-01:18:41 / SPEAKER_00
+
+So, my second question is about the value of the culture of the world. As we discussed before, the culture of the world is very important. Before this world today is highly materialistic, with many and the pursuit of material possessions become the main private forces in society. And innovation of the future believe that people will place greater emphasis on religion and spiritual life. But how exactly will this transformation occur?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0073
+
+## seg-0074 / 01:18:42-01:18:46 / UNKNOWN
+
+Because this will occur through like war or suffering.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0074
+
+## seg-0075 / 01:18:46-01:19:02 / SPEAKER_00
+
+Then in history, we go through like World War I and World War II. Many people die. Many tragedies happen. But it seems that this value, this materialistic value doesn't change because that's what we have today. Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0075
+
+## seg-0076 / 01:19:02-01:19:57 / SPEAKER_01
+
+So, I didn't say everyone will experience this transformation. What I'm saying is that those who undergo the transformation will most likely survive the coming world collapse. Okay. So, you can choose to say like, I want to be materialistic. You can do that. And most people will choose to continue to want to be materialistic. But they won't survive. Okay. And those who do undergo the transformation will survive. And why do they undergo the transformation? Because they see the world collapsing around them and they are looking for comfort. They're looking for a story. They're looking for explanation. And so they turn to religion. Okay. Does that make sense? Okay. And the reality is that, look, in the coming 50 years of all this chaos and war, I would say 90 % of humanity will be wiped out. And a lot of these people will be because they refuse to adapt. To the new world, they refuse to believe that a new world is coming and they should prepare for it.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0076
+
+## seg-0077 / 01:19:57-01:20:01 / SPEAKER_01
+
+Okay. They refuse to change their minds. Okay. Any more questions?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0077
+
+## seg-0078 / 01:20:02-01:20:02 / UNKNOWN
+
+Yeah.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0078
+
+## seg-0079 / 01:20:06-01:20:08 / SPEAKER_01
+
+Maybe two. Okay. Okay.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0079
+
+## seg-0080 / 01:20:08-01:20:37 / SPEAKER_00
+
+Yeah. The first is like, he had some questions about ours as individuals in this world. He said that efforts are defined based on the consequentialism of secret society and other definitions. Okay. What is the significance of our efforts? Isn't it still exacerbating the secret society? Do we have a way to define our own value? Or can we only live in the eye of others?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0080
+
+## seg-0081 / 01:20:37-01:21:15 / SPEAKER_01
+
+Yeah. It's absolutely pointless to worry about secret societies. It's absolutely pointless to worry about others. What you can do is live your life to the best of your ability. You can be focused on learning, on developing yourself spiritually. And intellectually and emotionally. You can be focused on reading books, on asking questions. Okay. And if you do that, you'll be fine. So stop worrying about secret societies. Stop worrying about the end of the world and just focus on your own personal transformation. Okay. All right. One more.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0081
+
+## seg-0082 / 01:21:15-01:21:34 / SPEAKER_00
+
+Question is related to the Chinese students. He said that, how do you think Chinese students who are currently studying in the United States, will be perceived in the future while Chinese people discriminate against us, U.S. American students in the future?
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0082
+
+## seg-0083 / 01:21:35-01:22:34 / SPEAKER_01
+
+Look, the reality is that the age of globalization is over. The idea that Chinese students learn English, hop in a plane, go to America to study for four years and come back and get a good job, that era is over. And quite honestly, I'll be honest with you, I don't even know why Chinese students do this in the first place. Okay. Again, I think a lot of it has to do with the fact that China is not a real nation state. It's just a projection, a mirage created by the global economy. But I mean, Chinese students now are focused on getting the degree in America. It's just a piece of paper. Chinese students don't care enough about an education, about learning. Okay. That's a great myth about Chinese students in this world, where Chinese students are the best in the world. Okay. They care about our learning and our discipline. That's not true. Chinese students are extremely, extremely motivated.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0083
+
+## seg-0084 / 01:22:34-01:23:05 / SPEAKER_01
+
+They care about the grades. They care about the degree. Once you take that away from Chinese students, Chinese students don't even know what to do. They play video games every day. They just sit around and do nothing. Okay. So if Chinese students are to thrive in the future, they need to learn passion. They need to learn interesting motivation. They need to love learning for itself. All right. Okay. All right. So that is it. Thank you for the midterm, and I will see everyone the week after. Okay. So we're taking a break next week.
+
+Ref: video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0084

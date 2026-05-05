@@ -1,0 +1,159 @@
+{
+  "packet_id": "predictive-history-ue8y5e3hnhe-semantics-pkt-0009",
+  "source_id": "video:predictive-history-ue8y5e3hnhe",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0065",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0066",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0067"
+      ],
+      "kind": "question",
+      "summary": "A student asks why a new global economic system or consortium would not replace the U.S.-centric system after collapse, as earlier empires were replaced.",
+      "speaker_attribution": "Student/audience question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0068",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0070",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the U.S. dollar is a contract system backed by military enforcement, and no other country or coalition wants to absorb the reserve-currency cost or fight everywhere to enforce it.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0071"
+      ],
+      "kind": "question",
+      "summary": "The student follows up by asking whether countries such as Japan, Germany, or America could jointly build a global economic system.",
+      "speaker_attribution": "Student/audience question",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0066",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0067",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0071"
+      ],
+      "note": "These segments are audience/student questions despite diarization labels; surrounding answer structure makes attribution clear.",
+      "suggested_speaker": "Student/audience",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The U.S. dollar functions as a global contract system: trade promises are honored because a military enforcement mechanism stands behind the contract.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0068",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Dollar-system model stated on 2026-04-09.",
+      "topic_tags": [
+        "U.S. dollar",
+        "contract system",
+        "military enforcement"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Reserve-currency status taxes and strains the issuing economy because it must absorb global liquidity, inflation, and financialization.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0068",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Reserve-currency diagnosis stated on 2026-04-09.",
+      "topic_tags": [
+        "reserve currency",
+        "financialization",
+        "inflation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "No nation besides America is willing to absorb both the economic cost of global reserve currency and the military burden of enforcing it anywhere in the world.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Global system prediction stated on 2026-04-09.",
+      "topic_tags": [
+        "global economy",
+        "reserve currency",
+        "America"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "A cooperative replacement system among states is unsustainable because participants must negotiate who benefits, while empire can impose the answer by power.",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0071",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Imperial coordination model stated on 2026-04-09.",
+      "topic_tags": [
+        "empire",
+        "cooperation",
+        "benefits"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0068",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069"
+      ],
+      "moment": "The dollar is a contract backed by someone who can beat you up if you break it.",
+      "source_phrase": "someone has to come beat you up",
+      "why_it_matters": "It gives a brutal, simple model of money as enforcement.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0070"
+      ],
+      "moment": "No one will replace America because no one wants the cost of being America.",
+      "source_phrase": "no one's willing to accept the cost",
+      "why_it_matters": "It is the core answer to the student's replacement-empire question.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "contract system",
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0068",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Jiang's model of the U.S. dollar order as a promise-and-enforcement regime backed by U.S. military power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0066",
+        "video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0072"
+      ],
+      "note": "This post-midterm exchange directly answers why Jiang expects fracture rather than a successor global economic order.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
