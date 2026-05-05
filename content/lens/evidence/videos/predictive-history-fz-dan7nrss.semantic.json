@@ -1,0 +1,1714 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-fz-dan7nrss:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-fz-dan7nrss",
+  "source_id": "video:predictive-history-fz-dan7nrss",
+  "source_title": "Game Theory #11:  The Law of Escalation",
+  "source_url": "https://www.youtube.com/watch?v=fz-Dan7NRss",
+  "source_date": "2026-03-10",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-fz-dan7nrss@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-fz-dan7nrss/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-fz-dan7nrss/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-fz-dan7nrss/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 16,
+    "speaker_notes": 8,
+    "claims": 58,
+    "signature_moments": 24,
+    "predictions": 14,
+    "models": 18,
+    "glossary_terms": 24,
+    "chronology_notes": 8,
+    "uncertainty_notes": 2
+  },
+  "first_refs": [
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0001",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0002",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0003",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0004",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0005",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007",
+    "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0001",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0002",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0003",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0004",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0005",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the U.S.-Iran war analysis with three testable questions: whether the United States will launch a ground invasion, whether nuclear weapons will be used, and whether the Al-Aqsa Mosque will be destroyed. He then introduces the standard escalation-dominance theory and says the lecture will show why mere dominance is the wrong way to read the war.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0009",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0013",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0014",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0015",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang defines the law of escalation: control, calibration, and strategic flexibility matter more than dominance. He then stages the bully-school thought experiment, where a cafeteria tax system appears stable until a new kid refuses the rules and exposes hidden dissent.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0017",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0018",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0019",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0020",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0021",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0022",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0023",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the bully parable and applies it to the U.S. escalation ladder. The bully’s need to preserve face makes him manipulable; the United States likewise moves through decapitation, military strikes, embargo, civilian infrastructure attacks, secret weapons, biochemical weapons, and only much later nuclear weapons.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0025",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0026",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0027",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0028",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0029",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0030",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0031",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang contrasts Iran’s escalation ladder with the U.S. ladder. Iran can target military systems, close Hormuz selectively, tax or exempt ships, and retaliate proportionally, giving it calibration and options. He then argues Iran is active, clear, and flexible while the U.S. is passive, ambiguous, and inflexible, and that winning requires unity, censorship, militarization, and total-war mobilization.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0033",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0034",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0035",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0036",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0037",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0038",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0039",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang broadens escalation into four dimensions, then explains why a real attritional war forces a correct military cost pyramid. He argues the United States cannot fight Iran like Iraq 2003 and must return to cheap soldiers at the base of the pyramid. He then lists the four players and begins mapping their conflicting objectives.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0041",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0042",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the player-strategy map: Israel, Saudi Arabia, and Iran all benefit from forcing the United States into a long ground war. He concludes the U.S. will use ground troops and nuclear weapons will not be used because nuclear use would end the war too quickly and undermine Israel’s interest in exhausting U.S. political will.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0045"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Americans will take over Iran like they did Venezuela by capturing or removing its president.",
+      "speaker_attribution": "Student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0046"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that a Venezuela-style decapitation/regime-change strategy was the initial plan, but Iran differs because its elite has been sanctioned for decades, is poorer and angrier, and loses nothing by resisting the United States.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0047"
+      ],
+      "kind": "question",
+      "summary": "A student asks why the United States would risk whole-system collapse to control Iranian oil if the war is so dangerous.",
+      "speaker_attribution": "Student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with the simple heartland explanation: U.S. doctrine is to prevent the Eurasian heartland from unifying because a unified heartland threatens American power.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues answering why the United States would risk the war: American sea-power hegemony depends on preventing Eurasian heartland cohesion, because rail-linked heartland trade would bypass maritime routes and the U.S. dollar system.",
+      "speaker_attribution": "Jiang answer to prior student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0052",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0054"
+      ],
+      "kind": "question",
+      "summary": "A student asks how Saudi Arabia could possibly pursue the huge goal of seeing Israel, the United States, and Iran fall.",
+      "speaker_attribution": "Student question with Jiang correction in seg-0053",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0053",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0055",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang corrects the target list and begins the answer: Saudi Arabia wants the downfall of Israel, the United States, and Iran, and its conflict with Iran comes from monarchy versus theocracy, Sunni versus Shia, pro-U.S. alignment, and U.S. bases in the Holy Land.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes his answer on Saudi Arabia: with oil decline ahead, Saudi Arabia needs chaos among the United States, Israel, and Iran so it can rise, control Middle East trade access, and possibly split the region with Israel after the war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by restating the three predictions: U.S. ground troops if the war continues or the U.S. wants to win, no nuclear weapons, and eventual destruction of Al-Aqsa, to be discussed next class.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0060"
+      ],
+      "kind": "unclear",
+      "summary": "A brief closing “Bye” is captured with unknown speaker identity.",
+      "speaker_attribution": "Unknown closing voice",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0001",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0002",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0003",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0004",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0005",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0008"
+      ],
+      "note": "Single continuous Jiang lecture; rhetorical questions are lecture framing rather than audience questions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0009"
+      ],
+      "note": "Diarization is a hint; focus refs read as Jiang lecture except where student question spans are explicitly separated.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0017"
+      ],
+      "note": "Diarization is a hint; focus refs read as Jiang lecture except where student question spans are explicitly separated.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0025"
+      ],
+      "note": "Diarization is a hint; focus refs read as Jiang lecture except where student question spans are explicitly separated.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0033"
+      ],
+      "note": "Diarization is a hint; focus refs read as Jiang lecture except where student question spans are explicitly separated.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0041",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0042",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0044",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0045",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0046",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0047",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0048"
+      ],
+      "note": "Segments 45 and 47 are substantive student questions; segments 46 and 48 are Jiang answers. Segment 41 begins with ASR damage (“.S.” for “U.S.” and stray words), but the strategic content is recoverable from context.",
+      "suggested_speaker": "Mixed: Jiang plus students",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0051",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0052",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0053",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0054",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0055",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0056"
+      ],
+      "note": "Segments 52 and 54 are one student question split by Jiang’s correction in segment 53; segments 49-50 continue Jiang’s answer to the prior heartland question.",
+      "suggested_speaker": "Mixed: Jiang plus student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0058",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "note": "Jiang remains the main speaker through the closing; segment 0060 is a minimal unknown closing utterance and does not affect the semantic content.",
+      "suggested_speaker": "Jiang except seg-0060 unknown",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that if the United States launches a ground invasion of Iran, the war will escalate quickly and trap the United States for five to ten years, making the loss catastrophic whether it wins or loses.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-10 about the U.S.-Iran war then under discussion.",
+      "topic_tags": [
+        "u.s.-iran-war",
+        "ground-invasion",
+        "mission-creep"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "A U.S. ground war in Iran would require a national draft that sends men as young as eighteen into the army.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Conditional prediction made on 2026-03-10.",
+      "topic_tags": [
+        "draft",
+        "ground-war",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says nuclear use remains a geopolitical taboo; Israeli tactical nuclear use would break the post-World-War-II taboo and risk nuclear apocalypse.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "nuclear-taboo",
+        "israel",
+        "geopolitics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He identifies Al-Aqsa as the third key war question because its destruction would religiously obligate the Muslim world, in his account, to war against Israel.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0003",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Conditional diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "al-aqsa",
+        "religious-war",
+        "israel"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang makes three explicit game-theory predictions: U.S. ground troops yes, nuclear weapons no, and Al-Aqsa destruction yes; he says the validity of the theory depends on all three being correct.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0004",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0005",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Predictions made on 2026-03-10.",
+      "topic_tags": [
+        "game-theory",
+        "prediction",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The dominant escalation-ladder theory says the actor with escalation dominance has the advantage, but Jiang rejects this theory as incomplete for the U.S.-Iran war.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Model critique stated on 2026-03-10.",
+      "topic_tags": [
+        "escalation-ladder",
+        "escalation-dominance",
+        "model-critique"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang’s street-fight model, escalation is not just the two fighters; spectators, friends, police, and God become audiences before whom each move must be justified.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "General model introduced on 2026-03-10.",
+      "topic_tags": [
+        "audience-costs",
+        "escalation",
+        "justification"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Escalation is driven by emotion, power, and reason, with adrenaline pushing actors step by step rather than straight from insult to gunfire.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "General model stated on 2026-03-10.",
+      "topic_tags": [
+        "escalation",
+        "adrenaline",
+        "conflict-model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The point of escalation is not to climb fastest, but to climb strategically while remaining calm enough to maintain focus, clarity, and resolve.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0009",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "General model stated on 2026-03-10.",
+      "topic_tags": [
+        "calibration",
+        "focus",
+        "resolve"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the law of escalation as control being more important than dominance.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Definition stated on 2026-03-10.",
+      "topic_tags": [
+        "law-of-escalation",
+        "control",
+        "dominance"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Calibration means timing, structuring, or strategizing a response so that it achieves the strategic objective while preserving justification before spectators and authorities.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Definition stated on 2026-03-10.",
+      "topic_tags": [
+        "calibration",
+        "strategic-flexibility",
+        "justification"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Strategic flexibility means the actor with the most options and the most flexible strategy usually wins the fight.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "General model stated on 2026-03-10.",
+      "topic_tags": [
+        "strategic-flexibility",
+        "options",
+        "game-theory"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bully-school model begins with an apparently beneficial coercive order: students pay a cafeteria tax because the bully keeps peace and order.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0013",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Thought experiment introduced on 2026-03-10.",
+      "topic_tags": [
+        "bully-model",
+        "taxation",
+        "order"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bully’s hubris grows from obedience; he raises taxes and pays his own friends less, producing latent dissatisfaction before the new kid appears.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0014",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Thought experiment introduced on 2026-03-10.",
+      "topic_tags": [
+        "hubris",
+        "credibility",
+        "rebellion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The new kid’s refusal to play along reveals that the cafeteria order rests on belief and compliance, not just raw force.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0015",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Thought experiment introduced on 2026-03-10.",
+      "topic_tags": [
+        "refusal",
+        "social-order",
+        "revolt"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The new kid creates rebellion because other students and even the bully’s allies begin to see alternative alliances once someone refuses the cafeteria rules.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0017",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Thought experiment continued on 2026-03-10.",
+      "topic_tags": [
+        "rebellion",
+        "alliances",
+        "bully-model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The bully has dominance but loses control because his credibility depends on demonstrating power; calibrated resistance can force him into retreat or self-destruction.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0019",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Model conclusion stated on 2026-03-10.",
+      "topic_tags": [
+        "credibility",
+        "self-destruction",
+        "calibration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang maps the U.S. escalation ladder as decapitation, military targets, economic embargo, civilian infrastructure, secret weapons, biochemical weapons, then nuclear weapons.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0021",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0022",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Model of the U.S.-Iran war stated on 2026-03-10.",
+      "topic_tags": [
+        "u.s.-escalation-ladder",
+        "iran",
+        "nuclear-weapons"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says U.S. decapitation and military-target attacks have not worked, and attacks on civilian water and oil infrastructure mark the current stage of escalation.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0021",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0022",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Assessment of current war stage on 2026-03-10.",
+      "topic_tags": [
+        "civilian-infrastructure",
+        "decapitation",
+        "airstrikes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls attacks on civilian infrastructure war crimes or violations of international law, while explaining them as the move actors make when they need more pressure to win.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Normative diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "war-crime",
+        "civilian-infrastructure",
+        "international-law"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He rejects near-term nuclear-use fears because, in his escalation model, secret and biochemical weapons have not appeared, so nuclear weapons are still several steps away.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0023",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Prediction and diagnosis made on 2026-03-10.",
+      "topic_tags": [
+        "nuclear-weapons",
+        "secret-weapons",
+        "biochemical-weapons"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Civilian-infrastructure attacks can backfire by uniting the population behind the government, when the attacker’s aim is to split people from the regime.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "General model applied to Iran on 2026-03-10.",
+      "topic_tags": [
+        "civilian-casualties",
+        "regime-change",
+        "political-backfire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran’s early escalation moves are attacks on U.S. radar and air-defense systems plus closing the Strait of Hormuz to pressure GCC states and East Asia.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Diagnosis of Iran’s strategy stated on 2026-03-10.",
+      "topic_tags": [
+        "iran",
+        "strait-of-hormuz",
+        "gcc"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "If Iran is forced higher on the ladder, Jiang says it will mirror economic and civilian-infrastructure attacks, including oil fields and desalination plants, but lacks nuclear, biochemical, and intercontinental options.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Conditional model stated on 2026-03-10.",
+      "topic_tags": [
+        "iranian-escalation",
+        "desalination",
+        "retaliation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Closing Hormuz gives Iran calibration because it can selectively let Chinese ships, bribing GCC states, or states defecting from the U.S. pass through.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Model stated on 2026-03-10.",
+      "topic_tags": [
+        "calibration",
+        "strait-of-hormuz",
+        "selective-pressure"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran’s decision tree aims to force the United States to admit defeat and retreat from GCC military bases so Iran can control Hormuz and world trade.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "decision-tree",
+        "u.s.-bases",
+        "world-trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran has escalation control, in Jiang’s account, because its targeting options are more diverse and selective than U.S. and Israeli air-power escalation.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0028",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Model conclusion stated on 2026-03-10.",
+      "topic_tags": [
+        "escalation-control",
+        "iran",
+        "air-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran is active, clear, and flexible, while the United States is passive, confused by the vague goal of “destroy Iran,” and strategically inflexible.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0029",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0030",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Comparative diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "iran",
+        "united-states",
+        "strategic-flexibility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts Iran will probably win the war, but that winning requires focus, clarity, and resolve translated into unity, censorship, militarization, and total war.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0031",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Prediction and model stated on 2026-03-10.",
+      "topic_tags": [
+        "iran-victory",
+        "total-war",
+        "censorship"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "War escalation is multidimensional: narrative, political, economic, and military dimensions all constrain how states move, and the military dimension may be the least important.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0033",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Model stated on 2026-03-10.",
+      "topic_tags": [
+        "multidimensional-war",
+        "narrative",
+        "politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nuclear weapons are constrained by narrative, political, economic, and stakeholder factors; war is not simply weaponry or resources.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Model stated on 2026-03-10.",
+      "topic_tags": [
+        "nuclear-restraint",
+        "stakeholders",
+        "war-model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A correct war cost pyramid puts infantry at the bottom because soldiers are cheapest, then armor/artillery, naval power, and air power as more expensive layers.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Model stated on 2026-03-10.",
+      "topic_tags": [
+        "cost-pyramid",
+        "infantry",
+        "attrition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States has an inverse cost pyramid and treated Iraq 2003 as a video game because U.S. dominance made that war unlike a real attritional war.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "u.s.-military",
+        "iraq-war",
+        "inverse-pyramid"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "If the United States wants to win the Iran war, Jiang says it must use ground troops because it cannot afford to fight a real war primarily with expensive airplanes.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0036",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-10.",
+      "topic_tags": [
+        "ground-troops",
+        "cost-benefit",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies four major players in the war: the United States, Israel, Saudi Arabia, and Iran.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0037",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Game model stated on 2026-03-10.",
+      "topic_tags": [
+        "four-player-game",
+        "u.s.-iran-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The United States wants to destroy Iran to control Middle East oil and global trade through the Strait of Hormuz, while Iran wants to control Hormuz, destroy CENTCOM, and humble Israel.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0038",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Player-objective diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "u.s.-objectives",
+        "iran-objectives",
+        "centcom"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Israel’s optimal strategy differs from America’s: Jiang says Israel would want CENTCOM, Iran, and Saudi Arabia destroyed so Israel becomes the sole Middle East hegemon under the Greater Israel project.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Player-objective diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "israel",
+        "greater-israel",
+        "hegemony"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel, Saudi Arabia, and Iran all want to destroy or weaken the United States by forcing it into a long ground war.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0041",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Player-strategy diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "long-ground-war",
+        "player-incentives",
+        "united-states"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Israel would not want nuclear weapons used because nuclear use would end the war too quickly, while Israel wants the war prolonged until U.S. political will collapses.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0041",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Prediction and diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "israel",
+        "nuclear-weapons",
+        "political-will"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nuclear use is constrained by troop morale, public opinion, political will, enemy morale, narrative control, political landscape, and resource marshalling.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Model stated on 2026-03-10.",
+      "topic_tags": [
+        "nuclear-restraint",
+        "morale",
+        "narrative"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concludes that the United States will use ground troops because Iran, Saudi Arabia, and Israel can manipulate a passive, incoherent United States into a ground invasion.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-10.",
+      "topic_tags": [
+        "ground-invasion",
+        "passivity",
+        "manipulation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang answers that a Venezuela-style strategy was the initial U.S. approach to Iran: kill leaders, hope a compliant new elite emerges, and force surrender through superior power.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0045",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "venezuela-model",
+        "decapitation",
+        "regime-change"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran differs from Venezuela because decades of sanctions have made the Iranian elite unified against the United States, with little to lose by fighting.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "iranian-elite",
+        "sanctions",
+        "resistance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In response to a student’s oil-risk question, Jiang says the simple explanation for U.S. involvement is military doctrine: prevent the heartland from unifying.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0047",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "heartland",
+        "u.s.-doctrine",
+        "oil"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American grand strategy is to prevent heartland cohesion by blocking any great power or by creating enough conflict that Eurasian powers fight each other.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "heartland",
+        "american-grand-strategy",
+        "sea-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The rise of BRICS cooperation among Russia, Iran, and China threatens U.S. hegemony because Europe, the Middle East, Africa, and India could follow the heartland trade system.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "brics",
+        "heartland",
+        "trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The United States has no choice but to fight the war, in Jiang’s simple explanation, because preventing heartland unification is its strategy for maintaining world hegemony.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "u.s.-hegemony",
+        "heartland",
+        "world-trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang formulates the hegemonic rule as: whoever controls world trade controls the world, and whoever controls the heartland controls world trade.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Model stated on 2026-03-10.",
+      "topic_tags": [
+        "world-trade",
+        "hegemony",
+        "heartland"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Saudi Arabia wants the downfall of Israel, the United States, and Iran, not only the United States and Iran.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0052",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0053",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Correction during student exchange on 2026-03-10.",
+      "topic_tags": [
+        "saudi-arabia",
+        "player-objectives",
+        "middle-east"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Saudi-Iran hostility is rooted, in Jiang’s account, in monarchy versus theocracy, Sunni versus Shia division, and Saudi pro-U.S. alignment with U.S. bases in the Holy Land.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0055",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "saudi-arabia",
+        "iran",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Saudi Arabia’s oil economy is a strategic problem because it has tried to diversify into knowledge, tourism, and games but still depends heavily on oil exports.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "saudi-economy",
+        "oil",
+        "diversification"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Saudi Arabia’s long-term problem is oil decline; Jiang says controlling Middle East trade access through Hormuz is a viable future compared with waiting for oil to lose importance.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Answer to student question on 2026-03-10.",
+      "topic_tags": [
+        "saudi-arabia",
+        "oil-decline",
+        "hormuz"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Saudi Arabia wants a conflict where the United States, Israel, and Iran destroy each other so Saudi Arabia can come out on top.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Player-strategy diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "saudi-strategy",
+        "chaos",
+        "middle-east"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because Israel has nuclear weapons and cannot be destroyed, Jiang says Saudi Arabia’s goal is to negotiate peace after the war and potentially split the Middle East between Israel and Saudi Arabia.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Conditional strategy diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "saudi-arabia",
+        "israel",
+        "postwar-order"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Saudi Arabia has no choice but to hope chaos creates new possibilities because, given the current game structure, it has a poor future.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Diagnosis stated on 2026-03-10.",
+      "topic_tags": [
+        "saudi-arabia",
+        "game-structure",
+        "chaos"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang closes by predicting that within the next year or two the United States will send ground troops if it wants to win or continue the war.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-10 for the next year or two.",
+      "topic_tags": [
+        "ground-troops",
+        "timeline",
+        "u.s.-iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang closes by predicting that no nuclear weapons will be used and saying he will apologize to the world if they are.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-10.",
+      "topic_tags": [
+        "nuclear-weapons",
+        "prediction",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang closes by predicting that the Al-Aqsa Mosque will be destroyed at some point, with fuller analysis promised for the next class.",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-10.",
+      "topic_tags": [
+        "al-aqsa",
+        "prediction",
+        "next-class"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang stakes the lecture on falsifiability: if one of the three predictions misses, the whole analysis is wrong.",
+      "source_phrase": "If I miss one, then all my theory is wrong",
+      "why_it_matters": "This makes the episode unusually explicit as a test of Jiang’s game-theory method.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007"
+      ],
+      "moment": "The nuclear gun looks dominant, but Jiang says the theory built around the gun is already wrong.",
+      "source_phrase": "this theory is incorrect",
+      "why_it_matters": "It sets up the central reversal from escalation dominance to escalation control.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0008"
+      ],
+      "moment": "Even God becomes part of the game tree because a dead fighter still has to explain how he died.",
+      "source_phrase": "God's going to ask you",
+      "why_it_matters": "The image makes legitimacy and justification part of escalation mechanics.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011"
+      ],
+      "moment": "Control beats dominance: the law of escalation is a reversal of the usual strongest-weapon story.",
+      "source_phrase": "Control is more important than dominance",
+      "why_it_matters": "This is the named thesis that organizes the whole episode.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0013",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0014"
+      ],
+      "moment": "The bully’s tax is tolerated because domination first presents itself as cafeteria peace.",
+      "source_phrase": "the bully is keeping the peace and order",
+      "why_it_matters": "It turns hegemony into a school-lunch parable with consent, rent, and coercion tangled together.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0016"
+      ],
+      "moment": "The rebel’s first weapon is indifference: the new kid shows others the rules can be ignored.",
+      "source_phrase": "I'm happy not having any friends",
+      "why_it_matters": "Jiang makes social reality fragile by showing how noncompliance creates political imagination.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0020"
+      ],
+      "moment": "The weak actor can calibrate the bully into destroying himself.",
+      "source_phrase": "manipulate the bully into self-destruction",
+      "why_it_matters": "This is the bridge from a schoolyard story to Jiang’s claim that Iran can control a stronger enemy.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0021"
+      ],
+      "moment": "Decapitation is explained brutally simply: kill the leaders so the body does not know what to do.",
+      "source_phrase": "I just kill your leaders",
+      "why_it_matters": "It gives the U.S. first move a stark mechanical definition.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "moment": "Bombing civilians may strengthen the very government it was supposed to split from the people.",
+      "source_phrase": "you unite the people behind the government",
+      "why_it_matters": "This reversal is central to Jiang’s argument against blunt escalation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0027"
+      ],
+      "moment": "Hormuz becomes a dial, not a switch: Iran can tax, exempt, reward, and punish ship by ship.",
+      "source_phrase": "I let you pass",
+      "why_it_matters": "This is the concrete mechanism behind Jiang’s claim that Iran has escalation control.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0030"
+      ],
+      "moment": "“Destroy Iran” is too vague to be a strategy; the word itself confuses military action.",
+      "source_phrase": "Destroy. It could mean regime change. It could mean economy collapses.",
+      "why_it_matters": "It turns American maximalism into strategic ambiguity and weakness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0032"
+      ],
+      "moment": "Focus, clarity, and resolve become social technologies: unity, censorship, and militarization.",
+      "source_phrase": "focus means unity",
+      "why_it_matters": "Jiang moves from personal fight psychology to the domestic structure of wartime societies.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0033",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0034"
+      ],
+      "moment": "The military is probably the least important dimension of war.",
+      "source_phrase": "the military dimension is probably the least important",
+      "why_it_matters": "It reframes war as narrative, political, and economic control before battlefield dominance.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0035",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0036"
+      ],
+      "moment": "Iraq was a video game; Iran is a real war that forces America back to soldiers.",
+      "source_phrase": "those were just video games",
+      "why_it_matters": "The image compresses Jiang’s cost-pyramid argument into a sharp contrast.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0038",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0039"
+      ],
+      "moment": "If CENTCOM falls, Iran becomes the new cafeteria bully of the Middle East.",
+      "source_phrase": "the new kid, is now the bully of the Middle East",
+      "why_it_matters": "It ties the earlier bully parable directly to Iran’s regional objective.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "moment": "The stronger state becomes passive material to be manipulated into the ground war it does not want.",
+      "source_phrase": "it can be manipulated into sending a ground",
+      "why_it_matters": "This is the episode’s law of escalation applied directly to U.S. strategy.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0046"
+      ],
+      "moment": "Sanctions accidentally harden the Iranian elite because America has already taken away the assets that would make surrender attractive.",
+      "source_phrase": "they lose nothing by fighting you",
+      "why_it_matters": "It explains why the Venezuela template fails in Iran.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0048"
+      ],
+      "moment": "The student asks about oil, and Jiang answers with the heartland: the real fear is continental trade escaping sea power.",
+      "source_phrase": "prevent the heartland from arising",
+      "why_it_matters": "It connects immediate war motive to the older geopolitical doctrine running through the series.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "moment": "World rule is reduced to a trade formula: control trade, control the world; control the heartland, control trade.",
+      "source_phrase": "Whoever controls world trade controls the world",
+      "why_it_matters": "It is the cleanest statement of Jiang’s heartland-sea-power theory in this episode.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "moment": "BRICS turns into the heartland problem: Russia, Iran, and China coming together pulls everyone else toward rail-world.",
+      "source_phrase": "that’s a major piece of the heartland",
+      "why_it_matters": "It links the immediate Iran war to the larger anti-heartland doctrine.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0055",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0056"
+      ],
+      "moment": "Saudi Arabia’s alliance with U.S. bases in the Holy Land becomes, in Iran’s eyes, the religious crime beneath the strategic rivalry.",
+      "source_phrase": "infidels who are protecting the Holy Land",
+      "why_it_matters": "It shows why Jiang treats Saudi-Iran hostility as civilizational and strategic at once.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057"
+      ],
+      "moment": "Saudi Arabia’s escape from oil decline is to make everyone else destroy each other and come up on top.",
+      "source_phrase": "Saudi Arabia can come up on top",
+      "why_it_matters": "It gives Saudi Arabia the same calibrated opportunism that Jiang attributes to Iran, but from a weaker future position.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0058"
+      ],
+      "moment": "Chaos is Saudi Arabia’s only remaining strategy because the current game has no good future for it.",
+      "source_phrase": "hope that this chaos leads to new possibilities",
+      "why_it_matters": "It completes the four-player map by making Saudi Arabia a desperate chaos actor rather than a stable ally.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "moment": "The episode ends as a dated wager: ground troops, no nukes, Al-Aqsa destroyed.",
+      "source_phrase": "the three big predictions I make",
+      "why_it_matters": "This is the clean public handle for later chronology and prediction review.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "escalation ladder",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A stepwise model of conflict escalation from minor conflict through violence to higher weapons or stakes.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation dominance",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0006",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The conventional idea that the actor able to climb higher on the escalation ladder has the advantage.",
+      "confidence": "high"
+    },
+    {
+      "term": "mission creep",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "A small military commitment expanding gradually into a larger war, with Vietnam as Jiang’s example.",
+      "confidence": "high"
+    },
+    {
+      "term": "law of escalation",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Jiang’s rule that calibrated control and strategic flexibility matter more than raw escalation dominance.",
+      "confidence": "high"
+    },
+    {
+      "term": "calibration",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Timing and structuring a response so it advances the objective, preserves legitimacy, and gives the actor more options.",
+      "confidence": "high"
+    },
+    {
+      "term": "strategic flexibility",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Having multiple usable options in a conflict and choosing the one that best advances the strategic objective.",
+      "confidence": "high"
+    },
+    {
+      "term": "decapitation",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A strategy of killing leaders so the opponent loses command and surrenders.",
+      "confidence": "high"
+    },
+    {
+      "term": "civilian infrastructure attack",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0022",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "A later escalation step targeting water, oil, or other civilian systems to pressure surrender, which Jiang says risks unifying the population.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret weapons",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "An escalation step involving advanced weapons meant to shock the opponent before biochemical or nuclear escalation.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation control",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0027",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "The capacity to choose selective, calibrated moves that shape the opponent’s incentives even without dominance at the top of the ladder.",
+      "confidence": "high"
+    },
+    {
+      "term": "decision tree",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "A branching set of strategic options; Jiang contrasts Iran’s varied tree with the U.S. blunt air-power ladder.",
+      "confidence": "high"
+    },
+    {
+      "term": "total war",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A war condition where every citizen and the entire economy are recruited into the war effort.",
+      "confidence": "high"
+    },
+    {
+      "term": "cost pyramid",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0035",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "A hierarchy of military inputs by cost and production burden, with soldiers cheapest and aircraft most expensive.",
+      "confidence": "high"
+    },
+    {
+      "term": "CENTCOM",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0038",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "U.S. Central Command, described by Jiang as the American military structure in the Middle East.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel Project",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang’s term for Israel’s alleged objective of becoming the sole Middle East hegemon by destroying rivals and taking regional resources.",
+      "confidence": "high"
+    },
+    {
+      "term": "Venezuela strategy",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0045",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang’s shorthand for decapitating a regime and expecting a pro-American elite to negotiate surrender.",
+      "confidence": "high"
+    },
+    {
+      "term": "heartland",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The Eurasian continental bloc whose unification Jiang says American doctrine tries to prevent.",
+      "confidence": "high"
+    },
+    {
+      "term": "political will",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0042",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Domestic and allied willingness to sustain a war; Jiang says Israel wants a long war that destroys American political will.",
+      "confidence": "high"
+    },
+    {
+      "term": "heartland unification",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "The formation of a Eurasian trade bloc capable of bypassing American-controlled maritime routes.",
+      "confidence": "high"
+    },
+    {
+      "term": "BRICS",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0049",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Russia, Iran, and China coming together as part of the heartland threat in Jiang’s account.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Holy Land bases",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "American military bases in Saudi Arabia, which Jiang says Iran views as infidels protecting sacred territory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strait of Hormuz",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "The trade-access chokepoint Jiang treats as Saudi Arabia’s possible post-oil revenue base and Iran’s strategic lever.",
+      "confidence": "high"
+    },
+    {
+      "term": "chaos strategy",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0057",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0058"
+      ],
+      "definition_or_usage": "A weaker actor’s strategy of using conflict among stronger actors to create new possibilities.",
+      "confidence": "high"
+    },
+    {
+      "term": "Al-Aqsa prediction",
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang’s dated prediction that the Al-Aqsa Mosque will be destroyed at some point, to be analyzed in the next class.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0004",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0005"
+      ],
+      "note": "This lecture gives a dated March 10, 2026 prediction set for later comparison against subsequent U.S.-Iran war episodes.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012"
+      ],
+      "note": "This packet supplies the dated definition of “law of escalation” for later comparison with Jiang’s later Game Theory lectures.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0023",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0024"
+      ],
+      "note": "As of 2026-03-10 Jiang says nuclear weapons are not yet on the table because the war has not passed secret or biochemical weapon stages.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0031",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0032"
+      ],
+      "note": "On 2026-03-10 Jiang predicts Iran will probably win, but only through major wartime social changes.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0037",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0040"
+      ],
+      "note": "This dated lecture records Jiang’s player-objective map for the war before the promised next-class treatment of Greater Israel and Al-Aqsa.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "note": "This packet repeats the 2026-03-10 prediction that U.S. ground troops will be used and nuclear weapons will not be used.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0050"
+      ],
+      "note": "The 2026-03-10 lecture gives the simple heartland explanation while saying a more complicated explanation will come next class.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0059"
+      ],
+      "note": "The close repeats the full dated prediction set and gives a one-to-two-year horizon for checking at least the ground-troop claim.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0041",
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0043"
+      ],
+      "note": "ASR around “U.S.”, “Saudi Arabia,” and “ground invasion” is damaged in places, but the surrounding argument consistently identifies the United States as the actor being forced into a long ground war."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fz-dan7nrss@transcript:v1#seg-0060"
+      ],
+      "note": "Segment 0060 is only “Bye” with unknown speaker identity; it is recorded as a low-confidence closing interaction."
+    }
+  ]
+}
