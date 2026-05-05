@@ -1,0 +1,185 @@
+{
+  "packet_id": "predictive-history-jis2eb-rgv0-semantics-pkt-0001",
+  "source_id": "video:predictive-history-jis2eb-rgv0",
+  "source_date": "2026-03-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0001",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0002",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0003",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0004",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0005",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0006",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0007",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the class by treating the U.S.-Israel attack on Iran as the start of World War III and a live test case for game-theory analysis. He frames Khamenei's reported death as martyrdom that converts the strike into Shia jihad, then introduces Dubai and the GCC as apparently neutral but newly vulnerable nodes of the American-protected Gulf economy.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0001",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0008"
+      ],
+      "note": "Focus refs are continuous Jiang monologue; audience questions begin later.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the United States and Israel have started attacking Iran and that the war can be analyzed in real time as a game-theory test of predictions.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture about the fourth day of the war.",
+      "topic_tags": [
+        "world-war-iii",
+        "game-theory",
+        "real-time-prediction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The reported killing of Ayatollah Khamenei is interpreted by Jiang as a decapitation strike that Iran can recode as martyrdom and self-sacrifice rather than defeat.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0002",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0003",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "martyrdom",
+        "decapitation-strike",
+        "shia-jihad"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang models Shia martyrdom as the force that binds the community, gives life meaning, and can galvanize jihad after the death of a religious leader.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0003",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Definition stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "shia",
+        "martyrdom",
+        "jihad"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that an alleged strike on a Tehran school, even amid uncertainty over responsibility, would function as an all-in sacrifice that provokes Iranian resistance.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0004",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0005",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Claim stated with explicit evidentiary uncertainty in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "school-strike",
+        "sacrifice",
+        "provocation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dubai's economic model depends on American protection, Gulf oil geography, tourism, finance, logistics, and a reputation for neutral safety; Iranian attacks destroy that reputation.",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0006",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0007",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Claim stated in the March 3, 2026 lecture.",
+      "topic_tags": [
+        "dubai",
+        "gcc",
+        "american-protection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0001"
+      ],
+      "moment": "The class becomes a live lab for the end of the world: if the model is good, reality will grade it week by week.",
+      "source_phrase": "we can test it against reality",
+      "why_it_matters": "It sets the episode's method: game theory is not abstraction, but prediction under unfolding war.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0003",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0004"
+      ],
+      "moment": "A decapitation strike meant to end a regime becomes martyrdom fuel for a holy war.",
+      "source_phrase": "this is a martyrdom",
+      "why_it_matters": "This reversal is the first game-theory mistake Jiang wants the audience to see.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0008"
+      ],
+      "moment": "Dubai's whole city brand dies when the safe-money fantasy can be punctured by missiles.",
+      "source_phrase": "Dubai as a city, in the long term, it is dead",
+      "why_it_matters": "It compresses Jiang's view that financial centers are built on perceived invulnerability, not just buildings.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "martyrdom",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0003",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "In Jiang's account of Shia politics, the sacrificial death that binds believers and forces jihad.",
+      "confidence": "high"
+    },
+    {
+      "term": "GCC",
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0006",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The Gulf coastal countries such as Dubai, Abu Dhabi, Bahrain, Qatar, and Kuwait, treated as American-protected nodes of oil, finance, tourism, aviation, and logistics.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0001"
+      ],
+      "note": "Dated March 3, 2026, Jiang positions this as the fourth day of a U.S.-Israel war on Iran and the start of a multi-week game-theory sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0005",
+        "video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang explicitly says complete evidence for Israeli responsibility in the school strike is lacking, even while arguing it fits prior behavior."
+    }
+  ]
+}
