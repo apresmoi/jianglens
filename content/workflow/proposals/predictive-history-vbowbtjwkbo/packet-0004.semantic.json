@@ -1,0 +1,207 @@
+{
+  "packet_id": "predictive-history-vbowbtjwkbo-semantics-pkt-0004",
+  "source_id": "video:predictive-history-vbowbtjwkbo",
+  "source_date": "2026-03-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0025",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0026",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0027",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0028",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the 2008 setup: Clinton-era homeownership policy, Glass-Steagall repeal, global capital inflows, the yen carry trade, CDOs/subprime, too-big-to-fail logic, and banks choosing collapse despite being able to roll defaults.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0030",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0031",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He argues the crisis was profitable to actors betting against the housing market and to consolidating banks, using a classroom mortgage-bet example to show why someone would force default.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Subprime lending became possible through Clinton-era minority homeownership policy and the 1999 repeal of Glass-Steagall, which combined retail and investment banking and encouraged riskier financial vehicles.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0025",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "2008-crisis background narrated on 2026-03-31.",
+      "topic_tags": [
+        "subprime",
+        "glass-steagall",
+        "clinton",
+        "financialization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Global investors treated unipolar America as the safest place for money, and the yen carry trade helped send additional capital into U.S. financial markets.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0026",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "2008-crisis background narrated on 2026-03-31.",
+      "topic_tags": [
+        "yen-carry-trade",
+        "u-s-treasuries",
+        "capital-inflows"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "CDOs packaged subprime mortgages as investments because monthly mortgage payments seemed reliable under too-big-to-fail assumptions.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0027",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "2008-crisis mechanism stated on 2026-03-31.",
+      "topic_tags": [
+        "cdo",
+        "mortgages",
+        "too-big-to-fail"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues 2008 did not have to collapse from defaults alone because banks could have rolled defaults forward within an illusion-based money system.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0028",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "2008 reinterpretation stated on 2026-03-31.",
+      "topic_tags": [
+        "2008",
+        "defaults",
+        "engineered-collapse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The incentive to collapse the system comes when betting against defaults becomes more profitable than keeping borrowers current.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0030",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0031",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2008 mechanism model stated on 2026-03-31.",
+      "topic_tags": [
+        "john-paulson",
+        "shorting-housing",
+        "engineered-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bank collapses also allow consolidation, as losing banks can be bought cheaply by stronger institutions.",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2008 consolidation claim stated on 2026-03-31.",
+      "topic_tags": [
+        "bank-consolidation",
+        "jpmorgan",
+        "2008"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0028"
+      ],
+      "moment": "The subprime system is called a Ponzi scheme held together by too-big-to-fail belief.",
+      "source_phrase": "this is one big Ponzi scheme",
+      "why_it_matters": "It makes the crash less a failure of risk math than a deliberately sustained illusion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032"
+      ],
+      "moment": "Jiang’s mortgage-bet example flips lender incentives: he profits by making Amber default.",
+      "source_phrase": "now I make you default because now I can make a million dollars from Vincent",
+      "why_it_matters": "It is the clearest miniature of the engineered-collapse thesis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032"
+      ],
+      "moment": "The system collapses because collapse can be more profitable than continuation.",
+      "source_phrase": "you can make more money from collapsing the system than just letting it go on",
+      "why_it_matters": "This sentence is the lecture’s core mechanism.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "CDO",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Collateral Debt Obligation; Jiang glosses it roughly as the subprime mortgage investment vehicle.",
+      "confidence": "high"
+    },
+    {
+      "term": "too big to fail",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "The idea that because every institution is entangled, the whole economy would collapse if enough homeowners and banks defaulted.",
+      "confidence": "high"
+    },
+    {
+      "term": "yen carry trade",
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0026",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Borrowing Japanese money at near-zero interest and placing it into higher-yielding U.S. assets such as Treasuries.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0025",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0026",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0027",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0028",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0029",
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0030"
+      ],
+      "note": "This dated lecture positions 2008 as a chosen/profitable collapse, not merely a spontaneous failure of subprime default rates.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032"
+      ],
+      "note": "ASR likely renders Jamie Dimon/JPMorgan as Jimmy Diamond/Jimmy Morgan; the semantic point is bank consolidation after collapse."
+    }
+  ]
+}
