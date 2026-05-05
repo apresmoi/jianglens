@@ -1,0 +1,1429 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-ybufqry77pq:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-ybufqry77pq",
+  "source_id": "video:predictive-history-ybufqry77pq",
+  "source_title": "Game Theory #5:  The World Game",
+  "source_url": "https://www.youtube.com/watch?v=ybufqRY77PQ",
+  "source_date": "2026-01-20",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-ybufqry77pq@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-ybufqry77pq/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-ybufqry77pq/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-ybufqry77pq/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 27,
+    "speaker_notes": 10,
+    "claims": 36,
+    "signature_moments": 18,
+    "predictions": 4,
+    "models": 14,
+    "glossary_terms": 16,
+    "chronology_notes": 8,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0002",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0006",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0007",
+    "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0002",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by asking why nations rise and fall, then uses the Chinese Warring States to attack resource-based forecasting: population, farmland, rivers, technology, and location all suggest Chu or another obvious power, yet Qin comes from the poor, isolated mountains and conquers China.",
+      "speaker_attribution": "Jiang lecture; classroom checks are rhetorical.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Ibn Khaldun's asabiyyah as group solidarity and turns it into a three-part metric for dynamic societies: energy, openness, and cohesion. Rich centers decay into low effort, arrogance, stagnation, corruption, and atomization, which lets marginal groups conquer them.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0007",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He begins the Greek analogy: Athens has wealth, navy, population, strategic location, and cultural prestige, but Macedon, the poor uncultured border power, eventually conquers the Greek city-states.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0009",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the Mediterranean sequence: Macedon not only conquers Greece but destroys Persia, then Rome begins as a poor backward tribal people before conquering Greek and Carthaginian worlds. The empire decays into corruption and gives opportunity to energetic peoples.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0011",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0012",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He uses the Aztecs and Spanish conquistadors to show the same puzzle at different scales: a starving warrior people turns a marsh into empire, then a tiny band of conquistadors conquers millions. Disease, divine-mistake, and local-alliance explanations are not rejected but treated as incomplete without game incentives.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0014",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0015",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He turns to Sumer and Uruk as the first great trade city, then shows the same cycle: city-states conflict, tribal Akkadians conquer, later mountain peoples and Persians unify the region. This sets up the claim that as nations rise and fall, the game itself changes.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0017",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang names the first game as cooperation: a people build a land together, create a dynamic religion, and reward poets and priests who best articulate the energy of the collective. Over time the elite become hereditary and change religion into a bureaucratic hierarchy.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0018",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0019",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0020",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "He describes elite overproduction: inherited privilege produces too many elite children, factions form around princes, losers are exiled into new colonies, and when colonization runs out the warring-states period begins. That competitive period becomes the height of creativity.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0021",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0022",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0023",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He then shows the game shifting again: intermarriage creates elite equilibrium above the states, warfare becomes population control, meritocracy loses value, court politics takes over, and factions must solve secrecy, trust, and coordination by forming secret societies.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0025",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the mechanisms of secret societies: hierarchy preserves secrecy, shared transgression creates trust, ritual sacrifice is the most basic transgression, and eschatology gives coordination by telling members they serve a higher world-conquering purpose.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0026",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0027",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0028",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0029",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "He turns empire into a struggle among secret societies: factions stop caring about the empire, become insular, corrupt, and divided, and invite poor borderland mercenaries into their struggles. Those mercenaries gain wealth, technology, and access, then take over.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0031",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces the classroom World Game: teams become countries with unequal envelopes of resources, sell commodity shapes to the World Bank, and may trade, beg, work, or borrow across unequal starting positions.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0033",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reports the World Game pattern: the United States starts first because it has everything, but Pakistan, starting with nothing, often becomes second because poverty forces begging, lying, cheating, stealing, resourcefulness, creativity, and teamwork. He extends the logic to a provocative North Korea-over-China forecast.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0035",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0036",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0037",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0038",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0039"
+      ],
+      "kind": "exchange",
+      "summary": "He gives a STEM-teacher workshop version of the same game: day-one winners become complacent, while the last team adapts and wins day two. A brief student guess that team ten would win is confirmed and folded into the analogy between worst students, humility, relationships, and later success.",
+      "speaker_attribution": "Jiang plus a brief student guess around seg-0037.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether the formerly first-place team, after falling, would be forced to become open and energetic and return to number one on a third day.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0041",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0042"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the student's third-day question: the fallen first-place team usually does not reflect and return; it continues to fail. He generalizes this to empires, which do not rise again as the same people once they fall.",
+      "speaker_attribution": "Jiang answer to the student question in seg-0040.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0043",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0044"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether team ten would then fall and team nine would rise. Jiang says he has not run day three, but the theory predicts a new team replaces the fallen winner because history lacks cases where the same fallen empire reflects itself back to number one.",
+      "speaker_attribution": "Student question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0044",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0045",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0046",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0047"
+      ],
+      "kind": "monologue",
+      "summary": "He pushes the theory into prediction: Germany, Japan, and Israel should become great nations or empires because defeat, humiliation, and persecution create the openness, energy, cohesion, and sacrificial seriousness he has been describing. He explicitly frames this as a theory, not certainty.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "A student asks how Japan could succeed if it lacks many resources.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0049",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0050",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the Japan resource question by rejecting resources as decisive: a poor team can cheat, steal, beg, work for free, and exploit creativity because it has no choice.",
+      "speaker_attribution": "Jiang answer to seg-0048, with a brief student acknowledgment in seg-0050.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "A student challenges the claim that poorer and more dangerous positions always produce enough energy and cohesion to succeed.",
+      "speaker_attribution": "Student question, continued after Jiang's clarification.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang clarifies that poverty alone does not mean openness, energy, and cohesion; those qualities are necessary to move from poverty to wealth, but poor societies such as African countries may lack them.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0054"
+      ],
+      "kind": "question",
+      "summary": "A student asks why Germany and Japan would keep cohesion after becoming wealthy and after younger generations forget war, rather than decaying like other rich societies.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by distinguishing wealth from power: Japan and Germany became wealthy but remained under the American game master, so their wealth did not equal sovereignty. He uses Plaza Accords/Treasury-bond framing to argue America could extract their gains and impose rules.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the answer on postwar vassalage: America can destroy Germany's pipeline, block German trade with Russia and China, and thereby redirect German economic outcomes. He concludes Germany and Japan looked rich but were vassal states to America.",
+      "speaker_attribution": "Jiang answer continuing from previous packet.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "A student asks what determines whether a poor or defeated society becomes energetic and cohesive, and why Germany or Japan would have that energy while other poor or defeated countries do not.",
+      "speaker_attribution": "Student question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0059",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that a great leader usually converts poverty or defeat into cohesion. The leader may be a general, poet, prophet, priest, or thinker who unifies a people's imagination; he then provocatively frames international development and NGOs as systems that prevent such leaders from emerging, especially in Africa.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+      ],
+      "note": "The packet is Jiang's lecture voice; no substantive student question appears in the focus refs.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0009"
+      ],
+      "note": "The packet is continuous lecture exposition; no substantive student turn appears.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0020"
+      ],
+      "note": "Segment 0020 contains heavy ASR repetition of 'open, coordinated/open-minded civilization'; the stable point is that competitive warring-states conditions produce maximum creativity.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0025"
+      ],
+      "note": "Continuous Jiang lecture. The phrase transcribed as 'complementarization' likely points to compartmentalization within hierarchy.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0037"
+      ],
+      "note": "The short phrase 'I think the team ten would' appears to be a student answer prompted by Jiang's question.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0040"
+      ],
+      "note": "Segment 0040 is a substantive student question and should be preserved as a public question candidate.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0043"
+      ],
+      "note": "Segment 0043 is a student follow-up question about the cycle of team rankings.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0048"
+      ],
+      "note": "Segment 0048 is a student question about Japan's resource scarcity.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0052",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0054"
+      ],
+      "note": "Segments 0052 and 0054 are substantive student questions and should be preserved as question material.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0058"
+      ],
+      "note": "Segment 0058 is a substantive student question about the cause of cohesion in poor societies.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Resource-based metrics such as population, farmland, rivers, technology, and strategic location fail to explain why poor, isolated Qin rather than an obvious rich state conquered China.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Historical model introduced in the 2026-01-20 lecture.",
+      "topic_tags": [
+        "game-theory",
+        "warring-states",
+        "qin",
+        "resources"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Across history, the strongest nation in a region often does not win; the weakest or most marginalized area eventually conquers the civilized center and creates empire.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "General historical pattern asserted on 2026-01-20.",
+      "topic_tags": [
+        "empire",
+        "borderlands",
+        "asabiyyah"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines a society's dynamism through energy, openness, and cohesion: willingness to work toward a goal, humility and resilience, and readiness to act as a sacrificing team.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture definition stated on 2026-01-20.",
+      "topic_tags": [
+        "energy",
+        "openness",
+        "cohesion",
+        "asabiyyah"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Wealth tends to lower energy, openness, and cohesion because elites stop working, exploit others, become arrogant, refuse correction, and atomize society through corruption.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "General civilizational diagnosis in this lecture.",
+      "topic_tags": [
+        "wealth",
+        "decadence",
+        "corruption",
+        "stagnation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Athens had the conventional advantages for Greek unification, but Macedon conquered the Greek city-states because borderland energy, openness, and cohesion mattered more than obvious wealth and prestige.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0007",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Greek example in the 2026-01-20 lecture.",
+      "topic_tags": [
+        "athens",
+        "macedon",
+        "city-states",
+        "empire"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Macedon's conquest of Persia and Rome's rise repeat the same pattern: poor marginal peoples can defeat wealthy, cultured, apparently invincible centers.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0009",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Ancient Mediterranean examples in this lecture.",
+      "topic_tags": [
+        "macedon",
+        "persia",
+        "rome",
+        "empire-cycle"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that disease, divine-mistake, and local-alliance explanations of the Spanish conquest do not fully explain how 500 conquistadors conquered the Aztec empire; game theory must recover player incentives and moves.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0012",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Interpretation of the Spanish conquest in this lecture.",
+      "topic_tags": [
+        "aztecs",
+        "conquistadors",
+        "game-theory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Uruk becomes the first great world city because Mesopotamia sits at the center of trade routes linking the Persian Gulf, India, Egypt, Anatolia, and surrounding regions.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0014",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Sumerian example in this lecture.",
+      "topic_tags": [
+        "uruk",
+        "sumer",
+        "trade",
+        "city"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Akkadian and Persian examples show that the rise-and-fall pattern is consistent enough that game theory should ask how the rules, motivations, incentives, and strategies change over time.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0015",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Civilizational model stated on 2026-01-20.",
+      "topic_tags": [
+        "akkadians",
+        "persians",
+        "game-theory",
+        "incentives"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the first civilizational game, cooperation creates a dynamic religion that motivates energy, work, shared prosperity, and gives poets and priests elite status.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "General stage model stated on 2026-01-20.",
+      "topic_tags": [
+        "cooperation",
+        "religion",
+        "poets",
+        "priests"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "When elites become hereditary, religion changes from creative energy into bureaucracy: fixed rules, hierarchy, and obedience.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "General stage model stated on 2026-01-20.",
+      "topic_tags": [
+        "heredity",
+        "bureaucracy",
+        "religion",
+        "elite"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Elite overproduction causes society to break into factions symbolized by princes, with losing factions exiled into new colonies until no frontier remains.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0018",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "General model of factional expansion.",
+      "topic_tags": [
+        "elite-overproduction",
+        "faction",
+        "colonization",
+        "exile"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Warring-states periods are the height of creativity because open competition forces innovation; Jiang names Confucius, Mencius, Laozi, and Greek classical culture as examples.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0019",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0020",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical comparison in this lecture.",
+      "topic_tags": [
+        "warring-states",
+        "creativity",
+        "confucius",
+        "greece"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Intermarried elites reach equilibrium above the states, turning warfare from innovation into population control and court politics into factional struggle over hierarchy.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0021",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0022",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "General stage model stated on 2026-01-20.",
+      "topic_tags": [
+        "equilibrium",
+        "intermarriage",
+        "warfare",
+        "court-politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Factional politics requires cheating inside a bureaucracy, so successful factions must solve secrecy, trust, and coordination through secret-society structures.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0023",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "General factional model stated on 2026-01-20.",
+      "topic_tags": [
+        "secret-societies",
+        "secrecy",
+        "trust",
+        "coordination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Secret societies solve secrecy through hierarchy, trust through shared transgression, and coordination through eschatological myth.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0025",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "General secret-society model stated on 2026-01-20.",
+      "topic_tags": [
+        "secret-societies",
+        "hierarchy",
+        "transgression",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the empire stage, factions care less about the empire than about their own team emerging on top, which makes the center insular, corrupt, and divided.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0026",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Imperial faction model in this lecture.",
+      "topic_tags": [
+        "empire",
+        "faction",
+        "corruption",
+        "division"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Borderland tribes gain their path to conquest because imperial factions invite them in as mercenaries, giving them wealth, technology, weapons, and political access.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0028",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0029",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "General conquest model with Qing and Macedonian examples.",
+      "topic_tags": [
+        "mercenaries",
+        "borderlands",
+        "qin",
+        "macedon",
+        "conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "To forecast conquest, Jiang says to compare which areas are energetic, open, and cohesive against which empires are corrupt, insular, and divided.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Forecasting heuristic stated on 2026-01-20.",
+      "topic_tags": [
+        "forecasting",
+        "empire",
+        "energy",
+        "cohesion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The World Game models unequal resource distribution, trade, and the World Bank as a simplified version of global competition.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0031",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Classroom game example in this lecture.",
+      "topic_tags": [
+        "world-game",
+        "world-bank",
+        "resources",
+        "trade"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the World Game, the team with everything initially wins, but the team with nothing often becomes most creative because scarcity forces energy, openness, cohesion, and resourcefulness.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0033",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Classroom game example in this lecture.",
+      "topic_tags": [
+        "world-game",
+        "poverty",
+        "creativity",
+        "resources"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that, by this game-theory logic, North Korea has a better future than China because openness, energy, and cohesion matter more than wealth and power.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Forecast stated on 2026-01-20.",
+      "topic_tags": [
+        "north-korea",
+        "china",
+        "prediction",
+        "east-asia"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's workshop example, team rankings reverse because first-place teams become arrogant and stop reflecting, while last-place teams adapt.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0035",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0036",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "STEM workshop example in this lecture.",
+      "topic_tags": [
+        "education",
+        "competition",
+        "adaptation",
+        "arrogance"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The best student and worst student are both likely to succeed for opposite reasons, but the worst student's adaptation, hard work, relationships, and team-building make him especially powerful.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0038",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Educational analogy stated on 2026-01-20.",
+      "topic_tags": [
+        "school",
+        "adaptation",
+        "relationships",
+        "success"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Once a team or empire reaches number one and then falls, it usually cannot recover because arrogance prevents honest reflection; a later group may reuse the name but is not the same people.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0041",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0042",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "General empire-cycle model stated on 2026-01-20.",
+      "topic_tags": [
+        "empire",
+        "fall",
+        "arrogance",
+        "reflection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Germany will one day rule the world, or at least Europe and Asia, because repeated defeat and loss create the conditions for later imperial resurgence.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0044",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Prediction stated on 2026-01-20.",
+      "topic_tags": [
+        "germany",
+        "prediction",
+        "empire",
+        "world-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Japan should dominate East Asia because World War II destruction and humiliation forced reflection and preserved energy, openness, and cohesion.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0045",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Prediction stated on 2026-01-20.",
+      "topic_tags": [
+        "japan",
+        "east-asia",
+        "prediction",
+        "world-war-ii"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names Israel, Germany, and Japan as the three great nations toward which history is moving under this theory, with North Korea possibly sharing the needed cohesion.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0046",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Prediction stated on 2026-01-20.",
+      "topic_tags": [
+        "israel",
+        "germany",
+        "japan",
+        "north-korea"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Resources are not necessary for success because poor players can cheat, steal, beg, trade, work for free, and become creative under pressure.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0049",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Answer in the 2026-01-20 lecture.",
+      "topic_tags": [
+        "resources",
+        "creativity",
+        "scarcity",
+        "world-game"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Poverty alone does not cause success; a poor society must become open, energetic, and cohesive to move from poverty to wealth.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Clarification stated on 2026-01-20.",
+      "topic_tags": [
+        "poverty",
+        "energy",
+        "openness",
+        "cohesion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Power means being able to impose your game on other people, make them play by your rules, and extract rent from them.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Definition stated on 2026-01-20.",
+      "topic_tags": [
+        "power",
+        "game-master",
+        "rent-extraction"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Japan and Germany became wealthy after World War II but did not gain true power because America remained the game master and could redirect their wealth or force economic decisions.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Post-World War II geopolitical model stated on 2026-01-20.",
+      "topic_tags": [
+        "america",
+        "japan",
+        "germany",
+        "vassal-state",
+        "power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Germany is a vassal state because America can block its Russian energy relationship, China trade, and pipeline infrastructure, damaging the German economy while Germany cannot respond.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Contemporary geopolitical diagnosis stated on 2026-01-20.",
+      "topic_tags": [
+        "germany",
+        "america",
+        "russia",
+        "china",
+        "vassal-state"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A poor or defeated society becomes energetic and cohesive when a great leader emerges to unify it, as Genghis Khan did for the divided Mongols.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "General leadership model stated on 2026-01-20.",
+      "topic_tags": [
+        "leadership",
+        "mongols",
+        "genghis-khan",
+        "cohesion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The leader who unifies a people need not be a general; a poet, prophet, priest, or thinker can give a people a shared religion or imagination.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0059",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "General leadership model stated on 2026-01-20.",
+      "topic_tags": [
+        "poet",
+        "prophet",
+        "religion",
+        "imagination",
+        "leader"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims institutions such as the United Nations, international development aid, and NGOs function to identify and prevent the emergence of leaders who might unify poor societies.",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Contemporary geopolitical diagnosis stated on 2026-01-20.",
+      "topic_tags": [
+        "united-nations",
+        "ngos",
+        "development-aid",
+        "africa",
+        "american-empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"
+      ],
+      "moment": "History is backwards from the usual scoreboard: the marginal, poor, improbable player is often the one that conquers the center.",
+      "source_phrase": "the strongest nation does not come out on top",
+      "why_it_matters": "This is the lecture's reversal of conventional geopolitical prediction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004"
+      ],
+      "moment": "Energy, openness, and cohesion become Jiang's portable meter for whether a society is alive enough to win.",
+      "source_phrase": "energy openness and cohesion",
+      "why_it_matters": "The triad organizes the entire episode and later examples.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0013"
+      ],
+      "moment": "History is treated as a game whose players have motivations and incentives, not as a list of background causes.",
+      "source_phrase": "it's a game how are the players playing the game",
+      "why_it_matters": "This states the method of the episode: the hidden rules explain conquest better than surface metrics.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0016"
+      ],
+      "moment": "Nations rise and fall because the game changes; strategy belongs to a stage of life, not to a timeless scoreboard.",
+      "source_phrase": "as nations rise and fall the games they play changes",
+      "why_it_matters": "This bridges the historical examples into the episode's staged model of cooperation, equilibrium, faction, and conquest.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0017"
+      ],
+      "moment": "A civilization begins as a startup: everyone is enthusiastic, working hard, and feels they are building a world.",
+      "source_phrase": "it's basically a startup",
+      "why_it_matters": "The startup analogy makes the rise of civilization legible as collective energy before institutional capture.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0022"
+      ],
+      "moment": "Warfare stops being innovation and becomes population control once elites reach equilibrium.",
+      "source_phrase": "warfare becomes a mechanism of population control",
+      "why_it_matters": "This is a sharp reversal of war from competitive creativity into elite housekeeping.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0025"
+      ],
+      "moment": "Trust inside the faction is built by breaking the law together.",
+      "source_phrase": "if we cheat together, we are much more likely to trust each other",
+      "why_it_matters": "It gives Jiang's secret-society model its dark mechanism: shared guilt becomes social glue.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0030"
+      ],
+      "moment": "The forecast is not who has more stuff; it is who is alive, open, and cohesive enough to exploit a corrupt center.",
+      "source_phrase": "figure out which areas of the world are the most energetic, most open, and most cohesive",
+      "why_it_matters": "This turns the lecture's historical model into a predictive tool.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0033"
+      ],
+      "moment": "Pakistan wins the World Game not by resources but by being forced to beg, lie, cheat, steal, and become creative.",
+      "source_phrase": "the country that starts out with nothing at all",
+      "why_it_matters": "It gives the episode a vivid classroom miniature of Jiang's borderland theory.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"
+      ],
+      "moment": "The North Korea prediction is the lecture's sharpest geopolitical provocation.",
+      "source_phrase": "North Korea has a better future than China",
+      "why_it_matters": "It forces the reader to see how far Jiang is willing to push energy-openness-cohesion against conventional power metrics.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0039"
+      ],
+      "moment": "Everyone hates the best student and the worst student because both may return with power over everyone else.",
+      "source_phrase": "everyone hates the best student and the worst student",
+      "why_it_matters": "The joke compresses Jiang's social model of arrogance, humiliation, adaptation, and later dominance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0041"
+      ],
+      "moment": "An empire can reuse the name after collapse, but the people are gone; it is a different team wearing the old jersey.",
+      "source_phrase": "it's not the same people anymore. It's a different team",
+      "why_it_matters": "This gives Jiang's fall theory its unforgiving edge: recovery is usually replacement.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0045"
+      ],
+      "moment": "Japan's humiliation is read as stored imperial energy rather than simply national trauma.",
+      "source_phrase": "Japan was destroyed. It was humiliated",
+      "why_it_matters": "It explains why defeat, in Jiang's model, can become future power instead of permanent weakness.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0049"
+      ],
+      "moment": "Resources can be replaced by cheating, stealing, and begging when a player is desperate enough.",
+      "source_phrase": "you don't need resources. You can cheat. You can steal. You can beg",
+      "why_it_matters": "It states the scandalous practical edge of Jiang's resource-scarcity model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"
+      ],
+      "moment": "The game master is the one who gets to make others play his game and pay rent.",
+      "source_phrase": "who becomes the game master",
+      "why_it_matters": "This turns power from possession of wealth into control over the rules of play.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0059"
+      ],
+      "moment": "The missing ingredient is not money or resources but a figure who can turn scattered desperation into one people.",
+      "source_phrase": "the obvious answer is a leader",
+      "why_it_matters": "This completes the episode's theory by adding the catalyst that converts poverty into power.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060"
+      ],
+      "moment": "A poet can do the work of a general if he unifies the imagination of a people.",
+      "source_phrase": "leader doesn't necessarily mean a general, it could also mean a poet",
+      "why_it_matters": "This preserves Jiang's distinctive move from military history into imagination, religion, and myth.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060"
+      ],
+      "moment": "Development aid is recast as an anti-leader technology: keep a society in development so no unifier emerges.",
+      "source_phrase": "make sure he does not emerge",
+      "why_it_matters": "It is the lecture's closing provocation and sets up the promised next class on American empire.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "asabiyyah",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Ibn Khaldun's term for cohesion or group solidarity, used here to explain why poor marginal peoples can conquer rich centers.",
+      "confidence": "high"
+    },
+    {
+      "term": "energy, openness, and cohesion",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0004",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's three metrics for a dynamic society: motivated work, adaptive humility, and sacrificial group solidarity.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0013",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A way of explaining history by asking what game the actors are playing, what their incentives are, and how the game changes across civilizational stages.",
+      "confidence": "high"
+    },
+    {
+      "term": "Uruk",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Named as the center of early Mesopotamian trade and the first great world city in Jiang's example.",
+      "confidence": "medium"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The process where inherited privilege creates too many elite children competing for too few high-status positions, producing factions.",
+      "confidence": "high"
+    },
+    {
+      "term": "equilibrium",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "A stage where intermarried elites sit above competing states, maintain the status quo, and turn the game toward hierarchy and court politics.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret society",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "A factional structure for cheating within a bureaucracy while preserving secrecy, trust, and coordination.",
+      "confidence": "high"
+    },
+    {
+      "term": "transgression",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Shared law-breaking that creates trust because all participants become punishable together.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "The mythic coordination story that tells a secret society why it serves a higher god or world-ending mission.",
+      "confidence": "high"
+    },
+    {
+      "term": "World Game",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "A classroom simulation where teams with unequal resources compete to become the wealthiest country by producing commodities for a World Bank.",
+      "confidence": "high"
+    },
+    {
+      "term": "poverty leads to creativity",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Jiang's compressed explanation for why scarce teams or poor societies become resourceful, open, energetic, and cohesive.",
+      "confidence": "high"
+    },
+    {
+      "term": "danger of being number one",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0041",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The condition where success produces arrogance so deep that later humility and recovery become nearly impossible.",
+      "confidence": "high"
+    },
+    {
+      "term": "game master",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "The power holder who imposes the game on others and extracts rent from them.",
+      "confidence": "high"
+    },
+    {
+      "term": "Plaza Accords",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's example of America forcing Japan to change economic behavior and damage its own economy; ASR renders this as 'Plastic Accords'.",
+      "confidence": "medium"
+    },
+    {
+      "term": "vassal state",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "A wealthy but non-sovereign country whose economic choices can be overridden by the game master; Jiang applies this to Germany and Japan under America.",
+      "confidence": "high"
+    },
+    {
+      "term": "leader",
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0059",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "The person who unifies a group's imagination into a cohesive people; may be a general, poet, prophet, priest, or thinker.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0001"
+      ],
+      "note": "Dated 2026-01-20, this is Game Theory #5's opening theory of imperial rise and fall.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0016"
+      ],
+      "note": "This packet establishes the lecture's central historical-stage model before Jiang names the first game in the next packet.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0017"
+      ],
+      "note": "This packet gives the internal stage sequence of Jiang's Game Theory #5 model: cooperation, hereditary hierarchy, factional overproduction, competitive creativity, equilibrium, and secret-society court politics.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0030"
+      ],
+      "note": "This packet applies the lecture's historical model to forecasting present and future power shifts.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0034"
+      ],
+      "note": "As of 2026-01-20, Jiang states a live East Asia forecast that North Korea has a better future than China under this theory.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0044",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0047"
+      ],
+      "note": "As of 2026-01-20, Jiang's live predictions name Germany, Japan, and Israel as future great nations, with a possible North Korea aside.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0056"
+      ],
+      "note": "This 2026-01-20 answer qualifies earlier Germany/Japan predictions by arguing their postwar wealth did not yet equal sovereign power.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0060",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0061"
+      ],
+      "note": "The lecture closes by teeing up a next class on how the American empire controls the world through institutions that prevent unifying leaders from emerging.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0003"
+      ],
+      "note": "ASR likely renders Ibn Khaldun and asabiyyah imperfectly, but the intended concepts are clear from context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0012",
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0014"
+      ],
+      "note": "ASR appears to render Aztec/Ethnic, Cortes/Hernandes, Uruk/Europe, and Akkadian names imperfectly; interpretation follows surrounding context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0020"
+      ],
+      "note": "ASR repetition makes segment 0020 noisy; the extracted claim relies on the repeated phrase and the clearer surrounding segments."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0026"
+      ],
+      "note": "ASR transcribes 'different suicides' where context indicates different secret societies."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0037"
+      ],
+      "note": "Diarization is absent, but the content and placement make the short team-ten answer likely a student contribution."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0044"
+      ],
+      "note": "Jiang explicitly says he has not run the day-three version of the workshop game; the team-nine/team-ten cycle is theoretical."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0055"
+      ],
+      "note": "ASR says 'Plastic Accords'; context indicates Plaza Accords."
+    },
+    {
+      "refs": [
+        "video:predictive-history-ybufqry77pq@transcript:v1#seg-0057"
+      ],
+      "note": "ASR renders Nord Stream as 'North Street'; the geopolitical reference is clear from the Russia/Germany pipeline context."
+    }
+  ]
+}
