@@ -1,0 +1,205 @@
+{
+  "packet_id": "predictive-history-axqdlhws93q-semantics-pkt-0003",
+  "source_id": "video:predictive-history-axqdlhws93q",
+  "source_date": "2026-01-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0017",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes the Concert of Europe as a peace system created by nobility after Napoleon, then argues that its success let unresolved old-order versus new-order pressures build toward 1848.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0018",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0019",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0020",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "He reads the 1848 revolutions as the new alliance of bourgeoisie, middle class, and workers terrifying European nobility, whose answer was to divide that alliance through class conflict, extremism, and conspiracy propaganda.",
+      "speaker_attribution": "Jiang; some rhetoric describes propaganda stereotypes rather than endorsing them as neutral terminology.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0022",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0023",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He introduces the Communist Manifesto as a secret-society text after 1848, then reads or paraphrases manifesto program points and argues that central banking, communication control, industrialization, and schooling are also compatible with capitalist interests.",
+      "speaker_attribution": "Jiang reading/paraphrasing manifesto material with commentary; ASR is damaged in part of seg-0022 and seg-0023.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0022",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0024"
+      ],
+      "note": "These segments mix Jiang's commentary with quoted or paraphrased Communist Manifesto program points; ASR damage is heavier here than in the surrounding lecture.",
+      "suggested_speaker": "Jiang reading/commenting on quoted source",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Concert of Europe reduced battlefield conflict among monarchies but failed to resolve the underlying conflict between old-order authority and the industrial new order.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0017",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical model in the 2026-01-29 lecture.",
+      "topic_tags": ["concert-of-europe", "old-order", "new-order", "revolution"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents the 1848 revolutions as uprisings across Europe in which bourgeoisie, middle class, and workers demanded democracy, liberalism, socialism, and limits on religious power.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0018",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical interpretation in this lecture.",
+      "topic_tags": ["1848-revolutions", "bourgeoisie", "workers", "liberalism", "socialism"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that European elites responded to the 1848 threat by dividing the new alliance: reframing the conflict as class war, making the movement look fanatical, and casting it as an international conspiracy.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0019",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Game-theory diagnosis in the 2026-01-29 lecture.",
+      "topic_tags": ["elite-strategy", "class-conflict", "propaganda", "communism"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explicitly calls communism a psyop used by the elite and nobility to make democracy, socialism, and liberalism illegitimate.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Speculative claim in this lecture.",
+      "topic_tags": ["communism", "psyop", "nobility", "liberalism", "socialism"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats England as an exception to continental revolutionary pressure because colonies gave unhappy people an exit option unavailable to most Europeans.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical explanation in this lecture.",
+      "topic_tags": ["england", "colonies", "1848-revolutions"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that manifesto measures such as central banking, communications centralization, industrial production, and schooling can serve capitalist interests as much as communist ones.",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0023",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Manifesto reading inside the 2026-01-29 lecture.",
+      "topic_tags": ["communist-manifesto", "central-bank", "education", "industrialization"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0017",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0018"
+      ],
+      "moment": "The Concert of Europe works too well: peace preserves the old order but lets revolutionary ingredients accumulate.",
+      "source_phrase": "it worked too well",
+      "why_it_matters": "This is the historical mechanism that turns stability into pressure rather than resolution.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0019",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0020"
+      ],
+      "moment": "A demand for rights is recoded as class war, extremism, and foreign conspiracy.",
+      "source_phrase": "we have to divide them",
+      "why_it_matters": "It gives the lecture its propaganda model: split the coalition by changing what the conflict appears to be about.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0023"
+      ],
+      "moment": "The communist central bank suddenly looks like the Bank of England.",
+      "source_phrase": "they already do this in capitalism. It's called the Bank of England",
+      "why_it_matters": "This is the concrete example that makes communism and capitalism appear institutionally similar.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Concert of Europe",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "A post-Napoleonic monarchy peace system Jiang compares to the United Nations.",
+      "confidence": "high"
+    },
+    {
+      "term": "1848 revolutions",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0018",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Europe-wide uprisings Jiang reads as bourgeoisie, middle-class, and worker pressure against the old order.",
+      "confidence": "high"
+    },
+    {
+      "term": "psyop",
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's term for communism as elite propaganda used to delegitimize democracy, socialism, and liberalism.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0017",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0024"
+      ],
+      "note": "This packet builds the mid-19th-century background: post-Napoleonic peace, 1848, and the manifesto program become evidence for Jiang's communism-as-elite-sabotage thesis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0022",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0023"
+      ],
+      "note": "ASR is heavily damaged during part of the manifesto quotation; extraction uses only the clear surrounding claims and clear program-point references."
+    },
+    {
+      "refs": [
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0019",
+        "video:predictive-history-axqdlhws93q@transcript:v1#seg-0020"
+      ],
+      "note": "Jiang describes antisemitic and anti-foreign conspiracy framings as part of propaganda dynamics; those framings should be preserved as source rhetoric, not normalized as project voice."
+    }
+  ]
+}
