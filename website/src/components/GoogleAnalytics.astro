@@ -1,0 +1,14 @@
+---
+import { googleAnalyticsInlineScript, googleAnalyticsScriptSrc, siteConfig } from '../../site.config.mjs';
+
+const googleTagId = siteConfig.analytics?.googleTagId;
+const scriptSrc = googleAnalyticsScriptSrc();
+const inlineScript = googleAnalyticsInlineScript();
+---
+
+{googleTagId && (
+  <>
+    <script async src={scriptSrc}></script>
+    <script is:inline set:html={inlineScript}></script>
+  </>
+)}

@@ -60,6 +60,15 @@ async function main() {
         failures.push(`${rel}: forbidden pattern ${pattern}`);
       }
     }
+
+    if (path.extname(file) === '.html') {
+      if (text.includes('rel="sitemap" href="/sitemap-index.xml"')) {
+        failures.push(`${rel}: still links relative sitemap-index.xml in head`);
+      }
+      if (text.includes('rel="sitemap" href="https://jianglens.com/sitemap-index.xml"')) {
+        failures.push(`${rel}: still links production sitemap-index.xml in head`);
+      }
+    }
   }
 
   const robotsPath = path.join(distRoot, 'robots.txt');
@@ -69,6 +78,48 @@ async function main() {
     const robots = await readFile(robotsPath, 'utf8');
     if (!robots.includes('Sitemap: https://jianglens.com/sitemap-index.xml')) {
       failures.push('dist/robots.txt: missing production sitemap URL');
+    }
+    for (const expected of [
+      'LLMs: https://jianglens.com/llms.txt',
+      'LLMs-full: https://jianglens.com/llms-full.txt',
+      'Skill: https://jianglens.com/skill.md',
+    ]) {
+      if (!robots.includes(expected)) {
+        failures.push(`dist/robots.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const homePath = path.join(distRoot, 'index.html');
+  if (!existsSync(homePath)) {
+    failures.push('dist/index.html: missing');
+  } else {
+    const home = await readFile(homePath, 'utf8');
+    if (!home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-0.xml">')) {
+      failures.push('dist/index.html: missing production sitemap-0 head link');
+    }
+    if (home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-index.xml">')) {
+      failures.push('dist/index.html: still links sitemap-index.xml in head');
+    }
+  }
+
+  const sampleHeadPaths = [
+    'index.html',
+    'episodes/index.html',
+    'introduction/index.html',
+  ];
+  for (const relPath of sampleHeadPaths) {
+    const htmlPath = path.join(distRoot, relPath);
+    if (!existsSync(htmlPath)) {
+      failures.push(`dist/${relPath}: missing`);
+      continue;
+    }
+    const html = await readFile(htmlPath, 'utf8');
+    if (!html.includes('https://www.googletagmanager.com/gtag/js?id=G-EWK5R4CE72')) {
+      failures.push(`dist/${relPath}: missing Google Analytics tag`);
+    }
+    if (!html.includes(`gtag('config', "G-EWK5R4CE72")`)) {
+      failures.push(`dist/${relPath}: missing Google Analytics config`);
     }
   }
 
