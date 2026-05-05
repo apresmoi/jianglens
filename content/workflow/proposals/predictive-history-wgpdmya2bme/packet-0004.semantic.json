@@ -1,0 +1,165 @@
+{
+  "packet_id": "predictive-history-wgpdmya2bme-semantics-pkt-0004",
+  "source_id": "video:predictive-history-wgpdmya2bme",
+  "source_date": "2026-04-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0025",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0026",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student struggles through the Ugolino passage and then reads the scene where Ugolino hears the prison door nailed shut, sees his sons offer their own bodies, and remains emotionally frozen.",
+      "speaker_attribution": "Student reading, with Jiang briefly supplying the word 'nailing.'",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the sons' offer as a final act of love that Ugolino cannot recognize because betrayal has trained him to see only betrayal; treachery blinds the soul to love and lets it commit the worst evil.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0030",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0031",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks Ivory to read and notes they can skip the Latin; the student acknowledges, and Jiang summarizes that the king of hell is before them.",
+      "speaker_attribution": "Brief classroom exchange plus Jiang transition.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0025",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027"
+      ],
+      "note": "These are quoted Dante readings by a student, including a visibility complaint in seg-0025.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0030",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0031"
+      ],
+      "note": "The 'can you read' prompt is logistical, not a substantive public question.",
+      "suggested_speaker": "Jiang and student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads Ugolino's sons' offer to be eaten as a final act of love toward their father.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["ugolino", "children", "love", "dante"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because Ugolino has organized his world through betrayal, he cannot recognize love when his sons show it and instead consumes them.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["treachery", "love", "perception", "ugolino"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Treachery is devastating because it blinds the person to the possibility of love and thereby permits the most evil acts.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["treachery", "evil", "blindness", "love"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "At the center of hell, Jiang says Lucifer chews Judas, Brutus, and Cassius; Judas makes sense as betrayer of Jesus, while Brutus and Cassius create a paradox Jiang will explain.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["lucifer", "judas", "brutus", "cassius", "paradox"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "moment": "The sons offer love, but the father has become so fluent in betrayal that love appears to him only as food.",
+      "source_phrase": "he doesn't recognize this act of love",
+      "why_it_matters": "This is the most brutal example of Jiang's claim that sin changes perception before it changes action.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "moment": "Treachery is blindness: it denies the possibility of love and therefore makes the worst evil thinkable.",
+      "source_phrase": "it blinds you to the possibility of love",
+      "why_it_matters": "It condenses the episode's moral psychology into a phrase that can carry a public read.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "blindness to love",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "The perceptual damage caused by treachery: the sinner cannot see love even when it is offered.",
+      "confidence": "high"
+    },
+    {
+      "term": "center of hell",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The deepest Inferno location where Lucifer chews Judas, Brutus, and Cassius, setting up Jiang's paradox about Caesar and divine order.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "note": "The 2026-04-29 lecture gives a vivid later formulation of treachery as a perceptual blindness to love.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028"
+      ],
+      "note": "The line 'eat us, than for us to eat you' appears ASR-damaged; the surrounding interpretation clearly treats the sons as offering themselves to the father."
+    }
+  ]
+}

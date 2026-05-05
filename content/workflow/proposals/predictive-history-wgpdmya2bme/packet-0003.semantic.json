@@ -1,0 +1,183 @@
+{
+  "packet_id": "predictive-history-wgpdmya2bme-semantics-pkt-0003",
+  "source_id": "video:predictive-history-wgpdmya2bme",
+  "source_date": "2026-04-29",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0017",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from self-directed sins to sins against others and singles out treachery as worst because freely chosen bonds of trust make love possible, and betrayal destroys that capacity.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Count Ugolino becomes the case study: power politics and betrayal lead him to condemn his children, then hatred of himself is displaced onto the archbishop in an eternal frozen repetition like Achilles mutilating Hector.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0023",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student begins the Ugolino reading, and Jiang clarifies that the sons in the passage are the four young children locked in prison with him.",
+      "speaker_attribution": "Student reading followed by Jiang clarification.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0023"
+      ],
+      "note": "This is student reading from Dante, not Jiang's interpretive claim.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang distinguishes self-directed sins from sins against others and treats violence, fraud, and treachery as escalating because they damage other souls.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["sin-hierarchy", "violence", "fraud", "treachery"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Betrayal of chosen friends or guests is worse than betrayal of family because chosen bonds depend on free will and trust.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["treachery", "family", "friendship", "free-will"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ugolino's eternal punishment represents immutability: he remains locked in an unchanging loop of biting the archbishop's head instead of facing his own responsibility.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["ugolino", "immutability", "hell", "responsibility"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reads Ugolino through Achilles: both redirect guilt and self-hatred onto another body instead of accepting the betrayal that came from their own choices.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["ugolino", "achilles", "self-hatred", "betrayal"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, betrayal ultimately makes the betrayer betray everyone, including family, and produces eternal self-hatred.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": ["betrayal", "family", "self-hatred", "hell"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "moment": "The worst betrayal is not the oldest bond but the chosen bond, because free trust is what makes love possible.",
+      "source_phrase": "bonds created by free will and trust",
+      "why_it_matters": "It sharpens Jiang's Dante: freedom intensifies responsibility.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021"
+      ],
+      "moment": "Betrayal becomes a chain reaction: betray others long enough and you betray even your own children.",
+      "source_phrase": "betraying others condemns you to betraying everyone",
+      "why_it_matters": "It preserves the lecture's darkest causal chain without reducing it to 'treachery is bad.'",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020"
+      ],
+      "moment": "The frozen lake is the soul that cannot change, gnawing forever on someone else while knowing the real guilt is its own.",
+      "source_phrase": "immutability the incapacity to change",
+      "why_it_matters": "It makes the Ugolino image do conceptual work for the later public read.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "chosen bond",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "A relationship entered by free will and trust; for Jiang, betrayal of such a bond is especially destructive.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ugolino",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Dante's example of treachery turning power politics into self-hatred, family destruction, and cannibalistic hell imagery.",
+      "confidence": "medium"
+    },
+    {
+      "term": "frozen lake",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The bottom-of-hell image Jiang reads as immutability and incapacity to change.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021"
+      ],
+      "note": "The 2026-04-29 lecture explicitly links Dante's Ugolino to Jiang's recurring Iliad/Achilles guilt model.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "note": "The transcript says 'canonizing' the soul, likely ASR damage for a cannibalism/cannibalizing phrase; avoid relying on that exact word."
+    }
+  ]
+}

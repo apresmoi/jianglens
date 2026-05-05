@@ -1,0 +1,1508 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-wgpdmya2bme:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-wgpdmya2bme",
+  "source_id": "video:predictive-history-wgpdmya2bme",
+  "source_title": "Great Books #10:  Dante's Hierarchy of Hell",
+  "source_url": "https://www.youtube.com/watch?v=wGpdMYa2bME",
+  "source_date": "2026-04-29",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-wgpdmya2bme@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-wgpdmya2bme/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-wgpdmya2bme/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-wgpdmya2bme/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 23,
+    "speaker_notes": 11,
+    "claims": 35,
+    "signature_moments": 23,
+    "predictions": 0,
+    "models": 13,
+    "glossary_terms": 22,
+    "chronology_notes": 8,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0006",
+    "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the final Inferno lecture by reconstructing Dante's cosmology: a perfect God lacks imaginative change, so humans are created as embodied beings capable of pain, sin, free will, creativity, redemption, and return to the divine source.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "He defines love as giving oneself to another spark without requiring reciprocity; unconditional love makes the divine spark glow, reconnects the person to the source, and expands perception beyond the self.",
+      "speaker_attribution": "Jiang classroom lecture with repeated ASR fragments.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0006",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang uses Odysseus and Penelope to show love expanding imagination: the Trojan Horse is born from the desire to return home, but its violence traumatizes Odysseus until mutual love helps heal him. Dante, without reading Homer, arrives at the same cosmic framework.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reverses the cosmology into hell: when sin makes a person unable to love or forgive, the soul contracts inward, imagines itself away from the source, and imprisons itself in hell until it chooses redemption.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0012",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0013",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0014"
+      ],
+      "kind": "monologue",
+      "summary": "He maps Inferno's hierarchy onto capacity for self-forgiveness: lower sins not only distance the sinner from God but also spread deception, hatred, and betrayal into others like a virus that reduces love.",
+      "speaker_attribution": "Jiang classroom lecture with some ASR damage around Lucifer/Satan.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0015",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang begins a tour of the circles: limbo contains virtuous pre-Christian figures, lust is punished by a whirlwind that mirrors emotional loss of control, and gluttony is punished by endless rain so the punishment forces self-recognition.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0017",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang moves from self-directed sins to sins against others and singles out treachery as worst because freely chosen bonds of trust make love possible, and betrayal destroys that capacity.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Count Ugolino becomes the case study: power politics and betrayal lead him to condemn his children, then hatred of himself is displaced onto the archbishop in an eternal frozen repetition like Achilles mutilating Hector.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0023",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student begins the Ugolino reading, and Jiang clarifies that the sons in the passage are the four young children locked in prison with him.",
+      "speaker_attribution": "Student reading followed by Jiang clarification.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0025",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0026",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student struggles through the Ugolino passage and then reads the scene where Ugolino hears the prison door nailed shut, sees his sons offer their own bodies, and remains emotionally frozen.",
+      "speaker_attribution": "Student reading, with Jiang briefly supplying the word 'nailing.'",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the sons' offer as a final act of love that Ugolino cannot recognize because betrayal has trained him to see only betrayal; treachery blinds the soul to love and lets it commit the worst evil.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0030",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0031",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks Ivory to read and notes they can skip the Latin; the student acknowledges, and Jiang summarizes that the king of hell is before them.",
+      "speaker_attribution": "Brief classroom exchange plus Jiang transition.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0033",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0034"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Dante and Virgil approaching Lucifer at the bottom of hell, with the guide stopping Dante before the once-handsome creature.",
+      "speaker_attribution": "Student reading from Dante; seg-0034 is empty after boundary repair.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0036",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0037"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Lucifer as a machine without imagination, speech, or agency; the real paradox is that Brutus and Cassius are punished with Judas, which implies Caesar's divinity even though Caesar is only in limbo. Jiang suggests Virgil, not Lucifer, may be the real master of hell's arrangement.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0038",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0039",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang moves from hell into purgatory and introduces Cato as another paradox: pre-Christian, suicidal, and anti-Caesar, yet guardian of purgatory. He asks Ivory to read Cato's challenge to Dante and Virgil.",
+      "speaker_attribution": "Jiang lecture and student reading from Dante.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains Cato's challenge: Dante and Virgil should not be able to break out of hell and reach purgatory, so their appearance violates the universe's apparent law.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0042",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0043"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Virgil's explanation to Cato: Virgil did not come by his own power but was sent by a lady from heaven to guide Dante through hell and toward souls in purgation.",
+      "speaker_attribution": "Student reading Virgil's speech in Dante.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0044",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0045",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0046",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0047",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang notes that Virgil and Cato know each other from Roman history and limbo, but Virgil is strangely polite and almost afraid. A student reads Virgil praising Cato's death for liberty, and Jiang glosses it as a noble suicide against Caesar despite Catholic teaching.",
+      "speaker_attribution": "Jiang lecture interleaved with student reading.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0049",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0050"
+      ],
+      "kind": "exchange",
+      "summary": "The student reads Virgil invoking Marcia, and Jiang interprets it as subtle leverage: Virgil hints he can treat Cato's wife well in limbo if Cato permits the journey.",
+      "speaker_attribution": "Student reading followed by Jiang interpretation.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0051",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0053"
+      ],
+      "kind": "exchange",
+      "summary": "After the student reads Cato's response about Marcia, Jiang names the paradox: Cato was in limbo with Virgil and Marcia, was not Christian, and killed himself, yet somehow ascended to purgatory while Marcia stayed behind.",
+      "speaker_attribution": "Student reading followed by Jiang interpretation.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0054",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The reading turns to Cato no longer being moved by Marcia. Jiang explains the paradox through free will: real love lets the other choose; Cato can will purgatory for himself, but cannot force Marcia into self-reflection.",
+      "speaker_attribution": "Student reading followed by Jiang interpretation.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0057",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0058"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Cato granting passage, ordering Dante cleansed of hell's stains, and pointing toward the climb up the purgatorial mountain; seg-0058 is empty after repair.",
+      "speaker_attribution": "Student reading from Dante.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by saying they have reached purgatory and will continue next week. He extracts Dante's method: to understand we first misunderstand, to become virtuous we first sin, and correction of limitation drives imagination.",
+      "speaker_attribution": "Jiang classroom lecture.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "note": "Several phrases are ASR-damaged or repeated, but the through-line is clear enough from surrounding lecture context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0023"
+      ],
+      "note": "This is student reading from Dante, not Jiang's interpretive claim.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0025",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027"
+      ],
+      "note": "These are quoted Dante readings by a student, including a visibility complaint in seg-0025.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0030",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0031"
+      ],
+      "note": "The 'can you read' prompt is logistical, not a substantive public question.",
+      "suggested_speaker": "Jiang and student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0033",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0040"
+      ],
+      "note": "These segments are student readings of Dante, not Jiang's own claims.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0034"
+      ],
+      "note": "This segment is empty after transcript boundary repair.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0042",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0043",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0045",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0047"
+      ],
+      "note": "These are student-read Dante passages rather than Jiang's direct claims.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0049",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0051",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0054"
+      ],
+      "note": "These are student-read Dante passages. The spoken 'Wait, stop' at the end of seg-0054 is classroom direction embedded in the reading segment.",
+      "suggested_speaker": "student reader plus brief Jiang interruption",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0057"
+      ],
+      "note": "This is a student reading Cato's instruction, not Jiang's direct interpretation.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0058"
+      ],
+      "note": "This segment is empty after transcript boundary repair.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "note": "The 'Any questions?' lines are classroom prompts with no substantive student question captured.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante's God is perfect and eternal, and that perfection creates a problem because it lacks imagination and cannot itself generate creative expansion.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "dante",
+        "god",
+        "imagination",
+        "cosmology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Humans solve the cosmic problem because embodiment gives them free will, pain, death, sin, risk, creativity, redemption, and self-forgiveness.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "free-will",
+        "sin",
+        "creativity",
+        "redemption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the divine spark in humans as love, and says that loving another person awakens the spark's desire to return to God.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "love",
+        "divine-spark",
+        "source",
+        "god"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Unconditional love expands the lover's understanding of the universe, taking the person out of the self and into a more cosmic view that empowers imagination.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "cosmos",
+        "self-transcendence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Dante and Homer independently reach the same framework: love expands imagination, and imagination can heal trauma and enlarge the universe.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0006",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "homer",
+        "odyssey",
+        "dante",
+        "love",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says heaven and hell are constructions of imagination and consequences of emotional state rather than merely external locations imposed by another judge.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "hell",
+        "heaven",
+        "imagination",
+        "emotion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Achilles becomes Jiang's example of self-made hell: guilt over Patroclus and Hector traps him until Priam's forgiveness enables self-forgiveness.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "achilles",
+        "iliad",
+        "guilt",
+        "forgiveness"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "No one can redeem a person from hell for them; redemption requires the person to choose self-forgiveness, love, and imaginative expansion.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "redemption",
+        "self-forgiveness",
+        "free-will",
+        "hell"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inferno's lower circles are worse because the sinner increasingly destroys other people's capacity to love and traps them farther from God.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0012",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0013",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "inferno",
+        "treachery",
+        "fraud",
+        "love"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hell's punishments mirror the sin and are designed to force reflection, because the damned choose to remain there until they want reform.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0015",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "contrapasso",
+        "reflection",
+        "punishment",
+        "free-will"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes self-directed sins from sins against others and treats violence, fraud, and treachery as escalating because they damage other souls.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "sin-hierarchy",
+        "violence",
+        "fraud",
+        "treachery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Betrayal of chosen friends or guests is worse than betrayal of family because chosen bonds depend on free will and trust.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "treachery",
+        "family",
+        "friendship",
+        "free-will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ugolino's eternal punishment represents immutability: he remains locked in an unchanging loop of biting the archbishop's head instead of facing his own responsibility.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "ugolino",
+        "immutability",
+        "hell",
+        "responsibility"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reads Ugolino through Achilles: both redirect guilt and self-hatred onto another body instead of accepting the betrayal that came from their own choices.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "ugolino",
+        "achilles",
+        "self-hatred",
+        "betrayal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, betrayal ultimately makes the betrayer betray everyone, including family, and produces eternal self-hatred.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "betrayal",
+        "family",
+        "self-hatred",
+        "hell"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Ugolino's sons' offer to be eaten as a final act of love toward their father.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "ugolino",
+        "children",
+        "love",
+        "dante"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because Ugolino has organized his world through betrayal, he cannot recognize love when his sons show it and instead consumes them.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "treachery",
+        "love",
+        "perception",
+        "ugolino"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Treachery is devastating because it blinds the person to the possibility of love and thereby permits the most evil acts.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "treachery",
+        "evil",
+        "blindness",
+        "love"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "At the center of hell, Jiang says Lucifer chews Judas, Brutus, and Cassius; Judas makes sense as betrayer of Jesus, while Brutus and Cassius create a paradox Jiang will explain.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "lucifer",
+        "judas",
+        "brutus",
+        "cassius",
+        "paradox"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Lucifer at the bottom of Inferno is mechanical: without ideas, speech, will, desire, agency, imagination, or organic life.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "lucifer",
+        "machine",
+        "agency",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The placement of Brutus and Cassius beside Judas creates a paradox because it would imply Julius Caesar is divine, yet Caesar remains in limbo.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "brutus",
+        "cassius",
+        "caesar",
+        "judas",
+        "paradox"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang suggests Dante's paradoxes make the reader wonder whether the presented reality is being created by a stronger power, and whether Virgil is master of hell's logic.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0036",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "virgil",
+        "paradox",
+        "reality",
+        "inferno"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Cato's guardianship of purgatory is paradoxical because he was pre-Christian, committed suicide, and opposed Caesar, yet is above limbo and above hell.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0038",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "cato",
+        "purgatory",
+        "paradox",
+        "caesar"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cato's first question is whether Dante and Virgil's escape from hell breaks the laws of the universe.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0041",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "cato",
+        "purgatory",
+        "law",
+        "escape"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil presents the journey as authorized by a power from heaven rather than by his own will.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0042",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Quoted Dante passage interpreted in the 2026-04-29 lecture.",
+      "topic_tags": [
+        "virgil",
+        "heaven",
+        "authority",
+        "journey"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil and Cato know each other from Roman history and limbo, making Virgil's politeness and fear meaningful.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "virgil",
+        "cato",
+        "limbo",
+        "roman-history"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil praises Cato's suicide as death for freedom, even though suicide is a sin in Catholic teaching.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0045",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0047",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Quoted Dante passage and Jiang interpretation on 2026-04-29.",
+      "topic_tags": [
+        "cato",
+        "freedom",
+        "suicide",
+        "caesar"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Virgil's mention of Marcia as a subtle bribe or small threat aimed at Cato.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0049",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "virgil",
+        "marcia",
+        "cato",
+        "limbo"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cato's placement creates a paradox because he was not Christian, killed himself, and had been in limbo, but still reached purgatory while Marcia remained in limbo.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0051",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "cato",
+        "marcia",
+        "limbo",
+        "purgatory",
+        "paradox"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante's answer is free will: Cato chose purgatory through will, desire, self-reflection, and self-forgiveness, while Marcia did not.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "free-will",
+        "cato",
+        "purgatory",
+        "self-reflection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "True love does not force another person toward redemption; forcing someone to self-reflect would violate love and free will.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "love",
+        "free-will",
+        "redemption",
+        "coercion"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Cato orders Dante to wash away the stains of hell before approaching purgatory's angelic order.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Quoted Dante passage in the 2026-04-29 lecture.",
+      "topic_tags": [
+        "cato",
+        "purgatory",
+        "cleansing",
+        "ritual"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes purgatory as a mountain that must be climbed toward heaven and as an enclosed place shielded from waves and wind.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0057",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "purgatory",
+        "mountain",
+        "heaven",
+        "journey"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's journey is a cosmic journey that takes the reader with him, not merely a private literary itinerary.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "dante",
+        "cosmos",
+        "reader",
+        "journey"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang's Dante, understanding requires prior misunderstanding, and virtue requires sin because correction and recognition of limits drive imagination.",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-04-29.",
+      "topic_tags": [
+        "misunderstanding",
+        "virtue",
+        "sin",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002"
+      ],
+      "moment": "Human sin is not an accidental defect in the cosmos; it is the condition that makes imagination, risk, and renewal possible.",
+      "source_phrase": "what's important to sin though is that you can now be creative",
+      "why_it_matters": "It turns Dante's moral universe into a theory of why imperfection is necessary for creation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "moment": "Love is a divine spark recognizing another spark and glowing its way back to the source.",
+      "source_phrase": "there's a spark in us that's divine and it is called love",
+      "why_it_matters": "This image anchors the episode's whole account of heaven, hell, imagination, and redemption.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "moment": "Dante never read Homer, yet Jiang says both poets discovered the same machinery of love, trauma, return, and imagination.",
+      "source_phrase": "Dante never read Homer",
+      "why_it_matters": "It lets Jiang treat the Great Books as converging maps of the same human metaphysics rather than isolated texts.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010"
+      ],
+      "moment": "Hell is the imagination turned into a prison by a soul that no longer believes it deserves God.",
+      "source_phrase": "we create hell to imprison ourselves in",
+      "why_it_matters": "This is the central interpretive turn of the lecture: damnation is self-construction, not just sentence.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0014"
+      ],
+      "moment": "Deception spreads like a virus that reduces everyone's capacity to love.",
+      "source_phrase": "spreading a virus of deception of hatred of betrayal",
+      "why_it_matters": "It turns sin from private bad behavior into an infectious social technology.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0016"
+      ],
+      "moment": "The punishment is not revenge; it is a mirror built to make the sinner see the limit of the sin.",
+      "source_phrase": "force you to see the error of your ways",
+      "why_it_matters": "It gives the episode a usable account of why Dante's grotesque punishments are pedagogical.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "moment": "The worst betrayal is not the oldest bond but the chosen bond, because free trust is what makes love possible.",
+      "source_phrase": "bonds created by free will and trust",
+      "why_it_matters": "It sharpens Jiang's Dante: freedom intensifies responsibility.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021"
+      ],
+      "moment": "Betrayal becomes a chain reaction: betray others long enough and you betray even your own children.",
+      "source_phrase": "betraying others condemns you to betraying everyone",
+      "why_it_matters": "It preserves the lecture's darkest causal chain without reducing it to 'treachery is bad.'",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020"
+      ],
+      "moment": "The frozen lake is the soul that cannot change, gnawing forever on someone else while knowing the real guilt is its own.",
+      "source_phrase": "immutability the incapacity to change",
+      "why_it_matters": "It makes the Ugolino image do conceptual work for the later public read.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "moment": "The sons offer love, but the father has become so fluent in betrayal that love appears to him only as food.",
+      "source_phrase": "he doesn't recognize this act of love",
+      "why_it_matters": "This is the most brutal example of Jiang's claim that sin changes perception before it changes action.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "moment": "Treachery is blindness: it denies the possibility of love and therefore makes the worst evil thinkable.",
+      "source_phrase": "it blinds you to the possibility of love",
+      "why_it_matters": "It condenses the episode's moral psychology into a phrase that can carry a public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0037"
+      ],
+      "moment": "Lucifer is not the great romantic rebel but an air conditioner: a mechanical thing whose wings keep hell cold.",
+      "source_phrase": "almost like an air conditioner",
+      "why_it_matters": "It sharply demotes Satan from sovereign evil to dead mechanism, making agency belong elsewhere.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0036"
+      ],
+      "moment": "Dante plants contradictions so the reader suspects the apparent universe is staged by another power.",
+      "source_phrase": "maybe everything I'm seeing is not real",
+      "why_it_matters": "This is Jiang's method for reading paradox as a guide to hidden authorship and unreliable authority.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0038",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0039"
+      ],
+      "moment": "Cato should be impossible: pre-Christian, suicidal, anti-Caesar, and yet the guardian of purgatory.",
+      "source_phrase": "That makes no sense",
+      "why_it_matters": "It sets up the lecture's final move from institutional logic to free will.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0041"
+      ],
+      "moment": "Cato sees an escape from hell and immediately reads it as a cosmic law problem.",
+      "source_phrase": "This goes against the laws of the universe",
+      "why_it_matters": "It turns purgatory's opening into a test of whether apparent law can be overridden.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0044"
+      ],
+      "moment": "Virgil, possible hidden master of hell, suddenly becomes polite and almost afraid before Cato.",
+      "source_phrase": "almost afraid of Cato",
+      "why_it_matters": "This pressure point helps explain why Cato cannot be treated as a simple side character.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0048"
+      ],
+      "moment": "The suicide that should condemn Cato is praised as freedom from Caesar.",
+      "source_phrase": "he would rather die honorably than to submit himself as a slave to Caesar",
+      "why_it_matters": "It keeps the paradox alive: Dante's moral order values free will even when doctrine seems to forbid the case.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0050"
+      ],
+      "moment": "Virgil's piety becomes negotiation: a promise about Marcia in limbo reads like a bribe or small threat.",
+      "source_phrase": "almost like a bribe",
+      "why_it_matters": "It keeps Virgil morally complicated rather than turning him into a neutral guide.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0053"
+      ],
+      "moment": "Cato escaped limbo while Marcia remained: the paradox is not abstract doctrine but a spouse left behind.",
+      "source_phrase": "your wife, Marcia, was still left behind",
+      "why_it_matters": "It makes free will emotionally costly instead of merely theological.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "moment": "Love becomes restraint: if you truly love someone, you let that person choose even when you want to save them.",
+      "source_phrase": "If you truly love someone, you let that person choose",
+      "why_it_matters": "This is the lecture's cleanest public thesis about love, free will, and redemption.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0057",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059"
+      ],
+      "moment": "The exit from hell is not arrival but preparation: wash the stains, climb the mountain, and learn how to ascend.",
+      "source_phrase": "wash away all of hell's stains",
+      "why_it_matters": "It gives the episode a transition from infernal imprisonment to purgatorial work.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "moment": "Misunderstanding is not failure; it is the path by which understanding becomes possible.",
+      "source_phrase": "It's misunderstanding that leads to understanding",
+      "why_it_matters": "This turns the lecture into a method for reading, learning, sinning, correcting, and imagining.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "moment": "To become virtuous, you must first sin, because sin reveals limitation and makes correction possible.",
+      "source_phrase": "If you want to be virtuous, you must first sin",
+      "why_it_matters": "It is the lecture's final provocation and ties Dante's hell back to human creativity.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's name for the love-bearing divine element in humans that wants to return to God.",
+      "confidence": "high"
+    },
+    {
+      "term": "source",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0003",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "God or the monad, the origin to which the spark tries to return through love.",
+      "confidence": "high"
+    },
+    {
+      "term": "unconditional love",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Giving to another person without needing the other to love back; in Jiang's reading, this activates imagination and cosmic expansion.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-made hell",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A state of imaginative imprisonment created when sin blocks love and self-forgiveness.",
+      "confidence": "high"
+    },
+    {
+      "term": "treachery",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0013",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The worst sin because it traps the betrayer and also damages others' trust and capacity for love.",
+      "confidence": "high"
+    },
+    {
+      "term": "contrapasso",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0015",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Not named directly, but used as the logic that punishment mirrors sin to provoke reflection.",
+      "confidence": "medium"
+    },
+    {
+      "term": "chosen bond",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "A relationship entered by free will and trust; for Jiang, betrayal of such a bond is especially destructive.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ugolino",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Dante's example of treachery turning power politics into self-hatred, family destruction, and cannibalistic hell imagery.",
+      "confidence": "medium"
+    },
+    {
+      "term": "frozen lake",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The bottom-of-hell image Jiang reads as immutability and incapacity to change.",
+      "confidence": "high"
+    },
+    {
+      "term": "blindness to love",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "The perceptual damage caused by treachery: the sinner cannot see love even when it is offered.",
+      "confidence": "high"
+    },
+    {
+      "term": "center of hell",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The deepest Inferno location where Lucifer chews Judas, Brutus, and Cassius, setting up Jiang's paradox about Caesar and divine order.",
+      "confidence": "high"
+    },
+    {
+      "term": "mechanical Lucifer",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang's reading of Satan/Lucifer as a machine without agency, imagination, or speech.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dantean paradox",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0036",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A contradiction in the poem that forces the reader to ask who is constructing the apparent moral order.",
+      "confidence": "high"
+    },
+    {
+      "term": "Cato",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0038",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The Roman opponent of Caesar whom Dante places as guardian of purgatory, creating a theological and political paradox.",
+      "confidence": "high"
+    },
+    {
+      "term": "death for freedom",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0047",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Virgil's praise of Cato's suicide as an honorable refusal to submit to Caesar.",
+      "confidence": "high"
+    },
+    {
+      "term": "heavenly authorization",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0042",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Virgil's claim that the journey is enabled by a power from above, not by his own self-originating agency.",
+      "confidence": "high"
+    },
+    {
+      "term": "Marcia paradox",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Cato reaches purgatory while his wife remains in limbo, forcing Jiang's reading of love as non-coercive free will.",
+      "confidence": "high"
+    },
+    {
+      "term": "non-coercive love",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Love that lets the beloved choose rather than forcing redemption or self-reflection.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-reflection",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The voluntary act Cato wills for himself and cannot impose on Marcia.",
+      "confidence": "high"
+    },
+    {
+      "term": "purgatory mountain",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0057",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "The enclosed mountain one climbs toward heaven after leaving hell.",
+      "confidence": "high"
+    },
+    {
+      "term": "misunderstanding",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "For Jiang's Dante, the necessary first condition of eventual understanding.",
+      "confidence": "high"
+    },
+    {
+      "term": "sin as limitation-recognition",
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Sin is not excused, but it reveals limitations that can be corrected into virtue and imagination.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001"
+      ],
+      "note": "This Great Books lecture is dated 2026-04-29 and frames Dante's Inferno through Jiang's mature love/imagination cosmology.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011"
+      ],
+      "note": "On 2026-04-29 Jiang explicitly states a Dante model where hell is self-imagined and self-sustained through failure of self-forgiveness.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0020",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0021"
+      ],
+      "note": "The 2026-04-29 lecture explicitly links Dante's Ugolino to Jiang's recurring Iliad/Achilles guilt model.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029"
+      ],
+      "note": "The 2026-04-29 lecture gives a vivid later formulation of treachery as a perceptual blindness to love.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0037"
+      ],
+      "note": "On 2026-04-29 Jiang explicitly frames Lucifer as lacking agency and Virgil as potentially the more important hidden authority in hell.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0044",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0048"
+      ],
+      "note": "The 2026-04-29 lecture reads Cato's freedom as central to the transition from Inferno into Purgatorio.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"
+      ],
+      "note": "On 2026-04-29 Jiang articulates a strong anti-coercion model of love: redemption cannot be forced even by someone who loves you.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0059",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0060"
+      ],
+      "note": "The 2026-04-29 lecture closes with a compact method: misunderstanding precedes understanding, and sin precedes virtue through self-correction.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0001",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0004",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"
+      ],
+      "note": "ASR damage obscures a few terms and repeats phrases; claims rely on repeated surrounding formulations rather than exact damaged wording."
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0012"
+      ],
+      "note": "ASR damage around the name for Satan/Lucifer makes the exact phrase unreliable, but the claim about hell's center is clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0022"
+      ],
+      "note": "The transcript says 'canonizing' the soul, likely ASR damage for a cannibalism/cannibalizing phrase; avoid relying on that exact word."
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028"
+      ],
+      "note": "The line 'eat us, than for us to eat you' appears ASR-damaged; the surrounding interpretation clearly treats the sons as offering themselves to the father."
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0045",
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0047"
+      ],
+      "note": "The quoted line is split awkwardly because Jiang interrupts the reading; treat seg-0045 and seg-0047 together for the Utica/freedom passage."
+    },
+    {
+      "refs": [
+        "video:predictive-history-wgpdmya2bme@transcript:v1#seg-0054"
+      ],
+      "note": "The segment blends quoted Dante with a classroom 'Wait, stop' interruption; use it mainly as setup for Jiang's explanation in seg-0055."
+    }
+  ]
+}
