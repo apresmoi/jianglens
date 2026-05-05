@@ -208,6 +208,16 @@ In the cave lecture, [a slave is someone who wants to be a slave, who chooses to
 <span id="free-will-burden-makes-choice-cosmic" class="lens-point-anchor"></span>
 Free will becomes a cosmic burden when choice is not mere preference but participation in reality: people can choose the familiar lie, desire hell, refuse intervention, or shine in darkness in a way that changes the field for others.
 
+## [Eschatology As Script](/lens/eschatology/)
+
+The eschatology family connects Jiang's spiritual and strategic maps. In the August 2025 geopolitics lecture, he states the mechanism directly: [eschatology drives geopolitics]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0003"}. End-times stories do not merely predict a finish. They answer origin, purpose, and destination, then assign roles that actors can inhabit. That is why Jiang treats them as scripts capable of unconscious coordination.
+
+At the geopolitical level, the family asks how prophecy becomes alliance structure, enemy selection, and crisis timing: Moscow as Third Rome, Dugin's Eurasian plan, Catholic personal or imperial eschatology, and converging Middle East scenarios. At the soul level, Dante and Secret History #9 make the same problem inward: hell is a world people can desire, salvation is not a contract, and free will means God does not erase the human choice to shine in darkness.
+
+<!-- lens-point id="eschatology-script-atlas" concept="eschatology-script" evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0004 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0025 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031" -->
+<span id="eschatology-script-atlas" class="lens-point-anchor"></span>
+Eschatology becomes a script when a story of the end gives actors roles, coordinates action without explicit command, and makes catastrophe, sacrifice, or chosen hell feel like participation in a reality already moving toward judgment.
+
 ## Current Atlas Families
 
 | Family | Working question | Strong source clusters |
@@ -227,6 +237,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 | Education as soul game | What kind of person does school make when learning is displaced by trust transfer, status, compliance, and credential competition? | Secret History school, meritocracy, Game Theory schools, Great Books |
 | Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
 | Free will as burden | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
+| [Eschatology as script](/lens/eschatology/) | Which end-times story is assigning roles, coordinating action, and making catastrophe or salvation feel necessary? | Eschatologies converge, Dante, Secret History #9, cave |
 
 ## Chronology Of The Current Map
 
@@ -244,6 +255,7 @@ Free will becomes a cosmic burden when choice is not mere preference but partici
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
+- **2025-08-01 to 2026-04-08**: Eschatology becomes both geopolitical script and inner-world diagnosis: end-times stories coordinate actors toward crisis, while Dante and Secret History #9 turn hell, salvation, death, and free will into present realities rather than remote doctrines.
 - **2025-12-09 to 2026-01-07**: Attention becomes an explicit energy theory. Capital extracts human focus through freedom, money, anxiety, and destroyed security; the Great Books cave lecture then names attention as true wealth and captured imagination as reality construction.
 - **2026-04-07 to 2026-04-08**: The later processed Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
 
