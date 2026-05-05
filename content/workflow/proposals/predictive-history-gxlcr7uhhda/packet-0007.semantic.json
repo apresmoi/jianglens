@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-gxlcr7uhhda-semantics-pkt-0007",
+  "source_id": "video:predictive-history-gxlcr7uhhda",
+  "source_date": "2026-03-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0049",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0050",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0052",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0054",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0055"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the Odyssey banquet song: Odysseus hides tears during songs of Troy, then asks Demodocus to sing the wooden horse, whose hidden Achaeans doom the city.",
+      "speaker_attribution": "student reading Homer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0051",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0053",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Odysseus' tears as trauma stored in memory: if he wants to go home, he must confront the memory he most wants to repress, the Trojan horse and the sack of Troy.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0049",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0055"
+      ],
+      "note": "SPEAKER_00 is quoted Homer, including Odysseus' request to the bard. SPEAKER_01 is Jiang interpreting the quoted material.",
+      "suggested_speaker": "student reader and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Odysseus' tears during the bard's song show that memory stores pain in him and that something in the Trojan War made him resent himself and rupture his soul.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0049",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0050",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Claim stated in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "memory",
+        "trauma",
+        "odysseus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Odysseus asks for the wooden horse song because going home requires him to confront and admit the pain he has been repressing.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0052",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Claim stated in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "repression",
+        "confession",
+        "homecoming"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted wooden-horse passage presents Troy as doomed once it accepts the horse, with Achaean power hidden inside and death bearing down on the city.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0054",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Quoted Homer passage read in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "trojan-horse",
+        "troy",
+        "quoted-material"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang glosses the attack on Deiphobus' house as an attempt to kill the king, emphasizing the violence hidden behind the heroic song.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0055",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Claim stated in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "deiphobus",
+        "violence",
+        "troy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0051"
+      ],
+      "moment": "The heroic song does not flatter Odysseus; it makes him cry because memory is storing pain in him.",
+      "source_phrase": "the memories are storing pain in him",
+      "why_it_matters": "It captures Jiang's mechanism of poetic memory as trauma exposure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0053"
+      ],
+      "moment": "Odysseus asks to hear the memory he most wants to repress.",
+      "source_phrase": "the memory that he's most trying to repress",
+      "why_it_matters": "This is the active turn in the repair process: the wound must be summoned, not avoided.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0054"
+      ],
+      "moment": "The horse stands as a glorious offering and a concealed engine of death at the same time.",
+      "source_phrase": "death and slaughter bearing down on Troy",
+      "why_it_matters": "The image holds together beauty, ritual, deception, and massacre.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "repressed memory",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0051",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "The pain of Troy that Odysseus has tried not to remember but must face in order to go home.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trojan horse",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0052",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Odysseus' cunning trap and the specific memory of victory that becomes the center of his trauma.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0052",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0054"
+      ],
+      "note": "The lecture's sequence places Odysseus' healing after Calypso but before full return: he must revisit the Trojan horse memory in song.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0055",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0056"
+      ],
+      "note": "ASR renders Deiphobus and related names inconsistently; extraction keeps the interpretive point about royal violence rather than relying on exact name spelling."
+    }
+  ]
+}

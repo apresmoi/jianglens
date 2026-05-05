@@ -1,0 +1,185 @@
+{
+  "packet_id": "predictive-history-gxlcr7uhhda-semantics-pkt-0003",
+  "source_id": "video:predictive-history-gxlcr7uhhda",
+  "source_date": "2026-03-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0017",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0018",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0019",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0020",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0022"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang states the reversal that will break Odysseus: the war he justified as justice, family, and legacy is exposed as revenge, murder, family destruction, and civilizational ruin. He then shifts to the Iliad scene where Agamemnon's reverse psychology sends the homesick Greeks running to the ships, requiring Odysseus to save the war.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0021",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Iliad passages: the Achaean assembly surges toward the ships after Agamemnon's test, and Hera sends Athena to stop the men from going home.",
+      "speaker_attribution": "student reading Homer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0023"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang gives a classroom reading prompt; it is procedural rather than a substantive public question.",
+      "speaker_attribution": "Jiang to student reader",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0021",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_00 is a student reading Homer aloud, not offering a student question or independent claim.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Odysseus' trauma begins when victory forces him to see that the war was not justice, family, or legacy, but revenge, murder, enslavement, and the destruction of Troy.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Claim stated in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "odysseus",
+        "war-trauma",
+        "moral-reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Odyssey is defined as the journey in which Odysseus repairs his soul enough to go home.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Claim stated in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "odyssey",
+        "soul-repair",
+        "homecoming"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Agamemnon's reverse-psychology test fails because his soldiers do not want glory; they are homesick, tired of the war, and do not know why they are fighting.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0018",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0019",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0020",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Claim stated in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "agamemnon",
+        "homesickness",
+        "reverse-psychology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted Iliad passage shows the Greek army rushing for home like storm-driven waves when given permission to leave.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Quoted Homer passage read in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "iliad",
+        "homecoming",
+        "quoted-material"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's reading, Hera and Athena intervene because Agamemnon's failure would end the war before Greek glory is won.",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0022",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Claim stated and supported by quoted Homer in the March 4, 2026 lecture.",
+      "topic_tags": [
+        "hera",
+        "athena",
+        "divine-intervention"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0017"
+      ],
+      "moment": "The three noble reasons collapse into their opposites: justice becomes murder, family becomes destroyed families, legacy becomes civilizational ruin.",
+      "source_phrase": "all of these three things were wrong",
+      "why_it_matters": "This is the moral explosion that explains why victory traumatizes Odysseus.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0022"
+      ],
+      "moment": "The soldiers reveal the truth Agamemnon cannot imagine: they are sick of the stupid war and want their wives and children.",
+      "source_phrase": "they're sick of this stupid war",
+      "why_it_matters": "It punctures the heroic rhetoric of Troy with the human pull of home.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "moral reversal",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "The moment when Odysseus' justifying categories invert into their destructive consequences.",
+      "confidence": "high"
+    },
+    {
+      "term": "reverse psychology",
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Agamemnon's failed attempt to rally soldiers by telling them they can go home.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0018",
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0024"
+      ],
+      "note": "This part of the March 4, 2026 Odyssey lecture reaches backward into Iliad Book Two as evidence for Odysseus' pre-trauma wartime identity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-gxlcr7uhhda@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang corrects himself from Aphrodite/Hera to Hera/Athena; extraction follows the corrected pair."
+    }
+  ]
+}
