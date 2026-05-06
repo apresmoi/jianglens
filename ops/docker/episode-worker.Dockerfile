@@ -18,6 +18,10 @@ RUN apt-get update \
 
 RUN npm install -g --omit=dev --no-fund --no-audit "@openai/codex@${CODEX_VERSION}"
 
+RUN curl -fsSL https://moltnet.dev/install.sh | sh \
+  && install -m 0755 /root/.local/bin/moltnet /usr/local/bin/moltnet \
+  && moltnet version
+
 COPY ops/scripts/configure-agent-github.sh /usr/local/bin/configure-agent-github
 COPY ops/scripts/episode-worker-entrypoint.sh /usr/local/bin/episode-worker-entrypoint
 RUN chmod +x /usr/local/bin/configure-agent-github /usr/local/bin/episode-worker-entrypoint
