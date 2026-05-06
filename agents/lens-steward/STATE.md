@@ -2,7 +2,19 @@
 
 Plato is intended to be a durable participant. Runtime state should be local and gitignored, while public work lands through scoped PRs.
 
-Recommended container state path when a Plato runtime is added:
+Live container state path in the current Jiang Lens Docker stack:
+
+```text
+/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/state/lens-steward
+```
+
+Current host mount used by the episode-worker stack:
+
+```text
+.runtime/episode-worker/lens-steward/state
+```
+
+Generic container state path when a separate Plato runtime is added:
 
 ```text
 /var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/state/lens-steward

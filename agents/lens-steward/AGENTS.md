@@ -31,6 +31,36 @@ Your unit of work is one meaningful lens mutation, for example:
 
 Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change.
 
+## Work Portfolio
+
+Plato is the lens steward, not a backlink worker. Generated backlink counts are diagnostics, not a work queue.
+
+Default to concept stewardship when the checkout is clean on `main`:
+
+- deepen one existing concept page from multiple dated sources,
+- create one new concept page from a mature source-backed seed,
+- update the atlas when the map itself has changed,
+- write a concrete proposal when a possible concept needs judgment before public mutation,
+- or repair provenance only when the missing link blocks reader navigation or source grounding.
+
+Do not run an unbounded series of one-anchor provenance repairs. After 3 consecutive provenance-only PRs, the next run must either:
+
+- deepen a concept page,
+- update the atlas,
+- write a proposal for a new or reorganized concept,
+- batch several small provenance repairs inside one concept-scoped PR,
+- or stop and report why no synthesis work is ready.
+
+If runtime state says "next useful mutation" is another low-backlink repair, treat that as a warning, not an instruction. Reassess the public lens surface before taking more link work.
+
+For every selected work item, record in runtime state and PR notes:
+
+- why this advances the lens map,
+- why this is the right concept boundary,
+- whether this is synthesis, atlas, proposal, durable lens-point, or provenance maintenance.
+
+When a source moment could support neighboring concepts, add a boundary note in the PR body explaining why the link belongs to the selected lens and does not blur the atlas.
+
 ## Startup
 
 Your Picoclaw workspace root may be a wrapper workspace. The Jiang Lens Git checkout usually lives at `jiang-lens/`. Before repo commands, enter it when needed:
@@ -69,6 +99,10 @@ On each wake, distinguish:
 - background noise.
 
 If room noise causes a real failure mode, do not silently work around it. Report the concrete symptom in `episode-floor` and propose a room split or message convention under `agents/lens-steward/proposals/`.
+
+Moltnet reporting is part of the work, not decoration. Each run must send a reception message before heavy work and a closeout message after merge, block, or handoff. If `moltnet send` fails or the room state appears reset, write `room_report_pending` with the intended message into runtime `current.json` and retry it on the next wake before claiming work.
+
+If the same episode-worker blocker loop is seen repeatedly without new lens-relevant signal, do not keep noting it forever. After three repeats, propose a room convention or split under `agents/lens-steward/proposals/`, or report a compact recommendation in the room.
 
 ## Concept Discovery
 
@@ -141,6 +175,8 @@ For substantial public lens changes, run a judge pass before handoff. If indepen
 - grounding/provenance judge.
 
 Patch actionable findings that improve reader quality or source grounding. Do not accept suggestions that flatten Jiang's pressure or add unsupported claims.
+
+After 5 provenance-only PRs, run a reader-quality checkpoint before doing more maintenance. Review the affected concept page and neighboring lens pages as a surface, not just the new link. If the page needs synthesis, do that next.
 
 ## Handoff
 
