@@ -226,6 +226,16 @@ The Viking school passage is the hinge. Jiang contrasts [a Viking teenager who c
 <span id="formation-becomes-civilizational-capacity" class="lens-point-anchor"></span>
 Formation becomes civilizational capacity when the games that train persons either preserve energy, adaptability, practical judgment, and cohesion or reduce them into obedience, test performance, and controlled membership in a larger machine.
 
+### Truth, Prediction, And Correction
+
+Prediction runs across several atlas families, but it should not become one catch-all page. Jiang uses prediction in several neighboring registers. In the poetic register, [truth contains past, present, and future because it belongs to the universe beyond ordinary time]{evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0027"}. In the school and psychohistory register, true history means [connecting the past, explaining the present, and predicting the future]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0005"}, then refining the model against historical cases. In the game-theory register, a visible prediction can change the board because [a new player can see the contours and manipulate events]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031"}. In the speculative Secret History register, Jiang adds the caveat that prediction can support a theory while [not proving causation or certainty]{evidence="video:predictive-history-wfwizn3qopg@transcript:v1#seg-0002"}.
+
+This relation keeps the map honest. Poetry owns prophetic truth as metaphysical access. Living school owns model formation, correction, and democratic future-making. Game theory owns prediction once it becomes part of the incentive field. Eschatology owns prophecy when it assigns roles and coordinates action toward an end-times script. Secret-society material must keep the proof caveat visible.
+
+<!-- lens-point id="truth-prediction-coherence-atlas" concept="atlas-relation" evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0027 video:predictive-history-voqeteh6hko@transcript:v1#seg-0005 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031 video:predictive-history-wfwizn3qopg@transcript:v1#seg-0002" -->
+<span id="truth-prediction-coherence-atlas" class="lens-point-anchor"></span>
+Prediction becomes a truth test only after the lens names the register: poetic truth contains time, historical models earn confidence through past-present-future coherence, strategic prediction can alter the game, and successful forecasts still do not prove causation.
+
 ## Guidance, Authority, And Escape
 
 The Great Books material gives the exit problem.
@@ -274,12 +284,14 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 | Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
 | Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
 | Education as soul game | What kind of person does school make when learning is displaced by trust transfer, status, compliance, and credential competition, and what would a living school form instead? | Secret History school, meritocracy, Game Theory schools, Great Books, psychohistory school |
+| Truth, prediction, and correction | What kind of prediction is operating: poetic truth, corrigible model, game intervention, eschatological role-script, or speculative proof test? | Psychohistory final class, Iliad truth, Predictive History address, Universal Law of Game Theory, Pax Judaica caveat |
 | Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
 | Free will as burden | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
 | [Eschatology as script](/lens/eschatology/) | Which end-times story is assigning roles, coordinating action, and making catastrophe or salvation feel necessary? | Eschatologies converge, Dante, Secret History #9, cave |
 
 ## Chronology Of The Current Map
 
+- **2024-06-13 to 2025-12-18**: Prediction becomes an epistemic boundary rather than one concept page: psychohistory refines models against history, Homeric truth contains time, the public project defines true history through past-present-future coherence, game theory warns that visible predictions invite intervention, and Pax Judaica keeps prediction from becoming proof.
 - **2024-08-29**: Agriculture appears as a bad bargain that religion makes livable; settlement needs meaning before it can become civilization.
 - **2024-09-10**: Old Europe becomes the counter-image: a peaceful Mother Goddess civilization that makes war, property, and patriarchy look historical rather than natural.
 - **2024-09-05 to 2025-08-29**: Taboo becomes visible as a control surface: ritual maintains harmony with the spirit world, sacred kings and temples define what only gods may touch, scapegoating routes social pressure, regicide makes revolution irreversible, and Secret History #4 names taboo as the no-exit river.
@@ -309,6 +321,7 @@ When reading a new source or applying the lens to an event, start with these dis
 - Which taboo marks the edge of the game, and who gains power if that boundary is honored, broken, or loaded onto a scapegoat?
 - Who is gathering attention as energy, and what world does that focused imagination make durable?
 - What material test can still falsify the story: cost, logistics, ecology, debt, institutional capacity, demographic pressure, or violence?
+- What kind of prediction is being made: poetic truth, corrigible model, strategic intervention, end-times script, or speculative proof test?
 - Which layer is growing: the people doing real work, or the offices that classify, manage, review, and justify that work?
 - Who benefits if the story is treated as history, destiny, morality, or nature?
 - Which older world is being erased, translated, defeated, or made unreadable?
