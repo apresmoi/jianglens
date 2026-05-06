@@ -76,7 +76,7 @@ The machine fails in the same register. Drought exposes the limit of miracle. Th
 
 Mesopotamia supplies the contrast. Where Egypt imagines divine generosity and pyramidal immortality, [the land between two uncooperative rivers learns struggle, creative destruction, and remembered immortality]{evidence="video:predictive-history-e92jybmmaym@transcript:v1#seg-0001 video:predictive-history-e92jybmmaym@transcript:v1#seg-0005 video:predictive-history-e92jybmmaym@transcript:v1#seg-0016"}. Gilgamesh does not defeat mortality by building a perfect still world. He survives through story, city, and memory.
 
-<!-- lens-point id="sacred-machine-coordinates-life" concept="sacred-machine" evidence="video:predictive-history-kssscznyrgo@transcript:v1#seg-0012 video:predictive-history-kssscznyrgo@transcript:v1#seg-0015 video:predictive-history-kssscznyrgo@transcript:v1#seg-0028" -->
+<!-- lens-point id="sacred-machine-coordinates-life" concept="sacred-machine" evidence="video:predictive-history-kssscznyrgo@transcript:v1#seg-0012 video:predictive-history-kssscznyrgo@transcript:v1#seg-0015 video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0018 video:predictive-history-vtnra-gnkm8@transcript:v1#seg-0024 video:predictive-history-kssscznyrgo@transcript:v1#seg-0028" -->
 <span id="sacred-machine-coordinates-life" class="lens-point-anchor"></span>
 A sacred machine is a material form that a civilization imagines as a bridge between invisible order and public life. It concentrates labor, belief, hierarchy, and cosmic hope into an object or institution; its danger is that failed transcendence becomes centralized waste.
 

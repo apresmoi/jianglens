@@ -11,7 +11,7 @@ It can be a temple, pyramid, cave, monument, ritual center, ancestor house, scho
 
 In Jiang's civilization lectures, this mechanism begins before economics. Human beings gather around ritual sites, build temples before villages, turn skulls and caves into channels of contact, and then scale the same impulse into pyramids and later public orders. The machine's promise is enormous: it can make a people feel that the world is intelligible and that their shared labor matters. Its danger is just as large: once transcendence is installed in infrastructure, failed faith can become centralized waste, priestly monopoly, tyranny, or an afterlife economy that consumes the living.
 
-<!-- lens-point id="sacred-machine-bridges-invisible-order" concept="sacred-machine" evidence="video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021 video:predictive-history-kssscznyrgo@transcript:v1#seg-0015" -->
+<!-- lens-point id="sacred-machine-bridges-invisible-order" concept="sacred-machine" evidence="video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0021 video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0007 video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0013 video:predictive-history-kssscznyrgo@transcript:v1#seg-0015" -->
 <span id="sacred-machine-bridges-invisible-order" class="lens-point-anchor"></span>
 A sacred machine turns invisible order into public infrastructure when a community believes a material form can connect ordinary life with gods, ancestors, cosmic time, divine energy, or the hidden structure of reality.
 
@@ -65,7 +65,7 @@ Failure produces a crisis of faith. Power devolves from Pharaoh to priesthood. P
 
 The failure also exposes the machine's political economy. To build pyramids, Egypt needs central planning. Central planning produces inequality, corruption, and waste. Worse, the afterlife system can become nihilistic: life matters less than death, loyalty to Pharaoh, and the accumulation of wealth for the next world. Jiang says the pyramid economy squanders tremendous wealth in the promise of an eternal afterlife and neglects the here and now.
 
-<!-- lens-point id="sacred-machine-fails-material-audit" concept="sacred-machine" evidence="video:predictive-history-kssscznyrgo@transcript:v1#seg-0026 video:predictive-history-kssscznyrgo@transcript:v1#seg-0028" -->
+<!-- lens-point id="sacred-machine-fails-material-audit" concept="sacred-machine" evidence="video:predictive-history-kssscznyrgo@transcript:v1#seg-0026 video:predictive-history-kssscznyrgo@transcript:v1#seg-0028 video:predictive-history-e92jybmmaym@transcript:v1#seg-0032" -->
 <span id="sacred-machine-fails-material-audit" class="lens-point-anchor"></span>
 The sacred machine fails its material audit when the world refuses the promised miracle and the institution built around transcendence turns into crisis of faith, centralized waste, elite extraction, or life sacrificed to the afterlife.
 
