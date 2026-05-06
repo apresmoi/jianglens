@@ -87,6 +87,7 @@ Use this lens when an educational, intellectual, or forecasting project claims t
 
 ## Related Concepts
 
+- [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for the broader mechanism that psychohistory has to model: love, creation, learning, guilt, forgiveness, rebellion, and collapse.
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for the broader school map: separation, stakeholder incentives, meritocracy, status failure, and rival formation.
 - [Game Theory](/lens/game-theory/) - for the method of finding actual incentives and testing the real game.
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - for Great Books, language, memory, and soul formation as civilizational forces.
