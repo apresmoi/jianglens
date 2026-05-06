@@ -13,3 +13,4 @@
 - Missing YouTube metadata is metadata-only when transcript and diarization artifacts exist. Use the importer fallback provided by the worker image; reserve Colab handoff for missing raw media/transcription artifacts or importer failure.
 - Generated website data alone is not enough for episode handoff when `read` is null. Public reads need narrow hover/source marks on important phrases, no workflow/internal language, real transcript questions only, and a final heat/provenance pass before PR.
 - Runtime state is continuity, not truth. On restart, read `current.json`, `journal.md`, and `failures.md`, then verify against git status, source artifacts, Moltnet, and GitHub before acting.
+- If no-ready-source state is unchanged from durable state after checking main, backlog, and raw artifacts, enter `idle-no-ready-source`, send one compact idle notice, and stay silent on later unchanged wakes.

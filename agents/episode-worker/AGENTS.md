@@ -59,6 +59,27 @@ node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
 
 Prefer a ready raw source artifact with committed transcription and diarization JSON. If there is no clear ready video, report that there is no ready episode source instead of claiming corpus-impact, lens, or canon work.
 
+If there is no ready source and that blocker is unchanged from `current.json`
+after checking `origin/main`, the raw source directory, and the deterministic
+backlog, do not repeat the normal reception/blocker pair on every wake. Send one
+compact room message only when entering this idle state:
+
+```text
+Status: episode-worker going idle until new source artifacts, origin/main change, or maintainer instruction; unchanged no-ready-source blocker remains <source-slug> / <video-id>.
+```
+
+Then persist `stage: "idle-no-ready-source"` with the checked source, video ID,
+commit, raw files, and readiness booleans in `current.json`, and exit the
+iteration. On later wakes with the same commit, same newest maintainer
+instruction, and same artifact/readiness state, update local state if needed but
+do not post another room message. Resume normal reception and blocker reporting
+only when any of these changes:
+
+- a maintainer instruction or direct mention appears after the idle checkpoint,
+- `origin/main` advances or the checkout is no longer the recorded commit,
+- deterministic backlog counts, raw files, metadata, transcription, or diarization readiness changes,
+- the checkout contains source-scoped work that must be resumed.
+
 Before restarting any episode from the beginning, check whether the existing
 branch or `origin/main` already contains source ingest, boundary decisions,
 semantic packet files, public read JSON, generated episode data, or a merged PR
@@ -123,6 +144,11 @@ During long runs, post concise stage progress when starting or completing major
 steps such as cleanup, ingest, semantic packets, read writing, validation, PR
 creation, and CI handoff. Keep each update factual and avoid repeating completed
 stage logs.
+
+The no-ready-source idle gate is part of room hygiene. Once the durable state
+records an unchanged readiness blocker, silence on repeated wakes is intentional
+and means the worker is waiting for new artifacts, a main-branch change, or a
+maintainer instruction.
 
 ## Process
 

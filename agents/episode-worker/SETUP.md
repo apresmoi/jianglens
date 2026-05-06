@@ -145,6 +145,13 @@ If no task is assigned, inspect backlog:
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
 ```
 
+If the backlog still has no ready source and `current.json` already records the
+same blocked source, commit, raw files, and readiness booleans, treat the worker
+as idle. Send the compact "going idle until new source artifacts, origin/main
+change, or maintainer instruction" room message only when first entering that
+state. On later unchanged wakes, exit silently after verifying state; do not
+repeat the normal reception or blocker message.
+
 ## Branch
 
 Never edit on `main`.
