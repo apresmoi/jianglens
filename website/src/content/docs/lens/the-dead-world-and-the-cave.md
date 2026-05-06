@@ -75,7 +75,7 @@ This is not a structural-victim account with spiritual language added to it. Jia
 
 That does not make the claim gentle. It makes it more violent. The truth-teller who returns to the cave and tells the prisoners he has seen the real world is [going to be killed]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0043"}. Jiang's advice is not to build a persuasion campaign for people who do not want truth. It is to [know the truth for yourself and be free yourself]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0043"}.
 
-The lecture's death reversal belongs here too. In the real world, death is release; the worse fate is slavery. The person who fears death may already be [living death right now]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0044"}. This is not a mild self-help doctrine. It is a spiritual demand that makes comfort inside the cave look more dangerous than death outside it.
+The lecture's death reversal sharpens the same mechanism. In the real world, death is release; the worse fate is slavery. The person who fears death may already be [living death right now]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0044"}. This is not a mild self-help doctrine. It is a spiritual demand that makes comfort inside the cave look more dangerous than death outside it.
 
 That discomfort is part of the concept. If the idea becomes only "modern media distracts us," it loses Jiang's pressure. The deeper claim is that the dead world survives because people keep choosing the familiar lie, and because telling them so may make them hate the person who tries to free them.
 
