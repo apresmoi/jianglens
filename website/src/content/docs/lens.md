@@ -50,6 +50,16 @@ The nation becomes a god-machine when it gives isolated individuals a sacred col
 
 The diagnostic question is "what is this national body making people do?" The answer may be noble defense, cultural resurrection, and civic solidarity. It may also be obedience, standardization, total war, population growth, hatred, or a consumer game that replaces sacrifice with debt and managed happiness.
 
+## Mass Society As Political Constraint
+
+Mass society is the scale pressure that makes the nation-machine, attention extraction, education, bureaucracy, and eschatology harder to separate. Jiang's clean formula comes from the Protestant-anxiety lecture: [when a society has millions or billions to feed, organize, and occupy, political flexibility nearly disappears]{evidence="video:predictive-history-tcxloijz8v0@transcript:v1#seg-0069"}. The earlier civilization comparison names the same pressure as social control: [a mass society has to control the population and get everyone to get along]{evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0003"}.
+
+The family is not a generic demographic topic. It asks what a political exit must carry once the mass exists. A system can reject capitalism, theocracy, nationalism, school, or surveillance only if it can still feed people, coordinate work, preserve meaning, and prevent rupture. Jiang's later population-war lecture makes the hard edge strategic: when the enemy can use civilians against their own state, defense turns into [population management under pressure]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0048"}.
+
+<!-- lens-point id="mass-society-constraint-atlas" concept="mass-society-constraint" evidence="video:predictive-history-tcxloijz8v0@transcript:v1#seg-0069 video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0003 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0048" -->
+<span id="mass-society-constraint-atlas" class="lens-point-anchor"></span>
+Mass society becomes a political constraint when population scale makes every claim about freedom, capitalism, theocracy, school, war, or state power answer the same prior question: how will the mass be fed, organized, controlled, made meaningful, and kept from becoming a weapon against itself?
+
 ## World-Making Media
 
 Jiang treats poetry, mythology, scripture, film, and philosophy as media that build worlds rather than decorate them.
@@ -248,6 +258,7 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 | --- | --- | --- |
 | Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
 | Nation as god-machine | What sacred body is turning isolated individuals into unity of will, sacrificial population, or a playable national board? | Nation-state lecture, gunpowder revolution, America as game, population-war lecture |
+| [Mass society as political constraint](/lens/mass-society-as-political-constraint/) | What scale problem is narrowing political freedom by requiring feeding, organization, work, social control, meaning, and population management? | Protestant anxiety, psychology of evil, dawn of imagination, population-war lecture |
 | World-making media | How do poems, myths, scripture, film, and philosophy make reality inhabitable? | Homer, Bible/Yahwist, Hollywood-Pentagon |
 | Human heart as measure | Does the outer order honor the inner law of love, guilt, pride, forgiveness, creation, learning, and growth, or repress it until it reverses into collapse? | Psychohistory final class, tragedy, Russia/Dostoevsky, Homer/Achilles |
 | [Sacred machines](/lens/sacred-machines/) | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |

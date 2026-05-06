@@ -165,6 +165,7 @@ export default defineConfig({
             { label: 'Game Theory', slug: 'lens/game-theory' },
             { label: 'Eschatology As Script', slug: 'lens/eschatology' },
             { label: 'Legitimacy Fiction', slug: 'lens/legitimacy-fiction' },
+            { label: 'Mass Society As Political Constraint', slug: 'lens/mass-society-as-political-constraint' },
             { label: 'Nation As God-Machine', slug: 'lens/nation-as-god-machine' },
             { label: 'Power As Alchemy', slug: 'lens/power-as-alchemy' },
             { label: 'Secret Society As Coordination Technology', slug: 'lens/secret-society-as-coordination-technology' },
