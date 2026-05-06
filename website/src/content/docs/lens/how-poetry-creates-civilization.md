@@ -13,6 +13,10 @@ That is why Jiang can ask [how one epic poem could give birth to a civilization]
 
 Here, civilization does not mean administration, bureaucracy, or direct institutional causality. It means a shared inner order: language, memory, heroes, scenes, wounds, duties, desires, and images strong enough to become [the building blocks of a common reality]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}. Poetry creates civilization when it founds that order, sustains it, authorizes it, infects it, or remakes it.
 
+<!-- lens-point id="poetry-language-builds-common-world" concept="poetry-civilization" evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014" -->
+<span id="poetry-language-builds-common-world" class="lens-point-anchor"></span>
+Poetry creates civilizational reality when it gives people language they internalize, so private perception becomes a shared world that can be remembered, spoken, and organized together.
+
 The source trail begins in the Great Books sequence around Homer, poetry, and Dante, then reaches toward the later Hollywood-Pentagon case where narrative starts organizing public reality. Later sources may split the concept, sharpen it, or connect it more directly to Jiang's geopolitical readings.
 
 ## The Core Mechanism
@@ -83,6 +87,10 @@ The Iliad is therefore not a clever fabrication. [It is a living memory]{evidenc
 
 That is what civilization is in this register: not administration, but a poem alive enough to make other worlds. The test is not whether the archive survives. The test is whether readers still identify with Odysseus, understand Achilles, predict Achilles, pity Hector, mourn Patroclus, and feel the characters living inside them.
 
+<!-- lens-point id="poetry-living-memory-makes-worlds" concept="poetry-civilization" evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0018 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0019 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0020" -->
+<span id="poetry-living-memory-makes-worlds" class="lens-point-anchor"></span>
+A poem becomes civilizational when it stops being archive material and becomes living memory: a portal where past persons remain present and interpretation keeps generating worlds.
+
 ## Tragedy And Moral Formation
 
 Shelley and Greek tragedy sharpen the social function of poetry.
@@ -94,6 +102,10 @@ The tragic pattern is [hubris, epiphany, and catharsis]{evidence="video:predicti
 This is another way poetry creates civilization. It creates shared moral training. A people gathers to watch greatness, blindness, pride, fate, sorrow, grief, and recognition. They do not simply receive instructions. They rehearse the emotional structure of human life.
 
 The point is not that tragedy prevents tragedy. Hector still dies. Patroclus still dies. Oedipus still suffers. The point is that tragedy makes suffering intelligible enough to become wisdom, empathy, reflection, and morality. A civilization needs that work because it needs ways to metabolize loss without losing the world.
+
+<!-- lens-point id="poetry-tragedy-forms-moral-self" concept="poetry-civilization" evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0024" -->
+<span id="poetry-tragedy-forms-moral-self" class="lens-point-anchor"></span>
+Tragedy creates moral infrastructure by letting spectators recognize hubris, epiphany, catharsis, sorrow, and character from the outside until those patterns become usable inside the self.
 
 ## Poetry As A Gateway Into The Soul
 
@@ -107,15 +119,27 @@ The poet is therefore not merely skilled. Jiang's Shelley reading gives the stro
 
 The poet may not know he is a prophet. That is part of the point. Homer is not imagined as an analyst consciously naming a theory. [He is the flame itself, a portal through which God speaks with the universe and with us]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0035 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0036"}. Poetry creates civilization because truth wants to be spoken, beauty makes truth memorable, and language carries that truth into the souls of people who will act from it.
 
+<!-- lens-point id="poetry-soul-gateway-breaks-familiar-prison" concept="poetry-civilization" evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0029 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0032" -->
+<span id="poetry-soul-gateway-breaks-familiar-prison" class="lens-point-anchor"></span>
+Poetry works as a gateway into the soul when words awaken buried memory, break the prison of familiar impressions, and give higher sight into a reality ordinary perception cannot reach.
+
 ## Dante: Poetry As Invasion And Liberation
 
 The Dante lecture adds a darker form of the same mechanism.
 
 The Divine Comedy is not only a book about the afterlife. It is a poem built to enter the reader. Jiang's image is aggressive: [poetry behaves almost like a virus]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005"}. It infiltrates memory, subverts ordinary perception, creates cognitive dissonance, and keeps working beneath consciousness. Over years, [the poem becomes a universe inside the reader, slowly interpreting and remaking the reader]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006"}.
 
+<!-- lens-point id="poetry-invades-and-remakes-reader" concept="poetry-civilization" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006" -->
+<span id="poetry-invades-and-remakes-reader" class="lens-point-anchor"></span>
+Poetry can act like an invasion: it enters memory, subverts perception, creates dissonance, and keeps working until the poem becomes a universe inside the reader.
+
 This is poetry as invasion. But the invasion can liberate because it breaks the false world already living inside the reader.
 
 Dante's poem also shows that language is power. By writing in Tuscan rather than elite Latin, Dante turns poetic form into [a rebellion over access]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001"}. The path to truth should not begin by requiring permission from the language of power. [If love is God itself, then God cannot be owned by the Church]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0003"}, and salvation cannot be administered like an institutional license.
+
+<!-- lens-point id="poetry-democratizes-access-to-reality" concept="poetry-civilization" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0001 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0002 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0003" -->
+<span id="poetry-democratizes-access-to-reality" class="lens-point-anchor"></span>
+Poetry can contest mediation by moving truth out of elite language and institutional permission, giving ordinary people direct access to a world they can enter.
 
 Poetry creates civilization here by democratizing access to reality. It moves truth out of elite language and gives ordinary people a world they can enter. But it also teaches suspicion. Virgil can guide Dante while carrying hell's grammar. The poem trains the reader to feel where [guidance becomes trap, where love becomes contract]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039"}, and where authority smuggles in a false world.
 
