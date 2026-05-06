@@ -17,6 +17,8 @@ An eschatology works because it is a complete plot.
 
 Jiang says end-times narratives answer three basic questions: [where humans come from, what they are doing here, and where they are going]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0003 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0004"}. That completeness matters. A partial ideology may explain a tax policy, an enemy, or a grievance. An eschatology gives the whole world a direction. It also gives people roles: martyr, restrainer, chosen people, corrupt empire, Antichrist, remnant, savior, witness, betrayer.
 
+The older Cyrus lecture gives the compact religious definition. In Jiang's reading of Zoroastrianism, eschatology means [history has an ending: a final battle, judgment, paradise, and hell]{evidence="video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0033 video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0034"}. The story does not merely continue forever. Corruption ends; the circle closes; the world returns to perfection.
+
 <!-- lens-point id="eschatology-script-coordinates-action" concept="eschatology-script" evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0003 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0004 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0006" -->
 <span id="eschatology-script-coordinates-action" class="lens-point-anchor"></span>
 Eschatology becomes a script when an end-times story answers origin, purpose, and destination while assigning roles people can inhabit; action then feels like participation in a story already moving toward its end.
@@ -40,6 +42,20 @@ Prophecy becomes geopolitics when a sacred role, such as Moscow as Third Rome or
 Jiang's Catholic section is sharper and more speculative. He distinguishes the official Catholic emphasis on [personal eschatology through Church-guided salvation and transformation]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0017 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0018"} from his suspicion that some factions imagine a restored Catholic world order. The reader-facing value is the diagnostic, not the sensational surface: whenever an institution believes it has already embodied the millennium, modernity, the nation-state, and rival empires can look like temporary interruptions to be reversed.
 
 The convergence section then shows the strategic danger. Jiang argues that multiple traditions can converge around a Middle East furnace: a world war, the Dome of the Rock, Antichrist figures, tribulation, Israel, Iran, Turkey, Russia, Europe, America, and China. His forecast is explicitly dated and speculative. The durable mechanism is that [convergence points let incompatible traditions move toward the same crisis]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0025 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0027"}. A shared endpoint can coordinate rivals even when their theologies contradict.
+
+## Counter-War Technology
+
+The April 2026 nation-state lecture adds a later, more strategic use of the same mechanism. Jiang has just defined twenty-first-century war as a shift from killing soldiers or destroying factories toward economic strangulation, ethnic tension, and attacks on water, electricity, food, and civilian anger. In that setting, eschatology becomes a counter to war that targets morale.
+
+His answer to Allen's question is stark: when an enemy destroys economy and infrastructure and divides the population, [game theory leaves eschatology as the proper response]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051"}. The point is not that everyone becomes a mystic. It is that a pressured state can tell suffering people that deprivation is part of God's plan, that suffering makes them invincible, and that martyrdom changes the payoff from collapse into heaven, courage, and endurance.
+
+<!-- lens-point id="eschatology-counter-war-technology" concept="eschatology-script" evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0052 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054" -->
+<span id="eschatology-counter-war-technology" class="lens-point-anchor"></span>
+Eschatology becomes counter-war technology when infrastructure destruction, economic strangulation, and civilian despair are reinterpreted as divine plan, martyrdom, and proof of courage, so a committed minority can keep a population from breaking in the expected way.
+
+This section belongs inside eschatology rather than inside the nation-state page because the decisive move is not population itself. [Only a minority has to commit to the eschatology for the war logic to change]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0052"}. The population-targeting strategy tries to make ordinary people redirect suffering against their own state. The counter-script tries to make enough people read suffering as sacred participation that the expected anger no longer produces surrender.
+
+The chronology matters. In **2024**, the Cyrus lecture defines eschatology through Zoroastrian completeness: history has a final battle, resurrection, judgment, paradise, hell, and a return from corruption to perfection. In **2025**, the convergence lecture turns that structure into geopolitical coordination. In **2026**, the nation-state lecture makes the latest visible strategic use explicit: [eschatology is the counter to this approach]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054"}.
 
 ## Hell Is A World People Choose
 
@@ -90,6 +106,8 @@ Ask what catastrophe proves. In ordinary politics, failure may discredit a strat
 Ask whether salvation is contractual. If rescue requires obedience, payment, institutional submission, or loss of free will, Jiang's Dante reading treats the rescuer with suspicion. Real love frees; false salvation may reproduce the prison.
 
 Ask whether death is being used to control imagination. Jiang repeatedly reverses the fear of death. In the cave lecture, [death is release while slavery is the living death already happening]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0044"}. In Secret History #9, transhumanist escape from death is recast as a trap that keeps people here forever. A world that makes death the supreme terror can make almost any captivity look practical.
+
+Ask whether suffering is being made strategically meaningful. In a population-targeting war, shortages and fear are meant to produce anger at the nearer government. Eschatology can reverse the sign: suffering becomes test, proof, purification, martyrdom, or evidence that the script is true.
 
 ## Related Concepts
 
