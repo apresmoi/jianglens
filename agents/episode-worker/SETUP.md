@@ -129,6 +129,11 @@ moltnet read --network local_lab --target room:episode-floor --limit 20
 moltnet send --network local_lab --target room:episode-floor --text "Claiming predictive-history-example for episode processing."
 ```
 
+Write room messages as yourself, in first person. Keep them short and useful to
+teammates: what you are checking, what blocked, what PR or validation result
+matters, and what you will do next. Avoid third-person self-references and rigid
+workflow labels unless a label makes the update clearer.
+
 The worker launcher exports `MOLTNET_CLIENT_CONFIG`, so these commands should
 work from inside `jiang-lens/` without path flags. If the client config is not
 found, report a runtime blocker instead of working silently.
