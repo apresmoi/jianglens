@@ -190,6 +190,16 @@ The positive counterform is not anti-education. Predictive History itself begins
 <span id="education-soul-game-atlas" class="lens-point-anchor"></span>
 Education becomes a soul game when the school rewards pleasing parents, teachers, peers, administrators, colleges, and governments more reliably than learning; students then adapt to the rewarded game until the game helps decide what kind of person they become.
 
+### Formation, Margin, And Nation
+
+Education, borderland pressure, and the nation-machine should be read together without collapsing them into one concept. Education names the person-forming game: students adapt because [they are always changing as the game changes]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0047 video:predictive-history-ks-muauq62e@transcript:v1#seg-0048"}. The borderland engine tests the output under pressure: scarcity becomes historical force only when it produces [openness, energy, and cohesion rather than isolated poverty]{evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0053"}. The nation-machine scales the same problem into mass politics, because a people can win only when it has [unity of will and cohesion]{evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0012 video:predictive-history-tquo1usc5nw@transcript:v1#seg-0013"}.
+
+The Viking school passage is the hinge. Jiang contrasts [a Viking teenager who can navigate, farm, sail, fight, and return home with modern students trained to memorize facts and pass tests]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0037 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0038"}; he then says smart mass societies reduce energy so people can be controlled and fitted into a larger society. [A school can therefore drain borderland energy before it becomes worldly resilience]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0038 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0039"}. But the opposite is also possible: a living education can make the person more able to perceive opportunity, move through unfamiliar worlds, and join with others.
+
+<!-- lens-point id="formation-becomes-civilizational-capacity" concept="atlas-relation" evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0048 video:predictive-history-ybufqry77pq@transcript:v1#seg-0053 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0037 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0039 video:predictive-history-tquo1usc5nw@transcript:v1#seg-0013" -->
+<span id="formation-becomes-civilizational-capacity" class="lens-point-anchor"></span>
+Formation becomes civilizational capacity when the games that train persons either preserve energy, adaptability, practical judgment, and cohesion or reduce them into obedience, test performance, and controlled membership in a larger machine.
+
 ## Guidance, Authority, And Escape
 
 The Great Books material gives the exit problem.
