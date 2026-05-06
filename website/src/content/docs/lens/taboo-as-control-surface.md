@@ -5,7 +5,7 @@ description: A Jiang Lens concept page on taboo, ritual, sacrifice, god-killing,
 
 # Taboo As Control Surface
 
-In Jiang's processed civilization and Secret History lectures, taboo is not only a moral prohibition. It is a control surface: the boundary where a shared world tells people what humans may not do, what only gods may do, and what action would make return impossible.
+Across Jiang's civilization and Secret History lectures, taboo is not only a moral prohibition. It is a control surface: the boundary where a shared world tells people what humans may not do, what only gods may do, and what action would make return impossible.
 
 That makes taboo more powerful than ordinary rule. A rule can be broken and punished. A taboo holds the imaginative order together. If it is honored, the world stays legible. If it is publicly broken, the violator may become monstrous, godlike, exiled, unified, or newly sovereign. The forbidden act changes the board because everyone watching has to decide what kind of world they are now inside.
 

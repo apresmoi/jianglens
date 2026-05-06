@@ -1,15 +1,15 @@
 ---
 title: Jiang Lens Atlas
-description: A provisional reader-facing atlas of Jiang Xueqin's world model as it is distilled from processed sources.
+description: A reader-facing atlas of Jiang Xueqin's world model built from dated lectures, interviews, and writing.
 ---
 
 # Jiang Lens Atlas
 
 The Jiang Lens is this project's map of Jiang Xueqin's world model: a way of reading how worlds are made, defended, falsified, and broken.
 
-Across the processed Predictive History lectures, Great Books lectures, interviews, and writing, Jiang keeps returning to the same pressure: human beings do not live in raw facts. They live inside worlds organized by language, myth, scripture, poetry, architecture, money, institutions, war stories, education, and sacred authority. A civilization survives when those world-making forms still bind imagination to life. It decays when the story keeps running after material reality, love, memory, or freedom has gone elsewhere.
+Across the Predictive History lectures, Great Books lectures, interviews, and writing gathered here, Jiang keeps returning to the same pressure: human beings do not live in raw facts. They live inside worlds organized by language, myth, scripture, poetry, architecture, money, institutions, war stories, education, and sacred authority. A civilization survives when those world-making forms still bind imagination to life. It decays when the story keeps running after material reality, love, memory, or freedom has gone elsewhere.
 
-The corpus here means the Jiang-spoken and Jiang-authored source material processed by this site. This atlas is a working map of that material, not a finished canon. The current shape is already useful, but it should stay revisable as earlier and later lectures are added.
+The corpus here means the Jiang-spoken and Jiang-authored source material cited and linked by this site. This atlas is a working map of that material, not a finished canon. The current shape is already useful, but it should stay revisable as earlier and later lectures are added.
 
 ## The Central Motion
 
@@ -257,7 +257,7 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
 - **2025-08-01 to 2026-04-08**: Eschatology becomes both geopolitical script and inner-world diagnosis: end-times stories coordinate actors toward crisis, while Dante and Secret History #9 turn hell, salvation, death, and free will into present realities rather than remote doctrines.
 - **2025-12-09 to 2026-01-07**: Attention becomes an explicit energy theory. Capital extracts human focus through freedom, money, anxiety, and destroyed security; the Great Books cave lecture then names attention as true wealth and captured imagination as reality construction.
-- **2026-04-07 to 2026-04-08**: The later processed Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
+- **2026-04-07 to 2026-04-08**: The later Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
 
 ## How To Use The Atlas
 
