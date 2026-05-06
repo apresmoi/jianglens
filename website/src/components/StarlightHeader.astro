@@ -21,6 +21,7 @@ const current = pathname.includes('/use-with-your-agent/')
   sticky={false}
   gutter="48px"
   mobileGutter="28px"
+  showMobileMenu={false}
 />
 
 <script define:vars={{ base }}>
@@ -242,7 +243,7 @@ const current = pathname.includes('/use-with-your-agent/')
 
   @media (max-width: 720px) {
     :root {
-      --sl-nav-height: 120px;
+      --sl-nav-height: 64px;
     }
 
     header.header {
@@ -250,11 +251,11 @@ const current = pathname.includes('/use-with-your-agent/')
     }
 
     header.header > .site-header {
-      height: auto;
+      height: var(--sl-nav-height);
     }
 
     starlight-menu-button button {
-      top: 14px !important;
+      top: 13px !important;
     }
   }
 </style>

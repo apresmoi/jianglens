@@ -138,6 +138,7 @@ export const siteConfig = {
   summary: "Independent, source-grounded index of Professor Jiang Xueqin's Predictive History corpus, built for readers and agents to inspect transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
   urls: {
     localOrigin: defaultLocalOrigin,
+    publicOrigin: 'https://jianglens.com',
     basePath: '',
     repository: repositoryUrl,
   },

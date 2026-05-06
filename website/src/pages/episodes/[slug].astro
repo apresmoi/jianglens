@@ -184,6 +184,10 @@ const structuredData = {
         font-size: 0.95rem;
       }
 
+      .mobile-thesis {
+        display: none;
+      }
+
       .episode-media {
         grid-area: media;
         position: sticky;
@@ -503,23 +507,63 @@ const structuredData = {
           width: min(100% - 28px, 1160px);
         }
 
-        nav {
-          align-items: flex-start;
-          flex-direction: column;
-          padding: 14px 0;
-        }
-
-        .nav-links {
-          flex-wrap: wrap;
-        }
-
         .episode-grid {
-          padding-top: 30px;
+          gap: 16px;
+          padding-top: 24px;
+        }
+
+        h1 {
+          margin-top: 12px;
+          font-size: clamp(2rem, 9vw, 2.55rem);
+        }
+
+        .dek {
+          margin-top: 16px;
+        }
+
+        .thesis {
+          display: none;
+        }
+
+        .mobile-thesis {
+          display: block;
+          border-top: 1px solid var(--line);
+          margin-top: 16px;
+          padding-top: 10px;
+        }
+
+        .mobile-thesis summary {
+          color: var(--gold);
+          cursor: pointer;
+          font-size: 0.78rem;
+          font-weight: 780;
+          list-style-position: outside;
+          text-transform: uppercase;
+        }
+
+        .mobile-thesis p {
+          margin: 12px 0 0;
+          color: var(--soft);
+          font-size: 0.94rem;
+          line-height: 1.62;
+        }
+
+        .episode-media {
+          margin-top: 2px;
         }
 
         .meta-grid {
           flex-wrap: wrap;
           gap: 6px 10px;
+        }
+
+        .actions {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .button {
+          justify-content: center;
         }
 
         .map-item {
@@ -539,6 +583,10 @@ const structuredData = {
           <p class="source-title">{episode.title}</p>
           <p class="dek">{read.dek}</p>
           <p class="thesis">{read.thesis}</p>
+          <details class="mobile-thesis">
+            <summary>Core thesis</summary>
+            <p>{read.thesis}</p>
+          </details>
         </section>
 
         <aside class="episode-media" aria-label="Episode video">
