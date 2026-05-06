@@ -13,6 +13,10 @@ Against that picture, the lecture restores the forbidden terms. A person has [a 
 
 So the dead world is dead because it treats the living substance of reality as secondary. It lets the person function, compete, earn, consume, pass exams, and ask machines for answers while cutting the person off from soul, love, imagination, God, and the freedom to see reality otherwise.
 
+<!-- lens-point id="dead-world-material-lie" concept="dead-world-cave" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002" -->
+<span id="dead-world-material-lie" class="lens-point-anchor"></span>
+The dead world begins when school materialism treats the measurable body as the whole person and makes consciousness, soul, love, imagination, and meaning unavailable as serious questions.
+
 ## The Lie That Calls Itself Reality
 
 The dead world survives by presenting itself as obvious. It does not need to say that consciousness, love, and imagination are fake. It only has to train people to live as if they do not matter. If reality is what can be measured, then the measurable world becomes the world. The rest becomes decoration.
@@ -43,6 +47,10 @@ This is why the cave is not merely a warning about distraction. Distraction wast
 
 The dead world, then, is not only outside the person. It enters through the eyes, the classroom, the feed, the film, the search box, the chatbot answer, the parental expectation, and the social reward. It becomes convincing because it keeps asking for the one thing that can make it real: attention.
 
+<!-- lens-point id="dead-world-wall-captures-attention" concept="dead-world-cave" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0010 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0012" -->
+<span id="dead-world-wall-captures-attention" class="lens-point-anchor"></span>
+The cave wall becomes a modern control surface when screens, school, platforms, and AI capture attention, because attention gives imagination the energy to make a constructed reality feel like the only world.
+
 ## The Old World Is A Corpse
 
 The cave image also explains why freedom initially feels like injury. The prisoner who leaves the cave does not step into comfort. He is [blinded by the light, hates it, and has to struggle until his eyes learn to see]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0021"}.
@@ -64,6 +72,10 @@ This gives the cave its political and spiritual cruelty. The prisoner is not onl
 The counterclaim is equally blunt: [you do not need money to be happy; you have yourself, imagination, and the capacity to love]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0038"}. In Jiang's terms, happiness is not secured by the objects the cave trains people to pursue. It is secured by the powers the cave hides from them.
 
 The diagnostic point is that domination does not have to crush imagination. It can aim imagination. It can give people a future to want, a fear to avoid, a social image to protect, and a screen to stare at. Then the prisoners [help make the wall's reality real from inside]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0038"}.
+
+<!-- lens-point id="dead-world-prisoners-make-prison" concept="dead-world-cave" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0038" -->
+<span id="dead-world-prisoners-make-prison" class="lens-point-anchor"></span>
+The prisoners are powerful because they have imagination; the hidden powers must trick that imagination into building the school, money, approval, and happiness world the prisoners then experience as free choice.
 
 ## The Cruel Freedom Claim
 
@@ -96,6 +108,10 @@ The promise is not instant. Jiang explicitly refuses the idea that one semester 
 The model is possession, but not passive possession. Christians seek Christ consciousness by welcoming Jesus into the body, mind, and consciousness. The Great Books path asks the reader to welcome Homer, Plato, Dante, Kant, and other prophets of humanity [into consciousness]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0034"}. Jiang's signature formulation is the secret to [resurrect Homer and Dante inside you]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0035"}.
 
 That is the positive use of the same power the cave exploits. The cave captures imagination so the prisoner makes the dead world real. The Great Books train and redirect imagination differently: they give the reader another universe strong enough to enter, inhabit, and eventually create from. The closing promise is that [the Bible and Great Books can give the energy, strength, and power to liberate yourself]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0047 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0048"}.
+
+<!-- lens-point id="dead-world-great-books-escape-practice" concept="dead-world-cave" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0032 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0034 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0047 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0048" -->
+<span id="dead-world-great-books-escape-practice" class="lens-point-anchor"></span>
+Great Books become escape practice when they are treated as rival universes that enter consciousness, demand abandonment of false material reality, and give attention and imagination enough strength to leave the cave.
 
 ## What The Concept Lets You See
 
