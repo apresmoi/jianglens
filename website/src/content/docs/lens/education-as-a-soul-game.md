@@ -99,7 +99,7 @@ The positive answer is not ignorance, anti-intellectualism, or refusal to study.
 
 This is where Jiang's school dream returns. Predictive History does not begin as a media brand. It begins from teaching Great Books to students who need a historical universe wide enough to hold them. The public channel starts because lectures uploaded for students unexpectedly reach a wider audience. [A classroom tool becomes a public intellectual project when uploaded lectures spread beyond the original students]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0006 video:predictive-history-voqeteh6hko@transcript:v1#seg-0007"} Later in the same source, Jiang imagines an institutional future: a liberal-arts and humanities school for psychohistory, something like Plato's Academy and a Jedi Temple. [Jiang's future ambition is a school that trains psychohistory, like Plato's Academy and a Jedi Temple]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0010 video:predictive-history-voqeteh6hko@transcript:v1#seg-0011"}
 
-The difference between the dead school and the living school is therefore not that one has classrooms and the other does not. The difference is whether education narrows the person into a measurable body, rank, credential, national subject, and anxious competitor, or opens the person into historical imagination, love, soul, prediction, and responsibility for reality.
+The difference between the dead school and the living school is therefore not that one has classrooms and the other does not. The difference is whether education narrows the person into a measurable body, rank, credential, national subject, and anxious competitor, or opens the person into historical imagination, love, soul, prediction, and responsibility for reality. That positive endpoint now has its own narrower page: [Living School For Psychohistory](/lens/living-school-for-psychohistory/).
 
 ## Diagnostics
 
@@ -130,5 +130,6 @@ The difference between the dead school and the living school is therefore not th
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the Viking energy, openness, and resilience pattern behind the "Viking school" counterexample.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for school as an attention system that can turn focus and imagination into usable power.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for the metaphysical frame in which school materialism becomes part of a false reality.
+- [Living School For Psychohistory](/lens/living-school-for-psychohistory/) - for Jiang's positive school dream: Great Books, historical context, model correction, human-heart variables, and democratic future-making.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for the nation-state memory and social fiction side of school.
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - for the positive alternative: language, memory, and books as living formation rather than credential content.
