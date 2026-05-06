@@ -51,6 +51,10 @@ The earlier Secret History lecture on evil says the same thing in the Monad's la
 
 That is the burden hidden inside love. Perfect love does not produce perfect management. It refuses to turn the beloved into an object that can only obey.
 
+<!-- lens-point id="free-will-love-refuses-contract" concept="free-will-burden" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0018 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0020 video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0045 video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0046" -->
+<span id="free-will-love-refuses-contract" class="lens-point-anchor"></span>
+Love refuses contract in Jiang's free-will model: God cannot make heaven a reward for obedience, bargain away grace, or intervene so completely that the beloved becomes an object managed from outside.
+
 ## The Darkness Test
 
 Secret History #9 intensifies the same doctrine into a cosmic war of perception.
