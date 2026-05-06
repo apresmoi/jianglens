@@ -63,6 +63,10 @@ That mobility changes loyalty. A nation asks for mutual obligation, memory, sacr
 
 This is where Jiang's secret-society material enters the lecture, but the reusable lens point is narrower: [mobile capital needs trust among extractors precisely because it moves from place to place]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0010"}. Whether the public face is republic, democracy, bank, corporation, platform, or philanthropy, the pattern to watch is the same: where does attention flow, who can leave, and who is left anxious enough to keep working?
 
+<!-- lens-point id="mobile-capital-has-no-homeland" concept="attention-capture" evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0008 video:predictive-history-b5fthagng8c@transcript:v1#seg-0009 video:predictive-history-b5fthagng8c@transcript:v1#seg-0010" -->
+<span id="mobile-capital-has-no-homeland" class="lens-point-anchor"></span>
+Mobile capital has no homeland when the extracting class can leave an exhausted place, preserve loyalty to yield rather than country, and use trust networks to keep extraction coordinated across distance.
+
 ## How Escape Differs From Leisure
 
 If attention is true wealth, then leisure is not automatically freedom. Leisure can be another wall. The person can leave work and give the same captured energy to movies, social media, school prestige, AI answers, or the fantasy of the next purchase. The extraction has changed surface, not substance.
