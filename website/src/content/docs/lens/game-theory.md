@@ -41,6 +41,22 @@ This is why Jiang uses zero-sum status across domains. In dating, status makes f
 
 The diagnostic is simple: when a system keeps rejecting material fixes, ask whether the prize is non-material. Money may not solve low fertility if the prize is rank. Curriculum may not solve school failure if the prize is parental face. Diplomacy may not solve war if the prize is humiliation, martyrdom, sacred destiny, or proof of strength.
 
+## Host-Written Rules
+
+The immigration lecture adds a harsher rule: sometimes the visible game is not only misnamed; it has been written by the actor who benefits from everyone else accepting it.
+
+Jiang's opening reversal is that the apparently successful immigrant may have mastered the wrong scoreboard. East Asian and Indian immigrants can do well in [school, technical work, and income]{evidence="video:predictive-history-35hrplvyf0g@transcript:v1#seg-0001 video:predictive-history-35hrplvyf0g@transcript:v1#seg-0002"}, but the lecture separates those rewards from social command. The status wound appears where school success, income, and respectability fail to become leadership or mate access. Jiang's compressed judgment is that the group that [did everything right still failed to climb into status positions]{evidence="video:predictive-history-35hrplvyf0g@transcript:v1#seg-0014 video:predictive-history-35hrplvyf0g@transcript:v1#seg-0015"}.
+
+The casino image gives the general mechanism. If a host invites outsiders into its game, the invitation is not proof of fairness. Jiang says that [a game may be set up so the invited player loses]{evidence="video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016"}, and then applies the claim directly to immigration: [playing by the host country's rules can block status ascent]{evidence="video:predictive-history-35hrplvyf0g@transcript:v1#seg-0017"}. This is not an abstract anti-rule argument. It is a game-theory warning that legality, politeness, grades, income, and visible contribution may be rewards inside a subordinate game while the higher game is rule authorship.
+
+<!-- lens-point id="game-theory-host-written-rules" concept="game-theory-method" evidence="video:predictive-history-35hrplvyf0g@transcript:v1#seg-0016 video:predictive-history-35hrplvyf0g@transcript:v1#seg-0017 video:predictive-history-35hrplvyf0g@transcript:v1#seg-0030 video:predictive-history-35hrplvyf0g@transcript:v1#seg-0037" -->
+<span id="game-theory-host-written-rules" class="lens-point-anchor"></span>
+Host-written rules trap players when obedience, school success, income, and civic respectability reward them inside a game whose rule-maker still controls status, power, talent flows, and the definition of winning.
+
+The late source return makes the point geopolitical. Jiang says globalization worked because America was hegemonic enough to [write the rules of the game and extract talent from the world]{evidence="video:predictive-history-35hrplvyf0g@transcript:v1#seg-0037"}. When he says that whoever writes the rules wins, he is not only describing a local immigrant trap. He is naming a larger payoff layer: rule-making can convert another group's best students, ambition, labor, and hope into the rule-maker's strength.
+
+This section stays inside game theory because the mechanism is not immigration as a topic. The reusable lens is the distinction between playing well and authoring the game. It touches [Education As A Soul Game](/lens/education-as-a-soul-game/) because school can form obedient excellence, and it touches [Nation As God-Machine](/lens/nation-as-god-machine/) because demographic groups may fight over who sets the rules. But the method question is sharper: when someone praises your success, ask whether success gives command or only keeps you inside the house's game.
+
 ## Coordination Beats Mass
 
 Jiang's most explicit formula appears in the July 2025 lecture on the universal law of game theory. The lecture states a deliberately compressed rule: [winners combine mass, energy, and coordination]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0008"}. Mass is not just headcount; it includes cohesion. Energy is not mere activity; it is motivation and openness to being wrong. Coordination is the ability to work together toward an end, and Jiang stresses that [coordination matters most, then energy, then mass]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0009"}.
@@ -111,6 +127,7 @@ Ask:
 - What are the rules and constraints, including geography, status codes, money, law, taboo, time, supply, hierarchy, and fear of humiliation?
 - What is the declared prize, and what behavior suggests a different prize?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
+- Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
 - Who benefits if the visible system fails?
 - What form of coordination is operating: leader, bureaucracy, family, religion, story, nation, secret society, or subconscious dance?
 - Does the story pass material tests of cost, organization, logistics, time, and enemy adaptation?
@@ -138,6 +155,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/)  
   School becomes a stakeholder game whose real reward structure can make learning the least important game.
+
+- **2026-01-15**, [Game Theory #4: The Immigration Game Is Rigged](/episodes/predictive-history-35hrplvyf0g/)
+  The host-written-rules case separates school success, income, and civic obedience from status and rule-setting power.
 
 - **2026-01-20**, [Game Theory #5: The World Game](/episodes/predictive-history-ybufqry77pq/)  
   Civilizational games change over time, and factional politics requires solving secrecy, trust, and coordination.
