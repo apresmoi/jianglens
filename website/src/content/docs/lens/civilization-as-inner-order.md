@@ -39,6 +39,14 @@ A difficult material order becomes livable when religion, household, ancestors, 
 
 The September 10, 2024 Old Europe lecture matters because it refuses to treat war, property, and patriarchy as the default human floor.
 
+The week before that lecture, Jiang gives the lost baseline a religious mechanism. In the September 5, 2024 animism and Pygmy religion lecture, early peace is not explained by innocence or lack of technology. It is explained by a world where [animals, plants, humans, forest, and spirit world are all interconnected]{evidence="video:predictive-history-vanph0gftsa@transcript:v1#seg-0043"}. If the spirit world is real, then human action does not stay private. War damages more than the enemy. It makes chaos in the invisible order humans are supposed to tend.
+
+That makes peace, equality, and art consequences of a cosmology. Jiang says people should not be in conflict because their job is to [maintain harmony and balance in this world as caretakers]{evidence="video:predictive-history-vanph0gftsa@transcript:v1#seg-0043"}. Equality follows because all come from the same mother goddess, forest, or woman shaman. Art follows because the spirit world must be celebrated and awakened. The later question, then, is not why humans invented religion. It is why a religious imagination that protected interconnection could be replaced by one that authorizes property, hierarchy, and war.
+
+<!-- lens-point id="civilization-inner-order-can-protect-or-dominate" concept="civilization-inner-order" evidence="video:predictive-history-vanph0gftsa@transcript:v1#seg-0043 video:predictive-history-vanph0gftsa@transcript:v1#seg-0044 video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0019" -->
+<span id="civilization-inner-order-can-protect-or-dominate" class="lens-point-anchor"></span>
+Inner order becomes civilizationally decisive because religion can protect interconnection, harmony, equality, and art, or be rearranged into a world that worships wealth, power, and war.
+
 Jiang uses Maria Gimbutas to present Old Europe as a long alternative order: [peaceful, egalitarian, artistic, and associated with women's agency]{evidence="video:predictive-history-rat-zudjhrm@transcript:v1#seg-0025 video:predictive-history-rat-zudjhrm@transcript:v1#seg-0033"}. The claim is not merely that one ancient region was nicer than another. It is that another inner order was possible. If a people imagines the world through mother goddess, fertility, shared life, and social harmony, then violence and domination are not the natural center of civilization.
 
 Jiang's examples are deliberately bodily. Color reverses its modern moral charge: black can signify fertile life, while white signifies bones and death. Women's bodies are described as their own before later marriage-property logic. Social control does not have to mean armies and kings. Jiang says people can be controlled through [gossip, shame, and flattery rather than violence]{evidence="video:predictive-history-rat-zudjhrm@transcript:v1#seg-0048"}.
@@ -115,6 +123,11 @@ Ask what kind of human being the order produces. Jiang's civilization lens is ul
   `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017`  
   `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034`  
   `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0036`
+
+- **2024-09-05**, [Civilization #3: Animism and Pygmy Religion](/episodes/predictive-history-vanph0gftsa/)
+  Animism and Pygmy forest religion supply the interconnection baseline: spirit world, forest, humans, animals, plants, caretaking, harmony, equality, and art form a world that discourages war before the later wealth-power-war rupture.
+  `video:predictive-history-vanph0gftsa@transcript:v1#seg-0043`
+  `video:predictive-history-vanph0gftsa@transcript:v1#seg-0044`
 
 - **2024-09-10**, [Civilization #4: The Mother Goddess and Old Europe](/episodes/predictive-history-rat-zudjhrm/)  
   Old Europe functions as Jiang's alternative inner order: peace, egalitarianism, women's agency, color symbolism, and nonviolent social control make war, property, and patriarchy look historical rather than natural.  
