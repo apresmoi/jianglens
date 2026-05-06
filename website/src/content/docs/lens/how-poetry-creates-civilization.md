@@ -13,7 +13,7 @@ That is why Jiang can ask [how one epic poem could give birth to a civilization]
 
 Here, civilization does not mean administration, bureaucracy, or direct institutional causality. It means a shared inner order: language, memory, heroes, scenes, wounds, duties, desires, and images strong enough to become [the building blocks of a common reality]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}. Poetry creates civilization when it founds that order, sustains it, authorizes it, infects it, or remakes it.
 
-This page is a first concept draft. It is built mainly from the processed Great Books sequence around Homer, poetry, and Dante. Later sources may split the concept, sharpen it, or connect it more directly to Jiang's geopolitical readings.
+The source trail begins in the Great Books sequence around Homer, poetry, and Dante, then reaches toward the later Hollywood-Pentagon case where narrative starts organizing public reality. Later sources may split the concept, sharpen it, or connect it more directly to Jiang's geopolitical readings.
 
 ## The Core Mechanism
 

@@ -5,7 +5,7 @@ description: A Jiang Lens concept page on free will as love, nonintervention, ch
 
 # Free Will As Cosmic Burden
 
-In Jiang's processed Great Books, Secret History, and civilization lectures, free will is not a liberal slogan about preference. It is the heaviest part of being human. The soul can love, imagine, resist, refuse, forgive, learn from error, and choose its way toward or away from God. That also means the soul can choose lies, slavery, hell, institutional comfort, and delegated responsibility.
+Across Jiang's Great Books, Secret History, and civilization lectures, free will is not a liberal slogan about preference. It is the heaviest part of being human. The soul can love, imagine, resist, refuse, forgive, learn from error, and choose its way toward or away from God. That also means the soul can choose lies, slavery, hell, institutional comfort, and delegated responsibility.
 
 The concept is harsh because Jiang uses free will to remove several consolations at once. If freedom is real, then domination is not only coercion from outside. It also works by training people to want the world that diminishes them. If God is love, then God cannot rescue humanity by force without canceling the gift that makes love possible. If institutions promise safety by taking responsibility away from weak people, they may be performing mercy while spiritually enslaving them.
 
