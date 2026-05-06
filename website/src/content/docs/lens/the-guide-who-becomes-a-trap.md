@@ -39,6 +39,10 @@ That is why Jiang's Virgil is more dangerous than a liar. He may not be consciou
 
 The reader's task is therefore not to ask only, "Is Virgil useful?" He is useful. The sharper question is: What world becomes credible because Virgil is useful? The guide's utility becomes the cover for the guide's ontology.
 
+<!-- lens-point id="guide-speech-reveals-world" concept="guide-becomes-trap" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017" -->
+<span id="guide-speech-reveals-world" class="lens-point-anchor"></span>
+A guide's speech is never just information. It reveals the world and prejudice from which the guide speaks, so the guided person has to ask what universe the explanation is making credible.
+
 The mechanism is stronger because poetry does not stay outside the reader. Jiang says poetry can work [almost like a virus that infiltrates, subverts, and remakes you]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005"}. The Divine Comedy plants paradoxes that enter memory; over time, [the poem creates cognitive dissonance, reveals itself, and becomes a universe that comes into you and remakes you]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0006"}. A guide's speech is dangerous for the same reason. It is not only advice. It is a world-form entering the reader's memory.
 
 ## Love Without Contract
@@ -55,6 +59,10 @@ This is not a small theological error. It exposes the trap. Virgil can lead Dant
 
 Jiang's suspicion follows immediately: [Virgil is an unreliable guide, and paradise requires recognizing that unreliability and rejecting him]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0021"}. The rejection does not erase Virgil's usefulness. It limits it. Virgil can bring Dante to the threshold, but he cannot define the destination.
 
+<!-- lens-point id="guide-translates-grace-into-contract" concept="guide-becomes-trap" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0020" -->
+<span id="guide-translates-grace-into-contract" class="lens-point-anchor"></span>
+The guide becomes unreliable when he translates unconditional help into the contract language of his own world. Grace becomes reciprocity, love becomes debt, and the path toward God is bent back into exchange.
+
 ## The Native Speaker Of Hell
 
 Charon reveals why Virgil's authority works in hell.
@@ -66,6 +74,10 @@ That should not make sense. If Charon rejects God's authority, why obey a comman
 The title "master of hell" is not merely rank. It means Virgil is native to hell's emotional structure. Jiang says the Aeneid, rendered noisily in the transcript as "Inayat," [emphasizes piety, obedience, love as disease, hatred as power, and empire]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"}. Through that poetry, [Virgil created emotions in human beings that allow for the creation of hell itself]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"}.
 
 This is the lecture's harshest literary claim. Virgil is not only someone Dante reads before Dante writes. Virgil's poem has already made a world: a civilizational grammar where piety sacralizes submission, obedience makes surrender feel moral, empire scales that obedience into civilization, hatred becomes a power for destroying enemies, and love looks pathological. That is why the guide can navigate hell. He speaks its language because his poetry helped make its language.
+
+<!-- lens-point id="guide-native-to-hells-grammar" concept="guide-becomes-trap" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026" -->
+<span id="guide-native-to-hells-grammar" class="lens-point-anchor"></span>
+A guide may command the underworld because he belongs to its grammar. Virgil can navigate hell not as a neutral technician but because his poetry helped make the emotions and obedience that hell recognizes.
 
 The point is Jiang-specific and literary-metaphysical. It is not the generic claim that authorities are bad. Virgil is dangerous because poetry creates worlds, and his world is coherent enough to save, order, and damn. The same force that makes him a guide makes him a trap.
 
@@ -118,6 +130,10 @@ Dante's counteract is naming. In the quoted passage, Dante's loving cry draws Pa
 The rebellion is not loud overthrow. It is memory. Dante says, in Jiang's paraphrase, that he knows who Dido is, knows what Virgil did, and wants to name her. The act of naming becomes [a way to resurrect Dido in memory]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"}.
 
 This is the point where the guide's authority visibly fails. Virgil's world erased the figure it harmed. Dante's poem restores her to consciousness. Memory rebels against the guide by refusing his omissions. The reader learns that a guide's map can be false not only in what it says, but in what it refuses to name.
+
+<!-- lens-point id="guide-map-erases-wounded-memory" concept="guide-becomes-trap" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0047 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048" -->
+<span id="guide-map-erases-wounded-memory" class="lens-point-anchor"></span>
+A guide's map can deceive by omission. Liberation begins when the guided person restores the name or memory the guide's world refuses to face.
 
 ## What This Lets You See
 
