@@ -33,6 +33,10 @@ Fifth, reality pushes back. Stories can organize perception, but they do not abo
 
 The first Great Books lecture gives the metaphysical pressure behind the concept. Plato's cave is not treated as an old classroom metaphor. [The cave is modern life: movies, internet, social media, school, AI]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0010 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0012"}, and every surface that teaches people to treat a representation as the world.
 
+<!-- lens-point id="stories-attention-recruits-imagination" concept="story-control" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0012" -->
+<span id="stories-attention-recruits-imagination" class="lens-point-anchor"></span>
+Story control begins by capturing attention, because attention gives energy to imagination until a constructed scene can feel like the only available reality.
+
 The key move is attention. The prisoners look at shadows and believe the wall is reality. Jiang then asks why anyone would work so hard to make them do that. The answer is enslavement, but not only the gun-to-the-head version. If [attention is energy and captured imagination can construct reality in the desired way]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}, then control begins by monopolizing the screen on which imagination works. This is why the lecture can say that movies, internet, school, and AI are made [to enslave your mind]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0012"}.
 
 The later audience exchange makes the reversal sharper. The powers behind the prisoners are not imagined as stronger because they have more imagination. They are stronger because they know how to recruit it. [They have power but they do not have imagination, so they need to trick people into creating the world they want]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0038 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. That is why school, money, status, and the promise of a happy life become dangerous in the lecture. They can [look like free choice while training the person to build the prison he was taught to want]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0038"}.
@@ -42,6 +46,10 @@ This is the first ambivalence. Imagination is not the weakness that makes people
 ## The War Council As A Battle Of Worlds
 
 The next lecture makes story control visible at human scale. The scene is the war council in the Iliad. Agamemnon has violated the rules by taking a woman and triggering Apollo's plague. Achilles tells him to return her. Agamemnon agrees, but only if Achilles pays by losing his own prize. A quarrel over honor becomes the main conflict of the poem.
+
+<!-- lens-point id="stories-speech-fights-for-world" concept="story-control" evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0010 video:predictive-history-ft2cuowguyc@transcript:v1#seg-0013 video:predictive-history-ft2cuowguyc@transcript:v1#seg-0014" -->
+<span id="stories-speech-fights-for-world" class="lens-point-anchor"></span>
+Speech becomes a reality fight when rival speakers try to make an audience inhabit their version of honor, blame, sacrifice, and survival.
 
 Jiang's point is that this is not only anger. Agamemnon speaks while watching Achilles, the generals, and himself. Achilles answers while also trying to win sympathy from the room. The two speeches become a reality fight. Jiang names it directly: [through their speeches, they are trying to control reality]{evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0010"}.
 
@@ -55,6 +63,10 @@ Homer matters because he can stage the whole field. The speaker hears himself, i
 
 The Poets and Prophets lecture generalizes the Homeric scene into a civilizational mechanism. For Jiang, Greek excellence has two faces: Achilles fights, Odysseus speaks. These are not opposites. [War imposes reality through force, while speech tries to create a new reality through words, beauty, and truth]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0003"}. Both are attempts to make others live inside a world.
 
+<!-- lens-point id="stories-project-inhabitable-world" concept="story-control" evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0005 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0006 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0007" -->
+<span id="stories-project-inhabitable-world" class="lens-point-anchor"></span>
+A powerful story projects an inhabitable world: present sensation, remembered obligation, feared loss, future honor, and action all appear inside one constructed scene.
+
 Odysseus' embassy to Achilles gives the clearest scene. He cannot merely tell Achilles to return to battle. Achilles has already locked himself inside humiliation. Odysseus has to build a larger reality. He begins with [the feast in front of them and its opposite image of starvation]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0006"}, makes Hector tower in the present, summons Peleus and old promises from the past, and then [carries Achilles into the future]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0007"}: Troy's treasures, Greek glory, honor restored.
 
 This is why Jiang says Odysseus is [projecting a movie onto the world]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0005"}. The speech is not decoration around an argument. It is a sensory, temporal, moral environment. Odysseus wants Achilles to see the present, remember the past, imagine the future, and then act from inside that constructed world. The command hidden in the speech is [expand your mind, Achilles]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0007"}.
@@ -63,11 +75,19 @@ Achilles knows the attack and refuses it. Odysseus expands outward into Greeks, 
 
 This gives the concept its constructive side. A story can control reality by coordinating people into a common world. Jiang's Kant bridge makes the claim stronger: without language, each person remains inside private time and space; [with language, people come to a collective understanding of reality]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}. [Poets create language, people internalize it, and the language becomes the building blocks of a shared world]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}.
 
+<!-- lens-point id="stories-language-builds-common-reality" concept="story-control" evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0013 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014" -->
+<span id="stories-language-builds-common-reality" class="lens-point-anchor"></span>
+Language turns private perception into a common reality when people internalize the same words, images, and temporal order as the world they share.
+
 That shared world can found civilization. It can also enforce the wrong harmony. In Odysseus' speech, the proposed reality asks Achilles to forget hatred, accept common good, and rejoin the Greeks. That may save the army. It may also require Achilles to swallow the humiliation that makes him Achilles. Jiang does not make story control simply good or bad. The mechanism is powerful because it can coordinate action and violate the self at the same time.
 
 ## When War Becomes A Script
 
 The Hollywood-Pentagon lecture tests the same mechanism outside literature. Here the story is not Homeric speech but modern war mythology: rescue, sacrifice, special forces, pilot recovery, no one left behind, a failed operation redeemed as an episode of courage.
+
+<!-- lens-point id="stories-war-script-feeds-back" concept="story-control" evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0041 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0042 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0047" -->
+<span id="stories-war-script-feeds-back" class="lens-point-anchor"></span>
+War-story control becomes institutional when propaganda returns to planners as belief, making failure feel scriptable, presentable, and finally livable as an alternate reality.
 
 Jiang's counter-model is deliberately unromantic. A war has to be judged by [economics, organization, and logistics]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"}. Economics asks whether the war can be fought cheaply enough to continue. Organization asks whether real institutions can implement the strategy. Logistics asks whether forces have what they need. These tests are where the world pushes back against story.
 
@@ -82,6 +102,10 @@ The final warning is chronology under narrative pressure. If leaders [live in an
 ## The Guide Can Carry The Trap
 
 Dante adds the most intimate danger: the story that controls reality may arrive as guidance. Virgil rescues Dante, explains the route, and gives him a path through hell. That is exactly why he is dangerous. A guide is persuasive because the guide is needed.
+
+<!-- lens-point id="stories-guide-trains-desire" concept="story-control" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031" -->
+<span id="stories-guide-trains-desire" class="lens-point-anchor"></span>
+A guide's story controls reality when its explanation smuggles in a world and trains desire until obedience feels chosen, deserved, or proper.
 
 The lecture says dialogue in the Divine Comedy is never neutral. [When a speaker speaks, he or she is speaking from a certain world]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017"}. That means instruction is never only instruction. It carries prejudice, metaphysics, desire, and a world-picture. A trusted guide can orient a lost person while smuggling in the world the person must escape.
 
