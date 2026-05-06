@@ -45,6 +45,12 @@ Jiang's Iran lectures split dominance from control. In the 2024 Operation True P
 
 The model is asymmetrical warfare. A billion-dollar aircraft carrier can be threatened by cheap drone swarms; the stronger actor has to spend far more to defend than the weaker actor spends to attack. Jiang reads Iran's strike package as a cost-reversal signal: [tens of millions in attack can force roughly a billion in defense]{evidence="video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0008 video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0009"}. The material test is not "who has the better weapon?" It is "who makes the other side spend, move, justify, and adapt on bad terms?"
 
+The 2025 escalation-dominance update supplies the missing middle step. Political science may tell the hegemon that it has escalation dominance because it can always climb higher, even toward nuclear weapons. Jiang's reversal is that this power can remove freedom: [escalation dominance forces reactions that may be against the hegemon's interest]{evidence="video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0006"}. The bully has to answer or stop being the bully. The weaker actor can then calibrate provocation so the stronger actor hurts itself while defending the image of dominance.
+
+<!-- lens-point id="escalation-dominance-becomes-trap" concept="strategy-material-test" evidence="video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0006 video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0007 video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0008" -->
+<span id="escalation-dominance-becomes-trap" class="lens-point-anchor"></span>
+Escalation dominance becomes a trap when reputation forces the strongest actor to answer a calibrated provocation, giving the weaker actor room to shape the terms of response and make strength spend itself badly.
+
 The 2026 escalation lecture sharpens the same point into a law: [control is more important than dominance]{evidence="video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011"}. Control means calibration, timing, clarity, and strategic flexibility. It means climbing the escalation ladder in a way that preserves options, builds justification, and makes the opponent overreact. Dominance is the gun. Control is knowing when the gun actually helps, when it ruins the political case, and when not firing is the stronger move.
 
 <!-- lens-point id="control-beats-dominance" concept="strategy-material-test" evidence="video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010 video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011 video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012" -->
@@ -93,6 +99,8 @@ Ask five questions when applying this lens.
 
 **Who controls escalation?** The stronger actor may possess dominance while the weaker actor controls timing, justification, terrain, cost, and public opinion.
 
+**What reputation must be defended?** A hegemon, bully, empire, or alliance leader can lose freedom because credibility demands response. The trap begins when not answering looks impossible.
+
 **What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
 
 **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
@@ -106,6 +114,8 @@ In **May 2024**, the shock-and-awe lecture explains how the apparent success of 
 In **June 2024**, the Putin lecture defines overextension, debt, and civil discord as an imperial-death mechanism that strategic imagination can exploit.
 
 In **November 2024**, the Rome lecture gives the ancient countercase: a story of no surrender can become real material endurance when institutions and manpower can carry it.
+
+In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
 In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance, and war must be judged by economics, organization, and logistics before narrative spectacle.
 
@@ -134,6 +144,12 @@ In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures
   `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005`  
   `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0015`  
   `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016`
+
+- **2025-06-22**, [Escalation Dominance Becomes The Trap](/episodes/predictive-history-n4cs-8mrp-s/)
+  Escalation dominance can force the hegemon into reactions that preserve reputation while serving the weaker actor's calibrated trap.
+  `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0006`
+  `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0007`
+  `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0008`
 
 - **2026-03-10**, [Control Beats Dominance](/episodes/predictive-history-fz-dan7nrss/)  
   Escalation is won by calibration and strategic flexibility, not by possessing the strongest weapon.  
