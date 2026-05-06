@@ -71,7 +71,7 @@ Robespierre gives the secular form. In the April 2025 French Revolution lecture,
 
 Then the mythic script takes over. Jiang argues that even a revolution of reason still runs on inherited mythology because [mythologies are the subconscious operating system of society]{evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0021"}. Robespierre becomes the one who takes blame for the community's crimes, the martyr who dies so the Revolution can live, and the paragon whose death makes others sacrifice more. Jiang's final purification formula is explicit: [become the scapegoat, take the guilt for the nation, and let the people move on]{evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078"}.
 
-<!-- lens-point id="taboo-scapegoat-moves-guilt" concept="taboo-control-surface" evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0023 video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078 video:predictive-history-3751zjwmrbw@transcript:v1#seg-0020" -->
+<!-- lens-point id="taboo-scapegoat-moves-guilt" concept="taboo-control-surface" evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0023 video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078 video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058 video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059" -->
 <span id="taboo-scapegoat-moves-guilt" class="lens-point-anchor"></span>
 Scapegoating moves guilt when a community routes accumulated violence, resentment, sin, or political contradiction into a marked body whose punishment lets the larger order feel cleansed or unified.
 
