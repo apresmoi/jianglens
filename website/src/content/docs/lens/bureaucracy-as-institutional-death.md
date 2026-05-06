@@ -121,5 +121,6 @@ Finally, ask what exits remain. Jiang's modern bureaucracy lecture ends with gri
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as a game that can turn learning into credential management.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the opposite pattern: margins stay dangerous when pressure still produces openness, learning, and motion.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for the way dead institutions still gather human focus and energy.
+- [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) - for the unofficial cross-silo network that can move through mature bureaucracy better than the bureaucracy moves through itself.
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) - for authority that begins as necessary help and later becomes captivity.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for bureaucracy's narrative monopoly over what can be seen as real.
