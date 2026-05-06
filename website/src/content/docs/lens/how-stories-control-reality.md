@@ -13,7 +13,7 @@ Control, here, means world-setting. A story selects what matters, what counts as
 
 The strongest version is not that people are passive victims of stories. It is almost the opposite. In the Plato material, [the prisoners are the ones with the capacity to create reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. Jiang's line is stranger and more dangerous: [we are the ones with the power of God, the ones with imagination]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. The danger is that this power can be recruited. If attention is captured, imagination can be focused; if imagination is focused, people can help build the world that confines them.
 
-The source trail runs from Plato's cave and attention capture through Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
+The source trail runs from the July 2025 game-theory lecture on story as coordination through Plato's cave and attention capture, Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
 
 ## The Mechanism
 
@@ -28,6 +28,22 @@ Third, it internalizes itself. A speech, poem, film, school story, or public rit
 Fourth, it makes desire and action feel natural. A story succeeds when people stop experiencing it as an imposed frame. The world it creates becomes the obvious world, and action follows from inside it.
 
 Fifth, reality pushes back. Stories can organize perception, but they do not abolish material constraint. That is why the Hollywood-Pentagon episode is essential to the concept. Jiang's warning is blunt: [stop doing this crap of optics and narrative]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"}. A story can make failure feel like success to the people inside it, but it cannot by itself solve cost, supply, distance, fatigue, or institutional complexity.
+
+## The Story That Coordinates Without Orders
+
+The July 2025 universal-law lecture adds the strategic layer that makes the concept more than media criticism. Jiang's game-theory formula says [winners combine mass, energy, and coordination, with coordination weighing most]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0008 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0009"}. But the story page owns the next move: the highest coordination does not always look like a meeting, committee, or command chain.
+
+Jiang distinguishes conscious coordination from subconscious coordination. Conscious coordination has a leader, bureaucracy, patriarch, or explicit plan. It can work, but it also leaks energy into secrecy, ego, status, betrayal, and arguments over who commands. Subconscious coordination is quieter. [People can work together without a clear leader or direction, almost like a dance]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0012"}. [Families, ethnicities, and religions can move this way]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0014"} because the organizing pattern is already inside the actors before anyone writes an agenda.
+
+<!-- lens-point id="stories-coordinate-without-command" concept="story-control" evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0012 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0017 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0021" -->
+<span id="stories-coordinate-without-command" class="lens-point-anchor"></span>
+A story controls reality strategically when it coordinates people without explicit command: it frames the world, gives them a script for behavior, and makes sacrifice or action feel like the next step in history.
+
+That is why Jiang says the answer to the coordination problem is story. A powerful story [frames the world and gives people a script for how to behave]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0017"}. It does not merely describe the mountain. It tells different actors why the road to the mountain matters, what must be sacrificed, what profit can be taken, what bureaucracy can be justified, and what enemy must be removed. The actors may want different final gods, toll booths, budgets, or prophecies, but [the shared story can make their separate motives travel the same road]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0003 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0007"}.
+
+The lecture's controversial Christian Zionism case is useful here because it sharpens attribution. The public lens does not need to treat every historical claim in the episode as settled history in order to preserve Jiang's mechanism. The reusable mechanism is that a story can make history feel unfinished until the story is achieved. Once believers think they have found the "secret of the universe," they do not merely hold an opinion. They try [to bring the story into fruition]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0021"}. In that condition, sacrifice no longer looks like loss from inside the story. It looks like participation in the plot.
+
+This belongs beside, but not inside, the game-theory page. Game theory asks which coordination layer is winning. Story control asks how the layer enters imagination, desire, and action. It also borders [Eschatology As Script](/lens/eschatology/) because end-times stories can assign roles across distance. The boundary is that eschatology owns the end-times role structure; this page owns the broader mechanism by which story becomes commandless coordination.
 
 ## The Screen That Takes Attention
 
@@ -119,6 +135,7 @@ This gives the concept a diagnostic edge. A story controls reality not only when
 
 ## Chronology So Far
 
+- **2025-07-11**, [Geo-Strategy Update #5](/episodes/predictive-history-5i2vpypjj68/): Story becomes the strategic coordination layer. A powerful story can [frame the world as a script for behavior]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0017"} and make believers try [to bring the story into reality]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0021"}.
 - **2026-01-07**, [Great Books #1](/episodes/predictive-history-tsd-8fga84a/): Plato's cave becomes the attention model. The prisoners are not inert; [their captured imagination can be focused into a constructed reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}.
 - **2026-01-14**, [Great Books #2](/episodes/predictive-history-ft2cuowguyc/): Homer makes the mechanism interpersonal. Agamemnon and Achilles use speech as [a battle of worldviews]{evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0010"} that can overpower survival.
 - **2026-01-21**, [Great Books #3](/episodes/predictive-history-xrp407wsa0w/): Odysseus makes the mechanism technical. Speech projects a world, poetry makes it memorable, and [language lets people create a collective reality together]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}.
@@ -131,6 +148,7 @@ Use this lens when a story seems to be doing more than describing events.
 
 - **Attention**: What does the story force everyone to look at, and what falls outside the frame?
 - **World**: What scene does it project: who are the heroes, enemies, victims, judges, fathers, guides, or traitors?
+- **Coordination**: Does it make people move together without a meeting, command, or explicit conspiracy?
 - **Desire**: What does the story make people want, fear, admire, obey, or feel ashamed to refuse?
 - **Material Test**: What would economics, organization, logistics, or other hard constraints say if the story were set aside?
 - **Feedback**: Is the story only persuading outsiders, or has the institution started believing its own script?
@@ -141,6 +159,8 @@ Use this lens when a story seems to be doing more than describing events.
 
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - the founding version: poetry creates the shared language and memory a civilization can inhabit.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - the attention-capture version: modern surfaces become the wall people mistake for reality.
+- [Game Theory](/lens/game-theory/) - the method version: mass, energy, coordination, incentives, and visible-game intervention.
+- [Eschatology As Script](/lens/eschatology/) - the end-times version: sacred history assigns roles and coordinates actors through prophecy.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - the geopolitical version: narrative spectacle collides with economics, organization, and logistics.
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) - the mediation version: a trusted guide can carry the world one must escape.
 - [How Fictional Heroes Become Part Of The Self](/lens/how-fictional-heroes-become-part-of-the-self/) - the interior version: characters become real by reorganizing self-recognition.
