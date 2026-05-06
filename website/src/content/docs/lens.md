@@ -140,6 +140,18 @@ The family is not a romance of poverty. Jiang explicitly says [poverty is not ma
 
 The diagnostic question is therefore not "who is weak?" but "where is adaptive pressure accumulating, what is it learning from the center, and what will it become after victory?"
 
+## Collapse, Transition, And Resilience
+
+Collapse cuts across several atlas families, but it should not become a general doom page. In Jiang's source trail, collapse is most useful as a transition surface: the moment when hidden decline becomes visible break, when some actors may benefit from timing, and when a new order either forms or fails to form.
+
+The slow/sudden pattern comes from the Secret History collapse model. Jiang distinguishes rise through consent and openness, decline through bureaucracy and deception, and collapse through authoritarian coercion; he then adds that decline is slow while collapse is sudden because a brittle system cannot absorb a perfect storm after criticism has been criminalized [and survival has displaced unity]{evidence="video:predictive-history-k-l9jbgo74@transcript:v1#seg-0044 video:predictive-history-k-l9jbgo74@transcript:v1#seg-0047 video:predictive-history-k-l9jbgo74@transcript:v1#seg-0048"}. The engineered-break layer comes from the March 2026 financial-collapse lecture, where Jiang argues that a system can break when powerful actors [make more from collapse than from continuity]{evidence="video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0048 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0057"}. Those claims remain attributed Jiang modeling, not a verification claim by the atlas.
+
+The creative side belongs beside civilization and borderland, not against them. Greece becomes creative after Bronze Age destruction because decentralization, illiteracy, poverty, polis competition, alphabet, and Homer force a new human image into being [after the old center breaks]{evidence="video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004 video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006 video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"}. The later end-of-history source turns this into a survival discipline: when the order shifts, societies must move from efficiency toward resilience, adapting through repeated crisis rather than optimizing for cheapness and speed [under best-case assumptions]{evidence="video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0012"}.
+
+<!-- lens-point id="collapse-transition-surface-atlas" concept="atlas-relation" evidence="video:predictive-history-k-l9jbgo74@transcript:v1#seg-0047 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0032 video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004 video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0012" -->
+<span id="collapse-transition-surface-atlas" class="lens-point-anchor"></span>
+Collapse becomes a transition surface when slow hidden decline turns into sudden break, timing and asset movement decide who benefits, and the surviving question becomes whether a new order can build resilience, speech, memory, and human formation after the old center fails.
+
 ## Bureaucracy As Institutional Death
 
 The borderland family exposes one side of Jiang's map: pressure can become motion. The bureaucracy family exposes the reverse: successful institutions can preserve their outer form while draining away openness, discovery, and lived reality.
@@ -278,6 +290,7 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 | [Legitimacy fiction](/lens/legitimacy-fiction/) | How does political invention become inherited reality? | Caesar/Octavian, David, Holy Roman Empire, Cyrus, America as game |
 | [Civilization as inner order](/lens/civilization-as-inner-order/) | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
 | Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
+| Collapse and transition surface | What does a break reveal, who benefits from its timing, what assets or authority move, and what resilient new form can be built afterward? | Secret History collapse model, Bronze Age/Greece, Great Reset, end-of-history resilience |
 | Bureaucracy as institutional death | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
 | [Secret society as coordination technology](/lens/secret-society-as-coordination-technology/) | What hidden trust, binding, bureaucracy, capital, or script lets actors coordinate where explicit command would fail? | Secret History conspiracy, Secret History capital, eschatology convergence, Pax Judaica caveats |
 | [Empire and material test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon, Iran escalation |
@@ -304,6 +317,7 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 - **2025-07-11 to 2026-04-07**: Story control becomes a strategic coordination family: the universal-law lecture names story as frame and script for commandless coordination, while the Hollywood-Pentagon lecture shows the danger when institutional story detaches from material tests.
 - **2025-08-01 to 2025-12-18**: Secret-society coordination becomes visible as a caveated but recurring model: end-times scripts coordinate without explicit command, secret networks move through bureaucracy, mobile capital needs hidden trust, and the most speculative version is marked as theory rather than proof.
 - **2025-08-21**: Secret History #1 names the root alchemy of power: money, the individual, and the nation-state become realities when imagination is trained to treat them as scarce, personal, natural, and sacrificial.
+- **2025-08-22 to 2026-03-31**: Collapse becomes an atlas relation rather than a public page: slow decline can turn sudden under shock, engineered-break claims need attribution, and crisis may move assets, authority, or formation capacity.
 - **2025-04-10 to 2026-04-28**: The nation-state becomes visible as a god-machine: gunpowder requires whole-society war capacity, nationalism becomes replacement religion and unity of will, America mutates the nation into a game, and later war turns the population against the state.
 - **2025-08-29**: Gerontocracy adds the age-and-asset map: rich pensioners become the beneficiary class of housing inflation, pension claims, medical scarcity, safety politics, and wars borne by the young.
 - **2025-08-21 to 2026-01-08**: Education becomes visible as a soul game: school separates children into teacher authority and nation-state memory, meritocracy converts trauma into achievement, Great Books offer rival formation, and Game Theory #2 maps the stakeholder convergence that displaces learning.
@@ -321,6 +335,7 @@ When reading a new source or applying the lens to an event, start with these dis
 - Which taboo marks the edge of the game, and who gains power if that boundary is honored, broken, or loaded onto a scapegoat?
 - Who is gathering attention as energy, and what world does that focused imagination make durable?
 - What material test can still falsify the story: cost, logistics, ecology, debt, institutional capacity, demographic pressure, or violence?
+- Is this breakdown only decline, or a transition surface where timing, asset movement, authority transfer, and resilience decide the next order?
 - What kind of prediction is being made: poetic truth, corrigible model, strategic intervention, end-times script, or speculative proof test?
 - Which layer is growing: the people doing real work, or the offices that classify, manage, review, and justify that work?
 - Who benefits if the story is treated as history, destiny, morality, or nature?
