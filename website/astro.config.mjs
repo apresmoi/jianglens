@@ -156,6 +156,7 @@ export default defineConfig({
             { label: 'Free Will As Cosmic Burden', slug: 'lens/free-will-as-cosmic-burden' },
             { label: 'Gerontocracy As Intergenerational Extraction', slug: 'lens/gerontocracy-as-intergenerational-extraction' },
             { label: 'Living School For Psychohistory', slug: 'lens/living-school-for-psychohistory' },
+            { label: 'Religion As Administrative Filter', slug: 'lens/religion-as-administrative-filter' },
           ],
         },
         {
