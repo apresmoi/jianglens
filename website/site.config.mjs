@@ -1,4 +1,5 @@
 const defaultLocalOrigin = 'http://127.0.0.1:4324';
+const repositoryUrl = 'https://github.com/apresmoi/jianglens';
 
 function runtimeEnv() {
   return typeof process === 'undefined' ? {} : process.env;
@@ -138,7 +139,14 @@ export const siteConfig = {
   urls: {
     localOrigin: defaultLocalOrigin,
     basePath: '',
-    repository: 'https://github.com/apresmoi/jianglens',
+    repository: repositoryUrl,
+  },
+  credits: {
+    builderName: '@ledeluge.me',
+    builderUrl: 'https://ledeluge.me/',
+    maintainerHandle: '@jcfortunatti',
+    maintainerUrl: 'https://x.com/jcfortunatti',
+    repositoryUrl,
   },
   externalProfiles: [
     'https://www.youtube.com/@PredictiveHistory',

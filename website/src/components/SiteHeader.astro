@@ -1,4 +1,6 @@
 ---
+import { siteConfig } from '../../site.config.mjs';
+
 const {
   base = '/',
   current = '',
@@ -35,6 +37,20 @@ const links = [
       ))}
     </div>
   </nav>
+  <a
+    class="github-corner"
+    href={siteConfig.urls.repository}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="View Jiang Lens source on GitHub"
+    title="Open source on GitHub"
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 250 250" aria-hidden="true">
+      <path class="corner-fill" d="M0 0l115 115h15l12 27 108 108V0z"></path>
+      <path class="octo-arm" d="M128 109c-15-9-9-19-9-19 3-7 2-11 2-11-1-7 3-2 3-2 4 5 2 11 2 11-3 10 5 15 9 16"></path>
+      <path class="octo-body" d="M115 115s4 2 5 0l14-14c3-2 6-3 8-3-8-11-15-24 2-41 5-5 10-7 16-7 1-2 3-7 12-11 0 0 5 3 7 16 4 2 8 5 12 9s7 8 9 12c14 3 17 7 17 7-4 8-9 11-11 11 0 6-2 11-7 16-16 16-30 10-41 2 0 3-1 7-5 11l-12 11c-1 1 1 5 1 5z"></path>
+    </svg>
+  </a>
 </header>
 
 <style>
@@ -92,6 +108,7 @@ const links = [
     flex-wrap: wrap;
     justify-content: flex-end;
     gap: 4px;
+    margin-right: 58px;
   }
 
   .nav-links a {
@@ -111,6 +128,59 @@ const links = [
     outline: none;
   }
 
+  .github-corner {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 150;
+    line-height: 0;
+    color: var(--ink, #f4ead8);
+  }
+
+  .github-corner svg {
+    display: block;
+  }
+
+  .github-corner .corner-fill {
+    fill: var(--ink, #f4ead8);
+  }
+
+  .github-corner .octo-arm,
+  .github-corner .octo-body {
+    fill: var(--bg, var(--sl-color-bg, #090a08));
+  }
+
+  .github-corner .octo-arm {
+    transform-origin: 130px 106px;
+  }
+
+  .github-corner:hover .octo-arm,
+  .github-corner:focus-visible .octo-arm {
+    animation: octo-wave 0.56s ease-in-out;
+  }
+
+  .github-corner:focus-visible {
+    outline: 1px solid var(--gold, var(--sl-color-text-accent, #c9a765));
+    outline-offset: -3px;
+  }
+
+  @keyframes octo-wave {
+    0%,
+    100% {
+      transform: rotate(0);
+    }
+
+    20%,
+    60% {
+      transform: rotate(-26deg);
+    }
+
+    40%,
+    80% {
+      transform: rotate(12deg);
+    }
+  }
+
   @media (max-width: 720px) {
     .site-nav {
       width: min(calc(100% - var(--header-mobile-gutter, 28px)), var(--header-max-width, 1360px));
@@ -120,10 +190,16 @@ const links = [
       padding: 14px 0;
     }
 
+    .github-corner svg {
+      width: 46px;
+      height: 46px;
+    }
+
     .nav-links {
       display: grid;
       grid-template-columns: repeat(4, minmax(0, 1fr));
       width: 100%;
+      margin-right: 0;
     }
 
     .nav-links a {
