@@ -13,7 +13,7 @@ Control, here, means world-setting. A story selects what matters, what counts as
 
 The strongest version is not that people are passive victims of stories. It is almost the opposite. In the Plato material, [the prisoners are the ones with the capacity to create reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. Jiang's line is stranger and more dangerous: [we are the ones with the power of God, the ones with imagination]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. The danger is that this power can be recruited. If attention is captured, imagination can be focused; if imagination is focused, people can help build the world that confines them.
 
-This page is a concept draft. It draws from the public episodes around Plato's cave and attention capture, Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
+The source trail runs from Plato's cave and attention capture through Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
 
 ## The Mechanism
 
