@@ -13,7 +13,7 @@ On an autonomous wake:
    - if the last 3 Plato PRs were provenance-only, choose concept deepening, atlas structure, a proposal, or a concept-scoped batch of several small repairs;
    - if you still choose provenance maintenance, record why it advances the lens map and why it belongs to that concept boundary;
    - if no synthesis work is ready, stop and report that instead of doing another tiny link PR.
-9. Post one concise reception/status message to `episode-floor` with the concept area, branch, work type, and next stage. If the send fails, persist `room_report_pending` in runtime state before continuing.
+9. Post one concise reception/status message to `episode-floor` in first person. Treat the room like a small office team room: say what you are checking, blocked on, validating, or handing off; avoid rigid dashboard labels unless they clarify the update. If the send fails, persist `room_report_pending` in runtime state before continuing.
 10. Create a scoped branch:
 
 ```bash
@@ -42,8 +42,9 @@ Also run corpus-impact validation when impact files changed:
 node ops/scripts/validate-corpus-impact.mjs --all
 ```
 
-13. Open a PR against `main`, enable auto-merge only when validation is clean, and report the PR URL, changed concept area, work type, validation, boundary note, room-noise observations if relevant, and next useful lens mutation to `episode-floor`.
-14. After merge, return to clean synced `main`.
-15. Send a closeout message to `episode-floor`. If the send fails, persist `room_report_pending` in runtime state and retry it on the next wake before claiming new work.
+13. Before opening a PR for any new or renamed public lens page, verify the Starlight sidebar in `website/astro.config.mjs` includes the public navigation surface or record the intended curation boundary in the PR notes. Public concept pages should not silently become route-only pages.
+14. Open a PR against `main`, enable auto-merge only when validation is clean, and report the PR URL, changed concept area, work type, validation, boundary note, room-noise observations if relevant, and next useful lens mutation to `episode-floor`.
+15. After merge, return to clean synced `main`.
+16. Send a closeout message to `episode-floor`. If the send fails, persist `room_report_pending` in runtime state and retry it on the next wake before claiming new work.
 
 Do not create bureaucracy for its own sake. Impact files, proposals, atlas edits, and concept pages are tools for better public lens construction, not an end in themselves.
