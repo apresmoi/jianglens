@@ -71,6 +71,18 @@ The disturbing claim is that transgression can solve trust. If a group crosses a
 
 The reader should not flatten this into admiration for cheating. Jiang's point is diagnostic. If a public order rewards rule-followers less than hidden coordinators, the analyst must see that game. Otherwise moral language becomes a way of missing the actual power structure.
 
+## Prediction Changes The Game
+
+The July 2025 universal-law lecture also gives game theory its own limit. After deriving a strong forecast from the mass-energy-coordination formula, Jiang stops himself. If the game is now visible, then the model is no longer outside the game. A player can see the contours, enter the board, and use the forecast itself as material.
+
+This is not a retreat from prediction. It is a harder rule for prediction. Game theory can clarify players, trajectory, and incentives; but once [the players are obvious and the trajectory seems clear]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031"}, the situation becomes attractive to the person who can bend it. Jiang names this figure through Hegel and Nietzsche as the world-historical actor, then applies the claim to Putin in that dated source: [the new player sees the contours of the game, manipulates events, and changes the course of the game for himself and his group]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0032"}.
+
+<!-- lens-point id="game-theory-visible-game-invites-intervention" concept="game-theory-method" evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0032" -->
+<span id="game-theory-visible-game-invites-intervention" class="lens-point-anchor"></span>
+A game-theory prediction changes the board when the game becomes visible enough for a new player to see its contours, manipulate events, and redirect the apparent trajectory toward his own ends.
+
+The boundary matters. This is not a separate "great man" theory and not a license to make every forecast unfalsifiable. The useful diagnostic is narrower: when a model has become clear enough to guide action, ask who can read the same model, enter late, and turn the visible trajectory into a weapon.
+
 ## Material Tests Still Matter
 
 Game theory can reveal hidden payoffs, but it does not let story float free of matter. The Hollywood-Pentagon lecture gives the correction. War has to be judged by [economics, organization, and logistics]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"}. An actor can narrate victory, stage rescue, or maintain optics while losing the material game.
@@ -102,6 +114,7 @@ Ask:
 - Who benefits if the visible system fails?
 - What form of coordination is operating: leader, bureaucracy, family, religion, story, nation, secret society, or subconscious dance?
 - Does the story pass material tests of cost, organization, logistics, time, and enemy adaptation?
+- Has the game become visible enough that a late player can read the model, enter the board, and redirect the trajectory?
 - Which earlier choices made only bad choices available now?
 
 The final question is often the most important. A trap is not just a bad move. It is a game whose previous moves have narrowed the field until every option damages the actor.
@@ -115,7 +128,7 @@ The final question is often the most important. A trap is not just a bad move. I
   Nationalism spreads as a coordination game: once one people groups itself into a nation-state, others must group or lose.
 
 - **2025-07-11**, [Geo-Strategy Update #5: The Universal Law of Game Theory](/episodes/predictive-history-5i2vpypjj68/)  
-  Jiang states the mass-energy-coordination formula, distinguishes conscious from subconscious coordination, and makes story the highest coordination technology.
+  Jiang states the mass-energy-coordination formula, distinguishes conscious from subconscious coordination, makes story the highest coordination technology, and warns that a visible game can invite a player who changes its trajectory.
 
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/)  
   Game theory becomes morally severe: hidden coordination, cheating, taboo breach, and transgression are analyzed as ways groups can bind themselves and win.
