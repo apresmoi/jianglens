@@ -106,6 +106,7 @@ Use this lens when a fictional, poetic, historical, or mythic figure seems to be
 
 ## Related Concepts
 
+- [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - the broader heart mechanism: pride, vulnerability, guilt, forgiveness, social order, and reason's limits.
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - the larger poetic mechanism: poems create shared language, memory, moral formation, and civilizational worlds.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - the narrative mechanism: stories project worlds that people then act inside.
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) - the Virgil problem: a necessary guide can carry the false world that must be escaped.
