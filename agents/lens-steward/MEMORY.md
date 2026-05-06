@@ -20,3 +20,4 @@
 - Validate generated lens data serially. Running `validate-content.mjs` while `website && npm run build` is compiling can create false "missing generated episode JSON" failures.
 
 2026-05-05 - Eschatology as script: keep the page as a script/coordination mechanism, not a generic apocalypse page. The useful test is which end-times story assigns roles, coordinates actors without explicit command, makes catastrophe meaningful, or turns hell/salvation/free will into a present world people choose.
+2026-05-06 - Game theory method: keep the page as Jiang's diagnostic for finding the real game, not as generic rational-choice theory. The useful test is players, constraints, incentives, actual payoff, coordination form, and material audit; apparent irrationality may mean the analyst named the wrong game or reward.
