@@ -835,6 +835,54 @@
               "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
               "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
             ],
+            "marks": [
+              {
+                "text": "It can spend too much for too little. It can require too many moving parts in enemy territory. It can depend on supply, rescue, extraction, air cover, secrecy, and luck all functioning at the same time.",
+                "refs": [
+                  "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
+                  "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
+                ],
+                "lens_points": [
+                  "lens-point:strategy-material-test-three-constraints"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
+                    "segment_id": "seg-0030",
+                    "start": 1900.78,
+                    "end": 1982.83,
+                    "time_label": "31:40",
+                    "speaker": "SPEAKER_02",
+                    "excerpt": "First thing you want to look at is economics. Okay? Economics. Second thing you want to look at is organization. The third thing you want to look at is logistics. All right? So, what do I mean by this? Well, the first t..."
+                  },
+                  {
+                    "ref": "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031",
+                    "segment_id": "seg-0031",
+                    "start": 1982.87,
+                    "end": 2049.96,
+                    "time_label": "33:02",
+                    "speaker": "SPEAKER_02",
+                    "excerpt": "if you are trying to build an air base in the middle of Iran so you can extract uranium from Iranians, that's not a good organization. Okay? This thing is going to blow up in your face. The third issue is logistics, whi..."
+                  }
+                ],
+                "lens_points_detail": [
+                  {
+                    "id": "lens-point:strategy-material-test-three-constraints",
+                    "valid": true,
+                    "concept": "strategy-material-test",
+                    "title": null,
+                    "doc_title": "When War Becomes A Story Instead Of A Material Test",
+                    "doc_slug": "lens/when-war-becomes-a-story-instead-of-a-material-test",
+                    "url": "/lens/when-war-becomes-a-story-instead-of-a-material-test/#strategy-material-test-three-constraints",
+                    "text": "Strategy passes the material test only when its story can survive economics, organization, and logistics: cost, executable structure, supply, endurance, and replacement capacity.",
+                    "refs": [
+                      "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
+                      "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031"
+                    ]
+                  }
+                ]
+              }
+            ],
             "refs_detail": [
               {
                 "ref": "video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030",
@@ -856,8 +904,7 @@
               }
             ],
             "lens_points": [],
-            "lens_points_detail": [],
-            "marks": []
+            "lens_points_detail": []
           },
           {
             "id": "material-model-003",
