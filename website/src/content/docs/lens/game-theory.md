@@ -23,6 +23,20 @@ Jiang's game-theory method begins by finding the real game: the players, constra
 
 This is why the page belongs near the center of the atlas. It does not replace the other concepts. It is a method for entering them. Nation-state formation, school failure, secret society cohesion, eschatological war, and Hollywood strategy all become clearer when the reader stops asking what the actors say they are doing and starts asking what the game rewards.
 
+## The Nearest Game Wins
+
+The March 2026 proximity lecture adds a second correction. People and states do not merely play the game analysts name from outside. They play many games at once, and the closest game can govern the visible one.
+
+Jiang names this the law of proximity: [the game nearest to the actor shapes decision-making most]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0013 video:predictive-history-noqqgy4boby@transcript:v1#seg-0015"}. The everyday ladder is deliberately plain. A person may be playing family, school, work, city, and national games at the same time. The visible and proximate game is often the one that captures attention. Then Jiang lifts the rule to nations: [what looks like a game between nations may be determined by the game within nations]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0015 video:predictive-history-noqqgy4boby@transcript:v1#seg-0016"}.
+
+<!-- lens-point id="game-theory-nearest-game-governs" concept="game-theory-method" evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0013 video:predictive-history-noqqgy4boby@transcript:v1#seg-0015 video:predictive-history-noqqgy4boby@transcript:v1#seg-0016" -->
+<span id="game-theory-nearest-game-governs" class="lens-point-anchor"></span>
+The law of proximity says actors play many games at once, but the nearest visible game often governs action; in geopolitics, internal factional contests can determine how nations behave toward external enemies.
+
+That is why the Iran war in the proximity lecture is not analyzed first as a clean state-versus-state board. American parties can support an unpopular war because each side imagines a nearer domestic payoff. Jiang's sharp sentence is that [the war is not really about America defeating Iran]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0018"} but about Democrats and Republicans obtaining or keeping power. Later, the same method reaches intelligence and assassination. Jiang explicitly caveats that he lacks direct evidence, but argues that game theory gives the best explanation: [internal factions can provide intelligence to external enemies in order to limit domestic rivals]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0040 video:predictive-history-noqqgy4boby@transcript:v1#seg-0041"}.
+
+This belongs inside game theory because the mechanism is methodological. It does not say domestic politics is always the hidden cause, and it does not turn every foreign event into a civil-war claim. It gives the analyst a test: when an external move looks strategically incoherent, ask whether a nearer audience, election, faction, bureaucracy, status contest, or spiritual struggle is the real game being won.
+
 ## Superstructure Changes The Game
 
 The same human desire does not create the same game in every world. Jiang uses "superstructure" to name the big picture that changes the rules: population, wealth, technology, enemies, demographics, economics, culture, politics, and religion. In the dating lecture, [the superstructure determines the nature of the game]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020"}.
@@ -126,6 +140,7 @@ Ask:
 - Who are the players, including silent institutions, audiences, donors, families, factions, bureaucracies, and future rivals?
 - What are the rules and constraints, including geography, status codes, money, law, taboo, time, supply, hierarchy, and fear of humiliation?
 - What is the declared prize, and what behavior suggests a different prize?
+- Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
 - Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
 - Who benefits if the visible system fails?
@@ -164,6 +179,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-03-05**, [Game Theory #10: The Law of Asymmetry](/episodes/predictive-history-t5oisjiorsu/)  
   Jiang gives the methodological warning that apparent irrationality may mean the analyst has named the wrong game and wrong reward.
+
+- **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/)
+  The method gains a proximity rule: actors play many games at once, and the nearest visible game can make domestic faction, party, or spiritual conflict govern the apparent interstate game.
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
   War imposes the hard material test: economics, organization, and logistics expose when story has replaced strategy.
