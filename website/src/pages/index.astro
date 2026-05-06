@@ -13,7 +13,7 @@ const latestEpisodeLabel = latestEpisode?.title
   ? `Explore the latest episode: ${latestEpisode.title}`
   : 'Explore the latest episode';
 const publicSkillUrl = `${siteConfig.urls.publicOrigin}${siteConfig.paths.skill}`;
-const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: [paste a news link, speech, claim, or situation]`;
+const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
 ---
 
 <html lang="en">
@@ -136,6 +136,7 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
 
       .hero-copy {
         width: min(620px, 100%);
+        transform: translateY(-26px);
       }
 
       .kicker {
@@ -213,20 +214,14 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
       }
 
       .public-note {
+        grid-column: 1 / -1;
         margin: 0;
+        border-top: 1px solid rgba(246, 239, 228, 0.08);
+        padding-top: 10px;
         color: var(--muted);
         font-size: 0.82rem;
         font-weight: 500;
         text-align: center;
-      }
-
-      .fold-footer {
-        position: absolute;
-        right: 0;
-        bottom: 30px;
-        left: 0;
-        z-index: 3;
-        pointer-events: none;
       }
 
       .meta-line {
@@ -272,10 +267,10 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
       .quick-start {
         position: absolute;
         right: 0;
-        bottom: 64px;
+        bottom: 0;
         left: 0;
         z-index: 3;
-        border-top: 1px solid var(--line);
+        border-top: 1px solid rgba(246, 239, 228, 0.12);
         background:
           linear-gradient(90deg, rgba(201, 167, 101, 0.09), transparent 55%),
           rgba(9, 10, 8, 0.58);
@@ -285,10 +280,10 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
       .quick-start-inner {
         display: grid;
         grid-template-columns: minmax(0, 0.56fr) minmax(0, 1fr);
-        gap: 24px;
+        gap: 16px 24px;
         align-items: center;
-        padding-top: 16px;
-        padding-bottom: 16px;
+        padding-top: 18px;
+        padding-bottom: 14px;
       }
 
       .quick-start-label {
@@ -527,6 +522,10 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
           font-size: 3.25rem;
         }
 
+        .hero-copy {
+          transform: translateY(-12px);
+        }
+
         .lead {
           font-size: 1.02rem;
         }
@@ -541,24 +540,43 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
         }
 
         .quick-start {
-          bottom: 76px;
+          bottom: 0;
+        }
+
+        .meta-line {
+          display: none;
         }
 
         .quick-start-inner {
           grid-template-columns: 1fr;
-          gap: 14px;
-          padding-top: 18px;
-          padding-bottom: 18px;
+          gap: 10px;
+          padding-top: 14px;
+          padding-bottom: 12px;
         }
 
         .quick-start-row {
           display: grid;
         }
 
+        .quick-start h2 {
+          margin-top: 4px;
+          font-size: 0.96rem;
+        }
+
+        .quick-start-row code {
+          padding: 10px 12px;
+          font-size: 0.78rem;
+        }
+
         .quick-copy {
-          min-height: 42px;
+          min-height: 38px;
           border-top: 1px solid rgba(246, 239, 228, 0.16);
           border-left: 0;
+        }
+
+        .public-note {
+          padding-top: 8px;
+          font-size: 0.78rem;
         }
 
         .section h2,
@@ -613,11 +631,9 @@ const tryPrompt = `Read ${publicSkillUrl}, then use Jiang Lens to analyze this: 
               <code data-try-prompt data-prompt={tryPrompt}>{tryPrompt}</code>
               <button class="quick-copy" type="button" data-copy-try-prompt>Copy prompt</button>
             </div>
+            <p class="public-note">Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
           </div>
         </section>
-        <div class="shell fold-footer" aria-label="Project status">
-          <p class="public-note">Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
-        </div>
       </section>
 
       <section class="section">
