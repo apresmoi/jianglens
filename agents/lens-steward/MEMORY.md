@@ -67,3 +67,4 @@
 - 2026-05-06: Sacred-machine material-audit backlinks can use exact Great Pyramid failure marks when each names a failed test: drought defeats the promised Nile-control miracle, pyramid economy becomes complete waste of resources, and afterlife accumulation squanders wealth while neglecting the here and now.
 
 - 2026-05-06: Population-target backlinks can safely use the exact mark "strangle the people until they rise against the nation-state" because seg-0048 explicitly frames 21st-century war as strangling a people to force uprising against the nation-state and provoking population unrest to destroy the state.
+- 2026-05-06: Gerontocracy respect backlinks should preserve the moral-lock mechanism, not only the outcome: seg-0049 supports "young people are biologically trained to respect elders" because it also names respect/obedience, grandparents, inability to act, and being sent to wars.
