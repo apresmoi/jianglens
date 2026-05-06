@@ -94,6 +94,7 @@ Ask whether death is being used to control imagination. Jiang repeatedly reverse
 ## Related Concepts
 
 - [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/)
+- [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/)
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/)
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/)
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
