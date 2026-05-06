@@ -53,6 +53,10 @@ The closing exchange names the method directly. Hubris is not only a flaw of one
 
 The democratic implication is uncomfortable. Democracy needs theater because voters and leaders do not become wise by counting votes. They need public forms that show how revenge feels justified, how power damages judgment, how grief speaks, and how a city sees the cost of its own glory. Tragedy becomes a civic instrument for seeing the heart before the heart breaks the city.
 
+<!-- lens-point id="tragedy-makes-democracy-see-heart" concept="human-heart" evidence="video:predictive-history-96hzwlozdhw@transcript:v1#seg-0005 video:predictive-history-96hzwlozdhw@transcript:v1#seg-0040 video:predictive-history-96hzwlozdhw@transcript:v1#seg-0044" -->
+<span id="tragedy-makes-democracy-see-heart" class="lens-point-anchor"></span>
+Tragedy makes democracy see the heart by turning public theater into a civic mirror for revenge, hubris, grief, power, self-accusation, and the forces that make human beings human before those forces govern the city blindly.
+
 ## The Heart Against Reason
 
 The **2025-05-20** Russia lecture makes the heart a civilizational contrast. Jiang begins by comparing modern civilizations. Anglo-American civilization emphasizes utility, practical mastery, and the pursuit of wealth. German civilization emphasizes idealism and unity of will. Russia, in this reading, is centered on [the mystery, miracle, and authority of the human heart]{evidence="video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0003"}.
