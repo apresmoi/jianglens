@@ -59,6 +59,16 @@ Tragedy makes democracy see the heart by turning public theater into a civic mir
 
 ## The Heart Against Reason
 
+The **2025-04-22** French Revolution lecture gives the page an earlier hinge before the Russian contrast. Jiang reads modernity as a religious substitution in which reason, debate, and progress replace faith, orthodoxy, and truth. The human-heart issue is not that reason has no value. It is that reason can be made the central light while love is displaced.
+
+Jiang makes the contrast through Dante. Enlightenment thinkers say God left human beings reason; Dante says [love is what God gave us and love is the light in us]{evidence="video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025"}. The difference is structural. Reason can work alone. Love cannot. Love requires another person, and that relation restrains the thinker. Once reason becomes solitary, Jiang says [a person capable of reasoning by himself can reason anything, including concentration camps, nuclear bombs, and genocide]{evidence="video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025 video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0026"}.
+
+<!-- lens-point id="heart-restrains-reason-through-love" concept="human-heart" evidence="video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0025 video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0026" -->
+<span id="heart-restrains-reason-through-love" class="lens-point-anchor"></span>
+The heart restrains reason through love when relation, dependence, and connection keep intelligence from justifying whatever a solitary mind can deduce.
+
+The diagnostic stays narrow. The broader modern substitution may later need its own public treatment, but this mechanism asks a more immediate question: what must bind reason so it does not become cleverness without love?
+
 The **2025-05-20** Russia lecture makes the heart a civilizational contrast. Jiang begins by comparing modern civilizations. Anglo-American civilization emphasizes utility, practical mastery, and the pursuit of wealth. German civilization emphasizes idealism and unity of will. Russia, in this reading, is centered on [the mystery, miracle, and authority of the human heart]{evidence="video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0003"}.
 
 That does not make Russia gentle. The heart contains fatalism, violence, suffering, mercy, beauty, darkness, and redemption. It is a mystery because it cannot be reduced to rational calculation. Jiang's Tolstoy passage says love cannot be mastered like a choice among better options. If love is possession, it fails. If trust breaks, the person may reason one way and suffer another. The formulation is clear: [the human heart works by its own set of logic, and must be respected]{evidence="video:predictive-history-0ralqcpwuh0@transcript:v1#seg-0035"}.
@@ -87,7 +97,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **Repression Test**: What part of the heart has to be suppressed so authority can keep control?
 - **Reversal Test**: Where are blocked love and blocked creation returning as hate, destruction, rebellion, or social collapse?
 - **Forgiveness Test**: Which conflict is really an inward battle over guilt, pride, memory, and self-forgiveness?
-- **Reason Test**: What has been rationalized that the heart still cannot accept?
+- **Reason Test**: What has been rationalized that the heart still cannot accept, and what relation of love is missing from the reasoning?
 - **Tragedy Test**: What public form lets people see hubris, revenge, grief, pity, and judgment before those forces govern blindly?
 - **Model Test**: Does the analysis model human need and moral structure, or only institutions, incentives, force, and material variables?
 
@@ -95,6 +105,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 
 - **2024-06-13**, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/): the heart becomes the social and psychohistorical variable. Society prospers when it fulfills love, creation, learning, growth, structure, meaning, and purpose; repression turns these powers toward rebellion and destruction.
 - **2024-10-17**, [Tragedy Makes Democracy Face Itself](/episodes/predictive-history-96hzwlozdhw/): tragedy becomes democratic heart-knowledge. Playwrights study hubris, revenge, power, and grief so a public can see what makes humans human.
+- **2025-04-22**, [Reason Becomes A Religion](/episodes/predictive-history-5hwzx5kqm9o/): Dante's love/reason contrast gives the heart its restraint function. Reason can operate alone; love requires relation, and that relation keeps reason from justifying anything.
 - **2025-05-20**, [Russia And The Mystery Of The Heart](/episodes/predictive-history-0ralqcpwuh0/): Russia is framed as a civilization of the heart, where love, trust, guilt, suffering, and redemption cannot be mastered by utilitarian reason.
 - **2025-11-06**, [Homer Made The Human Heart A Battlefield](/episodes/predictive-history-4ehovunrsrw/): Homer makes the heart a battlefield of guilt and forgiveness; Greek civilization grows around the public study of that inward struggle.
 - **2026-01-14**, [Homer Makes Achilles Real Enough To Invent The Human](/episodes/predictive-history-ft2cuowguyc/): Achilles becomes a mirror for pride, vulnerability, imagination, and the complicated dark heart inside the reader.
