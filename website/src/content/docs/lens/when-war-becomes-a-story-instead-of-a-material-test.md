@@ -39,6 +39,20 @@ The counterstrategy is also material. Jiang does not imagine a weaker actor need
 
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
+## Four-Dimensional War
+
+The March 2026 Pax Judaica lecture adds a sharper diagnostic for wars that appear militarily simple. Jiang says war is fought across [narrative, political, economic, and military dimensions]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0017"}. A strategy can fail not because one dimension is irrelevant, but because the actor orders them badly.
+
+In his reading of the U.S.-Iran conflict, America's mistake is hierarchy. The military plan aims at forced surrender, so the narrative, political, and economic worlds are told to conform: NATO should open Hormuz, oil should stay low, media should repeat victory, and domestic unpopularity should disappear from the story. Jiang calls this forcing [the narrative, political, and economic spheres to conform to the military strategy]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0018"}. That makes revision humiliating. If the military story is failing, the empire cannot easily reflect, adapt, or admit that the board has changed.
+
+Iran's counter in this dated model is the reverse order. Jiang says the Iranians use [the military to impact the economic, political, and narrative spheres]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0019"}. Military moves become levers: Chinese ships can pass because China buys Iranian oil; Qatar and Oman can be pulled away from the Gulf consensus; tolls through Hormuz become economic pressure; global opinion becomes a strategic resource. The military is not absent. It is no longer the master variable.
+
+<!-- lens-point id="strategy-four-dimensional-war-orders-the-board" concept="strategy-material-test" evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0017 video:predictive-history-mk4vchtawso@transcript:v1#seg-0018 video:predictive-history-mk4vchtawso@transcript:v1#seg-0019 video:predictive-history-mk4vchtawso@transcript:v1#seg-0020 video:predictive-history-mk4vchtawso@transcript:v1#seg-0021 video:predictive-history-mk4vchtawso@transcript:v1#seg-0022" -->
+<span id="strategy-four-dimensional-war-orders-the-board" class="lens-point-anchor"></span>
+Four-dimensional war is won by ordering the board correctly: military action must be tested against narrative, political, and economic feedback instead of forcing those dimensions to obey a brittle military story.
+
+This belongs inside strategy rather than inside [Game Theory](/lens/game-theory/) because the active mechanism is not only hidden payoff identification. It is operational feedback. Jiang's contrast is reflection, flexibility, and resilience: the side that can let economics, politics, and narrative alter military choices can adapt; the side that makes every dimension serve the military image tends to double down, choose desperate moves, and make replenishment harder. It also touches [Power As Alchemy](/lens/power-as-alchemy/) because finance and empire structure the wider board, but this page owns the moment where that structure is tested by war.
+
 ## Shock And Awe As Fantasy
 
 The older source for this mechanism is Jiang's 2024 shock-and-awe lecture. He reconstructs the traditional military grammar as mass forces, avoidance of encirclement, and protection of supply lines. "Most of war," in that account, is [oil, fuel, weapons, and supply lines]{evidence="video:predictive-history-jiefc4yww4o@transcript:v1#seg-0002 video:predictive-history-jiefc4yww4o@transcript:v1#seg-0003"}.
@@ -133,7 +147,7 @@ In **November 2024**, the Rome lecture gives the ancient countercase: a story of
 
 In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
-In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance, reserve-currency power can harden into chokepoint access control, and war must be judged by economics, organization, and logistics before narrative spectacle.
+In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
 ## Source Trail
 
@@ -172,6 +186,12 @@ In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
+
+- **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/)
+  Four-dimensional war separates the military image from the full strategic board: narrative, politics, and economics can either be forced to serve a military story or used as feedback that reshapes military action.
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0017`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0019`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0021`
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
   A weakening reserve-currency empire can shift from encouraging global trade to controlling sea lanes, chokepoints, trade access, and naval attrition.
