@@ -18,10 +18,61 @@ const current = pathname.includes('/use-with-your-agent/')
   base={base}
   current={current}
   maxWidth="100%"
-  sticky={false}
+  sticky={true}
   gutter="48px"
   mobileGutter="28px"
+  showMobileMenu={false}
 />
+
+<svg
+  class="lens-source-field"
+  viewBox="0 0 1600 1000"
+  preserveAspectRatio="none"
+  aria-hidden="true"
+>
+  <defs>
+    <linearGradient id="lens-sand-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(201, 167, 101, 0)" />
+      <stop offset="0.34" stop-color="rgba(201, 167, 101, 0.66)" />
+      <stop offset="0.66" stop-color="rgba(244, 234, 216, 0.4)" />
+      <stop offset="1" stop-color="rgba(201, 167, 101, 0)" />
+    </linearGradient>
+    <linearGradient id="lens-sand-rust" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(159, 95, 68, 0)" />
+      <stop offset="0.45" stop-color="rgba(201, 90, 55, 0.48)" />
+      <stop offset="1" stop-color="rgba(159, 95, 68, 0)" />
+    </linearGradient>
+    <linearGradient id="lens-sand-cool" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(74, 154, 158, 0)" />
+      <stop offset="0.5" stop-color="rgba(74, 154, 158, 0.42)" />
+      <stop offset="1" stop-color="rgba(74, 154, 158, 0)" />
+    </linearGradient>
+  </defs>
+  <path class="lens-field-dust-stream" stroke="url(#lens-sand-gold)" d="M-90 688C130 620 292 640 492 736C714 842 944 846 1186 690C1366 574 1514 560 1700 614" />
+  <path class="lens-field-dust-stream fine rust" stroke="url(#lens-sand-rust)" d="M-96 538C96 488 240 532 392 604C552 680 708 716 880 670C1048 626 1168 544 1348 518C1492 498 1588 540 1690 594" />
+  <path class="lens-field-dust-stream fine cool" stroke="url(#lens-sand-cool)" d="M430 146C592 284 722 356 882 370C1060 386 1198 304 1378 278C1492 262 1576 290 1692 344" />
+  <path class="lens-field-dust-stream fine" stroke="url(#lens-sand-gold)" d="M654 900C654 714 706 566 786 426C856 304 856 214 792 74" />
+  <circle class="lens-field-ring" cx="1260" cy="226" r="188" />
+  <circle class="lens-field-ring" cx="1038" cy="654" r="326" />
+  <circle class="lens-field-ring" cx="208" cy="742" r="226" />
+  <path class="lens-field-lane" d="M118 -80V1080" />
+  <path class="lens-field-lane up" d="M314 -80V1080" />
+  <path class="lens-field-lane" d="M510 -80V1080" />
+  <path class="lens-field-lane up" d="M706 -80V1080" />
+  <path class="lens-field-lane" d="M902 -80V1080" />
+  <path class="lens-field-lane up" d="M1098 -80V1080" />
+  <path class="lens-field-lane" d="M1294 -80V1080" />
+  <path class="lens-field-lane up" d="M1490 -80V1080" />
+  <path class="lens-field-arc" d="M-110 188C124 146 314 190 520 158C810 114 1020 46 1270 96C1432 128 1530 102 1710 38" />
+  <path class="lens-field-arc" d="M910 122C1038 216 1196 210 1370 158C1508 116 1598 162 1708 236" />
+  <path class="lens-field-route" d="M-82 716C160 626 338 664 548 760C788 870 998 830 1228 682C1392 578 1530 576 1700 622" />
+  <path class="lens-field-route alt" d="M1660 286C1348 284 1156 348 982 514C820 666 664 738 416 724C218 712 78 748 -112 854" />
+  <path class="lens-field-route alt" d="M112 84C316 312 462 452 628 512C820 582 998 490 1188 396C1336 324 1470 320 1680 386" />
+  <circle class="lens-field-node" cx="548" cy="760" r="4.5" />
+  <circle class="lens-field-node dim" cx="982" cy="514" r="3.8" />
+  <circle class="lens-field-node" cx="1228" cy="682" r="4.2" />
+  <circle class="lens-field-node dim" cx="1188" cy="396" r="3.4" />
+</svg>
 
 <script define:vars={{ base }}>
   const evidencePattern = /\[([^\]\n]+)\]\{evidence=(?:"|“)([^"”]+)(?:"|”)\}/g;
@@ -230,6 +281,9 @@ const current = pathname.includes('/use-with-your-agent/')
 
 <style is:global>
   header.header {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 80 !important;
     height: 64px !important;
     border-bottom: 0 !important;
     padding: 0 !important;
@@ -237,12 +291,14 @@ const current = pathname.includes('/use-with-your-agent/')
   }
 
   header.header > .site-header {
+    position: relative !important;
+    top: auto !important;
     height: 64px;
   }
 
   @media (max-width: 720px) {
     :root {
-      --sl-nav-height: 120px;
+      --sl-nav-height: 64px;
     }
 
     header.header {
@@ -250,11 +306,11 @@ const current = pathname.includes('/use-with-your-agent/')
     }
 
     header.header > .site-header {
-      height: auto;
+      height: var(--sl-nav-height);
     }
 
     starlight-menu-button button {
-      top: 14px !important;
+      top: 13px !important;
     }
   }
 </style>

@@ -156,10 +156,13 @@ const inlineParts = partsFor(String(text), normalizedMarks());
   }
 
   .evidence-mark {
+    --evidence-wash: rgba(201, 167, 101, 0.12);
+    --evidence-field: rgba(201, 167, 101, 0.035);
+    --evidence-tick: rgba(201, 167, 101, 0.14);
     margin: 0;
     border: 0;
-    border-radius: 2px;
-    padding: 0 0.03em 0.04em;
+    border-radius: 3px;
+    padding: 0 0.08em 0.04em;
     color: inherit;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
@@ -167,25 +170,64 @@ const inlineParts = partsFor(String(text), normalizedMarks());
     font: inherit;
     line-height: inherit;
     text-align: inherit;
-    text-decoration-line: underline;
-    text-decoration-color: rgba(201, 167, 101, 0.76);
-    text-decoration-thickness: 1px;
-    text-underline-offset: 0.18em;
-    background: transparent;
-    cursor: pointer;
-  }
-
-  .evidence-mark:hover,
-  .evidence-mark:focus-visible {
-    color: #f4ead8;
+    text-decoration: none;
     background:
       linear-gradient(
         to top,
-        rgba(201, 167, 101, 0.24) 0,
-        rgba(201, 167, 101, 0.24) 0.34em,
-        transparent 0.34em
+        var(--evidence-wash) 0,
+        var(--evidence-wash) 0.48em,
+        var(--evidence-field) 0.48em
+      ),
+      repeating-linear-gradient(
+        90deg,
+        transparent 0,
+        transparent 0.8em,
+        var(--evidence-tick) 0.8em,
+        var(--evidence-tick) 0.86em,
+        transparent 0.86em,
+        transparent 1.7em
       );
+    background-position: 0 0, 0 0;
+    background-size: 100% 100%, 3.4em 100%;
+    cursor: pointer;
+    animation: evidenceTrace 18s linear infinite;
+    transition:
+      color 140ms ease,
+      background-color 140ms ease,
+      box-shadow 140ms ease;
+  }
+
+  .evidence-mark::after {
+    content: "";
+    width: 0.34em;
+    height: 0.34em;
+    display: inline-block;
+    margin-left: 0.18em;
+    border-radius: 999px;
+    vertical-align: 0.12em;
+    background: rgba(201, 167, 101, 0.62);
+    box-shadow: 0 0 0 2px rgba(201, 167, 101, 0.1);
+    animation: evidenceDot 4.8s ease-in-out infinite;
+  }
+
+  .evidence-mark:hover,
+  .evidence-mark:focus-visible,
+  .evidence-wrap.is-open .evidence-mark {
+    --evidence-wash: rgba(201, 167, 101, 0.32);
+    --evidence-field: rgba(201, 167, 101, 0.09);
+    --evidence-tick: rgba(244, 234, 216, 0.18);
+    color: #f4ead8;
+    box-shadow: 0 0 0 1px rgba(201, 167, 101, 0.16);
     outline: none;
+  }
+
+  .evidence-mark:hover::after,
+  .evidence-mark:focus-visible::after,
+  .evidence-wrap.is-open .evidence-mark::after {
+    background: rgba(244, 234, 216, 0.9);
+    box-shadow:
+      0 0 0 2px rgba(201, 167, 101, 0.18),
+      0 0 12px rgba(201, 167, 101, 0.28);
   }
 
   .evidence-popover {
@@ -194,19 +236,44 @@ const inlineParts = partsFor(String(text), normalizedMarks());
     left: 0;
     z-index: 40;
     width: min(380px, 84vw);
-    display: none;
+    display: grid;
+    gap: 8px;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
     border: 1px solid rgba(244, 234, 216, 0.2);
     border-radius: 6px;
     padding: 10px;
     color: #d7ccbb;
     background: rgba(9, 10, 8, 0.98);
     box-shadow: 0 18px 46px rgba(0, 0, 0, 0.42);
+    transform: translateY(-3px);
+    transition:
+      opacity 120ms ease,
+      transform 120ms ease,
+      visibility 120ms step-end;
+  }
+
+  .evidence-popover::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 100%;
+    left: 0;
+    height: 12px;
   }
 
   .evidence-wrap:hover .evidence-popover,
-  .evidence-wrap:focus-within .evidence-popover {
-    display: grid;
-    gap: 8px;
+  .evidence-wrap:focus-within .evidence-popover,
+  .evidence-wrap.is-open .evidence-popover {
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+    transition:
+      opacity 120ms ease,
+      transform 120ms ease,
+      visibility 0ms;
   }
 
   .evidence-popover strong {
@@ -283,5 +350,35 @@ const inlineParts = partsFor(String(text), normalizedMarks());
     font-size: 0.8rem;
     font-style: normal;
     line-height: 1.42;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .evidence-mark,
+    .evidence-mark::after {
+      animation: none;
+    }
+  }
+
+  @keyframes evidenceTrace {
+    from {
+      background-position: 0 0, 0 0;
+    }
+
+    to {
+      background-position: 0 0, 3.4em 0;
+    }
+  }
+
+  @keyframes evidenceDot {
+    0%,
+    100% {
+      opacity: 0.46;
+      transform: scale(0.88);
+    }
+
+    45% {
+      opacity: 0.9;
+      transform: scale(1.14);
+    }
   }
 </style>

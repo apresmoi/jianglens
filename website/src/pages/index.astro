@@ -12,6 +12,8 @@ const latestEpisodeHref = latestEpisode?.path ? `.${latestEpisode.path}` : './ep
 const latestEpisodeLabel = latestEpisode?.title
   ? `Explore the latest episode: ${latestEpisode.title}`
   : 'Explore the latest episode';
+const publicSkillUrl = `${siteConfig.urls.publicOrigin}${siteConfig.paths.skill}`;
+const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
 ---
 
 <html lang="en">
@@ -72,7 +74,6 @@ const latestEpisodeLabel = latestEpisode?.title
         min-height: 100vh;
         overflow-x: hidden;
         background:
-          linear-gradient(90deg, rgba(246, 239, 228, 0.028) 1px, transparent 1px) 0 0 / 72px 72px,
           linear-gradient(0deg, rgba(246, 239, 228, 0.018) 1px, transparent 1px) 0 0 / 72px 72px,
           var(--bg);
         color: var(--ink);
@@ -112,11 +113,131 @@ const latestEpisodeLabel = latestEpisode?.title
         filter: contrast(1.04) saturate(0.94) brightness(0.84);
       }
 
+      .hero-map {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        opacity: 0.54;
+        color: var(--gold);
+        pointer-events: none;
+        mix-blend-mode: screen;
+      }
+
+      .hero-map .grid-line {
+        stroke: rgba(201, 167, 101, 0.055);
+        stroke-width: 0.7;
+      }
+
+      .hero-map .grid-lane {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.12);
+        stroke-width: 0.9;
+        stroke-linecap: round;
+        stroke-dasharray: 1 18;
+        vector-effect: non-scaling-stroke;
+        animation: laneDown 30s linear infinite;
+      }
+
+      .hero-map .grid-lane.up {
+        opacity: 0.72;
+        animation-name: laneUp;
+        animation-duration: 36s;
+      }
+
+      .hero-map .chart-line {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.13);
+        stroke-width: 1.05;
+        vector-effect: non-scaling-stroke;
+      }
+
+      .hero-map .chart-line.soft {
+        stroke: rgba(246, 239, 228, 0.07);
+        stroke-width: 0.85;
+      }
+
+      .hero-map .path-line {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.28);
+        stroke-width: 1.15;
+        stroke-linecap: round;
+        stroke-dasharray: 1 10;
+        vector-effect: non-scaling-stroke;
+        animation: routeDrift 26s linear infinite;
+      }
+
+      .hero-map .path-line.alt {
+        animation-duration: 34s;
+        animation-direction: reverse;
+        opacity: 0.7;
+      }
+
+      .hero-map .node {
+        fill: rgba(201, 167, 101, 0.72);
+        transform-origin: center;
+        animation: nodePulse 6.8s ease-in-out infinite;
+      }
+
+      .hero-map .node.dim {
+        opacity: 0.42;
+        animation-delay: -2.4s;
+      }
+
+      .hero-map .register {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.38);
+        stroke-width: 1;
+        vector-effect: non-scaling-stroke;
+      }
+
+      .hero-map .dust-stream {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2.4;
+        stroke-dasharray: 1 7;
+        vector-effect: non-scaling-stroke;
+        opacity: 0.54;
+        animation:
+          sandFlow 46s linear infinite,
+          sandBreathe 10s ease-in-out infinite;
+      }
+
+      .hero-map .dust-stream.fine {
+        stroke-width: 1.35;
+        stroke-dasharray: 0.7 6.5;
+        opacity: 0.42;
+        animation-duration: 58s, 12s;
+      }
+
+      .hero-map .dust-stream.cool {
+        opacity: 0.2;
+        animation-duration: 64s, 14s;
+        animation-direction: reverse, normal;
+      }
+
+      .hero-map .dust-stream.rust {
+        opacity: 0.34;
+        animation-duration: 52s, 11s;
+      }
+
+      .hero::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: 2;
+        background-image: url("/images/jiang-grain.png");
+        background-repeat: repeat;
+        background-size: 256px 256px;
+        pointer-events: none;
+      }
+
       .hero::before {
         content: "";
         position: absolute;
         inset: 0;
-        z-index: 1;
+        z-index: 2;
         background:
           linear-gradient(90deg, rgba(7, 7, 7, 0.99) 0%, rgba(7, 7, 7, 0.9) 29%, rgba(7, 7, 7, 0.05) 45%, rgba(7, 7, 7, 0.15) 68%, rgba(7, 7, 7, 0.1) 100%),
           linear-gradient(180deg, rgba(7, 7, 7, 0.08) 0%, rgba(7, 7, 7, 0.01) 48%, rgba(7, 7, 7, 0.2) 100%);
@@ -125,7 +246,7 @@ const latestEpisodeLabel = latestEpisode?.title
 
       .hero-inner {
         position: relative;
-        z-index: 2;
+        z-index: 3;
         min-height: calc(100vh - 64px);
         display: grid;
         align-content: center;
@@ -134,6 +255,7 @@ const latestEpisodeLabel = latestEpisode?.title
 
       .hero-copy {
         width: min(620px, 100%);
+        transform: translateY(-48px);
       }
 
       .kicker {
@@ -210,75 +332,14 @@ const latestEpisodeLabel = latestEpisode?.title
         color: #11100e;
       }
 
-      .agent-install {
-        max-width: 620px;
-        margin-top: 30px;
-        padding-top: 16px;
-        border-top: 1px solid var(--line);
-        display: grid;
-        gap: 10px;
-      }
-
-      .agent-install p {
-        margin: 0;
-        color: var(--muted);
-        font-size: 0.94rem;
-        font-weight: 680;
-      }
-
-      .skill-row {
-        min-height: 42px;
-        display: flex;
-        align-items: center;
-        border: 1px solid rgba(246, 239, 228, 0.2);
-        border-radius: 6px;
-        background: rgba(8, 8, 7, 0.72);
-        overflow: hidden;
-      }
-
-      .skill-url {
-        min-width: 0;
-        flex: 1 1 auto;
-        padding: 0 12px;
-        color: var(--soft);
-        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-        font-size: 0.84rem;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-        text-decoration: none;
-      }
-
-      .copy-button {
-        align-self: stretch;
-        min-width: 72px;
-        border: 0;
-        border-left: 1px solid rgba(246, 239, 228, 0.16);
-        border-radius: 0;
-        padding: 0 14px;
-        color: var(--ink);
-        font: inherit;
-        font-size: 0.86rem;
-        font-weight: 760;
-        background: rgba(246, 239, 228, 0.08);
-        cursor: pointer;
-      }
-
       .public-note {
+        grid-column: 1 / -1;
         margin: 0;
+        padding-top: 10px;
         color: var(--muted);
         font-size: 0.82rem;
         font-weight: 500;
         text-align: center;
-      }
-
-      .fold-footer {
-        position: absolute;
-        right: 0;
-        bottom: 30px;
-        left: 0;
-        z-index: 3;
-        pointer-events: none;
       }
 
       .meta-line {
@@ -319,6 +380,84 @@ const latestEpisodeLabel = latestEpisode?.title
       .section {
         padding: 78px 0;
         border-bottom: 1px solid var(--line);
+      }
+
+      .quick-start {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 4;
+        border-top: 1px solid rgba(246, 239, 228, 0.12);
+        background:
+          linear-gradient(90deg, rgba(201, 167, 101, 0.09), transparent 55%),
+          rgba(9, 10, 8, 0.58);
+        backdrop-filter: blur(10px);
+      }
+
+      .quick-start-inner {
+        display: grid;
+        grid-template-columns: minmax(0, 0.56fr) minmax(0, 1fr);
+        gap: 16px 24px;
+        align-items: center;
+        padding-top: 18px;
+        padding-bottom: 14px;
+      }
+
+      .quick-start-label {
+        display: block;
+        color: var(--gold);
+        font-size: 0.74rem;
+        font-weight: 780;
+        text-transform: uppercase;
+      }
+
+      .quick-start h2 {
+        margin: 6px 0 0;
+        max-width: 440px;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 1rem;
+        font-weight: 680;
+        line-height: 1.35;
+      }
+
+      .quick-start-row {
+        min-width: 0;
+        display: flex;
+        align-items: stretch;
+        border: 1px solid rgba(246, 239, 228, 0.18);
+        border-radius: 6px;
+        background: rgba(7, 7, 7, 0.76);
+        overflow: hidden;
+      }
+
+      .quick-start-row code {
+        min-width: 0;
+        flex: 1 1 auto;
+        padding: 10px 14px;
+        color: var(--soft);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 0.82rem;
+        line-height: 1.45;
+      }
+
+      .quick-copy {
+        flex: 0 0 auto;
+        border: 0;
+        border-left: 1px solid rgba(246, 239, 228, 0.16);
+        padding: 0 14px;
+        color: var(--ink);
+        font: inherit;
+        font-size: 0.84rem;
+        font-weight: 760;
+        background: rgba(246, 239, 228, 0.08);
+        cursor: pointer;
+      }
+
+      .quick-copy:hover,
+      .quick-copy:focus-visible {
+        background: rgba(201, 167, 101, 0.2);
+        outline: none;
       }
 
       .section-grid {
@@ -473,9 +612,6 @@ const latestEpisodeLabel = latestEpisode?.title
           grid-template-columns: 1fr;
         }
 
-        .agent-install {
-          width: min(620px, 100%);
-        }
       }
 
       @media (max-width: 720px) {
@@ -486,12 +622,12 @@ const latestEpisodeLabel = latestEpisode?.title
 
         .hero,
         .hero-inner {
-          min-height: calc(100vh - 162px);
+          min-height: calc(100svh - 64px);
         }
 
         .hero-inner {
-          padding-top: 36px;
-          padding-bottom: 74px;
+          padding-top: 32px;
+          padding-bottom: 236px;
         }
 
         .hero-image {
@@ -500,8 +636,16 @@ const latestEpisodeLabel = latestEpisode?.title
           opacity: 0.32;
         }
 
+        .hero-map {
+          opacity: 0.34;
+        }
+
         h1 {
           font-size: 3.25rem;
+        }
+
+        .hero-copy {
+          transform: translateY(-24px);
         }
 
         .lead {
@@ -510,19 +654,51 @@ const latestEpisodeLabel = latestEpisode?.title
 
         .button {
           width: 100%;
-        }
-
-        .agent-install {
-          width: 100%;
-          margin-top: 24px;
-        }
-
-        .agent-install p {
-          font-size: 0.88rem;
+          min-height: 44px;
         }
 
         .section {
           padding: 56px 0;
+        }
+
+        .quick-start {
+          bottom: 0;
+        }
+
+        .meta-line {
+          display: none;
+        }
+
+        .quick-start-inner {
+          grid-template-columns: 1fr;
+          gap: 10px;
+          padding-top: 14px;
+          padding-bottom: 12px;
+        }
+
+        .quick-start-row {
+          display: grid;
+        }
+
+        .quick-start h2 {
+          margin-top: 4px;
+          font-size: 0.96rem;
+        }
+
+        .quick-start-row code {
+          padding: 10px 12px;
+          font-size: 0.78rem;
+        }
+
+        .quick-copy {
+          min-height: 38px;
+          border-top: 1px solid rgba(246, 239, 228, 0.16);
+          border-left: 0;
+        }
+
+        .public-note {
+          padding-top: 8px;
+          font-size: 0.78rem;
         }
 
         .section h2,
@@ -535,10 +711,84 @@ const latestEpisodeLabel = latestEpisode?.title
           gap: 8px;
         }
       }
+
+      @media (prefers-reduced-motion: reduce) {
+        .hero-map .grid-lane,
+        .hero-map .path-line,
+        .hero-map .node,
+        .hero-map .dust-stream {
+          animation: none;
+        }
+      }
+
+      @keyframes laneDown {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: 220;
+        }
+      }
+
+      @keyframes laneUp {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -220;
+        }
+      }
+
+      @keyframes routeDrift {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -220;
+        }
+      }
+
+      @keyframes nodePulse {
+        0%,
+        100% {
+          opacity: 0.42;
+          transform: scale(0.92);
+        }
+
+        45% {
+          opacity: 0.9;
+          transform: scale(1.14);
+        }
+      }
+
+      @keyframes sandFlow {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -420;
+        }
+      }
+
+      @keyframes sandBreathe {
+        0%,
+        100% {
+          opacity: 0.38;
+        }
+
+        48% {
+          opacity: 0.68;
+        }
+      }
+
     </style>
   </head>
   <body>
-    <SiteHeader base="./" />
+    <SiteHeader base="./" current="home" />
 
     <main>
       <section class="hero" aria-label="Predictive History lens overview">
@@ -549,6 +799,75 @@ const latestEpisodeLabel = latestEpisode?.title
           width="1731"
           height="909"
         />
+        <svg
+          class="hero-map"
+          viewBox="0 0 1600 900"
+          preserveAspectRatio="none"
+          aria-hidden="true"
+        >
+          <defs>
+            <linearGradient id="hero-sand-gold" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="rgba(201, 167, 101, 0)" />
+              <stop offset="0.34" stop-color="rgba(201, 167, 101, 0.72)" />
+              <stop offset="0.62" stop-color="rgba(244, 234, 216, 0.5)" />
+              <stop offset="1" stop-color="rgba(201, 167, 101, 0)" />
+            </linearGradient>
+            <linearGradient id="hero-sand-rust" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="rgba(159, 95, 68, 0)" />
+              <stop offset="0.44" stop-color="rgba(201, 90, 55, 0.58)" />
+              <stop offset="1" stop-color="rgba(159, 95, 68, 0)" />
+            </linearGradient>
+            <linearGradient id="hero-sand-cool" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="rgba(74, 154, 158, 0)" />
+              <stop offset="0.5" stop-color="rgba(74, 154, 158, 0.52)" />
+              <stop offset="1" stop-color="rgba(74, 154, 158, 0)" />
+            </linearGradient>
+            <clipPath id="hero-map-frame">
+              <rect x="0" y="0" width="1600" height="900" />
+            </clipPath>
+          </defs>
+          <g clip-path="url(#hero-map-frame)">
+            <path class="dust-stream" stroke="url(#hero-sand-gold)" d="M-70 608C210 566 354 612 548 684C748 758 942 768 1110 708C1266 652 1410 574 1680 612" />
+            <path class="dust-stream fine rust" stroke="url(#hero-sand-rust)" d="M-80 532C112 490 248 530 390 602C558 688 692 718 870 674C1038 632 1164 540 1348 520C1488 504 1580 552 1680 596" />
+            <path class="dust-stream fine cool" stroke="url(#hero-sand-cool)" d="M470 150C608 288 730 362 892 374C1068 388 1194 304 1378 278C1490 262 1574 288 1680 342" />
+            <path class="dust-stream fine" stroke="url(#hero-sand-gold)" d="M660 840C660 692 704 560 782 424C850 306 852 218 790 96" />
+            <g opacity="0.72">
+              <path class="grid-line" d="M0 70H1600M0 140H1600M0 210H1600M0 280H1600M0 350H1600M0 420H1600M0 490H1600M0 560H1600M0 630H1600M0 700H1600M0 770H1600M0 840H1600" />
+            </g>
+            <g opacity="0.5">
+              <path class="grid-lane" d="M140 -80V980" />
+              <path class="grid-lane up" d="M292 -80V980" />
+              <path class="grid-lane" d="M444 -80V980" />
+              <path class="grid-lane up" d="M596 -80V980" />
+              <path class="grid-lane" d="M748 -80V980" />
+              <path class="grid-lane up" d="M900 -80V980" />
+              <path class="grid-lane" d="M1052 -80V980" />
+              <path class="grid-lane up" d="M1204 -80V980" />
+              <path class="grid-lane" d="M1356 -80V980" />
+              <path class="grid-lane up" d="M1508 -80V980" />
+            </g>
+
+            <path class="chart-line soft" d="M-50 116C105 46 172 112 300 78C463 35 531 104 696 78C825 58 930 -10 1098 46C1230 90 1348 43 1648 24" />
+            <path class="chart-line soft" d="M1120 120C1190 160 1305 158 1395 138C1476 120 1538 150 1624 208" />
+            <path class="chart-line soft" d="M1260 205C1315 244 1386 263 1466 247C1534 234 1582 255 1640 296" />
+            <path class="chart-line" d="M730 292C812 280 866 279 934 294C1025 313 1077 356 1140 420C1210 492 1280 532 1410 514C1494 502 1556 526 1644 568" />
+            <path class="chart-line" d="M-62 515C150 550 293 608 484 667C640 715 776 744 942 748C1120 752 1308 704 1662 690" />
+            <path class="chart-line soft" d="M660 820C648 650 682 528 755 390C802 300 794 221 747 142" />
+
+            <path class="path-line" d="M-28 502C240 552 488 654 712 704C970 760 1208 650 1640 610" />
+            <path class="path-line alt" d="M1504 58C1248 102 1040 234 900 426C792 574 658 688 522 918" />
+            <path class="path-line alt" d="M-40 805C186 800 350 822 558 806C770 790 1022 780 1242 727C1392 691 1496 634 1640 624" />
+
+            <circle class="node" cx="840" cy="292" r="5" />
+            <circle class="node dim" cx="595" cy="678" r="4" />
+            <circle class="node dim" cx="1246" cy="726" r="3.8" />
+            <circle class="node" cx="1420" cy="514" r="3.4" />
+
+            <rect class="register" x="32" y="432" width="6" height="6" />
+            <rect class="register" x="468" y="850" width="7" height="7" />
+            <rect class="register" x="734" y="850" width="7" height="7" />
+          </g>
+        </svg>
         <div class="shell hero-inner">
           <div class="hero-copy">
             <span class="kicker">Agent-run open research</span>
@@ -565,18 +884,21 @@ const latestEpisodeLabel = latestEpisode?.title
               <a href={siteConfig.urls.repository} target="_blank" rel="noopener noreferrer">open repository</a>
               <a href="https://www.youtube.com/@PredictiveHistory" target="_blank" rel="noopener noreferrer">source-grounded</a>
             </div>
-            <aside class="agent-install" aria-label="Jiang Lens agent instruction">
-              <p>Do you want to use Jiang's lens to analyze news or something specific? Paste this into ChatGPT, Claude, or the site you use:</p>
-              <div class="skill-row">
-                <a class="skill-url" href={homeSeo.skillUrl} data-skill-url>{homeSeo.skillUrl}</a>
-                <button class="copy-button" type="button" data-copy-skill-url>Copy</button>
-              </div>
-            </aside>
           </div>
         </div>
-        <div class="shell fold-footer" aria-label="Project status">
-          <p class="public-note">Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
-        </div>
+        <section class="quick-start" aria-labelledby="try-it-title">
+          <div class="shell quick-start-inner">
+            <div>
+              <span class="quick-start-label">Try it in 60 seconds</span>
+              <h2 id="try-it-title">Paste this into ChatGPT or Claude, then add a live question, link, or claim.</h2>
+            </div>
+            <div class="quick-start-row">
+              <code data-try-prompt data-prompt={tryPrompt}>{tryPrompt}</code>
+              <button class="quick-copy" type="button" data-copy-try-prompt>Copy prompt</button>
+            </div>
+            <p class="public-note">Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
+          </div>
+        </section>
       </section>
 
       <section class="section">
@@ -653,21 +975,19 @@ const latestEpisodeLabel = latestEpisode?.title
         <p>Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
         <div class="footer-links" aria-label="Project links">
           <a href={siteConfig.credits.builderUrl}>Built by {siteConfig.credits.builderName}</a>
-          <a href={siteConfig.credits.maintainerUrl} rel="me">X / {siteConfig.credits.maintainerHandle}</a>
-          <a href={siteConfig.credits.repositoryUrl}>GitHub repo</a>
         </div>
       </div>
     </footer>
     <script>
-      const copyButton = document.querySelector('[data-copy-skill-url]');
-      const skillUrl = document.querySelector('[data-skill-url]');
+      const tryPromptButton = document.querySelector('[data-copy-try-prompt]');
+      const tryPrompt = document.querySelector('[data-try-prompt]');
 
-      if (copyButton && skillUrl) {
-        copyButton.addEventListener('click', async () => {
-          await navigator.clipboard.writeText(skillUrl.textContent ?? '');
-          copyButton.textContent = 'Copied';
+      if (tryPromptButton && tryPrompt) {
+        tryPromptButton.addEventListener('click', async () => {
+          await navigator.clipboard.writeText(tryPrompt.dataset.prompt ?? tryPrompt.textContent ?? '');
+          tryPromptButton.textContent = 'Copied';
           window.setTimeout(() => {
-            copyButton.textContent = 'Copy';
+            tryPromptButton.textContent = 'Copy prompt';
           }, 1800);
         });
       }
