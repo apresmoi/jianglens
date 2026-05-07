@@ -43,6 +43,16 @@ This does not mean Jiang thinks all control is identical. Bureaucracy, religion,
 
 The same lecture later collapses ancient and modern distance. Jiang's pharaoh-making technology becomes social media, drugs, psychology, mass education, mass culture, internet infrastructure, and mood management. The point is not that every modern system literally repeats Egypt in the same way. It is that mass society keeps rediscovering control surfaces because the scale problem remains.
 
+## Control Moves Into The Environment
+
+The Pharaoh lecture makes the modern layer sharper because it shifts the question away from one visible platform owner. A student asks whether social media should be state-controlled if it is already a mechanism of social control. Jiang answers by moving underneath Twitter and Facebook: [the public app is only the public face, while cables, networks, and military-built infrastructure carry the deeper control layer]{evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0046"}.
+
+<!-- lens-point id="mass-society-control-infrastructure" concept="mass-society-constraint" evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0041 video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0042 video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0044 video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0046" -->
+<span id="mass-society-control-infrastructure" class="lens-point-anchor"></span>
+Mass-society control becomes environmental when the control surface is no longer one ruler, priest, school, or app, but the whole setting that shapes attention, memory, education, media, infrastructure, and experienced reality.
+
+This is not a generic claim that social media is bad. [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) owns the energy and focus extraction mechanism. [Education As A Soul Game](/lens/education-as-a-soul-game/) owns school as person-formation. Mass society owns the scale pressure that keeps generating control environments. The same source also carries Jiang's explicit caveat: he says the Egyptian reconstruction is speculation, theory, and something students should take skeptically [rather than settled proof]{evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0047"}.
+
 ## Artificial Elites And The Human Heart
 
 The 2024 psychohistory final class adds a political anthropology. Jiang says mass society is a historical accident, a deviation from most human history. Once it exists, it needs elites. But the elites are artificial. The people in charge are not metaphysically better than everyone else; they require fictions that make power feel legitimate.
@@ -91,6 +101,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 
 - **Scale Test**: How many people must be fed, housed, employed, educated, soothed, and made meaningful for the proposal to work?
 - **Control Test**: What keeps the mass from tearing the order apart: bureaucracy, religion, war, school, money, media, surveillance, welfare, or sacred authority?
+- **Infrastructure Test**: Is the visible platform or office only the public face of a deeper cable, classroom, clinic, feed, payment, or security system?
 - **Exit Test**: If capitalism, theocracy, nationalism, or bureaucracy is rejected, what carries the functions it was carrying?
 - **Heart Test**: Does coordination preserve curiosity, love, creation, courage, and growth, or does it require obedience and human-heart repression?
 - **Forgetting Test**: What older relation to nature, divinity, imagination, family, community, or practical courage has been made illegible by machine-function?
@@ -100,7 +111,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 
 - **2024-06-13**, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/): Jiang calls mass society a historical accident that requires artificial elites, fictions of superiority, and eventually repression of the human heart.
 - **2025-03-27**, [The Iron Cage Of Protestant Anxiety](/episodes/predictive-history-tcxloijz8v0/): Jiang gives the cleanest political formula: mass society limits options because millions or billions must be fed, organized, and occupied.
-- **2025-09-11**, [You Are Now The Pharaoh](/episodes/predictive-history-6pdfd44dkqa/): Jiang projects the mass-society control problem into early civilizations and modern control surfaces.
+- **2025-09-11**, [You Are Now The Pharaoh](/episodes/predictive-history-6pdfd44dkqa/): Jiang projects the mass-society control problem into early civilizations, modern control surfaces, and infrastructure beneath public platforms, while explicitly caveating the Egyptian reconstruction as speculative.
 - **2025-10-21**, [Imagination Came Before Civilization](/episodes/predictive-history-lvhsg5qtds8/): Jiang names mass society as spiritual forgetting: obedience, machine-function, work, school, and separation from the divine.
 - **2026-04-28**, [The Population Becomes The Weapon](/episodes/predictive-history-txgpfnxgzce/): Jiang turns the constraint into war: population management becomes survival when enemies target civilians, infrastructure, anger, and unrest.
 
@@ -111,3 +122,4 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as the formation system that trains obedience, abstraction, national memory, or living judgment.
 - [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for the inner powers mass control represses or must learn to honor.
 - [Eschatology As Script](/lens/eschatology/) - for the story-form that can make suffering, martyrdom, and endurance meaningful under population-targeting pressure.
+- [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for the metaphysical wall where attention and imagination make the managed environment feel like the only reality.
