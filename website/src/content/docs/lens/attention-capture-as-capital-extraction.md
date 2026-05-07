@@ -65,6 +65,20 @@ The later institutional passage shows how the dollar side works. Central banks a
 
 This section should stay narrow. It is not a general theory of AI, and it should not turn every technology claim into this concept. AI belongs here only when the source says it captures, stores, focuses, or redirects consciousness. The dollar belongs here only when it is acting as a wealth-storage and extraction apparatus, not every time Jiang mentions currency. The public lens point is the rivalry over attention as the substance of reality.
 
+## Disclosure Can Be The Capture
+
+The **2025-10-17** conspiracy lecture adds a more dangerous attention case because it begins where ordinary media criticism usually stops. Jiang asks why suspicious evidence would remain visible if power were trying to hide. His answer is attributed and speculative, but the attention mechanism is precise: public disclosure can be part of the control system.
+
+The lecture calls this "revelation of method." Jiang's first reason is learned helplessness. If people see the wound, get angry, write, post, argue, and nothing changes, then [anger turns into obedience]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0027 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0028"}. The second reason is guilt-sharing: power can say it disclosed the act, people failed to stop it, and therefore [everyone participated]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0028 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0029"}.
+
+The third reason brings the source directly onto this page. Jiang names it attention capture. Public events are arranged so people remember where they were; they become [etched into consciousness]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0029"}. The argument is not that secrecy failed. It is that discussion itself can be useful. People keep writing books, making videos, and arguing because the scandal stays top of mind. In Jiang's compression, [the point is to control people by controlling how they perceive reality]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0030 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0031"}.
+
+<!-- lens-point id="attention-disclosure-brands-consciousness" concept="attention-capture" evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0027 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0028 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0029 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0030 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0031" -->
+<span id="attention-disclosure-brands-consciousness" class="lens-point-anchor"></span>
+Disclosure becomes attention capture when visible evidence, scandal, or permanent public argument brands consciousness, makes resistance feel useless, spreads guilt, and keeps perception orbiting the event.
+
+This belongs here rather than on the secret-society page because the active mechanism is not the hidden organization's structure. Secret Society owns compartmentalization, transgression, and cross-bureaucratic coordination. Taboo owns ritual breach and scapegoat surfaces. Attention owns the moment when even exposure can feed the system by occupying imagination and making reality feel governed by the event.
+
 ## Anxiety Is The Discipline
 
 The mechanism does not stop at incentive. It needs anxiety because rest is a threat. Stored security lets a person stop. A granary, savings, a stable home, or a believable future interrupts extraction. Jiang therefore treats debt, poverty, war, and depression as attention technologies, not only as unfortunate side effects.
@@ -110,6 +124,7 @@ The Great Books become positive practice because they compete for attention at t
 - **Energy Object**: What human energy is being sought: concentration, desire, anxiety, imagination, obedience, creativity, or trust?
 - **Freedom Trap**: Where does a person feel free because the system has made self-policing more efficient than direct command?
 - **Consumer Inversion**: Is alienation forming shared consciousness and solidarity, or being redirected into comparison, posting, spending, debt, and private status pursuit?
+- **Disclosure Trap**: Is exposure opening a path to action, or keeping consciousness orbiting the event through helplessness, guilt, scandal, and permanent argument?
 - **Rest Destruction**: What stored security has been burned so attention returns to work?
 - **Wall Test**: Which surface is being treated as the world itself: school, screen, market, dollar order, credential, platform, or AI answer?
 - **Storage Apparatus**: What stores consciousness as wealth: money, temple, story, scripture, platform, financial order, or AI system?
@@ -120,6 +135,7 @@ The Great Books become positive practice because they compete for attention at t
 
 - **2024-05-31**, [Putin's War For The Soul Of Russia](/episodes/predictive-history-aepsuc-uq5k/): the worker-to-consumer inversion appears. [Alienation could become political consciousness and solidarity]{evidence="video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0019"}, but consumerism redirects people into comparison, debt, school/job money logic, and [the "perfection of slavery"]{evidence="video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0031 video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0032 video:predictive-history-aepsuc-uq5k@transcript:v1#seg-0033"}.
 - **2025-05-29**, [What Marx Got Wrong](/episodes/predictive-history-m24lnq-ksjk/): Jiang gives the human wound behind the inversion: [exchange value breaks creative affirmation, specialization fragments the person, and competitive institutions make solidarity irrational]{evidence="video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0020 video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0021 video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0022 video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0023"}.
+- **2025-10-17**, [Secret History #10: The Conspiracy of Evil](/episodes/predictive-history-ihh1fdw4-ca/): The conspiracy lecture adds disclosure as capture. Jiang says visible evidence can create learned helplessness, guilt-sharing, and attention capture when events are [remembered forever and etched into consciousness]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0028 video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0029"}.
 - **2025-12-09**, [Secret History #25: Capital of Evil](/episodes/predictive-history-b5fthagng8c/): Jiang defines capital as [extraction of human energy]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0001"}, makes freedom and equity into better attention capture, reads debt and destroyed security as focus discipline, and says mobile capital has no homeland.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): The cave lecture gives the metaphysical basis: [attention is energy and true wealth]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}, captured imagination makes constructed reality feel real, and escape requires seeing the dead world as prison.
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/): The school lecture supplies an institutional neighbor. School becomes a player game where [actual learning is displaced by pleasing parents and teachers, face, grades, and minimum viable work]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0024 video:predictive-history-ks-muauq62e@transcript:v1#seg-0025 video:predictive-history-ks-muauq62e@transcript:v1#seg-0027"}.
@@ -130,6 +146,7 @@ The Great Books become positive practice because they compete for attention at t
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as an attention and trust-transfer system before it becomes credential competition.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for the metaphysical account of material false reality, captured attention, and escape.
 - [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) - for the trust machinery Jiang attaches to mobile capital once extraction leaves place.
+- [Taboo As Control Surface](/lens/taboo-as-control-surface/) - for ritual breach, visible guilt transfer, and scapegoat surfaces when the source pressure is boundary-crossing rather than attention capture.
 - [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) - for chosen slavery and the responsibility of imagination inside the cave.
 - [Game Theory](/lens/game-theory/) - for analyzing the player incentives that make schools, institutions, and markets stabilize bad games.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for the narrative side of reality construction.
