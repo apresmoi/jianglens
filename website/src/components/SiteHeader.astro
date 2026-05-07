@@ -1,5 +1,6 @@
 ---
 import { siteConfig } from '../../site.config.mjs';
+import { primaryNav, starlightSidebar } from '../lib/site-navigation.mjs';
 
 const {
   base = '/',
@@ -8,16 +9,30 @@ const {
   gutter = '36px',
   mobileGutter = '28px',
   sticky = true,
+  showMobileMenu = true,
 } = Astro.props;
 
 const normalizedBase = String(base).endsWith('/') ? String(base) : `${base}/`;
 const href = (path) => `${normalizedBase}${path}`.replace(/\/{2,}/g, '/');
-const links = [
-  { key: 'about', label: 'About', href: href('introduction/') },
-  { key: 'lens', label: 'Lens', href: href('lens/') },
-  { key: 'episodes', label: 'Episodes', href: href('episodes/') },
-  { key: 'agent', label: 'Agent', href: href('use-with-your-agent/') },
-];
+const navPath = (item) => {
+  const path = item.link ?? `/${item.slug}/`;
+  return path === '/' ? '' : String(path).replace(/^\/+/, '');
+};
+const itemHref = (item) => href(navPath(item));
+const itemKey = (item) => {
+  if (item.key) return item.key;
+  if (item.link === '/') return 'home';
+  if (item.link === '/episodes/') return 'episodes';
+  if (item.slug === 'introduction') return 'about';
+  if (item.slug === 'lens') return 'lens';
+  if (item.slug === 'use-with-your-agent') return 'agent';
+  return item.slug ?? item.link;
+};
+const isCurrentItem = (item) => current === itemKey(item);
+const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
+  ...item,
+  href: itemHref(item),
+}));
 ---
 
 <header
@@ -51,6 +66,70 @@ const links = [
       <path class="octo-body" d="M115 115s4 2 5 0l14-14c3-2 6-3 8-3-8-11-15-24 2-41 5-5 10-7 16-7 1-2 3-7 12-11 0 0 5 3 7 16 4 2 8 5 12 9s7 8 9 12c14 3 17 7 17 7-4 8-9 11-11 11 0 6-2 11-7 16-16 16-30 10-41 2 0 3-1 7-5 11l-12 11c-1 1 1 5 1 5z"></path>
     </svg>
   </a>
+  {showMobileMenu && (
+    <>
+      <button class="site-mobile-toggle" type="button" aria-expanded="false" aria-controls="starlight__sidebar" aria-label="Menu" data-site-menu-toggle>
+        <svg class="site-mobile-open" aria-hidden="true" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M3 8h18a1 1 0 1 0 0-2H3a1 1 0 0 0 0 2Zm18 8H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2Zm0-5H3a1 1 0 0 0 0 2h18a1 1 0 0 0 0-2Z"></path>
+        </svg>
+        <svg class="site-mobile-close" aria-hidden="true" viewBox="0 0 24 24" fill="currentColor">
+          <path d="m13.41 12 6.3-6.29a1.004 1.004 0 1 0-1.42-1.42L12 10.59l-6.29-6.3a1.004 1.004 0 0 0-1.42 1.42l6.3 6.29-6.3 6.29a1 1 0 0 0 0 1.42.998.998 0 0 0 1.42 0l6.29-6.3 6.29 6.3a.999.999 0 0 0 1.42 0 1 1 0 0 0 0-1.42L13.41 12Z"></path>
+        </svg>
+      </button>
+      <aside class="site-mobile-menu" id="starlight__sidebar" aria-label="Site navigation" data-site-menu>
+        <div class="site-mobile-content">
+          <ul class="site-sidebar-list top-level">
+            {starlightSidebar.map((group) => (
+              <li>
+                <details open>
+                  <summary>
+                    <span class="group-label">
+                      <span class="large">{group.label}</span>
+                    </span>
+                    <svg class="site-caret" aria-hidden="true" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="m14.83 11.29-4.24-4.24a1 1 0 1 0-1.42 1.41L12.71 12l-3.54 3.54a1 1 0 0 0 0 1.41 1 1 0 0 0 .71.29 1 1 0 0 0 .71-.29l4.24-4.24a1.002 1.002 0 0 0 0-1.42Z"></path>
+                    </svg>
+                  </summary>
+                  <ul class="site-sidebar-list nested">
+                    {group.items.map((item) => (
+                      <li>
+                        <a href={itemHref(item)} aria-current={isCurrentItem(item) ? 'page' : undefined}>
+                          <span>{item.label}</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </aside>
+      <script>
+        const menuButton = document.querySelector('[data-site-menu-toggle]');
+        const menuHeader = menuButton?.closest('.site-header');
+        const menuCloseTargets = document.querySelectorAll('[data-site-menu] a');
+
+        function setSiteMenu(open) {
+          menuHeader?.toggleAttribute('data-site-mobile-menu-open', open);
+          document.body.toggleAttribute('data-mobile-menu-expanded', open);
+          menuButton?.setAttribute('aria-expanded', String(open));
+        }
+
+        menuButton?.addEventListener('click', () => {
+          setSiteMenu(!menuHeader?.hasAttribute('data-site-mobile-menu-open'));
+        });
+
+        menuCloseTargets.forEach((target) => {
+          target.addEventListener('click', () => setSiteMenu(false));
+        });
+
+        document.addEventListener('keydown', (event) => {
+          if (event.key === 'Escape') setSiteMenu(false);
+        });
+      </script>
+    </>
+  )}
 </header>
 
 <style>
@@ -88,6 +167,7 @@ const links = [
   .brand-mark {
     width: 34px;
     height: 34px;
+    box-sizing: border-box;
     display: block;
     flex: 0 0 auto;
     border: 1px solid var(--line-strong, rgba(244, 234, 216, 0.28));
@@ -182,28 +262,206 @@ const links = [
   }
 
   @media (max-width: 720px) {
-    .site-nav {
-      width: min(calc(100% - var(--header-mobile-gutter, 28px)), var(--header-max-width, 1360px));
-      min-height: auto;
-      align-items: flex-start;
-      flex-direction: column;
-      padding: 14px 0;
+    .site-header {
+      position: sticky;
+      top: 0;
     }
 
-    .github-corner svg {
-      width: 46px;
-      height: 46px;
+    .site-nav {
+      width: min(calc(100% - var(--header-mobile-gutter, 28px)), var(--header-max-width, 1360px));
+      min-height: 64px;
+      align-items: center;
+      flex-direction: row;
+      padding: 0;
+    }
+
+    .brand {
+      gap: 10px;
+      color: var(--sl-color-white, #f4ead8);
+      font-size: 0.98rem;
     }
 
     .nav-links {
-      display: grid;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-      width: 100%;
-      margin-right: 0;
+      display: none;
     }
 
-    .nav-links a {
-      text-align: center;
+    .github-corner {
+      display: none;
+    }
+
+    .site-mobile-toggle {
+      position: fixed;
+      top: 13px;
+      right: 16px;
+      z-index: 180;
+      width: 32px;
+      height: 32px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: 0;
+      border-radius: 999px;
+      padding: 8px;
+      background: var(--sl-color-white, #f4ead8);
+      color: var(--sl-color-black, #090a08);
+      box-shadow: var(
+        --sl-shadow-md,
+        0px 8px 4px hsla(0, 0%, 0%, 0.08),
+        0px 5px 2px hsla(0, 0%, 0%, 0.08),
+        0px 3px 2px hsla(0, 0%, 0%, 0.08),
+        0px 1px 1px hsla(0, 0%, 0%, 0.08)
+      );
+      cursor: pointer;
+    }
+
+    .site-mobile-open,
+    .site-mobile-close {
+      width: 1em;
+      height: 1em;
+      display: block;
+      flex-shrink: 0;
+      font-size: 16px;
+    }
+
+    .site-mobile-close {
+      display: none;
+    }
+
+    [data-site-mobile-menu-open] .site-mobile-toggle {
+      background: var(--sl-color-gray-5, #38362f);
+      color: var(--sl-color-white, #f4ead8);
+      box-shadow: none;
+    }
+
+    [data-site-mobile-menu-open] .site-mobile-open {
+      display: none;
+    }
+
+    [data-site-mobile-menu-open] .site-mobile-close {
+      display: block;
+    }
+
+    .site-mobile-menu {
+      position: fixed;
+      top: 64px;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 160;
+      width: 100vw;
+      height: calc(100dvh - 64px);
+      box-sizing: border-box;
+      visibility: hidden;
+      background: var(--sl-color-black, #090a08);
+      color: var(--sl-color-gray-2, #c9bda9);
+      overflow-y: auto;
+    }
+
+    [data-site-mobile-menu-open] .site-mobile-menu {
+      visibility: visible;
+    }
+
+    .site-mobile-content {
+      min-height: max-content;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem 1rem 0;
+    }
+
+    .site-sidebar-list {
+      --site-sidebar-item-padding-inline: 0.5rem;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .site-sidebar-list li {
+      overflow-wrap: anywhere;
+    }
+
+    .site-sidebar-list.top-level > li + li {
+      margin-top: 0.75rem;
+    }
+
+    .site-sidebar-list.nested li {
+      margin-inline-start: var(--site-sidebar-item-padding-inline);
+      border-inline-start: 1px solid var(--sl-color-hairline-light, rgba(244, 234, 216, 0.14));
+      padding-inline-start: var(--site-sidebar-item-padding-inline);
+    }
+
+    .site-sidebar-list summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.2em var(--site-sidebar-item-padding-inline);
+      line-height: 1.4;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .site-sidebar-list summary::marker,
+    .site-sidebar-list summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .site-sidebar-list .large {
+      color: var(--sl-color-white, #f4ead8);
+      font-size: var(--sl-text-lg, 1.125rem);
+      font-weight: 600;
+    }
+
+    .site-caret {
+      flex: 0 0 auto;
+      width: 1.25rem;
+      height: 1.25rem;
+      display: block;
+      color: inherit;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .site-sidebar-list details[open] > summary .site-caret {
+      transform: rotate(90deg);
+    }
+
+    .site-sidebar-list a {
+      display: block;
+      border-radius: 0.25rem;
+      padding: 0.3em var(--site-sidebar-item-padding-inline);
+      color: var(--sl-color-gray-2, #c9bda9);
+      line-height: 1.4;
+      text-decoration: none;
+    }
+
+    .site-sidebar-list a:hover,
+    .site-sidebar-list a:focus-visible {
+      color: var(--sl-color-white, #f4ead8);
+      outline: none;
+    }
+
+    .site-sidebar-list a[aria-current="page"],
+    .site-sidebar-list a[aria-current="page"]:hover,
+    .site-sidebar-list a[aria-current="page"]:focus-visible {
+      background: var(--sl-color-text-accent, #c9a765);
+      color: var(--sl-color-text-invert, #090a08);
+      font-weight: 600;
+    }
+  }
+
+  @media (min-width: 721px) {
+    .site-mobile-toggle,
+    .site-mobile-menu {
+      display: none;
+    }
+  }
+
+  :global(body[data-mobile-menu-expanded]) {
+    overflow: hidden;
+  }
+
+  @media (max-width: 720px) {
+    .site-header:not(:has(.site-mobile-toggle)) .site-nav {
+      padding-right: 54px;
     }
   }
 </style>
