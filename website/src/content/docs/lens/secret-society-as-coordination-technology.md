@@ -11,6 +11,20 @@ The source trail is controversial, and the page has to be read carefully. Jiang 
 
 The mechanism has several layers. A secret society can bind members through secrecy, hierarchy, transgression, blackmail, oath, myth, and shared eschatology. It can move through a bureaucracy because bureaucracy is siloed while the network crosses silos. It can support mobile capital because capital that leaves place still needs trust among people who may not share family, nation, or public law. And it can avoid the weakness of explicit conspiracy when a shared script lets actors move in the same direction without admitting that they are coordinating.
 
+## The Anti-Conspiracy Guardrail
+
+The page also needs a guardrail. Jiang's model is not "everything is a perfect conspiracy." Several sources work in the opposite direction: they reject the fantasy of a single, competent command center and ask what weaker mechanism is actually coordinating the scene.
+
+The **2025-08-08** Canada lecture gives the bluntest correction. Jiang rejects a replacement-conspiracy explanation for Canadian immigration by saying that [if the people in charge were that smart and organized, the world would not look this broken]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0009 video:predictive-history-e83dpuyvpim@transcript:v1#seg-0010"}. In that case, the active mechanism is not hidden mastery. It is incompetent elites choosing the lowest-resistance growth lever inside gerontocratic and national constraints.
+
+The **2025-07-11** game-theory lecture gives the cleaner coordination form. Four factions can push toward war without meeting in a bunker because [their separate incentives point toward the same project]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0002 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0003"}. The **2026-04-09** midterm source then makes the same limit explicit inside the secret-society model: agents may look like puppets, but [the system is dynamic, fluid, and not top-down]{evidence="video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0013 video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0014"}. The **2026-03-19** Israel source adds another correction: a supposed unified conspiracy can dissolve into old factional infighting when the actual source shows [division rather than secret unity]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0026"}.
+
+<!-- lens-point id="secret-society-guardrail-against-master-plan" concept="secret-society-coordination" evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0009 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0003 video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0014 video:predictive-history-noqqgy4boby@transcript:v1#seg-0026" -->
+<span id="secret-society-guardrail-against-master-plan" class="lens-point-anchor"></span>
+The secret-society lens needs an anti-master-plan guardrail: apparent coordination may come from incompetence, factional infighting, incentive alignment, self-interested agents, or shared stories rather than from a single hidden command center.
+
+This guardrail does not weaken the page. It makes the diagnostic sharper. Use the secret-society lens when secrecy, trust, layered worlds, transgression, mobile capital, bureaucracy, or script-mediated coordination is doing real work. Do not use it when the better explanation is ordinary incompetence, local payoff, visible factional rivalry, bureaucratic inertia, or a story that aligns actors who may never need to speak.
+
 ## Why Secrecy Is Not Enough
 
 Jiang's cleanest model appears in the **2025-10-17** Secret History lecture on conspiracy. He asks two practical questions: [how secret societies keep everyone quiet, and how they exert power]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0038"}. The answer is not "because they are invisible." Invisibility alone would make them brittle. The stronger answer is structure.
@@ -89,14 +103,19 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 - **Bureaucracy Test**: Is a public institution too siloed to coordinate itself, while an informal network can coordinate across its departments?
 - **Mobility Test**: If capital leaves place, what trust machinery lets it keep moving, pooling, and recognizing partners?
 - **Script Test**: Does the group need explicit command, or does a shared eschatology, prophecy, myth, or mission already make separate actors audition for compatible roles?
+- **Guardrail Test**: Is the page naming a real coordination technology, or would incompetence, factional rivalry, incentive convergence, or non-top-down game motion explain the scene better?
 - **Attribution Test**: Is the claim being used as Jiang's model of coordination, or being smuggled in as verified external history? If the latter, the page is being misused.
 
 ## Chronology
 
+- **2025-07-11**, [Geo-Strategy Update #5: The Universal Law of Game Theory](/episodes/predictive-history-5i2vpypjj68/): Jiang says factions can work together without a literal bunker meeting when separate motives point them toward the same road.
 - **2025-08-01**, [Geo-Strategy Update #7: When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/): Jiang names end-times stories as scripts that create unconscious coordination, secrecy, deniability, and frictionless cooperation.
+- **2025-08-08**, [Geo-Strategy Update #8: Why the West is Doomed](/episodes/predictive-history-e83dpuyvpim/): Jiang rejects a competent replacement-conspiracy explanation for Canadian immigration and routes the policy to elite incompetence and low-resistance growth.
 - **2025-10-17**, [Secret History #10: The Conspiracy of Evil](/episodes/predictive-history-ihh1fdw4-ca/): The strongest organizational model appears: layers, need-to-know knowledge, incentives, blackmail, transgression, confirmation bias, and cross-bureaucratic coordination.
 - **2025-12-09**, [Secret History #25: Capital of Evil](/episodes/predictive-history-b5fthagng8c/): Secret societies become the trust machinery of mobile capital, and ritual becomes a way to displace responsibility for acts individuals could not bear alone.
 - **2025-12-18**, [Secret History #END: Pax Judaica](/episodes/predictive-history-wfwizn3qopg/): Jiang presents the most caveated version of the conspiracy model: a theory that cannot be proved, but that he treats as useful if it connects past, explains present, and predicts future.
+- **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/): Jiang rejects a unified Jewish-conspiracy reading of Israel by emphasizing old factional division and internal conflict.
+- **2026-04-09**, [Game Theory #20: Mid-Term Examination](/episodes/predictive-history-ue8y5e3hnhe/): Jiang complicates the puppet-master model: agents, secret societies, and myths form a dynamic game rather than a top-down system.
 
 ## Related Concepts
 
