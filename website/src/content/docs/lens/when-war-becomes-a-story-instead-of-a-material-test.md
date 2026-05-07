@@ -15,6 +15,20 @@ That is why this page belongs beside [How Stories Control Reality](/lens/how-sto
 <span id="strategy-material-test-three-constraints" class="lens-point-anchor"></span>
 Strategy passes the material test only when its story can survive economics, organization, and logistics: cost, executable structure, supply, endurance, and replacement capacity.
 
+## Military Form Makes Political Form
+
+The April 10, 2025 gunpowder lecture gives the deeper historical rule behind the material test. Jiang starts before modern air power or Iran-war systems and says [the nature of the military determines the nature of the political system]{evidence="video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0003"}. A hoplite farmer, a rower, a cavalry noble, a replenishable Roman legionary, a Viking raider, a steppe archer, a knight, and a cannon do not require the same world. Each war form asks for a different economy, hierarchy, training regime, and political body.
+
+Gunpowder turns that rule into a whole-society test. Constantinople's walls had made Byzantine power feel materially permanent until Ottoman cannons made the wall a solvable problem. The point is not that a better weapon simply wins. Jiang's sharper claim is that [gunpowder needs organization]{evidence="video:predictive-history-dirjyy-8v54@transcript:v1#seg-0010"}: mass armies, taxation, conscription, material supply, specialists, industry, research, bureaucracy, and military hierarchy. A society that cannot reorganize those layers may possess the technology without becoming the dominant war form.
+
+That is why the lecture's ugly sentence belongs on this page: a whole-society approach means [all resources are directed to the use of gunpowder in battle]{evidence="video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043"}. The cannon points at a wall, but the test falls backward onto the society firing it. Can the state tax? Can it conscript? Can towns produce sulfur, saltpeter, iron, foundries, and laboratories? Can scientists refine the weapon? Can schools and drill make bodies move together under fire? Can elites survive losing power to bureaucrats, merchants, and technical specialists?
+
+<!-- lens-point id="strategy-war-form-demands-society" concept="strategy-material-test" evidence="video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0010 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0014 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0041 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0042 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0045" -->
+<span id="strategy-war-form-demands-society" class="lens-point-anchor"></span>
+A war form passes the material test only when society can become the machine the weapon requires: taxation, conscription, supply, specialists, industry, research, bureaucracy, hierarchy, and trained bodies all have to fit the way of fighting.
+
+This section stays inside strategy because the active question is whether a military form is materially executable. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the later scale machinery of population, school, welfare, industry, and war. [Education As A Soul Game](/lens/education-as-a-soul-game/) owns what schooling does to the person. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns the mature monopoly that protects hierarchy and can suppress innovation. [The Borderland Engine](/lens/the-borderland-engine/) owns the older margin advantage of hunger, openness, and motion. Strategy owns the test: the weapon is only real when the social order can carry it.
+
 ## The Three Material Tests
 
 The three tests are deliberately unromantic.
@@ -169,6 +183,8 @@ In **June 2024**, the Putin lecture defines overextension, debt, and civil disco
 
 In **November 2024**, the Rome lecture gives the ancient countercase: a story of no surrender can become real material endurance when institutions and manpower can carry it.
 
+In **April 2025**, the gunpowder lecture gives the older structural rule: military form determines political form, and effective gunpowder warfare requires a whole-society transformation before the weapon can become world conquest.
+
 In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
 In **August 2025**, the eschatology convergence update adds the hybrid-war layer: modern war may begin through unseen media, cyber, psychological, covert, economic, and infrastructure pressure against the state-population bond before open battlefield defeat.
@@ -202,6 +218,12 @@ In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pen
   `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005`  
   `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0015`  
   `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016`
+
+- **2025-04-10**, [Turn Society Into The Cannon](/episodes/predictive-history-dirjyy-8v54/)
+  Gunpowder shows that a military form becomes a social demand: taxation, conscription, material supply, specialists, industry, research, bureaucracy, hierarchy, and trained bodies all have to support the way of fighting.
+  `video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001`
+  `video:predictive-history-dirjyy-8v54@transcript:v1#seg-0041`
+  `video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043`
 
 - **2025-06-22**, [Escalation Dominance Becomes The Trap](/episodes/predictive-history-n4cs-8mrp-s/)
   Escalation dominance can force the hegemon into reactions that preserve reputation while serving the weaker actor's calibrated trap.
