@@ -1,8 +1,10 @@
 # Middle-Class Anxiety As Status Discipline
 
 Date: 2026-05-07
-Status: proposed lens seed
+Status: reviewed proposal seed
 Work type: proposal synthesis
+
+Review: `content/workflow/reviews/middle-class-anxiety-as-status-discipline/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
