@@ -91,6 +91,20 @@ The lecture's death reversal sharpens the same mechanism. In the real world, dea
 
 That discomfort is part of the concept. If the idea becomes only "modern media distracts us," it loses Jiang's pressure. The deeper claim is that the dead world survives because people keep choosing the familiar lie, and because telling them so may make them hate the person who tries to free them.
 
+## Death Fear Enforces The Machine
+
+The later **2025-10-15** "theory of everything" lecture intensifies the death claim into a control mechanism. Jiang's cosmology is speculative and deliberately mythic, but the lens point is precise: power does not only build a false material world. It has to make people afraid to leave it.
+
+In that source, heaven is spiritual consciousness and hell is mechanical machine. The actors who choose hell gain technology, conquest, and control, but control still needs obedience. Jiang's next step is the enforcement layer: [obedience requires fear of death]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0046"}. If death is only a transition, release, or return, the machine loses leverage. The person who knows that "none of this matters" cannot be governed by the threat that ordinary life might end.
+
+The dead world therefore has to invert death. It teaches the person to forget God, forget the spiritual world, and treat death as the worst possible loss. Science, technology, money, and power can then appear as salvation because they promise continued material existence rather than liberation from the machine. Jiang's sharpest modern image is transhumanism: [not salvation from death but an attempt to defeat death by uploading the brain to the internet and trapping the person here forever]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0047"}.
+
+<!-- lens-point id="dead-world-death-fear-enforces-machine" concept="dead-world-cave" evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0046 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0047 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0051 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0061" -->
+<span id="dead-world-death-fear-enforces-machine" class="lens-point-anchor"></span>
+Death fear enforces the dead world when power teaches people that material life is the only real world, the spiritual world is false, and death is the worst possible loss; obedience then becomes rational because the machine appears to be protecting life itself.
+
+This belongs here rather than on the eschatology page because the active mechanism is not role assignment inside an end-time script. It is ontology enforcement. Eschatology owns the heaven/hell script when it coordinates actors; the dead world owns the prior inversion that makes the material surface feel like the only reality worth preserving. It also borders [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/): God does not simply rescue people from the machine because, in Jiang's frame, the test is whether human beings will choose the real world when the cave makes material survival feel sacred.
+
 ## Pain Gives Meaning Weight
 
 The final audience question prevents the page from treating escape as a clean movement from pain into comfort. Someone asks about the subjective feeling of pain in reality. Jiang's answer is not that pain proves the material world is finally real. He says bodies and pain exist because [the universe is constructed to promote imagination]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0046"}. To vibrate more is to imagine more; without pain, suffering, loss, or evil, [nothing would ever have any meaning]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0046"}.
@@ -150,6 +164,7 @@ Use this lens when a surface starts acting like reality itself.
 - **Wall**: Which screen, school, platform, ritual, story, or authority is deciding where attention goes?
 - **Energy Capture**: Who benefits when attention is focused there, and what reality is imagination being asked to build?
 - **Chosen Slavery**: What fear makes the familiar lie preferable: isolation, ridicule, parental rejection, poverty, status loss, or the loss of a planned future?
+- **Death Fear**: Who needs people to believe death is the worst possible loss, and what machine becomes necessary once that belief is installed?
 - **Pain Test**: Is suffering being used to seal the cave through fear, or to focus imagination and make goodness, freedom, and meaning costly enough to become real?
 - **Truth Test**: Would people welcome the person who names the cave, or punish that person for making the lie visible?
 - **Escape Practice**: What discipline retunes attention: breath, meditation, sacrifice, a rival book-universe, or love as unification with God rather than comfort?
