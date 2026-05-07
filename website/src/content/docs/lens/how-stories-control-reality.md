@@ -13,7 +13,7 @@ Control, here, means world-setting. A story selects what matters, what counts as
 
 The strongest version is not that people are passive victims of stories. It is almost the opposite. In the Plato material, [the prisoners are the ones with the capacity to create reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. Jiang's line is stranger and more dangerous: [we are the ones with the power of God, the ones with imagination]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. The danger is that this power can be recruited. If attention is captured, imagination can be focused; if imagination is focused, people can help build the world that confines them.
 
-The source trail runs from the July 2025 game-theory lecture on story as coordination through Literary Genesis on scripture as living memory, Plato's cave and attention capture, Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
+The source trail runs from the December 2024 David lecture on literature solving legitimacy, identity, and differentiation through the July 2025 game-theory lecture on story as coordination, Literary Genesis on scripture as living memory, Plato's cave and attention capture, Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Aeneid as anti-Homer, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
 
 ## The Mechanism
 
@@ -42,6 +42,20 @@ That is story control, but not simple capture. The story controls reality by ins
 A story outgrows propaganda when it becomes living memory: readers reconstruct its gaps, argue with its authority, carry its characters inward, and use the inherited narrative to practice judgment rather than mere obedience.
 
 The Bathsheba and Uriah material keeps the ambivalence visible. Jiang still reads the story as spin: political killing is redirected into a safer moral failure. But even that conversion becomes more than disposable manipulation. The closing formula says the first Bible may be propaganda, yet the Yahwist uses the occasion to make [beautiful stories that become living entities, living memories, and the fuel of Jewish imagination]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0073"}. That is one of the reasons story control cannot be reduced to propaganda studies. A story may be born from power, preserve power's evasions, and still become a school for self-reflection that later readers can turn back against power.
+
+## The Story That Enters As A Trojan Horse
+
+The Aeneid material adds a darker version of internalization. In the **2024-12-05** David lecture, Jiang briefly names the Roman case while explaining why kings need stories for legitimacy, identity, and differentiation. The Aeneid does not only give Augustus descent from Aeneas or make Rome's history feel providential. It also warns Rome that [Greek culture is like a Trojan horse: let it into the city and it will corrupt and destroy you]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0039"}.
+
+The **2026-03-18** Great Books lecture makes the mechanism explicit. Rome has conquered Greece physically, but Greek culture still threatens to conquer Rome spiritually. Homer already lives in memory; educated people have memorized the poems. So the counter-story cannot simply burn Homer. Jiang's harsh formulation is that Rome has to [corrupt Homer by making the Aeneid an anti-Homer, an inversion of Homer]{evidence="video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0003"}. Story control here works by entering the inherited story-world and reversing its moral charge from inside.
+
+<!-- lens-point id="stories-trojan-horse-inverts-inherited-world" concept="story-control" evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0039 video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0003 video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0005 video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0012" -->
+<span id="stories-trojan-horse-inverts-inherited-world" class="lens-point-anchor"></span>
+A story becomes Trojan-horse control when power cannot erase an inherited world, so it enters through familiar beauty, trust, or education and reverses that world's moral charge until the old virtues feel dangerous.
+
+This is not only censorship. The anti-Homer keeps the scenes and changes what they teach. Aeneas tells Dido the fall of Troy beautifully while making Greek values look duplicitous; Jiang says the story will show [why Homer's values are evil, why love is evil, and why love leads to tragedy]{evidence="video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0005"}. The wooden horse becomes the model. Greek theater, philosophy, rhetoric, poetry, and clever speech are not treated as civilizational gifts. They are recoded as infiltrating crafts. Sinon is [trained in theater, philosophy, and rhetoric, and uses those skills to deceive the good but naive Trojans]{evidence="video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0012"}.
+
+That makes this a Stories Control mechanism rather than only a Poetry or Guide Trap mechanism. [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) owns the broader claim that language, rhythm, memory, and performance build civilizations. [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) owns Virgil as the necessary guide whose world Dante must release. [Legitimacy Fiction](/lens/legitimacy-fiction/) owns the imperial authorization layer. This page owns the inversion layer: a story can conquer an existing world by inhabiting its images, then teaching readers to feel that mercy is stupidity, love is poison, Greek freedom is deception, and obedience to empire is heaven.
 
 ## The Story That Coordinates Without Orders
 
@@ -149,11 +163,13 @@ This gives the concept a diagnostic edge. A story controls reality not only when
 
 ## Chronology So Far
 
+- **2024-12-05**, [Civilization #21](/episodes/predictive-history-rkpgrrugjnk/): The Roman Aeneid example appears inside the legitimacy/identity/differentiation model. A story can warn that [a rival culture is a Trojan horse that will corrupt the city from inside]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0039"}.
 - **2025-07-11**, [Geo-Strategy Update #5](/episodes/predictive-history-5i2vpypjj68/): Story becomes the strategic coordination layer. A powerful story can [frame the world as a script for behavior]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0017"} and make believers try [to bring the story into reality]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0021"}.
 - **2025-11-12**, [Secret History #17: Literary Genesis](/episodes/predictive-history-plmnq44tbg0/): Scripture adds the living-memory layer. A political text can begin as legitimacy work and still train readers to [argue, reconstruct, and carry living stories inside themselves]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0035 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0073"}.
 - **2026-01-07**, [Great Books #1](/episodes/predictive-history-tsd-8fga84a/): Plato's cave becomes the attention model. The prisoners are not inert; [their captured imagination can be focused into a constructed reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}.
 - **2026-01-14**, [Great Books #2](/episodes/predictive-history-ft2cuowguyc/): Homer makes the mechanism interpersonal. Agamemnon and Achilles use speech as [a battle of worldviews]{evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0010"} that can overpower survival.
 - **2026-01-21**, [Great Books #3](/episodes/predictive-history-xrp407wsa0w/): Odysseus makes the mechanism technical. Speech projects a world, poetry makes it memorable, and [language lets people create a collective reality together]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}.
+- **2026-03-18**, [Great Books #7](/episodes/predictive-history-ebwtrvjz1dw/): The anti-Homer lecture adds the Trojan-horse inversion. When Homer already lives in memory, Rome cannot simply destroy him; it can [imitate and invert him until love, mercy, and Greek culture feel like danger]{evidence="video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0003 video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0005 video:predictive-history-ebwtrvjz1dw@transcript:v1#seg-0012"}.
 - **2026-04-07**, [Game Theory #19](/episodes/predictive-history-0hyet47cc-e/): The Hollywood-Pentagon case tests the mechanism against war. Narrative can feed back into institutions until [a tremendous failure is told as a great success]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0047"}.
 - **2026-04-08**, [Great Books #9](/episodes/predictive-history-6m1z-v3wgok/): Dante darkens the concept. Guidance itself can carry a world, and [obedience can become desire]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031"}.
 
@@ -163,6 +179,7 @@ Use this lens when a story seems to be doing more than describing events.
 
 - **Attention**: What does the story force everyone to look at, and what falls outside the frame?
 - **World**: What scene does it project: who are the heroes, enemies, victims, judges, fathers, guides, or traitors?
+- **Inversion**: Does the story have to destroy a rival world, or does it enter that world and teach people to feel its old virtues as danger?
 - **Coordination**: Does it make people move together without a meeting, command, or explicit conspiracy?
 - **Desire**: What does the story make people want, fear, admire, obey, or feel ashamed to refuse?
 - **Material Test**: What would economics, organization, logistics, or other hard constraints say if the story were set aside?
