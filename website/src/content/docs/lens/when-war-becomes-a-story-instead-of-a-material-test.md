@@ -37,6 +37,14 @@ Chokepoint empire appears when reserve-currency power weakens and imperial strat
 
 The counterstrategy is also material. Jiang does not imagine a weaker actor needing to defeat the U.S. Navy in a decisive battle. It can create a war of attrition in the oceans, forcing old ships, tired sailors, costly repairs, and maintenance limits into constant contact until [naval capacity degrades over time]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012"}. That belongs on this page because it is the same rule as economics, organization, and logistics: the story of control has to pass through ships, crews, repair yards, geography, and time.
 
+The March 2026 U.S.-Iran lecture gives the chokepoint layer a harsher systems test. Jiang treats the Strait of Hormuz as [the nexus and pivot of the world]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011"} because the gate does not carry only one commodity. [Oil leaves through it for Asian economies; food comes back to the Gulf]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0012"}; [dollar demand depends on oil being priced through the GCC]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013"}; and [Gulf surpluses recycle into American financial markets]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038"}. If the strait closes, the pressure moves at once through energy, food, currency, market liquidity, and alliance decisions.
+
+<!-- lens-point id="strategy-strait-pivots-system" concept="strategy-material-test" evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0012 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0015 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0016 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0020 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0021 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0039" -->
+<span id="strategy-strait-pivots-system" class="lens-point-anchor"></span>
+A strait becomes a system pivot when one narrow passage carries several dependencies at once: energy outward, food inward, dollar demand, financial recycling, military credibility, and the survival costs of exposed client states.
+
+This is why Jiang can connect Dubai's safety premium, desalination plants, the petrodollar, AI stocks, and [European energy access]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0041"} without treating them as separate topics. The material test is not only whether ships can pass. It is whether an empire's financial and military story still works when the passage that makes it feel normal becomes a target. American bases in this model become part of the same vulnerability: Jiang says they impose authority and create an [aura of invincibility]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0020 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0021"}, but if they cannot defend the host economy, their presence gives the weaker actor a pretext to attack the system the bases are supposed to stabilize.
+
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
 ## Four-Dimensional War
@@ -147,6 +155,8 @@ In **November 2024**, the Rome lecture gives the ancient countercase: a story of
 
 In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
+In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
+
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
 ## Source Trail
@@ -180,6 +190,12 @@ In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pen
   `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0006`
   `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0007`
   `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0008`
+
+- **2026-03-03**, [The World Pivot Is A Strait](/episodes/predictive-history-jis2eb-rgv0/)
+  Hormuz is a system pivot because energy, food, dollar demand, Gulf investment, and American military credibility all pass through the same narrow geography.
+  `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011`
+  `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013`
+  `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038`
 
 - **2026-03-10**, [Control Beats Dominance](/episodes/predictive-history-fz-dan7nrss/)  
   Escalation is won by calibration and strategic flexibility, not by possessing the strongest weapon.  
