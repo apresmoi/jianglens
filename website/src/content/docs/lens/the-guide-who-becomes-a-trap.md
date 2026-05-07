@@ -13,7 +13,7 @@ The trap is not ordinary hypocrisy. It is metaphysical mediation. A guide does n
 
 Here, **guide** means a voice that offers orientation when the soul cannot orient itself. **Trap** means the hidden world carried inside that orientation: the assumptions about love, will, God, duty, memory, and deserved suffering that the guide makes feel natural. The guide "becomes" a trap when the rescue works well enough that the person stops asking what the rescuer's language has installed.
 
-This page is grounded chiefly in Jiang's April 8, 2026 lecture, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/). It follows Jiang's gloss of Dante and Virgil; when the page refers to quoted Dante passages or to Virgil's literary world, it marks that distinction rather than treating the quotation as Jiang's own claim.
+This page is grounded chiefly in Jiang's January 14, 2025 lecture, [Civilization #30: Dante as the Second Coming of Homer](/episodes/predictive-history-asbkjezwijm/), and his April 8, 2026 lecture, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/). It follows Jiang's gloss of Dante and Virgil; when the page refers to quoted Dante passages or to Virgil's literary world, it marks that distinction rather than treating the quotation as Jiang's own claim.
 
 ## The Necessary Danger
 
@@ -105,6 +105,22 @@ This matters because Virgil's self-explanation is another guided speech. He tell
 
 Jiang does not let that story stand. The suspicion is not that Virgil lacks greatness. It is that greatness can become an alibi. The guide who can name the structure of hell may still misname his own attachment to it. He can call preference misfortune. He can call chosen longing an accident of birth. He can turn his refusal of God into a tragic administrative problem.
 
+## The Surgical Release
+
+The earlier Civilization lecture shows why Dante cannot simply denounce Virgil. Virgil is already inside educated Europe. Jiang says [educated people memorized Virgil and carried him as habit and custom]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0003 video:predictive-history-asbkjezwijm@transcript:v1#seg-0006"}. A direct attack on that mental furniture would leave the old master in place. Dante therefore has to work inside the reader's attachment.
+
+That is the surgical layer of the guide-trap. Dante [makes Virgil father, guide, narrator, and hero]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0007 video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"} before the poem lets the contradictions accumulate. The guide's limbo rule fails before Cato; the guide tries to use Cato's wife as leverage; the guide cannot teach love because [Virgil's model turns the real woman into a fantasy to control]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0023 video:predictive-history-asbkjezwijm@transcript:v1#seg-0024"}.
+
+Statius makes the wound visible. He is a Roman epic poet who loves Virgil and [should, by Virgil's own rule, remain excluded]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0037"}. Yet [Statius can ascend because he wants to]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0038"}. The contrast is not talent, chronology, or literary greatness. It is willingness to admit error and be changed. Virgil's greatness becomes the thing he defends against transformation.
+
+The final break comes when Beatrice appears. Dante turns toward the father-guide to share joy, but [Virgil runs away at the moment his task is complete]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0039 video:predictive-history-asbkjezwijm@transcript:v1#seg-0040"}. Jiang's verdict is brutal: [Virgil would rather burn in hell forever than admit he is wrong]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0041"}. Beatrice's answer is not a rescue mission. Let him go.
+
+<!-- lens-point id="guide-trap-surgical-release" concept="guide-becomes-trap" evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0007 video:predictive-history-asbkjezwijm@transcript:v1#seg-0008 video:predictive-history-asbkjezwijm@transcript:v1#seg-0038 video:predictive-history-asbkjezwijm@transcript:v1#seg-0041 video:predictive-history-asbkjezwijm@transcript:v1#seg-0042" -->
+<span id="guide-trap-surgical-release" class="lens-point-anchor"></span>
+A guide-trap sometimes has to be released surgically. The poem first makes the guide lovable and necessary, then exposes the contradictions until the reader can let go of the guide who would rather keep hell than admit error.
+
+This does not contradict the earlier claim that a guide can be necessary. It completes it. A necessary guide may bring the soul to the threshold, but the threshold is also where dependency must end. The test is whether the guide can rejoice when another light arrives, or whether he disappears because his world cannot survive being corrected.
+
 ## Minos And The Warning Against Trust
 
 Minos gives the page its clearest diagnostic.
@@ -149,13 +165,16 @@ The fourth sign is trained desire. The trap is complete only when the soul wants
 
 The fifth sign is memory loss. The guide's authority includes omissions. Dido is not only condemned; she is unnamed. Liberation begins when the reader notices the silence and restores the erased figure to memory.
 
+The sixth sign is failed release. A guide may be able to walk with the soul until Beatrice, Statius, Cato, Dido, or another contradiction exposes what the guide cannot admit. The question then changes from "Can this guide help me?" to "Can I let the guide go when his world can no longer hold truth?"
+
 This is why the concept should not be flattened into a general suspicion of teachers, experts, or institutions. Jiang's reading is more exact and more severe. The question is not "who has authority?" The question is: What world does this guide's speech reveal, and what does my trust in the guide cause me to desire?
 
 ## Chronology So Far
 
-The current evidence for this concept is concentrated in one dated source, so the chronology preserves the lecture's internal development rather than pretending there is already a cross-episode evolution.
+The current evidence for this concept runs through two Dante lectures. The January source gives the repair technique: Dante has to loosen Virgil's hold from inside the reader's love. The April source gives the descent mechanics: the guide's speech, authority, memory, and desire show why that release is necessary.
 
-- **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): The lecture gives the core mechanism. Dante must [enter Inferno and confront Virgil's Aeneid-world before reaching paradise]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007"}.
+- **2025-01-14**, [Civilization #30: Dante as the Second Coming of Homer](/episodes/predictive-history-asbkjezwijm/): The lecture gives the surgical release layer. Dante [makes Virgil father, guide, narrator, and hero]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0007 video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"}, then the poem shows that [Statius can ascend because he wants to]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0038"} while Virgil [would rather burn in hell forever than admit error]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0041"}.
+- **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): The later lecture gives the descent mechanics. Dante must [enter Inferno and confront Virgil's Aeneid-world before reaching paradise]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007"}.
 - **2026-04-08**, same lecture: Virgil first appears as rescue. Dante places him on a pedestal as [savior, father, and teacher so the reader can later defeat Virgil in the heart]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0014"}.
 - **2026-04-08**, same lecture: Dialogue becomes the method of suspicion. [A speaker reveals a world and prejudice when speaking]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0017"}, so [Virgil's explanation of Beatrice exposes contract where Dante needs love]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0020 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0019"}.
 - **2026-04-08**, same lecture: Charon and the Aeneid grammar make the claim harsher. Virgil is [master of hell]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025"} because [his poetry created the emotions that allow hell to exist]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"}.
@@ -176,6 +195,8 @@ That does not mean accepting any feeling as truth. The method is disciplined by 
 - Is the guide obeyed by the world he claims merely to be passing through?
 - What does the guide make the soul want, and does that desire move toward freedom or toward hell?
 - Who is the Dido of the guide's map: the figure the guide understands, harmed, or created but refuses to name?
+- Can the guide admit correction when another authority, beloved, witness, or healed soul proves the map incomplete?
+- At what threshold does loyalty to the guide become refusal to enter the world the guide prepared you to see?
 
 ## Related Concepts
 
