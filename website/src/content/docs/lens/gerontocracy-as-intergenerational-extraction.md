@@ -5,11 +5,23 @@ description: A Jiang Lens concept page on old wealth, pensions, housing, safety 
 
 # Gerontocracy As Intergenerational Extraction
 
-In Jiang's August 29, 2025 Secret History lecture, gerontocracy begins with a plain definition: [rule by old people]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001"}. The lecture then makes the definition harsher. Gerontocracy is not only elderly politicians staying in office. It is a whole social order in which old wealth, pension claims, medical priority, property ownership, safety politics, and family morality reorganize the future around the elderly.
+Across Jiang's source trail, gerontocracy names more than elderly politicians staying in office. It is a whole social order in which old wealth, status, pension claims, medical priority, property ownership, safety politics, and family morality reorganize the future around the elderly. Jiang gives the plain definition in his August 29, 2025 Secret History lecture: [rule by old people]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001"}. But the earlier October 15, 2024 Greek-history lecture already contains the deeper mechanism: [in abundance, old actors stay at the top, younger actors cannot ascend, and blocked energy becomes violence]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054 video:predictive-history-npncq-gnqde@transcript:v1#seg-0055"}.
 
 The central mechanism is extraction across time. The young carry rising rents, weaker schools, job pressure, surveillance, prisons, war, and debt. The old receive asset appreciation, pension protection, medical access, cheap care labor, political deference, and the moral shield of being grandparents. Jiang is careful about the target: [old people in general are not the problem; old rich people are the problem]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"}.
 
 That distinction matters. The concept is not age resentment. It is a model of power. Age becomes politically decisive when it is joined to property, pensions, time, medical technology, institutional office, and inherited obedience.
+
+## Status Locks In Abundance
+
+The first clear formulation appears before Jiang names gerontocracy as a modern Western decline theory. In the October 15, 2024 lecture on Greek history, he uses Calhoun's rat-utopia experiment and the Peloponnesian War to ask why abundance produces collapse rather than peace. The answer is not simple overpopulation. Jiang says the colony still has space, then turns to status: [in a wealthy and abundant world, elderly actors benefit because they live longer]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054"}.
+
+That makes the later gerontocracy page sharper. The problem is not only that old people have resources. It is that abundance can freeze the status ladder. Jiang's image is a line of rats or people waiting to climb a mountain. When the line moves, frustration remains bearable. When [status becomes locked and younger people cannot ascend into power and status]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054"}, anxiety turns sideways: the blocked young kick backward and fight one another instead of transforming the top.
+
+<!-- lens-point id="gerontocracy-status-lock-turns-youth-violent" concept="gerontocracy-extraction" evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054 video:predictive-history-npncq-gnqde@transcript:v1#seg-0055 video:predictive-history-npncq-gnqde@transcript:v1#seg-0056" -->
+<span id="gerontocracy-status-lock-turns-youth-violent" class="lens-point-anchor"></span>
+Gerontocracy can begin as status lock inside abundance: wealth and long life keep old actors at the top, younger people cannot ascend into power or status, and blocked potential is spent sideways in anxiety, violence, war, or collapse instead of becoming renewal.
+
+The Peloponnesian War is the historical bridge. Jiang says the political world in 431 BCE and 404 BCE is almost unchanged; [the only difference is that many young people died]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0056"}. This is not yet the full 2025 rich-pensioner model of housing, medicine, immigration, pensions, and surveillance. It is the primitive mechanism underneath it: abundance makes exit from the top slower, status transfer stalls, and war can burn off young energy while leaving the old order intact.
 
 ## The Question That Finds The Ruler
 
@@ -105,6 +117,7 @@ Fifth, connect war to age. If the old decide and the young die, the war story ne
 
 ## Chronology So Far
 
+- **2024-10-15**, [Rat Utopia And The War That Preserved Status](/episodes/predictive-history-npncq-gnqde/): Before using the term gerontocracy as a modern decline diagnosis, Jiang gives the status-lock mechanism: abundance lets old actors remain at the top, younger actors cannot ascend, and blocked potential becomes violence or war.
 - **2025-08-29**, [Secret History #3: The Old Own The Future](/episodes/predictive-history-0g3yo1djilm/): The lecture defines gerontocracy as rule by old people, then turns Western decline into a "who benefits?" model centered on rich pensioners.
 - **2025-08-29**, same lecture: Housing, medical assistance in dying, fake prosperity, debt, surveillance, prisons, and war are treated as connected symptoms rather than separate topics.
 - **2025-08-29**, same lecture: The Q&A gives the trap mechanism: young people cannot easily overthrow gerontocracy because respect for elders is biologically and morally deep.
@@ -112,43 +125,50 @@ Fifth, connect war to age. If the old decide and the young die, the war story ne
 
 ## Source Trail
 
-- **2025-08-29**, [Secret History #3: The Old Own The Future](/episodes/predictive-history-0g3yo1djilm/)  
-  Gerontocracy is defined as rule by old people, then tested through concrete Western decline trends.  
+- **2024-10-15**, [Rat Utopia And The War That Preserved Status](/episodes/predictive-history-npncq-gnqde/)
+  Abundance becomes status lock when old actors stay at the top, younger actors cannot ascend, and blocked energy becomes sideways violence or war.
+  `video:predictive-history-npncq-gnqde@transcript:v1#seg-0054`
+  `video:predictive-history-npncq-gnqde@transcript:v1#seg-0055`
+  `video:predictive-history-npncq-gnqde@transcript:v1#seg-0056`
+
+- **2025-08-29**, [Secret History #3: The Old Own The Future](/episodes/predictive-history-0g3yo1djilm/)
+  Gerontocracy is defined as rule by old people, then tested through concrete Western decline trends.
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001`
 
-- **2025-08-29**, same lecture  
-  Housing scarcity reveals the vested-interest mechanism: flat supply plus rising demand benefits owners.  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0007`  
+- **2025-08-29**, same lecture
+  Housing scarcity reveals the vested-interest mechanism: flat supply plus rising demand benefits owners.
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0007`
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0010`
 
-- **2025-08-29**, same lecture  
-  The moral economy shifts from every life as a gift to cost and revenue calculation.  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017`  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0019`  
+- **2025-08-29**, same lecture
+  The moral economy shifts from every life as a gift to cost and revenue calculation.
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0017`
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0019`
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0026`
 
-- **2025-08-29**, same lecture  
-  "Who benefits?" turns scattered decline into the rich-pensioner model.  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0032`  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033`  
+- **2025-08-29**, same lecture
+  "Who benefits?" turns scattered decline into the rich-pensioner model.
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0032`
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0033`
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035`
 
-- **2025-08-29**, same lecture  
-  Respect for elders, pension claims, and war make the extraction politically hard to refuse.  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0044`  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047`  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049`  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0051`  
+- **2025-08-29**, same lecture
+  Respect for elders, pension claims, and war make the extraction politically hard to refuse.
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0044`
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0047`
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0049`
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0051`
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0053`
 
-- **2025-08-29**, same lecture  
-  Wealth, medicine, and cohort replacement make gerontocracy durable.  
-  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055`  
+- **2025-08-29**, same lecture
+  Wealth, medicine, and cohort replacement make gerontocracy durable.
+  `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055`
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056`
 
 ## Related Concepts
 
 - [Game Theory](/lens/game-theory/) - for the incentive and actor model behind "who benefits?"
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for the war side of generational sacrifice.
+- [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for the scale pressure that can trap millions inside managed systems when exit is not socially available.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for official prosperity stories, gaslighting, and managed perception.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for false worlds that become hard to leave because they organize safety, status, and obedience.
