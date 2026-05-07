@@ -63,6 +63,14 @@ Arabia supplies the religious-revolutionary version. From the imperial capitals,
 
 The Vikings supply the practical-oceanic version. Jiang wants them added to the usual pillars of Western civilization because they are not only raiders. They are poor, utilitarian, egalitarian, mobile, inventive, and opportunistic. Their open cooperative competition produces ship technology; their poverty and geography keep hierarchy lower; their contact with other cultures makes them absorptive. The Viking borderland can raid monasteries, trade, intermarry, adopt languages, lend its own culture outward, and become part of the civilization it pressures [without ceasing to have mattered as a margin]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0001 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0016 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0035 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0040"}.
 
+The Mongols supply the sharper warning. On **2025-03-18**, Jiang explicitly calls them [a borderland people fighting empires]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0037"}: they have energy, openness, and opportunism, while the empires have mass, organization, and depth. But their constraints are brutal: low population, vast distance, supply problems, and no real capacity or desire to govern conquered peoples. Terror then becomes rational inside the conquest game. Escalation dominance, psychological warfare, and a reputation for demonic inevitability let a small mobile force make resistance feel suicidal [because ordinary occupation is unavailable]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0039 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0042 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0044"}.
+
+The same logic breaks as soon as conquest has to become rule. Jiang says the Mongols learn an older Chinese war lesson: [people are an infinite resource]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0048 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062"}. If people are infinite, massacre can become more useful than slavery because bodies are converted into terror. That idea joins contempt for conquered cultures; in Jiang's comparison, Vikings remain curious because they respect powerful surrounding worlds, while the Mongol pattern turns conquest into exploitation and [makes the conqueror contemptuous of himself]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060"}.
+
+<!-- lens-point id="borderland-engine-contempt-breaks-openness" concept="borderland-engine" evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0037 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0048 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0065" -->
+<span id="borderland-engine-contempt-breaks-openness" class="lens-point-anchor"></span>
+The borderland engine turns destructive when pressure narrows openness into useful assimilation without respect: the margin may conquer by treating people as expendable, but it cannot build a rich order if it despises the people and cultures it must govern.
+
 Rome supplies the darker case. It emerges at the borderlands of Etruscan power, poor, surrounded, and disadvantaged. That position forces martial culture. Against richer Carthage, poverty means citizens fight their own wars while Carthage hires mercenaries. The result is not moral beauty. It is a society capable of fighting to the end and then exterminating the defeated. The borderland engine can create anti-civilization too [when cohesion is organized around war and hatred]{evidence="video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0001 video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0003 video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0010 video:predictive-history-y-gxvzwbfmu@transcript:v1#seg-0011"}.
 
 ## The Trap After Victory
@@ -116,6 +124,12 @@ Finally, ask what happens after victory. The borderland may open history, but it
   `video:predictive-history-a2lmjerhckm@transcript:v1#seg-0005`  
   `video:predictive-history-a2lmjerhckm@transcript:v1#seg-0019`  
   `video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052`
+
+- **2025-03-18**, [Civilization #39: Genghis Khan, World Shatterer](/episodes/predictive-history-mpqzapnjykm/)
+  The Mongols show the destructive borderland case: energy, openness, and opportunism can conquer, but terror, contempt, and expendable people make governance brittle.
+  `video:predictive-history-mpqzapnjykm@transcript:v1#seg-0037`
+  `video:predictive-history-mpqzapnjykm@transcript:v1#seg-0048`
+  `video:predictive-history-mpqzapnjykm@transcript:v1#seg-0049`
 
 - **2025-11-20**, [Secret History #20: The Hellenistic World](/episodes/predictive-history-z0awfin83lo/)  
   The mature formula appears: stable is stagnant; empire has mass, organization, and death; borderlands have energy, openness, and cohesion.  
