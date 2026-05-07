@@ -24,6 +24,20 @@ The lens therefore asks a double question:
 
 The first question captures the creative side of the lens. The second captures the danger.
 
+## [Game Theory](/lens/game-theory/)
+
+Game theory is Jiang's method for finding the real game before judging the declared story. The first Game Theory lecture gives the minimal machine: [players, rules or constraints, and incentives]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005"}. The method becomes useful when behavior looks irrational. If the analyst has named the wrong prize, apparently foolish choices may become rational inside the actual game.
+
+The dating lecture gives the cleanest opening case. The surface topic is sex, marriage, and children, but Jiang says modern dating is [a status game rather than a procreation game]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018"}. The historical setting matters because [the superstructure changes the game over time]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020"}: a poor village, a competitive expanding society, and a wealthy overpopulated society make different rules for intimacy, marriage, and rank.
+
+The civilizational edge is fertility. Money can be increased, transferred, or subsidized, but [status is zero-sum]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0025"}. If children lower rank, cash does not fix the game. If children carry honor, patriotism, religion, and survival, fertility can become status in the opposite direction. Jiang's Israel/South Korea contrast therefore belongs in the atlas as a relation among game theory, mass society, nation survival, gerontocracy, and the human-heart/love boundary rather than as a standalone dating topic.
+
+<!-- lens-point id="fertility-status-game-atlas" concept="atlas-relation" evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018 video:predictive-history-he4l9wylf3u@transcript:v1#seg-0025 video:predictive-history-he4l9wylf3u@transcript:v1#seg-0033 video:predictive-history-he4l9wylf3u@transcript:v1#seg-0043" -->
+<span id="fertility-status-game-atlas" class="lens-point-anchor"></span>
+Fertility becomes a status game when dating, marriage, children, and national survival are organized by rank incentives: a wealthy society can rationally select away its future if children lower status, while another society can make children honorable by tying them to love, duty, religion, patriotism, and survival.
+
+This relation protects neighboring boundaries. [Game Theory](/lens/game-theory/) owns the method and payoff analysis. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem once population must be fed, organized, employed, and managed. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the national machinery that turns population into war and survival capacity. [Gerontocracy And Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) owns the old-age asset and pension trap after fertility has failed. [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) and the reviewed love-as-recognition seed own love as relation, not partner choice as status display.
+
 ## Power As Alchemy
 
 The first Secret History lecture gives the atlas a root mechanism: power is alchemy. Jiang begins from Kant because the political field is already perceptual. If reality is processed through imagination, then power does not only command bodies after reality is given. It trains the imagination that decides what reality feels like.
@@ -294,6 +308,7 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 
 | Family | Working question | Strong source clusters |
 | --- | --- | --- |
+| [Game theory](/lens/game-theory/) | What real game, payoff, and rule structure make apparently irrational action rational from inside the game? | Game Theory sequence, dating/fertility, school game, universal law, proximity, Hollywood-Pentagon |
 | Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
 | Nation as god-machine | What sacred body is turning isolated individuals into unity of will, sacrificial population, or a playable national board? | Nation-state lecture, gunpowder revolution, America as game, population-war lecture |
 | Reason as replacement religion | What sacred work has reason, debate, progress, revolution, or nation inherited after a society says it has moved beyond church and priest? | Reason Becomes A Religion, Robespierre, Napoleon |
@@ -340,6 +355,7 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 - **2025-08-29 to 2025-11-27**: Secret History sharpens free will as love's burden: the Monad refuses coercive rescue, denial of agency becomes anti-love, and Jesus makes the divine spark dangerous to empire.
 - **2025-08-01 to 2026-04-08**: Eschatology becomes both geopolitical script and inner-world diagnosis: end-times stories coordinate actors toward crisis, while Dante and Secret History #9 turn hell, salvation, death, and free will into present realities rather than remote doctrines.
 - **2025-12-09 to 2026-01-07**: Attention becomes an explicit energy theory. Capital extracts human focus through freedom, money, anxiety, and destroyed security; the Great Books cave lecture then names attention as true wealth and captured imagination as reality construction.
+- **2026-01-06**: Game theory begins with the dating/fertility case: status can be the real prize behind romance, policy, and demography, so wealthy societies may rationally select against children unless children themselves become honorable through love, duty, religion, patriotism, and survival.
 - **2026-04-07 to 2026-04-08**: The later Game Theory and Dante sources show the same machinery at higher abstraction: story can detach war from material reality, and a guide can rescue while trapping.
 
 ## How To Use The Atlas
