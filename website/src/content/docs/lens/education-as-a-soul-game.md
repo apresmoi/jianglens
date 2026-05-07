@@ -101,6 +101,20 @@ Rival education makes worldly resilience when it trains perception, bodily compe
 
 This is why Jiang says, after Yale and decades thinking about education, that if he had to choose between Yale and a Viking school for his children, [he would choose Viking school because he wants worldly, strong, resilient children]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0039 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0040"}. The line is not anti-intellectual. It sits beside his dream of Great Books and psychohistory. A living school may be physically rough, textually demanding, historically imaginative, or philosophically dangerous. What it cannot be is a machine that drains energy, calls obedience learning, and returns a weaker person to the world.
 
+## Research As Exploration And Reflection
+
+An earlier classroom source gives a practical method for the same rival formation. In the 2023 Gay Talese introduction, Jiang contrasts the school habit with the research habit. The school version of research is information management: collect information, organize it, express it. Talese matters because journalism and research become creative contact with reality and people. Jiang says school teaches the opposite: [do not explore, just do what the teacher tells you]{evidence="video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001"}.
+
+The method is learned at home, not in school. Talese's mother handles wealthy clients by becoming their friend, and friendship begins by listening. Jiang turns the classroom answer inside out: not talking, but listening. [The mother "talks by listening" until the client is first a friend]{evidence="video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004"}. This makes exploration a discipline of attention. The researcher has to stop filling the room with the self long enough for another person to become visible.
+
+The father supplies the second half. Tailoring is precise, exact, meticulous, disciplined, and patient. Jiang names this as reflection: the pursuit of perfection. Exploration goes outward through curiosity; reflection returns to the material through craft. [Exploration is the pursuit of curiosity, and reflection is the pursuit of perfection]{evidence="video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007"}. The lesson ends as practice: students must go into Beijing with a camera, find things other people would not notice, and see contrasts. [Curiosity becomes an optical discipline when students are asked to notice Beijing's hidden contrasts]{evidence="video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007 video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008"}.
+
+<!-- lens-point id="education-research-restores-exploration" concept="education-soul-game" evidence="video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0001 video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0004 video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0007 video:predictive-history-gp9hv1pxx0o@transcript:v1#seg-0008" -->
+<span id="education-research-restores-exploration" class="lens-point-anchor"></span>
+Research restores exploration when education trains students to stop waiting for instructions, listen until people become visible, reflect with craft discipline, and notice contrasts in the world that obedient information handling would miss.
+
+This belongs on the education page rather than the poetry page because the pressure is formative before it is literary. Journalism can become literature, but the mutation Jiang stresses is the student's soul habit: permission to explore, attention to another person, patient revision, and perception of the actual city. It also stays distinct from the living-school page. Psychohistory is the later institutional dream; the Talese method is one classroom mechanism for undoing obedience and recovering contact with people and reality.
+
 ## The Material School And The Soul School
 
 Great Books #1 gives the metaphysical frame. School teaches the person as an evolved body in a measurable material world. Jiang calls that the great lie because it forbids the questions that would define the human being: consciousness, thought, communication, meaning. [The school world teaches materialism and forbids the deeper question of what it means to be human]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"}
@@ -123,10 +137,12 @@ The difference between the dead school and the living school is therefore not th
 - **Status Test**: Does the education produce command in the wider social game, or only legibility, employment, and obedience inside someone else's rules?
 - **Coercion Test**: Can the student challenge, refuse, leave, fail, or ask whether the teacher is lying without penalty?
 - **Worldliness Test**: What can the student actually do when separated from the institution: navigate, repair, build, persuade, fight, care, reason, cooperate, survive, or create?
+- **Research Habit Test**: Does research train exploration, listening, craft, and noticing, or only information handling under instruction?
 - **Rival Formation**: What practice gives the student a world stronger than grades, rankings, screens, money, and national memory?
 
 ## Chronology
 
+- **2023-06-21**, [The Talese Method Turns Listening Into Research](/episodes/predictive-history-gp9hv1pxx0o/): Research is framed against school obedience: exploration means listening and curiosity; reflection means patient craft; the city becomes something students must learn to notice.
 - **2025-03-04**, [Civilization #35: The Fifth Pillar of the West](/episodes/predictive-history-7k5xolzwmls/): Viking school becomes Jiang's concrete image of education as worldly strength, resilience, bodily competence, and high energy rather than test obedience.
 - **2025-04-22**, [Civilization #46: Reason Becomes A Religion](/episodes/predictive-history-5hwzx5kqm9o/): Rousseau's *Emile* supplies negative education, childhood, the savage/peasant contrast, and the claim that schools are first built to control children.
 - **2025-06-13**, [Civilization BONUS: Meet Professor Jiang](/episodes/predictive-history-voqeteh6hko/): Jiang describes Predictive History as born from teaching Great Books to Chinese students who lacked historical context, then names the ambition to build psychohistory and a future liberal-arts school.
