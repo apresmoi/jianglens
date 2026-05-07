@@ -9,13 +9,27 @@ Civilization, in Jiang's early civilization lectures, is not a ladder from primi
 
 It is an inner order: the arrangement of gods, food, sex, property, violence, memory, language, status, and survival through which a people knows what kind of world it inhabits. Change that arrangement and the same material facts mean something else. Farming can be progress or captivity. Women can be agents of sacred life or property inside inheritance. Cattle can be food, money, private wealth, male status, and divine gift at once. Collapse can be death, but it can also clear the ground for a new kind of human being.
 
-That is why Jiang's civilization arc keeps reversing progress stories. He is not asking only which technology arrived first. He is asking what inner world made the technology livable, desirable, violent, sacred, or unbearable. A settlement is not yet a civilization because it has houses. It becomes a civilization when the house, dead body, animal, god, child, marriage rule, food system, and memory practice belong to the same world.
+That is why Jiang's civilization arc keeps reversing progress stories. He is not asking only which technology arrived first. He is asking what inner world made the technology livable, desirable, violent, sacred, or unbearable. A cave wall is not merely art because it has images. A settlement is not yet a civilization because it has houses. Civilization begins when image, house, dead body, animal, god, child, marriage rule, food system, and memory practice belong to the same world.
 
 <!-- lens-point id="civilization-inner-order-arranges-life" concept="civilization-inner-order" evidence="video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034 video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0016 video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032" -->
 <span id="civilization-inner-order-arranges-life" class="lens-point-anchor"></span>
 Civilization becomes inner order when material survival, sacred explanation, sex, violence, property, memory, language, and status cohere into a world that trains people what life means and what kind of human being they must become.
 
 This concept sits beside [sacred machines](/lens/sacred-machines/), [the borderland engine](/lens/the-borderland-engine/), and [how poetry creates civilization](/lens/how-poetry-creates-civilization/). Sacred machines show how invisible order becomes public infrastructure. Borderlands show how pressure creates motion. Poetry shows how symbolic media form the soul. Civilization as inner order names the larger pattern: a people is made when those elements lock together into a lived world.
+
+## Religion Makes Society
+
+The September 3, 2024 cave-painting lecture pushes the mechanism earlier than agriculture. Jiang's first claim is not that Ice Age people made beautiful images after survival was solved. The cave wall is [about religion, not art]{evidence="video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0008"}, because animals, sound, darkness, ochre, symbols, birth, death, and spirit belonged to one social act.
+
+That matters for this concept because religion is not only belief inside an already-formed society. Jiang turns cave painting into the first version of inner order. Images [visualize mythology and show how the world works]{evidence="video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0035 video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036"}; symbols make invisible forces speak; ritual turns killing, birth, burial, and animal return into obligations. The wall is therefore a shared language before it is a museum object.
+
+The strongest formula comes late in the lecture: [religion is collective consciousness]{evidence="video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"}. Society does not appear when isolated individuals sign a contract. It appears when a group can hold a common memory, common imagination, and common account of what reality demands. Jiang says the dependence runs both ways: [without religion there could be no society, and without society there could be no religion]{evidence="video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040"}.
+
+<!-- lens-point id="civilization-inner-order-religion-makes-society" concept="civilization-inner-order" evidence="video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036 video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040 video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0041 video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0051" -->
+<span id="civilization-inner-order-religion-makes-society" class="lens-point-anchor"></span>
+Religion makes society when art, ritual, symbol, memory, and shared imagination give people a common world before economics, biology, settlement, or state machinery can organize them.
+
+This is why Jiang rejects both economic and biological reduction without denying their force. Humans are [first and foremost religious animals]{evidence="video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0051"} because they need meaning and connection before grades, jobs, genes, or reproduction can become a history. Economics and biology still matter; Jiang says they interplay with religion. But on this page, the cave-painting source clarifies the order of explanation: material need becomes civilizational only after a shared world tells people what the need means.
 
 ## Farming Needed A World
 
@@ -143,6 +157,13 @@ Ask what kind of human being the order produces. Jiang's civilization lens is ul
   `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0017`  
   `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034`  
   `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0036`
+
+- **2024-09-03**, [Civilization #2: Religion and the Dawn of Society](/episodes/predictive-history-x1e5rrmcit4/)
+  Cave painting supplies the pre-agricultural layer: art, symbol, ritual, burial, common memory, and collective consciousness make society possible before economics or biology can explain human history.
+  `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036`
+  `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0040`
+  `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0041`
+  `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0051`
 
 - **2024-09-05**, [Civilization #3: Animism and Pygmy Religion](/episodes/predictive-history-vanph0gftsa/)
   Animism and Pygmy forest religion supply the interconnection baseline: spirit world, forest, humans, animals, plants, caretaking, harmony, equality, and art form a world that discourages war before the later wealth-power-war rupture.
