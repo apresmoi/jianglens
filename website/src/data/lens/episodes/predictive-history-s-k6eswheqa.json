@@ -1265,9 +1265,13 @@
             "marks": [
               {
                 "text": "Great men are beyond history because they can step outside of history and control it.",
+                "lens_points": [
+                  "lens-point:psychohistory-needs-edge-case-correctors"
+                ],
                 "refs": [
                   "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038",
-                  "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039"
+                  "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039",
+                  "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
                 ],
                 "refs_detail": [
                   {
@@ -1287,10 +1291,34 @@
                     "time_label": "48:45",
                     "speaker": "SPEAKER_00",
                     "excerpt": "They can step outside of history and control history. That's what great men are. So, how does your model account for that? Okay? And the answer is, you cannot. So, in foundation, okay, the solution, okay, but there is a..."
+                  },
+                  {
+                    "ref": "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040",
+                    "segment_id": "seg-0040",
+                    "start": 2995.25,
+                    "end": 3072.7,
+                    "time_label": "49:55",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "specialists who observe the AI and who observe history and who correct the AI for edge cases. Okay? Does that make sense? So, Putin appears and is like, okay, well, clearly, I'm not accounting for Putin. Well, then I ch..."
                   }
                 ],
-                "lens_points": [],
-                "lens_points_detail": []
+                "lens_points_detail": [
+                  {
+                    "id": "lens-point:psychohistory-needs-edge-case-correctors",
+                    "valid": true,
+                    "concept": "living-school-psychohistory",
+                    "title": null,
+                    "doc_title": "Living School For Psychohistory",
+                    "doc_slug": "lens/living-school-for-psychohistory",
+                    "url": "/lens/living-school-for-psychohistory/#psychohistory-needs-edge-case-correctors",
+                    "text": "Psychohistory needs edge-case correctors because a predictive model cannot be treated as closed when exceptional actors can redirect history; trained observers must watch the AI, watch history, and revise the equations when reality breaks the model.",
+                    "refs": [
+                      "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038",
+                      "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039",
+                      "video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040"
+                    ]
+                  }
+                ]
               }
             ],
             "refs_detail": [
