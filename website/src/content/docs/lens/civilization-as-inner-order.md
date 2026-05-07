@@ -71,6 +71,24 @@ The crucial word is "together." A page about civilization as inner order should 
 
 That coherence makes the conquest of Old Europe more than an invasion. It is a replacement of worlds. A peaceful agricultural and goddess-centered order is vulnerable to a mobile property-and-war order. The new order does not only kill people. It changes what counts as wealth, family, virtue, masculinity, divinity, and history.
 
+## Trade Can Build A Peaceful Order
+
+The December 3, 2024 Indus Valley lecture reaches back to the Middle Bronze Age and adds a countercase to both the Yamnaya package and the later Bronze Age elite order.
+
+The Indus Valley Civilization is not small or isolated. Jiang places it inside a 2500-2000 BCE world where Egypt, Mesopotamia, Arabia, the Gulf, Afghanistan, the Oxus region, and possibly China are joined by metals, burial goods, indigo dye, jewelry, and handicrafts. The first reversal is that this vast urban civilization appears to grow wealthy because it is [connected through trade rather than organized warfare]{evidence="video:predictive-history-cvi8rukoda8@transcript:v1#seg-0005 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006"}.
+
+That changes what a city means. In Mesopotamia, Jiang reads palace and temple access as signs of centralized priest-king power. In the IVC, he stresses the absence of visible palaces and temples, the ability to move through the city, and walls that work as customs and tax infrastructure rather than simply fortification. A wall can therefore mean a different inner order: not "king's enclosure" or "war boundary," but [a trade-processing interface where tolls and customs organize access]{evidence="video:predictive-history-cvi8rukoda8@transcript:v1#seg-0010 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0011"}.
+
+The infrastructure gives the moral claim a material body. Private toilets, sewage systems, reservoirs, baths, wind towers, standardized weights, measurements, and bricks are not decorative achievements. Jiang treats them as evidence of a civilization concerned with common well-being, equality of food quality, health, and shared urban intelligibility. This is not the same mechanism as the pyramid or the palace. The city itself becomes a common-life machine.
+
+<!-- lens-point id="civilization-inner-order-trade-peace-access" concept="civilization-inner-order" evidence="video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0010 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0011 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0012 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0021 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043" -->
+<span id="civilization-inner-order-trade-peace-access" class="lens-point-anchor"></span>
+A trade civilization becomes inner order when exchange, urban access, sanitation, and standards train people toward peace and shared life, while spiritual practice can preserve access without priestly monopoly.
+
+Jiang's more speculative bridge is religious. He explicitly marks the reconstruction as strange and contested: the lost IVC religion may be a proto-Buddhist inheritance rather than a recoverable doctrine. The public lens should keep that caveat. The durable mechanism is not "the IVC was definitely Buddhist." It is that the source imagines a civilization whose deepest legacy may be [false reality, oneness, liberation, and spiritual access without a Brahmin gatekeeper]{evidence="video:predictive-history-cvi8rukoda8@transcript:v1#seg-0040 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043 video:predictive-history-cvi8rukoda8@transcript:v1#seg-0050"}.
+
+This belongs on civilization-as-inner-order because it links economy, city form, peace, equality, and spiritual access into one human arrangement. It does not belong primarily on the religion-as-administrative-filter page unless the question is Brahmin gatekeeping. It does not belong primarily on sacred-machines because the key object is not a concentrated sacred monument but a distributed urban order. It does not belong primarily on collapse-transition unless the question is the later climate shock and trade breakdown.
+
 ## Collapse Exposes The Elite Order
 
 The Bronze Age collapse lecture brings inner order into the realm of scale.
@@ -113,6 +131,8 @@ Ask what the order cannot see. Old Europe could not survive the steppe package. 
 
 Ask what material practice carries the world. The order is not only in ideas. It lives in houses, cattle, graves, temples, debts, alphabetic writing, military service, poems, inheritance, and food.
 
+Ask what access pattern the order builds. Does the city route people toward palace, temple, market, customs house, bath, sewer, classroom, or battlefield? Access is one of the ways an invisible order becomes daily life.
+
 Ask what kind of human being the order produces. Jiang's civilization lens is ultimately anthropological: a world trains people what to love, fear, defend, remember, own, sacrifice, and call human.
 
 ## Source Trail
@@ -154,6 +174,14 @@ Ask what kind of human being the order produces. Jiang's civilization lens is ul
   `video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007`  
   `video:predictive-history-677rmlrgvlq@transcript:v1#seg-0030`  
   `video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032`
+
+- **2024-12-03**, [Civilization #20: The Lost Trade Civilization Behind Buddhism](/episodes/predictive-history-cvi8rukoda8/)
+  The Indus Valley Civilization supplies the trade-and-access countercase: urban processing centers, customs walls, sanitation, standardization, peace, egalitarianism, and speculative proto-Buddhist inheritance form a non-palace, non-war inner order.
+  `video:predictive-history-cvi8rukoda8@transcript:v1#seg-0006`
+  `video:predictive-history-cvi8rukoda8@transcript:v1#seg-0010`
+  `video:predictive-history-cvi8rukoda8@transcript:v1#seg-0011`
+  `video:predictive-history-cvi8rukoda8@transcript:v1#seg-0012`
+  `video:predictive-history-cvi8rukoda8@transcript:v1#seg-0043`
 
 ## Related Concepts
 
