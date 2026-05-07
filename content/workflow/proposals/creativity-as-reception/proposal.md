@@ -3,6 +3,7 @@
 Date: 2026-05-07
 Status: proposal seed
 Work type: proposal synthesis
+Review: `content/workflow/reviews/creativity-as-reception/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
