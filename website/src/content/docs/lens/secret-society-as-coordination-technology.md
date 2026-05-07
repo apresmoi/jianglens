@@ -33,7 +33,13 @@ Secret societies bind exit when incentive, blackmail, transgression, and belief 
 
 This is why Jiang's secret-society model belongs near the pages on [free will](/lens/free-will-as-cosmic-burden/) and [taboo](/lens/taboo-as-control-surface/) without collapsing into either. Free will names the person's responsibility for chosen worlds. Taboo names the sacred boundary whose breach changes the game. Secret-society binding names what happens after breach becomes membership: the act that should have made a person free instead makes him governable by the group that shares the secret.
 
-The **2025-12-09** capital lecture adds a darker agency-displacement layer. Jiang reads elite wrongdoing through Milgram's experiment: people can harm when responsibility is moved elsewhere. In his account, ritual lets members say they did not start the war or destroy the economy; the command came through another god or power. The point is not a neutral psychology claim. It is Jiang's picture of how moral agency can be outsourced so that people do what they could not bear to do alone.
+The **2025-12-09** capital lecture adds a darker agency-displacement layer. Jiang reads elite wrongdoing through Milgram's experiment: [people can hurt others when responsibility is moved from the actor to an authority]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0015"}. He then translates the experiment into ritual. In his account, secret-society members can say they did not start the war or destroy the economy; the command came through another god or power. The point is not a neutral psychology claim. It is Jiang's picture of how moral agency can be outsourced so that people do what they could not bear to do alone.
+
+<!-- lens-point id="secret-society-displaces-agency-through-ritual" concept="secret-society-coordination" evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0015 video:predictive-history-b5fthagng8c@transcript:v1#seg-0016 video:predictive-history-b5fthagng8c@transcript:v1#seg-0017" -->
+<span id="secret-society-displaces-agency-through-ritual" class="lens-point-anchor"></span>
+Secret-society ritual displaces agency when members learn to treat evil action as obedience to a higher command, order, paradise, or possessed role rather than as their own responsibility.
+
+This ritual layer belongs here rather than on the capital page because it explains how the coordinating class imagines its own action. Capital extraction asks how attention, anxiety, and mobility harvest human energy. Secret-society coordination asks how the extractor group stays able to act together. Ritual does not merely symbolize the network; in Jiang's model, [it lets members say a higher power ordered the act, so responsibility moves away from them]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0015 video:predictive-history-b5fthagng8c@transcript:v1#seg-0016"}.
 
 ## Bureaucracy Makes The Network Powerful
 
@@ -79,6 +85,7 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 
 - **Layer Test**: Are different participants being given different moral worlds while remaining inside one ladder?
 - **Exit Test**: What would a member lose by leaving: status, money, safety, identity, secrets, absolution, or the belief that the group's world is true?
+- **Agency Test**: Does the ritual, oath, command, or sacred role let members say they were instruments of a higher power rather than responsible actors?
 - **Bureaucracy Test**: Is a public institution too siloed to coordinate itself, while an informal network can coordinate across its departments?
 - **Mobility Test**: If capital leaves place, what trust machinery lets it keep moving, pooling, and recognizing partners?
 - **Script Test**: Does the group need explicit command, or does a shared eschatology, prophecy, myth, or mission already make separate actors audition for compatible roles?
