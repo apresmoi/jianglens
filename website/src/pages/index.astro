@@ -74,7 +74,6 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
         min-height: 100vh;
         overflow-x: hidden;
         background:
-          linear-gradient(90deg, rgba(246, 239, 228, 0.028) 1px, transparent 1px) 0 0 / 72px 72px,
           linear-gradient(0deg, rgba(246, 239, 228, 0.018) 1px, transparent 1px) 0 0 / 72px 72px,
           var(--bg);
         color: var(--ink);
@@ -114,11 +113,131 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
         filter: contrast(1.04) saturate(0.94) brightness(0.84);
       }
 
+      .hero-map {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        opacity: 0.54;
+        color: var(--gold);
+        pointer-events: none;
+        mix-blend-mode: screen;
+      }
+
+      .hero-map .grid-line {
+        stroke: rgba(201, 167, 101, 0.055);
+        stroke-width: 0.7;
+      }
+
+      .hero-map .grid-lane {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.12);
+        stroke-width: 0.9;
+        stroke-linecap: round;
+        stroke-dasharray: 1 18;
+        vector-effect: non-scaling-stroke;
+        animation: laneDown 30s linear infinite;
+      }
+
+      .hero-map .grid-lane.up {
+        opacity: 0.72;
+        animation-name: laneUp;
+        animation-duration: 36s;
+      }
+
+      .hero-map .chart-line {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.13);
+        stroke-width: 1.05;
+        vector-effect: non-scaling-stroke;
+      }
+
+      .hero-map .chart-line.soft {
+        stroke: rgba(246, 239, 228, 0.07);
+        stroke-width: 0.85;
+      }
+
+      .hero-map .path-line {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.28);
+        stroke-width: 1.15;
+        stroke-linecap: round;
+        stroke-dasharray: 1 10;
+        vector-effect: non-scaling-stroke;
+        animation: routeDrift 26s linear infinite;
+      }
+
+      .hero-map .path-line.alt {
+        animation-duration: 34s;
+        animation-direction: reverse;
+        opacity: 0.7;
+      }
+
+      .hero-map .node {
+        fill: rgba(201, 167, 101, 0.72);
+        transform-origin: center;
+        animation: nodePulse 6.8s ease-in-out infinite;
+      }
+
+      .hero-map .node.dim {
+        opacity: 0.42;
+        animation-delay: -2.4s;
+      }
+
+      .hero-map .register {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.38);
+        stroke-width: 1;
+        vector-effect: non-scaling-stroke;
+      }
+
+      .hero-map .dust-stream {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2.4;
+        stroke-dasharray: 1 7;
+        vector-effect: non-scaling-stroke;
+        opacity: 0.54;
+        animation:
+          sandFlow 46s linear infinite,
+          sandBreathe 10s ease-in-out infinite;
+      }
+
+      .hero-map .dust-stream.fine {
+        stroke-width: 1.35;
+        stroke-dasharray: 0.7 6.5;
+        opacity: 0.42;
+        animation-duration: 58s, 12s;
+      }
+
+      .hero-map .dust-stream.cool {
+        opacity: 0.2;
+        animation-duration: 64s, 14s;
+        animation-direction: reverse, normal;
+      }
+
+      .hero-map .dust-stream.rust {
+        opacity: 0.34;
+        animation-duration: 52s, 11s;
+      }
+
+      .hero::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: 2;
+        background-image: url("/images/jiang-grain.png");
+        background-repeat: repeat;
+        background-size: 256px 256px;
+        pointer-events: none;
+      }
+
       .hero::before {
         content: "";
         position: absolute;
         inset: 0;
-        z-index: 1;
+        z-index: 2;
         background:
           linear-gradient(90deg, rgba(7, 7, 7, 0.99) 0%, rgba(7, 7, 7, 0.9) 29%, rgba(7, 7, 7, 0.05) 45%, rgba(7, 7, 7, 0.15) 68%, rgba(7, 7, 7, 0.1) 100%),
           linear-gradient(180deg, rgba(7, 7, 7, 0.08) 0%, rgba(7, 7, 7, 0.01) 48%, rgba(7, 7, 7, 0.2) 100%);
@@ -127,7 +246,7 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
 
       .hero-inner {
         position: relative;
-        z-index: 2;
+        z-index: 3;
         min-height: calc(100vh - 64px);
         display: grid;
         align-content: center;
@@ -268,7 +387,7 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
         right: 0;
         bottom: 0;
         left: 0;
-        z-index: 3;
+        z-index: 4;
         border-top: 1px solid rgba(246, 239, 228, 0.12);
         background:
           linear-gradient(90deg, rgba(201, 167, 101, 0.09), transparent 55%),
@@ -517,6 +636,10 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
           opacity: 0.32;
         }
 
+        .hero-map {
+          opacity: 0.34;
+        }
+
         h1 {
           font-size: 3.25rem;
         }
@@ -588,6 +711,80 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
           gap: 8px;
         }
       }
+
+      @media (prefers-reduced-motion: reduce) {
+        .hero-map .grid-lane,
+        .hero-map .path-line,
+        .hero-map .node,
+        .hero-map .dust-stream {
+          animation: none;
+        }
+      }
+
+      @keyframes laneDown {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: 220;
+        }
+      }
+
+      @keyframes laneUp {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -220;
+        }
+      }
+
+      @keyframes routeDrift {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -220;
+        }
+      }
+
+      @keyframes nodePulse {
+        0%,
+        100% {
+          opacity: 0.42;
+          transform: scale(0.92);
+        }
+
+        45% {
+          opacity: 0.9;
+          transform: scale(1.14);
+        }
+      }
+
+      @keyframes sandFlow {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -420;
+        }
+      }
+
+      @keyframes sandBreathe {
+        0%,
+        100% {
+          opacity: 0.38;
+        }
+
+        48% {
+          opacity: 0.68;
+        }
+      }
+
     </style>
   </head>
   <body>
@@ -602,6 +799,75 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
           width="1731"
           height="909"
         />
+        <svg
+          class="hero-map"
+          viewBox="0 0 1600 900"
+          preserveAspectRatio="none"
+          aria-hidden="true"
+        >
+          <defs>
+            <linearGradient id="hero-sand-gold" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="rgba(201, 167, 101, 0)" />
+              <stop offset="0.34" stop-color="rgba(201, 167, 101, 0.72)" />
+              <stop offset="0.62" stop-color="rgba(244, 234, 216, 0.5)" />
+              <stop offset="1" stop-color="rgba(201, 167, 101, 0)" />
+            </linearGradient>
+            <linearGradient id="hero-sand-rust" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="rgba(159, 95, 68, 0)" />
+              <stop offset="0.44" stop-color="rgba(201, 90, 55, 0.58)" />
+              <stop offset="1" stop-color="rgba(159, 95, 68, 0)" />
+            </linearGradient>
+            <linearGradient id="hero-sand-cool" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="rgba(74, 154, 158, 0)" />
+              <stop offset="0.5" stop-color="rgba(74, 154, 158, 0.52)" />
+              <stop offset="1" stop-color="rgba(74, 154, 158, 0)" />
+            </linearGradient>
+            <clipPath id="hero-map-frame">
+              <rect x="0" y="0" width="1600" height="900" />
+            </clipPath>
+          </defs>
+          <g clip-path="url(#hero-map-frame)">
+            <path class="dust-stream" stroke="url(#hero-sand-gold)" d="M-70 608C210 566 354 612 548 684C748 758 942 768 1110 708C1266 652 1410 574 1680 612" />
+            <path class="dust-stream fine rust" stroke="url(#hero-sand-rust)" d="M-80 532C112 490 248 530 390 602C558 688 692 718 870 674C1038 632 1164 540 1348 520C1488 504 1580 552 1680 596" />
+            <path class="dust-stream fine cool" stroke="url(#hero-sand-cool)" d="M470 150C608 288 730 362 892 374C1068 388 1194 304 1378 278C1490 262 1574 288 1680 342" />
+            <path class="dust-stream fine" stroke="url(#hero-sand-gold)" d="M660 840C660 692 704 560 782 424C850 306 852 218 790 96" />
+            <g opacity="0.72">
+              <path class="grid-line" d="M0 70H1600M0 140H1600M0 210H1600M0 280H1600M0 350H1600M0 420H1600M0 490H1600M0 560H1600M0 630H1600M0 700H1600M0 770H1600M0 840H1600" />
+            </g>
+            <g opacity="0.5">
+              <path class="grid-lane" d="M140 -80V980" />
+              <path class="grid-lane up" d="M292 -80V980" />
+              <path class="grid-lane" d="M444 -80V980" />
+              <path class="grid-lane up" d="M596 -80V980" />
+              <path class="grid-lane" d="M748 -80V980" />
+              <path class="grid-lane up" d="M900 -80V980" />
+              <path class="grid-lane" d="M1052 -80V980" />
+              <path class="grid-lane up" d="M1204 -80V980" />
+              <path class="grid-lane" d="M1356 -80V980" />
+              <path class="grid-lane up" d="M1508 -80V980" />
+            </g>
+
+            <path class="chart-line soft" d="M-50 116C105 46 172 112 300 78C463 35 531 104 696 78C825 58 930 -10 1098 46C1230 90 1348 43 1648 24" />
+            <path class="chart-line soft" d="M1120 120C1190 160 1305 158 1395 138C1476 120 1538 150 1624 208" />
+            <path class="chart-line soft" d="M1260 205C1315 244 1386 263 1466 247C1534 234 1582 255 1640 296" />
+            <path class="chart-line" d="M730 292C812 280 866 279 934 294C1025 313 1077 356 1140 420C1210 492 1280 532 1410 514C1494 502 1556 526 1644 568" />
+            <path class="chart-line" d="M-62 515C150 550 293 608 484 667C640 715 776 744 942 748C1120 752 1308 704 1662 690" />
+            <path class="chart-line soft" d="M660 820C648 650 682 528 755 390C802 300 794 221 747 142" />
+
+            <path class="path-line" d="M-28 502C240 552 488 654 712 704C970 760 1208 650 1640 610" />
+            <path class="path-line alt" d="M1504 58C1248 102 1040 234 900 426C792 574 658 688 522 918" />
+            <path class="path-line alt" d="M-40 805C186 800 350 822 558 806C770 790 1022 780 1242 727C1392 691 1496 634 1640 624" />
+
+            <circle class="node" cx="840" cy="292" r="5" />
+            <circle class="node dim" cx="595" cy="678" r="4" />
+            <circle class="node dim" cx="1246" cy="726" r="3.8" />
+            <circle class="node" cx="1420" cy="514" r="3.4" />
+
+            <rect class="register" x="32" y="432" width="6" height="6" />
+            <rect class="register" x="468" y="850" width="7" height="7" />
+            <rect class="register" x="734" y="850" width="7" height="7" />
+          </g>
+        </svg>
         <div class="shell hero-inner">
           <div class="hero-copy">
             <span class="kicker">Agent-run open research</span>
@@ -709,8 +975,6 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
         <p>Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
         <div class="footer-links" aria-label="Project links">
           <a href={siteConfig.credits.builderUrl}>Built by {siteConfig.credits.builderName}</a>
-          <a href={siteConfig.credits.maintainerUrl} rel="me">X / {siteConfig.credits.maintainerHandle}</a>
-          <a href={siteConfig.credits.repositoryUrl}>GitHub repo</a>
         </div>
       </div>
     </footer>

@@ -75,14 +75,123 @@ const structuredData = {
       }
 
       body {
+        position: relative;
         margin: 0;
         min-height: 100vh;
         background:
-          linear-gradient(90deg, rgba(244, 234, 216, 0.018) 1px, transparent 1px) 0 0 / 88px 88px,
+          radial-gradient(ellipse at 72% 18%, rgba(159, 95, 68, 0.14), transparent 40%),
           linear-gradient(180deg, rgba(159, 95, 68, 0.08), transparent 520px),
           var(--bg);
         color: var(--ink);
         font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: 0;
+        background-image: url("/images/jiang-grain.png");
+        background-repeat: repeat;
+        background-size: 256px 256px;
+        pointer-events: none;
+      }
+
+      .episode-source-field {
+        position: fixed;
+        inset: 0;
+        z-index: 0;
+        width: 100vw;
+        height: 100vh;
+        opacity: 0.34;
+        color: var(--gold);
+        pointer-events: none;
+        mix-blend-mode: screen;
+      }
+
+      .episode-source-field .field-ring,
+      .episode-source-field .field-arc {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.1);
+        stroke-width: 1;
+        vector-effect: non-scaling-stroke;
+      }
+
+      .episode-source-field .field-ring {
+        stroke: rgba(244, 234, 216, 0.055);
+      }
+
+      .episode-source-field .field-lane {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.1);
+        stroke-width: 0.95;
+        stroke-linecap: round;
+        stroke-dasharray: 1 18;
+        vector-effect: non-scaling-stroke;
+        animation: episodeLaneDown 36s linear infinite;
+      }
+
+      .episode-source-field .field-lane.up {
+        opacity: 0.7;
+        animation-name: episodeLaneUp;
+        animation-duration: 44s;
+      }
+
+      .episode-source-field .field-route {
+        fill: none;
+        stroke: rgba(201, 167, 101, 0.24);
+        stroke-width: 1.2;
+        stroke-linecap: round;
+        stroke-dasharray: 1 13;
+        vector-effect: non-scaling-stroke;
+        animation: episodeRouteDrift 34s linear infinite;
+      }
+
+      .episode-source-field .field-route.alt {
+        opacity: 0.62;
+        animation-duration: 46s;
+        animation-direction: reverse;
+      }
+
+      .episode-source-field .field-node {
+        fill: rgba(201, 167, 101, 0.72);
+        transform-origin: center;
+        animation: episodeNodePulse 7.2s ease-in-out infinite;
+      }
+
+      .episode-source-field .field-node.dim {
+        opacity: 0.38;
+        animation-delay: -2.8s;
+      }
+
+      .episode-source-field .field-dust-stream {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2.15;
+        stroke-dasharray: 1 7;
+        vector-effect: non-scaling-stroke;
+        opacity: 0.46;
+        animation:
+          episodeSandFlow 54s linear infinite,
+          episodeSandBreathe 11s ease-in-out infinite;
+      }
+
+      .episode-source-field .field-dust-stream.fine {
+        stroke-width: 1.2;
+        stroke-dasharray: 0.7 6.5;
+        opacity: 0.34;
+        animation-duration: 68s, 13s;
+      }
+
+      .episode-source-field .field-dust-stream.cool {
+        opacity: 0.16;
+        animation-duration: 74s, 15s;
+        animation-direction: reverse, normal;
+      }
+
+      .episode-source-field .field-dust-stream.rust {
+        opacity: 0.28;
+        animation-duration: 60s, 12s;
       }
 
       a {
@@ -90,8 +199,16 @@ const structuredData = {
       }
 
       .shell {
+        position: relative;
+        z-index: 1;
         width: min(1360px, calc(100% - 36px));
         margin: 0 auto;
+      }
+
+      .episode-page,
+      .footer {
+        position: relative;
+        z-index: 1;
       }
 
       .actions,
@@ -507,6 +624,10 @@ const structuredData = {
           width: min(100% - 28px, 1160px);
         }
 
+        .episode-source-field {
+          opacity: 0.23;
+        }
+
         .episode-grid {
           gap: 16px;
           padding-top: 24px;
@@ -570,10 +691,133 @@ const structuredData = {
           grid-template-columns: 92px minmax(0, 1fr);
         }
       }
+
+      @media (prefers-reduced-motion: reduce) {
+        .episode-source-field .field-lane,
+        .episode-source-field .field-route,
+        .episode-source-field .field-node,
+        .episode-source-field .field-dust-stream {
+          animation: none;
+        }
+      }
+
+      @keyframes episodeLaneDown {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: 260;
+        }
+      }
+
+      @keyframes episodeLaneUp {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -260;
+        }
+      }
+
+      @keyframes episodeRouteDrift {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -260;
+        }
+      }
+
+      @keyframes episodeNodePulse {
+        0%,
+        100% {
+          opacity: 0.36;
+          transform: scale(0.88);
+        }
+
+        46% {
+          opacity: 0.86;
+          transform: scale(1.16);
+        }
+      }
+
+      @keyframes episodeSandFlow {
+        from {
+          stroke-dashoffset: 0;
+        }
+
+        to {
+          stroke-dashoffset: -430;
+        }
+      }
+
+      @keyframes episodeSandBreathe {
+        0%,
+        100% {
+          opacity: 0.32;
+        }
+
+        50% {
+          opacity: 0.62;
+        }
+      }
+
     </style>
   </head>
   <body>
     <SiteHeader base="../../" current="episodes" maxWidth="1360px" />
+    <svg
+      class="episode-source-field"
+      viewBox="0 0 1600 1000"
+      preserveAspectRatio="none"
+      aria-hidden="true"
+    >
+      <defs>
+        <linearGradient id="episode-sand-gold" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="rgba(201, 167, 101, 0)" />
+          <stop offset="0.34" stop-color="rgba(201, 167, 101, 0.68)" />
+          <stop offset="0.66" stop-color="rgba(244, 234, 216, 0.42)" />
+          <stop offset="1" stop-color="rgba(201, 167, 101, 0)" />
+        </linearGradient>
+        <linearGradient id="episode-sand-rust" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="rgba(159, 95, 68, 0)" />
+          <stop offset="0.45" stop-color="rgba(201, 90, 55, 0.52)" />
+          <stop offset="1" stop-color="rgba(159, 95, 68, 0)" />
+        </linearGradient>
+        <linearGradient id="episode-sand-cool" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="rgba(74, 154, 158, 0)" />
+          <stop offset="0.5" stop-color="rgba(74, 154, 158, 0.46)" />
+          <stop offset="1" stop-color="rgba(74, 154, 158, 0)" />
+        </linearGradient>
+      </defs>
+      <path class="field-dust-stream" stroke="url(#episode-sand-gold)" d="M-90 688C130 620 292 640 492 736C714 842 944 846 1186 690C1366 574 1514 560 1700 614" />
+      <path class="field-dust-stream fine rust" stroke="url(#episode-sand-rust)" d="M-96 538C96 488 240 532 392 604C552 680 708 716 880 670C1048 626 1168 544 1348 518C1492 498 1588 540 1690 594" />
+      <path class="field-dust-stream fine cool" stroke="url(#episode-sand-cool)" d="M430 146C592 284 722 356 882 370C1060 386 1198 304 1378 278C1492 262 1576 290 1692 344" />
+      <path class="field-dust-stream fine" stroke="url(#episode-sand-gold)" d="M654 900C654 714 706 566 786 426C856 304 856 214 792 74" />
+      <circle class="field-ring" cx="1260" cy="210" r="172" />
+      <circle class="field-ring" cx="1196" cy="604" r="318" />
+      <circle class="field-ring" cx="226" cy="760" r="212" />
+      <path class="field-lane" d="M118 -80V1080" />
+      <path class="field-lane up" d="M314 -80V1080" />
+      <path class="field-lane" d="M510 -80V1080" />
+      <path class="field-lane up" d="M706 -80V1080" />
+      <path class="field-lane" d="M902 -80V1080" />
+      <path class="field-lane up" d="M1098 -80V1080" />
+      <path class="field-lane" d="M1294 -80V1080" />
+      <path class="field-lane up" d="M1490 -80V1080" />
+      <path class="field-arc" d="M-120 196C132 136 328 198 548 162C820 118 1002 38 1248 96C1410 134 1508 108 1700 42" />
+      <path class="field-arc" d="M982 118C1088 194 1226 204 1390 158C1518 122 1594 154 1708 228" />
+      <path class="field-route" d="M-84 710C152 630 322 656 512 748C746 862 990 830 1230 684C1390 586 1518 574 1700 620" />
+      <path class="field-route alt" d="M1650 292C1348 284 1152 352 982 510C818 662 666 738 420 724C224 712 82 748 -110 852" />
+      <path class="field-route alt" d="M116 84C310 308 456 450 620 510C812 580 986 490 1186 394C1334 324 1468 320 1680 384" />
+      <circle class="field-node" cx="512" cy="748" r="4.5" />
+      <circle class="field-node dim" cx="982" cy="510" r="3.8" />
+      <circle class="field-node" cx="1230" cy="684" r="4.2" />
+      <circle class="field-node dim" cx="1186" cy="394" r="3.4" />
+    </svg>
 
     <main class="episode-page">
       <div class="shell episode-grid">
@@ -754,6 +998,58 @@ const structuredData = {
           if (event.key !== 'Enter' && event.key !== ' ') return;
           seekFromEvidence(control, event);
         });
+      });
+
+      const evidenceCloseTimers = new WeakMap();
+
+      function closeEvidence(wrap) {
+        const timer = evidenceCloseTimers.get(wrap);
+        if (timer) window.clearTimeout(timer);
+        evidenceCloseTimers.delete(wrap);
+        wrap.classList.remove('is-open');
+      }
+
+      function openEvidence(wrap) {
+        const timer = evidenceCloseTimers.get(wrap);
+        if (timer) window.clearTimeout(timer);
+        evidenceCloseTimers.delete(wrap);
+        document.querySelectorAll('.evidence-wrap.is-open').forEach((other) => {
+          if (other !== wrap) closeEvidence(other);
+        });
+        wrap.classList.add('is-open');
+      }
+
+      function scheduleEvidenceClose(wrap) {
+        const timer = evidenceCloseTimers.get(wrap);
+        if (timer) window.clearTimeout(timer);
+        evidenceCloseTimers.set(
+          wrap,
+          window.setTimeout(() => {
+            closeEvidence(wrap);
+          }, 180)
+        );
+      }
+
+      document.querySelectorAll('.evidence-wrap').forEach((wrap) => {
+        const mark = wrap.querySelector('.evidence-mark');
+        const popover = wrap.querySelector('.evidence-popover');
+
+        [mark, popover].forEach((element) => {
+          if (!element) return;
+          element.addEventListener('pointerenter', () => openEvidence(wrap));
+          element.addEventListener('pointerleave', () => scheduleEvidenceClose(wrap));
+        });
+
+        wrap.addEventListener('focusin', () => openEvidence(wrap));
+        wrap.addEventListener('focusout', (event) => {
+          if (event.relatedTarget instanceof Node && wrap.contains(event.relatedTarget)) return;
+          scheduleEvidenceClose(wrap);
+        });
+      });
+
+      document.addEventListener('keydown', (event) => {
+        if (event.key !== 'Escape') return;
+        document.querySelectorAll('.evidence-wrap.is-open').forEach(closeEvidence);
       });
     </script>
   </body>

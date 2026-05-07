@@ -62,6 +62,216 @@ main > .content-panel:has(#_top) + .content-panel {
   border-top: 0;
 }
 
+.lens-source-field {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.32;
+  color: var(--sl-color-text-accent);
+  pointer-events: none;
+  mix-blend-mode: screen;
+}
+
+body:has(.lens-source-field) {
+  position: relative;
+  background:
+    radial-gradient(ellipse at 75% 16%, rgba(159, 95, 68, 0.12), transparent 42%),
+    var(--sl-color-bg);
+}
+
+body:has(.lens-source-field)::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background-image: url("/images/jiang-grain.png");
+  background-repeat: repeat;
+  background-size: 256px 256px;
+  pointer-events: none;
+}
+
+body:has(.lens-source-field) .page,
+body:has(.lens-source-field) main {
+  position: relative;
+  z-index: 1;
+}
+
+body:has(.lens-source-field) header.header {
+  position: sticky;
+  top: 0;
+  z-index: 80;
+}
+
+.lens-source-field .lens-field-ring,
+.lens-source-field .lens-field-arc {
+  fill: none;
+  stroke: rgba(201, 167, 101, 0.1);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+
+.lens-source-field .lens-field-ring {
+  stroke: rgba(244, 234, 216, 0.055);
+}
+
+.lens-source-field .lens-field-lane {
+  fill: none;
+  stroke: rgba(201, 167, 101, 0.1);
+  stroke-width: 0.95;
+  stroke-linecap: round;
+  stroke-dasharray: 1 18;
+  vector-effect: non-scaling-stroke;
+  animation: lensLaneDown 38s linear infinite;
+}
+
+.lens-source-field .lens-field-lane.up {
+  opacity: 0.7;
+  animation-name: lensLaneUp;
+  animation-duration: 46s;
+}
+
+.lens-source-field .lens-field-route {
+  fill: none;
+  stroke: rgba(201, 167, 101, 0.24);
+  stroke-width: 1.15;
+  stroke-linecap: round;
+  stroke-dasharray: 1 13;
+  vector-effect: non-scaling-stroke;
+  animation: lensRouteDrift 36s linear infinite;
+}
+
+.lens-source-field .lens-field-route.alt {
+  opacity: 0.62;
+  animation-duration: 48s;
+  animation-direction: reverse;
+}
+
+.lens-source-field .lens-field-node {
+  fill: rgba(201, 167, 101, 0.72);
+  transform-origin: center;
+  animation: lensNodePulse 7.2s ease-in-out infinite;
+}
+
+.lens-source-field .lens-field-node.dim {
+  opacity: 0.38;
+  animation-delay: -2.8s;
+}
+
+.lens-source-field .lens-field-dust-stream {
+  fill: none;
+  stroke-linecap: round;
+  stroke-width: 2.1;
+  stroke-dasharray: 1 7;
+  vector-effect: non-scaling-stroke;
+  opacity: 0.44;
+  animation:
+    lensSandFlow 56s linear infinite,
+    lensSandBreathe 11s ease-in-out infinite;
+}
+
+.lens-source-field .lens-field-dust-stream.fine {
+  stroke-width: 1.2;
+  stroke-dasharray: 0.7 6.5;
+  opacity: 0.32;
+  animation-duration: 70s, 13s;
+}
+
+.lens-source-field .lens-field-dust-stream.cool {
+  opacity: 0.15;
+  animation-duration: 76s, 15s;
+  animation-direction: reverse, normal;
+}
+
+.lens-source-field .lens-field-dust-stream.rust {
+  opacity: 0.26;
+  animation-duration: 62s, 12s;
+}
+
+@media (max-width: 720px) {
+  .lens-source-field {
+    opacity: 0.22;
+  }
+
+  body:has(.lens-source-field)::before {
+    background-size: 192px 192px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lens-source-field .lens-field-lane,
+  .lens-source-field .lens-field-route,
+  .lens-source-field .lens-field-node,
+  .lens-source-field .lens-field-dust-stream {
+    animation: none;
+  }
+}
+
+@keyframes lensLaneDown {
+  from {
+    stroke-dashoffset: 0;
+  }
+
+  to {
+    stroke-dashoffset: 260;
+  }
+}
+
+@keyframes lensLaneUp {
+  from {
+    stroke-dashoffset: 0;
+  }
+
+  to {
+    stroke-dashoffset: -260;
+  }
+}
+
+@keyframes lensRouteDrift {
+  from {
+    stroke-dashoffset: 0;
+  }
+
+  to {
+    stroke-dashoffset: -260;
+  }
+}
+
+@keyframes lensNodePulse {
+  0%,
+  100% {
+    opacity: 0.36;
+    transform: scale(0.88);
+  }
+
+  46% {
+    opacity: 0.86;
+    transform: scale(1.16);
+  }
+}
+
+@keyframes lensSandFlow {
+  from {
+    stroke-dashoffset: 0;
+  }
+
+  to {
+    stroke-dashoffset: -430;
+  }
+}
+
+@keyframes lensSandBreathe {
+  0%,
+  100% {
+    opacity: 0.32;
+  }
+
+  50% {
+    opacity: 0.6;
+  }
+}
+
 .sl-markdown-content .lens-point-anchor {
   display: block;
   height: 0;
