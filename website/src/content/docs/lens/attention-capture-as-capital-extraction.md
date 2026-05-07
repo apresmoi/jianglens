@@ -35,6 +35,20 @@ Money then becomes the abstract object that can occupy a whole life. Grain is co
 <span id="capital-extracts-attention" class="lens-point-anchor"></span>
 Capital extracts attention when it turns freedom, ownership, equity, money, debt, or ambition into a system where people direct their own focus toward work and call that capture independence.
 
+## The Dollar And AI Compete For Consciousness
+
+The **2026-03-17** Game Theory lecture makes the attention-capital mechanism more explicit and more dangerous. Jiang begins from the cave again, but this time the object is not only a school wall, platform, or employer. The object is the world economy. He says reality is a collective hallucination made by consciousness, imagination, and perception; then the vase example turns that metaphysics into economics. [Conscious attention creates wealth, while money and capital extract and store consciousness]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004"}.
+
+That formulation changes the scale of the page. Temples, pyramids, Homer, the Bible, the U.S. dollar, and artificial intelligence are not grouped because they are the same kind of institution. They are grouped because each can focus consciousness into a world-making object. Jiang says pyramids and temples focus attention into worship, Homer focuses Greek civilization, and the Bible focuses modern believers; then he names [the U.S. dollar as the main current mechanism for extracting and storing wealth]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005"}. AI enters as the successor force: [a war for human consciousness between the dollar-world and artificial intelligence]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006"}.
+
+<!-- lens-point id="attention-dollar-ai-consciousness-war" concept="attention-capture" evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0011 video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0012" -->
+<span id="attention-dollar-ai-consciousness-war" class="lens-point-anchor"></span>
+The dollar and AI become rival consciousness apparatuses when wealth is treated as stored attention: the old financial order extracts consciousness through money, price hierarchy, and global rules, while AI appears as a new contender for organizing the soul's reality-making force.
+
+The later institutional passage shows how the dollar side works. Central banks and global financial institutions create a game in which the U.S. dollar becomes [a mechanism of wealth extraction and wealth storage]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0011"}. Everyone plays the global economy, but [the game masters write the rules and incentives]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0011"}. One mechanism is the dollar tax: [every dollar user pays the printer]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0012"}. Another is price hierarchy: [resources sit below manufacturing, manufacturing below knowledge, and finance at the top]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0012"}. In this reading, the financial order does not merely move money. It assigns reality, rank, and value to the whole world.
+
+This section should stay narrow. It is not a general theory of AI, and it should not turn every technology claim into this concept. AI belongs here only when the source says it captures, stores, focuses, or redirects consciousness. The dollar belongs here only when it is acting as a wealth-storage and extraction apparatus, not every time Jiang mentions currency. The public lens point is the rivalry over attention as the substance of reality.
+
 ## Anxiety Is The Discipline
 
 The mechanism does not stop at incentive. It needs anxiety because rest is a threat. Stored security lets a person stop. A granary, savings, a stable home, or a believable future interrupts extraction. Jiang therefore treats debt, poverty, war, and depression as attention technologies, not only as unfortunate side effects.
@@ -80,7 +94,8 @@ The Great Books become positive practice because they compete for attention at t
 - **Energy Object**: What human energy is being sought: concentration, desire, anxiety, imagination, obedience, creativity, or trust?
 - **Freedom Trap**: Where does a person feel free because the system has made self-policing more efficient than direct command?
 - **Rest Destruction**: What stored security has been burned so attention returns to work?
-- **Wall Test**: Which surface is being treated as the world itself: school, screen, market, money, credential, platform, or AI answer?
+- **Wall Test**: Which surface is being treated as the world itself: school, screen, market, dollar order, credential, platform, or AI answer?
+- **Storage Apparatus**: What stores consciousness as wealth: money, temple, story, scripture, platform, financial order, or AI system?
 - **Mobility Test**: Who can leave when extraction produces revolt, and who remains bound to place, debt, family, or status?
 - **Rival Universe**: What practice is strong enough to reclaim attention without becoming another wall?
 
@@ -89,6 +104,7 @@ The Great Books become positive practice because they compete for attention at t
 - **2025-12-09**, [Secret History #25: Capital of Evil](/episodes/predictive-history-b5fthagng8c/): Jiang defines capital as [extraction of human energy]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0001"}, makes freedom and equity into better attention capture, reads debt and destroyed security as focus discipline, and says mobile capital has no homeland.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): The cave lecture gives the metaphysical basis: [attention is energy and true wealth]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}, captured imagination makes constructed reality feel real, and escape requires seeing the dead world as prison.
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/): The school lecture supplies an institutional neighbor. School becomes a player game where [actual learning is displaced by pleasing parents and teachers, face, grades, and minimum viable work]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0024 video:predictive-history-ks-muauq62e@transcript:v1#seg-0025 video:predictive-history-ks-muauq62e@transcript:v1#seg-0027"}.
+- **2026-03-17**, [Game Theory #13: Epstein's World](/episodes/predictive-history-aqsdsqdlfxk/): The cave model becomes a global financial and AI rivalry: [conscious attention creates wealth]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004"}, the dollar stores and extracts it through the global financial game, and AI is named as the new contender for human consciousness.
 
 ## Related Concepts
 
