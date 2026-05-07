@@ -61,6 +61,20 @@ This is why Jiang can connect Dubai's safety premium, desalination plants, the p
 
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
+## Ceasefire Theater And War Architecture
+
+The April 21, 2026 World War Trump lecture extends chokepoint empire into a diagnostic for peace language. Jiang begins from a reported two-week U.S.-Iran ceasefire and possible Islamabad negotiations, then immediately says [the war will not end because it belongs to a larger American strategy to maintain empire]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"}. That sentence is not useful as an undated forecast by itself. Its lens value is the method: do not confuse the public signal with the material architecture that keeps moving underneath it.
+
+The lecture makes the distinction concrete. Trump's signals change from ceasefire to bombing, so Jiang says to [ignore the signals and focus on the larger American strategy]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015"}. Congress appears to debate war powers, but he reads the failed restriction as theater because, in his account, the National Defense Strategy is already [the blueprint for how the Pentagon will fight wars for the next five to ten years]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"}. The strategic question is therefore not whether one ceasefire headline sounds calm. It is whether blockade, oil fires, draft preparation, industrial conversion, defense planning, and trade chokepoints still point in the same direction.
+
+<!-- lens-point id="strategy-ceasefire-theater-war-architecture" concept="strategy-material-test" evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051" -->
+<span id="strategy-ceasefire-theater-war-architecture" class="lens-point-anchor"></span>
+Ceasefire theater becomes a material-test problem when public peace signals obscure a continuing war architecture: blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and financing systems keep organizing the next round even while the language says calm.
+
+The same source folds this into the access-control map. Jiang says the strategy can tolerate enormous energy disruption because it prioritizes strategic interests; the Navy can [contain the world's chokepoints and make trade depend on American generosity]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"}. America does not have to control every ocean if it controls enough passages, because the point is [to control China, not destroy China]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"}. The Western Hemisphere then becomes the fortress that sells energy, resources, weapons, and financing to a world at war; Jiang's compression is that America maintains empire by [creating conflict while controlling global trade]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051"}.
+
+This belongs here rather than on the legitimacy or stories pages because the active test is not only optics. Political theater matters, but the strategy page asks whether the material architecture underneath the performance is still being built. It borders [Nation As God-Machine](/lens/nation-as-god-machine/) when draft, home-front discipline, and war industry become population machinery. It borders [Power As Alchemy](/lens/power-as-alchemy/) when dollar financing makes dependence feel normal. It borders [How Stories Control Reality](/lens/how-stories-control-reality/) when ceasefire, peace, and strength supply the surface script. This page owns the harder question: what infrastructure keeps the war going after the peace story begins?
+
 ## Four-Dimensional War
 
 The March 2026 Pax Judaica lecture adds a sharper diagnostic for wars that appear militarily simple. Jiang says war is fought across [narrative, political, economic, and military dimensions]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0017"}. A strategy can fail not because one dimension is irrelevant, but because the actor orders them badly.
@@ -193,6 +207,8 @@ In **March 2026**, the U.S.-Iran lecture shows the access-control problem before
 
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
+In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
+
 ## Source Trail
 
 - **2024-04-24**, [Military Dominance Is Not Victory](/episodes/predictive-history-xeepoxqdu5e/)  
@@ -259,6 +275,13 @@ In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pen
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007`
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0009`
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012`
+
+- **2026-04-21**, [Game Theory #21: World War Trump](/episodes/predictive-history-ts-aa6lqf6i/)
+  Ceasefire language becomes a material-test problem when the larger war architecture still points through blockade, energy disruption, war economy, defense strategy, chokepoints, and dollar-financed supply.
+  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001`
+  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015`
+  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042`
+  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051`
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
   War must be judged by economics, organization, and logistics.  
