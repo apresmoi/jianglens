@@ -105,6 +105,22 @@ Hell becomes most dangerous when it is chosen. Jiang's Dante reads will and desi
 
 This is where the guide problem meets free will. A false guide does not have to drag the soul into hell. He can teach the soul to want the road. He can make piety, duty, empire, hatred, and deserved suffering feel like the natural grammar of reality.
 
+## Hell As Imagination Turned Against Itself
+
+The **2026-04-29** Dante lecture gives the later Inferno version of the same burden. Jiang starts from a cosmic problem: a perfect God cannot learn, change, or imagine. Humans matter because they are imperfect. Bodies, pain, pleasure, death, sin, risk, redemption, and self-forgiveness make creativity possible; [free will is what makes sin, imagination, risk, redemption, and self-forgiveness possible]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0002"}.
+
+The positive path is love. Jiang says the divine spark in humans is love, and the spark returns toward the source by loving another person, not money, a pet, or a machine. Love does not require the other person to love back; it is giving. When love moves outward, [the person's understanding of the universe expands, and that expansion empowers imagination]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0005"}. Odysseus becomes the example: [love for Penelope expands imagination, the trauma of war breaks him, and the return to love lets him heal]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0006 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0007 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0008"}.
+
+The negative path reverses the same power. If the soul cannot love or forgive, imagination does not disappear. It turns inward. Jiang says heaven and hell are constructions of imagination and consequences of emotional state; when a person cannot forgive others or the self, [the soul moves downward into a hell it creates to imprison itself]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010"}. Achilles is not redeemed by victory over Hector. He descends into guilt until Priam's forgiveness lets him forgive himself.
+
+<!-- lens-point id="free-will-self-made-hell-needs-self-redemption" concept="free-will-burden" evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056" -->
+<span id="free-will-self-made-hell-needs-self-redemption" class="lens-point-anchor"></span>
+Self-made hell is imagination turned against itself: blocked love and blocked self-forgiveness make the soul build its own prison, and no one can redeem the person by force because redemption has to be chosen through love, self-reflection, and free will.
+
+That makes the lecture's Cato-Marcia paradox more than a literary puzzle. [Cato reaches purgatory while Marcia remains in limbo]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0053"}. If love is giving, why does Cato not rescue his wife? Jiang's answer is free will: Cato can will purgatory for himself through desire, self-reflection, and self-forgiveness, but he cannot force Marcia into the same motion. [If you truly love someone, you let that person choose]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"}.
+
+This belongs here rather than on a separate love page because the controlling mechanism is agency. [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) owns forgiveness as the test of social order. The held love-as-recognition seed owns the narrower relation question when love itself becomes the object. [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) owns Virgil's mediation and bribe-like speech before Cato. Free Will owns the harshest claim: even love cannot make another soul choose redemption without violating the freedom that makes redemption real.
+
 ## The Inquisitor's Mercy
 
 Dostoevsky gives the political form of the problem.
@@ -154,12 +170,15 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2025-12-02**, [Secret History #23: The Organization of Evil](/episodes/predictive-history-6xgac-oqcbu/): Paul and Augustine supply the institutional inversion: freedom, love, ritual body, and salvation are turned into obedience.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): Plato's cave turns free will into chosen slavery and the refusal to let the false world remain final.
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): Free will and reciprocity become contradictions; hell is chosen because will and desire form the soul.
+- **2026-04-29**, [Great Books #10: Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): Dante's Inferno gives the self-made hell version. Love expands imagination; blocked love and blocked self-forgiveness make hell; Cato shows that even love cannot force another person into redemption.
 
 ## Diagnostics
 
 - **Managed Mercy**: Who promises to make people happy by taking away the burden of choosing?
 - **Chosen Lie**: Where does the person call coercion freedom because the desired future was installed by the wall?
 - **Contractual God**: Where has love been translated into obedience, duty, payment, grades, debt, or institutional access?
+- **Self-Made Hell**: Where has imagination turned inward because love, forgiveness, or self-forgiveness is blocked?
+- **Non-Coercive Love**: Where does rescue become a violation because the other person has to choose self-reflection and redemption?
 - **Truth-Becoming**: Where is truth treated as information to possess, and where does it require self-overcoming, moral action, and responsibility to others?
 - **No Endpoint**: Where does an institution, teacher, party, church, or ideology claim final arrival where Jiang's Asha would require becoming, correction, and return to others?
 - **Obedient Freedom**: Where does a system say the person is most free when disobedience has become unimaginable?
