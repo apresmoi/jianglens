@@ -71,6 +71,20 @@ The late source return makes the point geopolitical. Jiang says globalization wo
 
 This section stays inside game theory because the mechanism is not immigration as a topic. The reusable lens is the distinction between playing well and authoring the game. It touches [Education As A Soul Game](/lens/education-as-a-soul-game/) because school can form obedient excellence, and it touches [Nation As God-Machine](/lens/nation-as-god-machine/) because demographic groups may fight over who sets the rules. But the method question is sharper: when someone praises your success, ask whether success gives command or only keeps you inside the house's game.
 
+## Constraint Can Make Terror Rational
+
+The Mongol lecture adds the ugliest version of the method. Jiang does not begin by asking whether the Mongols were brutal. He begins by asking [what logic or reasoning sat behind the brutality]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0034"}. The answer is not moral approval. It is constraint analysis. Game theory asks what optimal strategy looks like for a player who cannot win the stronger actor's preferred game.
+
+The small-player example is deliberately simple. The larger fighter wants a fair fight because fairness favors his mass; the smaller fighter loses if he accepts that board. So the weaker actor must choose the vulnerable moment and, in Jiang's blunt phrase, [cheat in order to win]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0035"}. The Mongol case scales that logic into empire. A low-population mobile force cannot afford attrition, long sieges, or normal occupation. It has to shorten the game, make resistance irrational, and make reputation do work that administration cannot do.
+
+<!-- lens-point id="game-theory-terror-as-constraint-strategy" concept="game-theory-method" evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0034 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0035 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0042 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0045" -->
+<span id="game-theory-terror-as-constraint-strategy" class="lens-point-anchor"></span>
+Terror becomes a constraint strategy when a weaker actor cannot win the stronger actor's fair game, so it weaponizes escalation, fear, and reputation to make resistance feel irrational and to replace administrative capacity.
+
+The sequence is precise. Escalation dominance turns one destroyed city into a message to every other city: [a viable threat must prove it can climb violence higher than others expect]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0042"}. Psychological warfare then substitutes for governance: [if you cannot govern people, you make them afraid to rebel]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0042"}. Reputation completes the move. The Mongols want the story that they are demonic and unbeatable because [most people then surrender, pay tribute, or pass the fear onward]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0044 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0045"}.
+
+This belongs inside game theory because the reusable mechanism is not "be terrifying." It is the conversion of constraint into a changed payoff structure. In this source, terror becomes rational inside a board where the actor lacks population, time, logistics, and governing capacity, and where reputation can move faster than force. The same material also touches [The Borderland Engine](/lens/the-borderland-engine/) because Jiang reads the Mongols as a destructive borderland case. But borderland explains the margin's energy and contempt; game theory explains why the margin's constraints make unfair play, fear, and reputation look like the winning move.
+
 ## Coordination Beats Mass
 
 Jiang's most explicit formula appears in the July 2025 lecture on the universal law of game theory. The lecture states a deliberately compressed rule: [winners combine mass, energy, and coordination]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0008"}. Mass is not just headcount; it includes cohesion. Energy is not mere activity; it is motivation and openness to being wrong. Coordination is the ability to work together toward an end, and Jiang stresses that [coordination matters most, then energy, then mass]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0009"}.
@@ -140,6 +154,7 @@ Ask:
 - Who are the players, including silent institutions, audiences, donors, families, factions, bureaucracies, and future rivals?
 - What are the rules and constraints, including geography, status codes, money, law, taboo, time, supply, hierarchy, and fear of humiliation?
 - What is the declared prize, and what behavior suggests a different prize?
+- What game is the stronger actor trying to make everyone accept, and who can survive only by refusing that board?
 - Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
 - Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
@@ -155,6 +170,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2024-05-29**, [Geo-Strategy #8: The Iran Trap](/episodes/predictive-history-7y-hbz6loeo/)  
   Historical analogy and game theory are paired as methods for asking why rational actors may choose a trap, and the actor-by-actor pass separates U.S., Iranian, Israeli, and Saudi payoffs.
+
+- **2025-03-18**, [Civilization #39: Genghis Khan, World Shatterer](/episodes/predictive-history-mpqzapnjykm/)
+  The Mongol case shows optimal strategy under harsh constraint: a weaker mobile actor makes the stronger actor's fair game unplayable, then uses escalation, psychological warfare, and demonic reputation to make resistance irrational.
 
 - **2025-06-05**, [Civilization #58: Birth of the Nation-State](/episodes/predictive-history-tquo1usc5nw/)  
   Nationalism spreads as a coordination game: once one people groups itself into a nation-state, others must group or lose.
