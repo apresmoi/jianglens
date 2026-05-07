@@ -17,7 +17,7 @@ Here, civilization does not mean administration, bureaucracy, or direct institut
 <span id="poetry-language-builds-common-world" class="lens-point-anchor"></span>
 Poetry creates civilizational reality when it gives people language they internalize, so private perception becomes a shared world that can be remembered, spoken, and organized together.
 
-The source trail begins in the Great Books sequence around Homer, poetry, and Dante, then reaches toward the later Hollywood-Pentagon case where narrative starts organizing public reality. Later sources may split the concept, sharpen it, or connect it more directly to Jiang's geopolitical readings.
+The source trail runs through Jiang's Homer and Dante lectures, a 2025 modernism lecture that turns literature inward, and the later Hollywood-Pentagon case where narrative starts organizing public reality. Later sources may split the concept, sharpen it, or connect it more directly to Jiang's geopolitical readings.
 
 ## The Core Mechanism
 
@@ -147,6 +147,20 @@ Dante also makes the darker claim explicit. Virgil is not only a guide through h
 
 This expands the concept. Poetry creates civilization, but it can also contest one civilization's existing structure. A poem can found, preserve, infect, subvert, democratize, and remake. The same power that gives Homer to Greece lets Dante break mediation and reopen access to God.
 
+## Modernism As Private Priesthood
+
+The 2025 modernism lecture supplies a negative case. Poetry can democratize access to reality, but literature can also make access narrower, more private, and more dependent on the artist's own mind.
+
+Jiang frames Joyce's *Ulysses* as a modernist attempt to imitate and surpass Dante while invoking Homer. The comparison matters because it reverses the direction of access. Dante uses poetry to bring ordinary readers toward the mind of God and the truth of the world. Joyce, in Jiang's polemic, makes readers spend years or decades trying to enter Joyce's own mind: [the artist becomes the god]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0045"}.
+
+The problem is not difficulty by itself. Jiang's poetry model can handle depth, mystery, and long interpretation. The danger is a different form of mediation. Modern literature becomes [elitist, self-referential, allusive, and inward]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0046"}. Homer brings beauty and truth to the people; Dante contests elite mediation by writing a world ordinary readers can enter; Joyce makes access pass through private allusion, specialist training, and the artist's self-enclosed consciousness.
+
+<!-- lens-point id="poetry-modernism-private-priesthood" concept="poetry-civilization" evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0045 video:predictive-history-cylkqpsffry@transcript:v1#seg-0046 video:predictive-history-cylkqpsffry@transcript:v1#seg-0048" -->
+<span id="poetry-modernism-private-priesthood" class="lens-point-anchor"></span>
+Literature reverses poetry's democratic power when the artist becomes the god: access to truth moves from a shared world into elite allusion, private consciousness, self-salvation, and the reader's long apprenticeship to the artist's mind.
+
+The same source then contrasts modern literature with Dostoevsky. Dostoevsky's heart is deep, but it remains in relation: psychology responds to the world, and salvation requires others. Modern literature turns that relation inward. [Self-discovery promises self-mastery and the self becomes its own salvation]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0048"}. This is why the modernism case belongs on the poetry page rather than only in a broader cult-of-self diagnosis. It shows what happens when the civilizational power of literature is privatized. The poem still forms reality, but the reality it forms is an isolated self trying to save itself.
+
 ## What This Lets You See
 
 This concept lets the lens read literature as social infrastructure.
@@ -163,10 +177,12 @@ It also warns that poetic power is not automatically good. A world can be made t
 - What desire does it train?
 - Which authority does it make trustworthy?
 - Who gains access to reality, and who is kept behind mediation?
+- Does access move toward a shared world, or into a private priesthood around the artist's mind?
 - Does it open imagination or capture it?
 
 ## Chronology So Far
 
+- **2025-06-04**, [Civilization #57](/episodes/predictive-history-cylkqpsffry/): Modernism gives the negative case. [Joyce turns the path toward truth into entry into Joyce's own mind]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0045"}, while [modern literature becomes elite, self-referential, inward, and tempted by self-salvation]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0046 video:predictive-history-cylkqpsffry@transcript:v1#seg-0048"}.
 - **2026-01-07**: Great Books #1 gives the metaphysical premise. [A great book is a universe the reader can enter]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0032"}, and modern material reality is the dead world that competes for attention and imagination.
 - **2026-01-21**: Great Books #3 gives the main civilizational mechanism. [Homer creates Greece by creating language, memory, heroic presence, public speech, tragedy, and metaphysical access]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0019 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0024 video:predictive-history-xrp407wsa0w@transcript:v1#seg-0033"}.
 - **2026-04-07**: Game Theory #19 begins testing the bridge into public reality. [Hollywood can become a war-making imagination that feeds back into the Pentagon itself]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0041"}.
