@@ -1,10 +1,13 @@
 # Platform Infrastructure As Control Surface
 
 Date: 2026-05-07
-Status: proposal seed
+Status: reviewed/held proposal seed
 Work type: proposal synthesis
 
-Review: `content/workflow/reviews/platform-infrastructure-as-control-surface/local-judge-2026-05-07.md`
+Reviews:
+
+- `content/workflow/reviews/platform-infrastructure-as-control-surface/local-judge-2026-05-07.md`
+- `content/workflow/reviews/platform-infrastructure-as-control-surface/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
