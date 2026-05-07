@@ -166,3 +166,5 @@
 
 - 2026-05-07: Modern visible-scapegoat mechanism belongs inside taboo-as-control-surface. Boundary: use when hidden capital, empire, or institutional power gives itself a visible managerial face so blame, rage, or guilt lands on the intermediary instead of the structure assigning the role; keep caveats explicit and do not let this become an unqualified conspiracy claim.
 - 2026-05-07: Borderland military-form lock belongs inside the-borderland-engine. Boundary: use when a center's military technology, status order, land system, or political form prevents adaptation to a mobile margin; route battlefield feedback to strategy and payoff naming to game theory unless the hierarchy-lock mechanism is explicit.
+
+- 2026-05-07: National credit as borrower transfer belongs inside legitimacy-fiction. Boundary: use when debt, repayment, or obligation moves from a mortal ruler to Parliament, nation, people, constitution, or another durable political body so trust survives succession and can finance action; route money-as-belief to power-alchemy and war-finance constraint to strategy-material-test.
