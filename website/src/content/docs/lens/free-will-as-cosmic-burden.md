@@ -35,6 +35,14 @@ Free will makes truth something a person must become: Asha is not information or
 
 The later Nietzsche passages prevent this from hardening into a new doctrine. Wisdom that stays alone is not yet Asha. Whatever seems true has to be suspected, negated, and rebuilt; [Asha is the daily fight to burn false knowledge away]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0045 video:predictive-history-deledxh0ceg@transcript:v1#seg-0046"}. Even the teacher must eventually be left behind if the teacher's truth replaces the student's own becoming. The burden is not to possess the correct answer. It is to keep choosing truth as a process of self-destruction, renewal, and responsibility.
 
+The Q&A at the end of the same lecture makes the pressure harder. Asha cannot be reduced to private conviction, because hatred and ego can also feel like truth from inside. Jiang answers the Hitler question by saying that Asha requires letting go of hatred and judgment, because [Ahura Mazda is complete forgiveness, compassion, and love]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0058"}; in his formulation, [there is no external hell, only the hell humans create in their hearts]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0061"}. The practical enemies are [ego, fear, teacher recommendation, money, status, and the social need to be liked]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0059 video:predictive-history-deledxh0ceg@transcript:v1#seg-0060"}. The person has to risk solitude because [what matters is the individual pursuit of truth, not what others think]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0060"}.
+
+The final student question then removes the fantasy of arrival. Asha changes across lives because God is creativity, not a fixed credential to possess. Jiang says [there is no endpoint or destination, only a constant process of becoming]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0066 video:predictive-history-deledxh0ceg@transcript:v1#seg-0067"}. Even if someone moved closer, the result would not be private completion. It would create a new duty to help others move closer too. Free will therefore remains a burden after liberation: truth keeps asking to be chosen, corrected, and returned.
+
+<!-- lens-point id="free-will-asha-has-no-endpoint" concept="free-will-burden" evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0060 video:predictive-history-deledxh0ceg@transcript:v1#seg-0061 video:predictive-history-deledxh0ceg@transcript:v1#seg-0063 video:predictive-history-deledxh0ceg@transcript:v1#seg-0066 video:predictive-history-deledxh0ceg@transcript:v1#seg-0067" -->
+<span id="free-will-asha-has-no-endpoint" class="lens-point-anchor"></span>
+Asha has no endpoint in Jiang's free-will model: truth is a changing process of becoming that requires solitude from social fear, release from hatred, and renewed responsibility to help others move closer rather than private possession of a final answer.
+
 ## Chosen Slavery
 
 Jiang's cave lecture makes free will cruel by turning the prisoner into a reality-maker.
@@ -141,7 +149,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2025-05-20**, [Civilization #53: Dostoevsky and the Soul of Russia](/episodes/predictive-history-0ralqcpwuh0/): The Grand Inquisitor becomes the political argument against freedom: weak people want authority to carry the burden.
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/): The Monad gives free will because love is trust; denial of free will becomes anti-love.
 - **2025-10-15**, [Secret History #9: The Theory of Everything](/episodes/predictive-history-9murgjjg4aa/): God and Satan cannot interfere directly; darkness becomes the test in which human light can shine.
-- **2025-11-14**, [Secret History #18: Asha Is the Truth You Must Become](/episodes/predictive-history-deledxh0ceg/): Asha intensifies the early Zoroastrian layer. Truth becomes lived virtue, free choice, return to others, and the ongoing destruction of false knowledge.
+- **2025-11-14**, [Secret History #18: Asha Is the Truth You Must Become](/episodes/predictive-history-deledxh0ceg/): Asha intensifies the early Zoroastrian layer. Truth becomes lived virtue, free choice, return to others, the ongoing destruction of false knowledge, and a no-endpoint process of becoming.
 - **2025-11-27**, [Secret History #22: The Divine Spark of Jesus](/episodes/predictive-history-pp0e1gb80wq/): Jesus becomes dangerous because he tells slaves the spark is inside them and leaves responsibility with the person rather than the institution.
 - **2025-12-02**, [Secret History #23: The Organization of Evil](/episodes/predictive-history-6xgac-oqcbu/): Paul and Augustine supply the institutional inversion: freedom, love, ritual body, and salvation are turned into obedience.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): Plato's cave turns free will into chosen slavery and the refusal to let the false world remain final.
@@ -153,6 +161,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **Chosen Lie**: Where does the person call coercion freedom because the desired future was installed by the wall?
 - **Contractual God**: Where has love been translated into obedience, duty, payment, grades, debt, or institutional access?
 - **Truth-Becoming**: Where is truth treated as information to possess, and where does it require self-overcoming, moral action, and responsibility to others?
+- **No Endpoint**: Where does an institution, teacher, party, church, or ideology claim final arrival where Jiang's Asha would require becoming, correction, and return to others?
 - **Obedient Freedom**: Where does a system say the person is most free when disobedience has become unimaginable?
 - **Trained Desire**: What does the soul move toward before it can explain why?
 - **Agency Test**: Does the relationship increase the person's capacity to love and imagine, or does it replace that capacity with compliance?
