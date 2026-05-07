@@ -23,7 +23,11 @@ The Yale safe-space lecture starts with a campus dispute, but Jiang refuses to l
 
 The charts in that lecture make the moral image concrete. Teaching declines while administration rises. Managers multiply while teachers and researchers do more paperwork. Jiang's claim is not only that universities waste money. It is that [the people who do real work lose ground while managers get more jobs, more pay, and more paperwork to impose]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0028 video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0030"}. The institution still calls itself a school, but its center of gravity has moved from learning to management.
 
-The pattern spreads beyond university. Government departments, the military, health insurance, and the state all show the same logic. Jiang uses Kafka's *The Trial* to name the literary form: procedure proceeds even when no one can explain the crime. His addition is practical. Bureaucrats prefer compliant targets because real work is hard and dangerous. In the Toronto park story, the authorities keep pressing the easy case while a real fight happens nearby. That is why he says society can become so bureaucratic that [bureaucrats only think about how to make problems for ordinary citizens because life becomes easier for them]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048"}.
+The pattern spreads beyond university. Government departments, the military, health insurance, and the state all show the same logic. Jiang uses Kafka's *The Trial* to name the literary form: [procedure proceeds even when no one can explain the crime]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0044 video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045"}. His addition is practical. Bureaucrats prefer compliant targets because real work is hard and dangerous. In the Toronto park story, the authorities keep pressing the easy case while a real fight happens nearby. That is why he says society can become so bureaucratic that [bureaucrats only think about how to make problems for ordinary citizens because life becomes easier for them]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048"}.
+
+<!-- lens-point id="bureaucracy-processes-compliant-innocence" concept="bureaucracy-institutional-death" evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045 video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0046 video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048" -->
+<span id="bureaucracy-processes-compliant-innocence" class="lens-point-anchor"></span>
+Bureaucracy processes compliant innocence when procedure needs activity more than justice: innocent or manageable people become attractive targets because they justify work without the risk of confronting harder realities.
 
 The human result is alienation. People do not want to work because the organization no longer needs them as humans. They cannot negotiate, cannot rise, and feel like machines. In Jiang's closing phrase, [the world is becoming more bureaucratic and it is killing us]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0064"}. The death is not only economic. It is civic and spiritual: people stop believing their effort changes anything.
 
@@ -83,6 +87,8 @@ Ask what the institution is supposed to produce, then ask who is actually multip
 
 Ask whether problems are being solved at the human level or escalated into procedure. If direct conversation, apprenticeship, local knowledge, or ordinary judgment would solve the issue, but the institution turns it into an office, investigation, form, or credential, bureaucracy is feeding.
 
+Ask who is easiest to process. A bureaucracy that avoids dangerous work while pursuing compliant people is no longer responding to guilt, need, or risk. It is selecting targets that keep procedure alive.
+
 Ask what the bureaucracy monopolizes. Status? Literacy? Data? History? Funding? Promotion? Narrative? The stronger the monopoly over the reality in which everyone else must speak, the more likely the institution can survive while killing rival sources of life.
 
 Ask whether the system can still admit the person who founded its greatness. Could this university hire the teacher who would disrupt it? Could this science fund Newton's theology, Galileo's abrasiveness, or Einstein's odd path? Could this empire tolerate artists, merchants, generals, prophets, and borderland innovators who do not need official approval?
@@ -110,9 +116,10 @@ Finally, ask what exits remain. Jiang's modern bureaucracy lecture ends with gri
   `video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0064`
 
 - **2025-10-11**, [Secret History #8: Death by Bureaucracy](/episodes/predictive-history-hk-yhi3-prw/)  
-  The modern formulation names bureaucracy as a problem-making, rent-seeking management class spreading from universities into government, military, healthcare, and civic life.  
+  The modern formulation names bureaucracy as a problem-making, rent-seeking management class spreading from universities into government, military, healthcare, and civic life; Kafka supplies the compliant-innocence model for procedure detached from meaning.
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0022`  
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0030`  
+  `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045`
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048`  
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0064`
 
