@@ -79,6 +79,12 @@ Arabia supplies the religious-revolutionary version. From the imperial capitals,
 
 The Vikings supply the practical-oceanic version. Jiang wants them added to the usual pillars of Western civilization because they are not only raiders. They are poor, utilitarian, egalitarian, mobile, inventive, and opportunistic. Their open cooperative competition produces ship technology; their poverty and geography keep hierarchy lower; their contact with other cultures makes them absorptive. The Viking borderland can raid monasteries, trade, intermarry, adopt languages, lend its own culture outward, and become part of the civilization it pressures [without ceasing to have mattered as a margin]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0001 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0016 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0035 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0040"}.
 
+The same lecture adds a more precise adaptation test. Europe has armored knights, land grants, and feudal rank; [Viking longships move through the rivers those knights cannot defend]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0043"}. Jiang's point is not just that one side has better equipment. It is that [changing tactics would mean changing hierarchy]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0044"}. A center may recognize the threat and still fail to answer because its military form is tied to its political form: [naval Athens tends toward democracy, Macedonian cavalry toward monarchy, and Spartan hoplites toward oligarchy]{evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0045 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0047"}. The margin exploits not ignorance but institutional self-protection.
+
+<!-- lens-point id="borderland-military-form-locks-hierarchy" concept="borderland-engine" evidence="video:predictive-history-7k5xolzwmls@transcript:v1#seg-0043 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0044 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0045 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0047" -->
+<span id="borderland-military-form-locks-hierarchy" class="lens-point-anchor"></span>
+A borderland can exploit a center whose military form is locked to its political hierarchy: adapting to the margin would require not only new tactics but a reorganization of status, land, command, and social order.
+
 The Mongols supply the sharper warning. On **2025-03-18**, Jiang explicitly calls them [a borderland people fighting empires]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0037"}: they have energy, openness, and opportunism, while the empires have mass, organization, and depth. But their constraints are brutal: low population, vast distance, supply problems, and no real capacity or desire to govern conquered peoples. Terror then becomes rational inside the conquest game. Escalation dominance, psychological warfare, and a reputation for demonic inevitability let a small mobile force make resistance feel suicidal [because ordinary occupation is unavailable]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0039 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0042 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0044"}.
 
 The same logic breaks as soon as conquest has to become rule. Jiang says the Mongols learn an older Chinese war lesson: [people are an infinite resource]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0048 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0062"}. If people are infinite, massacre can become more useful than slavery because bodies are converted into terror. That idea joins contempt for conquered cultures; in Jiang's comparison, Vikings remain curious because they respect powerful surrounding worlds, while the Mongol pattern turns conquest into exploitation and [makes the conqueror contemptuous of himself]{evidence="video:predictive-history-mpqzapnjykm@transcript:v1#seg-0058 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0059 video:predictive-history-mpqzapnjykm@transcript:v1#seg-0060"}.
@@ -132,11 +138,13 @@ Finally, ask what happens after victory. The borderland may open history, but it
   `video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0020`  
   `video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036`
 
-- **2025-03-04**, [Civilization #35: The Viking Legacy](/episodes/predictive-history-7k5xolzwmls/)  
-  Vikings show the poor, practical, egalitarian, opportunistic borderland as a neglected pillar of Western civilization.  
+- **2025-03-04**, [Civilization #35: The Viking Legacy](/episodes/predictive-history-7k5xolzwmls/)
+  Vikings show the poor, practical, egalitarian, opportunistic borderland as a neglected pillar of Western civilization, and they show how river mobility can exploit a center whose military form is locked to feudal hierarchy.
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0001`  
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0016`  
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0035`
+  `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0044`
+  `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0047`
 
 - **2025-03-13**, [Civilization #38: Twilight of the Middle Kingdom](/episodes/predictive-history-a2lmjerhckm/)  
   Qin and later imperial China show both sides of the mechanism: the margin can win, and the unified center can kill creative competition.  
