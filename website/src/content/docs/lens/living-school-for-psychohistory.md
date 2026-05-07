@@ -41,6 +41,18 @@ Jiang then turns the heart into institutional design. To model love, learning, a
 
 The dark edge is that frustrated human powers reverse. Jiang says love and hate are one force, creation and destruction are one force. If people cannot love, they hate; if they cannot create, they destroy. A society that nurtures love, creation, learning, and growth flourishes, but a society that turns people into slaves produces rebellion because [a slave cannot love, create, learn, or grow]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0047"}. The school that makes psychohistory therefore cannot be a slave school. It has to train the very powers that repression tries to suppress.
 
+## Edge Cases Need Correctors
+
+The same 2024 class makes model humility part of the school. Jiang says a valid psychohistory AI would need fifty to one hundred years because predictions must be tested against time; when predictions fail, [the model has to change its predictions and analysis]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0034 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0035"}. The project also has to move backward. Prediction is tied to historical reconstruction because the model must ask what really happened in the Peloponnesian War, World War I, the Tang dynasty, Christianity, or empire before it can forecast the future responsibly.
+
+Then Eric names the weakness of the whole project. What happens when a great person appears from outside the model and changes history? Jiang accepts the problem. He calls Homer, Dante, Plato, Jesus, Caesar, Octavius, and Putin edge cases: [figures who seem to step outside history and control history]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039"}. A closed model cannot account for them in advance.
+
+<!-- lens-point id="psychohistory-needs-edge-case-correctors" concept="living-school-psychohistory" evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0038 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0039 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040" -->
+<span id="psychohistory-needs-edge-case-correctors" class="lens-point-anchor"></span>
+Psychohistory needs edge-case correctors because a predictive model cannot be treated as closed when exceptional actors can redirect history; trained observers must watch the AI, watch history, and revise the equations when reality breaks the model.
+
+Jiang borrows Asimov's image of the second foundation for that corrective institution. The point is not to canonize a secret priesthood. It is to show why the living school must form observers as well as models. Behind the machine there have to be [scholars, experts, historians, mathematicians, programmers, and readers of literature]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0036 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0040 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0045 video:predictive-history-s-k6eswheqa@transcript:v1#seg-0046"} who can notice when reality has escaped the categories. Otherwise psychohistory becomes the very thing this page warns against: a predictive machine whose authority grows as its humility disappears.
+
 ## Democratic Future-Making
 
 Psychohistory becomes most dangerous at the point where it works. If a system can map futures, who owns it? Jiang raises the question himself through a student's concern: who controls the AI, and how can it avoid becoming a tool that justifies elite corruption and cruelty?
@@ -76,13 +88,14 @@ Use this lens when an educational, intellectual, or forecasting project claims t
 - **Formation Test**: Does the school form love, creation, learning, agency, compassion, and judgment, or only credentials and obedience?
 - **Context Test**: Do books and facts become a coherent historical world, or remain impressive fragments?
 - **Model-Correction Test**: Are predictions tested against historical cases and revised, or protected as prophecy?
+- **Edge-Case Test**: Who watches for figures or events that break the model, and are they allowed to revise the equations?
 - **Human-Heart Test**: Does the model include the needs that make people flourish, hate, create, destroy, learn, and rebel?
 - **Democracy Test**: Are scenarios open to public argument, or owned by experts, elites, institutions, or platforms?
 - **Legacy Test**: Does the work produce students and successors capable of carrying the project beyond the teacher?
 
 ## Chronology
 
-- **2024-06-13**, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/): Jiang gives the first known formulation. The future is imagined and fought for; models become psychohistory through refinement; the human heart, agency, compassion, and democracy become conditions for valid future-making; the class closes with student growth and a shared dream.
+- **2024-06-13**, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/): Jiang gives the first known formulation. The future is imagined and fought for; models become psychohistory through refinement; failed predictions must revise analysis; great-person edge cases require a second-foundation layer of observers; the human heart, agency, compassion, and democracy become conditions for valid future-making; the class closes with student growth and a shared dream.
 - **2025-06-13**, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/): Jiang clarifies the origin and institution. Predictive History begins in Great Books teaching, becomes true history through coherent story, present explanation, and prediction, and points toward a liberal-arts school for psychohistory.
 
 ## Related Concepts
