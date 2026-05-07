@@ -43,6 +43,20 @@ Transgression coheres when people cross a rule together and become bound by shar
 
 The page should keep Jiang's ambivalence sharp. He frames the darker theory as [evil, speculative, and not a recommendation]{evidence="video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0001 video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0034 video:predictive-history-btlwoqwlm9q@transcript:v1#seg-0036"}. But he is trying to explain why forbidden acts can generate coordination. A moral account that says "this is wrong" may be true and still miss the mechanism by which wrong action becomes energy.
 
+## Sin Becomes A Wall To Break
+
+The **2025-12-11** Frankism lecture adds a religiously charged version of the same mechanism. Jiang's reading of Sabbatai Zevi and Jacob Frank is not a neutral history of Judaism, and this page should keep the attribution visible. The reusable taboo layer is narrower: a forbidden act can be reimagined as the test that proves faith is stronger than inherited law.
+
+Zevi first turns scandal into messianic descent. Jiang says conversion to Islam is read as sacrifice, so the messianic age is no longer something believers wait for; [the believers become the messianic age]{evidence="video:predictive-history-kulum-eb8ki@transcript:v1#seg-0025"}. That shift makes "justification by sin" more than permission. [Breaking the laws shows true faith in God, the messiah, and the self]{evidence="video:predictive-history-kulum-eb8ki@transcript:v1#seg-0026"} because rabbinic authority no longer names the highest order.
+
+Frank radicalizes the breach. Jiang has him treat ordinary law as the false world's control system: [by sinning, one reveals the truth of the world and empowers the self]{evidence="video:predictive-history-kulum-eb8ki@transcript:v1#seg-0048"}. The final classroom answer makes the taboo surface explicit. [Sin is taboo, a set of invisible walls]{evidence="video:predictive-history-kulum-eb8ki@transcript:v1#seg-0125"}; breaking through those walls creates guilt, reflection, pain, suffering, and knowledge. The point is not "sin for sin's sake." Jiang immediately narrows it: [sin should be used to access deeper knowledge]{evidence="video:predictive-history-kulum-eb8ki@transcript:v1#seg-0126"}.
+
+<!-- lens-point id="taboo-sin-turns-wall-into-technology" concept="taboo-control-surface" evidence="video:predictive-history-kulum-eb8ki@transcript:v1#seg-0026 video:predictive-history-kulum-eb8ki@transcript:v1#seg-0048 video:predictive-history-kulum-eb8ki@transcript:v1#seg-0105 video:predictive-history-kulum-eb8ki@transcript:v1#seg-0125 video:predictive-history-kulum-eb8ki@transcript:v1#seg-0126" -->
+<span id="taboo-sin-turns-wall-into-technology" class="lens-point-anchor"></span>
+Sin becomes a taboo technology when a forbidden breach is used to prove faith against inherited law, break social conformity, turn guilt into discipline, and make the wall itself reveal the world it was hiding.
+
+This belongs on the taboo page because the decisive move is the forbidden boundary. It touches [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) when Jiang describes hierarchy, secrecy, loyalty, and guilt-fueled discipline, but the organization comes after the breach. It touches [Eschatology As Script](/lens/eschatology/) when the breach accelerates the end of the false world, but the end-time story depends on the act that makes inherited law hackable. It touches [Power As Alchemy](/lens/power-as-alchemy/) and [How Stories Control Reality](/lens/how-stories-control-reality/) when imagination remakes reality, but this section names the point where the remaking passes through taboo.
+
 ## The Sacred Game Can Be Hacked
 
 The April 2025 Spanish conquest lecture gives taboo its strategic form.
@@ -87,6 +101,8 @@ Ask what happens after the breach. Does the violator become polluted, exiled, ch
 
 Ask whether the breach removes retreat. A public violation may be strategically chosen because it forces the group to keep going after ordinary compromise becomes impossible.
 
+Ask whether transgression is being treated as knowledge. If the forbidden act is said to reveal the true world, prove higher faith, or turn guilt into discipline, taboo is functioning as a technology rather than only as a prohibition.
+
 Ask where guilt is being routed. If anger at one power is discharged onto another body, the scapegoat may be preserving the system that produced the original pressure.
 
 Ask whether the taboo still serves life. Jiang's ritual primitive is harmony, not transgression for its own sake. A taboo can maintain an order where killing, eating, worship, sex, authority, and death remain meaningful. It can also become the lever by which power creates fear, obedience, persecution, or no-exit solidarity.
@@ -95,6 +111,7 @@ Ask whether the taboo still serves life. Jiang's ritual primitive is harmony, no
 
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the upstream conversion by which imagined forms become realities that command obedience and sacrifice.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for the narrative machinery that makes a boundary feel like truth, destiny, or salvation.
+- [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) - for the organization that can bind members after transgression has created secrecy, guilt, hierarchy, or exit costs.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the neighboring mechanism where pressure becomes energy through openness and motion rather than forbidden cohesion.
 - [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) - for Jiang's insistence that people remain responsible for the worlds they help animate.
 - [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) - for the later institutional form that manages boundaries through offices, procedure, status, and sanctioned interpretation.
