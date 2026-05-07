@@ -105,6 +105,16 @@ This does not replace the strategy page. Strategy still asks whether a war story
 
 The same lecture also sharpens the status-lock layer. Abundance can provide food, water, security, and comfort, but [status remains a zero-sum game]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0029"}. In a closed system where people cannot run off and found another colony, they fight over rank; Jiang connects this to elite overproduction and to young people refusing children because [baby boomers refuse to give up their status]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0030"}. Gerontocracy therefore blocks the future twice: by keeping domestic status positions occupied and by making the imperial past worth more than young life.
 
+## The Short Time Horizon
+
+The August 1, 2025 eschatology lecture adds another gerontocratic failure mode. Jiang asks why the Anglo-American empire does not answer a public hostile strategy with counterstrategy. His answer is not stupidity or lack of information. It is age horizon: [the people who control the empire expect to be dead before the consequences arrive]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0032"}.
+
+<!-- lens-point id="gerontocracy-shortens-imperial-time-horizon" concept="gerontocracy-extraction" evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0032 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0033" -->
+<span id="gerontocracy-shortens-imperial-time-horizon" class="lens-point-anchor"></span>
+Gerontocracy shortens imperial strategy when an older ruling class expects to be dead before long consequences arrive. It can spend the remaining empire as comfort, status, or enjoyment instead of preserving institutions, people, and futures it will not personally inhabit.
+
+This belongs on gerontocracy rather than eschatology because the active mechanism is not the end-times script itself. Eschatology explains the hostile role-map. Gerontocracy explains why the empire that sees the map may still fail to preserve itself. Jiang names the controllers as [baby boomers holding political, financial, influence, and cultural power in America and the West]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0033"}. In that frame, strategic passivity is a generational transfer: the old enjoy what remains, while the young inherit the aftermath.
+
 ## Why It Does Not Simply End
 
 Another student asks the obvious escape: what happens when rich pension elders die?
@@ -129,9 +139,12 @@ Fourth, ask whether affection is being converted into fiscal power. "Do you want
 
 Fifth, connect war to age. If the old decide and the young die, the war story needs a generational audit.
 
+Sixth, ask who inhabits the future implied by a strategy. An empire controlled by people who expect to die before the long consequences arrive may rationally enjoy the remaining system while letting younger people inherit collapse, war, debt, or lost sovereignty.
+
 ## Chronology So Far
 
 - **2024-10-15**, [Rat Utopia And The War That Preserved Status](/episodes/predictive-history-npncq-gnqde/): Before using the term gerontocracy as a modern decline diagnosis, Jiang gives the status-lock mechanism: abundance lets old actors remain at the top, younger actors cannot ascend, and blocked potential becomes violence or war.
+- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/): The final answer in the eschatology lecture turns failed counterstrategy into a gerontocratic time-horizon problem: controllers of the Anglo-American empire expect to be dead before the long consequences of hostile plans arrive.
 - **2025-08-08**, [The Old Sacrifice The Young](/episodes/predictive-history-e83dpuyvpim/): The lecture scales the domestic boomer settlement into empire: pensions, healthcare, property, status, and the Pax Americana become one old-age habitat protected through young sacrifice.
 - **2025-08-29**, [Secret History #3: The Old Own The Future](/episodes/predictive-history-0g3yo1djilm/): The lecture defines gerontocracy as rule by old people, then turns Western decline into a "who benefits?" model centered on rich pensioners.
 - **2025-08-29**, same lecture: Housing, medical assistance in dying, fake prosperity, debt, surveillance, prisons, and war are treated as connected symptoms rather than separate topics.
@@ -145,6 +158,11 @@ Fifth, connect war to age. If the old decide and the young die, the war story ne
   `video:predictive-history-npncq-gnqde@transcript:v1#seg-0054`
   `video:predictive-history-npncq-gnqde@transcript:v1#seg-0055`
   `video:predictive-history-npncq-gnqde@transcript:v1#seg-0056`
+
+- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/)
+  The lecture's close names a shorter imperial time horizon: the people controlling the Anglo-American empire expect to be dead before consequences arrive, and Jiang identifies them as baby boomers holding political, financial, influence, and cultural power.
+  `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0032`
+  `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0033`
 
 - **2025-08-08**, [The Old Sacrifice The Young](/episodes/predictive-history-e83dpuyvpim/)
   Domestic boomer demands for pensions, healthcare, and property appreciation scale into a war image where empire misrecognizes young sacrifice as old-age glory.
