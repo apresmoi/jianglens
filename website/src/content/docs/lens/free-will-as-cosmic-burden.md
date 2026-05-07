@@ -9,7 +9,7 @@ Across Jiang's Great Books, Secret History, and civilization lectures, free will
 
 The concept is harsh because Jiang uses free will to remove several consolations at once. If freedom is real, then domination is not only coercion from outside. It also works by training people to want the world that diminishes them. If God is love, then God cannot rescue humanity by force without canceling the gift that makes love possible. If institutions promise safety by taking responsibility away from weak people, they may be performing mercy while spiritually enslaving them.
 
-This page follows a dated source cluster from the Civilization and Secret History arcs into the Great Books lectures: Zoroastrian moral choice in 2024, Dostoevsky's Grand Inquisitor in 2025, the Secret History Jesus and Paul sequence, and the 2026 cave and Dante lectures.
+This page follows a dated source cluster from the Civilization and Secret History arcs into the Great Books lectures: Zoroastrian moral choice in 2024, Asha as truth-becoming in 2025, Dostoevsky's Grand Inquisitor, the Secret History Jesus and Paul sequence, and the 2026 cave and Dante lectures.
 
 ## The Burden
 
@@ -20,6 +20,20 @@ The earliest cluster in this page is civilizational. In the Cyrus lecture, Jiang
 The same pressure becomes theological and existential in the later Great Books material. Jiang's opening cave lecture says a human being is not only a body; there is [a soul that connects the person to the spiritual or divine]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"}. The spark inside the person allows love and imagination. Free will matters because the spark is not a decoration inside a machine. It is the point at which the human being can participate in reality.
 
 That is why the concept cannot be reduced to "choice." It is closer to answerability. A person answers with attention, desire, love, refusal, and the worlds he helps make.
+
+## Truth Must Be Lived
+
+The November 2025 Asha lecture returns to the Zoroastrian root and makes the free-will claim more demanding. Asha is not only factual truth, and Drush is not only an inaccurate statement. Jiang's compressed opening is that [truth is the act of becoming virtuous in a world built to make virtue difficult]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0008 video:predictive-history-deledxh0ceg@transcript:v1#seg-0009"}. The world is full of war, property, slavery, priestly corruption, status fear, and inherited falsehood; free will matters because the person can answer that world by becoming more truthful or by being pulled deeper into lie.
+
+That makes Asha one of the clearest early forms of free will in Jiang's map. It is truth, but also virtue, inner alignment, and participation in the divine. To do good is [to become closer to Ahura Mazda and become the divine representative on earth]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0009"}. This belongs here rather than on the administrative-filter page because the active mechanism is not office discipline. It is the soul's responsibility to choose truth when no institution can do the choosing for it.
+
+The lecture then uses Kant and Plato to sharpen the burden. Asha asks the person to act as if every action echoes through the universe, to act from free will rather than coercion, and to refuse to turn another human being into a means. No perfect future can justify sacrificing a person because [each human life is as valuable as all human life together]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0010 video:predictive-history-deledxh0ceg@transcript:v1#seg-0011 video:predictive-history-deledxh0ceg@transcript:v1#seg-0012"}. Escape is not private self-improvement either. The person who sees the sun in Plato's cave has to return to chained friends and family; [Asha is responsibility, not self-help]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0014 video:predictive-history-deledxh0ceg@transcript:v1#seg-0015 video:predictive-history-deledxh0ceg@transcript:v1#seg-0016"}.
+
+<!-- lens-point id="free-will-truth-must-be-become" concept="free-will-burden" evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0008 video:predictive-history-deledxh0ceg@transcript:v1#seg-0009 video:predictive-history-deledxh0ceg@transcript:v1#seg-0016 video:predictive-history-deledxh0ceg@transcript:v1#seg-0045 video:predictive-history-deledxh0ceg@transcript:v1#seg-0046" -->
+<span id="free-will-truth-must-be-become" class="lens-point-anchor"></span>
+Free will makes truth something a person must become: Asha is not information or inherited doctrine, but the chosen practice of burning away falsehood, becoming virtuous, and returning responsibility to others.
+
+The later Nietzsche passages prevent this from hardening into a new doctrine. Wisdom that stays alone is not yet Asha. Whatever seems true has to be suspected, negated, and rebuilt; [Asha is the daily fight to burn false knowledge away]{evidence="video:predictive-history-deledxh0ceg@transcript:v1#seg-0045 video:predictive-history-deledxh0ceg@transcript:v1#seg-0046"}. Even the teacher must eventually be left behind if the teacher's truth replaces the student's own becoming. The burden is not to possess the correct answer. It is to keep choosing truth as a process of self-destruction, renewal, and responsibility.
 
 ## Chosen Slavery
 
@@ -127,6 +141,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2025-05-20**, [Civilization #53: Dostoevsky and the Soul of Russia](/episodes/predictive-history-0ralqcpwuh0/): The Grand Inquisitor becomes the political argument against freedom: weak people want authority to carry the burden.
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/): The Monad gives free will because love is trust; denial of free will becomes anti-love.
 - **2025-10-15**, [Secret History #9: The Theory of Everything](/episodes/predictive-history-9murgjjg4aa/): God and Satan cannot interfere directly; darkness becomes the test in which human light can shine.
+- **2025-11-14**, [Secret History #18: Asha Is the Truth You Must Become](/episodes/predictive-history-deledxh0ceg/): Asha intensifies the early Zoroastrian layer. Truth becomes lived virtue, free choice, return to others, and the ongoing destruction of false knowledge.
 - **2025-11-27**, [Secret History #22: The Divine Spark of Jesus](/episodes/predictive-history-pp0e1gb80wq/): Jesus becomes dangerous because he tells slaves the spark is inside them and leaves responsibility with the person rather than the institution.
 - **2025-12-02**, [Secret History #23: The Organization of Evil](/episodes/predictive-history-6xgac-oqcbu/): Paul and Augustine supply the institutional inversion: freedom, love, ritual body, and salvation are turned into obedience.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): Plato's cave turns free will into chosen slavery and the refusal to let the false world remain final.
@@ -137,6 +152,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **Managed Mercy**: Who promises to make people happy by taking away the burden of choosing?
 - **Chosen Lie**: Where does the person call coercion freedom because the desired future was installed by the wall?
 - **Contractual God**: Where has love been translated into obedience, duty, payment, grades, debt, or institutional access?
+- **Truth-Becoming**: Where is truth treated as information to possess, and where does it require self-overcoming, moral action, and responsibility to others?
 - **Obedient Freedom**: Where does a system say the person is most free when disobedience has become unimaginable?
 - **Trained Desire**: What does the soul move toward before it can explain why?
 - **Agency Test**: Does the relationship increase the person's capacity to love and imagine, or does it replace that capacity with compliance?
@@ -148,3 +164,4 @@ This is the practical test. Does the system ask the person to become more alive,
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) - for mediation, Virgil, chosen hell, and the danger of trusted authority.
 - [Eschatology](/lens/eschatology/) - for world-ending scripts and moral struggle as coordination.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for the way stories train desire and make chosen worlds feel real.
+- [Religion As Administrative Filter](/lens/religion-as-administrative-filter/) - for Zoroastrian truth-duty when it disciplines officeholders rather than the soul's own becoming.
