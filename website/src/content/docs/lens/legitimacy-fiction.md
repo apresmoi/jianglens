@@ -9,7 +9,7 @@ Legitimacy fiction is Jiang's mechanism for political invention becoming real.
 
 The word "fiction" does not mean harmless lie. It means a constructed story, name, ritual, office, text, or rule system that begins as a solution to a crisis and then changes what later people can inherit, obey, punish, love, or imagine. A fiction becomes legitimate when enough actors need it, repeat it, teach it, write it down, or risk their lives inside it. At that point the fiction is no longer only in speech. It has reorganized the board.
 
-Across Jiang's Roman, biblical, imperial, revolutionary, and game-theory lectures, this mechanism appears wherever force alone is not enough. Caesar can conquer, but he also has to become the protagonist of a new Rome. David can kill, but the killing has to be turned into literature. Charlemagne can fight, but divided Europe has to believe he is rightful. Napoleon can seize power, but the messiah image has to keep producing action. Cyrus can conquer, but his mercy works because conquered peoples begin to need Persian order. America can dominate, but the deeper achievement is to make citizenship, dollar wealth, and constitutional rules feel like a playable world.
+Across Jiang's Roman, biblical, imperial, revolutionary, and game-theory lectures, this mechanism appears wherever force alone is not enough. Caesar can conquer, but he also has to become the protagonist of a new Rome. David can kill, but the killing has to be turned into literature. Charlemagne can fight, but divided Europe has to believe he is rightful. Napoleon can seize power, but the messiah image has to keep producing action. Cyrus can conquer, but his mercy works because conquered peoples begin to need Persian order. The same practice can fail in another honor world, where mercy is read as contempt rather than release. America can dominate, but the deeper achievement is to make citizenship, dollar wealth, and constitutional rules feel like a playable world.
 
 <!-- lens-point id="legitimacy-fiction-reorganizes-board" concept="legitimacy-fiction" evidence="video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002 video:predictive-history-dc54iqur7ik@transcript:v1#seg-0017" -->
 <span id="legitimacy-fiction-reorganizes-board" class="lens-point-anchor"></span>
@@ -93,6 +93,14 @@ The Jewish case gives the strongest legitimacy reversal. Cyrus releases the exil
 
 This does not make Cyrus pure. It makes him more interesting in Jiang's map. A ruler can create legitimacy by changing the meaning of conquest. If conquered peoples experience empire as release, arbitration, prosperity, or divine permission to return, then obedience can become gratitude before it becomes habit.
 
+The Roman countercase keeps the mechanism from becoming simple praise of clemency. In the November 19, 2024 Octavian lecture, Jiang says Caesar's mercy toward Cassius may have worked in the opposite direction. Caesar forgives Cassius after Pompey's defeat and makes him one of his own generals, demonstrating benevolence, clemency, and mercy. But Jiang adds that [in the Roman world mercy is not considered a good thing]{evidence="video:predictive-history-dc54iqur7ik@transcript:v1#seg-0018"}. Cassius can read the gift as humiliation: Caesar did not really see him as a threat, so [mercy becomes contempt and can produce vengeance]{evidence="video:predictive-history-dc54iqur7ik@transcript:v1#seg-0018"}.
+
+<!-- lens-point id="legitimacy-fiction-mercy-needs-status-grammar" concept="legitimacy-fiction" evidence="video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0013 video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0023 video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0026 video:predictive-history-dc54iqur7ik@transcript:v1#seg-0018" -->
+<span id="legitimacy-fiction-mercy-needs-status-grammar" class="lens-point-anchor"></span>
+Mercy becomes legitimacy only when the receiving world can experience it as release, order, or gratitude; inside an honor grammar, the same mercy can mark a rival as harmless and turn clemency into contempt.
+
+That is the broader diagnostic. A legitimacy fiction does not work because the act is morally attractive in the abstract. It works when the act enters a receiving grammar that can translate it into rightful order. Cyrus's conquered peoples can experience mercy as rescue from terror empire, return from exile, and useful federation. Cassius can experience Caesar's mercy as a status injury. The fiction depends on the audience it reorganizes.
+
 ## The Modern Game
 
 The latest formulation in this page's source trail comes from the January 27, 2026 America lecture.
@@ -117,6 +125,8 @@ Ask what the fiction makes inheritable. Names, offices, constitutions, scripture
 
 Ask what gets hidden by legitimacy. The fiction may preserve guilt, class advantage, conquest, exclusion, dependency, or rule control under the language of love, unity, mercy, law, sacred order, or fair play.
 
+Ask what status grammar receives the act. Mercy can become release, gratitude, humiliation, contempt, or vengeance depending on whether the audience experiences the ruler as savior, arbiter, patron, rival, or superior.
+
 Ask when the fiction stops working. Legitimacy breaks when the story no longer matches experience, when the beneficiaries no longer need the alliance, when the myth requires more action than the material world can support, when a rival myth becomes emotionally stronger, or when the game board can no longer expand.
 
 ## Source Trail
@@ -125,7 +135,7 @@ Ask when the fiction stops working. Legitimacy breaks when the story no longer m
   Caesar supplies the core model of the myth maker who constructs a new reality that absorbs and alters the old one.
 
 - **2024-11-19**, [Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire](/episodes/predictive-history-dc54iqur7ik/)  
-  Octavian shows the afterlife of myth: Caesar's death turns the myth into reality and transfers political love to the heir.
+  Octavian shows the afterlife of myth: Caesar's death turns the myth into reality and transfers political love to the heir. The same source adds the Roman honor countercase: Caesar's mercy toward Cassius can be read as contempt rather than reconciliation.
 
 - **2024-12-05**, [Civilization #21: The Apology of King David of Israel](/episodes/predictive-history-rkpgrrugjnk/)  
   David's apology shows how royal crisis management can become scripture and durable leadership literature.
