@@ -37,7 +37,7 @@ Environment:
   EPISODE_WORKER_LOOP_ENABLED
                 Set false to disable Virgil's direct autonomy loop. Default: true
   EPISODE_WORKER_LOOP_INTERVAL_SECONDS
-                Seconds between Virgil autonomy checks/iterations. Default: 60
+                Seconds between Virgil autonomy checks/iterations. Default: 86400
   EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS
                 Seconds between Virgil autonomy heartbeat writes while an iteration runs. Default: 30
   EPISODE_WORKER_LOOP_ONCE

@@ -168,7 +168,7 @@ Useful run environment variables:
 | `JIANG_LENS_REPO_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/jiang-lens` | Absolute checkout path used by the worker container. |
 | `EPISODE_WORKER_STATE_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker` | Absolute durable worker state path inside the container. Mounted from `.runtime/episode-worker/state` by default. |
 | `EPISODE_WORKER_LOOP_ENABLED` | `true` | Set `false` to disable Virgil's direct autonomy loop. |
-| `EPISODE_WORKER_LOOP_INTERVAL_SECONDS` | `60` | Seconds between Virgil autonomy checks/iterations. |
+| `EPISODE_WORKER_LOOP_INTERVAL_SECONDS` | `86400` | Seconds between Virgil autonomy checks/iterations. Daily by default; override only for debugging. |
 | `EPISODE_WORKER_HEARTBEAT_INTERVAL_SECONDS` | `30` | Seconds between Virgil heartbeat writes while a worker process is alive. |
 | `EPISODE_WORKER_LOOP_ONCE` | `false` | Set `true` for one loop iteration while debugging. |
 | `LENS_STEWARD_REPO_DIR` | `/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/jiang-lens` | Absolute checkout path used by Plato inside the container. |
