@@ -25,6 +25,20 @@ The three tests are deliberately unromantic.
 
 **Logistics** asks whether supply, maintenance, fatigue, replacement, and geography have been faced. Jiang's air-war example is not that the United States lacks air power. It is that a force designed for a short air campaign can encounter [maintenance, pilot fatigue, and enemy adaptation]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0014 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0015"}. Air supremacy does not abolish wear. A machine still has to be repaired. A pilot still gets tired. An enemy that survives long enough starts learning.
 
+## Chokepoint Empire
+
+The same Hollywood-Pentagon lecture gives a less theatrical version of the material test. Before Jiang turns to rescue mythology, he describes a change in American imperial strategy. When the dollar works as the global reserve currency, the empire profits from circulation. Trade itself passes through the medium that can be inflated, priced, and taxed. But when states begin opting out of the dollar system, the imperial problem changes. Jiang says the strategy shifts from encouraging trade to [controlling sea lanes]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007"}.
+
+This is not only finance. It is geography made coercive. In the lecture's map, bases, canals, straits, and Arctic passages become material gates. Panama, Greenland, Hormuz, and Malacca are not examples because they are famous places. They matter because [permission can be turned into trade access]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0010 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0011"}, and access can be granted, denied, or weaponized. A reserve-currency empire wants motion; a chokepoint empire can profit from interruption.
+
+<!-- lens-point id="strategy-chokepoint-empire-controls-access" concept="strategy-material-test" evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0009 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0010 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012" -->
+<span id="strategy-chokepoint-empire-controls-access" class="lens-point-anchor"></span>
+Chokepoint empire appears when reserve-currency power weakens and imperial strategy shifts from profiting through circulation to controlling access: bases, canals, straits, blockades, and naval attrition become the material gates through which trade must pass.
+
+The counterstrategy is also material. Jiang does not imagine a weaker actor needing to defeat the U.S. Navy in a decisive battle. It can create a war of attrition in the oceans, forcing old ships, tired sailors, costly repairs, and maintenance limits into constant contact until [naval capacity degrades over time]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012"}. That belongs on this page because it is the same rule as economics, organization, and logistics: the story of control has to pass through ships, crews, repair yards, geography, and time.
+
+The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
+
 ## Shock And Awe As Fantasy
 
 The older source for this mechanism is Jiang's 2024 shock-and-awe lecture. He reconstructs the traditional military grammar as mass forces, avoidance of encirclement, and protection of supply lines. "Most of war," in that account, is [oil, fuel, weapons, and supply lines]{evidence="video:predictive-history-jiefc4yww4o@transcript:v1#seg-0002 video:predictive-history-jiefc4yww4o@transcript:v1#seg-0003"}.
@@ -91,7 +105,7 @@ The result is not only propaganda. It is a planning failure. War becomes a seque
 
 ## Diagnostics
 
-Ask five questions when applying this lens.
+Ask these questions when applying this lens.
 
 **What is the story of victory?** Name the scene the actor is trying to create: rescue, punishment, deterrence, humiliation, liberation, surgical strike, total war, no surrender, controlled escalation, or imperial display.
 
@@ -102,6 +116,8 @@ Ask five questions when applying this lens.
 **What reputation must be defended?** A hegemon, bully, empire, or alliance leader can lose freedom because credibility demands response. The trap begins when not answering looks impossible.
 
 **What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
+
+**Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems must pass through a narrow point, ask who can grant permission, who can deny access, and whether control can be made too costly to maintain.
 
 **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
 
@@ -117,7 +133,7 @@ In **November 2024**, the Rome lecture gives the ancient countercase: a story of
 
 In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
-In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance, and war must be judged by economics, organization, and logistics before narrative spectacle.
+In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance, reserve-currency power can harden into chokepoint access control, and war must be judged by economics, organization, and logistics before narrative spectacle.
 
 ## Source Trail
 
@@ -157,7 +173,13 @@ In **March and April 2026**, the Iran escalation and Hollywood-Pentagon lectures
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
 
-- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
+- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
+  A weakening reserve-currency empire can shift from encouraging global trade to controlling sea lanes, chokepoints, trade access, and naval attrition.
+  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007`
+  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0009`
+  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012`
+
+- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
   War must be judged by economics, organization, and logistics.  
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030`  
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031`
