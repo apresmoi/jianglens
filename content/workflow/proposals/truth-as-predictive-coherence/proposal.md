@@ -1,12 +1,15 @@
 # Truth As Predictive Coherence
 
 Date: 2026-05-06
-Status: proposed lens seed
+Status: reviewed atlas relation
 Work type: proposal synthesis
+
+Review: `content/workflow/reviews/truth-as-predictive-coherence/cross-page-review-2026-05-07.md`
+Public surface: `website/src/content/docs/lens.md#truth-prediction-and-correction`
 
 ## Proposed Boundary
 
-Record **truth as predictive coherence** as a lens seed, not yet a public concept page. The mechanism is that Jiang uses prediction as a truth test in two different registers that should not be flattened together.
+Record **truth as predictive coherence** as a reviewed atlas relation, not a standalone public concept page. The mechanism is that Jiang uses prediction as a truth test in several registers that should not be flattened together.
 
 In the poetic and metaphysical register, truth contains time. A prophet is not mainly a fortune-teller. A prophet speaks truth because truth is the universe, and the universe holds past, present, and future together (`video:predictive-history-ft2cuowguyc@transcript:v1#seg-0027`). Literature can therefore foretell because it speaks an eternal moral structure rather than because the poet guesses tomorrow (`video:predictive-history-ft2cuowguyc@transcript:v1#seg-0028`, `video:predictive-history-ft2cuowguyc@transcript:v1#seg-0030`, `video:predictive-history-ft2cuowguyc@transcript:v1#seg-0031`).
 
@@ -30,7 +33,7 @@ The **2025-12-18** Pax Judaica lecture gives the strongest caveat and therefore 
 
 The public lens already has the pieces but not the boundary. Poetry explains how truth, beauty, language, and memory make civilization. Living-school explains why Predictive History needs a school, model correction, human-heart variables, and democratic governance. Game theory explains how to find the real game and why a visible model can change the board. Eschatology explains prophecy as a script that actors can perform.
 
-What is missing is a proposal that prevents these pieces from blurring. Jiang's word "prediction" can mean model forecast, moral consequence, timeless truth, story test, or geopolitical script. A public concept should not be created until the lens can preserve those differences. The proposed seed gives future agents a controlled place to test whether Jiang has one reusable epistemic mechanism or several neighboring mechanisms that should stay distributed.
+What is missing is a boundary that prevents these pieces from blurring. Jiang's word "prediction" can mean model forecast, moral consequence, timeless truth, story test, or geopolitical script. The reviewed atlas relation gives future agents a controlled routing boundary: Jiang has a reusable epistemic pressure around past-present-future coherence, but the active register should still decide which public page owns a source moment.
 
 ## Boundary Notes
 
@@ -54,16 +57,20 @@ If later promoted, the page should likely be titled **Truth As Predictive Cohere
 
 ## Candidate Lens Points
 
-These are not added yet because the boundary needs review before public mutation.
+The first candidate is now public as an atlas relation; the others remain held until a future page or relation needs them.
 
-- `truth-contains-time`: In Jiang's poetic register, truth is eternal because past, present, and future converge in it; prophecy is speaking truth, not guessing tomorrow.
-- `true-history-predictive-coherence`: In Jiang's historical register, an account approaches true history when it connects the past, explains the present, and predicts the future.
+- `truth-prediction-coherence-atlas`  
+  Public in `website/src/content/docs/lens.md`: Prediction becomes a truth test only after the lens names the register: poetic truth contains time, historical models earn confidence through past-present-future coherence, strategic prediction can alter the game, and successful forecasts still do not prove causation.
+- `truth-contains-time`  
+  In Jiang's poetic register, truth is eternal because past, present, and future converge in it; prophecy is speaking truth, not guessing tomorrow.
+- `true-history-predictive-coherence`  
+  In Jiang's historical register, an account approaches true history when it connects the past, explains the present, and predicts the future.
 - `prediction-is-not-proof`: Prediction can strengthen a model without proving causation; a useful narrative must still remain caveated, doubtable, and corrigible.
 - `psychohistory-refines-through-testing`: Psychohistory develops when predictions become models that are tested against historical cases and revised rather than protected as prophecy.
 
 ## Promotion Conditions
 
-Before public mutation, run a cross-page review over poetry, living-school, game-theory, eschatology, and secret-society pages. Promote only if that review shows a page would clarify the atlas rather than duplicate existing sections. A compact public page is justified if future source review can answer:
+The cross-page review promoted the seed only as an atlas relation. Promote beyond that compact public surface only if future source review can answer:
 
 - Does Jiang consistently use "truth" as a past-present-future coherence test across literature, history, and geopolitics?
 - Does he distinguish poetic prophecy from model prediction strongly enough for one page to hold both?
