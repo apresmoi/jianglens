@@ -87,6 +87,12 @@ The game can be extraordinarily open and energetic. Jiang repeatedly notes that 
 <span id="nation-god-machine-american-game" class="lens-point-anchor"></span>
 America mutates the nation into a game when citizenship becomes a playable rule set: anyone may enter, work, compete, and chase wealth, while the Constitution, dollar system, and global institutions scale the board outward.
 
+The institutional layer matters because the game cannot become global by metaphor alone. The World Bank lends entry money; the IMF turns repayment failure into policy change; trade agreements, bank-transfer pipes, and central-bank rooms make coordination routine. In Jiang's compressed episode read, [debt becomes discipline]{evidence="video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0029 video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0030"}, and the game needs [pipes, courts, banks, agreements, and quiet policy rooms]{evidence="video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0030 video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0031"} so local public systems can be converted into game-compatible assets.
+
+<!-- lens-point id="nation-god-machine-world-board-disciplines-entry" concept="nation-god-machine" evidence="video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0029 video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0030 video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0031" -->
+<span id="nation-god-machine-world-board-disciplines-entry" class="lens-point-anchor"></span>
+The American game becomes a world board when loans invite countries into play, repayment failure becomes policy discipline, and trade, dollar-transfer, banking, legal, and central-bank coordination pipes make the board playable everywhere.
+
 ## Diagnostics
 
 Use this lens when a state, movement, or empire asks people to treat a collective body as more real than their local lives.
@@ -100,6 +106,8 @@ Ask what it converts into war capacity. Citizens, workers, mothers, children, sc
 Ask whether population is strength or target. In Jiang's later war model, numbers can replenish the state, but they can also be turned against the state through sanctions, shortages, ethnic tension, infrastructure attack, and narrative fracture.
 
 Ask what replaces God if nationalism recedes. Pax Americana tries rules, rights, free trade, consumer happiness, and individual identity; Jiang warns that this may produce its own helplessness and a later return of nationalism rather than a clean escape.
+
+Ask how the board is enforced. If a system presents itself as open play, check whether loans, repayment rules, private ownership requirements, transfer pipes, standards, courts, or quiet policy rooms make entry conditional on accepting the game.
 
 ## Related Concepts
 
