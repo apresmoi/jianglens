@@ -38,7 +38,7 @@ Fertility becomes a status game when dating, marriage, children, and national su
 
 This relation protects neighboring boundaries. [Game Theory](/lens/game-theory/) owns the method and payoff analysis. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem once population must be fed, organized, employed, and managed. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the national machinery that turns population into war and survival capacity. [Gerontocracy And Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) owns the old-age asset and pension trap after fertility has failed. [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) and the reviewed love-as-recognition seed own love as relation, not partner choice as status display.
 
-## Power As Alchemy
+## [Power As Alchemy](/lens/power-as-alchemy/)
 
 The first Secret History lecture gives the atlas a root mechanism: power is alchemy. Jiang begins from Kant because the political field is already perceptual. If reality is processed through imagination, then power does not only command bodies after reality is given. It trains the imagination that decides what reality feels like.
 
@@ -50,7 +50,7 @@ Power becomes alchemy when it trains imagination until invented abstractions suc
 
 The diagnostic question is "which nothing has become everything?" Once that question is asked, later atlas families become less isolated. Attention capture extracts the energy that alchemy has redirected. Education installs the national memory and authority relation. Bureaucracy manages abstractions after they harden. Story and scripture give alchemy durable forms.
 
-## Nation As God-Machine
+## [Nation As God-Machine](/lens/nation-as-god-machine/)
 
 The nation-state now needs its own atlas family because Jiang returns to it from several angles: Secret History treats it as alchemical memory, the Civilization nation-state lecture treats nationalism as a replacement religion, the gunpowder lecture treats modern war as whole-society transformation, and the later population-war lecture turns population itself into both strength and target.
 
@@ -76,7 +76,7 @@ Reason becomes a replacement religion when a society claims to move beyond churc
 
 This relation protects neighboring boundaries. [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) owns the love that restrains solitary reason. [Religion As Administrative Filter](/lens/religion-as-administrative-filter/) owns methods that select and discipline officeholders. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the downstream machine after religious force has entered population, school, welfare, industry, and war. [How Stories Control Reality](/lens/how-stories-control-reality/) owns the circulation of frames and scripts. Reason-as-replacement names the substitution and transfer that make those later surfaces religious in structure even when they call themselves secular.
 
-## Mass Society As Political Constraint
+## [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/)
 
 Mass society is the scale pressure that makes the nation-machine, attention extraction, education, bureaucracy, and eschatology harder to separate. Jiang's clean formula comes from the Protestant-anxiety lecture: [when a society has millions or billions to feed, organize, and occupy, political flexibility nearly disappears]{evidence="video:predictive-history-tcxloijz8v0@transcript:v1#seg-0069"}. The earlier civilization comparison names the same pressure as social control: [a mass society has to control the population and get everyone to get along]{evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0003"}.
 
@@ -126,7 +126,7 @@ Mesopotamia supplies the contrast. Where Egypt imagines divine generosity and py
 <span id="sacred-machine-coordinates-life" class="lens-point-anchor"></span>
 A sacred machine is a material form that a civilization imagines as a bridge between invisible order and public life. It concentrates labor, belief, hierarchy, and cosmic hope into an object or institution; its danger is that failed transcendence becomes centralized waste.
 
-## Taboo As Control Surface
+## [Taboo As Control Surface](/lens/taboo-as-control-surface/)
 
 The taboo family names the boundary where a shared world tells people what humans may not do, what only gods or kings may do, and what breach would make return impossible. It grows from several source clusters: early ritual balance, Spanish conquest, Church scapegoating, Robespierre, and the Secret History lecture on evil.
 
@@ -162,7 +162,7 @@ The atlas family here is civilization as inner order. A civilization is not only
 
 This makes "civilization" a dangerous word. It can name a real expansion of human possibility, as in Homer teaching empathy. It can also hide conquest, debt, hierarchy, and the erasure of a previous world. The atlas has to keep both pressures visible.
 
-## The Borderland Engine
+## [The Borderland Engine](/lens/the-borderland-engine/)
 
 The civilization family now needs a sharper edge family: the borderland engine. Jiang repeatedly treats the margin as the place where historical motion returns after the center has reached equilibrium. The center has resources, status, bureaucracy, and official culture; the margin has pressure. When that pressure becomes [energy, openness, and cohesion]{evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0004 video:predictive-history-ybufqry77pq@transcript:v1#seg-0005"}, the poor or backward-looking edge can become more dangerous than the visible winner.
 
@@ -186,7 +186,7 @@ The creative side belongs beside civilization and borderland, not against them. 
 <span id="collapse-transition-surface-atlas" class="lens-point-anchor"></span>
 Collapse becomes a transition surface when elite/rent instability, slow hidden decline, or engineered timing turns shock into break; then the surviving question becomes who benefits, what assets or authority move, and whether a new order can build resilience, speech, memory, and human formation after the old center fails.
 
-## Bureaucracy As Institutional Death
+## [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/)
 
 The borderland family exposes one side of Jiang's map: pressure can become motion. The bureaucracy family exposes the reverse: successful institutions can preserve their outer form while draining away openness, discovery, and lived reality.
 
@@ -226,7 +226,7 @@ The current atlas therefore treats strategy as a double test. Does the actor und
 <span id="strategy-tests-story-against-material-reality" class="lens-point-anchor"></span>
 Strategy fails when story and material reality are no longer checking each other. A state can possess power, myth, and will, yet still lose if its story cannot pass the tests of cost, organization, logistics, alliance, and time.
 
-## Gerontocracy And Intergenerational Extraction
+## [Gerontocracy And Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/)
 
 The Secret History gerontocracy lecture adds an age-and-asset family to the atlas. Jiang begins with the plain definition of [gerontocracy as rule by old people]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001"}, but the sharper mechanism is intergenerational extraction: old wealth converts property, pensions, healthcare claims, safety politics, and respect for elders into power over the young.
 
@@ -238,7 +238,7 @@ The family also connects to war. Jiang's bleak Q&A claim is that young people ar
 <span id="gerontocracy-extracts-future" class="lens-point-anchor"></span>
 Gerontocracy extracts the future when old wealth uses assets, pensions, healthcare priority, political time, and respect for elders to turn younger life into rent, taxes, care labor, surveillance compliance, and war risk.
 
-## Attention Capture And Capital Extraction
+## [Attention Capture And Capital Extraction](/lens/attention-capture-as-capital-extraction/)
 
 The Secret History capital lecture and the Great Books cave lecture add an attention family to the atlas. Jiang's key move is to treat attention as a metaphysical and economic substance, not a lifestyle concern. In the cave lecture, [attention is energy and true wealth]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}; in the capital lecture, capital becomes [a mechanism for extracting human energy]{evidence="video:predictive-history-b5fthagng8c@transcript:v1#seg-0001"}.
 
@@ -250,7 +250,7 @@ The family also adds anxiety as work discipline. Debt, poverty, war, and depress
 <span id="attention-capture-extracts-energy" class="lens-point-anchor"></span>
 Attention capture extracts energy when a cave wall, school, platform, money system, debt regime, or capital structure turns human focus and imagination into usable power while making the capture feel like normal reality.
 
-## Education As A Soul Game
+## [Education As A Soul Game](/lens/education-as-a-soul-game/)
 
 The school lectures add an education family to the atlas. Jiang does not treat school as neutral infrastructure with occasional failures. In Secret History #1, school begins as separation and brainwashing: [the child taken away from the parent learns to trust the teacher]{evidence="video:predictive-history-ajfxykt9joo@transcript:v1#seg-0078 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0081"}, and the teacher's world can become national memory, obedience, and sacrifice. In Game Theory #2, the same institution becomes a stakeholder game where parents, students, teachers, administrators, government, and colleges converge around incentives that can make [actual learning the least important game]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0047"}.
 
@@ -290,7 +290,7 @@ The cave, the dead world, and the guide who becomes a trap all ask how a person 
 
 This family prevents the atlas from becoming only civilizational sociology. Jiang's lens is also about the soul: what a person can see, what a person desires, what a person fears losing, and whether the person can reject a world that has trained him to call captivity normal.
 
-## Free Will As Cosmic Burden
+## [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/)
 
 The cave and Dante material also force a separate free-will family. Jiang's strongest claim is not that free will makes people politely autonomous. It makes them answerable for the worlds they help create, the lies they keep choosing, and the hells they desire.
 
@@ -315,27 +315,27 @@ Eschatology becomes a script when a story of the end gives actors roles, coordin
 | Family | Working question | Strong source clusters |
 | --- | --- | --- |
 | [Game theory](/lens/game-theory/) | What real game, payoff, and rule structure make apparently irrational action rational from inside the game? | Game Theory sequence, dating/fertility, school game, universal law, proximity, Hollywood-Pentagon |
-| Power as alchemy | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
-| Nation as god-machine | What sacred body is turning isolated individuals into unity of will, sacrificial population, or a playable national board? | Nation-state lecture, gunpowder revolution, America as game, population-war lecture |
+| [Power as alchemy](/lens/power-as-alchemy/) | Which invented abstraction has become lived reality, and what does it make people work for, fear, obey, or sacrifice? | Secret History #1, monotheism, school, money, nation-state |
+| [Nation as god-machine](/lens/nation-as-god-machine/) | What sacred body is turning isolated individuals into unity of will, sacrificial population, or a playable national board? | Nation-state lecture, gunpowder revolution, America as game, population-war lecture |
 | Reason as replacement religion | What sacred work has reason, debate, progress, revolution, or nation inherited after a society says it has moved beyond church and priest? | Reason Becomes A Religion, Robespierre, Napoleon |
 | [Mass society as political constraint](/lens/mass-society-as-political-constraint/) | What scale problem is narrowing political freedom by requiring feeding, organization, work, social control, meaning, and population management? | Protestant anxiety, psychology of evil, dawn of imagination, population-war lecture |
 | [World-making media](/lens/how-stories-control-reality/) | How do poems, myths, scripture, film, and philosophy make reality inhabitable and coordinate action without command? | Homer, Stories Win The Game, Bible/Yahwist, Hollywood-Pentagon |
-| Human heart as measure | Does the outer order honor the inner law of love, guilt, pride, forgiveness, creation, learning, and growth, or repress it until it reverses into collapse? | Psychohistory final class, tragedy, Russia/Dostoevsky, Homer/Achilles |
+| [Human heart as measure](/lens/human-heart-as-civilizational-measure/) | Does the outer order honor the inner law of love, guilt, pride, forgiveness, creation, learning, and growth, or repress it until it reverses into collapse? | Psychohistory final class, tragedy, Russia/Dostoevsky, Homer/Achilles |
 | [Sacred machines](/lens/sacred-machines/) | How does a civilization turn invisible order into visible public technology? | Great Pyramid, Mesopotamia, later religious empire |
-| Taboo as control surface | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
+| [Taboo as control surface](/lens/taboo-as-control-surface/) | Which sacred boundary organizes the game, and what happens when someone crosses it publicly? | Religious imagination, Spanish conquest, Church scapegoating, Robespierre, Secret History taboo |
 | [Legitimacy fiction](/lens/legitimacy-fiction/) | How does political invention become inherited reality? | Caesar/Octavian, David, Holy Roman Empire, Cyrus, America as game |
 | [Civilization as inner order](/lens/civilization-as-inner-order/) | What arrangement of myth, economy, violence, sex, memory, and language makes a people? | Agriculture, Old Europe, Yamnaya, Greece, Bronze Age |
-| Borderland engine | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
+| [Borderland engine](/lens/the-borderland-engine/) | When does a poor or marginal edge accumulate enough energy, openness, cohesion, and borrowed knowledge to break a stable center? | Greece, Muhammad, Vikings, Qin, Macedon, Rome, World Game |
 | Collapse and transition surface | What hidden instability does a break reveal, who benefits from its timing, what assets or authority move, and what resilient new form can be built afterward? | Elite overproduction, Secret History collapse model, Bronze Age/Greece, Great Reset, end-of-history resilience |
-| Bureaucracy as institutional death | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
+| [Bureaucracy as institutional death](/lens/bureaucracy-as-institutional-death/) | When does successful coordination harden into status monopoly, problem manufacture, and blocked discovery? | Byzantium, China, scientific bureaucracy, modern universities |
 | [Secret society as coordination technology](/lens/secret-society-as-coordination-technology/) | What hidden trust, binding, bureaucracy, capital, or script lets actors coordinate where explicit command would fail? | Secret History conspiracy, Secret History capital, eschatology convergence, Pax Judaica caveats |
 | [Empire and material test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) | When does a story of power stop matching economics, organization, logistics, and time? | Rome, Putin, Hollywood-Pentagon, Iran escalation |
-| Gerontocracy and extraction | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
-| Attention capture and capital extraction | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
-| Education as soul game | What kind of person does school make when learning is displaced by trust transfer, status, compliance, and credential competition, and what would a living school form instead? | Secret History school, meritocracy, Game Theory schools, Great Books, psychohistory school |
+| [Gerontocracy and extraction](/lens/gerontocracy-as-intergenerational-extraction/) | Which generation receives safety, assets, and moral protection while another pays with future, labor, and war risk? | Secret History gerontocracy |
+| [Attention capture and capital extraction](/lens/attention-capture-as-capital-extraction/) | Who is gathering human focus as energy, and what reality does that captured imagination maintain? | Secret History capital, Great Books cave, school game |
+| [Education as soul game](/lens/education-as-a-soul-game/) | What kind of person does school make when learning is displaced by trust transfer, status, compliance, and credential competition, and what would a living school form instead? | Secret History school, meritocracy, Game Theory schools, Great Books, psychohistory school |
 | Truth, prediction, and correction | What kind of prediction is operating: poetic truth, corrigible model, game intervention, eschatological role-script, or speculative proof test? | Psychohistory final class, Iliad truth, Predictive History address, Universal Law of Game Theory, Pax Judaica caveat |
-| Guidance and escape | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
-| Free will as burden | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
+| [Guidance and escape](/lens/the-guide-who-becomes-a-trap/) | How does a person leave a false world without carrying its guide inside? | Cave, Dante/Virgil, dead world |
+| [Free will as burden](/lens/free-will-as-cosmic-burden/) | Where has choice become responsibility for the world one helps make, the hell one desires, or the agency an institution removes? | Cave, Dante, Secret History, Jesus/Grand Inquisitor |
 | [Eschatology as script](/lens/eschatology/) | Which end-times story is assigning roles, coordinating action, and making catastrophe or salvation feel necessary? | Eschatologies converge, Dante, Secret History #9, cave |
 
 ## Chronology Of The Current Map
