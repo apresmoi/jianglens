@@ -45,6 +45,20 @@ The same passage keeps this from becoming gentle nostalgia. Jiang says society c
 
 This belongs on the human-heart page because the active mechanism is the inner relation that must be preserved. The neighboring pages carry the outer machinery. [Mass society](/lens/mass-society-as-political-constraint/) owns machine-function and spiritual forgetting at scale. [Attention capture](/lens/attention-capture-as-capital-extraction/) owns the social-media system that imprisons imagination. [Education](/lens/education-as-a-soul-game/) owns school as formation. The heart lens asks what those systems break: the relational capacity without which purpose, meaning, and moral direction stop being felt.
 
+## Freedom Lives Between People
+
+The **2025-12-16** modernity lecture adds the political-philosophical version of the same relation. Jiang is moving through volatile material about capital, modernity, Marx, Bakunin, and Freud, and the source keeps its own caveat: the final conspiracy question is speculation, not a proved answer. The heart mechanism is cleaner than the speculative frame. It asks where freedom, meaning, purpose, and love are actually found.
+
+Jiang contrasts two mirrors. In the Marx reading, the object reflects the self: labor makes an object and the maker recognizes himself in it. In the Bakunin passage, the mirror is another free person. The quoted text says a person is free only when surrounded by free people and recognized by them; Jiang glosses it as [the other person is the reflection, not the object]{evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0123 video:predictive-history-zprecjhuous@transcript:v1#seg-0124"}. The point is not anti-work or anti-object in general. The point is that a heart cannot confirm freedom by staring at its own product if relation has disappeared.
+
+<!-- lens-point id="heart-freedom-needs-other-free-people" concept="human-heart" evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0123 video:predictive-history-zprecjhuous@transcript:v1#seg-0124 video:predictive-history-zprecjhuous@transcript:v1#seg-0126 video:predictive-history-zprecjhuous@transcript:v1#seg-0160" -->
+<span id="heart-freedom-needs-other-free-people" class="lens-point-anchor"></span>
+The heart confirms freedom through other free people when meaning, purpose, love, and dignity are found in mutual recognition rather than isolated self-analysis, objects, property, or inward self-display.
+
+That is why Jiang can say paradise comes through [love rather than objects, public property, or socialism]{evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0126"}. He is not building a new love-as-romance concept here. He is returning to the heart's relational law: a community can be happy only through the happiness of others, and the self becomes less real when it loses other persons as mirrors.
+
+The closing makes the negative diagnosis explicit. Jiang says the modern mind turns inward, becomes self-directed, and learns no truth from navel-gazing. Then he gives the counterline: [meaning, purpose, and love are found in each other, not in the isolated self]{evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0160"}. This belongs on the human-heart page because the active question is not the machinery that isolates people. [Power As Alchemy](/lens/power-as-alchemy/) owns the abstract individual made real; the held cult-of-self seed owns isolation sold as freedom; [Attention Capture](/lens/attention-capture-as-capital-extraction/) owns platform and money capture. The heart lens owns what those systems must sever: the relation in which freedom and meaning become humanly real.
+
 ## The Literary Battlefield
 
 The **2025-11-06** Homer lecture gives the heart its most vivid scene. Jiang reads the ending of the *Iliad* not as battlefield triumph but as an inward battle over guilt and forgiveness.
@@ -125,6 +139,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **Repression Test**: What part of the heart has to be suppressed so authority can keep control?
 - **Reversal Test**: Where are blocked love and blocked creation returning as hate, destruction, rebellion, or social collapse?
 - **Empathy Test**: Which system is breaking a born emotional connection and replacing relation with isolation, display, obedience, or numbness?
+- **Freedom Test**: Is freedom being confirmed by other free people, or replaced by objects, inward self-analysis, self-display, or lonely self-command?
 - **Forgiveness Test**: Which conflict is really an inward battle over guilt, pride, memory, and self-forgiveness?
 - **Fallibility Test**: Who can admit error, hear argument, and learn without treating correction as humiliation or rebellion?
 - **Reason Test**: What has been rationalized that the heart still cannot accept, and what relation of love is missing from the reasoning?
@@ -140,6 +155,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **2025-10-21**, [Imagination Came Before Civilization](/episodes/predictive-history-lvhsg5qtds8/): empathy becomes a born emotional connection that school, screens, isolation, and broken relation can sever.
 - **2025-11-06**, [Homer Made The Human Heart A Battlefield](/episodes/predictive-history-4ehovunrsrw/): Homer makes the heart a battlefield of guilt and forgiveness; Greek civilization grows around the public study of that inward struggle.
 - **2025-11-12**, [The Bible Turns Mistakes Into Imagination](/episodes/predictive-history-plmnq44tbg0/): Yahweh becomes a fallible, reflective, forgivable authority; argument with God turns forgiveness into learning rather than submission to perfect command.
+- **2025-12-16**, [Modernity Needs A Scapegoat](/episodes/predictive-history-zprecjhuous/): the Bakunin contrast gives the relational-freedom layer. The object and isolated self cannot carry paradise; meaning, purpose, love, and freedom are found among other free people.
 - **2026-01-14**, [Homer Makes Achilles Real Enough To Invent The Human](/episodes/predictive-history-ft2cuowguyc/): Achilles becomes a mirror for pride, vulnerability, imagination, and the complicated dark heart inside the reader.
 
 ## Related Concepts
@@ -148,5 +164,6 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - [How Fictional Heroes Become Part Of The Self](/lens/how-fictional-heroes-become-part-of-the-self/) - for the character mechanism that makes Achilles or Virgil live inside a reader.
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - for poetry as the larger civilizational medium that carries heart-knowledge into shared memory.
 - [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) - for agency, love, chosen slavery, and the moral responsibility the heart cannot delegate.
+- [Power As Alchemy](/lens/power-as-alchemy/) - for the upstream conversion of the isolated individual into a lived abstraction.
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as the game that can deform or preserve the human powers the heart needs.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for screens, social media, and systems that turn consciousness away from relation and into managed focus.
