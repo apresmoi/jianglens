@@ -7,7 +7,7 @@ description: "A Jiang Lens concept page on the human heart as literary battlefie
 
 In Jiang's lectures, the human heart is not a sentimental name for kindness. It is the hidden structure a civilization must either understand, honor, train, or repress.
 
-The heart is where pride and vulnerability bind together, where guilt can survive every rational excuse, where forgiveness can change a world, where tragedy teaches democracy to see hubris, and where social order either lines up with human need or turns love into hate and creation into destruction. A state, school, church, market, empire, or predictive model fails when it treats that inner structure as noise.
+The heart is where pride and vulnerability bind together, where empathy begins as emotional connection, where guilt can survive every rational excuse, where forgiveness can change a world, where tragedy teaches democracy to see hubris, and where social order either lines up with human need or turns love into hate and creation into destruction. A state, school, church, market, empire, or predictive model fails when it treats that inner structure as noise.
 
 This page separates the human-heart mechanism from neighboring concepts. [Free will](/lens/free-will-as-cosmic-burden/) asks what the soul chooses and bears. [Living school for psychohistory](/lens/living-school-for-psychohistory/) asks what kind of school could model futures democratically. [Fictional heroes](/lens/how-fictional-heroes-become-part-of-the-self/) asks how characters enter the self. The human-heart lens asks a more basic diagnostic question: what inner law of love, guilt, pride, trust, curiosity, compassion, and recognition must the outer order respect if it wants human beings to flourish instead of revolt, collapse, or make hell?
 
@@ -30,6 +30,20 @@ The reversal is severe. If people cannot love, they hate. If they cannot create,
 <!-- lens-point id="repressed-heart-reverses-into-destruction" concept="human-heart" evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0047" -->
 <span id="repressed-heart-reverses-into-destruction" class="lens-point-anchor"></span>
 Repressed heart reverses into destruction when blocked love becomes hate, blocked creation becomes destruction, and people denied love, creation, learning, and growth rebel against the order that made them slaves.
+
+## Born Into Empathy
+
+The **2025-10-21** dawn-of-humanity lecture adds a more primitive layer before civic virtue or literary self-knowledge. A student asks where strong empathy comes from if empathy is usually described as socialization. Jiang reverses the premise: [empathy means connection with others, and it is something people are born with]{evidence="video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0067"}.
+
+His example is not policy sympathy. It is a mother and child sensing one another before explanation. As that connection grows, [empathy can become almost telepathic]{evidence="video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0067"}: the mother washing clothes suddenly feels something is wrong and wants to ask the teacher whether the child is being bullied. The point is not literal mind-reading as proof. It is that the heart begins as relational sensitivity before institutions name it as a norm.
+
+<!-- lens-point id="heart-born-empathy-socialized-out" concept="human-heart" evidence="video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0067 video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0068" -->
+<span id="heart-born-empathy-socialized-out" class="lens-point-anchor"></span>
+The heart is born into empathy when emotional connection precedes instruction, and it is socialized out of empathy when school, screens, isolation, or broken relation sever the connection that gives direction, purpose, and meaning.
+
+The same passage keeps this from becoming gentle nostalgia. Jiang says society can [break that natural emotional connection through school, too much online life, and too much television]{evidence="video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0067"}. Once the connection breaks, people still crave empathy and emotion more than food, but without felt connection they lose direction, purpose, and meaning. His closing formula is blunt: [people are not socialized into empathy; they are socialized out of it]{evidence="video:predictive-history-lvhsg5qtds8@transcript:v1#seg-0068"}.
+
+This belongs on the human-heart page because the active mechanism is the inner relation that must be preserved. The neighboring pages carry the outer machinery. [Mass society](/lens/mass-society-as-political-constraint/) owns machine-function and spiritual forgetting at scale. [Attention capture](/lens/attention-capture-as-capital-extraction/) owns the social-media system that imprisons imagination. [Education](/lens/education-as-a-soul-game/) owns school as formation. The heart lens asks what those systems break: the relational capacity without which purpose, meaning, and moral direction stop being felt.
 
 ## The Literary Battlefield
 
@@ -96,6 +110,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **Need Test**: Does the order give people structure, meaning, purpose, love, creation, learning, and growth?
 - **Repression Test**: What part of the heart has to be suppressed so authority can keep control?
 - **Reversal Test**: Where are blocked love and blocked creation returning as hate, destruction, rebellion, or social collapse?
+- **Empathy Test**: Which system is breaking a born emotional connection and replacing relation with isolation, display, obedience, or numbness?
 - **Forgiveness Test**: Which conflict is really an inward battle over guilt, pride, memory, and self-forgiveness?
 - **Reason Test**: What has been rationalized that the heart still cannot accept, and what relation of love is missing from the reasoning?
 - **Tragedy Test**: What public form lets people see hubris, revenge, grief, pity, and judgment before those forces govern blindly?
@@ -107,6 +122,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **2024-10-17**, [Tragedy Makes Democracy Face Itself](/episodes/predictive-history-96hzwlozdhw/): tragedy becomes democratic heart-knowledge. Playwrights study hubris, revenge, power, and grief so a public can see what makes humans human.
 - **2025-04-22**, [Reason Becomes A Religion](/episodes/predictive-history-5hwzx5kqm9o/): Dante's love/reason contrast gives the heart its restraint function. Reason can operate alone; love requires relation, and that relation keeps reason from justifying anything.
 - **2025-05-20**, [Russia And The Mystery Of The Heart](/episodes/predictive-history-0ralqcpwuh0/): Russia is framed as a civilization of the heart, where love, trust, guilt, suffering, and redemption cannot be mastered by utilitarian reason.
+- **2025-10-21**, [Imagination Came Before Civilization](/episodes/predictive-history-lvhsg5qtds8/): empathy becomes a born emotional connection that school, screens, isolation, and broken relation can sever.
 - **2025-11-06**, [Homer Made The Human Heart A Battlefield](/episodes/predictive-history-4ehovunrsrw/): Homer makes the heart a battlefield of guilt and forgiveness; Greek civilization grows around the public study of that inward struggle.
 - **2026-01-14**, [Homer Makes Achilles Real Enough To Invent The Human](/episodes/predictive-history-ft2cuowguyc/): Achilles becomes a mirror for pride, vulnerability, imagination, and the complicated dark heart inside the reader.
 
@@ -117,3 +133,4 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - for poetry as the larger civilizational medium that carries heart-knowledge into shared memory.
 - [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) - for agency, love, chosen slavery, and the moral responsibility the heart cannot delegate.
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as the game that can deform or preserve the human powers the heart needs.
+- [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for screens, social media, and systems that turn consciousness away from relation and into managed focus.
