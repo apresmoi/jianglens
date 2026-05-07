@@ -9,7 +9,7 @@ Legitimacy fiction is Jiang's mechanism for political invention becoming real.
 
 The word "fiction" does not mean harmless lie. It means a constructed story, name, ritual, office, text, or rule system that begins as a solution to a crisis and then changes what later people can inherit, obey, punish, love, or imagine. A fiction becomes legitimate when enough actors need it, repeat it, teach it, write it down, or risk their lives inside it. At that point the fiction is no longer only in speech. It has reorganized the board.
 
-Across Jiang's Roman, biblical, imperial, and game-theory lectures, this mechanism appears wherever force alone is not enough. Caesar can conquer, but he also has to become the protagonist of a new Rome. David can kill, but the killing has to be turned into literature. Charlemagne can fight, but divided Europe has to believe he is rightful. Cyrus can conquer, but his mercy works because conquered peoples begin to need Persian order. America can dominate, but the deeper achievement is to make citizenship, dollar wealth, and constitutional rules feel like a playable world.
+Across Jiang's Roman, biblical, imperial, revolutionary, and game-theory lectures, this mechanism appears wherever force alone is not enough. Caesar can conquer, but he also has to become the protagonist of a new Rome. David can kill, but the killing has to be turned into literature. Charlemagne can fight, but divided Europe has to believe he is rightful. Napoleon can seize power, but the messiah image has to keep producing action. Cyrus can conquer, but his mercy works because conquered peoples begin to need Persian order. America can dominate, but the deeper achievement is to make citizenship, dollar wealth, and constitutional rules feel like a playable world.
 
 <!-- lens-point id="legitimacy-fiction-reorganizes-board" concept="legitimacy-fiction" evidence="video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002 video:predictive-history-dc54iqur7ik@transcript:v1#seg-0017" -->
 <span id="legitimacy-fiction-reorganizes-board" class="lens-point-anchor"></span>
@@ -65,6 +65,22 @@ A useful fiction governs where force cannot scale: it gives divided actors a sha
 
 The diagnostic is not "is the title accurate?" The useful question is "who needs the inaccuracy?" If king, pope, prince, priest, and subject all receive something from pretending the fiction is real, the fiction has political substance.
 
+## The Myth Has To Keep Moving
+
+The April 29, 2025 Napoleon lecture adds a darker test: legitimacy fiction can become a machine that requires fresh action to keep believing itself.
+
+Napoleon does not only inherit the revolutionary army Robespierre made possible. Jiang says he understands that after religious and political authority break down, society is governed by mythologies that live in the collective subconscious. Napoleon sees that France is looking for a messiah and acts the role. In the 1799 coup, he wants to be [the new Caesar who crosses the Rubicon and ends the republic]{evidence="video:predictive-history-eneet-0j-y8@transcript:v1#seg-0043"}, and Paris does not rise because the messiah myth is already working.
+
+That creates a new burden. Once he is dictator, he cannot simply govern. He has to keep giving the myth scenes it can use. Jiang's line is direct: [action matters because Napoleon needs action in order to create his mythology]{evidence="video:predictive-history-eneet-0j-y8@transcript:v1#seg-0045"}. Battles, crossings, paintings, bulletins, and reckless risks become legitimacy material. Victory is not the only point. Narratable destiny is the point.
+
+<!-- lens-point id="legitimacy-fiction-myth-must-keep-moving" concept="legitimacy-fiction" evidence="video:predictive-history-eneet-0j-y8@transcript:v1#seg-0043 video:predictive-history-eneet-0j-y8@transcript:v1#seg-0045 video:predictive-history-eneet-0j-y8@transcript:v1#seg-0048" -->
+<span id="legitimacy-fiction-myth-must-keep-moving" class="lens-point-anchor"></span>
+Legitimacy fiction becomes republic-ending when a personal myth has to keep producing action: the leader performs inherited roles, turns danger into destiny material, and keeps war moving because the fiction is what permits rule.
+
+The point is not generic charisma. It is the dependency relation between rule and story. Jiang says Napoleon recognizes that [France has to stay at war so he can maintain his mythology and messiah image]{evidence="video:predictive-history-eneet-0j-y8@transcript:v1#seg-0048"}. If the myth stops, the emperor becomes merely a man with power. So the fiction pushes outward into empire, until [geography, Britain, Russia, Austria, Spain, Germany, nationalism, and exhausted soldiers push back]{evidence="video:predictive-history-eneet-0j-y8@transcript:v1#seg-0049 video:predictive-history-eneet-0j-y8@transcript:v1#seg-0050"}.
+
+This belongs here rather than only on the story-control page because the myth is not just organizing attention. It is supplying title, permission, succession, and obedience after a republic's authority has weakened. The boundary is also important: use this mechanism when the source shows myth sustaining political legitimacy through repeated action. Use [How Stories Control Reality](/lens/how-stories-control-reality/) for broader narrative coordination, [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) for strategy failing economics, organization, and logistics, and [Nation As God-Machine](/lens/nation-as-god-machine/) when the collective national body itself is the sacred actor.
+
 ## Mercy Can Become A Political Technology
 
 Cyrus shows that legitimacy fiction is not always built from names and texts. It can also be built from a surprising practice.
@@ -93,7 +109,7 @@ This is why the American case also belongs with nation-as-god-machine and power-
 
 ## Diagnostics
 
-Ask what crisis the fiction solved. Caesar solves Rome's imperial-republic contradiction; David solves a dynastic scandal; the Holy Roman Empire solves Europe's fractured legitimacy; Cyrus solves the rebellion problem of terror empire; America solves the limits of ethnic, gold-backed, island empire.
+Ask what crisis the fiction solved. Caesar solves Rome's imperial-republic contradiction; David solves a dynastic scandal; the Holy Roman Empire solves Europe's fractured legitimacy; Napoleon solves the post-revolutionary desire for a messiah; Cyrus solves the rebellion problem of terror empire; America solves the limits of ethnic, gold-backed, island empire.
 
 Ask who needs the fiction to be true. A fiction becomes durable when several actors benefit from inhabiting it, even if they disagree about its meaning.
 
@@ -101,7 +117,7 @@ Ask what the fiction makes inheritable. Names, offices, constitutions, scripture
 
 Ask what gets hidden by legitimacy. The fiction may preserve guilt, class advantage, conquest, exclusion, dependency, or rule control under the language of love, unity, mercy, law, sacred order, or fair play.
 
-Ask when the fiction stops working. Legitimacy breaks when the story no longer matches experience, when the beneficiaries no longer need the alliance, when a rival myth becomes emotionally stronger, or when the game board can no longer expand.
+Ask when the fiction stops working. Legitimacy breaks when the story no longer matches experience, when the beneficiaries no longer need the alliance, when the myth requires more action than the material world can support, when a rival myth becomes emotionally stronger, or when the game board can no longer expand.
 
 ## Source Trail
 
@@ -119,6 +135,9 @@ Ask when the fiction stops working. Legitimacy breaks when the story no longer m
 
 - **2025-02-27**, [Civilization #34: The Useful Fiction of the Holy Roman Empire](/episodes/predictive-history-1dwvgtc7xzy/)  
   The Holy Roman Empire names the mechanism directly: useful fiction can coordinate legitimacy and unity where conquest cannot.
+
+- **2025-04-29**, [Civilization #48: Napoleon's Empire of Myth](/episodes/predictive-history-eneet-0j-y8/)
+  Napoleon shows the danger of a personal myth that has to keep producing action and war after republican authority breaks down.
 
 - **2026-01-27**, [Game Theory #7: America's Game](/episodes/predictive-history-ijnkct1qk6k/)  
   America updates the concept into a modern rule-system: a national game whose legitimacy rests on rights, money, citizenship, and the general will.
