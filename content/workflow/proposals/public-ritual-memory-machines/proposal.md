@@ -1,8 +1,11 @@
 # Public Ritual Memory Machines
 
 Date: 2026-05-07
-Status: proposed lens seed
+Status: reviewed lens seed; held from public promotion after cross-page review
 Work type: proposal synthesis
+Reviews:
+- `content/workflow/reviews/public-ritual-memory-machines/local-judge-2026-05-07.md`
+- `content/workflow/reviews/public-ritual-memory-machines/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
@@ -73,7 +76,7 @@ If later promoted, the public surface should probably be an atlas relation first
 
 ## Candidate Lens Points
 
-These are not added yet because the boundary needs cross-page review before public mutation.
+These are not added yet because the cross-page review held the seed from public mutation. Future workers should add public anchors only if later source recurrence or public-page duplication makes the public-form mechanism necessary.
 
 - `public-ritual-makes-collective-consciousness`  
   A public ritual becomes a memory machine when communal participation turns a staged event into shared consciousness.
@@ -90,12 +93,17 @@ These are not added yet because the boundary needs cross-page review before publ
 - `public-form-trains-human-type`  
   Public forms create different human types depending on what they make the community remember, judge, honor, sacrifice, or imagine.
 
-## Promotion Conditions
+## Review Status
 
-Before public mutation:
+Local judge review and cross-page review both held this as a routing seed rather than a public page or atlas relation. The public map already carries the active neighboring mechanisms: World-Making Media and Human Heart hold Greek theater and civic consciousness; Taboo holds triumph-as-sacrifice and public transgression; Sacred Machines holds ritual objects and architecture; Nation holds ceremony when it forms the national body; Civilization holds broad human-type formation; Stories Control holds commandless scripts. Use this seed only when a source foregrounds the staged public form as the machine that makes collective memory, judgment, sacrifice, or imagination durable.
 
-1. Run a cross-page review against `how-poetry-creates-civilization`, `how-fictional-heroes-become-part-of-the-self`, `human-heart-as-civilizational-measure`, `taboo-as-control-surface`, `sacred-machines`, `nation-as-god-machine`, `civilization-as-inner-order`, and `how-stories-control-reality`.
-2. Decide whether this should remain a proposal, become a short atlas relation inside World-Making Media, or become a concept page only after more than the Viking/Roman/Greek comparison recurs.
-3. Check whether additional public-form sources, such as Viking funeral variants, Roman triumph sacrifice, Greek tragedy, national ceremonies, or civic spectacles, create enough pressure for promotion without duplicating existing pages.
-4. Preserve attribution and source caution. Jiang's Viking funeral reconstruction is interpretive and based on a difficult reported account; do not turn it into independent proof of participant intention.
-5. If promoted, keep the page reader-facing and diagnostic. The useful question is not "what rituals exist?" but "what public scene trains the community's memory, judgment, sacrifice, or imagination?"
+## Promotion Test
+
+Do not promote this seed into a public page or atlas relation unless future source pressure makes the public staged form itself the missing reader surface. Promotion would become justified if at least two of these are true:
+
+1. Later sources repeat the public-form mechanism beyond the Viking/Roman/Greek comparison, especially in national ceremonies, civic spectacles, funerals, triumphs, public sacrifice, theater, parades, or repeated communal performance.
+2. Existing public pages begin duplicating the same explanation of staged public participation as collective-memory formation.
+3. A future atlas mutation needs one stable relation joining World-Making Media, Human Heart, Taboo, Sacred Machines, Nation, Civilization, and Stories Control around public staged forms.
+4. A canon/glossary review needs a concise public definition of public ritual as memory infrastructure that cannot live cleanly on one neighboring page.
+
+Until then, keep the seed as routing discipline. The useful question is not "what rituals exist?" but "what public scene trains the community's memory, judgment, sacrifice, or imagination?"
