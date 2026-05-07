@@ -85,9 +85,17 @@ Robespierre gives the secular form. In the April 2025 French Revolution lecture,
 
 Then the mythic script takes over. Jiang argues that even a revolution of reason still runs on inherited mythology because [mythologies are the subconscious operating system of society]{evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0021"}. Robespierre becomes the one who takes blame for the community's crimes, the martyr who dies so the Revolution can live, and the paragon whose death makes others sacrifice more. Jiang's final purification formula is explicit: [become the scapegoat, take the guilt for the nation, and let the people move on]{evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078"}.
 
+The **2025-12-16** modernity lecture adds the most volatile modern version, and the caveat belongs inside the mechanism. Jiang begins by warning that [it is easy to see a Jewish conspiracy everywhere, but the argument is more complicated]{evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0001"}. His model is not that the visible group is the final hidden sovereign. It is that an empire can require visible managers and scapegoats while the deeper power keeps profit, control, and capital in shadow. In his phrasing, [empire needs scapegoats and middle managers]{evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0001"}.
+
+That makes the modern scapegoat different from a simple ritual victim. The marked group becomes a face for a structure that would otherwise be too abstract to hate. Jiang says transnational capital [gets the profit, hides behind the scenes, and leaves the blame on Jews]{evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0002"}. The lens point is not an invitation to identify a secret ethnicity behind history. It is the opposite diagnostic: ask whether a conflict is making a visible intermediary absorb rage that should be aimed at the system that assigned the intermediary's role.
+
 <!-- lens-point id="taboo-scapegoat-moves-guilt" concept="taboo-control-surface" evidence="video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0023 video:predictive-history-ef-ch2lgddi@transcript:v1#seg-0078 video:predictive-history-3751zjwmrbw@transcript:v1#seg-0058 video:predictive-history-3751zjwmrbw@transcript:v1#seg-0059" -->
 <span id="taboo-scapegoat-moves-guilt" class="lens-point-anchor"></span>
 Scapegoating moves guilt when a community routes accumulated violence, resentment, sin, or political contradiction into a marked body whose punishment lets the larger order feel cleansed or unified.
+
+<!-- lens-point id="taboo-scapegoat-gives-hidden-power-a-face" concept="taboo-control-surface" evidence="video:predictive-history-zprecjhuous@transcript:v1#seg-0001 video:predictive-history-zprecjhuous@transcript:v1#seg-0002" -->
+<span id="taboo-scapegoat-gives-hidden-power-a-face" class="lens-point-anchor"></span>
+Modern scapegoating gives hidden power a face when an empire or capital structure keeps profit and control in shadow while a visible middle-manager group absorbs blame for the system it helps administer.
 
 ## Diagnostics
 
@@ -104,6 +112,8 @@ Ask whether the breach removes retreat. A public violation may be strategically 
 Ask whether transgression is being treated as knowledge. If the forbidden act is said to reveal the true world, prove higher faith, or turn guilt into discipline, taboo is functioning as a technology rather than only as a prohibition.
 
 Ask where guilt is being routed. If anger at one power is discharged onto another body, the scapegoat may be preserving the system that produced the original pressure.
+
+Ask who benefits from the visible target. If a blamed group is easier to see than the power arranging debt, trade, policy, or institutional command, the scapegoat may be functioning as a face for hidden structure rather than as the source of the structure.
 
 Ask whether the taboo still serves life. Jiang's ritual primitive is harmony, not transgression for its own sake. A taboo can maintain an order where killing, eating, worship, sex, authority, and death remain meaningful. It can also become the lever by which power creates fear, obedience, persecution, or no-exit solidarity.
 
