@@ -43,6 +43,20 @@ Jiang's Catholic section is sharper and more speculative. He distinguishes the o
 
 The convergence section then shows the strategic danger. Jiang argues that multiple traditions can converge around a Middle East furnace: a world war, the Dome of the Rock, Antichrist figures, tribulation, Israel, Iran, Turkey, Russia, Europe, America, and China. His forecast is explicitly dated and speculative. The durable mechanism is that [convergence points let incompatible traditions move toward the same crisis]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0025 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0027"}. A shared endpoint can coordinate rivals even when their theologies contradict.
 
+## The Institution That Leaves History
+
+The December 31, 2024 Augustine lecture adds an institutional version of eschatology. It begins from a failed end of history. After Theodosius makes Christianity official, Rome can imagine that [Christianity has arrived and will make paradise on earth]{evidence="video:predictive-history-gdbzbvuivde@transcript:v1#seg-0005"}. Then Rome is sacked in 410. The sack creates a crisis because critics can say the old gods punished Rome or that Christian mercy made Rome weak.
+
+Augustine's solution is not to prove that Christian empire has succeeded inside ordinary history. Jiang says he [takes the Catholic Church out of history]{evidence="video:predictive-history-gdbzbvuivde@transcript:v1#seg-0006"}. Mortals may battle for power, but the Church names itself God's representative on earth and removes itself from that battlefield. The two cities make the move legible: Rome becomes power, greed, and the self; Jerusalem becomes spirit, selflessness, and paradise.
+
+<!-- lens-point id="eschatology-institution-outside-history" concept="eschatology-script" evidence="video:predictive-history-gdbzbvuivde@transcript:v1#seg-0006 video:predictive-history-gdbzbvuivde@transcript:v1#seg-0007 video:predictive-history-gdbzbvuivde@transcript:v1#seg-0008 video:predictive-history-gdbzbvuivde@transcript:v1#seg-0045" -->
+<span id="eschatology-institution-outside-history" class="lens-point-anchor"></span>
+Eschatology becomes institutional armor when a sacred body moves itself outside ordinary history, survives failed earthly paradise, authorizes rulers from above the battlefield, and makes obedience feel safer than historical action.
+
+The political effect is a jurisdiction change. Jiang says the Church can solve three ruler problems at once: [legitimacy, cultural cohesion, and cultural differentiation]{evidence="video:predictive-history-gdbzbvuivde@transcript:v1#seg-0008"}. Power may shift among kings and emperors, but the Church remains central because it can authorize the shift.
+
+The personal effect is darker. Augustine's priestly manual redirects outward injury inward: the landlord exploits you, the world is corrupt, even the Church steals from you, but the decisive struggle is the devil inside you. In Jiang's final compression, Augustine gives empire a theology: [obey, or risk hell forever]{evidence="video:predictive-history-gdbzbvuivde@transcript:v1#seg-0045"}. This belongs inside eschatology because the end-state threat governs present action. It touches legitimacy fiction because rulers need authorization, bureaucracy because the doctrine becomes priestly training, and free will because obedience is sold as salvation, but the controlling mechanism is the sacred institution escaping history's test.
+
 ## Counter-War Technology
 
 The April 2026 nation-state lecture adds a later, more strategic use of the same mechanism. Jiang has just defined twenty-first-century war as a shift from killing soldiers or destroying factories toward economic strangulation, ethnic tension, and attacks on water, electricity, food, and civilian anger. In that setting, eschatology becomes a counter to war that targets morale.
@@ -103,6 +117,8 @@ Ask what role the story assigns. Who is the remnant, savior, enemy, betrayer, An
 
 Ask what catastrophe proves. In ordinary politics, failure may discredit a strategy. In eschatological politics, failure can confirm the script: tribulation proves the end is near, persecution proves righteousness, escalation proves courage, and collapse proves the old world deserves to die.
 
+Ask whether an institution has moved itself outside the test. If a church, party, school, nation, or bureaucracy treats historical failure as something that cannot judge its sacred mission, it may be using eschatology as armor rather than only as prediction.
+
 Ask whether salvation is contractual. If rescue requires obedience, payment, institutional submission, or loss of free will, Jiang's Dante reading treats the rescuer with suspicion. Real love frees; false salvation may reproduce the prison.
 
 Ask whether death is being used to control imagination. Jiang repeatedly reverses the fear of death. In the cave lecture, [death is release while slavery is the living death already happening]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0044"}. In Secret History #9, transhumanist escape from death is recast as a trap that keeps people here forever. A world that makes death the supreme terror can make almost any captivity look practical.
@@ -117,3 +133,4 @@ Ask whether suffering is being made strategically meaningful. In a population-ta
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/)
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
 - [How Stories Control Reality](/lens/how-stories-control-reality/)
+- [Legitimacy Fiction](/lens/legitimacy-fiction/)
