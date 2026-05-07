@@ -7,7 +7,7 @@ description: A Jiang Lens concept page on old wealth, pensions, housing, safety 
 
 Across Jiang's source trail, gerontocracy names more than elderly politicians staying in office. It is a whole social order in which old wealth, status, pension claims, medical priority, property ownership, safety politics, and family morality reorganize the future around the elderly. Jiang gives the plain definition in his August 29, 2025 Secret History lecture: [rule by old people]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001"}. But the earlier October 15, 2024 Greek-history lecture already contains the deeper mechanism: [in abundance, old actors stay at the top, younger actors cannot ascend, and blocked energy becomes violence]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054 video:predictive-history-npncq-gnqde@transcript:v1#seg-0055"}.
 
-The central mechanism is extraction across time. The young carry rising rents, weaker schools, job pressure, surveillance, prisons, war, and debt. The old receive asset appreciation, pension protection, medical access, cheap care labor, political deference, and the moral shield of being grandparents. Jiang is careful about the target: [old people in general are not the problem; old rich people are the problem]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"}.
+The central mechanism is extraction across time. The young carry rising rents, weaker schools, job pressure, surveillance, prisons, war, debt, and finally [imperial sacrifice]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0026"}. The old receive asset appreciation, pension protection, medical access, cheap care labor, political deference, and the moral shield of being grandparents. Jiang is careful about the target: [old people in general are not the problem; old rich people are the problem]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0035"}.
 
 That distinction matters. The concept is not age resentment. It is a model of power. Age becomes politically decisive when it is joined to property, pensions, time, medical technology, institutional office, and inherited obedience.
 
@@ -91,6 +91,20 @@ Jiang makes the war connection explicit: [elderly people can send young people t
 
 This links the concept to the war pages. A story of national glory can become an old person's story paid for by young bodies. War is not only a material test or a narrative trap; it can also be a generational transfer of mortality.
 
+## Empire As Old-Age Sacrifice
+
+The August 8, 2025 lecture, [The Old Sacrifice The Young](/episodes/predictive-history-e83dpuyvpim/), makes the war layer less incidental. It begins with Canada as a small model: boomers want pensions paid, free healthcare, and rising property prices, so the economy must keep growing [regardless of the consequences]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0008"}. That domestic demand already belongs to gerontocracy. The source then scales the same desire into empire.
+
+Jiang's bridge image comes from Euripides' *Bacchae*. Agave holds her son's head and sees a lion's head, proof that she is brave, powerful, and virtuous. Jiang turns the scene into an imperial diagnostic: [empire is a mother proclaiming glory while holding the head of her son]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0025 video:predictive-history-e83dpuyvpim@transcript:v1#seg-0026"}. The horror is not only killing. It is misrecognition. The sacrificed child appears to the ruling generation as virtue.
+
+<!-- lens-point id="gerontocracy-empire-sacrifices-young" concept="gerontocracy-extraction" evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0023 video:predictive-history-e83dpuyvpim@transcript:v1#seg-0025 video:predictive-history-e83dpuyvpim@transcript:v1#seg-0026" -->
+<span id="gerontocracy-empire-sacrifices-young" class="lens-point-anchor"></span>
+Gerontocratic empire sacrifices the young when an older generation treats the imperial world it grew up in as the world it must die inside. Young bodies, grandchildren, and national futures are spent to preserve the old generation's image of glory, virtue, and continuity.
+
+This does not replace the strategy page. Strategy still asks whether a war story can survive economics, organization, logistics, escalation, and enemy adaptation. Gerontocracy asks who is being protected by the war story and who pays. In this source, Jiang says the baby boomers grew up in the Pax Americana, do not want to see it die in their lifetimes, and would rather [sacrifice their own children and grandchildren than lose the idea of empire while they are alive]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0026"}. The empire is therefore not only a geopolitical order. It is an old-age habitat.
+
+The same lecture also sharpens the status-lock layer. Abundance can provide food, water, security, and comfort, but [status remains a zero-sum game]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0029"}. In a closed system where people cannot run off and found another colony, they fight over rank; Jiang connects this to elite overproduction and to young people refusing children because [baby boomers refuse to give up their status]{evidence="video:predictive-history-e83dpuyvpim@transcript:v1#seg-0030"}. Gerontocracy therefore blocks the future twice: by keeping domestic status positions occupied and by making the imperial past worth more than young life.
+
 ## Why It Does Not Simply End
 
 Another student asks the obvious escape: what happens when rich pension elders die?
@@ -118,6 +132,7 @@ Fifth, connect war to age. If the old decide and the young die, the war story ne
 ## Chronology So Far
 
 - **2024-10-15**, [Rat Utopia And The War That Preserved Status](/episodes/predictive-history-npncq-gnqde/): Before using the term gerontocracy as a modern decline diagnosis, Jiang gives the status-lock mechanism: abundance lets old actors remain at the top, younger actors cannot ascend, and blocked potential becomes violence or war.
+- **2025-08-08**, [The Old Sacrifice The Young](/episodes/predictive-history-e83dpuyvpim/): The lecture scales the domestic boomer settlement into empire: pensions, healthcare, property, status, and the Pax Americana become one old-age habitat protected through young sacrifice.
 - **2025-08-29**, [Secret History #3: The Old Own The Future](/episodes/predictive-history-0g3yo1djilm/): The lecture defines gerontocracy as rule by old people, then turns Western decline into a "who benefits?" model centered on rich pensioners.
 - **2025-08-29**, same lecture: Housing, medical assistance in dying, fake prosperity, debt, surveillance, prisons, and war are treated as connected symptoms rather than separate topics.
 - **2025-08-29**, same lecture: The Q&A gives the trap mechanism: young people cannot easily overthrow gerontocracy because respect for elders is biologically and morally deep.
@@ -130,6 +145,17 @@ Fifth, connect war to age. If the old decide and the young die, the war story ne
   `video:predictive-history-npncq-gnqde@transcript:v1#seg-0054`
   `video:predictive-history-npncq-gnqde@transcript:v1#seg-0055`
   `video:predictive-history-npncq-gnqde@transcript:v1#seg-0056`
+
+- **2025-08-08**, [The Old Sacrifice The Young](/episodes/predictive-history-e83dpuyvpim/)
+  Domestic boomer demands for pensions, healthcare, and property appreciation scale into a war image where empire misrecognizes young sacrifice as old-age glory.
+  `video:predictive-history-e83dpuyvpim@transcript:v1#seg-0008`
+  `video:predictive-history-e83dpuyvpim@transcript:v1#seg-0025`
+  `video:predictive-history-e83dpuyvpim@transcript:v1#seg-0026`
+
+- **2025-08-08**, same lecture
+  Rat utopia returns as status lock: abundance can be supplied, but status remains zero-sum, elite overproduction follows, and baby boomers refuse to give up status.
+  `video:predictive-history-e83dpuyvpim@transcript:v1#seg-0029`
+  `video:predictive-history-e83dpuyvpim@transcript:v1#seg-0030`
 
 - **2025-08-29**, [Secret History #3: The Old Own The Future](/episodes/predictive-history-0g3yo1djilm/)
   Gerontocracy is defined as rule by old people, then tested through concrete Western decline trends.
