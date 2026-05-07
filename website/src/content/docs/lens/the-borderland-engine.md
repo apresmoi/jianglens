@@ -77,6 +77,18 @@ Poverty is not magic in the borderland engine. Scarcity becomes power only when 
 
 This caveat matters because it keeps the lens from turning cruelty into wisdom. The point is not that people should be made poor so they can become strong. The point is that settled power often misreads poor margins because it counts only resources, not the pressure that may be turning lack into coordination.
 
+## Easy Money Can Drain Motion
+
+The January 22, 2026 Bank of England lecture adds the negative version of the same test. Jiang is not only saying that Britain made clever institutions for capital. He says a legal-financial order can become attractive because it protects wealth without asking how the wealth was made. In his example, an offshore financial center [does not care where the money comes from]{evidence="video:predictive-history-cbamecnudxo@transcript:v1#seg-0020"}, and money laundering lets [stolen wealth be disguised, exported, and made legitimate]{evidence="video:predictive-history-cbamecnudxo@transcript:v1#seg-0025"}.
+
+That is still a borderland question because energy, openness, and cohesion are not just economic outputs. Jiang asks why every society does not copy the easy-money model if gambling, prostitution, human trafficking, slavery, and money laundering are profitable. His answer is moral and civilizational: [a society needs morality in order to create energy, openness, and cohesion]{evidence="video:predictive-history-cbamecnudxo@transcript:v1#seg-0031"}. A place can become wealthy through laundering corruption and still lose the inner cause that makes people feel they are part of something good.
+
+<!-- lens-point id="borderland-corruption-drains-motion" concept="borderland-engine" evidence="video:predictive-history-cbamecnudxo@transcript:v1#seg-0025 video:predictive-history-cbamecnudxo@transcript:v1#seg-0031 video:predictive-history-cbamecnudxo@transcript:v1#seg-0032 video:predictive-history-cbamecnudxo@transcript:v1#seg-0033" -->
+<span id="borderland-corruption-drains-motion" class="lens-point-anchor"></span>
+Easy immoral money can drain the borderland virtues it seems to buy: when a system protects stolen wealth, cleans corruption, and makes profit from degrading markets, it may gain capital while losing the morality, energy, openness, cohesion, and soul needed for durable collective motion.
+
+The boundary is important. [Power As Alchemy](/lens/power-as-alchemy/) owns the deeper conversion by which money and contracts become lived reality. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) owns the trust machinery of mobile capital. [Legitimacy Fiction](/lens/legitimacy-fiction/) owns the political fiction that transfers debt from a king to Parliament, nation, and people. The borderland engine owns the dynamism test: does the easy-money system still create a people capable of motion, learning, sacrifice, and shared cause, or has it made the center rich by hollowing out the qualities that once made it dangerous?
+
 ## Borderland Cases
 
 Greece supplies the civilizational version. After Bronze Age collapse, Greece becomes decentralized, illiterate, and poor. Jiang's reversal is that those losses open the possibility of Greek greatness. Poverty requires participation. Decentralization creates diversity. The polis needs speech. Homer then gives the new world a theory of the human: empathy, imagination, and willingness to think. Greece becomes creative because the old guarantees are gone [and a new inner order has to be made]{evidence="video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004 video:predictive-history-677rmlrgvlq@transcript:v1#seg-0007 video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032"}.
@@ -193,6 +205,14 @@ Finally, ask what happens after victory. The borderland may open history, but it
   `video:predictive-history-ybufqry77pq@transcript:v1#seg-0034`  
   `video:predictive-history-ybufqry77pq@transcript:v1#seg-0053`
 
+- **2026-01-22**, [Game Theory #6: The Bank That Made The Game](/episodes/predictive-history-cbamecnudxo/)
+  Easy immoral money supplies the negative test: offshore finance and laundering can protect stolen wealth, but Jiang says morality is needed to create energy, openness, cohesion, and a non-corrupted soul.
+  `video:predictive-history-cbamecnudxo@transcript:v1#seg-0020`
+  `video:predictive-history-cbamecnudxo@transcript:v1#seg-0025`
+  `video:predictive-history-cbamecnudxo@transcript:v1#seg-0031`
+  `video:predictive-history-cbamecnudxo@transcript:v1#seg-0032`
+  `video:predictive-history-cbamecnudxo@transcript:v1#seg-0033`
+
 ## Related Concepts
 
 - [Game Theory](/lens/game-theory/)
@@ -200,3 +220,4 @@ Finally, ask what happens after victory. The borderland may open history, but it
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/)
 - [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/)
+- [Power As Alchemy](/lens/power-as-alchemy/)
