@@ -9,7 +9,7 @@ Across Jiang's Great Books, Secret History, and civilization lectures, free will
 
 The concept is harsh because Jiang uses free will to remove several consolations at once. If freedom is real, then domination is not only coercion from outside. It also works by training people to want the world that diminishes them. If God is love, then God cannot rescue humanity by force without canceling the gift that makes love possible. If institutions promise safety by taking responsibility away from weak people, they may be performing mercy while spiritually enslaving them.
 
-This page follows a dated source cluster from the Civilization and Secret History arcs into the Great Books lectures: Zoroastrian moral choice in 2024, Dostoevsky's Grand Inquisitor in 2025, early Secret History and Jesus lectures, and the 2026 cave and Dante sequence.
+This page follows a dated source cluster from the Civilization and Secret History arcs into the Great Books lectures: Zoroastrian moral choice in 2024, Dostoevsky's Grand Inquisitor in 2025, the Secret History Jesus and Paul sequence, and the 2026 cave and Dante lectures.
 
 ## The Burden
 
@@ -93,6 +93,22 @@ The Jesus lecture repeats the point inside the Secret History arc. Jiang's Jesus
 
 This is why free will is politically explosive. The institution that removes responsibility may call itself compassionate. In Jiang's reading, it may also be doing Satan's work by liberating people from the burden that makes them human.
 
+## Obedience Renamed Freedom
+
+Secret History #23 adds the institutional inversion after the Jesus lecture. Jiang's Jesus is dangerous because he tells slaves that [a higher power than Rome lives as a divine spark inside them]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0001"}. That makes Roman mastery less absolute. The person who knows he is not only property can stop fearing death, defy the master, and become economically unreliable to a slave empire.
+
+Paul's move, in Jiang's reading, is to keep the language of salvation while reversing the location of freedom. Jesus says to listen to the words until the spark glows; Paul says [believe in Jesus and be saved]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0005"}. The center shifts from the hearer's inner spark to the object of belief, from responsibility to institutional access. Jiang calls the Catholic Church [a prison built to control the divine spark]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0003"}.
+
+The inversion is precise. Paul can tell the slave that he is free from human masters because he is [a slave to God]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0078"}. Ritual then makes the body carry the same lesson. In Jiang's reading of the Eucharist, the believer eats and drinks Jesus, loses individuality, and is [taken over by the body of Christ rather than left with an independent spark]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0086 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0091"}. The institution has not abolished the vocabulary of freedom and love. It has redefined those words until obedience wears their face.
+
+<!-- lens-point id="free-will-obedience-renamed-freedom" concept="free-will-burden" evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0078 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0086 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0100 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0107 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0159" -->
+<span id="free-will-obedience-renamed-freedom" class="lens-point-anchor"></span>
+Free will is captured when an institution keeps the language of freedom, love, and salvation but makes the person a tool, body-part, or obedient dependent; the soul is told it is free because it no longer imagines disobedience.
+
+This is the darker twin of the Dante section. Dante's God does not bargain because love cannot coerce the will it saves. Paul's institutional Christianity, as Jiang presents it, makes the bargain total: obedience now, heaven later. Love itself becomes command. Jiang's compressed line is that [slavery is renamed love because Jesus loves you while enslaving you]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0107 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0108"}. Augustine then closes the trap by defining heavenly freedom as a state where the will no longer even thinks of disobeying God; Jiang glosses that as [freedom meaning complete obedience]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0158 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0159"}.
+
+The boundary is important. This can touch eschatology because heaven and hell supply the reward and threat. It can touch bureaucracy because the Church becomes an institution. It can touch power-as-alchemy because language makes a new reality. But the free-will mechanism is the capture of agency itself: the soul's inner spark is not denied outright; it is translated into obedience and then praised as freedom.
+
 ## Anti-Love
 
 The everyday diagnostic is not abstract theology. It is whether a relationship or institution denies agency.
@@ -112,6 +128,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/): The Monad gives free will because love is trust; denial of free will becomes anti-love.
 - **2025-10-15**, [Secret History #9: The Theory of Everything](/episodes/predictive-history-9murgjjg4aa/): God and Satan cannot interfere directly; darkness becomes the test in which human light can shine.
 - **2025-11-27**, [Secret History #22: The Divine Spark of Jesus](/episodes/predictive-history-pp0e1gb80wq/): Jesus becomes dangerous because he tells slaves the spark is inside them and leaves responsibility with the person rather than the institution.
+- **2025-12-02**, [Secret History #23: The Organization of Evil](/episodes/predictive-history-6xgac-oqcbu/): Paul and Augustine supply the institutional inversion: freedom, love, ritual body, and salvation are turned into obedience.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): Plato's cave turns free will into chosen slavery and the refusal to let the false world remain final.
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): Free will and reciprocity become contradictions; hell is chosen because will and desire form the soul.
 
@@ -120,6 +137,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **Managed Mercy**: Who promises to make people happy by taking away the burden of choosing?
 - **Chosen Lie**: Where does the person call coercion freedom because the desired future was installed by the wall?
 - **Contractual God**: Where has love been translated into obedience, duty, payment, grades, debt, or institutional access?
+- **Obedient Freedom**: Where does a system say the person is most free when disobedience has become unimaginable?
 - **Trained Desire**: What does the soul move toward before it can explain why?
 - **Agency Test**: Does the relationship increase the person's capacity to love and imagine, or does it replace that capacity with compliance?
 - **Darkness Test**: When no rescue arrives, does the person wait for intervention or become the light he was hoping would come from elsewhere?
