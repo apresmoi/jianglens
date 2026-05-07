@@ -61,6 +61,22 @@ Four-dimensional war is won by ordering the board correctly: military action mus
 
 This belongs inside strategy rather than inside [Game Theory](/lens/game-theory/) because the active mechanism is not only hidden payoff identification. It is operational feedback. Jiang's contrast is reflection, flexibility, and resilience: the side that can let economics, politics, and narrative alter military choices can adapt; the side that makes every dimension serve the military image tends to double down, choose desperate moves, and make replenishment harder. It also touches [Power As Alchemy](/lens/power-as-alchemy/) because finance and empire structure the wider board, but this page owns the moment where that structure is tested by war.
 
+## Hybrid War Before Visible War
+
+The August 2025 eschatology update adds a pre-kinetic layer to the same strategy map. Asked why the U.S.-Iran conflict had not yet become open world war, Jiang answers that the visible battlefield is the wrong instrument. In his dated formulation, [modern warfare is hybrid warfare and much of it is not visible]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001"}: media control, electronic and cyber pressure, psychological weakening, covert operations, sanctions, economic sabotage, and leadership targeting.
+
+The target is not only an army. It is the bond between a state and the population that still expects basic life from it. Jiang says the United States and Israel are pursuing regime change by trying [to decrease the legitimacy of the regime and the state's capacity to deliver basic services]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001"}. Tehran's water shortage becomes the concrete board: if heat, sanctions, and overpopulation strain supply, an enemy can try [to exploit water scarcity through economic sabotage against critical infrastructure]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0002"}.
+
+<!-- lens-point id="strategy-hybrid-war-targets-state-bond" concept="strategy-material-test" evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0002 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0034 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0048" -->
+<span id="strategy-hybrid-war-targets-state-bond" class="lens-point-anchor"></span>
+Hybrid war targets the state-population bond when media, cyber, psychological, economic, covert, and infrastructure pressure make a state look unable to deliver basic life, so civilian anger can be redirected against the government before open battlefield defeat.
+
+This is strategy rather than only propaganda because the pressure has to pass through material necessities. Water, electricity, food, sanctions, blockades, and critical infrastructure are not symbols floating above the board. They are the route by which the war tries to make civilians experience their own state as failure. The later population-war lecture states the ugly version directly: twenty-first-century strategy can combine [economic strangulation, ethnic tension, and civilian-infrastructure destruction]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0034"} so people who lack necessities can have their anger channeled against their government.
+
+The reversal is that this pressure can backfire. In the August source, sabotage meant to break Iran can [increase resolve, let Iran close Hormuz, and force the ground war America cannot win]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0002"}. Hybrid war therefore still belongs under the material test. A story of invisible pressure must be judged by whether the population panics, hardens, fractures, sacralizes suffering, or gives the state permission to escalate.
+
+The boundary matters. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem of feeding, organizing, soothing, and managing millions or billions. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the national machinery that first turns population into capacity. [Eschatology As Script](/lens/eschatology/) owns the role-story that can make suffering meaningful. This page owns the strategic attack surface: pressure on necessities and legitimacy before the war looks like war.
+
 ## Shock And Awe As Fantasy
 
 The older source for this mechanism is Jiang's 2024 shock-and-awe lecture. He reconstructs the traditional military grammar as mass forces, avoidance of encirclement, and protection of supply lines. "Most of war," in that account, is [oil, fuel, weapons, and supply lines]{evidence="video:predictive-history-jiefc4yww4o@transcript:v1#seg-0002 video:predictive-history-jiefc4yww4o@transcript:v1#seg-0003"}.
@@ -155,6 +171,8 @@ In **November 2024**, the Rome lecture gives the ancient countercase: a story of
 
 In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
+In **August 2025**, the eschatology convergence update adds the hybrid-war layer: modern war may begin through unseen media, cyber, psychological, covert, economic, and infrastructure pressure against the state-population bond before open battlefield defeat.
+
 In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
 
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
@@ -190,6 +208,11 @@ In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pen
   `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0006`
   `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0007`
   `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0008`
+
+- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/)
+  Hybrid war can precede visible world war by attacking media, psychology, sanctions, covert operations, leadership, basic services, water infrastructure, resolve, and the state-population bond.
+  `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001`
+  `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0002`
 
 - **2026-03-03**, [The World Pivot Is A Strait](/episodes/predictive-history-jis2eb-rgv0/)
   Hormuz is a system pivot because energy, food, dollar demand, Gulf investment, and American military credibility all pass through the same narrow geography.
