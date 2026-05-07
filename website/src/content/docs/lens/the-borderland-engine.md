@@ -17,6 +17,12 @@ The borderland engine is therefore not a morality tale about the poor being bett
 <span id="borderland-engine-energy-openness-cohesion" class="lens-point-anchor"></span>
 The borderland engine turns marginality into historical force when pressure creates energy, openness, and cohesion strong enough to counter a center's mass, organization, wealth, and inherited confidence.
 
+Jiang's February 18, 2025 "Oceanic Currents" lecture gives the larger image behind this page. History is not only [a cycle of rise and fall or a line moving toward truth]{evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0008 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0021"}. It is [a huge ocean of cultural ecosystems and currents]{evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0023"}. Empires expand into their margins, trading with them, hiring their fighters, raiding and being raided, and thereby [adding fuel to the borderlands]{evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0029 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0030 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0031"}. Wealth, knowledge, information, population, and military sophistication move outward. When the current is strong enough, the margin does not merely pressure the center; it becomes a hurricane.
+
+<!-- lens-point id="borderland-oceanic-current-becomes-hurricane" concept="borderland-engine" evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0023 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0031 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0048 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0049 video:predictive-history-7k5xolzwmls@transcript:v1#seg-0031" -->
+<span id="borderland-oceanic-current-becomes-hurricane" class="lens-point-anchor"></span>
+The borderland engine is an oceanic-current mechanism: empire-margin contact transfers energy outward until an isolated edge can expand, collide with the center, and become a hurricane that runs until it is defeated, absorbed, becomes empire, or exhausts itself.
+
 ## Stable Means Stagnant
 
 The center's danger is not weakness at first. It is success.
@@ -138,10 +144,18 @@ Finally, ask what happens after victory. The borderland may open history, but it
   `video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0020`  
   `video:predictive-history-c9rzpgj0wm4@transcript:v1#seg-0036`
 
+- **2025-02-18**, [Civilization #31: The Oceanic Currents Of History](/episodes/predictive-history-hioyqbbbllk/)
+  Jiang names the broad model: cultural ecosystems act like oceanic currents; empire-borderland contact transfers wealth, knowledge, information, population, and military skill outward; the resulting hurricane cannot be negotiated away and stops only when its energy is spent.
+  `video:predictive-history-hioyqbbbllk@transcript:v1#seg-0023`
+  `video:predictive-history-hioyqbbbllk@transcript:v1#seg-0031`
+  `video:predictive-history-hioyqbbbllk@transcript:v1#seg-0048`
+  `video:predictive-history-hioyqbbbllk@transcript:v1#seg-0049`
+
 - **2025-03-04**, [Civilization #35: The Viking Legacy](/episodes/predictive-history-7k5xolzwmls/)
-  Vikings show the poor, practical, egalitarian, opportunistic borderland as a neglected pillar of Western civilization, and they show how river mobility can exploit a center whose military form is locked to feudal hierarchy.
+  Vikings show the poor, practical, egalitarian, opportunistic borderland as a neglected pillar of Western civilization; the same source restates the oceanic-current pattern in which energy transfers from empire to margin until the borderland is absorbed, destroyed, or becomes empire.
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0001`  
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0016`  
+  `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0031`
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0035`
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0044`
   `video:predictive-history-7k5xolzwmls@transcript:v1#seg-0047`
