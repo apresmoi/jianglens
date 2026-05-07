@@ -13,7 +13,7 @@ Control, here, means world-setting. A story selects what matters, what counts as
 
 The strongest version is not that people are passive victims of stories. It is almost the opposite. In the Plato material, [the prisoners are the ones with the capacity to create reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. Jiang's line is stranger and more dangerous: [we are the ones with the power of God, the ones with imagination]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}. The danger is that this power can be recruited. If attention is captured, imagination can be focused; if imagination is focused, people can help build the world that confines them.
 
-The source trail runs from the July 2025 game-theory lecture on story as coordination through Plato's cave and attention capture, Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
+The source trail runs from the July 2025 game-theory lecture on story as coordination through Literary Genesis on scripture as living memory, Plato's cave and attention capture, Agamemnon and Achilles fighting over narrative, Odysseus projecting a reality through speech, the Hollywood-Pentagon rescue story, and Dante's warning that the trusted guide may carry the trap.
 
 ## The Mechanism
 
@@ -28,6 +28,20 @@ Third, it internalizes itself. A speech, poem, film, school story, or public rit
 Fourth, it makes desire and action feel natural. A story succeeds when people stop experiencing it as an imposed frame. The world it creates becomes the obvious world, and action follows from inside it.
 
 Fifth, reality pushes back. Stories can organize perception, but they do not abolish material constraint. That is why the Hollywood-Pentagon episode is essential to the concept. Jiang's warning is blunt: [stop doing this crap of optics and narrative]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039"}. A story can make failure feel like success to the people inside it, but it cannot by itself solve cost, supply, distance, fatigue, or institutional complexity.
+
+## The Story Can Outgrow Its Sponsor
+
+The November 12, 2025 Literary Genesis lecture adds a constructive danger to the mechanism. Jiang reads the Bible as a political invention: Israel needs a god, a temple, and [a family story that can turn priests, hill people, nomads, mercenaries, refugees, and threatened groups into one people]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0002 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0004 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0005 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0006"}. That belongs with [Legitimacy Fiction](/lens/legitimacy-fiction/) when the question is David's right to rule. It belongs here when the text does more than authorize power.
+
+The surprising layer is that a story can begin as image work and still train a stronger reader than the sponsor intended. Genesis makes Eve the first independent judge, then makes Yahweh capable of reflection instead of immediate vengeance. Cain argues, Noah's flood exposes a divine mistake, and Abraham turns covenant into friendship by arguing over Sodom. Jiang's compressed formula is that [the sacred story makes argument sacred]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0035"}.
+
+That is story control, but not simple capture. The story controls reality by installing a habit of reconstruction. It asks the reader to notice mistakes, argue with authority, test divine justice, and rebuild meaning after the wall has been hit. The same Bible can make Israel into one family, yet its best stories do not behave like flat rules. They [force an inner debate about desire, humiliation, love, family, status, and human life]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0044"}.
+
+<!-- lens-point id="stories-living-scripture-trains-debate" concept="story-control" evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0035 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0044 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0073" -->
+<span id="stories-living-scripture-trains-debate" class="lens-point-anchor"></span>
+A story outgrows propaganda when it becomes living memory: readers reconstruct its gaps, argue with its authority, carry its characters inward, and use the inherited narrative to practice judgment rather than mere obedience.
+
+The Bathsheba and Uriah material keeps the ambivalence visible. Jiang still reads the story as spin: political killing is redirected into a safer moral failure. But even that conversion becomes more than disposable manipulation. The closing formula says the first Bible may be propaganda, yet the Yahwist uses the occasion to make [beautiful stories that become living entities, living memories, and the fuel of Jewish imagination]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0073"}. That is one of the reasons story control cannot be reduced to propaganda studies. A story may be born from power, preserve power's evasions, and still become a school for self-reflection that later readers can turn back against power.
 
 ## The Story That Coordinates Without Orders
 
@@ -136,6 +150,7 @@ This gives the concept a diagnostic edge. A story controls reality not only when
 ## Chronology So Far
 
 - **2025-07-11**, [Geo-Strategy Update #5](/episodes/predictive-history-5i2vpypjj68/): Story becomes the strategic coordination layer. A powerful story can [frame the world as a script for behavior]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0017"} and make believers try [to bring the story into reality]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0021"}.
+- **2025-11-12**, [Secret History #17: Literary Genesis](/episodes/predictive-history-plmnq44tbg0/): Scripture adds the living-memory layer. A political text can begin as legitimacy work and still train readers to [argue, reconstruct, and carry living stories inside themselves]{evidence="video:predictive-history-plmnq44tbg0@transcript:v1#seg-0035 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0050 video:predictive-history-plmnq44tbg0@transcript:v1#seg-0073"}.
 - **2026-01-07**, [Great Books #1](/episodes/predictive-history-tsd-8fga84a/): Plato's cave becomes the attention model. The prisoners are not inert; [their captured imagination can be focused into a constructed reality]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0037"}.
 - **2026-01-14**, [Great Books #2](/episodes/predictive-history-ft2cuowguyc/): Homer makes the mechanism interpersonal. Agamemnon and Achilles use speech as [a battle of worldviews]{evidence="video:predictive-history-ft2cuowguyc@transcript:v1#seg-0010"} that can overpower survival.
 - **2026-01-21**, [Great Books #3](/episodes/predictive-history-xrp407wsa0w/): Odysseus makes the mechanism technical. Speech projects a world, poetry makes it memorable, and [language lets people create a collective reality together]{evidence="video:predictive-history-xrp407wsa0w@transcript:v1#seg-0014"}.
@@ -152,6 +167,7 @@ Use this lens when a story seems to be doing more than describing events.
 - **Desire**: What does the story make people want, fear, admire, obey, or feel ashamed to refuse?
 - **Material Test**: What would economics, organization, logistics, or other hard constraints say if the story were set aside?
 - **Feedback**: Is the story only persuading outsiders, or has the institution started believing its own script?
+- **Living Memory**: Does the story leave gaps, contradictions, or characters that make readers reconstruct and argue rather than merely obey?
 - **Guide**: Who is explaining the world, and what world comes hidden inside that explanation?
 - **Escape**: What counter-memory, recovered name, different language, or rival story would let people see the frame itself?
 
@@ -164,3 +180,4 @@ Use this lens when a story seems to be doing more than describing events.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - the geopolitical version: narrative spectacle collides with economics, organization, and logistics.
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) - the mediation version: a trusted guide can carry the world one must escape.
 - [How Fictional Heroes Become Part Of The Self](/lens/how-fictional-heroes-become-part-of-the-self/) - the interior version: characters become real by reorganizing self-recognition.
+- [Legitimacy Fiction](/lens/legitimacy-fiction/) - the political-inheritance version: writing, names, offices, and texts make authority feel rightful enough to inherit.
