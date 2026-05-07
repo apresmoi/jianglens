@@ -23,6 +23,18 @@ Education becomes a soul game when the school rewards pleasing parents, teachers
 
 The final injury is not bad test design. It is formation. Jiang says the game that matters least is actual learning, and then pushes the claim deeper: people are often determined by the nature of the game. [Students adapt to the school game because what is rewarded reshapes behavior and personhood]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0047 video:predictive-history-ks-muauq62e@transcript:v1#seg-0048"} The institution does not merely fail to teach. It teaches the student how to want.
 
+## Trust Comes Before Self-Control
+
+Game Theory #3 adds a missing layer under the school game. The public success curriculum says delayed gratification, resilience, growth mindset, deliberate practice, and self-assessment cause achievement. Jiang reverses the arrow. These traits often appear where a child already lives inside a world that makes them rational. The marshmallow is the clean example: [waiting is not pure self-control but trust in the adult who left the room]{evidence="video:predictive-history-mx93u4kza28@transcript:v1#seg-0014"}.
+
+That makes education begin before school. If adults keep promises, the second marshmallow is believable. If adults do not keep promises, eating the first one is not stupidity but evidence-based action. Jiang extends the same rule to resilience: [the child who believes the world will help after failure can treat failure as feedback]{evidence="video:predictive-history-mx93u4kza28@transcript:v1#seg-0015"}. A child under stress may find that self-reflection only returns pain and danger. By the time a school tries to teach self-control, vocabulary, friendly teachers, and stability, [the child's worldview may already be established]{evidence="video:predictive-history-mx93u4kza28@transcript:v1#seg-0016"}.
+
+<!-- lens-point id="education-trust-makes-delay-rational" concept="education-soul-game" evidence="video:predictive-history-mx93u4kza28@transcript:v1#seg-0014 video:predictive-history-mx93u4kza28@transcript:v1#seg-0015 video:predictive-history-mx93u4kza28@transcript:v1#seg-0016" -->
+<span id="education-trust-makes-delay-rational" class="lens-point-anchor"></span>
+Education is already a trust game before formal schooling begins: delay, resilience, and self-reflection become rational only when authority, adults, and the surrounding world have taught the child that promises, help, and inward attention are safe enough to trust.
+
+The class contrast is not moral flattery of rich families or contempt for poor families. Jiang says hierarchy trains different survival strategies. Poor children are taught command and obedience because [survival around police, bosses, and family authority may require obeying authority]{evidence="video:predictive-history-mx93u4kza28@transcript:v1#seg-0017 video:predictive-history-mx93u4kza28@transcript:v1#seg-0020"}. Rich children are trained to negotiate because their world rewards argument, evidence, and status practice. This is why the page treats education as soul formation rather than only school design. The child has already learned what kind of person the surrounding game makes rational.
+
 ## Separation Makes Authority
 
 Secret History #1 gives the more violent origin. Jiang asks why school exists. Students answer learning, degree, graduation, knowledge, power. One says brainwashing. Jiang takes that as the correct answer and strips away the rest. [When students offer reasons for school, Jiang radicalizes brainwashing as the real answer]{evidence="video:predictive-history-ajfxykt9joo@transcript:v1#seg-0065 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0066 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0067 video:predictive-history-ajfxykt9joo@transcript:v1#seg-0068"}
@@ -122,6 +134,7 @@ The difference between the dead school and the living school is therefore not th
 - **2025-09-12**, [Secret History #7: Death by Meritocracy](/episodes/predictive-history-ju-8fjjtgxa/): Elite education is read as secrecy, discretion, trauma selection, conditional parenting, debt, inequality, and the production of hollow hyper-achievement.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): School materialism becomes part of the cave wall, while Great Books become rival universes for soul formation.
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/): School is analyzed as a stakeholder game whose convergence point can make actual learning the least important game.
+- **2026-01-13**, [Game Theory #3: The Marshmallow Was Always A Trust Test](/episodes/predictive-history-mx93u4kza28/): Success traits are recast as trust-world effects; delay, resilience, and self-reflection become rational only when authority, promises, and help have been made believable.
 - **2026-01-15**, [Game Theory #4: The Immigration Game Is Rigged](/episodes/predictive-history-35hrplvyf0g/): School success is separated from status and command; obedience, grades, technical skill, and income may still leave a group playing inside another group's rules.
 
 ## Related Concepts
