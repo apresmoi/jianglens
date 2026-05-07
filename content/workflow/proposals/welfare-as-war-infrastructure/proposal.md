@@ -1,6 +1,6 @@
 # Welfare As War Infrastructure
 
-Status: proposed lens seed
+Status: reviewed lens seed; held from public promotion after cross-page review
 
 ## Claim
 
@@ -43,6 +43,10 @@ That distribution is currently better than a public welfare-as-war-infrastructur
 **Not only mass management**: Use [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) when the active issue is feeding, organizing, occupying, soothing, surveilling, or managing a large population. Use this seed when the management is specifically care-as-capacity.
 
 **Not gerontocracy by default**: Use [Gerontocracy And Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) when pensions, healthcare, property, and safety claims mainly protect old wealth or old status. Use this seed when pensions or healthcare are being justified as population maintenance for national strength or war.
+
+## Review Status
+
+Local judge review and cross-page review both held this as a routing seed rather than a public page or atlas relation. The public map already carries the active mechanisms: Nation holds sacred population machinery and welfare as war-capacity maintenance; Mass Society holds population-scale management; Strategy holds material war execution; Gerontocracy holds pensions, medicine, and care when they become old-age extraction. Use this seed to route future care-system material by active mechanism until recurrence or page duplication makes a public relation necessary.
 
 ## Promotion Test
 
