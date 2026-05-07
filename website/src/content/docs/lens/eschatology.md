@@ -123,6 +123,14 @@ Eschatology becomes an inversion war when power tries to make hell feel like hea
 
 Free will prevents rescue from becoming coercion. When a student asks why God does not intervene, Jiang answers that [God and Satan cannot interfere because of free will]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0053 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0054"}. Darkness becomes a test because only there can human light appear. This is not optimistic in the ordinary sense. It means the world can become very dark without invalidating the structure; darkness may be exactly where the choice becomes visible.
 
+That same conclusion adds a fail-safe layer. Hell can win locally when people accept material survival as the only real good, but Jiang says the system is not set up for hell to win permanently: [the cosmos is interconnected, the earth itself rebels, flood resets the world, and humanity renews]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0061"}. Apocalypse therefore has a double edge. It can be used by power as role-script, threat, and control. It can also appear, in Jiang's cosmic model, as a reset against a world that has become too saturated with suffering.
+
+<!-- lens-point id="eschatology-cosmic-failsafe-resets-hell" concept="eschatology-script" evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0061 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0062" -->
+<span id="eschatology-cosmic-failsafe-resets-hell" class="lens-point-anchor"></span>
+Eschatology becomes cosmic fail-safe when suffering, evil, and material hell trigger a larger reset: the earth rebels, the world floods, humanity renews, and hell is denied final victory even when it wins locally.
+
+Jiang immediately limits the claim's status. He says the heaven-and-hell frame is metaphorical and that God and Satan are projections of imagination, while still useful for understanding the world. That caveat matters for the lens. The page should not turn the fail-safe into a literal prediction detached from his method. The reusable mechanism is that an end-times story can make destruction intelligible as correction, renewal, or anti-hell resistance rather than merely as catastrophe.
+
 ## Diagnostics
 
 Use this lens when an actor, institution, movement, or story treats the present as an ending.
@@ -138,6 +146,8 @@ Ask whether salvation is contractual. If rescue requires obedience, payment, ins
 Ask whether death is being used to control imagination. Jiang repeatedly reverses the fear of death. In the cave lecture, [death is release while slavery is the living death already happening]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0044"}. In Secret History #9, transhumanist escape from death is recast as a trap that keeps people here forever. A world that makes death the supreme terror can make almost any captivity look practical.
 
 Ask whether suffering is being made strategically meaningful. In a population-targeting war, shortages and fear are meant to produce anger at the nearer government. Eschatology can reverse the sign: suffering becomes test, proof, purification, martyrdom, or evidence that the script is true.
+
+Ask whether catastrophe is being framed as a reset. If flood, earth-rebellion, collapse, or cosmic correction is presented as proof that hell cannot finally triumph, the active eschatology may be fail-safe rather than only punishment or revenge.
 
 ## Related Concepts
 
