@@ -127,6 +127,7 @@ async function main() {
     'episodes/predictive-history-6m1z-v3wgok.md',
     'data/lens/episodes/index.json',
     'data/lens/episodes/predictive-history-6m1z-v3wgok.json',
+    'data/lens/transcript-search.json',
   ];
   for (const relPath of requiredAgentFiles) {
     if (!existsSync(path.join(distRoot, relPath))) {
@@ -152,6 +153,20 @@ async function main() {
     const sampleEpisodeIndexJson = await readFile(sampleEpisodeIndexJsonPath, 'utf8');
     if (!sampleEpisodeIndexJson.includes('"/episodes/predictive-history-6m1z-v3wgok.md"')) {
       failures.push('dist/data/lens/episodes/index.json: missing episode Markdown path');
+    }
+  }
+
+  const transcriptSearchPath = path.join(distRoot, 'data/lens/transcript-search.json');
+  if (existsSync(transcriptSearchPath)) {
+    const transcriptSearch = await readFile(transcriptSearchPath, 'utf8');
+    for (const expected of [
+      '"source_ref": "video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034"',
+      '"https://www.youtube.com/watch?v=3751ZjwmrBw&t=2272s"',
+      'Knights Templars',
+    ]) {
+      if (!transcriptSearch.includes(expected)) {
+        failures.push(`dist/data/lens/transcript-search.json: missing ${expected}`);
+      }
     }
   }
 

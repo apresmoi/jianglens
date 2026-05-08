@@ -479,6 +479,7 @@ async function main() {
     `- [Episodes](${urlFor(siteConfig.paths.episodes)})`,
     `- [Episode Markdown index](${urlFor(siteConfig.paths.episodeIndexMarkdown)})`,
     `- [Episode JSON index](${urlFor(siteConfig.paths.episodeIndexJson)})`,
+    `- [Transcript search JSON](${urlFor(siteConfig.paths.transcriptSearchJson)})`,
     `- [Full compact docs](${urlFor(siteConfig.paths.llmsFull)})`,
     `- [Generated manifest JSON](${urlFor(siteConfig.paths.manifestJson)})`,
     `- [Generated link index JSON](${urlFor(siteConfig.paths.linkIndexJson)})`,
@@ -516,6 +517,15 @@ async function main() {
   if (episodeMarkdown?.markdown) {
     fullLines.push('---', '', '# Generated Episode Markdown Index', '', withoutFrontmatter(episodeMarkdown.markdown), '');
   }
+
+  fullLines.push(
+    '---',
+    '',
+    '# Generated Transcript Search JSON',
+    '',
+    `Fetch ${urlFor(siteConfig.paths.transcriptSearchJson)} for full-text transcript segment lookup. It is linked here rather than embedded so llms-full remains compact.`,
+    '',
+  );
 
   for (const [title, input] of [
     ['manifest.json', path.join(dataRoot, 'manifest.json')],

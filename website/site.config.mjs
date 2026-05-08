@@ -183,6 +183,7 @@ export const siteConfig = {
     episodes: '/episodes/',
     episodeIndexMarkdown: '/episodes/index.md',
     episodeIndexJson: '/data/lens/episodes/index.json',
+    transcriptSearchJson: '/data/lens/transcript-search.json',
     manifestJson: '/data/lens/manifest.json',
     linkIndexJson: '/data/lens/link-index.json',
   },

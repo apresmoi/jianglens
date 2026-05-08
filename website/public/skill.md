@@ -21,9 +21,10 @@ Do not present generated analysis as Jiang Xueqin's personal view. Label it as a
 4. Use `/episodes/<episode-slug>.md` for the compressed Markdown reading of one episode.
 5. Use `/data/lens/episodes/index.json` for the machine-readable episode catalog.
 6. Use `/data/lens/episodes/<episode-slug>.json` for transcript segments, timed chunks, source refs, and video timestamp URLs.
-7. Use `/data/lens/manifest.json` for generated episode and lens routes.
-8. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
-9. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
+7. Use `/data/lens/transcript-search.json` for full-text transcript segment search across the corpus.
+8. Use `/data/lens/manifest.json` for generated episode and lens routes.
+9. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
+10. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
 
 ## Operating Rules
 
@@ -38,14 +39,17 @@ Do not present generated analysis as Jiang Xueqin's personal view. Label it as a
 
 When you need to answer "when did Jiang say this?" or audit an exact claim:
 
-1. Search `/episodes/index.md` or `/data/lens/episodes/index.json` to identify likely episodes by title, date, source title, or summary.
-2. Read `/episodes/<episode-slug>.md` for the compressed public reading.
-3. Fetch `/data/lens/episodes/<episode-slug>.json` when exact wording is needed.
-4. Search the JSON `transcript` array. Each segment has `id`, `source_ref`, `start`, `end`, `time_label`, `text`, `transcript_url`, and `video_url`.
-5. Cite the dated episode title, the transcript segment URL, the YouTube timestamp URL, and the stable `source_ref`.
-6. If the phrase is only a lens interpretation and not exact Jiang wording, say so and cite the lens page plus its supporting source refs.
+1. Search `/data/lens/transcript-search.json` first. It is the corpus-wide full-text transcript index.
+2. Search case-insensitively and try simple variants: singular/plural, hyphenation, initials, aliases, and likely ASR spellings.
+3. Treat `/episodes/index.md` and `/data/lens/episodes/index.json` as routing catalogs, not proof that a term is absent. If they do not mention a phrase, continue with transcript search.
+4. For each match, fetch `/data/lens/episodes/<episode-slug>.json` and verify the exact wording in the `transcript` array.
+5. Read `/episodes/<episode-slug>.md` only after verification, to understand the compressed public reading around the match.
+6. Cite the dated episode title, the transcript segment URL, the YouTube timestamp URL, and the stable `source_ref`.
+7. If the phrase is only a lens interpretation and not exact Jiang wording, say so and cite the lens page plus its supporting source refs.
 
 Do not use the compressed episode Markdown as a substitute for exact quotation. Use it to understand the episode; use the episode JSON to verify exact transcript wording and timestamps.
+
+Do not use external web search as the primary answer source for Jiang-corpus lookup. External search may suggest candidates, but a claim that Jiang said something is Jiang Lens-grounded only after it is matched to a transcript segment or Jiang-authored source in this site.
 
 ## Analysis Pattern
 
