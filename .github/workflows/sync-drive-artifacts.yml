@@ -15,7 +15,7 @@ on:
         type: string
 
 permissions:
-  actions: write
+  checks: write
   contents: write
   pull-requests: write
 
@@ -66,6 +66,14 @@ jobs:
         run: |
           git status --short content/sources/raw/youtube
 
+      - name: Set up Node
+        if: ${{ inputs.dry_run == false }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+
       - name: Open sync PR
         if: ${{ inputs.dry_run == false }}
         env:
@@ -91,5 +99,35 @@ jobs:
             --body "Manual Google Drive artifact sync from \`${LENS_COMPRESSION_DRIVE_REMOTE}\` into \`content/sources/raw/youtube\`. This PR contains text and metadata artifacts only; audio and video remain outside git.")"
           echo "Created ${pr_url}"
 
-          echo "Triggering CI for ${branch}."
-          gh workflow run ci.yml --ref "${branch}"
+          commit_sha="$(git rev-parse HEAD)"
+          check_id="$(gh api -X POST "repos/${GITHUB_REPOSITORY}/check-runs" \
+            -f name="validate-and-build" \
+            -f head_sha="${commit_sha}" \
+            -f status="in_progress" \
+            -f started_at="$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            -f details_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}" \
+            --jq .id)"
+
+          if node ops/scripts/compile-content.mjs \
+            && node ops/scripts/validate-content.mjs \
+            && npm --prefix website ci \
+            && npm --prefix website run build; then
+            conclusion="success"
+            title="Drive sync validation passed"
+            summary="Content compilation, content validation, and website build passed for ${branch}."
+          else
+            conclusion="failure"
+            title="Drive sync validation failed"
+            summary="Content compilation, content validation, or website build failed for ${branch}. Check this workflow run for logs."
+          fi
+
+          gh api -X PATCH "repos/${GITHUB_REPOSITORY}/check-runs/${check_id}" \
+            -f status="completed" \
+            -f conclusion="${conclusion}" \
+            -f completed_at="$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            -f "output[title]=${title}" \
+            -f "output[summary]=${summary}"
+
+          if [ "${conclusion}" != "success" ]; then
+            exit 1
+          fi
