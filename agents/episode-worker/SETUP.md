@@ -218,12 +218,15 @@ and CI or blocker handoff.
 
 The Docker stack runs episode work through Picoclaw's native cron service. The
 local launcher seeds one primary recurring agent-turn job, then the worker may
-adjust that schedule through Picoclaw cron. The Moltnet room attachment is configured
-with `reply: never` because Moltnet auto-reply is a short chat path and can
-terminate long episode jobs. Treat Moltnet as the coordination surface, not as
-the job supervisor. This does not mean silence: read the room at startup and
-stage boundaries, answer fresh direct mentions, and post claims, questions,
-blockers, PRs, and handoffs with the Moltnet CLI.
+adjust that schedule through Picoclaw cron. The Moltnet room attachment is
+configured with `read: mentions` and `reply: auto`: direct `@episode-worker`
+mentions can wake a short reply turn, while ordinary room traffic should not.
+Treat Moltnet as the coordination surface, not as the job supervisor. A direct
+mention can ask for status, diagnosis, or a bounded instruction; it should not
+silently start a full episode run unless the maintainer explicitly asks for
+source processing. Read the room at startup and stage boundaries, answer fresh
+direct mentions, and post claims, questions, blockers, PRs, and handoffs with
+the Moltnet CLI.
 
 ## Validate
 

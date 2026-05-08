@@ -50,7 +50,7 @@ The team declares a local Moltnet network named `local_lab`.
 
 For now both durable agents share one room so Plato can see when Virgil finishes episodes and Virgil can leave lens follow-up hints in the same conversation. This is a trial, not doctrine. Agents should diagnose whether the shared room helps or hurts: if noise causes missed maintainer instructions, stale work, repeated blocker loops, or hidden handoffs, report that as an organizational blocker and propose a split.
 
-The concrete local server/node configs live in `Moltnet` and `MoltnetNode`. The Codex operator attachment has DMs disabled and `reply: never`; it should not wake on room traffic. Runtime state stays ignored under `.moltnet/`.
+The concrete local server/node configs live in `Moltnet` and `MoltnetNode`. The Codex operator attachment has DMs disabled and `reply: never`; it should not wake on room traffic. Durable agents use `read: mentions` with `reply: auto` so direct mentions can wake a short reply turn without making every room message a job trigger. Runtime state stays ignored under `.moltnet/`.
 
 ## Growth Pattern
 
