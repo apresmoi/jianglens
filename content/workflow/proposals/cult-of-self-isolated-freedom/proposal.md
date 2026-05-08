@@ -1,12 +1,13 @@
 # Cult Of The Self As Isolated Freedom
 
 Date: 2026-05-07
-Status: proposed lens seed
+Status: reviewed/held proposal seed
 Work type: proposal synthesis
+Review: `content/workflow/reviews/cult-of-self-isolated-freedom/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
-Record **cult of the self as isolated freedom** as a lens seed, not a public concept page yet. The mechanism is that Jiang reads a modern religious, psychological, artistic, political, and technological sequence as a machine that turns freedom inward until the person becomes easier to control.
+Record **cult of the self as isolated freedom** as a reviewed lens seed, not a public concept page or atlas relation yet. The mechanism is that Jiang reads a modern religious, psychological, artistic, political, and technological sequence as a machine that turns freedom inward until the person becomes easier to control.
 
 The seed should stay narrower than generic individualism. It is not every claim about the self, personality, creativity, therapy, social media, or modern art. It applies when a source shows the same chain:
 

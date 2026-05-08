@@ -1,12 +1,14 @@
 # Elite Overproduction As Status Bottleneck
 
 Date: 2026-05-07
-Status: proposed lens seed
+Status: reviewed atlas relation; held from standalone page promotion
 Work type: proposal synthesis
+Review: `content/workflow/reviews/elite-overproduction-status-bottleneck/cross-page-review-2026-05-07.md`
+Public surface: `website/src/content/docs/lens.md#elite-overproduction-as-status-bottleneck`
 
 ## Proposed Boundary
 
-Record **elite overproduction as status bottleneck** as a lens seed, not a public concept page yet. The mechanism is that a society creates more status-claiming elites than it has real positions, honors, land, offices, or command roles to absorb. The surplus elites then stop being only "the rich." They become factions, rent seekers, counter-elites, exiles, revolutionary managers, imperial adventurers, or brittle leaders trying to manufacture new room inside a zero-sum hierarchy.
+Record **elite overproduction as status bottleneck** as a reviewed atlas relation, not a standalone public concept page. The mechanism is that a society creates more status-claiming elites than it has real positions, honors, land, offices, or command roles to absorb. The surplus elites then stop being only "the rich." They become factions, rent seekers, counter-elites, exiles, revolutionary managers, imperial adventurers, or brittle leaders trying to manufacture new room inside a zero-sum hierarchy.
 
 The phrase should not become a generic label for "collapse." Use the seed only when the source shows the bottleneck itself:
 
@@ -15,7 +17,7 @@ The phrase should not become a generic label for "collapse." Use the seed only w
 3. blocked elites or elite children turn toward rent extraction, faction, civil war, revolution, colonization, mercenaries, empire, or strategic brittleness;
 4. the resulting conflict changes how the broader society is organized, governed, or exposed to outsiders.
 
-The proposal holds the mechanism because the public lens already has strong neighboring homes. Future promotion should happen only if a page or atlas relation can teach the status-bottleneck mechanism without duplicating [Collapse As Transition Surface](/lens/#collapse-as-transition-surface), [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/), [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/), [The Borderland Engine](/lens/the-borderland-engine/), [Game Theory](/lens/game-theory/), or [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/).
+The proposal now holds the mechanism as a public atlas relation because the public lens already has strong neighboring homes. Future standalone-page promotion should happen only if a page can teach the status-bottleneck mechanism without duplicating [Collapse, Transition, And Resilience](/lens/#collapse-transition-and-resilience), [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/), [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/), [The Borderland Engine](/lens/the-borderland-engine/), [Game Theory](/lens/game-theory/), or [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/).
 
 ## Source Pressure
 

@@ -1,12 +1,13 @@
 # Inheritor Under The Founder's Shadow
 
 Date: 2026-05-07
-Status: proposed lens seed
+Status: reviewed/held proposal seed
 Work type: proposal synthesis
+Review: `content/workflow/reviews/inheritor-shadow/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
-Record **inheritor under the founder's shadow** as a lens seed, not a public concept page yet. The mechanism is not ordinary succession, dynasty, nepotism, or father-son psychology. It is the recurring Jiang pattern where one actor builds the machine, name, army, organization, or myth, and the inheritor receives both power and a wound: the suspicion that everything he has comes from the founder.
+Record **inheritor under the founder's shadow** as a reviewed lens seed, not a public concept page or atlas relation yet. The mechanism is not ordinary succession, dynasty, nepotism, or father-son psychology. It is the recurring Jiang pattern where one actor builds the machine, name, army, organization, or myth, and the inheritor receives both power and a wound: the suspicion that everything he has comes from the founder.
 
 The seed has four layers:
 
