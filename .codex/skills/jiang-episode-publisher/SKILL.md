@@ -1,6 +1,6 @@
 ---
 name: jiang-episode-publisher
-description: Use this skill when taking an already-ingested Jiang Lens source and an existing episode read JSON through generated website data, route validation, transcript/video linkage, and public-site build checks.
+description: Use this skill when taking an already-ingested Jiang Lens source and an existing episode/interview read JSON through generated website data, route validation, transcript/video linkage, and public-site build checks.
 ---
 
 # Jiang Episode Publisher
@@ -40,6 +40,11 @@ cd website && npm run build
 website/src/data/lens/episodes/<source-slug>.json
 /episodes/<source-slug>/
 /episodes/<source-slug>/transcript/
+
+# or, when source_class is interview:
+website/src/data/lens/interviews/<source-slug>.json
+/interviews/<source-slug>/
+/interviews/<source-slug>/transcript/
 ```
 
 5. If a dev server is running, spot-check the episode and transcript routes. For UI changes, take screenshots before accepting.
@@ -48,7 +53,7 @@ website/src/data/lens/episodes/<source-slug>.json
 
 Confirm:
 
-- the episode page renders,
+- the episode or interview page renders,
 - the transcript page renders,
 - the video ID is present,
 - timestamp links seek the video,

@@ -36,7 +36,8 @@ function usage() {
   node ops/scripts/import-colab-video.mjs --video-id VIDEO_ID [options]
 
 Options:
-  --channel HANDLE             Drive channel folder, for example @PredictiveHistory
+  --channel PATH               Drive channel folder, for example @PredictiveHistory or Interviews/<host-channel-id>
+  --source-class CLASS         Defaults to episode, or interview for raw Interviews artifacts
   --metadata PATH              Compact or raw yt-dlp metadata JSON
   --title TITLE                Overrides metadata title
   --published-at YYYY-MM-DD    Overrides YouTube publication date
@@ -132,21 +133,60 @@ async function exists(filePath) {
 
 async function findVideoDir(stagingRoot, channel, videoId) {
   if (channel) {
-    const candidate = path.join(stagingRoot, channel, videoId);
+    const channelRoot = path.join(stagingRoot, channel);
+    const candidate = path.join(channelRoot, videoId);
     if (await exists(path.join(candidate, "transcription.json"))) return candidate;
+
+    const nestedMatches = await findVideoDirs(channelRoot, videoId);
+    if (nestedMatches.length === 1) return nestedMatches[0];
+    if (nestedMatches.length > 1) throw new Error(`Multiple source artifact videos matched ${videoId} under ${channel}; pass a more specific --channel.`);
   }
 
-  const channels = await fs.readdir(stagingRoot, { withFileTypes: true });
-  const matches = [];
-  for (const entry of channels) {
-    if (!entry.isDirectory()) continue;
-    const candidate = path.join(stagingRoot, entry.name, videoId);
-    if (await exists(path.join(candidate, "transcription.json"))) matches.push(candidate);
-  }
+  const matches = await findVideoDirs(stagingRoot, videoId);
 
   if (matches.length === 1) return matches[0];
   if (matches.length > 1) throw new Error(`Multiple source artifact videos matched ${videoId}; pass --channel.`);
   throw new Error(`No source artifact transcription.json found for ${videoId} under ${stagingRoot}`);
+}
+
+async function findVideoDirs(root, videoId, depth = 0, maxDepth = 4) {
+  let entries = [];
+  try {
+    entries = await fs.readdir(root, { withFileTypes: true });
+  } catch (error) {
+    if (error.code === "ENOENT") return [];
+    throw error;
+  }
+
+  const matches = [];
+  for (const entry of entries) {
+    if (!entry.isDirectory()) continue;
+    const candidate = path.join(root, entry.name);
+    if (entry.name === videoId && await exists(path.join(candidate, "transcription.json"))) {
+      matches.push(candidate);
+      continue;
+    }
+    if (depth < maxDepth) {
+      matches.push(...await findVideoDirs(candidate, videoId, depth + 1, maxDepth));
+    }
+  }
+  return matches;
+}
+
+async function readRawConfig(stagingRoot) {
+  const configPath = path.join(stagingRoot, "_config.json");
+  try {
+    return JSON.parse(await fs.readFile(configPath, "utf8"));
+  } catch (error) {
+    if (error.code === "ENOENT") return {};
+    throw error;
+  }
+}
+
+function inferSourceClass(stagingRoot, videoDir) {
+  const [first] = path.relative(stagingRoot, videoDir).split(path.sep);
+  if (first === "Interviews") return "interview";
+  return "episode";
 }
 
 function timedPhraseChunks(words, turn) {
@@ -372,6 +412,12 @@ async function main() {
   if (!Number.isFinite(maxSeconds) || maxSeconds <= 0) throw new Error("--max-seconds must be a positive number");
 
   const videoDir = await findVideoDir(stagingRoot, channelArg, videoId);
+  const rawConfig = await readRawConfig(stagingRoot);
+  const bucketMetadata = rawConfig.buckets?.Interviews?.find((item) => item.id === videoId) ?? null;
+  const sourceClass = String(option(args, "source-class", inferSourceClass(stagingRoot, videoDir))).toLowerCase();
+  if (!["episode", "interview"].includes(sourceClass)) {
+    throw new Error(`Unsupported --source-class ${sourceClass}; expected episode or interview`);
+  }
   const metadataResult = await resolveMetadata(args, videoDir, videoId, { cache: !dryRun });
   const metadata = metadataResult.metadata || {};
   const channelFolder = path.basename(path.dirname(videoDir));
@@ -382,17 +428,19 @@ async function main() {
   const dumpPath = path.join(videoDir, "dump.json");
   const transcription = await readJson(transcriptionPath);
 
-  const channelTitle = option(args, "channel-title", metadata.channel?.title || channelMeta.name || channelFolder.replace(/^@/, ""));
+  const channelTitle = option(args, "channel-title", metadata.channel?.title || channelMeta.name || channelMeta.title || channelFolder.replace(/^@/, ""));
   const channelHandle = option(args, "channel-handle", channelMeta.handle || channelFolder);
-  const channelId = option(args, "channel-id", metadata.channel?.id || channelMeta.id || channelMeta.channel_id || null);
-  const title = option(args, "title", metadata.title || `YouTube video ${videoId}`);
+  const channelId = option(args, "channel-id", metadata.channel?.id || channelMeta.id || channelMeta.channel_id || bucketMetadata?.channel_id || null);
+  const title = option(args, "title", metadata.title || bucketMetadata?.title || `YouTube video ${videoId}`);
   const sourceUrl = option(args, "source-url", metadata.source_url || youtubeUrl(videoId));
   const publishedAt = option(args, "published-at", metadata.published_at || null);
   const recordedAt = option(args, "recorded-at", null);
   const sourceDate = recordedAt || publishedAt;
   const datePrecision = option(args, "date-precision", inferDatePrecision(sourceDate));
   const chronologyStatus = sourceDate ? "dated" : "needs-date";
-  const sourceSlug = `${slugify(channelTitle || channelHandle || "youtube")}-${slugify(videoId)}`;
+  const sourceSlug = sourceClass === "interview"
+    ? `interview-${slugify(videoId)}`
+    : `${slugify(channelTitle || channelHandle || "youtube")}-${slugify(videoId)}`;
   const sourceId = `video:${sourceSlug}`;
   const outDir = path.join(outRoot, sourceSlug);
   const transcriptDir = path.join(outDir, "transcripts", "v1");
@@ -404,6 +452,8 @@ async function main() {
   const sourceYaml = `${yamlBlock([
     ["id", sourceId],
     ["kind", "video"],
+    ["source_class", sourceClass],
+    ["collection", sourceClass === "interview" ? "interviews" : "episodes"],
     ["platform", "youtube"],
     ["title", title],
     ["source_url", sourceUrl],
@@ -418,6 +468,11 @@ async function main() {
       title: channelTitle,
       url: metadata.channel?.url || null,
     }],
+    ["interview", sourceClass === "interview" ? {
+      host_channel_id: channelId,
+      host_channel_title: channelTitle,
+      bucket_title: bucketMetadata?.title || null,
+    } : null],
     ["authority", {
       authorship: "platform-video",
       authorship_verified: false,
@@ -484,6 +539,8 @@ async function main() {
 
   const summary = {
     source_id: sourceId,
+    source_class: sourceClass,
+    collection: sourceClass === "interview" ? "interviews" : "episodes",
     title,
     source_url: sourceUrl,
     published_at: publishedAt,

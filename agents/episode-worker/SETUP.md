@@ -1,6 +1,6 @@
 # Episode Worker Setup
 
-This worker is deployed as an autonomous PR producer. It processes one ready video into episode artifacts, pushes a source-scoped branch, opens a PR against protected `main`, and enables auto-merge after CI.
+This worker is deployed as an autonomous PR producer. It processes one ready video source into public episode or interview artifacts, pushes a source-scoped branch, opens a PR against protected `main`, and enables auto-merge after CI.
 
 ## Fresh Workspace
 
@@ -153,9 +153,13 @@ If no task is assigned, inspect backlog:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
+node ops/scripts/build-episode-backlog.mjs --channel Interviews \
+  --out content/workflow/tasks/interview-production-backlog.json \
+  --tsv-out content/workflow/tasks/interview-production-backlog.tsv
 ```
 
-If the backlog still has no ready source and `current.json` already records the
+`source_class: episode` publishes under `/episodes/`; `source_class: interview`
+publishes under `/interviews/`. If the backlog still has no ready source and `current.json` already records the
 same blocked source, commit, raw files, and readiness booleans, treat the worker
 as idle. Send the compact "going idle until new source artifacts, origin/main
 change, or maintainer instruction" room message only when first entering that
@@ -170,6 +174,8 @@ Never edit on `main`.
 git checkout main
 git pull --ff-only origin main
 git checkout -b episode/<source-slug>
+# or, for interview-format sources
+git checkout -b interview/<source-slug>
 ```
 
 If local changes already exist, inspect them first. Do not overwrite maintainer or other-agent work.
@@ -180,6 +186,8 @@ Run the E2E script for one video:
 
 ```bash
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory
+# or, for interview-format raw artifacts:
+node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel Interviews/<host-channel-id>
 ```
 
 Before running a stage, check whether that stage is already complete on the
@@ -241,15 +249,18 @@ Commit only scoped work:
 ```bash
 git status --short
 git add <scoped-files>
-git commit -m "Process episode <source-slug>"
+git commit -m "Process source <source-slug>"
 git push -u origin episode/<source-slug>
-gh pr create --base main --head episode/<source-slug> --title "Process episode <source-slug>" --body-file <pr-body-file>
+gh pr create --base main --head episode/<source-slug> --title "Process source <source-slug>" --body-file <pr-body-file>
 gh pr merge --auto --squash --delete-branch
 ```
+
+Use `interview/<source-slug>` instead of `episode/<source-slug>` for interview-format sources.
 
 The PR body must include:
 
 - source slug and video ID,
+- source class and public route (`/episodes/<source-slug>/` or `/interviews/<source-slug>/`),
 - what changed,
 - validation commands and results,
 - episode-only follow-up suggestions for a separate corpus-impact/lens agent, if any,

@@ -5,7 +5,7 @@
 Process exactly one source per task or wake unless the maintainer explicitly asks for a batch.
 
 If the maintainer assigns diagnosis, infrastructure, or worker-instruction work
-instead of episode production, do not process a video. Follow the explicitly
+instead of source production, do not process a video. Follow the explicitly
 assigned branch and write scope.
 
 Own this write scope:
@@ -51,13 +51,16 @@ git pull --ff-only origin main
 7. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, choose the newest applicable instruction, and ignore stale source-claim messages that predate a newer maintainer directive.
 8. Confirm you are not on `main` for implementation work. If you are on `main`, create the instructed branch or a source-scoped branch before editing.
 9. If the task names a video ID or source slug and the newest instruction is episode production, process that target.
-10. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state:
+10. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state for both public source classes:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
+node ops/scripts/build-episode-backlog.mjs --channel Interviews \
+  --out content/workflow/tasks/interview-production-backlog.json \
+  --tsv-out content/workflow/tasks/interview-production-backlog.tsv
 ```
 
-Prefer a ready raw source artifact with committed transcription and diarization JSON. If there is no clear ready video, report that there is no ready episode source instead of claiming corpus-impact, lens, or canon work.
+Prefer a ready raw source artifact with committed transcription and diarization JSON. `source_class: episode` publishes under `/episodes/`; `source_class: interview` publishes under `/interviews/`. If there is no clear ready source, report that there is no ready episode or interview source instead of claiming corpus-impact, lens, or canon work.
 
 If there is no ready source and that blocker is unchanged from `current.json`
 after checking `origin/main`, the raw source directory, and the deterministic
@@ -104,16 +107,18 @@ configure-agent-github
 
 Use HTTPS/`gh` auth in containers. Do not require SSH keys inside the worker image.
 
-For each episode task:
+For each source task:
 
 1. Claim one source in `local_lab/episode-floor`.
-2. Create a branch named `episode/<source-slug>` or `episode/<video-id>`:
+2. Create a branch named `episode/<source-slug>` for Predictive History lectures or `interview/<source-slug>` for interview-format sources:
 
 ```bash
 git checkout -b episode/<source-slug>
+# or
+git checkout -b interview/<source-slug>
 ```
 
-3. Commit only scoped episode files plus generated content outputs required by the compiler.
+3. Commit only scoped source files plus generated content outputs required by the compiler.
 4. Push the branch and open a PR against `main`.
 5. Enable GitHub auto-merge so the PR merges after required checks pass:
 
@@ -167,6 +172,8 @@ Start or resume with:
 
 ```bash
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory
+# or, for interview-format raw artifacts:
+node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel Interviews/<host-channel-id>
 ```
 
 If the orchestrator reports missing raw source artifacts, stop and hand off to the Colab pipeline. Do not download media or operate Colab from this worker.
@@ -182,9 +189,9 @@ If it reports `pending-boundary-review`, use `jiang-transcript-boundary-review` 
 
 If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and produce exact-ref semantic JSON packets. Treat diarization as a hint, not truth.
 
-If it needs a public episode read, use `jiang-episode-read-writer`. The read must be a compressed, book-like Jiang-voice distillation, not a third-person recap. Preserve surprising or spicy ideas when the transcript supports them.
+If it needs a public read, use `jiang-episode-read-writer`. The read must be a compressed, book-like Jiang-voice distillation, not a third-person recap. Preserve surprising or spicy ideas when the transcript supports them. For interviews, preserve the interviewer pressure and conversational turns that shape Jiang's answer instead of flattening them into a classroom lecture.
 
-If it publishes the episode, stop at episode publication. Do not run `jiang-corpus-impact-pass`; that is a separate autonomous job after the episode PR is visible and merged.
+If it publishes the source under `/episodes/` or `/interviews/`, stop at publication. Do not run `jiang-corpus-impact-pass`; that is a separate autonomous job after the PR is visible and merged.
 
 ## Learning Loop
 
@@ -199,7 +206,7 @@ You are expected to improve with the system. Use memory as working continuity, n
 ## Episode Quality Bar
 
 - Keep the main read human-facing. Do not expose internal labels like models, diagnoses, proposal tiers, or confidence buckets.
-- A generated episode with `read: null` is not publication-quality handoff. Before PR, ensure `content/lens/episodes/<source-slug>/read.json` exists, reads like a compact public essay, and has meaningful `marks` on sharp thesis phrases, Jiang moves, and jump-worthy moments. Do not ship `mark_count: 0`.
+- A generated source with `read: null` is not publication-quality handoff. Before PR, ensure `content/lens/episodes/<source-slug>/read.json` exists, reads like a compact public essay, and has meaningful `marks` on sharp thesis phrases, Jiang moves, and jump-worthy moments. Do not ship `mark_count: 0`.
 - Do a final heat/provenance pass before PR: sharp Jiang voice, enough detail to be worth reading, source refs on every section, selective marks, no public workflow leakage, no invented FAQ questions, and no transcript dump.
 - Questions are only questions actually performed by students, interviewers, or other non-Jiang speakers in the source and then answered by Jiang. The public question text must be a close cleaned version of that utterance, not a topic heading or synthesis of the exchange. Do not invent reader questions, do not promote Jiang's classroom prompts or rhetorical questions, do not use Jiang reading a submitted/topic question as if it were a performed audience question, and do not treat a student correction, fragment, or statement as a question just because Jiang answers it. Every included question needs the question speaker's source refs plus a concise grounded Jiang answer with direct answer refs. If the source has no clear performed audience/interviewer questions, use `questions: []`.
 - Do not bury the best idea. If Jiang says poetry acts like a virus, stories train attention, or a guide becomes a trap, preserve that force in the public read.
@@ -234,6 +241,7 @@ End every run with:
 - files changed,
 - validation commands run,
 - whether the episode is website-visible,
+- whether the public route is `/episodes/<source-slug>/` or `/interviews/<source-slug>/`,
 - any episode-only follow-up suggestions for a separate corpus-impact/lens agent,
 - any memory updates or worker-local proposals made,
 - the next useful autonomous job.

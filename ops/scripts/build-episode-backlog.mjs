@@ -31,11 +31,18 @@ function option(args, key, fallback) {
   return value;
 }
 
-function slugForVideoId(videoId) {
-  return `predictive-history-${String(videoId)
+function slugify(value) {
+  return String(value)
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '')}`;
+    .replace(/^-|-$/g, '');
+}
+
+function slugForVideoId(videoId, sourceClass = 'episode') {
+  const idSlug = slugify(videoId);
+  return sourceClass === 'interview'
+    ? `interview-${idSlug}`
+    : `predictive-history-${idSlug}`;
 }
 
 async function readJsonl(filePath) {
@@ -47,20 +54,21 @@ async function readJsonl(filePath) {
 }
 
 async function listDirectories(dir) {
+  if (!existsSync(dir)) return [];
   return (await readdir(dir, { withFileTypes: true }))
     .filter((entry) => entry.isDirectory())
     .map((entry) => entry.name)
     .sort();
 }
 
-async function main() {
-  const args = parseArgs(process.argv.slice(2));
-  const channel = option(args, 'channel', '@PredictiveHistory');
-  const artifactRoot = option(args, 'artifact-root', option(args, 'staging-root', defaultArtifactRoot));
-  const artifactRootPath = path.resolve(repoRoot, artifactRoot);
+async function readRawConfig(artifactRootPath) {
+  const configPath = path.join(artifactRootPath, '_config.json');
+  if (!existsSync(configPath)) return {};
+  return JSON.parse(await readFile(configPath, 'utf8'));
+}
+
+async function collectPredictiveHistorySources({ artifactRootPath, channel }) {
   const channelRoot = path.join(artifactRootPath, channel);
-  const outJson = path.resolve(repoRoot, option(args, 'out', 'content/workflow/tasks/episode-production-backlog.json'));
-  const outTsv = path.resolve(repoRoot, option(args, 'tsv-out', 'content/workflow/tasks/episode-production-backlog.tsv'));
   const flatPath = path.join(channelRoot, '_channel.flat.jsonl');
 
   if (!existsSync(channelRoot)) {
@@ -70,15 +78,17 @@ async function main() {
   const artifactVideoIds = await listDirectories(channelRoot);
   const flatRows = await readJsonl(flatPath);
   const flatById = new Map(flatRows.map((row) => [row.id, row]));
-  const importedSlugs = new Set(await listDirectories(path.join(repoRoot, 'content/lens/episodes')));
 
-  const videos = artifactVideoIds.map((videoId) => {
+  return artifactVideoIds.map((videoId) => {
     const flat = flatById.get(videoId);
-    const sourceSlug = slugForVideoId(videoId);
+    const sourceClass = 'episode';
+    const sourceSlug = slugForVideoId(videoId, sourceClass);
     return {
       video_id: videoId,
       source_slug: sourceSlug,
-      imported_episode: importedSlugs.has(sourceSlug),
+      source_class: sourceClass,
+      collection: 'episodes',
+      channel_path: channel,
       title: flat?.title ?? null,
       playlist_index: flat?.playlist_index ?? null,
       duration_seconds: flat?.duration ?? null,
@@ -92,15 +102,88 @@ async function main() {
     const right = b.playlist_index ?? -1;
     return right - left || a.video_id.localeCompare(b.video_id);
   });
+}
+
+async function collectInterviewSources({ artifactRootPath, channel }) {
+  const interviewsRoot = path.join(artifactRootPath, 'Interviews');
+  const hostFilter = channel.startsWith('Interviews/') ? channel.split('/').slice(1).join('/') : null;
+
+  if (!existsSync(interviewsRoot)) {
+    throw new Error(`Missing source artifact interviews folder: ${path.relative(repoRoot, interviewsRoot)}`);
+  }
+
+  const rawConfig = await readRawConfig(artifactRootPath);
+  const bucketRows = rawConfig.buckets?.Interviews ?? [];
+  const bucketById = new Map(bucketRows.map((row, index) => [row.id, { ...row, config_index: index }]));
+  const hostChannels = hostFilter ? [hostFilter] : await listDirectories(interviewsRoot);
+  const sources = [];
+
+  for (const hostChannel of hostChannels) {
+    const hostRoot = path.join(interviewsRoot, hostChannel);
+    for (const videoId of await listDirectories(hostRoot)) {
+      const bucket = bucketById.get(videoId);
+      const sourceClass = 'interview';
+      sources.push({
+        video_id: videoId,
+        source_slug: slugForVideoId(videoId, sourceClass),
+        source_class: sourceClass,
+        collection: 'interviews',
+        channel_path: `Interviews/${hostChannel}`,
+        channel_id: hostChannel,
+        title: bucket?.title ?? null,
+        playlist_index: null,
+        config_index: bucket?.config_index ?? null,
+        duration_seconds: null,
+        duration_string: null,
+        transcription: existsSync(path.join(hostRoot, videoId, 'transcription.json')),
+        diarization: existsSync(path.join(hostRoot, videoId, 'dump.json')) && existsSync(path.join(hostRoot, videoId, 'grouped.json')),
+        metadata: existsSync(path.join(hostRoot, videoId, 'metadata.youtube.json')),
+      });
+    }
+  }
+
+  return sources.sort((a, b) => {
+    if (a.config_index !== null && b.config_index !== null && a.config_index !== b.config_index) {
+      return a.config_index - b.config_index;
+    }
+    if (a.config_index !== null) return -1;
+    if (b.config_index !== null) return 1;
+    return a.channel_path.localeCompare(b.channel_path) || a.video_id.localeCompare(b.video_id);
+  });
+}
+
+async function main() {
+  const args = parseArgs(process.argv.slice(2));
+  const channel = option(args, 'channel', '@PredictiveHistory');
+  const artifactRoot = option(args, 'artifact-root', option(args, 'staging-root', defaultArtifactRoot));
+  const artifactRootPath = path.resolve(repoRoot, artifactRoot);
+  const outJson = path.resolve(repoRoot, option(args, 'out', 'content/workflow/tasks/episode-production-backlog.json'));
+  const outTsv = path.resolve(repoRoot, option(args, 'tsv-out', 'content/workflow/tasks/episode-production-backlog.tsv'));
+  const importedSlugs = new Set(await listDirectories(path.join(repoRoot, 'content/lens/episodes')));
+
+  const videos = (channel === 'Interviews' || channel.startsWith('Interviews/'))
+    ? await collectInterviewSources({ artifactRootPath, channel })
+    : await collectPredictiveHistorySources({ artifactRootPath, channel });
+
+  for (const video of videos) {
+    video.imported_episode = importedSlugs.has(video.source_slug);
+    video.imported_source = video.imported_episode;
+  }
 
   const backlog = {
     generated_by: 'ops/scripts/build-episode-backlog.mjs',
     generated_at: process.env.LENS_GENERATED_AT ?? new Date().toISOString(),
     channel,
-    order: 'oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last',
+    order: channel === 'Interviews' || channel.startsWith('Interviews/')
+      ? 'interview bucket config order first, then host channel and video id'
+      : 'oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last',
     counts: {
+      raw_sources: videos.length,
+      staged_sources: videos.length,
       raw_source_videos: videos.length,
       staged_videos: videos.length,
+      imported_sources: videos.filter((video) => video.imported_source).length,
+      remaining_sources: videos.filter((video) => !video.imported_source).length,
       imported_episodes: videos.filter((video) => video.imported_episode).length,
       remaining_episodes: videos.filter((video) => !video.imported_episode).length,
       transcribed: videos.filter((video) => video.transcription).length,
@@ -113,13 +196,15 @@ async function main() {
   await mkdir(path.dirname(outJson), { recursive: true });
   await writeFile(outJson, `${JSON.stringify(backlog, null, 2)}\n`);
   await writeFile(outTsv, [
-    'order\tplaylist_index\tvideo_id\tsource_slug\timported\tdiarization\tduration\ttitle',
+    'order\tsource_class\tchannel_path\tplaylist_index\tvideo_id\tsource_slug\timported\tdiarization\tduration\ttitle',
     ...videos.map((video, index) => [
       index + 1,
+      video.source_class,
+      video.channel_path,
       video.playlist_index ?? '',
       video.video_id,
       video.source_slug,
-      video.imported_episode ? 'yes' : 'no',
+      video.imported_source ? 'yes' : 'no',
       video.diarization ? 'yes' : 'no',
       video.duration_string ?? '',
       String(video.title ?? '').replaceAll('\t', ' '),

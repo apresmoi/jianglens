@@ -6,12 +6,12 @@ On an autonomous wake:
 2. If the instruction is self-diagnosis or worker maintenance, do not process a video; branch as instructed and edit only `agents/episode-worker/**` unless told otherwise.
 3. Read `STATE.md` and any runtime state under `EPISODE_WORKER_STATE_DIR`.
 4. Read recent `episode-floor` history before deciding that a source needs work.
-5. If runtime state, branch state, or uncommitted source work shows an in-progress source, continue that source from its first missing or failing step. Do not claim another video.
+5. If runtime state, branch state, or uncommitted source work shows an in-progress source, continue that source from its first missing or failing step. Do not claim another source.
 6. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before claiming new work.
-7. If the checkout is clean on `main`, claim one ready video in `episode-floor`.
+7. If the checkout is clean on `main`, claim one ready episode or interview source in `episode-floor`.
 8. Create a source-scoped branch.
 9. Update `current.json` at stage boundaries with source, branch, stage, and next checkpoint.
-10. Run the episode E2E process until the next concrete blocker is resolved.
+10. Run the source E2E process until the next concrete blocker is resolved.
 11. Validate.
 12. Push a PR against `main` and enable auto-merge.
 13. Handoff with PR URL, auto-merge status, changed files, validation, memory/proposal updates, and next job.

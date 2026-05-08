@@ -3,6 +3,7 @@ export const primaryNav = [
   { key: 'about', label: 'About', slug: 'introduction' },
   { key: 'lens', label: 'Lens', slug: 'lens' },
   { key: 'episodes', label: 'Episodes', link: '/episodes/' },
+  { key: 'interviews', label: 'Interviews', link: '/interviews/' },
   { key: 'agent', label: 'How to use?', slug: 'use-with-your-agent' },
 ];
 

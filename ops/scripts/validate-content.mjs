@@ -11,6 +11,7 @@ const contentRoot = path.join(repoRoot, 'content');
 const websiteDocsRoot = path.join(repoRoot, 'website/src/content/docs');
 const websiteDataRoot = path.join(repoRoot, 'website/src/data/lens');
 const websiteEpisodesDataRoot = path.join(websiteDataRoot, 'episodes');
+const websiteInterviewsDataRoot = path.join(websiteDataRoot, 'interviews');
 const authoredExtensions = new Set(['.md', '.mdx', '.yaml', '.yml', '.json', '.jsonl']);
 
 const requiredDirs = [
@@ -239,13 +240,14 @@ async function collectDocLensPoints() {
   return points;
 }
 
-function videoRefParts(ref) {
-  const match = String(ref ?? '').match(/^video:([^@]+)@transcript:v([0-9]+)#(seg-[0-9]{4})$/);
+function transcriptRefParts(ref) {
+  const match = String(ref ?? '').match(/^(video|interview):([^@]+)@transcript:v([0-9]+)#(seg-[0-9]{4})$/);
   if (!match) return null;
   return {
-    slug: match[1],
-    version: Number(match[2]),
-    segmentId: match[3],
+    type: match[1],
+    slug: match[2],
+    version: Number(match[3]),
+    segmentId: match[4],
   };
 }
 
@@ -271,25 +273,42 @@ async function listJsonFiles(dir) {
   }
 }
 
+async function listGeneratedSourceJsonFiles() {
+  const roots = [websiteEpisodesDataRoot, websiteInterviewsDataRoot];
+  const files = [];
+  for (const root of roots) {
+    files.push(...(await listJsonFiles(root)).filter((filePath) => path.basename(filePath) !== 'index.json'));
+  }
+  return files.sort();
+}
+
+function generatedSourceJsonPath(slug) {
+  const candidates = [
+    path.join(websiteEpisodesDataRoot, `${slug}.json`),
+    path.join(websiteInterviewsDataRoot, `${slug}.json`),
+  ];
+  return candidates.find((candidate) => existsSync(candidate)) ?? null;
+}
+
 async function validateGeneratedVideoRef(ref, detail, context, errors) {
   if (!sourceRefPattern.test(ref)) {
     errors.push(`Malformed ${context.kind} ref "${ref}" in ${context.location}`);
   }
   sourceRefPattern.lastIndex = 0;
 
-  const parsed = videoRefParts(ref);
+  const parsed = transcriptRefParts(ref);
   if (!parsed) {
     errors.push(`Unsupported ${context.kind} ref target "${ref}" in ${context.location}`);
     return;
   }
 
-  const episodePath = path.join(websiteEpisodesDataRoot, `${parsed.slug}.json`);
-  if (!existsSync(episodePath)) {
-    errors.push(`${context.kind} ref points to missing episode JSON "${ref}" in ${context.location}`);
+  const episodePath = generatedSourceJsonPath(parsed.slug);
+  if (!episodePath) {
+    errors.push(`${context.kind} ref points to missing generated source JSON "${ref}" in ${context.location}`);
     return;
   }
 
-  const episode = await readJson(episodePath, errors, `website/src/data/lens/episodes/${parsed.slug}.json`);
+  const episode = await readJson(episodePath, errors, path.relative(repoRoot, episodePath));
   if (!episode) return;
   const segment = (episode.transcript ?? []).find((item) => item.id === parsed.segmentId || item.ref?.endsWith(`#${parsed.segmentId}`));
   if (!segment) {
@@ -459,8 +478,7 @@ async function validateGeneratedLinkIndex(errors) {
   }
 
   if (generatedLensById.size > 0) {
-    const episodeFiles = (await listJsonFiles(websiteEpisodesDataRoot))
-      .filter((filePath) => path.basename(filePath) !== 'index.json');
+    const episodeFiles = await listGeneratedSourceJsonFiles();
 
     for (const episodePath of episodeFiles) {
       const relPath = path.relative(repoRoot, episodePath);
@@ -476,13 +494,13 @@ async function validateGeneratedLinkIndex(errors) {
           for (const id of current.value.lens_points) {
             const canonicalId = canonicalLensPointId(id);
             if (!generatedLensById.has(canonicalId)) {
-              errors.push(`Episode read points to missing lens point "${canonicalId}" in ${current.path}`);
+              errors.push(`Source read points to missing lens point "${canonicalId}" in ${current.path}`);
             }
           }
 
           for (const detail of current.value.lens_points_detail ?? []) {
             if (!detail?.id || !detail.valid) {
-              errors.push(`Episode read has invalid lens point detail in ${current.path}`);
+              errors.push(`Source read has invalid lens point detail in ${current.path}`);
             }
           }
         }
@@ -502,8 +520,7 @@ async function validateGeneratedLinkIndex(errors) {
 }
 
 async function validateGeneratedEpisodeQuestions(errors) {
-  const episodeFiles = (await listJsonFiles(websiteEpisodesDataRoot))
-    .filter((filePath) => path.basename(filePath) !== 'index.json');
+  const episodeFiles = await listGeneratedSourceJsonFiles();
 
   for (const episodePath of episodeFiles) {
     const relPath = path.relative(repoRoot, episodePath);
@@ -515,21 +532,21 @@ async function validateGeneratedEpisodeQuestions(errors) {
       const paragraphs = question.answer_paragraphs ?? [];
 
       if (!question.question || typeof question.question !== 'string') {
-        errors.push(`Episode question is missing question text in ${location}`);
+        errors.push(`Source question is missing question text in ${location}`);
       }
 
       if (!Array.isArray(paragraphs) || paragraphs.length === 0) {
-        errors.push(`Episode question has no rendered answer paragraphs in ${location}. Run node ops/scripts/compile-content.mjs or add answer/answer_paragraphs.`);
+        errors.push(`Source question has no rendered answer paragraphs in ${location}. Run node ops/scripts/compile-content.mjs or add answer/answer_paragraphs.`);
         continue;
       }
 
       for (const [paragraphIndex, paragraph] of paragraphs.entries()) {
         if (!paragraph.text || typeof paragraph.text !== 'string') {
-          errors.push(`Episode question answer paragraph is missing text in ${location}.answer_paragraphs[${paragraphIndex}]`);
+          errors.push(`Source question answer paragraph is missing text in ${location}.answer_paragraphs[${paragraphIndex}]`);
         }
 
         if (!Array.isArray(paragraph.refs) || paragraph.refs.length === 0) {
-          errors.push(`Episode question answer paragraph has no refs in ${location}.answer_paragraphs[${paragraphIndex}]`);
+          errors.push(`Source question answer paragraph has no refs in ${location}.answer_paragraphs[${paragraphIndex}]`);
         }
       }
     }

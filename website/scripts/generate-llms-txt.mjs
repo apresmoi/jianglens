@@ -14,7 +14,9 @@ const docsOutRoot = path.join(distRoot, 'docs');
 const dataRoot = path.join(websiteRoot, 'src/data/lens');
 const dataOutRoot = path.join(distRoot, 'data/lens');
 const episodeDataRoot = path.join(dataRoot, 'episodes');
+const interviewDataRoot = path.join(dataRoot, 'interviews');
 const episodeMarkdownOutRoot = path.join(distRoot, 'episodes');
+const interviewMarkdownOutRoot = path.join(distRoot, 'interviews');
 const publicSkillPath = path.join(websiteRoot, 'public/skill.md');
 const origin = configuredOrigin();
 const basePath = configuredBasePath();
@@ -98,12 +100,24 @@ function publicPath(pathname) {
   return urlFor(pathname);
 }
 
-function episodeMarkdownPath(slug) {
-  return `/episodes/${slug}.md`;
+function collectionForSource(source) {
+  return source.collection === 'interviews' ? 'interviews' : 'episodes';
 }
 
-function episodeDataPath(slug) {
-  return `/data/lens/episodes/${slug}.json`;
+function sourceKind(collection) {
+  return collection === 'interviews' ? 'interview' : 'episode';
+}
+
+function sourceMarkdownPath(sourceOrSlug, collection = 'episodes') {
+  const slug = typeof sourceOrSlug === 'string' ? sourceOrSlug : sourceOrSlug.slug;
+  const sourceCollection = typeof sourceOrSlug === 'string' ? collection : collectionForSource(sourceOrSlug);
+  return `/${sourceCollection}/${slug}.md`;
+}
+
+function sourceDataPath(sourceOrSlug, collection = 'episodes') {
+  const slug = typeof sourceOrSlug === 'string' ? sourceOrSlug : sourceOrSlug.slug;
+  const sourceCollection = typeof sourceOrSlug === 'string' ? collection : collectionForSource(sourceOrSlug);
+  return `/data/lens/${sourceCollection}/${slug}.json`;
 }
 
 function refSegmentMap(episode) {
@@ -123,7 +137,8 @@ function refsMarkdown(refs, episode) {
     const segment = segmentByRef.get(ref);
     if (!segment) return `\`${ref}\``;
 
-    const transcriptUrl = publicPath(segment.transcript_url || `/episodes/${episode.slug}/transcript/#${segment.id}`);
+    const collection = collectionForSource(episode);
+    const transcriptUrl = publicPath(segment.transcript_url || `/${collection}/${episode.slug}/transcript/#${segment.id}`);
     const videoUrl = segment.video_url || episode.source_url;
     const timeLabel = segment.time_label || segment.id;
     return `${markdownLink(`${timeLabel} ${segment.id}`, transcriptUrl)} (${markdownLink('video', videoUrl)}) \`${ref}\``;
@@ -148,11 +163,14 @@ function renderParagraphs(paragraphs, episode) {
 
 function renderEpisodeMarkdown(episode) {
   const read = episode.read ?? {};
+  const collection = collectionForSource(episode);
+  const kind = sourceKind(collection);
+  const kindTitle = kind[0].toUpperCase() + kind.slice(1);
   const title = read.title || episode.title;
   const dek = read.dek || '';
-  const episodePage = publicPath(`/episodes/${episode.slug}/`);
-  const transcriptPage = publicPath(`/episodes/${episode.slug}/transcript/`);
-  const dataUrl = publicPath(episodeDataPath(episode.slug));
+  const episodePage = publicPath(episode.path || `/${collection}/${episode.slug}/`);
+  const transcriptPage = publicPath(episode.transcript_path || `/${collection}/${episode.slug}/transcript/`);
+  const dataUrl = publicPath(episode.data_url || sourceDataPath(episode));
   const sourceTitle = episode.title || read.source_title || title;
   const sourceUrl = episode.source_url || '';
   const lines = [
@@ -161,7 +179,8 @@ function renderEpisodeMarkdown(episode) {
     `description: ${yamlString(dek || read.thesis || title)}`,
     `source_title: ${yamlString(sourceTitle)}`,
     `published_at: ${yamlString(episode.published_at || '')}`,
-    `episode_url: ${yamlString(episodePage)}`,
+    `source_class: ${yamlString(kind)}`,
+    `public_url: ${yamlString(episodePage)}`,
     `transcript_url: ${yamlString(transcriptPage)}`,
     `data_url: ${yamlString(dataUrl)}`,
     `source_url: ${yamlString(sourceUrl)}`,
@@ -176,9 +195,9 @@ function renderEpisodeMarkdown(episode) {
   lines.push(
     `- Source: ${sourceUrl ? markdownLink(sourceTitle, sourceUrl) : sourceTitle}`,
     `- Published: ${episode.date_label || episode.published_at || 'unknown'}`,
-    `- Human episode page: ${markdownLink('/episodes/' + episode.slug + '/', episodePage)}`,
-    `- Transcript page: ${markdownLink('/episodes/' + episode.slug + '/transcript/', transcriptPage)}`,
-    `- Episode JSON with transcript segments: ${markdownLink(episodeDataPath(episode.slug), dataUrl)}`,
+    `- Human ${kind} page: ${markdownLink(`/${collection}/${episode.slug}/`, episodePage)}`,
+    `- Transcript page: ${markdownLink(`/${collection}/${episode.slug}/transcript/`, transcriptPage)}`,
+    `- ${kindTitle} JSON with transcript segments: ${markdownLink(sourceDataPath(episode), dataUrl)}`,
     '',
   );
 
@@ -191,7 +210,7 @@ function renderEpisodeMarkdown(episode) {
   }
 
   if (read.beats?.length) {
-    lines.push('## In This Episode', '');
+    lines.push(`## In This ${kindTitle}`, '');
     for (const beat of read.beats) {
       const timeLabel = beat.time_range || (Number.isFinite(Number(beat.start)) ? beat.start : '');
       const firstRefSegment = refSegmentMap(episode).get((beat.refs ?? [])[0]);
@@ -215,7 +234,7 @@ function renderEpisodeMarkdown(episode) {
   }
 
   if (read.questions?.length) {
-    lines.push('## Student Questions', '');
+    lines.push('## Questions', '');
     for (const question of read.questions) {
       lines.push(`### ${question.question || question.id}`, '');
       if (question.answer) lines.push(markdownText(question.answer), '');
@@ -241,7 +260,7 @@ function renderEpisodeMarkdown(episode) {
     '',
     'This Markdown file is the compressed public reading. It intentionally does not contain the full transcript.',
     '',
-    `For exact wording, timestamps, timed chunks, transcript segment IDs, and source refs, fetch ${markdownLink(episodeDataPath(episode.slug), dataUrl)}.`,
+    `For exact wording, timestamps, timed chunks, transcript segment IDs, and source refs, fetch ${markdownLink(sourceDataPath(episode), dataUrl)}.`,
     '',
   );
 
@@ -249,38 +268,42 @@ function renderEpisodeMarkdown(episode) {
 }
 
 function renderEpisodeIndexMarkdown(index) {
+  const collection = index.collection === 'interviews' ? 'interviews' : 'episodes';
+  const kind = sourceKind(collection);
+  const kindTitle = kind[0].toUpperCase() + kind.slice(1);
+  const sources = index[collection] ?? index.items ?? index.episodes ?? index.interviews ?? [];
   const lines = [
     '---',
-    'title: "Jiang Lens Episode Index"',
-    'description: "Agent-readable Markdown catalog of Jiang Lens episode readings."',
+    `title: "Jiang Lens ${kindTitle} Index"`,
+    `description: "Agent-readable Markdown catalog of Jiang Lens ${kind} readings."`,
     `generated_at: ${yamlString(index.generated_at || '')}`,
     '---',
     '',
-    '# Jiang Lens Episode Index',
+    `# Jiang Lens ${kindTitle} Index`,
     '',
-    'This is the agent-readable catalog of public episode readings. Use each episode Markdown file for the compressed reading and each episode JSON file for exact transcript segments, timestamps, source refs, and video links.',
+    `This is the agent-readable catalog of public ${kind} readings. Use each ${kind} Markdown file for the compressed reading and each ${kind} JSON file for exact transcript segments, timestamps, source refs, and video links.`,
     '',
-    `Episodes indexed: ${index.episodes?.length ?? 0}`,
+    `${kindTitle}s indexed: ${sources.length}`,
     '',
-    '## Episodes',
+    `## ${kindTitle}s`,
     '',
   ];
 
-  for (const episode of index.episodes ?? []) {
-    const episodeMd = publicPath(episode.markdown_path || episodeMarkdownPath(episode.slug));
-    const episodePage = publicPath(episode.path || `/episodes/${episode.slug}/`);
-    const transcriptPage = publicPath(episode.transcript_path || `/episodes/${episode.slug}/transcript/`);
-    const dataUrl = publicPath(episode.data_url || episodeDataPath(episode.slug));
+  for (const episode of sources) {
+    const episodeMd = publicPath(episode.markdown_path || sourceMarkdownPath(episode));
+    const episodePage = publicPath(episode.path || `/${collection}/${episode.slug}/`);
+    const transcriptPage = publicPath(episode.transcript_path || `/${collection}/${episode.slug}/transcript/`);
+    const dataUrl = publicPath(episode.data_url || sourceDataPath(episode));
 
     lines.push(
       `### ${episode.title}`,
       '',
       `- Date: ${episode.date_label || episode.published_at || 'unknown'}`,
       `- Source: ${episode.source_url ? markdownLink(episode.source_title || episode.title, episode.source_url) : (episode.source_title || episode.title)}`,
-      `- Episode Markdown: ${markdownLink(episodeMarkdownPath(episode.slug), episodeMd)}`,
-      `- Human page: ${markdownLink(episode.path || `/episodes/${episode.slug}/`, episodePage)}`,
-      `- Transcript page: ${markdownLink(episode.transcript_path || `/episodes/${episode.slug}/transcript/`, transcriptPage)}`,
-      `- Episode JSON: ${markdownLink(episode.data_url || episodeDataPath(episode.slug), dataUrl)}`,
+      `- ${kindTitle} Markdown: ${markdownLink(sourceMarkdownPath(episode), episodeMd)}`,
+      `- Human page: ${markdownLink(episode.path || `/${collection}/${episode.slug}/`, episodePage)}`,
+      `- Transcript page: ${markdownLink(episode.transcript_path || `/${collection}/${episode.slug}/transcript/`, transcriptPage)}`,
+      `- ${kindTitle} JSON: ${markdownLink(episode.data_url || sourceDataPath(episode), dataUrl)}`,
     );
 
     if (episode.dek) lines.push(`- Summary: ${episode.dek}`);
@@ -290,24 +313,27 @@ function renderEpisodeIndexMarkdown(index) {
   return `${lines.join('\n').trim()}\n`;
 }
 
-async function generateEpisodeMarkdown() {
-  const indexPath = path.join(episodeDataRoot, 'index.json');
+async function generateSourceMarkdown(collection) {
+  const dataRootForCollection = collection === 'interviews' ? interviewDataRoot : episodeDataRoot;
+  const markdownOutRoot = collection === 'interviews' ? interviewMarkdownOutRoot : episodeMarkdownOutRoot;
+  const indexPath = path.join(dataRootForCollection, 'index.json');
   if (!existsSync(indexPath)) return null;
 
-  await mkdir(episodeMarkdownOutRoot, { recursive: true });
+  await mkdir(markdownOutRoot, { recursive: true });
   const index = JSON.parse(await readFile(indexPath, 'utf8'));
   const episodeIndexMarkdown = renderEpisodeIndexMarkdown(index);
-  await writeFile(path.join(episodeMarkdownOutRoot, 'index.md'), episodeIndexMarkdown);
+  await writeFile(path.join(markdownOutRoot, 'index.md'), episodeIndexMarkdown);
 
-  for (const episodeSummary of index.episodes ?? []) {
-    const episodePath = path.join(episodeDataRoot, `${episodeSummary.slug}.json`);
+  const sources = index[collection] ?? index.items ?? [];
+  for (const episodeSummary of sources) {
+    const episodePath = path.join(dataRootForCollection, `${episodeSummary.slug}.json`);
     if (!existsSync(episodePath)) continue;
     const episode = JSON.parse(await readFile(episodePath, 'utf8'));
-    await writeFile(path.join(episodeMarkdownOutRoot, `${episode.slug}.md`), renderEpisodeMarkdown(episode));
+    await writeFile(path.join(markdownOutRoot, `${episode.slug}.md`), renderEpisodeMarkdown(episode));
   }
 
   return {
-    count: index.episodes?.length ?? 0,
+    count: sources.length,
     markdown: episodeIndexMarkdown,
   };
 }
@@ -365,11 +391,15 @@ function internalMarkdownHref(href) {
 
   const [pathname, suffix = ''] = href.split(/(?=[?#])/);
   if (pathname === '/episodes/') return urlFor('/episodes/index.md') + suffix;
+  if (pathname === '/interviews/') return urlFor('/interviews/index.md') + suffix;
 
   const episodeMatch = pathname.match(/^\/episodes\/([^/]+)\/$/);
   if (episodeMatch) return urlFor(`/episodes/${episodeMatch[1]}.md`) + suffix;
 
-  if (pathname.startsWith('/episodes/') || pathname.startsWith('/data/')) {
+  const interviewMatch = pathname.match(/^\/interviews\/([^/]+)\/$/);
+  if (interviewMatch) return urlFor(`/interviews/${interviewMatch[1]}.md`) + suffix;
+
+  if (pathname.startsWith('/episodes/') || pathname.startsWith('/interviews/') || pathname.startsWith('/data/')) {
     return urlFor(pathname) + suffix;
   }
 
@@ -462,7 +492,8 @@ async function main() {
   const files = (await walk(docsRoot)).sort();
   await copyDocs(files);
   await copyData();
-  const episodeMarkdown = await generateEpisodeMarkdown();
+  const episodeMarkdown = await generateSourceMarkdown('episodes');
+  const interviewMarkdown = await generateSourceMarkdown('interviews');
 
   const indexLines = [
     `# ${siteConfig.name}`,
@@ -479,6 +510,9 @@ async function main() {
     `- [Episodes](${urlFor(siteConfig.paths.episodes)})`,
     `- [Episode Markdown index](${urlFor(siteConfig.paths.episodeIndexMarkdown)})`,
     `- [Episode JSON index](${urlFor(siteConfig.paths.episodeIndexJson)})`,
+    `- [Interviews](${urlFor(siteConfig.paths.interviews)})`,
+    `- [Interview Markdown index](${urlFor(siteConfig.paths.interviewIndexMarkdown)})`,
+    `- [Interview JSON index](${urlFor(siteConfig.paths.interviewIndexJson)})`,
     `- [Transcript search JSON](${urlFor(siteConfig.paths.transcriptSearchJson)})`,
     `- [Full compact docs](${urlFor(siteConfig.paths.llmsFull)})`,
     `- [Generated manifest JSON](${urlFor(siteConfig.paths.manifestJson)})`,
@@ -518,6 +552,10 @@ async function main() {
     fullLines.push('---', '', '# Generated Episode Markdown Index', '', withoutFrontmatter(episodeMarkdown.markdown), '');
   }
 
+  if (interviewMarkdown?.markdown) {
+    fullLines.push('---', '', '# Generated Interview Markdown Index', '', withoutFrontmatter(interviewMarkdown.markdown), '');
+  }
+
   fullLines.push(
     '---',
     '',
@@ -531,6 +569,7 @@ async function main() {
     ['manifest.json', path.join(dataRoot, 'manifest.json')],
     ['link-index.json', path.join(dataRoot, 'link-index.json')],
     ['episodes/index.json', path.join(episodeDataRoot, 'index.json')],
+    ['interviews/index.json', path.join(interviewDataRoot, 'index.json')],
   ]) {
     if (!existsSync(input)) continue;
 
@@ -553,7 +592,7 @@ async function main() {
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));
 
-  console.log(`Generated llms.txt, llms-full.txt, ${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode Markdown files, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode Markdown files, ${interviewMarkdown?.count ?? 0} interview Markdown files, and public lens JSON.`);
 }
 
 main().catch((error) => {
