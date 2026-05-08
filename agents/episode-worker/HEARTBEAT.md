@@ -25,3 +25,10 @@ semantic packets, or read-writing.
 
 Skill rule: do not edit `.codex/skills/**`. Propose skill or shared-process
 changes under `agents/episode-worker/proposals/` or in PR notes.
+
+Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
+one recurring agent-turn job named with the prefix
+`jiang-lens-autonomy:episode-worker`; the default cadence is once per day. You
+may adjust your own cron cadence when the corpus state justifies it, but do not
+create duplicate autonomy jobs and do not schedule shell-command cron jobs
+unless a maintainer explicitly asks.

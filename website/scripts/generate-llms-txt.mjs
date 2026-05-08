@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { copyFile, mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { absoluteUrl, configuredBasePath, configuredOrigin, siteConfig } from '../site.config.mjs';
@@ -13,6 +13,8 @@ const distRoot = path.join(websiteRoot, 'dist');
 const docsOutRoot = path.join(distRoot, 'docs');
 const dataRoot = path.join(websiteRoot, 'src/data/lens');
 const dataOutRoot = path.join(distRoot, 'data/lens');
+const episodeDataRoot = path.join(dataRoot, 'episodes');
+const episodeMarkdownOutRoot = path.join(distRoot, 'episodes');
 const publicSkillPath = path.join(websiteRoot, 'public/skill.md');
 const origin = configuredOrigin();
 const basePath = configuredBasePath();
@@ -65,14 +67,260 @@ function urlFor(pathname) {
   return absoluteUrl(pathname, { origin, basePath });
 }
 
+function yamlString(value) {
+  return JSON.stringify(String(value ?? ''));
+}
+
+function markdownText(value) {
+  return String(value ?? '').replace(/\s+\n/g, '\n').trim();
+}
+
+function escapeLinkLabel(value) {
+  return String(value ?? '').replace(/[[\]]/g, '\\$&').trim();
+}
+
+function markdownLink(label, href) {
+  if (!href) return escapeLinkLabel(label);
+  return `[${escapeLinkLabel(label)}](${href})`;
+}
+
+function parseAttrs(value) {
+  const attrs = {};
+  for (const attr of String(value ?? '').matchAll(/([A-Za-z0-9_-]+)="([^"]*)"/g)) {
+    attrs[attr[1]] = attr[2];
+  }
+  return attrs;
+}
+
+function publicPath(pathname) {
+  if (!pathname) return '';
+  if (/^https?:\/\//.test(pathname)) return pathname;
+  return urlFor(pathname);
+}
+
+function episodeMarkdownPath(slug) {
+  return `/episodes/${slug}.md`;
+}
+
+function episodeDataPath(slug) {
+  return `/data/lens/episodes/${slug}.json`;
+}
+
+function refSegmentMap(episode) {
+  const map = new Map();
+  for (const segment of episode.transcript ?? []) {
+    if (segment.source_ref) map.set(segment.source_ref, segment);
+  }
+  return map;
+}
+
+function refsMarkdown(refs, episode) {
+  const uniqueRefs = [...new Set((refs ?? []).filter(Boolean))];
+  if (!uniqueRefs.length) return '';
+
+  const segmentByRef = refSegmentMap(episode);
+  return uniqueRefs.map((ref) => {
+    const segment = segmentByRef.get(ref);
+    if (!segment) return `\`${ref}\``;
+
+    const transcriptUrl = publicPath(segment.transcript_url || `/episodes/${episode.slug}/transcript/#${segment.id}`);
+    const videoUrl = segment.video_url || episode.source_url;
+    const timeLabel = segment.time_label || segment.id;
+    return `${markdownLink(`${timeLabel} ${segment.id}`, transcriptUrl)} (${markdownLink('video', videoUrl)}) \`${ref}\``;
+  }).join('; ');
+}
+
+function renderRefsBlock(refs, episode) {
+  const refsLine = refsMarkdown(refs, episode);
+  return refsLine ? `\n\nSources: ${refsLine}` : '';
+}
+
+function renderParagraphs(paragraphs, episode) {
+  return (paragraphs ?? [])
+    .map((paragraph) => {
+      const text = markdownText(paragraph.text);
+      if (!text) return '';
+      return `${text}${renderRefsBlock(paragraph.refs, episode)}`;
+    })
+    .filter(Boolean)
+    .join('\n\n');
+}
+
+function renderEpisodeMarkdown(episode) {
+  const read = episode.read ?? {};
+  const title = read.title || episode.title;
+  const dek = read.dek || '';
+  const episodePage = publicPath(`/episodes/${episode.slug}/`);
+  const transcriptPage = publicPath(`/episodes/${episode.slug}/transcript/`);
+  const dataUrl = publicPath(episodeDataPath(episode.slug));
+  const sourceTitle = episode.title || read.source_title || title;
+  const sourceUrl = episode.source_url || '';
+  const lines = [
+    '---',
+    `title: ${yamlString(title)}`,
+    `description: ${yamlString(dek || read.thesis || title)}`,
+    `source_title: ${yamlString(sourceTitle)}`,
+    `published_at: ${yamlString(episode.published_at || '')}`,
+    `episode_url: ${yamlString(episodePage)}`,
+    `transcript_url: ${yamlString(transcriptPage)}`,
+    `data_url: ${yamlString(dataUrl)}`,
+    `source_url: ${yamlString(sourceUrl)}`,
+    '---',
+    '',
+    `# ${title}`,
+    '',
+  ];
+
+  if (dek) lines.push(`> ${dek}`, '');
+
+  lines.push(
+    `- Source: ${sourceUrl ? markdownLink(sourceTitle, sourceUrl) : sourceTitle}`,
+    `- Published: ${episode.date_label || episode.published_at || 'unknown'}`,
+    `- Human episode page: ${markdownLink('/episodes/' + episode.slug + '/', episodePage)}`,
+    `- Transcript page: ${markdownLink('/episodes/' + episode.slug + '/transcript/', transcriptPage)}`,
+    `- Episode JSON with transcript segments: ${markdownLink(episodeDataPath(episode.slug), dataUrl)}`,
+    '',
+  );
+
+  if (read.thesis) {
+    lines.push('## Thesis', '', markdownText(read.thesis), '');
+  }
+
+  if (read.opening?.text) {
+    lines.push(`## ${read.opening.heading || 'Core Reading'}`, '', markdownText(read.opening.text) + renderRefsBlock(read.opening.refs, episode), '');
+  }
+
+  if (read.beats?.length) {
+    lines.push('## In This Episode', '');
+    for (const beat of read.beats) {
+      const timeLabel = beat.time_range || (Number.isFinite(Number(beat.start)) ? beat.start : '');
+      const firstRefSegment = refSegmentMap(episode).get((beat.refs ?? [])[0]);
+      const href = firstRefSegment?.video_url || firstRefSegment?.transcript_url || '';
+      lines.push(`- ${href ? markdownLink(timeLabel || 'source', publicPath(href)) : timeLabel} - ${beat.heading || beat.id}${beat.summary ? `: ${beat.summary}` : ''}`);
+    }
+    lines.push('');
+
+    lines.push('## Reading', '');
+    for (const beat of read.beats) {
+      lines.push(`### ${beat.heading || beat.id}`, '');
+      if (beat.time_range || beat.summary) {
+        if (beat.time_range) lines.push(`Time: ${beat.time_range}`);
+        if (beat.summary) lines.push(`Summary: ${beat.summary}`);
+        lines.push('');
+      }
+      const paragraphs = renderParagraphs(beat.paragraphs ?? [], episode);
+      if (paragraphs) lines.push(paragraphs, '');
+      if (!paragraphs) lines.push(renderRefsBlock(beat.refs, episode).trim(), '');
+    }
+  }
+
+  if (read.questions?.length) {
+    lines.push('## Student Questions', '');
+    for (const question of read.questions) {
+      lines.push(`### ${question.question || question.id}`, '');
+      if (question.answer) lines.push(markdownText(question.answer), '');
+      const answerParagraphs = renderParagraphs(question.answer_paragraphs ?? [], episode);
+      if (answerParagraphs && answerParagraphs !== markdownText(question.answer)) lines.push(answerParagraphs, '');
+      const refs = [...(question.refs ?? []), ...(question.answer_refs ?? [])];
+      const refsBlock = renderRefsBlock(refs, episode).trim();
+      if (refsBlock) lines.push(refsBlock, '');
+    }
+  }
+
+  if (read.source_notes?.length) {
+    lines.push('## Source Notes', '');
+    for (const note of read.source_notes) {
+      const noteText = typeof note === 'string' ? note : note.text;
+      if (!noteText) continue;
+      lines.push(`- ${markdownText(noteText)}${renderRefsBlock(note.refs, episode)}`, '');
+    }
+  }
+
+  lines.push(
+    '## Retrieval Notes',
+    '',
+    'This Markdown file is the compressed public reading. It intentionally does not contain the full transcript.',
+    '',
+    `For exact wording, timestamps, timed chunks, transcript segment IDs, and source refs, fetch ${markdownLink(episodeDataPath(episode.slug), dataUrl)}.`,
+    '',
+  );
+
+  return `${lines.join('\n').replace(/\n{3,}/g, '\n\n').trim()}\n`;
+}
+
+function renderEpisodeIndexMarkdown(index) {
+  const lines = [
+    '---',
+    'title: "Jiang Lens Episode Index"',
+    'description: "Agent-readable Markdown catalog of Jiang Lens episode readings."',
+    `generated_at: ${yamlString(index.generated_at || '')}`,
+    '---',
+    '',
+    '# Jiang Lens Episode Index',
+    '',
+    'This is the agent-readable catalog of public episode readings. Use each episode Markdown file for the compressed reading and each episode JSON file for exact transcript segments, timestamps, source refs, and video links.',
+    '',
+    `Episodes indexed: ${index.episodes?.length ?? 0}`,
+    '',
+    '## Episodes',
+    '',
+  ];
+
+  for (const episode of index.episodes ?? []) {
+    const episodeMd = publicPath(episode.markdown_path || episodeMarkdownPath(episode.slug));
+    const episodePage = publicPath(episode.path || `/episodes/${episode.slug}/`);
+    const transcriptPage = publicPath(episode.transcript_path || `/episodes/${episode.slug}/transcript/`);
+    const dataUrl = publicPath(episode.data_url || episodeDataPath(episode.slug));
+
+    lines.push(
+      `### ${episode.title}`,
+      '',
+      `- Date: ${episode.date_label || episode.published_at || 'unknown'}`,
+      `- Source: ${episode.source_url ? markdownLink(episode.source_title || episode.title, episode.source_url) : (episode.source_title || episode.title)}`,
+      `- Episode Markdown: ${markdownLink(episodeMarkdownPath(episode.slug), episodeMd)}`,
+      `- Human page: ${markdownLink(episode.path || `/episodes/${episode.slug}/`, episodePage)}`,
+      `- Transcript page: ${markdownLink(episode.transcript_path || `/episodes/${episode.slug}/transcript/`, transcriptPage)}`,
+      `- Episode JSON: ${markdownLink(episode.data_url || episodeDataPath(episode.slug), dataUrl)}`,
+    );
+
+    if (episode.dek) lines.push(`- Summary: ${episode.dek}`);
+    lines.push('');
+  }
+
+  return `${lines.join('\n').trim()}\n`;
+}
+
+async function generateEpisodeMarkdown() {
+  const indexPath = path.join(episodeDataRoot, 'index.json');
+  if (!existsSync(indexPath)) return null;
+
+  await mkdir(episodeMarkdownOutRoot, { recursive: true });
+  const index = JSON.parse(await readFile(indexPath, 'utf8'));
+  const episodeIndexMarkdown = renderEpisodeIndexMarkdown(index);
+  await writeFile(path.join(episodeMarkdownOutRoot, 'index.md'), episodeIndexMarkdown);
+
+  for (const episodeSummary of index.episodes ?? []) {
+    const episodePath = path.join(episodeDataRoot, `${episodeSummary.slug}.json`);
+    if (!existsSync(episodePath)) continue;
+    const episode = JSON.parse(await readFile(episodePath, 'utf8'));
+    await writeFile(path.join(episodeMarkdownOutRoot, `${episode.slug}.md`), renderEpisodeMarkdown(episode));
+  }
+
+  return {
+    count: index.episodes?.length ?? 0,
+    markdown: episodeIndexMarkdown,
+  };
+}
+
 async function copyDocs(files) {
   for (const filePath of files) {
     const slug = docSlug(filePath);
     if (!slug) continue;
 
     const outPath = path.join(docsOutRoot, `${slug}.md`);
+    const content = await readFile(filePath, 'utf8');
     await mkdir(path.dirname(outPath), { recursive: true });
-    await copyFile(filePath, outPath);
+    await writeFile(outPath, transformPublicMarkdown(content, { mode: 'doc' }));
   }
 }
 
@@ -97,6 +345,115 @@ async function copyTree(inputRoot, outputRoot) {
   }
 }
 
+let cachedSourceRefIndex = null;
+
+function sourceRefIndex() {
+  if (cachedSourceRefIndex) return cachedSourceRefIndex;
+  const input = path.join(dataRoot, 'link-index.json');
+  if (!existsSync(input)) {
+    cachedSourceRefIndex = new Map();
+    return cachedSourceRefIndex;
+  }
+  const parsed = JSON.parse(readFileSync(input, 'utf8'));
+  cachedSourceRefIndex = new Map((parsed.source_refs ?? []).map((detail) => [detail.ref, detail]));
+  return cachedSourceRefIndex;
+}
+
+function internalMarkdownHref(href) {
+  if (!href || /^https?:\/\//.test(href) || href.startsWith('#') || href.startsWith('mailto:')) return href;
+  if (!href.startsWith('/')) return href;
+
+  const [pathname, suffix = ''] = href.split(/(?=[?#])/);
+  if (pathname === '/episodes/') return urlFor('/episodes/index.md') + suffix;
+
+  const episodeMatch = pathname.match(/^\/episodes\/([^/]+)\/$/);
+  if (episodeMatch) return urlFor(`/episodes/${episodeMatch[1]}.md`) + suffix;
+
+  if (pathname.startsWith('/episodes/') || pathname.startsWith('/data/')) {
+    return urlFor(pathname) + suffix;
+  }
+
+  const normalized = pathname === '/' ? '/' : pathname.replace(/\/+$/, '');
+  if (normalized === '/lens') return urlFor('/docs/lens.md') + suffix;
+
+  if (normalized.startsWith('/lens/')) {
+    return urlFor(`/docs${normalized}.md`) + suffix;
+  }
+
+  const docsSlugs = new Set([
+    'introduction',
+    'is-professor-jiang-legit',
+    'professor-jiang-predictions',
+    'professor-jiang-transcripts',
+    'use-with-your-agent',
+    'what-is-predictive-history',
+    'who-is-jiang-xueqin',
+  ]);
+  const slug = normalized.slice(1);
+  if (docsSlugs.has(slug)) return urlFor(`/docs/${slug}.md`) + suffix;
+
+  return urlFor(pathname) + suffix;
+}
+
+function evidenceForRefs(refs) {
+  const refIndex = sourceRefIndex();
+  const refsList = [...new Set(splitRefs(refs))];
+  if (!refsList.length) return '';
+
+  return refsList.map((ref) => {
+    const detail = refIndex.get(ref);
+    if (!detail?.valid) return `\`${ref}\``;
+
+    const transcriptUrl = publicPath(detail.transcript_url);
+    const videoUrl = detail.video_url || '';
+    const label = [detail.time_label, detail.segment_id].filter(Boolean).join(' ');
+    return `${markdownLink(label || ref, transcriptUrl)}${videoUrl ? ` (${markdownLink('video', videoUrl)})` : ''} \`${ref}\``;
+  }).join('; ');
+}
+
+function splitRefs(value) {
+  return String(value ?? '')
+    .split(/[,\s]+/)
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
+
+function transformEvidenceMarks(content) {
+  return content.replace(/\[([^\]\n]+)\]\{evidence=(?:"|“)([^"”]+)(?:"|”)\}/g, (_match, label, refs) => {
+    const firstDetail = sourceRefIndex().get(splitRefs(refs)[0]);
+    const labelHref = firstDetail?.transcript_url ? publicPath(firstDetail.transcript_url) : '';
+    const evidence = evidenceForRefs(refs);
+    const linkedLabel = labelHref ? markdownLink(label, labelHref) : label;
+    return evidence ? `${linkedLabel} {source: ${evidence}}` : linkedLabel;
+  });
+}
+
+function transformLensPointComments(content) {
+  return content.replace(/<!--\s*lens-point\s+([^>]*?)\s*-->/g, (_match, rawAttrs) => {
+    const attrs = parseAttrs(rawAttrs);
+    const id = attrs.id ? `lens-point:${attrs.id}` : '';
+    const concept = attrs.concept ? ` concept: \`${attrs.concept}\`` : '';
+    const title = attrs.title ? ` title: ${attrs.title}` : '';
+    const evidence = evidenceForRefs(attrs.evidence);
+    const evidenceText = evidence ? ` Evidence: ${evidence}` : '';
+    return `> Lens point: \`${id}\`${concept}${title}.${evidenceText}`;
+  });
+}
+
+function transformMarkdownLinks(content) {
+  return content.replace(/\[([^\]\n]+)\]\((\/[^)\s]+)\)/g, (_match, label, href) => {
+    return markdownLink(label, internalMarkdownHref(href));
+  });
+}
+
+function transformPublicMarkdown(content) {
+  return [
+    transformMarkdownLinks,
+    transformEvidenceMarks,
+    transformLensPointComments,
+  ].reduce((current, transform) => transform(current), content);
+}
+
 async function main() {
   if (!existsSync(distRoot)) {
     throw new Error('Missing website/dist. Run astro build before generating llms files.');
@@ -105,6 +462,7 @@ async function main() {
   const files = (await walk(docsRoot)).sort();
   await copyDocs(files);
   await copyData();
+  const episodeMarkdown = await generateEpisodeMarkdown();
 
   const indexLines = [
     `# ${siteConfig.name}`,
@@ -119,6 +477,8 @@ async function main() {
     '',
     `- [Jiang Lens skill](${urlFor(siteConfig.paths.skill)})`,
     `- [Episodes](${urlFor(siteConfig.paths.episodes)})`,
+    `- [Episode Markdown index](${urlFor(siteConfig.paths.episodeIndexMarkdown)})`,
+    `- [Episode JSON index](${urlFor(siteConfig.paths.episodeIndexJson)})`,
     `- [Full compact docs](${urlFor(siteConfig.paths.llmsFull)})`,
     `- [Generated manifest JSON](${urlFor(siteConfig.paths.manifestJson)})`,
     `- [Generated link index JSON](${urlFor(siteConfig.paths.linkIndexJson)})`,
@@ -138,13 +498,14 @@ async function main() {
 
   for (const filePath of files) {
     const content = await readFile(filePath, 'utf8');
+    const publicContent = transformPublicMarkdown(content);
     const metadata = extractFrontmatter(content);
     const slug = docSlug(filePath);
     if (!slug) continue;
 
     const title = metadata.title || slug;
     indexLines.push(`- [${title}](${urlFor(`/docs/${slug}.md`)})`);
-    fullLines.push('---', '', `# ${title}`, '', withoutFrontmatter(content), '');
+    fullLines.push('---', '', `# ${title}`, '', withoutFrontmatter(publicContent), '');
   }
 
   if (existsSync(publicSkillPath)) {
@@ -152,12 +513,19 @@ async function main() {
     fullLines.push('---', '', '# Jiang Lens Skill', '', withoutFrontmatter(skill), '');
   }
 
-  for (const fileName of ['manifest.json', 'link-index.json']) {
-    const input = path.join(dataRoot, fileName);
+  if (episodeMarkdown?.markdown) {
+    fullLines.push('---', '', '# Generated Episode Markdown Index', '', withoutFrontmatter(episodeMarkdown.markdown), '');
+  }
+
+  for (const [title, input] of [
+    ['manifest.json', path.join(dataRoot, 'manifest.json')],
+    ['link-index.json', path.join(dataRoot, 'link-index.json')],
+    ['episodes/index.json', path.join(episodeDataRoot, 'index.json')],
+  ]) {
     if (!existsSync(input)) continue;
 
     const json = await readFile(input, 'utf8');
-    fullLines.push('---', '', `# Generated ${fileName}`, '', '```json', json.trim(), '```', '');
+    fullLines.push('---', '', `# Generated ${title}`, '', '```json', json.trim(), '```', '');
   }
 
   indexLines.push(
@@ -175,7 +543,7 @@ async function main() {
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));
 
-  console.log(`Generated llms.txt, llms-full.txt, ${files.length} raw docs, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode Markdown files, and public lens JSON.`);
 }
 
 main().catch((error) => {

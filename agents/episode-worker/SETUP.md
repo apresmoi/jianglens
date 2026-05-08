@@ -34,10 +34,10 @@ Configure `git` and `gh` inside the worker environment:
 configure-agent-github
 ```
 
-The Docker image does this automatically before starting the worker.
+Run it at the start of a wake before branch or PR work.
 
-The worker runtime starts in a Picoclaw wrapper workspace. The repository is
-cloned or updated at `jiang-lens/` inside that workspace before the agent starts.
+The worker runtime starts in a Picoclaw workspace. The repository is cloned or
+updated at `jiang-lens/` inside that workspace before the agent starts.
 Run repo commands from there:
 
 ```bash
@@ -134,9 +134,14 @@ teammates: what you are checking, what blocked, what PR or validation result
 matters, and what you will do next. Avoid third-person self-references and rigid
 workflow labels unless a label makes the update clearer.
 
-The worker launcher exports `MOLTNET_CLIENT_CONFIG`, so these commands should
-work from inside `jiang-lens/` without path flags. If the client config is not
-found, report a runtime blocker instead of working silently.
+If `MOLTNET_CLIENT_CONFIG` is not already set after entering `jiang-lens/`,
+export the Picoclaw workspace client config before using Moltnet:
+
+```bash
+export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/.moltnet/config.json
+```
+
+If the client config is not found, report a runtime blocker instead of working silently.
 
 On restart, treat recent room history as ordered instructions, not as a backlog
 of tasks to replay. The newest maintainer instruction wins over older source
@@ -203,16 +208,14 @@ For runs that take more than a few minutes, post concise `episode-floor` progres
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.
 
-The Docker stack runs episode work through the direct worker loop in
-`ops/scripts/episode-worker-entrypoint.sh`. That launcher is a small supervisor:
-it starts the durable episode-worker identity, writes process heartbeat state,
-recovers stale leases after crashes, and resumes the same checkout/state on the
-next wake. The Moltnet room attachment is configured with `reply: never`
-because Moltnet auto-reply is a short chat path and can terminate long episode
-jobs. Treat Moltnet as the coordination surface, not as the long-running job
-supervisor. This does not mean silence: read the room at startup and stage
-boundaries, answer fresh direct mentions, and post claims, questions, blockers,
-PRs, and handoffs with the Moltnet CLI.
+The Docker stack runs episode work through Picoclaw's native cron service. The
+local launcher seeds one primary recurring agent-turn job, then the worker may
+adjust that schedule through Picoclaw cron. The Moltnet room attachment is configured
+with `reply: never` because Moltnet auto-reply is a short chat path and can
+terminate long episode jobs. Treat Moltnet as the coordination surface, not as
+the job supervisor. This does not mean silence: read the room at startup and
+stage boundaries, answer fresh direct mentions, and post claims, questions,
+blockers, PRs, and handoffs with the Moltnet CLI.
 
 ## Validate
 

@@ -538,7 +538,14 @@ function groupedGlossaryTerms(terms, segmentByRef) {
     .sort((a, b) => a.term.localeCompare(b.term));
 }
 
-function tagSegments(segments, interactions) {
+function timestampedUrl(sourceUrl, start) {
+  if (!sourceUrl) return null;
+  return Number.isFinite(Number(start))
+    ? `${sourceUrl}${sourceUrl.includes('?') ? '&' : '?'}t=${Math.floor(Number(start))}s`
+    : sourceUrl;
+}
+
+function tagSegments(segments, interactions, { slug, sourceUrl } = {}) {
   const tagsBySegment = new Map();
   for (const interaction of interactions) {
     for (const ref of interaction.refs ?? []) {
@@ -552,6 +559,9 @@ function tagSegments(segments, interactions) {
 
   return segments.map((segment) => ({
     ...segment,
+    episode_url: slug ? `/episodes/${slug}/` : null,
+    transcript_url: slug ? `/episodes/${slug}/transcript/#${segment.id}` : null,
+    video_url: timestampedUrl(sourceUrl, segment.start),
     time_label: formatDuration(segment.start),
     tags: [...(tagsBySegment.get(segment.id) ?? [])],
   }));
@@ -571,6 +581,7 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
   const glossaryTerms = groupedGlossaryTerms(aggregate.glossary_terms ?? [], segmentByRef);
   const chronologyNotes = annotateRefs(aggregate.chronology_notes ?? [], segmentByRef);
   const uncertaintyNotes = annotateRefs(aggregate.uncertainty_notes ?? [], segmentByRef);
+  const sourceUrl = source.source_url || aggregate.source_url;
   const read = await readEpisodeRead(aggregate.source_slug, segmentByRef, lensPointById);
 
   const predictions = claims.filter((claim) => claim.claim_type === 'prediction');
@@ -585,7 +596,7 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
     slug: aggregate.source_slug,
     id: aggregate.source_id,
     title: source.title || aggregate.source_title,
-    source_url: source.source_url || aggregate.source_url,
+    source_url: sourceUrl,
     video_id: source.video_id,
     embed_url: source.video_id ? `https://www.youtube-nocookie.com/embed/${source.video_id}` : null,
     published_at: source.published_at || null,
@@ -611,7 +622,10 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
       read: read ? path.relative(repoRoot, path.join(episodeReadsRoot, aggregate.source_slug, 'read.json')) : null,
     },
     read,
-    transcript: tagSegments(transcriptSegments, aggregate.interactions ?? []),
+    transcript: tagSegments(transcriptSegments, aggregate.interactions ?? [], {
+      slug: aggregate.source_slug,
+      sourceUrl,
+    }),
     interactions,
     speaker_notes: speakerNotes,
     claims,
@@ -649,6 +663,9 @@ async function writeEpisodeData(lensPointById = new Map()) {
       read_time: episode.read?.read_time || null,
       counts: episode.counts,
       path: `/episodes/${episode.slug}/`,
+      transcript_path: `/episodes/${episode.slug}/transcript/`,
+      markdown_path: `/episodes/${episode.slug}.md`,
+      data_url: `/data/lens/episodes/${episode.slug}.json`,
       data_path: `website/src/data/lens/episodes/${episode.slug}.json`,
     });
   }
@@ -720,9 +737,7 @@ function refDetailFromEpisodes(ref, episodeBySlug) {
     episode_title: episode.read?.title || episode.title,
     episode_url: `/episodes/${episode.slug}/`,
     transcript_url: `/episodes/${episode.slug}/transcript/#${segment.id}`,
-    video_url: episode.source_url && Number.isFinite(Number(segment.start))
-      ? `${episode.source_url}${episode.source_url.includes('?') ? '&' : '?'}t=${Math.floor(Number(segment.start))}s`
-      : episode.source_url,
+    video_url: segment.video_url || timestampedUrl(episode.source_url, segment.start),
     published_at: episode.published_at,
     date_label: episode.date_label,
     time_label: segment.time_label || formatDuration(segment.start),

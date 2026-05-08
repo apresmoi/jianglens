@@ -76,8 +76,11 @@ async function main() {
     failures.push('dist/robots.txt: missing');
   } else {
     const robots = await readFile(robotsPath, 'utf8');
-    if (!robots.includes('Sitemap: https://jianglens.com/sitemap-index.xml')) {
-      failures.push('dist/robots.txt: missing production sitemap URL');
+    if (!robots.includes('Sitemap: https://jianglens.com/sitemap-0.xml')) {
+      failures.push('dist/robots.txt: missing production sitemap-0 URL');
+    }
+    if (robots.includes('Sitemap: https://jianglens.com/sitemap-index.xml')) {
+      failures.push('dist/robots.txt: still links sitemap-index.xml');
     }
     for (const expected of [
       'LLMs: https://jianglens.com/llms.txt',
@@ -119,6 +122,67 @@ async function main() {
     'episodes/index.html',
     'introduction/index.html',
   ];
+  const requiredAgentFiles = [
+    'episodes/index.md',
+    'episodes/predictive-history-6m1z-v3wgok.md',
+    'data/lens/episodes/index.json',
+    'data/lens/episodes/predictive-history-6m1z-v3wgok.json',
+  ];
+  for (const relPath of requiredAgentFiles) {
+    if (!existsSync(path.join(distRoot, relPath))) {
+      failures.push(`dist/${relPath}: missing agent-facing episode artifact`);
+    }
+  }
+
+  const sampleEpisodeJsonPath = path.join(distRoot, 'data/lens/episodes/predictive-history-6m1z-v3wgok.json');
+  if (existsSync(sampleEpisodeJsonPath)) {
+    const sampleEpisodeJson = await readFile(sampleEpisodeJsonPath, 'utf8');
+    for (const expected of [
+      '"/episodes/predictive-history-6m1z-v3wgok/transcript/#seg-0005"',
+      '"https://www.youtube.com/watch?v=6M1Z_V3WgOk&t=360s"',
+    ]) {
+      if (!sampleEpisodeJson.includes(expected)) {
+        failures.push(`dist/data/lens/episodes/predictive-history-6m1z-v3wgok.json: missing ${expected}`);
+      }
+    }
+  }
+
+  const sampleEpisodeIndexJsonPath = path.join(distRoot, 'data/lens/episodes/index.json');
+  if (existsSync(sampleEpisodeIndexJsonPath)) {
+    const sampleEpisodeIndexJson = await readFile(sampleEpisodeIndexJsonPath, 'utf8');
+    if (!sampleEpisodeIndexJson.includes('"/episodes/predictive-history-6m1z-v3wgok.md"')) {
+      failures.push('dist/data/lens/episodes/index.json: missing episode Markdown path');
+    }
+  }
+
+  const sampleEpisodeMarkdownPath = path.join(distRoot, 'episodes/predictive-history-6m1z-v3wgok.md');
+  if (existsSync(sampleEpisodeMarkdownPath)) {
+    const sampleEpisodeMarkdown = await readFile(sampleEpisodeMarkdownPath, 'utf8');
+    for (const expected of [
+      'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/',
+      'https://jianglens.com/data/lens/episodes/predictive-history-6m1z-v3wgok.json',
+      'video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005',
+    ]) {
+      if (!sampleEpisodeMarkdown.includes(expected)) {
+        failures.push(`dist/episodes/predictive-history-6m1z-v3wgok.md: missing ${expected}`);
+      }
+    }
+  }
+
+  const sampleLensMarkdownPath = path.join(distRoot, 'docs/lens/nation-as-god-machine.md');
+  if (existsSync(sampleLensMarkdownPath)) {
+    const sampleLensMarkdown = await readFile(sampleLensMarkdownPath, 'utf8');
+    for (const expected of [
+      'https://jianglens.com/docs/lens/power-as-alchemy.md',
+      'https://jianglens.com/episodes/predictive-history-tquo1usc5nw/transcript/#seg-0010',
+      'lens-point:nation-god-machine-absorbs-ideologies',
+    ]) {
+      if (!sampleLensMarkdown.includes(expected)) {
+        failures.push(`dist/docs/lens/nation-as-god-machine.md: missing ${expected}`);
+      }
+    }
+  }
+
   const requiredIconFiles = [
     'logo.png',
     'social-card.png',

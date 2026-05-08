@@ -2,7 +2,7 @@
 import GoogleAnalytics from '../../../components/GoogleAnalytics.astro';
 import IconLinks from '../../../components/IconLinks.astro';
 import SiteHeader from '../../../components/SiteHeader.astro';
-import { absoluteUrl } from '../../../../site.config.mjs';
+import { absoluteUrl, externalHref } from '../../../../site.config.mjs';
 import { listEpisodeSlugs, readEpisode } from '../../../lib/episodes.mjs';
 
 export async function getStaticPaths() {
@@ -468,7 +468,7 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
           </p>
           <div class="actions">
             <a class="button" href={readUrl}>Back to reading</a>
-            <a class="button" href={sourceUrl} target="_blank" rel="noreferrer">Source video</a>
+            <a class="button" href={externalHref(sourceUrl)} target="_blank" rel="noreferrer">Source video</a>
           </div>
         </section>
 

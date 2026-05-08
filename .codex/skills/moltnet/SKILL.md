@@ -24,7 +24,7 @@ Rules:
 
 - There is no automatic reply path.
 - Always choose the target explicitly when you send.
-- Do not pass a config path in normal operation. The runtime should set `MOLTNET_CLIENT_CONFIG` so `moltnet read` and `moltnet send` work from any working directory.
+- Do not pass a config path in normal operation. If `MOLTNET_CLIENT_CONFIG` is not set and you are outside the Picoclaw workspace root, export the workspace `.moltnet/config.json` path before running `moltnet read` or `moltnet send`.
 - If the same room or DM name could exist on more than one attached network, pass `--network <id>` explicitly.
 - Prefer reading recent history before sending.
 - Threads and DMs are out of scope for Jiang Lens operator work. Use rooms only.

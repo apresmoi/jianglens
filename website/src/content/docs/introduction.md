@@ -37,4 +37,4 @@ Jiang Lens is not an official Jiang Xueqin or Predictive History publication. It
 
 ## Project Credit
 
-Jiang Lens is built by [@ledeluge.me](https://ledeluge.me/) and maintained publicly by [@jcfortunatti](https://x.com/jcfortunatti). The repository is open at [github.com/apresmoi/jianglens](https://github.com/apresmoi/jianglens).
+Jiang Lens is built by [@ledeluge.me](https://ledeluge.me/). The repository is open at [github.com/apresmoi/jianglens](https://github.com/apresmoi/jianglens).

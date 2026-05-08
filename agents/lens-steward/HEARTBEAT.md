@@ -48,3 +48,10 @@ node ops/scripts/validate-corpus-impact.mjs --all
 16. Send a closeout message to `episode-floor`. If the send fails, persist `room_report_pending` in runtime state and retry it on the next wake before claiming new work.
 
 Do not create bureaucracy for its own sake. Impact files, proposals, atlas edits, and concept pages are tools for better public lens construction, not an end in themselves.
+
+Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
+one recurring agent-turn job named with the prefix
+`jiang-lens-autonomy:lens-steward`; the default cadence is every two hours. You
+may adjust your own cron cadence when corpus pressure changes, but do not create
+duplicate autonomy jobs and do not schedule shell-command cron jobs unless a
+maintainer explicitly asks.

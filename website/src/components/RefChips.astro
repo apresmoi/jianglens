@@ -1,10 +1,12 @@
 ---
+import { externalHref } from '../../site.config.mjs';
+
 const { refs = [], sourceUrl = '', transcriptUrl = '', player = false } = Astro.props;
 
 function videoUrl(ref) {
   if (!sourceUrl || !Number.isFinite(Number(ref.start))) return null;
   const separator = sourceUrl.includes('?') ? '&' : '?';
-  return `${sourceUrl}${separator}t=${Math.floor(Number(ref.start))}s`;
+  return externalHref(`${sourceUrl}${separator}t=${Math.floor(Number(ref.start))}s`);
 }
 
 function transcriptSpanUrl(ref) {

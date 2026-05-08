@@ -106,9 +106,22 @@ const current = pathname.includes('/use-with-your-agent/')
   }
 
   function youtubeAt(sourceUrl, start) {
-    if (!sourceUrl || !Number.isFinite(Number(start))) return sourceUrl || '#';
+    if (!sourceUrl || !Number.isFinite(Number(start))) return externalHref(sourceUrl || '#');
     const separator = sourceUrl.includes('?') ? '&' : '?';
-    return `${sourceUrl}${separator}t=${Math.floor(Number(start))}s`;
+    return externalHref(`${sourceUrl}${separator}t=${Math.floor(Number(start))}s`);
+  }
+
+  function externalHref(href) {
+    if (!href) return href;
+    try {
+      const url = new URL(href);
+      if (!['http:', 'https:'].includes(url.protocol)) return href;
+      if (url.hostname === 'jianglens.com' || url.hostname === window.location.hostname) return href;
+      if (!url.searchParams.has('ref')) url.searchParams.set('ref', 'jianglens.com');
+      return url.toString();
+    } catch {
+      return href;
+    }
   }
 
   function appendAction(parent, href, label, external = false) {
@@ -202,6 +215,8 @@ const current = pathname.includes('/use-with-your-agent/')
     if (firstHref && mark instanceof HTMLAnchorElement) {
       mark.href = firstHref;
     }
+
+    if (wrap.classList.contains('is-open')) positionEvidence(wrap);
   }
 
   function evidenceNode(text, refs) {
@@ -225,8 +240,17 @@ const current = pathname.includes('/use-with-your-agent/')
     popover.append(loading);
     wrap.append(popover);
 
+    wrap.dataset.evidenceHydrated = 'true';
     populateEvidence(wrap, refs);
     return wrap;
+  }
+
+  function hydrateEvidence(root) {
+    root.querySelectorAll('.doc-evidence-wrap[data-evidence-refs]').forEach((wrap) => {
+      if (wrap.dataset.evidenceHydrated === 'true') return;
+      wrap.dataset.evidenceHydrated = 'true';
+      populateEvidence(wrap, wrap.dataset.evidenceRefs);
+    });
   }
 
   function replaceEvidenceSyntax(root) {
@@ -269,8 +293,98 @@ const current = pathname.includes('/use-with-your-agent/')
 
   function bootEvidence() {
     const content = document.querySelector('.sl-markdown-content');
-    if (content) replaceEvidenceSyntax(content);
+    if (content?.textContent?.includes(']{evidence=')) replaceEvidenceSyntax(content);
+    if (content) hydrateEvidence(content);
+    setupEvidenceHover();
   }
+
+  const evidenceCloseTimers = new WeakMap();
+
+  function positionEvidence(wrap) {
+    const mark = wrap.querySelector('.doc-evidence-mark');
+    const popover = wrap.querySelector('.doc-evidence-popover');
+    if (!(mark instanceof HTMLElement) || !(popover instanceof HTMLElement)) return;
+
+    const markRect = mark.getBoundingClientRect();
+    const popoverWidth = Math.min(380, Math.max(240, window.innerWidth - 32));
+    const measuredHeight = popover.offsetHeight || 160;
+    const left = Math.min(
+      Math.max(16, markRect.left),
+      Math.max(16, window.innerWidth - popoverWidth - 16)
+    );
+    const belowTop = markRect.bottom + 8;
+    const aboveTop = markRect.top - measuredHeight - 8;
+    const top =
+      belowTop + measuredHeight > window.innerHeight - 12 && aboveTop >= 12
+        ? aboveTop
+        : Math.min(belowTop, Math.max(12, window.innerHeight - measuredHeight - 12));
+
+    popover.style.setProperty('--evidence-popover-left', `${Math.round(left)}px`);
+    popover.style.setProperty('--evidence-popover-top', `${Math.round(Math.max(12, top))}px`);
+  }
+
+  function closeEvidence(wrap) {
+    const timer = evidenceCloseTimers.get(wrap);
+    if (timer) window.clearTimeout(timer);
+    evidenceCloseTimers.delete(wrap);
+    wrap.classList.remove('is-open');
+  }
+
+  function openEvidence(wrap) {
+    const timer = evidenceCloseTimers.get(wrap);
+    if (timer) window.clearTimeout(timer);
+    evidenceCloseTimers.delete(wrap);
+    document.querySelectorAll('.doc-evidence-wrap.is-open').forEach((other) => {
+      if (other !== wrap) closeEvidence(other);
+    });
+    positionEvidence(wrap);
+    wrap.classList.add('is-open');
+  }
+
+  function scheduleEvidenceClose(wrap) {
+    const timer = evidenceCloseTimers.get(wrap);
+    if (timer) window.clearTimeout(timer);
+    evidenceCloseTimers.set(
+      wrap,
+      window.setTimeout(() => {
+        closeEvidence(wrap);
+      }, 180)
+    );
+  }
+
+  function setupEvidenceHover() {
+    document.querySelectorAll('.doc-evidence-wrap').forEach((wrap) => {
+      if (wrap.dataset.hoverReady === 'true') return;
+      wrap.dataset.hoverReady = 'true';
+
+      const mark = wrap.querySelector('.doc-evidence-mark');
+      const popover = wrap.querySelector('.doc-evidence-popover');
+
+      [mark, popover].forEach((element) => {
+        if (!element) return;
+        element.addEventListener('pointerenter', () => openEvidence(wrap));
+        element.addEventListener('pointerleave', () => scheduleEvidenceClose(wrap));
+      });
+
+      wrap.addEventListener('focusin', () => openEvidence(wrap));
+      wrap.addEventListener('focusout', (event) => {
+        if (event.relatedTarget instanceof Node && wrap.contains(event.relatedTarget)) return;
+        scheduleEvidenceClose(wrap);
+      });
+    });
+  }
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape') return;
+    document.querySelectorAll('.doc-evidence-wrap.is-open').forEach(closeEvidence);
+  });
+
+  function repositionOpenEvidence() {
+    document.querySelectorAll('.doc-evidence-wrap.is-open').forEach(positionEvidence);
+  }
+
+  window.addEventListener('resize', repositionOpenEvidence, { passive: true });
+  window.addEventListener('scroll', repositionOpenEvidence, { passive: true });
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', bootEvidence, { once: true });
@@ -278,39 +392,3 @@ const current = pathname.includes('/use-with-your-agent/')
     bootEvidence();
   }
 </script>
-
-<style is:global>
-  header.header {
-    position: sticky !important;
-    top: 0 !important;
-    z-index: 80 !important;
-    height: 64px !important;
-    border-bottom: 0 !important;
-    padding: 0 !important;
-    background: transparent !important;
-  }
-
-  header.header > .site-header {
-    position: relative !important;
-    top: auto !important;
-    height: 64px;
-  }
-
-  @media (max-width: 720px) {
-    :root {
-      --sl-nav-height: 64px;
-    }
-
-    header.header {
-      height: var(--sl-nav-height) !important;
-    }
-
-    header.header > .site-header {
-      height: var(--sl-nav-height);
-    }
-
-    starlight-menu-button button {
-      top: 13px !important;
-    }
-  }
-</style>

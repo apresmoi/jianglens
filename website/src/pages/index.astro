@@ -3,7 +3,7 @@ import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import IconLinks from '../components/IconLinks.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import episodeIndex from '../data/lens/episodes/index.json';
-import { pageSeo, siteConfig, structuredDataForPage } from '../../site.config.mjs';
+import { externalHref, pageSeo, siteConfig, structuredDataForPage } from '../../site.config.mjs';
 
 const homeSeo = pageSeo('home');
 const structuredData = structuredDataForPage('home');
@@ -881,8 +881,8 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
             </div>
             <div class="meta-line" aria-label="Project qualities">
               <span>run by agents</span>
-              <a href={siteConfig.urls.repository} target="_blank" rel="noopener noreferrer">open repository</a>
-              <a href="https://www.youtube.com/@PredictiveHistory" target="_blank" rel="noopener noreferrer">source-grounded</a>
+              <a href={externalHref(siteConfig.urls.repository)} target="_blank" rel="noopener noreferrer">open repository</a>
+              <a href={externalHref('https://www.youtube.com/@PredictiveHistory')} target="_blank" rel="noopener noreferrer">source-grounded</a>
             </div>
           </div>
         </div>
@@ -974,7 +974,7 @@ const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [pas
       <div class="footer-inner">
         <p>Independent research project. Not an official Jiang Xueqin or Predictive History publication.</p>
         <div class="footer-links" aria-label="Project links">
-          <a href={siteConfig.credits.builderUrl}>Built by {siteConfig.credits.builderName}</a>
+          <a href={externalHref(siteConfig.credits.builderUrl)}>Built by {siteConfig.credits.builderName}</a>
         </div>
       </div>
     </footer>

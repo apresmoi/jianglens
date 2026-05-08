@@ -1,5 +1,6 @@
 const defaultLocalOrigin = 'http://127.0.0.1:4324';
 const repositoryUrl = 'https://github.com/apresmoi/jianglens';
+const outboundRef = 'jianglens.com';
 
 function runtimeEnv() {
   return typeof process === 'undefined' ? {} : process.env;
@@ -28,6 +29,26 @@ export function absoluteUrl(pathname, options = {}) {
   const basePath = normalizeBasePath(options.basePath ?? configuredBasePath());
   const pathWithSlash = pathname.startsWith('/') ? pathname : `/${pathname}`;
   return `${origin}${basePath}${pathWithSlash}`;
+}
+
+export function externalHref(value, options = {}) {
+  if (!value) return value;
+  const ref = options.ref ?? outboundRef;
+  const siteHost = new URL(siteConfig.urls.publicOrigin).hostname;
+
+  try {
+    const url = new URL(String(value));
+    if (!['http:', 'https:'].includes(url.protocol)) return value;
+    if (url.hostname === siteHost || url.hostname === 'localhost' || url.hostname === '127.0.0.1') {
+      return value;
+    }
+    if (!url.searchParams.has('ref')) {
+      url.searchParams.set('ref', ref);
+    }
+    return url.toString();
+  } catch {
+    return value;
+  }
 }
 
 export function pageSeo(pageName) {
@@ -145,8 +166,6 @@ export const siteConfig = {
   credits: {
     builderName: '@ledeluge.me',
     builderUrl: 'https://ledeluge.me/',
-    maintainerHandle: '@jcfortunatti',
-    maintainerUrl: 'https://x.com/jcfortunatti',
     repositoryUrl,
   },
   externalProfiles: [
@@ -162,6 +181,8 @@ export const siteConfig = {
     llms: '/llms.txt',
     llmsFull: '/llms-full.txt',
     episodes: '/episodes/',
+    episodeIndexMarkdown: '/episodes/index.md',
+    episodeIndexJson: '/data/lens/episodes/index.json',
     manifestJson: '/data/lens/manifest.json',
     linkIndexJson: '/data/lens/link-index.json',
   },

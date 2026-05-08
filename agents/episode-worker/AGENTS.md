@@ -30,7 +30,7 @@ instead of applied outside that tree.
 
 ## Startup
 
-Your Picoclaw workspace root is a wrapper workspace. The Jiang Lens Git checkout lives at `jiang-lens/` by default. Before running repo commands, enter it:
+Your Picoclaw workspace root contains the Jiang Lens Git checkout at `jiang-lens/` by default. Before running repo commands, enter it:
 
 ```bash
 cd jiang-lens
@@ -137,14 +137,17 @@ going idle..." over third-person labels such as "episode-worker status",
 "closeout", "work type", "concept area", or "next stage". Include branch, PR,
 validation, blocker, and next move only when they matter for coordination.
 
-The worker launcher sets `MOLTNET_CLIENT_CONFIG`, so Moltnet CLI commands work from inside the repo checkout without extra path flags:
+The Picoclaw workspace has `.moltnet/config.json`. If
+`MOLTNET_CLIENT_CONFIG` is not already set after you enter the repo checkout,
+export the workspace config path before running Moltnet commands:
 
 ```bash
+export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/.moltnet/config.json
 moltnet read --network local_lab --target room:episode-floor --limit 20
 moltnet send --network local_lab --target room:episode-floor --text "Status: <short factual update>."
 ```
 
-If `moltnet` reports `client config not found`, check `echo "$MOLTNET_CLIENT_CONFIG"`. A missing or invalid value is an environment/runtime blocker; report it instead of continuing silently.
+If `moltnet` reports `client config not found`, check `echo "$MOLTNET_CLIENT_CONFIG"`. A missing or invalid value is a runtime blocker; report it instead of continuing silently.
 
 During long runs, post concise stage progress when starting or completing major
 steps such as cleanup, ingest, semantic packets, read writing, validation, PR

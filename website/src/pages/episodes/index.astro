@@ -24,6 +24,20 @@ function thumbnailUrl(episode) {
   const videoId = youtubeVideoId(episode);
   return videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : '';
 }
+
+function episodeSearchText(episode) {
+  return [
+    episode.title,
+    episode.dek,
+    episode.source_title,
+    cleanDate(episode),
+    episode.counts?.duration_label,
+    episode.read_time,
+  ]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+}
 ---
 
 <html lang="en">
@@ -95,10 +109,131 @@ function thumbnailUrl(episode) {
         line-height: 1.62;
       }
 
+      .controls {
+        width: min(1040px, 100%);
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 12px;
+        align-items: center;
+        margin: 34px auto 0;
+      }
+
+      .search-field {
+        position: relative;
+      }
+
+      .search-field label {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+      }
+
+      .search-field input {
+        width: 100%;
+        min-height: 42px;
+        border: 1px solid rgba(244, 234, 216, 0.16);
+        border-radius: 6px;
+        padding: 0 78px 0 13px;
+        color: var(--ink);
+        font: inherit;
+        font-size: 0.92rem;
+        background: rgba(244, 234, 216, 0.045);
+        outline: none;
+      }
+
+      .search-field input::placeholder {
+        color: rgba(209, 198, 180, 0.58);
+      }
+
+      .search-field input:focus {
+        border-color: rgba(201, 167, 101, 0.54);
+        box-shadow: 0 0 0 3px rgba(201, 167, 101, 0.1);
+      }
+
+      .clear-search {
+        position: absolute;
+        top: 50%;
+        right: 7px;
+        min-height: 28px;
+        display: none;
+        align-items: center;
+        border: 1px solid rgba(244, 234, 216, 0.14);
+        border-radius: 4px;
+        padding: 0 8px;
+        color: var(--muted);
+        font: inherit;
+        font-size: 0.76rem;
+        font-weight: 720;
+        background: rgba(9, 10, 8, 0.72);
+        cursor: pointer;
+        transform: translateY(-50%);
+      }
+
+      .clear-search.is-visible {
+        display: inline-flex;
+      }
+
+      .clear-search:hover,
+      .clear-search:focus-visible {
+        border-color: rgba(201, 167, 101, 0.54);
+        color: var(--ink);
+        outline: none;
+      }
+
+      .view-toggle {
+        display: inline-flex;
+        align-items: center;
+        border: 1px solid rgba(244, 234, 216, 0.16);
+        border-radius: 6px;
+        padding: 3px;
+        background: rgba(244, 234, 216, 0.045);
+      }
+
+      .view-toggle button {
+        min-height: 34px;
+        border: 0;
+        border-radius: 4px;
+        padding: 0 11px;
+        color: var(--muted);
+        font: inherit;
+        font-size: 0.78rem;
+        font-weight: 760;
+        background: transparent;
+        cursor: pointer;
+      }
+
+      .view-toggle button:hover,
+      .view-toggle button:focus-visible {
+        color: var(--ink);
+        outline: none;
+      }
+
+      .view-toggle button[aria-pressed="true"] {
+        color: var(--ink);
+        background: rgba(201, 167, 101, 0.18);
+        box-shadow: inset 0 0 0 1px rgba(201, 167, 101, 0.28);
+      }
+
+      .results-row {
+        width: min(1040px, 100%);
+        min-height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin: 12px auto 0;
+        color: var(--muted);
+        font-size: 0.78rem;
+        line-height: 1.35;
+      }
+
       .episodes {
         width: min(1040px, 100%);
         display: grid;
-        margin: 38px auto 0;
+        margin: 16px auto 0;
       }
 
       .episode {
@@ -109,6 +244,10 @@ function thumbnailUrl(episode) {
         border-top: 1px solid var(--line);
         padding: 24px 0;
         text-decoration: none;
+      }
+
+      .episode[hidden] {
+        display: none !important;
       }
 
       .episode:hover h2 {
@@ -184,6 +323,85 @@ function thumbnailUrl(episode) {
         line-height: 1.58;
       }
 
+      .episodes[data-view="grid"] {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+      }
+
+      .episodes[data-view="grid"] .episode {
+        min-height: 100%;
+        grid-template-columns: 1fr;
+        gap: 14px;
+        border: 1px solid rgba(244, 234, 216, 0.14);
+        border-radius: 8px;
+        padding: 0;
+        overflow: hidden;
+        background: rgba(244, 234, 216, 0.035);
+      }
+
+      .episodes[data-view="grid"] .episode:hover,
+      .episodes[data-view="grid"] .episode:focus-visible {
+        border-color: rgba(201, 167, 101, 0.42);
+        outline: none;
+      }
+
+      .episodes[data-view="grid"] .thumb {
+        border-width: 0 0 1px;
+        border-color: rgba(244, 234, 216, 0.12);
+      }
+
+      .episodes[data-view="grid"] .episode-body {
+        display: flex;
+        min-height: 100%;
+        flex-direction: column;
+        padding: 0 14px 15px;
+      }
+
+      .episodes[data-view="grid"] h2 {
+        font-size: clamp(1.1rem, 1.7vw, 1.32rem);
+      }
+
+      .episodes[data-view="grid"] .dek {
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        font-size: 0.86rem;
+      }
+
+      .episodes[data-view="grid"] .source-title {
+        margin-top: 12px;
+      }
+
+      .episodes[data-view="grid"] .meta {
+        margin-top: auto;
+        padding-top: 10px;
+      }
+
+      .episodes[data-view="grid"] .meta span + span::before {
+        content: none;
+      }
+
+      .empty-state {
+        width: min(1040px, 100%);
+        display: none;
+        border-top: 1px solid var(--line);
+        margin: 16px auto 0;
+        padding: 28px 0;
+        color: var(--soft);
+        font-size: 0.94rem;
+      }
+
+      .empty-state.is-visible {
+        display: block;
+      }
+
+      @media (max-width: 980px) {
+        .episodes[data-view="grid"] {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
       @media (max-width: 760px) {
         .shell {
           width: min(100% - 28px, 1360px);
@@ -197,9 +415,26 @@ function thumbnailUrl(episode) {
           margin-left: 0;
         }
 
+        .controls {
+          grid-template-columns: 1fr;
+          margin-top: 26px;
+        }
+
+        .view-toggle {
+          width: 100%;
+        }
+
+        .view-toggle button {
+          flex: 1 1 0;
+        }
+
         .episode {
           grid-template-columns: 1fr;
           gap: 16px;
+        }
+
+        .episodes[data-view="grid"] {
+          grid-template-columns: 1fr;
         }
       }
     </style>
@@ -213,15 +448,36 @@ function thumbnailUrl(episode) {
           Compressed readings built from source video and transcript, designed to be read in minutes while preserving a link back to the source.
         </p>
       </section>
-      <div class="episodes">
+      <section class="controls" aria-label="Episode filters">
+        <div class="search-field">
+          <label for="episode-search">Search episodes</label>
+          <input
+            id="episode-search"
+            type="search"
+            inputmode="search"
+            autocomplete="off"
+            placeholder="Search episodes by title, source, or topic"
+            data-episode-search
+          />
+          <button class="clear-search" type="button" data-clear-search>Clear</button>
+        </div>
+        <div class="view-toggle" aria-label="Episode layout">
+          <button type="button" aria-pressed="true" data-view-button="list">List</button>
+          <button type="button" aria-pressed="false" data-view-button="grid">Grid</button>
+        </div>
+      </section>
+      <div class="results-row" aria-live="polite">
+        <span data-results-count>Showing {episodes.length} episodes</span>
+      </div>
+      <div class="episodes" data-episodes data-view="list">
         {episodes.map((episode) => (
-          <a class="episode" href={`./${episode.slug}/`}>
+          <a class="episode" href={`./${episode.slug}/`} data-episode-card data-search={episodeSearchText(episode)}>
             {thumbnailUrl(episode) && (
               <div class="thumb" aria-hidden="true">
                 <img src={thumbnailUrl(episode)} alt="" loading="lazy" decoding="async" />
               </div>
             )}
-            <div>
+            <div class="episode-body">
               <h2>{episode.title}</h2>
               {episode.dek && <p class="dek">{episode.dek}</p>}
               {episode.source_title && <p class="source-title">{episode.source_title}</p>}
@@ -234,6 +490,90 @@ function thumbnailUrl(episode) {
           </a>
         ))}
       </div>
+      <p class="empty-state" data-empty-state>No matching episodes. Try a broader term.</p>
     </main>
+    <script>
+      const searchInput = document.querySelector('[data-episode-search]');
+      const clearButton = document.querySelector('[data-clear-search]');
+      const episodeList = document.querySelector('[data-episodes]');
+      const cards = Array.from(document.querySelectorAll('[data-episode-card]'));
+      const resultCount = document.querySelector('[data-results-count]');
+      const emptyState = document.querySelector('[data-empty-state]');
+      const viewButtons = Array.from(document.querySelectorAll('[data-view-button]'));
+      const storageKey = 'jiang-lens-episode-view';
+
+      function normalized(value) {
+        return String(value || '').trim().toLowerCase();
+      }
+
+      function setView(view) {
+        const nextView = view === 'grid' ? 'grid' : 'list';
+        episodeList?.setAttribute('data-view', nextView);
+        viewButtons.forEach((button) => {
+          button.setAttribute('aria-pressed', String(button.dataset.viewButton === nextView));
+        });
+        try {
+          localStorage.setItem(storageKey, nextView);
+        } catch {
+          // Ignore blocked storage.
+        }
+      }
+
+      function updateQueryParam(query) {
+        const url = new URL(window.location.href);
+        if (query) {
+          url.searchParams.set('q', query);
+        } else {
+          url.searchParams.delete('q');
+        }
+        window.history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+      }
+
+      function filterEpisodes() {
+        const query = normalized(searchInput?.value);
+        let visible = 0;
+
+        cards.forEach((card) => {
+          const matches = !query || String(card.dataset.search || '').includes(query);
+          card.hidden = !matches;
+          if (matches) visible += 1;
+        });
+
+        if (resultCount) {
+          resultCount.textContent = query
+            ? `Showing ${visible} of ${cards.length} episodes`
+            : `Showing ${cards.length} episodes`;
+        }
+
+        emptyState?.classList.toggle('is-visible', visible === 0);
+        clearButton?.classList.toggle('is-visible', Boolean(query));
+        updateQueryParam(query);
+      }
+
+      const params = new URLSearchParams(window.location.search);
+      const initialQuery = params.get('q') || '';
+      if (searchInput instanceof HTMLInputElement) searchInput.value = initialQuery;
+
+      try {
+        setView(localStorage.getItem(storageKey) || 'list');
+      } catch {
+        setView('list');
+      }
+
+      searchInput?.addEventListener('input', filterEpisodes);
+      clearButton?.addEventListener('click', () => {
+        if (searchInput instanceof HTMLInputElement) {
+          searchInput.value = '';
+          searchInput.focus();
+        }
+        filterEpisodes();
+      });
+
+      viewButtons.forEach((button) => {
+        button.addEventListener('click', () => setView(button.dataset.viewButton));
+      });
+
+      filterEpisodes();
+    </script>
   </body>
 </html>
