@@ -647,14 +647,16 @@ async function writeEpisodeData(lensPointById = new Map()) {
   const semanticFiles = (await listJsonFiles(evidenceVideosRoot))
     .filter((filePath) => filePath.endsWith('.semantic.json'));
   const episodes = [];
+  const transcriptSearchSegments = [];
 
   for (const semanticFile of semanticFiles) {
     const episode = await buildEpisodeData(semanticFile, lensPointById);
     const outputPath = path.join(websiteEpisodesDataRoot, `${episode.slug}.json`);
     await writeFile(outputPath, `${JSON.stringify(episode, null, 2)}\n`);
+    const episodeTitle = episode.read?.title || episode.title;
     episodes.push({
       slug: episode.slug,
-      title: episode.read?.title || episode.title,
+      title: episodeTitle,
       source_title: episode.title,
       dek: episode.read?.dek || null,
       source_url: episode.source_url,
@@ -668,14 +670,51 @@ async function writeEpisodeData(lensPointById = new Map()) {
       data_url: `/data/lens/episodes/${episode.slug}.json`,
       data_path: `website/src/data/lens/episodes/${episode.slug}.json`,
     });
+
+    for (const segment of episode.transcript ?? []) {
+      transcriptSearchSegments.push({
+        slug: episode.slug,
+        title: episodeTitle,
+        source_title: episode.title,
+        published_at: episode.published_at,
+        date_label: episode.date_label,
+        episode_url: `/episodes/${episode.slug}/`,
+        transcript_url: segment.transcript_url,
+        video_url: segment.video_url,
+        segment_id: segment.id,
+        source_ref: segment.source_ref,
+        start: segment.start,
+        end: segment.end,
+        time_label: segment.time_label,
+        speaker: segment.speaker ?? null,
+        text: segment.text,
+      });
+    }
   }
 
   episodes.sort((a, b) => String(b.published_at ?? '').localeCompare(String(a.published_at ?? '')));
+  transcriptSearchSegments.sort((a, b) => (
+    String(b.published_at ?? '').localeCompare(String(a.published_at ?? ''))
+    || a.slug.localeCompare(b.slug)
+    || Number(a.start ?? 0) - Number(b.start ?? 0)
+  ));
   await writeFile(path.join(websiteEpisodesDataRoot, 'index.json'), `${JSON.stringify({
     generated_by: generatedHeader,
     generated_at: generatedAt,
     episodes,
   }, null, 2)}\n`);
+
+  const transcriptSearchJson = `${JSON.stringify({
+    generated_by: generatedHeader,
+    generated_at: generatedAt,
+    description: 'Full-text transcript segment index for agent corpus lookup. Use this before external web search when answering where Jiang said a phrase or topic.',
+    counts: {
+      episodes: episodes.length,
+      segments: transcriptSearchSegments.length,
+    },
+    segments: transcriptSearchSegments,
+  }, null, 2)}\n`;
+  await writeFile(path.join(websiteDataRoot, 'transcript-search.json'), transcriptSearchJson);
 
   return episodes;
 }
