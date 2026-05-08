@@ -89,6 +89,24 @@ Four-dimensional war is won by ordering the board correctly: military action mus
 
 This belongs inside strategy rather than inside [Game Theory](/lens/game-theory/) because the active mechanism is not only hidden payoff identification. It is operational feedback. Jiang's contrast is reflection, flexibility, and resilience: the side that can let economics, politics, and narrative alter military choices can adapt; the side that makes every dimension serve the military image tends to double down, choose desperate moves, and make replenishment harder. It also touches [Power As Alchemy](/lens/power-as-alchemy/) because finance and empire structure the wider board, but this page owns the moment where that structure is tested by war.
 
+## Replacement Empire Audition
+
+The same Pax Judaica lecture then adds a succession test. Jiang's claim is dated and speculative: [he says the lecture is intellectual speculation, not prophecy]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0058"}. But the mechanism is useful beyond that forecast. When an incumbent empire can no longer supply reliable muscle for the world-system, the question becomes whether another actor can audition as the replacement.
+
+Jiang states the world-system stack in blunt terms: [empire is the muscle, finance sets the game, the dollar economy runs the game, and multilateral organizations and culture hide coercion]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0023 video:predictive-history-mk4vchtawso@transcript:v1#seg-0024"}. If the muscle fails, the beneficiaries of the system do not necessarily want revolution. They want continuity. Jiang therefore says that if the American empire loses, [the edifice needs another empire to replace the American muscle]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0025 video:predictive-history-mk4vchtawso@transcript:v1#seg-0026"}.
+
+The material test is not moral worth. It is audition criteria. Jiang lists the incumbent's limits in the Iran war: [weak political will, insufficient manufacturing capacity, and unwillingness to sustain casualties]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0033 video:predictive-history-mk4vchtawso@transcript:v1#seg-0034"}. A would-be replacement has to prove the reverse: unity, capacity, determination, low-cost effectiveness, and willingness to do what the incumbent no longer can. His venture-capital analogy makes the ugly logic visible: the global elite backs the desperate actor that can prove [unity, capacity, and determination]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0035 video:predictive-history-mk4vchtawso@transcript:v1#seg-0037"}.
+
+<!-- lens-point id="strategy-replacement-empire-audition" concept="strategy-material-test" evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0023 video:predictive-history-mk4vchtawso@transcript:v1#seg-0025 video:predictive-history-mk4vchtawso@transcript:v1#seg-0033 video:predictive-history-mk4vchtawso@transcript:v1#seg-0037 video:predictive-history-mk4vchtawso@transcript:v1#seg-0050 video:predictive-history-mk4vchtawso@transcript:v1#seg-0051 video:predictive-history-mk4vchtawso@transcript:v1#seg-0058" -->
+<span id="strategy-replacement-empire-audition" class="lens-point-anchor"></span>
+Replacement empire audition occurs when a failing imperial muscle is judged against a possible successor by political will, manufacturing capacity, casualty tolerance, unity, determination, cost effectiveness, infrastructure control, and whether the forecast remains a corrigible model rather than prophecy.
+
+That is why Gaza, the Lebanon pager attack, and the later infrastructure map appear in the same source. Jiang is not only describing force. He is describing proof of concept. In his reading, Gaza shows willingness and unity; the pager attack shows cheap psychological reach; Pax Judaica is then drawn as [oil, gas, trade routes, data centers, human capital, AI surveillance, and corridor control]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0042 video:predictive-history-mk4vchtawso@transcript:v1#seg-0043 video:predictive-history-mk4vchtawso@transcript:v1#seg-0050 video:predictive-history-mk4vchtawso@transcript:v1#seg-0051"}. The replacement is not merely a flag over territory. It has to operate the gates, resources, data centers, coercive tools, and psychological instruments of the next order.
+
+The boundary is important because this source touches several neighboring pages. [Platform Infrastructure As Control Surface](/lens/#platform-infrastructure-as-control-surface) owns the move from visible app or product to deeper data-center and surveillance infrastructure. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the population and national unity that can feed war capacity. [Power As Alchemy](/lens/power-as-alchemy/) owns the dollar game as lived abstraction. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) owns hidden trust, proxy claims, and caveated coordination. Strategy owns the audition test: can the actor actually supply imperial muscle after the old muscle is exposed as expensive, unwilling, brittle, or corrupt?
+
+The forecast caveat belongs inside the mechanism. Jiang says the two-pole Israel-Iran order is [theory, not prophecy]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0058"}, and that warning keeps replacement-empire analysis from becoming an oracle. Use it as a material diagnostic: which actor is being evaluated as the next muscle, what proof is being offered, what infrastructure would make the replacement real, and what would falsify the audition?
+
 ## Hybrid War Before Visible War
 
 The August 2025 eschatology update adds a pre-kinetic layer to the same strategy map. Asked why the U.S.-Iran conflict had not yet become open world war, Jiang answers that the visible battlefield is the wrong instrument. In his dated formulation, [modern warfare is hybrid warfare and much of it is not visible]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001"}: media control, electronic and cyber pressure, psychological weakening, covert operations, sanctions, economic sabotage, and leadership targeting.
@@ -183,6 +201,8 @@ Ask these questions when applying this lens.
 
 **What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
 
+**Who is auditioning to replace the muscle?** When the incumbent empire looks brittle, ask which actor is being evaluated for unity, capacity, determination, casualty tolerance, cost effectiveness, and infrastructure control.
+
 **Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems must pass through a narrow point, ask who can grant permission, who can deny access, and whether control can be made too costly to maintain.
 
 **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
@@ -205,7 +225,7 @@ In **August 2025**, the eschatology convergence update adds the hybrid-war layer
 
 In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
 
-In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
+In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle may be judged against possible replacement actors; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
 In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
@@ -265,10 +285,13 @@ In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: 
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
 
 - **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/)
-  Four-dimensional war separates the military image from the full strategic board: narrative, politics, and economics can either be forced to serve a military story or used as feedback that reshapes military action.
+  Four-dimensional war separates the military image from the full strategic board, and the replacement-empire audition tests whether a possible successor to American imperial muscle can prove will, capacity, cost discipline, infrastructure control, and corrigible forecast discipline.
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0017`
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0019`
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0021`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0037`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
   A weakening reserve-currency empire can shift from encouraging global trade to controlling sea lanes, chokepoints, trade access, and naval attrition.
