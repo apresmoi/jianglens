@@ -15,6 +15,7 @@ on:
         type: string
 
 permissions:
+  actions: write
   contents: write
   pull-requests: write
 
@@ -83,8 +84,12 @@ jobs:
           git add content/sources/raw/youtube
           git commit -m "Sync Drive source artifacts"
           git push --set-upstream origin "${branch}"
-          gh pr create \
+          pr_url="$(gh pr create \
             --base main \
             --head "${branch}" \
             --title "Sync Drive source artifacts" \
-            --body "Manual Google Drive artifact sync from \`${LENS_COMPRESSION_DRIVE_REMOTE}\` into \`content/sources/raw/youtube\`. This PR contains text and metadata artifacts only; audio and video remain outside git."
+            --body "Manual Google Drive artifact sync from \`${LENS_COMPRESSION_DRIVE_REMOTE}\` into \`content/sources/raw/youtube\`. This PR contains text and metadata artifacts only; audio and video remain outside git.")"
+          echo "Created ${pr_url}"
+
+          echo "Triggering CI for ${branch}."
+          gh workflow run ci.yml --ref "${branch}"
