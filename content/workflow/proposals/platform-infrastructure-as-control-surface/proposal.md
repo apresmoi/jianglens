@@ -1,8 +1,9 @@
 # Platform Infrastructure As Control Surface
 
 Date: 2026-05-07
-Status: reviewed/held proposal seed
+Status: reviewed atlas relation; held from standalone page promotion
 Work type: proposal synthesis
+Public surface: `website/src/content/docs/lens.md#platform-infrastructure-as-control-surface`
 
 Reviews:
 
@@ -11,7 +12,7 @@ Reviews:
 
 ## Proposed Boundary
 
-Record **platform infrastructure as control surface** as a lens seed, not a public concept page. The mechanism is that Jiang sometimes treats the visible platform as a front-end layer over deeper cables, networks, military protection, standards, data centers, schools, clinics, payment pipes, or security systems. Control is misread if the analysis stops at the public app, owner, brand, or policy debate.
+Record **platform infrastructure as control surface** as a reviewed atlas relation, not a standalone public concept page. The mechanism is that Jiang sometimes treats the visible platform as a front-end layer over deeper cables, networks, military protection, standards, data centers, identity systems, digital currencies, schools, clinics, payment pipes, or security systems. Control is misread if the analysis stops at the public app, owner, brand, or policy debate.
 
 The seed should stay narrow. Use it only when a source shows the same chain:
 
@@ -20,7 +21,7 @@ The seed should stay narrow. Use it only when a source shows the same chain:
 3. the infrastructure is what lets control, surveillance, discipline, coordination, or social programming scale;
 4. the public-facing layer remains politically useful because it makes the deeper system harder to see.
 
-This is not a generic technology concept. It should not become a public page unless future sources repeatedly require one bridge between platform visibility and infrastructure control. For now, its value is routing discipline across [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/), [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/), [Nation As God-Machine](/lens/nation-as-god-machine/), [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/), and [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/).
+This is not a generic technology concept. Its public surface is now only a compact atlas relation because later sources added the missing recurrence: Jiang again redirects attention from public platform or product stories toward data centers, digital ID, digital currency, surveillance infrastructure, and publicly funded technology. The relation's value is routing discipline across [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/), [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/), [Nation As God-Machine](/lens/nation-as-god-machine/), [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/), and [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/). A standalone page remains held.
 
 ## Source Pressure
 
@@ -30,7 +31,11 @@ A student asks the practical question: if social media is a mechanism of social 
 
 The public [Mass Society](/lens/mass-society-as-political-constraint/) page already carries the source moment correctly. It says that Pharaoh-making technology becomes social media, drugs, psychology, mass education, mass culture, internet infrastructure, and mood management, then adds the sharper public-face/infrastructure distinction. That is the right public home because the active mechanism in the Pharaoh lecture is the scale problem: a mass society keeps rediscovering control surfaces.
 
-The proposal is still useful because the infrastructure turn can recur outside the Pharaoh source. In the American-game material, the world board depends on pipes, courts, banks, agreements, and quiet policy rooms rather than only on patriotic story (`video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0030`, `video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0031`). In the strategy material, chokepoints, blockades, energy systems, and civilian infrastructure become the material gates through which war pressure moves. Those are not the same concept, but they share a warning: visible institutions often matter less than the infrastructure that makes action routable.
+The later **2025-12-18** Pax Judaica lecture adds the strongest recurrence while keeping the same speculative guardrail. In Jiang's Silicon Valley story, military-funded technology becomes lovable consumer product; Google becomes a toll booth on publicly funded infrastructure; and the coming control surface includes AI data centers, weapons, private security, bioweapons, psychological warfare, intelligence, financing, trade access, and elite transhumanism (`video:predictive-history-wfwizn3qopg@transcript:v1#seg-0076`, `video:predictive-history-wfwizn3qopg@transcript:v1#seg-0078`, `video:predictive-history-wfwizn3qopg@transcript:v1#seg-0080`, `video:predictive-history-wfwizn3qopg@transcript:v1#seg-0087`, `video:predictive-history-wfwizn3qopg@transcript:v1#seg-0088`). This is not proof of the surrounding Pax Judaica theory. It is a second source where Jiang redirects attention from visible technology brands to the infrastructure that makes people and states legible to power.
+
+The **2026-04-21** World War Trump lecture then gives a domestic security recurrence. Jiang says data centers and Operation Stargate are not about digital pets or chatbots making money; they are the infrastructure of digital ID, digital currency, and monitoring, tied to an AI surveillance state (`video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056`). That source belongs mainly to strategy and empire, but it satisfies the promotion condition for a small atlas relation because the visible AI/product layer is again subordinated to deeper infrastructure.
+
+The proposal remains useful because infrastructure also appears in neighboring forms. In the American-game material, the world board depends on pipes, courts, banks, agreements, and quiet policy rooms rather than only on patriotic story (`video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0030`, `video:predictive-history-ijnkct1qk6k@transcript:v1#seg-0031`). In the strategy material, chokepoints, blockades, energy systems, and civilian infrastructure become the material gates through which war pressure moves. Those are not the same concept, but they share a warning: visible institutions often matter less than the infrastructure that makes action routable.
 
 ## Why This Advances The Lens Map
 
@@ -71,10 +76,10 @@ If future sources require promotion, this should likely become an atlas relation
 
 ## Candidate Lens Points
 
-These are not added yet because the seed is not public.
+The first point is now public as an atlas relation. The others remain held unless a future page needs them.
 
-- `platform-face-hides-infrastructure`  
-  A platform becomes a control surface when the visible app, owner, or interface draws attention away from the deeper cables, networks, standards, security systems, and policy rooms that make control scalable.
+- `platform-infrastructure-control-surface-atlas`
+  Public in `website/src/content/docs/lens.md`: A platform becomes a control surface when the visible app, owner, institution, or public interface draws attention away from the deeper infrastructure that routes attention, money, data, identity, movement, force, and permission.
 
 - `infrastructure-routes-control`  
   Infrastructure routes control when it determines how attention, money, data, access, movement, or force can travel before public actors argue over the visible surface.
@@ -84,9 +89,9 @@ These are not added yet because the seed is not public.
 
 ## Promotion Conditions
 
-Before public promotion:
+The seed has been promoted only as a compact atlas relation. Before promoting it beyond that:
 
-1. Find at least one additional dated source where Jiang explicitly redirects analysis from a visible platform or institution to deeper infrastructure, not merely a source that mentions infrastructure.
+1. Find at least one additional dated source where Jiang explicitly redirects analysis from a visible platform or institution to deeper infrastructure in a non-technology domain, not merely a source that mentions infrastructure.
 2. Review against Mass Society, Attention Capture, Nation, Strategy, Secret Society, and Power As Alchemy to make sure a new public surface would clarify rather than duplicate.
 3. Preserve attribution and skepticism for speculative claims, especially the Pharaoh lecture.
 4. If promoted, add exact inline evidence marks and episode `lens_points` only to marks that carry the public-face/infrastructure reversal, not generic social media or technology phrases.
