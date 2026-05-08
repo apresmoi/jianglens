@@ -1,16 +1,17 @@
 # Purity Minority Preserves Tradition
 
 Date: 2026-05-07
-Status: reviewed/held proposal seed
+Status: reviewed/promoted to atlas relation on 2026-05-08
 Work type: proposal synthesis
 
-Review: `content/workflow/reviews/purity-minority-preserves-tradition/cross-page-review-2026-05-07.md`
+Review: `content/workflow/reviews/purity-minority-preserves-tradition/cross-page-review-2026-05-07.md`; promotion judge: `content/workflow/reviews/purity-minority-preserves-tradition/atlas-relation-local-judge-2026-05-08.md`
+Public surface: `website/src/content/docs/lens.md#purity-minority-preserves-tradition`
 
 ## Proposed Boundary
 
 Purity minority preserves tradition names Jiang's mechanism in which a pressured or displaced minority keeps a religious or cultural form alive by intensifying purity, law, separation, ritual, textual unity, and willingness to sacrifice. The claim is not that purity is morally good, socially gentle, or politically innocent. The claim is that assimilation is often easier for majorities and ordinary households, while a committed minority may preserve the form precisely because it refuses the compromises that let people get along.
 
-This should stay a reviewed proposal seed for now, not a public concept page or atlas relation. The mechanism appears strongly in the **2024-12-12** Cyrus lecture, but the cross-page review held it until later religion, diaspora, revolutionary, and institutional sources make the survival-through-separation mechanism publicly necessary. Its immediate value is routing discipline: do not scatter the Cyrus purity material across legitimacy, media, eschatology, and administrative religion without preserving the minority-survival mechanism.
+This is now promoted only as a compact atlas relation, not a public concept page. The mechanism appears strongly in the **2024-12-12** Cyrus lecture, and the **2025-11-18** Pax Judaica lecture repeats it in a more geopolitical register: a small returnee minority, local adaptation, purity law, marriage boundary, Bible-stored memory, and imperial use of the resulting conflict. The atlas relation exists for routing discipline: do not scatter the Cyrus/Pax Judaica purity material across legitimacy, media, eschatology, and administrative religion without preserving the minority-survival mechanism.
 
 ## Source Pressure
 
@@ -24,16 +25,18 @@ The closing Q&A gives the durable formulation. Ordinary multi-faith life is soci
 
 The hardest line is the seed's center: Jiang says it is "really only the extremists who keep the religion alive" and that people most willing to die for their religion keep it alive; if everyone compromises, the religion dies quickly (`video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0052`, `video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0053`). The proposal should preserve that pressure without turning it into endorsement. Jiang is explaining a survival mechanism, not offering a general ethical permission slip for purity politics.
 
+The **2025-11-18**, [Secret History #19: Dawn of the Jews](/episodes/predictive-history-3t0mevbd24i/), recurrence satisfies the original promotion condition for another source-backed appearance. Jiang repeats the minority/assimilation pattern in geopolitical language: the Israelites who stay in the Levant adapt to local circumstances and practice different religions, while the exiles from Babylon return claiming to be the true Israelites because they stayed loyal to their religion (`video:predictive-history-3t0mevbd24i@transcript:v1#seg-0032`, `video:predictive-history-3t0mevbd24i@transcript:v1#seg-0033`). Ezra then turns loyalty into law: false gods make the land unclean, foreign marriage becomes forbidden, and the new heritage is blood purity plus monotheistic devotion to Yahweh (`video:predictive-history-3t0mevbd24i@transcript:v1#seg-0070`, `video:predictive-history-3t0mevbd24i@transcript:v1#seg-0071`, `video:predictive-history-3t0mevbd24i@transcript:v1#seg-0075`, `video:predictive-history-3t0mevbd24i@transcript:v1#seg-0101`). The same lecture adds the memory layer: Ezra combines documents into the Bible so identity remains resilient and portable (`video:predictive-history-3t0mevbd24i@transcript:v1#seg-0094`).
+
 ## Why This Advances The Lens Map
 
-The public lens already has several pieces of this source:
+The public lens already has several pieces of this source cluster:
 
 - [Legitimacy Fiction](/lens/legitimacy-fiction/) owns Cyrus as foreign messiah, mercy as political technology, and Bible/return/purity as inherited political reality.
 - [Religion As Administrative Filter](/lens/religion-as-administrative-filter/) owns Zoroastrian truth-duty and religion as a code for administrators.
 - [Eschatology As Script](/lens/eschatology/) owns final battle, judgment, good/evil, Messiah, and the end-times role structure.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) and the World-Making Media atlas family own scripture and textual memory when story organizes imagination.
 
-Those homes are correct, but none of them by itself names the survival pressure in the closing Q&A: adaptation is socially easy, assimilation is the default, and the people who preserve the tradition may be a minority willing to impose purity and bear cost. A proposal seed keeps that pressure visible while preventing premature public promotion.
+Those homes are correct, but none of them by itself names the survival pressure in the closing Q&A and Pax Judaica recurrence: adaptation is socially easy, assimilation is the default, and the people who preserve the tradition may be a minority willing to impose purity and bear cost. The atlas relation keeps that pressure visible without creating a one-source or one-people page.
 
 The right concept boundary is survival under assimilation pressure. Use this seed when a source says that a minority preserves a form by refusing compromise, marking purity, separating from surrounding households, hardening law, unifying text, or treating sacrifice as the cost of continuity. Do not use it for every strict doctrine, every diaspora, or every religious conflict.
 
@@ -46,9 +49,9 @@ The right concept boundary is survival under assimilation pressure. Use this see
 - **Not generic anti-tolerance**: the source explicitly makes tolerance socially intelligible. Multi-faith households are how ordinary people get along. The seed exists because Jiang then says social adaptation can dissolve the tradition.
 - **Not ethnicity or purity canon**: the proposal records Jiang's attributed mechanism. It should not become a public claim that purity movements are morally right, historically necessary in all cases, or desirable for the project.
 
-## Possible Future Public Shape
+## Public Shape
 
-A future public page or atlas relation should wait for another recurrence. If promoted, it would likely follow this sequence:
+The promoted atlas relation follows this sequence:
 
 1. Catastrophe or displacement makes ordinary identity unstable.
 2. The majority adapts through intermarriage, mixed practice, local peace, career success, or household compromise.
@@ -56,28 +59,28 @@ A future public page or atlas relation should wait for another recurrence. If pr
 4. Purity becomes law, ritual, marriage rule, textual unity, or sacrificial willingness.
 5. The preserved tradition survives, but the cost is exclusion, conflict, and a harder human world.
 
-## Candidate Lens Points
+## Lens Point And Held Candidates
 
-These are not added yet because the seed needs cross-page review and at least one further recurrence before public mutation.
-
-- `purity-minority-preserves-tradition`  
+- `purity-minority-preserves-tradition-atlas`
   A purity minority preserves a tradition when ordinary adaptation would dissolve the form, so a committed subgroup hardens law, ritual, boundary, text, and sacrifice to keep the people or religion alive.
 
-- `assimilation-is-easier-than-continuity`  
+Held candidate anchors for any later standalone page:
+
+- `assimilation-is-easier-than-continuity`
   Assimilation becomes the default when mixed households, local peace, career success, and ordinary neighborliness make compromise easier than preserving a hard boundary.
 
-- `text-unifies-rival-strands`  
+- `text-unifies-rival-strands`
   Text becomes preservation technology when competing traditions are stitched into one authoritative scripture so a divided people can imagine itself as one.
 
-- `purity-survives-at-human-cost`  
+- `purity-survives-at-human-cost`
   Purity preserves at human cost when continuity requires divorce, exclusion, separation, or willingness to die rather than compromise with surrounding life.
 
 ## Promotion Conditions
 
-Before public promotion:
+Promotion to the atlas relation occurred on 2026-05-08 after the Pax Judaica recurrence satisfied the cross-source condition and review confirmed the relation should not become a standalone page yet. Remaining conditions for any later standalone concept page:
 
-1. Compare this Cyrus source with at least one non-Cyrus recurrence where minority extremity preserves a tradition, movement, institution, or people under assimilation pressure.
-2. Review whether the mechanism belongs as an atlas relation instead of a standalone page.
+1. Find at least one non-Jewish recurrence where minority extremity preserves a tradition, movement, institution, or people under assimilation pressure.
+2. Show that the mechanism needs more than an atlas router and cannot be handled by Legitimacy, Religion, Eschatology, Stories, Taboo, or Nation.
 3. Keep the moral ambivalence explicit: preservation can be real while the means remain exclusionary, coercive, or cruel.
-4. Convert source claims into public inline evidence marks only after exact phrase-level support is checked.
+4. Convert new source claims into public inline evidence marks only after exact phrase-level support is checked.
 5. Add episode `lens_points` only to marks that name the minority-preservation mechanism, not generic purity, diaspora, Bible, or eschatology lines.
