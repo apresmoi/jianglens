@@ -1,6 +1,7 @@
 name: ci
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - "**"
@@ -33,4 +34,3 @@ jobs:
       - name: Build website
         working-directory: website
         run: npm run build
-
