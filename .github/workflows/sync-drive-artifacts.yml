@@ -1,0 +1,90 @@
+name: Sync Drive Artifacts
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run rclone in dry-run mode and do not open a PR"
+        required: false
+        default: false
+        type: boolean
+      remote:
+        description: "rclone remote path to sync"
+        required: false
+        default: "gdrive:/jianglens/youtube"
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: sync-drive-artifacts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      LENS_COMPRESSION_DRIVE_REMOTE: ${{ inputs.remote }}
+      LENS_COMPRESSION_DRIVE_LOCAL: ${{ github.workspace }}/content/sources/raw/youtube
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Install rclone
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rclone
+          rclone version
+
+      - name: Configure rclone
+        env:
+          RCLONE_CONFIG_GDRIVE: ${{ secrets.RCLONE_CONFIG_GDRIVE }}
+        run: |
+          set -euo pipefail
+          if [ -z "${RCLONE_CONFIG_GDRIVE}" ]; then
+            echo "Missing repository secret RCLONE_CONFIG_GDRIVE" >&2
+            exit 1
+          fi
+          mkdir -p "$HOME/.config/rclone"
+          printf '%s\n' "${RCLONE_CONFIG_GDRIVE}" > "$HOME/.config/rclone/rclone.conf"
+          chmod 600 "$HOME/.config/rclone/rclone.conf"
+          rclone listremotes | grep -qx 'gdrive:'
+
+      - name: Sync Drive text artifacts
+        run: |
+          set -euo pipefail
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ./ops/notebooks/colab/sync-drive.sh --dry-run
+          else
+            ./ops/notebooks/colab/sync-drive.sh
+          fi
+
+      - name: Summarize changes
+        run: |
+          git status --short content/sources/raw/youtube
+
+      - name: Open sync PR
+        if: ${{ inputs.dry_run == false }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- content/sources/raw/youtube; then
+            echo "No Drive artifact changes to propose."
+            exit 0
+          fi
+
+          branch="sync/drive-artifacts-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "${branch}"
+          git add content/sources/raw/youtube
+          git commit -m "Sync Drive source artifacts"
+          git push --set-upstream origin "${branch}"
+          gh pr create \
+            --base main \
+            --head "${branch}" \
+            --title "Sync Drive source artifacts" \
+            --body "Manual Google Drive artifact sync from \`${LENS_COMPRESSION_DRIVE_REMOTE}\` into \`content/sources/raw/youtube\`. This PR contains text and metadata artifacts only; audio and video remain outside git."

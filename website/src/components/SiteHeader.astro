@@ -1,6 +1,6 @@
 ---
-import { siteConfig } from '../../site.config.mjs';
-import { primaryNav, starlightSidebar } from '../lib/site-navigation.mjs';
+import { externalHref, siteConfig } from '../../site.config.mjs';
+import { mobileSidebar, primaryNav } from '../lib/site-navigation.mjs';
 
 const {
   base = '/',
@@ -54,7 +54,7 @@ const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
   </nav>
   <a
     class="github-corner"
-    href={siteConfig.urls.repository}
+    href={externalHref(siteConfig.urls.repository)}
     target="_blank"
     rel="noopener noreferrer"
     aria-label="View Jiang Lens source on GitHub"
@@ -66,7 +66,7 @@ const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
       <path class="octo-body" d="M115 115s4 2 5 0l14-14c3-2 6-3 8-3-8-11-15-24 2-41 5-5 10-7 16-7 1-2 3-7 12-11 0 0 5 3 7 16 4 2 8 5 12 9s7 8 9 12c14 3 17 7 17 7-4 8-9 11-11 11 0 6-2 11-7 16-16 16-30 10-41 2 0 3-1 7-5 11l-12 11c-1 1 1 5 1 5z"></path>
     </svg>
   </a>
-  {showMobileMenu && (
+    {showMobileMenu && (
     <>
       <button class="site-mobile-toggle" type="button" aria-expanded="false" aria-controls="starlight__sidebar" aria-label="Menu" data-site-menu-toggle>
         <svg class="site-mobile-open" aria-hidden="true" viewBox="0 0 24 24" fill="currentColor">
@@ -79,7 +79,7 @@ const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
       <aside class="site-mobile-menu" id="starlight__sidebar" aria-label="Site navigation" data-site-menu>
         <div class="site-mobile-content">
           <ul class="site-sidebar-list top-level">
-            {starlightSidebar.map((group) => (
+            {mobileSidebar.map((group) => (
               <li>
                 <details open>
                   <summary>
@@ -261,7 +261,7 @@ const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
     }
   }
 
-  @media (max-width: 720px) {
+  @media (max-width: 49.999rem) {
     .site-header {
       position: sticky;
       top: 0;
@@ -448,7 +448,7 @@ const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
     }
   }
 
-  @media (min-width: 721px) {
+  @media (min-width: 50rem) {
     .site-mobile-toggle,
     .site-mobile-menu {
       display: none;
@@ -459,7 +459,7 @@ const links = primaryNav.filter((item) => item.key !== 'home').map((item) => ({
     overflow: hidden;
   }
 
-  @media (max-width: 720px) {
+  @media (max-width: 49.999rem) {
     .site-header:not(:has(.site-mobile-toggle)) .site-nav {
       padding-right: 54px;
     }

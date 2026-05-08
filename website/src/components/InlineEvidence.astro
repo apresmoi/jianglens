@@ -231,11 +231,15 @@ const inlineParts = partsFor(String(text), normalizedMarks());
   }
 
   .evidence-popover {
-    position: absolute;
-    top: calc(100% + 8px);
-    left: 0;
+    box-sizing: border-box;
+    position: fixed;
+    top: var(--episode-evidence-popover-top, -9999px);
+    left: var(--episode-evidence-popover-left, 16px);
     z-index: 40;
-    width: min(380px, 84vw);
+    width: min(380px, calc(100vw - 32px));
+    max-height: min(420px, calc(100vh - 24px));
+    overflow-y: auto;
+    overscroll-behavior: contain;
     display: grid;
     gap: 8px;
     visibility: hidden;

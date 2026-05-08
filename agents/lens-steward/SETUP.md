@@ -2,7 +2,7 @@
 
 Plato is declared as the `lens-steward` agent under `agents/lens-steward/`.
 
-This file defines the runtime shape. Spawnfile declares Plato, and the local Docker stack starts a durable Plato autonomy loop alongside Virgil.
+This file defines the runtime shape. Spawnfile declares Plato, and the local Docker stack wakes Plato through Picoclaw's native cron service alongside Virgil.
 
 ## Validate The Agent Definition
 
@@ -27,6 +27,7 @@ The stack persists Plato state under:
 ```text
 .runtime/episode-worker/lens-steward/repo
 .runtime/episode-worker/lens-steward/state
+.runtime/episode-worker/lens-steward/cron
 ```
 
 ## Moltnet
@@ -40,6 +41,7 @@ local_lab / episode-floor
 Use:
 
 ```bash
+export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/.moltnet/config.json
 moltnet read --network local_lab --target room:episode-floor --limit 20
 moltnet send --network local_lab --target room:episode-floor --text "Status: <short factual update>."
 ```

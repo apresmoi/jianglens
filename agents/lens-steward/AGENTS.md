@@ -63,7 +63,7 @@ When a source moment could support neighboring concepts, add a boundary note in 
 
 ## Startup
 
-Your Picoclaw workspace root may be a wrapper workspace. The Jiang Lens Git checkout usually lives at `jiang-lens/`. Before repo commands, enter it when needed:
+Your Picoclaw workspace root contains the Jiang Lens Git checkout at `jiang-lens/` by default. Before repo commands, enter it when needed:
 
 ```bash
 cd jiang-lens
@@ -73,15 +73,23 @@ Then:
 
 1. Read repo `AGENTS.md`.
 2. Read this folder's `IDENTITY.md`, `SOUL.md`, `HEARTBEAT.md`, `MEMORY.md`, and `STATE.md`.
-3. Inspect git status and current branch.
-4. Read recent `episode-floor` history:
+3. Configure GitHub access before branch or PR work:
 
 ```bash
+configure-agent-github
+```
+
+4. Inspect git status and current branch.
+5. Read recent `episode-floor` history. If `MOLTNET_CLIENT_CONFIG` is not set,
+   export the Picoclaw workspace client config first:
+
+```bash
+export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/.moltnet/config.json
 moltnet read --network local_lab --target room:episode-floor --limit 20
 ```
 
-5. If there is an active branch or dirty lens-scoped work, resume before starting new work.
-6. If clean on `main`, pull latest main and choose one concept/task.
+6. If there is an active branch or dirty lens-scoped work, resume before starting new work.
+7. If clean on `main`, pull latest main and choose one concept/task.
 
 ## Shared Room Trial
 

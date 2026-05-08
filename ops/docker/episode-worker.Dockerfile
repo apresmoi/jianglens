@@ -23,9 +23,6 @@ RUN curl -fsSL https://moltnet.dev/install.sh | sh \
   && moltnet version
 
 COPY ops/scripts/configure-agent-github.sh /usr/local/bin/configure-agent-github
-COPY ops/scripts/episode-worker-entrypoint.sh /usr/local/bin/episode-worker-entrypoint
-RUN chmod +x /usr/local/bin/configure-agent-github /usr/local/bin/episode-worker-entrypoint
+RUN chmod +x /usr/local/bin/configure-agent-github
 
 USER spawnfile
-
-ENTRYPOINT ["/usr/local/bin/episode-worker-entrypoint"]

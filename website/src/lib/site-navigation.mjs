@@ -3,16 +3,12 @@ export const primaryNav = [
   { key: 'about', label: 'About', slug: 'introduction' },
   { key: 'lens', label: 'Lens', slug: 'lens' },
   { key: 'episodes', label: 'Episodes', link: '/episodes/' },
-  { key: 'agent', label: 'Agent', slug: 'use-with-your-agent' },
+  { key: 'agent', label: 'How to use?', slug: 'use-with-your-agent' },
 ];
 
 const starlightPrimaryNav = primaryNav.map(({ key, ...item }) => item);
 
-export const starlightSidebar = [
-  {
-    label: 'Jiang Lens',
-    items: starlightPrimaryNav,
-  },
+export const docsSidebar = [
   {
     label: 'Discovery',
     items: [
@@ -62,3 +58,13 @@ export const starlightSidebar = [
     ],
   },
 ];
+
+export const mobileSidebar = [
+  {
+    label: 'Jiang Lens',
+    items: starlightPrimaryNav,
+  },
+  ...docsSidebar,
+];
+
+export const starlightSidebar = mobileSidebar;

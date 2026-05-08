@@ -17,10 +17,13 @@ Do not present generated analysis as Jiang Xueqin's personal view. Label it as a
 
 1. Read `/llms.txt` to see the current public documentation map.
 2. Treat `/skill.md` as the operating instruction for this lens.
-3. Use `/episodes/` for dated source readings and transcript access.
-4. Use `/data/lens/manifest.json` for generated episode and lens routes.
-5. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
-6. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
+3. Use `/episodes/index.md` for the agent-readable catalog of episode readings.
+4. Use `/episodes/<episode-slug>.md` for the compressed Markdown reading of one episode.
+5. Use `/data/lens/episodes/index.json` for the machine-readable episode catalog.
+6. Use `/data/lens/episodes/<episode-slug>.json` for transcript segments, timed chunks, source refs, and video timestamp URLs.
+7. Use `/data/lens/manifest.json` for generated episode and lens routes.
+8. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
+9. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
 
 ## Operating Rules
 
@@ -30,6 +33,19 @@ Do not present generated analysis as Jiang Xueqin's personal view. Label it as a
 - Mark speculative outputs as `lens-generated`.
 - Preserve uncertainty, disagreement, and counter-readings.
 - Never write new Jiang-attributed claims without Jiang-authored or Jiang-spoken support.
+
+## Episode Retrieval
+
+When you need to answer "when did Jiang say this?" or audit an exact claim:
+
+1. Search `/episodes/index.md` or `/data/lens/episodes/index.json` to identify likely episodes by title, date, source title, or summary.
+2. Read `/episodes/<episode-slug>.md` for the compressed public reading.
+3. Fetch `/data/lens/episodes/<episode-slug>.json` when exact wording is needed.
+4. Search the JSON `transcript` array. Each segment has `id`, `source_ref`, `start`, `end`, `time_label`, `text`, `transcript_url`, and `video_url`.
+5. Cite the dated episode title, the transcript segment URL, the YouTube timestamp URL, and the stable `source_ref`.
+6. If the phrase is only a lens interpretation and not exact Jiang wording, say so and cite the lens page plus its supporting source refs.
+
+Do not use the compressed episode Markdown as a substitute for exact quotation. Use it to understand the episode; use the episode JSON to verify exact transcript wording and timestamps.
 
 ## Analysis Pattern
 

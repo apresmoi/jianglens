@@ -3,7 +3,7 @@ import GoogleAnalytics from '../../components/GoogleAnalytics.astro';
 import IconLinks from '../../components/IconLinks.astro';
 import InlineEvidence from '../../components/InlineEvidence.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
-import { absoluteUrl } from '../../../site.config.mjs';
+import { absoluteUrl, externalHref } from '../../../site.config.mjs';
 import { episodeJsonPath, listEpisodeSlugs, readEpisode } from '../../lib/episodes.mjs';
 
 export async function getStaticPaths() {
@@ -103,6 +103,8 @@ const structuredData = {
         z-index: 0;
         width: 100vw;
         height: 100vh;
+        overflow: hidden;
+        clip-path: inset(0);
         opacity: 0.34;
         color: var(--gold);
         pointer-events: none;
@@ -864,7 +866,7 @@ const structuredData = {
             </div>
           </div>
           <div class="actions">
-            <a class="button" href={sourceUrl} target="_blank" rel="noreferrer">Source video</a>
+            <a class="button" href={externalHref(sourceUrl)} target="_blank" rel="noreferrer">Source video</a>
             <a class="button" href={transcriptUrl}>Transcript</a>
           </div>
 
@@ -959,7 +961,7 @@ const structuredData = {
               <p>{read.archive_note}</p>
               <div class="archive-actions">
                 <a class="button" href={transcriptUrl}>Open the full transcript</a>
-                <a class="button" href={sourceUrl} target="_blank" rel="noreferrer">Open source video</a>
+                <a class="button" href={externalHref(sourceUrl)} target="_blank" rel="noreferrer">Open source video</a>
               </div>
             </section>
         </article>
@@ -1002,6 +1004,29 @@ const structuredData = {
 
       const evidenceCloseTimers = new WeakMap();
 
+      function positionEvidence(wrap) {
+        const mark = wrap.querySelector('.evidence-mark');
+        const popover = wrap.querySelector('.evidence-popover');
+        if (!(mark instanceof HTMLElement) || !(popover instanceof HTMLElement)) return;
+
+        const markRect = mark.getBoundingClientRect();
+        const popoverWidth = Math.min(380, Math.max(240, window.innerWidth - 32));
+        const measuredHeight = popover.offsetHeight || 160;
+        const left = Math.min(
+          Math.max(16, markRect.left),
+          Math.max(16, window.innerWidth - popoverWidth - 16)
+        );
+        const belowTop = markRect.bottom + 8;
+        const aboveTop = markRect.top - measuredHeight - 8;
+        const top =
+          belowTop + measuredHeight > window.innerHeight - 12 && aboveTop >= 12
+            ? aboveTop
+            : Math.min(belowTop, Math.max(12, window.innerHeight - measuredHeight - 12));
+
+        popover.style.setProperty('--episode-evidence-popover-left', `${Math.round(left)}px`);
+        popover.style.setProperty('--episode-evidence-popover-top', `${Math.round(Math.max(12, top))}px`);
+      }
+
       function closeEvidence(wrap) {
         const timer = evidenceCloseTimers.get(wrap);
         if (timer) window.clearTimeout(timer);
@@ -1016,6 +1041,7 @@ const structuredData = {
         document.querySelectorAll('.evidence-wrap.is-open').forEach((other) => {
           if (other !== wrap) closeEvidence(other);
         });
+        positionEvidence(wrap);
         wrap.classList.add('is-open');
       }
 
@@ -1051,6 +1077,13 @@ const structuredData = {
         if (event.key !== 'Escape') return;
         document.querySelectorAll('.evidence-wrap.is-open').forEach(closeEvidence);
       });
+
+      function repositionOpenEvidence() {
+        document.querySelectorAll('.evidence-wrap.is-open').forEach(positionEvidence);
+      }
+
+      window.addEventListener('resize', repositionOpenEvidence, { passive: true });
+      window.addEventListener('scroll', repositionOpenEvidence, { passive: true });
     </script>
   </body>
 </html>

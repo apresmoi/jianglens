@@ -1,0 +1,54 @@
+---
+import '@astrojs/starlight/style/markdown.css';
+
+const rawHtml = await Astro.slots.render('default');
+const evidencePattern = /\[([^\]\n]+)\]\{evidence=(?:&quot;|"|“)([^"”]+?)(?:&quot;|"|”)\}/g;
+const hrefPattern = /href=(["'])(https?:\/\/[^"']+)\1/g;
+const internalHost = 'jianglens.com';
+
+function escapeAttribute(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function decodeAttribute(value) {
+  return String(value)
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
+}
+
+function evidenceMarkup(text, refs) {
+  const safeRefs = escapeAttribute(decodeAttribute(refs));
+
+  return [
+    `<span class="doc-evidence-wrap" data-evidence-refs="${safeRefs}">`,
+    `<a class="doc-evidence-mark" href="#">${text}</a>`,
+    '<span class="doc-evidence-popover" role="tooltip">',
+    '<span class="doc-evidence-kicker">Loading source trail</span>',
+    '</span>',
+    '</span>',
+  ].join('');
+}
+
+function withOutboundRef(html) {
+  return html.replace(hrefPattern, (match, quote, href) => {
+    try {
+      const url = new URL(decodeAttribute(href));
+      if (!['http:', 'https:'].includes(url.protocol)) return match;
+      if (url.hostname === internalHost) return match;
+      if (!url.searchParams.has('ref')) url.searchParams.set('ref', 'jianglens.com');
+      return `href=${quote}${escapeAttribute(url.toString())}${quote}`;
+    } catch {
+      return match;
+    }
+  });
+}
+
+const html = withOutboundRef(rawHtml.replace(evidencePattern, (_match, text, refs) => evidenceMarkup(text, refs)));
+---
+
+<div class="sl-markdown-content" set:html={html} />
