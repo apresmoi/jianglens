@@ -9,7 +9,7 @@ Religion becomes an administrative filter when a worldview does more than legiti
 
 In this Jiang Lens concept, "religion" is not limited to church or temple. It can mean a cosmic story, a cultivation canon, a ritual code, or even an intellectual procedure that decides who counts as trustworthy. The filter works before mass belief has to be complete. It can be aimed at administrators, scholar-officials, priests, scientists, or any class whose job is to make a large system operate at a distance.
 
-The source trail runs from the **2024 Cyrus lecture** through the **2025 Middle Kingdom** and **Scientific Revolution** lectures. Persia supplies the clean positive mechanism: the empire needs loyal administrators, and Zoroastrianism binds them to truth against lie. China supplies the darker comparison: Confucian bureaucratism routes status, literacy, and culture through a scholar-official monopoly. Science supplies the modern countercase: doubt becomes a productive bureaucracy that later risks gatekeeping out the founding genius.
+The source trail runs from the **2024 Cyrus lecture** through the **2025 Middle Kingdom**, **Scientific Revolution**, and French Revolution lectures. Persia supplies the clean positive mechanism: the empire needs loyal administrators, and Zoroastrianism binds them to truth against lie. China supplies the darker comparison: Confucian bureaucratism routes status, literacy, and culture through a scholar-official monopoly. Science supplies the modern countercase: doubt becomes a productive bureaucracy that later risks gatekeeping out the founding genius. The French Revolution sequence supplies the boundary: reason can inherit religion's truth-making and sacrificial work without primarily functioning as an officeholder filter.
 
 The boundary matters. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) asks what happens when offices and procedures survive after institutional life drains away. Religion as administrative filter asks what code makes the office-holding class selectable and loyal in the first place.
 
@@ -73,6 +73,18 @@ The irony is severe: the system inspired by Galileo, Newton, and Einstein may no
 
 This countercase keeps the concept from becoming anti-religion. The issue is not whether a code is sacred or secular. The issue is whether the code still selects for the institution's living purpose. Zoroastrian truth can discipline loyalty. Confucian cultivation can monopolize status. Scientific method can accelerate discovery. Any filter can also become self-protective, obscure, and hostile to the people who would renew it.
 
+## Boundary: Replacement Religion Is A Different Move
+
+The French Revolution sources clarify what this concept should not absorb. A worldview can act religiously without mainly selecting an administrative class.
+
+In the **2025 Reason Becomes A Religion** lecture, Jiang says modernity answers Christianity by [replacing faith with reason, orthodoxy with debate, and truth with progress]{evidence="video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0005"}. That is not yet an administrative filter. It is a substitution of sacred grammar. Reason, debate, and progress take over the work of naming what counts as true, public, and salvific.
+
+The transfer becomes political when religion's attachments are moved into the nation. Jiang says religion gathers land, family, tradition, food, habit, and love, which is why people die for it; the French Revolution then [moves that loyalty into the nation]{evidence="video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077 video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0078"}. The Napoleon lecture intensifies the same point: the revolution that tries to remove inherited religion becomes [a religious crusade whose new god is reason]{evidence="video:predictive-history-eneet-0j-y8@transcript:v1#seg-0031 video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032"}. Mythic roles still organize action after priests and church authority have been rejected.
+
+That boundary matters for this page. Religion as administrative filter asks how a code selects and disciplines trusted operators: administrators, scholar-officials, scientists, priests, credentialed experts. [Reason as replacement religion](/lens/#reason-replacement-religion-atlas) asks what sacred work a secular order has inherited: truth-making, civil dogma, sacrifice, salvation, nation, economics, science, or technocracy. The two mechanisms can overlap when a replacement religion hardens into schools, exams, credentials, ministries, party offices, or scientific bureaucracy. But the first diagnostic question differs. Administrative filter asks, "Who may serve, and what code makes them trustworthy?" Replacement religion asks, "What has taken over religion's job of grounding truth and making sacrifice meaningful?"
+
+The later Marx lecture shows why the boundary has to remain open. Jiang says capitalism and communism become [the same materialist religion, training attention toward GDP, employment, inflation, equality, and consumption instead of spiritual condition]{evidence="video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0033 video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0034"}. That materialist religion can produce bureaucracies and credential paths, but the root mechanism is wider than selection. It changes what people think can save them.
+
 ## Diagnostics
 
 Use this lens when a large system needs trustworthy people at a distance.
@@ -110,6 +122,13 @@ Finally, ask whether the filter is being mistaken for the purpose. If the office
   `video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0063`  
   `video:predictive-history-cjtunkcu1ia@transcript:v1#seg-0064`
 
+- **2025-04-22 to 2025-05-22**, [Reason Becomes A Religion](/episodes/predictive-history-5hwzx5kqm9o/), [The Empire of Myth](/episodes/predictive-history-eneet-0j-y8/), and [What Marx Got Right And Why Marx Got History Wrong](/episodes/predictive-history-m24lnq-ksjk/)  
+  The replacement-religion boundary keeps this page narrow. Reason, nation, and materialist economics can inherit religion's truth-making, salvation, and sacrificial functions before or beyond any specific officeholder-selection system.  
+  `video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0005`  
+  `video:predictive-history-5hwzx5kqm9o@transcript:v1#seg-0077`  
+  `video:predictive-history-eneet-0j-y8@transcript:v1#seg-0032`  
+  `video:predictive-history-m24lnq-ksjk@transcript:v1#seg-0034`
+
 ## Related Concepts
 
 - [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) - for what happens when the office and procedure preserve themselves after the living purpose drains away.
@@ -117,3 +136,4 @@ Finally, ask whether the filter is being mistaken for the purpose. If the office
 - [Legitimacy Fiction](/lens/legitimacy-fiction/) - for invented political forms that become inheritable worlds.
 - [Sacred Machines](/lens/sacred-machines/) - for material systems that bridge invisible order into public life.
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as a formation system that can prepare people for obedience, status, or living thought.
+- [Reason As Replacement Religion](/lens/#reason-replacement-religion-atlas) - for the atlas relation where reason, debate, progress, nation, economics, science, or technocracy inherit religion's truth-making and salvation work rather than primarily filtering officeholders.
