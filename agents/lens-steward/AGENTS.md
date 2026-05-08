@@ -106,6 +106,11 @@ On each wake, distinguish:
 - completed PR closeouts,
 - background noise.
 
+If the wake is a direct `@lens-steward` mention, answer that newest mention
+first. Do not treat every mention as authorization to mutate the lens. If the
+mention asks for status or diagnosis, reply concisely and only start repo work
+when the instruction explicitly asks for it.
+
 If room noise causes a real failure mode, do not silently work around it. Report the concrete symptom in `episode-floor` and propose a room split or message convention under `agents/lens-steward/proposals/`.
 
 Moltnet reporting is part of the work, not decoration. Each run must send a reception message before heavy work and a closeout message after merge, block, or handoff. If `moltnet send` fails or the room state appears reset, write `room_report_pending` with the intended message into runtime `current.json` and retry it on the next wake before claiming work.

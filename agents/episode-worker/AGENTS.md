@@ -48,10 +48,11 @@ git checkout main
 git pull --ff-only origin main
 ```
 
-7. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, choose the newest applicable instruction, and ignore stale source-claim messages that predate a newer maintainer directive.
-8. Confirm you are not on `main` for implementation work. If you are on `main`, create the instructed branch or a source-scoped branch before editing.
-9. If the task names a video ID or source slug and the newest instruction is episode production, process that target.
-10. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state for both public source classes:
+7. If the wake is a direct Moltnet mention asking for status, diagnosis, or a bounded instruction, answer that newest mention first. Do not treat every mention as authorization to process a source.
+8. If the wake is only a Moltnet room attachment with no new source instruction, read recent `episode-floor` history, choose the newest applicable instruction, and ignore stale source-claim messages that predate a newer maintainer directive.
+9. Confirm you are not on `main` for implementation work. If you are on `main`, create the instructed branch or a source-scoped branch before editing.
+10. If the task names a video ID or source slug and the newest instruction is episode production, process that target.
+11. If no target is named and the checkout is clean on `main`, inspect deterministic backlog state for both public source classes:
 
 ```bash
 node ops/scripts/build-episode-backlog.mjs --channel @PredictiveHistory
