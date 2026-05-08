@@ -1,6 +1,6 @@
 ---
 name: jiang-video-e2e
-description: Use this skill as the integration map for turning one already-transcribed Jiang Lens video from synced Drive artifacts into a website-visible episode, delegating detailed work to the narrower ingest, transcript, read-writing, and publishing skills.
+description: Use this skill as the integration map for turning one already-transcribed Jiang Lens video from synced Drive artifacts into a website-visible episode or interview, delegating detailed work to the narrower ingest, transcript, read-writing, and publishing skills.
 ---
 
 # Jiang Video E2E
@@ -13,8 +13,8 @@ Google Drive Colab artifacts
 -> canonical source transcript
 -> semantic packet outputs
 -> internal semantic bundle
--> public episode read
--> generated website episode
+-> public source read
+-> generated website episode or interview
 ```
 
 This is a pipeline map, not a future autonomous-agent persona. Autonomous agents should normally run the narrower skill for their job. This skill is useful when a maintainer asks for one video end-to-end or when we need to test whether the narrower skills compose correctly.
@@ -29,6 +29,12 @@ Colab automation belongs to `colab-video-pipeline`. For normal content agents, a
 
 ```text
 content/sources/raw/youtube/<channel>/<video-id>/
+  metadata.youtube.json
+  dump.json
+  grouped.json
+  transcription.json
+
+content/sources/raw/youtube/Interviews/<host-channel-id>/<video-id>/
   metadata.youtube.json
   dump.json
   grouped.json
@@ -52,6 +58,8 @@ The integration entry point remains:
 
 ```bash
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory
+# or, for interview-format sources:
+node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel Interviews/<host-channel-id>
 ```
 
 If the orchestrator stops at source import, metadata, or packet preparation, resolve that under `jiang-source-ingest`.
@@ -70,6 +78,7 @@ Then rerun:
 
 ```bash
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory
+# or the same interview command used at ingest
 ```
 
 ## Stage 3: Semantic Transcript Pass
@@ -94,7 +103,7 @@ Then rerun the orchestrator. When all packet outputs exist, it aggregates:
 content/lens/evidence/videos/<source-slug>.semantic.json
 ```
 
-## Stage 4: Public Episode Read
+## Stage 4: Public Source Read
 
 Use `jiang-episode-read-writer`.
 
@@ -104,7 +113,7 @@ Expected output:
 content/lens/episodes/<source-slug>/read.json
 ```
 
-The public episode is not complete with only transcript, claims, glossary candidates, or semantic bundles. It needs a readable Jiang-voice distillation.
+The public source is not complete with only transcript, claims, glossary candidates, or semantic bundles. It needs a readable Jiang-voice distillation. Interview reads should preserve interviewer pressure, questions, and conversational context where those shape Jiang's answer.
 
 ## Stage 5: Episode Publication
 
@@ -114,6 +123,7 @@ Expected generated output:
 
 ```text
 website/src/data/lens/episodes/<source-slug>.json
+website/src/data/lens/interviews/<source-slug>.json
 ```
 
 Expected routes:
@@ -121,6 +131,8 @@ Expected routes:
 ```text
 /episodes/<source-slug>/
 /episodes/<source-slug>/transcript/
+/interviews/<source-slug>/
+/interviews/<source-slug>/transcript/
 ```
 
 ## Stage 6: Optional Existing Lens Links

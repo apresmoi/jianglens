@@ -27,7 +27,7 @@ function parseArgs(argv) {
 
 function usage() {
   return `Usage:
-  node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @PredictiveHistory`;
+  node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID [--channel @PredictiveHistory|Interviews/<host-channel-id>]`;
 }
 
 function required(args, key) {
@@ -63,15 +63,16 @@ async function exists(filePath) {
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const videoId = required(args, "video-id");
-  const channel = required(args, "channel");
+  const channel = args.get("channel");
 
-  const importStdout = await runNode("ops/scripts/import-colab-video.mjs", [
-    "--video-id", videoId,
-    "--channel", channel,
-  ]);
+  const importArgs = ["--video-id", videoId];
+  if (channel && channel !== true) importArgs.push("--channel", channel);
+  const importStdout = await runNode("ops/scripts/import-colab-video.mjs", importArgs);
   const imported = lastJson(importStdout);
   const sourceDir = imported.output_dir;
   const sourceSlug = path.basename(sourceDir);
+  const collection = imported.collection === "interviews" ? "interviews" : "episodes";
+  const publicBase = collection === "interviews" ? "/interviews" : "/episodes";
   const boundaryCandidates = path.join("content/workflow/tasks", sourceSlug, "transcript-boundary-candidates.jsonl");
   const boundaryDecisions = path.join("content/workflow/reviews", sourceSlug, "transcript-boundary-decisions.json");
 
@@ -138,16 +139,18 @@ async function main() {
   console.log(JSON.stringify({
     status: "published",
     source_id: imported.source_id,
+    source_class: imported.source_class ?? (collection === "interviews" ? "interview" : "episode"),
+    collection,
     semantic_bundle: `content/lens/evidence/videos/${manifest.source_slug}.semantic.json`,
-    episode_data: `website/src/data/lens/episodes/${manifest.source_slug}.json`,
-    website_path: `/episodes/${manifest.source_slug}/`,
+    episode_data: `website/src/data/lens/${collection}/${manifest.source_slug}.json`,
+    website_path: `${publicBase}/${manifest.source_slug}/`,
     counts: {
       claims: aggregate.claims,
       predictions: aggregate.predictions,
       models: aggregate.models,
       glossary_terms: aggregate.glossary_terms,
     },
-    next: "Episode is published. Corpus impact and lens/canon work are separate downstream jobs.",
+    next: "Source is published. Corpus impact and lens/canon work are separate downstream jobs.",
   }, null, 2));
 }
 

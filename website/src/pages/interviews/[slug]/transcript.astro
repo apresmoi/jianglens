@@ -1,0 +1,734 @@
+---
+import GoogleAnalytics from '../../../components/GoogleAnalytics.astro';
+import IconLinks from '../../../components/IconLinks.astro';
+import SiteHeader from '../../../components/SiteHeader.astro';
+import { absoluteUrl, externalHref } from '../../../../site.config.mjs';
+import { listInterviewSlugs, readInterview } from '../../../lib/episodes.mjs';
+
+export async function getStaticPaths() {
+  const slugs = await listInterviewSlugs();
+  return slugs.map((slug) => ({ params: { slug } }));
+}
+
+const episode = await readInterview(Astro.params.slug);
+const transcriptSegments = episode.transcript ?? [];
+const title = `${episode.title} transcript | Jiang Lens`;
+const description = `Full transcript archive for ${episode.title}.`;
+const canonicalUrl = absoluteUrl(`/interviews/${episode.slug}/transcript/`);
+const sourceUrl = episode.source_url;
+const readUrl = `../`;
+const playerOrigin = new URL(canonicalUrl).origin;
+const playerUrl = episode.embed_url
+  ? `${episode.embed_url}${episode.embed_url.includes('?') ? '&' : '?'}enablejsapi=1&origin=${encodeURIComponent(playerOrigin)}`
+  : '';
+
+const speakerCounts = transcriptSegments.reduce((counts, segment) => {
+  if (!segment.speaker || segment.speaker === 'UNKNOWN') return counts;
+  counts[segment.speaker] = (counts[segment.speaker] ?? 0) + 1;
+  return counts;
+}, {});
+const primarySpeaker = Object.entries(speakerCounts).sort((a, b) => b[1] - a[1])[0]?.[0];
+
+function roleForSegment(segment) {
+  const tags = segment.tags ?? [];
+  if (segment.speaker === primarySpeaker) return 'Jiang';
+  if (tags.includes('reading-quoted-material')) return 'Source';
+  if (tags.includes('exchange')) return 'Participant';
+  if (segment.speaker === 'UNKNOWN') return 'Audio';
+  return 'Participant';
+}
+
+function tagLabels(segment, role) {
+  const labels = {
+    exchange: 'exchange',
+    'reading-quoted-material': 'source read-aloud',
+    unclear: 'unclear audio',
+  };
+
+  return (segment.tags ?? [])
+    .filter((tag) => tag !== 'monologue')
+    .filter((tag) => !(role === 'Participant' && tag === 'exchange'))
+    .filter((tag) => !(role === 'Source' && tag === 'reading-quoted-material'))
+    .filter((tag) => !(role === 'Audio' && tag === 'unclear'))
+    .map((tag) => labels[tag] || tag);
+}
+
+function transcriptChunks(segment) {
+  const chunks = Array.isArray(segment.timed_chunks) && segment.timed_chunks.length
+    ? segment.timed_chunks
+    : [{
+      id: `${segment.id}-chunk-001`,
+      start: segment.start,
+      end: segment.end,
+      text: segment.text,
+    }];
+
+  return chunks.filter((chunk) => chunk?.text);
+}
+
+const initialSegment = transcriptSegments[0];
+const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <GoogleAnalytics />
+    <IconLinks />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090a08;
+        --panel: #10110e;
+        --ink: #f4ead8;
+        --soft: #d7ccbb;
+        --muted: #928b7d;
+        --line: rgba(244, 234, 216, 0.14);
+        --line-strong: rgba(244, 234, 216, 0.26);
+        --gold: #c9a765;
+        --rust: #9f5f44;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        background: var(--bg);
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background:
+          linear-gradient(90deg, rgba(244, 234, 216, 0.018) 1px, transparent 1px) 0 0 / 88px 88px,
+          linear-gradient(180deg, rgba(159, 95, 68, 0.075), transparent 540px),
+          var(--bg);
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      a,
+      button {
+        color: inherit;
+        font: inherit;
+      }
+
+      .shell {
+        width: min(1360px, calc(100% - 36px));
+        margin: 0 auto;
+      }
+
+      .button {
+        min-height: 34px;
+        display: inline-flex;
+        align-items: center;
+        border: 1px solid var(--line);
+        border-radius: 4px;
+        padding: 0 10px;
+        background: rgba(244, 234, 216, 0.035);
+        color: var(--soft);
+        font-size: 0.84rem;
+        font-weight: 720;
+        text-decoration: none;
+      }
+
+      .button:hover,
+      .button:focus-visible {
+        border-color: rgba(201, 167, 101, 0.56);
+        color: var(--ink);
+        outline: none;
+      }
+
+      .transcript-grid {
+        --sticky-top: 84px;
+        display: grid;
+        grid-template-columns: minmax(0, 820px) minmax(340px, 420px);
+        grid-template-areas:
+          "hero media"
+          "transcript media";
+        align-items: start;
+        gap: 30px 46px;
+        padding: 34px 0 70px;
+      }
+
+      .hero {
+        grid-area: hero;
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 28px;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: var(--gold);
+        font-size: 0.72rem;
+        font-weight: 780;
+        text-transform: uppercase;
+      }
+
+      .eyebrow::before {
+        content: "";
+        width: 26px;
+        height: 1px;
+        background: var(--gold);
+      }
+
+      h1 {
+        max-width: 780px;
+        margin: 13px 0 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(1.9rem, 3.3vw, 3.1rem);
+        font-weight: 560;
+        line-height: 1.07;
+        letter-spacing: 0;
+      }
+
+      .summary {
+        max-width: 690px;
+        margin: 16px 0 0;
+        color: var(--soft);
+        font-size: 0.98rem;
+        line-height: 1.62;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 20px;
+      }
+
+      .media-rail {
+        grid-area: media;
+        position: sticky;
+        top: var(--sticky-top);
+        z-index: 12;
+        display: grid;
+        gap: 12px;
+      }
+
+      .player {
+        position: relative;
+        overflow: hidden;
+        border: 1px solid rgba(244, 234, 216, 0.18);
+        background: #000;
+        aspect-ratio: 16 / 9;
+      }
+
+      .player iframe {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+
+      .player-status {
+        border-top: 1px solid var(--line);
+        padding-top: 10px;
+      }
+
+      .status-kicker {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.68rem;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+
+      .status-value {
+        margin: 4px 0 0;
+        color: var(--soft);
+        font-size: 0.84rem;
+        font-weight: 650;
+        line-height: 1.35;
+      }
+
+      .transcript {
+        grid-area: transcript;
+        display: grid;
+        border-top: 1px solid var(--line);
+      }
+
+      .segment {
+        position: relative;
+        display: grid;
+        grid-template-columns: 74px minmax(0, 1fr);
+        gap: 18px;
+        border-bottom: 1px solid rgba(244, 234, 216, 0.11);
+        padding: 18px 0 18px 14px;
+        scroll-margin-top: 92px;
+      }
+
+      .segment::before {
+        content: "";
+        position: absolute;
+        inset: 14px auto 14px 0;
+        width: 2px;
+        background: transparent;
+      }
+
+      .segment:target,
+      .segment.is-active {
+        background: linear-gradient(90deg, rgba(201, 167, 101, 0.105), rgba(201, 167, 101, 0));
+      }
+
+      .segment:target::before,
+      .segment.is-active::before {
+        background: var(--gold);
+      }
+
+      .segment.is-active p {
+        color: var(--ink);
+      }
+
+      .time {
+        width: 100%;
+        display: inline-flex;
+        justify-content: flex-start;
+        border: 0;
+        background: transparent;
+        color: var(--gold);
+        cursor: pointer;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 0.8rem;
+        line-height: 1.45;
+        padding: 2px 0;
+        text-align: left;
+      }
+
+      .time:hover,
+      .time:focus-visible {
+        color: var(--ink);
+        outline: none;
+        text-decoration: underline;
+        text-decoration-color: rgba(201, 167, 101, 0.72);
+        text-underline-offset: 4px;
+      }
+
+      .segment-meta {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 7px;
+        margin-bottom: 8px;
+      }
+
+      .role {
+        color: var(--ink);
+        font-size: 0.72rem;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+        line-height: 1.2;
+        text-transform: uppercase;
+      }
+
+      .tag {
+        color: var(--muted);
+        font-size: 0.72rem;
+        font-weight: 680;
+        line-height: 1.2;
+        text-transform: uppercase;
+      }
+
+      .tag::before {
+        content: "/";
+        margin-right: 7px;
+        color: rgba(244, 234, 216, 0.24);
+      }
+
+      .segment p {
+        margin: 0;
+        color: var(--soft);
+        font-size: 1rem;
+        line-height: 1.66;
+      }
+
+      .transcript-text {
+        cursor: pointer;
+        transition: color 220ms ease;
+      }
+
+      .speech-chunk {
+        border-radius: 3px;
+        box-decoration-break: clone;
+        -webkit-box-decoration-break: clone;
+        margin: -0.05em -0.03em;
+        padding: 0.05em 0.04em;
+        transition:
+          color 260ms ease,
+          font-weight 260ms ease,
+          text-decoration-color 260ms ease,
+          text-shadow 260ms ease;
+      }
+
+      .segment.is-active .speech-chunk {
+        color: rgba(244, 234, 216, 0.84);
+      }
+
+      .speech-chunk:hover,
+      .speech-chunk:focus-visible {
+        color: var(--ink);
+        outline: none;
+        text-decoration: underline;
+        text-decoration-color: rgba(201, 167, 101, 0.45);
+        text-decoration-thickness: 1px;
+        text-underline-offset: 4px;
+      }
+
+      .speech-chunk.is-hot {
+        background: transparent;
+        box-shadow: none;
+        color: #fffdf5;
+        font-weight: 740;
+        text-decoration: underline;
+        text-decoration-color: rgba(201, 167, 101, 0.96);
+        text-decoration-thickness: 2px;
+        text-underline-offset: 0.16em;
+        text-shadow: 0 0 12px rgba(201, 167, 101, 0.26);
+      }
+
+      .segment.is-active .speech-chunk.is-hot {
+        color: #fffdf5;
+      }
+
+      .speech-chunk.is-fading {
+        background: transparent;
+        box-shadow: none;
+        color: rgba(244, 234, 216, 0.9);
+        text-decoration: underline;
+        text-decoration-color: rgba(201, 167, 101, 0.28);
+        text-decoration-thickness: 1px;
+        text-underline-offset: 0.16em;
+        transition-duration: 780ms;
+      }
+
+      @media (max-width: 1050px) {
+        .transcript-grid {
+          grid-template-columns: minmax(0, 1fr) minmax(300px, 360px);
+          gap: 28px;
+        }
+      }
+
+      @media (max-width: 900px) {
+        .transcript-grid {
+          grid-template-columns: 1fr;
+          grid-template-areas:
+            "hero"
+            "media"
+            "transcript";
+          padding: 30px 0 58px;
+        }
+
+        .media-rail {
+          position: static;
+        }
+      }
+
+      @media (max-width: 680px) {
+        .shell {
+          width: min(100% - 28px, 1360px);
+        }
+
+        .transcript-grid {
+          gap: 22px;
+        }
+
+        .segment {
+          grid-template-columns: 62px minmax(0, 1fr);
+          gap: 12px;
+          padding-left: 10px;
+        }
+
+        .segment p {
+          font-size: 0.96rem;
+          line-height: 1.62;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <SiteHeader base="../../../" current="interviews" maxWidth="1360px" />
+
+    <main>
+      <div class="shell transcript-grid">
+        <section class="hero">
+          <span class="eyebrow">Transcript archive</span>
+          <h1>{episode.title}</h1>
+          <p class="summary">
+            Source-synced transcript for the compressed reading. Spans keep the original chronology, timestamps, and audit trail behind the public interpretation.
+          </p>
+          <div class="actions">
+            <a class="button" href={readUrl}>Back to reading</a>
+            <a class="button" href={externalHref(sourceUrl)} target="_blank" rel="noreferrer">Source video</a>
+          </div>
+        </section>
+
+        <aside class="media-rail" aria-label="Transcript video">
+          <div class="player">
+            {playerUrl && (
+              <iframe
+                id="transcript-player"
+                data-transcript-player
+                data-base-src={playerUrl}
+                src={playerUrl}
+                title={episode.title}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              />
+            )}
+          </div>
+          <div class="player-status" aria-live="polite">
+            <p class="status-kicker">Current span</p>
+            <p class="status-value" data-current-segment>
+              {initialSegment ? `${initialSegment.time_label} - ${initialRole}` : 'No transcript spans'}
+            </p>
+          </div>
+        </aside>
+
+        <section class="transcript" aria-label="Full transcript">
+          {transcriptSegments.map((segment) => {
+            const role = roleForSegment(segment);
+            const labels = tagLabels(segment, role);
+            const chunks = transcriptChunks(segment);
+            return (
+              <article
+                class="segment"
+                id={segment.id}
+                data-transcript-segment
+                data-segment-start={segment.start}
+                data-segment-end={segment.end}
+                data-segment-time={segment.time_label}
+                data-segment-label={role}
+              >
+                <button class="time" type="button" data-seek-start={segment.start}>
+                  {segment.time_label}
+                </button>
+                <div class="segment-body">
+                  <div class="segment-meta">
+                    <span class="role">{role}</span>
+                    {labels.map((label) => <span class="tag">{label}</span>)}
+                  </div>
+                  <p class="transcript-text" data-segment-text data-seek-start={segment.start}>
+                    {chunks.map((chunk, index) => (
+                      <>
+                        <span
+                          class="speech-chunk"
+                          data-speech-chunk
+                          data-seek-start={chunk.start}
+                          data-chunk-start={chunk.start}
+                          data-chunk-end={chunk.end}
+                          role="button"
+                          tabindex="0"
+                        >
+                          {chunk.text}
+                        </span>
+                        {index < chunks.length - 1 && ' '}
+                      </>
+                    ))}
+                  </p>
+                </div>
+              </article>
+            );
+          })}
+        </section>
+      </div>
+    </main>
+
+    <script is:inline>
+      const iframe = document.querySelector('[data-transcript-player]');
+      const baseSrc = iframe?.getAttribute('data-base-src') || iframe?.getAttribute('src') || '';
+      const status = document.querySelector('[data-current-segment]');
+      const segments = Array.from(document.querySelectorAll('[data-transcript-segment]')).map((el) => ({
+        el,
+        start: Number(el.getAttribute('data-segment-start')),
+        end: Number(el.getAttribute('data-segment-end')),
+        time: el.getAttribute('data-segment-time') || '',
+        label: el.getAttribute('data-segment-label') || '',
+        chunks: Array.from(el.querySelectorAll('[data-speech-chunk]')).map((chunkEl) => ({
+          el: chunkEl,
+          start: Number(chunkEl.getAttribute('data-chunk-start')),
+          end: Number(chunkEl.getAttribute('data-chunk-end')),
+        })),
+      }));
+      let activeSegment = null;
+      let activeChunk = null;
+      let player = null;
+      let playerReady = false;
+      const fadeTimers = new WeakMap();
+
+      function segmentForTime(time) {
+        if (!segments.length || !Number.isFinite(time)) return null;
+
+        let candidate = segments[0];
+        for (const segment of segments) {
+          if (time >= segment.start && time < segment.end) return segment;
+          if (time >= segment.start) candidate = segment;
+        }
+        return candidate;
+      }
+
+      function chunkForTime(segment, time) {
+        const chunks = segment?.chunks ?? [];
+        if (!chunks.length || !Number.isFinite(time)) return chunks[0] ?? null;
+
+        let candidate = chunks[0];
+        for (const chunk of chunks) {
+          if (time >= chunk.start && time < chunk.end + 0.18) return chunk;
+          if (time >= chunk.start) candidate = chunk;
+        }
+        return candidate;
+      }
+
+      function setActiveChunk(chunk) {
+        if (activeChunk?.el === chunk?.el) return;
+
+        if (activeChunk?.el) {
+          const fadingEl = activeChunk.el;
+          fadingEl.classList.remove('is-hot');
+          fadingEl.classList.add('is-fading');
+          const previousTimer = fadeTimers.get(fadingEl);
+          if (previousTimer) window.clearTimeout(previousTimer);
+          fadeTimers.set(fadingEl, window.setTimeout(() => {
+            fadingEl.classList.remove('is-fading');
+          }, 820));
+        }
+
+        if (chunk?.el) {
+          const timer = fadeTimers.get(chunk.el);
+          if (timer) window.clearTimeout(timer);
+          chunk.el.classList.remove('is-fading');
+          chunk.el.classList.add('is-hot');
+        }
+
+        activeChunk = chunk;
+      }
+
+      function keepSegmentReadable(segment) {
+        const rect = segment.el.getBoundingClientRect();
+        const topLimit = 92;
+        const bottomLimit = window.innerHeight - 92;
+        if (rect.top >= topLimit && rect.bottom <= bottomLimit) return;
+        segment.el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      }
+
+      function setActiveSegment(segment, options = {}) {
+        if (!segment) return;
+        const changed = activeSegment?.el !== segment.el;
+
+        if (changed) {
+          activeSegment?.el.classList.remove('is-active');
+          activeSegment?.el.removeAttribute('aria-current');
+          segment.el.classList.add('is-active');
+          segment.el.setAttribute('aria-current', 'true');
+          activeSegment = segment;
+        }
+
+        if (status) {
+          status.textContent = `${segment.time} - ${segment.label}`;
+        }
+
+        setActiveChunk(chunkForTime(segment, options.time ?? segment.start));
+
+        if (options.keepVisible && changed) {
+          keepSegmentReadable(segment);
+        }
+
+        if (options.scroll) {
+          segment.el.scrollIntoView({ block: 'center', behavior: options.instant ? 'auto' : 'smooth' });
+        }
+      }
+
+      function iframeUrl(start, autoplay = false) {
+        if (!baseSrc) return '';
+        const params = [`start=${Math.max(0, Math.floor(start))}`];
+        if (autoplay) params.push('autoplay=1');
+        return `${baseSrc}${baseSrc.includes('?') ? '&' : '?'}${params.join('&')}`;
+      }
+
+      function seekTranscript(start) {
+        const segment = segmentForTime(start);
+        setActiveSegment(segment, { time: start });
+
+        if (playerReady && player && typeof player.seekTo === 'function') {
+          player.seekTo(start, true);
+          if (typeof player.playVideo === 'function') player.playVideo();
+          return;
+        }
+
+        if (iframe && baseSrc) {
+          iframe.setAttribute('src', iframeUrl(start, true));
+        }
+      }
+
+      document.querySelectorAll('button[data-seek-start], [data-speech-chunk][data-seek-start]').forEach((control) => {
+        control.addEventListener('click', (event) => {
+          event.stopPropagation();
+          const start = Number(control.getAttribute('data-seek-start'));
+          if (Number.isFinite(start)) seekTranscript(start);
+        });
+
+        control.addEventListener('keydown', (event) => {
+          if (event.key !== 'Enter' && event.key !== ' ') return;
+          event.preventDefault();
+          event.stopPropagation();
+          const start = Number(control.getAttribute('data-seek-start'));
+          if (Number.isFinite(start)) seekTranscript(start);
+        });
+      });
+
+      document.querySelectorAll('[data-segment-text]').forEach((control) => {
+        control.addEventListener('click', () => {
+          const start = Number(control.getAttribute('data-seek-start'));
+          if (Number.isFinite(start)) seekTranscript(start);
+        });
+      });
+
+      const hashSegment = window.location.hash
+        ? segments.find((segment) => `#${segment.el.id}` === window.location.hash)
+        : null;
+      const initialSegment = hashSegment || segments[0];
+      setActiveSegment(initialSegment, { scroll: Boolean(hashSegment), instant: true });
+      if (hashSegment && iframe && baseSrc) {
+        iframe.setAttribute('src', iframeUrl(hashSegment.start));
+      }
+
+      function syncFromPlayer() {
+        if (!playerReady || !player || typeof player.getCurrentTime !== 'function') return;
+        const state = typeof player.getPlayerState === 'function' ? player.getPlayerState() : null;
+        const playerState = window.YT?.PlayerState;
+        if (playerState && state !== playerState.PLAYING && state !== playerState.BUFFERING) return;
+        const time = player.getCurrentTime();
+        setActiveSegment(segmentForTime(time), { time, keepVisible: true });
+      }
+
+      window.onYouTubeIframeAPIReady = () => {
+        if (!iframe || !window.YT?.Player) return;
+        player = new window.YT.Player('transcript-player', {
+          events: {
+            onReady: () => {
+              playerReady = true;
+              window.setInterval(syncFromPlayer, 450);
+            },
+          },
+        });
+      };
+
+      if (iframe && !window.YT?.Player) {
+        const apiScript = document.createElement('script');
+        apiScript.src = 'https://www.youtube.com/iframe_api';
+        document.head.appendChild(apiScript);
+      } else if (iframe) {
+        window.onYouTubeIframeAPIReady();
+      }
+    </script>
+  </body>
+</html>

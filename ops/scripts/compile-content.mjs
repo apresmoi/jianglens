@@ -10,6 +10,7 @@ const contentRoot = path.join(repoRoot, 'content');
 const generatedRoot = path.join(contentRoot, '_generated');
 const websiteDataRoot = path.join(repoRoot, 'website/src/data/lens');
 const websiteEpisodesDataRoot = path.join(websiteDataRoot, 'episodes');
+const websiteInterviewsDataRoot = path.join(websiteDataRoot, 'interviews');
 const websiteDocsRoot = path.join(repoRoot, 'website/src/content/docs');
 const evidenceVideosRoot = path.join(contentRoot, 'lens/evidence/videos');
 const episodeReadsRoot = path.join(contentRoot, 'lens/episodes');
@@ -426,13 +427,13 @@ function annotateRefs(items, segmentByRef, lensPointById = new Map()) {
 }
 
 function sourceRefParts(ref) {
-  const video = String(ref ?? '').match(/^video:([^@]+)@transcript:v([0-9]+)#(seg-[0-9]{4})$/);
-  if (video) {
+  const transcript = String(ref ?? '').match(/^(video|interview):([^@]+)@transcript:v([0-9]+)#(seg-[0-9]{4})$/);
+  if (transcript) {
     return {
-      type: 'video',
-      slug: video[1],
-      version: Number(video[2]),
-      segment_id: video[3],
+      type: transcript[1],
+      slug: transcript[2],
+      version: Number(transcript[3]),
+      segment_id: transcript[4],
     };
   }
 
@@ -545,7 +546,32 @@ function timestampedUrl(sourceUrl, start) {
     : sourceUrl;
 }
 
-function tagSegments(segments, interactions, { slug, sourceUrl } = {}) {
+function sourceCollection(source) {
+  const sourceClass = String(source.source_class ?? '').toLowerCase();
+  const collection = String(source.collection ?? '').toLowerCase();
+  if (sourceClass === 'interview' || collection === 'interviews') return 'interviews';
+  return 'episodes';
+}
+
+function sourceClassForCollection(collection) {
+  return collection === 'interviews' ? 'interview' : 'episode';
+}
+
+function publicBaseForCollection(collection) {
+  return collection === 'interviews' ? '/interviews' : '/episodes';
+}
+
+function publicSourceUrl(source) {
+  const basePath = source.path_base || publicBaseForCollection(source.collection);
+  return source.path || `${basePath}/${source.slug}/`;
+}
+
+function publicTranscriptUrl(source, segmentId = '') {
+  const base = source.transcript_path || `${publicSourceUrl(source)}transcript/`;
+  return segmentId ? `${base}#${segmentId}` : base;
+}
+
+function tagSegments(segments, interactions, { slug, sourceUrl, basePath = '/episodes' } = {}) {
   const tagsBySegment = new Map();
   for (const interaction of interactions) {
     for (const ref of interaction.refs ?? []) {
@@ -559,8 +585,8 @@ function tagSegments(segments, interactions, { slug, sourceUrl } = {}) {
 
   return segments.map((segment) => ({
     ...segment,
-    episode_url: slug ? `/episodes/${slug}/` : null,
-    transcript_url: slug ? `/episodes/${slug}/transcript/#${segment.id}` : null,
+    episode_url: slug ? `${basePath}/${slug}/` : null,
+    transcript_url: slug ? `${basePath}/${slug}/transcript/#${segment.id}` : null,
     video_url: timestampedUrl(sourceUrl, segment.start),
     time_label: formatDuration(segment.start),
     tags: [...(tagsBySegment.get(segment.id) ?? [])],
@@ -573,7 +599,14 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
   const transcriptPath = path.join(repoRoot, aggregate.generated_from.transcript_path);
   const source = parseSimpleYaml(await readFile(sourcePath, 'utf8'));
   const transcriptSegments = parseJsonl(await readFile(transcriptPath, 'utf8'));
-  const segmentByRef = new Map(transcriptSegments.map((segment) => [segment.source_ref, segment]));
+  const collection = sourceCollection(source);
+  const segmentByRef = new Map();
+  for (const segment of transcriptSegments) {
+    segmentByRef.set(segment.source_ref, segment);
+    if (collection === 'interviews' && String(segment.source_ref).startsWith('video:')) {
+      segmentByRef.set(String(segment.source_ref).replace(/^video:/, 'interview:'), segment);
+    }
+  }
   const interactions = annotateRefs(aggregate.interactions ?? [], segmentByRef);
   const speakerNotes = annotateRefs(aggregate.speaker_notes ?? [], segmentByRef);
   const claims = annotateRefs(aggregate.claims ?? [], segmentByRef);
@@ -581,6 +614,8 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
   const glossaryTerms = groupedGlossaryTerms(aggregate.glossary_terms ?? [], segmentByRef);
   const chronologyNotes = annotateRefs(aggregate.chronology_notes ?? [], segmentByRef);
   const uncertaintyNotes = annotateRefs(aggregate.uncertainty_notes ?? [], segmentByRef);
+  const sourceClass = sourceClassForCollection(collection);
+  const pathBase = publicBaseForCollection(collection);
   const sourceUrl = source.source_url || aggregate.source_url;
   const read = await readEpisodeRead(aggregate.source_slug, segmentByRef, lensPointById);
 
@@ -595,6 +630,8 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
     generated_at: generatedAt,
     slug: aggregate.source_slug,
     id: aggregate.source_id,
+    source_class: sourceClass,
+    collection,
     title: source.title || aggregate.source_title,
     source_url: sourceUrl,
     video_id: source.video_id,
@@ -605,6 +642,10 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
     date_label: dateLabel(source),
     chronology_status: source.chronology_status || 'unknown',
     channel: source.channel ?? null,
+    path_base: pathBase,
+    path: `${pathBase}/${aggregate.source_slug}/`,
+    transcript_path: `${pathBase}/${aggregate.source_slug}/transcript/`,
+    data_url: `/data/lens/${collection}/${aggregate.source_slug}.json`,
     counts: {
       ...aggregate.counts,
       glossary_candidates: aggregate.counts.glossary_terms,
@@ -625,6 +666,7 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
     transcript: tagSegments(transcriptSegments, aggregate.interactions ?? [], {
       slug: aggregate.source_slug,
       sourceUrl,
+      basePath: pathBase,
     }),
     interactions,
     speaker_notes: speakerNotes,
@@ -641,44 +683,66 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
 }
 
 async function writeEpisodeData(lensPointById = new Map()) {
-  await rm(websiteEpisodesDataRoot, { recursive: true, force: true });
-  await mkdir(websiteEpisodesDataRoot, { recursive: true });
+  const collectionRoots = {
+    episodes: websiteEpisodesDataRoot,
+    interviews: websiteInterviewsDataRoot,
+  };
+
+  for (const root of Object.values(collectionRoots)) {
+    await rm(root, { recursive: true, force: true });
+    await mkdir(root, { recursive: true });
+  }
 
   const semanticFiles = (await listJsonFiles(evidenceVideosRoot))
     .filter((filePath) => filePath.endsWith('.semantic.json'));
-  const episodes = [];
+  const collectionEntries = {
+    episodes: [],
+    interviews: [],
+  };
+  const sources = [];
   const transcriptSearchSegments = [];
 
   for (const semanticFile of semanticFiles) {
-    const episode = await buildEpisodeData(semanticFile, lensPointById);
-    const outputPath = path.join(websiteEpisodesDataRoot, `${episode.slug}.json`);
-    await writeFile(outputPath, `${JSON.stringify(episode, null, 2)}\n`);
-    const episodeTitle = episode.read?.title || episode.title;
-    episodes.push({
-      slug: episode.slug,
-      title: episodeTitle,
-      source_title: episode.title,
-      dek: episode.read?.dek || null,
-      source_url: episode.source_url,
-      published_at: episode.published_at,
-      date_label: episode.date_label,
-      read_time: episode.read?.read_time || null,
-      counts: episode.counts,
-      path: `/episodes/${episode.slug}/`,
-      transcript_path: `/episodes/${episode.slug}/transcript/`,
-      markdown_path: `/episodes/${episode.slug}.md`,
-      data_url: `/data/lens/episodes/${episode.slug}.json`,
-      data_path: `website/src/data/lens/episodes/${episode.slug}.json`,
-    });
+    const source = await buildEpisodeData(semanticFile, lensPointById);
+    const collection = source.collection === 'interviews' ? 'interviews' : 'episodes';
+    const outputRoot = collectionRoots[collection];
+    const outputPath = path.join(outputRoot, `${source.slug}.json`);
+    await writeFile(outputPath, `${JSON.stringify(source, null, 2)}\n`);
 
-    for (const segment of episode.transcript ?? []) {
+    const publicBase = publicBaseForCollection(collection);
+    const sourceTitle = source.read?.title || source.title;
+    const entry = {
+      slug: source.slug,
+      title: sourceTitle,
+      source_title: source.title,
+      source_class: source.source_class,
+      collection,
+      dek: source.read?.dek || null,
+      source_url: source.source_url,
+      published_at: source.published_at,
+      date_label: source.date_label,
+      read_time: source.read?.read_time || null,
+      counts: source.counts,
+      path_base: publicBase,
+      path: `${publicBase}/${source.slug}/`,
+      transcript_path: `${publicBase}/${source.slug}/transcript/`,
+      markdown_path: `${publicBase}/${source.slug}.md`,
+      data_url: `/data/lens/${collection}/${source.slug}.json`,
+      data_path: `website/src/data/lens/${collection}/${source.slug}.json`,
+    };
+    collectionEntries[collection].push(entry);
+    sources.push(entry);
+
+    for (const segment of source.transcript ?? []) {
       transcriptSearchSegments.push({
-        slug: episode.slug,
-        title: episodeTitle,
-        source_title: episode.title,
-        published_at: episode.published_at,
-        date_label: episode.date_label,
-        episode_url: `/episodes/${episode.slug}/`,
+        slug: source.slug,
+        title: sourceTitle,
+        source_title: source.title,
+        source_class: source.source_class,
+        collection,
+        published_at: source.published_at,
+        date_label: source.date_label,
+        episode_url: entry.path,
         transcript_url: segment.transcript_url,
         video_url: segment.video_url,
         segment_id: segment.id,
@@ -692,16 +756,33 @@ async function writeEpisodeData(lensPointById = new Map()) {
     }
   }
 
-  episodes.sort((a, b) => String(b.published_at ?? '').localeCompare(String(a.published_at ?? '')));
+  for (const entries of Object.values(collectionEntries)) {
+    entries.sort((a, b) => String(b.published_at ?? '').localeCompare(String(a.published_at ?? '')));
+  }
+  sources.sort((a, b) => (
+    String(b.published_at ?? '').localeCompare(String(a.published_at ?? ''))
+    || a.slug.localeCompare(b.slug)
+  ));
   transcriptSearchSegments.sort((a, b) => (
     String(b.published_at ?? '').localeCompare(String(a.published_at ?? ''))
     || a.slug.localeCompare(b.slug)
     || Number(a.start ?? 0) - Number(b.start ?? 0)
   ));
+
   await writeFile(path.join(websiteEpisodesDataRoot, 'index.json'), `${JSON.stringify({
     generated_by: generatedHeader,
     generated_at: generatedAt,
-    episodes,
+    collection: 'episodes',
+    episodes: collectionEntries.episodes,
+    items: collectionEntries.episodes,
+  }, null, 2)}\n`);
+
+  await writeFile(path.join(websiteInterviewsDataRoot, 'index.json'), `${JSON.stringify({
+    generated_by: generatedHeader,
+    generated_at: generatedAt,
+    collection: 'interviews',
+    interviews: collectionEntries.interviews,
+    items: collectionEntries.interviews,
   }, null, 2)}\n`);
 
   const transcriptSearchJson = `${JSON.stringify({
@@ -709,14 +790,16 @@ async function writeEpisodeData(lensPointById = new Map()) {
     generated_at: generatedAt,
     description: 'Full-text transcript segment index for agent corpus lookup. Use this before external web search when answering where Jiang said a phrase or topic.',
     counts: {
-      episodes: episodes.length,
+      episodes: collectionEntries.episodes.length,
+      interviews: collectionEntries.interviews.length,
+      sources: sources.length,
       segments: transcriptSearchSegments.length,
     },
     segments: transcriptSearchSegments,
   }, null, 2)}\n`;
   await writeFile(path.join(websiteDataRoot, 'transcript-search.json'), transcriptSearchJson);
 
-  return episodes;
+  return sources;
 }
 
 async function readEpisodeDataBySlug(episodes) {
@@ -730,7 +813,7 @@ async function readEpisodeDataBySlug(episodes) {
 
 function refDetailFromEpisodes(ref, episodeBySlug) {
   const parsed = sourceRefParts(ref);
-  if (!parsed || parsed.type !== 'video') {
+  if (!parsed || !['video', 'interview'].includes(parsed.type)) {
     return {
       ref,
       target_type: 'unknown',
@@ -774,8 +857,10 @@ function refDetailFromEpisodes(ref, episodeBySlug) {
     transcript_version: parsed.version,
     segment_id: parsed.segment_id,
     episode_title: episode.read?.title || episode.title,
-    episode_url: `/episodes/${episode.slug}/`,
-    transcript_url: `/episodes/${episode.slug}/transcript/#${segment.id}`,
+    source_class: episode.source_class ?? sourceClassForCollection(episode.collection),
+    collection: episode.collection ?? 'episodes',
+    episode_url: publicSourceUrl(episode),
+    transcript_url: publicTranscriptUrl(episode, segment.id),
     video_url: segment.video_url || timestampedUrl(episode.source_url, segment.start),
     published_at: episode.published_at,
     date_label: episode.date_label,
@@ -894,7 +979,9 @@ function buildEpisodeLensLinks(episodeBySlug) {
         ...link,
         episode_slug: episode.slug,
         episode_title: episode.read?.title || episode.title,
-        episode_url: `/episodes/${episode.slug}/`,
+        source_class: episode.source_class ?? sourceClassForCollection(episode.collection),
+        collection: episode.collection ?? 'episodes',
+        episode_url: publicSourceUrl(episode),
         refs_detail: (link.refs ?? []).map((ref) => refDetailFromEpisodes(ref, episodeBySlug)),
       });
     }
@@ -1004,8 +1091,8 @@ async function main() {
   await writeFile(path.join(generatedRoot, 'content-index.md'), docsIndex);
   const docLensPoints = await collectDocLensPoints();
   const lensPointById = new Map(docLensPoints.map((point) => [point.id, point]));
-  const episodes = await writeEpisodeData(lensPointById);
-  const episodeBySlug = await readEpisodeDataBySlug(episodes);
+  const sources = await writeEpisodeData(lensPointById);
+  const episodeBySlug = await readEpisodeDataBySlug(sources);
   const docEvidence = buildDocEvidenceIndex(await collectDocEvidenceMarks(), episodeBySlug);
   const lensPoints = buildLensPointIndex(docLensPoints, episodeBySlug);
   const episodeLensLinks = buildEpisodeLensLinks(episodeBySlug);
@@ -1033,7 +1120,7 @@ async function main() {
   await writeFile(path.join(generatedRoot, 'link-index.json'), linkIndexJson);
   await writeFile(path.join(websiteDataRoot, 'link-index.json'), linkIndexJson);
 
-  console.log(`Compiled ${manifest.counts.files} content files, ${manifest.counts.claims} claim blocks, ${linkIndex.counts.doc_evidence_marks} doc evidence marks, ${linkIndex.counts.lens_points} lens points, and ${episodes.length} episode data files.`);
+  console.log(`Compiled ${manifest.counts.files} content files, ${manifest.counts.claims} claim blocks, ${linkIndex.counts.doc_evidence_marks} doc evidence marks, ${linkIndex.counts.lens_points} lens points, and ${sources.length} source data files.`);
 }
 
 main().catch((error) => {

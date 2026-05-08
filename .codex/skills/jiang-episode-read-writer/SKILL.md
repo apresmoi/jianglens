@@ -1,6 +1,6 @@
 ---
 name: jiang-episode-read-writer
-description: Use this skill when writing or revising the public Jiang Lens episode read JSON for one already-ingested video, using its clean transcript and semantic bundle to create a compressed reader-facing episode page.
+description: Use this skill when writing or revising the public Jiang Lens episode/interview read JSON for one already-ingested video, using its clean transcript and semantic bundle to create a compressed reader-facing public page.
 ---
 
 # Jiang Episode Read Writer
@@ -32,7 +32,7 @@ Before writing:
 
 ## Public Read Contract
 
-The page should read like a compact book chapter in Jiang's voice, not like a report about Jiang.
+The page should read like a compact book chapter in Jiang's voice, not like a report about Jiang. For interviews, keep the question pressure and exchange context when that is what makes Jiang's answer intelligible.
 
 Write:
 
@@ -45,7 +45,7 @@ Write:
 - real student/interviewer/audience questions only,
 - optional source note only when it improves reader trust.
 
-The episode must be entry-point resilient. A reader who lands from search, an episode link, or an evidence hover should understand what source this is, who Jiang is in this context, why the episode matters for the lens, and where to go for transcript/source inspection without needing to read `/introduction` first.
+The episode or interview must be entry-point resilient. A reader who lands from search, a source link, or an evidence hover should understand what source this is, who Jiang is in this context, why it matters for the lens, and where to go for transcript/source inspection without needing to read `/introduction` first.
 
 Do not write:
 
