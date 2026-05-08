@@ -1,13 +1,13 @@
 # Creativity As Reception
 
 Date: 2026-05-07
-Status: proposal seed
+Status: reviewed/held proposal seed
 Work type: proposal synthesis
 Review: `content/workflow/reviews/creativity-as-reception/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
-Record **creativity as reception** as a lens seed, not a public concept page yet. The mechanism is that Jiang often treats real creativity as a received whole that precedes the visible process. School, bureaucracy, and method teach a forward sequence: collect data, follow steps, draft, revise, and produce the idea. Jiang's harsher model reverses the arrow. A living idea, story, image, truth, or world can arrive first; craft then works backward to make that reception communicable, testable, teachable, or inhabitable.
+Record **creativity as reception** as a reviewed lens seed, not a public concept page or atlas relation yet. The mechanism is that Jiang often treats real creativity as a received whole that precedes the visible process. School, bureaucracy, and method teach a forward sequence: collect data, follow steps, draft, revise, and produce the idea. Jiang's harsher model reverses the arrow. A living idea, story, image, truth, or world can arrive first; craft then works backward to make that reception communicable, testable, teachable, or inhabitable.
 
 The seed should stay narrower than "creativity" as a keyword. Use it only when the source shows the same chain:
 
@@ -16,7 +16,7 @@ The seed should stay narrower than "creativity" as a keyword. Use it only when t
 3. later craft, argument, evidence, poetry, scripture, science, or teaching makes the received whole shareable;
 4. the result changes a person, reader, school, civilization, or model of reality.
 
-The seed should not be promoted yet because existing public pages already own strong parts of the mechanism. The current value is routing discipline: do not flatten every creativity passage into education, poetry, dead-world metaphysics, free will, or human-heart relation without preserving the reception/backward-craft pressure when it is explicit.
+The seed should not be promoted yet because the cross-page review held it as routing discipline and existing public pages already own strong parts of the mechanism. The current value is to prevent future workers from flattening every creativity passage into education, poetry, dead-world metaphysics, free will, or human-heart relation without preserving the reception/backward-craft pressure when it is explicit.
 
 ## Source Pressure
 

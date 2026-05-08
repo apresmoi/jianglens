@@ -1,7 +1,7 @@
 # Purity Minority Preserves Tradition
 
 Date: 2026-05-07
-Status: proposal seed
+Status: reviewed/held proposal seed
 Work type: proposal synthesis
 
 Review: `content/workflow/reviews/purity-minority-preserves-tradition/cross-page-review-2026-05-07.md`
@@ -10,7 +10,7 @@ Review: `content/workflow/reviews/purity-minority-preserves-tradition/cross-page
 
 Purity minority preserves tradition names Jiang's mechanism in which a pressured or displaced minority keeps a religious or cultural form alive by intensifying purity, law, separation, ritual, textual unity, and willingness to sacrifice. The claim is not that purity is morally good, socially gentle, or politically innocent. The claim is that assimilation is often easier for majorities and ordinary households, while a committed minority may preserve the form precisely because it refuses the compromises that let people get along.
 
-This should stay a proposal seed for now, not a public concept page. The mechanism appears strongly in the **2024-12-12** Cyrus lecture, but it needs comparison with later religion, diaspora, revolutionary, and institutional sources before it becomes public canon. Its immediate value is routing discipline: do not scatter the Cyrus purity material across legitimacy, media, eschatology, and administrative religion without preserving the minority-survival mechanism.
+This should stay a reviewed proposal seed for now, not a public concept page or atlas relation. The mechanism appears strongly in the **2024-12-12** Cyrus lecture, but the cross-page review held it until later religion, diaspora, revolutionary, and institutional sources make the survival-through-separation mechanism publicly necessary. Its immediate value is routing discipline: do not scatter the Cyrus purity material across legitimacy, media, eschatology, and administrative religion without preserving the minority-survival mechanism.
 
 ## Source Pressure
 
