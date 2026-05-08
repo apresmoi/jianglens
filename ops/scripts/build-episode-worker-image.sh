@@ -7,6 +7,7 @@ SPAWN_OUT="${SPAWN_OUT:-$ROOT/.spawn/episode-worker-build}"
 BASE_TAG="${BASE_TAG:-jiang-lens-agents:spawnfile}"
 FINAL_TAG="${FINAL_TAG:-jiang-lens-episode-worker:latest}"
 CODEX_VERSION="${CODEX_VERSION:-0.128.0}"
+NODE_MAJOR="${NODE_MAJOR:-22}"
 
 node "$ROOT/ops/scripts/check-spawnfile-version.mjs" "$SPAWNFILE_BIN"
 
@@ -15,6 +16,7 @@ docker build \
   -f "$ROOT/ops/docker/episode-worker.Dockerfile" \
   --build-arg "BASE_IMAGE=$BASE_TAG" \
   --build-arg "CODEX_VERSION=$CODEX_VERSION" \
+  --build-arg "NODE_MAJOR=$NODE_MAJOR" \
   -t "$FINAL_TAG" \
   "$ROOT"
 
