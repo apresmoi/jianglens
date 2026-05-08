@@ -45,9 +45,15 @@ The war machine appears as soon as the people can see the country as themselves.
 
 That creates a new military resource. France can [draw the people into war and create almost an infinite supply of soldiers]{evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0017"}. The citizen does not fight like a mercenary collecting a paycheck. He believes he is fighting for himself, so he becomes more motivated, energetic, and willing to sacrifice.
 
-The April 2026 population-war lecture intensifies the same mechanism. Jiang argues that the eight-billion-person world is not simply the result of neutral science or progress. It comes from the nation-state as a political revolution: Rousseau links freedom to the state, and then population growth becomes the sign of good government. Jiang's summary is blunt: [liberty and population growth make the nation-state powerful]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0020"}.
+The **May 22, 2025** German Will to Power lecture gives the same Bismarck layer from inside the German unity problem. Jiang first presents Bismarck as iron and blood: [not speeches or majority decisions, but power, violence, and sacrifice]{evidence="video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0017"}. Then he turns to the other Bismarck. The same state-builder [wants a unified Germany in which workers are content]{evidence="video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0018"}, because the factory worker lives under insecurity: loss of work, sickness, injury, old age, child labor, and abuse. Germany answers with [health insurance, accident insurance, pensions, worker protection, and child protection]{evidence="video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0019"}.
 
-By Bismarck, welfare enters as war infrastructure. It is not just soldiers who fight; workers make machine guns, artillery, and munitions. The state must keep them healthy because [the nation-state is first and foremost about making warriors]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0025"}.
+The care is real in Jiang's account, but it is not innocent. Germany becomes attractive to workers because it gives rights other industrial powers deny. Those rights then become national attachment: [because German workers are given rights, they want to fight and die for their country]{evidence="video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0019"}. That makes welfare part of the god-machine rather than a side policy. The state does not merely command sacrifice; it earns loyalty by becoming the body that protects work, injury, age, and childhood.
+
+<!-- lens-point id="nation-god-machine-welfare-buys-loyalty" concept="nation-god-machine" evidence="video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0018 video:predictive-history-o2nq-qu9kc@transcript:v1#seg-0019 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0025" -->
+<span id="nation-god-machine-welfare-buys-loyalty" class="lens-point-anchor"></span>
+The nation-state turns welfare into loyalty when worker protection, health, pensions, and child safeguards make the state feel like the body that cares for ordinary life, so people become willing to fight, work, and die for that body.
+
+The **April 2026** population-war lecture then hardens the same mechanism into explicit war capacity. Jiang argues that the eight-billion-person world is not simply the result of neutral science or progress. It comes from the nation-state as a political revolution: Rousseau links freedom to the state, and then population growth becomes the sign of good government. Jiang's summary is blunt: [liberty and population growth make the nation-state powerful]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0020"}. It is not just soldiers who fight; workers make machine guns, artillery, and munitions. The state must keep them healthy because [the nation-state is first and foremost about making warriors]{evidence="video:predictive-history-txgpfnxgzce@transcript:v1#seg-0025"}.
 
 <!-- lens-point id="nation-god-machine-population-war" concept="nation-god-machine" evidence="video:predictive-history-tquo1usc5nw@transcript:v1#seg-0017 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0025 video:predictive-history-txgpfnxgzce@transcript:v1#seg-0031" -->
 <span id="nation-god-machine-population-war" class="lens-point-anchor"></span>
@@ -103,6 +109,8 @@ Ask how the nation makes itself sacred. Does it present itself as rights, cultur
 
 Ask what it converts into war capacity. Citizens, workers, mothers, children, schools, welfare systems, factories, scientists, doctors, films, and platforms can all become parts of the machine.
 
+Ask how care is being translated. Worker protection, medicine, pensions, and child safeguards can genuinely protect people and still bind them to the national body. The nation lens applies when care is converted into loyalty, unity, population growth, or war capacity; generic welfare policy belongs elsewhere.
+
 Ask whether population is strength or target. In Jiang's later war model, numbers can replenish the state, but they can also be turned against the state through sanctions, shortages, ethnic tension, infrastructure attack, and narrative fracture.
 
 Ask what replaces God if nationalism recedes. Pax Americana tries rules, rights, free trade, consumer happiness, and individual identity; Jiang warns that this may produce its own helplessness and a later return of nationalism rather than a clean escape.
@@ -114,5 +122,7 @@ Ask how the board is enforced. If a system presents itself as open play, check w
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the root conversion by which the nation-state becomes an imagined person with real claims.
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as national memory, obedience training, and person-formation.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for war narratives that lose contact with economics, logistics, and organization.
+- [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for welfare, media, bureaucracy, and other systems when the active problem is feeding, organizing, and managing mass scale.
+- [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) - for pensions and healthcare when care becomes age-and-asset extraction rather than national capacity.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the pressure mechanism that can create the new people or military machine before it becomes a stable center.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for the postwar consumer-capitalist attempt to redirect human energy away from national struggle and into the world game.
