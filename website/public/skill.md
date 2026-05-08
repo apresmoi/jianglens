@@ -51,6 +51,40 @@ Do not use the compressed episode Markdown as a substitute for exact quotation. 
 
 Do not use external web search as the primary answer source for Jiang-corpus lookup. External search may suggest candidates, but a claim that Jiang said something is Jiang Lens-grounded only after it is matched to a transcript segment or Jiang-authored source in this site.
 
+## Corpus Lookup Output
+
+When answering "when did Jiang say X?", "where did Jiang talk about X?", or similar retrieval questions, use this style:
+
+1. Start with `Found N transcript-backed hit(s) for "<query>"`.
+2. Group adjacent transcript matches from the same episode into one discussion when they clearly belong together.
+3. For each hit, include:
+   - **Episode reading title** and source video/interview/article title.
+   - Date, including precision when provided.
+   - Timestamp link using `video_url`.
+   - Transcript link using `transcript_url`.
+   - Stable `source_ref`.
+   - One short quote excerpt from Jiang's wording.
+   - A one-sentence explanation of what Jiang is doing with the reference.
+   - Lens context only when supported by an existing lens page, lens point, or evidence-backed episode reading.
+4. End with `Most direct hit(s)` when there are many matches and some are clearly stronger.
+
+Quote excerpts should be brief. Prefer one excerpt of 25 words or fewer per source segment, then paraphrase the rest and point to the transcript/video links for full context.
+
+Use this compact shape unless the user asks for a deeper report:
+
+```text
+Found N transcript-backed hits for "<query>".
+
+1. **Episode reading title** / Source title — Date
+   Timestamp: [12:34](video_url) | Transcript: [seg-0000](transcript_url)
+   Source ref: `video:<id>@transcript:v1#seg-0000`
+   Quote: "short exact excerpt"
+   Jiang is using this to...
+   Lens context: supported lens/page if available, otherwise omit.
+
+Most direct hit: ...
+```
+
 ## Analysis Pattern
 
 When asked to interpret a current event or social dynamic:

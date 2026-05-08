@@ -93,6 +93,24 @@ async function main() {
     }
   }
 
+  const skillPath = path.join(distRoot, 'skill.md');
+  if (!existsSync(skillPath)) {
+    failures.push('dist/skill.md: missing');
+  } else {
+    const skill = await readFile(skillPath, 'utf8');
+    for (const expected of [
+      '## Corpus Lookup Output',
+      'Timestamp link using `video_url`',
+      'Transcript link using `transcript_url`',
+      'Stable `source_ref`',
+      'Quote excerpts should be brief',
+    ]) {
+      if (!skill.includes(expected)) {
+        failures.push(`dist/skill.md: missing corpus lookup instruction ${expected}`);
+      }
+    }
+  }
+
   const homePath = path.join(distRoot, 'index.html');
   if (!existsSync(homePath)) {
     failures.push('dist/index.html: missing');
