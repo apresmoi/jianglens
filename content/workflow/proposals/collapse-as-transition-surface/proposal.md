@@ -1,12 +1,14 @@
 # Collapse As Transition Surface
 
 Date: 2026-05-06
-Status: proposed lens seed
+Status: reviewed atlas relation; held from standalone page promotion
 Work type: proposal synthesis
+Review: `content/workflow/reviews/collapse-as-transition-surface/cross-page-review-2026-05-06.md`
+Public surface: `website/src/content/docs/lens.md#collapse-transition-and-resilience`
 
 ## Proposed Boundary
 
-Record **collapse as transition surface** as a lens seed, not yet a public concept page. The mechanism is not "civilizations decline" in general. It is the more specific Jiang pattern where collapse exposes what an order was really running on, transfers assets or authority to actors prepared for the break, and opens a dangerous field in which new forms can be built.
+Record **collapse as transition surface** as a reviewed atlas relation, not a standalone public concept page. The mechanism is not "civilizations decline" in general. It is the more specific Jiang pattern where collapse exposes what an order was really running on, transfers assets or authority to actors prepared for the break, and opens a dangerous field in which new forms can be built.
 
 The seed has three layers.
 
@@ -16,7 +18,7 @@ Second, collapse can be engineered, managed, or profited from by actors who know
 
 Third, collapse is not only an ending. It can be the surface through which another order begins. On **2024-10-10** and **2025-11-04**, Jiang reads Greek emergence and the Bronze Age collapse as destruction that breaks palace control, changes writing, creates polis competition, and lets Homer give the Greeks a new image of the human (`video:predictive-history-677rmlrgvlq@transcript:v1#seg-0004`, `video:predictive-history-677rmlrgvlq@transcript:v1#seg-0006`, `video:predictive-history-rkt0hqooghe@transcript:v1#seg-0024`, `video:predictive-history-rkt0hqooghe@transcript:v1#seg-0039`). On **2026-03-24**, the end-of-history lecture turns that opening into a survival discipline: when the old order shifts, societies must move from efficiency to resilience, from cheapness and profit toward worst-case adaptation (`video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0012`).
 
-The useful public concept, if promoted later, should not be a doom page. It should ask what collapse reveals, who benefits from timing, what breaks first, what capacity survives, and what new human or institutional form can emerge.
+The useful public surface is currently the compact atlas relation. If promoted later into a standalone page, it should not be a doom page. It should ask what collapse reveals, who benefits from timing, what breaks first, what capacity survives, and what new human or institutional form can emerge.
 
 ## Source Pressure
 

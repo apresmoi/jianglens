@@ -1,12 +1,13 @@
 # Love As Recognition
 
 Date: 2026-05-07
-Status: proposed lens seed
+Status: reviewed/held proposal seed
 Work type: proposal synthesis
+Review: `content/workflow/reviews/love-as-recognition/cross-page-review-2026-05-07.md`
 
 ## Proposed Boundary
 
-Record **love as recognition** as a lens seed, not yet a public concept page. The mechanism is narrower than "love" as a theme and broader than one Great Books lecture. It names Jiang's recurring test for whether a relation lets a person become more fully alive, more visible, more capable of imagination, and more able to forgive, or whether the relation is actually possession, utility, obedience, vengeance, or imperial mission wearing love's language.
+Record **love as recognition** as a reviewed lens seed, not yet a public concept page or atlas relation. The mechanism is narrower than "love" as a theme and broader than one Great Books lecture. It names Jiang's recurring test for whether a relation lets a person become more fully alive, more visible, more capable of imagination, and more able to forgive, or whether the relation is actually possession, utility, obedience, vengeance, or imperial mission wearing love's language.
 
 The seed has four layers.
 
