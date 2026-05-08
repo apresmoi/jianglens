@@ -102,6 +102,20 @@ The family is not a generic demographic topic. It asks what a political exit mus
 <span id="mass-society-constraint-atlas" class="lens-point-anchor"></span>
 Mass society becomes a political constraint when population scale makes every claim about freedom, capitalism, theocracy, school, war, or state power answer the same prior question: how will the mass be fed, organized, controlled, made meaningful, and kept from becoming a weapon against itself?
 
+### Platform Infrastructure As Control Surface
+
+Platform infrastructure is an atlas relation, not a standalone page. It names a specific Jiang move: public argument stops at the visible app, owner, interface, or brand, while the deeper control layer sits in cables, networks, data centers, identity systems, currencies, military protection, standards, and security infrastructure.
+
+The September 2025 Pharaoh lecture gives the first clean turn. A student asks whether social media should be controlled by government instead of private owners; Jiang answers by moving below Twitter and Facebook to [cables, networks, and military-protected internet infrastructure]{evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0046"}. The same source remains speculative and must be read with Jiang's caveat that he is raising possibilities rather than proving the whole reconstruction.
+
+Later sources make the relation more useful. The December 2025 Pax Judaica lecture shifts Silicon Valley from founder mythology to infrastructure: military-funded technology becomes lovable consumer product, Google becomes [a toll booth on publicly funded infrastructure]{evidence="video:predictive-history-wfwizn3qopg@transcript:v1#seg-0080"}, and the future control surface includes [AI data centers, weapons, private security, psychological warfare, financing, and trade access]{evidence="video:predictive-history-wfwizn3qopg@transcript:v1#seg-0087 video:predictive-history-wfwizn3qopg@transcript:v1#seg-0088"}. The April 2026 World War Trump lecture makes the domestic surveillance version explicit: data centers matter if the goal is [digital ID, digital currency, and monitoring to prevent rebellion]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056"}.
+
+<!-- lens-point id="platform-infrastructure-control-surface-atlas" concept="atlas-relation" evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0046 video:predictive-history-wfwizn3qopg@transcript:v1#seg-0080 video:predictive-history-wfwizn3qopg@transcript:v1#seg-0087 video:predictive-history-wfwizn3qopg@transcript:v1#seg-0088 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0056" -->
+<span id="platform-infrastructure-control-surface-atlas" class="lens-point-anchor"></span>
+A platform becomes a control surface when the visible app, owner, institution, or public interface draws attention away from the deeper infrastructure that routes attention, money, data, identity, movement, force, and permission.
+
+This relation protects neighboring boundaries. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem that keeps producing control environments. [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) owns focus, consciousness, anxiety, and screen capture. [Nation As God-Machine](/lens/nation-as-god-machine/) owns infrastructure when it makes the national or American world-board game playable. [Empire, War, And Material Reality](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns chokepoints, blockades, logistics, and civilian infrastructure as material war gates. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) owns hidden trust and layered coordination only when secrecy itself is doing work.
+
 ## World-Making Media
 
 Jiang treats poetry, mythology, scripture, film, and philosophy as media that build worlds rather than decorate them.
