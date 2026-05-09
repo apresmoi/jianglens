@@ -15,6 +15,7 @@ export const docsSidebar = [
     items: [
       { label: 'Who Is Jiang Xueqin?', slug: 'who-is-jiang-xueqin' },
       { label: 'What Is Predictive History?', slug: 'what-is-predictive-history' },
+      { label: 'Jiang Lens Identity', slug: 'disambiguation' },
       { label: 'Is Professor Jiang Legit?', slug: 'is-professor-jiang-legit' },
       { label: 'Professor Jiang Predictions', slug: 'professor-jiang-predictions' },
       { label: 'Professor Jiang Transcripts', slug: 'professor-jiang-transcripts' },

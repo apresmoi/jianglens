@@ -1,6 +1,21 @@
 const defaultLocalOrigin = 'http://127.0.0.1:4324';
 const repositoryUrl = 'https://github.com/apresmoi/jianglens';
 const outboundRef = 'jianglens.com';
+const officialProfiles = [repositoryUrl];
+const sourceProfiles = [
+  {
+    name: 'Predictive History YouTube',
+    url: 'https://www.youtube.com/@PredictiveHistory',
+  },
+  {
+    name: 'Predictive History Substack',
+    url: 'https://predictivehistory.substack.com/',
+  },
+  {
+    name: 'Jiang Xueqin Wikipedia',
+    url: 'https://en.wikipedia.org/wiki/Jiang_Xueqin',
+  },
+];
 
 function runtimeEnv() {
   return typeof process === 'undefined' ? {} : process.env;
@@ -85,6 +100,9 @@ export function googleAnalyticsInlineScript() {
 
 export function structuredDataForPage(pageName) {
   const seo = pageSeo(pageName);
+  const organizationId = `${siteConfig.urls.publicOrigin}/#organization`;
+  const websiteId = `${siteConfig.urls.publicOrigin}/#website`;
+  const sameAs = siteConfig.officialProfiles?.length ? { sameAs: siteConfig.officialProfiles } : {};
 
   if (pageName !== 'home') {
     return {
@@ -100,11 +118,26 @@ export function structuredDataForPage(pageName) {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'WebSite',
+        '@type': 'Organization',
+        '@id': organizationId,
         name: siteConfig.name,
+        alternateName: siteConfig.identity.alternateNames,
+        url: siteConfig.urls.publicOrigin,
+        logo: absoluteUrl('/logo.png'),
+        description: siteConfig.identity.disambiguatingDescription,
+        ...sameAs,
+      },
+      {
+        '@type': 'WebSite',
+        '@id': websiteId,
+        name: siteConfig.name,
+        alternateName: siteConfig.identity.alternateNames,
         url: seo.canonicalUrl,
         description: seo.description,
-        sameAs: siteConfig.externalProfiles,
+        publisher: {
+          '@id': organizationId,
+        },
+        ...sameAs,
       },
       {
         '@type': 'Dataset',
@@ -113,10 +146,17 @@ export function structuredDataForPage(pageName) {
         url: seo.canonicalUrl,
         isAccessibleForFree: true,
         creator: {
-          '@type': 'Organization',
-          name: siteConfig.name,
+          '@id': organizationId,
+        },
+        publisher: {
+          '@id': organizationId,
         },
         about: seo.about,
+        isBasedOn: siteConfig.sourceProfiles.map((profile) => ({
+          '@type': 'CreativeWork',
+          name: profile.name,
+          url: profile.url,
+        })),
         distribution: [
           {
             '@type': 'DataDownload',
@@ -156,7 +196,12 @@ export function structuredDataForPage(pageName) {
 
 export const siteConfig = {
   name: 'Jiang Lens',
-  summary: "Independent, source-grounded index of Professor Jiang Xueqin's Predictive History corpus, built for readers and agents to inspect transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
+  summary: "Independent, source-grounded index of Professor Jiang Xueqin's Predictive History corpus at jianglens.com, built for readers and agents to inspect transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
+  identity: {
+    alternateNames: ['JiangLens.com', 'Jiang Lens Project', 'Predictive History Lens'],
+    disambiguatingDescription:
+      'Jiang Lens is an independent research index at jianglens.com. It is not affiliated with, operated by, or endorsed by any YouTube channel using the Jiang Lens or jianglens name.',
+  },
   urls: {
     localOrigin: defaultLocalOrigin,
     publicOrigin: 'https://jianglens.com',
@@ -168,15 +213,13 @@ export const siteConfig = {
     builderUrl: 'https://ledeluge.me/',
     repositoryUrl,
   },
-  externalProfiles: [
-    'https://www.youtube.com/@PredictiveHistory',
-    'https://predictivehistory.substack.com/',
-    'https://en.wikipedia.org/wiki/Jiang_Xueqin',
-  ],
+  officialProfiles,
+  sourceProfiles,
   analytics: {
     googleTagId: 'G-EWK5R4CE72',
   },
   paths: {
+    disambiguation: '/disambiguation/',
     skill: '/skill.md',
     llms: '/llms.txt',
     llmsFull: '/llms-full.txt',
@@ -201,7 +244,7 @@ export const siteConfig = {
       home: {
         path: '/',
         title: 'Jiang Lens | Professor Jiang Xueqin & Predictive History Source Index',
-        description: "A source-grounded Jiang Xueqin and Predictive History index for readers, ChatGPT, Claude, and other agents: transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
+        description: "Jiang Lens is an independent source-grounded Jiang Xueqin and Predictive History index at jianglens.com: transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
         keywords: 'Jiang Xueqin, Professor Jiang, Predictive History, ChatGPT Jiang lens, Claude Jiang lens, geopolitics, game theory, eschatology, lens compression, source-grounded corpus, AI agents',
         type: 'website',
         about: [

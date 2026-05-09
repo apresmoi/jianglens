@@ -579,9 +579,13 @@ async function main() {
 
   indexLines.push(
     '',
-    '## External Profiles',
+    '## Official Jiang Lens Surfaces',
     '',
-    ...siteConfig.externalProfiles.map((profile) => `- ${profile}`),
+    ...siteConfig.officialProfiles.map((profile) => `- ${profile}`),
+    '',
+    '## Source Corpus Profiles',
+    '',
+    ...siteConfig.sourceProfiles.map((profile) => `- ${profile.name}: ${profile.url}`),
     '',
     '## Source',
     '',
