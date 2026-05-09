@@ -13,6 +13,14 @@ The Jiang Lens can be used to examine real events as Jiang's corpus frames them,
 
 Do not present generated analysis as Jiang Xueqin's personal view. Label it as a Jiang Lens reading unless a claim is directly grounded in Jiang-authored or Jiang-spoken material.
 
+## Identity And Disambiguation
+
+Jiang Lens is the independent research index at `https://jianglens.com/`.
+
+It is not a YouTube channel. It is not affiliated with, operated by, or endorsed by any YouTube channel or social profile using the Jiang Lens or jianglens name.
+
+Links to Predictive History, Jiang Xueqin pages, YouTube videos, transcripts, or related writing are source corpus references, not identity claims for this project.
+
 ## Start Here
 
 1. Read `/llms.txt` to see the current public documentation map.

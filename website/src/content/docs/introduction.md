@@ -35,6 +35,8 @@ That source trail matters more as the corpus grows. If Jiang's position changes 
 
 Jiang Lens is not an official Jiang Xueqin or Predictive History publication. It is an independent research and reading project that uses Jiang-spoken and Jiang-authored material as the ground for a public interpretive map.
 
+Jiang Lens is also not a YouTube channel and is not affiliated with any channel or social profile using the Jiang Lens or jianglens name. The official public site is [jianglens.com](https://jianglens.com/), and the repository is [github.com/apresmoi/jianglens](https://github.com/apresmoi/jianglens).
+
 ## Project Credit
 
 Jiang Lens is built by [@ledeluge.me](https://ledeluge.me/). The repository is open at [github.com/apresmoi/jianglens](https://github.com/apresmoi/jianglens).
