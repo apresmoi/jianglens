@@ -87,6 +87,7 @@ async function main() {
       'LLMs-full: https://jianglens.com/llms-full.txt',
       'Skill: https://jianglens.com/skill.md',
       'Skill-text: https://jianglens.com/skill.txt',
+      'Transcript-search: https://jianglens.com/data/lens/transcript-search.txt',
     ]) {
       if (!robots.includes(expected)) {
         failures.push(`dist/robots.txt: missing ${expected}`);
@@ -191,6 +192,7 @@ async function main() {
     'skill.txt',
     'data/lens/episodes/index.json',
     'data/lens/episodes/predictive-history-6m1z-v3wgok.json',
+    'data/lens/transcript-search.txt',
     'data/lens/transcript-search.json',
   ];
   for (const relPath of requiredAgentFiles) {
@@ -243,6 +245,22 @@ async function main() {
     }
   }
 
+  const transcriptSearchTextPath = path.join(distRoot, 'data/lens/transcript-search.txt');
+  if (existsSync(transcriptSearchTextPath)) {
+    const transcriptSearchText = await readFile(transcriptSearchTextPath, 'utf8');
+    for (const expected of [
+      '# Jiang Lens Transcript Search',
+      'Plain-text transcript segment index',
+      'World War Trump and the Fortress Empire',
+      'https://jianglens.com/episodes/predictive-history-ts-aa6lqf6i.txt',
+      'video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001',
+    ]) {
+      if (!transcriptSearchText.includes(expected)) {
+        failures.push(`dist/data/lens/transcript-search.txt: missing ${expected}`);
+      }
+    }
+  }
+
   const sampleEpisodeMarkdownPath = path.join(distRoot, 'episodes/predictive-history-6m1z-v3wgok.md');
   if (existsSync(sampleEpisodeMarkdownPath)) {
     const sampleEpisodeMarkdown = await readFile(sampleEpisodeMarkdownPath, 'utf8');
@@ -263,11 +281,20 @@ async function main() {
     for (const expected of [
       'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/',
       'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok.txt',
+      '## Quotable Evidence From This Reading',
       'video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005',
     ]) {
       if (!sampleEpisodeText.includes(expected)) {
         failures.push(`dist/episodes/predictive-history-6m1z-v3wgok.txt: missing ${expected}`);
       }
+    }
+  }
+
+  const sampleTranscriptHtmlPath = path.join(distRoot, 'episodes/predictive-history-6m1z-v3wgok/transcript/index.html');
+  if (existsSync(sampleTranscriptHtmlPath)) {
+    const sampleTranscriptHtml = await readFile(sampleTranscriptHtmlPath, 'utf8');
+    if (!sampleTranscriptHtml.includes('id="seg-0005-chunk-001"')) {
+      failures.push('dist/episodes/predictive-history-6m1z-v3wgok/transcript/index.html: missing chunk anchor id');
     }
   }
 

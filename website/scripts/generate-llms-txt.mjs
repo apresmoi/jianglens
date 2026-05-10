@@ -77,6 +77,36 @@ function markdownText(value) {
   return String(value ?? '').replace(/\s+\n/g, '\n').trim();
 }
 
+function compactText(value) {
+  return markdownText(value).replace(/\s+/g, ' ').trim();
+}
+
+function wordExcerpt(value, maxWords = 22) {
+  const words = compactText(value).split(/\s+/).filter(Boolean);
+  if (!words.length) return '';
+  const excerpt = words.slice(0, maxWords).join(' ');
+  return words.length > maxWords ? `${excerpt}...` : excerpt;
+}
+
+function quotedExcerpt(value, maxWords = 22) {
+  return wordExcerpt(value, maxWords).replace(/"/g, "'");
+}
+
+function normalizedSearchText(value) {
+  return String(value ?? '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function firstSentenceExcerpt(value, maxWords = 28) {
+  const text = compactText(value);
+  if (!text) return '';
+  const sentence = text.match(/.*?[.!?](?:\s|$)/)?.[0]?.trim() || text;
+  return wordExcerpt(sentence, maxWords);
+}
+
 function escapeLinkLabel(value) {
   return String(value ?? '').replace(/[[\]]/g, '\\$&').trim();
 }
@@ -144,6 +174,18 @@ function sourceDataPath(sourceOrSlug, collection = 'episodes') {
   return `/data/lens/${sourceCollection}/${slug}.json`;
 }
 
+function timestampedUrl(sourceUrl, start) {
+  if (!sourceUrl || !Number.isFinite(Number(start))) return sourceUrl || '';
+
+  try {
+    const url = new URL(sourceUrl);
+    url.searchParams.set('t', `${Math.max(0, Math.floor(Number(start)))}s`);
+    return url.toString();
+  } catch {
+    return sourceUrl;
+  }
+}
+
 function refSegmentMap(episode) {
   const map = new Map();
   for (const segment of episode.transcript ?? []) {
@@ -185,11 +227,182 @@ function renderParagraphs(paragraphs, episode) {
     .join('\n\n');
 }
 
-function renderEpisodeMarkdown(episode) {
+function transcriptBasePath(episode) {
+  const collection = collectionForSource(episode);
+  return episode.transcript_path || `/${collection}/${episode.slug}/transcript/`;
+}
+
+function chunkForQuote(segment, quote) {
+  const quoteNeedle = normalizedSearchText(quote);
+  if (!quoteNeedle) return null;
+
+  return (segment?.timed_chunks ?? []).find((chunk) => {
+    const chunkText = normalizedSearchText(chunk.text);
+    return chunkText && (chunkText.includes(quoteNeedle) || quoteNeedle.includes(chunkText));
+  }) || null;
+}
+
+function transcriptAnchorUrl(episode, segment, quote = '') {
+  const chunk = chunkForQuote(segment, quote);
+  const anchor = chunk?.id || segment?.id;
+  const base = transcriptBasePath(episode);
+  return publicPath(anchor ? `${base}#${anchor}` : base);
+}
+
+function videoAnchorUrl(episode, segment, quote = '') {
+  const chunk = chunkForQuote(segment, quote);
+  if (chunk) return timestampedUrl(episode.source_url, chunk.start);
+  return segment?.video_url || timestampedUrl(episode.source_url, segment?.start);
+}
+
+function relatedLinksForRef(ref, extension = 'txt') {
+  const detail = sourceRefIndex().get(ref);
+  const candidates = [];
+
+  for (const point of detail?.lens_points ?? []) {
+    candidates.push({
+      label: point.doc_title || point.concept || point.id,
+      href: point.url,
+    });
+  }
+
+  for (const doc of detail?.docs ?? []) {
+    candidates.push({
+      label: doc.doc_title || doc.doc_slug || doc.text,
+      href: doc.doc_url,
+    });
+  }
+
+  const seen = new Set();
+  return candidates
+    .map((item) => ({
+      label: item.label,
+      href: item.href ? internalArtifactHref(item.href, extension) : '',
+    }))
+    .filter((item) => item.label && item.href)
+    .filter((item) => {
+      if (seen.has(item.href)) return false;
+      seen.add(item.href);
+      return true;
+    })
+    .slice(0, 3);
+}
+
+function evidenceCardFromRef(episode, ref, context, options = {}) {
+  const segment = refSegmentMap(episode).get(ref);
+  if (!segment) return null;
+
+  const quote = options.quote ? quotedExcerpt(options.quote, 22) : quotedExcerpt(segment.text, 22);
+  if (!quote) return null;
+
+  const extension = options.extension || 'txt';
+  const transcriptUrl = transcriptAnchorUrl(episode, segment, quote);
+  const videoUrl = videoAnchorUrl(episode, segment, quote);
+  const related = relatedLinksForRef(ref, extension);
+
+  return {
+    key: `${ref}:${quote}`,
+    context: context || 'Source-backed reading point',
+    quote,
+    timeLabel: segment.time_label || segment.id,
+    segmentId: segment.id,
+    transcriptUrl,
+    videoUrl,
+    ref,
+    related,
+  };
+}
+
+function addEvidenceCard(cards, seen, card) {
+  if (!card || seen.has(card.key)) return;
+  seen.add(card.key);
+  cards.push(card);
+}
+
+function collectEpisodeEvidenceCards(episode, options = {}) {
+  const read = episode.read ?? {};
+  const extension = options.extension || 'txt';
+  const cards = [];
+  const seen = new Set();
+  const limit = options.limit ?? 12;
+
+  function addFromRefs(refs, context) {
+    for (const ref of refs ?? []) {
+      addEvidenceCard(cards, seen, evidenceCardFromRef(episode, ref, context, { extension }));
+      if (cards.length >= limit) return;
+    }
+  }
+
+  function addFromMarks(marks, context) {
+    for (const mark of marks ?? []) {
+      const ref = (mark.refs ?? [])[0];
+      addEvidenceCard(cards, seen, evidenceCardFromRef(episode, ref, context, { quote: mark.text, extension }));
+      if (cards.length >= limit) return;
+    }
+  }
+
+  const openingContext = read.opening?.heading || 'Core reading';
+  addFromMarks(read.opening?.marks, openingContext);
+  if (cards.length < limit) addFromRefs((read.opening?.refs ?? []).slice(0, 2), openingContext);
+
+  for (const beat of read.beats ?? []) {
+    if (cards.length >= limit) break;
+    const beatContext = [beat.heading || beat.id, beat.summary].filter(Boolean).join(': ');
+    addFromMarks(beat.marks, beatContext);
+    if (cards.length >= limit) break;
+
+    for (const paragraph of beat.paragraphs ?? []) {
+      if (cards.length >= limit) break;
+      const paragraphContext = [beat.heading || beat.id, firstSentenceExcerpt(paragraph.text)].filter(Boolean).join(': ');
+      addFromMarks(paragraph.marks, paragraphContext);
+      if (cards.length >= limit) break;
+      addFromRefs((paragraph.refs ?? []).slice(0, 1), paragraphContext);
+    }
+
+    if (cards.length < limit) addFromRefs((beat.refs ?? []).slice(0, 1), beatContext);
+  }
+
+  return cards;
+}
+
+function renderEvidenceCards(episode, options = {}) {
+  const extension = options.extension || 'txt';
+  const cards = collectEpisodeEvidenceCards(episode, { extension });
+  if (!cards.length) return '';
+
+  const collection = collectionForSource(episode);
+  const episodeArtifactUrl = publicPath(sourceArtifactPath(episode, collection, extension));
+  const lines = [
+    '## Quotable Evidence From This Reading',
+    '',
+    'These cards connect the compressed reading to exact source coordinates. Use the summary and related lens links as the interpretive map; use the transcript and video links when quoting or attributing claims to Jiang.',
+    '',
+  ];
+
+  for (const [index, card] of cards.entries()) {
+    lines.push(
+      `${index + 1}. ${card.context}`,
+      `   Quote: "${card.quote}"`,
+      `   Transcript: ${markdownLink(`${card.timeLabel} ${card.segmentId}`, card.transcriptUrl)}`,
+    );
+    if (card.videoUrl) lines.push(`   Video: ${markdownLink(card.videoUrl, card.videoUrl)}`);
+    lines.push(`   Source ref: \`${card.ref}\``);
+    lines.push(`   Episode reading: ${markdownLink(sourceArtifactPath(episode, collection, extension), episodeArtifactUrl)}`);
+    if (card.related.length) {
+      lines.push(`   Related lens: ${card.related.map((item) => markdownLink(item.label, item.href)).join('; ')}`);
+    }
+    lines.push('');
+  }
+
+  return lines.join('\n').trim();
+}
+
+function renderEpisodeMarkdown(episode, options = {}) {
   const read = episode.read ?? {};
   const collection = collectionForSource(episode);
   const kind = sourceKind(collection);
   const kindTitle = kind[0].toUpperCase() + kind.slice(1);
+  const extension = options.extension || 'md';
   const title = read.title || episode.title;
   const dek = read.dek || '';
   const episodePage = publicPath(episode.path || `/${collection}/${episode.slug}/`);
@@ -254,6 +467,9 @@ function renderEpisodeMarkdown(episode) {
       lines.push(`- ${href ? markdownLink(timeLabel || 'source', publicPath(href)) : timeLabel} - ${beat.heading || beat.id}${beat.summary ? `: ${beat.summary}` : ''}`);
     }
     lines.push('');
+
+    const evidenceCards = renderEvidenceCards(episode, { extension });
+    if (evidenceCards) lines.push(evidenceCards, '');
 
     lines.push('## Reading', '');
     for (const beat of read.beats) {
@@ -373,7 +589,7 @@ function renderEpisodeIndexMarkdown(index) {
     '',
     `# Jiang Lens ${kindTitle} Index`,
     '',
-    `This is the agent-readable catalog of public ${kind} readings. Use each ${kind} Markdown file for the compressed reading and each ${kind} JSON file for exact transcript segments, timestamps, source refs, and video links.`,
+    `This is the agent-readable catalog of public ${kind} readings. Use each ${kind} text or Markdown file as the compressed interpretive map, then use its source refs, transcript links, and ${kind} JSON file for exact transcript segments, timestamps, source refs, and video links.`,
     '',
     `${kindTitle}s indexed: ${sources.length}`,
     '',
@@ -428,9 +644,10 @@ async function generateSourceMarkdown(collection) {
     const episodePath = path.join(dataRootForCollection, `${episodeSummary.slug}.json`);
     if (!existsSync(episodePath)) continue;
     const episode = JSON.parse(await readFile(episodePath, 'utf8'));
-    const episodeMarkdown = renderEpisodeMarkdown(episode);
+    const episodeMarkdown = renderEpisodeMarkdown(episode, { extension: 'md' });
+    const episodeText = renderEpisodeMarkdown(episode, { extension: 'txt' });
     await writeFile(path.join(markdownOutRoot, `${episode.slug}.md`), episodeMarkdown);
-    await writeFile(path.join(markdownOutRoot, `${episode.slug}.txt`), episodeMarkdown);
+    await writeFile(path.join(markdownOutRoot, `${episode.slug}.txt`), episodeText);
 
     const transcriptMarkdown = renderTranscriptMarkdown(episode);
     const transcriptOutRoot = path.join(markdownOutRoot, episode.slug);
@@ -470,6 +687,58 @@ async function copySkillText() {
 async function copyData() {
   await mkdir(dataOutRoot, { recursive: true });
   await copyTree(dataRoot, dataOutRoot);
+}
+
+async function generateTranscriptSearchText() {
+  const input = path.join(dataRoot, 'transcript-search.json');
+  if (!existsSync(input)) return null;
+
+  const parsed = JSON.parse(await readFile(input, 'utf8'));
+  const segments = parsed.segments ?? parsed.items ?? [];
+  const lines = [
+    '# Jiang Lens Transcript Search',
+    '',
+    'Plain-text transcript segment index for agents and readers. Use episode text and lens pages as the interpretive map; use these timestamped transcript records when quoting or attributing claims to Jiang.',
+    '',
+    `Segments indexed: ${segments.length}`,
+    '',
+    'Each record includes the source reading, date, transcript anchor, video timestamp, source ref, related episode text, and related lens links when available.',
+    '',
+  ];
+
+  for (const segment of segments) {
+    const collection = segment.collection === 'interviews' ? 'interviews' : 'episodes';
+    const sourceClass = sourceKind(collection);
+    const transcriptUrl = publicPath(segment.transcript_url);
+    const videoUrl = segment.video_url || '';
+    const episodeTextUrl = publicPath(sourceTextPath(segment.slug, collection));
+    const sourceJsonUrl = publicPath(sourceDataPath(segment.slug, collection));
+    const related = relatedLinksForRef(segment.source_ref, 'txt');
+
+    lines.push(
+      `## ${segment.title} -- ${segment.time_label || segment.segment_id}`,
+      '',
+      `- Source title: ${segment.source_title || segment.title}`,
+      `- Source class: ${sourceClass}`,
+      `- Date: ${segment.date_label || segment.published_at || 'unknown'}`,
+      `- Transcript: ${markdownLink(segment.segment_id || transcriptUrl, transcriptUrl)}`,
+    );
+    if (videoUrl) lines.push(`- Video timestamp: ${markdownLink(videoUrl, videoUrl)}`);
+    lines.push(
+      `- Source ref: \`${segment.source_ref}\``,
+      `- ${sourceClass[0].toUpperCase() + sourceClass.slice(1)} text: ${markdownLink(sourceTextPath(segment.slug, collection), episodeTextUrl)}`,
+      `- ${sourceClass[0].toUpperCase() + sourceClass.slice(1)} JSON: ${markdownLink(sourceDataPath(segment.slug, collection), sourceJsonUrl)}`,
+    );
+    if (related.length) {
+      lines.push(`- Related lens: ${related.map((item) => markdownLink(item.label, item.href)).join('; ')}`);
+    }
+    lines.push('', `Text: ${compactText(segment.text)}`, '');
+  }
+
+  await writeFile(path.join(dataOutRoot, 'transcript-search.txt'), `${lines.join('\n').replace(/\n{3,}/g, '\n\n').trim()}\n`);
+  return {
+    count: segments.length,
+  };
 }
 
 async function copyTree(inputRoot, outputRoot) {
@@ -595,9 +864,24 @@ function transformMarkdownLinks(content, options = {}) {
   });
 }
 
+function transformLiteralArtifactPaths(content, options = {}) {
+  if (options.extension !== 'txt') return content;
+
+  return content
+    .replace(/\/skill\.md/g, '/skill.txt')
+    .replace(/\/episodes\/index\.md/g, '/episodes/index.txt')
+    .replace(/\/interviews\/index\.md/g, '/interviews/index.txt')
+    .replace(/\/episodes\/(<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/episodes/$1/transcript.txt')
+    .replace(/\/interviews\/(<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/interviews/$1/transcript.txt')
+    .replace(/\/episodes\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/episodes/$1.txt')
+    .replace(/\/interviews\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/interviews/$1.txt')
+    .replace(/\/docs\/([A-Za-z0-9_/-]+)\.md/g, '/docs/$1.txt');
+}
+
 function transformPublicMarkdown(content, options = {}) {
   const transforms = [
     (current) => transformMarkdownLinks(current, options),
+    (current) => transformLiteralArtifactPaths(current, options),
     transformEvidenceMarks,
     transformLensPointComments,
   ];
@@ -613,6 +897,7 @@ async function main() {
   const files = (await walk(docsRoot)).sort();
   await copyDocs(files);
   await copyData();
+  const transcriptSearchText = await generateTranscriptSearchText();
   const copiedSkillText = await copySkillText();
   const episodeMarkdown = await generateSourceMarkdown('episodes');
   const interviewMarkdown = await generateSourceMarkdown('interviews');
@@ -626,6 +911,16 @@ async function main() {
     '',
     'Agents should separate Jiang-sourced material from project interpretation and generated analysis.',
     '',
+    '## Agent Resolution Order',
+    '',
+    'For questions about Jiang\'s views, use public summaries and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.',
+    '',
+    '1. Read skill.txt for attribution, output, and identity rules.',
+    '2. Use episode text indexes, interview text indexes, and lens docs to find the relevant public reading or concept.',
+    '3. Use source refs, evidence cards, transcript links, and link-index backlinks to quote timestamped transcript segments when attributing claims to Jiang.',
+    '4. Search transcript-search.txt or transcript-search.json when the topic/entity is not obvious from the public reading indexes.',
+    '5. Use GitHub only for implementation, provenance, or source-file audit questions, not as the primary source for Jiang-content answers.',
+    '',
     '## Agent Entry Points',
     '',
     `- [Jiang Lens skill text](${urlFor(siteConfig.paths.skillText)})`,
@@ -635,6 +930,7 @@ async function main() {
     `- [Interviews](${urlFor(siteConfig.paths.interviews)})`,
     `- [Interview text index](${urlFor(siteConfig.paths.interviewIndexText)})`,
     `- [Interview JSON index](${urlFor(siteConfig.paths.interviewIndexJson)})`,
+    `- [Transcript search text](${urlFor(siteConfig.paths.transcriptSearchText)})`,
     `- [Transcript search JSON](${urlFor(siteConfig.paths.transcriptSearchJson)})`,
     `- [Full compact docs](${urlFor(siteConfig.paths.llmsFull)})`,
     `- [Generated manifest JSON](${urlFor(siteConfig.paths.manifestJson)})`,
@@ -655,7 +951,7 @@ async function main() {
 
   for (const filePath of files) {
     const content = await readFile(filePath, 'utf8');
-    const publicContent = transformPublicMarkdown(content);
+    const publicContent = transformPublicMarkdown(content, { extension: 'txt' });
     const metadata = extractFrontmatter(content);
     const slug = docSlug(filePath);
     if (!slug) continue;
@@ -667,7 +963,7 @@ async function main() {
 
   if (existsSync(publicSkillPath)) {
     const skill = await readFile(publicSkillPath, 'utf8');
-    fullLines.push('---', '', '# Jiang Lens Skill', '', withoutFrontmatter(skill), '');
+    fullLines.push('---', '', '# Jiang Lens Skill', '', withoutFrontmatter(transformPublicMarkdown(skill, { extension: 'txt' })), '');
   }
 
   if (episodeMarkdown?.markdown) {
@@ -683,7 +979,7 @@ async function main() {
     '',
     '# Generated Transcript Search JSON',
     '',
-    `Fetch ${urlFor(siteConfig.paths.transcriptSearchJson)} for full-text transcript segment lookup. It is linked here rather than embedded so llms-full remains compact.`,
+    `Fetch ${urlFor(siteConfig.paths.transcriptSearchText)} for plain-text transcript segment lookup or ${urlFor(siteConfig.paths.transcriptSearchJson)} for machine-readable lookup. They are linked here rather than embedded so llms-full remains compact.`,
     '',
   );
 
@@ -701,7 +997,9 @@ async function main() {
 
   indexLines.push(
     '',
-    '## Official Jiang Lens Surfaces',
+    '## Repository Source For Site Implementation Only',
+    '',
+    'Use the repository for implementation, provenance, or source-file audit questions. Do not use it as the primary source for Jiang-content answers.',
     '',
     ...siteConfig.officialProfiles.map((profile) => `- ${profile}`),
     '',
@@ -718,7 +1016,7 @@ async function main() {
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));
 
-  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
 }
 
 main().catch((error) => {

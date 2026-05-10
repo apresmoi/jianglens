@@ -526,6 +526,7 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
                     {chunks.map((chunk, index) => (
                       <>
                         <span
+                          id={chunk.id}
                           class="speech-chunk"
                           data-speech-chunk
                           data-seek-start={chunk.start}
@@ -562,6 +563,7 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
           el: chunkEl,
           start: Number(chunkEl.getAttribute('data-chunk-start')),
           end: Number(chunkEl.getAttribute('data-chunk-end')),
+          id: chunkEl.id,
         })),
       }));
       let activeSegment = null;
@@ -663,6 +665,11 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
         const segment = segmentForTime(start);
         setActiveSegment(segment, { time: start });
 
+        const targetId = activeChunk?.el?.id || segment?.el?.id;
+        if (targetId && window.location.hash !== `#${targetId}`) {
+          window.history.replaceState(null, '', `#${targetId}`);
+        }
+
         if (playerReady && player && typeof player.seekTo === 'function') {
           player.seekTo(start, true);
           if (typeof player.playVideo === 'function') player.playVideo();
@@ -697,13 +704,30 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
         });
       });
 
-      const hashSegment = window.location.hash
-        ? segments.find((segment) => `#${segment.el.id}` === window.location.hash)
-        : null;
+      const hash = window.location.hash ? window.location.hash.slice(1) : '';
+      let hashSegment = hash ? segments.find((segment) => segment.el.id === hash) : null;
+      let hashChunk = null;
+      if (hash && !hashSegment) {
+        for (const segment of segments) {
+          const chunk = segment.chunks.find((item) => item.id === hash);
+          if (chunk) {
+            hashSegment = segment;
+            hashChunk = chunk;
+            break;
+          }
+        }
+      }
       const initialSegment = hashSegment || segments[0];
-      setActiveSegment(initialSegment, { scroll: Boolean(hashSegment), instant: true });
+      setActiveSegment(initialSegment, {
+        time: hashChunk?.start ?? hashSegment?.start,
+        scroll: Boolean(hashSegment),
+        instant: true,
+      });
+      if (hashChunk?.el) {
+        hashChunk.el.scrollIntoView({ block: 'center', behavior: 'auto' });
+      }
       if (hashSegment && iframe && baseSrc) {
-        iframe.setAttribute('src', iframeUrl(hashSegment.start));
+        iframe.setAttribute('src', iframeUrl(hashChunk?.start ?? hashSegment.start));
       }
 
       function syncFromPlayer() {
