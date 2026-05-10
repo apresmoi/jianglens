@@ -1,0 +1,11 @@
+---
+import DefaultHead from '@astrojs/starlight/components/Head.astro';
+import { docArtifactUrlFromRoute } from '../lib/agent-artifacts.mjs';
+
+const markdownUrl = docArtifactUrlFromRoute(Astro.url.pathname, 'md');
+const textUrl = docArtifactUrlFromRoute(Astro.url.pathname, 'txt');
+---
+
+<DefaultHead />
+{markdownUrl && <link rel="alternate" type="text/markdown" href={markdownUrl} title="Markdown version" />}
+{textUrl && <link rel="alternate" type="text/plain" href={textUrl} title="Plain text version" />}

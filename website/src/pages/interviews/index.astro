@@ -3,12 +3,15 @@ import GoogleAnalytics from '../../components/GoogleAnalytics.astro';
 import IconLinks from '../../components/IconLinks.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import { absoluteUrl } from '../../../site.config.mjs';
+import { sourceIndexArtifactUrl } from '../../lib/agent-artifacts.mjs';
 import { readInterviewIndex } from '../../lib/episodes.mjs';
 
 const interviewIndex = await readInterviewIndex();
 const episodes = interviewIndex.interviews ?? [];
 const title = 'Interviews | Jiang Lens';
 const description = 'Compressed Jiang Lens interview readings with source video and transcript archive links.';
+const markdownUrl = sourceIndexArtifactUrl('interviews', 'md');
+const textUrl = sourceIndexArtifactUrl('interviews', 'txt');
 
 function cleanDate(episode) {
   return episode.published_at || String(episode.date_label || '').replace(/,\s*.*$/, '');
@@ -49,6 +52,8 @@ function episodeSearchText(episode) {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={absoluteUrl('/interviews/')} />
+    <link rel="alternate" type="text/markdown" href={markdownUrl} title="Interview Markdown index" />
+    <link rel="alternate" type="text/plain" href={textUrl} title="Interview text index" />
     <style>
       :root {
         color-scheme: dark;

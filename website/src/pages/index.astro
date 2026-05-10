@@ -12,8 +12,8 @@ const latestEpisodeHref = latestEpisode?.path ? `.${latestEpisode.path}` : './ep
 const latestEpisodeLabel = latestEpisode?.title
   ? `Explore the latest episode: ${latestEpisode.title}`
   : 'Explore the latest episode';
-const publicSkillUrl = `${siteConfig.urls.publicOrigin}${siteConfig.paths.skill}`;
-const tryPrompt = `Read ${publicSkillUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
+const publicAgentIndexUrl = `${siteConfig.urls.publicOrigin}${siteConfig.paths.llms}`;
+const tryPrompt = `Read ${publicAgentIndexUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
 const disambiguationHref = `.${siteConfig.paths.disambiguation}`;
 ---
 
@@ -29,9 +29,10 @@ const disambiguationHref = `.${siteConfig.paths.disambiguation}`;
     <meta name="author" content={siteConfig.seo.author} />
     <link rel="canonical" href={homeSeo.canonicalUrl} />
     <link rel="sitemap" href={homeSeo.sitemapUrl} />
-    <link rel="alternate" type="text/markdown" href={homeSeo.skillUrl} title="Jiang Lens skill" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsUrl} title="llms.txt" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsFullUrl} title="llms-full.txt" />
+    <link rel="alternate" type="text/plain" href={homeSeo.skillTextUrl} title="Jiang Lens skill text" />
+    <link rel="alternate" type="text/markdown" href={homeSeo.skillUrl} title="Jiang Lens skill Markdown" />
     <meta property="og:title" content={homeSeo.title} />
     <meta property="og:description" content={homeSeo.description} />
     <meta property="og:type" content={homeSeo.type} />

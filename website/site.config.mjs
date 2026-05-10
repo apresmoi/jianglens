@@ -76,6 +76,7 @@ export function pageSeo(pageName) {
     imageUrl: absoluteUrl(page.image.path),
     sitemapUrl: absoluteUrl('/sitemap-0.xml'),
     skillUrl: absoluteUrl(siteConfig.paths.skill),
+    skillTextUrl: absoluteUrl(siteConfig.paths.skillText),
     llmsUrl: absoluteUrl(siteConfig.paths.llms),
     llmsFullUrl: absoluteUrl(siteConfig.paths.llmsFull),
   };
@@ -160,15 +161,21 @@ export function structuredDataForPage(pageName) {
         distribution: [
           {
             '@type': 'DataDownload',
-            encodingFormat: 'text/markdown',
-            contentUrl: seo.skillUrl,
-            name: 'Jiang Lens skill',
+            encodingFormat: 'text/plain',
+            contentUrl: seo.llmsUrl,
+            name: 'llms.txt',
           },
           {
             '@type': 'DataDownload',
             encodingFormat: 'text/plain',
-            contentUrl: seo.llmsUrl,
-            name: 'llms.txt',
+            contentUrl: seo.skillTextUrl,
+            name: 'Jiang Lens skill text',
+          },
+          {
+            '@type': 'DataDownload',
+            encodingFormat: 'text/markdown',
+            contentUrl: seo.skillUrl,
+            name: 'Jiang Lens skill Markdown',
           },
           {
             '@type': 'DataDownload',
@@ -221,13 +228,16 @@ export const siteConfig = {
   paths: {
     disambiguation: '/disambiguation/',
     skill: '/skill.md',
+    skillText: '/skill.txt',
     llms: '/llms.txt',
     llmsFull: '/llms-full.txt',
     episodes: '/episodes/',
     episodeIndexMarkdown: '/episodes/index.md',
+    episodeIndexText: '/episodes/index.txt',
     episodeIndexJson: '/data/lens/episodes/index.json',
     interviews: '/interviews/',
     interviewIndexMarkdown: '/interviews/index.md',
+    interviewIndexText: '/interviews/index.txt',
     interviewIndexJson: '/data/lens/interviews/index.json',
     transcriptSearchJson: '/data/lens/transcript-search.json',
     manifestJson: '/data/lens/manifest.json',
