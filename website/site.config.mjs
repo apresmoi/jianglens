@@ -79,6 +79,7 @@ export function pageSeo(pageName) {
     skillTextUrl: absoluteUrl(siteConfig.paths.skillText),
     llmsUrl: absoluteUrl(siteConfig.paths.llms),
     llmsFullUrl: absoluteUrl(siteConfig.paths.llmsFull),
+    agentSitemapUrl: absoluteUrl(siteConfig.paths.agentSitemapText),
   };
 }
 
@@ -186,6 +187,12 @@ export function structuredDataForPage(pageName) {
           {
             '@type': 'DataDownload',
             encodingFormat: 'text/plain',
+            contentUrl: seo.agentSitemapUrl,
+            name: 'Agent sitemap text',
+          },
+          {
+            '@type': 'DataDownload',
+            encodingFormat: 'text/plain',
             contentUrl: absoluteUrl(siteConfig.paths.transcriptSearchText),
             name: 'Transcript search text',
           },
@@ -243,6 +250,7 @@ export const siteConfig = {
     skillText: '/skill.txt',
     llms: '/llms.txt',
     llmsFull: '/llms-full.txt',
+    agentSitemapText: '/sitemap-agent.txt',
     episodes: '/episodes/',
     episodeIndexMarkdown: '/episodes/index.md',
     episodeIndexText: '/episodes/index.txt',
