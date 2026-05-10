@@ -10,7 +10,7 @@ Jiang Lens is a public map of Jiang Xueqin's lectures, interviews, and writing a
 Paste this URL into ChatGPT, Claude, or another assistant:
 
 ```text
-https://jianglens.com/skill.md
+https://jianglens.com/skill/
 ```
 
 ## What The Skill Does
@@ -25,17 +25,17 @@ The useful output is not "what would Jiang say?" The useful output is a Jiang Le
 
 ```text
 Read this skill and use Jiang's lens to analyze the attached article:
-https://jianglens.com/skill.md
+https://jianglens.com/skill/
 ```
 
 ```text
 Use Jiang's lens to compare these two geopolitical moves. Separate source-grounded concepts from your own inference:
-https://jianglens.com/skill.md
+https://jianglens.com/skill/
 ```
 
 ```text
 Use Jiang's lens to identify the actors, incentives, traps, and time horizons in this situation:
-https://jianglens.com/skill.md
+https://jianglens.com/skill/
 ```
 
 ## Expected Output

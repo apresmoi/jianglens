@@ -75,7 +75,8 @@ export function pageSeo(pageName) {
     canonicalUrl: absoluteUrl(page.path),
     imageUrl: absoluteUrl(page.image.path),
     sitemapUrl: absoluteUrl('/sitemap-0.xml'),
-    skillUrl: absoluteUrl(siteConfig.paths.skill),
+    skillPageUrl: absoluteUrl(siteConfig.paths.skillPage),
+    skillUrl: absoluteUrl(siteConfig.paths.skillMarkdown),
     skillTextUrl: absoluteUrl(siteConfig.paths.skillText),
     llmsUrl: absoluteUrl(siteConfig.paths.llms),
     llmsFullUrl: absoluteUrl(siteConfig.paths.llmsFull),
@@ -168,6 +169,12 @@ export function structuredDataForPage(pageName) {
           },
           {
             '@type': 'DataDownload',
+            encodingFormat: 'text/html',
+            contentUrl: seo.skillPageUrl,
+            name: 'Jiang Lens skill HTML',
+          },
+          {
+            '@type': 'DataDownload',
             encodingFormat: 'text/plain',
             contentUrl: seo.skillTextUrl,
             name: 'Jiang Lens skill text',
@@ -246,7 +253,8 @@ export const siteConfig = {
   },
   paths: {
     disambiguation: '/disambiguation/',
-    skill: '/skill.md',
+    skillPage: '/skill/',
+    skillMarkdown: '/skill.md',
     skillText: '/skill.txt',
     llms: '/llms.txt',
     llmsFull: '/llms-full.txt',

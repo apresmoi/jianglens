@@ -88,7 +88,8 @@ async function main() {
     for (const expected of [
       'LLMs: https://jianglens.com/llms.txt',
       'LLMs-full: https://jianglens.com/llms-full.txt',
-      'Skill: https://jianglens.com/skill.md',
+      'Skill: https://jianglens.com/skill/',
+      'Skill-markdown: https://jianglens.com/skill.md',
       'Skill-text: https://jianglens.com/skill.txt',
       'Topic-index: https://jianglens.com/topics/index.txt',
       'Agent-sitemap: https://jianglens.com/sitemap-agent.txt',
@@ -101,6 +102,26 @@ async function main() {
     ]) {
       if (!robots.includes(expected)) {
         failures.push(`dist/robots.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const skillHtmlPath = path.join(distRoot, 'skill/index.html');
+  if (!existsSync(skillHtmlPath)) {
+    failures.push('dist/skill/index.html: missing');
+  } else {
+    const skillHtml = await readFile(skillHtmlPath, 'utf8');
+    for (const expected of [
+      '<link rel="canonical" href="https://jianglens.com/skill/">',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/skill.txt"',
+      '<link rel="alternate" type="text/markdown" href="https://jianglens.com/skill.md"',
+      'Use HTML pages first',
+      'Do not cite <code',
+      '.txt</code> mirrors unless no HTML route is available',
+      'Read https://jianglens.com/skill/ and analyze this with Jiang Lens',
+    ]) {
+      if (!skillHtml.includes(expected)) {
+        failures.push(`dist/skill/index.html: missing ${expected}`);
       }
     }
   }
@@ -131,6 +152,12 @@ async function main() {
     if (!home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-0.xml">')) {
       failures.push('dist/index.html: missing production sitemap-0 head link');
     }
+    if (!home.includes('<link rel="help" href="https://jianglens.com/skill/">')) {
+      failures.push('dist/index.html: missing skill help link');
+    }
+    if (!home.includes('Read https://jianglens.com/skill/ and analyze this with Jiang Lens')) {
+      failures.push('dist/index.html: homepage prompt does not use /skill/');
+    }
     if (home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-index.xml">')) {
       failures.push('dist/index.html: still links sitemap-index.xml in head');
     }
@@ -156,6 +183,7 @@ async function main() {
   ];
   const expectedAlternatesByHeadPath = {
     'index.html': [
+      '<link rel="alternate" type="text/html" href="https://jianglens.com/skill/"',
       '<link rel="alternate" type="text/markdown" href="https://jianglens.com/skill.md"',
       '<link rel="alternate" type="text/plain" href="https://jianglens.com/skill.txt"',
       '<link rel="alternate" type="text/plain" href="https://jianglens.com/llms.txt"',
@@ -284,10 +312,12 @@ async function main() {
     const llms = await readFile(llmsPath, 'utf8');
     for (const expected of [
       'Static topic router',
+      'https://jianglens.com/skill/',
+      'https://jianglens.com/topics/',
       'https://jianglens.com/topics/index.txt',
       'https://jianglens.com/sitemap-agent.txt',
       'Knights Templar / templars',
-      'Use bulk transcript-search.txt, transcript-search.json, and link-index.json only as fallback/offline audit surfaces',
+      'Do not cite .txt mirrors unless no HTML page is available',
     ]) {
       if (!llms.includes(expected)) {
         failures.push(`dist/llms.txt: missing ${expected}`);
@@ -300,7 +330,7 @@ async function main() {
     const topicIndex = await readFile(topicIndexPath, 'utf8');
     for (const expected of [
       '# Jiang Lens Topic Router',
-      'Try `/topics/{normalized-topic}.txt` directly',
+      'Try `/topics/{normalized-topic}/` directly',
       'https://jianglens.com/topics/index/k.txt',
     ]) {
       if (!topicIndex.includes(expected)) {
@@ -316,6 +346,8 @@ async function main() {
       '# Topic: Knights Templar',
       '## Generated Answer Map',
       '## Quoted Transcript Hits',
+      'Human citation page: [/topics/knights-templar/]',
+      'Citation rule: do not cite this .txt/.md mirror when a human-readable page exists',
       'multinational banking and trade organization',
       'https://jianglens.com/episodes/predictive-history-3751zjwmrbw/transcript/#seg-0034',
       'video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034',
@@ -331,6 +363,7 @@ async function main() {
     const templarsAlias = await readFile(templarsAliasPath, 'utf8');
     for (const expected of [
       '# Topic Alias: templars',
+      'https://jianglens.com/topics/knights-templar/',
       'https://jianglens.com/topics/knights-templar.txt',
     ]) {
       if (!templarsAlias.includes(expected)) {
@@ -353,10 +386,11 @@ async function main() {
       }
     }
     for (const expected of [
-      '/topics/{topic-slug}.txt',
-      '/topics/index/{first-letter}.txt',
-      '/episodes/{episode-slug}.txt',
-      '/episodes/{episode-slug}/transcript.txt',
+      '/skill/',
+      '/topics/{topic-slug}/',
+      '/topics/index/{first-letter}/',
+      '/episodes/{episode-slug}/',
+      '/episodes/{episode-slug}/transcript/',
     ]) {
       if (!skillText.includes(expected)) {
         failures.push(`dist/skill.txt: missing placeholder-safe route ${expected}`);
@@ -368,6 +402,7 @@ async function main() {
   if (existsSync(agentSitemapPath)) {
     const agentSitemap = await readFile(agentSitemapPath, 'utf8');
     for (const expected of [
+      'https://jianglens.com/skill/',
       'https://jianglens.com/llms.txt',
       'https://jianglens.com/skill.txt',
       'https://jianglens.com/topics/',

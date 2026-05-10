@@ -23,7 +23,7 @@ This is why Jiang Lens links public prose to source refs and generated indexes. 
 
 ## Agent Entry Points
 
-- [`/skill.md`](/skill.md) tells ChatGPT, Claude, Codex, or another assistant how to use the lens.
+- [`/skill/`](/skill/) tells ChatGPT, Claude, Codex, or another assistant how to use the lens.
 - [`/llms.txt`](/llms.txt) gives the public site map.
 - [`/data/lens/manifest.json`](/data/lens/manifest.json) lists generated routes and corpus objects.
 - [`/data/lens/link-index.json`](/data/lens/link-index.json) maps docs and source refs for provenance-aware analysis.

@@ -1180,7 +1180,7 @@ function renderTopicMarkdown(topic) {
   const relatedTopicLinks = [...topic.relatedTopics.entries()]
     .filter(([slug]) => slug !== topic.slug)
     .slice(0, 12)
-    .map(([slug, label]) => markdownLink(label, publicPath(`/topics/${slug}.txt`)));
+    .map(([slug, label]) => markdownLink(label, publicPath(`/topics/${slug}/`)));
 
   const lines = [
     '---',
@@ -1192,9 +1192,13 @@ function renderTopicMarkdown(topic) {
     '',
     `# Topic: ${topic.label}`,
     '',
-    'Generated static topic dossier for agents. Use this file as the first retrieval hop for this topic, then follow the cited episode readings and transcript anchors for exact wording.',
+    'Generated static topic dossier for agents. Use the human-readable HTML topic page as the citation target, then follow the cited transcript and video links for exact Jiang wording.',
     '',
-    `Canonical path: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
+    `Human citation page: ${markdownLink(`/topics/${topic.slug}/`, publicPath(`/topics/${topic.slug}/`))}`,
+    `Text mirror: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
+    `Markdown mirror: ${markdownLink(`/topics/${topic.slug}.md`, publicPath(`/topics/${topic.slug}.md`))}`,
+    '',
+    'Citation rule: do not cite this .txt/.md mirror when a human-readable page exists. Cite the HTML topic page for the generated dossier, and cite transcript/video links below for Jiang-spoken quotations.',
   ];
 
   const aliases = [...topic.aliases].filter((alias) => alias !== topic.slug).sort();
@@ -1224,7 +1228,7 @@ function renderTopicMarkdown(topic) {
         `   Timestamp: ${hit.videoUrl ? markdownLink(hit.timeLabel || hit.segmentId, hit.videoUrl) : (hit.timeLabel || hit.segmentId)} | Transcript: ${markdownLink(hit.segmentId || hit.transcriptUrl, hit.transcriptUrl)}`,
         `   Source ref: \`${hit.ref}\``,
         `   Quote: "${hit.quote}"`,
-        `   Reading: ${markdownLink(sourceTextPath(hit.slug, hit.collection), hit.sourceTextUrl)} | JSON: ${markdownLink(sourceDataPath(hit.slug, hit.collection), hit.sourceJsonUrl)}`,
+        `   Human reading: ${markdownLink(`/${hit.collection}/${hit.slug}/`, publicPath(`/${hit.collection}/${hit.slug}/`))} | Text mirror: ${markdownLink(sourceTextPath(hit.slug, hit.collection), hit.sourceTextUrl)} | JSON: ${markdownLink(sourceDataPath(hit.slug, hit.collection), hit.sourceJsonUrl)}`,
       );
       if (hit.related.length) {
         lines.push(`   Related lens: ${hit.related.map((item) => markdownLink(item.label, item.href)).join('; ')}`);
@@ -1238,9 +1242,9 @@ function renderTopicMarkdown(topic) {
     for (const source of sources) {
       const reason = source.reasons.size ? ` (${[...source.reasons].slice(0, 3).join(', ')})` : '';
       lines.push(
-        `- ${markdownLink(source.title, source.textUrl)}${reason} -- ${source.date}`,
+        `- ${markdownLink(source.title, publicPath(`/${source.collection}/${source.slug}/`))}${reason} -- ${source.date}`,
         `  Source: ${source.sourceUrl ? markdownLink(source.sourceTitle, source.sourceUrl) : source.sourceTitle}`,
-        `  Transcript text: ${markdownLink(sourceTranscriptTextPath(source.slug, source.collection), source.transcriptTextUrl)} | JSON: ${markdownLink(sourceDataPath(source.slug, source.collection), source.dataUrl)}`,
+        `  Transcript page: ${markdownLink(`/${source.collection}/${source.slug}/transcript/`, publicPath(`/${source.collection}/${source.slug}/transcript/`))} | Transcript text: ${markdownLink(sourceTranscriptTextPath(source.slug, source.collection), source.transcriptTextUrl)} | JSON: ${markdownLink(sourceDataPath(source.slug, source.collection), source.dataUrl)}`,
       );
       if (source.summary) lines.push(`  Summary: ${source.summary}`);
     }
@@ -1275,9 +1279,12 @@ function renderTopicAliasMarkdown(alias, topic) {
     '',
     `This generated static route points to the canonical topic dossier for **${topic.label}**.`,
     '',
-    `Canonical topic: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
+    `Human citation page: ${markdownLink(`/topics/${topic.slug}/`, publicPath(`/topics/${topic.slug}/`))}`,
+    `Canonical topic text mirror: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
     '',
-    'Open the canonical topic before answering. It contains the generated answer map, source readings, transcript anchors, video timestamps, and source refs.',
+    'Open the human-readable topic page before answering. It contains the generated answer map, source readings, transcript anchors, video timestamps, and source refs.',
+    '',
+    'Citation rule: cite the human-readable topic page or transcript/video links, not this alias mirror.',
     '',
   ].join('\n');
 }
@@ -1287,14 +1294,14 @@ function renderTopicIndex(aliasTargets, topics) {
   const lines = [
     '# Jiang Lens Topic Router',
     '',
-    'Generated static topic router for agents. Do not load the bulk transcript-search files first for ordinary topic questions.',
+    'Generated static topic router for agents. Prefer the human-readable HTML router at https://jianglens.com/topics/ when browser access is available. Do not load the bulk transcript-search files first for ordinary topic questions.',
     '',
     'Lookup order:',
     '',
     '1. Normalize the user topic to lowercase words, remove punctuation, and join words with hyphens.',
-    '2. Try `/topics/{normalized-topic}.txt` directly.',
+    '2. Try `/topics/{normalized-topic}/` directly when HTML pages are available; use `/topics/{normalized-topic}.txt` only as a fallback mirror.',
     '3. If that route is missing or ambiguous, open the letter shard under `/topics/index/{first-letter}.txt`.',
-    '4. Open the canonical topic dossier linked by the shard or alias route.',
+    '4. Open the canonical HTML topic dossier linked by the shard or alias route.',
     '5. Use bulk transcript-search only as a fallback when no topic dossier exists.',
     '',
     `Canonical topics: ${topics.size}`,
@@ -1319,7 +1326,7 @@ function renderTopicLetterIndex(letter, aliasTargets, topics) {
   const lines = [
     `# Jiang Lens Topic Router: ${letter.toUpperCase()}`,
     '',
-    'Generated static alias shard. Open the canonical topic file for answer map, source readings, transcript anchors, video timestamps, and source refs.',
+    'Generated static alias shard. Open the canonical HTML topic page for answer map, source readings, transcript anchors, video timestamps, and source refs.',
     '',
   ];
 
@@ -1327,7 +1334,7 @@ function renderTopicLetterIndex(letter, aliasTargets, topics) {
     const topic = topics.get(slug);
     if (!topic) continue;
     const aliasLabel = alias === slug ? topic.label : alias;
-    lines.push(`- \`${aliasLabel}\` -> ${markdownLink(topic.label, publicPath(`/topics/${slug}.txt`))}`);
+    lines.push(`- \`${aliasLabel}\` -> ${markdownLink(topic.label, publicPath(`/topics/${slug}/`))} (text mirror: ${publicPath(`/topics/${slug}.txt`)})`);
   }
   lines.push('');
   return `${lines.join('\n').trim()}\n`;
@@ -1493,20 +1500,26 @@ function publicSitemapPath(filePath) {
 async function generateAgentSitemap() {
   const priorityPaths = [
     '/',
+    siteConfig.paths.skillPage,
     siteConfig.paths.llms,
-    siteConfig.paths.skillText,
+    '/topics/',
     siteConfig.paths.topicIndexText,
+    '/topics/knights-templar/',
     '/topics/knights-templar.txt',
     '/topics/templars.txt',
+    '/topics/trump/',
     '/topics/trump.txt',
+    '/topics/newton/',
     '/topics/newton.txt',
+    '/topics/freemasons/',
     '/topics/freemasons.txt',
     siteConfig.paths.episodeIndexText,
     siteConfig.paths.interviewIndexText,
     siteConfig.paths.transcriptSearchText,
     siteConfig.paths.transcriptSearchJson,
     siteConfig.paths.llmsFull,
-    siteConfig.paths.skill,
+    siteConfig.paths.skillText,
+    siteConfig.paths.skillMarkdown,
     siteConfig.paths.manifestJson,
     siteConfig.paths.linkIndexJson,
   ];
@@ -1718,17 +1731,20 @@ async function main() {
     '',
     'For questions about Jiang\'s views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.',
     '',
-    '1. Read skill.txt for attribution, output, and identity rules.',
-    '2. Normalize the user topic and try the static topic dossier at /topics/{topic-slug}.txt, or use /topics/index.txt and its letter shards to resolve aliases.',
-    '3. Use the topic dossier\'s source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.',
-    '4. Use episode text indexes, interview text indexes, and lens docs when a topic dossier does not cover the question.',
-    '5. Use bulk transcript-search.txt, transcript-search.json, and link-index.json only as fallback/offline audit surfaces, because they are large.',
+    '1. Read the HTML skill page at /skill/ for attribution, output, and identity rules.',
+    '2. Normalize the user topic and use the HTML topic router at /topics/, or try the static topic page at /topics/{topic-slug}/.',
+    '3. Use the topic page\'s generated answer map, source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.',
+    '4. Use .txt, .md, JSON, and bulk transcript-search surfaces only as fallback/offline audit surfaces, because they may be too large or may be cited instead of the human page.',
+    '5. When citing Jiang Lens topic dossiers, cite the human-readable HTML page and cite transcript/video links for exact Jiang quotes. Do not cite .txt mirrors unless no HTML page is available.',
     '6. Use GitHub only for implementation, provenance, or source-file audit questions, not as the primary source for Jiang-content answers.',
     '',
     '## Agent Entry Points',
     '',
-    `- [Jiang Lens skill text](${urlFor(siteConfig.paths.skillText)})`,
-    `- [Static topic router](${urlFor(siteConfig.paths.topicIndexText)})`,
+    `- [Jiang Lens skill HTML](${urlFor(siteConfig.paths.skillPage)})`,
+    `- [Static topic router HTML](${urlFor('/topics/')})`,
+    `- [Jiang Lens skill text fallback](${urlFor(siteConfig.paths.skillText)})`,
+    `- [Jiang Lens skill Markdown fallback](${urlFor(siteConfig.paths.skillMarkdown)})`,
+    `- [Static topic router text fallback](${urlFor(siteConfig.paths.topicIndexText)})`,
     `- [Agent sitemap text](${urlFor(siteConfig.paths.agentSitemapText)})`,
     `- [Episodes](${urlFor(siteConfig.paths.episodes)})`,
     `- [Episode text index](${urlFor(siteConfig.paths.episodeIndexText)})`,
@@ -1744,10 +1760,10 @@ async function main() {
     '',
     '## High-Signal Topic Examples',
     '',
-    `- Knights Templar / templars: ${urlFor('/topics/knights-templar.txt')} (alias: ${urlFor('/topics/templars.txt')})`,
-    `- Trump: ${urlFor('/topics/trump.txt')}`,
-    `- Isaac Newton / Newton: ${urlFor('/topics/newton.txt')}`,
-    `- Freemasons: ${urlFor('/topics/freemasons.txt')}`,
+    `- Knights Templar / templars: ${urlFor('/topics/knights-templar/')} (text alias: ${urlFor('/topics/templars.txt')})`,
+    `- Trump: ${urlFor('/topics/trump/')}`,
+    `- Isaac Newton / Newton: ${urlFor('/topics/newton/')}`,
+    `- Freemasons: ${urlFor('/topics/freemasons/')}`,
     '',
     '## Public Docs',
     '',
@@ -1792,7 +1808,7 @@ async function main() {
     '',
     '# Generated Topic And Bulk Index Routes',
     '',
-    `Fetch ${urlFor(siteConfig.paths.topicIndexText)} for the generated static topic router. It points agents to small topic dossiers such as ${urlFor('/topics/knights-templar.txt')}.`,
+    `Fetch ${urlFor('/topics/')} for the generated static HTML topic router. Use text mirrors such as ${urlFor(siteConfig.paths.topicIndexText)} or ${urlFor('/topics/knights-templar.txt')} only as fallback or audit surfaces.`,
     '',
     `Fetch ${urlFor(siteConfig.paths.transcriptSearchText)} for bulk plain-text transcript segment lookup or ${urlFor(siteConfig.paths.transcriptSearchJson)} for machine-readable lookup only when topic dossiers are missing. They are linked here rather than embedded so llms-full remains compact.`,
     '',
