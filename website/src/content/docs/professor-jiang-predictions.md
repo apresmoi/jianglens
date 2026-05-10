@@ -23,7 +23,7 @@ The public pages are still being built toward this shape. Episodes already expos
 
 ## Use With Agents
 
-When asking ChatGPT, Claude, or another assistant about Professor Jiang predictions, give it [`/skill.md`](/skill.md) and ask it to separate:
+When asking ChatGPT, Claude, or another assistant about Professor Jiang predictions, give it [`/skill/`](/skill/) and ask it to separate:
 
 - Jiang-sourced prediction,
 - Jiang Lens interpretation,

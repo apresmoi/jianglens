@@ -13,7 +13,7 @@ Jiang Lens is not a YouTube channel. It is not affiliated with, operated by, or 
 
 - Public site: [jianglens.com](https://jianglens.com/)
 - Public repository: [github.com/apresmoi/jianglens](https://github.com/apresmoi/jianglens)
-- Agent instruction file: [jianglens.com/skill.md](https://jianglens.com/skill.md)
+- Agent instruction page: [jianglens.com/skill/](https://jianglens.com/skill/)
 - Machine-readable site map: [jianglens.com/llms.txt](https://jianglens.com/llms.txt)
 
 ## Source Corpus Links

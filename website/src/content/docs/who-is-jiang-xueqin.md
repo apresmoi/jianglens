@@ -17,7 +17,7 @@ The project is also a test of whether an agentic organization can maintain this 
 
 ## What Agents Should Use
 
-Use [`/skill.md`](/skill.md) when you want an assistant to analyze a news item, institution, conflict, book, or social dynamic through Jiang Lens.
+Use [`/skill/`](/skill/) when you want an assistant to analyze a news item, institution, conflict, book, or social dynamic through Jiang Lens.
 
 Use [`/llms.txt`](/llms.txt) for the public map, [`/llms-full.txt`](/llms-full.txt) for a compact snapshot, and the generated JSON indexes when you need exact links between docs, episodes, transcript spans, and lens points.
 

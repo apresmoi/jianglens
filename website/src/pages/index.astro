@@ -12,7 +12,7 @@ const latestEpisodeHref = latestEpisode?.path ? `.${latestEpisode.path}` : './ep
 const latestEpisodeLabel = latestEpisode?.title
   ? `Explore the latest episode: ${latestEpisode.title}`
   : 'Explore the latest episode';
-const publicAgentIndexUrl = `${siteConfig.urls.publicOrigin}${siteConfig.paths.llms}`;
+const publicAgentIndexUrl = `${siteConfig.urls.publicOrigin}${siteConfig.paths.skillPage}`;
 const tryPrompt = `Read ${publicAgentIndexUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
 const disambiguationHref = `.${siteConfig.paths.disambiguation}`;
 ---
@@ -29,6 +29,8 @@ const disambiguationHref = `.${siteConfig.paths.disambiguation}`;
     <meta name="author" content={siteConfig.seo.author} />
     <link rel="canonical" href={homeSeo.canonicalUrl} />
     <link rel="sitemap" href={homeSeo.sitemapUrl} />
+    <link rel="help" href={homeSeo.skillPageUrl} />
+    <link rel="alternate" type="text/html" href={homeSeo.skillPageUrl} title="Jiang Lens skill HTML" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsUrl} title="llms.txt" />
     <link rel="alternate" type="text/plain" href={homeSeo.llmsFullUrl} title="llms-full.txt" />
     <link rel="alternate" type="text/plain" href={homeSeo.skillTextUrl} title="Jiang Lens skill text" />
