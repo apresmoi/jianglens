@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { copyFile, mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
+import { copyFile, mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -17,9 +17,61 @@ const episodeDataRoot = path.join(dataRoot, 'episodes');
 const interviewDataRoot = path.join(dataRoot, 'interviews');
 const episodeMarkdownOutRoot = path.join(distRoot, 'episodes');
 const interviewMarkdownOutRoot = path.join(distRoot, 'interviews');
+const topicOutRoot = path.join(distRoot, 'topics');
+const topicIndexOutRoot = path.join(topicOutRoot, 'index');
 const publicSkillPath = path.join(websiteRoot, 'public/skill.md');
 const origin = configuredOrigin();
 const basePath = configuredBasePath();
+
+const topicStopwords = new Set([
+  'a',
+  'an',
+  'and',
+  'as',
+  'at',
+  'by',
+  'for',
+  'from',
+  'in',
+  'into',
+  'is',
+  'of',
+  'on',
+  'or',
+  'the',
+  'to',
+  'with',
+]);
+
+const weakAliasWords = new Set([
+  'agency',
+  'america',
+  'authority',
+  'capital',
+  'church',
+  'control',
+  'empire',
+  'history',
+  'machine',
+  'model',
+  'nation',
+  'power',
+  'religion',
+  'revolution',
+  'society',
+  'state',
+  'technology',
+  'war',
+  'world',
+]);
+
+const topicSemanticFields = [
+  'claims',
+  'models',
+  'diagnoses',
+  'other_claims',
+  'predictions',
+];
 
 async function walk(dir) {
   const entries = await readdir(dir, { withFileTypes: true });
@@ -105,6 +157,116 @@ function firstSentenceExcerpt(value, maxWords = 28) {
   if (!text) return '';
   const sentence = text.match(/.*?[.!?](?:\s|$)/)?.[0]?.trim() || text;
   return wordExcerpt(sentence, maxWords);
+}
+
+function topicSlug(value) {
+  return String(value ?? '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/&/g, ' and ')
+    .replace(/['’]s\b/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .replace(/-{2,}/g, '-');
+}
+
+function topicLabelFromSlug(slug) {
+  return String(slug ?? '')
+    .split('-')
+    .filter(Boolean)
+    .map((word) => {
+      if (word.length <= 3 && /^[a-z]+$/.test(word)) return word.toUpperCase();
+      return `${word.slice(0, 1).toUpperCase()}${word.slice(1)}`;
+    })
+    .join(' ');
+}
+
+function singularSlug(slug) {
+  const parts = String(slug ?? '').split('-').filter(Boolean);
+  if (!parts.length) return '';
+  const last = parts[parts.length - 1];
+  if (last.endsWith('ies') && last.length > 4) parts[parts.length - 1] = `${last.slice(0, -3)}y`;
+  else if (last.endsWith('s') && !last.endsWith('ss') && last.length > 3) parts[parts.length - 1] = last.slice(0, -1);
+  return parts.join('-');
+}
+
+function pluralSlug(slug) {
+  const parts = String(slug ?? '').split('-').filter(Boolean);
+  if (!parts.length) return '';
+  const last = parts[parts.length - 1];
+  if (last.endsWith('s')) return parts.join('-');
+  if (last.endsWith('y') && last.length > 3) parts[parts.length - 1] = `${last.slice(0, -1)}ies`;
+  else parts[parts.length - 1] = `${last}s`;
+  return parts.join('-');
+}
+
+function topicAliasSlugs(value, options = {}) {
+  const canonical = topicSlug(value);
+  if (!canonical) return [];
+
+  const aliases = new Set([
+    canonical,
+    singularSlug(canonical),
+    pluralSlug(canonical),
+  ].filter(Boolean));
+
+  const words = canonical.split('-').filter(Boolean);
+  if (words.length > 1) {
+    const withoutStopwords = words.filter((word) => !topicStopwords.has(word));
+    if (withoutStopwords.length && withoutStopwords.length !== words.length) {
+      const compact = withoutStopwords.join('-');
+      aliases.add(compact);
+      aliases.add(singularSlug(compact));
+      aliases.add(pluralSlug(compact));
+    }
+
+    const lastWord = words.at(-1);
+    if (options.allowTailAlias && lastWord && lastWord.length >= 5 && !weakAliasWords.has(lastWord)) {
+      aliases.add(lastWord);
+      aliases.add(singularSlug(lastWord));
+      aliases.add(pluralSlug(lastWord));
+    }
+  }
+
+  return [...aliases].filter((alias) => alias && alias.length >= 3);
+}
+
+function aliasSearchText(slug) {
+  return normalizedSearchText(String(slug ?? '').replace(/-/g, ' '));
+}
+
+function excerptAroundAlias(text, aliases, maxWords = 24) {
+  const words = compactText(text).split(/\s+/).filter(Boolean);
+  if (!words.length) return '';
+
+  const normalizedWords = words.map((word) => topicSlug(word));
+  const aliasWordLists = aliases
+    .map((alias) => alias.split('-').filter(Boolean))
+    .filter((parts) => parts.length);
+
+  let matchIndex = -1;
+  let matchLength = 1;
+  for (let index = 0; index < normalizedWords.length; index += 1) {
+    const found = aliasWordLists.find((parts) => {
+      return parts.every((part, offset) => normalizedWords[index + offset] === part);
+    });
+    if (found) {
+      matchIndex = index;
+      matchLength = found.length;
+      break;
+    }
+  }
+
+  if (matchIndex < 0) return wordExcerpt(text, maxWords);
+
+  const before = Math.max(0, Math.floor((maxWords - matchLength) / 2));
+  const start = Math.max(0, matchIndex - before);
+  const end = Math.min(words.length, start + maxWords);
+  const excerpt = words.slice(start, end).join(' ');
+  const prefix = start > 0 ? '...' : '';
+  const suffix = end < words.length ? '...' : '';
+  return `${prefix}${excerpt}${suffix}`.replace(/"/g, "'");
 }
 
 function escapeLinkLabel(value) {
@@ -741,6 +903,475 @@ async function generateTranscriptSearchText() {
   };
 }
 
+function newTopic(slug, label) {
+  return {
+    slug,
+    label: label || topicLabelFromSlug(slug),
+    aliases: new Set([slug]),
+    refs: new Set(),
+    sources: new Map(),
+    glossary: [],
+    glossarySeen: new Set(),
+    semanticPoints: [],
+    semanticSeen: new Set(),
+    transcriptHits: [],
+    transcriptRefs: new Set(),
+    relatedTopics: new Map(),
+  };
+}
+
+function ensureTopic(topics, value, options = {}) {
+  const slug = topicSlug(value);
+  if (!slug || slug.length < 3 || topicStopwords.has(slug)) return null;
+
+  const topic = topics.get(slug) || newTopic(slug, options.label || topicLabelFromSlug(slug));
+  if (!topics.has(slug)) topics.set(slug, topic);
+  if (options.label && topic.label === topicLabelFromSlug(topic.slug)) topic.label = options.label;
+
+  for (const alias of topicAliasSlugs(value, { allowTailAlias: options.allowTailAlias })) {
+    topic.aliases.add(alias);
+  }
+
+  return topic;
+}
+
+function addTopicSource(topic, source, reason = '') {
+  if (!topic || !source?.slug) return;
+  const collection = collectionForSource(source);
+  const existing = topic.sources.get(source.slug) || {
+    slug: source.slug,
+    collection,
+    title: source.read?.title || source.title,
+    sourceTitle: source.title,
+    date: source.date_label || source.published_at || 'unknown',
+    sourceUrl: source.source_url || '',
+    textUrl: publicPath(sourceTextPath(source, collection)),
+    markdownUrl: publicPath(sourceMarkdownPath(source, collection)),
+    transcriptTextUrl: publicPath(sourceTranscriptTextPath(source, collection)),
+    dataUrl: publicPath(sourceDataPath(source, collection)),
+    summary: firstSentenceExcerpt(source.read?.dek || source.read?.thesis || source.read?.opening?.text || '', 34),
+    reasons: new Set(),
+  };
+  if (reason) existing.reasons.add(reason);
+  topic.sources.set(source.slug, existing);
+}
+
+function addTopicRefs(topic, refs) {
+  for (const ref of refs ?? []) {
+    if (ref) topic.refs.add(ref);
+  }
+}
+
+function addSemanticPoint(topic, source, item, kind) {
+  if (!topic || !item) return;
+  const text = compactText(item.claim || item.prediction || item.moment || item.summary || item.definition_or_usage || item.text || '');
+  if (!text) return;
+
+  const refs = item.refs ?? [];
+  const key = `${text}:${refs.join(',')}`;
+  if (topic.semanticSeen.has(key)) return;
+  topic.semanticSeen.add(key);
+  topic.semanticPoints.push({
+    kind,
+    text,
+    refs,
+    confidence: item.confidence || '',
+    claimType: item.claim_type || '',
+    temporalScope: item.temporal_scope || '',
+  });
+  addTopicRefs(topic, refs);
+  addTopicSource(topic, source, kind);
+}
+
+function addGlossaryUsage(topic, source, item) {
+  if (!topic || !item?.term) return;
+  const usages = (item.usages ?? [item.definition_or_usage]).filter(Boolean).map(compactText).filter(Boolean);
+  const key = `${item.term}:${usages.join('|')}:${(item.refs ?? []).join(',')}`;
+  if (topic.glossarySeen.has(key)) return;
+  topic.glossarySeen.add(key);
+  topic.glossary.push({
+    term: item.term,
+    usages,
+    refs: item.refs ?? [],
+  });
+  addTopicRefs(topic, item.refs);
+  addTopicSource(topic, source, 'glossary');
+}
+
+function addRelatedTopics(topic, tags) {
+  if (!topic) return;
+  const current = topic.slug;
+  for (const tag of tags ?? []) {
+    const slug = topicSlug(tag);
+    if (!slug || slug === current) continue;
+    topic.relatedTopics.set(slug, topicLabelFromSlug(slug));
+  }
+}
+
+function sourceHitFromSegment(segment, sourceBySlug) {
+  const source = sourceBySlug.get(segment.slug);
+  const collection = segment.collection === 'interviews' ? 'interviews' : 'episodes';
+  return {
+    ref: segment.source_ref,
+    slug: segment.slug,
+    collection,
+    title: segment.title || source?.read?.title || source?.title || segment.slug,
+    sourceTitle: segment.source_title || source?.title || '',
+    date: segment.date_label || segment.published_at || source?.date_label || source?.published_at || 'unknown',
+    transcriptUrl: publicPath(segment.transcript_url),
+    videoUrl: segment.video_url || '',
+    sourceTextUrl: publicPath(sourceTextPath(segment.slug, collection)),
+    sourceJsonUrl: publicPath(sourceDataPath(segment.slug, collection)),
+    timeLabel: segment.time_label || segment.segment_id,
+    segmentId: segment.segment_id,
+    text: compactText(segment.text),
+  };
+}
+
+function addTopicTranscriptHit(topic, segment, sourceBySlug, reason = 'alias-match', matchedAlias = '') {
+  if (!topic || !segment?.source_ref || topic.transcriptRefs.has(segment.source_ref)) return;
+  topic.transcriptRefs.add(segment.source_ref);
+  const hit = sourceHitFromSegment(segment, sourceBySlug);
+  hit.reason = reason;
+  hit.matchedAlias = matchedAlias;
+  hit.quote = excerptAroundAlias(segment.text, [...topic.aliases], 24);
+  hit.related = relatedLinksForRef(segment.source_ref, 'txt');
+  topic.transcriptHits.push(hit);
+}
+
+async function loadPublicSources(collection) {
+  const dataRootForCollection = collection === 'interviews' ? interviewDataRoot : episodeDataRoot;
+  const indexPath = path.join(dataRootForCollection, 'index.json');
+  if (!existsSync(indexPath)) return [];
+
+  const index = JSON.parse(await readFile(indexPath, 'utf8'));
+  const summaries = index[collection] ?? index.items ?? [];
+  const sources = [];
+  for (const summary of summaries) {
+    const sourcePath = path.join(dataRootForCollection, `${summary.slug}.json`);
+    if (!existsSync(sourcePath)) continue;
+    sources.push(JSON.parse(await readFile(sourcePath, 'utf8')));
+  }
+  return sources;
+}
+
+function buildTopicSeedIndex(sources) {
+  const topics = new Map();
+
+  for (const source of sources) {
+    for (const item of source.glossary_terms ?? []) {
+      const topic = ensureTopic(topics, item.term, { label: item.term, allowTailAlias: true });
+      addGlossaryUsage(topic, source, item);
+    }
+
+    for (const field of topicSemanticFields) {
+      for (const item of source[field] ?? []) {
+        const tags = item.topic_tags ?? [];
+        for (const tag of tags) {
+          const topic = ensureTopic(topics, tag, { label: topicLabelFromSlug(tag) });
+          addSemanticPoint(topic, source, item, field.replace(/_/g, ' '));
+          addRelatedTopics(topic, tags);
+        }
+      }
+    }
+  }
+
+  return topics;
+}
+
+function buildAliasTargets(topics) {
+  const aliases = new Map();
+  for (const topic of topics.values()) {
+    topic.aliases.add(topic.slug);
+    for (const alias of topic.aliases) {
+      if (!alias || alias.length < 3 || topicStopwords.has(alias)) continue;
+      if (!aliases.has(alias)) aliases.set(alias, new Set());
+      aliases.get(alias).add(topic.slug);
+    }
+  }
+
+  const targets = new Map();
+  for (const [alias, slugs] of aliases.entries()) {
+    if (slugs.size === 1) targets.set(alias, [...slugs][0]);
+  }
+  return targets;
+}
+
+function rankTopicHit(hit) {
+  let score = 0;
+  if (hit.reason === 'semantic-ref') score += 100;
+  if (hit.matchedAlias && hit.matchedAlias.split('-').length > 1) score += 20;
+  if (hit.quote) score += 5;
+  return score;
+}
+
+function sortedTopicHits(topic) {
+  return [...topic.transcriptHits]
+    .sort((a, b) => {
+      const scoreDelta = rankTopicHit(b) - rankTopicHit(a);
+      if (scoreDelta) return scoreDelta;
+      return String(b.date).localeCompare(String(a.date));
+    })
+    .slice(0, 12);
+}
+
+function renderTopicMarkdown(topic) {
+  const hits = sortedTopicHits(topic);
+  const sources = [...topic.sources.values()].slice(0, 8);
+  const relatedTopicLinks = [...topic.relatedTopics.entries()]
+    .filter(([slug]) => slug !== topic.slug)
+    .slice(0, 12)
+    .map(([slug, label]) => markdownLink(label, publicPath(`/topics/${slug}.txt`)));
+
+  const lines = [
+    '---',
+    `title: ${yamlString(`Topic: ${topic.label}`)}`,
+    `description: ${yamlString(`Generated static Jiang Lens topic dossier for ${topic.label}.`)}`,
+    `topic_slug: ${yamlString(topic.slug)}`,
+    'generated: "true"',
+    '---',
+    '',
+    `# Topic: ${topic.label}`,
+    '',
+    'Generated static topic dossier for agents. Use this file as the first retrieval hop for this topic, then follow the cited episode readings and transcript anchors for exact wording.',
+    '',
+    `Canonical path: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
+  ];
+
+  const aliases = [...topic.aliases].filter((alias) => alias !== topic.slug).sort();
+  if (aliases.length) lines.push(`Aliases: ${aliases.slice(0, 18).map((alias) => `\`${alias}\``).join(', ')}`);
+  lines.push('');
+
+  if (topic.glossary.length || topic.semanticPoints.length) {
+    lines.push('## Generated Answer Map', '');
+    for (const item of topic.glossary.slice(0, 4)) {
+      const usages = item.usages.length ? item.usages.join(' ') : `Glossary term: ${item.term}.`;
+      const refs = refsMarkdown(item.refs, { transcript: [] });
+      lines.push(`- ${usages}${refs ? ` Source refs: ${refs}` : ''}`);
+    }
+    for (const point of topic.semanticPoints.slice(0, 8)) {
+      const refs = point.refs.length ? ` Source refs: ${point.refs.map((ref) => `\`${ref}\``).join(', ')}` : '';
+      const kind = point.claimType || point.kind;
+      lines.push(`- ${kind}: ${point.text}${refs}`);
+    }
+    lines.push('');
+  }
+
+  if (hits.length) {
+    lines.push('## Quoted Transcript Hits', '');
+    for (const [index, hit] of hits.entries()) {
+      lines.push(
+        `${index + 1}. **${hit.title}** / ${hit.sourceTitle || hit.slug} -- ${hit.date}`,
+        `   Timestamp: ${hit.videoUrl ? markdownLink(hit.timeLabel || hit.segmentId, hit.videoUrl) : (hit.timeLabel || hit.segmentId)} | Transcript: ${markdownLink(hit.segmentId || hit.transcriptUrl, hit.transcriptUrl)}`,
+        `   Source ref: \`${hit.ref}\``,
+        `   Quote: "${hit.quote}"`,
+        `   Reading: ${markdownLink(sourceTextPath(hit.slug, hit.collection), hit.sourceTextUrl)} | JSON: ${markdownLink(sourceDataPath(hit.slug, hit.collection), hit.sourceJsonUrl)}`,
+      );
+      if (hit.related.length) {
+        lines.push(`   Related lens: ${hit.related.map((item) => markdownLink(item.label, item.href)).join('; ')}`);
+      }
+      lines.push('');
+    }
+  }
+
+  if (sources.length) {
+    lines.push('## Source Readings', '');
+    for (const source of sources) {
+      const reason = source.reasons.size ? ` (${[...source.reasons].slice(0, 3).join(', ')})` : '';
+      lines.push(
+        `- ${markdownLink(source.title, source.textUrl)}${reason} -- ${source.date}`,
+        `  Source: ${source.sourceUrl ? markdownLink(source.sourceTitle, source.sourceUrl) : source.sourceTitle}`,
+        `  Transcript text: ${markdownLink(sourceTranscriptTextPath(source.slug, source.collection), source.transcriptTextUrl)} | JSON: ${markdownLink(sourceDataPath(source.slug, source.collection), source.dataUrl)}`,
+      );
+      if (source.summary) lines.push(`  Summary: ${source.summary}`);
+    }
+    lines.push('');
+  }
+
+  if (relatedTopicLinks.length) {
+    lines.push('## Related Topics', '', relatedTopicLinks.map((link) => `- ${link}`).join('\n'), '');
+  }
+
+  lines.push(
+    '## Retrieval Notes',
+    '',
+    'This file is generated from Jiang Lens episode JSON, semantic tags, glossary terms, source refs, and transcript segment matches. It is not a manually authored canon page.',
+    '',
+    'For broader or missing-topic search, use the letter shards under /topics/index/ before falling back to the bulk transcript-search files.',
+    '',
+  );
+
+  return `${lines.join('\n').replace(/\n{3,}/g, '\n\n').trim()}\n`;
+}
+
+function renderTopicAliasMarkdown(alias, topic) {
+  return [
+    '---',
+    `title: ${yamlString(`Topic alias: ${alias}`)}`,
+    `canonical_topic: ${yamlString(topic.slug)}`,
+    'generated: "true"',
+    '---',
+    '',
+    `# Topic Alias: ${alias}`,
+    '',
+    `This generated static route points to the canonical topic dossier for **${topic.label}**.`,
+    '',
+    `Canonical topic: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
+    '',
+    'Open the canonical topic before answering. It contains the generated answer map, source readings, transcript anchors, video timestamps, and source refs.',
+    '',
+  ].join('\n');
+}
+
+function renderTopicIndex(aliasTargets, topics) {
+  const letters = new Set([...aliasTargets.keys()].map((alias) => alias.slice(0, 1)).filter(Boolean));
+  const lines = [
+    '# Jiang Lens Topic Router',
+    '',
+    'Generated static topic router for agents. Do not load the bulk transcript-search files first for ordinary topic questions.',
+    '',
+    'Lookup order:',
+    '',
+    '1. Normalize the user topic to lowercase words, remove punctuation, and join words with hyphens.',
+    '2. Try `/topics/<normalized-topic>.txt` directly.',
+    '3. If that route is missing or ambiguous, open the letter shard under `/topics/index/<first-letter>.txt`.',
+    '4. Open the canonical topic dossier linked by the shard or alias route.',
+    '5. Use bulk transcript-search only as a fallback when no topic dossier exists.',
+    '',
+    `Canonical topics: ${topics.size}`,
+    `Static aliases: ${aliasTargets.size}`,
+    '',
+    '## Letter Shards',
+    '',
+  ];
+
+  for (const letter of [...letters].sort()) {
+    lines.push(`- ${markdownLink(`/topics/index/${letter}.txt`, publicPath(`/topics/index/${letter}.txt`))}`);
+  }
+  lines.push('');
+
+  return `${lines.join('\n').trim()}\n`;
+}
+
+function renderTopicLetterIndex(letter, aliasTargets, topics) {
+  const entries = [...aliasTargets.entries()]
+    .filter(([alias]) => alias.startsWith(letter))
+    .sort(([a], [b]) => a.localeCompare(b));
+  const lines = [
+    `# Jiang Lens Topic Router: ${letter.toUpperCase()}`,
+    '',
+    'Generated static alias shard. Open the canonical topic file for answer map, source readings, transcript anchors, video timestamps, and source refs.',
+    '',
+  ];
+
+  for (const [alias, slug] of entries) {
+    const topic = topics.get(slug);
+    if (!topic) continue;
+    const aliasLabel = alias === slug ? topic.label : alias;
+    lines.push(`- \`${aliasLabel}\` -> ${markdownLink(topic.label, publicPath(`/topics/${slug}.txt`))}`);
+  }
+  lines.push('');
+  return `${lines.join('\n').trim()}\n`;
+}
+
+async function generateTopicShards() {
+  const transcriptPath = path.join(dataRoot, 'transcript-search.json');
+  if (!existsSync(transcriptPath)) return null;
+
+  const sources = [
+    ...await loadPublicSources('episodes'),
+    ...await loadPublicSources('interviews'),
+  ];
+  const sourceBySlug = new Map(sources.map((source) => [source.slug, source]));
+  const topics = buildTopicSeedIndex(sources);
+  const transcriptSearch = JSON.parse(await readFile(transcriptPath, 'utf8'));
+  const segments = transcriptSearch.segments ?? [];
+  const segmentByRef = new Map(segments.map((segment) => [segment.source_ref, segment]));
+
+  for (const topic of topics.values()) {
+    for (const ref of topic.refs) {
+      const segment = segmentByRef.get(ref);
+      if (segment) addTopicTranscriptHit(topic, segment, sourceBySlug, 'semantic-ref');
+    }
+  }
+
+  const aliasTargets = buildAliasTargets(topics);
+  const aliasSearchTargets = new Map();
+  let maxAliasWords = 1;
+  for (const [alias, slug] of aliasTargets.entries()) {
+    const search = aliasSearchText(alias);
+    const searchWords = search.split(/\s+/).filter(Boolean);
+    const topic = topics.get(slug);
+    if (!topic || search.length < 3 || !searchWords.length) continue;
+    maxAliasWords = Math.max(maxAliasWords, searchWords.length);
+    if (!aliasSearchTargets.has(search)) aliasSearchTargets.set(search, []);
+    aliasSearchTargets.get(search).push({ alias, topic });
+  }
+
+  for (const segment of segments) {
+    const words = normalizedSearchText(segment.text).split(/\s+/).filter(Boolean);
+    if (!words.length) continue;
+    const seenSearches = new Set();
+    const maxWordsForSegment = Math.min(maxAliasWords, words.length);
+    for (let size = 1; size <= maxWordsForSegment; size += 1) {
+      for (let index = 0; index <= words.length - size; index += 1) {
+        const search = words.slice(index, index + size).join(' ');
+        if (seenSearches.has(search)) continue;
+        seenSearches.add(search);
+        const entries = aliasSearchTargets.get(search);
+        if (!entries) continue;
+        for (const entry of entries) {
+          if (entry.topic.transcriptHits.length >= 12) continue;
+          addTopicTranscriptHit(entry.topic, segment, sourceBySlug, 'alias-match', entry.alias);
+        }
+      }
+    }
+  }
+
+  const activeTopics = new Map([...topics.entries()].filter(([, topic]) => {
+    return topic.transcriptHits.length || topic.semanticPoints.length || topic.glossary.length;
+  }));
+  const activeAliasTargets = new Map([...aliasTargets.entries()].filter(([, slug]) => activeTopics.has(slug)));
+
+  await rm(topicOutRoot, { recursive: true, force: true });
+  await mkdir(topicIndexOutRoot, { recursive: true });
+
+  for (const topic of activeTopics.values()) {
+    const content = renderTopicMarkdown(topic);
+    await writeFile(path.join(topicOutRoot, `${topic.slug}.txt`), content);
+    await writeFile(path.join(topicOutRoot, `${topic.slug}.md`), content);
+  }
+
+  let aliasFileCount = 0;
+  for (const [alias, slug] of activeAliasTargets.entries()) {
+    if (alias === slug || activeTopics.has(alias)) continue;
+    const topic = activeTopics.get(slug);
+    if (!topic) continue;
+    const content = renderTopicAliasMarkdown(alias, topic);
+    await writeFile(path.join(topicOutRoot, `${alias}.txt`), content);
+    await writeFile(path.join(topicOutRoot, `${alias}.md`), content);
+    aliasFileCount += 1;
+  }
+
+  const topicIndex = renderTopicIndex(activeAliasTargets, activeTopics);
+  await writeFile(path.join(topicOutRoot, 'index.txt'), topicIndex);
+  await writeFile(path.join(topicOutRoot, 'index.md'), topicIndex);
+
+  const letters = new Set([...activeAliasTargets.keys()].map((alias) => alias.slice(0, 1)).filter(Boolean));
+  for (const letter of letters) {
+    const content = renderTopicLetterIndex(letter, activeAliasTargets, activeTopics);
+    await writeFile(path.join(topicIndexOutRoot, `${letter}.txt`), content);
+    await writeFile(path.join(topicIndexOutRoot, `${letter}.md`), content);
+  }
+
+  return {
+    topics: activeTopics.size,
+    aliases: activeAliasTargets.size,
+    aliasFiles: aliasFileCount,
+    letterShards: letters.size,
+  };
+}
+
 async function copyTree(inputRoot, outputRoot) {
   if (!existsSync(inputRoot)) return;
   await mkdir(outputRoot, { recursive: true });
@@ -779,6 +1410,7 @@ function internalArtifactHref(href, extension = 'md') {
   const [pathname, suffix = ''] = href.split(/(?=[?#])/);
   if (pathname === '/episodes/') return urlFor(`/episodes/index.${ext}`) + suffix;
   if (pathname === '/interviews/') return urlFor(`/interviews/index.${ext}`) + suffix;
+  if (pathname === '/topics/') return urlFor(`/topics/index.${ext}`) + suffix;
 
   const episodeMatch = pathname.match(/^\/episodes\/([^/]+)\/$/);
   if (episodeMatch) return urlFor(`/episodes/${episodeMatch[1]}.${ext}`) + suffix;
@@ -786,7 +1418,10 @@ function internalArtifactHref(href, extension = 'md') {
   const interviewMatch = pathname.match(/^\/interviews\/([^/]+)\/$/);
   if (interviewMatch) return urlFor(`/interviews/${interviewMatch[1]}.${ext}`) + suffix;
 
-  if (pathname.startsWith('/episodes/') || pathname.startsWith('/interviews/') || pathname.startsWith('/data/')) {
+  const topicMatch = pathname.match(/^\/topics\/([^/]+)\/$/);
+  if (topicMatch) return urlFor(`/topics/${topicMatch[1]}.${ext}`) + suffix;
+
+  if (pathname.startsWith('/episodes/') || pathname.startsWith('/interviews/') || pathname.startsWith('/topics/') || pathname.startsWith('/data/')) {
     return urlFor(pathname) + suffix;
   }
 
@@ -871,6 +1506,9 @@ function transformLiteralArtifactPaths(content, options = {}) {
     .replace(/\/skill\.md/g, '/skill.txt')
     .replace(/\/episodes\/index\.md/g, '/episodes/index.txt')
     .replace(/\/interviews\/index\.md/g, '/interviews/index.txt')
+    .replace(/\/topics\/index\.md/g, '/topics/index.txt')
+    .replace(/\/topics\/index\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/topics/index/$1.txt')
+    .replace(/\/topics\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/topics/$1.txt')
     .replace(/\/episodes\/(<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/episodes/$1/transcript.txt')
     .replace(/\/interviews\/(<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/interviews/$1/transcript.txt')
     .replace(/\/episodes\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/episodes/$1.txt')
@@ -901,6 +1539,7 @@ async function main() {
   const copiedSkillText = await copySkillText();
   const episodeMarkdown = await generateSourceMarkdown('episodes');
   const interviewMarkdown = await generateSourceMarkdown('interviews');
+  const topicShards = await generateTopicShards();
 
   const indexLines = [
     `# ${siteConfig.name}`,
@@ -913,25 +1552,27 @@ async function main() {
     '',
     '## Agent Resolution Order',
     '',
-    'For questions about Jiang\'s views, use public summaries and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.',
+    'For questions about Jiang\'s views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.',
     '',
     '1. Read skill.txt for attribution, output, and identity rules.',
-    '2. Use episode text indexes, interview text indexes, and lens docs to find the relevant public reading or concept.',
-    '3. Use source refs, evidence cards, transcript links, and link-index backlinks to quote timestamped transcript segments when attributing claims to Jiang.',
-    '4. Search transcript-search.txt or transcript-search.json when the topic/entity is not obvious from the public reading indexes.',
-    '5. Use GitHub only for implementation, provenance, or source-file audit questions, not as the primary source for Jiang-content answers.',
+    '2. Normalize the user topic and try the static topic dossier at /topics/<topic-slug>.txt, or use /topics/index.txt and its letter shards to resolve aliases.',
+    '3. Use the topic dossier\'s source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.',
+    '4. Use episode text indexes, interview text indexes, and lens docs when a topic dossier does not cover the question.',
+    '5. Use bulk transcript-search.txt, transcript-search.json, and link-index.json only as fallback/offline audit surfaces, because they are large.',
+    '6. Use GitHub only for implementation, provenance, or source-file audit questions, not as the primary source for Jiang-content answers.',
     '',
     '## Agent Entry Points',
     '',
     `- [Jiang Lens skill text](${urlFor(siteConfig.paths.skillText)})`,
+    `- [Static topic router](${urlFor(siteConfig.paths.topicIndexText)})`,
     `- [Episodes](${urlFor(siteConfig.paths.episodes)})`,
     `- [Episode text index](${urlFor(siteConfig.paths.episodeIndexText)})`,
     `- [Episode JSON index](${urlFor(siteConfig.paths.episodeIndexJson)})`,
     `- [Interviews](${urlFor(siteConfig.paths.interviews)})`,
     `- [Interview text index](${urlFor(siteConfig.paths.interviewIndexText)})`,
     `- [Interview JSON index](${urlFor(siteConfig.paths.interviewIndexJson)})`,
-    `- [Transcript search text](${urlFor(siteConfig.paths.transcriptSearchText)})`,
-    `- [Transcript search JSON](${urlFor(siteConfig.paths.transcriptSearchJson)})`,
+    `- [Bulk transcript search text](${urlFor(siteConfig.paths.transcriptSearchText)})`,
+    `- [Bulk transcript search JSON](${urlFor(siteConfig.paths.transcriptSearchJson)})`,
     `- [Full compact docs](${urlFor(siteConfig.paths.llmsFull)})`,
     `- [Generated manifest JSON](${urlFor(siteConfig.paths.manifestJson)})`,
     `- [Generated link index JSON](${urlFor(siteConfig.paths.linkIndexJson)})`,
@@ -977,15 +1618,16 @@ async function main() {
   fullLines.push(
     '---',
     '',
-    '# Generated Transcript Search JSON',
+    '# Generated Topic And Bulk Index Routes',
     '',
-    `Fetch ${urlFor(siteConfig.paths.transcriptSearchText)} for plain-text transcript segment lookup or ${urlFor(siteConfig.paths.transcriptSearchJson)} for machine-readable lookup. They are linked here rather than embedded so llms-full remains compact.`,
+    `Fetch ${urlFor(siteConfig.paths.topicIndexText)} for the generated static topic router. It points agents to small topic dossiers such as ${urlFor('/topics/knights-templar.txt')}.`,
+    '',
+    `Fetch ${urlFor(siteConfig.paths.transcriptSearchText)} for bulk plain-text transcript segment lookup or ${urlFor(siteConfig.paths.transcriptSearchJson)} for machine-readable lookup only when topic dossiers are missing. They are linked here rather than embedded so llms-full remains compact.`,
     '',
   );
 
   for (const [title, input] of [
     ['manifest.json', path.join(dataRoot, 'manifest.json')],
-    ['link-index.json', path.join(dataRoot, 'link-index.json')],
     ['episodes/index.json', path.join(episodeDataRoot, 'index.json')],
     ['interviews/index.json', path.join(interviewDataRoot, 'index.json')],
   ]) {
@@ -1016,7 +1658,7 @@ async function main() {
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));
 
-  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards, ${topicShards?.aliases ?? 0} topic aliases, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
 }
 
 main().catch((error) => {

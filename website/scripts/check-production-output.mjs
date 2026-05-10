@@ -87,6 +87,7 @@ async function main() {
       'LLMs-full: https://jianglens.com/llms-full.txt',
       'Skill: https://jianglens.com/skill.md',
       'Skill-text: https://jianglens.com/skill.txt',
+      'Topic-index: https://jianglens.com/topics/index.txt',
       'Transcript-search: https://jianglens.com/data/lens/transcript-search.txt',
     ]) {
       if (!robots.includes(expected)) {
@@ -190,6 +191,10 @@ async function main() {
     'episodes/predictive-history-6m1z-v3wgok/transcript.txt',
     'docs/lens/nation-as-god-machine.txt',
     'skill.txt',
+    'topics/index.txt',
+    'topics/index/k.txt',
+    'topics/knights-templar.txt',
+    'topics/templars.txt',
     'data/lens/episodes/index.json',
     'data/lens/episodes/predictive-history-6m1z-v3wgok.json',
     'data/lens/transcript-search.txt',
@@ -257,6 +262,64 @@ async function main() {
     ]) {
       if (!transcriptSearchText.includes(expected)) {
         failures.push(`dist/data/lens/transcript-search.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const llmsPath = path.join(distRoot, 'llms.txt');
+  if (existsSync(llmsPath)) {
+    const llms = await readFile(llmsPath, 'utf8');
+    for (const expected of [
+      'Static topic router',
+      'https://jianglens.com/topics/index.txt',
+      'Use bulk transcript-search.txt, transcript-search.json, and link-index.json only as fallback/offline audit surfaces',
+    ]) {
+      if (!llms.includes(expected)) {
+        failures.push(`dist/llms.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const topicIndexPath = path.join(distRoot, 'topics/index.txt');
+  if (existsSync(topicIndexPath)) {
+    const topicIndex = await readFile(topicIndexPath, 'utf8');
+    for (const expected of [
+      '# Jiang Lens Topic Router',
+      'Try `/topics/<normalized-topic>.txt` directly',
+      'https://jianglens.com/topics/index/k.txt',
+    ]) {
+      if (!topicIndex.includes(expected)) {
+        failures.push(`dist/topics/index.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const templarTopicPath = path.join(distRoot, 'topics/knights-templar.txt');
+  if (existsSync(templarTopicPath)) {
+    const templarTopic = await readFile(templarTopicPath, 'utf8');
+    for (const expected of [
+      '# Topic: Knights Templar',
+      '## Generated Answer Map',
+      '## Quoted Transcript Hits',
+      'multinational banking and trade organization',
+      'https://jianglens.com/episodes/predictive-history-3751zjwmrbw/transcript/#seg-0034',
+      'video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034',
+    ]) {
+      if (!templarTopic.includes(expected)) {
+        failures.push(`dist/topics/knights-templar.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const templarsAliasPath = path.join(distRoot, 'topics/templars.txt');
+  if (existsSync(templarsAliasPath)) {
+    const templarsAlias = await readFile(templarsAliasPath, 'utf8');
+    for (const expected of [
+      '# Topic Alias: templars',
+      'https://jianglens.com/topics/knights-templar.txt',
+    ]) {
+      if (!templarsAlias.includes(expected)) {
+        failures.push(`dist/topics/templars.txt: missing ${expected}`);
       }
     }
   }

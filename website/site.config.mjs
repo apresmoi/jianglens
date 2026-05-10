@@ -191,6 +191,12 @@ export function structuredDataForPage(pageName) {
           },
           {
             '@type': 'DataDownload',
+            encodingFormat: 'text/plain',
+            contentUrl: absoluteUrl(siteConfig.paths.topicIndexText),
+            name: 'Generated topic router',
+          },
+          {
+            '@type': 'DataDownload',
             encodingFormat: 'application/json',
             contentUrl: absoluteUrl(siteConfig.paths.manifestJson),
             name: 'Generated lens manifest JSON',
@@ -245,6 +251,8 @@ export const siteConfig = {
     interviewIndexMarkdown: '/interviews/index.md',
     interviewIndexText: '/interviews/index.txt',
     interviewIndexJson: '/data/lens/interviews/index.json',
+    topicIndexMarkdown: '/topics/index.md',
+    topicIndexText: '/topics/index.txt',
     transcriptSearchText: '/data/lens/transcript-search.txt',
     transcriptSearchJson: '/data/lens/transcript-search.json',
     manifestJson: '/data/lens/manifest.json',

@@ -25,27 +25,30 @@ Links to Predictive History, Jiang Xueqin pages, YouTube videos, transcripts, or
 
 1. Read `/llms.txt` to see the current public documentation map.
 2. Treat `/skill.md` as the operating instruction for this lens.
-3. Use `/episodes/index.md` for the agent-readable catalog of Predictive History lecture/episode readings.
-4. Use `/interviews/index.md` for the agent-readable catalog of interview-format readings.
-5. Use `/episodes/<episode-slug>.md` or `/interviews/<interview-slug>.md` for the compressed Markdown reading of one source.
-6. Use `/data/lens/episodes/index.json` and `/data/lens/interviews/index.json` for machine-readable source catalogs.
-7. Use `/episodes/<episode-slug>/transcript.md` or `/interviews/<interview-slug>/transcript.md` for source-synced transcript text with anchors.
-8. Use `/data/lens/transcript-search.txt` for plain-text transcript segment search, or `/data/lens/transcript-search.json` for machine-readable segment search.
+3. For entity/topic questions, normalize the topic and try `/topics/<topic-slug>.md`, or use `/topics/index.md` and `/topics/index/<first-letter>.md` to resolve aliases.
+4. Use `/episodes/index.md` for the agent-readable catalog of Predictive History lecture/episode readings.
+5. Use `/interviews/index.md` for the agent-readable catalog of interview-format readings.
+6. Use `/episodes/<episode-slug>.md` or `/interviews/<interview-slug>.md` for the compressed Markdown reading of one source.
+7. Use `/data/lens/episodes/index.json` and `/data/lens/interviews/index.json` for machine-readable source catalogs.
+8. Use `/episodes/<episode-slug>/transcript.md` or `/interviews/<interview-slug>/transcript.md` for source-synced transcript text with anchors.
 9. Use `/data/lens/episodes/<episode-slug>.json` or `/data/lens/interviews/<interview-slug>.json` for transcript segments, timed chunks, source refs, and video timestamp URLs.
-10. Use `/data/lens/manifest.json` for generated source and lens routes.
-11. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
-12. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
+10. Use `/data/lens/transcript-search.txt` for plain-text transcript segment search, or `/data/lens/transcript-search.json` for machine-readable segment search only when generated topic dossiers do not cover the query.
+11. Use `/data/lens/manifest.json` for generated source and lens routes.
+12. Use `/data/lens/link-index.json` for source refs, evidence marks, lens points, and backlinks.
+13. Use `/llms-full.txt` when you need the compact machine-readable site snapshot.
 
 ## Agent Resolution Order
 
-For questions about Jiang's views, use the public summaries and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.
+For questions about Jiang's views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.
 
 1. Start with `/llms.txt` and this skill file to understand the available public surfaces and attribution rules.
-2. Use `/episodes/index.md`, `/interviews/index.md`, and relevant lens pages to locate the public reading, concept, or episode summary.
-3. Use the source refs in those summaries, evidence marks, and lens points to open transcript segments when quoting or attributing claims to Jiang.
-4. Search `/data/lens/transcript-search.txt` or `/data/lens/transcript-search.json` when the topic/entity is not obvious from the public reading indexes.
-5. Use `/data/lens/link-index.json` to move from a transcript source ref back to related lens pages, evidence marks, lens points, and backlinks.
-6. Use the GitHub repository only for implementation, provenance, or source-file audit questions. Do not use it as the primary source for Jiang-content answers.
+2. Normalize the user topic to a lowercase hyphenated slug and try `/topics/<topic-slug>.md` directly. Also try simple singular/plural aliases.
+3. If the direct route is missing, use `/topics/index.md` and `/topics/index/<first-letter>.md` to resolve the static alias to a canonical topic dossier.
+4. Use the topic dossier's generated answer map, source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.
+5. Use `/episodes/index.md`, `/interviews/index.md`, and relevant lens pages when no topic dossier covers the question.
+6. Search `/data/lens/transcript-search.txt` or `/data/lens/transcript-search.json` only as a bulk fallback or audit surface; these files are large and may be hard for browser tools to load.
+7. Use `/data/lens/link-index.json` to move from a transcript source ref back to related lens pages, evidence marks, lens points, and backlinks.
+8. Use the GitHub repository only for implementation, provenance, or source-file audit questions. Do not use it as the primary source for Jiang-content answers.
 
 ## Operating Rules
 
@@ -61,12 +64,14 @@ For questions about Jiang's views, use the public summaries and lens pages as th
 When you need to answer "when did Jiang say this?" or audit an exact claim:
 
 1. Search `/data/lens/transcript-search.txt` or `/data/lens/transcript-search.json`. These are the corpus-wide full-text transcript indexes.
+1. First try `/topics/<topic-slug>.md` and `/topics/index.md`. Generated topic dossiers are small static retrieval shards compiled from semantic tags, glossary terms, source refs, and transcript matches.
 2. Search case-insensitively and try simple variants: singular/plural, hyphenation, initials, aliases, and likely ASR spellings.
-3. Treat `/episodes/index.md`, `/interviews/index.md`, and their JSON indexes as routing catalogs, not proof that a term is absent. If they do not mention a phrase, continue with transcript search.
-4. For each match, fetch the source JSON named in `transcript-search.json` or under `/data/lens/episodes/` or `/data/lens/interviews/`, then verify the exact wording in the `transcript` array.
-5. Read the matching `/episodes/<slug>.md` or `/interviews/<slug>.md` only after verification, to understand the compressed public reading around the match.
-6. Cite the dated source title, the transcript segment URL, the YouTube timestamp URL, and the stable `source_ref`.
-7. If the phrase is only a lens interpretation and not exact Jiang wording, say so and cite the lens page plus its supporting source refs.
+3. Treat `/episodes/index.md`, `/interviews/index.md`, and their JSON indexes as routing catalogs, not proof that a term is absent. If they do not mention a phrase, continue with topic shards or transcript search.
+4. Search `/data/lens/transcript-search.txt` or `/data/lens/transcript-search.json` only when no generated topic dossier exists or when you need a full-corpus audit.
+5. For each match, fetch the source JSON named in `transcript-search.json` or under `/data/lens/episodes/` or `/data/lens/interviews/`, then verify the exact wording in the `transcript` array.
+6. Read the matching `/episodes/<slug>.md` or `/interviews/<slug>.md` only after verification, to understand the compressed public reading around the match.
+7. Cite the dated source title, the transcript segment URL, the YouTube timestamp URL, and the stable `source_ref`.
+8. If the phrase is only a lens interpretation and not exact Jiang wording, say so and cite the lens page plus its supporting source refs.
 
 Do not use compressed Markdown as a substitute for exact quotation. Use episode summaries and lens pages to understand the reading; use transcript anchors, source JSON, or transcript-search outputs to quote exact wording and timestamps.
 
