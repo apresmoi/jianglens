@@ -292,6 +292,65 @@ function publicPath(pathname) {
   return urlFor(pathname);
 }
 
+function escapeHtml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function renderPlainArtifactHtml({ title, description, canonicalPath, body, alternates = [] }) {
+  const canonicalUrl = publicPath(canonicalPath);
+  const alternateLinks = alternates
+    .filter((alternate) => alternate?.path)
+    .map((alternate) => {
+      const href = publicPath(alternate.path);
+      const titleAttr = alternate.title ? ` title="${escapeHtml(alternate.title)}"` : '';
+      return `    <link rel="alternate" type="${escapeHtml(alternate.type)}" href="${escapeHtml(href)}"${titleAttr}>`;
+    });
+  const bodyLinks = alternates
+    .filter((alternate) => alternate?.path)
+    .map((alternate) => {
+      const href = publicPath(alternate.path);
+      return `<a href="${escapeHtml(href)}">${escapeHtml(alternate.title || alternate.path)}</a>`;
+    })
+    .join('\n        ');
+
+  return `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>${escapeHtml(title)}</title>
+    <meta name="description" content="${escapeHtml(description)}">
+    <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+${alternateLinks.join('\n')}
+    <style>
+      :root { color-scheme: light dark; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      body { margin: 0; background: Canvas; color: CanvasText; }
+      main { width: min(100% - 32px, 1040px); margin: 0 auto; padding: 32px 0 56px; }
+      h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 2vw, 2.2rem); line-height: 1.1; letter-spacing: 0; }
+      p { max-width: 72ch; line-height: 1.55; }
+      nav { display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0; }
+      a { color: LinkText; }
+      pre { white-space: pre-wrap; overflow-wrap: anywhere; border: 1px solid color-mix(in srgb, CanvasText 18%, transparent); padding: 20px; border-radius: 8px; line-height: 1.5; background: color-mix(in srgb, CanvasText 4%, Canvas); }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>${escapeHtml(title)}</h1>
+      <p>${escapeHtml(description)}</p>
+      ${bodyLinks ? `<nav aria-label="Alternate formats">
+        ${bodyLinks}
+      </nav>` : ''}
+      <pre>${escapeHtml(body)}</pre>
+    </main>
+  </body>
+</html>
+`;
+}
+
 function collectionForSource(source) {
   return source.collection === 'interviews' ? 'interviews' : 'episodes';
 }
@@ -1233,8 +1292,8 @@ function renderTopicIndex(aliasTargets, topics) {
     'Lookup order:',
     '',
     '1. Normalize the user topic to lowercase words, remove punctuation, and join words with hyphens.',
-    '2. Try `/topics/<normalized-topic>.txt` directly.',
-    '3. If that route is missing or ambiguous, open the letter shard under `/topics/index/<first-letter>.txt`.',
+    '2. Try `/topics/{normalized-topic}.txt` directly.',
+    '3. If that route is missing or ambiguous, open the letter shard under `/topics/index/{first-letter}.txt`.',
     '4. Open the canonical topic dossier linked by the shard or alias route.',
     '5. Use bulk transcript-search only as a fallback when no topic dossier exists.',
     '',
@@ -1340,6 +1399,18 @@ async function generateTopicShards() {
     const content = renderTopicMarkdown(topic);
     await writeFile(path.join(topicOutRoot, `${topic.slug}.txt`), content);
     await writeFile(path.join(topicOutRoot, `${topic.slug}.md`), content);
+    const htmlOutRoot = path.join(topicOutRoot, topic.slug);
+    await mkdir(htmlOutRoot, { recursive: true });
+    await writeFile(path.join(htmlOutRoot, 'index.html'), renderPlainArtifactHtml({
+      title: `Topic: ${topic.label}`,
+      description: 'Generated Jiang Lens topic dossier with answer map, source readings, transcript anchors, video timestamps, and source refs.',
+      canonicalPath: `/topics/${topic.slug}/`,
+      body: content,
+      alternates: [
+        { type: 'text/plain', path: `/topics/${topic.slug}.txt`, title: 'Topic text' },
+        { type: 'text/markdown', path: `/topics/${topic.slug}.md`, title: 'Topic Markdown' },
+      ],
+    }));
   }
 
   let aliasFileCount = 0;
@@ -1356,12 +1427,34 @@ async function generateTopicShards() {
   const topicIndex = renderTopicIndex(activeAliasTargets, activeTopics);
   await writeFile(path.join(topicOutRoot, 'index.txt'), topicIndex);
   await writeFile(path.join(topicOutRoot, 'index.md'), topicIndex);
+  await writeFile(path.join(topicOutRoot, 'index.html'), renderPlainArtifactHtml({
+    title: 'Jiang Lens Topic Router',
+    description: 'Generated static topic router for Jiang Lens agents and search-backed browsing tools.',
+    canonicalPath: '/topics/',
+    body: topicIndex,
+    alternates: [
+      { type: 'text/plain', path: '/topics/index.txt', title: 'Topic router text' },
+      { type: 'text/markdown', path: '/topics/index.md', title: 'Topic router Markdown' },
+    ],
+  }));
 
   const letters = new Set([...activeAliasTargets.keys()].map((alias) => alias.slice(0, 1)).filter(Boolean));
   for (const letter of letters) {
     const content = renderTopicLetterIndex(letter, activeAliasTargets, activeTopics);
     await writeFile(path.join(topicIndexOutRoot, `${letter}.txt`), content);
     await writeFile(path.join(topicIndexOutRoot, `${letter}.md`), content);
+    const letterOutRoot = path.join(topicIndexOutRoot, letter);
+    await mkdir(letterOutRoot, { recursive: true });
+    await writeFile(path.join(letterOutRoot, 'index.html'), renderPlainArtifactHtml({
+      title: `Jiang Lens Topic Router: ${letter.toUpperCase()}`,
+      description: 'Generated static topic alias shard for Jiang Lens agents and browser tools.',
+      canonicalPath: `/topics/index/${letter}/`,
+      body: content,
+      alternates: [
+        { type: 'text/plain', path: `/topics/index/${letter}.txt`, title: 'Topic shard text' },
+        { type: 'text/markdown', path: `/topics/index/${letter}.md`, title: 'Topic shard Markdown' },
+      ],
+    }));
   }
 
   return {
@@ -1369,7 +1462,78 @@ async function generateTopicShards() {
     aliases: activeAliasTargets.size,
     aliasFiles: aliasFileCount,
     letterShards: letters.size,
+    htmlPages: activeTopics.size + letters.size + 1,
   };
+}
+
+async function collectAgentSitemapPaths(root, predicate) {
+  if (!existsSync(root)) return [];
+  const entries = await readdir(root, { withFileTypes: true });
+  const paths = [];
+
+  for (const entry of entries) {
+    const fullPath = path.join(root, entry.name);
+    if (entry.isDirectory()) {
+      paths.push(...await collectAgentSitemapPaths(fullPath, predicate));
+    } else if (entry.isFile() && predicate(fullPath)) {
+      paths.push(fullPath);
+    }
+  }
+
+  return paths;
+}
+
+function publicSitemapPath(filePath) {
+  const rel = path.relative(distRoot, filePath).split(path.sep).join('/');
+  if (rel === 'index.html') return '/';
+  if (rel.endsWith('/index.html')) return `/${rel.slice(0, -'index.html'.length)}`;
+  return `/${rel}`;
+}
+
+async function generateAgentSitemap() {
+  const priorityPaths = [
+    '/',
+    siteConfig.paths.llms,
+    siteConfig.paths.skillText,
+    siteConfig.paths.topicIndexText,
+    '/topics/knights-templar.txt',
+    '/topics/templars.txt',
+    '/topics/trump.txt',
+    '/topics/newton.txt',
+    '/topics/freemasons.txt',
+    siteConfig.paths.episodeIndexText,
+    siteConfig.paths.interviewIndexText,
+    siteConfig.paths.transcriptSearchText,
+    siteConfig.paths.transcriptSearchJson,
+    siteConfig.paths.llmsFull,
+    siteConfig.paths.skill,
+    siteConfig.paths.manifestJson,
+    siteConfig.paths.linkIndexJson,
+  ];
+  const priorityUrls = priorityPaths.map((pathname) => urlFor(pathname));
+  const urls = new Set(priorityUrls);
+
+  const roots = [docsOutRoot, episodeMarkdownOutRoot, interviewMarkdownOutRoot, topicOutRoot, dataOutRoot];
+  for (const root of roots) {
+    const files = await collectAgentSitemapPaths(root, (filePath) => {
+      const ext = path.extname(filePath);
+      if (ext === '.txt') return true;
+      if (ext === '.json') return true;
+      return path.basename(filePath) === 'index.html';
+    });
+
+    for (const file of files) {
+      urls.add(urlFor(publicSitemapPath(file)));
+    }
+  }
+
+  const priorityUrlSet = new Set(priorityUrls);
+  const content = [
+    ...priorityUrls,
+    ...[...urls].filter((url) => !priorityUrlSet.has(url)).sort(),
+  ].join('\n');
+  await writeFile(path.join(distRoot, 'sitemap-agent.txt'), `${content}\n`);
+  return { count: urls.size };
 }
 
 async function copyTree(inputRoot, outputRoot) {
@@ -1507,12 +1671,12 @@ function transformLiteralArtifactPaths(content, options = {}) {
     .replace(/\/episodes\/index\.md/g, '/episodes/index.txt')
     .replace(/\/interviews\/index\.md/g, '/interviews/index.txt')
     .replace(/\/topics\/index\.md/g, '/topics/index.txt')
-    .replace(/\/topics\/index\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/topics/index/$1.txt')
-    .replace(/\/topics\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/topics/$1.txt')
-    .replace(/\/episodes\/(<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/episodes/$1/transcript.txt')
-    .replace(/\/interviews\/(<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/interviews/$1/transcript.txt')
-    .replace(/\/episodes\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/episodes/$1.txt')
-    .replace(/\/interviews\/(<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/interviews/$1.txt')
+    .replace(/\/topics\/index\/(\{[^}\s]+\}|<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/topics/index/$1.txt')
+    .replace(/\/topics\/(\{[^}\s]+\}|<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/topics/$1.txt')
+    .replace(/\/episodes\/(\{[^}\s]+\}|<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/episodes/$1/transcript.txt')
+    .replace(/\/interviews\/(\{[^}\s]+\}|<[^>\s]+>|[A-Za-z0-9_-]+)\/transcript\.md/g, '/interviews/$1/transcript.txt')
+    .replace(/\/episodes\/(\{[^}\s]+\}|<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/episodes/$1.txt')
+    .replace(/\/interviews\/(\{[^}\s]+\}|<[^>\s]+>|[A-Za-z0-9_-]+)\.md/g, '/interviews/$1.txt')
     .replace(/\/docs\/([A-Za-z0-9_/-]+)\.md/g, '/docs/$1.txt');
 }
 
@@ -1555,7 +1719,7 @@ async function main() {
     'For questions about Jiang\'s views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.',
     '',
     '1. Read skill.txt for attribution, output, and identity rules.',
-    '2. Normalize the user topic and try the static topic dossier at /topics/<topic-slug>.txt, or use /topics/index.txt and its letter shards to resolve aliases.',
+    '2. Normalize the user topic and try the static topic dossier at /topics/{topic-slug}.txt, or use /topics/index.txt and its letter shards to resolve aliases.',
     '3. Use the topic dossier\'s source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.',
     '4. Use episode text indexes, interview text indexes, and lens docs when a topic dossier does not cover the question.',
     '5. Use bulk transcript-search.txt, transcript-search.json, and link-index.json only as fallback/offline audit surfaces, because they are large.',
@@ -1565,6 +1729,7 @@ async function main() {
     '',
     `- [Jiang Lens skill text](${urlFor(siteConfig.paths.skillText)})`,
     `- [Static topic router](${urlFor(siteConfig.paths.topicIndexText)})`,
+    `- [Agent sitemap text](${urlFor(siteConfig.paths.agentSitemapText)})`,
     `- [Episodes](${urlFor(siteConfig.paths.episodes)})`,
     `- [Episode text index](${urlFor(siteConfig.paths.episodeIndexText)})`,
     `- [Episode JSON index](${urlFor(siteConfig.paths.episodeIndexJson)})`,
@@ -1576,6 +1741,13 @@ async function main() {
     `- [Full compact docs](${urlFor(siteConfig.paths.llmsFull)})`,
     `- [Generated manifest JSON](${urlFor(siteConfig.paths.manifestJson)})`,
     `- [Generated link index JSON](${urlFor(siteConfig.paths.linkIndexJson)})`,
+    '',
+    '## High-Signal Topic Examples',
+    '',
+    `- Knights Templar / templars: ${urlFor('/topics/knights-templar.txt')} (alias: ${urlFor('/topics/templars.txt')})`,
+    `- Trump: ${urlFor('/topics/trump.txt')}`,
+    `- Isaac Newton / Newton: ${urlFor('/topics/newton.txt')}`,
+    `- Freemasons: ${urlFor('/topics/freemasons.txt')}`,
     '',
     '## Public Docs',
     '',
@@ -1657,8 +1829,9 @@ async function main() {
 
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));
+  const agentSitemap = await generateAgentSitemap();
 
-  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards, ${topicShards?.aliases ?? 0} topic aliases, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards, ${topicShards?.aliases ?? 0} topic aliases, ${topicShards?.htmlPages ?? 0} topic HTML pages, ${agentSitemap.count} agent sitemap URLs, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
 }
 
 main().catch((error) => {

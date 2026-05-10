@@ -79,6 +79,9 @@ async function main() {
     if (!robots.includes('Sitemap: https://jianglens.com/sitemap-0.xml')) {
       failures.push('dist/robots.txt: missing production sitemap-0 URL');
     }
+    if (!robots.includes('Sitemap: https://jianglens.com/sitemap-agent.txt')) {
+      failures.push('dist/robots.txt: missing agent sitemap URL');
+    }
     if (robots.includes('Sitemap: https://jianglens.com/sitemap-index.xml')) {
       failures.push('dist/robots.txt: still links sitemap-index.xml');
     }
@@ -88,7 +91,13 @@ async function main() {
       'Skill: https://jianglens.com/skill.md',
       'Skill-text: https://jianglens.com/skill.txt',
       'Topic-index: https://jianglens.com/topics/index.txt',
+      'Agent-sitemap: https://jianglens.com/sitemap-agent.txt',
       'Transcript-search: https://jianglens.com/data/lens/transcript-search.txt',
+      'User-agent: ClaudeBot',
+      'User-agent: Claude-User',
+      'User-agent: Claude-SearchBot',
+      'User-agent: PerplexityBot',
+      'User-agent: Perplexity-User',
     ]) {
       if (!robots.includes(expected)) {
         failures.push(`dist/robots.txt: missing ${expected}`);
@@ -191,8 +200,12 @@ async function main() {
     'episodes/predictive-history-6m1z-v3wgok/transcript.txt',
     'docs/lens/nation-as-god-machine.txt',
     'skill.txt',
+    'sitemap-agent.txt',
+    'topics/index.html',
     'topics/index.txt',
+    'topics/index/k/index.html',
     'topics/index/k.txt',
+    'topics/knights-templar/index.html',
     'topics/knights-templar.txt',
     'topics/templars.txt',
     'data/lens/episodes/index.json',
@@ -272,6 +285,8 @@ async function main() {
     for (const expected of [
       'Static topic router',
       'https://jianglens.com/topics/index.txt',
+      'https://jianglens.com/sitemap-agent.txt',
+      'Knights Templar / templars',
       'Use bulk transcript-search.txt, transcript-search.json, and link-index.json only as fallback/offline audit surfaces',
     ]) {
       if (!llms.includes(expected)) {
@@ -285,7 +300,7 @@ async function main() {
     const topicIndex = await readFile(topicIndexPath, 'utf8');
     for (const expected of [
       '# Jiang Lens Topic Router',
-      'Try `/topics/<normalized-topic>.txt` directly',
+      'Try `/topics/{normalized-topic}.txt` directly',
       'https://jianglens.com/topics/index/k.txt',
     ]) {
       if (!topicIndex.includes(expected)) {
@@ -320,6 +335,49 @@ async function main() {
     ]) {
       if (!templarsAlias.includes(expected)) {
         failures.push(`dist/topics/templars.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const skillTextPath = path.join(distRoot, 'skill.txt');
+  if (existsSync(skillTextPath)) {
+    const skillText = await readFile(skillTextPath, 'utf8');
+    for (const forbiddenText of [
+      '/topics/.txt',
+      '/topics/index/.txt',
+      '/episodes/.txt',
+      '/interviews/.txt',
+    ]) {
+      if (skillText.includes(forbiddenText)) {
+        failures.push(`dist/skill.txt: includes collapsed placeholder ${forbiddenText}`);
+      }
+    }
+    for (const expected of [
+      '/topics/{topic-slug}.txt',
+      '/topics/index/{first-letter}.txt',
+      '/episodes/{episode-slug}.txt',
+      '/episodes/{episode-slug}/transcript.txt',
+    ]) {
+      if (!skillText.includes(expected)) {
+        failures.push(`dist/skill.txt: missing placeholder-safe route ${expected}`);
+      }
+    }
+  }
+
+  const agentSitemapPath = path.join(distRoot, 'sitemap-agent.txt');
+  if (existsSync(agentSitemapPath)) {
+    const agentSitemap = await readFile(agentSitemapPath, 'utf8');
+    for (const expected of [
+      'https://jianglens.com/llms.txt',
+      'https://jianglens.com/skill.txt',
+      'https://jianglens.com/topics/',
+      'https://jianglens.com/topics/knights-templar/',
+      'https://jianglens.com/topics/knights-templar.txt',
+      'https://jianglens.com/topics/templars.txt',
+      'https://jianglens.com/data/lens/transcript-search.txt',
+    ]) {
+      if (!agentSitemap.includes(expected)) {
+        failures.push(`dist/sitemap-agent.txt: missing ${expected}`);
       }
     }
   }
