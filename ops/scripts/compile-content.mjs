@@ -727,6 +727,9 @@ async function writeEpisodeData(lensPointById = new Map()) {
       path: `${publicBase}/${source.slug}/`,
       transcript_path: `${publicBase}/${source.slug}/transcript/`,
       markdown_path: `${publicBase}/${source.slug}.md`,
+      text_path: `${publicBase}/${source.slug}.txt`,
+      transcript_markdown_path: `${publicBase}/${source.slug}/transcript.md`,
+      transcript_text_path: `${publicBase}/${source.slug}/transcript.txt`,
       data_url: `/data/lens/${collection}/${source.slug}.json`,
       data_path: `website/src/data/lens/${collection}/${source.slug}.json`,
     };

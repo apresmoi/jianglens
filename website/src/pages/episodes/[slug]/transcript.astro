@@ -4,6 +4,7 @@ import IconLinks from '../../../components/IconLinks.astro';
 import SiteHeader from '../../../components/SiteHeader.astro';
 import { absoluteUrl, externalHref } from '../../../../site.config.mjs';
 import { listEpisodeSlugs, readEpisode } from '../../../lib/episodes.mjs';
+import { sourceTranscriptArtifactUrl } from '../../../lib/agent-artifacts.mjs';
 
 export async function getStaticPaths() {
   const slugs = await listEpisodeSlugs();
@@ -15,6 +16,8 @@ const transcriptSegments = episode.transcript ?? [];
 const title = `${episode.title} transcript | Jiang Lens`;
 const description = `Full transcript archive for ${episode.title}.`;
 const canonicalUrl = absoluteUrl(`/episodes/${episode.slug}/transcript/`);
+const markdownUrl = sourceTranscriptArtifactUrl('episodes', episode.slug, 'md');
+const textUrl = sourceTranscriptArtifactUrl('episodes', episode.slug, 'txt');
 const sourceUrl = episode.source_url;
 const readUrl = `../`;
 const playerOrigin = new URL(canonicalUrl).origin;
@@ -79,6 +82,8 @@ const initialRole = initialSegment ? roleForSegment(initialSegment) : '';
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" type="text/markdown" href={markdownUrl} title="Episode transcript Markdown" />
+    <link rel="alternate" type="text/plain" href={textUrl} title="Episode transcript text" />
     <style>
       :root {
         color-scheme: dark;

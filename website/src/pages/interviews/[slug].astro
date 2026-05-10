@@ -4,6 +4,7 @@ import IconLinks from '../../components/IconLinks.astro';
 import InlineEvidence from '../../components/InlineEvidence.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import { absoluteUrl, externalHref } from '../../../site.config.mjs';
+import { sourceArtifactUrl } from '../../lib/agent-artifacts.mjs';
 import { interviewJsonPath, listInterviewSlugs, readInterview } from '../../lib/episodes.mjs';
 
 export async function getStaticPaths() {
@@ -19,6 +20,8 @@ const pageTitle = read.title || episode.title;
 const title = `${pageTitle} | Jiang Lens`;
 const description = read.dek || `A cleaned Jiang Lens interview reading of ${episode.title}.`;
 const canonicalUrl = absoluteUrl(`/interviews/${episode.slug}/`);
+const markdownUrl = sourceArtifactUrl('interviews', episode.slug, 'md');
+const textUrl = sourceArtifactUrl('interviews', episode.slug, 'txt');
 const jsonUrl = absoluteUrl(interviewJsonPath(episode.slug));
 const sourceUrl = episode.source_url;
 const transcriptUrl = `/interviews/${episode.slug}/transcript/`;
@@ -45,6 +48,8 @@ const structuredData = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" type="text/markdown" href={markdownUrl} title="Interview Markdown" />
+    <link rel="alternate" type="text/plain" href={textUrl} title="Interview text" />
     <link rel="alternate" type="application/json" href={jsonUrl} title="Interview JSON" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />

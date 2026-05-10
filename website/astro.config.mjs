@@ -114,6 +114,7 @@ export default defineConfig({
       head: starlightHead,
       customCss: ['./src/styles/custom.css'],
       components: {
+        Head: './src/components/StarlightHead.astro',
         Header: './src/components/StarlightHeader.astro',
         MarkdownContent: './src/components/StarlightMarkdownContent.astro',
       },

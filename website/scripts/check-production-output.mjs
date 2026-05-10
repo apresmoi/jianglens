@@ -86,6 +86,7 @@ async function main() {
       'LLMs: https://jianglens.com/llms.txt',
       'LLMs-full: https://jianglens.com/llms-full.txt',
       'Skill: https://jianglens.com/skill.md',
+      'Skill-text: https://jianglens.com/skill.txt',
     ]) {
       if (!robots.includes(expected)) {
         failures.push(`dist/robots.txt: missing ${expected}`);
@@ -138,11 +139,56 @@ async function main() {
   const sampleHeadPaths = [
     'index.html',
     'episodes/index.html',
+    'episodes/predictive-history-6m1z-v3wgok/index.html',
+    'episodes/predictive-history-6m1z-v3wgok/transcript/index.html',
     'introduction/index.html',
   ];
+  const expectedAlternatesByHeadPath = {
+    'index.html': [
+      '<link rel="alternate" type="text/markdown" href="https://jianglens.com/skill.md"',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/skill.txt"',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/llms.txt"',
+    ],
+    'episodes/index.html': [
+      '<link rel="alternate" type="text/markdown" href="https://jianglens.com/episodes/index.md"',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/episodes/index.txt"',
+    ],
+    'episodes/predictive-history-6m1z-v3wgok/index.html': [
+      '<link rel="alternate" type="text/markdown" href="https://jianglens.com/episodes/predictive-history-6m1z-v3wgok.md"',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/episodes/predictive-history-6m1z-v3wgok.txt"',
+    ],
+    'episodes/predictive-history-6m1z-v3wgok/transcript/index.html': [
+      '<link rel="alternate" type="text/markdown" href="https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/transcript.md"',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/transcript.txt"',
+    ],
+    'introduction/index.html': [
+      '<link rel="alternate" type="text/markdown" href="https://jianglens.com/docs/introduction.md"',
+      '<link rel="alternate" type="text/plain" href="https://jianglens.com/docs/introduction.txt"',
+    ],
+  };
+  for (const relPath of sampleHeadPaths) {
+    const htmlPath = path.join(distRoot, relPath);
+    if (!existsSync(htmlPath)) {
+      failures.push(`dist/${relPath}: missing sample HTML page`);
+      continue;
+    }
+    const html = await readFile(htmlPath, 'utf8');
+    for (const expected of expectedAlternatesByHeadPath[relPath] ?? []) {
+      if (!html.includes(expected)) {
+        failures.push(`dist/${relPath}: missing alternate head link ${expected}`);
+      }
+    }
+  }
+
   const requiredAgentFiles = [
     'episodes/index.md',
+    'episodes/index.txt',
     'episodes/predictive-history-6m1z-v3wgok.md',
+    'episodes/predictive-history-6m1z-v3wgok.txt',
+    'episodes/predictive-history-6m1z-v3wgok/transcript.md',
+    'episodes/predictive-history-6m1z-v3wgok/transcript.txt',
+    'docs/lens/nation-as-god-machine.txt',
+    'skill.txt',
     'data/lens/episodes/index.json',
     'data/lens/episodes/predictive-history-6m1z-v3wgok.json',
     'data/lens/transcript-search.json',
@@ -171,6 +217,15 @@ async function main() {
     const sampleEpisodeIndexJson = await readFile(sampleEpisodeIndexJsonPath, 'utf8');
     if (!sampleEpisodeIndexJson.includes('"/episodes/predictive-history-6m1z-v3wgok.md"')) {
       failures.push('dist/data/lens/episodes/index.json: missing episode Markdown path');
+    }
+    if (!sampleEpisodeIndexJson.includes('"/episodes/predictive-history-6m1z-v3wgok.txt"')) {
+      failures.push('dist/data/lens/episodes/index.json: missing episode text path');
+    }
+    if (!sampleEpisodeIndexJson.includes('"/episodes/predictive-history-6m1z-v3wgok/transcript.md"')) {
+      failures.push('dist/data/lens/episodes/index.json: missing episode transcript Markdown path');
+    }
+    if (!sampleEpisodeIndexJson.includes('"/episodes/predictive-history-6m1z-v3wgok/transcript.txt"')) {
+      failures.push('dist/data/lens/episodes/index.json: missing episode transcript text path');
     }
   }
 
@@ -202,6 +257,34 @@ async function main() {
     }
   }
 
+  const sampleEpisodeTextPath = path.join(distRoot, 'episodes/predictive-history-6m1z-v3wgok.txt');
+  if (existsSync(sampleEpisodeTextPath)) {
+    const sampleEpisodeText = await readFile(sampleEpisodeTextPath, 'utf8');
+    for (const expected of [
+      'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/',
+      'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok.txt',
+      'video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005',
+    ]) {
+      if (!sampleEpisodeText.includes(expected)) {
+        failures.push(`dist/episodes/predictive-history-6m1z-v3wgok.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const sampleEpisodeTranscriptTextPath = path.join(distRoot, 'episodes/predictive-history-6m1z-v3wgok/transcript.txt');
+  if (existsSync(sampleEpisodeTranscriptTextPath)) {
+    const sampleEpisodeTranscriptText = await readFile(sampleEpisodeTranscriptTextPath, 'utf8');
+    for (const expected of [
+      'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/transcript/',
+      'https://jianglens.com/episodes/predictive-history-6m1z-v3wgok/transcript.txt',
+      'video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0005',
+    ]) {
+      if (!sampleEpisodeTranscriptText.includes(expected)) {
+        failures.push(`dist/episodes/predictive-history-6m1z-v3wgok/transcript.txt: missing ${expected}`);
+      }
+    }
+  }
+
   const sampleLensMarkdownPath = path.join(distRoot, 'docs/lens/nation-as-god-machine.md');
   if (existsSync(sampleLensMarkdownPath)) {
     const sampleLensMarkdown = await readFile(sampleLensMarkdownPath, 'utf8');
@@ -212,6 +295,20 @@ async function main() {
     ]) {
       if (!sampleLensMarkdown.includes(expected)) {
         failures.push(`dist/docs/lens/nation-as-god-machine.md: missing ${expected}`);
+      }
+    }
+  }
+
+  const sampleLensTextPath = path.join(distRoot, 'docs/lens/nation-as-god-machine.txt');
+  if (existsSync(sampleLensTextPath)) {
+    const sampleLensText = await readFile(sampleLensTextPath, 'utf8');
+    for (const expected of [
+      'https://jianglens.com/docs/lens/power-as-alchemy.txt',
+      'https://jianglens.com/episodes/predictive-history-tquo1usc5nw/transcript/#seg-0010',
+      'lens-point:nation-god-machine-absorbs-ideologies',
+    ]) {
+      if (!sampleLensText.includes(expected)) {
+        failures.push(`dist/docs/lens/nation-as-god-machine.txt: missing ${expected}`);
       }
     }
   }
