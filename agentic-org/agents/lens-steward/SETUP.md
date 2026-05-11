@@ -1,6 +1,6 @@
 # Plato Setup
 
-Plato is declared as the `lens-steward` agent under `agents/lens-steward/`.
+Plato is declared as the `lens-steward` agent under `agentic-org/agents/lens-steward/`.
 
 This file defines the runtime shape. Spawnfile declares Plato, and the local Docker stack wakes Plato through Picoclaw's native cron service alongside Virgil.
 
@@ -18,16 +18,20 @@ spawnfile view .
 Use the shared Jiang Lens agent stack from the repo root:
 
 ```bash
-ops/scripts/build-episode-worker-image.sh
-ops/scripts/run-episode-worker-stack.sh
+spawnfile validate agentic-org
+spawnfile up agentic-org \
+  --auth-profile jiang-lens \
+  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --name jiang-lens-agentic-org \
+  -d
 ```
 
-The stack persists Plato state under:
+Spawnfile gives Plato a workspace-local repo checkout and durable state:
 
 ```text
-.runtime/episode-worker/lens-steward/repo
-.runtime/episode-worker/lens-steward/state
-.runtime/episode-worker/lens-steward/cron
+repos/jiang-lens
+state
+cron
 ```
 
 ## Moltnet
@@ -38,10 +42,10 @@ Plato belongs in:
 local_lab / episode-floor
 ```
 
-Use:
+From inside `repos/jiang-lens`, use:
 
 ```bash
-export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/.moltnet/config.json
+export MOLTNET_CLIENT_CONFIG="$PWD/../../.moltnet/config.json"
 moltnet read --network local_lab --target room:episode-floor --limit 20
 moltnet send --network local_lab --target room:episode-floor --text "Status: <short factual update>."
 ```

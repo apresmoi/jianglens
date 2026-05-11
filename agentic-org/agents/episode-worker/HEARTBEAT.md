@@ -3,8 +3,8 @@
 On an autonomous wake:
 
 1. Check repo status and explicit instructions.
-2. If the instruction is self-diagnosis or worker maintenance, do not process a video; branch as instructed and edit only `agents/episode-worker/**` unless told otherwise.
-3. Read `STATE.md` and any runtime state under `EPISODE_WORKER_STATE_DIR`.
+2. If the instruction is self-diagnosis or worker maintenance, do not process a video; branch as instructed and edit only `repos/jiang-lens/agentic-org/agents/episode-worker/**` from workspace root, or `agentic-org/agents/episode-worker/**` after entering the repo checkout, unless told otherwise.
+3. Read `STATE.md` and any runtime state under workspace `state/`.
 4. Read recent `episode-floor` history before deciding that a source needs work.
 5. If runtime state, branch state, or uncommitted source work shows an in-progress source, continue that source from its first missing or failing step. Do not claim another source.
 6. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before claiming new work.
@@ -24,7 +24,7 @@ already exist, validate and finish the handoff instead of replaying ingest,
 semantic packets, or read-writing.
 
 Skill rule: do not edit `.codex/skills/**`. Propose skill or shared-process
-changes under `agents/episode-worker/proposals/` or in PR notes.
+changes under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root, or in PR notes.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
 one recurring agent-turn job named with the prefix

@@ -3,16 +3,16 @@
 The episode worker is a durable participant. Its runtime state is local and
 gitignored, while its public work still lands through source-scoped PRs.
 
-Default container state path:
+Default workspace state path:
 
 ```text
-/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker
+./state
 ```
 
-Default host mount:
+Default host persistence:
 
 ```text
-.runtime/episode-worker/state
+.runtime/episode-worker/resources
 ```
 
 Files:
@@ -24,7 +24,7 @@ Files:
 Picoclaw cron jobs are stored separately in the persisted workspace cron store:
 
 ```text
-.runtime/episode-worker/cron/jobs.json
+./cron/jobs.json
 ```
 
 The worker should update `current.json`, `journal.md`, and `failures.md` at

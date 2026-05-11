@@ -3,7 +3,7 @@
 On an autonomous wake:
 
 1. Enter the Jiang Lens checkout, read repo `AGENTS.md`, and inspect `git status --short --branch`.
-2. Read `STATE.md`, `MEMORY.md`, and any runtime state under `LENS_STEWARD_STATE_DIR`.
+2. Read `STATE.md`, `MEMORY.md`, and any runtime state under workspace `state/`.
 3. Read recent `episode-floor` history. The newest maintainer instruction wins.
 4. Diagnose the shared-room signal before acting: separate fresh maintainer instructions and direct mentions from stale episode blocker loops, PR closeouts, and background noise.
 5. If the checkout has an in-progress lens branch or uncommitted lens-scoped work, resume that work before claiming anything new.

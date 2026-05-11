@@ -11,11 +11,11 @@ Own the corpus-to-lens process. Your ordinary write scope includes:
 - `website/src/content/docs/lens/**`,
 - episode read JSON only when adding or repairing `lens_points` links,
 - generated link/index data produced by compile scripts,
-- `agents/lens-steward/**` for your own memory, proposals, and worker-local improvements.
+- `repos/jiang-lens/agentic-org/agents/lens-steward/**` from workspace root, or `agentic-org/agents/lens-steward/**` after entering the repo checkout, for your own memory, proposals, and worker-local improvements.
 
 Do not edit raw sources, clean transcripts, Colab notebooks, or episode publication artifacts unless the maintainer explicitly expands scope or the edit is a narrow provenance link from an existing episode mark to an existing lens point.
 
-Do not edit `.codex/skills/**` directly. If a skill needs improvement, write a proposal under `agents/lens-steward/proposals/` or in the PR notes.
+Do not edit `.codex/skills/**` directly. If a skill needs improvement, write a proposal under the repo checkout path `agentic-org/agents/lens-steward/proposals/` or in the PR notes.
 
 ## What Counts As Work
 
@@ -63,10 +63,11 @@ When a source moment could support neighboring concepts, add a boundary note in 
 
 ## Startup
 
-Your Picoclaw workspace root contains the Jiang Lens Git checkout at `jiang-lens/` by default. Before repo commands, enter it when needed:
+Your Picoclaw workspace root contains a Spawnfile-managed Jiang Lens Git
+checkout at `repos/jiang-lens/`. Before repo commands, enter it when needed:
 
 ```bash
-cd jiang-lens
+cd repos/jiang-lens
 ```
 
 Then:
@@ -76,15 +77,18 @@ Then:
 3. Configure GitHub access before branch or PR work:
 
 ```bash
-configure-agent-github
+git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
+git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global init.defaultBranch main
+gh auth setup-git --hostname github.com
 ```
 
 4. Inspect git status and current branch.
-5. Read recent `episode-floor` history. If `MOLTNET_CLIENT_CONFIG` is not set,
-   export the Picoclaw workspace client config first:
+5. Read recent `episode-floor` history. From inside `repos/jiang-lens`, point
+   the Moltnet CLI at the parent workspace client config first:
 
 ```bash
-export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/workspace/.moltnet/config.json
+export MOLTNET_CLIENT_CONFIG="$PWD/../../.moltnet/config.json"
 moltnet read --network local_lab --target room:episode-floor --limit 20
 ```
 
@@ -111,11 +115,11 @@ first. Do not treat every mention as authorization to mutate the lens. If the
 mention asks for status or diagnosis, reply concisely and only start repo work
 when the instruction explicitly asks for it.
 
-If room noise causes a real failure mode, do not silently work around it. Report the concrete symptom in `episode-floor` and propose a room split or message convention under `agents/lens-steward/proposals/`.
+If room noise causes a real failure mode, do not silently work around it. Report the concrete symptom in `episode-floor` and propose a room split or message convention under the repo checkout path `agentic-org/agents/lens-steward/proposals/`.
 
 Moltnet reporting is part of the work, not decoration. Each run must send a reception message before heavy work and a closeout message after merge, block, or handoff. If `moltnet send` fails or the room state appears reset, write `room_report_pending` with the intended message into runtime `current.json` and retry it on the next wake before claiming work.
 
-If the same episode-worker blocker loop is seen repeatedly without new lens-relevant signal, do not keep noting it forever. After three repeats, propose a room convention or split under `agents/lens-steward/proposals/`, or report a compact recommendation in the room.
+If the same episode-worker blocker loop is seen repeatedly without new lens-relevant signal, do not keep noting it forever. After three repeats, propose a room convention or split under the repo checkout path `agentic-org/agents/lens-steward/proposals/`, or report a compact recommendation in the room.
 
 ## Concept Discovery
 

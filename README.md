@@ -1,10 +1,24 @@
 # Jiang Lens
 
+[![Powered by Spawnfile](https://img.shields.io/badge/powered%20by-Spawnfile-111111?style=for-the-badge)](https://spawnfile.com/)
+[![Coordinated on Moltnet](https://img.shields.io/badge/coordinated%20on-Moltnet-111111?style=for-the-badge)](https://moltnet.dev/)
+[![Open research](https://img.shields.io/badge/open-research-caa46a?style=for-the-badge)](https://github.com/apresmoi/jianglens)
+
+![Jiang Lens social card](website/public/social-card.png)
+
 Jiang Lens is an independent research and reading project built from Jiang Xueqin's lectures, interviews, and writing.
 
 The goal is to compress a growing corpus into a public map of Jiang's world model: the recurring concepts, metaphors, historical patterns, and social diagnostics he uses to interpret reality. Episodes preserve individual sources in readable form. Lens pages connect those sources into larger concepts that can be followed, questioned, and reused.
 
 This is not an official Jiang Xueqin or Predictive History publication. It is also an experiment in agentic research: the repo is being shaped so autonomous agents can ingest sources, produce episode readings, record provenance, update the corpus, and gradually help maintain the lens with little human intervention.
+
+## What A Research Lens Is
+
+A research lens is a reusable interpretive model. It is not just a summary of what someone said. It is the compressed shape of how they see: the distinctions they keep making, the causal patterns they return to, the metaphors that organize their judgment, and the questions they use to read new events.
+
+Jiang Lens treats Jiang's public corpus as source material for that kind of model. A lecture stays available as a lecture, but the project also asks what can be carried forward from it: a concept, a diagnostic, a pattern of historical analogy, or a way an agent can analyze news, geopolitics, institutions, literature, or social dynamics through Jiang's frame.
+
+Compression here does not mean making everything shorter until it becomes vague. It means preserving the strongest reusable structure while keeping the source trail inspectable. A good compressed lens point should be readable by a person, usable by an agent, and traceable back to the exact source spans that support it.
 
 ## What The Site Should Become
 
@@ -16,6 +30,37 @@ The public site should make the corpus easy to read without hiding where ideas c
 
 The standard is not a transcript dump and not a shallow summary. The useful output is a readable distillation that keeps the force of Jiang's language while making the source trail inspectable.
 
+## The Agentic Experiment
+
+Jiang Lens is also a practical test of whether a research system can be run as an agentic organization rather than as a manual content workflow.
+
+- **Spawnfile** defines the durable organization: workers, shared resources, required skills, injected auth, packages, the managed Moltnet network, and the local runtime shape.
+- **Moltnet** gives the agents a room where they can be addressed, leave status, coordinate handoffs, and remain visible to the human operator.
+- **Codex through PicoClaw** gives each worker a real development environment where it can clone the repo, create branches, edit files, validate changes, and open pull requests.
+
+The intent is not to hide the machinery. The repo should stay legible enough that a reader can see how sources become episodes, how episodes pressure the lens, how lens pages gain provenance, and how agents are expected to improve the system over time.
+
+The current workers are:
+
+- `episode-worker` / Virgil: processes already-transcribed videos into public, source-linked episode or interview pages.
+- `lens-steward` / Plato: turns the processed corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
+
+The symbolic names are human-facing identities; the stable ids keep runtime state, branches, and automation predictable.
+
+## The Human Part
+
+The human role is not to hand-author every page. The human role is to set taste, direction, constraints, and accountability.
+
+Humans decide what the site is trying to become, what quality bar public pages must meet, what counts as an acceptable interpretive leap, when an agent has gone too mechanical, and when the organization itself needs a new worker, rule, or skill. Agents can process the corpus continuously, but the project still needs human judgment about framing, design, risk, and editorial taste.
+
+In practice, that means the human maintainer:
+
+- protects source fidelity and public readability
+- reviews whether agent outputs feel alive enough to be worth reading
+- corrects methodology when agents overfit, flatten, or hallucinate structure
+- decides when a recurring pattern is important enough to become part of the public lens
+- keeps the site honest about being independent from Jiang Xueqin and Predictive History
+
 ## Project Shape
 
 The repo has three main layers:
@@ -24,23 +69,25 @@ The repo has three main layers:
 - `ops/` contains the scripts, schemas, validators, and notebooks that ingest, compile, and check the corpus.
 - `website/` renders the public Astro site from the content layer.
 
-There is also an `agents/` folder for Spawnfile worker definitions. The current durable agents are:
+There is also an `agentic-org/` folder for Spawnfile worker definitions, Moltnet topology, and local agent runtime docs. The current durable agents are:
 
 - `episode-worker` / Virgil: processes one already-transcribed video into a public website-visible episode.
 - `lens-steward` / Plato: turns the processed episode corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
 
-The symbolic names are human-facing identities; the stable ids keep runtime state, branches, and automation predictable.
-
-Docker episode workers use a small overlay image so GitHub operations are available:
+Run the local organization through Spawnfile:
 
 ```bash
-ops/scripts/build-episode-worker-image.sh
-ops/scripts/run-episode-worker-stack.sh
+spawnfile validate agentic-org
+spawnfile up agentic-org \
+  --auth-profile jiang-lens \
+  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --name jiang-lens-agentic-org \
+  -d
 ```
 
-The worker stack requires `spawnfile@0.1.4` or newer and reads `GH_TOKEN` from
-`ops/secrets/episode-worker.env`. Do not bake GitHub tokens into images. See
-[Episode Worker Stack](docs/EPISODE_WORKER_STACK.md) for the full build, auth,
+The worker stack requires current `spawnfile` and `moltnet` releases and reads `GH_TOKEN` from
+`agentic-org/ops/secrets/episode-worker.env`. Do not bake GitHub tokens into images. See
+[Agentic Org Stack](agentic-org/docs/EPISODE_WORKER_STACK.md) for the full auth,
 environment, and Moltnet runbook.
 
 ## Working Model

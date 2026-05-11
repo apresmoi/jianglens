@@ -7,8 +7,8 @@ This worker is deployed as an autonomous PR producer. It processes one ready vid
 The worker needs GitHub access to push branches, create PRs, and queue auto-merge. In Docker, pass a token at runtime with:
 
 ```bash
-cp ops/env/episode-worker.env.example ops/secrets/episode-worker.env
-$EDITOR ops/secrets/episode-worker.env
+cp agentic-org/ops/env/episode-worker.env.example agentic-org/ops/secrets/episode-worker.env
+$EDITOR agentic-org/ops/secrets/episode-worker.env
 ```
 
 Use a fine-grained token scoped to `apresmoi/jianglens` with:
@@ -18,55 +18,61 @@ Use a fine-grained token scoped to `apresmoi/jianglens` with:
 - Metadata: read
 
 A classic token needs `repo`. Do not bake this token into the image. Keep it in
-`ops/secrets/episode-worker.env` locally.
+`agentic-org/ops/secrets/episode-worker.env` locally.
 
-The local Docker stack requires `spawnfile@0.1.4` or newer. The launcher uses
-that version to sync Codex OAuth and inject declared project secrets from the env
-file at run time.
+The local org stack requires `spawnfile@0.1.6` or newer. Use `spawnfile up`
+directly; there is no project-specific Docker launcher or overlay path.
 
-The Docker image includes `yt-dlp` only for YouTube metadata fallback during
+The Spawnfile runtime includes `yt-dlp` only for YouTube metadata fallback during
 `ops/scripts/import-colab-video.mjs`. Do not use the worker to download audio or
 video; raw media and cookies belong to Colab/Drive, not the episode PR worker.
 
-Configure `git` and `gh` inside the worker environment:
+Configure `git` and `gh` inside the worker environment when needed:
 
 ```bash
-configure-agent-github
+git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
+git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global init.defaultBranch main
+gh auth setup-git --hostname github.com
 ```
 
-Run it at the start of a wake before branch or PR work.
+Run this at the start of a wake before branch or PR work if GitHub operations
+are not already configured.
 
-The worker runtime starts in a Picoclaw workspace. The repository is cloned or
-updated at `jiang-lens/` inside that workspace before the agent starts.
+The worker runtime starts in a Picoclaw workspace. Spawnfile clones or updates
+the repository resource at `repos/jiang-lens/` inside that workspace before the
+agent starts.
 Run repo commands from there:
 
 ```bash
-cd jiang-lens
+cd repos/jiang-lens
 ```
 
-The worker also has durable local state mounted outside git. By default the host
-stores it at `.runtime/episode-worker/state` and the container sees it at:
+The worker also has durable local state outside git. In the workspace it appears
+at:
 
 ```text
-/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/state/episode-worker
+state/
 ```
 
 Read `STATE.md` before using these files. Runtime state helps restarts resume
 the same source, but it does not override repo status, Moltnet instructions,
 source artifacts, validation, or GitHub PR state.
 
-## Local Docker Stack
+## Local Spawnfile Stack
 
-For local testing, run Moltnet inside the episode-worker container and expose it
-to the host:
+For local testing, run the organization with native Spawnfile:
 
 ```bash
-ops/scripts/build-episode-worker-image.sh
-ops/scripts/run-episode-worker-stack.sh
+spawnfile validate agentic-org
+spawnfile up agentic-org \
+  --auth-profile jiang-lens \
+  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --name jiang-lens-agentic-org \
+  -d
 ```
 
-This stores local runtime state under `.runtime/episode-worker/`, which is
-gitignored, and exposes the Moltnet console at:
+This exposes the Moltnet console at:
 
 ```text
 http://127.0.0.1:8787/console/
@@ -75,17 +81,17 @@ http://127.0.0.1:8787/console/
 Use logs to watch the stack:
 
 ```bash
-docker logs -f jiang-lens-episode-worker
+docker logs -f jiang-lens-agentic-org
 ```
 
 Stop it with:
 
 ```bash
-docker rm -f jiang-lens-episode-worker
+docker stop jiang-lens-agentic-org
 ```
 
 For the full operator runbook, environment variables, version checks, and
-troubleshooting, see `docs/EPISODE_WORKER_STACK.md`.
+troubleshooting, see `agentic-org/docs/EPISODE_WORKER_STACK.md`.
 
 Start from a clean clone. In Docker or any token-based environment, prefer HTTPS through `gh`:
 
@@ -100,8 +106,6 @@ On a local machine with SSH configured, this is also acceptable:
 git clone git@github.com:apresmoi/jianglens.git jiang-lens
 cd jiang-lens
 ```
-
-After cloning, the same helper also exists at `ops/scripts/configure-agent-github.sh` for repo-local repair or validation.
 
 Install website dependencies:
 
@@ -134,11 +138,12 @@ teammates: what you are checking, what blocked, what PR or validation result
 matters, and what you will do next. Avoid third-person self-references and rigid
 workflow labels unless a label makes the update clearer.
 
-If `MOLTNET_CLIENT_CONFIG` is not already set after entering `jiang-lens/`,
-export the Picoclaw workspace client config before using Moltnet:
+If `MOLTNET_CLIENT_CONFIG` is not already set after entering
+`repos/jiang-lens/`, export the Picoclaw workspace client config before using
+Moltnet:
 
 ```bash
-export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/.moltnet/config.json
+export MOLTNET_CLIENT_CONFIG="$PWD/../../.moltnet/config.json"
 ```
 
 If the client config is not found, report a runtime blocker instead of working silently.
@@ -291,15 +296,16 @@ Do not use direct pushes or manual merge commands to bypass CI. If local validat
 After each episode, ask what should improve next time:
 
 - If it is an agent habit, update `MEMORY.md` concisely.
-- If it is a repeatable method, write a proposal under `agents/episode-worker/proposals/` or in the PR notes.
+- If it is a repeatable method, write a proposal under the repo checkout path `agentic-org/agents/episode-worker/proposals/` or in the PR notes.
 - If it is a missing mechanical check, write a concrete proposal instead of adding shared scripts unless the maintainer explicitly expands scope.
 - If it is source-specific, keep it in that source's artifact or PR notes.
 
 Growing with the system means preserving useful experience in durable, reviewable repo artifacts.
 
 For worker self-diagnosis, postmortem, or instruction-hardening tasks, durable
-changes by this worker are limited to `agents/episode-worker/**` unless the
-maintainer explicitly expands the write scope. Put recommendations for root
-skills, content tooling, website, ops scripts, or global docs in
-`agents/episode-worker/proposals/` or the PR notes.
-instead of editing those files.
+changes by this worker are limited to the repo checkout path
+`agentic-org/agents/episode-worker/**` unless the maintainer explicitly expands
+the write scope. Put recommendations for root skills, content tooling, website,
+ops scripts, or global docs in
+`agentic-org/agents/episode-worker/proposals/` or the PR notes instead of
+editing those files.
