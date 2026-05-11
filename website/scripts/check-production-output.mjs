@@ -106,6 +106,38 @@ async function main() {
     }
   }
 
+  const htmlSitemapPath = path.join(distRoot, 'sitemap-0.xml');
+  if (!existsSync(htmlSitemapPath)) {
+    failures.push('dist/sitemap-0.xml: missing');
+  } else {
+    const htmlSitemap = await readFile(htmlSitemapPath, 'utf8');
+    const topicHtmlPageCount = files.filter((file) => {
+      return path.basename(file) === 'index.html' && path.relative(distRoot, file).startsWith(`topics${path.sep}`);
+    }).length;
+    const topicXmlUrlCount = [...htmlSitemap.matchAll(/<loc>https:\/\/jianglens\.com\/topics\//g)].length;
+    for (const expected of [
+      '<loc>https://jianglens.com/topics/</loc>',
+      '<loc>https://jianglens.com/topics/knights-templar/</loc>',
+      '<loc>https://jianglens.com/topics/index/a/</loc>',
+      '<loc>https://jianglens.com/topics/index/aa/</loc>',
+    ]) {
+      if (!htmlSitemap.includes(expected)) {
+        failures.push(`dist/sitemap-0.xml: missing generated topic HTML URL ${expected}`);
+      }
+    }
+    if (topicXmlUrlCount !== topicHtmlPageCount) {
+      failures.push(`dist/sitemap-0.xml: has ${topicXmlUrlCount} topic URLs but generated ${topicHtmlPageCount} topic HTML pages`);
+    }
+  }
+
+  const sitemapIndexPath = path.join(distRoot, 'sitemap-index.xml');
+  if (existsSync(sitemapIndexPath)) {
+    const sitemapIndex = await readFile(sitemapIndexPath, 'utf8');
+    if (!sitemapIndex.includes('<loc>https://jianglens.com/sitemap-0.xml</loc>')) {
+      failures.push('dist/sitemap-index.xml: missing production sitemap-0 URL');
+    }
+  }
+
   const skillHtmlPath = path.join(distRoot, 'skill/index.html');
   if (!existsSync(skillHtmlPath)) {
     failures.push('dist/skill/index.html: missing');
@@ -169,6 +201,9 @@ async function main() {
     }
     if (!home.includes('Read https://jianglens.com/skill/ and analyze this with Jiang Lens')) {
       failures.push('dist/index.html: homepage prompt does not use /skill/');
+    }
+    if (!home.includes('href="./topics/"') || !home.includes('>Topics</a>')) {
+      failures.push('dist/index.html: primary navigation is missing Topics link');
     }
     if (home.includes('<link rel="sitemap" href="https://jianglens.com/sitemap-index.xml">')) {
       failures.push('dist/index.html: still links sitemap-index.xml in head');
