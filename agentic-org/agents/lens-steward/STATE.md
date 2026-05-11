@@ -2,28 +2,16 @@
 
 Plato is intended to be a durable participant. Runtime state should be local and gitignored, while public work lands through scoped PRs.
 
-Live container state path in the current Jiang Lens Docker stack:
+Default workspace state path:
 
 ```text
-/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/state/lens-steward
+./state
 ```
 
-Current host mount used by the episode-worker stack:
+Default host persistence:
 
 ```text
-.runtime/episode-worker/lens-steward/state
-```
-
-Generic container state path when a separate Plato runtime is added:
-
-```text
-/var/lib/spawnfile/instances/picoclaw/agent-lens-steward/picoclaw/state/lens-steward
-```
-
-Recommended host mount:
-
-```text
-.runtime/lens-steward/state
+.runtime/episode-worker/resources
 ```
 
 Files:
@@ -35,7 +23,7 @@ Files:
 Picoclaw cron jobs are stored separately in the persisted workspace cron store:
 
 ```text
-.runtime/episode-worker/lens-steward/cron/jobs.json
+./cron/jobs.json
 ```
 
 State is continuity, not authority. On every wake, verify against git status, current source artifacts, Moltnet room history, validation, and GitHub PR state.

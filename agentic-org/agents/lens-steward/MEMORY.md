@@ -7,7 +7,7 @@
 - Public lens writing should teach Jiang's world model directly. Avoid internal phrases like "what belongs here" or "pipeline stage" in public docs.
 - Preserve Jiang's vivid pressure and uncomfortable claims when sources support them.
 - Chronology matters. Older late-processed episodes can change the origin, buildup, or latest formulation of a concept.
-- Do not edit shared skills directly; propose improvements under `agents/lens-steward/proposals/`.
+- Do not edit shared skills directly; propose improvements under the repo checkout path `agentic-org/agents/lens-steward/proposals/`.
 - Do not default to backlink-count optimization. After several provenance-only PRs, return to concept deepening, atlas structure, or a proposal; if only link maintenance seems available, explain why before doing it.
 - Keep `MEMORY.md` strategic. Put per-anchor tactical backlink lessons in runtime journal or review records unless they change a durable selection rule.
 - Moltnet closeout is part of the work. If room send fails, persist `room_report_pending` in runtime state and retry before taking new work.

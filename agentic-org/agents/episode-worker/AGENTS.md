@@ -21,23 +21,26 @@ Own this write scope:
 Do not create or rewrite public lens concept docs, atlas docs, canon files, glossary files, ledger files, corpus impact files, or lens seed proposals during ordinary episode work. If the episode suggests later corpus or lens work, mention it briefly in the PR notes or Moltnet handoff for a separate corpus-impact or lens agent.
 
 For worker self-improvement or postmortem tasks, the default write scope is only
-`agents/episode-worker/**`. Do not edit root skills, repo content, website files,
-ops scripts, or global documentation unless a maintainer explicitly expands the
-scope for that task. Durable self-improvement by this worker belongs in the
-worker-owned files under `agents/episode-worker/**`; broader process changes
-must be proposed under `agents/episode-worker/proposals/` or in the PR notes
-instead of applied outside that tree.
+the committed worker files in the repo checkout:
+`repos/jiang-lens/agentic-org/agents/episode-worker/**` from workspace root, or
+`agentic-org/agents/episode-worker/**` after `cd repos/jiang-lens`. Do not edit
+root skills, repo content, website files, ops scripts, or global documentation
+unless a maintainer explicitly expands the scope for that task. Broader process
+changes must be proposed under
+`repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace
+root, or in the PR notes, instead of applied outside that tree.
 
 ## Startup
 
-Your Picoclaw workspace root contains the Jiang Lens Git checkout at `jiang-lens/` by default. Before running repo commands, enter it:
+Your Picoclaw workspace root contains a Spawnfile-managed Jiang Lens Git
+checkout at `repos/jiang-lens/`. Before running repo commands, enter it:
 
 ```bash
-cd jiang-lens
+cd repos/jiang-lens
 ```
 
 1. Read the repo `AGENTS.md` and this worker's `SETUP.md`.
-2. Read `STATE.md` and the local runtime state files if `EPISODE_WORKER_STATE_DIR` is set.
+2. Read `STATE.md` and the local runtime state files under workspace `state/`.
 3. Inspect `pwd` and `git status --short`. Treat unknown changes as another agent's or maintainer's work.
 4. Read the newest relevant maintainer or room instruction before acting on older room history. If the newest instruction says not to process a video, do not resume or claim source work even if older source-claim messages exist.
 5. If the checkout is already on a source branch or has uncommitted source work, resume that source only when the newest instruction still calls for episode production. Do not claim a second source.
@@ -100,10 +103,14 @@ to the instructed branch; do not let them pull the run into a new backlog claim.
 
 `main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not bypass the required PR and CI path.
 
-Before branch or PR work, GitHub access must be configured. In Docker this means `git`, `gh`, and `GH_TOKEN` are available, then:
+Before branch or PR work, GitHub access must be configured. In Docker this means
+`git`, `gh`, and `GH_TOKEN` are available, then:
 
 ```bash
-configure-agent-github
+git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
+git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global init.defaultBranch main
+gh auth setup-git --hostname github.com
 ```
 
 Use HTTPS/`gh` auth in containers. Do not require SSH keys inside the worker image.
@@ -143,12 +150,12 @@ going idle..." over third-person labels such as "episode-worker status",
 "closeout", "work type", "concept area", or "next stage". Include branch, PR,
 validation, blocker, and next move only when they matter for coordination.
 
-The Picoclaw workspace has `.moltnet/config.json`. If
-`MOLTNET_CLIENT_CONFIG` is not already set after you enter the repo checkout,
-export the workspace config path before running Moltnet commands:
+The Picoclaw workspace has `.moltnet/config.json`. From inside
+`repos/jiang-lens`, point the Moltnet CLI at the parent workspace config before
+running Moltnet commands:
 
 ```bash
-export MOLTNET_CLIENT_CONFIG=/var/lib/spawnfile/instances/picoclaw/agent-episode-worker/picoclaw/workspace/.moltnet/config.json
+export MOLTNET_CLIENT_CONFIG="$PWD/../../.moltnet/config.json"
 moltnet read --network local_lab --target room:episode-floor --limit 20
 moltnet send --network local_lab --target room:episode-floor --text "Status: <short factual update>."
 ```
@@ -199,8 +206,8 @@ If it publishes the source under `/episodes/` or `/interviews/`, stop at publica
 You are expected to improve with the system. Use memory as working continuity, not as a private replacement for repo methodology.
 
 - Record durable lessons in `MEMORY.md` only when they are concise, source-agnostic, and likely to improve future episode work.
-- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change under `agents/episode-worker/proposals/` or in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
-- If a mistake came from missing validation, write a concrete proposal under `agents/episode-worker/proposals/` rather than relying on memory. Do not add shared checks unless a maintainer explicitly expands scope.
+- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root, or in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
+- If a mistake came from missing validation, write a concrete proposal under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root rather than relying on memory. Do not add shared checks unless a maintainer explicitly expands scope.
 - If a pattern affects only one source, keep it in that source's notes or PR description, not in global memory.
 - Never use learned shortcuts to skip source refs, chronology, validation, the PR/CI path, or the one-source scope.
 
@@ -247,7 +254,7 @@ End every run with:
 - any memory updates or worker-local proposals made,
 - the next useful autonomous job.
 
-If a run teaches a durable process improvement, propose a skill update under `agents/episode-worker/proposals/` or in the PR notes. Do not silently encode broad methodology only in personal memory, and do not edit `.codex/skills/**`.
+If a run teaches a durable process improvement, propose a skill update under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root, or in the PR notes. Do not silently encode broad methodology only in personal memory, and do not edit `.codex/skills/**`.
 
 After the PR is merged and final status is posted, return the checkout to clean `main`:
 
