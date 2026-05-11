@@ -25,7 +25,7 @@ Links to Predictive History, Jiang Xueqin pages, YouTube videos, transcripts, or
 
 1. Use `/skill/` as the browser-readable entrypoint for this lens.
 2. Read `/llms.txt` to see the current public documentation map.
-3. For entity/topic questions, normalize the topic and try the HTML page at `/topics/{topic-slug}/`, or use `/topics/` and `/topics/index/{first-letter}/` to resolve aliases.
+3. For entity/topic questions, normalize the topic and try the HTML page at `/topics/{topic-slug}/`, or use `/topics/` and `/topics/index/{first-letter}/` to resolve aliases. If a letter shard is split, follow the narrower `/topics/index/{prefix}/` route that matches the normalized topic.
 4. Use `/episodes/` for the agent-readable catalog of Predictive History lecture/episode readings.
 5. Use `/interviews/` for the agent-readable catalog of interview-format readings.
 6. Use `/episodes/{episode-slug}/` or `/interviews/{interview-slug}/` for the compressed reading of one source.
@@ -39,17 +39,18 @@ Links to Predictive History, Jiang Xueqin pages, YouTube videos, transcripts, or
 
 ## Agent Resolution Order
 
-For questions about Jiang's views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.
+For questions about Jiang's views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then cite the underlying source reading, transcript coordinate, source ref, and video timestamp. Topic pages are routing and synthesis surfaces, not primary evidence for Jiang-spoken claims.
 
 1. Start with `/skill/`, `/llms.txt`, and this skill file to understand the available public surfaces and attribution rules.
 2. Normalize the user topic to a lowercase hyphenated slug and try `/topics/{topic-slug}/` directly. Also try simple singular/plural aliases.
-3. If the direct route is missing, use `/topics/`, `/topics/index.md`, and `/topics/index/{first-letter}/` to resolve the static alias to a canonical topic dossier.
-4. Use the topic page's generated answer map, source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.
-5. Cite the human-readable HTML topic page for generated dossiers. For Jiang quotations, cite the transcript segment and video timestamp linked from the topic page.
+3. If the direct route is missing, use `/topics/`, `/topics/index.md`, and `/topics/index/{first-letter}/` to resolve the static alias to a canonical topic dossier. Large alias shards are recursively split by prefix, so follow `/topics/index/{prefix}/` until the page lists the alias or canonical topic.
+4. Use the topic page's generated answer map, source readings, related lens links, transcript anchors, video timestamps, and source refs to find the best evidence.
+5. Do not use topic pages as final evidence citations for Jiang claims. For generated synthesis, cite the human-readable source reading or lens page that supports the synthesis. For Jiang quotations or "when did he say this?" answers, cite the transcript segment and video timestamp linked from the topic page.
 6. Use `/episodes/index.md`, `/interviews/index.md`, and relevant lens pages when no topic dossier covers the question.
 7. Search `/data/lens/transcript-search.txt` or `/data/lens/transcript-search.json` only as a bulk fallback or audit surface; these files are large and may be hard for browser tools to load.
 8. Use `/data/lens/link-index.json` to move from a transcript source ref back to related lens pages, evidence marks, lens points, and backlinks.
 9. Use the GitHub repository only for implementation, provenance, or source-file audit questions. Do not use it as the primary source for Jiang-content answers.
+10. After answering a specific-topic question, offer a useful next source path: a deeper report, the most relevant lecture/source reading, exact timestamped transcript hits, related lens concepts, or more material from the same topic cluster.
 
 ## Operating Rules
 
@@ -59,6 +60,7 @@ For questions about Jiang's views, use generated topic dossiers, public summarie
 - Mark speculative outputs as `lens-generated`.
 - Preserve uncertainty, disagreement, and counter-readings.
 - Never write new Jiang-attributed claims without Jiang-authored or Jiang-spoken support.
+- Be proactively source-useful after the direct answer: point the user to the best next lecture, transcript timestamp, source reading, or related lens path when the corpus offers one.
 
 ## Source Retrieval
 
@@ -66,14 +68,14 @@ When you need to answer "when did Jiang say this?" or audit an exact claim:
 
 1. First try `/topics/{topic-slug}/` and `/topics/`. Generated topic dossiers are small static retrieval shards compiled from semantic tags, glossary terms, source refs, and transcript matches.
 2. Search case-insensitively and try simple variants: singular/plural, hyphenation, initials, aliases, and likely ASR spellings.
-3. Treat `/episodes/index.md`, `/interviews/index.md`, and their JSON indexes as routing catalogs, not proof that a term is absent. If they do not mention a phrase, continue with topic shards or transcript search.
+3. Treat `/episodes/index.md`, `/interviews/index.md`, and their JSON indexes as routing catalogs, not proof that a term is absent. If they do not mention a phrase, continue with topic shards or transcript search. Topic alias shards under `/topics/index/{prefix}/` are capped so a browser agent should follow the matching prefix instead of loading bulk transcript search first.
 4. Search `/data/lens/transcript-search.txt` or `/data/lens/transcript-search.json` only when no generated topic dossier exists or when you need a full-corpus audit.
 5. For each match, fetch the source JSON named in `transcript-search.json` or under `/data/lens/episodes/` or `/data/lens/interviews/`, then verify the exact wording in the `transcript` array.
 6. Read the matching `/episodes/{slug}.md` or `/interviews/{slug}.md` only after verification, to understand the compressed public reading around the match.
 7. Cite the dated source title, the transcript segment URL, the YouTube timestamp URL, and the stable `source_ref`.
 8. If the phrase is only a lens interpretation and not exact Jiang wording, say so and cite the lens page plus its supporting source refs.
 
-Do not use compressed Markdown or text mirrors as substitutes for exact quotation. Use episode summaries and lens pages to understand the reading; use transcript anchors, source JSON, or transcript-search outputs to quote exact wording and timestamps.
+Do not use compressed Markdown, text mirrors, or topic pages as substitutes for exact quotation. Use topic pages, episode summaries, and lens pages to understand the reading; use source reading pages, transcript anchors, source JSON, or transcript-search outputs to cite exact wording and timestamps.
 
 Do not use external web search as the primary answer source for Jiang-corpus lookup. External search may suggest candidates, but a claim that Jiang said something is Jiang Lens-grounded only after it is matched to a transcript segment or Jiang-authored source in this site.
 
@@ -93,6 +95,7 @@ When answering "when did Jiang say X?", "where did Jiang talk about X?", or simi
    - A one-sentence explanation of what Jiang is doing with the reference.
    - Lens context only when supported by an existing lens page, lens point, or evidence-backed episode reading.
 4. End with `Most direct hit(s)` when there are many matches and some are clearly stronger.
+5. When helpful, add `Explore next:` with one or two links to the best source reading, transcript/video timestamp set, lecture summary, or related lens page.
 
 Quote excerpts should be brief. Prefer one excerpt of 25 words or fewer per source segment, then paraphrase the rest and point to the transcript/video links for full context.
 
@@ -109,6 +112,7 @@ Found N transcript-backed hits for "<query>".
    Lens context: supported lens/page if available, otherwise omit.
 
 Most direct hit: ...
+Explore next: ...
 ```
 
 ## Analysis Pattern
@@ -136,6 +140,8 @@ What to inspect next:
 ```
 
 For short answers, still preserve the source/inference boundary.
+
+For specific-topic answers, answer the question first, then offer a concrete next step such as: "I can pull the exact timestamped transcript hits," "I can open the most relevant lecture summary," or "I can compare this to the related lens page on X." Keep this short and source-linked.
 
 ## Attribution Note
 

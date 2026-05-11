@@ -1,13 +1,15 @@
 ---
+import { readFile } from 'node:fs/promises';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import IconLinks from '../components/IconLinks.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import { absoluteUrl, siteConfig } from '../../site.config.mjs';
 
 const title = 'Jiang Lens Skill | Agent Instructions';
-const description = 'HTML-first Jiang Lens operating instructions for agents using topics, source readings, transcript anchors, and citation-safe mirrors.';
+const description = 'HTML-first Jiang Lens skill with the full canonical instruction text, topic routes, source readings, transcript anchors, and citation-safe mirrors.';
 const canonicalUrl = absoluteUrl(siteConfig.paths.skillPage);
 const promptText = `Read ${canonicalUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
+const skillMarkdown = await readFile('public/skill.md', 'utf8');
 const topicExamples = [
   ['Knights Templar / templars', '/topics/knights-templar/'],
   ['Trump', '/topics/trump/'],
@@ -193,6 +195,22 @@ const topicExamples = [
         font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
       }
 
+      .skill-source {
+        display: block;
+        width: 100%;
+        max-height: none;
+        margin: 12px 0 0;
+        overflow-x: auto;
+        white-space: pre-wrap;
+        overflow-wrap: anywhere;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 18px;
+        color: var(--ink);
+        background: rgba(0, 0, 0, 0.24);
+        font: 0.88rem/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      }
+
       @media (max-width: 820px) {
         .grid,
         .routes {
@@ -208,12 +226,20 @@ const topicExamples = [
         <p class="eyebrow">Agent entrypoint</p>
         <h1>Use Jiang Lens Without Losing The Sources</h1>
         <p class="lead">
-          This page is the browser-safe entrypoint for ChatGPT, Claude, Grok, DeepSeek, Perplexity, and other assistants. Use HTML pages first, then use text, Markdown, JSON, and transcript-search files only as fallbacks or audit surfaces.
+          This page is the browser-safe entrypoint for ChatGPT, Claude, Grok, DeepSeek, Perplexity, and other assistants. Use HTML pages first. The canonical skill text is embedded below in full, then the route cards expose the highest-signal HTML pages and fallback mirrors.
         </p>
         <div class="prompt">
           <code>{promptText}</code>
         </div>
       </div>
+
+      <section style="margin-top: 34px;">
+        <h2>Canonical Skill Content</h2>
+        <p>
+          The block below is the exact Jiang Lens skill. Agents should read and follow this content before answering.
+        </p>
+        <pre class="skill-source">{skillMarkdown}</pre>
+      </section>
 
       <div class="grid" aria-label="Core agent rules">
         <section class="panel">
@@ -222,7 +248,7 @@ const topicExamples = [
             <li>Start here at <code>/skill/</code> for identity, attribution, and citation rules.</li>
             <li>Use the HTML topic router at <a href="/topics/"><code>/topics/</code></a> for entity and topic questions.</li>
             <li>Open the canonical HTML topic page, such as <a href="/topics/knights-templar/"><code>/topics/knights-templar/</code></a>.</li>
-            <li>Use transcript anchors and video timestamps inside the topic page for exact Jiang quotations.</li>
+            <li>Use the topic page to find source readings, transcript anchors, source refs, and video timestamps.</li>
             <li>Use <code>.txt</code>, <code>.md</code>, JSON, and bulk transcript-search only when HTML routes are missing or blocked.</li>
           </ol>
         </section>
@@ -230,7 +256,7 @@ const topicExamples = [
         <section class="panel">
           <h2>Citation Rule</h2>
           <p>
-            Cite human-readable HTML pages for Jiang Lens generated topic dossiers and source readings. For claims attributed to Jiang, cite the transcript segment and video timestamp linked from the page. Do not cite <code>.txt</code> mirrors unless no HTML route is available.
+            Topic pages are discovery surfaces, not primary evidence for what Jiang said. Cite human-readable source readings for generated summaries and lens context. For claims attributed to Jiang, cite the transcript segment, source ref, and video timestamp linked from the topic page. Do not cite <code>.txt</code> mirrors unless no HTML route is available.
           </p>
         </section>
 
@@ -247,7 +273,7 @@ const topicExamples = [
         <div class="routes">
           <a class="route" href="/topics/">
             Topic router
-            <span>Use first for topic lookup and aliases.</span>
+            <span>Use first for lookup; cite the underlying sources it links.</span>
           </a>
           <a class="route" href="/episodes/">
             Episode readings
