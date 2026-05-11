@@ -2406,6 +2406,38 @@ function publicSitemapPath(filePath) {
   return `/${rel}`;
 }
 
+function escapeXml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+async function generateHtmlSitemap() {
+  const files = await collectAgentSitemapPaths(distRoot, (filePath) => path.basename(filePath) === 'index.html');
+  const urls = [...new Set(files.map((file) => urlFor(publicSitemapPath(file))))].sort();
+  const urlset = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...urls.map((url) => `  <url><loc>${escapeXml(url)}</loc></url>`),
+    '</urlset>',
+    '',
+  ].join('\n');
+  const sitemapIndex = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    `  <sitemap><loc>${escapeXml(urlFor('/sitemap-0.xml'))}</loc></sitemap>`,
+    '</sitemapindex>',
+    '',
+  ].join('\n');
+
+  await writeFile(path.join(distRoot, 'sitemap-0.xml'), urlset);
+  await writeFile(path.join(distRoot, 'sitemap-index.xml'), sitemapIndex);
+  return { count: urls.length };
+}
+
 async function generateAgentSitemap() {
   const priorityPaths = [
     '/',
@@ -2794,8 +2826,9 @@ async function main() {
   await writeFile(path.join(distRoot, 'llms.txt'), indexLines.join('\n'));
   await writeFile(path.join(distRoot, 'llms-full.txt'), fullLines.join('\n'));
   const agentSitemap = await generateAgentSitemap();
+  const htmlSitemap = await generateHtmlSitemap();
 
-  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards, ${topicShards?.aliases ?? 0} topic aliases, ${topicShards?.htmlPages ?? 0} topic HTML pages, ${agentSitemap.count} agent sitemap URLs, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards, ${topicShards?.aliases ?? 0} topic aliases, ${topicShards?.htmlPages ?? 0} topic HTML pages, ${agentSitemap.count} agent sitemap URLs, ${htmlSitemap.count} HTML sitemap URLs, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
 }
 
 main().catch((error) => {
