@@ -116,7 +116,17 @@ async function main() {
       '<link rel="alternate" type="text/plain" href="https://jianglens.com/skill.txt"',
       '<link rel="alternate" type="text/markdown" href="https://jianglens.com/skill.md"',
       'Use HTML pages first',
+      'Canonical Skill Content',
+      'The block below is the exact Jiang Lens skill.',
+      'name: jiang-lens',
+      'Use this skill to apply the Jiang Lens as a source-grounded interpretive frame.',
+      'Topic pages are routing and synthesis surfaces, not primary evidence for Jiang-spoken claims.',
+      'Do not use topic pages as final evidence citations for Jiang claims.',
+      'Explore next:',
+      '## Corpus Lookup Output',
+      '## Output Shape',
       'Do not cite <code',
+      'Topic pages are discovery surfaces, not primary evidence for what Jiang said.',
       '.txt</code> mirrors unless no HTML route is available',
       'Read https://jianglens.com/skill/ and analyze this with Jiang Lens',
     ]) {
@@ -133,10 +143,12 @@ async function main() {
     const skill = await readFile(skillPath, 'utf8');
     for (const expected of [
       '## Corpus Lookup Output',
+      'Do not use topic pages as final evidence citations for Jiang claims.',
       'Timestamp link using `video_url`',
       'Transcript link using `transcript_url`',
       'Stable `source_ref`',
       'Quote excerpts should be brief',
+      'Explore next:',
     ]) {
       if (!skill.includes(expected)) {
         failures.push(`dist/skill.md: missing corpus lookup instruction ${expected}`);
@@ -317,7 +329,8 @@ async function main() {
       'https://jianglens.com/topics/index.txt',
       'https://jianglens.com/sitemap-agent.txt',
       'Knights Templar / templars',
-      'Do not cite .txt mirrors unless no HTML page is available',
+      'Topic pages are routing and synthesis surfaces, not primary evidence for Jiang-spoken claims',
+      'After answering, offer one useful next source path',
     ]) {
       if (!llms.includes(expected)) {
         failures.push(`dist/llms.txt: missing ${expected}`);
@@ -331,10 +344,76 @@ async function main() {
     for (const expected of [
       '# Jiang Lens Topic Router',
       'Try `/topics/{normalized-topic}/` directly',
+      'cite source readings, transcript anchors, source refs, and video timestamps in final answers',
       'https://jianglens.com/topics/index/k.txt',
     ]) {
       if (!topicIndex.includes(expected)) {
         failures.push(`dist/topics/index.txt: missing ${expected}`);
+      }
+    }
+  }
+
+  const topicIndexHtmlPath = path.join(distRoot, 'topics/index.html');
+  if (existsSync(topicIndexHtmlPath)) {
+    const topicIndexHtml = await readFile(topicIndexHtmlPath, 'utf8');
+    for (const expected of [
+      '<span>Jiang Lens</span>',
+      'Topic router',
+      'Top Ranked Topics',
+      'Score ',
+      'What Counts As A Topic',
+      'mechanically generated evidence bundle',
+      'Browse By Letter',
+      'Use this static router to resolve a user topic',
+      'final citations should point to source readings, transcript anchors, source refs, and video timestamps',
+    ]) {
+      if (!topicIndexHtml.includes(expected)) {
+        failures.push(`dist/topics/index.html: missing structured topic router HTML ${expected}`);
+      }
+    }
+    if (topicIndexHtml.includes('<pre># Jiang Lens Topic Router')) {
+      failures.push('dist/topics/index.html: still renders the topic router as raw preformatted Markdown');
+    }
+  }
+
+  const topicShardAHtmlPath = path.join(distRoot, 'topics/index/a/index.html');
+  if (existsSync(topicShardAHtmlPath)) {
+    const topicShardAHtml = await readFile(topicShardAHtmlPath, 'utf8');
+    for (const expected of [
+      'Topic Router: A',
+      'Narrow By Prefix',
+      'prefix shards',
+      'Search prefix shards or exact aliases',
+    ]) {
+      if (!topicShardAHtml.includes(expected)) {
+        failures.push(`dist/topics/index/a/index.html: missing split alias shard HTML ${expected}`);
+      }
+    }
+  }
+
+  const topicShardAiHtmlPath = path.join(distRoot, 'topics/index/ai/index.html');
+  if (existsSync(topicShardAiHtmlPath)) {
+    const topicShardAiHtml = await readFile(topicShardAiHtmlPath, 'utf8');
+    for (const expected of [
+      'Topic Router: ai',
+      'visible aliases',
+      'Search aliases or canonical topics',
+      'Topic brief',
+    ]) {
+      if (!topicShardAiHtml.includes(expected)) {
+        failures.push(`dist/topics/index/ai/index.html: missing capped alias leaf HTML ${expected}`);
+      }
+    }
+  }
+
+  const topicShardDir = path.join(distRoot, 'topics/index');
+  if (existsSync(topicShardDir)) {
+    const shardFiles = await readdir(topicShardDir);
+    for (const file of shardFiles.filter((entry) => entry.endsWith('.txt'))) {
+      const shardText = await readFile(path.join(topicShardDir, file), 'utf8');
+      const aliasRows = shardText.split('\n').filter((line) => line.includes(' -> ')).length;
+      if (aliasRows > 50) {
+        failures.push(`dist/topics/index/${file}: has ${aliasRows} alias rows; capped shards should stay at 50 or fewer`);
       }
     }
   }
@@ -344,10 +423,11 @@ async function main() {
     const templarTopic = await readFile(templarTopicPath, 'utf8');
     for (const expected of [
       '# Topic: Knights Templar',
-      '## Generated Answer Map',
+      '## What This Topic Covers',
+      '## Extracted Topic Notes',
       '## Quoted Transcript Hits',
-      'Human citation page: [/topics/knights-templar/]',
-      'Citation rule: do not cite this .txt/.md mirror when a human-readable page exists',
+      'Human topic page: [/topics/knights-templar/]',
+      'Do not cite the topic page as primary evidence for what Jiang said',
       'multinational banking and trade organization',
       'https://jianglens.com/episodes/predictive-history-3751zjwmrbw/transcript/#seg-0034',
       'video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034',
@@ -355,6 +435,35 @@ async function main() {
       if (!templarTopic.includes(expected)) {
         failures.push(`dist/topics/knights-templar.txt: missing ${expected}`);
       }
+    }
+  }
+
+  const templarTopicHtmlPath = path.join(distRoot, 'topics/knights-templar/index.html');
+  if (existsSync(templarTopicHtmlPath)) {
+    const templarTopicHtml = await readFile(templarTopicHtmlPath, 'utf8');
+    for (const expected of [
+      '<span>Jiang Lens</span>',
+      'hero-inner',
+      'hero-topline',
+      'Topic brief',
+      'timestamped hits',
+      'Aliases:',
+      'Best source reading',
+      'Search this topic',
+      'Key Notes',
+      'Timestamped Evidence',
+      'data-source-ref=',
+      'Transcript seg-',
+      'YouTube',
+      'Relevant Lectures And Readings',
+      'How To Use And Cite This Page',
+    ]) {
+      if (!templarTopicHtml.includes(expected)) {
+        failures.push(`dist/topics/knights-templar/index.html: missing structured topic HTML ${expected}`);
+      }
+    }
+    if (templarTopicHtml.includes('<pre>---')) {
+      failures.push('dist/topics/knights-templar/index.html: still renders the topic dossier as raw preformatted Markdown');
     }
   }
 

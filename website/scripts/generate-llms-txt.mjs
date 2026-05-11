@@ -22,6 +22,7 @@ const topicIndexOutRoot = path.join(topicOutRoot, 'index');
 const publicSkillPath = path.join(websiteRoot, 'public/skill.md');
 const origin = configuredOrigin();
 const basePath = configuredBasePath();
+const TOPIC_ALIAS_SHARD_LIMIT = 50;
 
 const topicStopwords = new Set([
   'a',
@@ -292,6 +293,25 @@ function publicPath(pathname) {
   return urlFor(pathname);
 }
 
+function htmlHref(href) {
+  if (!href || href.startsWith('#') || href.startsWith('mailto:')) return href;
+  if (/^https?:\/\//.test(href)) {
+    try {
+      const parsed = new URL(href);
+      const siteOrigin = new URL(origin);
+      if (parsed.origin === siteOrigin.origin) {
+        return `${parsed.pathname}${parsed.search}${parsed.hash}`;
+      }
+    } catch {
+      return href;
+    }
+    return href;
+  }
+
+  if (!href.startsWith('/')) return href;
+  return basePath ? `${basePath}${href}` : href;
+}
+
 function escapeHtml(value) {
   return String(value ?? '')
     .replace(/&/g, '&amp;')
@@ -313,7 +333,7 @@ function renderPlainArtifactHtml({ title, description, canonicalPath, body, alte
     .filter((alternate) => alternate?.path)
     .map((alternate) => {
       const href = publicPath(alternate.path);
-      return `<a href="${escapeHtml(href)}">${escapeHtml(alternate.title || alternate.path)}</a>`;
+      return `<a href="${escapeHtml(htmlHref(href))}">${escapeHtml(alternate.title || alternate.path)}</a>`;
     })
     .join('\n        ');
 
@@ -346,6 +366,306 @@ ${alternateLinks.join('\n')}
       </nav>` : ''}
       <pre>${escapeHtml(body)}</pre>
     </main>
+  </body>
+</html>
+`;
+}
+
+function generatedAlternateHead(alternates = []) {
+  return alternates
+    .filter((alternate) => alternate?.path)
+    .map((alternate) => {
+      const href = publicPath(alternate.path);
+      const titleAttr = alternate.title ? ` title="${escapeHtml(alternate.title)}"` : '';
+      return `    <link rel="alternate" type="${escapeHtml(alternate.type)}" href="${escapeHtml(href)}"${titleAttr}>`;
+    })
+    .join('\n');
+}
+
+function generatedAlternateLinks(alternates = []) {
+  return alternates
+    .filter((alternate) => alternate?.path)
+    .map((alternate) => {
+      const href = publicPath(alternate.path);
+      return `<a href="${escapeHtml(htmlHref(href))}">${escapeHtml(alternate.title || alternate.path)}</a>`;
+    })
+    .join('');
+}
+
+function searchData(parts = []) {
+  return escapeHtml(parts.flat().filter(Boolean).join(' '));
+}
+
+function sourceRefChips(refs = [], limit = 4) {
+  const values = [...refs].filter(Boolean).slice(0, limit);
+  if (!values.length) return '';
+  const refIndex = sourceRefIndex();
+  const transcriptRefs = transcriptRefIndex();
+  return `<div class="source-links"><span class="source-label">Sources:</span>${values.map((ref) => {
+    const detail = refIndex.get(ref) || transcriptRefs.get(ref);
+    if (!detail?.valid) {
+      return `<span class="ref-group" data-source-ref="${escapeHtml(ref)}"><span class="ref-pill" title="${escapeHtml(ref)}">Source ref</span></span>`;
+    }
+
+    const transcriptUrl = publicPath(detail.transcript_url);
+    const readingUrl = publicPath(detail.episode_url || detail.source_url || '');
+    const videoUrl = detail.video_url || '';
+    const segmentLabel = detail.segment_id ? `Transcript ${detail.segment_id}` : 'Transcript';
+    const timeLabel = detail.time_label ? `YouTube ${detail.time_label}` : 'YouTube timestamp';
+    return `<span class="ref-group" data-source-ref="${escapeHtml(ref)}">
+      ${htmlAnchor(readingUrl, 'Reading', 'ref-pill', { title: 'Human-readable source reading', 'aria-label': `Human-readable source reading for ${ref}` })}
+      <span class="source-sep" aria-hidden="true">|</span>
+      ${htmlAnchor(transcriptUrl, 'Transcript', 'ref-pill', { title: segmentLabel, 'aria-label': `${segmentLabel} for ${ref}` })}
+      ${videoUrl ? `<span class="source-sep" aria-hidden="true">|</span>${htmlAnchor(videoUrl, 'YouTube', 'ref-pill yt', { title: timeLabel, 'aria-label': `${timeLabel} for ${ref}` })}` : ''}
+    </span>`;
+  }).join('')}</div>`;
+}
+
+function htmlAnchor(href, label, className = '', attrs = {}) {
+  if (!href) return '';
+  const classAttr = className ? ` class="${escapeHtml(className)}"` : '';
+  const anchorHref = htmlHref(href);
+  const attrText = Object.entries(attrs)
+    .filter(([, value]) => value !== undefined && value !== null && value !== '')
+    .map(([key, value]) => ` ${key}="${escapeHtml(value)}"`)
+    .join('');
+  return `<a${classAttr} href="${escapeHtml(anchorHref)}"${attrText}>${escapeHtml(label)}</a>`;
+}
+
+function generatedTopicShell({ title, description, canonicalPath, alternates = [], active = 'topics', content }) {
+  const canonicalUrl = publicPath(canonicalPath);
+  const alternateHead = generatedAlternateHead(alternates);
+  const alternateLinks = generatedAlternateLinks(alternates);
+  const navItems = [
+    ['Home', '/'],
+    ['Lens', '/lens/'],
+    ['Episodes', '/episodes/'],
+    ['Interviews', '/interviews/'],
+    ['Topics', '/topics/'],
+    ['Skill', '/skill/'],
+  ];
+  const navHtml = navItems
+    .map(([label, href]) => `<a href="${href}"${active === label.toLowerCase() ? ' aria-current="page"' : ''}>${label}</a>`)
+    .join('');
+
+  return `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>${escapeHtml(title)}</title>
+    <meta name="description" content="${escapeHtml(description)}">
+    <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+${alternateHead}
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090a08;
+        --panel: rgba(244, 234, 216, 0.045);
+        --panel-strong: rgba(244, 234, 216, 0.075);
+        --ink: #f4ead8;
+        --soft: #d7ccbb;
+        --muted: #9e9585;
+        --line: rgba(244, 234, 216, 0.14);
+        --line-strong: rgba(244, 234, 216, 0.28);
+        --gold: #c9a765;
+        --rust: #c85a37;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--soft); }
+      a { color: var(--gold); text-underline-offset: 0.22em; }
+      .site-header { position: sticky; top: 0; z-index: 20; border-bottom: 1px solid var(--line); background: rgba(9, 10, 8, 0.92); backdrop-filter: blur(16px); }
+      .site-nav { width: min(1360px, calc(100% - 36px)); min-height: 64px; display: flex; align-items: center; justify-content: space-between; gap: 18px; margin: 0 auto; }
+      .brand { display: inline-flex; align-items: center; gap: 12px; color: var(--ink); font-weight: 760; text-decoration: none; }
+      .brand-mark { width: 34px; height: 34px; display: block; border: 1px solid var(--line-strong); border-radius: 6px; background: #050505; overflow: hidden; }
+      .brand-mark img { width: 100%; height: 100%; display: block; object-fit: cover; }
+      .nav-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px; }
+      .nav-links a { border-radius: 5px; color: var(--soft); font-size: 0.88rem; font-weight: 690; padding: 8px 10px; text-decoration: none; }
+      .nav-links a:hover, .nav-links a:focus-visible, .nav-links a[aria-current="page"] { background: rgba(244, 234, 216, 0.07); color: var(--ink); outline: none; }
+      main { width: min(1180px, calc(100% - 36px)); margin: 0 auto; padding: 0 0 64px; }
+      .hero { width: 100vw; margin-left: calc(50% - 50vw); margin-right: calc(50% - 50vw); border-bottom: 1px solid var(--line); padding: 30px 0 26px; }
+      .hero-inner { width: min(1180px, calc(100% - 36px)); margin: 0 auto; }
+      .router-hero { padding: 22px 0 22px; }
+      .router-hero h1 { font-size: clamp(2.2rem, 4.8vw, 4.1rem); }
+      .router-hero .topic-summary { max-width: 760px; margin-top: 8px; font-size: clamp(1rem, 1.25vw, 1.16rem); }
+      .router-hero .toolbar { margin-top: 14px; }
+      .hero-topline { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin-bottom: 10px; }
+      .eyebrow { margin: 0; color: var(--gold); font-size: 0.78rem; font-weight: 780; text-transform: uppercase; letter-spacing: 0.04em; }
+      h1, h2, h3 { color: var(--ink); font-family: Georgia, "Times New Roman", serif; font-weight: 560; letter-spacing: 0; }
+      h1 { margin: 0; font-size: clamp(2.4rem, 5.5vw, 4.8rem); line-height: 0.94; }
+      h2 { margin: 0 0 14px; font-size: clamp(1.35rem, 2.3vw, 2rem); }
+      h3 { margin: 0; font-size: 1.1rem; line-height: 1.25; }
+      p { line-height: 1.6; }
+      .lead { max-width: 720px; margin: 8px 0 18px; color: var(--muted); font-size: 0.82rem; line-height: 1.45; }
+      .topic-summary { max-width: 900px; margin: 14px 0 0; color: var(--ink); font-size: clamp(1.08rem, 1.6vw, 1.32rem); line-height: 1.52; }
+      .toolbar, .stats, .actions, .chips { display: flex; flex-wrap: wrap; gap: 10px; }
+      .toolbar { margin-top: 18px; }
+      .stats { margin-top: 22px; }
+      .hero-meta { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; }
+      .hero-meta span { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; color: var(--muted); font-size: 0.78rem; }
+      .hero-meta .alias-meta { max-width: 100%; color: var(--soft); }
+      .stat, .chip, .button { border: 1px solid var(--line); border-radius: 6px; background: var(--panel); }
+      .stat { min-width: 132px; padding: 10px 12px; }
+      .stat strong { display: block; color: var(--ink); font-size: 1.2rem; }
+      .stat span { color: var(--muted); font-size: 0.82rem; }
+      .button { min-height: 38px; display: inline-flex; align-items: center; justify-content: center; padding: 0 12px; color: var(--ink); font-size: 0.88rem; font-weight: 740; text-decoration: none; }
+      .button.primary { border-color: var(--ink); background: var(--ink); color: #11100e; }
+      .button.source { border-color: rgba(201, 167, 101, 0.52); color: var(--gold); }
+      .button.small { min-height: 30px; border-radius: 5px; padding: 0 9px; font-size: 0.78rem; }
+      .section { margin-top: 30px; }
+      .panel, .card { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+      .panel { padding: 20px; }
+      .grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 14px; }
+      .card { grid-column: span 6; padding: 18px; }
+      .card.full { grid-column: 1 / -1; }
+      .card p { margin: 10px 0 0; }
+      .meta { color: var(--muted); font-size: 0.86rem; }
+      .quote { margin: 14px 0 0; border-left: 3px solid var(--gold); padding-left: 14px; color: var(--ink); }
+      .controls { margin-top: 24px; }
+      .search-field { position: relative; max-width: 900px; }
+      .search-field label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+      .search-field input { width: 100%; min-height: 42px; border: 1px solid var(--line); border-radius: 6px; padding: 0 78px 0 13px; color: var(--ink); font: inherit; font-size: 0.92rem; background: var(--panel); outline: none; }
+      .search-field input::placeholder { color: rgba(209, 198, 180, 0.58); }
+      .search-field input:focus { border-color: rgba(201, 167, 101, 0.54); box-shadow: 0 0 0 3px rgba(201, 167, 101, 0.1); }
+      .clear-search { position: absolute; top: 50%; right: 7px; min-height: 28px; display: none; align-items: center; border: 1px solid var(--line); border-radius: 4px; padding: 0 8px; color: var(--muted); font: inherit; font-size: 0.76rem; font-weight: 720; background: rgba(9, 10, 8, 0.72); cursor: pointer; transform: translateY(-50%); }
+      .clear-search.is-visible { display: inline-flex; }
+      .clear-search:hover, .clear-search:focus-visible { border-color: rgba(201, 167, 101, 0.54); color: var(--ink); outline: none; }
+      .results-row { margin: 10px 0 0; color: var(--muted); font-size: 0.86rem; }
+      .empty-state { display: none; margin: 18px 0 0; color: var(--muted); }
+      .empty-state.is-visible { display: block; }
+      .note-list, .evidence-list, .source-list { display: grid; gap: 7px; }
+      .note-row, .evidence-card, .source-row { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+      .note-row, .source-row { padding: 10px 12px; }
+      .note-main, .source-row-main, .evidence-head { display: block; }
+      .note-copy p, .source-copy p { margin: 4px 0 0; line-height: 1.42; }
+      .note-copy h3, .source-copy h3, .evidence-title-line h3 { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.96rem; font-weight: 760; line-height: 1.25; }
+      .row-title-line, .evidence-title-line { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+      .title-meta { min-width: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+      .row-title-line h3, .evidence-title-line h3 { margin: 0; }
+      .row-title-line .meta, .evidence-title-line .meta { margin: 0; font-size: 0.78rem; }
+      .type-badge { flex: 0 0 auto; display: inline-flex; align-items: center; width: max-content; max-width: 150px; min-height: 20px; border: 1px solid rgba(201, 167, 101, 0.38); border-radius: 999px; padding: 0 7px; color: var(--gold); background: rgba(201, 167, 101, 0.08); font-size: 0.59rem; font-weight: 820; letter-spacing: 0.04em; text-transform: uppercase; white-space: nowrap; }
+      .evidence-card { padding: 10px 12px; }
+      .evidence-card .quote { max-width: 100%; margin-top: 5px; padding-left: 9px; font-size: 0.9rem; line-height: 1.4; }
+      .source-links { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; margin-top: 6px; color: var(--muted); font-size: 0.76rem; }
+      .source-label { color: var(--muted); font-weight: 730; }
+      .ref-group { display: inline-flex; flex-wrap: nowrap; gap: 0; align-items: center; border: 1px solid var(--line); border-radius: 999px; background: rgba(0, 0, 0, 0.18); overflow: hidden; }
+      .source-sep { color: rgba(215, 204, 187, 0.36); font-size: 0.74rem; }
+      .ref-pill { min-height: 25px; display: inline-flex; align-items: center; border: 0; padding: 0 8px; color: var(--soft); background: transparent; font-size: 0.74rem; font-weight: 720; text-decoration: none; white-space: nowrap; }
+      .ref-pill:hover, .ref-pill:focus-visible { border-color: rgba(201, 167, 101, 0.58); color: var(--ink); outline: none; }
+      .ref-pill.yt { color: var(--gold); }
+      .lens-group .ref-pill { color: var(--gold); }
+      code { border: 1px solid var(--line); border-radius: 4px; padding: 2px 5px; background: rgba(0, 0, 0, 0.22); color: var(--soft); font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.82em; }
+      .chip { display: inline-flex; align-items: center; min-height: 32px; padding: 0 10px; color: var(--soft); font-size: 0.88rem; text-decoration: none; }
+      .chip.compact { min-height: 26px; padding: 0 8px; font-size: 0.76rem; }
+      .chip:hover, .chip:focus-visible, .chip[aria-current="page"] { border-color: var(--gold); color: var(--ink); outline: none; }
+      .chip[aria-current="page"] { background: rgba(201, 167, 101, 0.1); }
+      .letter-links { gap: 6px; }
+      .letter-links .chip { gap: 6px; }
+      .letter-links strong { color: var(--ink); }
+      .letter-links span { color: var(--muted); }
+      .router-letters { margin-top: 22px; }
+      .prefix-links { align-items: flex-start; gap: 7px; margin-top: 0; }
+      .prefix-chip { min-height: 34px; gap: 8px; padding: 0 10px; }
+      .prefix-chip strong { font-size: 0.86rem; }
+      .prefix-chip span { font-size: 0.74rem; }
+      .alias-arrow { color: var(--muted); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.88rem; }
+      .letter-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(112px, 1fr)); gap: 10px; }
+      .letter-card { border: 1px solid var(--line); border-radius: 8px; padding: 14px; background: var(--panel); text-decoration: none; }
+      .letter-card strong { display: block; color: var(--ink); font-size: 1.4rem; }
+      .letter-card span { color: var(--muted); font-size: 0.82rem; }
+      .alias-table { width: 100%; border-collapse: collapse; overflow-wrap: anywhere; }
+      .alias-table th, .alias-table td { border-bottom: 1px solid var(--line); padding: 10px 8px; text-align: left; vertical-align: top; }
+      .alias-table th { color: var(--ink); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
+      .footer { margin-top: 42px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.88rem; }
+      .footer .alternates { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
+      @media (max-width: 820px) {
+        .site-nav { width: min(100% - 28px, 1360px); align-items: flex-start; flex-direction: column; padding: 12px 0; }
+        .nav-links { justify-content: flex-start; }
+        main { width: min(100% - 28px, 1180px); }
+        .hero-inner { width: min(100% - 28px, 1180px); }
+        .note-main, .source-row-main, .evidence-head { grid-template-columns: 1fr; gap: 7px; }
+        .row-title-line, .evidence-title-line { align-items: flex-start; flex-wrap: wrap; }
+        .type-badge { max-width: 100%; }
+        .source-links { align-items: flex-start; }
+        .ref-group { max-width: 100%; flex-wrap: wrap; border-radius: 6px; }
+        .ref-pill { white-space: normal; }
+        .card { grid-column: 1 / -1; }
+        .alias-table { display: block; overflow-x: auto; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a class="brand" href="/" aria-label="Jiang Lens home">
+          <span class="brand-mark" aria-hidden="true"><img src="/logo.png" alt=""></span>
+          <span>Jiang Lens</span>
+        </a>
+        <div class="nav-links">${navHtml}</div>
+      </nav>
+    </header>
+    <main>
+      ${content}
+      <footer class="footer">
+        <div>Jiang Lens is an independent research index. Generated topic pages are routing and synthesis surfaces; cite source readings, transcript anchors, source refs, and timestamps for Jiang claims.</div>
+        ${alternateLinks ? `<div class="alternates">${alternateLinks}</div>` : ''}
+      </footer>
+    </main>
+    <script>
+      (() => {
+        const searchInput = document.querySelector('[data-topic-search-input]');
+        if (!(searchInput instanceof HTMLInputElement)) return;
+        const clearButton = document.querySelector('[data-clear-search]');
+        const items = Array.from(document.querySelectorAll('[data-topic-item]'));
+        const resultCount = document.querySelector('[data-results-count]');
+        const resultLabel = resultCount?.getAttribute('data-results-label') || 'evidence items';
+        const emptyState = document.querySelector('[data-empty-state]');
+
+        function normalized(value) {
+          return String(value || '').trim().toLowerCase();
+        }
+
+        function updateQueryParam(query) {
+          const url = new URL(window.location.href);
+          if (query) {
+            url.searchParams.set('q', query);
+          } else {
+            url.searchParams.delete('q');
+          }
+          window.history.replaceState({}, '', url.pathname + url.search + url.hash);
+        }
+
+        function filterItems() {
+          const query = normalized(searchInput.value);
+          let visible = 0;
+          items.forEach((item) => {
+            const matches = !query || String(item.getAttribute('data-topic-search') || '').toLowerCase().includes(query);
+            item.hidden = !matches;
+            if (matches) visible += 1;
+          });
+          if (resultCount) {
+            resultCount.textContent = query
+              ? 'Showing ' + visible + ' of ' + items.length + ' ' + resultLabel
+              : 'Showing ' + items.length + ' ' + resultLabel;
+          }
+          emptyState?.classList.toggle('is-visible', visible === 0);
+          clearButton?.classList.toggle('is-visible', Boolean(query));
+          updateQueryParam(query);
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        searchInput.value = params.get('q') || '';
+        searchInput.addEventListener('input', filterItems);
+        clearButton?.addEventListener('click', () => {
+          searchInput.value = '';
+          searchInput.focus();
+          filterItems();
+        });
+        filterItems();
+      })();
+    </script>
   </body>
 </html>
 `;
@@ -495,7 +815,7 @@ function relatedLinksForRef(ref, extension = 'txt') {
   }
 
   const seen = new Set();
-  return candidates
+  const unique = candidates
     .map((item) => ({
       label: item.label,
       href: item.href ? internalArtifactHref(item.href, extension) : '',
@@ -505,7 +825,14 @@ function relatedLinksForRef(ref, extension = 'txt') {
       if (seen.has(item.href)) return false;
       seen.add(item.href);
       return true;
-    })
+    });
+
+  const basesWithAnchors = new Set(unique
+    .filter((item) => item.href.includes('#'))
+    .map((item) => item.href.split('#')[0]));
+
+  return unique
+    .filter((item) => item.href.includes('#') || !basesWithAnchors.has(item.href.split('#')[0]))
     .slice(0, 3);
 }
 
@@ -1094,7 +1421,7 @@ function addTopicTranscriptHit(topic, segment, sourceBySlug, reason = 'alias-mat
   hit.reason = reason;
   hit.matchedAlias = matchedAlias;
   hit.quote = excerptAroundAlias(segment.text, [...topic.aliases], 24);
-  hit.related = relatedLinksForRef(segment.source_ref, 'txt');
+  hit.related = relatedLinksForRef(segment.source_ref, 'html');
   topic.transcriptHits.push(hit);
 }
 
@@ -1174,6 +1501,87 @@ function sortedTopicHits(topic) {
     .slice(0, 12);
 }
 
+function rankTopicForIndex(topic) {
+  if (!topic) return 0;
+  return (
+    Math.min(topic.transcriptHits.length, 12) * 14 +
+    Math.min(topic.sources.size, 10) * 11 +
+    Math.min(topic.semanticPoints.length, 12) * 7 +
+    Math.min(topic.glossary.length, 6) * 6 +
+    Math.min(topic.refs.size, 18) * 3 +
+    Math.min(topic.aliases.size, 18) +
+    Math.min(topic.relatedTopics.size, 12)
+  );
+}
+
+function rankedTopicsForIndex(topics, limit = 10) {
+  return [...topics.values()]
+    .filter((topic) => {
+      if (!topic?.slug || topic.slug.length < 3) return false;
+      if (topicStopwords.has(topic.slug) || weakAliasWords.has(topic.slug)) return false;
+      return topic.transcriptHits.length || topic.sources.size || topic.semanticPoints.length || topic.glossary.length;
+    })
+    .sort((a, b) => {
+      const scoreDelta = rankTopicForIndex(b) - rankTopicForIndex(a);
+      if (scoreDelta) return scoreDelta;
+      const sourceDelta = b.sources.size - a.sources.size;
+      if (sourceDelta) return sourceDelta;
+      return a.label.localeCompare(b.label);
+    })
+    .slice(0, limit);
+}
+
+function topicFocusText(topic) {
+  const glossaryUsage = topic.glossary
+    .flatMap((item) => item.usages ?? [])
+    .map((text) => firstSentenceExcerpt(text, 34))
+    .find(Boolean);
+  if (glossaryUsage) return glossaryUsage;
+
+  const preferredPoint = topic.semanticPoints.find((point) => point.claimType === 'model' || point.kind === 'models')
+    || topic.semanticPoints.find((point) => point.kind === 'diagnoses')
+    || topic.semanticPoints[0];
+  if (preferredPoint?.text) return firstSentenceExcerpt(preferredPoint.text, 38);
+
+  const sourceSummary = [...topic.sources.values()].map((source) => source.summary).find(Boolean);
+  if (sourceSummary) return firstSentenceExcerpt(sourceSummary, 34);
+
+  const firstHit = sortedTopicHits(topic)[0];
+  if (firstHit?.quote) return `A transcript-matched topic anchored by excerpts such as "${wordExcerpt(firstHit.quote, 24)}"`;
+
+  return `A generated Jiang Lens topic assembled from source tags, source refs, and transcript matches for ${topic.label}.`;
+}
+
+function topicCoverageMarkdown(topic) {
+  const related = [...topic.relatedTopics.values()].filter(Boolean).slice(0, 5);
+  const sourceTitles = [...topic.sources.values()].map((source) => source.title).filter(Boolean).slice(0, 3);
+  const parts = [
+    `This generated topic groups Jiang Lens evidence about **${topic.label}** across transcript matches, source readings, semantic tags, and source refs.`,
+    `Current focus: ${topicFocusText(topic)}`,
+  ];
+
+  if (sourceTitles.length) {
+    parts.push(`Most connected source reading${sourceTitles.length === 1 ? '' : 's'}: ${sourceTitles.map((title) => `**${title}**`).join('; ')}.`);
+  }
+  if (related.length) {
+    parts.push(`Nearby topic cluster: ${related.join(', ')}.`);
+  }
+  return parts.join('\n\n');
+}
+
+function topicCoverageHtml(topic) {
+  const related = [...topic.relatedTopics.entries()]
+    .filter(([slug]) => slug !== topic.slug)
+    .slice(0, 6);
+  const sourceTitles = [...topic.sources.values()].map((source) => source.title).filter(Boolean).slice(0, 3);
+
+  return `<div class="topic-focus">
+    <p>${escapeHtml(topicFocusText(topic))}</p>
+    ${sourceTitles.length ? `<p class="meta">Most connected source reading${sourceTitles.length === 1 ? '' : 's'}: ${sourceTitles.map((title) => escapeHtml(title)).join('; ')}.</p>` : ''}
+    ${related.length ? `<div class="chips">${related.map(([slug, label]) => htmlAnchor(publicPath(`/topics/${slug}/`), label, 'chip')).join('')}</div>` : ''}
+  </div>`;
+}
+
 function renderTopicMarkdown(topic) {
   const hits = sortedTopicHits(topic);
   const sources = [...topic.sources.values()].slice(0, 8);
@@ -1192,21 +1600,23 @@ function renderTopicMarkdown(topic) {
     '',
     `# Topic: ${topic.label}`,
     '',
-    'Generated static topic dossier for agents. Use the human-readable HTML topic page as the citation target, then follow the cited transcript and video links for exact Jiang wording.',
+    'Generated static topic dossier for agents. Use this topic page as a routing and synthesis surface, not as primary evidence for Jiang-spoken claims. Final answers should cite the source reading, transcript segment, source ref, and video timestamp linked below.',
     '',
-    `Human citation page: ${markdownLink(`/topics/${topic.slug}/`, publicPath(`/topics/${topic.slug}/`))}`,
+    `Human topic page: ${markdownLink(`/topics/${topic.slug}/`, publicPath(`/topics/${topic.slug}/`))}`,
     `Text mirror: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
     `Markdown mirror: ${markdownLink(`/topics/${topic.slug}.md`, publicPath(`/topics/${topic.slug}.md`))}`,
     '',
-    'Citation rule: do not cite this .txt/.md mirror when a human-readable page exists. Cite the HTML topic page for the generated dossier, and cite transcript/video links below for Jiang-spoken quotations.',
+    'Citation rule: do not cite this .txt/.md mirror in final answers. Do not cite the topic page as primary evidence for what Jiang said. Cite human-readable source readings for generated summaries and lens context; cite transcript and video timestamp links below for Jiang-spoken quotations.',
   ];
 
   const aliases = [...topic.aliases].filter((alias) => alias !== topic.slug).sort();
   if (aliases.length) lines.push(`Aliases: ${aliases.slice(0, 18).map((alias) => `\`${alias}\``).join(', ')}`);
   lines.push('');
 
+  lines.push('## What This Topic Covers', '', topicCoverageMarkdown(topic), '');
+
   if (topic.glossary.length || topic.semanticPoints.length) {
-    lines.push('## Generated Answer Map', '');
+    lines.push('## Extracted Topic Notes', '');
     for (const item of topic.glossary.slice(0, 4)) {
       const usages = item.usages.length ? item.usages.join(' ') : `Glossary term: ${item.term}.`;
       const refs = refsMarkdown(item.refs, { transcript: [] });
@@ -1267,6 +1677,213 @@ function renderTopicMarkdown(topic) {
   return `${lines.join('\n').replace(/\n{3,}/g, '\n\n').trim()}\n`;
 }
 
+function renderTopicAnswerCards(topic) {
+  const cards = [];
+
+  for (const item of topic.glossary.slice(0, 4)) {
+    const usages = item.usages.length ? item.usages.join(' ') : `Glossary term: ${item.term}.`;
+    cards.push(`<article class="note-row" data-topic-item data-topic-search="${searchData(['glossary', item.term, usages, item.refs])}">
+      <div class="note-main">
+        <div class="note-copy">
+          <div class="row-title-line">
+            <div class="title-meta"><h3>${escapeHtml(item.term)}</h3></div>
+            <span class="type-badge">Glossary</span>
+          </div>
+          <p>${escapeHtml(usages)}</p>
+          ${sourceRefChips(item.refs)}
+        </div>
+      </div>
+    </article>`);
+  }
+
+  for (const point of topic.semanticPoints.slice(0, 8)) {
+    const kind = point.claimType || point.kind || 'lens point';
+    const noteLabel = point.temporalScope || point.confidence || 'Source-backed note';
+    cards.push(`<article class="note-row" data-topic-item data-topic-search="${searchData([kind, noteLabel, point.text, point.refs])}">
+      <div class="note-main">
+        <div class="note-copy">
+          <div class="row-title-line">
+            <div class="title-meta"><h3>${escapeHtml(noteLabel)}</h3></div>
+            <span class="type-badge">${escapeHtml(kind)}</span>
+          </div>
+          <p>${escapeHtml(point.text)}</p>
+          ${sourceRefChips(point.refs)}
+        </div>
+      </div>
+    </article>`);
+  }
+
+  if (!cards.length) {
+    return '<p class="meta">No extracted notes were found for this topic.</p>';
+  }
+
+  return `<div class="note-list">${cards.join('\n')}</div>`;
+}
+
+function renderTopicHitCards(hits) {
+  if (!hits.length) return '<p class="meta">No transcript-backed hits were selected for this topic brief.</p>';
+
+  return `<div class="evidence-list">${hits.map((hit) => {
+    const sourceReading = publicPath(`/${hit.collection}/${hit.slug}/`);
+    const transcriptLabel = hit.segmentId ? `Transcript ${hit.segmentId}` : 'Transcript';
+    const timestampTitle = hit.timeLabel ? `YouTube ${hit.timeLabel}` : 'YouTube timestamp';
+    const related = hit.related?.length
+      ? `<span class="source-label">Lens:</span><span class="ref-group lens-group">${hit.related.map((item, index) => `${index ? '<span class="source-sep" aria-hidden="true">|</span>' : ''}${htmlAnchor(item.href, item.label, 'ref-pill')}`).join('')}</span>`
+      : '';
+    return `<article class="evidence-card" data-topic-item data-source-ref="${escapeHtml(hit.ref)}" data-topic-search="${searchData([hit.date, hit.sourceTitle, hit.title, hit.quote, hit.ref, hit.segmentId, hit.timeLabel, hit.related?.map((item) => item.label)])}">
+      <div class="evidence-head">
+        <div class="evidence-copy">
+          <div class="evidence-title-line">
+            <div class="title-meta">
+              <h3>${htmlAnchor(sourceReading, hit.title || hit.slug)}</h3>
+              <p class="meta">${escapeHtml(hit.date)} · ${escapeHtml(hit.sourceTitle || hit.slug)}</p>
+            </div>
+            <span class="type-badge">Transcript</span>
+          </div>
+          ${hit.quote ? `<p class="quote">"${escapeHtml(hit.quote)}"</p>` : ''}
+          <div class="source-links">
+            <span class="source-label">Sources:</span>
+            <span class="ref-group" data-source-ref="${escapeHtml(hit.ref)}">
+              ${htmlAnchor(sourceReading, 'Reading', 'ref-pill', { title: 'Human-readable source reading', 'aria-label': `Human-readable source reading for ${hit.ref}` })}
+              <span class="source-sep" aria-hidden="true">|</span>
+              ${htmlAnchor(hit.transcriptUrl, 'Transcript', 'ref-pill', { title: transcriptLabel, 'aria-label': `${transcriptLabel} for ${hit.ref}` })}
+              <span class="source-sep" aria-hidden="true">|</span>
+              ${htmlAnchor(hit.videoUrl, 'YouTube', 'ref-pill yt', { title: timestampTitle, 'aria-label': `${timestampTitle} for ${hit.ref}` })}
+              <span class="source-sep" aria-hidden="true">|</span>
+              ${htmlAnchor(hit.sourceJsonUrl, 'Data', 'ref-pill', { title: 'Source JSON data', 'aria-label': `Source JSON data for ${hit.ref}` })}
+            </span>
+            ${related}
+          </div>
+        </div>
+      </div>
+    </article>`;
+  }).join('\n')}</div>`;
+}
+
+function renderTopicSourceCards(sources) {
+  if (!sources.length) return '<p class="meta">No source readings were selected for this topic dossier.</p>';
+
+  return `<div class="source-list">${sources.map((source) => {
+    const sourceReading = publicPath(`/${source.collection}/${source.slug}/`);
+    const reason = source.reasons.size ? [...source.reasons].slice(0, 3).join(', ') : 'topic evidence';
+    return `<article class="source-row" data-topic-item data-topic-search="${searchData([source.date, reason, source.title, source.summary, source.sourceTitle])}">
+      <div class="source-row-main">
+        <div class="source-copy">
+          <div class="row-title-line">
+            <div class="title-meta">
+              <h3>${htmlAnchor(sourceReading, source.title || source.slug)}</h3>
+              <p class="meta">${escapeHtml(source.date)} · ${escapeHtml(reason)}</p>
+            </div>
+            <span class="type-badge">Reading</span>
+          </div>
+          ${source.summary ? `<p>${escapeHtml(source.summary)}</p>` : ''}
+          <div class="source-links">
+            <span class="source-label">Sources:</span>
+            <span class="ref-group">
+              ${htmlAnchor(sourceReading, 'Reading', 'ref-pill', { title: 'Human-readable source reading' })}
+              <span class="source-sep" aria-hidden="true">|</span>
+              ${htmlAnchor(publicPath(`/${source.collection}/${source.slug}/transcript/`), 'Transcript', 'ref-pill', { title: 'Full transcript' })}
+              ${source.sourceUrl ? `<span class="source-sep" aria-hidden="true">|</span>${htmlAnchor(source.sourceUrl, 'YouTube', 'ref-pill yt', { title: source.sourceTitle || 'Original source' })}` : ''}
+              <span class="source-sep" aria-hidden="true">|</span>
+              ${htmlAnchor(source.dataUrl, 'Data', 'ref-pill', { title: 'Source JSON data' })}
+            </span>
+          </div>
+        </div>
+      </div>
+    </article>`;
+  }).join('\n')}</div>`;
+}
+
+function renderTopicHtml(topic) {
+  const hits = sortedTopicHits(topic);
+  const sources = [...topic.sources.values()].slice(0, 8);
+  const bestHit = hits[0];
+  const bestSource = bestHit ? publicPath(`/${bestHit.collection}/${bestHit.slug}/`) : (sources[0] ? publicPath(`/${sources[0].collection}/${sources[0].slug}/`) : '');
+  const aliases = [...topic.aliases].filter((alias) => alias !== topic.slug).sort().slice(0, 18);
+  const aliasPreview = aliases.slice(0, 8).join(', ');
+  const aliasOverflow = aliases.length > 8 ? `, +${aliases.length - 8} more` : '';
+  const relatedTopics = [...topic.relatedTopics.entries()]
+    .filter(([slug]) => slug !== topic.slug)
+    .slice(0, 18);
+  const searchItemCount = topic.glossary.slice(0, 4).length + topic.semanticPoints.slice(0, 8).length + hits.length + sources.length;
+  const content = `
+      <section class="hero router-hero">
+        <div class="hero-inner">
+          <div class="hero-topline">
+            <p class="eyebrow">Topic brief</p>
+            <div class="hero-meta" aria-label="Topic evidence summary">
+              <span>${hits.length} timestamped hit${hits.length === 1 ? '' : 's'}</span>
+              <span>${sources.length} source reading${sources.length === 1 ? '' : 's'}</span>
+              <span>${topic.semanticPoints.length + topic.glossary.length} extracted note${topic.semanticPoints.length + topic.glossary.length === 1 ? '' : 's'}</span>
+              ${aliases.length ? `<span class="alias-meta">Aliases: ${escapeHtml(aliasPreview + aliasOverflow)}</span>` : ''}
+            </div>
+          </div>
+          <p class="lead">A Jiang Lens evidence brief for this topic, built from source tags, transcript matches, and linked source refs.</p>
+          <h1>${escapeHtml(topic.label)}</h1>
+          <p class="topic-summary">${escapeHtml(topicFocusText(topic))}</p>
+          <div class="toolbar">
+            ${htmlAnchor(bestSource, 'Best source reading', 'button primary')}
+            ${bestHit ? htmlAnchor(bestHit.transcriptUrl, 'Best transcript hit', 'button source') : ''}
+            ${bestHit ? htmlAnchor(bestHit.videoUrl, 'Open on YouTube', 'button source', { title: bestHit.timeLabel ? `YouTube ${bestHit.timeLabel}` : 'YouTube timestamp' }) : ''}
+            ${htmlAnchor('/topics/', 'Topic router', 'button')}
+          </div>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Topic evidence search">
+        <div class="search-field">
+          <label for="topic-search">Search this topic</label>
+          <input id="topic-search" type="search" inputmode="search" autocomplete="off" placeholder="Search notes, quotes, source refs, or titles" data-topic-search-input>
+          <button class="clear-search" type="button" data-clear-search>Clear</button>
+        </div>
+        <p class="results-row" data-results-count>Showing ${searchItemCount} evidence items</p>
+        <p class="empty-state" data-empty-state>No matching evidence on this topic page.</p>
+      </section>
+
+      <section class="section">
+        <h2>Key Notes</h2>
+        ${renderTopicAnswerCards(topic)}
+      </section>
+
+      <section class="section">
+        <h2>Timestamped Evidence</h2>
+        ${renderTopicHitCards(hits)}
+      </section>
+
+      <section class="section">
+        <h2>Relevant Lectures And Readings</h2>
+        ${renderTopicSourceCards(sources)}
+      </section>
+
+      ${relatedTopics.length ? `<section class="section">
+        <h2>Related Topics</h2>
+        <div class="chips">${relatedTopics.map(([slug, label]) => htmlAnchor(publicPath(`/topics/${slug}/`), label, 'chip')).join('')}</div>
+      </section>` : ''}
+
+      <section class="section">
+        <div class="panel">
+          <h2>How To Use And Cite This Page</h2>
+          <p>This topic page is a discovery surface. For generated synthesis, cite the human-readable source reading or lens page. For Jiang-spoken claims, cite the transcript segment, source ref, and YouTube timestamp. Raw text and Markdown mirrors are fallback surfaces for tools that cannot read this HTML page.</p>
+          <div class="actions" style="margin-top: 14px;">
+            ${htmlAnchor(`/topics/${topic.slug}.txt`, 'Text mirror', 'button')}
+            ${htmlAnchor(`/topics/${topic.slug}.md`, 'Markdown mirror', 'button')}
+          </div>
+        </div>
+      </section>
+  `;
+
+  return generatedTopicShell({
+    title: `Topic: ${topic.label}`,
+    description: `Generated Jiang Lens topic brief for ${topic.label}, with source readings, transcript anchors, video timestamps, and source refs.`,
+    canonicalPath: `/topics/${topic.slug}/`,
+    alternates: [
+      { type: 'text/plain', path: `/topics/${topic.slug}.txt`, title: 'Topic text' },
+      { type: 'text/markdown', path: `/topics/${topic.slug}.md`, title: 'Topic Markdown' },
+    ],
+    content,
+  });
+}
+
 function renderTopicAliasMarkdown(alias, topic) {
   return [
     '---',
@@ -1279,56 +1896,252 @@ function renderTopicAliasMarkdown(alias, topic) {
     '',
     `This generated static route points to the canonical topic dossier for **${topic.label}**.`,
     '',
-    `Human citation page: ${markdownLink(`/topics/${topic.slug}/`, publicPath(`/topics/${topic.slug}/`))}`,
+    `Human topic page: ${markdownLink(`/topics/${topic.slug}/`, publicPath(`/topics/${topic.slug}/`))}`,
     `Canonical topic text mirror: ${markdownLink(`/topics/${topic.slug}.txt`, publicPath(`/topics/${topic.slug}.txt`))}`,
     '',
     'Open the human-readable topic page before answering. It contains the generated answer map, source readings, transcript anchors, video timestamps, and source refs.',
     '',
-    'Citation rule: cite the human-readable topic page or transcript/video links, not this alias mirror.',
+    'Citation rule: do not cite this alias mirror in final answers. Use the topic page for routing, then cite the source reading, transcript segment, source ref, or video timestamp that supports the answer.',
     '',
   ].join('\n');
 }
 
-function renderTopicIndex(aliasTargets, topics) {
-  const letters = new Set([...aliasTargets.keys()].map((alias) => alias.slice(0, 1)).filter(Boolean));
+function buildTopicAliasShards(aliasTargets, limit = TOPIC_ALIAS_SHARD_LIMIT) {
+  const byLetter = new Map();
+  for (const entry of [...aliasTargets.entries()].sort(([a], [b]) => a.localeCompare(b))) {
+    const letter = entry[0].slice(0, 1);
+    if (!letter) continue;
+    if (!byLetter.has(letter)) byLetter.set(letter, []);
+    byLetter.get(letter).push(entry);
+  }
+  return [...byLetter.entries()]
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([letter, entries]) => buildTopicAliasShardNode(letter, entries, limit));
+}
+
+function buildTopicAliasShardNode(prefix, entries, limit) {
+  const sortedEntries = [...entries].sort(([a], [b]) => a.localeCompare(b));
+  const node = {
+    prefix,
+    totalAliases: sortedEntries.length,
+    entries: sortedEntries,
+    children: [],
+  };
+
+  if (sortedEntries.length <= limit) return node;
+
+  const exactEntries = [];
+  const buckets = new Map();
+  for (const entry of sortedEntries) {
+    const alias = entry[0];
+    if (alias === prefix) {
+      exactEntries.push(entry);
+      continue;
+    }
+    const childPrefix = alias.slice(0, Math.min(alias.length, prefix.length + 1));
+    if (!childPrefix || childPrefix === prefix) {
+      exactEntries.push(entry);
+      continue;
+    }
+    if (!buckets.has(childPrefix)) buckets.set(childPrefix, []);
+    buckets.get(childPrefix).push(entry);
+  }
+
+  if (!buckets.size) return node;
+
+  node.entries = exactEntries;
+  node.children = [...buckets.entries()]
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([childPrefix, childEntries]) => buildTopicAliasShardNode(childPrefix, childEntries, limit));
+  return node;
+}
+
+function flattenTopicAliasShards(shards) {
+  const output = [];
+  const visit = (shard) => {
+    output.push(shard);
+    for (const child of shard.children) visit(child);
+  };
+  for (const shard of shards) visit(shard);
+  return output;
+}
+
+function topicAliasShardLabel(prefix) {
+  return prefix.length === 1 ? prefix.toUpperCase() : prefix;
+}
+
+function topicAliasShardChipMeta(shard) {
+  if (!shard) return '';
+  if (shard.children.length) return `${shard.children.length} shards`;
+  return `${shard.totalAliases} aliases`;
+}
+
+function topicAliasShardPath(prefix, extension = 'html') {
+  if (extension === 'html') return `/topics/index/${prefix}/`;
+  return `/topics/index/${prefix}.${extension}`;
+}
+
+function renderTopicIndex(aliasTargets, topics, rootShards = buildTopicAliasShards(aliasTargets)) {
+  const letters = new Set(rootShards.map((shard) => shard.prefix));
+  const allShards = flattenTopicAliasShards(rootShards);
   const lines = [
     '# Jiang Lens Topic Router',
     '',
-    'Generated static topic router for agents. Prefer the human-readable HTML router at https://jianglens.com/topics/ when browser access is available. Do not load the bulk transcript-search files first for ordinary topic questions.',
+    'Generated static topic router for agents. Prefer the human-readable HTML router at https://jianglens.com/topics/ when browser access is available. Use topic pages to find evidence; cite source readings, transcript anchors, source refs, and video timestamps in final answers. Do not load the bulk transcript-search files first for ordinary topic questions.',
     '',
     'Lookup order:',
     '',
     '1. Normalize the user topic to lowercase words, remove punctuation, and join words with hyphens.',
     '2. Try `/topics/{normalized-topic}/` directly when HTML pages are available; use `/topics/{normalized-topic}.txt` only as a fallback mirror.',
-    '3. If that route is missing or ambiguous, open the letter shard under `/topics/index/{first-letter}.txt`.',
-    '4. Open the canonical HTML topic dossier linked by the shard or alias route.',
-    '5. Use bulk transcript-search only as a fallback when no topic dossier exists.',
+    '3. If that route is missing or ambiguous, open the first-letter shard under `/topics/index/{first-letter}.txt`.',
+    '4. If the shard is split, follow the narrower prefix shard that matches the normalized topic. Leaf shards are capped at 50 aliases.',
+    '5. Open the canonical HTML topic dossier linked by the shard or alias route.',
+    '6. Use the topic dossier to choose the best source reading, transcript anchor, source ref, and video timestamp to cite.',
+    '7. Use bulk transcript-search only as a fallback when no topic dossier exists.',
     '',
     `Canonical topics: ${topics.size}`,
     `Static aliases: ${aliasTargets.size}`,
+    `Static alias shards: ${allShards.length}`,
+    `Leaf shard limit: ${TOPIC_ALIAS_SHARD_LIMIT} aliases`,
     '',
     '## Letter Shards',
     '',
   ];
 
   for (const letter of [...letters].sort()) {
-    lines.push(`- ${markdownLink(`/topics/index/${letter}.txt`, publicPath(`/topics/index/${letter}.txt`))}`);
+    const shard = rootShards.find((item) => item.prefix === letter);
+    const shardMeta = shard?.children.length ? `${shard.totalAliases} aliases, ${shard.children.length} prefix shards` : `${shard?.totalAliases ?? 0} aliases`;
+    lines.push(`- ${markdownLink(`/topics/index/${letter}.txt`, publicPath(`/topics/index/${letter}.txt`))} (${shardMeta})`);
   }
   lines.push('');
 
   return `${lines.join('\n').trim()}\n`;
 }
 
-function renderTopicLetterIndex(letter, aliasTargets, topics) {
-  const entries = [...aliasTargets.entries()]
-    .filter(([alias]) => alias.startsWith(letter))
-    .sort(([a], [b]) => a.localeCompare(b));
+function renderTopicIndexHtml(aliasTargets, topics, rootShards = buildTopicAliasShards(aliasTargets)) {
+  const letters = rootShards.map((shard) => shard.prefix);
+  const shardByPrefix = new Map(rootShards.map((shard) => [shard.prefix, shard]));
+  const allShards = flattenTopicAliasShards(rootShards);
+  const featured = rankedTopicsForIndex(topics, 10);
+
+  const content = `
+      <section class="hero router-hero">
+        <div class="hero-inner">
+          <div class="hero-topline">
+            <p class="eyebrow">Topic router</p>
+            <div class="hero-meta" aria-label="Topic router counts">
+              <span>${topics.size} canonical topics</span>
+              <span>${aliasTargets.size} static aliases</span>
+              <span>${allShards.length} capped shards</span>
+            </div>
+          </div>
+          <p class="lead">Use this static router to resolve a user topic into a generated dossier; final citations should point to source readings, transcript anchors, source refs, and video timestamps.</p>
+          <h1>Topic Router</h1>
+          <p class="topic-summary">Start with the topic page, use it to locate source-backed evidence, and cite the underlying readings or transcript coordinates.</p>
+          <div class="toolbar">
+            ${htmlAnchor('/skill/', 'Read the skill', 'button primary')}
+            ${htmlAnchor('/topics/index.txt', 'Text router', 'button')}
+            ${htmlAnchor('/data/lens/transcript-search.txt', 'Transcript search fallback', 'button')}
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Browse By Letter</h2>
+        <div class="chips letter-links router-letters">${letters.map((letter) => `<a class="chip compact" href="${escapeHtml(htmlHref(publicPath(`/topics/index/${letter}/`)))}">
+          <strong>${escapeHtml(letter.toUpperCase())}</strong><span>${escapeHtml(topicAliasShardChipMeta(shardByPrefix.get(letter)))}</span>
+        </a>`).join('')}</div>
+      </section>
+
+      ${featured.length ? `<section class="section">
+        <h2>Top Ranked Topics</h2>
+        <div class="source-list">${featured.map((topic) => `<article class="source-row">
+          <div class="source-row-main">
+            <div class="source-copy">
+              <div class="row-title-line">
+                <div class="title-meta">
+                  <h3>${htmlAnchor(publicPath(`/topics/${topic.slug}/`), topic.label)}</h3>
+                  <p class="meta">${escapeHtml(topic.slug)}</p>
+                </div>
+                <span class="type-badge">Score ${rankTopicForIndex(topic)}</span>
+              </div>
+              <div class="source-links">
+                <span class="source-label">Signals:</span>
+                <span class="ref-group">
+                  <span class="ref-pill">${topic.transcriptHits.length} transcript hits</span>
+                  <span class="source-sep" aria-hidden="true">|</span>
+                  <span class="ref-pill">${topic.sources.size} source readings</span>
+                  <span class="source-sep" aria-hidden="true">|</span>
+                  <span class="ref-pill">${topic.semanticPoints.length + topic.glossary.length} answer-map points</span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </article>`).join('')}</div>
+      </section>` : ''}
+
+      <section class="section">
+        <h2>How This Router Works</h2>
+        <div class="note-list">
+          <article class="note-row">
+            <div class="note-main">
+              <div class="note-copy">
+                <div class="row-title-line">
+                  <div class="title-meta"><h3>What Counts As A Topic</h3></div>
+                  <span class="type-badge">Definition</span>
+                </div>
+                <p>A topic is a mechanically generated evidence bundle. It can come from semantic topic tags, glossary terms, source refs, transcript segment matches, and aliases that point to the same canonical subject.</p>
+              </div>
+            </div>
+          </article>
+          <article class="note-row">
+            <div class="note-main">
+              <div class="note-copy">
+                <div class="row-title-line">
+                  <div class="title-meta"><h3>Lookup Order</h3></div>
+                  <span class="type-badge">Routing</span>
+                </div>
+                <p>Normalize the topic, try <code>/topics/{topic-slug}/</code>, then use a letter shard when the direct route is missing or ambiguous. Use bulk transcript-search only when no topic dossier exists.</p>
+                <p>Large alias shards split recursively by prefix until leaf pages have ${TOPIC_ALIAS_SHARD_LIMIT} aliases or fewer, so agents do not need to parse thousand-row indexes.</p>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+  `;
+
+  return generatedTopicShell({
+    title: 'Jiang Lens Topic Router',
+    description: 'Generated static topic router for Jiang Lens agents and search-backed browsing tools.',
+    canonicalPath: '/topics/',
+    alternates: [
+      { type: 'text/plain', path: '/topics/index.txt', title: 'Topic router text' },
+      { type: 'text/markdown', path: '/topics/index.md', title: 'Topic router Markdown' },
+    ],
+    content,
+  });
+}
+
+function renderTopicLetterIndex(shard, topics) {
+  const entries = shard.entries;
   const lines = [
-    `# Jiang Lens Topic Router: ${letter.toUpperCase()}`,
+    `# Jiang Lens Topic Router: ${topicAliasShardLabel(shard.prefix)}`,
     '',
-    'Generated static alias shard. Open the canonical HTML topic page for answer map, source readings, transcript anchors, video timestamps, and source refs.',
+    'Generated static alias shard. Open the canonical HTML topic page for answer map, source readings, transcript anchors, video timestamps, and source refs. Cite those underlying sources in final answers, not this shard.',
     '',
   ];
+
+  if (shard.children.length) {
+    lines.push(`This shard has ${shard.totalAliases} aliases, so it is split into narrower prefix shards. Follow the prefix that matches the normalized topic. Leaf shards are capped at ${TOPIC_ALIAS_SHARD_LIMIT} aliases.`, '', '## Narrower Prefix Shards', '');
+    for (const child of shard.children) {
+      lines.push(`- ${markdownLink(`/topics/index/${child.prefix}.txt`, publicPath(topicAliasShardPath(child.prefix, 'txt')))} (${child.totalAliases} aliases)`);
+    }
+    lines.push('');
+  }
+
+  if (entries.length) {
+    lines.push(shard.children.length ? '## Exact Aliases On This Prefix' : '## Aliases', '');
+  }
 
   for (const [alias, slug] of entries) {
     const topic = topics.get(slug);
@@ -1338,6 +2151,127 @@ function renderTopicLetterIndex(letter, aliasTargets, topics) {
   }
   lines.push('');
   return `${lines.join('\n').trim()}\n`;
+}
+
+function renderTopicAliasRowsHtml(entries, topics) {
+  return entries.map(([alias, slug]) => {
+    const topic = topics.get(slug);
+    if (!topic) return '';
+    const aliasLabel = alias === slug ? topic.label : alias;
+    const answerMapPoints = topic.semanticPoints.length + topic.glossary.length;
+    const signalLinks = [
+      topic.transcriptHits.length ? `<span class="ref-pill">${topic.transcriptHits.length} transcript hits</span>` : '',
+      topic.sources.size ? `<span class="ref-pill">${topic.sources.size} source readings</span>` : '',
+      answerMapPoints ? `<span class="ref-pill">${answerMapPoints} answer-map points</span>` : '',
+    ].filter(Boolean);
+    const signalsHtml = signalLinks.length
+      ? `<span class="source-label">Signals:</span>
+          <span class="ref-group">${signalLinks.join('<span class="source-sep" aria-hidden="true">|</span>')}</span>`
+      : `<span class="meta">No compiled evidence signals yet.</span>`;
+    const hasEvidence = topic.transcriptHits.length || topic.sources.size || topic.semanticPoints.length || topic.glossary.length;
+    return `<article class="source-row" data-topic-item data-topic-search="${searchData([aliasLabel, topic.label, topic.slug, [...topic.aliases]])}">
+      <div class="source-row-main">
+        <div class="source-copy">
+          <div class="row-title-line">
+            <div class="title-meta">
+              <h3><code>${escapeHtml(aliasLabel)}</code> <span class="alias-arrow">-&gt;</span> ${htmlAnchor(publicPath(`/topics/${slug}/`), topic.label)}</h3>
+              <p class="meta">${escapeHtml(topic.slug)}</p>
+            </div>
+            <span class="type-badge">${hasEvidence ? `Score ${rankTopicForIndex(topic)}` : 'Alias'}</span>
+          </div>
+          <div class="source-links">
+            <span class="source-label">Open:</span>
+            <span class="ref-group">
+              ${htmlAnchor(publicPath(`/topics/${slug}/`), 'Topic brief', 'ref-pill')}
+              <span class="source-sep" aria-hidden="true">|</span>
+              ${htmlAnchor(publicPath(`/topics/${slug}.txt`), 'Text mirror', 'ref-pill')}
+            </span>
+            ${signalsHtml}
+          </div>
+        </div>
+      </div>
+    </article>`;
+  }).join('');
+}
+
+function renderTopicPrefixRowsHtml(shard) {
+  return shard.children.map((child) => {
+    const isLeaf = !child.children.length;
+    const label = topicAliasShardLabel(child.prefix);
+    const meta = isLeaf ? `${child.totalAliases} aliases` : `${child.totalAliases} aliases, split`;
+    return `<a class="chip compact prefix-chip" href="${escapeHtml(htmlHref(publicPath(topicAliasShardPath(child.prefix))))}" data-topic-item data-topic-search="${searchData([child.prefix, label, child.totalAliases, isLeaf ? 'leaf' : 'split'])}">
+      <strong>${escapeHtml(label)}</strong><span>${escapeHtml(meta)}</span>
+    </a>`;
+  }).join('');
+}
+
+function renderTopicLetterIndexHtml(shard, rootShards, topics) {
+  const entries = shard.entries;
+  const rows = renderTopicAliasRowsHtml(entries, topics);
+  const childRows = renderTopicPrefixRowsHtml(shard);
+  const allLetters = rootShards.map((rootShard) => rootShard.prefix);
+  const shardByPrefix = new Map(rootShards.map((rootShard) => [rootShard.prefix, rootShard]));
+  const resultLabel = shard.children.length ? 'routes' : 'aliases';
+  const searchableCount = shard.children.length + entries.length;
+  const content = `
+      <section class="hero router-hero">
+        <div class="hero-inner">
+          <div class="hero-topline">
+            <p class="eyebrow">Topic aliases</p>
+            <div class="hero-meta" aria-label="Alias shard counts">
+              <span>${shard.totalAliases} aliases</span>
+              ${shard.children.length ? `<span>${shard.children.length} prefix shards</span>` : `<span>${entries.length} visible aliases</span>`}
+            </div>
+          </div>
+          <p class="lead">Generated alias shard for topic lookup. Open the canonical topic page to find source readings, transcript anchors, source refs, and video timestamps.</p>
+          <h1>Topic Router: ${escapeHtml(topicAliasShardLabel(shard.prefix))}</h1>
+          <p class="topic-summary">${shard.children.length ? `This shard is split because it has more than ${TOPIC_ALIAS_SHARD_LIMIT} aliases. Follow the narrower prefix that matches the normalized topic.` : 'Resolve an alias to its canonical topic brief, then cite the underlying evidence.'}</p>
+          <div class="toolbar">
+            ${htmlAnchor('/topics/', 'All topic letters', 'button primary')}
+            ${htmlAnchor(topicAliasShardPath(shard.prefix, 'txt'), 'Text shard', 'button')}
+            ${htmlAnchor(topicAliasShardPath(shard.prefix, 'md'), 'Markdown shard', 'button')}
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Browse By Letter</h2>
+        <div class="chips letter-links router-letters">${allLetters.map((entryLetter) => `<a class="chip compact" href="${escapeHtml(htmlHref(publicPath(topicAliasShardPath(entryLetter))))}"${entryLetter === shard.prefix ? ' aria-current="page"' : ''}>
+          <strong>${escapeHtml(entryLetter.toUpperCase())}</strong><span>${escapeHtml(topicAliasShardChipMeta(shardByPrefix.get(entryLetter)))}</span>
+        </a>`).join('')}</div>
+      </section>
+
+      <section class="section controls">
+        <div class="search-field">
+          <label for="alias-search">Search aliases</label>
+          <input id="alias-search" type="search" inputmode="search" autocomplete="off" placeholder="${shard.children.length ? 'Search prefix shards or exact aliases' : 'Search aliases or canonical topics'}" data-topic-search-input>
+          <button class="clear-search" type="button" data-clear-search>Clear</button>
+        </div>
+        <p class="results-row" data-results-count data-results-label="${resultLabel}">Showing ${searchableCount} ${resultLabel}</p>
+        <p class="empty-state" data-empty-state>No matching routes in this shard.</p>
+      </section>
+
+      ${childRows ? `<section class="section">
+        <h2>Narrow By Prefix</h2>
+        <div class="chips letter-links prefix-links">${childRows}</div>
+      </section>` : ''}
+
+      ${rows ? `<section class="section">
+        <h2>${shard.children.length ? 'Exact Aliases On This Prefix' : 'Aliases'}</h2>
+        <div class="source-list">${rows}</div>
+      </section>` : ''}
+  `;
+
+  return generatedTopicShell({
+    title: `Jiang Lens Topic Router: ${topicAliasShardLabel(shard.prefix)}`,
+    description: 'Generated static topic alias shard for Jiang Lens agents and browser tools.',
+    canonicalPath: topicAliasShardPath(shard.prefix),
+    alternates: [
+      { type: 'text/plain', path: topicAliasShardPath(shard.prefix, 'txt'), title: 'Topic shard text' },
+      { type: 'text/markdown', path: topicAliasShardPath(shard.prefix, 'md'), title: 'Topic shard Markdown' },
+    ],
+    content,
+  });
 }
 
 async function generateTopicShards() {
@@ -1408,16 +2342,7 @@ async function generateTopicShards() {
     await writeFile(path.join(topicOutRoot, `${topic.slug}.md`), content);
     const htmlOutRoot = path.join(topicOutRoot, topic.slug);
     await mkdir(htmlOutRoot, { recursive: true });
-    await writeFile(path.join(htmlOutRoot, 'index.html'), renderPlainArtifactHtml({
-      title: `Topic: ${topic.label}`,
-      description: 'Generated Jiang Lens topic dossier with answer map, source readings, transcript anchors, video timestamps, and source refs.',
-      canonicalPath: `/topics/${topic.slug}/`,
-      body: content,
-      alternates: [
-        { type: 'text/plain', path: `/topics/${topic.slug}.txt`, title: 'Topic text' },
-        { type: 'text/markdown', path: `/topics/${topic.slug}.md`, title: 'Topic Markdown' },
-      ],
-    }));
+    await writeFile(path.join(htmlOutRoot, 'index.html'), renderTopicHtml(topic));
   }
 
   let aliasFileCount = 0;
@@ -1431,45 +2356,29 @@ async function generateTopicShards() {
     aliasFileCount += 1;
   }
 
-  const topicIndex = renderTopicIndex(activeAliasTargets, activeTopics);
+  const rootAliasShards = buildTopicAliasShards(activeAliasTargets);
+  const allAliasShards = flattenTopicAliasShards(rootAliasShards);
+  const topicIndex = renderTopicIndex(activeAliasTargets, activeTopics, rootAliasShards);
   await writeFile(path.join(topicOutRoot, 'index.txt'), topicIndex);
   await writeFile(path.join(topicOutRoot, 'index.md'), topicIndex);
-  await writeFile(path.join(topicOutRoot, 'index.html'), renderPlainArtifactHtml({
-    title: 'Jiang Lens Topic Router',
-    description: 'Generated static topic router for Jiang Lens agents and search-backed browsing tools.',
-    canonicalPath: '/topics/',
-    body: topicIndex,
-    alternates: [
-      { type: 'text/plain', path: '/topics/index.txt', title: 'Topic router text' },
-      { type: 'text/markdown', path: '/topics/index.md', title: 'Topic router Markdown' },
-    ],
-  }));
+  await writeFile(path.join(topicOutRoot, 'index.html'), renderTopicIndexHtml(activeAliasTargets, activeTopics, rootAliasShards));
 
-  const letters = new Set([...activeAliasTargets.keys()].map((alias) => alias.slice(0, 1)).filter(Boolean));
-  for (const letter of letters) {
-    const content = renderTopicLetterIndex(letter, activeAliasTargets, activeTopics);
-    await writeFile(path.join(topicIndexOutRoot, `${letter}.txt`), content);
-    await writeFile(path.join(topicIndexOutRoot, `${letter}.md`), content);
-    const letterOutRoot = path.join(topicIndexOutRoot, letter);
-    await mkdir(letterOutRoot, { recursive: true });
-    await writeFile(path.join(letterOutRoot, 'index.html'), renderPlainArtifactHtml({
-      title: `Jiang Lens Topic Router: ${letter.toUpperCase()}`,
-      description: 'Generated static topic alias shard for Jiang Lens agents and browser tools.',
-      canonicalPath: `/topics/index/${letter}/`,
-      body: content,
-      alternates: [
-        { type: 'text/plain', path: `/topics/index/${letter}.txt`, title: 'Topic shard text' },
-        { type: 'text/markdown', path: `/topics/index/${letter}.md`, title: 'Topic shard Markdown' },
-      ],
-    }));
+  for (const shard of allAliasShards) {
+    const content = renderTopicLetterIndex(shard, activeTopics);
+    await writeFile(path.join(topicIndexOutRoot, `${shard.prefix}.txt`), content);
+    await writeFile(path.join(topicIndexOutRoot, `${shard.prefix}.md`), content);
+    const shardOutRoot = path.join(topicIndexOutRoot, shard.prefix);
+    await mkdir(shardOutRoot, { recursive: true });
+    await writeFile(path.join(shardOutRoot, 'index.html'), renderTopicLetterIndexHtml(shard, rootAliasShards, activeTopics));
   }
 
   return {
     topics: activeTopics.size,
     aliases: activeAliasTargets.size,
     aliasFiles: aliasFileCount,
-    letterShards: letters.size,
-    htmlPages: activeTopics.size + letters.size + 1,
+    letterShards: rootAliasShards.length,
+    aliasShards: allAliasShards.length,
+    htmlPages: activeTopics.size + allAliasShards.length + 1,
   };
 }
 
@@ -1566,6 +2475,7 @@ async function copyTree(inputRoot, outputRoot) {
 }
 
 let cachedSourceRefIndex = null;
+let cachedTranscriptRefIndex = null;
 
 function sourceRefIndex() {
   if (cachedSourceRefIndex) return cachedSourceRefIndex;
@@ -1579,9 +2489,46 @@ function sourceRefIndex() {
   return cachedSourceRefIndex;
 }
 
+function transcriptRefIndex() {
+  if (cachedTranscriptRefIndex) return cachedTranscriptRefIndex;
+  cachedTranscriptRefIndex = new Map();
+
+  for (const [collection, root] of [['episodes', episodeDataRoot], ['interviews', interviewDataRoot]]) {
+    const indexPath = path.join(root, 'index.json');
+    if (!existsSync(indexPath)) continue;
+
+    const parsed = JSON.parse(readFileSync(indexPath, 'utf8'));
+    const summaries = parsed[collection] ?? parsed.items ?? [];
+    for (const summary of summaries) {
+      const sourcePath = path.join(root, `${summary.slug}.json`);
+      if (!existsSync(sourcePath)) continue;
+
+      const source = JSON.parse(readFileSync(sourcePath, 'utf8'));
+      for (const segment of source.transcript ?? []) {
+        if (!segment.source_ref) continue;
+        const transcriptUrl = segment.transcript_url || `/${collection}/${source.slug}/transcript/#${segment.id || segment.segment_id}`;
+        cachedTranscriptRefIndex.set(segment.source_ref, {
+          valid: true,
+          collection,
+          episode_url: `/${collection}/${source.slug}/`,
+          transcript_url: transcriptUrl,
+          video_url: segment.video_url || timestampedUrl(source.source_url, segment.start),
+          episode_title: source.read?.title || source.title || summary.title || source.slug,
+          segment_id: segment.id || segment.segment_id,
+          time_label: segment.time_label || '',
+        });
+      }
+    }
+  }
+
+  return cachedTranscriptRefIndex;
+}
+
 function internalArtifactHref(href, extension = 'md') {
   if (!href || /^https?:\/\//.test(href) || href.startsWith('#') || href.startsWith('mailto:')) return href;
   if (!href.startsWith('/')) return href;
+
+  if (extension === 'html') return urlFor(href);
 
   const ext = extension === 'txt' ? 'txt' : 'md';
   const [pathname, suffix = ''] = href.split(/(?=[?#])/);
@@ -1729,14 +2676,15 @@ async function main() {
     '',
     '## Agent Resolution Order',
     '',
-    'For questions about Jiang\'s views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then use their linked source refs to quote exact transcript coordinates.',
+    'For questions about Jiang\'s views, use generated topic dossiers, public summaries, and lens pages as the interpretive map, then cite the underlying source reading, transcript coordinate, source ref, and video timestamp. Topic pages are routing and synthesis surfaces, not primary evidence for Jiang-spoken claims.',
     '',
     '1. Read the HTML skill page at /skill/ for attribution, output, and identity rules.',
     '2. Normalize the user topic and use the HTML topic router at /topics/, or try the static topic page at /topics/{topic-slug}/.',
-    '3. Use the topic page\'s generated answer map, source readings, related lens links, transcript anchors, video timestamps, and source refs when answering.',
-    '4. Use .txt, .md, JSON, and bulk transcript-search surfaces only as fallback/offline audit surfaces, because they may be too large or may be cited instead of the human page.',
-    '5. When citing Jiang Lens topic dossiers, cite the human-readable HTML page and cite transcript/video links for exact Jiang quotes. Do not cite .txt mirrors unless no HTML page is available.',
-    '6. Use GitHub only for implementation, provenance, or source-file audit questions, not as the primary source for Jiang-content answers.',
+    '3. Use the topic page\'s generated answer map, source readings, related lens links, transcript anchors, video timestamps, and source refs to find evidence.',
+    '4. Cite human-readable source readings or lens pages for generated summaries and lens context; cite transcript/video links and source refs for Jiang-spoken quotations.',
+    '5. Use .txt, .md, JSON, and bulk transcript-search surfaces only as fallback/offline audit surfaces, because they may be too large or may be cited instead of the source page.',
+    '6. After answering, offer one useful next source path: exact transcript hits, a lecture/source reading, related lens concepts, or a deeper report.',
+    '7. Use GitHub only for implementation, provenance, or source-file audit questions, not as the primary source for Jiang-content answers.',
     '',
     '## Agent Entry Points',
     '',
