@@ -479,7 +479,7 @@ function episodeSearchText(episode) {
           <a class="episode" href={`./${episode.slug}/`} data-episode-card data-search={episodeSearchText(episode)}>
             {thumbnailUrl(episode) && (
               <div class="thumb" aria-hidden="true">
-                <img src={thumbnailUrl(episode)} alt="" loading="lazy" decoding="async" />
+                <img src={thumbnailUrl(episode)} alt={`${episode.title} thumbnail`} loading="lazy" decoding="async" />
               </div>
             )}
             <div class="episode-body">

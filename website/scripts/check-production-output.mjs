@@ -15,6 +15,9 @@ const forbidden = [
   /to be published before launch/gi,
 ];
 
+const META_DESCRIPTION_MIN_LENGTH = 25;
+const META_DESCRIPTION_MAX_LENGTH = 160;
+
 const textExtensions = new Set([
   '.css',
   '.html',
@@ -42,6 +45,39 @@ async function walk(dir) {
   return files;
 }
 
+function tagAttribute(tag, name) {
+  const pattern = new RegExp(`\\b${name}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`, 'i');
+  const match = tag.match(pattern);
+  return match?.[1] ?? match?.[2] ?? match?.[3] ?? null;
+}
+
+function checkHtmlSeo(rel, text, failures) {
+  const descriptionTags = [...text.matchAll(/<meta\b(?=[^>]*\bname\s*=\s*["']description["'])[^>]*>/gi)]
+    .map((match) => match[0]);
+
+  if (!descriptionTags.length) {
+    failures.push(`${rel}: missing meta description`);
+  }
+
+  for (const tag of descriptionTags) {
+    const description = tagAttribute(tag, 'content') ?? '';
+    if (
+      description.length < META_DESCRIPTION_MIN_LENGTH ||
+      description.length > META_DESCRIPTION_MAX_LENGTH
+    ) {
+      failures.push(`${rel}: meta description length ${description.length}; expected ${META_DESCRIPTION_MIN_LENGTH}-${META_DESCRIPTION_MAX_LENGTH}`);
+    }
+  }
+
+  for (const match of text.matchAll(/<img\b[^>]*>/gi)) {
+    const tag = match[0];
+    const alt = tagAttribute(tag, 'alt');
+    if (!alt || !alt.trim()) {
+      failures.push(`${rel}: image missing non-empty alt text`);
+    }
+  }
+}
+
 async function main() {
   if (!existsSync(distRoot)) {
     throw new Error('Missing website/dist. Run npm run build first.');
@@ -62,6 +98,8 @@ async function main() {
     }
 
     if (path.extname(file) === '.html') {
+      checkHtmlSeo(rel, text, failures);
+
       if (text.includes('rel="sitemap" href="/sitemap-index.xml"')) {
         failures.push(`${rel}: still links relative sitemap-index.xml in head`);
       }

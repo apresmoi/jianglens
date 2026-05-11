@@ -74,6 +74,9 @@ const topicSemanticFields = [
   'predictions',
 ];
 
+const META_DESCRIPTION_MIN_LENGTH = 25;
+const META_DESCRIPTION_MAX_LENGTH = 160;
+
 async function walk(dir) {
   const entries = await readdir(dir, { withFileTypes: true });
   const files = [];
@@ -132,6 +135,24 @@ function markdownText(value) {
 
 function compactText(value) {
   return markdownText(value).replace(/\s+/g, ' ').trim();
+}
+
+function metaDescription(value, fallback = 'Jiang Lens source-grounded readings with transcripts, timestamps, and evidence links.') {
+  const candidate = compactText(value) || fallback;
+  const description = candidate.length >= META_DESCRIPTION_MIN_LENGTH ? candidate : fallback;
+
+  if (description.length <= META_DESCRIPTION_MAX_LENGTH) return description;
+
+  const hardLimit = META_DESCRIPTION_MAX_LENGTH - 1;
+  const softCut = description
+    .slice(0, hardLimit)
+    .replace(/\s+\S*$/, '')
+    .replace(/[,;:\u2013\-]\s*$/, '')
+    .trim();
+  const clipped = softCut.length >= 80 ? softCut : description.slice(0, hardLimit).trim();
+
+  if (clipped.endsWith('.')) return clipped.slice(0, META_DESCRIPTION_MAX_LENGTH);
+  return `${clipped.slice(0, META_DESCRIPTION_MAX_LENGTH - 1).trim()}.`;
 }
 
 function wordExcerpt(value, maxWords = 22) {
@@ -343,7 +364,7 @@ function renderPlainArtifactHtml({ title, description, canonicalPath, body, alte
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${escapeHtml(title)}</title>
-    <meta name="description" content="${escapeHtml(description)}">
+    <meta name="description" content="${escapeHtml(metaDescription(description))}">
     <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 ${alternateLinks.join('\n')}
     <style>
@@ -454,7 +475,7 @@ function generatedTopicShell({ title, description, canonicalPath, alternates = [
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${escapeHtml(title)}</title>
-    <meta name="description" content="${escapeHtml(description)}">
+    <meta name="description" content="${escapeHtml(metaDescription(description))}">
     <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 ${alternateHead}
     <link rel="icon" href="/favicon.ico" sizes="any">
@@ -600,7 +621,7 @@ ${alternateHead}
     <header class="site-header">
       <nav class="site-nav" aria-label="Primary navigation">
         <a class="brand" href="/" aria-label="Jiang Lens home">
-          <span class="brand-mark" aria-hidden="true"><img src="/logo.png" alt=""></span>
+          <span class="brand-mark" aria-hidden="true"><img src="/logo.png" alt="Jiang Lens logo"></span>
           <span>Jiang Lens</span>
         </a>
         <div class="nav-links">${navHtml}</div>
@@ -965,7 +986,7 @@ function renderEpisodeMarkdown(episode, options = {}) {
   const lines = [
     '---',
     `title: ${yamlString(title)}`,
-    `description: ${yamlString(dek || read.thesis || title)}`,
+    `description: ${yamlString(metaDescription(dek || read.thesis || title))}`,
     `source_title: ${yamlString(sourceTitle)}`,
     `published_at: ${yamlString(episode.published_at || '')}`,
     `source_class: ${yamlString(kind)}`,
@@ -1081,7 +1102,7 @@ function renderTranscriptMarkdown(episode) {
   const lines = [
     '---',
     `title: ${yamlString(title)}`,
-    `description: ${yamlString(`Source-synced transcript archive for ${episode.title}.`)}`,
+    `description: ${yamlString(metaDescription(`Source-synced transcript archive for ${episode.title}.`))}`,
     `source_title: ${yamlString(sourceTitle)}`,
     `published_at: ${yamlString(episode.published_at || '')}`,
     `source_class: ${yamlString(kind)}`,
@@ -1593,7 +1614,7 @@ function renderTopicMarkdown(topic) {
   const lines = [
     '---',
     `title: ${yamlString(`Topic: ${topic.label}`)}`,
-    `description: ${yamlString(`Generated static Jiang Lens topic dossier for ${topic.label}.`)}`,
+    `description: ${yamlString(metaDescription(`Generated static Jiang Lens topic dossier for ${topic.label}.`))}`,
     `topic_slug: ${yamlString(topic.slug)}`,
     'generated: "true"',
     '---',
@@ -1874,7 +1895,7 @@ function renderTopicHtml(topic) {
 
   return generatedTopicShell({
     title: `Topic: ${topic.label}`,
-    description: `Generated Jiang Lens topic brief for ${topic.label}, with source readings, transcript anchors, video timestamps, and source refs.`,
+    description: metaDescription(`Generated Jiang Lens topic brief for ${topic.label}, with source readings, transcript anchors, video timestamps, and source refs.`),
     canonicalPath: `/topics/${topic.slug}/`,
     alternates: [
       { type: 'text/plain', path: `/topics/${topic.slug}.txt`, title: 'Topic text' },

@@ -1,6 +1,6 @@
 ---
 title: Nation As God-Machine
-description: A Jiang Lens concept page on nationalism as a replacement religion that turns isolated individuals into sacrificial population, mass war, and state-coordinated life.
+description: "Jiang Lens concept page on nationalism as replacement religion, sacrificial population, mass war, and state-coordinated life."
 ---
 
 # Nation As God-Machine

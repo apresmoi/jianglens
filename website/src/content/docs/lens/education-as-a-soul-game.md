@@ -1,6 +1,6 @@
 ---
 title: Education As A Soul Game
-description: A Jiang Lens concept page on school as stakeholder game, separation technology, meritocratic trauma selection, status failure, and rival soul formation through great books, Rousseau, and Viking school.
+description: "Jiang Lens concept page on education as a soul game: stakeholder conflict, meritocratic selection, status trauma, and rival formation."
 ---
 
 # Education As A Soul Game

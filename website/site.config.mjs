@@ -285,7 +285,7 @@ export const siteConfig = {
       home: {
         path: '/',
         title: 'Jiang Lens | Professor Jiang Xueqin & Predictive History Source Index',
-        description: "Jiang Lens is an independent source-grounded Jiang Xueqin and Predictive History index at jianglens.com: transcripts, concepts, claims, predictions, and evidence-linked lens compression.",
+        description: 'Independent Jiang Xueqin and Predictive History index with source-grounded transcripts, concepts, claims, and evidence links.',
         keywords: 'Jiang Xueqin, Professor Jiang, Predictive History, ChatGPT Jiang lens, Claude Jiang lens, geopolitics, game theory, eschatology, lens compression, source-grounded corpus, AI agents',
         type: 'website',
         about: [
