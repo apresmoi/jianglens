@@ -6,6 +6,7 @@ import SiteHeader from '../../components/SiteHeader.astro';
 import { absoluteUrl, externalHref } from '../../../site.config.mjs';
 import { sourceArtifactUrl } from '../../lib/agent-artifacts.mjs';
 import { episodeJsonPath, listEpisodeSlugs, readEpisode } from '../../lib/episodes.mjs';
+import { metaDescription } from '../../lib/seo.mjs';
 
 export async function getStaticPaths() {
   const slugs = await listEpisodeSlugs();
@@ -18,7 +19,7 @@ const beats = read.beats ?? [];
 const questions = read.questions ?? [];
 const pageTitle = read.title || episode.title;
 const title = `${pageTitle} | Jiang Lens`;
-const description = read.dek || `A cleaned Jiang Lens reading of ${episode.title}.`;
+const description = metaDescription(read.dek || `A cleaned Jiang Lens reading of ${episode.title}.`);
 const canonicalUrl = absoluteUrl(`/episodes/${episode.slug}/`);
 const markdownUrl = sourceArtifactUrl('episodes', episode.slug, 'md');
 const textUrl = sourceArtifactUrl('episodes', episode.slug, 'txt');

@@ -1,6 +1,6 @@
 ---
 title: Free Will As Cosmic Burden
-description: A Jiang Lens concept page on free will as love, nonintervention, chosen slavery, chosen hell, and the refusal to let institutions carry the soul's responsibility.
+description: "Jiang Lens concept page on free will as love, chosen slavery, chosen hell, and the refusal to outsource the soul to institutions."
 ---
 
 # Free Will As Cosmic Burden

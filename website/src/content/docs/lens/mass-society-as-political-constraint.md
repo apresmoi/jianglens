@@ -1,6 +1,6 @@
 ---
 title: Mass Society As Political Constraint
-description: "A Jiang Lens concept page on mass society as a scale problem: feeding, organizing, controlling, occupying, spiritually stabilizing, and managing large populations."
+description: "Jiang Lens concept page on mass society as a scale problem: feeding, organizing, controlling, occupying, and stabilizing large populations."
 ---
 
 # Mass Society As Political Constraint

@@ -1,6 +1,6 @@
 ---
 title: Use Jiang Lens With ChatGPT Or Claude
-description: Give ChatGPT, Claude, Codex, or another assistant the Jiang Lens skill so it can use source-grounded Predictive History concepts, transcripts, and evidence links.
+description: "Give ChatGPT, Claude, Codex, or another assistant the Jiang Lens skill, topic routes, transcript links, and source-grounded citation rules."
 ---
 
 # Use Jiang Lens With ChatGPT Or Claude

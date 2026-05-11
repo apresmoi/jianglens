@@ -5,6 +5,7 @@ import SiteHeader from '../../../components/SiteHeader.astro';
 import { absoluteUrl, externalHref } from '../../../../site.config.mjs';
 import { listEpisodeSlugs, readEpisode } from '../../../lib/episodes.mjs';
 import { sourceTranscriptArtifactUrl } from '../../../lib/agent-artifacts.mjs';
+import { metaDescription } from '../../../lib/seo.mjs';
 
 export async function getStaticPaths() {
   const slugs = await listEpisodeSlugs();
@@ -14,7 +15,7 @@ export async function getStaticPaths() {
 const episode = await readEpisode(Astro.params.slug);
 const transcriptSegments = episode.transcript ?? [];
 const title = `${episode.title} transcript | Jiang Lens`;
-const description = `Full transcript archive for ${episode.title}.`;
+const description = metaDescription(`Full transcript archive for ${episode.title}.`);
 const canonicalUrl = absoluteUrl(`/episodes/${episode.slug}/transcript/`);
 const markdownUrl = sourceTranscriptArtifactUrl('episodes', episode.slug, 'md');
 const textUrl = sourceTranscriptArtifactUrl('episodes', episode.slug, 'txt');

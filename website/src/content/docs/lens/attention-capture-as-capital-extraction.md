@@ -1,6 +1,6 @@
 ---
 title: Attention Capture As Capital Extraction
-description: A Jiang Lens concept page on attention as energy, capital as spiritual extraction, anxiety as work discipline, and the cave-wall systems that turn imagination into usable power.
+description: "Jiang Lens concept page on attention as capital: attention energy, anxiety discipline, cave-wall systems, and imagination as usable power."
 ---
 
 # Attention Capture As Capital Extraction

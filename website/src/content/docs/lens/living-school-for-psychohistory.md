@@ -1,6 +1,6 @@
 ---
 title: Living School For Psychohistory
-description: "A Jiang Lens concept page on Jiang's positive school dream: Great Books, historical context, model correction, human-heart variables, democratic future-making, and psychohistory."
+description: "Jiang Lens concept page on Jiang's school dream: Great Books, historical context, model correction, and democratic future-making."
 ---
 
 # Living School For Psychohistory
