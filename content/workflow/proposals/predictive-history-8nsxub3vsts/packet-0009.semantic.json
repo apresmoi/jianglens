@@ -1,0 +1,172 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0009",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0066"
+      ],
+      "kind": "monologue",
+      "summary": "He formalizes a consciousness-based power model via Plato's cave: reality is what the governed are trained to attend to, and power is control of collective attention.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0067",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0068"
+      ],
+      "kind": "monologue",
+      "summary": "He analogizes money and AI: both become dominant through making themselves unavoidable, and then social reliance transforms them into de facto gods.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that replacing human labor with AI does not remove dependence; instead, it increases extraction demands and vulnerability to corruption, inefficiency, fragility, and sabotage risks.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069"
+      ],
+      "note": "The theft/vs.build-the-code framing is vivid and possibly intentionally dramatic; keep as structural concern with low evidentiary confidence.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He asserts that AI's authority is built by controlling what people see and believe, adapting the cave/paradigm to contemporary attention economics.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "consciousness",
+        "attention-control",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He claims AI can only be kept useful by making it financially and socially pervasive ('everywhere') while also acknowledging constraints from human labeling dependence.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0067",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "infrastructure",
+        "behavioral-dependence",
+        "slavery"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies three practical constraints on the AI-god project: corruption, scaling inefficiency, and operational fragility (including sabotage of data centers).",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "constraints",
+        "sabotage",
+        "energy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He concludes that leadership underestimating these constraints can produce an 'AI apocalypse' where control ambitions destroy resilience.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "apocalypse",
+        "governance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065"
+      ],
+      "moment": "Cave metaphor as control model",
+      "source_phrase": "You have a million people looking at shadows on a wall",
+      "why_it_matters": "This is the central mechanism in his theory of AI power: engineered attention becomes engineered reality.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069"
+      ],
+      "moment": "Practical bottlenecks of AI scale",
+      "source_phrase": "three major problems ... corruption, inefficiency, fragility",
+      "why_it_matters": "These constraints are the operational counterweight to his occult thesis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "plato-cave frame",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "Model where institutions generate shared perception via repetition and authority rather than direct reality.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI apocalypse",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Instructor shorthand for a governance failure where control-seeking AI projects overrun social resilience.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0067",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "note": "After narrative framing in packet 8, this packet delivers the mechanism and constraints to make the theory operational across infrastructure, finance, and social reliance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069"
+      ],
+      "note": "The corruption-to-energy argument uses memorable but non-quantified examples; keep as argumentative framing rather than empirically demonstrated economics."
+    }
+  ]
+}

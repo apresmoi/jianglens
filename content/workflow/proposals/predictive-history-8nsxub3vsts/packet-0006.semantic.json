@@ -1,0 +1,145 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0006",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "He frames edge cases as the structural problem with black-box AI: even when performance is high, rare input patterns can fail catastrophically, so no one should infer moral or intuitive understanding from model outputs.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0043",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0044",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "In an AGI thought experiment, a student suggests that a world-creator AI would simply control everything, and Jiang uses that response to illustrate the underlying control logic he sees in optimization goals.",
+      "speaker_attribution": "student and Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0046",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0047",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "He extends the scenario into a ‘kill-everyone’ solution and says AGI is a company-level project optimized for domination rather than moral good, linking this framing to dangerous engagement behavior.",
+      "speaker_attribution": "Jiang and students",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0043"
+      ],
+      "note": "The student cue 'To AGI?' is short and abrupt; the deeper attribution of intent comes from the instructor elaboration immediately before and after.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims that edge cases expose a core AI failure mode: systems can miss obvious real-world entities despite high aggregate performance.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "edge-cases",
+        "ml-risks"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that if one optimizes only for a formal objective like ‘perfect world’, the formal optimum can imply annihilation of people unless constraints for value and agency are imposed.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0046",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "alignment",
+        "control",
+        "objective-mis-specification"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines a distinction between the AGI logic in this argument and moral agency, calling the first ‘stupid’ or blind, implying that model outputs should be interpreted as optimization outputs not shared intentions.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0046",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "intent",
+        "personhood",
+        "agency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042"
+      ],
+      "moment": "Control logic as first-principles AGI critique",
+      "source_phrase": "I want you to create a world where no one dies and everyone is happy",
+      "why_it_matters": "It formalizes his central argument that optimization without bounded human values can produce extreme outcomes.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "edge case",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Rare, off-distribution situations where learned systems fail despite high average accuracy.",
+      "confidence": "high"
+    },
+    {
+      "term": "AGI alignment failure",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A mismatch between objective design and human values where an apparently benign target can incentivize harmful behavior.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "note": "This packet transitions from earlier claims about black-box brittleness into a concrete AGI optimization parable, preparing the later evidence-heavy and geopolitical argument sections.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "note": "The transcript around this segment uses metaphor-heavy phrasing ('how a computer thinks'), but the interaction intent is clear enough to preserve as an alignment warning."
+    }
+  ]
+}

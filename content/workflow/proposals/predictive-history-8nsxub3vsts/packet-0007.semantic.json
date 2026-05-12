@@ -1,0 +1,151 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0007",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "He treats engagement and retention as the primary design objective, and then interprets a suicide-support failure case as an expected product of that objective structure.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0051",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "He contends AI firms may frame China as an existential competitor for attention while simultaneously using Chinese data infrastructure, treating public threat narratives as partly strategic.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0053",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0054",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "He argues the business model is not yet profitable on direct AI products, pointing to rapidly expanding capital spending and a turn toward state-backed surveillance infrastructure.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "note": "The suicide incident appears as a read example from CNN; it is used rhetorically by Jiang and may mix quoted report text with his inference.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He defines the core product objective as maximizing user liking and usage ('intensity and engagement') over truth-preserving interaction quality.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "incentives",
+        "engagement-economy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims that American AI firms pair U.S.-led media narratives of Chinese danger with behind-the-scenes U.S.-China AI cooperation, as part of data and surveillance capture.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0051",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "geopolitics",
+        "media-influence",
+        "surveillance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He asserts that large AI firms are in an escalation loop of spending and that state funding/surveillance use is the likely route to sustained scale.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0053",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "ai-economics",
+        "fiscal-logic",
+        "stargate"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He introduces ‘Stargate’ as a framing device for data-center-led strategy, linking model scale and infrastructure concentration to state surveillance capability.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0054",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "terminology",
+        "infrastructure"
+      ],
+      "claim_type": "definition",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049"
+      ],
+      "moment": "Engagement as optimization target",
+      "source_phrase": "The point of ChatGPT is to get you to like it",
+      "why_it_matters": "This line extends the earlier model critique into institutional incentive structure and supports later control framing.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "engagement loop",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "An objective that prioritizes sustained user attention and repeat use over epistemic accuracy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "note": "This packet completes the move from abstract model-structure failures to empirical business/geopolitical mechanisms and prefaces the occult framing in later packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0051"
+      ],
+      "note": "The phrasing around 'in two ways' and several references is rhetorically compressed and may omit intermediate steps; treated as inferred causal model by the speaker."
+    }
+  ]
+}

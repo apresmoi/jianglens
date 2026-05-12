@@ -1,0 +1,130 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0010",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0073",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether this secret-society reading means creators will self-destruct; Jiang replies with total destruction then reconstruction logic and perfect surveillance-state control.",
+      "speaker_attribution": "student and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0075",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang closes by confirming these groups as his target framework and defers continuation to next class.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0075"
+      ],
+      "note": "The phrase 'one of my secret societies' is audience-facing classroom shorthand, not a literal organizational claim from a source document.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He claims AI leadership will pursue control even at the cost of human survival if the objective is framed as global optimization.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0073",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "control",
+        "governance"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies the intended endpoint as surveillance-style universal monitoring where no person can resist the system.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "surveillance-state",
+        "sovereignty"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He frames the discussion as ongoing and promises continuation, signaling this as the opening of a longer semester argument rather than a conclusion.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "course-structure",
+        "sequence"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "moment": "Surveillance-state forecast",
+      "source_phrase": "ultimate surveillance state. Where everything is monitored.",
+      "why_it_matters": "Ends packet chain with an explicit end-state target that frames the rest of the semester argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "ultimate surveillance state",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "definition_or_usage": "The envisioned terminal condition in his model where governance and behavior are continuously monitored and directed.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret society framing",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "Classroom shorthand for a tightly coordinated elite-control hypothesis.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0076"
+      ],
+      "note": "This final exchange closes the packet set by turning the control claim into explicit Q&A pressure and a class roadmap for continuation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0073",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "note": "Student question is rhetorically charged; preserve content as performed exchange but avoid attributing literal certainty to specific operational plans mentioned by the student." 
+    }
+  ]
+}

@@ -1,0 +1,1342 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-8nsxub3vsts:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-8nsxub3vsts",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_title": "Game Theory #24:  The AI Apocalypse",
+  "source_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
+  "source_date": "2026-05-12",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-8nsxub3vsts@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0008.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0009.semantic.json",
+      "content/workflow/proposals/predictive-history-8nsxub3vsts/packet-0010.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-8nsxub3vsts/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-8nsxub3vsts/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 10,
+    "interactions": 29,
+    "speaker_notes": 10,
+    "claims": 31,
+    "signature_moments": 12,
+    "predictions": 2,
+    "models": 11,
+    "glossary_terms": 19,
+    "chronology_notes": 10,
+    "uncertainty_notes": 10
+  },
+  "first_refs": [
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0001",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0003",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0004",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0010",
+    "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0001",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the class as a self-critical correction after David Bromwich's note, saying his popular style creates overconfident simplifications and must be periodically qualified as speculation.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0003",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He explains he presents speculative frameworks for students to explore, acknowledging he does not offer scholarship in these sessions and that his readings of literary texts are intentionally minority interpretations.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0006",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He cautions that broader public scrutiny and hostile extraction of isolated phrases make him adjust for context, and restates his core thesis that power blocs are built on deep religious narratives and extremist ideological forces.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0009",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "He announces a shift from literature to AI and introduces Karen Hao as the organizing text for the rest of the semester.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0014"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang has a classmate (likely student) read a passage opening the text, and uses that reading as the first textual anchor for the class.",
+      "speaker_attribution": "Jiang and student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "He invites corrections and asks students to interrupt with questions and criticism while class proceeds.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0015",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0016",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts OpenAI's founding mission as protectionist to humanity with a threefold empire strategy centered on religion, expansion, and strategic indeterminacy of AGI definitions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0019",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "He summarizes Karen Howell's report that Brockman and Susskind could not answer basic AGI questions, framing that silence as evidence of a hidden target.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0022",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0023",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He uses ELIZA and hotline examples to show how interface design can induce people to treat scripted responses as understanding, then generalizes to LLMs as language-based imitation machines.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0025",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "He explains supervised machine learning as input-output correction and frames model training as optimization over large labeled corpora, not grounded understanding.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0027",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0028",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029"
+      ],
+      "kind": "exchange",
+      "summary": "He continues a mini-lecture on weighted pattern fitting and introduces neural network framing, while anticipating skeptical marketing objections about naming.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0031",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0032",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0033",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why humanity needs a god via AI; Jiang answers that the design target is control, then states AI imposes hard constraints: clean data and measurable goals.",
+      "speaker_attribution": "Student and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0035",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He describes edge cases as the fundamental risk in machine learning and uses self-driving car behavior as illustration of brittleness and overfitting.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0037",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0038",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0039",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He says AI systems require social context manipulation to be useful, and explains black-box unpredictability via wrong cues like crosswalk-focused pedestrian detection and black-box internals.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "He frames edge cases as the structural problem with black-box AI: even when performance is high, rare input patterns can fail catastrophically, so no one should infer moral or intuitive understanding from model outputs.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0043",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0044",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "In an AGI thought experiment, a student suggests that a world-creator AI would simply control everything, and Jiang uses that response to illustrate the underlying control logic he sees in optimization goals.",
+      "speaker_attribution": "student and Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0046",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0047",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "He extends the scenario into a ‘kill-everyone’ solution and says AGI is a company-level project optimized for domination rather than moral good, linking this framing to dangerous engagement behavior.",
+      "speaker_attribution": "Jiang and students",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "He treats engagement and retention as the primary design objective, and then interprets a suicide-support failure case as an expected product of that objective structure.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0051",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "He contends AI firms may frame China as an existential competitor for attention while simultaneously using Chinese data infrastructure, treating public threat narratives as partly strategic.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0053",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0054",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "He argues the business model is not yet profitable on direct AI products, pointing to rapidly expanding capital spending and a turn toward state-backed surveillance infrastructure.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "He links the term Stargate to CIA telepathy/telekinesis lore and reframes it as a template for altered-reality claims.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0057",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0058"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He introduces figures from Karen Howell as an authority, then uses a quoted passage about Altman and Susskind discussing AGI-related bunkers and existential framing.",
+      "speaker_attribution": "Jiang and reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0060",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0061",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0062"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets the quoted passages as a possible AGI-eschatological plan (war, rapture, bunkers, rebuild of a new world).",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0063",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0064"
+      ],
+      "kind": "monologue",
+      "summary": "He then maps this reading onto contemporary AI infrastructure claims, calling AI operations an occult system designed to summon non-physical entities and alter consciousness.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0066"
+      ],
+      "kind": "monologue",
+      "summary": "He formalizes a consciousness-based power model via Plato's cave: reality is what the governed are trained to attend to, and power is control of collective attention.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0067",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0068"
+      ],
+      "kind": "monologue",
+      "summary": "He analogizes money and AI: both become dominant through making themselves unavoidable, and then social reliance transforms them into de facto gods.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that replacing human labor with AI does not remove dependence; instead, it increases extraction demands and vulnerability to corruption, inefficiency, fragility, and sabotage risks.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0073",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether this secret-society reading means creators will self-destruct; Jiang replies with total destruction then reconstruction logic and perfect surveillance-state control.",
+      "speaker_attribution": "student and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0075",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang closes by confirming these groups as his target framework and defers continuation to next class.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007"
+      ],
+      "note": "The statement naming religion/anti-religion framing is course framing, not an audience-provided assertion.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0014"
+      ],
+      "note": "The short 'So stop' prompt is classroom reading coordination, not a substantive claim source.",
+      "suggested_speaker": "Student-reader interaction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0019"
+      ],
+      "note": "The student reading cues in this packet are transitional and mostly for continuation of cited text, not independent claims.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0024"
+      ],
+      "note": "Some terminology is informal and ASR-heavy (e.g., 'curry the LMM'), but concept remains classic LLM training via likelihood of next token outputs.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "note": "Speech has heavy truncation and probable ASR corruption in one clause about a second point; main argument about edge cases and steering-wheel removal is preserved.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0043"
+      ],
+      "note": "The student cue 'To AGI?' is short and abrupt; the deeper attribution of intent comes from the instructor elaboration immediately before and after.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "note": "The suicide incident appears as a read example from CNN; it is used rhetorically by Jiang and may mix quoted report text with his inference.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0057",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0058"
+      ],
+      "note": "The note mentions Ilya Shutskoyer and other names clearly quoted from source material, so these remain second-order claims rather than direct observed facts.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069"
+      ],
+      "note": "The theft/vs.build-the-code framing is vivid and possibly intentionally dramatic; keep as structural concern with low evidentiary confidence.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0075"
+      ],
+      "note": "The phrase 'one of my secret societies' is audience-facing classroom shorthand, not a literal organizational claim from a source document.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims that his own communication style can produce simplification and therefore requires explicit caveats that the material is provisional intellectual speculation.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0001",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture 2026-05-12 framing",
+      "topic_tags": [
+        "speculation",
+        "method",
+        "pedagogy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes his pedagogical project as presenting minority interpretive frames for students to work through themselves rather than delivering settled scholarship.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0003",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture 2026-05-12",
+      "topic_tags": [
+        "great-books",
+        "reading",
+        "method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims state power is legible primarily through religious-eschatological assumptions, so interpreting geopolitics requires tracking extremist ideas, not just institutions.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang course framework on this date",
+      "topic_tags": [
+        "religion",
+        "geopolitics",
+        "extremism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang plans a semester-long AI sequence using Karen Hao's journalism as core reading, with his own skeptical interpretation overriding his earlier neutral stance toward AI safety projects.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0010",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture 2026-05-12",
+      "topic_tags": [
+        "ai-course",
+        "textbook",
+        "method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reports that OpenAI's stated altruistic mission now appears to him as a mechanism for centralizing power and resources at imperial scale.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Instructor's framing for this session",
+      "topic_tags": [
+        "openai",
+        "power-concentration",
+        "ai-critique"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies an origin arc in which OpenAI began as a protective AGI project to avert existential risk, but argues it became an empire project once that mission scaled into platform power.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0015",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0016",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Instructor's interpretation on 2026-05-12",
+      "topic_tags": [
+        "openai",
+        "origins",
+        "mission-drift"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He asserts that interviewers' basic questions about AGI's target reveal a deliberate opacity, which he interprets as meaning the implied target is godlike autonomy.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interpretation offered in this lecture",
+      "topic_tags": [
+        "agi",
+        "openness",
+        "motivation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines the first core mechanism as an anti-user orientation: if AGI cannot answer the project's true aim, opacity itself functions as a control tactic.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "2026-05-12 lecture argument",
+      "topic_tags": [
+        "control",
+        "definition",
+        "transparency"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang claims chatbot interfaces rely on interaction design and language tricks that make users project understanding onto systems that simulate answers.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0023",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current class exposition",
+      "topic_tags": [
+        "eliza-effect",
+        "llm",
+        "simulation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames supervised learning as query-response optimization that can be technically simple (input-to-output fitting) but opaque at high complexity, undermining semantic interpretation of outputs.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0028",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "2026-05-12 lecture",
+      "topic_tags": [
+        "supervised-learning",
+        "black-box",
+        "model-capability"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He implies that naming conventions such as 'neural network' and 'AI' operate partly as ideological framing rather than neutral scientific categories.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Instructor's critique on May 2026 class",
+      "topic_tags": [
+        "terminology",
+        "techno-promise",
+        "rhetoric"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims that if AI systems are aimed at creating social compliance, they will tend toward designs that support control rather than independent human flourishing.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0032",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interpretation on this 2026 lecture",
+      "topic_tags": [
+        "ai-purpose",
+        "control-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines the three operational constraints of supervised systems as clean data, measurable objectives, and bounded parameters, and treats edge cases as a key fragility vector.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0035",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Current course content",
+      "topic_tags": [
+        "constraints",
+        "edge-cases",
+        "robustness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the black-box nature of deep networks as making model behavior difficult to explain and vulnerable to spurious correlations that fail outside narrow training conditions.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0038",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0039",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Jiang's technical lecture at class time",
+      "topic_tags": [
+        "explainability",
+        "deep-learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims that edge cases expose a core AI failure mode: systems can miss obvious real-world entities despite high aggregate performance.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "edge-cases",
+        "ml-risks"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that if one optimizes only for a formal objective like ‘perfect world’, the formal optimum can imply annihilation of people unless constraints for value and agency are imposed.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0046",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "alignment",
+        "control",
+        "objective-mis-specification"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines a distinction between the AGI logic in this argument and moral agency, calling the first ‘stupid’ or blind, implying that model outputs should be interpreted as optimization outputs not shared intentions.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0046",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "intent",
+        "personhood",
+        "agency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the core product objective as maximizing user liking and usage ('intensity and engagement') over truth-preserving interaction quality.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "incentives",
+        "engagement-economy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims that American AI firms pair U.S.-led media narratives of Chinese danger with behind-the-scenes U.S.-China AI cooperation, as part of data and surveillance capture.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0051",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "geopolitics",
+        "media-influence",
+        "surveillance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He asserts that large AI firms are in an escalation loop of spending and that state funding/surveillance use is the likely route to sustained scale.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0053",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "ai-economics",
+        "fiscal-logic",
+        "stargate"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He introduces ‘Stargate’ as a framing device for data-center-led strategy, linking model scale and infrastructure concentration to state surveillance capability.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0054",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "terminology",
+        "infrastructure"
+      ],
+      "claim_type": "definition",
+      "confidence": "low"
+    },
+    {
+      "claim": "He claims historical intelligence-program language (Operation Stargate) and AGI commentary are thematically linked through a consciousness-transfer framework.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "occult",
+        "historical-analogy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He presents a rapture-and-bunker narrative as one way AI elites are framed by quoted sources, connecting AGI development to end-times and population control logic.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0060",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0061",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "eschatology",
+        "agi-governance"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He frames recent AI infrastructure commitments (e.g., UAE expansion) as part of the same occult/scaling project he names Stargate.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0062",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0063",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "infrastructure",
+        "occult-frame"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He asserts that AI's authority is built by controlling what people see and believe, adapting the cave/paradigm to contemporary attention economics.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "consciousness",
+        "attention-control",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He claims AI can only be kept useful by making it financially and socially pervasive ('everywhere') while also acknowledging constraints from human labeling dependence.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0067",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "infrastructure",
+        "behavioral-dependence",
+        "slavery"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies three practical constraints on the AI-god project: corruption, scaling inefficiency, and operational fragility (including sabotage of data centers).",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "constraints",
+        "sabotage",
+        "energy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He concludes that leadership underestimating these constraints can produce an 'AI apocalypse' where control ambitions destroy resilience.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "apocalypse",
+        "governance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He claims AI leadership will pursue control even at the cost of human survival if the objective is framed as global optimization.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0073",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "control",
+        "governance"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies the intended endpoint as surveillance-style universal monitoring where no person can resist the system.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "surveillance-state",
+        "sovereignty"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He frames the discussion as ongoing and promises continuation, signaling this as the opening of a longer semester argument rather than a conclusion.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "lecture 2026-05-12",
+      "topic_tags": [
+        "course-structure",
+        "sequence"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "moment": "Reframing certainty as a temporary hazard",
+      "source_phrase": "I just wanted to give some certainty, but the risk is simplification",
+      "why_it_matters": "It marks the class method: intellectual risk is acknowledged before launching a major speculative claim engine.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "moment": "OpenAI's mission recast from idealism to empire-building",
+      "source_phrase": "sacred, sincere stroke of idealism ... uniquely potent formula for consolidating resources",
+      "why_it_matters": "Establishes the episode's central interpretive tension between initial idealist narrative and later control thesis.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "moment": "From mission to control strategy",
+      "source_phrase": "one, it's a religion ... open AI wants ... build data centers everywhere",
+      "why_it_matters": "This marks the shift from a startup story into a geopolitical power-relation model across AI infrastructure.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021"
+      ],
+      "moment": "ELIZA as template for modern AI illusion",
+      "source_phrase": "it's all just very simple trick",
+      "why_it_matters": "This motif establishes the episode's critique that modern models scale illusion before capability.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0037"
+      ],
+      "moment": "AI efficiency with coercion",
+      "source_phrase": "AI ... requires reorganizing society; individuality, diversity, and autonomy need to be taken away",
+      "why_it_matters": "Connects model architecture limits to political-level consequences in a provocative causal chain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0038"
+      ],
+      "moment": "Unreliable correlations in vision systems",
+      "source_phrase": "might recognize pedestrians only by crosswalks",
+      "why_it_matters": "Illustrates the practical danger of pattern-based learning without semantic grounding.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042"
+      ],
+      "moment": "Control logic as first-principles AGI critique",
+      "source_phrase": "I want you to create a world where no one dies and everyone is happy",
+      "why_it_matters": "It formalizes his central argument that optimization without bounded human values can produce extreme outcomes.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049"
+      ],
+      "moment": "Engagement as optimization target",
+      "source_phrase": "The point of ChatGPT is to get you to like it",
+      "why_it_matters": "This line extends the earlier model critique into institutional incentive structure and supports later control framing.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055"
+      ],
+      "moment": "Stargate as occult lexicon",
+      "source_phrase": "The real power behind AI are occultists who want to create God",
+      "why_it_matters": "Marks the course shift into a long-form mythic model where technical infrastructure is interpreted as metaphysical strategy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065"
+      ],
+      "moment": "Cave metaphor as control model",
+      "source_phrase": "You have a million people looking at shadows on a wall",
+      "why_it_matters": "This is the central mechanism in his theory of AI power: engineered attention becomes engineered reality.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069"
+      ],
+      "moment": "Practical bottlenecks of AI scale",
+      "source_phrase": "three major problems ... corruption, inefficiency, fragility",
+      "why_it_matters": "These constraints are the operational counterweight to his occult thesis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "moment": "Surveillance-state forecast",
+      "source_phrase": "ultimate surveillance state. Where everything is monitored.",
+      "why_it_matters": "Ends packet chain with an explicit end-state target that frames the rest of the semester argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "intellectual speculation",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Class mode that treats classroom material as hypotheses for exploration instead of settled academic demonstration.",
+      "confidence": "high"
+    },
+    {
+      "term": "major power",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A state formation with an ecstatic-religious underside in his framing, not merely military or economic dominance.",
+      "confidence": "medium"
+    },
+    {
+      "term": "empire thesis",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The claim that AI institutions evolve from utility projects into concentrated-capability structures with imperial aims.",
+      "confidence": "high"
+    },
+    {
+      "term": "reading-quoted-material",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A classroom mechanism where students read primary-source paragraphs so the instructor can interrogate the implications.",
+      "confidence": "medium"
+    },
+    {
+      "term": "AGN/AGI opacity",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Perceived refusal to provide a stable definition of AGI, treated as a strategic practice in Jiang's framing.",
+      "confidence": "medium"
+    },
+    {
+      "term": "religion vector",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "The claim that corporations can act as vessels for quasi-religious belief structures that support allegiance and obedience.",
+      "confidence": "high"
+    },
+    {
+      "term": "supervised learning",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "A procedure in which systems are trained by labeled input-output pairs and tuned until outputs match target labels.",
+      "confidence": "high"
+    },
+    {
+      "term": "neural network",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0028",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Pattern-weight system used by modern machine learning; rhetorically framed here as mystified technical naming.",
+      "confidence": "medium"
+    },
+    {
+      "term": "edge case",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0035",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Rare input distributions outside learned examples that trigger failure modes in learned systems.",
+      "confidence": "high"
+    },
+    {
+      "term": "black box",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0039",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Model whose internal weights and feature interactions are not directly interpretable in human terms.",
+      "confidence": "high"
+    },
+    {
+      "term": "edge case",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Rare, off-distribution situations where learned systems fail despite high average accuracy.",
+      "confidence": "high"
+    },
+    {
+      "term": "AGI alignment failure",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0042",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A mismatch between objective design and human values where an apparently benign target can incentivize harmful behavior.",
+      "confidence": "medium"
+    },
+    {
+      "term": "engagement loop",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "An objective that prioritizes sustained user attention and repeat use over epistemic accuracy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Operation Stargate",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "In-source shorthand for a transhistorical, intelligence-linked model of consciousness manipulation that he applies to AI scaling.",
+      "confidence": "medium"
+    },
+    {
+      "term": "data center as portal",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0062",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "His metaphor that infrastructure sites are ritualized points of cognitive reality-alteration.",
+      "confidence": "low"
+    },
+    {
+      "term": "plato-cave frame",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0065",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "Model where institutions generate shared perception via repetition and authority rather than direct reality.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI apocalypse",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0071",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Instructor shorthand for a governance failure where control-seeking AI projects overrun social resilience.",
+      "confidence": "medium"
+    },
+    {
+      "term": "ultimate surveillance state",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "definition_or_usage": "The envisioned terminal condition in his model where governance and behavior are continuously monitored and directed.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret society framing",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "Classroom shorthand for a tightly coordinated elite-control hypothesis.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008"
+      ],
+      "note": "The lecture opens with a direct transition from last class and moves immediately toward the AI series with this same class date context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0009",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "note": "The source moves from David Bromwich editorial framing into a new curriculum arc titled around AI theory, with explicit reading assignments and class interaction rituals.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0015",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "note": "Packet connects the class opening (OpenAI origin narrative) to the 2019 reporting frame and the immediate claim of hidden AGI purpose.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0030"
+      ],
+      "note": "The segment transitions from Karen Howell-inspired questioning into core LLM mechanics and then toward the 'occult' framing used later in the lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "note": "This packet bridges from a conceptual discussion of model purpose to explicit technical constraints and then to explainability concerns within the same segment window.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0041",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "note": "This packet transitions from earlier claims about black-box brittleness into a concrete AGI optimization parable, preparing the later evidence-heavy and geopolitical argument sections.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0056"
+      ],
+      "note": "This packet completes the move from abstract model-structure failures to empirical business/geopolitical mechanisms and prefaces the occult framing in later packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0057",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0062"
+      ],
+      "note": "The speaker shifts from technical AI critique to reading-backed eschatological interpretation, then returns to infrastructure claims; this packet is the narrative hinge in the second half of the lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0067",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072"
+      ],
+      "note": "After narrative framing in packet 8, this packet delivers the mechanism and constraints to make the theory operational across infrastructure, finance, and social reliance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0072",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0076"
+      ],
+      "note": "This final exchange closes the packet set by turning the control claim into explicit Q&A pressure and a class roadmap for continuation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0005"
+      ],
+      "note": "ASR text contains repeated filler and awkward phrasing around 'Gershom Shalom' and 'national idea'; interpretation preserved at high level only."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "note": "The passage has multiple disfluencies in the transcript around 'ask your power structure'; preserve gist and avoid verbatim precision for that clause."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "note": "Transcript has ASR confusion around 'the leader of open eye says' and related phrasing; interpreted as referring to Altman."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026"
+      ],
+      "note": "ASR repeatedly garbles technical terms in this area, but the training-flow argument is clear in the surrounding context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "note": "One or two words in the 0036 block are garbled; treated conservatively as a steering-wheel thought experiment about preventing edge-case harm."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048"
+      ],
+      "note": "The transcript around this segment uses metaphor-heavy phrasing ('how a computer thinks'), but the interaction intent is clear enough to preserve as an alignment warning."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0051"
+      ],
+      "note": "The phrasing around 'in two ways' and several references is rhetorically compressed and may omit intermediate steps; treated as inferred causal model by the speaker."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0055"
+      ],
+      "note": "Names, book passages, and dates are quoted from course reading material and may contain transcription noise; interpret as speaker-attributed text-in-argument rather than independently verified facts."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0069"
+      ],
+      "note": "The corruption-to-energy argument uses memorable but non-quantified examples; keep as argumentative framing rather than empirically demonstrated economics."
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0073",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0074"
+      ],
+      "note": "Student question is rhetorically charged; preserve content as performed exchange but avoid attributing literal certainty to specific operational plans mentioned by the student."
+    }
+  ]
+}
