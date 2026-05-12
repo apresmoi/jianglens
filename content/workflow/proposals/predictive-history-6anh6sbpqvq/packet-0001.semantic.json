@@ -1,0 +1,106 @@
+{
+  "packet_id": "predictive-history-6anh6sbpqvq-semantics-pkt-0001",
+  "source_id": "video:predictive-history-6anh6sbpqvq",
+  "source_date": "2026-05-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0002",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0005",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0006",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0007",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Game Theory #23 as a long-horizon chessboard framing where U.S., Israel, Iran, and Russia are the central players and frames the lesson as predicting five- to ten-year geopolitical behavior.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "note": "Diarization appears consistent as single instructor monologue in this opening block.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the next lecture as covering World War III as a prolonged contest among four core players: the United States, Israel, Iran, and Russia, with geopolitical dynamics that drive the next five to ten years.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0007",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "2026-05-07 lecture framing",
+      "topic_tags": ["geopolitics", "forecast", "great-power-competition"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He rejects the idea that peace is temporary and tied only to leadership changes, arguing the conflict is also driven by structural internal tensions and elite competition.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0002",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["conflict-dynamics", "elite"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies transnational capital as globally dominant and says it faces opposition from nationalism, religion/Orthodoxy, and technology-based forces in the four-state rivalry.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["economy", "ideology", "competition"],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003"
+      ],
+      "moment": "Game-theory framing of geopolitical conflict as a structured opposition between transnational capital and three counter-forces.",
+      "source_phrase": "the people who run the world are transnational capital ... so there are three major forces that oppose transnational capital",
+      "why_it_matters": "This is the organizing causal model used to interpret U.S.-Russia-Iran-Israel behavior throughout the class.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "transnational capital",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A model label for elites coordinating across Russia, Iran, Israel, and U.S. elites through finance and global circulation.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "note": "Packet 1 establishes the lecture's baseline model and player list for subsequent packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

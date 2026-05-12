@@ -1,0 +1,766 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-6anh6sbpqvq:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-6anh6sbpqvq",
+  "source_id": "video:predictive-history-6anh6sbpqvq",
+  "source_title": "Game Theory #23:  The WWIII Chessboard",
+  "source_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ",
+  "source_date": "2026-05-07",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-6anh6sbpqvq@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-6anh6sbpqvq/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-6anh6sbpqvq/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-6anh6sbpqvq/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 7,
+    "speaker_notes": 7,
+    "claims": 21,
+    "signature_moments": 7,
+    "predictions": 2,
+    "models": 9,
+    "glossary_terms": 7,
+    "chronology_notes": 7,
+    "uncertainty_notes": 1
+  },
+  "first_refs": [
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0007",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0002",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0005",
+    "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0002",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0005",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0006",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0007",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces Game Theory #23 as a long-horizon chessboard framing where U.S., Israel, Iran, and Russia are the central players and frames the lesson as predicting five- to ten-year geopolitical behavior.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0010",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0011",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0012",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0013",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0014",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0015",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "He handles audience-style objections about China and other major economies by reducing distinctiveness to their inability to mobilize population-level total war in the same way as the four central players.",
+      "speaker_attribution": "Jiang (class Q/A structure)",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0018",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0019",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0020",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0021",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0022",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0023",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He translates war into a chess model (king/political system, queen/grand strategy, minor pieces as attack vectors and pawns) and applies it to U.S. and American institutions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0025",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0026",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0027",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0028",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0029",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0031",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts U.S. and Russian civilizations: both have strengths and risks, then pivots to literary canons that encode each civilization’s moral priorities.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0033",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0034",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0035",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0036",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0037",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0038",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0039",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "He reads from Paradise Lost and Anna Karenina as contrasts to illustrate why love, duty, and ambition diverge between Western and Russian moral vocabularies.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0041",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0042",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0043",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0044",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0045",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0046",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0047",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "He links Iranian and Israeli strategic narratives to religious structures, then introduces Kabbalah as a metaphysical foundation for Israel’s conduct.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0049",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0050",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0051",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0052"
+      ],
+      "kind": "monologue",
+      "summary": "He closes with a Kabbalah-based model (thesis/antithesis/synthesis via transgression and redemption), then projects that four competing worldviews will continue driving geopolitics.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "note": "Diarization appears consistent as single instructor monologue in this opening block.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016"
+      ],
+      "note": "Rhetorical audience questions ('What about China?') and replies appear in Jiang's own speech flow.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0019"
+      ],
+      "note": "One segment shows unusual wording around media control and the U.S. dollar; treat as paraphrased claim, not verbatim economic precision.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0027",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0031"
+      ],
+      "note": "The speech includes a direct literary lecture segment with heavy quotation; claim-level references should stay close to quoted segments.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0040"
+      ],
+      "note": "Literary passages are read aloud and then interpreted as evidence of civilizational psychology.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0046",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0048"
+      ],
+      "note": "These are two `UNKNOWN` diarization spans; likely short acknowledgements from the same speaker flow.",
+      "suggested_speaker": "Jiang",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0049",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0050"
+      ],
+      "note": "Terminology resembles theological framing and is dense; claims track the spoken model rather than independent doctrinal interpretation.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the next lecture as covering World War III as a prolonged contest among four core players: the United States, Israel, Iran, and Russia, with geopolitical dynamics that drive the next five to ten years.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0007",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "2026-05-07 lecture framing",
+      "topic_tags": [
+        "geopolitics",
+        "forecast",
+        "great-power-competition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He rejects the idea that peace is temporary and tied only to leadership changes, arguing the conflict is also driven by structural internal tensions and elite competition.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0002",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "conflict-dynamics",
+        "elite"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies transnational capital as globally dominant and says it faces opposition from nationalism, religion/Orthodoxy, and technology-based forces in the four-state rivalry.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "economy",
+        "ideology",
+        "competition"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues China is culturally an historical middle-kingdom, largely non-expansionary in worldview terms, so short-run globalization is presented as an aberration rather than core norm.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "china",
+        "civilization",
+        "grand-strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies three current battlefields in this phase: Ukraine, Iran, and North America/Cuba,",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0011",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "conflict",
+        "battlefields",
+        "war-theater"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts that naval choke-points and trade access will likely become a major future front because U.S. control and Russian counter-moves are framed as economically coercive strategies.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0012",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0013",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "trade",
+        "naval",
+        "coercion"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He presents war as an attempt to put a rival into check by attacking political systems rather than purely military systems.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0015",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "strategy",
+        "war-model",
+        "great-power-conflict"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the U.S. system is represented as a democracy with innovation strengths but polarization as weakness, and outlines a technate strategy led by AI and expert control.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "usa",
+        "political-system",
+        "technocracy",
+        "AI"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He links a U.S. debt-management mechanism to forcing global dependence on U.S. weapons/resources through trade and financing pressure.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0020",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "finance",
+        "debt",
+        "coercion"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He casts Russia as an autocracy with long-term planning advantages but succession vulnerability, while treating the U.S. as democratic with innovation upside and polarization downside.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0027",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0028",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "civilization",
+        "governance",
+        "autocracy",
+        "democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Anglo-American thought is structured by individual achievement and rebellion against constraint, while Russian thought stresses duty, humility, and rejecting egoic overreaching.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0025",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0026",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0031",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "philosophy",
+        "civilization",
+        "culture"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He uses literary references (Milton, Goethe, Ayn Rand, Dostoevsky, Augustine) as evidence that each civilization’s strategy comes from different stories about God, selfhood, and pride.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0022",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0024",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "literature",
+        "method",
+        "ideology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He uses Anna Karenina as an example of how desire framed as love can become control and domination when subordinated to ego.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0033",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0034",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0035",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "literature",
+        "psychology",
+        "love",
+        "control"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He contrasts American and Russian interpretations of Adam and Eve by saying America treats disobedience as progress, while Russia treats it as pride leading to fallibility and the need for humility.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0037",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0038",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0039",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "theology",
+        "civilization",
+        "geopolitics"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He proposes that Iranian strategy is driven by Shia exceptionalism and a theocratic narrative that explains resilience in asymmetric conditions.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0038",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "iran",
+        "religion",
+        "grand-strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Iran’s cultural system combines Zoroastrian eschatology and Shia traditions, producing long-term cohesion and willingness to fight to the death.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0040",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0041",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "iran",
+        "religion",
+        "martyrdom"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He describes Israel as a democracy-and-theocracy with a strategic objective named Greater Israel, supported by biblical narrative, intelligence networks, and diaspora financing channels.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0042",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0043",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0044",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "israel",
+        "strategy",
+        "grand-project"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He asserts Israel seeks broad regional escalation through false-flag dynamics where conflicts generated by others can still serve its own strategic goals.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0044",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "geopolitics",
+        "escalation",
+        "false-flag"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He defines the Kabbalistic schema as requiring moral acceleration through sin and repentance, arguing this underwrites why doing evil may be treated as a path to eventual redemption.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0049",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0050",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "kabbalah",
+        "morality",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He contrasts Kabbalistic ethics with a Russian catacomb tradition that tries to stop the end of Christ, describing the latter as anti-transgression.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": [
+        "tradition",
+        "theology",
+        "contrast"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts these four player-worldviews (U.S., Russia, Iran, Israel) will continue to drive geopolitics for five to ten years by forcing the world to align with their own worldview goals.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0051",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "2026-05-07 lecture forecast",
+      "topic_tags": [
+        "forecast",
+        "war",
+        "geopolitics"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003"
+      ],
+      "moment": "Game-theory framing of geopolitical conflict as a structured opposition between transnational capital and three counter-forces.",
+      "source_phrase": "the people who run the world are transnational capital ... so there are three major forces that oppose transnational capital",
+      "why_it_matters": "This is the organizing causal model used to interpret U.S.-Russia-Iran-Israel behavior throughout the class.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0010"
+      ],
+      "moment": "Reframing China from competitor to culturally distinct power changes which states are analytically central.",
+      "source_phrase": "What about China? ... China doesn't really matter in the great scheme of things",
+      "why_it_matters": "This sharp move keeps the four-state model from being diluted by nominal GDP scale or population arguments.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017"
+      ],
+      "moment": "The chess-board analogy turns systemic geopolitics into a game of political architecture, not battlefield arithmetic.",
+      "source_phrase": "when you fight a war you're not trying to defeat ... you're trying to put your opponent in check by attacking the political system",
+      "why_it_matters": "It establishes the governing analytic frame for his forecast of U.S. and Russian behavior.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030"
+      ],
+      "moment": "The Russia-West opposition is made concrete through competing canons of pride and duty rather than policy headlines.",
+      "source_phrase": "Russian civilization is very different... in opposition... what underpins Moscow's force? the third Rome strategy are certain texts",
+      "why_it_matters": "This is a durable interpretive model for how he justifies why strategy changes do not converge even under shared constraints.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0035"
+      ],
+      "moment": "He converts a literary scene about obsession into a geopolitical analogy about wanting subjects rather than people.",
+      "source_phrase": "But it makes me ... without what I want, that's a thousand times worse than unkindness",
+      "why_it_matters": "The move keeps the class’s core claim that worldview is built by cultural narratives rather than policy facts alone.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0047"
+      ],
+      "moment": "He reframes national behavior through a metaphysical axis: relation to God precedes policy utility.",
+      "source_phrase": "In other words, Israel does not care about the world. Israel only cares about its relationship with God.",
+      "why_it_matters": "This explains why he treats tactical behavior as expressions of worldview rather than short-term bargaining.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0050"
+      ],
+      "moment": "A stark, nonstandard moral model: progress through transgression and repentance is presented as civilizational mechanics.",
+      "source_phrase": "for us to be good, we must first be evil",
+      "why_it_matters": "This is a high-friction interpretive claim that explains why he reads enemy behavior as coherent rather than irrational.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "transnational capital",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0003",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A model label for elites coordinating across Russia, Iran, Israel, and U.S. elites through finance and global circulation.",
+      "confidence": "medium"
+    },
+    {
+      "term": "grand strategy",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "How a state perceives and organizes geopolitics to dominate and preserve its civilization’s continuity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "technate",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "A proposed AI-led technocratic form of governance replacing representative volatility while preserving strategic control.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Third Rome strategy",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A shorthand for Russia’s civilizational self-understanding rooted in historical and religious hierarchy, used to explain strategic cohesion.",
+      "confidence": "low"
+    },
+    {
+      "term": "Shia exceptionalism",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0038",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0039",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A framing of Iran’s political motivation as unifying and sacralizing social cohesion under Shia theological continuity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Greater Israel Project",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0042",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0043",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "A strategic goal in the class framing where biblical covenant expectations drive regional maximalism.",
+      "confidence": "medium"
+    },
+    {
+      "term": "catacomb tradition",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "A contrastive tradition in this lecture framing, described as trying to stop moral escalation and preserve order by avoiding transgressive behavior.",
+      "confidence": "low"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0001",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0008"
+      ],
+      "note": "Packet 1 establishes the lecture's baseline model and player list for subsequent packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0009",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016"
+      ],
+      "note": "Packet 2 adds dated forecasts about where confrontation can spread, with explicit references to naval trade access.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0015",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0024"
+      ],
+      "note": "Packet 3 marks a shift from high-level framing to U.S. implementation mechanics: weapons, media, currency, and ideological tools.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0025",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0032"
+      ],
+      "note": "Packet 4 is a doctrine switch from force mechanics to competing cultural logics for why strategies persist.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0033",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0040"
+      ],
+      "note": "Packet 5 transitions from cultural-literary exposition into specific Iran/Israel comparative positioning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0041",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0048"
+      ],
+      "note": "Packet 6 shifts from abstract cultural claims to operational strategic claims about Iran and Israel plus Kabbalistic ontology.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0049",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0052"
+      ],
+      "note": "Packet 7 provides final synthesis and explicit temporal forecast for the four-player framework.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0046",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0048"
+      ],
+      "note": "Unknown diarization timestamps likely represent short backchannel signals; exact lexical attribution uncertain but they do not change the core framing."
+    }
+  ]
+}

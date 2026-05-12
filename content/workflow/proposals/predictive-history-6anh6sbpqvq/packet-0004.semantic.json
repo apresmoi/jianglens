@@ -1,0 +1,108 @@
+{
+  "packet_id": "predictive-history-6anh6sbpqvq-semantics-pkt-0004",
+  "source_id": "video:predictive-history-6anh6sbpqvq",
+  "source_date": "2026-05-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0025",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0026",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0027",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0028",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0029",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0031",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts U.S. and Russian civilizations: both have strengths and risks, then pivots to literary canons that encode each civilization’s moral priorities.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0027",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0031"
+      ],
+      "note": "The speech includes a direct literary lecture segment with heavy quotation; claim-level references should stay close to quoted segments.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He casts Russia as an autocracy with long-term planning advantages but succession vulnerability, while treating the U.S. as democratic with innovation upside and polarization downside.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0027",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0028",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["civilization", "governance", "autocracy", "democracy"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Anglo-American thought is structured by individual achievement and rebellion against constraint, while Russian thought stresses duty, humility, and rejecting egoic overreaching.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0025",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0026",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0031",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["philosophy", "civilization", "culture"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He uses literary references (Milton, Goethe, Ayn Rand, Dostoevsky, Augustine) as evidence that each civilization’s strategy comes from different stories about God, selfhood, and pride.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0022",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0024",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["literature", "method", "ideology"],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030"
+      ],
+      "moment": "The Russia-West opposition is made concrete through competing canons of pride and duty rather than policy headlines.",
+      "source_phrase": "Russian civilization is very different... in opposition... what underpins Moscow's force? the third Rome strategy are certain texts",
+      "why_it_matters": "This is a durable interpretive model for how he justifies why strategy changes do not converge even under shared constraints.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Third Rome strategy",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "A shorthand for Russia’s civilizational self-understanding rooted in historical and religious hierarchy, used to explain strategic cohesion.",
+      "confidence": "low"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0025",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0032"
+      ],
+      "note": "Packet 4 is a doctrine switch from force mechanics to competing cultural logics for why strategies persist.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}
