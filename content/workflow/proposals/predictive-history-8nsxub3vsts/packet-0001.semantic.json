@@ -1,0 +1,143 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0001",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0001",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the class as a self-critical correction after David Bromwich's note, saying his popular style creates overconfident simplifications and must be periodically qualified as speculation.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0003",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "He explains he presents speculative frameworks for students to explore, acknowledging he does not offer scholarship in these sessions and that his readings of literary texts are intentionally minority interpretations.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0006",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He cautions that broader public scrutiny and hostile extraction of isolated phrases make him adjust for context, and restates his core thesis that power blocs are built on deep religious narratives and extremist ideological forces.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007"
+      ],
+      "note": "The statement naming religion/anti-religion framing is course framing, not an audience-provided assertion.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims that his own communication style can produce simplification and therefore requires explicit caveats that the material is provisional intellectual speculation.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0001",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture 2026-05-12 framing",
+      "topic_tags": [
+        "speculation",
+        "method",
+        "pedagogy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes his pedagogical project as presenting minority interpretive frames for students to work through themselves rather than delivering settled scholarship.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0003",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture 2026-05-12",
+      "topic_tags": [
+        "great-books",
+        "reading",
+        "method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He claims state power is legible primarily through religious-eschatological assumptions, so interpreting geopolitics requires tracking extremist ideas, not just institutions.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang course framework on this date",
+      "topic_tags": [
+        "religion",
+        "geopolitics",
+        "extremism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "moment": "Reframing certainty as a temporary hazard",
+      "source_phrase": "I just wanted to give some certainty, but the risk is simplification",
+      "why_it_matters": "It marks the class method: intellectual risk is acknowledged before launching a major speculative claim engine.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "intellectual speculation",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Class mode that treats classroom material as hypotheses for exploration instead of settled academic demonstration.",
+      "confidence": "high"
+    },
+    {
+      "term": "major power",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A state formation with an ecstatic-religious underside in his framing, not merely military or economic dominance.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0008"
+      ],
+      "note": "The lecture opens with a direct transition from last class and moves immediately toward the AI series with this same class date context.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0005"
+      ],
+      "note": "ASR text contains repeated filler and awkward phrasing around 'Gershom Shalom' and 'national idea'; interpretation preserved at high level only."
+    }
+  ]
+}

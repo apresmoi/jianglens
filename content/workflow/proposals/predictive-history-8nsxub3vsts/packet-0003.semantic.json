@@ -1,0 +1,134 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0003",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0015",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0016",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts OpenAI's founding mission as protectionist to humanity with a threefold empire strategy centered on religion, expansion, and strategic indeterminacy of AGI definitions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0019",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "He summarizes Karen Howell's report that Brockman and Susskind could not answer basic AGI questions, framing that silence as evidence of a hidden target.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0019"
+      ],
+      "note": "The student reading cues in this packet are transitional and mostly for continuation of cited text, not independent claims.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang identifies an origin arc in which OpenAI began as a protective AGI project to avert existential risk, but argues it became an empire project once that mission scaled into platform power.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0015",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0016",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Instructor's interpretation on 2026-05-12",
+      "topic_tags": [
+        "openai",
+        "origins",
+        "mission-drift"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He asserts that interviewers' basic questions about AGI's target reveal a deliberate opacity, which he interprets as meaning the implied target is godlike autonomy.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interpretation offered in this lecture",
+      "topic_tags": [
+        "agi",
+        "openness",
+        "motivation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines the first core mechanism as an anti-user orientation: if AGI cannot answer the project's true aim, opacity itself functions as a control tactic.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "2026-05-12 lecture argument",
+      "topic_tags": [
+        "control",
+        "definition",
+        "transparency"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "moment": "From mission to control strategy",
+      "source_phrase": "one, it's a religion ... open AI wants ... build data centers everywhere",
+      "why_it_matters": "This marks the shift from a startup story into a geopolitical power-relation model across AI infrastructure.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "AGN/AGI opacity",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Perceived refusal to provide a stable definition of AGI, treated as a strategic practice in Jiang's framing.",
+      "confidence": "medium"
+    },
+    {
+      "term": "religion vector",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "The claim that corporations can act as vessels for quasi-religious belief structures that support allegiance and obedience.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0015",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020"
+      ],
+      "note": "Packet connects the class opening (OpenAI origin narrative) to the 2019 reporting frame and the immediate claim of hidden AGI purpose.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0017"
+      ],
+      "note": "Transcript has ASR confusion around 'the leader of open eye says' and related phrasing; interpreted as referring to Altman."
+    }
+  ]
+}

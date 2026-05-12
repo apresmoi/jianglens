@@ -1,0 +1,128 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0002",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0009",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "He announces a shift from literature to AI and introduces Karen Hao as the organizing text for the rest of the semester.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0014"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang has a classmate (likely student) read a passage opening the text, and uses that reading as the first textual anchor for the class.",
+      "speaker_attribution": "Jiang and student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "He invites corrections and asks students to interrupt with questions and criticism while class proceeds.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0014"
+      ],
+      "note": "The short 'So stop' prompt is classroom reading coordination, not a substantive claim source.",
+      "suggested_speaker": "Student-reader interaction",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang plans a semester-long AI sequence using Karen Hao's journalism as core reading, with his own skeptical interpretation overriding his earlier neutral stance toward AI safety projects.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0010",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Lecture 2026-05-12",
+      "topic_tags": [
+        "ai-course",
+        "textbook",
+        "method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reports that OpenAI's stated altruistic mission now appears to him as a mechanism for centralizing power and resources at imperial scale.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Instructor's framing for this session",
+      "topic_tags": [
+        "openai",
+        "power-concentration",
+        "ai-critique"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "moment": "OpenAI's mission recast from idealism to empire-building",
+      "source_phrase": "sacred, sincere stroke of idealism ... uniquely potent formula for consolidating resources",
+      "why_it_matters": "Establishes the episode's central interpretive tension between initial idealist narrative and later control thesis.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "empire thesis",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The claim that AI institutions evolve from utility projects into concentrated-capability structures with imperial aims.",
+      "confidence": "high"
+    },
+    {
+      "term": "reading-quoted-material",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "A classroom mechanism where students read primary-source paragraphs so the instructor can interrogate the implications.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0009",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "note": "The source moves from David Bromwich editorial framing into a new curriculum arc titled around AI theory, with explicit reading assignments and class interaction rituals.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"
+      ],
+      "note": "The passage has multiple disfluencies in the transcript around 'ask your power structure'; preserve gist and avoid verbatim precision for that clause."
+    }
+  ]
+}

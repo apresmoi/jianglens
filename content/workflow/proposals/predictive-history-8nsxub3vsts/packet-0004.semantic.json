@@ -1,0 +1,150 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0004",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0022",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0023",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He uses ELIZA and hotline examples to show how interface design can induce people to treat scripted responses as understanding, then generalizes to LLMs as language-based imitation machines.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0025",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026"
+      ],
+      "kind": "monologue",
+      "summary": "He explains supervised machine learning as input-output correction and frames model training as optimization over large labeled corpora, not grounded understanding.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0027",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0028",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029"
+      ],
+      "kind": "exchange",
+      "summary": "He continues a mini-lecture on weighted pattern fitting and introduces neural network framing, while anticipating skeptical marketing objections about naming.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0024"
+      ],
+      "note": "Some terminology is informal and ASR-heavy (e.g., 'curry the LMM'), but concept remains classic LLM training via likelihood of next token outputs.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims chatbot interfaces rely on interaction design and language tricks that make users project understanding onto systems that simulate answers.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0023",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current class exposition",
+      "topic_tags": [
+        "eliza-effect",
+        "llm",
+        "simulation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames supervised learning as query-response optimization that can be technically simple (input-to-output fitting) but opaque at high complexity, undermining semantic interpretation of outputs.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0028",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "2026-05-12 lecture",
+      "topic_tags": [
+        "supervised-learning",
+        "black-box",
+        "model-capability"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He implies that naming conventions such as 'neural network' and 'AI' operate partly as ideological framing rather than neutral scientific categories.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Instructor's critique on May 2026 class",
+      "topic_tags": [
+        "terminology",
+        "techno-promise",
+        "rhetoric"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021"
+      ],
+      "moment": "ELIZA as template for modern AI illusion",
+      "source_phrase": "it's all just very simple trick",
+      "why_it_matters": "This motif establishes the episode's critique that modern models scale illusion before capability.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "supervised learning",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "A procedure in which systems are trained by labeled input-output pairs and tuned until outputs match target labels.",
+      "confidence": "high"
+    },
+    {
+      "term": "neural network",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0028",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Pattern-weight system used by modern machine learning; rhetorically framed here as mystified technical naming.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0020",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0030"
+      ],
+      "note": "The segment transitions from Karen Howell-inspired questioning into core LLM mechanics and then toward the 'occult' framing used later in the lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0026"
+      ],
+      "note": "ASR repeatedly garbles technical terms in this area, but the training-flow argument is clear in the surrounding context."
+    }
+  ]
+}

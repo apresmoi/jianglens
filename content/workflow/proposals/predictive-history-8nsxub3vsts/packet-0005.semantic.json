@@ -1,0 +1,160 @@
+{
+  "packet_id": "predictive-history-8nsxub3vsts-semantics-pkt-0005",
+  "source_id": "video:predictive-history-8nsxub3vsts",
+  "source_date": "2026-05-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0031",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0032",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0033",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why humanity needs a god via AI; Jiang answers that the design target is control, then states AI imposes hard constraints: clean data and measurable goals.",
+      "speaker_attribution": "Student and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0035",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "He describes edge cases as the fundamental risk in machine learning and uses self-driving car behavior as illustration of brittleness and overfitting.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0037",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0038",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0039",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "He says AI systems require social context manipulation to be useful, and explains black-box unpredictability via wrong cues like crosswalk-focused pedestrian detection and black-box internals.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "note": "Speech has heavy truncation and probable ASR corruption in one clause about a second point; main argument about edge cases and steering-wheel removal is preserved.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims that if AI systems are aimed at creating social compliance, they will tend toward designs that support control rather than independent human flourishing.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0032",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interpretation on this 2026 lecture",
+      "topic_tags": [
+        "ai-purpose",
+        "control-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines the three operational constraints of supervised systems as clean data, measurable objectives, and bounded parameters, and treats edge cases as a key fragility vector.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0035",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Current course content",
+      "topic_tags": [
+        "constraints",
+        "edge-cases",
+        "robustness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the black-box nature of deep networks as making model behavior difficult to explain and vulnerable to spurious correlations that fail outside narrow training conditions.",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0038",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0039",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Jiang's technical lecture at class time",
+      "topic_tags": [
+        "explainability",
+        "deep-learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0037"
+      ],
+      "moment": "AI efficiency with coercion",
+      "source_phrase": "AI ... requires reorganizing society; individuality, diversity, and autonomy need to be taken away",
+      "why_it_matters": "Connects model architecture limits to political-level consequences in a provocative causal chain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0038"
+      ],
+      "moment": "Unreliable correlations in vision systems",
+      "source_phrase": "might recognize pedestrians only by crosswalks",
+      "why_it_matters": "Illustrates the practical danger of pattern-based learning without semantic grounding.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "edge case",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0035",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Rare input distributions outside learned examples that trigger failure modes in learned systems.",
+      "confidence": "high"
+    },
+    {
+      "term": "black box",
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0039",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Model whose internal weights and feature interactions are not directly interpretable in human terms.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0034",
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0040"
+      ],
+      "note": "This packet bridges from a conceptual discussion of model purpose to explicit technical constraints and then to explainability concerns within the same segment window.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-8nsxub3vsts@transcript:v1#seg-0036"
+      ],
+      "note": "One or two words in the 0036 block are garbled; treated conservatively as a steering-wheel thought experiment about preventing edge-case harm."
+    }
+  ]
+}
