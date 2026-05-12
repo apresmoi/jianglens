@@ -1,0 +1,144 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0004",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0025",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0026",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "A promotional interlude appears in the middle of the broadcast about PFAS-containing rainwear, introducing non-argumentative ad content before moving back to the war discussion.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0028",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0029",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0030",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0031",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "After the ad break, Jiang and interviewer discuss Christine Lagarde’s food-cost warnings, tying fertilizer chokepoints through Hormuz to inflation and rationing risk.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0025"
+      ],
+      "note": "Segments 0025-0027 are clearly sponsor-ad text and should be marked as non-substantive to this source model.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Lagarde segment cited by the interview implies a significant supply-chain shock from reduced fertilizer flows with one-third of global fertilizer shipments associated with Hormuz traffic.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Global macro conditions referenced in 2026-04-22 interview",
+      "topic_tags": [
+        "fertilizer",
+        "food-security",
+        "hormuz"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang states that fertilizer volume underpins capacity for current global population scale and that supply rupture could induce large-scale food shock and starvation.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interview model of current fragility",
+      "topic_tags": [
+        "agri-input",
+        "population-support-capacity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He critiques just-in-time supply chains as low resilience, arguing shortages can propagate rapidly into inflation and rationing behavior when multiple shocks hit.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Macro-analysis section of the same date",
+      "topic_tags": [
+        "j-i-t",
+        "resilience",
+        "inflation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "moment": "Fertilizer dependence as existential fragility",
+      "source_phrase": "without fertilizer ... one or two billion people",
+      "why_it_matters": "Shifts the discussion from conflict rhetoric to concrete global scarcity mechanisms with broad downstream political effects.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "moment": "Crisis exploitation via rationing architecture",
+      "source_phrase": "you have to ration this, so we do it digitally through digital currency",
+      "why_it_matters": "Makes explicit a governance path where scarcity is paired with identity/ID systems and digital money control.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "just-in-time supply chain",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "An efficiency-oriented logistics model with low inventory buffers, here framed as vulnerable during multi-shock geopolitical events.",
+      "confidence": "high"
+    },
+    {
+      "term": "digital currency for rationing",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Use of digital units/ID systems to meter essential goods under scarcity conditions.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0028",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "note": "This packet begins right after a sponsor transition and marks the pivot from military prediction to macroeconomic fragility as the main topic.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0029"
+      ],
+      "note": "Lagarde speech is quoted directly in paraphrase by the interviewer, so claim strength for exact quoted language should be treated cautiously."
+    }
+  ]
+}

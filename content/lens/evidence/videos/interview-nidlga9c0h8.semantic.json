@@ -1,0 +1,1264 @@
+{
+  "id": "evidence:semanticvideo-interview-nidlga9c0h8:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-nidlga9c0h8",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_title": "Prof. Jiang: Iran Has Trump TRAPPED! Full Interview | Redacted w Clayton Morris",
+  "source_url": "https://www.youtube.com/watch?v=NidlGa9C0H8",
+  "source_date": "2026-04-22",
+  "date_precision": "day",
+  "transcript_id": "video:interview-nidlga9c0h8@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-nidlga9c0h8/packet-0010.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-nidlga9c0h8/source.yaml",
+    "transcript_path": "content/sources/videos/interview-nidlga9c0h8/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 10,
+    "interactions": 20,
+    "speaker_notes": 10,
+    "claims": 29,
+    "signature_moments": 17,
+    "predictions": 3,
+    "models": 11,
+    "glossary_terms": 18,
+    "chronology_notes": 10,
+    "uncertainty_notes": 10
+  },
+  "first_refs": [
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0003",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0004",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0005",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0006",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0012",
+    "video:interview-nidlga9c0h8@transcript:v1#seg-0019"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0002",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether Trump, after entering a quick-strike war in Iran, has an exit path. Jiang says his expected exit has been to force a negotiated path in Islamabad after a short decapitation campaign.",
+      "speaker_attribution": "Clayton Morris (interviewer) and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0005",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues the war is not being set up for a clean off-ramp because Iran has maintained maritime pressure and global energy-channel leverage despite the blockade, creating a prolonged conflict dynamic.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0007",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether Trump will distract the public with another war; Jiang later connects that pattern to domestic attention collapse and asks how long people can stay engaged with recurring conflict narratives.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang rejects the immediate ceasefire narrative and reframes the campaign as recalibration toward a longer strategy, while the interviewer presses on public attention and distraction.",
+      "speaker_attribution": "Jiang and interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0013",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0014",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "He outlines a three-part long-war hypothesis centered on strategic pressure control points, ethnic partitioning, and humanitarian choke points in Tehran.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0018",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks for consequences of a long campaign and Jiang expands a three-pillar model with maritime choke points, enclave basing, and urban starvation pressures.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0021",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0022",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0023",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "He predicts drag-out conflict with low visible U.S. casualties, cites historical examples of wars becoming long because of domestic shift-off and economic distraction, and describes Afghan precedence.",
+      "speaker_attribution": "Jiang with interviewer prompts",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0025",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0026",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "A promotional interlude appears in the middle of the broadcast about PFAS-containing rainwear, introducing non-argumentative ad content before moving back to the war discussion.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0028",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0029",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0030",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0031",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "After the ad break, Jiang and interviewer discuss Christine Lagarde’s food-cost warnings, tying fertilizer chokepoints through Hormuz to inflation and rationing risk.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0035",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0036"
+      ],
+      "kind": "monologue",
+      "summary": "Host and Jiang discuss wartime footing precedent and the possibility of redirected consumer life through industry conversion and rationing frameworks.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0037",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0038",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0040",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0041"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang connects current shocks to 1929-style financial panic risks and argues control-state architecture (rationing, enforcement, data infrastructure) can deepen under wartime conditions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0042",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0043",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer asks about refinery incidents, and Jiang gives a three-factor causal account: war, overloading, and sabotage, linked to a broader control strategy.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0045",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0047",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He frames a strategy of tension model, arguing mass anxiety and engineered unrest can precede more direct authoritarian controls.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0049",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer raises criticism of continued space spending; Jiang expands the space-force narrative and introduces the claim that the space program’s strategic payoffs are inconsistent with spending scale.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0052",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0053",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang questions why major scientific breakthroughs did not persist post-moon program and frames narrative-management concerns around futuristic settlement claims.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0057",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0058",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0059"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer raises the Optimus robot/Mars idea and Jiang replies with a control-mechanism hypothesis about narrative, with the interviewer extending it into a dystopian simulation analogy.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0060",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0061",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0063",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang frames media narratives as control-grid content: scarcity and spectacle may be normalized as duty-bound patriotism, while the interviewer labels the outcome as 'dystopic'.",
+      "speaker_attribution": "Jiang and interviewer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0067",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0069",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0070"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer questions conscription expansion (age of reserve enlistment and draft revival); Jiang answers with resource/elite-control framing and links draft to AI governance control.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0071",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer acknowledges Jiang’s repeated worst-case stance while Jiang states he hopes to be wrong but insists preparation for negative scenarios is prudent.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0073",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0074",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0075",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer and guest exchange closing remarks, with the guest offering conditional certainty ('I hope I'm wrong') and practical emotional resilience guidance.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0001"
+      ],
+      "note": "Host framing includes explicit channel/position context before interview; not a substantive claim body and should be treated as scene-setting.",
+      "suggested_speaker": "Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011"
+      ],
+      "note": "Interviewer prompts 'that's what happens, right?' appears to invite rhetorical affirmation; no separate claim should be extracted from the prompt itself.",
+      "suggested_speaker": "Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0024",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0025"
+      ],
+      "note": "Advertising and sponsor transition begins mid-packet in seg-0025 onward, so claims should stop at war-analysis boundary unless specifically tied by later context.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0025"
+      ],
+      "note": "Segments 0025-0027 are clearly sponsor-ad text and should be marked as non-substantive to this source model.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0035"
+      ],
+      "note": "Interviewer’s food-rationing analogy uses WWII precedent as framing, not a direct claim from Jiang.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046"
+      ],
+      "note": "The reference to 'Colonel Towner Watkins' appears as an external authority name and is used for rhetorical support rather than quoted evidence.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0053"
+      ],
+      "note": "Host line is short confirmation of surprise; treated as reaction, not independent claim.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0060"
+      ],
+      "note": "Segment is highly stylized thought experiment; treat as an analogy illustrating risk framing, not a direct prediction of specific timeline.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0069"
+      ],
+      "note": "Interviewer references a Palantir headline and framing of automatic Selective Service registration, importing headline framing into the interview.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0074"
+      ],
+      "note": "Interviewer references prior missed predictions as historical analogy; no factual claim about this source beyond tone framing.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims Trump entered Iran expecting a fast victory modelled on a prior U.S. operation (as cited by him in this source) and now faces a longer war because Iran’s response was stronger and faster than expected.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "2026-04-22 interview claim",
+      "topic_tags": [
+        "iran-war",
+        "trump-calculation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says Trump’s realistic off-ramps are either reparations plus sovereignty concessions or escalation to ground forces and regime pressure on Iran.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Discussion of immediate post-airstrike policy options",
+      "topic_tags": [
+        "trump-strategy",
+        "iran"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He describes pressure to solve the war quickly as politically strong in Washington because of domestic unpopularity of long attritional wars and fear of losing face.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2026-04-22 interview",
+      "topic_tags": [
+        "domestic-politics",
+        "war-fatigue"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says what is called a ceasefire is being used as a strategic pause: he terms current phase 'recalibration' and predicts ongoing pressure on Iran through control of the Hormuz economy.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "2026-04-22 interview",
+      "topic_tags": [
+        "iran-war",
+        "recalibration",
+        "blockade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts a durable drawdown phase where policymakers keep U.S. casualties low and sustain public tolerance by creating additional international distractions.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "2026-04-22 scenario projection",
+      "topic_tags": [
+        "war-fatigue",
+        "public-distract",
+        "escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He introduces a long-war model with economic pressure as a domestic distraction, including reduced public willingness to sustain foreign conflict when costs rise.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Current interview framing",
+      "topic_tags": [
+        "public-opinion",
+        "war-funding"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims a three-pillar long-war strategy: control Strait access, establish perimeter bases via ethnic fault lines, and starve urban centers through infrastructure attacks.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0013",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0014",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Current interview strategic assessment",
+      "topic_tags": [
+        "three-pillars",
+        "iran-strategy",
+        "war-attrition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He forecasts deliberate, long-duration U.S. strategy designed to limit U.S. casualties while using domestic distraction through new conflicts and economic pressure cycles.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Near-term projection from 2026-04-22",
+      "topic_tags": [
+        "strategic-stay-power",
+        "casualty-management",
+        "distraction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He links drawn-out interventions to historical precedent: rapid military victory followed by prolonged nation-building commitments, with corruption and long-term entanglement risk.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0022",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Comparative history cited in interview",
+      "topic_tags": [
+        "history",
+        "nation-building",
+        "intervention"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Lagarde segment cited by the interview implies a significant supply-chain shock from reduced fertilizer flows with one-third of global fertilizer shipments associated with Hormuz traffic.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Global macro conditions referenced in 2026-04-22 interview",
+      "topic_tags": [
+        "fertilizer",
+        "food-security",
+        "hormuz"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang states that fertilizer volume underpins capacity for current global population scale and that supply rupture could induce large-scale food shock and starvation.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interview model of current fragility",
+      "topic_tags": [
+        "agri-input",
+        "population-support-capacity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He critiques just-in-time supply chains as low resilience, arguing shortages can propagate rapidly into inflation and rationing behavior when multiple shocks hit.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Macro-analysis section of the same date",
+      "topic_tags": [
+        "j-i-t",
+        "resilience",
+        "inflation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He suggests policymakers may use a depression-like cycle plus control infrastructure to consolidate authority and normalize wartime scarcity.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0035",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Current interview diagnosis",
+      "topic_tags": [
+        "policy",
+        "control-state",
+        "wartime-economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He names ICE and border enforcement as a potential enforcement layer in a broader control grid, and associates large new data-center spending as key to AI-enabled governance capacity.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0040",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "2026-04-22 argument segment",
+      "topic_tags": [
+        "control-grid",
+        "surveillance",
+        "data-infrastructure"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He asserts that a combination of economic disruption and controlled narrative can prepare public consent for a surveillance-first governance structure.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0037",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0038",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Segment-level inference within this interview",
+      "topic_tags": [
+        "state-control",
+        "narrative",
+        "compliance"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang advances a control-grid theory: manufacturing fear and economic shocks helps elites increase social compliance.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0045",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Interpretation within interview as of 2026-04-22",
+      "topic_tags": [
+        "social-control",
+        "anxiety-engineering",
+        "war-rhetoric"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He attributes refinery destruction patterns to a blend of war damage, operational overload, and intentional sabotage.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0043",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Current episode evidence claim",
+      "topic_tags": [
+        "energy",
+        "industrial disruption",
+        "sabotage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He suggests social control will likely be normalized through staged crises and age-related security/policy framing before a more technical enforcement state matures.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Interview's projected sequence",
+      "topic_tags": [
+        "security-state",
+        "project-bluebeard",
+        "future-gov-model"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang predicts large strategic expenditures typically produce innovation waves, and he questions whether this pattern is breaking with current space programs.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "2026-04-22 analysis segment",
+      "topic_tags": [
+        "space-program",
+        "state-spending",
+        "innovation"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He asserts concern that key moon-era science data was not preserved or has been lost despite historical milestones.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Interview speculation about technological continuity",
+      "topic_tags": [
+        "technology",
+        "knowledge-management"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He introduces the hypothesis that space efforts can be used as a societal narrative device comparable to wartime mobilization optics.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "2026-04-22 interview",
+      "topic_tags": [
+        "control-narrative",
+        "national-symbols"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang suggests that frontier technology narratives (e.g., Mars colonization via robots) can be used to justify sacrifice and reinforce state legitimacy under stress.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0058",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Current interview",
+      "topic_tags": [
+        "narrative-control",
+        "ai-labor",
+        "martial-culture"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Interviewer and Jiang align briefly on an image of a managed-consent future resembling 'The Matrix' where citizens consent to control in exchange for meaning.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0063",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Interview's cultural analogy section",
+      "topic_tags": [
+        "media-themes",
+        "control-grid"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Interviewer asks final thoughts, and Jiang ends with a behavioral diagnosis: most people need a mindset shift toward less material dependence and more community/spiritual anchoring.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0065",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Interview close-to-end section",
+      "topic_tags": [
+        "adaptation",
+        "mental-model",
+        "resilience"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets proposals to raise reservist enlistment age and draft mechanisms as signs of a depopulation/elitist control trend.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0067",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "2026-04-22 interview remarks",
+      "topic_tags": [
+        "conscription",
+        "elite-control",
+        "population-policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He argues military draft expansion and food/information control can work together as elements of a future AI-driven obedience architecture.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0070",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Interview scenario projection",
+      "topic_tags": [
+        "ai-surveillance",
+        "military-policy",
+        "social-control"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He reiterates that social and mental preparedness matters even when predictions may be wrong, emphasizing resilience under a worst-case assumption.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Interview conclusion",
+      "topic_tags": [
+        "resilience",
+        "risk-management"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang signals epistemic humility while reiterating that evaluating worst-case pathways remains practical even without perfect confidence.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Final exchange of the interview",
+      "topic_tags": [
+        "epistemic-humility",
+        "risk-assessment"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interview concludes by emphasizing preparedness and mindset adjustment rather than technical certainty as the key response.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0075",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "2026-04-22 wrap segment",
+      "topic_tags": [
+        "adaptation",
+        "resilience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "moment": "From shock-and-awe expectations to strategic entrenchment",
+      "source_phrase": "He didn't expect... this has been very humiliating",
+      "why_it_matters": "Marks the transition from a short-war assumption to a long-conflict prognosis that frames the entire interview.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0008"
+      ],
+      "moment": "War-fatigue framing as an intentional tactic",
+      "source_phrase": "Maybe this is a tactic to keep us weary while the war drags on",
+      "why_it_matters": "This introduces the idea that endurance manipulation, not just battlefield events, is central to war narrative management.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010"
+      ],
+      "moment": "Reframing ceasefire as strategic adjustment",
+      "source_phrase": "we're actually looking at round two",
+      "why_it_matters": "Provides the central interpretive lens for the remaining conversation: war continuity despite public signals of de-escalation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017"
+      ],
+      "moment": "From strategic pressure to deliberate fragmentation",
+      "source_phrase": "it’s really meant to destroy the country as a viable nation state",
+      "why_it_matters": "This sharply frames the end-state objective as state deconstruction rather than mere military victory.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "moment": "Fertilizer dependence as existential fragility",
+      "source_phrase": "without fertilizer ... one or two billion people",
+      "why_it_matters": "Shifts the discussion from conflict rhetoric to concrete global scarcity mechanisms with broad downstream political effects.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "moment": "Crisis exploitation via rationing architecture",
+      "source_phrase": "you have to ration this, so we do it digitally through digital currency",
+      "why_it_matters": "Makes explicit a governance path where scarcity is paired with identity/ID systems and digital money control.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0040"
+      ],
+      "moment": "Enforcement and enforcement-adjacent mechanisms named as central to control",
+      "source_phrase": "One of a secret police ... control the lives of people",
+      "why_it_matters": "Directs attention to how wartime institutions and enforcement posture can normalize extraordinary state capacity.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0041"
+      ],
+      "moment": "AI company growth as signal",
+      "source_phrase": "they don't make money selling chat services ... I think he knows something",
+      "why_it_matters": "Positions AI monetization strategy as a potential reveal of undisclosed state-market architecture.",
+      "tone": "method",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "moment": "Control via manufactured anxiety",
+      "source_phrase": "you need to make them much more anxious... much more desperate",
+      "why_it_matters": "Condenses the operational logic behind scarcity narratives and policy hardening.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "moment": "Fake crisis pathway",
+      "source_phrase": "possible strategy is to fake an alien invasion",
+      "why_it_matters": "Most explicit expression of deliberate public distraction used as a control mechanism.",
+      "tone": "image",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050"
+      ],
+      "moment": "Space program cast as elite signaling",
+      "source_phrase": "project bluebeard",
+      "why_it_matters": "Shows the interview’s recurring mechanism: technical spectacles may function as public distraction and legitimacy theater.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0060"
+      ],
+      "moment": "Control grid as popular-consent narrative",
+      "source_phrase": "you can get here because of this... blasted into death",
+      "why_it_matters": "Illustrates a core interpretive trope of the interview: technological aspiration used as social anesthetic.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0066"
+      ],
+      "moment": "Reshaping values to endure collapse conditions",
+      "source_phrase": "switch their mentalities from ... spirituality, community, family",
+      "why_it_matters": "Provides the one explicit recommended personal response to macro instability in the interview.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "moment": "Elitist-population framing of war preparation",
+      "source_phrase": "get rid of most of us",
+      "why_it_matters": "Condenses the source’s strongest accusatory logic about elites preferring coercive scarcity structures.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "moment": "Cognitive hygiene under uncertainty",
+      "source_phrase": "I hope I'm wrong... prepare for worst-case",
+      "why_it_matters": "Captures both humility and persistent warning posture used to interpret risk.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "moment": "Forecast confidence with anti-false certainty",
+      "source_phrase": "I hope I'm an idiot, okay?",
+      "why_it_matters": "Explicitly signals uncertainty under high-stakes forecasting while preserving preparedness logic.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0075",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0076"
+      ],
+      "moment": "Concise closure",
+      "source_phrase": "great to see you ... thanks",
+      "why_it_matters": "Marks source boundary and transition to post-interview editorial cleanup.",
+      "tone": "other",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "off-ramp",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A political exit mechanism to de-escalate conflict without admitting defeat; framed as short-lived negotiation or force-based settlement path.",
+      "confidence": "medium"
+    },
+    {
+      "term": "round two",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "A second phase characterized by economic-strangulation and low-casualty, long-duration strategy rather than decisive kinetic victory.",
+      "confidence": "high"
+    },
+    {
+      "term": "strangulation strategy",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Applying layered pressure through trade/security controls and media distraction instead of headline escalatory moves.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Balkanization",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Splitting a country into smaller hostile enclaves to reduce viability of central authority and force resource conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "drawn-out war",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "A conflict phase where casualty control and narrative sequencing sustain political acceptance over time.",
+      "confidence": "medium"
+    },
+    {
+      "term": "just-in-time supply chain",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "An efficiency-oriented logistics model with low inventory buffers, here framed as vulnerable during multi-shock geopolitical events.",
+      "confidence": "high"
+    },
+    {
+      "term": "digital currency for rationing",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Use of digital units/ID systems to meter essential goods under scarcity conditions.",
+      "confidence": "medium"
+    },
+    {
+      "term": "wartime footing",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "The shift where civilians accept constrained production and consumption norms under persistent emergency framing.",
+      "confidence": "high"
+    },
+    {
+      "term": "control grid",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0039",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A linked architecture of surveillance, enforcement, compliance systems, and scarcity management.",
+      "confidence": "medium"
+    },
+    {
+      "term": "strategy of tension",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0045",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Policy sequence that uses uncertainty, conflict, or contrived shocks to force public conformity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Project Bluebeard",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Term used by interviewer as a label for recurring elite control/surveillance narrative; treated as claimed framing from interview context.",
+      "confidence": "high"
+    },
+    {
+      "term": "Project Bluebeard",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Interviewer shorthand for a potentially manipulative reveal/disclosure narrative used in elite governance critique.",
+      "confidence": "high"
+    },
+    {
+      "term": "control grid",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0058",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "A social and technological framework where narratives and surveillance combine to normalize constrained choice.",
+      "confidence": "high"
+    },
+    {
+      "term": "mindset shift",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "A suggested personal adaptation strategy under uncertainty: reduce material centrality and rebuild social/spiritual priorities.",
+      "confidence": "high"
+    },
+    {
+      "term": "depopulation agenda",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "A critique used by Jiang to describe policy choices that appear to reduce population pressure through structural coercion.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Selective Service",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0069",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "Automatic youth registration and draft pipeline potentially used by the state to scale wartime mobilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "best-case vs worst-case preparation",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Jiang’s practical method: keep attention on scenario preparation rather than defensive certainty when evidence is contested.",
+      "confidence": "high"
+    },
+    {
+      "term": "forever war",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0073"
+      ],
+      "definition_or_usage": "Used by interviewer as shorthand for persistent conflict with no clear settlement endpoint.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004"
+      ],
+      "note": "This interview segment explicitly links Trump’s present Iran posture to a mismatch between rapid-war expectation and current escalation dynamics.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0013"
+      ],
+      "note": "This packet transitions from earlier two-off-ramp framing into explicit phase-based war theory and then toward long-term operational mechanics in following packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0024"
+      ],
+      "note": "This packet is a bridge between immediate tactical framing and later macroeconomic/AI-control interpretation in subsequent segments.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0028",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0033"
+      ],
+      "note": "This packet begins right after a sponsor transition and marks the pivot from military prediction to macroeconomic fragility as the main topic.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0035",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0041"
+      ],
+      "note": "This segment moves from macro-economic warning into explicit governance-construction language, then hands off to war-incident mechanics in the next packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0042",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "note": "After macroeconomic concerns, this packet marks escalation into geopolitical sabotage and information-control hypotheses, which inform later skepticism about space and AI narratives.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0054"
+      ],
+      "note": "The interview shifts from war-control mechanics into space-policy skepticism, extending control-grid language into aerospace spending and public expectation management.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0058",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0066"
+      ],
+      "note": "This packet follows space/control-grid discussion and transitions toward personal-level conclusions about preparing for prolonged systemic stress.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0067",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "note": "Final policy section before close: moves from military and demographic control themes to emotional close on preparedness.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0078"
+      ],
+      "note": "Source closes with emotional and practical closure, preparing transition to outro and no longer advancing substantive new claims.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "note": "The ASR phrase around 'Al -Atola' and parts of the Gulf/Gulf-shipping details are noisy and may refer to named targets/locations that are uncertain."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010"
+      ],
+      "note": "ASR includes 'Shavuot Hormuz' likely referring to Strait of Hormuz; corrected by context from surrounding segment."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0023"
+      ],
+      "note": "Transcription includes malformed phrase fragments ('Project습 number ...') that likely reference a U.S. military/corruption claim but are too noisy to treat as precise factual detail."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0029"
+      ],
+      "note": "Lagarde speech is quoted directly in paraphrase by the interviewer, so claim strength for exact quoted language should be treated cautiously."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0041"
+      ],
+      "note": "Claim about OpenAI’s internal economics is speculative and based on speaker inference; this should be treated as low-confidence model, not established fact."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "note": "The phrase 'the peasants have become too uppity' appears metaphorically in ASR and should be interpreted as a class-control framing."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051"
+      ],
+      "note": "The assertion that prior breakthrough channels vanished is framed as critique, not sourced technical evidence."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0061"
+      ],
+      "note": "Short reaction 'you like it? yeah' appears as minimal acknowledgement; avoid over-assigning stance from it."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "note": "Depopulation framing is rhetorical and not supported by external evidence in this source; keep confidence low and scoped to hypothesis level."
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0078"
+      ],
+      "note": "Outro lines are closing courtesy and do not add durable analytical claims."
+    }
+  ]
+}

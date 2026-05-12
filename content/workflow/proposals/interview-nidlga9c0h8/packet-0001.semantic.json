@@ -1,0 +1,142 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0001",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0002",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether Trump, after entering a quick-strike war in Iran, has an exit path. Jiang says his expected exit has been to force a negotiated path in Islamabad after a short decapitation campaign.",
+      "speaker_attribution": "Clayton Morris (interviewer) and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0005",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang argues the war is not being set up for a clean off-ramp because Iran has maintained maritime pressure and global energy-channel leverage despite the blockade, creating a prolonged conflict dynamic.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0007",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether Trump will distract the public with another war; Jiang later connects that pattern to domestic attention collapse and asks how long people can stay engaged with recurring conflict narratives.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0001"
+      ],
+      "note": "Host framing includes explicit channel/position context before interview; not a substantive claim body and should be treated as scene-setting.",
+      "suggested_speaker": "Clayton Morris",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims Trump entered Iran expecting a fast victory modelled on a prior U.S. operation (as cited by him in this source) and now faces a longer war because Iran’s response was stronger and faster than expected.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "2026-04-22 interview claim",
+      "topic_tags": [
+        "iran-war",
+        "trump-calculation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says Trump’s realistic off-ramps are either reparations plus sovereignty concessions or escalation to ground forces and regime pressure on Iran.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Discussion of immediate post-airstrike policy options",
+      "topic_tags": [
+        "trump-strategy",
+        "iran"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He describes pressure to solve the war quickly as politically strong in Washington because of domestic unpopularity of long attritional wars and fear of losing face.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2026-04-22 interview",
+      "topic_tags": [
+        "domestic-politics",
+        "war-fatigue"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "moment": "From shock-and-awe expectations to strategic entrenchment",
+      "source_phrase": "He didn't expect... this has been very humiliating",
+      "why_it_matters": "Marks the transition from a short-war assumption to a long-conflict prognosis that frames the entire interview.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0008"
+      ],
+      "moment": "War-fatigue framing as an intentional tactic",
+      "source_phrase": "Maybe this is a tactic to keep us weary while the war drags on",
+      "why_it_matters": "This introduces the idea that endurance manipulation, not just battlefield events, is central to war narrative management.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "off-ramp",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A political exit mechanism to de-escalate conflict without admitting defeat; framed as short-lived negotiation or force-based settlement path.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0004"
+      ],
+      "note": "This interview segment explicitly links Trump’s present Iran posture to a mismatch between rapid-war expectation and current escalation dynamics.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0003"
+      ],
+      "note": "The ASR phrase around 'Al -Atola' and parts of the Gulf/Gulf-shipping details are noisy and may refer to named targets/locations that are uncertain."
+    }
+  ]
+}
