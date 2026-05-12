@@ -1,0 +1,131 @@
+{
+  "packet_id": "interview-dbvdnl6hwog-semantics-pkt-0005",
+  "source_id": "video:interview-dbvdnl6hwog",
+  "source_date": "2026-05-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0033",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0034",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0035",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0036",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0037",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0038",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0039",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "The final large block shifts from war economics to monetary theory and technology: Jiang argues money is promise-based, criticizes Bitcoin's store-of-value framing, and presents a branching future of energy/catastrophe versus abundance.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0033",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0040"
+      ],
+      "note": "The segment is fast moving, with several host prompts and guest reactions; core model claims are attributed to Jiang’s framing.",
+      "suggested_speaker": "Jiang",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang critiques standard macro modeling for treating money as a commodity, redefining money as promises/credit that collapses outside trust and usage.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0033",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["money", "monetary-theory", "finance"],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Bitcoin’s structure is mis-specified as a money model because it is mostly treated as a store of value, not a general medium of exchange, making crash dynamics tied to adoption limits.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0034",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["cryptocurrency", "valuation", "asset-pricing"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents a dual-path forecast: either global depression from energy and geopolitical strain, or a productivity jump through robotics and technology if energy constraints are managed.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0037",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0038",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["technology", "forecast", "energy"],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He quantifies the economic fragility claim with a 10-20% energy decline interpreted as a near-depression magnitude decline in GDP.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["energy", "macroeconomic-forecast"],
+      "claim_type": "forecast",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0037",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0038"
+      ],
+      "moment": "The interview pivots to a civilizational fork between energy-fueled decline and technological abundance.",
+      "source_phrase": "We are entering the greatest period of productivity, the greatest productivity revolution in the history of civilization",
+      "why_it_matters": "This preserves a strong remembered frame for why the source shifts from geopolitics to long-horizon techno-optimism.",
+      "tone": "dialectical",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "money as promise",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "A characterization of currency as an enforceable set of obligations/credit rather than physical commodity value.",
+      "confidence": "medium"
+    },
+    {
+      "term": "store-of-value only",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "An asset function focused on deferred sale rather than circulating in exchange, limiting macro utility according to this argument.",
+      "confidence": "low"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0033",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0040"
+      ],
+      "note": "Marks a late-lecture expansion from immediate geopolitical risk to monetary architecture and long-horizon energy-tech futures.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0040"
+      ],
+      "note": "The direct 10-20% energy-to-GDP mapping is presented as heuristics, not statistically tested here.",
+      "confidence": "low"
+    }
+  ]
+}

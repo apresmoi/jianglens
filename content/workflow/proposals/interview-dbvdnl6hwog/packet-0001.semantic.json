@@ -1,0 +1,124 @@
+{
+  "packet_id": "interview-dbvdnl6hwog-semantics-pkt-0001",
+  "source_id": "video:interview-dbvdnl6hwog",
+  "source_date": "2026-05-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0001",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0002",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0003",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0004",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0005",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0006",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0007",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang and guests frame the Hormuz closure as an imminent global contraction risk centered on production-system fragility, not only oil price volatility.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0001",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0008"
+      ],
+      "note": "Source diarization marks speakers as UNKNOWN; most opening commentary tracks Jiang with guest contributions threaded in.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the current escalation as a possible global recession or depression trajectory, emphasizing thirst and infrastructure stress before headline inflation headlines.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0001",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "2026-05-05 lecture framing",
+      "topic_tags": ["macro", "geoeconomics", "forecast"],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that closing the Strait compounds a supply-chain shock beyond petroleum because helium, fertilizer, sulfuric acid, and energy-intensive manufacturing inputs are also disrupted.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0004",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["supply_chain", "infrastructure", "inflation"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He warns that markets underreact initially and then overcorrect; sustained Strait disruption is treated as materially worse than typical energy-price shocks because it hits production machinery itself.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0004",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["markets", "financial_dynamics", "production"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He links the duration risk to futures pricing, suggesting a longer closure would force broader sectoral stress and political consequences for U.S. incumbents.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0007",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["energy", "energy_pricing", "politics"],
+      "claim_type": "forecast",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0001",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0002"
+      ],
+      "moment": "Global crisis is presented as a physical-production collapse rather than a purely financial headline risk.",
+      "source_phrase": "People are not going to starve to death. They're going to die of thirst",
+      "why_it_matters": "It reframes the war's impact as civilizational infrastructure fragility, which changes the predicted pathway from recession to famine risk.",
+      "tone": "warning",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "production-system shock",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0006",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "A disruption sequence where financing effects follow from upstream manufacturing/infrastructure failure, not solely from market-price changes.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0001",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0008"
+      ],
+      "note": "Introduces the interview's base thesis: Hormuz disruption cascades through global production before resolving into political and voting-cycle effects.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0007"
+      ],
+      "note": "Exact macro magnitude of a multi-week disruption is forecastive rather than established.",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+# \"Heading For A Global DEPRESSION!\" Professor Jiang Debates Iran War, Trump And China Ties
+
+Source: https://www.youtube.com/watch?v=dbVdnL6HWOg
+
+## seg-0001 / 00:00:00-00:00:43 / UNKNOWN
+
+Are we heading for a global recession, do you think? I think that we are heading towards a global depression. I'm terrified. People are not going to starve to death. They're going to die of thirst. Where is Russia? Where are the Brits? Where are the Chinese? Where are the Europeans? I think that's been a big problem for Trump, is nobody seems to be helping. If you want to get people to help you, probably don't call them a bunch of morons all the time, would be my starting point. It seems like you all can't determine who's the good guy and who's the evil. You're the bad guys, for God's sake. Yeah, exactly. I mean, that's my point. OK, if you can't realise that America is the evil empire here... We're saying the United States is the evil empire. Yes, stop reading Hollywood scripts and realise which planet you're on. Before the evil empire, why is it every immigrant in the world wants to come to the United States?
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:44-00:01:31 / UNKNOWN
+
+Nobody wants to go there now, mate. This is a serious warning, announced the IRGC after firing at a US warship. The Strait of Hormuz remains closed. The 100 -mile chokepoint along the Iran -Southern border has become the radio station of the regime's most powerful weapon. Clearly, the United States has no military solution for opening it, and while President Trump may boast that the US doesn't need the Strait, rocketing gas prices are spiking inflation, say otherwise. Recent polls show that voters now trust Democrats more than Republicans on the economy for the first time in 16 years. The fact is that oil trades in a global market. That means Americans will pay the price, just like the rest of us. And while the White House has promised immediate relief as soon as the Strait reopens, most experts say that economic chaos will reign for months or worse.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:31-00:02:30 / UNKNOWN
+
+So how bad could it all get? Well, one of my guests today is warning of everything from recession to famine. Joining me to debate is the economics professor and commentator Steve Keen, former economics advisor to President Trump, Stephen Moore, and returning to Uncensored, the game theorist, Professor Zhang. Well, welcome to all three of you. Steve Keen, welcome to Uncensored. Thank you. What is going on here economically? We keep being told this is the worst, the worst stress on the global economy through energy that we've ever seen. Is that right? And how much worse could it get? Well, it's right. And every measure I've seen said it's larger than 1973 with the Yom Kippur War, larger than the price rise in the 1979 when prices increased by a factor of four. And it's basically destruction of a large part of the planet's infrastructure for dragging oil out of the ground. And everything else we get along with oil.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:30-00:03:24 / UNKNOWN
+
+So it's not just oil that's being destroyed. It's something like about 30 % of the world's helium supply. It's something of the 30 to 50 % of fertilizer. Sulfuric acid is half of the sulfuric acid we use for industrial processes is gone. This is going to cause a monumental shock to the production system of the entire planet. The markets so far have been remarkably resilient, given how stressed this has all been. Why is that? And are we going to wake up, as some predict, I think you'd be one of them, is there going to be a massive backlash to all this in terms of a potential recession, do you think? Yes, I do. And I'm just smiling because I remember listening to George Soros once explain his approach to how he made money out of the markets. And he says, forget the efficient markets hypothesis. That's a lot of nonsense. What actually the markets actually do is they underreact in the first place and then overreact later.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0004
+
+## seg-0005 / 00:03:24-00:04:10 / UNKNOWN
+
+So he'd pick something where there was going to be an underreaction like, for example, what's going to happen to the British pound with back in the days of fixed exchange rates. And he'd say he'd buy them at that stage and know that they're up or down to take a put or a call position, know that the market's going to come up to his position later and make a killing. Now, that's what's happening right now. I spoke with five people who are financial markets experts in a Twitter forum some couple of weeks back, and I finally got bored and left the damn thing because not one of them talked anything about the physical manufacturing processes. And I thought, well, what's going to happen to the industry behind what's happening in the strait? And when you destroy helium production, when you destroy fertilizer throughput, when you lock all those resources up, the production system has to fall over.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0005
+
+## seg-0006 / 00:04:10-00:05:08 / UNKNOWN
+
+So this is going to be a financial crisis caused by damage to the production system, which is the opposite of the usual situation. The financial system screws the manufacturing system. Stephen Moore, welcome to Uncensored to you. Thank you. It's a pleasure to be here. Trumponomics, as some people call it. It struck me that this was always a massive gamble by President Trump and that the potential downside was big. And it's turned out to be very big so far with very little, at the moment, I would say, very little tangible upside in terms of concessions from the Iranians because they've realized that by strangling and controlling the Strait of Hormuz, coupled with their strategy of attacking their, their neighbors, their Gulf state neighbors, that that two -pronged strategy can be very effective in, in damaging the economy, both for the Gulf states and for the global economy with the Strait.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0006
+
+## seg-0007 / 00:05:09-00:06:02 / UNKNOWN
+
+You know, how bullish are you about what is going on here if this carries on for a few weeks or months? Well, I certainly agree that, look, energy is the master resource. Everything that we have is derivative of energy. And so when you see the price of oil go up to, you know, to as high as $110 a barrel from, it was at, you know, almost half that level at the beginning of the year. Remember, at the beginning of the year, thanks in part to Trump's drill -baby -drill strategy, we had the lowest gas prices in 50 years adjusted for inflation. So everything was going swimmingly with respect to energy. And then all of a sudden you have the Straits closed down, you have the bombing. And that has certainly disrupted things in a very negative way. And look, a high, higher price of oil is just basically a tax on the world economy.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0007
+
+## seg-0008 / 00:06:02-00:06:55 / UNKNOWN
+
+It affects everyone. I agree that, you know, so many industries from our technology industry to our transportation industry to our manufacturing is all very dramatically affected by a higher price of oil. And the real question is how long will this last? Now, none of us know that answer. I would say that the best way of gauging how long this will last is to look at the futures market. In other words, you can buy a barrel of oil three months from now and you can pay a price for that. And so the futures markets are telling us that the price of oil will migrate back down to, you know, $70 or $80 a barrel. And let's hope that they're right. Because if it doesn't happen, it's going to be really bad news for the Republicans come midterm elections. Because the one thing that we all know is that Americans hate paying high gas prices at the pump.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0008
+
+## seg-0009 / 00:06:55-00:07:43 / UNKNOWN
+
+Yeah, but the person that knew that better than anybody was President Trump. You know, I've known him a long time. You have. Yes, it was a massive gamble. I understand he wants to stop Iran developing a nuclear weapon. I understand the arguments. I just felt like going to war with Iran in the way that's happened had so many potential negatives to it that it was an enormous political risk, never mind anything else, and a huge, as it's turned out, economic risk. And the truth is about the future markets, for example, with this, I don't think anybody knows, do they, Stephen? I mean, the truth is, I don't think President Trump knows. What we do know is that the IRGC, the Iranian regime, remains pretty well in charge. That seems clear because the people are not rising up at all. We know that the Strait of Hormuz remains pretty well closed.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0009
+
+## seg-0010 / 00:07:44-00:08:37 / UNKNOWN
+
+They have control of that. And, you know, if they think they can hold America to economic ransom, it is highly likely, given the history of this 47 -year regime, that that's exactly what they'll do, that they will affect maximum leverage economically, knowing that that is actually their most effective weapon. So I would simply say to that that, you know, Trump has said short -term pain for long -term gain. And the big question, of course, is how long is that short -term pain going to last? And so I don't have an answer to that. I am not a foreign policy expert. I'm an economist. I'm here to tell you if the price remains high, it will have a very negative effect on the economy. Especially given the fact that we are now moving into this incredible new age of AI robotics where the data centers, where our energy demands are going to double over the next 10 years.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0010
+
+## seg-0011 / 00:08:38-00:09:23 / UNKNOWN
+
+So we're going to use a lot more energy. And I'll just say one other final point. The world is not running out of oil and gas. The world is, you know, washing oil and gas. This is a supply chain problem because the Strait is being shut down. And the world has to come together to get those straits open. Where is Russia? Where are the Brits? Where are the Chinese? Where are the, you know, where are the Europeans in helping get that done? I think that's been a big problem for Trump is nobody seems to be helping. Well, one of the problems is he keeps trashing them all publicly, which is if you want to get people to help you, probably don't call them a bunch of morons all the time would be my starting point. Yeah, but look, we've helped them for 40, we've spent $100 billion on the defense of Europe.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0011
+
+## seg-0012 / 00:09:23-00:10:14 / UNKNOWN
+
+So, I mean, for them to sit on their hands, I think Trump is right to say, maybe we're going to have to reinvestigate this relationship with Europe. Well, it could just be that a lot of European countries were not persuaded that Iran was about to imminently have a nuclear weapon. And the reason for that, I can speak for my country, the UK, although if I'd been prime minister, I would have absolutely allowed America to use our bases for any military action they wanted. I do think that we have quite long memories here of what happened with Iraq, where we were assured that Saddam Hussein had weapons of mass destruction. That's true. And we went to war. It cost enormous amount of money, enormous amount of lives lost, led to the rise of ISIS. It was pretty well a catastrophe. So I think people in Britain and others in Europe that went to war in Iraq over the issue of WMD are like, you know what?
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0012
+
+## seg-0013 / 00:10:14-00:11:02 / UNKNOWN
+
+We're not persuaded. And they should be allowed to be not persuaded, in my opinion, without the president going completely berserk as he's done, because I don't think that helps persuade anybody to help in the way that I think you reasonably put out a sort of narrative here that yes, of course, all the countries have a vested interest in the strait being reopened, ought to be working together to do it. But it is quite hard when the guy that started the war but led to it being shut is just trashing you all the time. Professor Zhang, let me bring you back into the debate here. Welcome back to Uncensored. We always get a great reaction when you come on. So thank you for sparing me some of your valuable time. You know, Steven mentioned there China and why China isn't doing more to help.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0013
+
+## seg-0014 / 00:11:02-00:12:09 / UNKNOWN
+
+It is interesting because China really gets more energy through the strait than anybody else in the world and therefore has a bigger vested interest, you would think, in getting it reopened as soon as possible. Why is China kind of sitting this out? Well, China is not sitting this out. We have the ceasefire in place because China did a lot of backdoor diplomacy in order to pressure the Iranians to attempt a ceasefire. This is out of character for China. China does not like to involve itself in other nations' affairs. And so I think without Chinese pressure, we would not have the IRGC agreeing to the ceasefire in the first place. The issue is that the United States continues to be unreasonable in negotiating negotiations with the Iranians. The Iranians have done a lot in order to try to accommodate the Americans. But, you know, when JD Vance went to Pakistan for the first time to negotiate with the Iranians, basically it was a very heavy -handed ultimatum to the Iranians.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0014
+
+## seg-0015 / 00:12:09-00:13:05 / UNKNOWN
+
+And after that, I think that the Iranians recognized that there really is no hope in negotiating with the Americans. The Americans want to escalate. Why the Americans want to escalate, we don't know. But we can expect that over the next few weeks, the escalation will increase. You know, Trump has talked about using U.S. naval ships to escort oil tankers through the Strait of Hormuz. This is clearly a provocation. And we might have a Gulf of Token incident, which will allow Trump to justify a ground invasion. Right. And a ground invasion, Steve Keen, would be, to me, just pouring fuel onto what is already a burning fire of mayhem over there, which I think could be horrendous for the United States. Absolutely. Absolutely. And I think the soldiers on the ships are having much the same reactions. We don't
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0015
+
+## seg-0016 / 00:13:05-00:13:59 / UNKNOWN
+
+know whether the nuclear aircraft carrier is taken out by Iranian attacks or by sailors stuffing their own clothing into the sewerage system to block it and force it out of the conflict. Those are our two choices. You have probably the least willing American military in the history of America's military incursions supposed to go up against a country of 90 million people who know they face an existential risk. It's absolutely ludicrous to be talking about ground troops going into that part of the world. And I'm not an expert in military matters either. We've all acknowledged that. But from what I've got from reports of people who I know are experts in that area, unless the Americans have Star Wars -style weapons to use against the Iranians, then this is going to be a slaughter of those American troops. And then I completely agree. This has probably been set up as another false flag, which America should be famous for.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0016
+
+## seg-0017 / 00:13:59-00:14:54 / UNKNOWN
+
+The Gulf of Tonkin, which dragged them into the Vietnam conflict in the first place, was put across as an attack by American ships in international waters. It was actually an American attack within Vietnamese waters. All this stuff. America sets up these wars and then loses them. You've described Donald Trump as an anarchist who behaves like a mafia boss with no idea of consequences. And you've sent this message to world leaders, get rid of Trump, stop this. America has to concede defeat and step back to give us a chance to rebuild the world's physical infrastructure before global famine sets in. You added it's a clusterfuck coming out of America. If you're going to see regime change to stop this war, forget about seeing it in Iran. You need to see it in America. I mean, that's strong rhetorical logic. There's a lot of political stuff there. Just explain what you're getting at. Well,
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0017
+
+## seg-0018 / 00:14:54-00:15:45 / UNKNOWN
+
+first of all, I mean, my perspective on Trump comes from having a personal relationship with somebody with narcissistic personality disorder. And the one advantage of that relationship in the long term was I understood Donald Trump, I think. And that is that he simply wants to make himself the centre of attention. And it doesn't matter how you do it. You make a centre of attention by giving a nice dance or by invading another country. He just wants to be the centre of attention. I think that's why he fell for Netanyahu's provocation, which 40 years of previous American presidents have resisted and went in in the belief that it would be over in a couple of days. I mean, all the talk about, you know, we've got to get Iran to be reasonable, Iran, Iranian regime, yada, yada, yada. The very first thing the Americans did was assassinate the top leadership of the country, including the father and I believe the wife of the new leader.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0018
+
+## seg-0019 / 00:15:46-00:16:42 / UNKNOWN
+
+You want to be taken seriously as somebody to negotiate with? That just tells you don't negotiate, defeat them on the ground. And just like Vietnam was a war where they brought an enormous firepower and lost to a guerrilla army, this is bringing an enormous firepower and taking against a political system which has broken itself into 31 heads of a hydra so that you can't take it out collectively. So all America's tactics have backfired so far. They'll continue backfiring. The only way out is for Donald Trump to declare victory while conceding defeat. Stephen Moore. I mean, I can't imagine a scenario where Donald Trump tries to get out of this without at least presenting a case for total victory. That's his nature. But in terms of this war and the impact it's had on his legacy, how was the tariff war doing before all this? In other
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0019
+
+## seg-0020 / 00:16:42-00:17:39 / UNKNOWN
+
+words, the Trumponomics, which he launched with a huge gusto, you know, a kind of year ago, how was that playing out, do you think, globally before this? In other words, was his economic strategy, do you think, working? And has this put everything back? Or was it not really working and this has added to the general sense of chaos? Well, first of all, I just have to say, I mean, come on, it seems like you all can't determine who's the good guy here and who's the evil. And by the way, I'm not even a big fan. You're the bad guys, for God's sake. Yeah, exactly. I mean, that's my point. If you actually think that we're the bad guys and the Iranians are the good guys, you have a personality disorder, my friend. And it really is amazing that you think that we're the villains here and that this is a regime. And by the way, again, I wasn't even necessarily in favor of this incursion in the first place.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0020
+
+## seg-0021 / 00:17:39-00:18:27 / UNKNOWN
+
+But come on, this is a regime that was killing thousands and thousands, murdering their own people. This was a regime that's building a nuclear weapon. So how are we the bad guys by trying to save lives? And I do think, look, I think to Trump's credit, he really did view this as a humanitarian mission to save lives that were being slaughtered. Now, in terms of our economy, look, we've had now five and a half years of Trump's presidency with an incredibly strong economy. Trumponomics has worked. If it hadn't been for COVID, Trump would have been reelected with a 40 -state reelection landslide. The economy was very strong going into 2026. And it's true that the Iran situation has really changed that picture dramatically, which is why Trump really needs to bring this to an end as quickly as possible. But by the way, I'm not just attacking Steve.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0021
+
+## seg-0022 / 00:18:27-00:19:13 / UNKNOWN
+
+I think there are a lot of foreign leaders, too, who can't seem to figure out who's the good guy and who's the bad guy here. That's very troubling to Americans. I was facing being conscripted to fight for freedom in Vietnam. And the one thing that really struck me at the three of me is, why am I being conscripted to fight for freedom? You go into Vietnam, you attack it, your whole thing is about going to stop the communist invasion of Southeast Asia. Who was the first country Vietnam has a war with? China, the first and last war. That turned out completely against what you thought was going to happen. Afghanistan, Iraq. I was against all those things. Well, you should be against this one as well. Grow up. If you can't realize that America is the evil empire here, then you've... It's the United States. You're saying the United States is the evil empire.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0022
+
+## seg-0023 / 00:19:14-00:20:03 / UNKNOWN
+
+Yes, the United States began this. What country has invaded America? How many countries has America invaded? Please, stop reading Hollywood scripts and realize which planet you're on. I seem to think that 9 -11 was an attack on America. Maybe you don't agree with that, but... Yes, okay. Which country I said before? Oops, you forgot about that one, right? No, I didn't forget. I said country. And no country did that. That was a rogue... The rogues came from Saudi Arabia, not from the bloody country you're related in the results to it. You guys have got a Hollywood version of your own history. It's a joke from the outside. Nobody takes you seriously anymore. Get used to it. Before the evil empire, why is it every immigrant in the world wants to come to the United States? Nobody wants to go there now, mate. You are going down. You should be at the border.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0023
+
+## seg-0024 / 00:20:04-00:21:06 / UNKNOWN
+
+We have millions of people who are signing up to get visas to come to the United States. They don't want to go to any other country. They want to come to the US. I mean, look, from my point of view, let me be crystal clear. I do think Iran is an evil regime. For 47 years, it's been oppressive to its own people in a despicable way. And also, it's been the key sponsor of terrorism through the Houthis, Hezbollah and Hamas throughout the last few decades. And we've all seen where that has led. And that's been part of the big picture problem. President Zhang, let me bring you back in here. People are looking at manufacturing resilience as one of the reasons why China ultimately will prevail here in the economic aspect of what is going on. China has moved beyond cheap labor to advanced automation. Steve Keen has noted that if global trade stops, China has the internal infrastructure to survive, whereas the West has outsourced its survival.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0024
+
+## seg-0025 / 00:21:06-00:21:54 / UNKNOWN
+
+Do you agree with that? Yeah, I mean, if you just look at the past couple of months, China has been much more resilient and much more able to adapt to the new economic circumstance than other countries in Southeast Asia, especially the Philippines and Thailand. And Japan has also a lot of stress as well. So it seems like the Chinese government has been preparing for this eventuality for a long, long time. They've been very strategic. They've been very long -term in their thinking. The issue is that the long -term strategic scenario does not favor China, because China is still an economy that depends on exports. And if there are these wars raging around the world, then it's going to be very hard for China to export its manufactured goods to the rest of the world. The second issue is that China consumes a lot of resources.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0025
+
+## seg-0026 / 00:21:55-00:23:00 / UNKNOWN
+
+Yes, I do understand that China has renewables, and I do know that China has a lot of inventory and stockpiles, but eventually all this is going to run out. So from a long -term strategic perspective, China is not as resilient as well adapted to a change as, say, maybe Russia or the United States. Will what's happened here with Iran, and actually, to a lesser degree, the Russian invasion of Ukraine, which has also been now, you know, we're four years in now, and it's becoming a real quagmire, will what's happened deter China from invading Taiwan, for example? I think that given the current geopolitical outlook, and given the fact that this situation in Iran is only going to escalate, and this may have ripple effects throughout the world, I think that China is going to be much more cautious in its approach. In fact, we may see that China begins to become much more isolationist over the years.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0026
+
+## seg-0027 / 00:23:00-00:23:56 / UNKNOWN
+
+Yeah, I mean, that's what I would certainly be tempted to if I were them. Steve Keen, what is your prediction? We've talked about what is happening and what we feel about it, but what is your prediction for how this plays out? I'm terrified about what the consequences could be here, because the Iranians have done a very clever tactic of basically guerrilla warfare at a national level, far beyond what the Vietnamese were ready for in the very first instance. And they are doing tit for tat. Anybody who's been a supporter of America, of course, that includes the Arab principalities and kingdoms and the Israelis as well, will be retaliated for any attack on specific similar resources inside Iran itself. Now, there's already been one attack on a desalination plant in Iran. And I think I've seen figures that say that 96 % of Iran's water is natural. You
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0027
+
+## seg-0028 / 00:23:56-00:24:53 / UNKNOWN
+
+look at the other side, the Arabian side, some of them have 96 % dependence upon desalination. If it goes that far, then we will have no idea how this stupid attack is going to turn out. Then that could mean that those areas have to be evacuated because people are not going to starve to death. They're going to die of thirst. Now, this is the horrific possibilities here are just ludicrous. And it's absolutely a monumental failure of judgment to begin this conflict in the first place. Yeah, I mean, Stephen Moore, that is the problem, it seems to me, is that no one can say with any real confidence what is going to happen. And the one thing that global economy needs is confidence. And no one, I think, can say that. We've also got this kind of geopolitical turmoil now with the Gulf states where they've all been attacked. They're seeing their business model to replace oil, which was going to be tourism and come here, it's safe, it's sunny.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0028
+
+## seg-0029 / 00:24:53-00:25:40 / UNKNOWN
+
+We're going to have entertainment and sport and so on. You know, we're seeing a dramatic dialing down of investment in things like golf. The live golf investment is ending and so on. You're seeing lots of immediate reactions and reactive signs that this has been very damaging to the ongoing future business model of countries like Saudi Arabia, of states like Saudi Arabia and the UAE and Qatar and so on. So there's a lot going on here, isn't there? There is. I mean, I don't know kind of where to start. I would simply say that, I mean, one really, really positive thing that's happened the last couple of weeks is the UAE dropping out of OPEC. I mean, as long as I've been alive since I was a teenager, I go back to the 1970s, you know, we've had OPEC with a blade
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0029
+
+## seg-0030 / 00:25:40-00:26:30 / UNKNOWN
+
+at our neck where they could just by turning on and off the spigots, they could really throw the American economy into recession and causing global recession. And the fact that OPEC is falling apart or at least appears so is a very good thing. And by the way, the reason OPEC, the real reason OPEC is falling apart is that the country that has the most oil and gas in the world is the United States. We're the number one producer now, which is amazing. And how do you have a cartel when the number one producer isn't part of your cartel? So whether you like Donald Trump or not, everybody has to agree that his drill baby drill strategy has been amazing for the U.S. economy, that it's made us less reliant, although we're still relying on Middle East oil, made us much less so. So I think the approach going forward for the U.S. should be produce as much energy as we possibly can at home.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0030
+
+## seg-0031 / 00:26:30-00:27:29 / UNKNOWN
+
+Our oil, our gas, our coal, our nuclear power. And when it's available and it's appropriate, we could maybe get some energy from wind and solar. Use it all so that we don't have to be captive to the Middle East any longer. But is it naive, Stephen, for President Trump to take a view of, you know, this is not our problem, right? The energy part of this. We produce our own energy, almost pretending there isn't a global energy economy that America inevitably will be dependent on. Of course. And there's a global oil supply and a global oil supply demand. And what I'm saying is that we can somewhat inoculate ourselves from that because the more and more we produce, the more valuable the oil is. Professor Zhang, the inevitable consequence of all this, I guess, is that many countries, as Stephen Moore just indicated, will become, as you said earlier about China, more isolationist.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0031
+
+## seg-0032 / 00:27:30-00:28:29 / UNKNOWN
+
+What impact will that have, do you think, on geopolitics globally? I think that we are coming to a point where the world is going to be very similar to the 1930s, when the world became much more isolationist, when the global economy collapsed, and when wars started to flare up around the world. I mean, even though America is the wealthiest country in the world, even though it is energy independent, its economy is still globally reliant. So if the GCC collapses, then it loses its petrol dollar, it loses its electricity, it loses millions of dollars in investment. And we could see a financial crisis in America over the next few months, which would lead to a catastrophic global depression. So the outlook for the world is very, very grim. Steve Keen, you've been very apocalyptic about the future of Bitcoin. Explain why. Mainly because people talk about Bitcoin as being an alternative to money.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0032
+
+## seg-0033 / 00:28:29-00:29:21 / UNKNOWN
+
+And this is, to me, just naive about the nature of money itself. And this is common across the entire economics profession. Economists, weirdly enough, in their mathematical models, do not include banks or debt or money. And they treat money as if it's a commodity, when money is fundamentally a promise of a bank to you to honor your liabilities to them. That's the actual nature of it. So when Bitcoin was formed, it was based on the same idea as a similar acronym to gold. The trouble is that gold actually does have a value outside its use in the monetary system. The production cost of gold is about $500 an ounce, I believe, at the moment. And that's pretty much its floor. If you don't use it for money, then this price or a hedge against economic danger, then its value will fall back to its cost of production, plus a margin.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0033
+
+## seg-0034 / 00:29:21-00:30:11 / UNKNOWN
+
+It's used in all sorts from jewelry to computer devices. Bitcoin can only be used as either a store of value or a means of payment. Now, we've had almost 20 years of Bitcoin now, and it's been used as a means of payment. It's still not used by any scale as a means of payment. And the main thing is it's been treated as a store of value. That's where the term HODL comes from, hold on for dear life. So the idea is you've got a device which is supposed to be replacing money, but it's focusing upon the store of value side of money rather than the use for exchanges. Now, if you focus upon the store of value, you don't spend. So in my feeling, it's actually wrongly set up in the first place. So it's only got value where people think its price is going to rise. Now, we're reaching the point where maybe you've got as much as its penetration will ever go.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0034
+
+## seg-0035 / 00:30:12-00:31:01 / UNKNOWN
+
+And when it stops rising, then the only way to go is down. Where I see the bottom isn't zero quite, but it's at the stage where there are transactions you don't want to put through the SWIFT system or through the monetary system. Illegal drug sales come to mind and weapons sales and that sort of thing. That's its floor. Way, way below. It's currently what, $60,000 price roughly. So, and is the particular issue with Bitcoin also that it uses up enormous amounts of energy and therefore there becomes a global energy shortage that puts even more pressure on Bitcoin. Yeah, absolutely. Like, I'm totally on the other side of the fence on global warming, by the way, to Stephen. He probably knows that. But in that case, if we are forced to say we've got to cut back on energy consumption, then the two easiest things
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0035
+
+## seg-0036 / 00:31:01-00:31:52 / UNKNOWN
+
+to end are international tourism and the fact that we've got to cut back Stephen, oddly, I found, I saw you nodding pretty much throughout everything Steve Keen just said. So, have we reached a point of agreement here? Well, maybe. I'm not a, look, I'm glad that we have alternative private currencies out there, which is exactly what Bitcoin is. I got to tell you, I'm not an investor and I don't own Bitcoins because I don't understand it. And it makes me nervous and I think it could crash. But who knows? I know people who invested in it early who are now, you know, set of millionaires. So, what I would say though, the reason I favor these kind of alternative private currencies is for too long we've let central bankers control our money supply and they haven't done a very good job of it with the herky -jerky inflation. And so, I think this is a
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0036
+
+## seg-0037 / 00:31:52-00:32:54 / UNKNOWN
+
+good way to keep, by the way, the central bankers hate cryptocurrencies because they don't want the competition. I'm kind of a libertarian so I like the idea that cryptos are out there, but I'm not investing them myself. Professor Zhang, just finally, are we heading for a global recession do you think? I think that we are heading towards a global depression and this is a process that could take decades. We are in a new normal. We are on, we are in the undiscovered country. We are, we are, the level of destruction, the level of pain and suffering that we are moving towards is unimaginable. So, buckle up. Can I, can I answer that question? Yes. Look, we are entering the greatest period of productivity, the greatest productivity revolution in the history of civilization. Nothing will, over the next 10 years we'll never see anything like what is coming with respect to this incredible robotics revolution. So, that's going to raise living standards.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0037
+
+## seg-0038 / 00:32:54-00:33:45 / UNKNOWN
+
+This is like the invention of robotics. But is it though, Stephen, because surely the big question with that is if the future is robotic then aren't humans in the process? No, it's like saying, well, gee, isn't, isn't, you know, a machine going to, you know, make people poor? No. Economic progress and productivity makes people richer not poorer. And so, we're going to see amazing, and by the way, not just in the area of production because, you know, literally in the next 10 years we'll have technology through the, blind people will be able to see, people in wheelchairs will be able to rise up and walk, we'll be able to cure cancer. I mean, this is an incredible future we're facing and it's going to not just be good for our health but our wealth as well. Okay, so we have two options, Steve Keen, finally. One is a global, a global depression over the next few decades.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0038
+
+## seg-0039 / 00:33:45-00:34:33 / UNKNOWN
+
+The other one is a global explosion of euphoric joy and success and triumph. So, what do you say? Remember, remember the old movies, remember the old movies Sliding Doors. Yes. You make it through the train, you don't make it through the train. Yes. I think we're at a sliding doors moment. I completely disagree with Steven and we haven't talked global warming and I think he's completely wrong on that front. Global warming will end. You don't think that the technology will, let me, I'm just saying, do you not think that the technology will cause more growth? Technology requires energy. One of my little shorthands, labor without energy is a corpse. Capital without energy is a sculpture. If you don't have the energy, the economy collapses. We're seeing that right now with what the Iran war is doing. We're going to see a 10 or 20 % fall in energy levels.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0039
+
+## seg-0040 / 00:34:33-00:35:17 / UNKNOWN
+
+Quite literally, when you look at the data, a 10 % fall in energy means a 10 % fall in GDP. That's as big a downturn as the Great Depression. So, that alone is coming away right now out of this stupid war that should never have been commenced. Then the long term, I would love us to get to that future. I'm a technology designer myself. I understand this area. I would love to see it happen but it means we have to avoid catastrophe from global warming. I know you believe that it's a myth. Your side has won the public debate over that. We're going to find out the hard way in the next five years whether you're right or not. That's the sliding door. If we could make it to the other side, we'd have the future of plenty. If we don't make it to the other side, we go back to cavemen. Technology is the solution to climate change.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0040
+
+## seg-0041 / 00:35:17-00:36:03 / UNKNOWN
+
+In other words, the only way, if it's really happening, the only way to divert it is through technology. The only country that's getting there is China. China seems to be pushing itself heavily in towards alternative energy, both renewables and nuclear, and it's even got the world's first relatively successful thorium reactor. So America's wasted its time invading other countries, blowing up the rest of the planet, trying to control the oil system. Rather than building its own infrastructure, China is the winner. You're saying China's going to use energy that's twice as expensive as oil, gas, and coal, and somehow they're going to get rich on that. I would bet against that, my friend. People used to say the sun doesn't always shine and the wind doesn't always blow. Now we're saying the Strait of Hormuz doesn't always flow, and that's far more significant. We're going to see a huge desire by
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0041
+
+## seg-0042 / 00:36:03-00:36:52 / UNKNOWN
+
+people in the rest of the world to liberate themselves from reliance upon oil, whether you think that's economic or not. It's no point about being economic. You know who tried to do that? Germany tried it. Look at Germany today. Germany also turned off its own nuclear power stations. Germany turned off its own nuclear power stations. That was monumentally stupid. China was the one that's been developing the nuclear technology. I think China remembers the... Good. Okay. China remembers the Opium Wars far better than the rest of the world does. They know they can't trust the West. They're building self -sufficiency and technological leadership. If you want to see technological leadership and where robotics might lead to people benefiting, it's going to be China, not America. Okay. We've got to leave it there. Fascinating debate, gentlemen. Thank you all very much. I really enjoyed that. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0042
+
+## seg-0043 / 00:36:52-00:37:14 / UNKNOWN
+
+And the only boss around here is me. If you enjoy our show, we ask for only one simple thing. Hit subscribe on YouTube and follow Piers Morgan Uncensored on Spotify and Apple Podcasts. And in return, we will continue our mission to inform, irritate, and entertain. And we'll do it all for free. Independent, uncensored media has never been more critical. And we couldn't do it without you.
+
+Ref: video:interview-dbvdnl6hwog@transcript:v1#seg-0043
