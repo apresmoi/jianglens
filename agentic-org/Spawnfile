@@ -50,6 +50,11 @@ shared:
       - id: yt-dlp
         manager: pipx
         name: yt-dlp
+      - id: node-22
+        manager: npm
+        name: node
+        version: "22.12.0"
+        scope: global
       - id: codex-cli
         manager: npm
         name: "@openai/codex"
