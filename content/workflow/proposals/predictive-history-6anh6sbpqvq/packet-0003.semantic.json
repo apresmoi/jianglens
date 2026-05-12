@@ -1,0 +1,104 @@
+{
+  "packet_id": "predictive-history-6anh6sbpqvq-semantics-pkt-0003",
+  "source_id": "video:predictive-history-6anh6sbpqvq",
+  "source_date": "2026-05-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0018",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0019",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0020",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0021",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0022",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0023",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He translates war into a chess model (king/political system, queen/grand strategy, minor pieces as attack vectors and pawns) and applies it to U.S. and American institutions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0019"
+      ],
+      "note": "One segment shows unusual wording around media control and the U.S. dollar; treat as paraphrased claim, not verbatim economic precision.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He presents war as an attempt to put a rival into check by attacking political systems rather than purely military systems.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0015",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["strategy", "war-model", "great-power-conflict"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the U.S. system is represented as a democracy with innovation strengths but polarization as weakness, and outlines a technate strategy led by AI and expert control.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0016",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["usa", "political-system", "technocracy", "AI"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He links a U.S. debt-management mechanism to forcing global dependence on U.S. weapons/resources through trade and financing pressure.",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0020",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "2026-05-07 lecture claim",
+      "topic_tags": ["finance", "debt", "coercion"],
+      "claim_type": "model",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0017"
+      ],
+      "moment": "The chess-board analogy turns systemic geopolitics into a game of political architecture, not battlefield arithmetic.",
+      "source_phrase": "when you fight a war you're not trying to defeat ... you're trying to put your opponent in check by attacking the political system",
+      "why_it_matters": "It establishes the governing analytic frame for his forecast of U.S. and Russian behavior.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "technate",
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "A proposed AI-led technocratic form of governance replacing representative volatility while preserving strategic control.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0015",
+        "video:predictive-history-6anh6sbpqvq@transcript:v1#seg-0024"
+      ],
+      "note": "Packet 3 marks a shift from high-level framing to U.S. implementation mechanics: weapons, media, currency, and ideological tools.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}
