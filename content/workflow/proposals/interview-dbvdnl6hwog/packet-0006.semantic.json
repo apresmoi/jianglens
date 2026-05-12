@@ -1,0 +1,96 @@
+{
+  "packet_id": "interview-dbvdnl6hwog-semantics-pkt-0006",
+  "source_id": "video:interview-dbvdnl6hwog",
+  "source_date": "2026-05-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "The closing block ties crisis management to energy transition, identifying China as a possible technological winner and ending the interview with a media-signoff frame.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042"
+      ],
+      "note": "Segment includes interview signoff and promotion language alongside substantive claims.", 
+      "suggested_speaker": "Jiang",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He argues that the only scalable response to ongoing energy contraction is to shift global infrastructure away from oil reliance through technology and alternatives.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["energy-transition", "technology", "resilience"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He identifies China as a leading case in this transition due heavy investment in renewables/nuclear and early thorium work, contrasting it with Germany’s past nuclear reversals and Western dependency.",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "2026-05-05",
+      "topic_tags": ["china", "technology-policy", "energy-system"],
+      "claim_type": "comparison",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041"
+      ],
+      "moment": "He concludes that avoiding catastrophe depends on infrastructure capacity, not rhetoric.",
+      "source_phrase": "If it's really happening, the only way to divert it is through technology",
+      "why_it_matters": "This closes the interview loop by converting geopolitical conflict into an engineering/economic choice.",
+      "tone": "prescriptive",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "energy diversification",
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Reducing dependence on one source (or single-region supply choke points) via mixed domestic and technological substitutes.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0041",
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042"
+      ],
+      "note": "Closes with a forward-looking policy frame that depends on previous packet-level discussion of production fragility.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-dbvdnl6hwog@transcript:v1#seg-0042"
+      ],
+      "note": "Comparative judgment of China’s trajectory is assertive and not independently evidenced in this segment.",
+      "confidence": "low"
+    }
+  ]
+}
