@@ -1,0 +1,148 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0006",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0042",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0043",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer asks about refinery incidents, and Jiang gives a three-factor causal account: war, overloading, and sabotage, linked to a broader control strategy.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0045",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0047",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He frames a strategy of tension model, arguing mass anxiety and engineered unrest can precede more direct authoritarian controls.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046"
+      ],
+      "note": "The reference to 'Colonel Towner Watkins' appears as an external authority name and is used for rhetorical support rather than quoted evidence.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang advances a control-grid theory: manufacturing fear and economic shocks helps elites increase social compliance.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0045",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Interpretation within interview as of 2026-04-22",
+      "topic_tags": [
+        "social-control",
+        "anxiety-engineering",
+        "war-rhetoric"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He attributes refinery destruction patterns to a blend of war damage, operational overload, and intentional sabotage.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0043",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Current episode evidence claim",
+      "topic_tags": [
+        "energy",
+        "industrial disruption",
+        "sabotage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He suggests social control will likely be normalized through staged crises and age-related security/policy framing before a more technical enforcement state matures.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Interview's projected sequence",
+      "topic_tags": [
+        "security-state",
+        "project-bluebeard",
+        "future-gov-model"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "moment": "Control via manufactured anxiety",
+      "source_phrase": "you need to make them much more anxious... much more desperate",
+      "why_it_matters": "Condenses the operational logic behind scarcity narratives and policy hardening.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "moment": "Fake crisis pathway",
+      "source_phrase": "possible strategy is to fake an alien invasion",
+      "why_it_matters": "Most explicit expression of deliberate public distraction used as a control mechanism.",
+      "tone": "image",
+      "confidence": "low"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "strategy of tension",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0045",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Policy sequence that uses uncertainty, conflict, or contrived shocks to force public conformity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Project Bluebeard",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Term used by interviewer as a label for recurring elite control/surveillance narrative; treated as claimed framing from interview context.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0042",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048"
+      ],
+      "note": "After macroeconomic concerns, this packet marks escalation into geopolitical sabotage and information-control hypotheses, which inform later skepticism about space and AI narratives.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0044"
+      ],
+      "note": "The phrase 'the peasants have become too uppity' appears metaphorically in ASR and should be interpreted as a class-control framing."
+    }
+  ]
+}

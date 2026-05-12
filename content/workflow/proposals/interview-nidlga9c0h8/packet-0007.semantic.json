@@ -1,0 +1,124 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0007",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0049",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer raises criticism of continued space spending; Jiang expands the space-force narrative and introduces the claim that the space program’s strategic payoffs are inconsistent with spending scale.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0052",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0053",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang questions why major scientific breakthroughs did not persist post-moon program and frames narrative-management concerns around futuristic settlement claims.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0053"
+      ],
+      "note": "Host line is short confirmation of surprise; treated as reaction, not independent claim.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts large strategic expenditures typically produce innovation waves, and he questions whether this pattern is breaking with current space programs.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "2026-04-22 analysis segment",
+      "topic_tags": [
+        "space-program",
+        "state-spending",
+        "innovation"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He asserts concern that key moon-era science data was not preserved or has been lost despite historical milestones.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Interview speculation about technological continuity",
+      "topic_tags": [
+        "technology",
+        "knowledge-management"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He introduces the hypothesis that space efforts can be used as a societal narrative device comparable to wartime mobilization optics.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "2026-04-22 interview",
+      "topic_tags": [
+        "control-narrative",
+        "national-symbols"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050"
+      ],
+      "moment": "Space program cast as elite signaling",
+      "source_phrase": "project bluebeard",
+      "why_it_matters": "Shows the interview’s recurring mechanism: technical spectacles may function as public distraction and legitimacy theater.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Project Bluebeard",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Interviewer shorthand for a potentially manipulative reveal/disclosure narrative used in elite governance critique.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0048",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0054"
+      ],
+      "note": "The interview shifts from war-control mechanics into space-policy skepticism, extending control-grid language into aerospace spending and public expectation management.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0051"
+      ],
+      "note": "The assertion that prior breakthrough channels vanished is framed as critique, not sourced technical evidence."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0009",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0067",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0069",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0070"
+      ],
+      "kind": "exchange",
+      "summary": "Interviewer questions conscription expansion (age of reserve enlistment and draft revival); Jiang answers with resource/elite-control framing and links draft to AI governance control.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0071",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer acknowledges Jiang’s repeated worst-case stance while Jiang states he hopes to be wrong but insists preparation for negative scenarios is prudent.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0069"
+      ],
+      "note": "Interviewer references a Palantir headline and framing of automatic Selective Service registration, importing headline framing into the interview.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets proposals to raise reservist enlistment age and draft mechanisms as signs of a depopulation/elitist control trend.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0067",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "2026-04-22 interview remarks",
+      "topic_tags": [
+        "conscription",
+        "elite-control",
+        "population-policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He argues military draft expansion and food/information control can work together as elements of a future AI-driven obedience architecture.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0070",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Interview scenario projection",
+      "topic_tags": [
+        "ai-surveillance",
+        "military-policy",
+        "social-control"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He reiterates that social and mental preparedness matters even when predictions may be wrong, emphasizing resilience under a worst-case assumption.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Interview conclusion",
+      "topic_tags": [
+        "resilience",
+        "risk-management"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "moment": "Elitist-population framing of war preparation",
+      "source_phrase": "get rid of most of us",
+      "why_it_matters": "Condenses the source’s strongest accusatory logic about elites preferring coercive scarcity structures.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "moment": "Cognitive hygiene under uncertainty",
+      "source_phrase": "I hope I'm wrong... prepare for worst-case",
+      "why_it_matters": "Captures both humility and persistent warning posture used to interpret risk.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "depopulation agenda",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "A critique used by Jiang to describe policy choices that appear to reduce population pressure through structural coercion.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Selective Service",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0069",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "Automatic youth registration and draft pipeline potentially used by the state to scale wartime mobilization.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0067",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0072"
+      ],
+      "note": "Final policy section before close: moves from military and demographic control themes to emotional close on preparedness.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0068"
+      ],
+      "note": "Depopulation framing is rhetorical and not supported by external evidence in this source; keep confidence low and scoped to hypothesis level."
+    }
+  ]
+}

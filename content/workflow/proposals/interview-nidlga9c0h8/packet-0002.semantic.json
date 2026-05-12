@@ -1,0 +1,137 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0002",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang rejects the immediate ceasefire narrative and reframes the campaign as recalibration toward a longer strategy, while the interviewer presses on public attention and distraction.",
+      "speaker_attribution": "Jiang and interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0013",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0014",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "He outlines a three-part long-war hypothesis centered on strategic pressure control points, ethnic partitioning, and humanitarian choke points in Tehran.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011"
+      ],
+      "note": "Interviewer prompts 'that's what happens, right?' appears to invite rhetorical affirmation; no separate claim should be extracted from the prompt itself.",
+      "suggested_speaker": "Clayton Morris",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says what is called a ceasefire is being used as a strategic pause: he terms current phase 'recalibration' and predicts ongoing pressure on Iran through control of the Hormuz economy.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "2026-04-22 interview",
+      "topic_tags": [
+        "iran-war",
+        "recalibration",
+        "blockade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts a durable drawdown phase where policymakers keep U.S. casualties low and sustain public tolerance by creating additional international distractions.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "2026-04-22 scenario projection",
+      "topic_tags": [
+        "war-fatigue",
+        "public-distract",
+        "escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He introduces a long-war model with economic pressure as a domestic distraction, including reduced public willingness to sustain foreign conflict when costs rise.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Current interview framing",
+      "topic_tags": [
+        "public-opinion",
+        "war-funding"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010"
+      ],
+      "moment": "Reframing ceasefire as strategic adjustment",
+      "source_phrase": "we're actually looking at round two",
+      "why_it_matters": "Provides the central interpretive lens for the remaining conversation: war continuity despite public signals of de-escalation.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "round two",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "A second phase characterized by economic-strangulation and low-casualty, long-duration strategy rather than decisive kinetic victory.",
+      "confidence": "high"
+    },
+    {
+      "term": "strangulation strategy",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0011",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Applying layered pressure through trade/security controls and media distraction instead of headline escalatory moves.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0013"
+      ],
+      "note": "This packet transitions from earlier two-off-ramp framing into explicit phase-based war theory and then toward long-term operational mechanics in following packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0010"
+      ],
+      "note": "ASR includes 'Shavuot Hormuz' likely referring to Strait of Hormuz; corrected by context from surrounding segment."
+    }
+  ]
+}

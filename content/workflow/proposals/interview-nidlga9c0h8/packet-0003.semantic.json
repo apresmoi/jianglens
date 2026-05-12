@@ -1,0 +1,139 @@
+{
+  "packet_id": "interview-nidlga9c0h8-semantics-pkt-0003",
+  "source_id": "video:interview-nidlga9c0h8",
+  "source_date": "2026-04-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0018",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks for consequences of a long campaign and Jiang expands a three-pillar model with maritime choke points, enclave basing, and urban starvation pressures.",
+      "speaker_attribution": "Interviewer and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0021",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0022",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0023",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "He predicts drag-out conflict with low visible U.S. casualties, cites historical examples of wars becoming long because of domestic shift-off and economic distraction, and describes Afghan precedence.",
+      "speaker_attribution": "Jiang with interviewer prompts",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0024",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0025"
+      ],
+      "note": "Advertising and sponsor transition begins mid-packet in seg-0025 onward, so claims should stop at war-analysis boundary unless specifically tied by later context.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang claims a three-pillar long-war strategy: control Strait access, establish perimeter bases via ethnic fault lines, and starve urban centers through infrastructure attacks.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0013",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0014",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Current interview strategic assessment",
+      "topic_tags": [
+        "three-pillars",
+        "iran-strategy",
+        "war-attrition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He forecasts deliberate, long-duration U.S. strategy designed to limit U.S. casualties while using domestic distraction through new conflicts and economic pressure cycles.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Near-term projection from 2026-04-22",
+      "topic_tags": [
+        "strategic-stay-power",
+        "casualty-management",
+        "distraction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "He links drawn-out interventions to historical precedent: rapid military victory followed by prolonged nation-building commitments, with corruption and long-term entanglement risk.",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0022",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Comparative history cited in interview",
+      "topic_tags": [
+        "history",
+        "nation-building",
+        "intervention"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017"
+      ],
+      "moment": "From strategic pressure to deliberate fragmentation",
+      "source_phrase": "it’s really meant to destroy the country as a viable nation state",
+      "why_it_matters": "This sharply frames the end-state objective as state deconstruction rather than mere military victory.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Balkanization",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Splitting a country into smaller hostile enclaves to reduce viability of central authority and force resource conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "drawn-out war",
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0019",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "A conflict phase where casualty control and narrative sequencing sustain political acceptance over time.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0017",
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0024"
+      ],
+      "note": "This packet is a bridge between immediate tactical framing and later macroeconomic/AI-control interpretation in subsequent segments.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nidlga9c0h8@transcript:v1#seg-0023"
+      ],
+      "note": "Transcription includes malformed phrase fragments ('Project습 number ...') that likely reference a U.S. military/corruption claim but are too noisy to treat as precise factual detail."
+    }
+  ]
+}
