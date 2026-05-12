@@ -1,0 +1,741 @@
+# 🔴 Prof Jiang & Alex Krainer - The Elites Exit Plan REVEALED
+
+Source: https://www.youtube.com/watch?v=37Qm5feukW8
+
+## seg-0001 / 00:00:00-00:01:03 / UNKNOWN
+
+What I anticipate is a move towards more low intensity conflict where it's a war of attrition, right? So it's a naval blockade. You have some ground forces deployment and you have some continual airstrikes, but the tempo of the war will be not as high as before. And the reason why is that I think that this will become a global economic war as we move on. Professor Jiang, as you said, the idea is to keep the wars going, not to win them. They don't care that they were going to lose. They need to keep these wars going, but they're going to lose. What is the exit strategy for the elites then? You know, because I'm sure they have exit strategies. My name is Danny. It is April 24th, 2026. And we've got a special treat for you guys today. We've got not one, but two big headline main eventers. You've got Professor Jiang and Alex Cranor at the same time.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:03-00:02:01 / UNKNOWN
+
+Gents, thank you both so much for making time from your hefty and busy schedules to the chat today. Thank you for the invite, Danny. Great that you organized this. Yeah, guys, if you haven't already, hit that like button. Let's get this video out to as many people as possible. It's sure to be a conversation to remember for the ages. Let's go ahead and start off with what's been ongoing in the greats of Hormuz and in Iran. Obviously, that's the big story. Everyone wants to talk about it seems that we found ourselves in a supposed indefinite ceasefire from President Trump. Professor, we'll start off with you. Get your take. How to get your read on the situation where you think what do you think the plan is here with this indefinite ceasefire? Is there is there are they is President Trump looking for an off ramp? Or is he taking he's trying to use this as time to build up more troops and artillery?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:03-00:03:00 / UNKNOWN
+
+Well, I mean, it seems as though they are. They're trying to build up more forces for a quick strike against Iran. So even though there's a ceasefire, there's been a lot of cargo flights of American weaponry and munitions into the Middle East. And the George H.W. Bush has been making its way into theater and expected to arrive in a couple of days. So I think I think like by next week, we should have a better indicator of what's going on. But I think from my perspective, what I anticipate is a move towards more low intensity conflict where it's a war of attrition. Right. So it's a naval blockade. You have some ground forces deployment and you have some air strikes, but the tempo of the war will be not as high as before. The reason why is that I think that this will become a global economic war as we move on.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:00-00:04:07 / UNKNOWN
+
+So I'll hand over to Alex. Yeah, Alex. Thanks. Go ahead. It's a it's a very, very difficult question, Danny, and I'm not I'm not entirely sure how to answer it in any concrete way. I've been you know, I've been observing this event and really scratching my head because I was among the people who was fully convinced that Trump would never attack Iran because I thought it was just extraordinarily dumb and unrealistic that the downside risk was enormous. You know, the downside to the attack was next to nothing, you know, little to gain for Trump. For Trump. I understand that there's a lot to gain for, let's say, for the Western Empire, which, you know, I always characterize as the undead reincarnation of the British Empire. And so we can see that there are certain there's a certain echelon of power, certain vested interests. That very, very badly want this war.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0004
+
+## seg-0005 / 00:04:07-00:05:21 / UNKNOWN
+
+And this incentive will not go away for Trump himself politically. He desperately needs out. So I think that we have a bit of a conflict between two two layers of the command and control structure where you have the president of the United States and the how do you call it? The legitimate government of the United States that got enmeshed in this. It's now it risks becoming a quagmire for them. So they want out. And then there's a there's a higher, higher level that definitely wants this war. And the reason why they want this war. OK, let's so let's let's first say why Trump and U.S. government and the U.S. military, the Pentagon and so forth, the whole, you know, the whole organization doesn't want the war because they can't win it. And because they risk losing very bigly. And it's going to cost Trump politically his presidency, his legacy, a very likely loss of midterm elections.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0005
+
+## seg-0006 / 00:05:21-00:06:36 / UNKNOWN
+
+And so everything that he at least ostensibly tried to achieve gets derailed fatally, permanently. And so on the other side, why do they want to continue the war? Let's start with the fact that Iran is the fifth richest nation in the world in terms of natural resource wealth, and it's estimated at about 30 trillion U.S. dollars. And then when we connect this with the fact that our monetary system is predicated on circulating money as debt for which you need collateral and that the monetary system is fraudulent. So if it doesn't grow like a Ponzi scheme. It mathematically collapses, it's a mathematical certainty. So in order for the whole thing to stay together, to not implode, they need to bring new collateral into the equation. And so this is why, you know, we've had colonialism for the last 500, 600 years and why this colonialism never ends.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0006
+
+## seg-0007 / 00:06:36-00:07:47 / UNKNOWN
+
+And they never give up on going after it. They never give up on going after one resource rich nation or region after the next. So you have Russia, Ukraine, Iran, Iraq, Syria, Libya, Venezuela. It just never ends. The rhetoric is, the narratives are always, oh, the Iranian mullahs are terrible people. If they get a nuclear bomb, they're going to incinerate us all. Well, similar to Iraq, Saddam Hussein is a terrible person. And if he gets weapons of mass destruction, it's going to be the end. Gaddafi is a madman. He's killing his own people. Bashar al -Assad is a madman. He's killing his own people. We can run the clock back however far you want. You know, in 1971, Salvador Allende is a communist. If he stays, then, you know, there's going to be domino effect, communism spreading. So, you know, we're always fighting demons around the world. We always find some evil that we need to stomp out.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0007
+
+## seg-0008 / 00:07:48-00:09:15 / UNKNOWN
+
+But it's just, you know, kind of strangely correlated that we always seem to be attacking resource rich regions. And so this is a constant which has given us colonialism, which has given us forever wars. And it never goes away. And they never give up. You know? And I think that you could go back to 1200s and find the Pope in Rome inciting German and Latvian nobles to conduct military campaigns into territories of today's Russia. And then it never really stopped. You know, it continued. You know, the Polish invasion, the Swedish invasion, the, you know, Napoleon's invasion, Hitler's invasion. Multiple attempts at regime change, which, you know, once upon a time involved setting up a fake czar in the Kremlin. But it also involved the 1917 color revolution, the Bolshevik coup. It also involved a sort of a color revolution in 1991. You know, when they replaced the communist regime. I mean, they
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0008
+
+## seg-0009 / 00:09:15-00:10:21 / UNKNOWN
+
+replaced the communist regime with Boris Yeltsin, who was, you know, a different version of Volodymyr Zelensky, who basically, you know, worked two hours a day, drank the rest, and played tennis or hunted. And he had American advisors write decrees for him, which he would just sign. And they had practically total control of Russia. And in those ten years that they did. They brought Russia to a state of control. almost total disintegration and the average salary of a russian worker was 56 a month so we can probably safely foresee that this dynamic is not going away trump might go away but it would be the umpteenth time that the american people vote they always vote for anti -war presidents for anti -war candidates people who promise them no more foreign wars uh we're gonna change everything uh hope and change you know blah blah but they always get more war it doesn't matter who they vote
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0009
+
+## seg-0010 / 00:10:21-00:11:30 / UNKNOWN
+
+for trump was going to be a radical change in policy course but here we are again same rhetoric same policies you remember sorry i'm making it long but i'll wrap up quickly remember it was only in december sounds like forever ago but it was only in december that the united states the trump administration published the national security um strategy for the united states and what was it it was like enough of this nation building global wars we're withdrawing into our own hemisphere and now we're at war with iran not only the united states is also at war in sudan and somalia you know this has been you know beyond the smoke screen of iran war but this year united states has uh bombed somalia 58 times nobody's talking about it but you know this is real so it seems that between the trump administration and whatever higher echelon is actually dictating foreign policy there's a
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0010
+
+## seg-0011 / 00:11:30-00:12:35 / UNKNOWN
+
+there's a conflict but it seems to me that ultimately this higher echelon gets to press the the clutch of the of the of the whole policy machine and put it in motion anyway so that's that's how i see it and this is why i believe that this this problem's not going away and this war is not going away i would i would agree with professor jean that probably the intensity is going to drop off and it's going to maybe uh go back to to sabotage attempts at regime change and economic pressure but i think that the dynamic has changed and now that iran is actually in control of that conflict rather than the the the the empire danny either you froze or your connection if you're national oh what about now yeah yeah that's fine are we back yeah yeah okay yeah yeah so thank you thank you so much for laying all that out
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0011
+
+## seg-0012 / 00:12:35-00:13:40 / UNKNOWN
+
+alex um professor jang if you don't mind commenting on the national security strategy document that came out in december that alex just alluded to because you've done some research into that document and kind of makes sense of what we're seeing today versus what was outlined in that document is there a disconnect or are things going according to what the document outlined i mean what's your view right so um having read the document i think it is erroneous to say that america's intention is to retreat back into the western hemisphere i think the document what the document really says is that america will no longer adopt a liberal interventionist attitude towards geopolitics no more multilateral uh cooperation working night nations um no more being policemen of the world i think the intention is to move towards a more mercantilist real politic uh interest -driven um uh attitude uh towards geopolitics so whatever puts american interests first
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0012
+
+## seg-0013 / 00:13:40-00:14:34 / UNKNOWN
+
+and and i think that what this means is how this war will play out uh in iran is that using iran as a pre -taught pretext in order to impose a naval blockade on the entire world and so um i'll make two i'll i'll give you two data points okay the first data point is that that the uae has asked america for a line of credit now i believe the uae sovereign uh wealth fund and alex will know better than i do but i think that the sovereign wealth fund has 1.4 trillion dollars so that they don't need a line of credit and the only reason why they would ask for a line of credit is to entangle the states into uh the gcc right so think of the land lease policy uh that america had for britain back in world war one and world war ii and eventually the land lease um became
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0013
+
+## seg-0014 / 00:14:34-00:15:21 / UNKNOWN
+
+so exorbitant that america had to come into the war to save britain from military defeat against germany and it seems to this situation happened in the gcc where uae first asked for some credit but then um saudi arabia comes in and eventually america has to lend trillions of dollars to the gcc in order to finance this war right but that's good for america because as alex points out they're what they want are collaterals um and so as collateral they could have they could have the entire gcc oil resources and that's a trade that saudi arabia and uae would make in order to maintain their uh control over the gcc okay so that's point one and i hope that alex can can respond to this point i think that the uae asking for a lot of credit is a huge huge deal it's not a big deal it's not a big deal it's not a big
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0014
+
+## seg-0015 / 00:15:21-00:16:10 / UNKNOWN
+
+deal it's not a big deal it's not a big deal it's not a big deal but it's a big deal and so i think that's the point one point two is if you look at what america is doing towards foreign policy what they're trying to do is establish a firm control over maritime choke points around the world so you know the indian indian defense minister recently visited washington dc and they signed a treaty uh giving america access to indonesian airspace and an indonesian minister has said that maybe um now that iran is collecting tolls on the sort of malacca now from from the chinese perspective this is huge because 80 of of china's energy imports go through the state of malacca 90 of all imports and trade go through from from for china through the state of malacca okay let's just address malacca remember um there's also the state of gibraltar and the united states
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0015
+
+## seg-0016 / 00:16:10-00:16:53 / UNKNOWN
+
+and morocco are now negotiating a treaty there um there is um the panama canal and america is exerting more control over that so we can expect uh what's gonna happen in the next few months is that america is going to have a firm lock on these maritime choke points right now the american navy is committing piracy over the over the oceans so originally trump said that they want to impose a naval blockade on the on iranians uh but you can't do that because then you'll be too close to iranian missiles and drones so they're now sitting um off the strip of the indian ocean and they're now uh i think they've already seized two iranian vessels i mean they've already seized two iranian vessels i think they've already seized two iranian vessels i think they've already seized two iranian vessels i think they've already seized two iranian ALEX will know more about this than i
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0016
+
+## seg-0017 / 00:16:53-00:17:42 / UNKNOWN
+
+do and then NANCY GRAHAM came out and says you know what we should do this for the entire world you know we our ships should be everywhere to capture these russian shuttle tank uh shadow fleet tankers these iranian ships these chinese ships that are awaiting sanctions for for the good of the world so so so i i always just point these two things out in that you know it seems as though it's all very chaotic but if you zoom out and i and and this is what ALEX said it's in the it's it's it's very chaotic Turkish especially because of the in the best interests of transnational capital to have this um to have um these maritime um blockades going around and they're hoping to basically in debt the rest of the world to u.s treasuries in order to finance this war so i'd be interested in in alex's response yeah alex go ahead
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0017
+
+## seg-0018 / 00:17:42-00:18:42 / UNKNOWN
+
+uh i i don't disagree with anything that you said i would just add a little bit more color and you know i i i think that the u.s treasuries is is a relatively small smaller part of the game of the of the game because of course you know if you trade in u.s dollars then you end up parking a lot of your money in in u.s federal reserve and they get recycled into u.s treasuries so whether you like it or not you're you're you're financing uh the american state and that's part of how part of how the united states is you know the whole government is incentivized to keep everybody locked into this uh into this uh u.s dollar system uh as the as the reserve currency and the and the trade settlement currency uh i think that the ultimate beneficiaries however are you know a level above and that
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0018
+
+## seg-0019 / 00:18:42-00:19:51 / UNKNOWN
+
+here the incentive is much much more significant because okay let's just see what happens if you manage to regime change iran uh you install a vladimir zelensky in tehran shah reza pahlavi who will do you know whatever whatever his western sponsors demand of him let's say iran has a nuclear program and uh they want to build nuclear nuclear power plants they have a choice they can have chinese corporations build the nuclear power plants or they can have nuclear power plants they can have chinese corporations build the nuclear power plants or they can have russian corporations build them or they can have american corporations build them right now let's say that if you have a chinese corporation build your nuclear power plant your electricity is going to cost about 20 cents on the dollar compared to what westinghouse would build you but guess what and so you know if you have an independent sovereign government in
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0019
+
+## seg-0020 / 00:19:51-00:20:54 / UNKNOWN
+
+tehran they're going to say well chinese nuclear power power plants are much better they're more modern like they're more efficient and they cost way cheaper so duh obviously you know but if you get shah reza pahlavi it doesn't matter he's going to give the contracts to westinghouse and so what it's going to cost a couple of billion dollars to build those plants and who's going to finance that well it's going to be jp morgan city group Goldman Sachs banks like that what happens then uh Westinghouse is going to have to pay back those loans right so by the decision uh let's say JP Morgan's balance sheet immediately increases by a couple of billion dollars whatever that plant costs and once the electricity is delivered to the Iranian people in businesses they have to pay for the electricity whatever the price right and then that money is going to be paying back the loans to Goldman
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0020
+
+## seg-0021 / 00:20:54-00:22:15 / UNKNOWN
+
+Sachs so that loan let's call it a billion dollars right it's more but let's call it a billion dollars that loan immediately becomes an asset on JP Morgan's balance sheet and it's a profit -making asset because over the life of this loan Westinghouse is probably going to have to pay back double what they received as a loan and so JP Morgan just like that gets a billion dollars of free money because Trump NATO the British whoever the Israelis changed the government in Tehran and then you can multiply this many many many times over because it's going to involve uh oil gas ports airports uh infrastructure infrastructure bridges um the media in Iran it's going to involve everything they're going pharmaceutical companies you know no more medicines from China or India or or locally produced you're going to be buying Pfizer's and modernas and and you know Roche and Glaxo Smith clients so suddenly Western Capital
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0021
+
+## seg-0022 / 00:22:15-00:23:39 / UNKNOWN
+
+penetrates and permeates the Iranian economy and uh it's 92 plus million populations it's enormously wealthy right it's and for the same low price that you open the gates of Troy to your capital you also get to cut off China's Belt and Road initiative and you get to cut off Russia's North South uh International North South uh transport Corridor and then Global Trade um becomes again completely dependent on your traditional choke points you know Bosporus Gibraltar Strait of Hormuz Babelman Deb Strait of Malacca and again you ruled in Eurasian landmass uh the interesting thing about the Strait of Malacca question so it was I think it was just yesterday or the day before yesterday they that they said that look oh yeah you know we're gonna we're gonna charge uh we're gonna charge um a toll through Strait of Malacca which is now you know um this is antagonizing the Chinese uh it was on the
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0022
+
+## seg-0023 / 00:23:39-00:24:43 / UNKNOWN
+
+13th of this month so 12 11 days ago that the United States signed a military cooperation agreement with the government of Malaysia isn't that interesting who gave them the idea that they could charge the toll through the Strait of Malacca I don't know but you know maybe two things correlate maybe it's not a cause but it's it's it's an easy way for them to begin antagonizing the Chinese government so now it's forcing them to react and then you know they can react back and they can you know they can say like well we have the the United States has our back we can now you know we can now leverage this relationship and get something out of it for ourselves well they think they're getting something for themselves but it's actually the the the Western Empire that's starting to build a next Bridgehead with which to attack China economically and then you know once you
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0023
+
+## seg-0024 / 00:24:43-00:25:50 / UNKNOWN
+
+start attacking economically then you go you you you take it from there I don't know where this is all going Danny uh I I think that the Western Empire the United States Great Britain European powers NATO you know they're all completely spread paper thin they're exhausted they cannot you know let's let's remember the United States has spent 20 years trying to tame the Taliban in Afghanistan and at the end of 20 years they had to hand Afghanistan back to the Taliban then they spent 10 years trying to tame ansarala in Yemen they they had to they had to give up they had to throw in the towel now they attack Tehran they're losing against uh Russia and Ukraine this is all you know these are all different battlefronts of the same war and they're losing on all fronts I don't know where they're going with this but you know the logic of the Empire is
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0024
+
+## seg-0025 / 00:25:50-00:27:14 / UNKNOWN
+
+to keep attacking to keep escalating to keep um trying to unbalance the other side because maybe hopefully somehow in some way they might be able to take down one peg from under their rivals but the cost on your side is also adding up and it's coming to the point where your internal social pressures are becoming unbearable and you're facing an economic collapse at home so I think that the Western Empire is headed for exactly the same uh destination as all empires in the past they all collapse because the cost of maintaining an Empire always ends up overwhelming whatever benefits you're gaining from uh from your colonies all around the world and I think we're heading in that direction and you can already see it because in the West now uh you know the the ruling establishments are having to resort to ever more obvious and ever more drastic uh uh repression and censorship because they
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0025
+
+## seg-0026 / 00:27:14-00:28:15 / UNKNOWN
+
+have to keep us all quiet because everybody's talking about this like none of this makes sense we need to stop the Wars uh and so if it doesn't as if if they don't score really significant wins in all these uh geopolitical grand chess boards uh things are going to start to implode at home yeah very well said Alex uh Professor Jang I want to get some of your responses to what Alex had to say there specifically about uh you know the Empire is effectively taken off the mask now I mean we're essentially in 19th century imperialism now in the 20th and 21st century there's like this veneer um but it seems like the public writ large is becoming redfield and what I mean by that is the the red pill is that you know there's like this uh this fake view of the there's a fake uh display of the world but underneath you know
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0026
+
+## seg-0027 / 00:28:15-00:29:07 / UNKNOWN
+
+there's an but underneath it is the true underworld of the world and it seems the true underworld of the world is coming into into into play um the masks are being taken off and uh you know it looks like we're back to again 19th century imperialism I mean what do you make of that yeah so um let me propose an end like like a plan for Alex okay I don't know if this plan is correct or not but let's just do a thought experiment and say what is Americans actually up to and the argument I want to make to you is as Denny points out we'll go back to 19th century okay so the point is not to win Wars the point is to have Wars right you want to create um bounds of power throughout the different regions so you want in East Asia Japan and China to balance each other out in Europe
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0027
+
+## seg-0028 / 00:29:07-00:30:05 / UNKNOWN
+
+you want Russia and Europe to balance each other out in East Asia you want the GCC align with Israel to balance out Iran okay and why you want to do this is if the world is in constant conflict and the United States has this kind of a fortress that is invincible and it has it's not completely self -sufficient it has all the resources of the rest of the atmosphere and what it can do is it can sell weapons you can sell uh resources um to uh the rest of the world and finance it as well okay and so let's um so so let me give you a historical um analogy think of World War II why did um uh Japan attack America because America was embargoing uh Japan right and this was a huge issue because Japan was getting 90 of its oil from America and America just said sorry guys we're not leaving any
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0028
+
+## seg-0029 / 00:30:05-00:31:14 / UNKNOWN
+
+more oil because of all these atrocities you're committing in China Japan had actually no choice but to go to war also um America also froze all of Japan's assets and so you could say well it was because Americans were um disgusted by all these uh atrocities Japan was committing in East Asia especially in China but another argument is well it was because Japan was becoming too powerful it cannot allow Japan to colonize all of East Asia especially China and therefore it wanted to it wanted to you know knock on it out but then you also go to Europe where the moment that Germany invaded uh Soviet Union in operation um what was that thing called um Barbarossa okay Operation Barbarossa this massive Germany invasion of Soviet Union what did America do America sent billions of aid to Soviet Union basically America industrialized the Soviet economy I mean that was the extent of America's turn at Stalingrad, it was clear that Germany was headed towards defeat.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0029
+
+## seg-0030 / 00:31:14-00:32:06 / UNKNOWN
+
+What did America do? America launched Operation Overlord. And you can argue that Overlord was not about attacking Germany. It was about containing the Soviet Union because the real threat at that time was if America did not come to the war, the Soviet Union would have ran through all of Europe. And once Germany was absorbed into the Soviet Union, then Russia would have been invincible. That's a great fear of American policymakers going back 20 years. An alliance between Germany and Russia. The technology, science, civilization of Germany combined with the resources and manpower of Russia. So America has been playing this game for a long, long time. I think what Donald Trump is saying is, guys, World War II worked out great for us. The 1950s worked out great for us because what was the 1950s? The 1950s was the Marshall Plan. When we lend money to Europe and Japan in order to buy manufactured goods from us, what's another great deal?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0030
+
+## seg-0031 / 00:32:06-00:32:54 / UNKNOWN
+
+That's what made America great. It created the American middle class. You could have three kids and all of them to college. You could have a cottage. So let's go back to that time when the world was dependent on us for resources and armaments, and we'll finance it. And by financing it, hey, here's an added bonus. We can now finance the debt, the $39 trillion debt. We can distribute it across the world. And so that's a game plan. First of all, do you think that makes sense to you? And second of all, how do you think this game plan will work out, if that is the game plan moving forward? I absolutely agree with that. I think that is a game plan, but I think that it's a game plan of one part of the American political establishment. I think that
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0031
+
+## seg-0032 / 00:32:54-00:34:23 / UNKNOWN
+
+there's a lot of confusion and disagreement because if we go back to January of this year and you go back to the World Economic Forum in Davos, Trump brought his delegation of 300 people. And the message that they delivered there to Davos, which is the death star of the globalists, he told them globalization failed. And instead what they were proposing is the return to the American system or national system of political economy, which is called American system because it was pioneered by Alexander Hamilton, who was the first, I think he was first Treasury Secretary under George Washington. And that's also one of the periods of American history where America suddenly became a very powerful nation. It went from a patchwork of 13 British colonies to become one of the global superpowers, right? And so this system was then described and articulated by Abraham Lincoln's economic advisor, Henry Carey. And what was remarkable that in Davos
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0032
+
+## seg-0033 / 00:34:23-00:35:33 / UNKNOWN
+
+in January this year, Trump's trade Secretary, Jameson Greer, gave a presentation, gave a speech to the attendees at Davos, in which he actually explicitly mentioned Alexander Hamilton and Henry Carey and Abraham Lincoln. So, you know, to me, you know, this was not a random thing. You know, a lot of thought goes into these things. And I think it reflected clearly an intention, at least of a part of the American political class to go back to that, you know, because the post -World War Two period did work out well for the United States, but on a different system, which was the British free trade system. You know, once you dominate the global financial systems and your money, you're the chief creditor to the world and your money is in demand because it's the new trade settlement currency, it's the new reserve currency then yes that's going to temporarily work out well in in your favor but
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0033
+
+## seg-0034 / 00:35:33-00:36:27 / UNKNOWN
+
+it's going to work out in the favor primarily of the wall street banks and then secondarily in favor of the military -industrial complex because you're going to you know this is new colonialism that you have to defend which means that you need to be able to have power projection you need to be able to bring you know 700 800 900 military bases to all these places in the world because you need to police um the adherence to your system you know in the scenario where you you got westinghouse to build its nuclear power plant for iran for the iranians there's going to be a lot of people in iran who's going to say wait a minute we could have it at 20 the cost if we if we get it for china well you know okay as al capone said you can always get more uh with a nice word and a gun to someone
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0034
+
+## seg-0035 / 00:36:27-00:37:39 / UNKNOWN
+
+was someone's head than just with a nice word alone so that gun to people's heads is the is the military bases and the carrier strike groups and so forth so over this period you know wall street the military -industrial complex and certain other industries in the united states did really really well but at the same time this eviscerated ultimately america you know free trade eviscerated american industries and so trump administration's message at davos is we want and trump's consistent message through his political career is he wants to re -industrialize the united states he wants to make the united states a manufacturing superpower and so forth so it seemed to me at that point that that faction was now dominant and that trump was going to be able to um effect that policy turn to go back to the american system and away from the british system of free trade and at that point i was
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0035
+
+## seg-0036 / 00:37:39-00:38:51 / UNKNOWN
+
+you know that's not a random message and it's also not a message that american voter demanded you know because american public has been gaslit about left and right dichotomy versa which is false whereas the free trade versus american system dichotomy is very real but it's obscured so nobody voted for this the fact that trump administration brought this message to davos of all place to me signified that they are for real that they're serious what happened on 28 february is is a mystery to me and why it happened at any rate you know um i think there's a lot of truth in the idea that wars are meant to continue they're not meant to be um they're not meant to be won and i completely agree with this but this is the interest of this free trade system it's it's the british approach to geopolitics why because uh when your potential rivals in the world are
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0036
+
+## seg-0037 / 00:38:51-00:40:06 / UNKNOWN
+
+fighting wars between themselves you're selling them weapons you're providing them credit so that's also so um what was your the real issue you mean your potential teams for foreign esta absent students it was quite dangerous for them to go to some sort of act of war between them conversation in the vsBOX box trillion right but that means that they would have to be selling off their investments instead they go okay we have all this wealth but we need cash we need you know it's about cash flow not necessarily about assets so they say uh give us a swap line and you know that way we we get to continue to pay our bills and we have we have the collateral which is our our sovereign wealth fund um where am i going with this i forgot but basically uh it's it it the the the idea that wars are meant to be continuing rather than
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0037
+
+## seg-0038 / 00:40:06-00:41:03 / UNKNOWN
+
+being won is is absolutely true from the point of view of the western empire you're keeping all your potential rivals weak they depend on you for weapons for technology and for uh for credit and you basically fund both sides you arm both sides and while they are busy fighting they're they're weak they're becoming weaker and so they can never say no to you and once they owe you money they're not in a position to say well guess what we're going to default or uh we think these are this is odious debt we need to renegotiate they just need to they just need to follow your dictate that they become dependent on you they become your client so this is this has been the foreign policy of the western empire forever and it is sadly continuing in spite of let's say credible signals from the credible signals from the trump administration that they were going to
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0038
+
+## seg-0039 / 00:41:03-00:42:10 / UNKNOWN
+
+end this tragic uh stupid period of history we're still in it before i finish i just want to say this i think they're failing and i think they're failing very very bigly to use you know trump's term let's say that in the last few years they had three or four massively important projects first one was the pandemic the second one was uh war against russia through ukraine the third one is the war in the middle east and they're losing all three so i i i think this is not lost on the chinese leadership on the iranian leadership and on the russian leadership who absolutely understand what the game is and i think they also understand that this war doesn't end until one side uh capitulates completely and their system gets dismantled and reformed and i think that we are moving in that direction no i mean that's a great that's a great point alex i
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0039
+
+## seg-0040 / 00:42:10-00:42:59 / UNKNOWN
+
+mean um i don't know if you guys have read the book wall street and the bolshevik revolution by anthony sutton but that's a great one right so it basically lays out how wall street basically funded the bolshevik revolution um he has another book that talks about how you know wall street funded germany as well so you know what while simon's financially funding the u.s of course so i mean they fund both sides throughout history and right and and anthony sutton also said that uh wall street will eventually fund china as a new dialectic right so wall street created um the soviet union and eventually wall street will go and create china as a competitor to united states um so so he's very he's very wise in that regard but but let me respond to alex's commentary so i can only agree with alex in that there is a war going on between the nationalists
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0040
+
+## seg-0041 / 00:42:59-00:43:52 / UNKNOWN
+
+and the gulf states and the gulf states and the gulf states are globalists right the globalists meaning you know city of london davos transnational capital um and the nationalists who want manufacturing um to return to united states which is represented by uh by trump and this has been going on ever since charles first uh administration and so the question is why this war start and i would argue this war started as an outgrowth as a natural consequence of this conflict between the globalists and the nationalists if you're a nationalist um there are two major problems for you the first is the u.s dollar as a global reserve currency you hate this idea because eventually you become the guarantor of like every economic transaction in the world and it causes excess liquidity to flow into your country and that's and that causes financialization so washington is dominant and manufacturing is degraded okay so you hate
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0041
+
+## seg-0042 / 00:43:52-00:44:35 / UNKNOWN
+
+the idea of u.s dollar as a global reserve currency um and also as as points out it also funds the military industrial complex because you need a strong military in order to enforce the u.s dollar as a global reserve country all around the world and that's why you have these wars in libya and syria and venezuela and all that so i completely agree with um alex in um in that in that regard um so the first problem is the u.s dollar as a global reserve currency but as x points out the united states is kind of stuck right now because the only way you can finance that 39 to 100 dead is if people continue to buy u.s dollars okay it's a bond scheme okay and then um the other problem for the united states it's a federal reserve system which means that american government has actually no control over u
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0042
+
+## seg-0043 / 00:44:35-00:45:24 / UNKNOWN
+
+.s monetary policy they have to borrow money from transnational capital which is the federal reserve um and so this is and so these two are a huge problem for uh the the american government the u.s dollar and the federal reserve and really there's only historically there's only one way to resolve this conflict and that's to destroy both the empire and the economy okay you need to destroy the empire to the extent where you know what you you no longer have the forces you no longer have the finances you no longer have the military in order to like maintain this empire okay and you basically you basically give give it over to someone else it could be china it could be israel who cares okay but someone else take takes over uh the world um and then you also need a global financial uh collapse in order to reset the economy in order to destroy
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0043
+
+## seg-0044 / 00:45:24-00:46:21 / UNKNOWN
+
+that that debt in order to destroy the power of the federal reserve so so so that may be the plan going forward to fight this war in iran knowing you'll lose but overextends the empire and it causes the military to retreat back into north america um it could also trigger a civil war as well which which would and and you would get the same result and also to trigger a uh financial collapse around the world so that you can reset the global market monetary system so so i'd be interested in an access response uh okay so you know uh professor jiang this this hypothesis has crossed my mind you know and uh i let's say that i it would be a very optimistic way to look at things which i'm i'm let's say that if this i i think that in a way this is going to happen anyhow you know this is this is
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0044
+
+## seg-0045 / 00:46:21-00:47:11 / UNKNOWN
+
+the direction uh in into which the this is the turn of events and these are going to be the cascading effects of of the world of the world and then it's going to be the turn of events and i think in a slightly moreverse what their優 was and what the Trump has been doing you know so then i think you know that the power in iran would have to have been put away and then it would have been given to us as something that would not have been that this is what the Monarchists would have intended and then the power and the NPR would have been put into position so the power that the power would have been put into position would be that there would be no obligation for the power in i would have to think that this power is opposed to the globalists but which which is this power what is this
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0045
+
+## seg-0046 / 00:47:11-00:48:06 / UNKNOWN
+
+where is it coming from history history historical patterns yes historical patterns yes yeah but do you think that some someone would have to direct events in this direction you think is this spontaneous effect i i think this is a movement of history you go from one extreme to to the next right so maybe in the being a nationalist one power then you like and this led to to like the world one world two and then that led to too much pluralization open society multiculturalism all that crap and now you're forced back into the other extreme right so so it's you can argue it's just a movement of history from one extreme to next okay fair enough that that makes sense so do you think uh i mean either one of you guys could answer i think i think you already answered this in our last interview professor so i'll let alex answer it do you
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0046
+
+## seg-0047 / 00:48:06-00:48:56 / UNKNOWN
+
+think what we're seeing today uh worldwide whether it be war in iran war in ukraine you know things have really spiraled out of control since 2016 really 2016 is really the start of it when when president trump got elected first time uh is this really the artifact of an elite fracture um much like uh professor dang alluded to the globalists and the nationalists you know you look at these no kings protests and you know they're funded by like story ross rockefeller you know you look at some of the elisa that uh support trump um you know he has his own he has the field the musk musks so there does seem to be a fracture between elites here and uh is what we've been seeing the last 10 years or so is that simply the artifact of an elite civil war within the united states or you know in the greater western sphere of things
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0047
+
+## seg-0048 / 00:48:56-00:50:00 / UNKNOWN
+
+uh i i think it may well be danny uh i i you know i i see that there are you know if we let's let's call them elites you know even though you know a lot of them are epstein class which it's not much of an elite at all uh basically i think that like in any class in society you're gonna have uh better people and worse people in the group and i think that you know the way empires you know the the light the life cycle of an empire you're always you always have the rise and you have the collapse and the collapse becomes discernible well when well in into um the empire zenith you know when everything looks great from the outside but people on the inside they understand that the structure is hollow and that it's going to implode on itself and it's unsustainable so you've always in history you've always had
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0048
+
+## seg-0049 / 00:50:00-00:51:08 / UNKNOWN
+
+reformers people on the inside who who say this cannot continue we have to reform this we have to draw back and you had this you know in um in the roman empire you had like a whole succession of of of a few dozen reformers who who were part of the elite who were patricians aristocrats who tried to reform the system you know like the the the gracchi brothers uh catelyn you had julius caesar most famously but then you have the reaction of the other people who say no no no this is working great for us we don't want to change this system we don't want to give up any slight bit of our privilege uh in order to set the empire on a more sustainable path and so they end up eliminating all these reformers uh and you know roman you know roman senate they had their death squads and all these reformers would usually
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0049
+
+## seg-0050 / 00:51:08-00:52:34 / UNKNOWN
+
+end up either ostracized or killed along with thousands of their supporters and so roman empire was set on a on a declining path where basically it was the road to perdition like there was nothing left of the roman empire after after like 400 a.d uh to the extent that you know um uh money disappeared from circulation there you know like individual communities went back to barter uh the uh industries the the manufacture of simple but necessary goods like roof tiles and and nails you know the the iron iron nails they they disappeared from circulations pottery uh dirt floors became the norm stone houses disappeared from our architecture not architectural from uh anthro how do you call those people who dig the dirt to find old stuff anthropology archaeologists archaeologists archaeologists archaeologists holy i blanked out anyway you know you know those people that brush brush dirt around around yeah yeah archaeology and so you
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0050
+
+## seg-0051 / 00:52:34-00:53:37 / UNKNOWN
+
+know the it went into a total devastation and i think that we can see that today's western empire is also on a steeply declining path and so one part of the uh quote -unquote elites wants to defend this and so they are like okay we have to repress the population we have to shut them into 15 minutes cities we have to destroy uh farming and create famine to get rid of as many of the possible we need we need big wars to send all the fighting and aged men and and mostlyeso cities get far behind everything there been some and to, you know, decimate the, you know, like in Ukraine, get rid of fighting -edge males, vaccinate everybody, and so forth. Whereas you have other people, like maybe Elon Musk, you know, who says, okay, look, I'm selling electric cars. If you shut people into 15 -minute cities, what the hell, you know, that doesn't work.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0051
+
+## seg-0052 / 00:53:37-00:54:31 / UNKNOWN
+
+I need people to be mobile. And so they have a different vision of what the future of society should look like. And so obviously there's going to be a conflict. And then, you know, some of the people are going to have the awareness that, like, look, if we pursue these policies, we're on the road to perdition. We need to change course. When they start changing course, there's going to be a reaction from the other side. And so, yeah, I think, Danny, you're absolutely right. You're going to get like a civil war between the elites, and it's going to get ugly. And I think that we are at that point, in fact. But, you know, how this war is unfolding, it's very difficult to say. But I think it's definitely happening behind the curtains. All right, quick break here, because if you're buying gold or silver the normal way, you're probably overpaying by a lot.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0052
+
+## seg-0053 / 00:54:31-00:55:33 / UNKNOWN
+
+And that's because most retail dealers quietly tack on these huge markups, sometimes 10%, sometimes 20%. Sometimes. Sometimes even 30%. And you don't even notice it. It's like paying $115 for a $100 bill. It doesn't make sense, right? So that's why I've been using the Bullion Standard Pro. It's a membership that basically lets you buy precious metals at real wholesale prices. The same prices that dealers get. So no inflated premiums, no middleman games. Their platform updates every five seconds, straight from mints and distributors. So what you see... What you see is literally the real market. And here's the crazy part. If you buy something like this gold American Eagle, here's the amount of money you're going to be saving at the time of this recording, at least. So it basically pays for itself multiple folds on many occasions, depending on what you buy. And if you want to try it out, they're hooking up my viewers with an exclusive 10 % off their first month.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0053
+
+## seg-0054 / 00:55:33-00:56:34 / UNKNOWN
+
+Just use promo code COSM10 at checkout. That's COSM10 at checkout. So if you're stacking, investing, or just tired of getting hit with hidden markups, check them out now. Bullion Standard Pro. Click on the link down below in the description box and use promo code COSM10. Now let's get back to the video. Yeah, you can definitely see the after effects of it. You know, you can kind of see what's been... some of the artifacts of it, so to speak. Professor Ding, I see you kind of chomping at the bits to kind of respond to what Alex here just said. Yeah. Yeah, no, I mean, I completely agree with Alex. And I think his reference to the Roman Civil War is extremely apt, right? And I will highlight an instance from the Roman Civil War. So this is about a year 100 BCE. And Tiberius Gracchus, who is one of the Gracchi brothers that Alex referenced, he was a patrician.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0054
+
+## seg-0055 / 00:56:34-00:57:27 / UNKNOWN
+
+And as Alex points out, he was a reformer. And his idea of reform was very simple. This is like the height of Roman Republic, extremely wealthy, lots of land. And a lot of this land was public land. But at the same time, you had millions of people who were destitute and who were landless. So all Tiberius Gracchus said was this. We're not going to redistribute property. We're not going to steal property from the elite, from the aristocrats, who we'll call the optimites. But we will use public land and allocate some of this public land to the most needy of our citizens. Really simple. Like the least controversial idea in the world, right? Well, the senators beat him to death on the streets of Rome. And it was a tribune, which made him immune from this. And the reason why they beat him to death is this public land is ours as well.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0055
+
+## seg-0056 / 00:57:28-00:58:25 / UNKNOWN
+
+The private land is obviously ours, but the public is ours as well. We are the public. We are the republic. Right? So it shows you the arrogance of the elite. And we're seeing a very similar situation play out in the United States as well, where in 2016, Bernie Sanders won the Democratic nomination. He should have won the Democratic nomination, but he was railroaded by the elite. And then in 2020, he was railroaded again. And Bernie Sanders is not a radical. If you just look at his platform, he is pretty moderate by, I would say, European standards. And a lot of his proposals were just really common sense. But they railroaded him and then installed Biden into office. So one thing is, yes, okay, you do have Trump. But we have to remember why we have Trump is because the American elite, the Democratic Party, is so
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0056
+
+## seg-0057 / 00:58:25-00:59:29 / UNKNOWN
+
+arrogant, so removed and so aloof that the people have no choice but to vote for someone like Donald Trump. And so even if you get rid of Donald Trump, and Ax points this out as well, if you can get rid of the Gracchi brothers, well, you'll have Marius Cadiman up here. Then you'll have Julius Caesar up here. You're always going to have this revolution up here because the people are desperate for change. And now that Trump is on the climb, we have someone like Tucker Carlson emerging to carry the MAGA banner. And good for him. But what's happening in America is very similar to what happened during the Roman Civil Wars. Yeah. I mean, you've got the midterms coming up here in America in a few months. And it's looking more likely, according to the polls and the betting odds, that there will be a split government. Now, we've had a one -party government since Trump's second election win in 2024.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0057
+
+## seg-0058 / 00:59:30-01:00:28 / UNKNOWN
+
+With a split government coming into view, it seems like the risk of civil war or like the risk of some, you know, a lot more fireworks to happen now that the Democrats will most likely take power in the Congress and maybe even in the Senate, according to some projections out there. So, Professor, because you just brought this topic, I just want to get a quick response from you. And Alex, we'll get a response from you as well in terms of how do you think the midterms and a split government moving forward in 2027 and 2028, will impact the agenda of President Trump and the overall, you know, temperature in America and by virtue, the greater, the rest of the world as well. So, yeah, we should expect the Democrats to sweep the midterms. I think they have a good chance of winning the House and the Senate, according to the polls.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0058
+
+## seg-0059 / 01:00:28-01:01:25 / UNKNOWN
+
+My intuition tells me the midterms are not going to turn out the way that people expect, okay? People expect the Democrats to win the midterms and then impeach Trump because that's what they did the last time, right? But I think, my intuition tells me that's not what's going to happen, okay? It's entirely possible the Democrats don't win the midterms. Something could happen where Trump basically has National Guard and ICE patrolling the ballot boxes and that scares off a lot of Democratic voters or maybe he cancels the midterms because of some national emergency, like a false flag attack, okay? So, my intuition tells me, like, in November, things will not turn out the way that people expect. That's point one. Point two is that even if the Democrats were to come into power, you could expect a lot of blue -dog Democrats to come into power, meaning these are people from the national security apparatus, people like Abigail Spanberger, who is now governor of Virginia, okay?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0059
+
+## seg-0060 / 01:01:25-01:02:19 / UNKNOWN
+
+And these people are extremely pro -war. If you're a Democrat and you're pro -war, you're pro -industrial complex, Trump is a godsend, right? Because, first of all, he makes a perfect scapegoat. You know, you can blame everything on him, even though, as Alex points out, you really have to do this as an empire, right? You can't govern by consent. You govern by force. So, but, like, history will remember, no, it was Trump that did all this. You know, we Americans are innocent. We're pure. We're virgins. We didn't really want this war, but it was all Trump, okay? So, that's how history will remember this time. So, Trump makes a perfect scapegoat. Also, what's important is that he neutralizes MAGA. And this is very important because, remember, like before, MAGA was the anti -war faction. MAGA were the people who would, if Biden actually launches war, you can expect MAGA to be on the streets.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0060
+
+## seg-0061 / 01:02:20-01:03:19 / UNKNOWN
+
+You can expect an insurrection almost. But they certainly would not go and fight this stupid war in Iran. But now that Trump is in office, there are a lot of people in MAGA who see this as a holy crusade, okay? So, I think the Democrats may win, but I think that if they do win, then Trump may be more incentivized to expand this war in Iran and possibly even go after Cuba, Mexico, Colombia, Greenland, okay? Because from the perspective of empire, the military -industrial complex, transnational capital, you need these wars to happen in order to maintain global hegemony. And if Trump's going to take all the blame, then make him a scapegoat. Yeah, Alex, what do you think? How do you think the midterms impact President Trump's agenda? And if anything will change after the midterms for how he tackles the world? Well, I think it will be very, very difficult to predict this.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0061
+
+## seg-0062 / 01:03:19-01:04:26 / UNKNOWN
+
+This is in November. Most people will not remember this conversation by November. No matter how spectacular something is, two weeks later, you're looking at something else. And I think there are so many wild cards in the equation that I don't even dare, I think there's a good chance that Trump is going to end up being a lame duck president. But how exactly the vote is going to turn out, you know, the left -right dichotomy has largely been blurred in the last few years. You know, we had a lot of Democrats defect to Trump, most notably Robert F. Kennedy Jr. and Tulsi Gabbard, right? So I think that a lot of people no longer perceive issues as questions of left and right. So Trump's failure won't necessarily translate into an automatic win for the Democrats. Or it might be Democrats that speak a certain language, like
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0062
+
+## seg-0063 / 01:04:26-01:05:49 / UNKNOWN
+
+maybe Rohana is an example, that are not necessarily, you know, like you're not necessarily going back to Biden and these types of people, you know, the Clinton mafia. Maybe it's going to favor certain types of candidates that are going to be closer to real issues and more receptive to the message of MAGA, you know, only in a different way. But then we also can't take foreign policy out of the equation because who knows what's going to happen between now and November. You know, China is a factor. Russia is also a factor. I think that between them, there's an understanding and an awareness, I think most famously formulated by Sergei Karaganov, who was Vladimir Putin's advisor for a time, one of them, who said that as they perceive it, as the Russian leadership perceives it, their most important task now is to help the United States to transition from an empire to a normal power in the least disruptive way possible.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0063
+
+## seg-0064 / 01:05:51-01:07:13 / UNKNOWN
+
+And we've seen Trump blunder very badly in attacking Iran, but the reactions from China and from Russia have been quite muted. They haven't criticized him very harshly. You know, they take their policy positions and those policy positions are consistent, but they're not taking it out on Trump. They're not saying anything very terrible about him. So I think that there's still support, if not for him personally, there's support for what Trump represented and stood for up until his attack on Iran. And I think that this faction is alive and well in the United States. They may have been sidelined, they may have been disenfranchised in a way, but it's still there and it's going to get support not only from MAGA, but also from the most important partners that the United States has in this transition, which I think is there. Now it looks, the surface appearance of thing is the United States went right back to being the global hegemon.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0064
+
+## seg-0065 / 01:07:14-01:08:22 / UNKNOWN
+
+But I think that it's, that's kind of paper thin. It's an appearance that's going to dissipate because it's failing. And then those forces that are still for Make America Great Again, the nationalists, right? They're still there and they're looking for ways to grab onto the levers of power to become relevant again. And they're going to have support in the American public and they're going to have support from China, from Russia. Ultimately, they might be able to reengage with the Iranians because, you know, Iran does want the United States to come forward as a partner, as a constructive partner. Hey, we can do stuff together. We can develop things together, but it's going to have to be on a respectful and mutually beneficial basis rather than you telling me capitulate and you do as I tell you. And so all these things can play out in
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0065
+
+## seg-0066 / 01:08:22-01:09:28 / UNKNOWN
+
+the next few months in ways that are, I think, very difficult to see from today's perspective. But we've seen how things change very radically and very quickly these days. So between now and November, God only knows what might shape up. Yeah, yeah. I mean, it's a point well made. I mean, forget about two weeks every two weeks. I mean, every two hours, almost. There's like a new development here. Professor Zhang, you mentioned Cuba in passing here a while back. I want to get your sense on how you think, how you envision Trump tackles Cuba. Because again, we are still in conflict through a war with Iran. You did mention, I believe on a separate podcast, that this is going to be taken down to a simmer. It's going to be a slow burn as opposed to the shock and awe that we saw in the initial first month. But even so, I mean, speak about the resilience of the American military.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0066
+
+## seg-0067 / 01:09:28-01:10:19 / UNKNOWN
+
+It's a stretch. I mean, don't they run the risk of overstretching themselves? I mean, they've used a lot of artillery the last couple of months here with the war in Iran, have they not? Well, I mean, the reality is that the American military has not fully mobilized. Because remember, a military depends on the nation for its resources. And so what I mean by that is that the military has been trying to fight this war on a cheap, using, you know, air supremacy, bombs, to try to decapitate the regime. Okay? That's a really cheap and easy way to fight a war. To fight a real war, you need to mobilize your nation. You need to mobilize a national draft. You need, like, a million troops on the ground. Okay? That's a real war. America, for the past two years, have been trying to conduct regime change in Iran on the cheap, right?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0067
+
+## seg-0068 / 01:10:19-01:11:14 / UNKNOWN
+
+So starting with the 12 -day war when Israel went in and killed a lot of government officials and nuclear scientists, thinking that that would force Iran to collapse because it was a house of cards. Okay? Like, they really believed that the 12 -day war would have collapsed the regime. And what is obvious that Iran was powering Israel too hard, the Americans had to step in. And in January, there was that color revolution or failed color revolution in Iran. It was clearly a Mossad operation. A lot of the instigators, provocateurs, were paid by Mossad and the Iranians cracked down very hard on it. And then that led, of course, to this current war. And now that the Americans recognize that the Iranians are far more resilient than we give them credit for, they're trying to dial it down and try to have more control over the situation. So the Americans are fully committed to regime change in Iran, but they have not yet fully mobilized.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0068
+
+## seg-0069 / 01:11:14-01:12:01 / UNKNOWN
+
+They have not fully committed their resources in order to win this war. So we have to take this into account. It's not that the Americans are losing. It's not like they're not even trying right now. And I think what's going to happen is that Trump will eventually get bored of this war because it's going to be a slow war. It's a war of attrition. To go in with ground troops is suicidal. So you're better off fighting a war of attrition economically and so basically because he's bored, he's going to stir conflicts, possibly in Greenland, possibly in Cuba, possibly in Mexico. I could easily see Trump sending in special forces to kill cartel members in Mexico for whatever reason. And that would be very popular in the United States, right? So Trump has a lot of options. And he's a reality TV star. So he's really concerned about, you know, like, how do I maintain my ratings?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0069
+
+## seg-0070 / 01:12:01-01:12:47 / UNKNOWN
+
+You know, like, people are getting bored of this war, so how do I capture their attention? So that's the other point I will make. The first point I will make is that America has not fully committed to this war, but it will eventually. And my second point is that Trump is very much a ratings guy and he's always like, you know, how do I continue to capture people's attention? And possibly an attack on Cuba might do that. How do you think an attack on Cuba would look like, though? I mean, would you look at, would it be more boots on the ground or air -oriented? Or, like, how do you, how do you see that playing out? It would probably be a replay of Venezuela, right? Where you've embargoed the government. People are desperate. It's a black, there's blackouts every day. The Russians
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0070
+
+## seg-0071 / 01:12:47-01:13:53 / UNKNOWN
+
+have sent in help, and the Cubans seem to rely more on the Russians, but that would require basically Cuba to surrender their economy to the Russians. And in the long term, that's not actually in your best interest, especially because you are in the Caribbean, in the Western Hemisphere, and you are easily within striking distance from the Americans. So it's possible you have a similar situation as you did in Venezuela, where they do a quick strike, they arrest a couple of people, and then the rest of the government surrenders. I don't know. That's possible. I see. Alex, do you have any response to any of that? I mean, Greenland, Cuba. Do you see President Trump kind of expanding out his footprint? Well, you know, they have, his administration has, I think it was Pete Hegseth or even Marco Rubio, that they held press conferences with the map of the future America in the background in red, and it includes Mexico and Colombia and Venezuela and Canada.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0071
+
+## seg-0072 / 01:13:54-01:15:13 / UNKNOWN
+
+The technate, right? Sorry? I mean, it's inspired off the technate, the North American technate. Yeah, exactly. So this is obviously making the rounds in the administration. Some people obviously think this is a great idea. It would solve a number of problems in the United States. You know, if you could bring Mexico's, Venezuela's, Canada's natural resources back under your control, it would give, it would lift up the American economy and the financial system. It would add a huge amount of collateral to float up the banking system. So I think that it's definitely being considered very seriously, at least by some people. And it seems to me that these people have decisive influence at the moment in the Trump administration. At the same time, you know, the scenario of regime changing Cuba the way they did Venezuela makes complete and total sense, except that the Cubans have seen it play out once.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0072
+
+## seg-0073 / 01:15:14-01:16:29 / UNKNOWN
+
+You know, I'm not sure if you can do the same trick more than once, that they say like, aha, okay, so this is what they want to do. And then, you know, like with Iran, the Iranians prepared for this by having every key position in their state administration. They have the deputy and the deputy's deputy, and like four or five or six people's death, so that whenever somebody is eliminated, there's already a vetted and approved person to take over. So you can't do the same thing more than so many times. And Cubans are obviously sitting there in the middle, under siege, paying keen attention to what's going on. It may seem easy for the United States to take over Cuba, but they tried. It didn't work. And they've embargoed and sanctioned Cuba for all these decades, and Cuba hasn't fallen. So, you know, after Venezuela, after Iran, you know, all these, all these failures, one after another.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0073
+
+## seg-0074 / 01:16:33-01:17:37 / UNKNOWN
+
+Let's see what happens. I couldn't begin to guess. Yeah, I mean, how airtight do you think that the Russians are with the Russia -China -Iran alliance actually is? Do you see it as being as airtight as it appears to be on the surface? Or, I mean, what are its limitations? I mean, this is a question for both of you guys. And like, how tightly knit is the Russo -Sino -Persian alliance, so to speak? Alex, do you want to go ahead and take that one? Then I'll ask the same question to Professor Jang afterwards. Well, sure. I think it's pretty damn tight, because I think that they all realize that either they will hang together or they will be picked off one by one by the empire. You know, for example, we've seen what happened in Ukraine. You know, they, the regime changed Ukraine in 2014. And then over the next seven, eight years, they basically weaponized Ukraine against Russia.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0074
+
+## seg-0075 / 01:17:39-01:19:00 / UNKNOWN
+
+And I think that the Chinese, the Chinese understand perfectly well that if they regime change Russia, that they will weaponize Russia against China. And so for China, supporting and defending Russia is existential. And the same is true for Iran, you know, because if the West takes over Iran, there goes Western Asia. And then there goes BRICS, and there goes Belt and Road Initiative. And then they are all much, much more vulnerable to, I would assume that if the West took over Iran, that Iran would become the mother of jihadist incubation, because that's what they did, you know, when they took over Kosovo in 2000. Kosovo became host to the largest U.S. military base in that region. And it became the seminary, an incubator of jihadists that then went to, you know, Chechnya and Dagestan and Syria and all over wherever they were needed.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0075
+
+## seg-0076 / 01:19:01-01:20:20 / UNKNOWN
+
+And so they could use Iran for the same thing because they're in the neighborhood, you know, it wouldn't be very difficult to do. It would take many years, but it would become a risk for both China and for Russia. And so I think that this triad all perceive each other as absolutely essential support, and that they will hang together in this way until they achieve victory. Yeah, Professor Zhang, what do you think? Same question. Alex, have you had a chance to visit China yet? Have you been to China yet? Unfortunately, I haven't. I sent my son last year, but I haven't been myself. Okay, so I've been here for the past 25 years, 30 years, and it pains me to say this, but the alliance is not as strong as you imagine it to be. Because ultimately, I think that what drives their foreign policy is their worldview, their cultural worldview, how they understand themselves, and how they understand their place in the world.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0076
+
+## seg-0077 / 01:20:20-01:21:21 / UNKNOWN
+
+And unfortunately, if you look at China's 5,000 years of history, they don't think strategically here. They do not think geopolitically here in China. Chinese are first and foremost concerned with themselves, and that's about it. So China, means the Middle Kingdom. And so the understanding is that China is the center of the world. China's not interested in the world. If you come and pay tribute to the emperor, that's fantastic. We don't have to. We don't really care. Remember, China is the only nation in the world to build the Great Wall to keep people out, right? And it's a very large complex, and it didn't really work, but it shows you the mentality of people here. So Chinese policymakers just don't think in terms of grand alliances and geopolitical strategy. They just think in terms of peer economics. So you're absolutely right in that. Look, if you
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0077
+
+## seg-0078 / 01:21:21-01:22:23 / UNKNOWN
+
+just read what the Americans say, if you just look at their policy papers, including the National Security Strategy, you know, Albridge Colby wrote a paper called Strategic Sequencing, which is saying, we can't deal with all three at once, right? So let's deal with Iran, then China, then Russia. Strategic sequencing, right? And you would think that the Chinese would be like, oh my God, they're going to come after us eventually. But the reality is, they don't care. It's unbelievable, okay? It's clear that the Americans are embargoing China. It's possible the Americans take over the Strait of Malacca. It's possible they remilitarize Japan. It's possible that Taiwan becomes a fortress, an aircraft fortress. And the Chinese don't care, all right? So I'm reading the Chinese news, and what they care about is money. And they're like, oh, we invested billions of dollars into Iran, but we invested more into the GCC, Saudi Arabia, Qatar. So let's get the Iranians to stop fighting this war, all right?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0078
+
+## seg-0079 / 01:22:24-01:23:09 / UNKNOWN
+
+We don't care who started this war. We don't care. We don't care why this war started. All we care about is this stupid war stopped so that we can continue to make money, we can continue to get oil from the GCC, we can continue to get oil from Iran, and we have to protect our investments in infrastructure in the GCC as well as Iran. Um, this is how they think. It is insane what's going on here, all right? And I've been here for 30 years, and like every day I see this crap, and I'm like, they must change at some point, okay? They must give up their short -term economic, uh, scheming and approach a more holistic geopolitical approach in order to become a superpower, and they've never done it, all right? So, so, I mean, like, like, like, like, I'll just leave it there. So,
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0079
+
+## seg-0080 / 01:23:09-01:24:24 / UNKNOWN
+
+so when you have a chance to visit China and meet with Chinese people, then you, you have a better sense that Chinese are just wired differently from other people. Okay, so fair enough, but what about, what about, um, because I, you know, I, I, I gave it a little bit of thought because it wasn't clear to me up until a few years ago what game China was playing, what, the Chinese leadership, right? What, what the hell was going on? Are they, are they, you know? And, uh, the sense that I made, uh, from it, and I, I could be mistaken, but it seems to me that, uh, China does have a strategic, um, agenda. And I think, you know, the easiest way to verify this is the, is the whole Belt and Road Initiative, right? And, uh, we, you know, China, China came on a scene, on the scene, uh, basically in the modern times after 1971, when Richard Nixon, uh, ended the dollar's convertibility to gold.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0080
+
+## seg-0081 / 01:24:24-01:25:36 / UNKNOWN
+
+And I think that this is when they knew that they were going to sacrifice the United States as the host to the empire, and that they will need a new host and a new global enforcer, enforcer. And so almost immediately, Henry Kissinger and Nixon went, went to China to open China, right? And the Chinese just basically let them in. But I think that they didn't let them in because they agreed for the, to, to, to take on the role of being the new carrier of globalization in the world, but in order to decapitate this beast. And the reason why I believe that is because I often hear from Xi Jinping talk about the century of humiliation. And that was really, really horrendous. What was done. So China was at the time, the, the world's foremost global economic superpower, a, a 3,000, 4
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0081
+
+## seg-0082 / 01:25:36-01:27:02 / UNKNOWN
+
+,000, 5,000 year old civilization, right? And then in the space of a century, it was reduced to the world's poorest country. And I, I have to believe that to, to turn that around, there had to have been strategic thought that they said, okay, so these people want to come in. We'll let them in. We become member of the world trade organization. They want to send all their industries to us because we are, we are a source of large pool of cheap labor. Let them. I looked at the, at the, at the technological and scientific competitiveness of China. There's some Australian Institute that I forget the name of it, but they measure countries competitiveness in, I think 64 different technologies, right? And now suddenly China is the world leader in all, but seven of them that, and, you know, 20 years ago, the United States was the leader in almost all of them. So this leap, how did it happen?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0082
+
+## seg-0083 / 01:27:02-01:28:09 / UNKNOWN
+
+It, that there had to have been some strategic thought given to this process. And so therefore, I believe that there's, there's, there had to be some strategic thought given to the process of, to the, to the, to the thought of how do we not get a century of humiliation again? You know, because if this parasite can completely destroy a civilization, in the space of a hundred years, and they've done the same to Germany, then we have to be on the, we have to be on our guard and we have to learn how to destroy this parasite. So anyway, you know, that's my perception. I've, I've never been to China, but, you know, reading about China and reading, you know, papers and articles that come out from China. My impression is that there is, there is very deep, very, very sophisticated strategic thinking to the whole game. And I think that
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0083
+
+## seg-0084 / 01:28:09-01:29:23 / UNKNOWN
+
+there's a duality that they, you know, in order for, in order for, for China to be able to do that, they had to genuinely let the West in. And I remember that up until 2012, I remember many Westerners like George Soros and Kissinger were saying, China is the model for the future. China is going to own and carry out the process of globalization. the whole West is going to become, you know, reform along Chinese model and blah, blah, blah. And then, and I think that Xi Jinping's election was the, was the, was the inflection point. All of a sudden they all go cold and they are like, no, no, no, China is terrible, human rights, this and that. And then, I think that all these Western financial interests realized that they've been taken in, that the Chinese leadership has no intention of becoming their new global cup. I remember the Rothschilds had an office in Beijing and they were giving interviews to CNBC and Bloomberg, Bloomberg television from their Beijing office.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0084
+
+## seg-0085 / 01:29:23-01:30:23 / UNKNOWN
+
+And then suddenly they were like all out. Right. So let me, let me provide some historical context. So you better understand the situation in China. You're actually right in that China's progress these past few decades has been stellar. And the level of modernity in this country is off the charts. The progress has, has been, has been amazing. And so what happened was that during, during China's century of humiliation, there was a deep reflection within Chinese culture as to why this was happening. And this, you know, there was an intense patriotism, an intense intellectualism as to how to avoid this in the future. And from this generation emerged some of the greatest leaders in Chinese history, including Mao Zedong, including including Daxioping. And they came into office in 1949, making sure that this would never happen to China again. And these are very strategic thinkers, especially Daxioping.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0085
+
+## seg-0086 / 01:30:25-01:31:35 / UNKNOWN
+
+And they were humble people. They came from humble backgrounds. And they fought very long term. And, and this generation create the foundations for China's economic rise. You know, Daxioping reached out to the Americans, Jimmy Carter. Mao Zedong welcomed Richard Nixon to Beijing. In the 1980s, start this massive cooperation between America and China. Now, people appreciate that America offshored its manufacturing to China. That's, that's always been talked about. What's not talked about, which is really important to understand this relationship, is that China offshored its elite selection and indoctrination to America. Right? So the best and brightest students, the most powerful, the most powerful families, they all went to America for, to study. And that's going to have a huge impact on, on, on the character of your elite. During the sense of humiliation, there's a deep sense, that we have to constantly reflect on our, the feelings of our culture.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0086
+
+## seg-0087 / 01:31:35-01:32:36 / UNKNOWN
+
+And like everyone knew the feelings of Chinese culture. It was insular, too conservative, too corrupt, too much infighting, too much selfish, short -term behavior. Okay? So, so back then there was a deep desire to change the Chinese character. You come to China today, and after a few decades of economic reform, you have this tremendous arrogance and hubris in the people, that never really existed during the sense of humiliation. People in China literally think they're the best in the world. And these skyscrapers, these high -speed railways, these airports demonstrate the superiority of Chinese culture. And Chinese, so we have nothing to learn from the rep, from the world. Right? And then like a guy like me, like, like look, look, a guy like me, I'm considered an idiot in China because I talk too much. And I, and I have too many opinions. I criticize too much. Right? I'm only popular in the West because the Westerners are stupid.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0087
+
+## seg-0088 / 01:32:37-01:33:29 / UNKNOWN
+
+And they like it when a Chinese person, you know, bashes his own culture, even though I really don't talk that much about China. All right? So, so, so I mean, yes, you're absolutely right in that China's sense of humiliation was devastating. You're absolutely right in that China's progress has been amazing. But eventually you reach a point where the second generation or the third generation, they're full of themselves. They're too arrogant. They're, they, they, they have, they have hubris. And they, and they are incapable of self -reflection and recognizing the limitations of, of China. So it's very hard for China to improve. And, and another point I will make is that you don't, I mean, like it's one thing to like hear what China says, but just look at what Chinese are doing with their feet. Right? They're voting with their feet, which is like to say like the wealthiest people in China are moving to the United States.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0088
+
+## seg-0089 / 01:33:29-01:34:27 / UNKNOWN
+
+They're moving to Japan. They're moving to Singapore. So if China is really the future of the world, why are the most powerful people in the world, sorry, the most powerful people in China with all the money, why are they getting the hell out of here? So, so, so, so yeah, but, but do you have any questions or? No, I think that's very fascinating, but you know, since you are in China and you're confronted with the Chinese people, that's what's going to affect you the most. But everything you said, you could be describing the American people, or you could be describing Croatian people. I'm Croatian. You know, like you find this arrogance and conceit everywhere. So, yeah, that's fair enough. But, you know, when you mentioned Mao Zedong, I have to go back. I'll read a quote from Mao Zedong from, like, more than 50 years ago, which I
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0089
+
+## seg-0090 / 01:34:27-01:36:00 / UNKNOWN
+
+found infinitely fascinating because it's very prescient, and it also underscores that these people are extraordinarily sophisticated thinkers looking very, very far ahead. And I wrote, ages ago, I wrote an article about this, but I'll read his quote exactly, and I checked it to make sure that it's genuine, that it's not a hoax. Okay, quote, so this was in 1971 that he said this, quote, in another 50 years, China will be very strong. America will most likely be very envious and restless, but it doesn't dare to attack China. It will research germ contamination instead. After it finishes with this unconscionable deed, it will self -destruct. Okay, isn't that interesting? COVID, hello. Well, you know, sorry, but I'm saying, like, in China, what the government tells the people is that COVID was an American bioweapon that was leaked in China. Yeah. Yeah. Okay. It was. Yeah, I know. Thank you. The sky is blue. Yeah. Bears, crabs.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0090
+
+## seg-0091 / 01:36:00-01:37:06 / UNKNOWN
+
+Crab in woods. But, but, but I mean, like, think about this. Okay. So the government in China says COVID was a bioweapon that was American manufactured. Why was it in China being researched? Right? Why, how did it, how did they get into the Wuhan Institute of Virology, which is a military lab? And so, I mean, it, it shows you that basically the elite, the Chinese elite and American elite, are much more close than you imagine. Well, yeah, I, absolutely. But they would have to be, you know, they would have to be because if you want to know what your enemy is up to, you, you know, you have two choices. Either you let them in or infiltrate their system deeply, or you create an autarchy like, like North Korea, where you like build a wall and say, like, we don't want you here, stay away. Japan tried that in the Middle Ages and it didn't work.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0091
+
+## seg-0092 / 01:37:06-01:38:04 / UNKNOWN
+
+You know, eventually they got penetrated. They allowed the Dutch to set up an island where they could do their trading. And then little by little they took over. So I think that the, and, and I think with time, inevitably North Korea's autarchy would fall as well. So I think that the only way you can do this, you have to, you know, like in martial arts, I used to, I used to practice Aikido for many years. And basically the, the, the, the easiest way to, to subdue your opponent is in a moment of time, you have to become one with them. And then when, when his, when his mass and your mass are one, they come practically together. Then with very little effort, you can, you can overthrow them. You can manipulate them. So I guess in a strategic sense, in a strategic way, that's, that's a choice to make. You say we have to let them in.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0092
+
+## seg-0093 / 01:38:05-01:39:12 / UNKNOWN
+
+So, so, so, so let's do a thought experiment. Let's just say that Trump visits China in mid -May and the meeting goes really well. And then after a series of negotiations, apparently it's supposed to be like four meetings this year. So Trump has a state visit in mid -May. China will reciprocate later on. And then they'll also meet at APEC, as well as G20. Okay. So they're supposed to be four meetings. But let's just say like the outcome of these four meetings is that China signs a deal with America. And in this deal, China will buy American LNG. How would you perceive such a deal? And this is just a thought experiment. We're just speculating. I'm sorry. When you say China would buy American what? LNG. Oh, LNG. Yeah. Yeah. Because Qatar can't supply LNG now. Yeah. I wouldn't be terribly surprised. I mean, that's almost a normal thing. Look, I was in the early 1990s.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0093
+
+## seg-0094 / 01:39:12-01:40:17 / UNKNOWN
+
+I was in Croatian military. We were at war against the Serbian military. We traded with them nonstop. You know, they bought diesel engines. They sold the diesel from us and we sold it to them. There's even like one of my best friends from childhood. His unit was near Bosnia. And the Serbian troops from Bosnia were running low on artillery ammunition. So they called up the Croatian side and they said, we need to buy some artillery shells. And then the Croatian said, like, why are you crazy? We sell it to you and then you shoot at us. And they said, no, no, no promise. We won't shoot at you. We're going to shoot at the Muslims with them. Promise? Yes, promise. All right. So we sold them. We sold them the artillery munitions. And they held their word. They shot at the Muslims. They didn't shoot at us. But, you know, this shit happens.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0094
+
+## seg-0095 / 01:40:17-01:41:33 / UNKNOWN
+
+You know, it's not black and white. It's like, oh, and, you know, I wouldn't be surprised if that happened. It wouldn't be even particularly extraordinary. All right. Let me paint you another scenario then. OK, let's just say America now controls Venezuela and they want to develop Venezuela's energy infrastructure. But ExxonMobil refused to make the billions of dollars of investment necessary in order to develop the infrastructure. OK, so they subcontracted to China. Right. So the Chinese come in and they develop that infrastructure in order to sell oil back to China. How would you perceive that deal? It would be problematic, but it would be, I think it would inevitably be negotiated. You know, somebody would have to make a complaint. Somebody would have to acknowledge the complaint. If you wanted to antagonize China and build up, escalate to a conflict, then you would say, you would give them the middle finger. If you wanted to resolve the conflict, then you would say like, well, OK, we can meet you halfway.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0095
+
+## seg-0096 / 01:41:34-01:42:39 / UNKNOWN
+
+Here's what we need from you. You know, how about some rare earth minerals? And then maybe China would say like, well, all right. So, you know, horse trading. Basically, that's what I would expect. But if there's so much horse trading going on, then how tight is the alliance between China, Iran, and Russia? I see your point. I would say that it's still going to be very tight at the top level strategic, at the strategic level, because the, you know, the conflict is not between China and the United States or Russia and the United States or Iran. The conflict is between two systems of governance. You know, we have on record a number of very high level Western countries, Western leaders, officials say as much explicitly. One was George Soros at Davos in 2021. Klaus Schwab said the same thing.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0096
+
+## seg-0097 / 01:42:41-01:43:56 / UNKNOWN
+
+Another person that I heard in, in person say this was former U.S. Ambassador to NATO, Kurt Volker. No nation is a monolith. So, you know, you can, you can trade with the United States, and you can establish good relations with the United States. You can establish good relationships with people and organizations that might be friendly to you, that might be receptive to your message, that might be supportive of you. There's other instances in society that are your clear enemies. But I think that the system that is opposed to China, to Russia, to Iran, and to any nation that wants to be sovereign, that wants to be independent, and they want to, that wants to chart their, society's development independently, their enemy is this system that I think is rooted in the city of London and Wall Street. And so, because this system is so effective at mobilizing forces in the West, you know, as they mobilized Napoleon, as they mobilized Hitler, as they mobilized the Bolsheviks, the whole British Empire.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0097
+
+## seg-0098 / 01:43:57-01:44:51 / UNKNOWN
+
+I think that to take that system down, you have to hold a tight alliance, but, but you also have to cooperate with the people in the host countries. Do you know what I mean? So. I completely agree. I think that's great analysis. Yeah. No, that didn't occur to me, but like once you said it makes perfect sense where, you know, it's still a civil war between the nationalists and the globalists. And this has been played out in all nations. And so the globalists are on top. And for the nationalists to triumph, they have to work across nations. So it's almost like a realignment of, of, of, of elites, right? No, I, I think that's a great point. I completely agree with that. Yeah, correct. You know, like going back to Tiberius Gracchus, you know, right. If you wanted to
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0098
+
+## seg-0099 / 01:44:51-01:46:00 / UNKNOWN
+
+take down the Roman system, you would want to make an ally of him rather than, you know, like if you confront the whole, everybody, then you're pushing him into the camp of the people he's opposed to anyway. But doesn't that, that mean that this war that's happening, I mean, in Iran, it's just going to get larger and larger because ultimately in the background, it's, it's a, it's a war for the future of the world. And so, so this cannot ever stop. I mean, it's just going to escalate and escalate until it engulfs the entire world. Unfortunately, yes, I think you're absolutely right. And I think that it's, it's, it's a conflict that's going to, going to continue until the collapse of the Western empire or their, their victory, but they're on a, you know, they're on a decline. And I think that they're the rising powers like China, Russia, and Iran understand very well what they're up against and who they're up against.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0099
+
+## seg-0100 / 01:46:00-01:47:03 / UNKNOWN
+
+They know that they're not up against the British people, the American people, the French people, they know that they're up against, a ruling establishment that has its, its weaknesses. And that at the same time, they might have allies in the very countries that are, that are opposed to them. So, yeah, you're right. The conflict is probably going to expand. Well, you know, I, I, I, I talk sometimes with a Croatian military expert. His name is Admiral Davor Domazet, who is very, very well connected, both in the West and in Russia. And who has characterized the current conflict as a total global war, because he says, it's not just Ukraine. It's not just Middle East. It's not just Taiwan and so forth. It's practically everywhere. And also it's inward because, you know, this attack on farmers, the, the LGBT nonsense, the, the, the, the, the, the, the, the
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0100
+
+## seg-0101 / 01:47:03-01:48:21 / UNKNOWN
+
+vaccines, digital IDs, CBDCs, 15 minute city, all of, all of this is the same war turned inward at the same times as it's, as it's turned outward. And so I, I think that it's in everybody's interest to take the system down, including the French people, American people, and so forth. And so you wouldn't want to overtly be an enemy to a whole nation and then force the, the, the, the population to close ranks with their Epstein class leaders. You would want to be very discerning to, to slowly, you know, like that game when you have like a tower of little sticks and you have to pull them out, strategically pull out the little sticks until the whole thing implodes rather than having that thing, you know, pull itself together. And then you have to fight like a, like a 19th century war against the whole nation. So, so then my question for you then is what is the globalist reaction to what's happening?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0101
+
+## seg-0102 / 01:48:21-01:49:29 / UNKNOWN
+
+If you're the city of London, you're wall street, how do you maintain power? What do you do in this, in this scenario? Well, I think it's obvious what they're already doing. You know, they're, they're allocating, you know, 900 billion or, or 1.6 trillion euros to the military industrial complex in Europe. They're, they're preparing to mobilize men and, and draft them into the military service. They're planning a big war against Russia for 2029 or 2030. They're already doing it. They're clamping down on free, on free speech. They're clamping, you know, they're, they're, they're doing all kinds of everything to, to kind of corral the populations and to manipulate them to their ends, which is war against Russia, which is going to, you know, eliminate military age men from society as they've done in Ukraine. It's going to leave a lot of vulnerable people behind, women, children, elderly.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0102
+
+## seg-0103 / 01:49:30-01:50:34 / UNKNOWN
+
+They're going to bring, they're going to bring, how do you call, immigrants to replace the men as they're planning for Ukraine. And as they've done in many countries to a large extent already, France, Belgium, Ukraine, United Kingdom. And because what is their game primarily, other than taking down Russia and Iran and China and so forth, their game is, their game is to stay in power. And so they're as afraid of Russia as they are of their own populations. So they want to stay in power. They want to bring all these brown people to mind the defend, defend them to, to, to, to, to demand the police forces and, and, and military units and so forth. And to keep their fraudulent monetary system as the only game in town to prevent us from transacting in any, in any other way. So if you want to have money, well, you have to take loans from their banks.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0103
+
+## seg-0104 / 01:50:38-01:51:31 / UNKNOWN
+
+But I mean, wouldn't that scenario create the conditions for a civil war in all countries where, you know, these people are being drafted to send to, to die off in the trenches of Ukraine? I mean, like they're not going to go and die like that, right? They'd rather fight for, for, for their families. The Ukrainians didn't want to die. They, they didn't want to fight. I mean, there were, there were polls, uh, in Ukraine run just before the war against Russia started two or three weeks before the, the war started. And the question in the poll was, if Russia invaded, would you, would you pick up arms to defend Ukraine against Russia? And I think that nationwide, the percentage of men who said yes was on average less than 20%, less than one in five. And in some parts of Ukraine, it was extremely low. Like it was in the single digit, I think, in digits, I think.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0104
+
+## seg-0105 / 01:51:31-01:52:37 / UNKNOWN
+
+So Ukrainian men didn't want to go to war against Russia. And the fact that they managed to sacrifice well over a million of them tells you that their, their ability to engineer society, to, to engineer, to corral the population towards their end is, is, is in fact very, very effective. So we have to be, you know, we have to be very careful about that. I, I have a 14 year old and 15 year old. So by 2029 and 2030, there will be perfect, perfect military age men. So I, I, I, I don't want, I don't want for them to have the future as Ukrainian men, but this is what they're, this is what they're preparing for us. And so, you know, they're, they're hoping to save themselves. But as I said, they have been failing very, very badly, you know, in ways that wasn't the case before. You know, when they needed a war against Germany, they orchestrated the war against Germany and it happened.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0105
+
+## seg-0106 / 01:52:37-01:53:35 / UNKNOWN
+
+When they needed the next, the next war between Germany and the Soviet Union, they orchestrated it and it happened. Now they orchestrated a war against Russia. And the idea was to destroy Russia. Well, that failed and they're failing against Iran and their, you know, their master plan for the new normal in which, you know, we were going to go around with, you know, little QR codes and, you know, we would have to get a permit to board a plane, to go on a train, to get in a restaurant or a theater and all this, that failed. That just kind of disintegrated. So I think that the internet and the social media completely changed the social equation. They, they, they can no longer control the narrative and without controlling the narrative, they cannot mobilize the masses. So all they're left with now is doing it by force work either.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0106
+
+## seg-0107 / 01:53:35-01:54:25 / UNKNOWN
+
+You know, there's a hell of a lot more of us than there is of them. And people are saying, no. So what are you going to do? Are you going to put everybody in prison? Well, that's what the 15 minute cities are. But even that agenda is, is going very slowly and with a lot of difficulties. And then all it takes is for people, you know, like when they put up those posts, those monitoring posts that like in Britain, people are just simply sewing them off. They're taking them down. Duh, it's easy. What are you going to do then? Police every post? You're going to put a camera to observe a camera and then a camera towards the other camera. It's like, it's never ending. So it's like, I think it's like Prince King canoe flogging the waves to, to stem the tide. It's, it's going to fail, but
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0107
+
+## seg-0108 / 01:54:25-01:55:37 / UNKNOWN
+
+it's going to be probably a few years, which are going to be very difficult in the West. So what do you see happening after project Ukraine fails? Like the war is lost and you've lost like 10 % of Ukraine. Of your military age, man. So you can't actually sustain this war anymore. What comes next? They, they have tried and they will continue to try to open the second front. They tried Georgia that failed. They tried the Balkans that failed temporarily, you know, and the third flashpoint, I think would be the, the Baltic States. They practically had the Bosnia and Herzegovina rigged for, for an eruption of conflict last, last year. It failed since Trump came to power because the Trump administration, actually, I know this as a fact because I spoke with people who were directly involved in this Trump's people completely kicked out the Brits. They, they told them, okay, you're out. We're in charge.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0108
+
+## seg-0109 / 01:55:37-01:56:39 / UNKNOWN
+
+And they, they deescalated the conflict. So a war that was supposed to erupt didn't erupt. And the reason why this was important because, you know, Bosnia is where World War One erupted, you know, with the assassination of Archduke Franz Ferdinand. And that was staged. By the way, it was staged that that assassination was staged. I'm not sure if you know, if you know that history. No, I, well, I know that history, I didn't know it was staged, but at any rate, it was, it was, it was not the cause of war. It was, it was the pretext to start escalating the conflict between Serbia and Austria, Hungary. So it was used for that. And it was, you know, it was manipulated by the British and the Russian ambassador. You will like the story of how, of how he died. Okay. So when, when I studied World War One history, what I learned was that,
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0109
+
+## seg-0110 / 01:56:39-01:57:39 / UNKNOWN
+
+you know, the Archduke Ferdinand was assassinated by, um, this, um, you know, cyber, uh, uh, Syrian nationalists. Right. Yeah. And, uh, and, you know, his car got blown up. Well, if you actually look, look at the real history, what happened was this, um, the car was driving, a bomb was thrown by these blackhead terrorists, but he actually survived that. In fact, he didn't actually get hurt at all. Okay. So then what happened was that he was like, oh my God, a lot of people died, uh, because of the terror attack. So he goes and visits them in the hospital. Okay. And then he's, he's at the hospital. And then for the reason, his chauffeur drives him to a, um, I believe it was a cafe. And as, and like miraculously, seen the cafe was a black and assassin. And that's how they got, they got him. The chauffeur drove him directly to the assassin. Who then took a bullet, who took a gun and shot him to death.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0110
+
+## seg-0111 / 01:57:39-01:58:35 / UNKNOWN
+
+Yes, yes, yes. I'm, I'm aware of that, but I, I, uh, the, the story, the version that I, um, kind of accepted is that the chauffeur took a wrong turn by accident, but you may be right. It may be just show. How, how miraculous is that? Man, you take a wrong turn and you're right. Actually. Oh, wow. That makes sense. Yeah. Yeah. Yeah. But that's where, that's where the whole start, uh, the whole process started building up irreversibly. And so this is what might've happened in Sarajevo now, because, uh, th th they were, they were already building up a conflict between the, the Serbian entity and the Federation in Bosnia. You know, it's complicated. I don't want to go into all these explanations, but basically what the idea was, if that conflict started to happen, the Serbian entity would then be supported
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0111
+
+## seg-0112 / 01:58:35-01:59:37 / UNKNOWN
+
+by the Serbian by Serbia proper, uh, Croatians would be drawn in because there's a, there's a Croatian minority that formed some of the cantons in the, in the Federation. If Croatia was drawn in Croatia is a NATO member. So I'm sure that they would be able to finagle article five and bring the whole of NATO. If they bring the whole of NATO, then Russia couldn't stand aside and let, let, let Serbia fight on its own. Right? So there you have suddenly. World War II. World War III on European continent, Russia against NATO. Boom, like this, the British were doing this. They even wrote papers like the, the, the, their think tank, RUCI, Royal United Services Institute, wrote a paper where they said that the Balkans would inevitably become the second front in West's war against Russia. Well, that failed too. Since Trump came into office, it doesn't mean that they will give up. They will not give up.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0112
+
+## seg-0113 / 01:59:37-02:00:41 / UNKNOWN
+
+But at least for the time being, it's been, that has been unrigged. It has been deescalated for the time being. Now they're trying to get the Baltics to, to, they're trying to get something going in the Baltics. But I mean, it doesn't matter. They're going to lose anyway. You know, they, Barbarossa was the biggest invasion force ever assembled. It was three and a half million, million troops. Within a year, that number grew to six million troops fighting inside Russia against the Soviet Union. Today, we cannot even dream about 600,000 troops, let alone six million. We're like four light years away from that. So they're going to lose anyway. But, you know, Professor Jiang, as you said, the idea is to keep the wars going, not to win them. They don't care that they were going to, going to lose. They need to keep these wars going, but they're going to lose.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0113
+
+## seg-0114 / 02:00:42-02:01:48 / UNKNOWN
+
+What is the exit strategy for the elites then? You know, because I'm sure they have exit strategies. I'm not sure that they do. It seems to me that for them, this is existential. It's all or nothing. If they lose, they're done because they don't know how to do anything else. You know, they, they're a parasite draining the lifeblood of the rest of the society. Is that why they're building bunkers? Well, they're building bunkers to preserve themselves, you know, to disappear when people come out with the pitchforks. But, you know, you can't stay in the bunker forever. Yeah. Going to have to come out. And you go crazy in those bunkers, by the way. Probably. Yes, you would. But I think, you know, in a way that would be, they're already crazy. I mean, they're already crazy. I mean, I've, I've read stuff. I've researched. And some of the stuff that they've done really, really shows that they're, they're crazy.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0114
+
+## seg-0115 / 02:01:49-02:02:48 / UNKNOWN
+
+And they're also really stupid. I mean, the, the agendas that they pursue, somebody should walk in there and say, like, guys, are you out of your head? This is never going to work. No, they pursue it all the same. And then it doesn't work. And then they go to do the next thing. You know why? Because they have infinite resources. And, they just, for them, this is just like playing games. Oh, that didn't work. Well, let's try this one. And then let's try again. They've been trying to destroy Russia for a few centuries. And they lose every time. And then they go and try again. Well, this has been a awesome discussion. I really enjoyed it, guys. I mean, I know we're running a little over time, but, do you have one more question, guys? Sure. So, Alex, I mean, we've been discussing the economic incentives of everything that's been going on.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0115
+
+## seg-0116 / 02:02:48-02:03:59 / UNKNOWN
+
+And you're probably one of the most, if not the most, qualified person to talk about that kind of stuff. But also, there's also like the spiritual, religious, the eschatological incentive structure as well that Professor Jang has talked about in the past as well. So, we've talked about the economic incentives, the spiritual, like, eschatological incentives for this, war in Iran. Is this really what's driving things around the world, in your view, Jang, more so than the economic side of things? Or is it a mixture of both? Professor Jang. Yeah. So, this is the way I understand things. The eschatology is important because the elite, as Alex points out, they're not very smart. They don't know anything, right? So, they believe in this crap. They believe in astrology. They believe in reincarnation. And what the eschatology does, is it gives them like a script, an action plan to work from, to guide their actions, right? The other thing about eschatology that people don't appreciate is that eschatology is actually hidden history, right?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0116
+
+## seg-0117 / 02:03:59-02:04:58 / UNKNOWN
+
+Because religion, it just basically takes thousands, tens of thousands of years of human history, and it distills them into parables or myths that capture the flow of human history. And so, there is truth into a lot, there's truth in eschatology. And that's why the elite believe in this eschatology. So, it's not that these elite are the ones driving history. It's more that eschatology gives us a framework to understand how history moves. The elite understands this, and so they position themselves in a way that allows them to maximize their benefit during times of historical tumult. And so, that's the way I understand eschatology. Also, eschatology is the operating system for secret societies, right? So, you join a secret society in order to enact a certain eschatology. So, that's the way I understand how this works. Yeah. Yeah. I mean, it
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0117
+
+## seg-0118 / 02:04:58-02:05:59 / UNKNOWN
+
+seems like it's been ramping up a lot lately with the eschatology, because you've got all these different eschatologies kind of playing out and competing with each other as well. Right. But, again, it's because we are in a period of imperial decline. And, in the time of imperial decline, history really ramps up, right? Actions happen really fast because the empire becomes anxious and desperate. And so, they behave in a way that's not rational. They behave in a way that just pushes things forward in a way that wouldn't happen naturally. Understood. Well, guys, I'm not going to take too much more of your time. You've been very gracious with it so far. Anything else either of you would like to talk about before we wrap up and take this thing home? Alex? No, nothing special. I would just say that this is a very, very important time in humanity's history. And I think that we, the people, are winning.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0118
+
+## seg-0119 / 02:06:01-02:07:18 / UNKNOWN
+
+But I think that things may look discouraging to many people. And I always like to go back to that Confucian saying, you know, like when a large tree falls, it falls with great noise and destruction. But seeds grow in silence. So what this means to me is that we're watching old obsolete structures of society implode. And so this kind of attracts our attention. It practically hypnotizes us. But we have to keep in mind that the invisible part is those seeds growing. And, you know, seeds in nature always grow into something beautiful. So we must always keep in mind that we are in that process. And even if we get mesmerized by horrible things that surround us, we should not be defeatists. We should keep in mind that we must carry on, put one foot in front of the other. And I think that we are in a unique position in many, many generations of humanity, but we're not in the same position as ancient people.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0119
+
+## seg-0120 / 02:07:18-02:08:11 / UNKNOWN
+
+And I think that the only way for us to get in that position is to actually take the world in a better direction and leave a better future for our children. So it's not a time to be discouraged. It's time to keep on keeping on. Professor Jang. No, I completely agree with Alex's sentiment. I think that's very poetic. And one thing I will add is that we all have our own individual responsibility to contribute to this time. be vigilant because as Alex points out the elite they're kind of stupid but they're also very evil and desperate so they have actually quite a few tricks up their sleeves so I'm not sure you've been following the news of these scientists who've gone missing or dead you know and it seems it seems related to disclosure so it's possible they fake an alien invasion over
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0120
+
+## seg-0121 / 02:08:11-02:09:02 / UNKNOWN
+
+the next few years as they become much more more desperate and that's exactly like COVID where you know what if you go along with it they win but if you just open your eyes and just think for yourself they're not going to win so we have to be vigilant and we have to we have to appreciate our own individual responsibility to making a better world excellent well guys thank you so much for coming on where can people find each and every each of you guys Alex well I'm actually the next my my handle is at naked Hedgie I have two publication on sub stack one that is an event that's going to be phenomenal for a photo One is iSystem Trend Compass. The other one is my personal Substack called Alex Cranor Substack. And I also have a YouTube channel that I started uploading stuff on this year. It's called Alex Cranor, I think, pretty much.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0121
+
+## seg-0122 / 02:09:02-02:09:58 / UNKNOWN
+
+That's it. All right. We'll have that link down below. Professor Jang? Yeah, so I'm on two sites. I'm on YouTube, Predictive History, the channel. And also I'm on Substack, PredictiveHistory.Substack.com. Excellent. We'll have the link to everything down below in the description box as well as the pinned comments. And be sure to like the video, guys. Let's get this pushed out into the algorithm to as many people as possible. This is a crucial discussion and conversation that the entire world needs to hear, quite frankly. So hit the like button, comment. Go, Alex. Go in the comments section. Go, Jang. Go in the comments section. Let me know your thoughts. What did you agree with? What did you disagree? What did you disagree with and why? You've got to let me know why you agreed or why you disagreed. Are you as optimistic as Alex and Professor Jang put it toward the end? Or are you not?
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0122
+
+## seg-0123 / 02:09:58-02:10:08 / UNKNOWN
+
+So let me know your thoughts down below. Subscribe so you don't miss an episode. Hit the bell notification. Catch me on Substack, CapitalCosmos.Substack.com. And I will catch you all next time. Thanks for watching. Bye.
+
+Ref: video:interview-37qm5feukw8@transcript:v1#seg-0123
