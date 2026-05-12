@@ -8,6 +8,9 @@ or local orchestration script.
 
 - `Spawnfile` declares the team, inherited skills, required packages, required
   secrets, the managed Moltnet room, and the shared repo resource.
+- The shared package list installs `node@22.12.0` globally before the Codex CLI
+  package. Astro requires Node `>=22.12.0`, and the Debian base image's
+  `nodejs` package is older.
 - `agents/episode-worker/` declares Virgil.
 - `agents/lens-steward/` declares Plato.
 - Each agent runtime receives its own workspace and its own repo checkout at
