@@ -467,14 +467,22 @@ async function main() {
   const topicShardAiHtmlPath = path.join(distRoot, 'topics/index/ai/index.html');
   if (existsSync(topicShardAiHtmlPath)) {
     const topicShardAiHtml = await readFile(topicShardAiHtmlPath, 'utf8');
-    for (const expected of [
-      'Topic Router: ai',
-      'visible aliases',
-      'Search aliases or canonical topics',
-      'Topic brief',
-    ]) {
+    const expectedAiShardStrings = topicShardAiHtml.includes('Narrow By Prefix')
+      ? [
+          'Topic Router: ai',
+          'prefix shards',
+          'Search prefix shards or exact aliases',
+          'Narrow By Prefix',
+        ]
+      : [
+          'Topic Router: ai',
+          'visible aliases',
+          'Search aliases or canonical topics',
+          'Topic brief',
+        ];
+    for (const expected of expectedAiShardStrings) {
       if (!topicShardAiHtml.includes(expected)) {
-        failures.push(`dist/topics/index/ai/index.html: missing capped alias leaf HTML ${expected}`);
+        failures.push(`dist/topics/index/ai/index.html: missing alias shard HTML ${expected}`);
       }
     }
   }
