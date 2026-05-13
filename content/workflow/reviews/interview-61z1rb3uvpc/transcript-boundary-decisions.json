@@ -1,0 +1,29 @@
+{
+  "source_slug": "interview-61z1rb3uvpc",
+  "decisions": [
+    {"candidate_id":"seg-0004->seg-0005:move-leading-completion-to-previous:606233a2337d","decision":"approve","reason":"Leading completion finishes the prior sentence without changing meaning."},
+    {"candidate_id":"seg-0011->seg-0012:move-leading-completion-to-previous:5cba3c1a874d","decision":"approve","reason":"Moves sentence completion to the prior segment for readable flow."},
+    {"candidate_id":"seg-0018->seg-0019:move-leading-completion-to-previous:0667d3c752bc","decision":"approve","reason":"Joins split clause across boundary into a coherent sentence."},
+    {"candidate_id":"seg-0022->seg-0023:move-leading-completion-to-previous:d4e752226e06","decision":"approve","reason":"Completes an unfinished phrase from the previous segment."},
+    {"candidate_id":"seg-0029->seg-0030:move-leading-completion-to-previous:e7fcdf6b456d","decision":"approve","reason":"Appends missing tail phrase that belongs with prior sentence."},
+    {"candidate_id":"seg-0032->seg-0033:move-leading-completion-to-previous:8174ff2bf818","decision":"approve","reason":"Finishes the prior sentence start with the linked continuation."},
+    {"candidate_id":"seg-0036->seg-0037:move-leading-completion-to-previous:426f33574907","decision":"approve","reason":"Moves stranded phrase that completes previous sentence."},
+    {"candidate_id":"seg-0039->seg-0040:move-leading-completion-to-previous:28b94ab764fb","decision":"approve","reason":"Moves a single completion phrase to preserve sentence continuity."},
+    {"candidate_id":"seg-0056->seg-0057:move-leading-completion-to-previous:e071148e29a9","decision":"approve","reason":"Reattaches a clearly split sentence completion."},
+    {"candidate_id":"seg-0060->seg-0061:move-leading-completion-to-previous:14e36e75c985","decision":"approve","reason":"Transfers trailing sentence completion to prior segment for grammar."},
+    {"candidate_id":"seg-0066->seg-0067:move-leading-completion-to-previous:fe86c29e76e0","decision":"approve","reason":"Previous segment ends mid-clause; completion belongs in previous."},
+    {"candidate_id":"seg-0069->seg-0070:move-leading-completion-to-previous:1c336780a243","decision":"approve","reason":"Moves terminal phrase that finishes the prior segment's thought."},
+    {"candidate_id":"seg-0075->seg-0076:move-leading-completion-to-previous:5517ddbeba4b","decision":"approve","reason":"Completes an unfinished statement at the boundary."},
+    {"candidate_id":"seg-0083->seg-0084:move-leading-completion-to-previous:c313dfeb110e","decision":"approve","reason":"Joins split sentence without altering semantics."},
+    {"candidate_id":"seg-0089->seg-0090:move-leading-completion-to-previous:a916b2807fd2","decision":"approve","reason":"Completion belongs with previous segment for readability."},
+    {"candidate_id":"seg-0092->seg-0093:move-leading-completion-to-previous:fa1db82bac65","decision":"approve","reason":"Transfers clearly incomplete ending to prior segment."},
+    {"candidate_id":"seg-0098->seg-0099:move-leading-completion-to-previous:abe5e45f5f3c","decision":"approve","reason":"Moves the terminal proper noun phrase to prior sentence context."},
+    {"candidate_id":"seg-0107->seg-0108:move-leading-completion-to-previous:461e08e0443b","decision":"approve","reason":"Appends missing completion to the previous statement."},
+    {"candidate_id":"seg-0141->seg-0142:move-leading-completion-to-previous:de5aeb8de67d","decision":"approve","reason":"Repairs a conversational sentence split at segment boundary."},
+    {"candidate_id":"seg-0151->seg-0152:move-leading-completion-to-previous:732790f2850d","decision":"approve","reason":"Completion phrase naturally attaches to previous segment."},
+    {"candidate_id":"seg-0165->seg-0166:move-leading-completion-to-previous:38626ef7f59d","decision":"approve","reason":"Moves trailing phrase needed to complete prior conditional line."},
+    {"candidate_id":"seg-0168->seg-0169:move-leading-completion-to-previous:942197dd4bee","decision":"approve","reason":"Transfers obvious sentence completion into the preceding segment."},
+    {"candidate_id":"seg-0171->seg-0172:move-leading-completion-to-previous:1631e739fb6d","decision":"approve","reason":"Keeps the full comparative sentence in one segment."},
+    {"candidate_id":"seg-0175->seg-0176:move-leading-completion-to-previous:370f6760052a","decision":"approve","reason":"Moves final clause that completes prior sentence."}
+  ]
+}
