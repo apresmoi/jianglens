@@ -79,6 +79,18 @@ Disclosure becomes attention capture when visible evidence, scandal, or permanen
 
 This belongs here rather than on the secret-society page because the active mechanism is not the hidden organization's structure. Secret Society owns compartmentalization, transgression, and cross-bureaucratic coordination. Taboo owns ritual breach and scapegoat surfaces. Attention owns the moment when even exposure can feed the system by occupying imagination and making reality feel governed by the event.
 
+## The Public Figure As Attention Entity
+
+The April 15, 2026 Jack Neel interview adds a more personal and volatile form of the same mechanism. Jiang begins with elite longevity, then rejects the body as the central secret. In his formulation, [the secret is the mind]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0093"}. Trump becomes the case study because the digital world lets one person capture attention at a scale older fame could not reach: [movies, the internet, and digitalization let him live in the minds of billions]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0093"}.
+
+The claim is explicitly [a thought experiment]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0101"}, not a biomedical proof. Its importance for the lens is the attention physics. Jiang says Trump constantly keeps himself [near press, platforms, and reporters]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0094 video:interview-ril8pssntzg@transcript:v1#seg-0095"} because he wants to live in the world's consciousness. If consciousness creates reality, then [having Trump in everyone's mind makes him the convergence of individual realities]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0095"}. That convergence is what makes the image dangerous: a political figure can become less like a leader people evaluate and more like an entity they help sustain by being unable to imagine a world without him.
+
+<!-- lens-point id="attention-public-figure-becomes-entity" concept="attention-capture" evidence="video:interview-ril8pssntzg@transcript:v1#seg-0093 video:interview-ril8pssntzg@transcript:v1#seg-0095 video:interview-ril8pssntzg@transcript:v1#seg-0096 video:interview-ril8pssntzg@transcript:v1#seg-0099" -->
+<span id="attention-public-figure-becomes-entity" class="lens-point-anchor"></span>
+A public figure becomes an attention entity when digital media keeps him inside millions or billions of minds, love and hatred both feed the same focus, and collective consciousness makes his presence feel permanent.
+
+This sharpens the earlier disclosure section. The event does not have to be hidden; it can survive by being impossible to stop discussing. Jiang's harshest image is that Trump is [a psychic demon fed by intense emotions]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0099"}. Love and hate become equivalent because both keep attention attached. The diagnostic question is therefore not only whether a public figure is liked, hated, exposed, mocked, or condemned. It is whether all reactions return energy to the same center.
+
 ## Anxiety Is The Discipline
 
 The mechanism does not stop at incentive. It needs anxiety because rest is a threat. Stored security lets a person stop. A granary, savings, a stable home, or a believable future interrupts extraction. Jiang therefore treats debt, poverty, war, and depression as attention technologies, not only as unfortunate side effects.
@@ -135,6 +147,7 @@ The Great Books become positive practice because they compete for attention at t
 - **Freedom Trap**: Where does a person feel free because the system has made self-policing more efficient than direct command?
 - **Consumer Inversion**: Is alienation forming shared consciousness and solidarity, or being redirected into comparison, posting, spending, debt, and private status pursuit?
 - **Disclosure Trap**: Is exposure opening a path to action, or keeping consciousness orbiting the event through helplessness, guilt, scandal, and permanent argument?
+- **Public-Figure Entity**: Do love, hate, mockery, scandal, and condemnation all return focus to the same person until public imagination cannot picture the world without him?
 - **Rest Destruction**: What stored security has been burned so attention returns to work?
 - **Status Proof**: Is the anxiety only fear of poverty, or fear that poverty, failed children, bad taste, lost cleanliness, or lost wealth will expose a fall from respectability?
 - **Wall Test**: Which surface is being treated as the world itself: school, screen, market, dollar order, credential, platform, or AI answer?
@@ -152,6 +165,7 @@ The Great Books become positive practice because they compete for attention at t
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): The cave lecture gives the metaphysical basis: [attention is energy and true wealth]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}, captured imagination makes constructed reality feel real, and escape requires seeing the dead world as prison.
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/): The school lecture supplies an institutional neighbor. School becomes a player game where [actual learning is displaced by pleasing parents and teachers, face, grades, and minimum viable work]{evidence="video:predictive-history-ks-muauq62e@transcript:v1#seg-0024 video:predictive-history-ks-muauq62e@transcript:v1#seg-0025 video:predictive-history-ks-muauq62e@transcript:v1#seg-0027"}.
 - **2026-03-17**, [Game Theory #13: Epstein's World](/episodes/predictive-history-aqsdsqdlfxk/): The cave model becomes a global financial and AI rivalry: [conscious attention creates wealth]{evidence="video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004"}, the dollar stores and extracts it through the global financial game, and AI is named as the new contender for human consciousness.
+- **2026-04-15**, [Every Technology Needs a Front Man](/interviews/interview-ril8pssntzg/): The attention model becomes a public-figure thought experiment. Jiang says [the body is not the secret to longevity; the mind is]{evidence="video:interview-ril8pssntzg@transcript:v1#seg-0093"}, and reads Trump as a figure sustained by global focus, addiction, love, hatred, and the inability to imagine a world without him.
 
 ## Related Concepts
 
