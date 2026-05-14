@@ -1,0 +1,148 @@
+{
+  "packet_id": "predictive-history-bil5vjn6ohi-semantics-pkt-0003",
+  "source_id": "video:predictive-history-bil5vjn6ohi",
+  "source_date": "2026-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0017",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces attention as the core ontology: reality is presented as a shared projection, with power as the capacity to direct collective attention.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0019",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0021",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0023",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0024"
+      ],
+      "kind": "monologue",
+      "summary": "He identifies the U.S. system as an attention-management architecture (financial elite, institutions, media, law, customs) and presents China’s dependence as structural, making collapse-prone instability the central risk.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0020"
+      ],
+      "note": "Very short UNKNOWN segment containing only a short interjection; no speaker intent is added beyond a possible listener signal/transition.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines power primarily as the ability to direct and control what people attend to, producing shared beliefs through symbolic projection.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0017",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Didactic claim in this lecture.",
+      "topic_tags": ["attention", "power", "reality"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the American economic order sustains itself by constructing institutions and narratives that hide its constructed nature, including finance, international institutions, culture, and enforcement apparatuses.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0019",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0020",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Interpretive thesis of the source, tied to 2026 class framing.",
+      "topic_tags": ["global-economy", "institutions", "ideology"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He claims China is structurally dependent on an external monetary order and therefore vulnerable if that external order destabilizes.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0022",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0024",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Core dependency thesis in this episode.",
+      "topic_tags": ["dependency", "currency", "china", "systemic-risk"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He asserts that Nixon-era mechanisms projected dollar-based stability onto China and GCC systems, creating a dependence that China cannot fully escape without destabilization.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0023",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical causal chain offered in this source, not newly evidenced in this episode.",
+      "topic_tags": ["nixon", "dollar", "global-order"],
+      "claim_type": "model",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0017"
+      ],
+      "moment": "Reality is presented as a collective hallucination held together by attention management.",
+      "source_phrase": "reality is a hallucination",
+      "why_it_matters": "This becomes the philosophical core from which later economic predictions are derived.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0022"
+      ],
+      "moment": "He names the enforcement stack—media, culture, legal systems—as mechanisms that lock people into the same order.",
+      "source_phrase": "media education and culture brainwash you",
+      "why_it_matters": "It exposes the social-level mechanics behind what is otherwise treated as impersonal macroeconomics.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hallucination (Jiang usage)",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0017",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "A socially reinforced but fragile constructed reality shaped by attention and symbols, rather than ontological certainty.",
+      "confidence": "high"
+    },
+    {
+      "term": "True power",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The practical ability to make others see and interpret the world in a directed way.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0023",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0024"
+      ],
+      "note": "Packet introduces a new philosophical model in the middle of this source, used to reinterpret immediate trade-war events with older monetary history.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0019",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0022"
+      ],
+      "note": "ASR rendering is noisy around institutional references (e.g., specific organizations); substance of the argument is retained while names kept general."
+    }
+  ]
+}

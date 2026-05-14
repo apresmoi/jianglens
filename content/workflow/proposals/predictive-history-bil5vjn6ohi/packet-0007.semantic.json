@@ -1,0 +1,139 @@
+{
+  "packet_id": "predictive-history-bil5vjn6ohi-semantics-pkt-0007",
+  "source_id": "video:predictive-history-bil5vjn6ohi",
+  "source_date": "2026-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0049",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0050",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reframes private banking and sovereign debt through a private-control lens, introducing the Federal Reserve and Treasuries as a structural arrangement.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0052",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0054",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0055",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "He describes debt-service pressure, stable-coin infrastructure, and planned legislative compulsion as a path to transfer debt burden while avoiding open fiscal reset.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0052",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0054"
+      ],
+      "note": "Pedagogical simplification is obvious, and he explicitly invites students to identify why this model is plausible.",
+      "suggested_speaker": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He claims the U.S. federal system is a private-bank cartel structure that channels sovereign borrowing through Federal Reserve operations and Treasuries.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0049",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0050",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Theoretical diagnosis stated for this dated lecture.",
+      "topic_tags": ["federal-reserve", "treasuries", "public-debt"],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    },
+    {
+      "claim": "He argues the U.S. debt regime is unstable because 5% interest on roughly $39 trillion debt creates large annual transfer obligations.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0051",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Quantified critique as of this source date.",
+      "topic_tags": ["debt", "interest-rates", "treasury"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He introduces stablecoins as a mechanism to pull broader retail into Treasury demand, proposing legal acts to force uptake as a form of financial repression.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0053",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0054",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Forward-looking framework from this lecture; includes specific policy-mechanism proposal language.",
+      "topic_tags": ["stable-coins", "financial-repression", "treasury-demand"],
+      "claim_type": "model",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0051"
+      ],
+      "moment": "He quantifies the fiscal pressure by converting rates directly into annual transfer claims.",
+      "source_phrase": "5 % means that the U.S. government has to pay the Federal Reserve about $2 trillion, a year",
+      "why_it_matters": "This numerically anchors a key motivation for his subsequent policy mechanism claims.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0055"
+      ],
+      "moment": "He presents forcing mechanisms (genius/clarity acts) as explicit tools for policy coercion if needed.",
+      "source_phrase": "i force you to buy it",
+      "why_it_matters": "It exposes the coercive logic he attributes to sovereign debt management.",
+      "tone": "causal-chain",
+      "confidence": "low"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Financial repression",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0054",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Policies lowering real return choices and forcing asset allocation toward state debt instruments.",
+      "confidence": "high"
+    },
+    {
+      "term": "Stable coin",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "In this framework, digital monies backed by Treasuries used to route household-level demand for sovereign debt.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0049",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0056"
+      ],
+      "note": "Packet 7 moves from bank mechanics into explicit debt-management strategy, setting up the practical template for the remaining end-of-source claim sequence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0053",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0056"
+      ],
+      "note": "Legislative names and implementation details are rendered with ASR noise; keep these claims as mechanism-level interpretation, not legal confirmation."
+    }
+  ]
+}

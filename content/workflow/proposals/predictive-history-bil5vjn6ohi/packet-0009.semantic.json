@@ -1,0 +1,129 @@
+{
+  "packet_id": "predictive-history-bil5vjn6ohi-semantics-pkt-0009",
+  "source_id": "video:predictive-history-bil5vjn6ohi",
+  "source_date": "2026-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0065",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0066"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang summarizes both sides’ negotiation objectives: China wants energy access, AI chips, and U.S. market entry; the U.S. wants Chinese financial access and manufacturing synergies.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "kind": "question",
+      "summary": "Jiang closes with a direct class question and frames the prior section as a testable prediction sequence.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "note": "No participant answer is captured; this is a rhetorical checkpoint inviting class engagement.",
+      "suggested_speaker": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He summarizes a three-way Chinese objective in the grand bargain: cheap energy from the Western Hemisphere, semiconductor access, and U.S. market access.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Dated negotiated framework in this lecture.",
+      "topic_tags": ["china-objectives", "energy", "chips", "trade"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He states U.S. objectives include expanding Chinese retail debt-bond intermediation, surveillance-enabled AI experimentation, and relocation of Chinese manufacturing capacity for cheaper resource extraction.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0066",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Interpretive claim in this source’s closing synthesis.",
+      "topic_tags": ["us-objectives", "surveillance", "manufacturing", "stable-coins"],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He presents his theory as falsifiable through observed outcomes in the days after the visit.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Immediate methodological note in this dated source.",
+      "topic_tags": ["method", "prediction", "verification"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0065"
+      ],
+      "moment": "Grand bargain outcome is reduced to a crisp three-point trade for each side.",
+      "source_phrase": "So now this is a basic framework for how the US grand bargain will turn out",
+      "why_it_matters": "This provides the most explicit end-stage extraction for the entire episode.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "moment": "The close remains open and testable: he says we'll know in days if he is right.",
+      "source_phrase": "we'll know in a couple days if I'm right or wrong",
+      "why_it_matters": "Keeps the analysis accountable to observable outcomes.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Falsifiable prediction",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Claim structure that explicitly invites future outcome checks to validate or disprove the proposed framework.",
+      "confidence": "high"
+    },
+    {
+      "term": "Grand bargain",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0065",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Compact outcome bundle used to summarize expected exchange terms after prolonged strategic bargaining.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0065",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"
+      ],
+      "note": "Packet 9 is the final close-out with an explicit dated forecast schedule, marking the endpoint of the episode argument.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0066"
+      ],
+      "note": "The AI/surveillance claim is assertive and lacks supporting examples within these segments; treated as forecast hypothesis."
+    }
+  ]
+}
