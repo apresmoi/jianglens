@@ -1,0 +1,185 @@
+{
+  "packet_id": "interview-rsld81qme04-semantics-pkt-0004",
+  "source_id": "video:interview-rsld81qme04",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0025",
+        "video:interview-rsld81qme04@transcript:v1#seg-0026",
+        "video:interview-rsld81qme04@transcript:v1#seg-0027",
+        "video:interview-rsld81qme04@transcript:v1#seg-0028",
+        "video:interview-rsld81qme04@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang applies the lecture to China: the Iran war is terrible for an export-and-resource-dependent China; Taiwan is not the main flashpoint; overfishing and later water from the Tibetan Plateau are bigger strategic problems. He closes the lecture with three lessons about ideas, geography, and grand strategy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0030",
+        "video:interview-rsld81qme04@transcript:v1#seg-0031",
+        "video:interview-rsld81qme04@transcript:v1#seg-0032"
+      ],
+      "kind": "question",
+      "summary": "The host opens Q&A by asking whether Iran avoids striking Jerusalem because Israel might use a false-flag destruction of a mosque to trigger religious war.",
+      "speaker_attribution": "James Cheong relaying audience/student questions",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0030",
+        "video:interview-rsld81qme04@transcript:v1#seg-0032"
+      ],
+      "note": "SPEAKER_01 is asking a substantive question; this should be eligible for public questions if answered directly.",
+      "suggested_speaker": "James Cheong / audience question",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "China faces major headwinds because the Iran war threatens global stability, resource continuity, and the export basis of China’s economy.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-09.",
+      "topic_tags": [
+        "china",
+        "iran-war",
+        "global-economy",
+        "exports"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang does not think Taiwan is the immediate flashpoint; Chinese overfishing in the South China Sea may bring China into conflict with neighbors who arrest Chinese fishermen.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0026",
+        "video:interview-rsld81qme04@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Short-term East Asia forecast dated 2026-04-09.",
+      "topic_tags": [
+        "south-china-sea",
+        "fishing",
+        "taiwan",
+        "flashpoint"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The long-term regional conflict Jiang sees is water: Southeast Asian rivers flow from the Tibetan Plateau controlled by China, and resource wars have often been fought over water.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0027",
+        "video:interview-rsld81qme04@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Long-term strategic warning dated 2026-04-09.",
+      "topic_tags": [
+        "water",
+        "tibetan-plateau",
+        "southeast-asia",
+        "resources"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ideas matter more than raw power because ideas coordinate and motivate populations into action.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture conclusion dated 2026-04-09.",
+      "topic_tags": [
+        "ideas",
+        "coordination",
+        "grand-strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Grand strategy is more important than geography because it is the organized response to geographic limits.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0028",
+        "video:interview-rsld81qme04@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture conclusion dated 2026-04-09.",
+      "topic_tags": [
+        "grand-strategy",
+        "geography",
+        "limitations"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Without a theory of the world, a country becomes a pawn used by those who do have grand strategy.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture conclusion dated 2026-04-09.",
+      "topic_tags": [
+        "grand-strategy",
+        "pawn",
+        "world-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0029"
+      ],
+      "moment": "Without grand strategy, China is not a player but a pawn in someone else’s game.",
+      "source_phrase": "You will just be a pawn in the game",
+      "why_it_matters": "It is the lecture’s public-facing thesis in one sentence.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0028"
+      ],
+      "moment": "Grand strategy is defined as the answer to geography, not a slogan layered on top of it.",
+      "source_phrase": "Grand strategy is response to limitations of geography",
+      "why_it_matters": "It connects the lecture’s map examples to the political claim that ideas organize action.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "grand strategy",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0028",
+        "video:interview-rsld81qme04@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "A theory of the world that lets a state respond to geographic limits and avoid being used by stronger strategists.",
+      "confidence": "high"
+    },
+    {
+      "term": "Tibetan Plateau water problem",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang’s long-term warning that China’s control of upstream rivers may become a Southeast Asian conflict source.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0031",
+        "video:interview-rsld81qme04@transcript:v1#seg-0032"
+      ],
+      "note": "The host’s question includes ASR-damaged “false threat,” almost certainly false flag from context."
+    }
+  ]
+}
