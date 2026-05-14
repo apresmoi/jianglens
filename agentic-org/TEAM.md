@@ -70,3 +70,16 @@ The process skills remain the stable base. Worker memory may improve with experi
 ## Schedule Ownership
 
 Each durable agent may propose or change its own `Spawnfile` schedule when lived work shows the cadence is wrong. Schedule changes belong in that agent's own folder and should explain the reason in the PR notes or local agent memory. Do not add external supervisor scripts or cron wrappers for normal wakes; Picoclaw schedules are the source of truth.
+
+Current runtime note: PicoClaw cron wakes do not publish assistant stdout back to
+Moltnet by themselves. A scheduled wake that needs to be visible in a room must
+send explicitly with the Moltnet CLI from the agent workspace:
+
+```bash
+MOLTNET_CLIENT_CONFIG=./.moltnet/config.json moltnet send --network local_lab --target room:episode-floor --text "..."
+```
+
+Until Spawnfile lowers PicoClaw schedules natively, the live cron store is
+`./cron/jobs.json` inside each PicoClaw workspace. Keep exactly one autonomy job
+per agent and do not use host cron or external supervisor loops for normal
+agent wakes.

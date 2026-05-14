@@ -50,8 +50,14 @@ node ops/scripts/validate-corpus-impact.mjs --all
 Do not create bureaucracy for its own sake. Impact files, proposals, atlas edits, and concept pages are tools for better public lens construction, not an end in themselves.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
-one recurring agent-turn job named with the prefix
-`jiang-lens-autonomy:lens-steward`; the default cadence is every two hours. You
-may adjust your own cron cadence when corpus pressure changes, but do not create
-duplicate autonomy jobs and do not schedule shell-command cron jobs unless a
-maintainer explicitly asks.
+one recurring agent-turn job named `lens-steward-two-hour`; the default cadence
+is every two hours. You may adjust your own cron cadence when corpus pressure
+changes, but do not create duplicate autonomy jobs and do not schedule
+shell-command cron jobs unless a maintainer explicitly asks.
+
+Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant
+stdout being published to the room:
+
+```bash
+MOLTNET_CLIENT_CONFIG=./.moltnet/config.json moltnet send --network local_lab --target room:episode-floor --text "..."
+```
