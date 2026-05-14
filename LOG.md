@@ -50,3 +50,42 @@ and dated.
   Socrates initially mirrored several non-material smoke acknowledgements into
   `lead-office`. The Socrates room contract now treats worker mentions in
   `episode-floor` as inputs, not automatic maintainer-facing reports.
+
+## 2026-05-14 - PicoClaw Cron Scheduling Diagnosis
+
+- The agents replied to direct smoke-test mentions, but they did not wake later.
+  `spawnfile-report.json` showed why: every `agent.schedule` capability was
+  `degraded` with the message "Schedule intent is validated but no runtime
+  scheduler is emitted yet." The generated PicoClaw workspaces had empty
+  `workspace/cron/jobs.json` files.
+- Manually adding a job with `picoclaw cron add` did not affect the already
+  running gateway until the container was restarted. PicoClaw reads cron jobs at
+  gateway startup; hot-added jobs were visible to `picoclaw cron list` but not
+  executed by the live service until restart.
+- After restart, cron ticks fired but completed in 1-2ms without running an
+  agent turn. The generated `config.json` had `tools.cron.enabled: false`, so
+  `setupCronTool` never registered the cron executor. Enabling
+  `tools.cron.enabled: true` in each PicoClaw config fixed agent-turn execution.
+- Adding jobs with `--channel moltnet --to local_lab:room:...` launched the
+  agent turn, but the container logged `Unknown channel for outbound message
+  channel=moltnet`. Current PicoClaw/Moltnet bridging supports inbound wakes,
+  while scheduled outbound room reports still need the agent to call
+  `moltnet send` explicitly.
+- The working runtime shape is native PicoClaw cron plus explicit room sends:
+  the cron job message tells the agent to use
+  `MOLTNET_CLIENT_CONFIG=./.moltnet/config.json moltnet send --network
+  local_lab --target room:<room> --text <status>`.
+- A one-minute Sentinel proof job posted to `episode-floor` at
+  `2026-05-14T16:56:03Z`: "Sentinel scheduler proof: native PicoClaw cron
+  fired." The proof job was removed afterward.
+- The steady Sentinel job fired at `2026-05-14T17:00:19Z` and posted a compact
+  health delta to `@socrates`; its next run was `2026-05-14T17:30:00Z`.
+- Live jobs now in the running container:
+  `episode-worker-daily` at `0 5 * * *`, `lens-steward-two-hour` at
+  `15 */2 * * *`, `sentinel-thirty-minute` at `*/30 * * * *`, and
+  `socrates-hourly` at `10 * * * *`.
+- Follow-up needed in Spawnfile/PicoClaw: lower Spawnfile `schedule` into
+  PicoClaw `workspace/cron/jobs.json`, enable the PicoClaw cron tool whenever a
+  schedule is emitted, avoid unsupported `moltnet` outbound channel targets, and
+  expose a documented reload/reconcile path for cron jobs without requiring a
+  full container restart.
