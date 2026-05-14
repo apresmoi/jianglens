@@ -1,0 +1,183 @@
+{
+  "packet_id": "interview-rsld81qme04-semantics-pkt-0002",
+  "source_id": "video:interview-rsld81qme04",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0009",
+        "video:interview-rsld81qme04@transcript:v1#seg-0010",
+        "video:interview-rsld81qme04@transcript:v1#seg-0011",
+        "video:interview-rsld81qme04@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes the three-part contrast by opposing genius-centered Chinese history to Thucydidean structural force, then returns to utility versus character through Mao, Deng, Athens, Sparta, and the Iran war.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0013",
+        "video:interview-rsld81qme04@transcript:v1#seg-0014",
+        "video:interview-rsld81qme04@transcript:v1#seg-0015",
+        "video:interview-rsld81qme04@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He contrasts Chinese strategem stories with Pericles funeral oration, arguing that Western speeches create common identity and explain why a people fights; he applies this to Iran’s ability to resist despite military inferiority.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0009",
+        "video:interview-rsld81qme04@transcript:v1#seg-0016"
+      ],
+      "note": "Continuous Jiang lecture. The transcript renders Thucydides as several damaged forms, but the referent is clear from context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Chinese historical imagination overvalues genius figures such as Zhuge Liang and Sima Yi, while Thucydides cares more about large structural forces that drive states.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture model dated 2026-04-09.",
+      "topic_tags": [
+        "great-man-theory",
+        "structural-force",
+        "thucydides"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Mao’s barrel-of-a-gun formula and Deng’s black-cat/white-cat formula are utilitarian and therefore inadequate for understanding politics and war.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0010",
+        "video:interview-rsld81qme04@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Critique made in this lecture.",
+      "topic_tags": [
+        "mao",
+        "deng-xiaoping",
+        "utility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Athens and Sparta did not need to fight from a utility perspective, but their opposed political personalities made war likely.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0011",
+        "video:interview-rsld81qme04@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical model used in 2026-04-09 lecture.",
+      "topic_tags": [
+        "athens",
+        "sparta",
+        "peloponnesian-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The United States attack on Iran is unintelligible if read only through utility, because Iran offered Trump a deal; the war has to be read through state personality and structural drive.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0012",
+        "video:interview-rsld81qme04@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Dated diagnosis of the 2026 Iran war as of 2026-04-09.",
+      "topic_tags": [
+        "iran-war",
+        "trump",
+        "state-personality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pericles funeral oration matters because speeches create common identity, hope, and coordinated action, revealing why a people fights a war.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0014",
+        "video:interview-rsld81qme04@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture model dated 2026-04-09.",
+      "topic_tags": [
+        "pericles",
+        "speech",
+        "identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran can resist the United States despite military inferiority because faith and symbolic action, not weapons alone, coordinate its people.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Dated diagnosis of Iran war conditions on 2026-04-09.",
+      "topic_tags": [
+        "iran",
+        "faith",
+        "asymmetric-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0010"
+      ],
+      "moment": "The cat’s color suddenly matters: utility alone cannot explain political behavior.",
+      "source_phrase": "It actually does matter a lot if it is black or white",
+      "why_it_matters": "Jiang turns Deng’s famous pragmatism into the wrong lens for geopolitics.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0015"
+      ],
+      "moment": "A speech becomes the national medium that tells people who they are and where they are going.",
+      "source_phrase": "who they are what they are doing here and where they are going",
+      "why_it_matters": "It gives the public read a compact distinction between tactics and civilizational motivation.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "utility versus character",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0010",
+        "video:interview-rsld81qme04@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "Jiang’s contrast between material-interest reasoning and state personality as a driver of conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "funeral oration",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0014",
+        "video:interview-rsld81qme04@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The Athenian public speech genre Jiang uses as a model of how war meaning and collective identity are produced.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0016"
+      ],
+      "note": "The transcript says Iran’s supreme leader was killed; this is Jiang’s scenario claim in the source and is preserved as source-grounded content, not independently verified fact."
+    }
+  ]
+}

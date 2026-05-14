@@ -1,0 +1,183 @@
+{
+  "packet_id": "interview-rsld81qme04-semantics-pkt-0011",
+  "source_id": "video:interview-rsld81qme04",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081",
+        "video:interview-rsld81qme04@transcript:v1#seg-0082",
+        "video:interview-rsld81qme04@transcript:v1#seg-0083"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the U.S. chaos question by saying America is already in a civil war between Wall Street financial elites and Silicon Valley/AI counter-elites. Wars weaken the military-industrial and financial sectors, making space for a counterrevolution, until financial elites strike back and militias fight in the streets.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0084",
+        "video:interview-rsld81qme04@transcript:v1#seg-0085"
+      ],
+      "kind": "monologue",
+      "summary": "The host thanks Jiang and the audience, asks people to follow future Hong Kong Hang Seng University lectures, and Jiang thanks him.",
+      "speaker_attribution": "James Cheong closing, Jiang thanks",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081",
+        "video:interview-rsld81qme04@transcript:v1#seg-0083"
+      ],
+      "note": "SPEAKER_00 is Jiang giving the final answer; SPEAKER_01 closes the event in Chinese.",
+      "suggested_speaker": "Jiang then James Cheong",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says America is already in civil war between Wall Street financial elites, dominant since Clinton and Obama, and Silicon Valley AI counter-elites represented by Trump.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081",
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-09.",
+      "topic_tags": [
+        "american-civil-war",
+        "wall-street",
+        "silicon-valley",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He identifies two major U.S. bubbles: a roughly two-trillion-dollar private credit bubble and an AI bubble in which leading companies control AI without making money.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081",
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Dated financial diagnosis on 2026-04-09.",
+      "topic_tags": [
+        "private-credit",
+        "ai-bubble",
+        "financial-crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Whichever elite controls Washington directs bailout policy: the current system bails out finance, while Trump’s success would redirect bailouts toward AI/Silicon Valley.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Dated model on 2026-04-09.",
+      "topic_tags": [
+        "bailouts",
+        "washington",
+        "financial-elite",
+        "ai"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Trump benefits from starting wars because wars weaken the military-industrial complex and financial sector, creating vulnerability to an AI counterrevolution.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-09.",
+      "topic_tags": [
+        "trump",
+        "war",
+        "military-industrial-complex",
+        "counterrevolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang expects the financial elite to strike back and a street-level conflict among militias and groups to emerge.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-09.",
+      "topic_tags": [
+        "militias",
+        "civil-war",
+        "wall-street",
+        "silicon-valley"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Wall Street versus Silicon Valley lens, Jiang says, makes Venezuela, Iran, North America, and China more intelligible.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Q&A synthesis dated 2026-04-09.",
+      "topic_tags": [
+        "wall-street",
+        "silicon-valley",
+        "world-model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081",
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "moment": "America’s civil war is not red versus blue but Wall Street versus Silicon Valley.",
+      "source_phrase": "civil war going on in America between Wall Street and Silicon Valley",
+      "why_it_matters": "It gives the final answer a compact internal-power map.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "moment": "War becomes a tool for weakening the old elite enough for the AI counter-elite to seize the state.",
+      "source_phrase": "weakening the financial sector that makes them vulnerable to a counter revolution",
+      "why_it_matters": "It ties foreign war to domestic elite replacement.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "counter-elites",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081"
+      ],
+      "definition_or_usage": "The Silicon Valley and AI-aligned actors Jiang says Trump represents against Wall Street financial elites.",
+      "confidence": "high"
+    },
+    {
+      "term": "private credit bubble",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081"
+      ],
+      "definition_or_usage": "A roughly two-trillion-dollar bubble Jiang identifies in private lending among privileged companies.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI bubble",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0081",
+        "video:interview-rsld81qme04@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "Jiang’s term for leading AI companies controlling the field while not making money, with bailout stakes attached.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

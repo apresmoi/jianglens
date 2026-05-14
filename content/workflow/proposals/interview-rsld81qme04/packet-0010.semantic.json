@@ -1,0 +1,190 @@
+{
+  "packet_id": "interview-rsld81qme04-semantics-pkt-0010",
+  "source_id": "video:interview-rsld81qme04",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0073",
+        "video:interview-rsld81qme04@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks what grand policy would be best for China if Jiang could design one. Jiang says he cannot answer because China’s leaders do not care about the world, do not have friends, and therefore lack the precondition for grand strategy.",
+      "speaker_attribution": "James Cheong question, Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0075",
+        "video:interview-rsld81qme04@transcript:v1#seg-0076",
+        "video:interview-rsld81qme04@transcript:v1#seg-0077",
+        "video:interview-rsld81qme04@transcript:v1#seg-0078",
+        "video:interview-rsld81qme04@transcript:v1#seg-0079"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks whether Greater Israel will emerge within two years and whether Iran and GCC states will still exist. Jiang predicts a dragging Middle East war, U.S. ground troops, destroyed GCC economies, unrest in America, Trump refusing to leave office, and eventually Israel absorbing U.S. CENTCOM apparatus as America exits.",
+      "speaker_attribution": "James Cheong question, Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether U.S. domestic chaos could become severe enough to divide into different states if the war proceeds as Jiang describes.",
+      "speaker_attribution": "James Cheong / audience question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0073",
+        "video:interview-rsld81qme04@transcript:v1#seg-0080"
+      ],
+      "note": "The host asks several explicit questions; Jiang directly answers the China policy and Greater Israel questions, and the civil-war answer continues in the next packet.",
+      "suggested_speaker": "James Cheong and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says it is pointless to design a grand strategy for China because China has no friends, does not care about the world, and its policymakers do not want a world theory.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0073",
+        "video:interview-rsld81qme04@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Q&A diagnosis dated 2026-04-09.",
+      "topic_tags": [
+        "china",
+        "grand-strategy",
+        "alliances"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the next two years, Jiang expects the Middle East war to reach an equilibrium where it does not end, U.S. ground troops are committed, GCC economies are destroyed, and the conflict drags on.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Two-year forecast made on 2026-04-09.",
+      "topic_tags": [
+        "middle-east-war",
+        "gcc",
+        "united-states",
+        "equilibrium"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts massive discontent and uprising in the United States, with much depending on 2028 because he expects Trump will not leave office voluntarily.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Forecast for the period through 2028, made on 2026-04-09.",
+      "topic_tags": [
+        "trump",
+        "2028",
+        "uprising",
+        "united-states"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "American defeat in the Middle East does not mean peace; Jiang expects the empire to redirect force toward North America, including possible pressure or invasion against Cuba, Canada, or Mexico.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Forecast made on 2026-04-09.",
+      "topic_tags": [
+        "north-america",
+        "american-empire",
+        "canada",
+        "mexico",
+        "cuba"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang’s Greater Israel scenario is that, as America leaves the Middle East, Israel absorbs CENTCOM equipment, personnel, and apparatus, while GCC states are destroyed and Iran is crippled.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Longer-term forecast made on 2026-04-09.",
+      "topic_tags": [
+        "greater-israel",
+        "centcom",
+        "gcc",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0074"
+      ],
+      "moment": "China cannot be given a grand strategy because Jiang says the political desire for one is absent.",
+      "source_phrase": "What is the point of developing a grand strategy",
+      "why_it_matters": "It sharpens the China section: the problem is not missing advice but missing appetite.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0078"
+      ],
+      "moment": "A losing empire does not stop; it changes theaters.",
+      "source_phrase": "if it is losing in Iran it is going to shift attention",
+      "why_it_matters": "This connects Middle East defeat to North American coercion in Jiang’s model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0079"
+      ],
+      "moment": "Greater Israel appears as the inheritor of abandoned U.S. military machinery.",
+      "source_phrase": "Israel absorbs all CENTCOM",
+      "why_it_matters": "It is the answer’s most concrete image of imperial succession.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Greater Israel project",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0075",
+        "video:interview-rsld81qme04@transcript:v1#seg-0079"
+      ],
+      "definition_or_usage": "Jiang’s scenario in which Israel emerges as the dominant Middle East power by absorbing U.S. CENTCOM apparatus after American defeat.",
+      "confidence": "high"
+    },
+    {
+      "term": "security perimeter",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "The North American sphere Jiang says U.S. officials treat as subject to American coercive control.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0077"
+      ],
+      "note": "Jiang explicitly points to 2028, when Trump is supposed to leave office, as a likely domestic crisis point.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

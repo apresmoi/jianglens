@@ -1,0 +1,149 @@
+{
+  "packet_id": "interview-rsld81qme04-semantics-pkt-0001",
+  "source_id": "video:interview-rsld81qme04",
+  "source_date": "2026-04-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0001",
+        "video:interview-rsld81qme04@transcript:v1#seg-0002",
+        "video:interview-rsld81qme04@transcript:v1#seg-0003",
+        "video:interview-rsld81qme04@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "James Cheong introduces Jiang at a Hong Kong Hang Seng University lecture, names his education and books, presents him as a geopolitical analyst with recent predictions, and sets the event as a lecture followed by questions from students, faculty, and online attendees.",
+      "speaker_attribution": "James Cheong, host/interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0005",
+        "video:interview-rsld81qme04@transcript:v1#seg-0006",
+        "video:interview-rsld81qme04@transcript:v1#seg-0007",
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the lecture as a comparison between Chinese and Western geopolitical outlooks. He says the Western mind is anchored in Thucydides and the Peloponnesian War, while the Chinese mind is anchored in The Art of War and Romance of the Three Kingdoms, then names utility versus character and stratagem versus speech as the first two differences.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0001",
+        "video:interview-rsld81qme04@transcript:v1#seg-0004"
+      ],
+      "note": "SPEAKER_01 is the host introducing Jiang and the event structure; the later English speaker is Jiang.",
+      "suggested_speaker": "James Cheong",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0005",
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_00 is Jiang delivering the lecture; the ASR splits names such as Thucydides and Romance of the Three Kingdoms.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines the Western geopolitical imagination as Thucydidean: states have souls, psychologies, emotional states, and personalities that drive action beyond utility.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0006",
+        "video:interview-rsld81qme04@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture definition dated 2026-04-09.",
+      "topic_tags": [
+        "thucydides",
+        "geopolitical-personality",
+        "western-outlook"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the Chinese geopolitical imagination as more utilitarian and stratagem-centered, rooted in Sunzi and Romance of the Three Kingdoms.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0006",
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture comparison dated 2026-04-09.",
+      "topic_tags": [
+        "sunzi",
+        "romance-of-three-kingdoms",
+        "chinese-strategy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that strategems travel poorly onto the international stage because they assume a shared cultural outlook; speeches matter more because they reveal and coordinate national personality.",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Model stated in the 2026-04-09 lecture.",
+      "topic_tags": [
+        "stratagem",
+        "speech",
+        "national-identity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0007"
+      ],
+      "moment": "Nation-states are treated less like calculators than like personalities with souls and emotional states.",
+      "source_phrase": "they have a soul they have a psychology",
+      "why_it_matters": "This is the lecture’s first major reversal against purely utilitarian Chinese realism.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "moment": "Speech replaces stratagem as the Western technology of war because it discloses and coordinates a people.",
+      "source_phrase": "speeches are a way of revealing the personality and the outlook of a nation",
+      "why_it_matters": "It prepares the later Iran argument, where sacrifice itself becomes a speech.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Thucydidean outlook",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0006",
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A Western geopolitical lens in which state personality, speech, fear, and structural forces matter more than clever tactics.",
+      "confidence": "high"
+    },
+    {
+      "term": "stratagem",
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A Chinese tactical trick or scheme that Jiang says works best inside a shared culture but weakens across civilizational boundaries.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-rsld81qme04@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang dates the Peloponnesian War to roughly 431-404 BCE and uses it as the origin case for Western geopolitical reasoning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
