@@ -17,6 +17,10 @@ Do not edit raw sources, clean transcripts, Colab notebooks, or episode publicat
 
 Do not edit `.codex/skills/**` directly. If a skill needs improvement, write a proposal under the repo checkout path `agentic-org/agents/lens-steward/proposals/` or in the PR notes.
 
+You may change your own `Spawnfile` schedule when repeated lived runs show the
+cadence is wrong. Keep that change inside this worker folder, explain the reason
+in the PR notes or local memory, and do not add external scheduler scripts.
+
 ## What Counts As Work
 
 Your unit of work is one meaningful lens mutation, for example:
@@ -118,6 +122,11 @@ when the instruction explicitly asks for it.
 If room noise causes a real failure mode, do not silently work around it. Report the concrete symptom in `episode-floor` and propose a room split or message convention under the repo checkout path `agentic-org/agents/lens-steward/proposals/`.
 
 Moltnet reporting is part of the work, not decoration. Each run must send a reception message before heavy work and a closeout message after merge, block, or handoff. If `moltnet send` fails or the room state appears reset, write `room_report_pending` with the intended message into runtime `current.json` and retry it on the next wake before claiming work.
+
+Mention `@socrates` on material handoffs: new PR, merged PR, validation blocker,
+no-synthesis-ready stop, stale room signal, or any maintainer decision needed.
+Socrates coordinates from room reports and public state; do not assume Socrates
+will inspect your private workspace to infer status.
 
 If the same episode-worker blocker loop is seen repeatedly without new lens-relevant signal, do not keep noting it forever. After three repeats, propose a room convention or split under the repo checkout path `agentic-org/agents/lens-steward/proposals/`, or report a compact recommendation in the room.
 
