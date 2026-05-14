@@ -1,0 +1,2274 @@
+{
+  "id": "evidence:semanticvideo-interview-n44of1y7zgo:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-n44of1y7zgo",
+  "source_id": "video:interview-n44of1y7zgo",
+  "source_title": "SNEAKO X Professor Jiang X Aleksandr Dugin | Full Interview",
+  "source_url": "https://www.youtube.com/watch?v=n44OF1Y7zgo",
+  "source_date": "2026-04-13",
+  "date_precision": "day",
+  "transcript_id": "video:interview-n44of1y7zgo@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-n44of1y7zgo/packet-0016.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-n44of1y7zgo/source.yaml",
+    "transcript_path": "content/sources/videos/interview-n44of1y7zgo/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 16,
+    "interactions": 44,
+    "speaker_notes": 16,
+    "claims": 64,
+    "signature_moments": 30,
+    "predictions": 1,
+    "models": 11,
+    "glossary_terms": 27,
+    "chronology_notes": 3,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0007",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0008",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0003",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0004",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0005",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0006",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0015",
+    "video:interview-n44of1y7zgo@transcript:v1#seg-0016"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0001",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0002",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0003",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0004",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0005",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0006"
+      ],
+      "kind": "exchange",
+      "summary": "The host, Jiang, and Dugin test audio and decide to use Dugin's slide deck as a loose framework for the discussion.",
+      "speaker_attribution": "Sneako, Jiang, and Dugin",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0007",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Dugin explains that the slides compare end-times frameworks in American dispensationalism, Zionism, Shia/Islamic traditions, and Russian Orthodoxy, and leaves the format to the host.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0009",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0010",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0011",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0012",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0013",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0014"
+      ],
+      "kind": "exchange",
+      "summary": "The host introduces the conversation, says Jiang has lectured extensively on eschatology, praises Dugin's Foundations of Geopolitics, and asks Dugin to assess Jiang's lectures and their disagreements.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0015",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says Chinese culture is normally balanced and non-linear rather than end-times oriented, then praises Jiang as an exceptional Chinese thinker who understands Jewish, Zionist, Shia, Islamic, and Russian Orthodox eschatology.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0017",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0018"
+      ],
+      "kind": "answer",
+      "summary": "Dugin continues praising Jiang for tracking Kabbalistic and geopolitical eschatology, then says Chinese culture often lacks a radical linear feeling of the end but must still understand other civilizational universes.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0019",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0020",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0021"
+      ],
+      "kind": "question",
+      "summary": "The host asks Dugin to classify his belief system and asks Jiang to define eschatology for chat viewers, then asks whether Jiang's own framework is generally Gnostic rather than tied to one theology.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0020"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines eschatology as each tradition's understanding of history's endpoint and the reunification of God and man.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0022"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he grew up atheist in China and has become more Gnostic through recent study of eschatology, Kabbalah, and geopolitics, without one religious loyalty.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0023",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Dugin identifies himself as an Orthodox Christian believer while also studying other traditions philosophically through traditionalism.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0025",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0026"
+      ],
+      "kind": "answer",
+      "summary": "Dugin distinguishes his Orthodox confession from a philosophical traditionalist study of Islam, Judaism/Kabbalah, Christianity, Hinduism, Buddhism, Confucianism, Taoism, and even counter-traditional forms.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0027",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0028",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The host moves from Easter posts by Trump and Western media attacks on Jiang and Dugin into a question about whether Western values are decaying.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0030",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0031",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang locates the root of modern Western values in 1694 and the Bank of England: infinite financing produces empire, then Locke, Hume, and Bentham supply property, skepticism, and utilitarian pleasure as justifying philosophy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0033"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes his Bank of England account by saying Western civilization follows from that philosophy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0034",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0035",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0036",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0037",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0038",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0039",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Dugin extends the critique through Spencer, social Darwinism, Ayn Rand, Calvinist wealth theology, Protestant roots, American sacred-root loss, Christian Zionism, and Trump-era hostility to older traditions.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0041",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0042",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0043",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0044",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0045"
+      ],
+      "kind": "question",
+      "summary": "The host asks for a hopeful solution, then asks when the Scofield Bible was written and how Gog and Magog should be classified.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0043",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0044"
+      ],
+      "kind": "answer",
+      "summary": "Dugin describes the Scofield Bible as sectarian commentary embedded into scripture that made Russia and Islam appear as end-times enemies for Christians.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0047",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang dates Christian Zionism through Herzl, Scofield, and Balfour, then says American fear and anxiety come from Calvinism and that America must return to Christianity and re-examine its foundations; Gog and Magog now appear to be Persia and Russia.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0049",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Christian Zionism or evangelical Christianity is simply a tool of Zionism, and Jiang reverses the direction by saying Zionism may be a tool of Christian Zionists.",
+      "speaker_attribution": "Sneako then Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0050"
+      ],
+      "kind": "answer",
+      "summary": "Jiang sketches a chain from Frankists to infiltrated Freemasons, Christian Zionism, American conquest, and then political Zionism.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0051",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0052",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0053",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0054",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0055",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Dugin answers the Russia/Zionism question by tracing fifth monarchism, Dutch Protestant circles, greater Israel, Orthodox views of Judaism, Putin's realism, and a current eschatological reading of Israel/Trump aggression.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0057",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Chinese people know Dugin's Eurasian unity theory and whether Russia, China, and Iran can unite.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0059",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0060",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0061",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0062",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0063",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0064",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0065"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says a Russia-China-Iran trade bloc within BRICS and a gold-based corridor could become an alternative to American hegemony, but that it would threaten the U.S. Treasury system and force America into war to stop Eurasian unity.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0065"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by inviting Dugin's view on world coalescence against Greater North America.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0066",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0067",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0068",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0069",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0070",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0071",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says Trump may be both mad and useful to a deeper state that wants naked Western power, oil access, global war, and prolonged hegemony, while Russia has grown stronger from Ukraine and accepts multipolarity but has revised its view of Trump after Iran, Gaza, and Epstein denial.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0073",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0074",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0075",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0076"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Trump is controlled by Chabad Lubavitch, using Kushner/Witkoff and failed ceasefire talks as examples; Jiang answers that visible actors are better read as vanguards or scapegoats in a convergence of interests.",
+      "speaker_attribution": "Sneako then Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0077",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0078",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says Russia treats Lubavitch as one accepted Jewish religious current among traditional religions, rejects the idea that Putin is manipulated by it, and describes Putin as a practicing Orthodox Christian motivated by Russian interests.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "The host asks about Dugin's relationship to Putin, Putin's respect for Islam, and why Russia relates differently to Islam than America does.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0081"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Russians perceive Putin's relationship to Zionism and why Islam seems more widely accepted in Christian Russia than in America.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0082",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0083",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0084",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0085",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0086"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says Russian Muslims are indigenous, loyal, respected, and often fight for Russia; Russia does not choose Jews over Muslims but opposes Israeli violence, supports Palestinians/Lebanese/Iran in specific conflicts, and reads normal geopolitics and end-times geography as now nearly coinciding.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0087",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0088"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang for major contentions with Dugin or modern Russia, and Jiang asks why catechon should resist Antichrist instead of letting the system consume the world and hasten redemption.",
+      "speaker_attribution": "Sneako then Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0089",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0090",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0091",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0092",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0093"
+      ],
+      "kind": "answer",
+      "summary": "Dugin answers Jiang by defining the catechon as an Orthodox Christian and state-linked restrainer of Antichrist; Russia inherits the Byzantine/Roman role and must never side with evil even if evil is necessary in God's plan.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0094"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the Russian empire is the catechon and whether America can choose a better path if it is becoming disillusioned with war.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0095",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0096"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says Orthodox doctrine rejects predestination and affirms human freedom: Americans can accept or reject the Antichrist role, and he once saw Trump voters as signs of reversal.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0097"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says millions of Americans can reject Antichrist, defend human society and spiritual roots, and escape being reduced to the Antichristian West.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0098",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0099",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0100",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0101",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0102",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0103"
+      ],
+      "kind": "question",
+      "summary": "The host challenges Dugin on Russian/Epstein connections and asks Jiang for his view of Dugin's claim that the West relates to Antichrist.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0099",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0100",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0101",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0102"
+      ],
+      "kind": "answer",
+      "summary": "Dugin concedes some Russian elites and oligarchs were touched by the Epstein network during Russia's 1990s convergence with the West, but says Russia's involvement was small and modern FSB manipulation of the West is Cold War mythology.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0104"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees overall that Western civilization contains anti-human ideas such as individuality, rationality, science, consumerism, and utilitarianism, but begins to frame a difference with Dugin.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0105",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0106"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees with Dugin's critique but says the system is attractive to many people because materialist societies such as China have gained happiness, prosperity, technology, wealth, and space travel; the real question is how many choose resistance.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0107",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0108"
+      ],
+      "kind": "question",
+      "summary": "The host connects Jiang's point to despair, algorithmic flooding, Lebanon, Gaza, Epstein becoming a meme, jobs, debt, and exhaustion, asking how people preserve humanity.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0109"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says debates like this are key because transnational conversations are better than dismissing participants as CCP or KGB spies.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0110",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0111",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0112"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes the panel, then Dugin responds to Jiang by saying material prosperity tempts many Russians and Chinese too, but history may still be moved by a catechonic function beyond popular understanding.",
+      "speaker_attribution": "Sneako then Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0113",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0114",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0115",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0116"
+      ],
+      "kind": "answer",
+      "summary": "Dugin says catechonic mission is known by only a small Russian minority, yet history can move through it unconsciously; every society remains free to choose God or demonic elites, and China may eventually pay for taking too much Western poison despite its technological miracle.",
+      "speaker_attribution": "Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0117",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0118",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0119",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "The host identifies Dugin's “allow the demon to enter” point as his favorite, thanks both guests, and checks scheduling for a future Morandi conversation with Jiang.",
+      "speaker_attribution": "Sneako and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0121",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0122",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0123",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0124",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0125"
+      ],
+      "kind": "exchange",
+      "summary": "The remaining focus refs are scheduling and goodbye: the host discusses a possible Morandi or Dave Smith follow-up, checks time zones, and the guests close the call.",
+      "speaker_attribution": "Sneako, Jiang, and Dugin",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0001",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0002",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0003",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0004",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0005",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0006",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0007",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0008"
+      ],
+      "note": "Opening logistics mix multiple speakers and have low semantic density; the substantive frame begins when Dugin describes the four traditions.",
+      "suggested_speaker": "Sneako, Jiang, Dugin",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0009",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0010",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0011",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0012",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0013",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0014",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0015",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0016"
+      ],
+      "note": "The host is likely Sneako; Dugin begins the main answer around seg-0015.",
+      "suggested_speaker": "Sneako then Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0019",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0020",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0021",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0022",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0023",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0024"
+      ],
+      "note": "The definition of eschatology in seg-0020 and the Gnosticism answer in seg-0022 are Jiang; Dugin's confession begins in seg-0024.",
+      "suggested_speaker": "Sneako, Jiang, Dugin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0025"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0033"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0041"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0049"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0057"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0065"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0073"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0081"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0089"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0097"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0105"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0113"
+      ],
+      "note": "Diarization labels are not reliable in this multi-speaker interview; speaker attribution is inferred from conversational role and named address.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0121",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0122",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0123",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0124",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0125"
+      ],
+      "note": "Closing logistics among multiple speakers; no public episode question should be extracted from these scheduling fragments.",
+      "suggested_speaker": "Sneako, Jiang, Dugin",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Dugin frames the interview around comparative eschatology across American Protestant, Zionist, Islamic, and Russian Orthodox traditions.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0007",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "eschatology",
+        "comparative-religion",
+        "russian-orthodoxy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Dugin's PowerPoint as a useful framework for going point by point through the discussion.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0003",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0004",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0005",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "interview-setup",
+        "discussion-frame"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dugin claims Chinese civilization tends toward harmony and balance rather than a linear final battle between good and evil.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0015",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "china",
+        "eschatology",
+        "civilizational-character"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin identifies Jiang as unusual among Chinese thinkers because Jiang grasps eschatological geopolitics across Zionist, Islamic, and Russian Orthodox traditions.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0015",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "jiang",
+        "eschatology",
+        "geopolitics"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host links eschatology to national character, saying a nation's end-times vision expresses its soul.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0012",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "national-character",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines eschatology as a tradition's account of where history is going, where humanity comes from, and where God and man reunify at the end of history.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "eschatology",
+        "end-of-history",
+        "god-and-man"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his recent study of eschatology, Kabbalah, and geopolitics has moved him from lifelong atheism toward a Gnostic framework without a single religious loyalty.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "jiang",
+        "gnosticism",
+        "atheism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin's self-description combines Orthodox Christian confession with a philosophical interest in traditionalism across other spiritual systems.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0023",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "dugin",
+        "orthodoxy",
+        "traditionalism"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that modern Western civilization begins with the Bank of England's transformation of transnational capital into state-backed infinite war financing.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0030",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "bank-of-england",
+        "empire",
+        "finance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links Locke, Hume, and Bentham to a civilizational philosophy of property, weakened truth, and utilitarian pleasure that later becomes Western values.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0031",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "locke",
+        "hume",
+        "bentham",
+        "western-values"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says traditionalism can study many religious traditions while his own confession remains absolute Orthodox Christian truth.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0025",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "traditionalism",
+        "orthodoxy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin describes Anglo-Saxon liberalism as developing through social Darwinism into a capitalist satanism where pleasure for the rich implies pain for the poor.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "liberalism",
+        "social-darwinism",
+        "ayn-rand"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Calvinism sacralized wealth as a sign of chosenness and made poverty appear damnation, which Orthodox Christianity rejects.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0035",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "calvinism",
+        "capitalism",
+        "orthodoxy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin argues Americans seeking traditional roots face a tragic inheritance: evangelical, Mormon, dispensationalist, Masonic, and Christian Zionist formations rather than ancient sacred roots.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0036",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0037",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0038",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0039",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "american-tradition",
+        "christian-zionism",
+        "sacred-roots"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says the Scofield Bible embedded a small Protestant sect's pseudo-prophecy into scripture, making many American readers unable to distinguish commentary from holy text.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0043",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "scofield-bible",
+        "dispensationalism",
+        "scripture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang sequences Christian Zionism through Herzl in 1899, the Scofield Bible in 1909, and Balfour around 1914 as a compressed historical chain.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "christian-zionism",
+        "herzl",
+        "scofield",
+        "balfour"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the emotional root of America is fear and anxiety inherited through Calvinism, despite unprecedented material wealth.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "america",
+        "calvinism",
+        "fear",
+        "anxiety"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American redemption would require returning to Christianity and re-examining the principles on which America was built.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "america",
+        "redemption",
+        "christianity"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Gog and Magog in the present moment as Persia and Russia.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "gog-and-magog",
+        "persia",
+        "russia",
+        "eschatology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that political Zionism can be read as an instrument created by Christian Zionists to fulfill their eschatology, not only the reverse.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0049",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "christian-zionism",
+        "zionism",
+        "freemasonry"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dugin traces a 17th-century fifth-monarchy and Dutch Protestant context for early greater-Israel thinking, linking it to John Locke and modern Israeli maximalism.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0052",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "fifth-monarchy",
+        "greater-israel",
+        "john-locke"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Russian Orthodoxy never had a Christian Zionist equivalent: Judaism is respected as a separate faith, while chosenness after Christ is rejected theologically.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0053",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0054",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "russian-orthodoxy",
+        "judaism",
+        "chosen-people"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Putin is politically realist and pragmatic toward Israel, while Orthodox Russians project a catechonic function onto him.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0055",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "putin",
+        "catechon",
+        "political-realism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Israel's current aggression and Trump's sacrilegious imagery make the moment look eschatological even if Russia does not insist on that frame.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "israel",
+        "trump",
+        "eschatological-moment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a Eurasian unity of Russia, China, and Iran inside a BRICS framework could extend to Europe, Africa, and Southeast Asia without one single great power.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "eurasia",
+        "brics",
+        "multipolarity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China's proposed gold corridor would use distributed gold vaults as the basis of a new financial system.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "gold-corridor",
+        "financial-system",
+        "china"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that such a Eurasian financial alternative would bankrupt America because U.S. power depends on continued demand for Treasuries to finance $39 trillion of debt.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0059",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "us-treasuries",
+        "american-debt",
+        "financial-empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Greater North America as a potential plan to turn America from a financial empire into a resource empire and continental fortress.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0061",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0062",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0063",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "greater-north-america",
+        "technate",
+        "resource-empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the short term leaves little world response, but mid- and long-term pressure may force countries to coalesce around Russia and China against Greater North America.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0064",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "greater-north-america",
+        "russia",
+        "china",
+        "multipolarity"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin suggests Trump may be a weapon selected by a deeper Western state to make radical moves, then be sacrificed along with MAGA after the strategic situation changes.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0066",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0067",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "trump",
+        "deeper-state",
+        "scapegoat"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says the deeper-state rationale would be to preserve Western hegemony by burning the Middle East and breaking ties among Russia, Europe, and China.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0068",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "western-hegemony",
+        "middle-east",
+        "multipolarity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin agrees with Jiang that the Ukraine war strengthened Russia by recentering its economy, sovereignty, industry, and technological self-reliance.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0069",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "ukraine-war",
+        "russian-sovereignty",
+        "industrial-policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Russia no longer wants empire but a multipolar order with Russian, Chinese, Indian, Islamic, and Western poles, provided the West abandons supremacy.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0070",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "multipolarity",
+        "russia",
+        "western-pole"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Russia initially hoped Trump would focus America on its own hemisphere, but revised that view after Trump denied the Epstein list, backed Gaza, kept supporting Ukraine, and opened new war fronts.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0071",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "trump",
+        "russian-view",
+        "gaza",
+        "ukraine"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects a single-puppet-master account of Trump and Iran, preferring a convergence-of-interests model involving military, security, secret-society, Wall Street, and City of London factions.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0075",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "deep-state",
+        "convergence-of-interests",
+        "iran-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says visible figures such as Kushner, Witkoff, Trump, and Chabad Lubavitch look like vanguards or scapegoats rather than the most powerful hidden actors.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0075",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "scapegoat",
+        "chabad-lubavitch",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Russian government accepts both traditional Jewish currents and Lubavitchers as religious communities, while denying that they politically manipulate Putin.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0077",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "russia",
+        "chabad-lubavitch",
+        "religious-minorities"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin defines Russia's church-state relation through Byzantine symphony between imperial head and patriarch, with minority traditional religions accepted but politically limited.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0078",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "byzantine-symphony",
+        "orthodoxy",
+        "russian-state"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Putin is a practicing Orthodox Christian motivated by Russian interests and respectful toward traditional religions.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "putin",
+        "orthodoxy",
+        "traditional-religions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Russian Muslims are not immigrants but long-standing members of Russian society whose loyalty to Russia is part of their identity.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0082",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "russian-muslims",
+        "islam",
+        "russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin distinguishes Jews from Israel: Russia does not choose between Jews and Muslims, but it rejects Netanyahu's state behavior, Gaza violence, and strikes on Iran.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0084",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "israel",
+        "gaza",
+        "iran",
+        "russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Russia supports Palestinians, Lebanese freedom, and Iran in a just war while still wanting the broader Middle East war to stop.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "palestine",
+        "lebanon",
+        "iran",
+        "middle-east"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says the current Middle East can be read on two layers at once: realist geopolitics and the geography of end-times prophecy, which now coincide almost perfectly.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "geopolitics",
+        "prophecy",
+        "middle-east"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's central challenge to Dugin is why the catechon should delay Antichrist rather than let the system consume the world and open salvation/redemption.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "catechon",
+        "antichrist",
+        "redemption"
+      ],
+      "claim_type": "question",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin defines the catechon as the sacred Christian Orthodox empire/state function that delays and fights Antichrist rather than accelerating the second coming.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0089",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0090",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "catechon",
+        "orthodoxy",
+        "antichrist"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says the moral rule is never to side with evil, even if evil is somehow necessary in God's plan.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0090",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "evil",
+        "moral-duty",
+        "orthodoxy"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin reads Epstein files as religious confirmation that the modern West is Antichrist rather than merely a sexual scandal.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0092",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "epstein-files",
+        "antichrist",
+        "west"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says there is no predestination: the human soul remains free to accept or reject the role of Antichrist.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0095",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "freedom",
+        "predestination",
+        "antichrist"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says Trump's second-term campaign initially looked to Russians like a possible American reversal against post-human liberal globalism.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "trump",
+        "american-voters",
+        "reversal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says American people are not identical with the Antichristian West; many can choose humanity, spiritual identity, and deep roots.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "america",
+        "freedom",
+        "spiritual-roots"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says some Russian oligarchs and elites had Epstein-network connections during Russia's 1990s attempt to converge with the West.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0099",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "russian-oligarchs",
+        "epstein-network",
+        "1990s-russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin claims Russian involvement in the Epstein network was relatively small and rejects the idea that the modern FSB could manipulate the whole West.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0100",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "fsb",
+        "epstein-network",
+        "cold-war-myth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says post-Soviet Russia is at a third stage of revival, after being paralyzed and seduced by the West and now returning to deep roots.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0101",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "russian-revival",
+        "post-soviet",
+        "western-seduction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees that Western civilization is built on anti-human ideas including individuality, rationality, science, consumerism, and utilitarianism.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "western-civilization",
+        "anti-human",
+        "consumerism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's main difference with Dugin is that the anti-human system remains extremely attractive and people may fight to preserve it because it brought prosperity and happiness.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "materialism",
+        "china",
+        "prosperity",
+        "antichrist"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the crucial question is how many people will choose to resist when the system is attractive.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0105",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0106"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "resistance",
+        "free-will",
+        "materialism"
+      ],
+      "claim_type": "question",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host describes algorithmic information flooding as a strategy that exhausts people until Gaza, Lebanon, Epstein, debt, and work all compete for limited care.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0107",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "attention-flooding",
+        "despair",
+        "algorithm"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says international conversations are necessary to escape name-calling frames like CCP spy or KGB spy.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0109"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "dialogue",
+        "transnational-conversation",
+        "name-calling"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin responds that materialist temptation exists in Russia and China too, but catechonic history may move through a small minority rather than mass understanding.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0112"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "catechon",
+        "materialism",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says only a small minority of Russians consciously understand the catechonic mission, though Putin and some elites know it and history has moved Russia through that function.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "russia",
+        "catechonic-mission",
+        "elite"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says America can still choose God and deal with its demonic elite because the choice belongs to the people and remains free.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0114"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "america",
+        "free-choice",
+        "elite"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says China may have undermined its traditional values by accepting Western civilization, producing futuristic cities with no children and prosperity mixed with individualism.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0115",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "china",
+        "westernization",
+        "children",
+        "individualism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dugin says taking too much poison eventually exacts a cost, but Chinese, Americans, Russians, and Muslims remain free to accept or deny that path.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "poison",
+        "freedom",
+        "civilizational-choice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interview closes by planning a possible follow-up with Professor Morandi or Dave Smith rather than adding new substantive doctrine.",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0121",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0122",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0123",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0124",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0125"
+      ],
+      "temporal_scope": "Claim made in this April 13, 2026 interview.",
+      "topic_tags": [
+        "follow-up",
+        "morandi",
+        "dave-smith"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0007"
+      ],
+      "moment": "The conversation is explicitly staged as a four-tradition map of the end times.",
+      "source_phrase": "four different traditions",
+      "why_it_matters": "It tells the reader why later geopolitics, theology, and national character are treated as one field.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0015",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0016"
+      ],
+      "moment": "Jiang is presented as the rare Chinese interpreter who can enter the radical feeling of the end.",
+      "source_phrase": "unique Chinese man",
+      "why_it_matters": "This establishes why the interview treats Jiang as a bridge between Chinese, Russian, Islamic, and Western frames.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0020"
+      ],
+      "moment": "Eschatology is made into the point where God and man reunify and history ends.",
+      "source_phrase": "the point at which God and man reunify",
+      "why_it_matters": "This concise definition anchors the rest of the interview.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0022"
+      ],
+      "moment": "Jiang positions himself as an atheist society's son who has become Gnostic through geopolitics and Kabbalah.",
+      "source_phrase": "for most of my life, I'm atheist",
+      "why_it_matters": "It gives the episode its autobiographical turn without turning Jiang into a confessional theologian.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0030"
+      ],
+      "moment": "Jiang makes 1694, not the 1960s or liberal culture war, the root date of the modern Western machine.",
+      "source_phrase": "the root of a problem is 1694",
+      "why_it_matters": "The exact date gives the public read a strong chronological hinge.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0031"
+      ],
+      "moment": "The Bank of England becomes the technology that lets empire lose wars until it finally wins.",
+      "source_phrase": "the power of infinite financing",
+      "why_it_matters": "It compresses finance, war, and empire into a memorable mechanism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0034"
+      ],
+      "moment": "Dugin reduces Ayn Rand to the bridge from Atlas Shrugged to Epstein.",
+      "source_phrase": "from Enron to Epstein is only one step",
+      "why_it_matters": "It is the packet's sharpest moral compression of capitalist logic.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0040"
+      ],
+      "moment": "American tradition is described as a tragedy of people held hostage by their own historical theology.",
+      "source_phrase": "hostages of this historical, social, economical theology",
+      "why_it_matters": "This preserves the sympathy in Dugin's critique rather than flattening it into anti-Americanism.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0044"
+      ],
+      "moment": "The Scofield Bible becomes a scripture/commentary confusion machine.",
+      "source_phrase": "could not distinguish between the authentic biblical text and this embedded so-called pseudo prophecy",
+      "why_it_matters": "This explains how an annotation becomes a geopolitical imagination.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0047"
+      ],
+      "moment": "America is rich like no society in history and still depressed, medicated, and polarized.",
+      "source_phrase": "one of the most depressed societies in human history",
+      "why_it_matters": "It keeps Jiang's Calvinism critique tied to lived social psychology.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0050"
+      ],
+      "moment": "Jiang flips the usual tool relation: Zionism may be the tool built by Christian Zionists.",
+      "source_phrase": "Zionism is a tool of Christian Zionists",
+      "why_it_matters": "It is a provocative model that the read should treat as Jiang's claim, not as established fact.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0055"
+      ],
+      "moment": "Putin is described as a pragmatic realist onto whom Orthodox Russians project the catechon.",
+      "source_phrase": "embodied the catechonic functions",
+      "why_it_matters": "This distinction prevents the read from confusing Putin's own realism with Dugin's theological projection.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0059",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0060"
+      ],
+      "moment": "America is named as a financial Ponzi scheme that must fight Eurasia to stay alive.",
+      "source_phrase": "America is a financial Ponzi scheme",
+      "why_it_matters": "This is the strongest Jiang formulation of the Treasury/geopolitics mechanism.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0064"
+      ],
+      "moment": "Greater North America is imagined as a continental fortress replacing finance with resources.",
+      "source_phrase": "transition America from a financial empire into a resource empire",
+      "why_it_matters": "It links Greenland, Canada, Venezuela, oil chokepoints, and the Middle East war into one strategic model.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0066",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0067"
+      ],
+      "moment": "Trump becomes the mad tool who can expose naked Western power and then be sacrificed.",
+      "source_phrase": "secret weapon of hyper globalists",
+      "why_it_matters": "This is Dugin's dramatic answer to Jiang's Greater North America theory.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0070"
+      ],
+      "moment": "Ukraine is reframed as Russia's resurrection of technological sovereignty.",
+      "source_phrase": "resurrection of Russian technological sovereignty",
+      "why_it_matters": "It echoes prior Jiang claims that the war trained and strengthened Russia.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0071"
+      ],
+      "moment": "Multipolarity turns an enemy into a partner the instant the West drops supremacy.",
+      "source_phrase": "if someone in the West could accept multi-polarity",
+      "why_it_matters": "It gives Dugin's constructive alternative to the Antichrist frame.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0075"
+      ],
+      "moment": "Jiang replaces puppet-master certainty with convergence of interests.",
+      "source_phrase": "there's a convergence of interests",
+      "why_it_matters": "It is his cleaner model for conspiratorial-looking politics.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0076"
+      ],
+      "moment": "The visible negotiators are treated as vanguard and scapegoat, not the hidden center of power.",
+      "source_phrase": "vanguard, the scapegoats",
+      "why_it_matters": "This keeps the read from over-fixating on Chabad as the sole actor.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0086"
+      ],
+      "moment": "Dugin says everyday geopolitics and prophecy are starting to intermingle almost perfectly.",
+      "source_phrase": "everyday reality starts to intermingle with the geography of the end of the time",
+      "why_it_matters": "It captures the interview's whole fusion of current war and eschatology.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0088"
+      ],
+      "moment": "Jiang asks the question that forces Dugin's moral answer: why not let Antichrist come?",
+      "source_phrase": "why stop it rather than just let it consume the world?",
+      "why_it_matters": "This is the strongest performed Jiang question in the interview.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0091"
+      ],
+      "moment": "Dugin's moral answer is simple: never side with evil, even if evil has a place in God's plan.",
+      "source_phrase": "Never side with the evil. Never.",
+      "why_it_matters": "This is the moral heart of his catechon answer to Jiang.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0093"
+      ],
+      "moment": "Epstein becomes, for Dugin, not scandal but eschatological proof.",
+      "source_phrase": "much more than just sexual scandal",
+      "why_it_matters": "It explains why the interview keeps returning to Epstein as a theological sign.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0097"
+      ],
+      "moment": "Dugin gives America a free choice: be Antichristian West, or be real humans again.",
+      "source_phrase": "you can be just antichristian West, or you can be humanity",
+      "why_it_matters": "It keeps the interview from ending in civilizational determinism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0104"
+      ],
+      "moment": "Jiang accepts the anti-human diagnosis but prepares a materialist objection: the system is attractive.",
+      "source_phrase": "Western civilization is based on certain ideas that are anti-human",
+      "why_it_matters": "This sets up Jiang's strongest disagreement in the next packet.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0105"
+      ],
+      "moment": "Jiang's disagreement is not that the West is good, but that its pleasures are real enough to make people defend it.",
+      "source_phrase": "this system is extremely attractive",
+      "why_it_matters": "This is the public read's best hinge between Dugin's moral clarity and Jiang's social realism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0107"
+      ],
+      "moment": "The new censorship is too much information, not too little.",
+      "source_phrase": "not to blatantly censor, but to flood with so much information",
+      "why_it_matters": "It connects eschatology to attention exhaustion and modern media.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0115"
+      ],
+      "moment": "Dugin's warning to China is futuristic cities with no children on the streets.",
+      "source_phrase": "incredible, futuristic cities with no children on the streets",
+      "why_it_matters": "It makes material success look spiritually barren without denying its achievement.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0117"
+      ],
+      "moment": "The closing moral is that the demon only enters by invitation.",
+      "source_phrase": "it is up to you to allow the demon to enter",
+      "why_it_matters": "This phrase carries the free-will conclusion of the episode.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0125"
+      ],
+      "moment": "The source ends as a live networked conversation, with future interlocutors already being arranged.",
+      "source_phrase": "I will message both of them and I will email you",
+      "why_it_matters": "It shows the interview as part of an ongoing public conversation rather than a finished lecture.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0007",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The comparative study of end-times frameworks that organize national and religious political imagination.",
+      "confidence": "high"
+    },
+    {
+      "term": "national character",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0012",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The interview frame treats eschatology as an expression of the soul and historical direction of a nation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gnosticism",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0021",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Jiang uses it loosely for his emerging framework after studying eschatology, Kabbalah, and geopolitics rather than as one fixed church loyalty.",
+      "confidence": "high"
+    },
+    {
+      "term": "traditionalism",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Dugin's philosophical approach to multiple authentic spiritual traditions while remaining Orthodox Christian.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bank of England",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0030",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang treats its 1694 charter as the institutional birth of infinite financing for modern empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "utilitarianism",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Benthamite pleasure/pain logic named by Jiang as one pillar of modern Western moral order.",
+      "confidence": "high"
+    },
+    {
+      "term": "Calvinist wealth theology",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0035",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "The idea, attributed by Dugin to Calvinist modernity, that worldly wealth signals divine chosenness and poverty signals damnation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian Zionism",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0038",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0039",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "A Protestant-derived American eschatological formation Dugin treats as detached from older Christian sacred roots.",
+      "confidence": "high"
+    },
+    {
+      "term": "Scofield Bible",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0043",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0044",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0045",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "A 1909 Bible edition/commentary treated here as a vehicle for American dispensationalist Christian Zionism.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gog and Magog",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0045",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0047",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "An end-times pair that Jiang says is now being interpreted as Persia and Russia.",
+      "confidence": "high"
+    },
+    {
+      "term": "fifth monarchism",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Dugin uses this for an early-modern Protestant idea of a fifth global empire that he links to greater Israel.",
+      "confidence": "high"
+    },
+    {
+      "term": "catechon",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "The restraining power that Orthodox Russians project onto Putin as keeper against Antichrist.",
+      "confidence": "high"
+    },
+    {
+      "term": "gold corridor",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "A gold-backed, distributed-vault financial system Jiang attributes to Chinese planning for a new Eurasian financial order.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater North America",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0063",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang's term/model for an American continental fortress over Greenland, Canada, Mexico, Venezuela, and nearby states.",
+      "confidence": "high"
+    },
+    {
+      "term": "technate",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "The resource-administering continental bloc Jiang links to Greater North America.",
+      "confidence": "high"
+    },
+    {
+      "term": "deeper state",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0066",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0067",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "Dugin's term for a level beneath the liberal deep state that may use Trump to preserve Western hegemony.",
+      "confidence": "high"
+    },
+    {
+      "term": "multipolarity",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0070",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "A world order where Russia accepts other civilizational poles and rejects only Western supremacy.",
+      "confidence": "high"
+    },
+    {
+      "term": "convergence of interests",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0075",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's preferred model for multiple factions needing the Iran war without one group literally pulling every string.",
+      "confidence": "high"
+    },
+    {
+      "term": "Byzantine symphony",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "Dugin's term for distributed power between emperor/state and patriarch/church in Orthodox political theology.",
+      "confidence": "high"
+    },
+    {
+      "term": "catechon",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0088"
+      ],
+      "definition_or_usage": "The force that restrains or delays the Antichrist; Jiang asks why it should resist rather than accelerate the end.",
+      "confidence": "high"
+    },
+    {
+      "term": "geography of prophecy",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Dugin's phrase/model for mapping present geopolitical conflicts onto end-times locations and roles.",
+      "confidence": "high"
+    },
+    {
+      "term": "negative catechon",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0090"
+      ],
+      "definition_or_usage": "The philosophical temptation to accelerate Antichrist in order to hasten the second coming, which Dugin morally rejects.",
+      "confidence": "high"
+    },
+    {
+      "term": "cataconic ethics",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0091"
+      ],
+      "definition_or_usage": "The duty to resist Antichrist until the last breath, even unto death.",
+      "confidence": "high"
+    },
+    {
+      "term": "anti-human ideas",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0104"
+      ],
+      "definition_or_usage": "Jiang's shorthand for Western individuality, rationality, science, consumerism, and utilitarianism when they diverge from spiritual life.",
+      "confidence": "high"
+    },
+    {
+      "term": "information flooding",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0107",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0108"
+      ],
+      "definition_or_usage": "A censorship-like strategy where algorithms overwhelm attention with too much information, draining the energy to care.",
+      "confidence": "high"
+    },
+    {
+      "term": "catechonic mission",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0113"
+      ],
+      "definition_or_usage": "Russia's restraining historical mission against Antichrist, consciously understood by a minority but, in Dugin's view, moving history anyway.",
+      "confidence": "high"
+    },
+    {
+      "term": "Western poison",
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0115",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0116"
+      ],
+      "definition_or_usage": "Dugin's metaphor for imported materialist and individualist values that may eventually corrode traditional societies.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0030",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0031",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang gives 1694 as the root date for modern Western civilizational finance and values.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046"
+      ],
+      "note": "Jiang gives 1899, 1909, and 1914/Balfour as a tight timeline for Christian Zionism's modern political formation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0064",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0065"
+      ],
+      "note": "The April 13, 2026 interview states a mid/long-term possibility that the world coalesces around Russia and China to counter Greater North America.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0046"
+      ],
+      "note": "Jiang says 1914 for Balfour, but the Balfour Declaration is commonly dated 1917; preserve this as transcript/source wording rather than silently correcting it."
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0050"
+      ],
+      "note": "Jiang's Frankist/Freemason chain is presented speculatively and should be attributed as his model rather than stated as settled history."
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0063"
+      ],
+      "note": "The transcript phrase says the American Navy has been targeting the United States, likely ASR damage in the oil-tanker discussion; avoid relying on that exact clause."
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0069",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0070"
+      ],
+      "note": "Segment 0069/0070 contains rejected ASR boundary damage around “helped to us to”; semantic extraction should read the intended point as the Ukraine war helped Russia recenter itself."
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0089",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0090",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0091",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0092",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0093",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0094",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0095",
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0096"
+      ],
+      "note": "Transcript uses “catacomb/cataconic” for catechon/catechonic throughout; preserve source refs but normalize carefully in public prose."
+    },
+    {
+      "refs": [
+        "video:interview-n44of1y7zgo@transcript:v1#seg-0102"
+      ],
+      "note": "Segment 0102 is blank after repair; do not cite it for substantive claims."
+    }
+  ]
+}
