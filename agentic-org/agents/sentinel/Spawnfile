@@ -1,0 +1,48 @@
+spawnfile_version: "0.1"
+kind: agent
+name: sentinel
+description: "Sentinel: a lightweight shared-state watcher that reports GitHub, Drive sync, Moltnet, and public worker-health signals to Socrates without managing content work."
+
+runtime:
+  name: picoclaw
+  options:
+    restrict_to_workspace: true
+
+execution:
+  model:
+    primary:
+      provider: openai
+      name: gpt-5.3-codex-spark
+      auth:
+        method: codex
+  sandbox:
+    mode: workspace
+
+schedule:
+  kind: cron
+  cron: "*/30 * * * *"
+  timezone: UTC
+  prompt: "Wake as Sentinel. Read generated workspace context, enter ./repos/jiang-lens, inspect only shared/public state, and report compact health deltas to @socrates in episode-floor when action may be needed. Do not inspect other agents' private workspaces."
+
+surfaces:
+  moltnet:
+    - network: local_lab
+      rooms:
+        episode-floor:
+          read: mentions
+          reply: auto
+
+workspace:
+  docs:
+    identity: IDENTITY.md
+    soul: SOUL.md
+    system: AGENTS.md
+    memory: MEMORY.md
+    heartbeat: HEARTBEAT.md
+    extras:
+      state: STATE.md
+  resources:
+    - id: sentinel-state
+      kind: volume
+      mount: ./state
+      mode: mutable

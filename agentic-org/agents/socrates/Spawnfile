@@ -1,0 +1,51 @@
+spawnfile_version: "0.1"
+kind: agent
+name: socrates
+description: "Socrates: the Jiang Lens team lead who talks with the maintainer, keeps room context coherent, and coordinates workers through Moltnet without taking over their private workspaces."
+
+runtime:
+  name: picoclaw
+  options:
+    restrict_to_workspace: true
+
+execution:
+  model:
+    primary:
+      provider: openai
+      name: gpt-5.3-codex-spark
+      auth:
+        method: codex
+  sandbox:
+    mode: workspace
+
+schedule:
+  kind: cron
+  cron: "10 * * * *"
+  timezone: UTC
+  prompt: "Wake as Socrates. Read generated workspace context, enter ./repos/jiang-lens, read lead-office and recent episode-floor history, and produce one concise organizational status or coordination action if needed. Do not inspect worker-private filesystems by default."
+
+surfaces:
+  moltnet:
+    - network: local_lab
+      rooms:
+        lead-office:
+          read: all
+          reply: auto
+        episode-floor:
+          read: mentions
+          reply: auto
+
+workspace:
+  docs:
+    identity: IDENTITY.md
+    soul: SOUL.md
+    system: AGENTS.md
+    memory: MEMORY.md
+    heartbeat: HEARTBEAT.md
+    extras:
+      state: STATE.md
+  resources:
+    - id: socrates-state
+      kind: volume
+      mount: ./state
+      mode: mutable

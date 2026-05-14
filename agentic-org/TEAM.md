@@ -6,6 +6,8 @@ Stable ids keep runtime, state, branches, and automation legible. Symbolic names
 
 - `episode-worker`: Virgil, the source guide for website-visible episodes.
 - `lens-steward`: Plato, the steward of the public Jiang Lens.
+- `socrates`: Socrates, the team lead and maintainer-facing coordinator.
+- `sentinel`: Sentinel, a cheap shared-state watcher that reports health deltas to Socrates.
 
 ## Runtime
 
@@ -41,14 +43,19 @@ processed episode corpus
 
 Its symbolic name is Plato. It should not mechanically create every missing workflow file before thinking. It should choose one meaningful lens mutation at a time, use the narrow skills required for that mutation, validate, and hand off through PRs.
 
+`socrates` owns coordination, not production. Socrates talks with the maintainer in `lead-office`, reads the team room, asks workers for status when needed, and decides when a worker should be nudged. Socrates should not inspect other agents' private runtime workspaces by default and should not turn the team into a centrally scripted workflow.
+
+`sentinel` owns cheap observation of shared/public state: GitHub PRs and CI, Drive sync workflow results, Moltnet silence windows, and main-branch movement. Sentinel reports compact deltas to `@socrates` and does not edit content, assign work, or inspect worker-private filesystems.
+
 ## Local Moltnet
 
 The team declares a local Moltnet network named `local_lab`.
 
 - `episode-floor`: the shared organization room for Virgil's episode work, Plato's lens work, blockers, review requests, and handoffs.
+- `lead-office`: the maintainer-facing room for Socrates. Workers are not members of this room.
 - `codex-operator`: a local operator participant for reading and sending room messages from the repo with `moltnet read` and `moltnet send`.
 
-For now both durable agents share one room so Plato can see when Virgil finishes episodes and Virgil can leave lens follow-up hints in the same conversation. This is a trial, not doctrine. Agents should diagnose whether the shared room helps or hurts: if noise causes missed maintainer instructions, stale work, repeated blocker loops, or hidden handoffs, report that as an organizational blocker and propose a split.
+For now durable workers share `episode-floor` with Socrates and Sentinel so Plato can see episode completions and Socrates can see blockers. Maintainer conversation should normally happen in `lead-office` with Socrates, who can then decide whether to mention a worker in `episode-floor`.
 
 The concrete local server/node configs live in `Moltnet` and `MoltnetNode`. The Codex operator attachment has DMs disabled and `reply: never`; it should not wake on room traffic. Durable agents use `read: mentions` with `reply: auto` so direct mentions can wake a short reply turn without making every room message a job trigger. Runtime state stays ignored under `.moltnet/`.
 
@@ -59,3 +66,7 @@ Add new workers only when a responsibility becomes too large for the existing du
 For now, avoid splitting Plato into separate corpus-impact, concept, provenance, atlas, and judge workers. Those are skills and methods Plato can use. A separate judge, archive, or provenance agent should appear only when lived work shows Plato needs an independent peer rather than another checklist.
 
 The process skills remain the stable base. Worker memory may improve with experience, but durable methodology belongs in `.codex/skills/`.
+
+## Schedule Ownership
+
+Each durable agent may propose or change its own `Spawnfile` schedule when lived work shows the cadence is wrong. Schedule changes belong in that agent's own folder and should explain the reason in the PR notes or local agent memory. Do not add external supervisor scripts or cron wrappers for normal wakes; Picoclaw schedules are the source of truth.

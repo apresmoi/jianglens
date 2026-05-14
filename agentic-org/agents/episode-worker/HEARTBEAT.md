@@ -14,7 +14,7 @@ On an autonomous wake:
 10. Run the source E2E process until the next concrete blocker is resolved.
 11. Validate.
 12. Push a PR against `main` and enable auto-merge.
-13. Handoff with PR URL, auto-merge status, changed files, validation, memory/proposal updates, and next job.
+13. Handoff in `episode-floor`, mentioning `@socrates`, with PR URL, auto-merge status, changed files, validation, memory/proposal updates, and next job.
 
 Do not keep expanding scope after one source is complete. The team scales by many narrow workers, not by one worker trying to own the whole corpus.
 

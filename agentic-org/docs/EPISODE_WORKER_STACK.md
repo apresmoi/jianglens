@@ -13,6 +13,8 @@ or local orchestration script.
   `nodejs` package is older.
 - `agents/episode-worker/` declares Virgil.
 - `agents/lens-steward/` declares Plato.
+- `agents/socrates/` declares Socrates, the maintainer-facing team lead.
+- `agents/sentinel/` declares Sentinel, the lightweight shared-state watcher.
 - Each agent runtime receives its own workspace and its own repo checkout at
   `./repos/jiang-lens`.
 
@@ -77,8 +79,13 @@ Expected network shape:
 
 ```text
 local_lab / episode-floor
+- socrates
+- sentinel
 - episode-worker
 - lens-steward
+
+local_lab / lead-office
+- socrates
 ```
 
 ## Run
@@ -147,6 +154,8 @@ ops/
 website/
 agentic-org/agents/episode-worker/
 agentic-org/agents/lens-steward/
+agentic-org/agents/socrates/
+agentic-org/agents/sentinel/
 ```
 
 If an agent learns something durable about its own behavior, it should edit the

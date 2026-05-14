@@ -1,7 +1,7 @@
 spawnfile_version: "0.1"
 kind: agent
 name: episode-worker
-description: "Processes one ready Jiang Lens video into a public website-visible episode or interview."
+description: "Virgil: processes one ready Jiang Lens video into a public website-visible episode or interview."
 
 runtime:
   name: picoclaw
@@ -12,7 +12,7 @@ execution:
   model:
     primary:
       provider: openai
-      name: gpt-5.3-codex-spark
+      name: gpt-5.5
       auth:
         method: codex
   sandbox:
@@ -22,15 +22,9 @@ schedule:
   kind: cron
   cron: "0 5 * * *"
   timezone: UTC
-  prompt: "Wake as Virgil. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and perform one bounded episode-worker iteration."
-
-surfaces:
-  moltnet:
-    - network: local_lab
-      rooms:
-        episode-floor:
-          read: mentions
-          reply: auto
+  prompt: Wake as Virgil. Read generated workspace context, enter
+    ./repos/jiang-lens, read recent episode-floor history, and perform one
+    bounded episode-worker iteration.
 
 workspace:
   docs:
@@ -47,3 +41,11 @@ workspace:
       kind: volume
       mount: ./state
       mode: mutable
+
+surfaces:
+  moltnet:
+    - network: local_lab
+      rooms:
+        episode-floor:
+          read: mentions
+          reply: auto

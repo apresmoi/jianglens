@@ -17,8 +17,15 @@ rooms:
   - id: episode-floor
     name: Episode Floor
     members:
+      - socrates
+      - sentinel
       - episode-worker
       - lens-steward
+      - codex-operator
+  - id: lead-office
+    name: Lead Office
+    members:
+      - socrates
       - codex-operator
 
 pairings: []

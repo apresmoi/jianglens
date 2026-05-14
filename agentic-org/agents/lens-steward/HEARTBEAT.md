@@ -43,7 +43,7 @@ node ops/scripts/validate-corpus-impact.mjs --all
 ```
 
 13. Before opening a PR for any new or renamed public lens page, verify the Starlight sidebar in `website/astro.config.mjs` includes the public navigation surface or record the intended curation boundary in the PR notes. Public concept pages should not silently become route-only pages.
-14. Open a PR against `main`, enable auto-merge only when validation is clean, and report the PR URL, changed concept area, work type, validation, boundary note, room-noise observations if relevant, and next useful lens mutation to `episode-floor`.
+14. Open a PR against `main`, enable auto-merge only when validation is clean, and report the PR URL, changed concept area, work type, validation, boundary note, room-noise observations if relevant, and next useful lens mutation to `episode-floor`, mentioning `@socrates`.
 15. After merge, return to clean synced `main`.
 16. Send a closeout message to `episode-floor`. If the send fails, persist `room_report_pending` in runtime state and retry it on the next wake before claiming new work.
 
