@@ -1,0 +1,89 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0007",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0049", "video:interview-mgazlaa5oza@transcript:v1#seg-0054"],
+      "kind": "monologue",
+      "summary": "Dave narrates America's rise from productive capacity through world-war dominance, Bretton Woods, petrodollar status, finance-government extraction, and the unfair U.S.-China consumption/production bargain.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0055", "video:interview-mgazlaa5oza@transcript:v1#seg-0056"],
+      "kind": "answer",
+      "summary": "Jiang adds the Chinese side: America offshored manufacturing to China, but China offshored elite selection and indoctrination to America, leaving China intellectually colonized even as it became richer.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Dave argues that America's postwar wealth shifted from production to a system of consumption financed by Bretton Woods, petrodollar status, debt, finance, and government-linked extraction.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0049", "video:interview-mgazlaa5oza@transcript:v1#seg-0053"],
+      "temporal_scope": "World War I through 2026",
+      "topic_tags": ["bretton-woods", "petrodollar", "china", "consumption"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave says the American-China deal was production by China and consumption by America, with China also lending America money to consume.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0052"],
+      "temporal_scope": "recent decades before 2026",
+      "topic_tags": ["china", "trade", "debt"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China gained manufacturing and a middle class but lost civilizational and intellectual capacity by sending its elite to U.S. universities for indoctrination.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0055", "video:interview-mgazlaa5oza@transcript:v1#seg-0056"],
+      "temporal_scope": "recent decades before 2026",
+      "topic_tags": ["china", "elite-selection", "education", "intellectual-colonization"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0049"],
+      "moment": "Dave says America 'McDonald's' its way into winning two world wars through overwhelming production.",
+      "source_phrase": "we mcdonald's our way into winning two world wars",
+      "why_it_matters": "The line captures his contrast between mass production power and later financialized consumption.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0055", "video:interview-mgazlaa5oza@transcript:v1#seg-0056"],
+      "moment": "Jiang says China offshored its elite selection and indoctrination to America.",
+      "source_phrase": "china offshore its elite selection and indoctrination to america",
+      "why_it_matters": "It reverses the usual manufacturing-offshoring story and claims China paid with its elite mind.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "intellectual colonization",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0056"],
+      "definition_or_usage": "Jiang's term for Chinese elites absorbing neoliberal, pro-American assumptions through U.S. universities and then governing China through them.",
+      "confidence": "high"
+    },
+    {
+      "term": "production-consumption bargain",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0052"],
+      "definition_or_usage": "Dave's account of the China-U.S. relationship: China makes goods, America consumes them and borrows to keep consuming.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0056"],
+      "note": "Jiang says the intellectual effects of China's U.S.-educated elite could hinder Chinese development for the next few hundred years.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

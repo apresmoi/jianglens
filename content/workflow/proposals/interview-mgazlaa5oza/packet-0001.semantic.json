@@ -1,0 +1,88 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0001",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0001", "video:interview-mgazlaa5oza@transcript:v1#seg-0002"],
+      "kind": "exchange",
+      "summary": "Sneako and Jiang set up the call immediately after Sneako reports being attacked; Sneako says reports about a knockout or tooth loss are exaggerated.",
+      "speaker_attribution": "SPEAKER_02 appears to be Sneako; SPEAKER_00 appears to be Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0003", "video:interview-mgazlaa5oza@transcript:v1#seg-0005"],
+      "kind": "answer",
+      "summary": "Jiang says the political temperature in the United States is high enough that his wife worries he could be attacked or refused entry if he travels there.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0006", "video:interview-mgazlaa5oza@transcript:v1#seg-0007"],
+      "kind": "exchange",
+      "summary": "Sneako frames the attack as possibly organized and uses it to justify panels where ideological opponents can disagree civilly.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0008"],
+      "kind": "answer",
+      "summary": "Jiang says he has real disagreements with Dugin but wants honest conversations with people from different political beliefs.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0001", "video:interview-mgazlaa5oza@transcript:v1#seg-0008"],
+      "note": "The early speaker mapping is stable: SPEAKER_00 is Jiang and SPEAKER_02 is Sneako.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang treats the United States in April 2026 as politically volatile enough that public travel or border entry could carry personal risk for him.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0003", "video:interview-mgazlaa5oza@transcript:v1#seg-0005"],
+      "temporal_scope": "April 2026",
+      "topic_tags": ["political-violence", "america", "public-temperature"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents cross-ideological conversation as necessary even when he strongly disagrees with another participant.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0008"],
+      "temporal_scope": "general",
+      "topic_tags": ["dialogue", "political-disagreement"],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0003"],
+      "moment": "Jiang imagines being recognized in New York as the person who will start a war and then being attacked.",
+      "source_phrase": "you're the ass who will start this war",
+      "why_it_matters": "The interview opens with the stakes of prediction becoming personal exposure, not abstract commentary.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "political temperature",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0003", "video:interview-mgazlaa5oza@transcript:v1#seg-0005"],
+      "definition_or_usage": "A measure of public volatility high enough to affect travel, speech, and personal safety.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0003", "video:interview-mgazlaa5oza@transcript:v1#seg-0005"],
+      "note": "By 2026-04-15 Jiang says he is hesitant to do a U.S. podcast circuit because the domestic temperature keeps rising.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

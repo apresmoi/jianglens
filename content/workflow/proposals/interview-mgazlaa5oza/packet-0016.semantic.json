@@ -1,0 +1,89 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0016",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0121"],
+      "kind": "answer",
+      "summary": "Dave says the point is not ideological purity over guests but preserving the ability to talk through problems and lower the temperature.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0122"],
+      "kind": "answer",
+      "summary": "Sneako returns to his same-day attack and says Gen Z fear makes it more important to support panels and dialogue.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0123", "video:interview-mgazlaa5oza@transcript:v1#seg-0126"],
+      "kind": "exchange",
+      "summary": "Dave condemns the attack as dishonorable, and Sneako adds that he was maced after being punched.",
+      "speaker_attribution": "Dave and Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0127", "video:interview-mgazlaa5oza@transcript:v1#seg-0128"],
+      "kind": "exchange",
+      "summary": "Sneako thanks Jiang and Dave, says Jiang encouraged these panels, and invites future conversations before leaving for Asia.",
+      "speaker_attribution": "Sneako and Dave",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Dave says platforming opponents is necessary because if people cannot talk through problems, they have no chance of lowering the political temperature.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0121"],
+      "temporal_scope": "2026 media and political environment",
+      "topic_tags": ["platforming", "dialogue", "free-speech", "political-temperature"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sneako treats the attack against him as political violence that demonstrates why public dialogue needs active defense.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0122", "video:interview-mgazlaa5oza@transcript:v1#seg-0127"],
+      "temporal_scope": "same day as 2026-04-15 interview",
+      "topic_tags": ["political-violence", "dialogue", "gen-z"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0121"],
+      "moment": "Dave says people must be allowed to talk problems through or they have no chance.",
+      "source_phrase": "we got to be allowed to talk this through",
+      "why_it_matters": "It turns the panel's format into its substantive political answer.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0122"],
+      "moment": "Sneako looks at blood on his hands while arguing for more dialogue.",
+      "source_phrase": "there's blood on my fingers",
+      "why_it_matters": "The source ends by making political speech physically costly and therefore more urgent.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "platforming divide",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0119", "video:interview-mgazlaa5oza@transcript:v1#seg-0121"],
+      "definition_or_usage": "Dave's split between people who object to controversial guests and people who see broad conversation as necessary.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0122", "video:interview-mgazlaa5oza@transcript:v1#seg-0127"],
+      "note": "The final exchange repeatedly ties the panel to an attack on Sneako that occurred about three hours before the conversation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

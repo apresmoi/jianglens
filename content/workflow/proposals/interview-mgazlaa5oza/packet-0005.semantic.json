@@ -1,0 +1,116 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0005",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0033"],
+      "kind": "answer",
+      "summary": "Jiang says his aim is game-theoretic prediction: he uses public debate to test models of what drives human events and to improve future control.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0034", "video:interview-mgazlaa5oza@transcript:v1#seg-0035"],
+      "kind": "answer",
+      "summary": "Jiang says he can sympathize with pro-empire arguments that cannot be said publicly: empire is evil but brings status and prosperity to its beneficiaries, so Americans must ask whether they prefer Russian or Chinese hegemony.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0036"],
+      "kind": "question",
+      "summary": "Sneako asks Dave for predictions after crediting Jiang's Venezuela-Hormuz-oil logic as vindicated.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0037", "video:interview-mgazlaa5oza@transcript:v1#seg-0040"],
+      "kind": "answer",
+      "summary": "Dave says Trump seems desperate for a gimmick to exit the Iran war; the best case is an obvious loss, and the worst case is being kept in by Israeli pressure.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang defines his predictive practice as testing theoretical models of human events rather than expressing a fixed partisan leaning.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0033"],
+      "temporal_scope": "method statement on 2026-04-15",
+      "topic_tags": ["game-theory", "prediction", "method"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that empire is evil in nature but materially benefits people inside the imperium through status and prosperity.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0034"],
+      "temporal_scope": "general imperial model",
+      "topic_tags": ["empire", "imperium", "prosperity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the moral question for Americans is whether they would accept China or Russia controlling global institutions and setting humanity's agenda.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0034", "video:interview-mgazlaa5oza@transcript:v1#seg-0035"],
+      "temporal_scope": "possible post-American order",
+      "topic_tags": ["china", "russia", "global-order", "empire"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave predicts that if Trump exits the Iran war under current conditions, it will still read as an unquestionable loss that destroys his presidency.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0039"],
+      "temporal_scope": "near-term 2026 Iran war outcome",
+      "topic_tags": ["trump", "iran-war", "prediction"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0034"],
+      "moment": "Jiang says the private pro-empire argument is that empire is evil but good for those inside it.",
+      "source_phrase": "an empire in its nature is an evil thing. But an empire brings tremendous status",
+      "why_it_matters": "It gives the interview a harder moral frame than simple anti-imperial denunciation: beneficiaries must face what they gain.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0039"],
+      "moment": "Dave's best-case scenario is still Trump losing.",
+      "source_phrase": "the best case scenario is that somehow Donald Trump can get out of this. And it's just clearly a loss",
+      "why_it_matters": "It establishes how narrow the exit path has become in the panel's shared analysis.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "imperium",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0034"],
+      "definition_or_usage": "The interior of empire whose inhabitants receive status and prosperity from an otherwise evil imperial structure.",
+      "confidence": "high"
+    },
+    {
+      "term": "continental fortress",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0035"],
+      "definition_or_usage": "Jiang's phrase for a post-hegemonic America retreating back into its own continental space.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0036"],
+      "note": "Sneako explicitly links earlier Venezuela regime-change discussion to the Iran/Hormuz oil thesis and says the panel believes it has been vindicated.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0038"],
+      "note": "Segment 0038 contains repeated ASR text around 'destroying Iran's nuclear' and should not be overread beyond Dave's stated war-goal discussion."
+    }
+  ]
+}

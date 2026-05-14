@@ -1,0 +1,90 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0015",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0113", "video:interview-mgazlaa5oza@transcript:v1#seg-0115"],
+      "kind": "monologue",
+      "summary": "Dave says Trump angered the Israel lobby by suggesting neutrality on Israel-Palestine, then won them back at AIPAC by attacking the JCPOA, eventually taking Adelson money and becoming what he said Rubio would be.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0116", "video:interview-mgazlaa5oza@transcript:v1#seg-0117"],
+      "kind": "question",
+      "summary": "Sneako asks for final thoughts; Jiang closes by praising the conversation as proof that people with different political allegiances can align on issues and by emphasizing the First Amendment.",
+      "speaker_attribution": "Sneako asks, Jiang answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0118", "video:interview-mgazlaa5oza@transcript:v1#seg-0120"],
+      "kind": "answer",
+      "summary": "Dave agrees that free speech must be preserved, noting that dissident figures can still snap back at the president and contrasting platforming culture with cancellation culture.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Dave argues that Trump's path to the Iran conflict began when he used anti-JCPOA promises to placate the Israel lobby after briefly suggesting neutrality on Israel-Palestine.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0113", "video:interview-mgazlaa5oza@transcript:v1#seg-0115"],
+      "temporal_scope": "2016 campaign through 2026 Iran conflict",
+      "topic_tags": ["trump", "aipac", "jcpoa", "israel-lobby", "iran"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the First Amendment is the best thing about America and should guide whom people support politically.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0117"],
+      "temporal_scope": "general principle stated 2026-04-15",
+      "topic_tags": ["first-amendment", "free-speech", "political-support"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave says losing the First Amendment would be nearly irreversible, so whoever supports free speech is the good side and whoever opposes it is the bad side.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0118", "video:interview-mgazlaa5oza@transcript:v1#seg-0119"],
+      "temporal_scope": "general principle stated 2026-04-15",
+      "topic_tags": ["first-amendment", "free-speech", "censorship"],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0115"],
+      "moment": "Dave says Trump became everything he claimed Rubio would be.",
+      "source_phrase": "be everything he claimed marco rubio was going to be",
+      "why_it_matters": "It crystallizes the betrayal arc of Trump from donor-independent outsider to lobby-bound war president.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0117"],
+      "moment": "Jiang closes on the First Amendment as America's irreplaceable political achievement.",
+      "source_phrase": "we don't have it in canada or china or anywhere else in the world",
+      "why_it_matters": "It gives Jiang's public critique a pro-American anchor.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "JCPOA pledge chain",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0114", "video:interview-mgazlaa5oza@transcript:v1#seg-0115"],
+      "definition_or_usage": "Dave's causal story that Trump's anti-Iran-deal promise won lobby approval and became an early step toward the later Iran conflict.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0113", "video:interview-mgazlaa5oza@transcript:v1#seg-0115"],
+      "note": "Dave traces a sequence from 2016 neutrality language, to AIPAC and JCPOA opposition, to Adelson money, to the 2026 Iran war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

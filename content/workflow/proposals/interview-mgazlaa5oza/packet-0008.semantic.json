@@ -1,0 +1,104 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0008",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0057", "video:interview-mgazlaa5oza@transcript:v1#seg-0060"],
+      "kind": "monologue",
+      "summary": "Jiang tracks baby-boomer power from the Great Society through Reagan, the unipolar 1990s, Covid, Gaza campus protests, and predicts boomers will make America more authoritarian before they die.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0061", "video:interview-mgazlaa5oza@transcript:v1#seg-0062"],
+      "kind": "answer",
+      "summary": "Dave accepts Jiang's point and recalls how powerfully American culture dominated the world around the unipolar moment, using Metallica in Moscow as an example.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0063", "video:interview-mgazlaa5oza@transcript:v1#seg-0065"],
+      "kind": "exchange",
+      "summary": "The call briefly drops and resumes, with Sneako joking that the CCP did not get Jiang.",
+      "speaker_attribution": "Sneako, Dave, Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says baby boomers enjoyed a uniquely favorable life course: Great Society social supports, Reagan-era wealth opportunities, and unipolar American privilege.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0057", "video:interview-mgazlaa5oza@transcript:v1#seg-0058"],
+      "temporal_scope": "1960s through 1990s",
+      "topic_tags": ["baby-boomers", "great-society", "reagan", "unipolar-moment"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Covid lockdowns benefited boomers with assets and health-risk concerns while damaging young people's mental health, schooling, and economic prospects.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0058", "video:interview-mgazlaa5oza@transcript:v1#seg-0059"],
+      "temporal_scope": "Covid era",
+      "topic_tags": ["covid", "lockdowns", "generation", "assets"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts boomers will make America more authoritarian before they die so they can live peacefully in gated communities and continue extracting from the republic.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0059", "video:interview-mgazlaa5oza@transcript:v1#seg-0060"],
+      "temporal_scope": "next 20-30 years from 2026",
+      "topic_tags": ["prediction", "baby-boomers", "authoritarianism"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave says American culture had extraordinary global goodwill around the Soviet collapse, symbolized by heavy-metal enthusiasm in Moscow.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0061", "video:interview-mgazlaa5oza@transcript:v1#seg-0062"],
+      "temporal_scope": "early 1990s unipolar moment",
+      "topic_tags": ["american-culture", "unipolar-moment", "soviet-collapse"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0060"],
+      "moment": "Jiang calls boomers parasites on the American Republic who will harden the state before they die.",
+      "source_phrase": "continue to be parasites on the American Republic",
+      "why_it_matters": "It is the sharpest generational accusation in the source and becomes a prediction about political form.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0061", "video:interview-mgazlaa5oza@transcript:v1#seg-0062"],
+      "moment": "Dave's image of Metallica in Moscow carries the vanished appeal of American culture.",
+      "source_phrase": "Loving American heavy metal",
+      "why_it_matters": "It gives the decline story a cultural memory rather than only balance sheets and wars.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "boomer authoritarian exit",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0060"],
+      "definition_or_usage": "Jiang's prediction that aging boomers will preserve comfort by making America more authoritarian before leaving power.",
+      "confidence": "high"
+    },
+    {
+      "term": "unipolar moment",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0058", "video:interview-mgazlaa5oza@transcript:v1#seg-0061"],
+      "definition_or_usage": "The period after the Soviet collapse when U.S. power and culture appeared globally dominant.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0058", "video:interview-mgazlaa5oza@transcript:v1#seg-0059"],
+      "note": "Jiang's generational timeline runs Great Society to Reagan to the 1990s unipolar moment to Trump 2016, Covid, October 7, and campus protest crackdowns.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
