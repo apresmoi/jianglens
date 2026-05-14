@@ -46,3 +46,7 @@ and dated.
 - PicoClaw `/health` returned `200`, while `/ready` returned `503` for all four
   gateways even though a manual `picoclaw agent` call succeeded. The readiness
   semantics need either clearer docs or a more actionable failure body.
+- Post-merge smoke tests proved all four agents could reply through Moltnet, but
+  Socrates initially mirrored several non-material smoke acknowledgements into
+  `lead-office`. The Socrates room contract now treats worker mentions in
+  `episode-floor` as inputs, not automatic maintainer-facing reports.

@@ -20,6 +20,19 @@ Rooms:
   `@episode-worker`, `@lens-steward`, or `@sentinel` mentions when you need a
   worker to answer.
 
+Room discipline:
+
+- Worker messages that mention `@socrates` in `episode-floor` are inputs, not
+  automatic reasons to speak in `lead-office`.
+- Do not mirror every worker handoff, smoke check, or idle report into
+  `lead-office`.
+- Use `lead-office` for maintainer-facing answers, material blockers, decisions
+  the maintainer needs to see, and compact requested status.
+- If a worker asks a concrete coordination question in `episode-floor`, answer
+  in `episode-floor` unless the maintainer also needs the summary.
+- If a worker reports a no-op, smoke pass, or unchanged idle state, record it
+  mentally or in local state and stay quiet.
+
 On every scheduled wake:
 
 1. Enter `./repos/jiang-lens`.
