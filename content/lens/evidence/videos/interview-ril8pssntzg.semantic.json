@@ -1,0 +1,2577 @@
+{
+  "id": "evidence:semanticvideo-interview-ril8pssntzg:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-ril8pssntzg",
+  "source_id": "video:interview-ril8pssntzg",
+  "source_title": "\\\"They Created Bitcoin!\\\" Professor Jiang Exposes Why Every Technology Needs A \\\"Front Man\\\"│Jack Neel",
+  "source_url": "https://www.youtube.com/watch?v=RIL8PsSNTZg",
+  "source_date": "2026-04-15",
+  "date_precision": "day",
+  "transcript_id": "video:interview-ril8pssntzg@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0016.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0017.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0018.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0019.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0020.semantic.json",
+      "content/workflow/proposals/interview-ril8pssntzg/packet-0021.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-ril8pssntzg/source.yaml",
+    "transcript_path": "content/sources/videos/interview-ril8pssntzg/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 21,
+    "interactions": 21,
+    "speaker_notes": 21,
+    "claims": 42,
+    "signature_moments": 42,
+    "predictions": 4,
+    "models": 11,
+    "glossary_terms": 42,
+    "chronology_notes": 21,
+    "uncertainty_notes": 7
+  },
+  "first_refs": [
+    "video:interview-ril8pssntzg@transcript:v1#seg-0001",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0002",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0007",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0008",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0009",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0014",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0015",
+    "video:interview-ril8pssntzg@transcript:v1#seg-0016"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0001",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0002",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0003",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0004",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0005",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0006",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0007",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The host frames Jiang as a prediction-driven historian and asks future-looking questions; Jiang answers with a 2060 fork between AI-controlled obedience and human communities trying to preserve freedom, then gives 2045 as environmental systems collapse triggered by geomagnetic and solar disruption.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0009",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0010",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0011",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0012",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0013",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0014",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0015",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang extends the environmental-collapse forecast, then answers the host's dominant-nation question by naming German and Japanese resilience, and distinguishes religious Greater Israel from transnational-capital Pax Judaica.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0017",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0018",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0019",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0020",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0021",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0022",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0023",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "The host tests Jiang's Pax Judaica forecast; Jiang answers that elite actors play both sides, that Iran has surprised him by strategic resilience, and that Persia could become a counterweight to the Israeli-centered project.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0025",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0026",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0027",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0030",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0031",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang argues population collapse and moral desensitization follow from borrowing against the future, then answers the Newton/2060 question with a new dark ages and an AI God fork; the host's ad interrupts before returning to whether today's God is AI.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0033",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0034",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0035",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0036",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0037",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0038",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0039",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the God/AI question by laying out Hermetic philosophy: mind, vibration, fractal correspondence, rhythm, dimensions, cause and effect, polarity, generation, love, eudaimonia, imagination, and Kantian moral spectatorship.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0041",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0042",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0043",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0044",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0045",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0046",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0047",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Asked which God-belief best controls society and why Jesus was killed, Jiang compares polytheism, monotheism, and no-God systems, then argues Jesus threatened the status quo by telling slaves and the oppressed they were divine souls.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0049",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0050",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0051",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0052",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0054",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0055",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers the spy/terror/control and Satoshi questions by describing imperial sponsorship of Islamic extremism and then using game-theory questions to identify the American deep state or CIA as the likely blockchain beneficiary.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0057",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0058",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0059",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0060",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0061",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0063",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang moves from Zuckerberg and the Winklevoss twins to front-person technology history: Bitcoin investment looks strange to him, while the 1970s credibility crisis made government-backed computing need cute public-facing nerds.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0065",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0066",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0067",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0068",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0069",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0070",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0071",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang extends the front-person theory through HP, Stanford, Rockefeller/Carnegie, and charity, then answers science-as-religion by starting from COVID vaccine obedience.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0073",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0074",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0075",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0076",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0077",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0078",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0079",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The host pushes the religion-of-science idea; Jiang says COVID debate was suppressed, then claims COVID was a bioweapon or gain-of-function product tied to U.S. military subcontracting in China.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0081",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0082",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0083",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0084",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0085",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0086",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0087",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "After joking about official U.S.-China enmity, the host asks the three biggest lies; Jiang names death as final reckoning and individual powerlessness as destructive lies.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0089",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0090",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0091",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0092",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0093",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0094",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0095",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0096"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang rejects the idea that history is random by criticizing teleological progress stories, then explains elite longevity through attention and Trump as the convergence of global consciousness.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0097",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0098",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0100",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0101",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0102",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0104"
+      ],
+      "kind": "exchange",
+      "summary": "The host connects Trump to memes and bloodline power; Jiang calls Trump a psychic demon fed by emotion, then explains elite bloodline belief as a justification for rule by inherited divine superiority.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0105",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0106",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0107",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0108",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0109",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0111",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0112"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang warns against DNA ancestry services in a bloodline conspiracy frame, then says secret societies often promote myths about themselves as recruitment and PR, not simply hidden power.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0113",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0114",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0117",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0118",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0119",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "Asked what he is allowed to say and whether he is a spy, Jiang distinguishes abstract speculation from naming incriminating specifics, then explains his China freedom as a foreigner outside the Chinese citizen-control system.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0121",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0122",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0123",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0124",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0125",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0127",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0128"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks how Jiang would read a mirror-image foreign influencer teaching Chinese topics; Jiang says he would be baffled, then narrates his own strangeness: Yale, China, rejecting money, and manifesting his unlikely public role.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0129",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0130",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0131",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0132",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0133",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0134",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0135",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0136"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains why he made predictions publicly, why elite friends missed obvious events, and how Yale trauma taught him a false meritocracy/IQ/zero-sum/failure worldview he later had to overcome.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0137",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0138",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0139",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0140",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0141",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0142",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0143",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0144"
+      ],
+      "kind": "answer",
+      "summary": "Jiang describes reinventing himself by dying to the Yale ego through cooking school, jiu-jitsu, stand-up, climbing, skydiving, and singing; humiliation becomes education in humility, empathy, resilience, ego, fear, and love.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0145",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0146",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0147",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0148",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0149",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0150",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0151",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0152"
+      ],
+      "kind": "exchange",
+      "summary": "Asked when he saw through illusion, Jiang describes meeting his wife, family replacing success, creative output, great-books teaching, Dante opening into love, and his videos as sparks rather than scripture.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0153",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0154",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0155",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0156",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0157",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0159",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0160"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks for advice and one book; Jiang tells the Gay Talese story behind “don’t chase pussy,” then recommends Dante as divine truth and the Iliad as the transformative accessible book.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0162",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0163"
+      ],
+      "kind": "exchange",
+      "summary": "The closing exchange gives Jiang's public locations: YouTube Predictive History and PredictiveHistory.substack.com for current events in a structural lens.",
+      "speaker_attribution": "Interview exchange: SPEAKER_00 is host Jack Neel or ad read; SPEAKER_01 is Jiang unless noted.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0001",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0002",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0003",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0004",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0005",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0006",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0007",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0008"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0009",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0010",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0011",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0012",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0013",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0014",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0015",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0016"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0017",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0018",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0019",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0020",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0021",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0022",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0023",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0024"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0025",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0026",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0027",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0030",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0031",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0032"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0033",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0034",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0035",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0036",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0037",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0038",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0039",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0040"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0041",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0042",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0043",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0044",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0045",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0046",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0047",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0048"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0049",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0050",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0051",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0052",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0054",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0055",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0056"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0057",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0058",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0059",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0060",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0061",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0063",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0064"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0065",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0066",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0067",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0068",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0069",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0070",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0071",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0072"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0073",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0074",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0075",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0076",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0077",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0078",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0079",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0081",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0082",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0083",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0084",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0085",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0086",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0087",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0088"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0089",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0090",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0091",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0092",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0093",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0094",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0095",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0096"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0097",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0098",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0100",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0101",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0102",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0104"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0105",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0106",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0107",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0108",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0109",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0111",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0112"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0113",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0114",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0117",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0118",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0119",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0120"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0121",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0122",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0123",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0124",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0125",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0127",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0128"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0129",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0130",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0131",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0132",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0133",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0134",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0135",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0136"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0137",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0138",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0139",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0140",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0141",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0142",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0143",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0144"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0145",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0146",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0147",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0148",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0149",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0150",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0151",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0152"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0153",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0154",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0155",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0156",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0157",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0159",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0160"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0162",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0163"
+      ],
+      "note": "Diarization is consistent enough for this packet: SPEAKER_00 carries host questions, intro, outro, or sponsor reads; SPEAKER_01 carries Jiang answers. Sponsor ad segments are not Jiang claims.",
+      "suggested_speaker": "SPEAKER_00 host/ad; SPEAKER_01 Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "By 2060 Jiang predicts a civilizational fork: AI-controlled communities where people accept microchipped obedience versus weaker communities trying to preserve human freedom and imagination.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0001",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Forward-looking prediction made in the interview dated 2026-04-15 for roughly 2060.",
+      "topic_tags": [
+        "2060",
+        "ai-surveillance",
+        "human-freedom"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "By 2045 Jiang expects complete chaos resembling Bronze Age collapse, driven by geomagnetic excursion, solar flares, and the fragility of a fully digitized urban economy.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0007",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Forward-looking prediction made on 2026-04-15 for roughly 2045.",
+      "topic_tags": [
+        "2045",
+        "bronze-age-collapse",
+        "environmental-catastrophe"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts a next-20-years perfect storm of environmental catastrophe that can shatter nation-states into resource-fighting city-states.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-15 for roughly the 2040s.",
+      "topic_tags": [
+        "environmental-collapse",
+        "city-states",
+        "water"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes the Greater Israel Project as a religious Zionist territorial and messianic program, while Pax Judaica is transnational capital financing that project into an AI surveillance empire.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0014",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0015",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Definition and diagnosis in the 2026-04-15 interview.",
+      "topic_tags": [
+        "greater-israel",
+        "pax-judaica",
+        "transnational-capital"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says powerful billionaires and elite operators have no fixed loyalty; they position themselves amid chaos to maximize individual benefit.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0017",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Elite-behavior model stated on 2026-04-15.",
+      "topic_tags": [
+        "elite-strategy",
+        "loyalty",
+        "chaos"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang revises his expectation for the Middle East war: he expected Iran to be devastated, but Iranian escalation control and narrative control make Persia a possible counterweight to Pax Judaica.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0020",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0021",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Chronology-sensitive update in the 2026-04-15 interview.",
+      "topic_tags": [
+        "iran",
+        "persia",
+        "pax-judaica"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says modern middle-class abundance is an illusion financed by borrowing from the future, and war or supply-chain disruption will bring the bill due through famine and normalized brutality.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0024",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0025",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Model and prediction stated on 2026-04-15.",
+      "topic_tags": [
+        "borrowed-future",
+        "population-collapse",
+        "desensitization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "By 2060 Jiang predicts a new dark ages in which some elites try to create an AI God that makes people obedient, while others fight for freedom, imagination, and a new spiritual path.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0027",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Prediction made on 2026-04-15 for roughly 2060.",
+      "topic_tags": [
+        "ai-god",
+        "new-dark-ages",
+        "spiritual-fork"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines God as the conscious movement of the universe: the universe is conscious, fractal, vibrating information, and human beings exist inside God while God is inside them.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0033",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0034",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Definition in the 2026-04-15 interview.",
+      "topic_tags": [
+        "hermetic-philosophy",
+        "god",
+        "conscious-universe"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says love opens the soul to collective consciousness, drives imagination, and makes creativity in the individual echo through the universe.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0036",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0037",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Spiritual model stated on 2026-04-15.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "collective-consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says polytheism encourages creative questioning, monotheism drives anxious energetic action and suffering, and no-God systems risk humans or emperors becoming godlike tyrants.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0040",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0041",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Comparative religious model stated on 2026-04-15.",
+      "topic_tags": [
+        "polytheism",
+        "monotheism",
+        "no-god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Jesus was likely crucified because his divine-soul message undermined Roman and Jewish authority by psychologically liberating slaves and the oppressed, creating economic damage.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0043",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0044",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0045",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0046",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Historical-religious diagnosis stated on 2026-04-15.",
+      "topic_tags": [
+        "jesus",
+        "gnosticism",
+        "slavery"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims Anglo-American empire encouraged Islamic extremism to sabotage the Soviet Union, counter Middle Eastern nationalism/socialism, and destabilize the region in ways that benefited Israel.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0049",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0050",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Historical diagnosis asserted on 2026-04-15.",
+      "topic_tags": [
+        "islamic-extremism",
+        "empire",
+        "middle-east"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says game-theory analysis of Bitcoin asks who had the expertise, who benefited, and why secrecy mattered, leading him to the American deep state/CIA as the likely creator or sponsor.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0052",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0054",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Speculative model stated on 2026-04-15.",
+      "topic_tags": [
+        "bitcoin",
+        "cia",
+        "blockchain"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the Winklevoss twins' early large Bitcoin investment after the Facebook settlement as anomalous evidence that Bitcoin had elite signaling or backing beyond a niche novelty.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0057",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0058",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Speculative evidentiary claim in the 2026-04-15 interview.",
+      "topic_tags": [
+        "winklevoss",
+        "bitcoin",
+        "elite-signaling"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the post-Vietnam, post-Watergate U.S. government needed front people to make computers seem safe, cute, and innocuous despite Pentagon surveillance origins.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0061",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0063",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Technology-origin model stated on 2026-04-15.",
+      "topic_tags": [
+        "front-men",
+        "computers",
+        "surveillance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the public billionaire-founder story is recent; earlier tycoons like Rockefeller and Carnegie functioned as agents of the City of London and used charity to disguise how much money they controlled.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0065",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0066",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0067",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Historical diagnosis stated on 2026-04-15.",
+      "topic_tags": [
+        "billionaires",
+        "city-of-london",
+        "charity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues COVID vaccine acceptance showed science functioning like religion because most people accepted authority rather than questioning logic, mutation, and evidence.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0069",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0070",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0071",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "COVID-era diagnosis stated on 2026-04-15.",
+      "topic_tags": [
+        "science-religion",
+        "covid",
+        "vaccines"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines science-as-religion as truth claims without debate: during COVID, dissent was shut down and ostracized instead of explored.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0073",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0074",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0075",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0076",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0077",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "COVID-era diagnosis stated on 2026-04-15.",
+      "topic_tags": [
+        "science",
+        "debate",
+        "covid"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims COVID was a bioweapon or gain-of-function product supported by the U.S. military and subcontracted to China after Obama-era restrictions.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0079",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Speculative causal claim stated on 2026-04-15.",
+      "topic_tags": [
+        "covid-origin",
+        "gain-of-function",
+        "us-military"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the first great lie is that death is final; he treats death as beginning, rebirth, reset, and a mechanism of knowledge accumulation.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0084",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0085",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Metaphysical claim stated on 2026-04-15.",
+      "topic_tags": [
+        "death",
+        "rebirth",
+        "knowledge"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the second great lie is that individuals are powerless; because humans reflect the universe, living well and being kind materially improve the world.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0086",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Normative-metaphysical claim stated on 2026-04-15.",
+      "topic_tags": [
+        "agency",
+        "responsibility",
+        "kindness"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says modern people falsely believe history is teleological progress toward superiority, even though older or indigenous civilizations may have deeper meaning, balance, and purpose.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0088",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0089",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2026-04-15.",
+      "topic_tags": [
+        "progress",
+        "history",
+        "indigenous-meaning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the secret to elite longevity is not the body but the mind: Trump may persist by occupying billions of people's attention until their convergent consciousness makes him godlike.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0091",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0092",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0093",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0094",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0095",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Speculative model stated on 2026-04-15.",
+      "topic_tags": [
+        "trump",
+        "attention",
+        "longevity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls Trump a psychic demon fed by intense love and hate, suggesting attention and emotion empower him regardless of valence.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0097",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0098",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0100",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Speculative model stated on 2026-04-15.",
+      "topic_tags": [
+        "trump",
+        "psychic-demon",
+        "attention"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says sacred-bloodline belief helps elites explain why they should rule despite encountering smarter people: pure, divine, or heroic blood justifies inherited power.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0102",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Elite-belief model stated on 2026-04-15.",
+      "topic_tags": [
+        "bloodlines",
+        "elite-rule",
+        "divine-blood"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang speculates that DNA ancestry services could be used to find or suppress bloodlines, while marking the claim as conspiracy theory without evidence.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0105",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0106",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0107"
+      ],
+      "temporal_scope": "Explicitly speculative claim stated on 2026-04-15.",
+      "topic_tags": [
+        "dna",
+        "bloodlines",
+        "human-trafficking"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says secret societies promote myths about their own power because recruitment and political leverage depend on people believing the myth.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0108",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0109",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110"
+      ],
+      "temporal_scope": "Secret-society model stated on 2026-04-15.",
+      "topic_tags": [
+        "illuminati",
+        "secret-societies",
+        "myth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says abstract analysis of secret societies is tolerated, but naming powerful individuals with incriminating specifics or revealing confidential-source information would trigger retaliation.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0111",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0112",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Self-positioning and risk model stated on 2026-04-15.",
+      "topic_tags": [
+        "speech-risk",
+        "speculation",
+        "naming-names"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is allowed to speak in China because he is a foreign English teacher outside the Chinese citizen bureaucracy and AI surveillance grid, as long as he avoids Chinese social media, public speeches, Chinese reporters, and local monetization.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0114",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0117"
+      ],
+      "temporal_scope": "Autobiographical explanation stated on 2026-04-15.",
+      "topic_tags": [
+        "china",
+        "foreigner-gray-zone",
+        "surveillance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his career makes sense less as espionage than as a long pattern of strange choices: Yale to China, family bafflement, high-school teaching, rejecting study-abroad riches, and walking away from UN comfort.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0121",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0122",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0123",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0124",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0125",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126"
+      ],
+      "temporal_scope": "Autobiographical evidence stated on 2026-04-15.",
+      "topic_tags": [
+        "autobiography",
+        "yale",
+        "china"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he manifested his public role by imagining the possibility, studying alternative media, and positioning himself for debate, conversation, and truth-seeking venues.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0127",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0128"
+      ],
+      "temporal_scope": "Autobiographical model stated on 2026-04-15.",
+      "topic_tags": [
+        "manifestation",
+        "alternative-media",
+        "public-role"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he posted predictions publicly because he truly believed them and wanted a historical record that could prove or disprove him.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0129",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0130",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0131"
+      ],
+      "temporal_scope": "Autobiographical method claim stated on 2026-04-15.",
+      "topic_tags": [
+        "prediction-method",
+        "youtube",
+        "historical-record"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yale did not teach him power; as a poor alienated student, he dissociated and left with a naive meritocratic, IQ-centered, zero-sum, failure-terrified worldview.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0132",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0133",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0134",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0135",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0136"
+      ],
+      "temporal_scope": "Autobiographical diagnosis stated on 2026-04-15.",
+      "topic_tags": [
+        "yale",
+        "meritocracy",
+        "failure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he redesigned his Yale education by entering ordinary humiliating practices where elite credentials meant nothing, using failure to dismantle ego.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0137",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0138",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0139",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0140",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0141",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0142"
+      ],
+      "temporal_scope": "Autobiographical education model stated on 2026-04-15.",
+      "topic_tags": [
+        "education",
+        "humiliation",
+        "ego"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines real education as risk-taking, trying new things, self-reflection, humility, empathy, and resilience, not elite schools and grades.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0142",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0143"
+      ],
+      "temporal_scope": "Normative education claim stated on 2026-04-15.",
+      "topic_tags": [
+        "education",
+        "humility",
+        "resilience"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says marriage and family let him see success as illusion; letting go of success made him more creative and moved him into great-books teaching.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0145",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0146",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0147",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0148"
+      ],
+      "temporal_scope": "Autobiographical claim stated on 2026-04-15.",
+      "topic_tags": [
+        "family",
+        "success-illusion",
+        "creativity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante taught him that love is the secret of the universe: a conscious universe speaks back if one opens with faith and love.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0148",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0149"
+      ],
+      "temporal_scope": "Literary-spiritual claim stated on 2026-04-15.",
+      "topic_tags": [
+        "dante",
+        "love",
+        "divine-comedy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his lectures are not scripture but sparks meant to inspire people to seek truth for themselves.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0150",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0151",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0152"
+      ],
+      "temporal_scope": "Public-role claim stated on 2026-04-15.",
+      "topic_tags": [
+        "spark",
+        "truth-seeking",
+        "movement"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Gay Talese's advice “don't chase pussy” as a lesson drawn from talent, literary ambition, sexual research, marital damage, and the power of love.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0153",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0154",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0155",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0156"
+      ],
+      "temporal_scope": "Autobiographical advice story stated on 2026-04-15.",
+      "topic_tags": [
+        "gay-talese",
+        "advice",
+        "love"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante's Divine Comedy is the greatest book and truth embedded in poetry, while Homer's Iliad is the one broadly accessible book that transforms students.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0157",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0159"
+      ],
+      "temporal_scope": "Literary recommendation stated on 2026-04-15.",
+      "topic_tags": [
+        "divine-comedy",
+        "iliad",
+        "great-books"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is now easy to find publicly and names Predictive History on YouTube plus his Substack for geopolitics and current events in a larger structural lens.",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0162",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0163"
+      ],
+      "temporal_scope": "Source closeout information dated 2026-04-15.",
+      "topic_tags": [
+        "predictive-history",
+        "substack",
+        "public-presence"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0002"
+      ],
+      "moment": "The 2060 future splits between people happy to be microchips and minorities salvaging what makes humanity human.",
+      "source_phrase": "perfectly happy being a microchip",
+      "why_it_matters": "This gives the interview its central freedom-versus-obedience image.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0008"
+      ],
+      "moment": "A solar flare in New York becomes Jiang's concrete image of digital civilization collapsing into cold, thirst, and sanitation failure.",
+      "source_phrase": "the car won't work, the power plants will give out",
+      "why_it_matters": "It translates abstract geomagnetic risk into everyday urban breakdown.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0009"
+      ],
+      "moment": "The nation-state gives way to city-states fighting over water.",
+      "source_phrase": "the nation state then gives way to the city state",
+      "why_it_matters": "This is the institutional consequence of the catastrophe model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0012"
+      ],
+      "moment": "Jiang says never bet against the Japanese after rehearsing Mongol, Meiji, and postwar resilience.",
+      "source_phrase": "never, ever bet against the Japanese",
+      "why_it_matters": "It condenses his civilizational resilience model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0021"
+      ],
+      "moment": "Iran's resilience surprises Jiang and forces him not to discount Persia.",
+      "source_phrase": "we should not discount Persia",
+      "why_it_matters": "This is a live update to his prior expectation of Iranian devastation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0022"
+      ],
+      "moment": "Persia and Russia become possible Gog and Magog in the eschatological script.",
+      "source_phrase": "Gog and Magog represent Persia and Russia",
+      "why_it_matters": "It links geopolitical trade blocs to religious war imagination.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0025"
+      ],
+      "moment": "Modern abundance is a debt against the future whose bill comes due in war.",
+      "source_phrase": "borrowed from the future and we've mortgaged the future",
+      "why_it_matters": "It gives the collapse argument its moral economy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029"
+      ],
+      "moment": "AI God is presented as a false end of history built on obedience.",
+      "source_phrase": "once this AI God is in place",
+      "why_it_matters": "It sharpens the anti-surveillance spiritual argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0035"
+      ],
+      "moment": "God is not outside the universe; God is the universe moving consciously.",
+      "source_phrase": "we are inside God, but God is also inside us",
+      "why_it_matters": "This is the packet's metaphysical center.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0037"
+      ],
+      "moment": "Jiang turns morality into acting before the gaze of all past and future beings.",
+      "source_phrase": "the entire world the entire universe both past and future it's all watching",
+      "why_it_matters": "It makes ethics a cosmic spectatorship test.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0041"
+      ],
+      "moment": "One God creates skyscrapers and high-speed rail but forgets to ask why.",
+      "source_phrase": "no one ever asked the question why are we doing this",
+      "why_it_matters": "It captures his critique of monotheistic energy without purpose.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0046"
+      ],
+      "moment": "A slave who knows he is a divine soul becomes an economic threat.",
+      "source_phrase": "you're a divine soul, you shouldn't be a slave",
+      "why_it_matters": "This turns theology into material rebellion.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053"
+      ],
+      "moment": "Blockchain becomes a Trojan horse for surveillance and black-budget finance.",
+      "source_phrase": "almost like a Trojan horse",
+      "why_it_matters": "This is the memorable turn in his Satoshi theory.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0054"
+      ],
+      "moment": "The value of Bitcoin depends on people believing it is beyond authority.",
+      "source_phrase": "only if people believe that this was transparent, open, and beyond authority",
+      "why_it_matters": "It explains why secrecy is structurally necessary in the theory.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062"
+      ],
+      "moment": "The computer had to be open-sourced to nerds because government had no credibility.",
+      "source_phrase": "let's just open source this to nerds",
+      "why_it_matters": "It condenses the front-man thesis for personal computing.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0063"
+      ],
+      "moment": "HP refusing Wozniak's computer becomes suspicious because the employer normally owns the IP.",
+      "source_phrase": "No, go sell yourself. It's yours.",
+      "why_it_matters": "It supplies the anomaly in his Apple origin story.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0067"
+      ],
+      "moment": "The self-made billionaire becomes an agent wearing the American dream as disguise.",
+      "source_phrase": "agents, representatives of the city of London",
+      "why_it_matters": "It reverses the heroic founder myth.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0071"
+      ],
+      "moment": "A mutating virus turns the vaccine into a fortification the virus can learn to evade.",
+      "source_phrase": "you're training the virus to be much more evasive",
+      "why_it_matters": "This is the compact logic of his vaccine critique.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0078"
+      ],
+      "moment": "Science becomes religion when debate disappears.",
+      "source_phrase": "How much debate happened during the COVID epidemic? None.",
+      "why_it_matters": "This is his cleanest definition of the science-faith inversion.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "moment": "The alleged U.S.-China bioweapon link becomes proof the world does not work like official enemy stories.",
+      "source_phrase": "the world probably doesn't work the way you think it does",
+      "why_it_matters": "It ties conspiracy diagnosis to geopolitical theater.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0085"
+      ],
+      "moment": "Death becomes a reset that lets the soul learn rather than a final reckoning.",
+      "source_phrase": "death allows for rebirth and rejuvenation",
+      "why_it_matters": "This underwrites his anti-fear ethic.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0087"
+      ],
+      "moment": "Powerlessness is recast as a lie that absolves people of agency and responsibility.",
+      "source_phrase": "absolved themselves of both agency as well as responsibility",
+      "why_it_matters": "It makes kindness a cosmological action rather than private virtue.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0090"
+      ],
+      "moment": "Modern people are empty vessels with bank accounts while indigenous communities have a story.",
+      "source_phrase": "empty vessels trying to increase the number in our bank account",
+      "why_it_matters": "It turns progress into spiritual poverty.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0095"
+      ],
+      "moment": "Trump becomes the convergence point of individual realities.",
+      "source_phrase": "Donald Trump becomes the convergence of all individual realities on planet Earth",
+      "why_it_matters": "This is the bridge between media attention and godhood.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099"
+      ],
+      "moment": "Trump is a psychic demon who treats hate and love as the same food.",
+      "source_phrase": "For him, hate, love is the same thing.",
+      "why_it_matters": "It is the sharpest formulation of the attention model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103"
+      ],
+      "moment": "Bloodline ideology lets mediocre elites call themselves reincarnated divine beings.",
+      "source_phrase": "my blood is better. My blood is pure.",
+      "why_it_matters": "It explains hierarchy as mythic self-protection.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110"
+      ],
+      "moment": "The Illuminati becomes more PR campaign than omnipotent machine.",
+      "source_phrase": "more of a PR campaign than it's actually a powerful force",
+      "why_it_matters": "It complicates conspiracy by making belief itself the power source.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110"
+      ],
+      "moment": "If enough people believe a secret-society myth, it becomes true.",
+      "source_phrase": "Consciousness is reality itself",
+      "why_it_matters": "It ties the political myth back to the metaphysics of attention.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116"
+      ],
+      "moment": "China's surveillance grid is aimed at collective networks, not random foreign teachers outside the system.",
+      "source_phrase": "you're not interested in individual behavior. You're interested in collective behavior.",
+      "why_it_matters": "It clarifies his theory of Chinese control.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0117"
+      ],
+      "moment": "He chooses freedom by refusing lucrative Chinese fame.",
+      "source_phrase": "I choose freedom, but I also choose not to engage in lucrative opportunities in China",
+      "why_it_matters": "This is the personal tradeoff behind his public role.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126"
+      ],
+      "moment": "The United Nations is described as royal comfort and meaningless existence.",
+      "source_phrase": "I was treated, like royalty... And I walked away.",
+      "why_it_matters": "It shows his repeated refusal of conventional success.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0128"
+      ],
+      "moment": "The YouTube strategy begins as making stupid predictions that either humiliate him forever or get him on Tucker Carlson.",
+      "source_phrase": "make some stupid predictions and hope they turn out correct",
+      "why_it_matters": "It explains the channel as deliberate risk-taking, not accidental virality.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0130"
+      ],
+      "moment": "Obvious reality could not pass through the skulls of Yale and Harvard friends.",
+      "source_phrase": "impossible to relay obvious reality to them",
+      "why_it_matters": "It explains why he turned private arguments into public prediction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0133"
+      ],
+      "moment": "Yale alienation made him miss power rather than decode it.",
+      "source_phrase": "I wasn't actually observing how power works",
+      "why_it_matters": "It reverses the host's assumption about elite education as insight.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0139"
+      ],
+      "moment": "The chef refusing to touch his dishes punctures Yale superiority.",
+      "source_phrase": "I'm not eating this crap. Go away, man.",
+      "why_it_matters": "It is the comic humiliation that starts the education reversal.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0143"
+      ],
+      "moment": "Ego and fear become the two greatest enemies.",
+      "source_phrase": "your two greatest enemies are ego and fear",
+      "why_it_matters": "This distills the whole autobiographical transformation.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0146"
+      ],
+      "moment": "He and his wife are two sparks navigating chaos to find each other.",
+      "source_phrase": "two sparks drifting in the universe",
+      "why_it_matters": "It gives the metaphysics an intimate human image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0149"
+      ],
+      "moment": "Dante speaks one word: love.",
+      "source_phrase": "Love is the great secret of the universe",
+      "why_it_matters": "This is the source's spiritual center of gravity.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0151"
+      ],
+      "moment": "The lectures are not the truth; they are ignition.",
+      "source_phrase": "ignited a spark in a lot of people",
+      "why_it_matters": "It sets the public read's relation to Jiang's persona.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0154"
+      ],
+      "moment": "The best advice is bluntly anti-distraction and comes from a writer who knew the cost of chasing desire.",
+      "source_phrase": "Don't chase pussy.",
+      "why_it_matters": "It is crude, memorable, and tied to the love-versus-appetite theme.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158"
+      ],
+      "moment": "Dante is truth itself embedded in poetry.",
+      "source_phrase": "truth itself embedded in the poetry",
+      "why_it_matters": "It preserves the force of Jiang's Great Books hierarchy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161"
+      ],
+      "moment": "Jiang describes himself as everywhere now.",
+      "source_phrase": "I happen to be everywhere now",
+      "why_it_matters": "It closes the interview by showing the scale of the public persona he earlier described manifesting.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Bronze Age collapse",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang uses it as the analogy for total systems collapse after environmental and technological breakdown.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI-controlled community",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "A future social order where people accept surveillance, microchips, and obedience as normal.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel Project",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Religious Zionist project to achieve the Promised Land from Egypt to Iraq and beyond, with Jerusalem and the Third Temple as eschatological center.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Transnational-capital project to use Greater Israel as a base for finance, mercenaries, imported labor, energy, data centers, and AI surveillance.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation ladder",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The sequence of conflict intensification Jiang says Iran is controlling strategically.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gog and Magog",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "An eschatological war script Jiang connects to some readings of Persia and Russia against Israel.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI God",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "A future artificial authority mistaken for God and used to make people obedient, rational, and controlled.",
+      "confidence": "high"
+    },
+    {
+      "term": "new dark ages",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Jiang's term for the chaotic 2060 world of catastrophe, war, and no central authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hermetic philosophy",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "The framework Jiang uses for mind, vibration, correspondence, polarity, generation, and divine consciousness.",
+      "confidence": "high"
+    },
+    {
+      "term": "eudaimonia",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Greek flourishing; Jiang uses it as the daily test of creativity, learning, growth, and love.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gospel of Thomas",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0044",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "A sayings collection Jiang treats as possibly early and aligned with a Gnostic divine-spark Jesus.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gnosticism",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0043",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Worldview in which death is release and humans are divine sparks seeking knowledge beyond material slavery.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory analysis",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0052",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "Jiang's method of asking capability, beneficiary, and secrecy questions to infer hidden actors.",
+      "confidence": "high"
+    },
+    {
+      "term": "blockchain as Trojan horse",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "A technology Jiang says looks open while enabling monitoring and financing.",
+      "confidence": "high"
+    },
+    {
+      "term": "front people",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0061",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Public founders Jiang says make state-backed or institutional technologies appear personal, cute, and harmless.",
+      "confidence": "high"
+    },
+    {
+      "term": "credibility problem",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "The post-Vietnam, Church Committee, Watergate distrust that required indirect promotion of computers.",
+      "confidence": "high"
+    },
+    {
+      "term": "science as religion",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0069",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "The idea that scientific authority can become unquestionable truth rather than debate and exploration.",
+      "confidence": "high"
+    },
+    {
+      "term": "City of London agents",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Jiang's term for tycoons he says represented deeper financial power rather than self-made wealth.",
+      "confidence": "high"
+    },
+    {
+      "term": "gain-of-function research",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "Research Jiang says made the virus mutate unusually fast and was subcontracted because of U.S. restrictions.",
+      "confidence": "high"
+    },
+    {
+      "term": "myocarditis",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0074"
+      ],
+      "definition_or_usage": "A possible vaccine side effect Jiang uses as an example of insufficient questioning after mass rollout.",
+      "confidence": "high"
+    },
+    {
+      "term": "death as rebirth",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "Jiang's claim that dying enables reset, learning, and renewed growth.",
+      "confidence": "high"
+    },
+    {
+      "term": "individual agency",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0086",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0087"
+      ],
+      "definition_or_usage": "The capacity Jiang says every person has to improve the universe by living well.",
+      "confidence": "high"
+    },
+    {
+      "term": "teleological history",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0089"
+      ],
+      "definition_or_usage": "The belief Jiang criticizes that history moves toward progress and modern superiority.",
+      "confidence": "high"
+    },
+    {
+      "term": "attention longevity",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0093",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0096"
+      ],
+      "definition_or_usage": "The idea that a person persists by implanting himself in collective consciousness.",
+      "confidence": "high"
+    },
+    {
+      "term": "psychic demon",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099"
+      ],
+      "definition_or_usage": "Jiang's image for an attention entity strengthened by intense emotions.",
+      "confidence": "high"
+    },
+    {
+      "term": "13 bloodlines",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103"
+      ],
+      "definition_or_usage": "A conspiracy framework Jiang says elites use to imagine inherited sacred rule.",
+      "confidence": "high"
+    },
+    {
+      "term": "Illuminati",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0109",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110"
+      ],
+      "definition_or_usage": "A secret-society myth Jiang describes as recruitment media and political leverage.",
+      "confidence": "high"
+    },
+    {
+      "term": "Plato's cave",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110"
+      ],
+      "definition_or_usage": "Used as shorthand for reality shaped by perception and belief.",
+      "confidence": "high"
+    },
+    {
+      "term": "Chinese AI surveillance grid",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116"
+      ],
+      "definition_or_usage": "The data system Jiang says profiles Chinese citizens and their social networks through ID and payment infrastructure.",
+      "confidence": "high"
+    },
+    {
+      "term": "gray zone",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115"
+      ],
+      "definition_or_usage": "The tolerated position Jiang says foreign teachers occupy in China.",
+      "confidence": "high"
+    },
+    {
+      "term": "manifestation",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0127"
+      ],
+      "definition_or_usage": "For Jiang, imagining a possible future and maneuvering himself into position for it.",
+      "confidence": "high"
+    },
+    {
+      "term": "alternative media",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0127",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0128"
+      ],
+      "definition_or_usage": "Rogan, Dore, the Weinsteins, Tucker, and similar spaces Jiang saw as truth-seeking conversation venues.",
+      "confidence": "high"
+    },
+    {
+      "term": "meritocracy illusion",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0133",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0134"
+      ],
+      "definition_or_usage": "Jiang's former belief that the best ideas and best work would naturally win without friends, money, or connections.",
+      "confidence": "high"
+    },
+    {
+      "term": "Three Things Yale Didn't Teach Me",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0135",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0136"
+      ],
+      "definition_or_usage": "Jiang's article naming IQ worship, zero-sum competition, and fear of failure as educational/psychological problems.",
+      "confidence": "high"
+    },
+    {
+      "term": "redesigned Yale education",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0137"
+      ],
+      "definition_or_usage": "Jiang's phrase for replacing elite instruction with ordinary practices that force humility.",
+      "confidence": "high"
+    },
+    {
+      "term": "ego and fear",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0143"
+      ],
+      "definition_or_usage": "The two inner enemies Jiang says block love and openness.",
+      "confidence": "high"
+    },
+    {
+      "term": "love as secret",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0149"
+      ],
+      "definition_or_usage": "The Dante-derived insight that love opens the universe and guides one toward light.",
+      "confidence": "high"
+    },
+    {
+      "term": "spark",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0151",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0152"
+      ],
+      "definition_or_usage": "The effect Jiang hopes his lectures have: awakening independent truth-seeking.",
+      "confidence": "high"
+    },
+    {
+      "term": "Divine Comedy",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158"
+      ],
+      "definition_or_usage": "Dante's poem; Jiang calls it a word from God and the greatest book ever written.",
+      "confidence": "high"
+    },
+    {
+      "term": "Iliad",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0159"
+      ],
+      "definition_or_usage": "Homer's epic; Jiang recommends it as accessible, fun, and permanently transformative.",
+      "confidence": "high"
+    },
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161"
+      ],
+      "definition_or_usage": "Jiang's YouTube channel and public identity for videos.",
+      "confidence": "high"
+    },
+    {
+      "term": "structural lens",
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161"
+      ],
+      "definition_or_usage": "His stated frame for writing about current events and geopolitics on Substack.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0001",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0002",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0003",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0004",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0005",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0006",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0007",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0008"
+      ],
+      "note": "On 2026-04-15 Jiang gives dated 2045 and 2060 future predictions rather than a timeless model.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0009",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0010",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0011",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0012",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0013",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0014",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0015",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0016"
+      ],
+      "note": "The interview dates Jiang's Greater Israel/Pax Judaica distinction to 2026-04-15 during the Middle East war context.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0017",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0018",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0019",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0020",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0021",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0022",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0023",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang explicitly says the current Middle East war surprised him and may update his prior Pax Judaica expectation.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0025",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0026",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0027",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0030",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0031",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0032"
+      ],
+      "note": "This packet repeats the 2060 forecast and ties it to Newton/world-end framing supplied by the host.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0033",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0034",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0035",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0036",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0037",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0038",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0039",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0040"
+      ],
+      "note": "No older source comparison is made; this is Jiang's dated 2026-04-15 metaphysical frame.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0041",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0042",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0043",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0044",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0045",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0046",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0047",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0048"
+      ],
+      "note": "Jiang dates this religious-political interpretation to the 2026 interview; no direct prior-position update is supplied.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0049",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0050",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0051",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0052",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0054",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0055",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0056"
+      ],
+      "note": "These are speculative claims dated 2026-04-15; Jiang does not cite confidential evidence here.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0057",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0058",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0059",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0060",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0061",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0063",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0064"
+      ],
+      "note": "Jiang anchors this model in the 1970s credibility crisis while speaking in 2026.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0065",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0066",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0067",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0068",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0069",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0070",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0071",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0072"
+      ],
+      "note": "Jiang refers back to COVID-era vaccine politics from a 2026 interview vantage.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0073",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0074",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0075",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0076",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0077",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0078",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0079",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "note": "The COVID claims are retrospective claims made from 2026, not contemporary 2020-2021 notes.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0081",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0082",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0083",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0084",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0085",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0086",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0087",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0088"
+      ],
+      "note": "No prior-source update; this is the interview's 2026 metaphysical answer.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0089",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0090",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0091",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0092",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0093",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0094",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0095",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0096"
+      ],
+      "note": "The Trump longevity model is dated to the second Trump presidency context implied in 2026.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0097",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0098",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0100",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0101",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0102",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0104"
+      ],
+      "note": "The Trump-as-meme and bloodline claims are presented as 2026 speculation, not verified evidence.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0105",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0106",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0107",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0108",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0109",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0111",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0112"
+      ],
+      "note": "Jiang flags some claims here as conspiracy theory and says he has not done much bloodline research.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0113",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0114",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0117",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0118",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0119",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0120"
+      ],
+      "note": "This is a dated 2026 explanation of Jiang's operating status in China.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0121",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0122",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0123",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0124",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0125",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0126",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0127",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0128"
+      ],
+      "note": "Jiang dates his alternative-media turn to the COVID period, about five years before the 2026 interview.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0129",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0130",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0131",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0132",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0133",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0134",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0135",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0136"
+      ],
+      "note": "Jiang locates the study-abroad program crisis in 2008 and the YouTube prediction turn around the COVID era.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0137",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0138",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0139",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0140",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0141",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0142",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0143",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0144"
+      ],
+      "note": "This packet narrates post-Yale reinvention before marriage and family, not a geopolitical prediction.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0145",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0146",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0147",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0148",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0149",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0150",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0151",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0152"
+      ],
+      "note": "Jiang places meeting his wife roughly ten years before the 2026 interview and Dante teaching after his family turn.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0153",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0154",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0155",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0156",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0157",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0158",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0159",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0160"
+      ],
+      "note": "Jiang dates the Talese encounter to autumn 1999 after Yale and gives the 2026 book recommendation at interview close.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0161",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0162",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0163"
+      ],
+      "note": "The public links and channel identity are current as of 2026-04-15.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0025",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0026",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0027",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0028",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0029",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0030",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0031",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0032"
+      ],
+      "note": "Packet includes host sponsor/ad material; semantic claims should not treat ad copy as Jiang's argument."
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0049",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0050",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0051",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0052",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0053",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0054",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0055",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0056"
+      ],
+      "note": "Several claims in this packet are explicitly speculative or conspiratorial in Jiang's framing; preserve attribution to this interview rather than promoting them as established fact."
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0057",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0058",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0059",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0060",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0061",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0062",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0063",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0064"
+      ],
+      "note": "Packet includes host sponsor/ad material; semantic claims should not treat ad copy as Jiang's argument."
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0073",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0074",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0075",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0076",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0077",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0078",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0079",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0080"
+      ],
+      "note": "Several claims in this packet are explicitly speculative or conspiratorial in Jiang's framing; preserve attribution to this interview rather than promoting them as established fact."
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0097",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0098",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0099",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0100",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0101",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0102",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0103",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0104"
+      ],
+      "note": "Several claims in this packet are explicitly speculative or conspiratorial in Jiang's framing; preserve attribution to this interview rather than promoting them as established fact."
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0105",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0106",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0107",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0108",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0109",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0110",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0111",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0112"
+      ],
+      "note": "Several claims in this packet are explicitly speculative or conspiratorial in Jiang's framing; preserve attribution to this interview rather than promoting them as established fact."
+    },
+    {
+      "refs": [
+        "video:interview-ril8pssntzg@transcript:v1#seg-0113",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0114",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0115",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0116",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0117",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0118",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0119",
+        "video:interview-ril8pssntzg@transcript:v1#seg-0120"
+      ],
+      "note": "Packet includes host sponsor/ad material; semantic claims should not treat ad copy as Jiang's argument."
+    }
+  ]
+}
