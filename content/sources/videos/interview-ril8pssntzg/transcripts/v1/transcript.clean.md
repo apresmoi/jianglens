@@ -1,0 +1,981 @@
+# \"They Created Bitcoin!\" Professor Jiang Exposes Why Every Technology Needs A \"Front Man\"│Jack Neel
+
+Source: https://www.youtube.com/watch?v=RIL8PsSNTZg
+
+## seg-0001 / 00:00:00-00:00:07 / SPEAKER_00
+
+Today's guest uses history to predict wars, elections, and the end of the world. What's your prediction for 2060?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:08-00:00:20 / SPEAKER_01
+
+I think by 2060, we will have reached this fork in the road where you do have communities that are AI -controlled. Everyone is perfectly happy being a microchip, perfectly happy being a slave to the system. And you have other communities who are trying to...
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0002
+
+## seg-0003 / 00:00:20-00:00:29 / SPEAKER_00
+
+A son of Chinese immigrants in Toronto, he grew up poor, invisible, and obsessed with how power actually works. Who do you think is Satoshi Nakamoto?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0003
+
+## seg-0004 / 00:00:29-00:00:37 / SPEAKER_01
+
+They say that it translates into sensual intelligence. And when you do game theory analysis, you look at all possibilities, you end up with a deep state. You end up with a CIA.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0004
+
+## seg-0005 / 00:00:37-00:00:47 / SPEAKER_00
+
+Now a high school history teacher in China, he's predicted Trump winning the election, America's invasion of Venezuela, and recently, the war between Iran and the US.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0005
+
+## seg-0006 / 00:00:47-00:01:03 / SPEAKER_01
+
+What can I do that makes me so distinct that I might be popular on social media? And my solution was, I'm going to make some stupid predictions. And if they aren't correct, I'm going to... I'm going to be a laughingstock for the rest of my life. But if they are correct, then I might get on Tucker Carlson.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0006
+
+## seg-0007 / 00:01:03-00:01:33 / SPEAKER_00
+
+In this episode, we'll break down the system he uses to predict the future, examine why he's certain America will lose the war in Iran, and question if he is a crazy conspiracy theorist or the only person willing to say the truth about what's coming next. Professor Zhang, are you a spy? Professor Zhang, welcome to the Jack Neill Podcast. Thanks, Jack. So by 2045, and this is where it gets interesting, what do you think happens in 2045?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0007
+
+## seg-0008 / 00:01:34-00:02:42 / SPEAKER_01
+
+Complete chaos. I think you will experience something akin to the Bronze Age collapse, which is a total systems collapse. And it'll be brought on by an environmental catastrophe. So there's something called the geomagnetic excursion event, which is like the North and South Pole start to move away from their present locations, which then weakens the Earth's magnetic field, which then makes the Earth much more susceptible, to solar flares, which are basically EMP shockwaves, which would destroy the digital economy, right? But the entire world is basically digitized. So imagine a solar flare in the middle of New York City. Well, no one would have access to the internet, telecommunications, the car won't work, the power plants will give out. If it's winter, you will literally freeze to death. Sanitation breaks down. There's no more clean water. It'll be complete chaos. And it will only take one of these events to destroy a lot of the world because we're so congregated inside cities.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0008
+
+## seg-0009 / 00:02:43-00:03:38 / SPEAKER_01
+
+Okay, so I think there's a real possibility in the next 20 years, there will be a major environmental catastrophe. And it's possible it's a perfect storm of catastrophes, meaning pestilence, famine, drought. Earthquakes, just a perfect storm. And in which case, you will have a shattering of the world. So the nation state then gives way to the city state. And these city states have to fight amongst each other for precious resources, especially water. And so it's not a very pleasant future for humanity. But this is something that I don't think people are really prepared for. Yes, I understand there will be a multipolar world. And that is in the mid -term. But in the long term, we have to worry about the very survival of humanity itself.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0009
+
+## seg-0010 / 00:03:39-00:03:42 / SPEAKER_00
+
+What do you think will be the dominant nation at that time?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0010
+
+## seg-0011 / 00:03:44-00:04:46 / SPEAKER_01
+
+I think people will be surprised by how resilient the Germans and the Japanese are. I think in the mid -term, North America, Moscow, Israel will be very dominant. But over time, I think people will be surprised by the resurgence, of the Germans and the Japanese. The Germans are headed towards military humiliation in Ukraine. They can't possibly beat the Russians in Ukraine. But it may be in the long term good for Germany. Because then, after this loss, the Germans may be able to rediscover their national identity, their heritage, and build a stronger nation out of this collapse. The Japanese have been the most resilient people in human history. Um... Um... Um... I mean, the things they've been able to accomplish as a very small nation are just incredible. So you go back to the 13th century when the Mongols invaded Japan twice. And the Japanese, which was at this time a feudal society, broken up into
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0011
+
+## seg-0012 / 00:04:46-00:05:49 / SPEAKER_01
+
+like different kingdoms, warring against each other, they unified as a people to repel this invasion from, at that time, the greatest empire in the world. Then you go to the 19th century when China was being carved up by the Western powers. And it seemed as though Japan was going to be carved up as well. But then Japan started something called the Meiji Restoration, and they started to industrialize. And then in like 30, 40 years, they defeated Russia in a war. And that was unimaginable to people at that time. Go back to 1945, America was firebombing Japan, destroying all of Japan's infrastructure industry. Millions of people were burning to death. America dropped two bombs, two nuclear bombs, two nuclear bombs on Japan. After World War II, within a generation, they became the most dominant manufacturing power in the world. So if you look at East Asia, it's in a lot of trouble, but never, ever bet against the Japanese.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0012
+
+## seg-0013 / 00:05:48-00:05:49 / SPEAKER_01
+
+
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0013
+
+## seg-0014 / 00:05:50-00:06:26 / SPEAKER_00
+
+The way I had it was, essentially, 2030 was Russia expanding into Eastern Europe. Asia is in crisis and America collapses. Historically, an empire falls, another one rises. This is where Israel starts to replace America as like the global superpower, Pax Judaica. And then the ultimate end game is a one -world AI surveillance state with the global matrix of control being headquartered in Jerusalem. Is that what you see happening by 2045, or is that what they see? Okay.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0014
+
+## seg-0015 / 00:06:27-00:07:30 / SPEAKER_01
+
+All right. So let's differentiate between Greater Israel Project and Pax Judaica. Okay. So Greater Israel Project is the idea that Israel needs to achieve the Promised Land, which they believe is what Yahweh promised to their ancestor, Abraham. And this Promised Land, if you look at the map, extends from the Nile in Egypt to Euphrates in Iraq. It also includes parts of Anatolia, Turkey, as well as parts of Saudi Arabia. And so you can make the argument that what Israel wants to achieve in this war, is the Greater Israel Project, meaning that it wants to extend this war as much as possible to drag in as many players as possible, including Turkey, including Saudi Arabia. Because if they're destroying this war, then it's easier for Israel to achieve the Greater Israel Project. Right. And then they want to make Jerusalem the capital of this empire and build the third temple, and this will allow for the Messiah to come.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0015
+
+## seg-0016 / 00:07:30-00:08:31 / SPEAKER_01
+
+That's how they... How these religious Zionists... How they see things unfolding. Pax Judaica is different. Pax Judaica is transnational capital seeing an opportunity in Greater Israel and saying, well, if you guys are going to achieve the Greater Israel Project, we'll come in and finance all this. And we'll help with the building of the AI surveillance state. So there are not that many Jews, so we'll hire mercenaries to be the military for this empire. We'll also bring in millions of Indians, Chinese. We'll bring in Chinese. We'll bring in Filipinos to work as slaves in this empire. And we will use the AI surveillance state to keep this system in check, right? So every slave will be given a microchip. And there's unlimited oil and energy in the Middle East, so we're going to have all these data centers in the Middle East, okay? That's how they want this world to turn out.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0016
+
+## seg-0017 / 00:08:31-00:08:47 / SPEAKER_00
+
+Right. Okay. So the distinction is you're saying it's kind of AI and tech versus traditional finance, but people have to understand that AI was a project of people on the transnational capital side originally.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0017
+
+## seg-0018 / 00:08:47-00:09:36 / SPEAKER_01
+
+Right. Right. Right. Okay. So the distinctions aren't as clear as I make them out to be, right? Because let's just say you're a billionaire like Peter Thiel, you're going to play both sides, right? You're going to see how the political winds shift, and you're going to position yourself, right? You're going to position yourself in a way that allows you to maximize your benefit. You're not going to be like, I'm only for my team. That's not how these people are. They have absolutely no loyalties. Look at someone like Jeffrey Epstein who knew everyone and who was on everyone's good graces. That's how they behave. They're trying to, in a time of chaos, trying to position themselves in a way so that they individually benefit. They have absolutely no loyalty to anyone, okay? Right. Right. Right. Fair. They have absolutely no loyalty to anyone, okay? The religious German commercial capital is just what the Jews want to achieve.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0018
+
+## seg-0019 / 00:09:36-00:10:36 / SPEAKER_01
+
+The religious Jews want to achieve. But the transnational capital wants to make Israel their new center of operations. But it's not limited to just finance and AI. It's also limited to weapons manufacturing, because if the world is going into chaos, they're going to fight wars against each other, so let's make weapons for them, right? Right. also be food production and because Africa will be suffering during this time so what you want to do is you want to take these food supply based in carbohydrates from Russia and then that add value to it in greater Israel and then transfer it to the middle east and to Africa as well so the opportunities in the middle east are almost unlimited because of its resources because of its location and because of the technology that Israel has
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0019
+
+## seg-0020 / 00:10:37-00:10:54 / SPEAKER_00
+
+did you think at one point that Pax Judaica and the greater Israel project coming to fruition was like pretty set in stone and was there like a key event recently or in the past couple years that made you think that that's not the case anymore right um okay
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0020
+
+## seg-0021 / 00:10:55-00:12:00 / SPEAKER_01
+
+so before I actually believe that this was going to happen sooner or later but quite honestly this war in the middle east has surprised me because I did not actually imagine Iranians to be this resilient I didn't imagine that they would dominate the war in the way they are I predicted that America would lose the war because I thought the Americans would be incompetent that they would be to become too arrogant they would extend too far into Iran and they would bog down and then they would just collapse but the Iranians are controlling the escalation ladder very strategically they're able to control the narrative very well like there are a lot of Americans who are actually rooting for the Iranians I mean that's incredible to think about and so I think we should not discount Persia the Persians are an extremely creative people they um have been around for at least 3 000 years and
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0021
+
+## seg-0022 / 00:12:00-00:13:03 / SPEAKER_01
+
+they claim a legacy that is even richer than the than the Jewish legacy so um how Iran will develop is something that that I think will surprise people because I always imagine that this word would devastate Iran but if Iran is able to stay intact well they can be a competitor to Pax Judaica right because Iran also has a lot of resources it's also an essential location and it will uh have really good trade relations with both China and Russia so it actually it actually create a trade block in competition with Pax Judaica there'll be a lot of overlaps to be a lot of cooperation but uh Persia could be a counterweight to Pax Judaica which might also lead to the war of Gog and Magog which is what is part of their eschatological script in some calculations Gog and Magog represent Persia and Russia so they see eventually a war between Israel against
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0022
+
+## seg-0023 / 00:13:04-00:13:17 / SPEAKER_00
+
+alliance of Persia and Russia is there anything else you wanted to add to predictions for by 2045 that you think are guaranteed despite how this war plays out I think you have population collapse
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0023
+
+## seg-0024 / 00:13:17-00:14:14 / SPEAKER_01
+
+around the world because what people don't appreciate is that um we've borne from the future to finance today we shouldn't have eight billion people around and like there are billions who live middle -class lifestyles if you're a middle -class American today you have a more extravagant lifestyle than the Roman emperors did you're able to travel anywhere around the world today if you wanted to you could go online book a flight to the Maldives and be on be there like in a couple days in a you know five -star resort and in the Maldives you could be eating avocados from Mexico you could be sipping red wine from Chile it's incredible the world that the world that we've created and we made it accessible to just an average American or Westerner that's incredible to think about but we have to remember that this is all an illusion and we've been able to create this because we
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0024
+
+## seg-0025 / 00:14:14-00:15:24 / SPEAKER_01
+
+borrowed from the future and we've mortgaged the future and eventually the bill is going to come due and so in a time of war when supply chains are disrupted then you're going to have a lot of issues including famine so um one trend that I think people don't appreciate is how our values our sense of decency and normalcy will change over time as the conflicts become worse and worse we think we believe today that we are so much superior to the past because we've eliminated famines we've eliminated slavery we've eliminated genocide but who should say that as things get worse and worse these things won't return and they won't be normalized right if there's not much water to go around if there's not enough food to go around then you're gonna have these issues right so so I think people will be at first shocked by how rapidly the world declines both in terms of
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0025
+
+## seg-0026 / 00:15:24-00:16:19 / SPEAKER_01
+
+population morality decency um and I think people will be even more surprised by how quickly we become desensitized how quickly we normalize this new world that we are in and you know if you just go back to recent history we've changed a lot um in these past 10 years 2016 was the election of donald trump no one thought that was possible then you had covid happen no one thought that was possible then you had russia invade ukraine we didn't think that was possible now america has invaded iran we didn't think that was possible but each time we became normalized desensitized to the event and it's become part of our um memory and um we sort of um memory hold a lot of the trauma you've said that isaac newton who many
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0026
+
+## seg-0027 / 00:16:19-00:16:38 / SPEAKER_00
+
+people just think of as a famous scientist and physicist actually spent most of his life studying the bible and trying to calculate when the world would end newton said the world would end in 2060 and you've said that people with unlimited power believe him and are executing his plan what do you think will happen by 2060
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0027
+
+## seg-0028 / 00:16:40-00:18:01 / SPEAKER_01
+
+i think by 2060 um the world will be in complete chaos there'll be the new dark ages there'll be there'll be no central authority there'll be catastrophe after catastrophe um there'll be floods everywhere there'll be earthquakes um there'll be there'll be population collapse and um i think that humanity will have entered the darkest age its experience for thousands of of years and i think at this time what's going to happen is that humanity will reach a um fork in the road um and there'll be some people who are like we need to return to the past we need to return to central authority we can use ai to create god and once we create ai this ai god people have no memory that was an ai and um we can use this god to create a perfect world there'll be a lot of people of people like that and these are the most powerful people
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0028
+
+## seg-0029 / 00:18:01-00:19:13 / SPEAKER_01
+
+right and people will think well Well, then we will have ended history because once this AI God is in place and no one knows it's AI and thinks it's just God, then people will be completely obedient. People will be reasonable. People will be rational. People will obey whatever this God tells them to do. But then you'll have another set of people in the minority who are like, this is a perversion of humanity. This is like Brave New World. This is using drugs. It's using technology to enslave the human imagination, the human consciousness. And we're not here in this world to just be obedient slaves. We're here to take risks. We're here to explore. We're here to ask questions. And we have to fight to leave a legacy of freedom, of imagination to our children. And so I think that's the key. And so I think that by 2060, we will have reached this fork in the road where you do have communities that are AI controlled.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0029
+
+## seg-0030 / 00:19:14-00:19:55 / SPEAKER_01
+
+You have an AI surveillance state where everyone is perfectly happy being a microchip, perfectly happy being a slave to the system. And you have other communities which are weaker, which are in the minority, who are trying to salvage what makes us human and trying to find a new spiritual path for humanity. And this will be the great defining struggle of 2060 around that area while at the same time, we have to remember there are still wars going on. There's still a lot of environmental catastrophe going on brought on by the geomantic excursion. There might have been a nuclear war by this point.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0030
+
+## seg-0031 / 00:19:56-00:20:51 / SPEAKER_00
+
+Do you believe that the God everyone worships today is AI? Have you ever thought about how many different software subscriptions you're using to run your business or run your business? Social media channels? Because if you're like me, you're probably doing email marketing on one platform. You're running your website on another platform, customer support slash CRM somewhere else. And you're spending thousands of dollars a month on all these tools and you barely can keep track of all of it. That's why I was so glad our team started using High Level. It's basically the operating system for our entire business all in one place. But the craziest part is their AI studio. Anything you want to add to your business, new website, better funnel, automations, it builds it out instantly simply by typing in a prompt. Now, be honest with me. Are you currently paying more than $97 a month to keep track of your leads in a CRM, send automated emails and text messages, build landing pages and process payments?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0031
+
+## seg-0032 / 00:20:51-00:21:19 / SPEAKER_00
+
+If you said yes, you're probably going to want to switch to High Level. So seriously, if you want to stop paying for eight different software subscriptions to run your business, just go to jackneil.com backslash High Level or scan the QR code on screen. Again, that is jackneil.com backslash High Level if you want to run your entire business with one platform. But anyway, guys, back to the podcast. Do you believe that the god everyone worships today is AI?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0032
+
+## seg-0033 / 00:21:21-00:22:30 / SPEAKER_01
+
+I believe in Hermetic philosophy. I think Hermetic philosophy helps us best understand the world. And so I'll just go into the basic principles of Hermetic philosophy to start our discussion, OK? So the first idea or the first law is that mind is everything. The universe is conscious. And how it's conscious is through vibrations, OK? So the universe is energetic and it vibrates. And so vibrations are information, right? So that's consciousness. Second principle is as above, so below, which is to say that the universe is fractal. In each aspect of the universe, it's the entire universe. So in ourselves, it's the universe itself. OK, so as above, so below. So below, as above. OK, so second idea. The third idea is the idea of rhythm, the law of rhythm, which is to say is that there is a pattern to these vibrations. There's a pattern to the movement of the universe, to the movement of the stars.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0033
+
+## seg-0034 / 00:22:30-00:23:44 / SPEAKER_01
+
+Number four is the idea of correspondence, which is to say, that there are different dimensions, OK? An infinite set of the dimensions that range from the material to the divine, OK? So the body, the heart, the mind, the soul, these are all different aspects of, these are all different dimensions, OK? They all correspond to each other. And that's what enables our individuality. Then you have the law of cause and effect, where if we assume that the universe is conscious, it's fractal, it's interconnected, then whatever I do impacts you in a certain way. It's almost like the butterfly effect, where through individual action, through individual faith, we can impact the universe both in a positive or negative light. But our actions do have consequences. Then you have the law of polarity, which is to say that for every thing, there's an opposite, right? So think of yin and yang, think of thesis and typhusis. Whatever there is creates something that is opposite, OK?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0034
+
+## seg-0035 / 00:23:44-00:24:48 / SPEAKER_01
+
+Then you have the law of generation, which is to say that when these opposites combine together, you create a new force, OK? So think of thesis, typhusis, synthesis, OK? And that's how the world, the universe functions. It's constantly seeking creation. It's constantly seeking generation by unifying opposing forces. And so I think that this is how the universe works. And God is the universe itself. So the movement of the universe is the consciousness of God. So we are inside God, but God is also inside us. And so once we recognize this aspect of ourselves, that we can exist in multiple dimensions, that we are both an individual as well as part of a greater universe, that we are both an individual as well as part of a greater universe, that we are both an individual as well as part of a greater collective, then I think that leads to certain actions in the world, OK?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0035
+
+## seg-0036 / 00:24:48-00:25:49 / SPEAKER_01
+
+What I believe is our time in this world is short and it's precious and we are eternal, but we have to make the most of our time here. And the Greeks have a word for this, eudaimonia, which is flourishing. So every day we should be asking ourselves, not how much money do we have, not what have I achieved, but am I flourishing as a person? Meaning, am I flourishing as a person? Am I being my most creative self? Am I learning, am I growing, am I loving? And I feel as though love is the unifying force of the universe in that when we love someone unconditionally, we open our souls to the collective conscious. And this is what drives our imagination. And then this imagination allows us to be creative, and make the world a more creative place. Because again, what happens in our mind, we're just a fractal.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0036
+
+## seg-0037 / 00:25:49-00:27:09 / SPEAKER_01
+
+What happens to our mind is reflected throughout the universe. So if we are creative, the universe becomes creative itself. And so for me, I take this to mean that my role in this world is to use my imagination to inspire others to use their imagination. And I do that through my imagination. teaching but but that's how i conceptualize my role giving my understanding of the universe so it's not really about like what is god and does he exist it's more about how can we make god smile how can we ourselves make others smile and bring joy to the universe imagine that the entire world the entire universe both past and future it's all watching your movement what you do and whatever you do today we remember for all of eternity and you should live accordingly to this principle you know emmanuel kant calls this the categorical imperative how do you know what is good
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0037
+
+## seg-0038 / 00:27:09-00:27:26 / SPEAKER_01
+
+what is just what is moral if you are proud that everyone in the universe who's ever lived and whoever will ever live watches what you do and smiles at you i think that's a really fascinating philosophy
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0038
+
+## seg-0039 / 00:27:26-00:27:53 / SPEAKER_00
+
+and a great takeaway um if you don't mind i do have a few questions that i think now that we've covered a timeline and kind of your view uh on all of it and your takeaway there are some takeaways that i have that i found particularly interesting from reviewing so many of your lectures the past few weeks uh if you wanted to control society would you have
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0039
+
+## seg-0040 / 00:27:53-00:29:18 / SPEAKER_01
+
+them believe in one god many gods or no god okay so i think that um we've had different societies where we tried either no god many gods or just one god and i think you we you get different societies so the greek were polytheistic at the same time they were the most creative people ever i mean what they were able to accomplish about 100 years is just mind -boggling because they basically created the foundations for modern western civilization um and their concept of polytheism is that there are different gods competing against each other and we're just pawns in this great game and so that made them much more thoughtful about the reality of the universe like why are we here what what is our purpose and their deep introspection is what leads to the tremendous creative output um so that's the aspect of polytheism that i think is very encouraging in that you're always forced
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0040
+
+## seg-0041 / 00:29:18-00:30:32 / SPEAKER_01
+
+to ask the hard questions um one god is a recent phenomenon and it's led us to be the most energetic people in the world right so think about our accomplishments where we're able to build skyscrapers we're able to build high -speed rails we're able to build airplanes but no one ever asked the question why are we doing this right like what's the point of this and quite honestly if you just look at human health index people's happiness people's health um their cancer rates it's it's pretty abysmal i mean so so yeah so having one god monotheism compels us into action a sort of like frenetic anxious action but it's also led to tremendous human suffering no god is just complete and utter chaos um it could lead to tremendous but the problem with no god is we become god and we we feel as though we can impose our will on others as well and
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0041
+
+## seg-0042 / 00:30:32-00:31:32 / SPEAKER_01
+
+that's the issue in china where i live where we never really had a god we had an emperor so but the idea that one person can become god um has led to a very cruel and unjust world um so i would say there are strengths and weaknesses to all systems but i would say that it is part of the human condition that we constantly shift and challenge our pre -existing conceptions of god and that's what allows for a lot of progress why did they actually kill jesus okay well first of all we don't really know they killed jesus because if you look at the islamic tradition there is jesus jesus is the penultimate prophet muhammad is the ultimate prophet um and if you look at the quran uh if you look at the islamic tradition jesus never died he was never crucified he just died peacefully and he went up to heaven because the idea
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0042
+
+## seg-0043 / 00:31:32-00:32:37 / SPEAKER_01
+
+is that if you're a messenger of god it doesn't really matter if you die or not what matters is are you able to deliver the message properly and jesus was able to to do that so jesus is revered in the islamic tradition and um there are different sects of christianity for example the gnostics who don't really care and don't even talk about his death because for them death is rebirth death is release this planet that we're on is hell on earth we're here to enlighten others but once we finish our job then we return home to wherever we came from and so death is just release it's rebirth it doesn't really matter if if you die um so there are people who don't believe that jesus died and there are people who believe it didn't really matter how he he died um but obviously the story of the crucifix fiction is something that compels people
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0043
+
+## seg-0044 / 00:32:37-00:33:57 / SPEAKER_01
+
+and which drives people into this tremendous emotional angst you have a lot of war started over uh over this this issue um right so um my understanding is that if you look at the historical evidence jesus was probably crucified by the romans because why would you make this up um and he was probably crucified because he was a threat to the status quo meaning that he pissed off both the roman authorities as well as the jewish authorities and i think that he was pissing everyone off because he was he was providing some truth that spoke to people intuitively but which went against the natural order and what was that truth i personally believe that he was a religious genius who had an intimate connection with divine and who believed something along the lines of nazism hermetic philosophy and we and the evidence for that is the gospel of thomas which is probably the earliest record
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0044
+
+## seg-0045 / 00:33:57-00:35:01 / SPEAKER_01
+
+of his sayings and it and people believe some people believe not everyone but some people believe it actually precedes the gospel of mark which was about 70 um and if you just read the gospel of thomas i think it actually aligns pretty closely with what we know to be authentic sayings from the other gospels including mark and matthew um if you read the gospel of thomas it's clearly a gnostic worldview we're all divine sparks and we're here to experience the world for what it is to sort of suffer into pain in order to seek enlightenment but we have to remember our true aspects if we are to truly seek knowledge enlightenment otherwise we become slaves to the system otherwise we're too focused on material acquisitions otherwise we're too focused on making money um and this was a direct threat to the system because um this would overturn the status quo right the roman society is
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0045
+
+## seg-0046 / 00:35:01-00:35:57 / SPEAKER_01
+
+a very strict hierarchy and to say that uh the person with all the money has no authority over me uh the person with all the power has no authority over me because i'm a divine soul uh that could be very upsetting so we also know that jesus spent a lot of time with slaves and the oppressed well this is a problem because a slave is considered economic property so if you tell a slave hey man you're a divine soul you shouldn't be a slave and the slaves either decides to quite quit or runs away that's economic damage now at that time in history if you were to insult someone uh you know you might get hit at but if you actually steal from someone they killed you right because remember remember the um crucifixion there were three people who were crucified jesus and two thieves right so i think that jesus with his message was
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0046
+
+## seg-0047 / 00:35:57-00:36:10 / SPEAKER_01
+
+liberating slaves psychologically and emotionally and giving tremendous comfort to them but this made them less productive in which case you know you're causing economic damage you're destroying property
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0047
+
+## seg-0048 / 00:36:12-00:36:25 / SPEAKER_00
+
+so he was considered uh uh basically a rebel you said paul was a spy that used jesus as a political symbol do you think the cia uses money to destroy the slaves or did he use the money for his own cause
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0048
+
+## seg-0049 / 00:36:25-00:37:26 / SPEAKER_01
+
+control to create terrorists um look i think if you just look at the history of the middle east a lot of these islamic extremists were creation of empire right so let's go back to 1950s and the spreading of um wahhabism throughout saudi arabia and throughout the islamic world which then became of course al -qaeda well if you go back to the 1950s this was heavily encouraged by the americans and the british for three reasons okay the first is that the so america was at war with the soviet union in the cold war right and you couldn't fight the soviet union in a battlefield because that would lead to a nuclear war so what you had to do is sabotage them for move in and there was a sizable muslim minority in the soviet union about i think about like maybe 20 or 30 percent that's a lot of people all congregated in the south of
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0049
+
+## seg-0050 / 00:37:26-00:38:31 / SPEAKER_01
+
+the soviet union which has always been problematic for the soviet union right there were that many muslims in america so why wouldn't you encourage fanatical violent extremism right that's number one that so that that works to the benefit of the americans and the british second is that at this time in the middle east um the middle east had tremendous oil right and there were certain movements in the middle east that were that would counter the power of the anglo -american empire this included nationalism this included pan arabism and included socialism so you go to um iran in 1950s where the democratic elected a leader who wants to nationalize the oil industry rather than just give it for free to the british right um and so nationalism and socialism were it were problems for the americans and the british so what do you do well you promote um islamic extremism as a counter to nationalism and
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0050
+
+## seg-0051 / 00:38:31-00:39:44 / SPEAKER_01
+
+socialism right um and um the third thing is that islamic extremism destabilizes the middle east we've seen this play out over and over again and so how does this instability help america and britain because it stabilizes israel right so if you go to if you look at isis it's really funny how isis Israel you would think that these Islamic extremists would hate Jews the most but for whatever reason they've never attacked Israel in fact we have quite a few instances where the American military arrested an Islamic extremist and they discovered oh we have to let him go because he's a Mossad agent so there are lots if you just go to Middle East and you ask around they'll tell you this they'll tell you well you know Isis was probably a CIA creation Al Qaeda or someone Bin Laden were all financed by the CIA because remember they went from Saudi Arabia to Afghanistan to
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0051
+
+## seg-0052 / 00:39:44-00:40:46 / SPEAKER_01
+
+become Mujahideen to fight the Soviets and so the CIA financed all this who do you think is Satoshi Nakamoto well I mean they say that it translates into sensual intelligence and the story makes no sense right because why would you spend years possibly decades in your basement creating a new technology the blockchain and technology and then just give it for free to the world and right that makes no sense does sound a little ridiculous it sounds kind of ridiculous right so then you have to ask yourself three questions first of all is who would have the technology and the expertise and you have to ask yourself these three questions first of all is who would have to create something like the blockchain. Second of all, you have to ask, who would benefit from this blockchain creation? And the third question you want to ask is, why would they keep it secret? And when you do
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0052
+
+## seg-0053 / 00:40:46-00:41:46 / SPEAKER_01
+
+game theory analysis, you look at all possibilities, you end up with a deep state, the American deep state. You end up with the CIA. So the first question, who would have the expertise and the technology to create the blockchain? Probably the same people who created the internet. Probably the same people who created GPS, DARPA, NSA, CIA. Probably these guys, right? If they could, the internet, blockchain, it's just more of an enclosed model of the internet, right? Where the internet is open, but the blockchain is actually closed up to certain members. But everything is transparent within the blockchain, right? So that's the first question. Second question is, who would benefit from blockchain? Well, the CIA, because of 2013, they're able to do a lot of things. One is surveillance, where they're able to monitor everything, right? It's almost like a Trojan horse if you were to use blockchain. Second is like the CIA, it does a lot of black ops.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0053
+
+## seg-0054 / 00:41:46-00:42:57 / SPEAKER_01
+
+It is a government within a government, right? It is basically outside of all political control. But it needs a mechanism to finance its operations. It basically needs a monitoring operation. And blockchain is a great mechanism to finance a lot of its operations. Especially drug trafficking, okay? Third question is, why would they keep it secret? And the answer is, only if people believe that this was transparent, open, and beyond authority, beyond political control, does it have value, right? So the moment people recognize that this is a CIA operation, people won't put their money into blockchain. People won't put their money into Bitcoin. They'll be like, I mean, why would I do that? You have to ask yourself this question. Where are the blockchain servers located, right? Because I imagine if you're able to control the hardware, you can also control the software. I don't care what they tell me about open source and all that.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0054
+
+## seg-0055 / 00:42:57-00:43:01 / SPEAKER_01
+
+I want to know where the databases are, where the servers are physically.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0055
+
+## seg-0056 / 00:43:05-00:43:10 / SPEAKER_00
+
+It's interesting too that it's designed like a religion. Yeah. Hmm.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0056
+
+## seg-0057 / 00:43:11-00:43:15 / SPEAKER_01
+
+I'll tell you something else, okay? Mark Zuckerberg.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0057
+
+## seg-0058 / 00:43:15-00:43:16 / SPEAKER_00
+
+That's what I was going to ask you about, yeah.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0058
+
+## seg-0059 / 00:43:16-00:44:14 / SPEAKER_01
+
+So Mark Zuckerberg had his conflict with the Winklevoss twins. The Winklevoss twins, okay? And so the Winklevoss twins sued Mark Zuckerberg, claiming that Zuckerberg stole the idea for Facebook from them. And this went to court. And there was a settlement. I forget the amount, okay? Okay. But then the Winklevoss twins took a sizable portion of the settlement and put it all in Bitcoin. We're talking about millions of dollars into Bitcoin when it was just a novelty. Why would people do that? They're the largest individual owners today, I believe. I don't know that, but I'm just saying back then, when this was a novelty, when this was a niche thing. And these are not technologists, right? Why would they put millions and millions of dollars into this thing? That's really strange.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0059
+
+## seg-0060 / 00:44:14-00:45:08 / SPEAKER_00
+
+Hey, really quick. Do you have a 401k, a Roth IRA, or happen to have a lot of money in crypto? Because you're definitely going to want to hear about this. See, the biggest supporters of this podcast right now are the guys over at iTrust Capital. And when they first reached out to me and explained what they did, it literally sounded like a cheat code. See, with their platform, you can convert your existing 401k or Roth IRA into one that lets you buy Bitcoin, Ethereum, and over 80 cryptocurrencies. While maintaining the same tax saving benefits. Now, of course, you can start a new IRA with them if you're bullish on Bitcoin and want to save on taxes if you ever decide to cash out. But if you're someone who already has a lot of crypto and you're worried about it getting hacked or stolen, iTrust also offers a PCA account, which is institutional grade level custody, meaning your assets are fully insured, ultra secure, and never sitting on any risky exchanges.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0060
+
+## seg-0061 / 00:45:08-00:45:51 / SPEAKER_00
+
+So if you guys want to get access, just go to jackneil.com, backslash iTrust, or scan the QR code on screen. Again, that is jackneil.com, backslash iTrust, or hit the first link in the description for an easy $100 bonus. But anyway, back to the podcast. You've said figures like Zuckerberg, Elon Musk, and Bill Gates are not geniuses, but front people. Sam Altman didn't invent ChatGPT or LLMs. Steve Jobs didn't invent the iPhone. Do you think the government invented software for social media and AI? So if you go back to the 1970s, the government had a huge credibility problem.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0061
+
+## seg-0062 / 00:45:52-00:47:05 / SPEAKER_01
+
+And the Pentagon had put all this money into the internet as a surveillance tool. They wanted to promote the internet and computers as a way to control people. But the problem is, Americans had just experienced the Vietnam War. And there were the church committee hearings. And so Americans knew the CIA was this evil organization. So there was absolutely no trust in government. There was also the Watergate hearings. Before that, the assassinations of Martin Luther King, JFK, RFK. So the government had absolutely no trust in government. So you needed a strategy of how to make people believe computers were safe and cute and innocuous. And the strategy they came up with is, let's just open source this to nerds. So if you're able to sell computers to the public, you go make the billions of dollars. So Steve Jobs partnered with Steve Wozniak. And at that time, people don't know this, but Steve Wozniak was an employee of Hewitt Packard, which is a defense contractor.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0062
+
+## seg-0063 / 00:47:06-00:47:41 / SPEAKER_01
+
+And so whatever he created actually belonged as an IP to HP. So Steve Wozniak creates this open source computer. And then he goes to his superiors at HP and says, look, I'm working for you guys. You guys are giving me the paycheck. Listen, this computer, I'm happy to give it to you guys. And they told him, no, we don't want it. No, go sell yourself. It's yours. And that's kind of strange.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0063
+
+## seg-0064 / 00:47:41-00:47:51 / SPEAKER_00
+
+And then he becomes a billionaire along with Bill Gates. So HP gave Steve Wozniak the ability to sell Mac for free. Okay.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0064
+
+## seg-0065 / 00:47:51-00:49:02 / SPEAKER_01
+
+So Steve Wozniak was an employee of HP. And he was trained by HP, meaning his engineering skills came from that environment. And he had access to all of HP's technology. And that's how he was able to construct a personal computer from scratch. Right? Because of the expertise provided to him from his employer. So technically, it should belong to HP. Right. But they came to an agreement where HP would not claim any IP over this computer, okay? So think of a university, if you're Stanford, right? Stanford owns some parts of Google because, you know, Larry Page and Sergey Brin developed Google at Stanford. Right? Because you have access, you have access to all of Stanford's technology and expertise. But when Steve Wozniak designed the Apple computer, HP said, no, no, no, we don't want anything. We don't be involved in this. Right? And you have to ask yourself, why would they do that?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0065
+
+## seg-0066 / 00:49:03-00:49:23 / SPEAKER_00
+
+I think there's about 3,000 like individual billionaires publicly documented by Forbes. Like did we, like a hundred years ago, was that a thing? Right? Were all these individual billionaires that had these come from nothing stories where they invented this great product and sold it? Or was that only a necessity after Vietnam?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0066
+
+## seg-0067 / 00:49:24-00:50:29 / SPEAKER_01
+
+I think this is a recent phenomenon. If you go back to the Gilded Age, these billionaires like John D. Rockefeller and Andrew Carnegie, what people don't recognize is that like when they died, if you actually look at their net worth, how much they stole onto their children and grandchildren, it was only a fraction of the total net worth. So where did all the other money go? Right? And they were actually spending a lot of their money on charity. So Andrew, Andrew Carnegie, Rockefeller were known for that. And what people don't recognize is that they had a problem, which is everyone assumed in America that these were self -made billionaires. This is American dream, right? They were the paragons of the American dream. You come to America, you have nothing, but then suddenly overnight by working hard, you're a billionaire or a trillionaire, okay? And what they don't recognize is that these were just agents, representatives of the city of London.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0067
+
+## seg-0068 / 00:50:30-00:50:43 / SPEAKER_01
+
+So they need to disguise the fact that they didn't actually have that much money, right? And the way they disguise that is by donating the money to charity and saying, oh, well, you know, I gave it all away before I died.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0068
+
+## seg-0069 / 00:50:49-00:51:10 / SPEAKER_00
+
+I'll ask you, do you think science is the most worshiped religion on earth? This is a thought I had watching your videos is what happens when an entire group of people worships one religion is it never feels like a religion. It feels like the truth.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0069
+
+## seg-0070 / 00:51:11-00:52:18 / SPEAKER_01
+
+Look, let's look at COVID, okay? So COVID, you have this virus going around. It was mutating very, very fast. And, um, then they, in like, I think less than a year, right? Eight, nine months, they introduced the vaccine, the mRNA vaccine. And this thing was never tested. It usually takes about 10 years to develop a vaccine that's effective. And that's when a virus stabilizes. But we know, we know during that time, the virus was constantly mutating. So they put design a vaccine to try to stop a, a constantly mutating virus, which we know doesn't work. Um, and there was a lot of dissenters, like the most famous, I think at that time was Brent, uh, Brett Weinstein. And he was telling, I was watching a lot of his podcasts. Okay. But he was explaining, explaining to, uh, his, the public, the audience, a basic fact about viruses. Okay. The virus is constantly shifting, mutating, right?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0070
+
+## seg-0071 / 00:52:18-00:53:32 / SPEAKER_01
+
+When you have a vaccine, the vaccine is, a fortification against the virus. But if the virus is shifting, what the virus will do is develop strategies to evade the fortification, right? Because it can shift. Your fortifications cannot. So what you're doing, if you're introducing a vaccine into the situation is you're training the virus to be, to be much more evasive. So you shouldn't do that. Okay. Very simple logic, right? We're just using logic here. I'm just saying, you know, unless the virus has stabilized, you don't know what it will do. So don't build fortifications yet, because these fortifications will be half -assed. It will not be effective. And all that will happen is the virus become much more, um, evasive because of that, right? Simple fact. How many people took the vaccine? 80 % of the US. Well, um, and was there any, and how many of these people question the logic and the evidence behind vaccines?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0071
+
+## seg-0072 / 00:53:31-00:53:32 / SPEAKER_01
+
+
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0072
+
+## seg-0073 / 00:53:36-00:53:37 / SPEAKER_00
+
+20%. Yeah.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0073
+
+## seg-0074 / 00:53:37-00:54:02 / SPEAKER_01
+
+And after it was revealed that there might be some side effects to this vaccines, including myocarditis. Okay. Not strong evidence, but I'm saying there might be some side effects because whenever you introduce a new vaccine at scale to hundreds of millions of people, there's always going to be side effects, right? So myocarditis might be, um, one of the side effects, but how many people question that?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0074
+
+## seg-0075 / 00:54:03-00:54:04 / SPEAKER_00
+
+Not many.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0075
+
+## seg-0076 / 00:54:04-00:54:36 / SPEAKER_01
+
+And when, you know, CNN makes fun of Joe Rogan for promoting Ivor Merton, even though Ivor Merton was won the Nobel prize, how many people thought CNN was correct? I mean, like, like it's just astonishing how the vast majority of people during the COVID era shut off their brains, just accepted whatever science told them. And just stop asking the most fundamental basic questions anyone should ask about anything.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0076
+
+## seg-0077 / 00:54:37-00:54:44 / SPEAKER_00
+
+Do you think it's fair to say that the most popular religion is one that never feels like a religion?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0077
+
+## seg-0078 / 00:54:44-00:55:14 / SPEAKER_01
+
+I would say so, yeah. Science prides itself on being above religion, on being entirely focused on the truth. But truth can only be arrived at through debate, through questioning. Through exploration. How much debate happened during the COVID epidemic? None. If you try to debate this, they shut you down. They ostracize you from society. That seems to me like a religion.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0078
+
+## seg-0079 / 00:55:15-00:55:25 / SPEAKER_00
+
+Yeah, it's an interesting one. Uh, because if you look at the origins of it, it's like, comes from magic, right?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0079
+
+## seg-0080 / 00:55:26-00:56:32 / SPEAKER_01
+
+Yeah. Um, look, I mean, clearly, that thing was a bioweapon. It was a bioweapon of some sort. Because in nature, viruses do not mutate that fast. It makes no sense for a virus to mutate that fast because a virus is trying to survive by inserting itself into a host. So the host dies, it dies as well. Right? So the strategy for a virus is to be innocuous enough to infiltrate the host. So why would you constantly become much more powerful over time? Why would you become faster over time? It makes no, it makes, it makes no sense. So clearly this came from Game of Function research that I think was, um, supported and financed by the US military. Um, and because Obama had issued, um, uh, a ban on Game of Function research, this research was in subcontract to China. Hmm. Which also tells you the world probably doesn't work the way you think it does, right?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0080
+
+## seg-0081 / 00:56:32-00:56:51 / SPEAKER_01
+
+Because if China and, and the United States are competitors, why would the US military subcontract biological research, biological weapons research, by the way, to a, um, research facility in China that is affiliated with the Chinese military?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0081
+
+## seg-0082 / 00:56:53-00:56:58 / SPEAKER_00
+
+But Professor Zhang, you're Chinese, I'm American, we're supposed, we're supposed to be enemies, right?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0082
+
+## seg-0083 / 00:56:59-00:57:01 / SPEAKER_01
+
+Yep. And, and, and then the world will be perfect. Yes.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0083
+
+## seg-0084 / 00:57:03-00:57:07 / SPEAKER_00
+
+What do you think are the three biggest lies humans have been told? Um,
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0084
+
+## seg-0085 / 00:57:09-00:58:05 / SPEAKER_01
+
+I think the three biggest lies are death is the final reckoning. Whereas I think death is actually the beginning. I think that, um, if you look at secret societies, the way they initiate you into the society is through death. They pretend that you died. They bury you. And the, the reason why is that every time you die, you can look at yourself for who you are and choose a better path. So you, you're able to let go of who you are. And that's why I think death is important because death allows for rebirth and rejuvenation. It allows for a reset. Um, and I, I think that's a mechanism of knowledge accumulation where if you are making a mistake in this life, don't worry about it because you're going to die and you'll, you'll probably come back at a later point and learn from your, from your, from your mistakes. But don't be afraid to die.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0085
+
+## seg-0086 / 00:58:05-00:59:07 / SPEAKER_01
+
+Don't be afraid of making mistakes. It's all part of the growing process. So I think death is one of the greatest lies. And it's, it's a very destructive lie where for whatever reason, everyone's afraid to die. So they spend billions of dollars trying to live forever. Right? So I think that that's a huge, huge lie. The second big lie is that we are individually powerless. We don't matter. Right? So this is war going on in Iran. Well, we can't affect its outcome because we're not warriors. We don't have an army. So let's just sit back and watch only fans or play video games or gamble how the world will turn out. But as I say, but as I said before, we're all a reflection of the universe and what we do matters. If we choose to live a good life ourselves, the universe will be better for it. So don't worry about what's happening in the middle East.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0086
+
+## seg-0087 / 00:59:07-00:59:31 / SPEAKER_01
+
+Don't worry about geopolitics. Just worry about it. Don't worry about being a good person, being kind, open, generous to everyone around you. And you, you, you have made the world a better place. Um, you do matter. And the great lie is that you don't matter. The great lie is that you have actually no impact in this world. And unfortunately, too many people have believed this lie and have absolved themselves of both agency as well as responsibility.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0087
+
+## seg-0088 / 00:59:31-00:59:35 / SPEAKER_00
+
+I like those a lot. Do you think another lie is history is random?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0088
+
+## seg-0089 / 00:59:37-01:00:41 / SPEAKER_01
+
+So they don't say history is random. They say history is theological, meaning that history is moving towards a greater purpose and that we improve generation by generation, right? So do you look at our advances since the scientific revolution? Um, and I think that we've deluded ourselves into believing that, um, we're at the height of civilization, that because we have airplanes, that because we have skyscrapers, because we have the internet, we've achieved, um, the greatest civilization ever in human history. But then you go and look, you look at a place like Egypt, which built the pyramids and like, we can't explain the pyramids. We can't even build them today. Well, yeah, I mean, like, so, so if we're the greatest civilization ever in human history, why can't we build the pyramids? Um, there's so many, there's so much of history hidden from us. And so, um, we just deluded ourselves into, into believing that we're so much better than everyone else.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0089
+
+## seg-0090 / 01:00:41-01:01:37 / SPEAKER_01
+
+We're so much superior than every other civilization that's come before us. When I don't think that's actually true. When I think that, you know, if you go and you explore, um, these indigenous communities around the world, maybe the natives, the Inuits in Canada, or, you know, uh, Aboriginal groups in New Zealand, if you actually spend time with them, you find that they are really happy, balanced people, with a deep sense of their own self, self -worth, and meaning and purpose in their lives. And I think that's a goal worth striving for, right? Whereas we're just these empty vessels trying to increase the number in our bank account for no particular reason. We don't have a story of who we are, what we're doing here, and where we're going. They do. And I think that, that, that's what gives them joy and purpose in life.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0090
+
+## seg-0091 / 01:01:37-01:01:42 / SPEAKER_00
+
+What do you think elites believe is the secret to living forever?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0091
+
+## seg-0092 / 01:01:45-01:02:47 / SPEAKER_01
+
+Okay. So, um, the elites are actually obsessed with living forever. Um, and there are different reasons why this is the case. Uh, some have speculated that it's because they in their hearts know all the evil they've done. So they're afraid of like the reckoning when they face God. Um, they're afraid of like, take, like being held accountable for, for their actions. So that's one possibility. Another possibility is they're just really happy with the life they have here. So they want to maintain that. They're afraid of like when they die, they lose everything. Um, so I think both are, are possibilities. But I think that, um, the body is not the secret to eternal life. So you look at someone like Peter Attia, I'm not sure if you've seen his work, but he talks about how to live longer and healthier, right? He, he, he's very expensive. I mean, um, you know, he'll charge someone, I
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0092
+
+## seg-0093 / 01:02:47-01:03:48 / SPEAKER_01
+
+think a hundred thousand dollars a year just to consult on how to, um, live a lifestyle that allows for maximum, uh, health, uh, in, in, in, in the longterm. Okay. So people like Peter Attia, you have people like Brian Johnson, who is trying to live, uh, for as long as he can. There's a lot of money put into longevity research, but I think it's all the wrong approach. I think the secret is not the body. The secret is the mind, right? So I go back to Donald Trump because he's a very interesting case study for me, where we've never had someone who's been able to capture global attention for so long, right? Before you might be famous in your community, but that was it. But now with movies, with the internet, with, with digitalization, Donald Trump lives rent free in the minds of billions of people. There are people who like literally wake up and say, every morning and they're like, Oh, what, what is Donald Trump doing today?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0093
+
+## seg-0094 / 01:03:48-01:04:44 / SPEAKER_01
+
+So they go online and they read the news. They are fascinated with this guy. They think about, think about him all the time. And so we've never had a time when so many people were focused on one person. And my question is will Donald Trump ever die? Because I understand, yes, he eats McDonald's every single day. I understand he is fat and old, but we've never had a situation where the entire world is focused on every second, the speech, the movement of one person. You just look at how he spends his day. It's always with the press, right? It's always either on Truth Social or giving a press conference or talking to a reporter. It's amazing how reporters in Washington DC are like, Oh my God, I can call up the press in the United States. You know, talk to me for an hour.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0094
+
+## seg-0095 / 01:04:44-01:05:46 / SPEAKER_01
+
+It's like literally like any journalist in Washington DC could do this. You can get his phone number. And he's the president of the United States and call him up and he'll tell you, you know, his thinking and all that. So it's a very strange situation. And you actually ask yourself, why is he doing that? Well, I think he's doing that because he craves the attention because he wants to live in a consciousness of the whole world. And we've never had something like that, like that before. Right? So, so let's go back to the idea that consciousness is creation of reality. But what this means is that we create our own individual reality naturally. Okay? But if we all have Donald Trump in our minds, then Donald Trump becomes the convergence of all individual realities on planet Earth. And this convergence is what we call God. So is it possible that, by constantly
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0095
+
+## seg-0096 / 01:05:46-01:06:55 / SPEAKER_01
+
+thinking about Donald Trump all the time, by giving him our psychic attention, are we basically manifesting God into Donald Trump so that his consciousness becomes eternal, locked in? Because we make it eternal. Because we cannot perceive or imagine or desire a world without him. There's a certain addiction to Donald Trump today. Right? Imagine how, remember how boring Joe Biden was? Right? We had Donald Trump, and we were like, oh my God, oh my God, please go away. I don't want to think about you anymore. Then we had Joe Biden like, who, who, no one remembers what happened during Joe Biden. Right? And now with Donald Trump, which is like, we're back to constantly fretting about the world, constantly cursing him. We're constantly thinking about him, giving him all our attention. And my question is, will he die? And I, I fear that he won't die. I think that's a secret to longevity, where you are
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0096
+
+## seg-0097 / 01:06:55-01:07:04 / SPEAKER_01
+
+able to implant yourself in the consciousness of so many people that their consciousness creates a reality in which you can inhabit forever.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0097
+
+## seg-0098 / 01:07:05-01:07:32 / SPEAKER_00
+
+It's really fascinating. If you look at the history of memes, I think it was Richard Dawkins that had proposed like memetics in the first place. And Trump is the greatest meme of all time. And you know this because what was the biggest meme quote? Trump coin. Trump coin. Ah. So it signals, I don't know, it's what really gives a God power when you think about it. Do you think the answer is just attention? Your active consciousness?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0098
+
+## seg-0099 / 01:07:32-01:07:54 / SPEAKER_01
+
+Yes. He, he's a psychic demon, okay? And you feed a psychic demon through intense emotions. And there's so many intense emotions surrounding Donald Trump. People either hate him or love him. He doesn't care because it's all emotions that, that empowers him. Right? For him, hate, love is the same thing.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0099
+
+## seg-0100 / 01:07:54-01:07:55 / SPEAKER_00
+
+Hmm.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0100
+
+## seg-0101 / 01:07:57-01:08:12 / SPEAKER_01
+
+So, so again, this is a thought experiment, but the question is, is he going to die? Because he's not going to go away, okay? As long as he can stay in that office, he's not going to die. And like, quite honestly, there's no way to get, get rid of him now.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0101
+
+## seg-0102 / 01:08:13-01:08:26 / SPEAKER_00
+
+Do you think the elite believe they're from sacred bloodlines? Oh, absolutely. Is it all the one bloodline or is it like multiple bloodlines? Yeah,
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0102
+
+## seg-0103 / 01:08:26-01:09:18 / SPEAKER_01
+
+they say 13 bloodlines. So, I mean, I, I think it's a scheme theory where you're born into power and privilege. And you go to a place like Andover, Yale, Harvard Law School, and you meet people who are smarter than you are. So how do you explain to yourself why you're more powerful than these people? And the answer is, my blood is better. My blood is pure. I have dragon blood. I have divine blood from Hercules, from Achilles, from Alexander the Great. That's why I should rule the world because I'm not gonna give up my position. I'm not gonna admit that this other guy is better than I am. I should rule. And the best explanation for why I should rule is because I've always ruled, because I'm a reincarnation of a divine being on, on earth. Right? And that's something that Jeffrey Epstein believed.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0103
+
+## seg-0104 / 01:09:19-01:09:31 / SPEAKER_00
+
+That's a fascinating one. I'm sure you could look at the history of like these ancestry.coms and 23andMe's and I'm sure it's strange, but, because how else would you know? How else would you determine the bloodline without the DNA test?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0104
+
+## seg-0105 / 01:09:32-01:10:32 / SPEAKER_01
+
+And you shouldn't actually participate in any of those things. Why? Because, a conspiracy theory, okay, I'll just throw this out there, okay, but a conspiracy theory is that they want certain bloodlines and they use these websites to find certain bloodlines. So if you're in that bloodline, bad things could happen to you. Why is there so much human trafficking in the United States? They care a lot about bloodlines, right? So if they believe that they are of divine bloodline, they would also want to prevent others of divine bloodline from accessing power, right? They would want to step out of other bloodlines. They could also drink the blood of other bloodlines to increase their own bloodline. You know, again, this is a conspiracy theory. I have no evidence this is the case, but if you were to actually examine how these people think, you know, and these people are like insane, this makes sense.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0105
+
+## seg-0106 / 01:10:32-01:10:40 / SPEAKER_00
+
+So what bloodline would you have to be for them to, would you have to be of that 13 families or would you be of just not that?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0106
+
+## seg-0107 / 01:10:42-01:11:38 / SPEAKER_01
+
+So I think that it depends on the group that you're in. I think there's something called the 13 bloodlines, which traces themselves back to the Roman Empire, basically. But then you have this happening in Frankis, who are maybe about a few hundred families. And Jeffrey Epstein was of the bloodline. So there's overlap, but there's also some distinctions. So, you know, honestly, I have not done that much research into these bloodlines because I think it's not really helpful. I'm more interested in ideas because these people aren't that smart and their behavior is sort of preordained. You know exactly how they will behave. I'm much more interested in people like Donald Trump, who regardless of what you think about him, he actually has an imagination. He actually, you know, has a connection to the divine, perhaps. He thinks he does, yeah. And he probably does. Yeah.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0107
+
+## seg-0108 / 01:11:39-01:12:13 / SPEAKER_00
+
+Yeah. Something I found fascinating from our conversation yesterday when we'd had a chat was that your belief, that you have a belief that there isn't like one most powerful person in the world. Yeah. And that logics out to me. And it also logics out to me that we'd be allowed to say it because the person who thinks they're the most powerful in the world would want us to say their name. Exactly. Exactly. Exactly. That's exactly right. And the person, yeah, I don't think anyone wouldn't want us to say their name. That makes sense. Yeah.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0108
+
+## seg-0109 / 01:12:14-01:13:21 / SPEAKER_01
+
+So, I mean, they say like, these secret societies are promoted by secret societies, right? So going back to the example, the Illuminati. Okay. So the Illuminati was founded at the end of the 18th century by Adam Weishaupt, who was formerly a Jesuit and the Jesuits are crypto Jews. And he aligned with Jacob Frank and Mayor Rothschild and they formed the Illuminati. And whenever you form a secret society, okay, your major problem is actually recruitment. How do you get people to join your organization? And Adam Weishaupt was able to grow the Illuminati because he was a master media manipulator. Okay. So he created the myth that there are these people who are seeking to conquer the world. And they're infiltrated throughout Europe in all the major noble lineages. And they've infiltrated the Freemasons as well. And they're conspiring to overthrow these dynasties of Europe, right? And so he was the one who was promoting this myth
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0109
+
+## seg-0110 / 01:13:23-01:13:54 / SPEAKER_01
+
+because if you're just this average Joe and you read about these guys, you're like, this is actually pretty cool. Yeah, I should join these guys. And it gives a much more political leverage, right? So that's what people don't really appreciate about the Illuminati. It's actually more of a PR campaign than it's actually a powerful force in the world. But again, remember, this goes back to Donald Trump and Plato's cave. Consciousness is reality itself. If you can make enough people believe this to be true, it becomes true.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0110
+
+## seg-0111 / 01:13:55-01:14:09 / SPEAKER_00
+
+You've talked about various secret societies. You've talked about various psyops, made different predictions about the system. Is there anything that you think you, Professor Xiong, are allowed to say?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0111
+
+## seg-0112 / 01:14:12-01:15:12 / SPEAKER_01
+
+I think that if you refer to certain individuals and their actions, they would come after you. Because as long as you're talking in the abstract, like, okay, this is how secret societies rule the world. That's fine. They don't care. No one cares. You talk about how Jeffrey Epstein is connected to this person. And it's this person that financed certain parts of his behavior. This would create problems for him. And then he would create problems for you. So I think naming names, going into specifics is a problem. Another problem is, let's just say access to confidential information that someone shared with me. And I were to reveal that to you, well, that would be a problem because then I would have betrayed that person. And I don't do that because I don't know any powerful people. And no one's ever told me any secrets. So a lot of things I do is based on speculation, based on analysis, and no one cares if you do that.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0112
+
+## seg-0113 / 01:15:12-01:15:41 / SPEAKER_01
+
+But again, if you name someone powerful and you reveal certain of his behavior that can be used as legal evidence against him, that can cause for incrimination against him, that would be a problem. If you had information revealed to you by a confidential source, and you were to reveal this confidential information to other people and make it public, that would set you up for retribution as well. So I would say these two things.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0113
+
+## seg-0114 / 01:15:42-01:16:00 / SPEAKER_00
+
+Most of your critics say that what you're doing is technically illegal in your home country. And the only reason you haven't gotten in trouble is because you're a CCP asset or a CIA asset or an MI6 asset. Professor Zhang, are you a spy?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0114
+
+## seg-0115 / 01:16:01-01:17:13 / SPEAKER_01
+
+Okay, sure. So let me respond to the question, how am I allowed to do what I do in China? And the reason is that I'm actually not part of the Chinese system. So the Chinese system is set up to control the behavior of Chinese citizens. And so it's a very complicated bureaucracy. I'm not a Chinese citizen. I'm not a participant in the Chinese system. I'm a foreigner hired to teach English at a private school. That's my identity. That's my role in China. And foreigners are given a lot of leeway in China. We operate in a gray zone where we don't really matter and we're sort of tolerated, but we don't really matter. And so an example of this is if you have a Chinese ID, then you're part of the Chinese AI surveillance grid, meaning that everything that you say is monitored, everything that you do is monitored. When you use any Chinese payment system, that information is always stored online and the database is constructed to profile you.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0115
+
+## seg-0116 / 01:17:13-01:18:10 / SPEAKER_01
+
+But it's a system designed for Chinese citizens. And why you do that is you're not interested in individual behavior. You're interested in collective behavior. So you're trying to figure out this person's social network. And then you can profile this social network and then use mechanisms to manipulate that social network. Does that make sense to you? In other words, I don't matter. I'm not part of the system. Whatever I do does not impact how the system is run and managed. The system is meant to control the people internal to China, not external to it. China has absolutely no desire to conquer the world because it'd be a pain in the ass. So that's why I'm allowed to do what I do. As long as I'm not on social media in China, as long as I do not do public speeches in China, as long as I don't talk to Chinese reporters, I don't matter in the system.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0116
+
+## seg-0117 / 01:18:10-01:18:48 / SPEAKER_01
+
+But the moment, and this is a caveat, the moment I decide, you know what? I want to be famous in China. I want to set up a social media account. I want to give speeches and generate income. Now I'm a problem. So I make that distinction where I choose freedom, but I also choose not to engage in lucrative opportunities in China. But if I were to engage in lucrative opportunities, then I would be expected to say certain things that promote the party line in the world and in China.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0117
+
+## seg-0118 / 01:18:49-01:19:41 / SPEAKER_00
+
+Like if you saw an American influencer perhaps speaking Chinese to a classroom of American students and they were talking about the topics you were talking about, but like for China, like what would you think that is going on? Random question really quick. Have you ever looked up if the shampoo you're using can disrupt your hormones? Because if you're like me, you probably didn't know that over 70 % of men's grooming products have chemicals that can disrupt your endocrine system or your testosterone levels. Now I care a lot about my health, but I didn't really think any healthy products could make my hair look good. So that's why I was so glad I met the guys at Based. They gave me their Shower Duo shampoo conditioner, and it's made with plant -based ingredients like peppermint or argan oil. So there's no sulfates, no hormone disruptors, nothing that's gonna mess with your body. And after using it
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0118
+
+## seg-0119 / 01:19:41-01:20:39 / SPEAKER_00
+
+for a while now, genuinely my hair does feel way healthier, like clean and hydrated as opposed to dry and dull. And honestly, I think it looks better too. So if you've been using the same products forever without thinking twice about what's actually in them, make sure to check out Based Body Works. It's a plant -based all natural men's grooming brand that actually performs. So if you guys wanna try it out, just go to jackneil.com backslash based and use the code jackneil at checkout for 20 % off your first order. Plus you get a free toiletry bag when you buy your first set. So again, that is jackneil.com backslash based, or you can scan the QR code on screen. But anyway guys, back to the podcast. Like if you saw an American influencer perhaps speaking Chinese to a classroom of American students, and they were talking about the topics you were talking about, but like for China, like what would you think that is going on?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0119
+
+## seg-0120 / 01:20:35-01:20:39 / SPEAKER_00
+
+
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0120
+
+## seg-0121 / 01:20:40-01:21:25 / SPEAKER_01
+
+I would have absolutely no idea what's going on. I'd be like, first of all, who is this guy? And where is he getting his information? Second of all, I'd be like, why is he allowed to teach his stuff to students? I mean like, doesn't he have a supervisor? Isn't there like a high school principal that oversees a curriculum? And then third of all, it's like, what motivates this guy? Why is he doing what he's doing? Because like, this is not going to help kids get into college. It's not going to help them do well in the SAT. This is all just silly. I would have absolutely no idea what's going on. I'd be completely confused. I'd be flabbergasted by this guy. I would have absolutely no idea who he is. I would not know why he's doing what he's doing. And I'd be confused as to how he's able to get away with this crap.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0121
+
+## seg-0122 / 01:21:25-01:21:30 / SPEAKER_00
+
+And do you feel like your answers so far have answered that pretty fully?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0122
+
+## seg-0123 / 01:21:31-01:22:34 / SPEAKER_01
+
+Um, if you just go in my history, I do all sorts of strange things. People who know me aren't surprised by what I do. They're surprised by how famous I've become. But they're not surprised by what I do. I'm just a strange guy, right? Because I went to Yale, and I come to China, and I spend my entire life here just teaching. And I'm like, impoverished. As compared to my Yale classmates, right? Who've become lawyers and doctors, and who live very respectable lives on the Upper West Side in New York. Um, so, when I first got into Yale, all my cousins hated me. Because now they're under pressure to get into the Ivy League as well. And then like 10 years later, um, I hear a story of how my cousin got into a fight with his mother. And his mother said to him, you have to work harder because you want to be like Uncle Jiang and get into Yale.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0123
+
+## seg-0124 / 01:22:34-01:23:37 / SPEAKER_01
+
+And then the cousin was like, yeah, mom. But he went back to China. And that ended the conversation. I was never mentioned again in that household. So, I mean, my entire, my relatives, my family is shocked by how strange I am. Like, you go to Yale. Like, you win the lottery. And you decide, you know what? I'm going to just throw it away and go to a place where my Yale degree doesn't really matter. Where I can't become a doctor or a lawyer. I can only become a high school teacher. So, I'm just a strange person in general. And then, you know, like, you know, um, in 2008, I built China's first public school international program to send Chinese kids to America for college. And at that time, this was a new field. And everyone knew it was like a rocket ship. I could become a millionaire just helping Chinese kids apply to university.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0124
+
+## seg-0125 / 01:23:37-01:24:31 / SPEAKER_01
+
+And a lot of people did become millionaires. But after a couple of years of doing that, I walked away. Because I didn't want to do this for the rest of my life. I didn't want to become a business person. I didn't want to make millions of dollars getting rich kids into Yale and Harvard. I walked away. I worked for the United Nations in 2006. And look, when you work for the United Nations, it is the cushiest, easiest life anyone can live, okay? It is the silliest thing ever to exist. But like, I literally was making six figures, doing nothing every day. Just sitting in my office and pretending to type on a keyboard. And like, if I had a family, every one of my kids would be given free international schooling. If I flew around, it'd be business class. I'd be given a pension after 10, 20 years, a full pension.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0125
+
+## seg-0126 / 01:24:31-01:25:51 / SPEAKER_01
+
+I was treated, like royalty, wherever I went. Because I'm the United Nations. And I walked away. Because I thought it was a meaningless existence. So, I'm often confused by myself. People think, you know, my friends tell me, you know, they don't understand why I do what I do. So, it's led me to this point. And again, my friends are not surprised. By what I do what I do, which is, you know, teach conspiracy theories in high school. Like, that's just part of my personality. But they're kind of surprised by, I have like 2 million followers right now on YouTube. Right? They're kind of surprised by that. And like, these are Yale, Harvard people, right? So, they're very conservative. They have a very rigid worldview. And they don't understand how I'm able to teach this and be so popular in the world. Did you manifest this? That's a really good question. The short answer is yes.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0126
+
+## seg-0127 / 01:25:51-01:26:56 / SPEAKER_01
+
+But the real answer is, I imagined this possibility. Right? I... But, you know, the thing though is that I am a writer by training. Like, I write books. And so, I imagine things all the time. And I imagine that this could be a possibility one day. And I position myself, I maneuver myself into this position. So, five years ago, during COVID, I was so upset about COVID. It really annoyed me how the entire world just shut off its brain, right? Just like, okay, well, you know, this vaccine, well, we don't know if it works, but some scientists said it works. So, it must work. So, I'll just put it in my body. Hope for the best. It was just insane to me. I've been fascinated by social media, by the internet. So, I was watching a lot of Joe Rogan. I was watching a lot of Jimmy Dore. I was watching a lot of alternative media.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0127
+
+## seg-0128 / 01:26:56-01:28:13 / SPEAKER_01
+
+And I became drawn to alternative media because, like, I like debate. I like conversation. I like exploration. And it seemed to me like people like Jimmy Dore, Joe Rogan, Brett and Eric Weinstein, Tucker Carlson, these were people that was, that were trying to seek the truth, that were really questioning the world. And I was like, you know, I would one day like to be on their show. You know, I feel that's the direction I could go. And so, then I asked myself, okay, if I want to be, like them, because only by being like them can I appear on their show, right? They're not gonna, like, ask a random high school teacher to be on their show. What can I do that makes me so distinct that I might be popular on social media? And my solution was, I'm gonna make some stupid predictions and hope they turn out correct. And if they aren't correct, I'm going to be a laughing stock for the rest of my life.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0128
+
+## seg-0129 / 01:28:14-01:29:20 / SPEAKER_01
+
+But, if they are correct, then I might get on Tucker Carlson, right? So, that was my strategy and planning when I started the YouTube channel. It sounds so silly, right? Are you telling me that you didn't believe those predictions? So, I believe my predictions. I believe it would turn out the way they did, very strongly. Because remember, I had to, first of all, explain my predictions and justify my predictions. But I also taped myself and put it on YouTube, right? Which means that now there's a historical record that I made these predictions. And I would only do that if I truly believed in them. But what happened was that, for the past five, six years, I was having conversations with friends. And we'd have these silly arguments about geopolitics. Like, we argued about who the Democratic nominee would be. And I was like, why are we having this stupid argument?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0129
+
+## seg-0130 / 01:29:20-01:30:11 / SPEAKER_01
+
+It's gonna be Joe Biden. Okay? And like, there was a lot of pushback. And it says, no, no, it's gonna be Pete Buttigieg. It's gonna be Kamala Harris. Because we want a younger candidate. And I'm like, it doesn't matter what you want. It matters how the world works. And Joe Biden's going to be the nominee. I also predicted that Trump would win in 2020 and beat Joe Biden. And then there was talk of Putin invading Ukraine. Attacking Ukraine. And my friends were like, it's not gonna happen. There's no way. It's too dangerous. And Putin would lose. And I'm like, oh my God. This is so silly. This is all obviously gonna happen. And for whatever reason, all my friends believe the complete opposite. And I can't talk to my friends anymore. It's just pointless. These are Yale, Harvard people who are supposed to be like some of the smartest people in the world.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0130
+
+## seg-0131 / 01:30:11-01:30:26 / SPEAKER_01
+
+And they have like these thick skulls. And like, it's almost impossible to relay obvious reality to them. So screw this. I'm gonna make my own YouTube channel and just speak my heart, basically.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0131
+
+## seg-0132 / 01:30:27-01:30:50 / SPEAKER_00
+
+Do you think the reason you're able to nail some of these predictions is because you went into Yale as a poor kid and just saw how these rich, like elite, that type of consciousness, that group identity, like how they behave and how they win games. And like, you were just able to see it for what it is and they're so stuck inside of it that they can't see it. They're too biased.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0132
+
+## seg-0133 / 01:30:51-01:31:49 / SPEAKER_01
+
+Okay. So the thing about Yale is when you're a poor kid and you get in a place like Yale, which is like, I mean, the height of elite power, okay? You're traumatized by the event. All my time at Yale, I felt like an imposter. Like I don't really belong here. And you're traumatized by the alienation because you don't belong here because you're not rich and they don't actually want to talk to you. And so Yale was an alienating and traumatic experience for me. And when that happens, you disassociate, right? So I wasn't actually observing how power works because I was never invited to their parties anyway and I was not friends with them. So I didn't understand how power works. And so I developed a very naive understanding of the world, which was that the world was a meritocracy, which is like the best ideas will always win out. So it didn't matter if I didn't have any friends.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0133
+
+## seg-0134 / 01:31:50-01:32:51 / SPEAKER_01
+
+It didn't matter if I didn't have any money. It didn't matter if I didn't have any connections. All that mattered was if I just did the best job possible, whatever I did, I'd be successful. And that was my understanding leaving Yale. And so I go out into the world and I try many different things. I tried being a journalist. I tried being a documentary filmmaker. And no matter what I did, it was failure after failure. And I didn't think that the people who were my colleagues in these industries were necessarily better than I was. And I was sort of surprised by this. And I became very angry at myself for not succeeding because I thought the entire point of going to Yale was to be successful and I was not succeeding. So I became very anxious. I became very depressed. And for many years, I sunk into a deep depression. So, you know, no matter what I did, I couldn't escape my depression.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0134
+
+## seg-0135 / 01:32:51-01:33:58 / SPEAKER_01
+
+And then in 2008, I got a job building and managing China's first public school study abroad program. And I was successful. But the process of building the program left me traumatized because I spent my entire heart and soul into building the program to validate myself. And I couldn't control myself emotionally. And I got into a fight with my boss, and so he fired me, or I quit, whatever, you know. But after that, I was like, clearly there's something wrong with me. Clearly I need to think about who I am, how I got to this point, and how I can improve myself. So I wrote an article at that time called Three Things Yale Didn't Teach Me. And I listed three fundamental things that I thought would solve problems with my education, my own psychology. And the first problem is I thought that IQ was the end -all and be -all.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0135
+
+## seg-0136 / 01:33:59-01:35:06 / SPEAKER_01
+
+So if you're able to articulate yourself clearly, if you're able to do math, well, you should be President of the United States. Whereas if you are not able to articulate clearly, then you should be a janitor, okay? So I saw the world through the lens of IQ. I didn't appreciate that the world was much more diverse than I believed. That's the first issue. Second issue is I believe the world was a zero -sum competition. So I'm on YouTube, and so I need to have the most YouTube views, have the most YouTube subscribers. Otherwise, I'm nothing. And so I saw everyone as a competitor. I couldn't take pleasure in the pleasure of others. When others were happy, I became very unhappy because, like, why were they happier than I was, okay? So I saw the world through that lens. And the third problem is I saw failure not as an opportunity to grow and to learn, but as a testament to my own deficiencies.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0136
+
+## seg-0137 / 01:35:07-01:36:06 / SPEAKER_01
+
+So I was afraid to fail. I didn't want to lose. It was the most traumatic experience to fail and to lose. And so I recognized that these three things were sending me back. And I needed to reinvent myself. I needed to die, basically. I needed to keep myself. And so what I did was this. I redesigned my Yale education, right? At Yale, you just went to school with the best and the brightest. You were taught by professors who were eloquent, who were very scholarly. And so I said, I'm going to throw myself into the world. I'm going to interact with ordinary people and do ordinary things, right? So I signed up for cooking school. And the first day I go to cooking school, I imagine, I manifested myself that, oh, in a year's time, I will be the world's greatest chef because my classmates don't know Shakespeare.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0137
+
+## seg-0138 / 01:36:07-01:36:58 / SPEAKER_01
+
+They never went to Yale. Whereas I did. So I'm superior to them, okay? So at the end of this year, my ambition is I'm going to have my own restaurant empire. I'm going to have like a thousand restaurants all around the world. I'm going to have my own TV show and I'll be the best cook in the world, okay? And of course I was a complete disaster in the kitchen. I didn't know anything. And I was like the worst student in the class. And these are like vocational kids, by the way. They were like 18, 19. They were working as like short order cooks in a airport bar. They were coming at night to take this class because they loved cooking. It was their passion. And so at the end of each class, when you cook three dishes, you present it to the chef. And then the chef would give it a grade.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0138
+
+## seg-0139 / 01:36:59-01:37:54 / SPEAKER_01
+
+And I was so bad that the chef would not even touch my dishes. He'd be like, I'm not eating this crap. Go away, man. And I was like, what is wrong with you people? Don't you people know I went to Yale? Like, what is wrong with you idiots? But I was just the disaster. As a cooking student. It was complete humiliation. But it taught me that the world isn't the way you think it is. So I need to re -examine my own values. I also took Brazilian Jiu -Jitsu classes. And Brazilian Jiu -Jitsu is a weird sport because you don't know anything. And what they do is they beat you up for a year. You know, you go and like, oh, hey, we're going to roll. And you're like, okay, so are we gonna train? No, no. Someone's gonna come beat you up for a year. And that's what happened.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0139
+
+## seg-0140 / 01:37:54-01:38:56 / SPEAKER_01
+
+And like every day after class, I just go home and cry. Because I remembered when I was a student in Toronto, like in primary school and in junior high school. And every day I get beat up by bullies and I go home and cry. And the same thing was happening to me again, taking Brazilian Jiu -Jitsu. The difference of course is like, now I'm paying good money to get beaten up and bullied and cry. I did set of comedy. And set of comedy was a revelation because all my entire life, I was afraid of being laughed at. Like I had to prove myself. And when I got up on the stage and I told jokes and people actually thought I was funny, I recognized that when they laugh, that made me feel good about myself. It made me feel good to be vulnerable, to expose myself, to humiliate myself in front of others. Bringing them happiness brought me happiness.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0140
+
+## seg-0141 / 01:38:57-01:39:59 / SPEAKER_01
+
+And so that was a revelation. And so I also learned not to take myself too seriously. Like the healthiest thing is just to be able to laugh at yourself. I did rock climbing. And rock climbing was also really important because rock climbing, it's a social thing. It's not a competition. And at first, when people in the gym were able to do much harder climbs than I was, I was kind of like angry and jealous. But you know, whenever I tried a hard climb and people around me were cheering me on, I recognized that, wow, if they can cheer me on, why can't I cheer them on? If they were able to find happiness in my success, why can't I find happiness in their success? I did skydiving for a few months. Don't do that. Like, this is the dumbest thing you can do, okay? Those guys were on drugs, right?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0141
+
+## seg-0142 / 01:39:59-01:41:16 / SPEAKER_01
+
+Yeah, it was just dumb. And like, but I was trying different things. So skydiving was, yeah, just don't try that. They're all on drugs and they're all assholes. And yeah, I tried everything. I tried singing because I was tone deaf. And I spent like $10,000 so that I can sing some notes like, oh, something like that. I can't sing, okay? It was just a lot of money. And every day, my teacher was just shouting at me and saying, you're an idiot. You can't, you know, sing. And that was also a humiliating experience that taught me to be much more, to have much more empathy in life. And so, that experience was very transformative because I recognized that education is not about going to the best schools and getting the best grades. It was really about taking risks, trying new things, and engaging in a process of self -reflection. And it was really about humility, empathy, resilience.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0142
+
+## seg-0143 / 01:41:16-01:42:08 / SPEAKER_01
+
+And that taught me to be a better teacher as well as a better person. And, you know, the great thing about that experience is that it didn't really save me from my anxiety, from my depression, but it opened my heart to the possibility of being saved in that I felt that I'm now worthy of being saved. I'm now worthy of sharing my life with another person, whereas before I was afraid. And so I was able to let go of my ego and fear. And so even today, I tell people like, your two greatest enemies are ego and fear. You believe that you're alone in the universe and you believe that you will fail. So having let go of my ego and fear, now I've opened up my heart. I was able to find the love of my life.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0143
+
+## seg-0144 / 01:42:10-01:42:19 / SPEAKER_00
+
+Something I'd asked you last night was, what was the moment that you noticed everything was an illusion? Like what was the moment that you could see past the veil and see that all this was fake?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0144
+
+## seg-0145 / 01:42:19-01:43:28 / SPEAKER_01
+
+Yeah, so I met my wife 10 years ago. And at first I didn't want to start a relationship because I had hit rock bottom. I had no money because I spent it all on skydiving. I was unemployed. I didn't have a house. I was actually working for rent. And just by accident, I met my wife. Where'd you meet her? I was helping out a college program. And she was also part of the team. And she saw something in me. And so she wanted to date me. So she took the initiative. And I was kind of indifferent. But we went out a few times. And we just connected. You know, we just clicked. And we were able to be intimate with each other. And so one thing led to another. And then we were married. We had our first child. Now we have three kids. And throughout this time, I was afraid that this was just an illusion.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0145
+
+## seg-0146 / 01:43:29-01:44:24 / SPEAKER_01
+
+That this was not real. That she'll eventually wake up and say, Oh my God, why am I dating an unemployed middle -aged man who might be gay? Why am I doing that? But she never left me. And we've been together ever since. And it feels as though we were just meant to be together. I feel as though we're like soulmates. Like we're two sparks drifting in the universe. And we wanted to find each other. And so we were able to somehow navigate the messiness of this world. Navigate the chaos. And somehow find each other. Because we were looking for each other all this time. Like that's literally how I feel about her. And you know, she saved my life. She transformed my life. And she was able to bring structure and purpose and meaning to my life when none existed before. Before I was like, I just want to succeed. I don't know why I want to succeed, but I want to succeed.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0146
+
+## seg-0147 / 01:44:24-01:45:23 / SPEAKER_01
+
+Now it's like I don't need to succeed. Now I just need to take care of my family. Now I just need to be a good role model to my kids. Now I just need to spend as much time as possible with my family. And enjoy my time here with my family. And just having that spirit. Just by letting go. Just by seeing the world as an illusion. Seeing that success means nothing. It's family that matters. Strangely enough, I became much more creative. I wrote a book that was published in China. I wrote a series of science fiction novels. It was just a time of tremendous creative output. And I started to teach. And when I teach, I was not interested in just teaching English. I wanted to be a role model to my kids. I wanted to be able to teach my kids. And so I started to teach great books.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0147
+
+## seg-0148 / 01:45:23-01:46:24 / SPEAKER_01
+
+Homer, Dante, Plato, Immanuel Kant. And I had very little exposure to a lot of these books. And so I set myself on learning them as much as possible. And at first, it was kind of okay. Because you can always watch YouTube videos and just imitate them. These professors who teach Plato and Homer. But then I got into Dante. And for six months, I was watching these YouTube videos about Dante and the Divine Comedy. I had no idea what they were saying. I was so confused. I was reading the Divine Comedy like every single day because I really wanted to master it. And I had no idea what I was reading. I was just so lost. I was so frustrated. And so I went to sleep one day. And I woke up. And I felt as though... Dante had spoken to me. And his word was love. Focus on love.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0148
+
+## seg-0149 / 01:46:26-01:47:16 / SPEAKER_01
+
+That's what Divine Comedy is about. Love. And so I started to reread it again. And then things started to unpack themselves. Slowly reveal themselves before me. And it wasn't at once. But it was like as though before I just saw gray. And now I'm able to see color. Slowly. Piece by piece. And... And then I recognized something. Which is... The universe is divine. The universe is alive. The universe is conscious. And if you have the faith. If you have the love in your heart. It will speak back to you. It will guide you. It will lead you to the light. But first you have to open yourself to love. Love is the great secret of the universe. Right.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0149
+
+## seg-0150 / 01:47:18-01:47:42 / SPEAKER_00
+
+Professor Xiong. You've spent your life studying how powerful people enslave the weak. You know how war, religion, and debt are used to create fear and give them control. If all your lectures were deleted. Every book. Every article erased from history. What's the one truth about humans you would leave to the world?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0150
+
+## seg-0151 / 01:47:44-01:48:58 / SPEAKER_01
+
+Um... Look. If tomorrow for whatever reason. All my lectures were deleted. It wouldn't change anything. It wouldn't matter. Because I feel as though I've ignited a spark in a lot of people. It's a spark that compels them to seek the truth for themselves. So these videos are not meant to be the truth. They're not meant to be the Bible. They're not meant to be scripture. They're just meant to be a way to inspire you to seek your own truth. And I think there's a global awakening happening. I think I've started a movement of sorts. I mean, I come to Hong Kong. And it's amazing how a lot of people recognize me. And they come up to me and tell me how much they love my lectures. And I was at breakfast this morning. My hotel. And one of the hotel staff. This young Filipino lady. And I would expect... This is like the last person to watch my videos, right?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0151
+
+## seg-0152 / 01:48:59-01:49:32 / SPEAKER_01
+
+As I was getting to leave. Um... She said to me, Goodbye, Professor Jia. So she recognized me. And like this is a Filipino lady working as a waitress in a hotel in Hong Kong. So it's amazing the impact I've had already. And I think that once you ignite that spark in people, it changes just the entire way they see the world. You can never... You can never go back.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0152
+
+## seg-0153 / 01:49:33-01:49:40 / SPEAKER_00
+
+Hmm. I guess what's the best piece of advice you've ever received?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0153
+
+## seg-0154 / 01:49:43-01:50:57 / SPEAKER_01
+
+Don't chase pussy. So I'll tell you the story where I was a young teacher. Aspiring journalist in Beijing. This is about the year 1999. And I had just graduated from Yale. This is the autumn. And a journalist friend calls me and says, So there's this famous American writer, Gay Talese. You probably haven't heard of him. He's like 94 this year, okay? He's a very famous writer. Probably like the last great living American writer. He was off the Kurt Vonnegut, Tom Wolfe, David Hammerstein generation. And they're all dead. He's still alive. And I was his assistant for six months because he needed a translator. And so I followed him everywhere. And I was translating for him. And he saw me as a son. He saw me as a protege. He was very supportive. And we've stayed in touch all these decades. We email each other now and then. And the best advice he gave me, which still sticks in my mind, is Don't chase pussy.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0154
+
+## seg-0155 / 01:50:59-01:52:17 / SPEAKER_01
+
+Because first of all, he's a very attractive man who's, you know, had many, many relationships in the past. So the turning point in his life is he's married to a woman named Nan Talese. And she is a very famous editor at Random House. And in 1970s, they were walking in Times Square after dinner. Gay Talese goes out every single night. And he hangs out with the most famous people in New York. People like Truman Capote, George Plimpton. They're all very good friends. And he got interested in the massage parlor, which was basically a brothel. And he went in. And they started his book called Thy Neighbor's Wife, which is looking at promiscuity in America. And to research the book, he participated in sex orgies in California. He became a brothel manager in New York. He participated in sex cults. So he did all that. The problem
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0155
+
+## seg-0156 / 01:52:17-01:53:05 / SPEAKER_01
+
+is that his wife, Nan Talese, would find out about this because every Sunday she'd read the New York Times. And there's an article about him having an orgy in California. And that sort of ruined their marriage, as you can imagine. They're still married, actually. It's really interesting how they're still married after all that. And this was the 1970s, by the way. So that's just the power of love. But I would not want to do what he did. I would not want to participate in a sex cult or start a sex cult, by the way. And then have my wife find out about it online. Because some guy, some YouTuber, made a video about it. So yeah, don't chase pussy.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0156
+
+## seg-0157 / 01:53:12-01:53:20 / SPEAKER_00
+
+And then I guess I'll just add this at the end. If you could recommend one book to everyone, what would it be?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0157
+
+## seg-0158 / 01:53:20-01:54:32 / SPEAKER_01
+
+Well, I mean, Divine Comedy is the greatest book ever written. It is literally a word from God. So Dante was channeling the universe when he wrote that. So that's the one book that everyone must read. But it's really hard. I spent a lot of time researching it. And I'm still trying to decipher its full meaning. Because it's so intense. It's truth itself embedded in the poetry. But if people are just looking to read a really good book, then it has to be Homer's The Iliad. I've taught that many times. And it's amazing how these high school students in China, who have absolutely no exposure to Western culture, and who themselves don't actually speak that good English, they just love The Iliad. Even today, many years later, they still rave about The Iliad. And it just stays with you. It's an easy read. It's a long read, but it's an easy read. It's a fun read as well.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0158
+
+## seg-0159 / 01:54:32-01:54:35 / SPEAKER_01
+
+And it just forever transforms you. So The Iliad.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0159
+
+## seg-0160 / 01:54:37-01:54:49 / SPEAKER_00
+
+Beautiful. Well, everyone, this has been your guest, Professor Zhang. This is the Jack Nail Podcast. Where can people find you?
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0160
+
+## seg-0161 / 01:54:50-01:55:11 / SPEAKER_01
+
+I happen to be everywhere now. So it's pretty easy to find me. But the best place is my YouTube channel, Predictive History. Right. You also have a sub -stack as well. Right. So if you're interested in geopolitics, because I write about current events and try to put it in a larger structural lens, my sub -stack is PredictiveHistory.substack.com. Perfect.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0161
+
+## seg-0162 / 01:55:12-01:55:14 / SPEAKER_00
+
+Awesome. Well, I appreciate you coming on.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0162
+
+## seg-0163 / 01:55:14-01:55:15 / SPEAKER_01
+
+Thanks for inviting me, Jack.
+
+Ref: video:interview-ril8pssntzg@transcript:v1#seg-0163
