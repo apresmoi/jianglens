@@ -1,0 +1,200 @@
+{
+  "packet_id": "interview-p-dhmudovdo-semantics-pkt-0006",
+  "source_id": "video:interview-p-dhmudovdo",
+  "source_date": "2026-04-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0042"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the goal is to keep the Iran war going because peace would let Russia, Iran, and China form a Eurasian trade alliance, realize north-south and Belt and Road corridors, and negate Anglo-American naval power under the Heartland thesis.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0043"
+      ],
+      "kind": "question",
+      "summary": "The interviewer notes attacks on railroads, Caspian ports, and the International North-South Transportation Corridor, then asks what U.S. boots on the ground could achieve and whether America can supply them while overextended.",
+      "speaker_attribution": "Mark, interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0044",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0045",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0046",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0047"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers that boots on the ground would maintain the war, degrade Iranian defenses, secure coastlines, and besiege Tehran by cutting roads and railways; the interviewer names this as population starvation or killing off a civilization, and Jiang agrees this is the strategy.",
+      "speaker_attribution": "Jiang answer with interviewer clarification",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The interviewer shifts to NATO, asking why Trump would undermine obedient European allies who buy American currency, energy, and weapons and have little security imagination without the United States.",
+      "speaker_attribution": "Mark, interviewer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0042"
+      ],
+      "note": "Segments 0041-0042 have heavy ASR corruption around 'Mackinder,' 'Belt and Road,' and the north-south corridor, but the Heartland/corridor argument is clear from context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says America wants the Iran war to continue because Middle East peace would allow Russia, Iran, and China to build a trade alliance that could extend into Europe and Africa and bypass Anglo-American sea control.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Geostrategic model stated on 2026-04-13.",
+      "topic_tags": [
+        "iran-war",
+        "eurasia",
+        "trade-alliance",
+        "anglo-american-naval-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He invokes the Heartland thesis: Britain and America preserve empire by controlling maritime navigation, while a united Eurasian Heartland would negate that naval power.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Definition applied to current Iran/Russia/China strategy on 2026-04-13.",
+      "topic_tags": [
+        "heartland-thesis",
+        "mackinder",
+        "naval-power",
+        "eurasia"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Israeli and American targeting of Iranian railways attacks infrastructure crucial to Belt and Road and the north-south trade corridor.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0042",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Dated diagnosis of infrastructure targeting on 2026-04-13.",
+      "topic_tags": [
+        "iranian-railways",
+        "belt-and-road",
+        "north-south-corridor",
+        "infrastructure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts U.S. ground troops would not conquer Iran but would maintain war, secure coastlines, degrade air defenses, and keep Iran on the defensive.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Speculative military prediction on 2026-04-13.",
+      "topic_tags": [
+        "ground-troops",
+        "iran",
+        "air-defense",
+        "coastline"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In the most severe formulation, Jiang says the strategy would be to besiege Tehran by cutting railways and roads and forcing the population into starvation.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0045",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0046",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Speculative description of U.S./Israeli strategy on 2026-04-13.",
+      "topic_tags": [
+        "tehran",
+        "siege",
+        "starvation",
+        "civilization"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041"
+      ],
+      "moment": "The war cannot stop because peace would let Eurasia assemble itself against the sea empire.",
+      "source_phrase": "this war in Iran cannot stop",
+      "why_it_matters": "It reverses the normal assumption that war has a discrete objective; in Jiang's model, duration itself blocks a Eurasian corridor.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0045",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0046"
+      ],
+      "moment": "The abstract corridor war becomes the image of Tehran starved by severed railways and roads.",
+      "source_phrase": "force the population into starvation",
+      "why_it_matters": "It keeps the geopolitical thesis connected to the human violence implied by infrastructure warfare.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Heartland thesis",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang's term for the concern that a Eurasian power bloc could unite the Heartland and negate Anglo-American maritime power.",
+      "confidence": "medium"
+    },
+    {
+      "term": "International North-South Transportation Corridor",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "The Russia-Iran-India corridor the interviewer says is undermined by attacks on railroads and Caspian ports.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0042"
+      ],
+      "note": "Jiang's 2026-04-13 argument links current Iran-war continuation to longer-term Anglo-American fear of Eurasian consolidation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0041",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0042"
+      ],
+      "note": "ASR damage around 'Maoização,' 'belt of agreement,' and zero-duration chunks likely points to Belt and Road; semantic claims avoid exact corrupted phrases except as uncertainty."
+    }
+  ]
+}

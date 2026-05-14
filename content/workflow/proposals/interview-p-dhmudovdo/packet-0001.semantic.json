@@ -1,0 +1,170 @@
+{
+  "packet_id": "interview-p-dhmudovdo-semantics-pkt-0001",
+  "source_id": "video:interview-p-dhmudovdo",
+  "source_date": "2026-04-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0001",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The interviewer opens by asking how Jiang sees the petrodollar's vulnerability in the Iran war, after noting Iranian economic targeting, the Strait of Hormuz, and costly American interceptors.",
+      "speaker_attribution": "Mark, interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0004",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0005",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the war is primarily about protecting the petrodollar, which he calls both the basis and objective of American empire; U.S. naval chokepoint power is being used to force Europe and East Asia toward North American resources, but this turns the policeman of the world into the pirate of the world.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0007",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks why Americans would walk away from negotiations if the petrodollar cannot survive Iranian control of Hormuz; Jiang begins a chronology of the prior six weeks, including sanctions relief, fear of $200 oil, and escalation against Iranian infrastructure.",
+      "speaker_attribution": "Mark question followed by Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0001",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_00 is the interviewer, Mark; SPEAKER_01 is Jiang. The ASR renders Jiang's name incorrectly in the greeting.",
+      "suggested_speaker": "SPEAKER_00 interviewer, SPEAKER_01 Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Iran war is primarily about maintaining the petrodollar because the dollar's credibility has been weakened by U.S. debt, frozen Russian assets, weaponized dollar access, treasury exits, BRICS alternatives, and China's gold corridor.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-13.",
+      "topic_tags": [
+        "petrodollar",
+        "american-empire",
+        "brics",
+        "gold-corridor"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines American petrodollar strategy as naval control over maritime chokepoints and trade access in order to force nations to depend on U.S. resources.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-04-13.",
+      "topic_tags": [
+        "naval-power",
+        "maritime-chokepoints",
+        "energy",
+        "resource-dependence"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that a pivot away from Europe and East Asia toward North America is underway, with Venezuelan, Iranian, and Russian energy disruptions forcing buyers toward the United States and its resource sphere.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Dated account of current strategy and recent events on 2026-04-13.",
+      "topic_tags": [
+        "north-america",
+        "venezuela",
+        "iran",
+        "russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts that American hubris may work in the short term but will create a long-term backlash by unifying the world against the U.S. economy.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Forward-looking prediction from 2026-04-13.",
+      "topic_tags": [
+        "backlash",
+        "american-economy",
+        "hubris"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0004"
+      ],
+      "moment": "The petrodollar is not just a tool of empire but the empire's objective.",
+      "source_phrase": "the petrodollar is the very basis of their empire",
+      "why_it_matters": "It makes dollar defense the organizing motive behind the whole interview rather than a side effect of the Iran war.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0006"
+      ],
+      "moment": "America mutates from world policeman into world pirate.",
+      "source_phrase": "the policeman of the world and that's become the pirate of the world",
+      "why_it_matters": "This image condenses Jiang's shift from consent-based Pax Americana to coercive toll-taking empire.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "petrodollar",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0004",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The dollar-centered energy trade system Jiang treats as the basis and objective of American imperial power.",
+      "confidence": "high"
+    },
+    {
+      "term": "gold corridor",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "China's move toward gold as an alternative to U.S. treasuries and the petrodollar system.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0004",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0008"
+      ],
+      "note": "On 2026-04-13 Jiang dates the petrodollar pressure to the prior decade and frames the immediate Iran-war sequence as roughly six weeks old.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0005"
+      ],
+      "note": "The transcript phrase 'Russian GCZ oil' is likely an ASR issue; the semantic claim preserves only the broader Russian oil-export disruption."
+    }
+  ]
+}

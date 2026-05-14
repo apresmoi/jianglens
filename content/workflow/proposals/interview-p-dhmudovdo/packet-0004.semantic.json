@@ -1,0 +1,197 @@
+{
+  "packet_id": "interview-p-dhmudovdo-semantics-pkt-0004",
+  "source_id": "video:interview-p-dhmudovdo",
+  "source_date": "2026-04-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0025",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0026",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0027",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes the Trump-control answer: Trump is an agent of empire. The old Pax Americana worked through elite co-optation and consent; as Russia, China, and other states question that order, Trump converts American military power from police force into pirate force, replacing tariffs with maritime tolls and seizures.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0029",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0030"
+      ],
+      "kind": "question",
+      "summary": "The interviewer reframes Trump as consistent since the 1980s: he does not reject empire, he wants allies and adversaries to pay enough that empire feeds the republic instead of killing it; he asks whether this extractive tilt will outlast Trump.",
+      "speaker_attribution": "Mark, interviewer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees and predicts the pattern from China tariffs will repeat: Trump personalizes a policy, then Democrats institutionalize it as long-term imperial strategy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0032"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks how China and Russia will respond to a more extractive United States and notes Russian disappointment that Trump has not reset relations or ended Ukraine.",
+      "speaker_attribution": "Mark, interviewer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0029",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0030"
+      ],
+      "note": "The interviewer turn has ASR repetition and damage, but the main question about monetizing empire and extracting from allies/adversaries is recoverable.",
+      "suggested_speaker": "interviewer",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Trump is an agent of empire, chosen because he acts forcefully where Biden and Democrats would not.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Diagnosis of 2024-to-2026 imperial politics as stated on 2026-04-13.",
+      "topic_tags": [
+        "trump",
+        "empire",
+        "2024-election"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that during the unipolar moment America maintained consent by co-opting global elites who could move corrupt gains into America, but nationalist reactions in Russia and China now challenge that system.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0025",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical model from 1991 to the present, stated on 2026-04-13.",
+      "topic_tags": [
+        "pax-americana",
+        "global-elites",
+        "putin",
+        "xi"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American military power is being transformed from a police force that guaranteed trade into a pirate force that extracts tolls from global trade.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0027",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Strategic diagnosis on 2026-04-13.",
+      "topic_tags": [
+        "american-military",
+        "pirate-force",
+        "tolls",
+        "trade"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts Russian shadow fleet seizures, Iran-war energy blockades, and Caribbean naval deployments will continue as the United States substitutes maritime tolls for blocked tariff authority.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0027",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Near-term prediction from 2026-04-13.",
+      "topic_tags": [
+        "shadow-fleet",
+        "tariffs",
+        "navy",
+        "caribbean"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Biden institutionalized Trump's first-term China tariff stance, and future Democrats will similarly institutionalize Trump's extractive imperial policies after 2028 because they benefit American empire.",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Historical comparison and future prediction made on 2026-04-13.",
+      "topic_tags": [
+        "tariffs",
+        "biden",
+        "democrats",
+        "institutionalization"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0025"
+      ],
+      "moment": "Trump becomes less sovereign leader than instrument: the agent doing what the empire requires.",
+      "source_phrase": "Trump is an agent of empire",
+      "why_it_matters": "It resolves the interviewer's question about Trump's control by making empire the deeper actor.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0027"
+      ],
+      "moment": "Tariffs blocked by law become tolls extracted by ships.",
+      "source_phrase": "if you won't enforce tariffs and I'll just enforce tolls",
+      "why_it_matters": "This is the mechanical bridge from domestic legal limits to coercive naval empire.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0026",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "The American-led order that Jiang says previously used military power to guarantee peace and trade through consent and elite co-optation.",
+      "confidence": "high"
+    },
+    {
+      "term": "pirate force",
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's phrase for American military power after consent fails: a force used to extract tolls rather than police trade.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0025",
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang traces a sequence from the 1991 unipolar moment, to Trump's first term, to Biden institutionalizing Trump policies, to a possible post-2028 institutionalization of the new extractive posture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-p-dhmudovdo@transcript:v1#seg-0026"
+      ],
+      "note": "The line 'you don't have to consent. Yes. these nation states...' is ASR-damaged; the surrounding argument indicates a shift from consent to force."
+    }
+  ]
+}

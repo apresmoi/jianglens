@@ -1,0 +1,95 @@
+{
+  "source_slug": "interview-p-dhmudovdo",
+  "decisions": [
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:329a329dd75d",
+      "decision": "approve",
+      "reason": "Completes 'So the United States right now is going to fight tooth and nail...'."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:41bc500d5fa5",
+      "decision": "approve",
+      "reason": "Completes 'buy from the United States...'."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:77928e72f90f",
+      "decision": "approve",
+      "reason": "Completes the prior sentence about the world being aggravated by piracy."
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:bd519f8db60c",
+      "decision": "approve",
+      "reason": "Completes the interviewer's question before Jiang's answer begins."
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:175cb4bb9699",
+      "decision": "approve",
+      "reason": "Completes 'It also included...'."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:a7d379643e18",
+      "decision": "approve",
+      "reason": "Completes 'So the big question then is...'."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:77bb0f76ded9",
+      "decision": "approve",
+      "reason": "Completes the sentence about negotiations used as a pretext to assassinate leaders."
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:c6933d79ea30",
+      "decision": "approve",
+      "reason": "Completes the statement that China receives about six percent of its oil and energy from the Middle East."
+    },
+    {
+      "candidate_id": "seg-0014->seg-0015:move-leading-completion-to-previous:b4002fdf8ffe",
+      "decision": "approve",
+      "reason": "Completes 'the state of their economy'."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:b05d98fb9853",
+      "decision": "approve",
+      "reason": "Completes the Strait of Malacca clause naming Indonesia and Malaysia."
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:d9925ba13b40",
+      "decision": "approve",
+      "reason": "Completes the sentence about measures the Iranians can do."
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:97b46a922ad3",
+      "decision": "approve",
+      "reason": "Completes the interviewer's list 'be it the neocons or the Israelis'."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:a88fd1ad1e92",
+      "decision": "approve",
+      "reason": "Completes 'Americans didn't really have a forceful response'."
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:8c65bfe5fa2c",
+      "decision": "approve",
+      "reason": "Completes the speaker's thought that events went against their interest."
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-leading-completion-to-previous:bba5e799885f",
+      "decision": "reject",
+      "reason": "The proposed move leaves an ungrammatical ASR-damaged fragment ending with 'the.' rather than an obvious boundary repair."
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:e58dd89f8b8d",
+      "decision": "approve",
+      "reason": "Completes 'It will be degraded...'."
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:c93160c37dd1",
+      "decision": "approve",
+      "reason": "Completes the interviewer's clause about organizing supply lines."
+    },
+    {
+      "candidate_id": "seg-0041->seg-0042:move-leading-completion-to-previous:3c2ebe0bd43a",
+      "decision": "reject",
+      "reason": "The local window has zero-duration chunks, duplicated wording, and heavy ASR corruption, so this is not a safe boundary-only repair."
+    }
+  ]
+}
