@@ -2261,6 +2261,7 @@ Claim blocks: **0**
 - `content/workflow/reviews/game-theory/local-judge-2026-05-06-visible-game.md`
 - `content/workflow/reviews/game-theory/optimal-terror-local-judge-2026-05-07.md`
 - `content/workflow/reviews/game-theory/proximity-law-local-judge-2026-05-06.md`
+- `content/workflow/reviews/game-theory/theater-prediction-local-judge-2026-05-14.md`
 - `content/workflow/reviews/gerontocracy-as-intergenerational-extraction/local-judge-2026-05-05.md`
 - `content/workflow/reviews/gerontocracy-as-intergenerational-extraction/status-lock-local-judge-2026-05-07.md`
 - `content/workflow/reviews/gerontocracy-as-intergenerational-extraction/time-horizon-local-judge-2026-05-07.md`
@@ -2525,7 +2526,6 @@ Claim blocks: **0**
 - `content/workflow/tasks/interview-nidlga9c0h8/manifest.json`
 - `content/workflow/tasks/interview-nidlga9c0h8/transcript-agent-packets.jsonl`
 - `content/workflow/tasks/interview-nidlga9c0h8/transcript-boundary-candidates.jsonl`
-- `content/workflow/tasks/interview-production-backlog.json`
 - `content/workflow/tasks/predictive-history-0aasxqrjyuo/manifest.json`
 - `content/workflow/tasks/predictive-history-0aasxqrjyuo/transcript-agent-packets.jsonl`
 - `content/workflow/tasks/predictive-history-0aasxqrjyuo/transcript-boundary-candidates.jsonl`
