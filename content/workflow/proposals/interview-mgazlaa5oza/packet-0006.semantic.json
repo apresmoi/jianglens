@@ -1,0 +1,109 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0006",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0041", "video:interview-mgazlaa5oza@transcript:v1#seg-0042"],
+      "kind": "question",
+      "summary": "Sneako asks Jiang how Americans can prevent political violence, distrust, and social breakdown after Trump alienates his former coalition.",
+      "speaker_attribution": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0043", "video:interview-mgazlaa5oza@transcript:v1#seg-0045"],
+      "kind": "answer",
+      "summary": "Jiang answers structurally: America is addicted to the petrodollar, Treasury demand, and money-printing privilege; baby boomers hold the wealth and power, would reject sacrifice, and uniquely support the Iran war and Gaza policy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0046", "video:interview-mgazlaa5oza@transcript:v1#seg-0048"],
+      "kind": "answer",
+      "summary": "Dave agrees and expands the boomer analysis into a story of asset inflation, fiat money, and America's turn from productive capitalism to central banking and government-linked extraction.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang argues that the American lifestyle is financed by petrodollar privilege, money printing, and global demand for U.S. Treasuries.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0043"],
+      "temporal_scope": "modern American imperial economy",
+      "topic_tags": ["petrodollar", "treasuries", "money-printing", "empire"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says baby boomers have the most power and wealth in America and would not accept even a hypothetical 50 percent tax to secure world peace for descendants.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0043", "video:interview-mgazlaa5oza@transcript:v1#seg-0044"],
+      "temporal_scope": "2026 United States",
+      "topic_tags": ["baby-boomers", "taxation", "sacrifice", "generations"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims baby boomers are the only demographic supporting the Iran war and Israel's actions in Gaza.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0044", "video:interview-mgazlaa5oza@transcript:v1#seg-0045"],
+      "temporal_scope": "April 2026",
+      "topic_tags": ["baby-boomers", "iran", "gaza", "public-opinion"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dave says the United States shifted from laissez-faire productive capitalism into central banking, fiat currency, government contracting, finance, and military-linked extraction.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0047", "video:interview-mgazlaa5oza@transcript:v1#seg-0048"],
+      "temporal_scope": "20th century to present",
+      "topic_tags": ["capitalism", "fiat", "central-banking", "production"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0043"],
+      "moment": "Jiang says the average American lives better than a Roman emperor.",
+      "source_phrase": "you basically live better than Roman Emperor",
+      "why_it_matters": "It compresses the scale of imperial privilege into a concrete image before asking who will sacrifice it.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0044"],
+      "moment": "The baby-boomer thought experiment fails because the imagined boomer chooses another 10 or 20 years of comfort over sacrifice.",
+      "source_phrase": "there's absolutely no way that I, as a baby boomer, would agree",
+      "why_it_matters": "It turns geopolitics into intergenerational bargaining failure.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "petrodollar addiction",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0043"],
+      "definition_or_usage": "Jiang's shorthand for U.S. dependence on dollar-centered oil and Treasury demand to finance a privileged lifestyle.",
+      "confidence": "high"
+    },
+    {
+      "term": "boomer sacrifice test",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0043", "video:interview-mgazlaa5oza@transcript:v1#seg-0044"],
+      "definition_or_usage": "A thought experiment asking whether the wealthiest generation would accept large taxes for peace and future generations; Jiang's answer is no.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0041"],
+      "note": "Sneako dates the discussion amid alienation of Tucker Carlson, Candace Owens, Megyn Kelly, Alex Jones, and Catholics from Trump over the war and rhetoric toward the pope.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0046"],
+      "note": "Segment 0046 contains ASR noise and repeated filler; use only the clear beginning where Dave agrees with Jiang's baby-boomer point."
+    }
+  ]
+}

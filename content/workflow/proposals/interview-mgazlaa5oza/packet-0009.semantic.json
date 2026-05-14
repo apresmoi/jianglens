@@ -1,0 +1,104 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0009",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0065", "video:interview-mgazlaa5oza@transcript:v1#seg-0069"],
+      "kind": "answer",
+      "summary": "Dave continues the boomer critique: American goodwill was squandered by Bush and Clinton-era empire, boomers normalized selfishness, and the same political class has stayed in charge for decades.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0070"],
+      "kind": "answer",
+      "summary": "Dave identifies a dangerous regime dynamic: a shrinking elite generation supports the system while supermajorities suffer discontent, a pattern that often produces serious national problems.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0071", "video:interview-mgazlaa5oza@transcript:v1#seg-0072"],
+      "kind": "answer",
+      "summary": "Jiang introduces Canada as a warning case: trucker protest debanking, immigration-driven housing pressure, and Mark Carney's pro-India immigration push show how much damage boomers can do.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Dave says boomers are now a minority on many issues, including Israel, the Iran war, and Trump, but remain unusually powerful.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0069"],
+      "temporal_scope": "April 2026",
+      "topic_tags": ["baby-boomers", "public-opinion", "iran", "israel"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave's model says a shrinking elite generation backing the regime against discontented supermajorities is a historically dangerous configuration.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0070"],
+      "temporal_scope": "general model applied to 2026",
+      "topic_tags": ["elite", "regime", "discontent", "instability"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Canada's Covid-era trucker protest response was far more authoritarian than the U.S. response because protesters and even donors were debanked.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0071"],
+      "temporal_scope": "Covid era Canada",
+      "topic_tags": ["canada", "truckers", "debanking", "authoritarianism"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Canada's post-Covid immigration surge worsened jobs and housing for young people while benefiting boomers with assets.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0071", "video:interview-mgazlaa5oza@transcript:v1#seg-0072"],
+      "temporal_scope": "post-Covid Canada",
+      "topic_tags": ["canada", "immigration", "housing", "young-people"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0070"],
+      "moment": "Dave describes a small elite generation defending the regime against discontented supermajorities.",
+      "source_phrase": "a smaller and smaller group of elites",
+      "why_it_matters": "It translates the boomer critique into a general instability model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0071"],
+      "moment": "Jiang uses Canadian debanking to show that authoritarianism can arrive through banking access before overt police rule.",
+      "source_phrase": "if you support them in any way... you are debanked",
+      "why_it_matters": "It gives the authoritarian prediction a concrete institutional mechanism.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "debanking",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0071"],
+      "definition_or_usage": "Removal from banking access as punishment for protest or support for protest; Jiang treats it as authoritarian control.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite-minority regime dynamic",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0070"],
+      "definition_or_usage": "A political structure where a shrinking elite group supports the regime against broad popular discontent.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0071", "video:interview-mgazlaa5oza@transcript:v1#seg-0072"],
+      "note": "Jiang's Canada warning links Covid lockdown politics, the trucker protest, post-Covid immigration, and Mark Carney's India outreach into one authoritarian-boomer sequence.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

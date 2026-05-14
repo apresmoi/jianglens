@@ -1,0 +1,112 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0013",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0097", "video:interview-mgazlaa5oza@transcript:v1#seg-0098"],
+      "kind": "answer",
+      "summary": "Jiang says Bernie Sanders was railroaded twice by the Democratic Party, while Trump at least won the Republican primary democratically; he warns Democrats produce authority-pleasing elites without moral conviction.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0099", "video:interview-mgazlaa5oza@transcript:v1#seg-0105"],
+      "kind": "answer",
+      "summary": "Dave agrees that Democrats rigged against Bernie, then broadens the warning to DNC collusion, Russiagate, laptop suppression, and Obama's expansion of the imperial presidency.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0104", "video:interview-mgazlaa5oza@transcript:v1#seg-0105"],
+      "kind": "monologue",
+      "summary": "Dave distinguishes Bush's congressional authorizations from Obama's doctrine that the war is everywhere and the president can strike anywhere without even pretending to seek authorization.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the Democratic Party did not run real democratic primaries in 2016, 2020, or 2024, and that this makes him wary of Democrats despite Republican failures.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0097", "video:interview-mgazlaa5oza@transcript:v1#seg-0098"],
+      "temporal_scope": "2016-2024 Democratic primaries",
+      "topic_tags": ["democrats", "primaries", "bernie-sanders", "elite-selection"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Harvard and Yale graduate authority-pleasers who believe ends justify means and lack moral conviction.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0098"],
+      "temporal_scope": "contemporary elite education",
+      "topic_tags": ["harvard", "yale", "elite-education", "authority"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave says the 2016 DNC emails showed institutional collusion against Bernie Sanders, including debate-question leakage and smear coordination.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0099", "video:interview-mgazlaa5oza@transcript:v1#seg-0100"],
+      "temporal_scope": "2016 Democratic primary",
+      "topic_tags": ["dnc", "bernie-sanders", "wikileaks", "julian-assange"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave argues that Russiagate and the Biden laptop intelligence letter were deep-state interventions that exerted control over presidential politics.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0102", "video:interview-mgazlaa5oza@transcript:v1#seg-0103"],
+      "temporal_scope": "2016-2020 U.S. elections",
+      "topic_tags": ["russiagate", "deep-state", "biden-laptop", "elections"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave says Obama made the imperial presidency naked by treating the global war on terrorism as everywhere and authorizing strikes anywhere without congressional authorization.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0104", "video:interview-mgazlaa5oza@transcript:v1#seg-0105"],
+      "temporal_scope": "Obama administration",
+      "topic_tags": ["obama", "imperial-presidency", "war-powers", "deep-state"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0098"],
+      "moment": "Jiang calls elite-school graduates ass-kissers trained to suck up to authority.",
+      "source_phrase": "they graduate ass kissers",
+      "why_it_matters": "It ties his distrust of Democrats to an elite-formation theory, not just party preference.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0104"],
+      "moment": "Dave defines the Obama doctrine as war everywhere, anytime.",
+      "source_phrase": "the war is everywhere",
+      "why_it_matters": "It names the precedential expansion of executive war power that the panel fears returning to Democrats.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "imperial presidency",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0104"],
+      "definition_or_usage": "Dave's phrase for presidential war authority operating globally without meaningful congressional constraint.",
+      "confidence": "high"
+    },
+    {
+      "term": "authority-pleasing elite",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0098"],
+      "definition_or_usage": "Jiang's description of elite university graduates who serve power and justify means by ends.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0096", "video:interview-mgazlaa5oza@transcript:v1#seg-0098"],
+      "note": "Jiang recounts moving from 2016 anti-Trump liberal reflex through close attention to the 2020 Democratic primary and skepticism toward Democratic elite selection.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

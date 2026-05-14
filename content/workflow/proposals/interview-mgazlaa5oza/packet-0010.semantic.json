@@ -1,0 +1,88 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0010",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0073", "video:interview-mgazlaa5oza@transcript:v1#seg-0074"],
+      "kind": "answer",
+      "summary": "Jiang says Mark Carney's path in Canada shows a staged, elite-backed move toward authoritarianism, with immigration and high property prices benefiting boomers.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0075", "video:interview-mgazlaa5oza@transcript:v1#seg-0080"],
+      "kind": "answer",
+      "summary": "Dave says modern propaganda is broken, which allows conversations like this, but that breakdown may provoke authoritarian crackdowns from Trump or a future Democratic administration using liberal language.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang presents Canada as America's future warning case: unelected or elite-managed leadership, opposition bribery, immigration policy, and property inflation can consolidate boomer-backed authoritarianism.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0073", "video:interview-mgazlaa5oza@transcript:v1#seg-0074"],
+      "temporal_scope": "Canada in Jiang's 2026 diagnosis",
+      "topic_tags": ["canada", "mark-carney", "authoritarianism", "baby-boomers"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave says modern corporate-media propaganda control has broken enough that dissident conversations can happen outside the old controlled model.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0075"],
+      "temporal_scope": "2026 media environment",
+      "topic_tags": ["media", "propaganda", "podcasts"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dave warns that future Democratic power could implement vaccine passports, central bank digital currency, carbon scores, hate-speech controls, or similar systems under liberal language.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0077", "video:interview-mgazlaa5oza@transcript:v1#seg-0080"],
+      "temporal_scope": "future U.S. Democratic administration after 2026",
+      "topic_tags": ["democrats", "authoritarianism", "cbdc", "carbon-scores", "censorship"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0074"],
+      "moment": "Jiang says Canada could be America's future, not its contrast.",
+      "source_phrase": "Canada could be America's savior. It's Canada's future.",
+      "why_it_matters": "The line makes Canada a predictive laboratory for American authoritarian drift.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0080"],
+      "moment": "Dave says even coercion in America arrives wrapped in freedom language.",
+      "source_phrase": "They call your income tax voluntary compliance",
+      "why_it_matters": "It captures the panel's shared suspicion that U.S. authoritarianism hides inside liberal vocabulary.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "liberal-language authoritarianism",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0079", "video:interview-mgazlaa5oza@transcript:v1#seg-0080"],
+      "definition_or_usage": "Dave's model that American coercion, especially for boomers, must be justified through liberal terms such as freedom, safety, hate speech, or climate.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0077"],
+      "note": "Dave cites Biden's attempted vaccine mandate for large employers, CBDC discussion, and vaccine passport ideas as recent precedents for future controls.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0078", "video:interview-mgazlaa5oza@transcript:v1#seg-0079"],
+      "note": "Dave expresses uncertainty about claims regarding China's social credit system and Uyghur numbers; preserve that as Dave's uncertainty rather than a settled Jiang claim."
+    }
+  ]
+}

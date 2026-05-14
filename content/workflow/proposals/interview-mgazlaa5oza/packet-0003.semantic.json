@@ -1,0 +1,74 @@
+{
+  "packet_id": "interview-mgazlaa5oza-semantics-pkt-0003",
+  "source_id": "video:interview-mgazlaa5oza",
+  "source_date": "2026-04-15",
+  "interactions": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0017", "video:interview-mgazlaa5oza@transcript:v1#seg-0018"],
+      "kind": "exchange",
+      "summary": "Sneako and Dave joke about Trump's social-media explanation of an image as a Red Cross doctor rather than Jesus.",
+      "speaker_attribution": "Sneako asks, Dave replies.",
+      "confidence": "medium"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0019", "video:interview-mgazlaa5oza@transcript:v1#seg-0020"],
+      "kind": "question",
+      "summary": "Sneako establishes the shared anti-Iran-war ground; Jiang says he and Dave are anti-war and that Jiang is largely aligned with Dave's libertarian beliefs.",
+      "speaker_attribution": "Sneako question with Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0021", "video:interview-mgazlaa5oza@transcript:v1#seg-0024"],
+      "kind": "exchange",
+      "summary": "Dave says he knows Jiang from viral predictions and asks what, if anything, Jiang thinks he is getting wrong or missing.",
+      "speaker_attribution": "Dave Smith",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang positions himself and Dave as anti-war, with Jiang mostly aligned to Dave's libertarian beliefs.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0020"],
+      "temporal_scope": "2026-04-15",
+      "topic_tags": ["anti-war", "libertarianism", "coalition"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The panel is explicitly framed as a dialogue rather than a Piers Morgan-style shouting match.",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0022"],
+      "temporal_scope": "this interview",
+      "topic_tags": ["dialogue", "media-format"],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0023", "video:interview-mgazlaa5oza@transcript:v1#seg-0024"],
+      "moment": "Dave invites Jiang to identify what he is missing, setting up the interview as model comparison rather than agreement theater.",
+      "source_phrase": "what, if anything, he thinks maybe I'm getting wrong or I'm missing",
+      "why_it_matters": "This opens the central Jiang move: shifting Dave from personality and lobby explanations toward structural macro-history.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "anti-war coalition",
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0019", "video:interview-mgazlaa5oza@transcript:v1#seg-0020"],
+      "definition_or_usage": "A cross-ideological alignment against the Iran war, including Jiang and Dave despite different political backgrounds.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-mgazlaa5oza@transcript:v1#seg-0021"],
+      "note": "Dave says he had seen Jiang's viral war predictions and describes several of them as having come true by 2026-04-15.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}
