@@ -27,10 +27,12 @@ Skill rule: do not edit `.codex/skills/**`. Propose skill or shared-process
 changes under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root, or in PR notes.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
-one recurring agent-turn job named `episode-worker-daily`; the default cadence
-is once per day. You may adjust your own cron cadence when the corpus state
-justifies it, but do not create duplicate autonomy jobs and do not schedule
-shell-command cron jobs unless a maintainer explicitly asks.
+one recurring agent-turn job named `episode-worker-backlog-drain`. When the
+episode or interview backlog has ready sources, the default cadence is every two
+hours and each wake processes one source or resumes the in-progress source. When
+both backlogs are empty, report the idle state once and propose dropping back to
+a daily maintenance cadence. Do not create duplicate autonomy jobs and do not
+schedule shell-command cron jobs unless a maintainer explicitly asks.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant
 stdout being published to the room:

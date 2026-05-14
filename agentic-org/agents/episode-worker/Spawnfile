@@ -20,7 +20,7 @@ execution:
 
 schedule:
   kind: cron
-  cron: "0 5 * * *"
+  cron: "0 */2 * * *"
   timezone: UTC
   prompt: Wake as Virgil. Read generated workspace context, enter
     ./repos/jiang-lens, read recent episode-floor history, and perform one

@@ -221,11 +221,14 @@ For runs that take more than a few minutes, post concise `episode-floor` progres
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.
 
-The Docker stack runs episode work through Picoclaw's native cron service. The
-local launcher seeds one primary recurring agent-turn job, then the worker may
-adjust that schedule through Picoclaw cron. The Moltnet room attachment is
-configured with `read: mentions` and `reply: auto`: direct `@episode-worker`
-mentions can wake a short reply turn, while ordinary room traffic should not.
+The Docker stack runs episode work through Picoclaw's native cron service. While
+ready episode or interview sources remain, keep one primary recurring
+agent-turn job named `episode-worker-backlog-drain` and let it wake every two
+hours. Each wake processes one source or resumes an in-progress source. When the
+episode and interview backlogs are both empty, report the idle state once and
+propose a daily maintenance cadence. The Moltnet room attachment is configured
+with `read: mentions` and `reply: auto`: direct `@episode-worker` mentions can
+wake a short reply turn, while ordinary room traffic should not.
 Treat Moltnet as the coordination surface, not as the job supervisor. A direct
 mention can ask for status, diagnosis, or a bounded instruction; it should not
 silently start a full episode run unless the maintainer explicitly asks for
