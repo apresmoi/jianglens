@@ -1,0 +1,92 @@
+{
+  "packet_id": "interview-t8jfdx3gfcw-semantics-pkt-0010",
+  "source_id": "video:interview-t8jfdx3gfcw",
+  "source_date": "2026-04-16",
+  "interactions": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0073"],
+      "kind": "answer",
+      "summary": "Jiang completes the Clinton analogy by saying Clinton, as a centrist neoliberal, did Republican work by bringing in NAFTA, permanent normal trade relations with China, and China's WTO entry.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0074"],
+      "kind": "exchange",
+      "summary": "The interviewer adds a Bilderberg detail about Clinton, then closes the interview and asks where people can find Jiang's work.",
+      "speaker_attribution": "Danny, interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0075", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0076", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0077"],
+      "kind": "exchange",
+      "summary": "Jiang points viewers to his Substack, and the host closes with channel promotion.",
+      "speaker_attribution": "Jiang then Danny",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0075"],
+      "note": "ASR renders the Substack name incorrectly as 'prick of history'; the intended site is Predictive History.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Clinton was a centrist neoliberal doing Republican work by advancing NAFTA, permanent normal trade relations with China, and China's WTO entry.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0073"],
+      "temporal_scope": "Retrospective historical claim stated on 2026-04-16.",
+      "topic_tags": ["bill-clinton", "nafta", "china", "wto", "neoliberalism"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interviewer adds that Clinton attended a Bilderberg meeting before running for president and treats it as support for Jiang's behind-closed-doors framework.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0074"],
+      "temporal_scope": "Interviewer claim during the 2026-04-16 conversation.",
+      "topic_tags": ["bill-clinton", "bilderberg", "interviewer-claim"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0073"],
+      "moment": "Clinton is presented as the Democrat who could do Republican globalization from inside the Democratic Party.",
+      "source_phrase": "doing the work of the republicans",
+      "why_it_matters": "It completes Jiang's argument that political defeat can function as managed succession.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "permanent normal trade relations",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0073"],
+      "definition_or_usage": "A China trade policy Jiang lists with NAFTA and WTO entry as Clinton-era neoliberal globalization.",
+      "confidence": "high"
+    },
+    {
+      "term": "neoliberal",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0073"],
+      "definition_or_usage": "Jiang's label for Clinton as a centrist implementing free-trade/globalization policy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0073", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0074"],
+      "note": "The closing historical analogy moves from 1992 Bush-Clinton succession to NAFTA, China trade normalization, WTO entry, and an interviewer claim about Clinton's 1990/1991 Bilderberg attendance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0074"],
+      "note": "The Bilderberg detail is stated by the interviewer, not Jiang, and should not be treated as a Jiang claim."
+    }
+  ]
+}
