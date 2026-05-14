@@ -1,0 +1,130 @@
+{
+  "packet_id": "predictive-history-bil5vjn6ohi-semantics-pkt-0004",
+  "source_id": "video:predictive-history-bil5vjn6ohi",
+  "source_date": "2026-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0025",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0026",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes trade-war dynamics as a recoupling mechanism: instability in the monetary model can force renewed binding between U.S. and China.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0028",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0029",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "He reframes China’s rise as demand-driven manufacturing integration and ties the trade war to China’s unwillingness to fully open finance/IP conditions demanded by the WTO-era terms.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0028",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0029"
+      ],
+      "note": "The speaker transitions quickly through comparative references (UK, US historical manufacturing positions) and attributes intentionality; confidence on precise chronology is moderate.",
+      "suggested_speaker": "Jiang lecturer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He argues that when a system appears unstable, actors may recouple to the same structure, which in this case means renewed U.S.-China alignment to preserve perceived reality.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0025",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0026",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Interpretive synthesis in this lecture.",
+      "topic_tags": ["recoupling", "systemic-risk", "us-china"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He presents China’s manufacturing rise as structurally useful to the global order because it transfers wealth to sustain the U.S.-centered monetary ecology.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0027",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Jiang’s model as of this source date.",
+      "topic_tags": ["manufacturing", "trade-deficit", "dollar"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He claims the trade war partly reflects China’s refusal to adopt conditions linked to IP enforcement and full capital convertibility expected in the WTO process.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0029",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0030",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Analysis of 2016/2018 timeline in this dated lecture.",
+      "topic_tags": ["wto", "trade-war", "ip", "capital-controls"],
+      "claim_type": "diagnosis",
+      "confidence": "low"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0028"
+      ],
+      "moment": "He depicts China’s ascent as an engineered rather than accidental structural role.",
+      "source_phrase": "this is intentional",
+      "why_it_matters": "This turns trade statistics into evidence of intentional global design in the class’s interpretive vocabulary.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0031"
+      ],
+      "moment": "He ties the 2018 war turn to China’s likely resistance to capital convertibility and enforcement of IP.",
+      "source_phrase": "Chinese government would refuse to open the financial sector and that's what started the trade war",
+      "why_it_matters": "The line provides a concrete mechanism for the broader structural thesis.",
+      "tone": "causal-chain",
+      "confidence": "low"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Trade-war mechanism",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0029",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Conflict driven by disagreement over convertibility, IP enforcement, and strategic dependence between manufacturing and financial control.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0029",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0030",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0031"
+      ],
+      "note": "This packet extends the chronology from the 2018 onset through current negotiations, explicitly contrasting older design vs. recent conflict.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0030"
+      ],
+      "note": "ASR in this section is compressed around WTO legal details; the broader chronology claim is preserved but date-precise legal nuance remains uncertain."
+    }
+  ]
+}

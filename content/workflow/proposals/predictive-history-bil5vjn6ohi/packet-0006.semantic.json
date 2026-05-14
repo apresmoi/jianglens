@@ -1,0 +1,138 @@
+{
+  "packet_id": "predictive-history-bil5vjn6ohi-semantics-pkt-0006",
+  "source_id": "video:predictive-history-bil5vjn6ohi",
+  "source_date": "2026-05-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0041",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0042",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0043"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang presents U.S. and China as participants in financial recoupling, with China’s debt capacity and low external investment creating an argument that the U.S. can absorb further integration.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0044",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0045",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0046",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He explains bank-money creation through lending and double-entry bookkeeping, setting up the argument that finance is a structural fiction but legally embedded.",
+      "speaker_attribution": "Jiang lecturer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0048"
+      ],
+      "note": "SPEAKER_00 appears briefly and questions whether banks print money; likely a student prompt or interjection in class setting, but not a structured question requiring answer extraction.",
+      "suggested_speaker": "student/participant",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "He claims China has substantial debt capacity because it holds relatively less foreign invested assets, making it a continued target for expansion-led integration in his model.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0041",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Interpretive assessment from this source date.",
+      "topic_tags": ["debt-capacity", "debt", "capital-flows"],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He states that banks create new money through lending against deposits, which is the basis for explaining debt and inflation dynamics in this episode.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0044",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0045",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Model mechanism in this source's economics segment.",
+      "topic_tags": ["banking", "money-creation", "double-entry"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames money as an institutional illusion in practice and argues that the current account capital dynamic is key to explaining why Chinese savings are treated as a leverage point by global finance.",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0043",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0044",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Dated synthesis in this lecture.",
+      "topic_tags": ["money", "illusion", "savings"],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0044"
+      ],
+      "moment": "He uses a concrete banking example to claim new money is minted through lending.",
+      "source_phrase": "the bank now has two million dollars",
+      "why_it_matters": "This operational example underpins later macro claims about debt and stable-coin mechanics.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0048"
+      ],
+      "moment": "Student skepticism is surfaced, but Jiang retains course-control and repeats core mechanism.",
+      "source_phrase": "is it because that the banks have powers to print money when they make loans",
+      "why_it_matters": "It shows the transmission interface between classroom resistance and the speaker's model.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Double-entry bookkeeping",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0045",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Accounting method treating loan operations as linked assets/liabilities; invoked here as basis of money creation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Debt capacity",
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Apparent room to absorb additional obligations due to limited pre-existing foreign liabilities.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0041",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0046"
+      ],
+      "note": "Packet 6 transitions from macro dependency argument into mechanics of monetary infrastructure, a prelude to debt-finance policy claims that continue in later packets.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0043",
+        "video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0044"
+      ],
+      "note": "Segment includes quick, colloquial examples and some unclear words (e.g., ‘US weeks’); treat as pedagogical analogy with approximate phrasing."
+    }
+  ]
+}
