@@ -1,0 +1,136 @@
+{
+  "packet_id": "interview-t8jfdx3gfcw-semantics-pkt-0001",
+  "source_id": "video:interview-t8jfdx3gfcw",
+  "source_date": "2026-04-16",
+  "interactions": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0001"],
+      "kind": "answer",
+      "summary": "Jiang starts from a later answer by naming three eschatological visions: a North American technate, Pax Judaica centered on Israel and the Levant, and Dugin's Third Rome centered on Moscow and Eurasia.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0002", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0003"],
+      "kind": "question",
+      "summary": "The interviewer introduces the April 16, 2026 recording and asks whether the Iran war has been put aside until the midterms or is preparing to restart.",
+      "speaker_attribution": "Danny, interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0004", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0006", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0007", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0008"],
+      "kind": "answer",
+      "summary": "Jiang says the ceasefire is a reset after American losses, then lists signs of widening war: a Malacca counter to Hormuz, carriers and Marines entering theater, an American home front preparing for attrition, draft registration, munitions manufacturing, and a sanctions blockade in the Indian Ocean.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0005"],
+      "note": "Boundary repair left seg-0005 empty after moving the completion back into Jiang's answer.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's opening world model has three active eschatological visions competing over the future center of gravity: North America, the Levant, or Moscow-led Eurasia.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0001"],
+      "temporal_scope": "Dated interview claim on 2026-04-16.",
+      "topic_tags": ["eschatology", "technate", "pax-judaica", "third-rome"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iran ceasefire is not peace but an American reset after battlefield weakness.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0004"],
+      "temporal_scope": "Diagnosis of the Iran war as of 2026-04-16.",
+      "topic_tags": ["iran-war", "ceasefire", "american-strategy"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says America can answer Iranian control of Hormuz by controlling Malacca, where China receives about 80 percent of its oil.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0004", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0006"],
+      "temporal_scope": "Energy-chokepoint diagnosis on 2026-04-16.",
+      "topic_tags": ["malacca", "hormuz", "china", "oil"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The American home front is preparing for a long war of attrition through a larger Pentagon budget, munitions manufacturing, automatic draft registration, and expanded naval pressure.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0006", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0007"],
+      "temporal_scope": "Near-term military-political diagnosis on 2026-04-16.",
+      "topic_tags": ["war-economy", "draft", "pentagon", "attrition"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Iran war is becoming a global ocean conflict over energy access and trade access.",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0007", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0008"],
+      "temporal_scope": "Dated diagnosis on 2026-04-16.",
+      "topic_tags": ["ocean-conflict", "energy", "trade", "sanctions"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0001"],
+      "moment": "The interview's world map is drawn as three rival apocalypses fighting over the planet's center of gravity.",
+      "source_phrase": "what era becomes the center of gravity",
+      "why_it_matters": "This frame explains why later arguments about Hormuz, the technate, Israel, Russia, and China are not separate topics.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0008"],
+      "moment": "The war shifts from a regional Iran conflict into a fight over the oceans.",
+      "source_phrase": "expanding into a global conflict in the oceans",
+      "why_it_matters": "It gives the episode its operating terrain: chokepoints, blockades, ships, oil, and trade routes.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "technate",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0001"],
+      "definition_or_usage": "A world vision making greater North America the center of global politics.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0001"],
+      "definition_or_usage": "A world vision making the Levant and Israel the center of global order.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third Rome",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0001"],
+      "definition_or_usage": "Dugin's model in which Moscow unites Eurasia into a new era of world peace.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strait of Malacca",
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0004", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0006"],
+      "definition_or_usage": "The chokepoint Jiang says America could control to threaten East Asian and Chinese oil access.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0002", "video:interview-t8jfdx3gfcw@transcript:v1#seg-0003"],
+      "note": "The host dates the recording to Thursday, 2026-04-16, four or five days after the Islamabad negotiation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-t8jfdx3gfcw@transcript:v1#seg-0004"],
+      "note": "Part of seg-0004 contains ASR damage around Indonesian cooperation; the strategic point about Malacca remains clear."
+    }
+  ]
+}
