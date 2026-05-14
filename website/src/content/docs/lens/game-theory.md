@@ -127,6 +127,18 @@ A game-theory prediction changes the board when the game becomes visible enough 
 
 The boundary matters. This is not a separate "great man" theory and not a license to make every forecast unfalsifiable. The useful diagnostic is narrower: when a model has become clear enough to guide action, ask who can read the same model, enter late, and turn the visible trajectory into a weapon.
 
+## Theater Becomes A Prediction Test
+
+The May 2026 U.S.-China lecture adds a practical discipline to the same rule. Jiang begins with a visible diplomatic scene: Trump in China, an unusually heavy U.S. entourage, AI and finance figures near the table, and public friction still filling the news. His game-theory move is not to deny the friction. It is to ask whether the friction is the real game or the visible noise around a larger bargain. He says that if the class uses game theory and looks at the broad contours, it can make better predictions, then names the surface conflict [just theater]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007"}.
+
+This matters because "theater" is easy to abuse. In Jiang's stronger form, theater is not an excuse to believe any hidden story. It has to cash out as a forecast. He explicitly calls the model speculative, asks students to question and debate it, and says that once they understand the theory they can make predictions; [the predictions then test whether the theory is correct]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016"}. The lecture closes the same way: the grand-bargain claim will be known soon enough because [the prediction can be wrong within days]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"}.
+
+<!-- lens-point id="game-theory-theater-prediction-test" concept="game-theory-method" evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067" -->
+<span id="game-theory-theater-prediction-test" class="lens-point-anchor"></span>
+Theater becomes useful game-theory evidence only when the analyst names the larger game, states predictions that follow from the hidden structure, and accepts that near-term outcomes can falsify the theory.
+
+That gives the reader a boundary. If "it's all theater" merely protects a claim from contrary evidence, it has left Jiang's game-theory method and become story insulation. If it identifies players, constraints, desired payoffs, visible signals, and dated predictions, then theater can be tested as a game-board signal. The point belongs here rather than on the stories page because the mechanism is methodological: the analyst is not asking how narrative captures imagination, but whether visible drama is misdirection, bargaining language, or evidence of a different payoff structure.
+
 ## Material Tests Still Matter
 
 Game theory can reveal hidden payoffs, but it does not let story float free of matter. The Hollywood-Pentagon lecture gives the correction. War has to be judged by [economics, organization, and logistics]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"}. An actor can narrate victory, stage rescue, or maintain optics while losing the material game.
@@ -162,6 +174,7 @@ Ask:
 - What form of coordination is operating: leader, bureaucracy, family, religion, story, nation, secret society, or subconscious dance?
 - Does the story pass material tests of cost, organization, logistics, time, and enemy adaptation?
 - Has the game become visible enough that a late player can read the model, enter the board, and redirect the trajectory?
+- If the surface event is theater, what dated prediction would make that claim testable rather than self-protecting?
 - Which earlier choices made only bad choices available now?
 
 The final question is often the most important. A trap is not just a bad move. It is a game whose previous moves have narrowed the field until every option damages the actor.
@@ -203,6 +216,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
   War imposes the hard material test: economics, organization, and logistics expose when story has replaced strategy.
+
+- **2026-05-14**, [Game Theory #25: Trump in China as a Grand Bargain Engine](/episodes/predictive-history-bil5vjn6ohi/)
+  The theater claim is made falsifiable: visible U.S.-China friction is treated as noise around a larger bargain only because Jiang attaches dated predictions and says the theory can be tested by whether those predictions hold.
 
 ## Related Concepts
 
