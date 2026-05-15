@@ -1,0 +1,144 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0008",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang starts a story about Trump's Iran attack and his Breaking Points appearance going viral.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to explain, for listeners who missed the clip, what he predicted and what has come true.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0059",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0060",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says two earlier predictions came true: Trump would win in 2024 and attack Iran. He stands by a third prediction that America will lose the Iran war, then describes a synchronized wave of media and influencer attacks after his viral Breaking Points interview.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0062",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0063",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "The host acknowledges Jiang's hard week and compares ordinary podcast criticism with the humiliation risk of being pushed onto a global stage; Jiang says he cannot sleep.",
+      "speaker_attribution": "Host and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0058"
+      ],
+      "note": "The host's question is performed and should be eligible as a public interview question if used later.",
+      "suggested_speaker": "Host",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says he predicted Trump would win the 2024 election and that Trump would attack Iran, and he says both predictions have come true.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Jiang's March 2026 account of earlier predictions.",
+      "topic_tags": [
+        "prediction",
+        "trump",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang continues to predict that America will lose the Iran war because Iran can use asymmetric warfare, prolong the conflict, and draw America into destructive ground operations.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0059",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Forward-looking prediction as of 2026-03-18.",
+      "topic_tags": [
+        "iran-war",
+        "american-empire",
+        "asymmetric-warfare"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the sudden synchronized criticism after his viral clip as a coordinated social-media campaign rather than purely organic backlash.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0060",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Jiang's interpretation of backlash during the week of this interview.",
+      "topic_tags": [
+        "internet",
+        "coordination",
+        "backlash"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0059",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0060"
+      ],
+      "moment": "The Iran prediction becomes the proof-test of Predictive History and the event that drags Jiang into public danger.",
+      "source_phrase": "America will lose this war",
+      "why_it_matters": "It is the central bridge between his model-testing method and the interview's immediate pressure.",
+      "tone": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "asymmetrical warfare",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang's reason for predicting Iran can inflict more damage than America admits and draw out the war.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0059"
+      ],
+      "note": "By 2026-03-18, Jiang presents Trump winning in 2024 and attacking Iran as already fulfilled predictions, with American defeat still pending.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0060"
+      ],
+      "note": "Jiang names media and influencer attacks broadly; the packet does not independently identify each article or video."
+    }
+  ]
+}

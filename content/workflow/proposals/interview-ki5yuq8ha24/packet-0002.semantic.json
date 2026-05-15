@@ -1,0 +1,144 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0002",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0009",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains how helping Chinese students apply abroad became a teaching practice around Great Books and critical thinking, then ties family life and his children to his concern about the future.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0010",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0011",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0012",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0013",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0014",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0015",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes Trump, the 2020 Democratic primary, Biden's nomination, mail ballots, and COVID lockdowns as successive shocks that broke the Yale-taught belief in a logical, meritocratic order.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0009",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0016"
+      ],
+      "note": "No host interruption inside the focus range; this is Jiang continuing the opening autobiographical answer.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says his overseas-application work became an education project because he wanted students to read Great Books and learn critical thinking, not only outsource essays and recommendations.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Teaching work after China became wealthier and students sought overseas study.",
+      "topic_tags": [
+        "teaching",
+        "great-books",
+        "education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yale taught him a world where competent elites maintain a logical meritocratic order, and Trump winning in 2016 traumatized that premise.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0010",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Retrospective account of Jiang's reaction to the 2016 election.",
+      "topic_tags": [
+        "yale",
+        "trump",
+        "elite-trust"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues many Obama-to-Trump voters were not simply racist but felt betrayed by Obama after the Wall Street bailout and losses among ordinary Americans, including Black homeowners.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Interpretation of 2008-to-2016 American electoral movement.",
+      "topic_tags": [
+        "obama",
+        "trump-voters",
+        "financial-crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the 2020 mail-ballot shift and COVID lockdowns as evidence that the political game was not fair and that democratic normality was weaker than he had assumed.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0015",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Jiang's 2020 retrospective interpretation.",
+      "topic_tags": [
+        "2020-election",
+        "covid",
+        "democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0010"
+      ],
+      "moment": "Trump's election punctures Jiang's Yale-trained belief that the world is run by competent meritocratic managers.",
+      "source_phrase": "the world is a logical place",
+      "why_it_matters": "It links elite education to the psychological shock that later pushes him toward alternative models.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "TDS",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Jiang uses the abbreviation for Trump derangement syndrome to describe his earlier intense anti-Trump reaction.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0010",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang orders the shocks as Trump's 2016 win, the 2020 Democratic primary/election, and COVID lockdowns, with family concerns as the personal frame.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0016"
+      ],
+      "note": "ASR renders 'January 6 riots' as 'generally six riots'; preserve the intended referent only in summaries, not as a direct quote."
+    }
+  ]
+}

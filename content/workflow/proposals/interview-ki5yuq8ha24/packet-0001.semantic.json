@@ -1,0 +1,131 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0001",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0001"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang as the figure behind Predictive History and asks how the lectures began.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0002",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0003",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0004",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0005",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0006",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0007",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang narrates his path from wide curiosity, Yale alienation, law-school rejection, return to China, deportation during a PBS project, Starcraft depression, and Afghanistan UN work, where he says seeing empire and NGO corruption changed his understanding of the world.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0001",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0002"
+      ],
+      "note": "Diarization cleanly separates host introduction from Jiang's long autobiographical answer.",
+      "suggested_speaker": "Host then Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames his intellectual origin as curiosity rather than career ambition, saying science fiction, comics, and Yale's course breadth trained his wide-ranging habits.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Autobiographical origin story before Predictive History.",
+      "topic_tags": [
+        "autobiography",
+        "education",
+        "curiosity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yale's elite social world treated people instrumentally, leaving him alienated because he did not fit the ambition-and-usefulness culture.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0003",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0004",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Retrospective account of Jiang's Yale years.",
+      "topic_tags": [
+        "yale",
+        "elite-formation",
+        "alienation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies his Afghanistan UN work as a rude awakening to American empire, NGO corruption, warlord protection, relic smuggling, opium protection, and expat profiteering.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0007",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Retrospective account of Afghanistan experience before Predictive History.",
+      "topic_tags": [
+        "american-empire",
+        "afghanistan",
+        "ngo-corruption"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0007",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0008"
+      ],
+      "moment": "Afghanistan becomes the experiential break where the abstract idea of empire turns into a visible scam.",
+      "source_phrase": "first exposure actually to the American empire overseas",
+      "why_it_matters": "It explains why the later Predictive History world model begins from institutional distrust rather than detached theory.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "American empire overseas",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's name for the operational system he says he saw in Afghanistan: military, NGO, UN, warlord, and illicit-economy arrangements reinforcing each other.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0006",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0007"
+      ],
+      "note": "Jiang places his China journalism arrest/deportation before the Starcraft depression period and before his six-month UN Afghanistan exposure.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0006"
+      ],
+      "note": "ASR phrase 'higher education' may refer to a publication or outlet; keep as transcript wording unless checked against audio."
+    }
+  ]
+}

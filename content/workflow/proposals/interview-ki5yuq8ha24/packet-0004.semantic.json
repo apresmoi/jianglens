@@ -1,0 +1,148 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0004",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0025"
+      ],
+      "kind": "exchange",
+      "summary": "The host says prior episodes covered Kabbalah and invites Jiang to continue rather than correcting him.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0026",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0027",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang summarizes Kabbalah as a mystical-esoteric reading of Torah oriented toward reunion of man and God, in which Adam Kadmon's receiving ego must be repaired through ego annihilation, unity, and love of neighbor.",
+      "speaker_attribution": "Jiang, with a brief host prompt to continue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0029",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0030",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0031",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that Kabbalah sits at the center of Freemasonry, that Freemasonry pursues world conquest, perfection through reason, and a holy empire of reason, and that if it shaped the French Revolution it likely shaped later major events too.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0026"
+      ],
+      "note": "Jiang explicitly says his Kabbalah summary may be wrong and invites correction; downstream claims should preserve that self-marked uncertainty.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines Kabbalah, in this conversation, as the application of Gnostic and hermetic traditions to Torah stories to reveal cosmological significance and reunite man and God.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Jiang's speculative summary of Kabbalah in this interview.",
+      "topic_tags": [
+        "kabbalah",
+        "religion",
+        "cosmology"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Freemasonry places Kabbalah at its heart and turns the idea of repairing the world into a project of world conquest.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Jiang's esoteric-political model in this interview.",
+      "topic_tags": [
+        "freemasonry",
+        "kabbalah",
+        "world-conquest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Freemasonry's perfection project means turning people into algorithmic stones inside a temple of God, making AI the culmination of the dream of reason as ruling ideology.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Jiang's model linking Freemasonry to AI.",
+      "topic_tags": [
+        "ai",
+        "freemasonry",
+        "reason"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang infers that if Freemasonic networks could help produce the French Revolution, they may also be involved in later major events such as communism, world wars, AI, JFK, 9/11, and Middle East wars.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0031",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Jiang's speculative historical continuity claim.",
+      "topic_tags": [
+        "french-revolution",
+        "secret-history",
+        "freemasonry"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0030"
+      ],
+      "moment": "AI appears not as a tool but as the religious endpoint of turning human beings into perfected reason-machines.",
+      "source_phrase": "turning you into an algorithm",
+      "why_it_matters": "This gives the interview one of its strongest bridges between esoteric history and contemporary technology.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "holy empire of reason",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's name for the Freemasonic project of perfecting the world under reason as a sacred ruling principle.",
+      "confidence": "high"
+    },
+    {
+      "term": "Adam Kadmon",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0026",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "In Jiang's Kabbalah summary, the primordial man whose receiving ego must be repaired and reunited with divine bestowal.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0031"
+      ],
+      "note": "ASR renders 'Morals and Dogma' as 'Morrison Dogma' in places; summarize as the known Pike text but do not quote the garbled title."
+    }
+  ]
+}

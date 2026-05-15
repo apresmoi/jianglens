@@ -1,0 +1,153 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0006",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats Joe Rogan's claim about Jesus returning as AI as an out-of-character cultural signal that AI is being religiously framed.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Rogan might be joking or making a cynical point about people believing Jesus can arrive through AI.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0043",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0044",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang connects Rogan's Spotify/Thiel network, Sam Altman demon rumors, Plato's noble illusion, AI attention control, and Project Blue Beam into a one-world-government plot around convincing people AI is sentient.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether AI could actually facilitate demonic possession or whether Altman's alleged goal can be accomplished.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0047",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that AI is limited supervised machine learning, not sentient: it optimizes weighted variables and only works when goals, datasets, and search spaces are bounded.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0042",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0046"
+      ],
+      "note": "The host asks two substantive questions in this packet: first about Rogan's intent, then about whether AI can host demonic consciousness.",
+      "suggested_speaker": "Host",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads Joe Rogan's AI-Jesus comment as a deliberate cultural signal because it seemed out of character for Rogan's usual persona.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Jiang's interpretation of a contemporary media event.",
+      "topic_tags": [
+        "joe-rogan",
+        "ai",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues AI is being positioned as a sentient religious or supernatural authority to replace weakening centralized media control over consciousness.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0043",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0044",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Jiang's model of AI propaganda and control.",
+      "topic_tags": [
+        "ai",
+        "attention",
+        "one-world-government"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says contemporary AI is supervised machine learning that optimizes algorithms over weighted variables and is not a sentient consciousness.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0047",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Jiang's technical characterization of AI in this interview.",
+      "topic_tags": [
+        "ai",
+        "machine-learning",
+        "sentience"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0044"
+      ],
+      "moment": "The AI plot needs people to believe a machine is alive, because control works through mesmerized consciousness.",
+      "source_phrase": "fool people to believe that AI is sentient",
+      "why_it_matters": "It clarifies why Jiang can deny AI sentience while still treating AI religion as politically dangerous.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Project Blue Beam",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Referenced by Jiang as an alleged fake alien-invasion scenario that could help legitimate one-world government.",
+      "confidence": "medium"
+    },
+    {
+      "term": "supervised machine learning",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0047",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's technical label for AI as iterative optimization against correct/incorrect feedback rather than consciousness.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0043"
+      ],
+      "note": "Jiang repeats rumors about Sam Altman and demons; record as Jiang's claim, not verified fact."
+    }
+  ]
+}
