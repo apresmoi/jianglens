@@ -236,9 +236,11 @@
       return 1.25 + clamped * (0.78 - 1.25);
     }
 
-    function bakeRadiantAsync(cols, rows, cellAspect) {
+    function bakeRadiantAsync(cols, rows, cellAspect, onDone) {
       const myToken = ++bakeToken;
-      stripEl.style.setProperty('--rh-strip-text', '""');
+      // Don't clear --rh-strip-text up front — whatever's there (often the
+      // live-rendered single frame from a drag) stays visible until the new
+      // 60-frame strip is ready in one atomic swap. No empty-strip flash.
       const frames = new Array(FRAMES);
       let f = 0;
       function chunk() {
@@ -252,6 +254,7 @@
           requestAnimationFrame(chunk);
         } else {
           stripEl.style.setProperty('--rh-strip-text', `"${cssEscape(frames.join('\n'))}"`);
+          if (onDone) onDone();
         }
       }
       requestAnimationFrame(chunk);
@@ -267,12 +270,12 @@
       };
     }
 
-    function build(rebakeOnly) {
+    function build(rebakeOnly, onDone) {
       if (rebakeOnly && lastDims) {
         // Drag-release rebake: cfg.tilt / angleYOffset may have changed.
         // Re-derive effectiveCfg with the same scale we used last time.
         recomputeEffectiveCfg(host.getBoundingClientRect().width);
-        bakeRadiantAsync(lastDims.cols, lastDims.rows, lastDims.cellAspect);
+        bakeRadiantAsync(lastDims.cols, lastDims.rows, lastDims.cellAspect, onDone);
         return;
       }
 
@@ -349,12 +352,32 @@
       stripEl.style.setProperty('--rh-strip-text', `"${cssEscape(frame)}"`);
     }
 
+    // Read the CSS animation's current frame and convert back to an angle.
+    // Lets us pick up rotation from wherever it was when the user clicked,
+    // instead of snapping the icosahedron to angleYOffset (frame 0).
+    function currentAnimationAngle() {
+      const anims = stripEl.getAnimations ? stripEl.getAnimations() : [];
+      const anim = anims[0];
+      if (!anim || anim.currentTime == null || !cfg.dur) {
+        return cfg.angleYOffset;
+      }
+      const cycleMs = cfg.dur * 1000;
+      const progress = (anim.currentTime % cycleMs) / cycleMs;
+      const frame = Math.floor(progress * FRAMES);
+      const angleAtFrame = (frame / FRAMES) * Math.PI * 2;
+      return cfg.angleYOffset + angleAtFrame;
+    }
+
     viewportEl.addEventListener('pointerdown', (e) => {
       if (e.button !== 0 && e.pointerType !== 'touch') return;
+      // Snap to the angle currently being shown by the CSS animation, NOT to
+      // the cycle's frame-0 (cfg.angleYOffset). Click-without-drag is now a
+      // visual no-op; click-and-drag picks up from where rotation actually was.
+      const startAngle = currentAnimationAngle();
       drag = {
         startX: e.clientX, startY: e.clientY,
-        baseY: cfg.angleYOffset, baseTilt: cfg.tilt,
-        curY: cfg.angleYOffset, curTilt: cfg.tilt,
+        baseY: startAngle, baseTilt: cfg.tilt,
+        curY: startAngle, curTilt: cfg.tilt,
       };
       try { viewportEl.setPointerCapture(e.pointerId); } catch (err) {}
       viewportEl.classList.add('dragging');
@@ -383,8 +406,14 @@
       cfg.angleYOffset = drag.curY;
       cfg.tilt = drag.curTilt;
       drag = null;
-      viewportEl.classList.remove('dragging');
-      build(true);
+      // Keep .dragging on until the new 60-frame strip is ready. The single
+      // live frame currently in --rh-strip-text stays visible (no animation,
+      // no transform). Once the bake finishes, drop .dragging — the CSS
+      // animation restarts from frame 0 = the new cfg.angleYOffset, which is
+      // exactly the angle that's already on screen. Seamless.
+      build(true, () => {
+        viewportEl.classList.remove('dragging');
+      });
     }
     viewportEl.addEventListener('pointerup', endDrag);
     viewportEl.addEventListener('pointercancel', endDrag);
