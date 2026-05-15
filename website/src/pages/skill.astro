@@ -8,7 +8,7 @@ import { absoluteUrl, siteConfig } from '../../site.config.mjs';
 const title = 'Jiang Lens Skill | Agent Instructions';
 const description = 'HTML-first Jiang Lens skill with the full canonical instruction text, topic routes, source readings, transcript anchors, and citation-safe mirrors.';
 const canonicalUrl = absoluteUrl(siteConfig.paths.skillPage);
-const promptText = `Read ${canonicalUrl}, name the mode (retrieval, retrospective alignment, prospective/event reasoning, or concept analysis), and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
+const promptText = `Read ${canonicalUrl} and analyze this with Jiang Lens. First name the mode (retrieval, retrospective alignment, prospective/event reasoning, or concept analysis): [paste a link, claim, or situation]`;
 const skillMarkdown = await readFile('public/skill.md', 'utf8');
 const topicExamples = [
   ['Knights Templar / templars', '/topics/knights-templar/'],

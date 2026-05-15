@@ -1566,7 +1566,7 @@ function buildAliasTargets(topics) {
 
 function rankTopicHit(hit) {
   let score = 0;
-  if (hit.reason === 'semantic-ref') score += 12;
+  if (hit.reason === 'semantic-ref') score += 100;
   if (hit.matchedAlias && hit.matchedAlias.split('-').length > 1) score += 20;
   if (hit.quote) score += 5;
   return score;
@@ -1575,10 +1575,10 @@ function rankTopicHit(hit) {
 function sortedTopicHits(topic) {
   return [...topic.transcriptHits]
     .sort((a, b) => {
-      const dateDelta = candidateDateSortKey(b).localeCompare(candidateDateSortKey(a));
-      if (dateDelta) return dateDelta;
       const scoreDelta = rankTopicHit(b) - rankTopicHit(a);
       if (scoreDelta) return scoreDelta;
+      const dateDelta = candidateDateSortKey(b).localeCompare(candidateDateSortKey(a));
+      if (dateDelta) return dateDelta;
       return String(a.ref).localeCompare(String(b.ref));
     })
     .slice(0, 12);
@@ -2426,7 +2426,7 @@ function renderTopicLetterIndexHtml(shard, rootShards, topics) {
             <p class="eyebrow">Topic aliases</p>
             <div class="hero-meta" aria-label="Alias shard counts">
               <span>${shard.totalAliases} aliases</span>
-              ${shard.children.length ? `<span>${shard.children.length} prefix shards</span>` : `<span>${topicGroups.length} visible topics</span>`}
+              ${shard.children.length ? `<span>${shard.children.length} prefix shards</span>` : `<span>${topicGroups.length} visible aliases</span>`}
             </div>
           </div>
           <p class="lead">Generated alias shard for topic lookup. Open the canonical topic page to find source readings, transcript anchors, source refs, and video timestamps.</p>
