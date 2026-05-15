@@ -116,6 +116,8 @@
     '·∙•°ʹ'
   ).split('');
   const RADIANT_GLYPHS = '╋╬┼╳◆◇◊▲△▼▽◈⬡⬢∴∵⊥⊕⊗⊙⊚⊛'.split('');
+  // Tinier glyphs for the spoke diagonals — middle-dot family
+  const RADIANT_THIN = '·⋅∙˙·⋅∙'.split('');
   const RADIANT_CORE = '✦✧✩◉⊙◎'.split('');
   const FRAMES = 60;
 
@@ -140,15 +142,20 @@
   // Also known as Buckminster Fuller's "vector equilibrium" — every edge
   // length equals the vertex-to-center distance. The actual shape of the
   // Prime Radiant in Foundation.
-  const verts = [
-    // z = 0 plane — square in XY
+  //
+  // In addition, each of the 6 square faces gets a SMALL inner square at
+  // its center, with side = 1/5 of the face's side, coplanar with the face.
+  // That's +24 vertices and +24 edges.
+  const baseVerts = [
+    // z = 0 plane — square in XY        (indices 0..3)
     [ 1,  1,  0], [ 1, -1,  0], [-1,  1,  0], [-1, -1,  0],
-    // y = 0 plane — square in XZ
+    // y = 0 plane — square in XZ        (indices 4..7)
     [ 1,  0,  1], [ 1,  0, -1], [-1,  0,  1], [-1,  0, -1],
-    // x = 0 plane — square in YZ
+    // x = 0 plane — square in YZ        (indices 8..11)
     [ 0,  1,  1], [ 0,  1, -1], [ 0, -1,  1], [ 0, -1, -1]
   ].map(v => { const L = Math.hypot(v[0], v[1], v[2]); return [v[0]/L, v[1]/L, v[2]/L]; });
-  const edges = [
+
+  const surfaceEdges = [
     // v0 (1,1,0) → 4 neighbors
     [0, 4], [0, 5], [0, 8], [0, 9],
     // v1 (1,-1,0) → 4 neighbors
@@ -163,6 +170,70 @@
     [6, 8], [6, 10],
     [7, 9], [7, 11]
   ];
+
+  // The 6 square faces, each listed as 4 vertex indices in cyclic order
+  const SQUARE_FACES = [
+    [0, 4, 1, 5],   // +X face
+    [2, 6, 3, 7],   // -X face
+    [0, 8, 2, 9],   // +Y face
+    [1, 10, 3, 11], // -Y face
+    [4, 8, 6, 10],  // +Z face
+    [5, 9, 7, 11],  // -Z face
+  ];
+
+  // The 8 triangular faces, one per octant of (sign_x, sign_y, sign_z).
+  // Each triangle's 3 vertices are: (sx, sy, 0), (sx, 0, sz), (0, sy, sz).
+  const TRIANGLE_FACES = [
+    [0, 4, 8],   // (+,+,+)
+    [0, 5, 9],   // (+,+,-)
+    [1, 4, 10],  // (+,-,+)
+    [1, 5, 11],  // (+,-,-)
+    [2, 6, 8],   // (-,+,+)
+    [2, 7, 9],   // (-,+,-)
+    [3, 6, 10],  // (-,-,+)
+    [3, 7, 11],  // (-,-,-)
+  ];
+
+  // Build the tiny inner squares by interpolating each face corner toward
+  // its face center by INNER_SCALE. Side length of inner = INNER_SCALE × face side.
+  const INNER_SCALE = 1 / 5;
+  const verts = baseVerts.slice();
+  const innerFaceEdges = [];
+  const thinEdges = []; // spoke diagonals — rendered with smaller glyphs
+
+  // Shared helper: for any face (3 or 4 verts), drop an inner shape at
+  // INNER_SCALE of its size at the face center, push its boundary edges as
+  // normal-weight, and push corner→inner-corner spokes as thin.
+  function addInnerShape(face) {
+    const n = face.length;
+    let cx = 0, cy = 0, cz = 0;
+    for (const i of face) { cx += baseVerts[i][0]; cy += baseVerts[i][1]; cz += baseVerts[i][2]; }
+    cx /= n; cy /= n; cz /= n;
+    const smallIdx = face.map((i) => {
+      const v = baseVerts[i];
+      const small = [
+        cx + (v[0] - cx) * INNER_SCALE,
+        cy + (v[1] - cy) * INNER_SCALE,
+        cz + (v[2] - cz) * INNER_SCALE,
+      ];
+      const idx = verts.length;
+      verts.push(small);
+      return idx;
+    });
+    // Cyclic boundary of the inner shape
+    for (let k = 0; k < n; k++) {
+      innerFaceEdges.push([smallIdx[k], smallIdx[(k + 1) % n]]);
+    }
+    // Spokes from each outer corner to its inner corner
+    for (let k = 0; k < n; k++) {
+      thinEdges.push([face[k], smallIdx[k]]);
+    }
+  }
+
+  for (const face of SQUARE_FACES) addInnerShape(face);
+  for (const face of TRIANGLE_FACES) addInnerShape(face);
+
+  const edges = surfaceEdges.concat(innerFaceEdges);
   function rotY(v, a) { const c = Math.cos(a), s = Math.sin(a); return [c*v[0] + s*v[2], v[1], -s*v[0] + c*v[2]]; }
   function rotX(v, a) { const c = Math.cos(a), s = Math.sin(a); return [v[0], c*v[1] - s*v[2], s*v[1] + c*v[2]]; }
 
@@ -192,8 +263,14 @@
       const persp = 4 / (r[2] + 3.0);
       return [cx + r[0] * Rx * persp, cy + r[1] * Ry * persp];
     });
-    for (const [a, b] of edges) {
+    // Stamp values: 1 thin (spokes), 2 normal (cage + inner squares), 3 core.
+    // drawLineToStamp uses `<` so later/higher overwrites earlier/lower.
+    // Order: thin first, normal over thin, core over all.
+    for (const [a, b] of thinEdges) {
       drawLineToStamp(stamp, proj[a][0]|0, proj[a][1]|0, proj[b][0]|0, proj[b][1]|0, 1, cols, rows);
+    }
+    for (const [a, b] of edges) {
+      drawLineToStamp(stamp, proj[a][0]|0, proj[a][1]|0, proj[b][0]|0, proj[b][1]|0, 2, cols, rows);
     }
     const cxR = cx|0, cyR = cy|0;
     const rxC = cfg.coreW, ryC = cfg.coreH;
@@ -203,7 +280,7 @@
         const x = cxR + dx, y = cyR + dy;
         if (x < 0 || x >= cols || y < 0 || y >= rows) continue;
         const nx = dx / rxC, ny = dy / ryC;
-        if (nx * nx + ny * ny < 1) stamp[y * cols + x] = 2;
+        if (nx * nx + ny * ny < 1) stamp[y * cols + x] = 3;
       }
     }
     const out = new Array(rows * (cols + 1));
@@ -212,7 +289,8 @@
       for (let x = 0; x < cols; x++) {
         const v = stamp[y * cols + x];
         out[i++] = (v === 0) ? ' '
-                 : (v === 1) ? RADIANT_GLYPHS[(Math.random() * RADIANT_GLYPHS.length) | 0]
+                 : (v === 1) ? RADIANT_THIN[(Math.random() * RADIANT_THIN.length) | 0]
+                 : (v === 2) ? RADIANT_GLYPHS[(Math.random() * RADIANT_GLYPHS.length) | 0]
                  :             RADIANT_CORE[(Math.random() * RADIANT_CORE.length) | 0];
       }
       if (y < rows - 1) out[i++] = '\n';
