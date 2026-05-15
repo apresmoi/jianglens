@@ -1,0 +1,1041 @@
+# Jiang Xueqin: Our True Wealth Is Our Consciousness | Endgame #259
+
+Source: https://www.youtube.com/watch?v=rsi7cDRUrmE
+
+## seg-0001 / 00:00:00-00:01:09 / SPEAKER_01
+
+Techno -Marxism. That's the world we're going into. They want a numb and indifferent population that they can enslave, that they can rule over, who are complacent. What they want is compliancy. I feel sorry for these people because the way the world is going, I don't think that they are psychologically equipped to survive. The entire universe is watching what we do. We are all connected to the entire universe and each of us can be a beautiful ray of light if we will it, if we choose it to be. What power is, is the capacity to direct and focus our attention. And before, for the longest time, the best and easiest way to focus our attention was money. So wealth isn't money. What wealth is, is our attention, our consciences. Two words, you matter. But you have to choose to matter. You have to believe that you matter. And honestly, I think that's the message that the elite have purposefully hid from us.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:06-00:01:09 / SPEAKER_01
+
+
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:09-00:02:28 / SPEAKER_00
+
+Hi friends, it's a pleasure to tell you that my book, What It Takes, Southeast Asia has been released in English and Bahasa Indonesia. You can buy it through books.endgame.id or at any of these stores. Now back to the show. Hi friends, today we're honored to be graced by Chiang Sui Chin who has given lots of analyses about what's happening around the world. Chiang, thank you so much for gracing our show. Thanks so much for inviting me, Guido. Yeah. I want to start out with how you grew up. You grew up in Canada and you've mentioned that you were not at the top of the class, but you were up there within the top echelon. And then you decided to go to Yale and tell us what shaped your early educational journey. Right. So I grew up as a child in Canada.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:29-00:03:34 / SPEAKER_01
+
+And my parents were very poor and they were not well educated. So we would have qualified for welfare. You know, Canada has a very nice social service system and welfare is actually very, very nice. My parents didn't speak English. They didn't know the system. So we actually lived worse than people on welfare, meaning that we didn't go out at all. We didn't really have meat at the table. We had vegetables. We didn't have a vacation. And we only got a car when I was like 16, so we moved over when I was six years old. So we took public transport everywhere. And the highlight in our life was like a monthly dim sum lunch. So it was a pretty hard upbringing. I stuttered throughout school because I'm a very sensitive, very active person with a lot of curiosity. And the stress and the trauma of growing up as an immigrant in Toronto really affected my speech patterns.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0004
+
+## seg-0005 / 00:03:35-00:04:31 / SPEAKER_01
+
+And the kids made fun of me because my dad cut my hair. My mom bought clothing at, you know, bargain outlets. And I wore a lot of clothes that were too oversized because they were hand -me -downs from cousins. And it was a very hard upbringing. My dad was... He was a dishwasher. And he was working in a restaurant. And as you can imagine, being an immigrant, a Chinese immigrant who didn't speak very much English, he was... He suffered under a lot of racism. And that transferred into the household, and my dad was a very violent and angry man. He was actually a high school teacher in China, and he had a lot of status, a lot of prestige, and he enjoyed his job. But you know, this was during the Cultural Revolution. And when it ended in 1976, he died. And he looked for the opportunity to go abroad to build a better future for his children.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0005
+
+## seg-0006 / 00:04:32-00:05:35 / SPEAKER_01
+
+And so I grew up in a very tense, very traumatic environment that basically left me depressed and angry for most of my life. And I wanted to escape my environment. And so I applied to university, and I wanted to get out of Canada. And apparently, the Ivy League... Yeah....took young, promising students. And so I was not at that point, I was like 16 years old when I decided to apply to Yale. I was not a promising student. I watched cartoons. I didn't really read that many books. But I was intent on getting out of Canada. So I repackaged myself, I manufactured myself as a plausible candidate for Yale. And I joined the soccer team because it was the easiest. The easiest athletic team to join. I was not an athletic person, but they were desperate for recruits. I started to read a lot of books.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0006
+
+## seg-0007 / 00:05:35-00:06:28 / SPEAKER_01
+
+I crammed for the SATs. I took the hardest courses. And out of pure luck, okay? I mean, it was just pure luck. But I applied to four universities, Harvard, Yale, Princeton, MIT. Harvard was the first to reject me. But they wrote a very nice consolation letter, by the way, guys. If you apply to Harvard and they reject you, you're out. It's a very nice feeling because they tell you it's not where you go, it's what you do when you get there. And it's something that I remember for the rest of my life. So I thank Harvard for such a nice letter. So Harvard was the first to reject me, then Princeton and MIT. And I thought there was no chance I would get into Yale. And I think that when I applied, it was 1995. So the year was 1995. And by early April, basically all the decision letters would come in. And by mid
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0007
+
+## seg-0008 / 00:06:28-00:07:16 / SPEAKER_01
+
+-April, I still have not heard from Yale. So I sort of forgot about this. And I came to a resolution that what mattered was not the destination. What matters is a journey. The fact of the matter is that I proved that I could radically transform myself if I set myself a higher goal. And so I was thankful for the journey. And I just accept the fact that I would go to Waterloo, which is an engineering university in Canada. It's actually pretty good. So I was not - Great university. Yeah. Yeah. So I was not unhappy about it. But then at the end of April, I received a letter from Yale. Now, the thing to know about the U.S. application process is that you know from the size of the envelope if they accepted you or rejected you, right? So if they accepted you, it's a huge envelope because they want - Thickness too, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0008
+
+## seg-0009 / 00:07:16-00:08:08 / SPEAKER_01
+
+Yeah. It's very thick. It's because they have a lot of brochures. They want to sell you on wanting the acceptance. Right? They want you to accept their acceptance. Right? So usually, you just know from the size of the envelope if you got in or not. So I got a small envelope, okay? And that basically means rejection. And I mean, I had already decided that I was not going to get into Yale. And I sort of dismissed it. And I actually wanted to throw in the garbage because why do I want to read another rejection letter? Okay? So I was pretty despondent and I wanted to throw in the garbage, but I said, no, I have to read the rejection letter because it might say something nice. So I went up to my room, I put my backpack on the bed, I laid down on my bed and it was pretty dark. I remember it being
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0009
+
+## seg-0010 / 00:08:08-00:09:05 / SPEAKER_01
+
+a very dark room and I opened the letter and the first word that it said was, congratulations. And that was a shock. I mean, it was as though someone punched me. And I didn't know what I was reading. So I kept on reading and it seemed as though Yale had accepted me, but I didn't believe it. So what I did was, the first thing I did was I picked up the phone and I called Yale University. It took me half an hour, but I finally got through to an admissions officer who confirmed that I had been accepted into Yale. And that's the story. And that forever changed my life because going to Yale, as you can imagine, opened up the entire world to me. Wow. Talk about the essay that you wrote. When I was a high school student, I went to a normal high school in Toronto. My world was very limited and I didn't have packagers, you know, they're called packagers who help you write the essays.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0010
+
+## seg-0011 / 00:09:06-00:09:49 / SPEAKER_01
+
+I didn't have people I knew who went to Yale and who could guide me in the process. So I just wrote a very mundane essay. I mean, I wrote about my love for Richard Feynman, you know, at that time in high school, I fell in love with physics. I fell in love with quantum physics. I watched all of Richard Feynman's lectures. I just think he's the greatest science educator ever. And so I wrote about my love for Richard Feynman and how I myself wanted to pursue particle physics. And then I did that for a year at Yale and I gave up because I was not cut out to be a particle physicist. I switched over to the other extreme, which was English poetry. So I went from particle physics to English poetry after one year.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0011
+
+## seg-0012 / 00:09:49-00:09:53 / SPEAKER_00
+
+Did she know anything about English poetry? Nothing. It was random. Nothing.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0012
+
+## seg-0013 / 00:09:54-00:10:55 / SPEAKER_01
+
+Yeah. I know. I mean, it was a standard Toronto public school education. So in high school, you know, you read Hamlet, you read Julius Caesar, but you also read a lot of bad Canadian fiction. They make you read bad Canadian fiction. They make you read Alice Munro, Margaret Atwood, and I mean, they're good writers, but when you're a high school student. who's a Chinese immigrant, Alice Munro and Margaret Atwood are not talking to you. You know, you're not connecting with their protagonists. And I didn't really care about menopause. I really didn't care about these things, you know? And so that turned me off. But when I went to Yale, the great thing about Yale is it's a liberal arts school, right? So they encourage you to take a wide spectrum of classes. There are four groupings. There's the languages. There's English. There's the humanities. There's the social sciences, and there's the sciences, and you're supposed to take certain courses in all four different groupings.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0013
+
+## seg-0014 / 00:10:56-00:11:53 / SPEAKER_01
+
+So I started taking English literature, and I fell in love. I mean, the first semester, we read books I've never heard of. So we read Spencer, The Fairy Queen, we read Chaucer, The Canterbury Tales, Andrew Marvell, and I've never heard of these people in my life, but there's something about the poetry. It was as though that in the page. There was almost like a divine spark. It was almost as though the words were alive in poetry. And that sort of compelled me or that sort of attracted me, seduced me to want to know more. In the second semester, we started to read Paradise Lost, and I love Paradise Lost. I mean, that was the moment that clicked, like, wow, John Milton is a genius. This poetry is the work of God. I mean, John Milton was this prophet. Yeah. And God was through him speaking the truth to the world.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0014
+
+## seg-0015 / 00:11:54-00:12:53 / SPEAKER_01
+
+And that's when I fell in love with poetry. So John Milton was a major breakthrough. John Keats was a major breakthrough, William Butler Yeats was a breakthrough, T.S. Eliot. And that's when I realized that I want to do this for the rest of my life. Maybe not research English literature, because as you can imagine, you probably know this, but academia can be very dry. Yeah. You know, you're very focused on very narrow topics. And I was a very wide -ranging thinker. I was very curious. I thought, I felt that, you know, to try to understand the world through a literary lens, to try to read people as though they were a book, trying to decipher a sort of person by analyzing a person's language, that was very appealing to me and that, and I received a very strong training in that. And it's something that I carried with me for the rest of my life, because after Yale, I was a journalist.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0015
+
+## seg-0016 / 00:12:53-00:13:16 / SPEAKER_01
+
+And so, you know, as a journalist, you have to have empathy. You have to try to see things from other people's perspective. So that literature background was very important for that. I was a teacher. I'm still a teacher. And as you can imagine, literature equips you with very strong communication, very strong communication. And so that education really empowered me for the rest of my life.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0016
+
+## seg-0017 / 00:13:16-00:13:26 / SPEAKER_00
+
+Did you ever have any curiosity with respect to the Russian stuff or the Chinese stuff? Tolstoy, Dostoevsky? Right.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0017
+
+## seg-0018 / 00:13:26-00:14:13 / SPEAKER_01
+
+So, yeah. Right. So again, you received a very broad education at Yale. So I was fascinated with Russian culture and history and literature. So I did read Tolstoy. I love Anna Karenina. I read that at Yale. It's such a wonderful, wonderful book. I spent a lot of time focusing on the Russian Revolution. So we read Vladimir Lenin. We were reading Marx. We were trying to understand the Russian Revolution. I took a course on Russian history, which I believe was taught by Peter Steinberg. And he's a very prominent Russian historian. And it was a wonderful course. And yeah, so I do have some background in that. Yes.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0018
+
+## seg-0019 / 00:14:13-00:14:45 / SPEAKER_00
+
+Because I would have thought that you've talked quite a bit about how class structures are shaped by ideology and how Marxism, socialism, communism, capitalism, I mean, a lot of those stuff would have been shaped by a lot of readings that came out of Russia and other European countries and of course, the UK and US. Now, did you come across the secret society? Did you come across the secret society at Yale, the bones and skulls?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0019
+
+## seg-0020 / 00:14:46-00:15:39 / SPEAKER_01
+
+Right. So I mean, like everyone knows this, but even at Yale, there's a hierarchy and skull and bones is at the very top. So I didn't know this at that time when I first went into Yale. But you know, if you come from the private school boarding system, and a lot of Yalies did come from that system like Groton and Endover and Exeter and St. Paul's, they knew the point of going to Yale was to try to get into one of these secret societies. You know, it's the same system at Princeton and Harvard, where, you know, it's a hierarchy. And the very point of a university is to prove your social worth. But I didn't know that. I mean, like, I was just this poor Chinese immigrant who looked into Yale from Toronto. So I was very naive about Yale. And I thought, well, the entire point of going to Yale is to get an education, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0020
+
+## seg-0021 / 00:15:39-00:16:07 / SPEAKER_01
+
+The entire point of Yale is to read good books, talk to your professors and open your mind. And so that's what I did for four years. But I wasn't really involved in the social scene. I wasn't really involved in, like, the politics where, you know, you meet friends, you join the right clubs. But this is what I know about Skull and Bones, okay? So Skull and Bones, every year, 12 juniors are tapped, okay? They're - 12 or 15?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0021
+
+## seg-0022 / 00:16:08-00:16:11 / SPEAKER_00
+
+Excuse me? I thought it was 15. Oh, it's 12 now. Okay.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0022
+
+## seg-0023 / 00:16:12-00:17:08 / SPEAKER_01
+
+You know what? You know what? I thought it was 12, but it could be 15, okay? So maybe 15 could be 12. I'm not sure. All right. But you don't apply. You're tapped, meaning that you're told to go to a certain place. So you're tapped. That's the first thing I know. Second thing that I know is that those 15 who are selected come from very diverse backgrounds. So just look at who gets in. It's always one person who has a fanatical religious background. It's another person whose dad is a famous alumni. Another person is going to go into politics. Another person is editor of the Yale Daily News. Another person is head of the student government. So the 15 is meant to be diverse, and it's sort of preordained. And people will spend a lot of time jockeying to be editor of the Yale Daily News, okay? So that's something I know. So I'll tell you something funny.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0023
+
+## seg-0024 / 00:17:08-00:18:14 / SPEAKER_01
+
+So I'm in the class of 1999. And apparently, the class of 1999 was a mediocre class, and that's about how I got in. And so that year, I knew who... My friend was the editor of the Yale Daily News, and he was so angry that he was not tapped to join Skull and Bones that he started his own secret society, and he was rich. But that's just the absurdity of the competition. You know, around joining these secret societies. And so, yeah, so he and some other people start their own secret society. He thought that, you know, I'm not editor of the Yale Daily News, and so I must be tapped. But apparently, it's not that, I mean, it's not that straight. And the third thing I will say about Skull and Bones is that the people that I know who got into Skull and Bones are actually pretty low key people. People you would think are intellectually vibrant and charismatic.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0024
+
+## seg-0025 / 00:18:15-00:18:35 / SPEAKER_01
+
+These are people who are pretty low key. And I think a lot of it is like they know how the system works, and they're sort of born in that position, and they know how to navigate that system. So yeah, so I do know about Skull and Bones, but to be honest with you, I was in a different world. I was very much marginalized and alienated at Yale.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0025
+
+## seg-0026 / 00:18:36-00:19:02 / SPEAKER_00
+
+Did you get a sense at that time that that was sort of like... The way for anybody to get powerful, get rich, or whatever, that was a precondition for somebody to belong to some ritual, you know, activity in order to be powerful or to be wealthy, to be rich, or to be whatever, in a position of leadership or authority.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0026
+
+## seg-0027 / 00:19:02-00:19:51 / SPEAKER_01
+
+Right. So again, I was very naive when I was at Yale. You know, I was a poor person. I had absolutely no idea how power works. So I believe in the clear. I believe in the opposite, where the world is run by ideas. So if you're able to produce the best ideas, somehow, naturally, I don't know how, but somehow naturally, you flow into positions of power. And so the world is run by a hierarchy of ideas, and the people at the very top are those who have the best ideas, and people at the bottom have the worst ideas. And so it's a meritocracy. And like, being at Yale, and you know, Yale prided itself on the surface, ostensibly, as being like that. But like, you know, I didn't know anything. I was naive, and I was very thankful that I got a full scholarship to study at Yale. So I believe, like, this is how Yale works, and this is how the entire world works.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0027
+
+## seg-0028 / 00:19:51-00:20:46 / SPEAKER_01
+
+And as you can imagine, I was in for a shock and surprise when I actually went out into the world and recognized that that's not how the world works, man. It's all guanxi. It's all who you know. And so for about 10 plus years, I became very depressed. I became very angry. Because, you know, I put myself in the classroom at Yale. I didn't get into Skull and Bones. I didn't become a Rhodes Scholar. But in the classroom, you know, where, you know, it's almost a gladiatorial combat of ideas, I mean, like, I was a very proficient warrior. I mean, I had some very interesting things to say in class. And so my professors, I was, you know, they thought very highly of me, and they were actually pretty confident that I would be successful. And so I go out in the world, and then, you know, it's one failure after another failure.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0028
+
+## seg-0029 / 00:20:46-00:21:40 / SPEAKER_01
+
+I failed as a journalist. I failed as a teacher. I couldn't really find employment. I became extremely frustrated. I became very angry. And that forced me into a deep depression, which, by the way, today I'm very thankful for because it really shocked me, traumatized me into reimagining how the world works. And I don't think that... After like four or five years of outright depression, of just sitting at home and feeling sorry for myself and hating the world, it was not possible for me to resurrect myself and have a more nuanced and subtle understanding of the world. And I know this because I have a lot of friends who went to Yale, Harvard, and Princeton, and they're very successful people, very wealthy. And like, when we start talking about like world events, about Donald Trump, about Vladimir Putin, about this war in Russia, about the war in Iran, they don't get it, man, that, you know, there's still stuff.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0029
+
+## seg-0030 / 00:21:40-00:22:24 / SPEAKER_01
+
+Yeah. In this CNN, New York Times mindset in that, you know, Trump is just deranged and after he leaves office in, you know, three years, I mean, like he's still, he'll still be around for a long time, right? But once he leaves office, things will go back to 2020. Things will go back to normal. And also it's possible that the Democrats win the midterms in November and then he'll be impeached. And then we'll go back to normal. This war in Iran will work and we'll go back to normal. Don't worry, we'll go back to normal. So they have their heads in the sand and you know what, I'll be honest with you, I feel sorry for these people because the world, the world as it is, the way the world is going, I don't think that they are psychologically equipped to survive.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0030
+
+## seg-0031 / 00:22:26-00:23:08 / SPEAKER_00
+
+It's pretty scary, man. I want to pick up on journalism and I'll come back to the US and Trump and all that. How do you see journalism in terms of its evolution from 1995? To today? I mean, you know, we were shackled by mainstream, right, in the 80s, 90s, probably to the extent of early 2000s. But now people are, I don't think they're looking at mainstream the way people would have been looking at mainstream in the 90s and 80s. How do you think journalism has evolved until recently or today? And how do you think it's going to evolve going forward for the benefit of humanity? Right. So let me start with a story.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0031
+
+## seg-0032 / 00:23:08-00:24:05 / SPEAKER_01
+
+So the year is 1999. And I had described it to you. I started from Yale and I went to Beijing to learn the language to sort of acclimatize myself into Chinese culture because, you know, I'm Chinese. But growing up in Toronto, going to Yale, I didn't really know that. So I wanted to rediscover my roots and really try to understand myself. Plus I was very lonely and I wanted to meet friends. So I go to Beijing and pure coincidence, but a very famous American writer named Gay Talese, he was actually in Beijing for the first time in his life researching a story and he couldn't speak Chinese. And so through a mutual friend, I was introduced to Gay Talese and I was his translator for six months. And that was really the best education you could have as a journalist, as a wannabe journalist. And he really inspired me to want to be a journalist.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0032
+
+## seg-0033 / 00:24:05-00:25:04 / SPEAKER_01
+
+And you know, like Gay Talese is old school journalist. Right. And it really, it epitomizes the golden age of journalism when, you know, journalists were part of history and they were making history. You know, his book, Thy Neighbor's Wife really changed the American sexual discourse in the 1980s. And you know, he knew everyone. I mean, he was friends with Donald Trump. He was friends with everyone in America at that time. And you know, just being with him, first of all, it, it made me. Idealize journalism and think that journalism is really about truth seeking because that's what he told me every single day. We had dinner together, you know, like, like journalists are making history. They are the ones recording history and they are recording history from a critical lens because most journalists, I mean, when he was a journalist, most journalists were working class. I mean, he was not a Yale graduate. He was not a wasp, was not a blue blood.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0033
+
+## seg-0034 / 00:25:04-00:25:54 / SPEAKER_01
+
+He was a child of Italian immigrants who grew up in Ocean City, New Jersey. And he started a lot of research. He started, he suffered under a lot of racism, discrimination when he grew up and that made him a stranger in America and that enabled him to see America for a more nuanced, more critical lens. And if you actually read his stories from the early days of his New York times career, his stories on Floyd Patterson, you know, you recognize that he has a real appreciation for the underdog, for the oppressed, you know, he, he talks about how he never wanted to interview the winners of a sports match. He always wanted to interview the losers of a sports match because that was a much more compelling human narrative. So he had a profound impact in the way that I saw myself as a journalist, as well as journalism in general.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0034
+
+## seg-0035 / 00:25:55-00:27:07 / SPEAKER_01
+
+And so I saw it, I saw journalism as really about fighting for the truth, about fighting for the common man. And that's, and that's an attitude I maintain for the longest time until 2016. Yeah. Okay. 2016 was when Donald Trump won. And then after 2016 journalism broke, right? I mean, like before journalism prides itself on being at least fair and balanced. But in 2016, when Donald Trump won, like journalism just developed TDS, Trump derangement syndrome. And then journalists started to align themselves with the national security apparatus, right? People like John Brennan. And like these people were, these spies were featured prominently in the media and they were, they were promoting hoaxes such as wash out Russiagate, right? Oh, Trump is actually a Putin spy and Trump won election because the Russians rigged it in his favor. And like, like I just saw the, like the gradual decline of journalism. And then, you know, after that was the COVID affair.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0035
+
+## seg-0036 / 00:27:07-00:27:50 / SPEAKER_01
+
+Yeah. And I was in China at that time. And I didn't think it was that big of a deal, but the journalists were, journalism was making out to be like this, you know, apocalypse. And then of course was the war in Ukraine. And I mean, that was just periodicalism, right? I mean, like rather than trying to report the war in a fair and balanced manner, it was just like, you know, Russia is this evil empire that's about, that's about to collapse at any point. Ukraine is heroic. And it didn't, it didn't go into any of the history behind this war. And the fact that, you know, the Assad battalion are a bunch of neo -Nazis. They never, ever mentioned that. It's something that you have to learn from online media, independent media. So, so I learned that from the Jimmy Dore show. Okay.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0036
+
+## seg-0037 / 00:27:50-00:28:37 / SPEAKER_01
+
+So at that point, okay. By the time the war in Ukraine, I'd given up on journalism. Now I switched to the internet. I was watching Jimmy Dore a lot. I was watching Tucker Carlson a lot. I was a huge fan of Tucker Carlson at that point because he was the only one who was actually speaking the truth about the world. Oh yeah. Um, so, so, so he, so yeah, I'm trying to stop the war. Yeah, exactly. Exactly. Try to stop the war three times. Yeah. I'm actually talking to a Tucker Carlson next week. We have a two hour conversation schedule. So I'm really excited about that because you know, like, as you said, as you said, he's been working his ass off for the past 10 years, trying to stop America from imploding, from, from like committing suicide. You know, he was the one who tried to stop the Ukraine war, but he, he, but you know, he did everything he could to stop this war.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0037
+
+## seg-0038 / 00:28:38-00:29:21 / SPEAKER_01
+
+In Iran. So, uh, you may remember, but in January, 2020, the, uh, president Trump or the assassination of Kassam Salmani, who's the, uh, right. And that's a declaration of war, right. And so, and so there's real fear that Trump would order a full scale, uh, war against Iraq and, you know, Tucker Carlson to his credit, he flew all the way down to Mar -a -Lago to, you know, tell Trump, you cannot do this. You're going to betray your base. You're going to destroy your political career and it worked. And so Tucker Carlson in 2020 saved us from nuclear apocalypse. Um, and actually Walter Gateleson said, we have to thank Tucker Carlson because he saved the world. Unfortunately, that's not going to help today. But yeah.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0038
+
+## seg-0039 / 00:29:22-00:29:48 / SPEAKER_00
+
+Well, the last bit on journalism at the rate that journalism has been somewhat controlled by the state or oligarchical forces, how do you think journalism is going to have to get normalized for the benefit of? Humanity? You think podcasting is the way forward, um, you know, so that there's more truth seeking as opposed to political correctness seeking.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0039
+
+## seg-0040 / 00:29:49-00:30:41 / SPEAKER_01
+
+Right. So, um, I think that journalism for the longest time was in a very privileged position. So after world war II, you had the event of major print journalism, major TV journalism, and you had journalism as really the main information space for, for people, it was able to create a national framework. Uh, it was able to create a national framework. A national narrative that everyone bought into, um, but now what we're seeing is a gradual splintering of factoring. And so people now go into their own bubbles. And so, so, I mean, the answer, the corporate answer of course, is AI, uh, where AI is able to moderate for you, your worldview, right? And that's why these companies are pushing so hard, these AI assistants, right? So these AI assistants, you're not even supposed to read books anymore. These AI assistants will read the book for you and tell you what it means. You're not supposed to read the news anymore.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0040
+
+## seg-0041 / 00:30:42-00:31:40 / SPEAKER_01
+
+The AI assistant will interpret the news for you. And so that's, that is, I think the, um, plan where, um, they want to use AI to create the, these individual matrices for everyone, uh, so that, um, so that the cautious is controlled, uh, centrally. Okay. So, so I think that is the, um, the plan and I think that, but I think the solution for us is humans. Is to be more proactive, uh, in seeking out our own, our own information, to be inquisitive, to question, to want to debate, to have the courage to, uh, admit your wrong, to have the courage to seek out people who you disagree with and to have the courage to debate them and open your mind. That I think has to be the future. But so, so, so, so where we are, um, um, as, as you point out at an inflection point where corporate journalism is dead, you look at Barry Weiss at CBS news, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0041
+
+## seg-0042 / 00:31:40-00:32:27 / SPEAKER_01
+
+Who is going to watch that crap, right? Larry Ellison bought tick -tock tick -tock, and now people are migrating away to other platforms. Now, now they bought CNN and commercial CNN with CBS news. That's going to show all of corporate media, right? They're trying to control the narrative because they're desperate and anxious, but when you do that, you just force people away. And so it's possible. People shift to AI. And that's what, you know? Oh, obviously. Sam Altman and his investors want, but a real solution is for us to recognize that we have our own individual responsibility to seek the truth for ourselves and to form our own understanding of the world. We can't just be passive and rely on a talking head to tell us what to think anymore. We have to think for ourselves now.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0042
+
+## seg-0043 / 00:32:28-00:33:33 / SPEAKER_00
+
+Well, I think the concern with the pre -existing AI platforms, not all of them, but most of them, they're more political correctness seeking, but I think it's structurally driven by the fact that they're closed sourced and for profit. And I think the way forward, if we want to get truth out of the system for humanity, I think you got to make sure that we maintain an open source and not for profit type of an AI platform that will secure and ensure the democratization of information and ideas. I think transparency is what's key. I completely agree with you. Transparency and openness. Yeah. I want to, the next big topic I want to switch over to is really the international rules based order, right? You've talked quite at length about the evolution of the pre -existing order, call it the Washington consensus, the Bretton Woods and all that, right? How do you see it evolving so far and going forward?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0043
+
+## seg-0044 / 00:33:32-00:33:33 / SPEAKER_00
+
+
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0044
+
+## seg-0045 / 00:33:34-00:34:45 / SPEAKER_01
+
+Right. So, before this rules -based international order was the bipolar world, right? The Cold War between Soviet Union and America, and when the Soviet Union collapsed, America could reimagine a world in whatever way it wanted. And so George H. W. Bush famously coined the phrase, new world order, right? And the new world order just meant the rules -based international order where the United States would be the hegemon. It would be the enforcement. But it would also respect the United Nations, the WTO, these multilateral organizations that would underpin the new world order. And that worked spectacularly well for the longest time. But the problem, of course, is that when you are the hegemon, it's hard not to be corrupt. It's hard not to develop hubris. That's what led us to these Middle East wars. Where? Where America, for no particular reason, destroyed Afghanistan, Iraq, Libya, and Syria. People don't remember this, but in the 1980s, Libya, Syria, and Iraq were not Islamic countries.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0045
+
+## seg-0046 / 00:34:45-00:35:45 / SPEAKER_01
+
+These were vibrant middle -class societies that were well -educated and which was prosperous. And now if you go to Libya, Syria, and Iraq, they're completely destroyed. And these millions of refugees are forced to seek shelter in Europe, which is also causing a lot of problems. Yeah. Yeah, as well. So the wars in the Middle East were just war crimes. And then, of course, the other big thing, of course, was the 2008 great financial crisis when America ceased being a manufacturing power and just focused on financialization. So it's taking all these wealth from the world and developing these risky financial assets for people to gamble with, derivatives, right? And that ultimately led to the subprime crisis. Yeah. And the collapse of the global economy, and if it weren't really for the Chinese, the global economy would have collapsed, right? Because remember, it was the Chinese who saved the world by focusing on building infrastructure.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0046
+
+## seg-0047 / 00:35:47-00:36:51 / SPEAKER_01
+
+And so, but you know, the big thing is that 2008, 2009, nothing changed, right? No one went to jail for swindling the American public. Most Americans lost their homes, but it didn't really matter because they were poor. Yeah. You know, Obama came into office in 2008 with the slogan, hope and change. And at that point, he had a choice. You could either bail out homeowners, right, the majority of the American public, and most of these people were actually black, African -American, right? Or you could bail out the banks who were responsible for the collapse. And what experts were saying, like, you cannot bail out the banks because it would create moral hazard. They would just keep on doing this over and over again. Yeah. And of course, Obama bailed out the banks because his entire team were these Wall Street people, and people like Tim Geithner and Larry Summers. And so the, so Wall Street was bailed out.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0047
+
+## seg-0048 / 00:36:52-00:37:41 / SPEAKER_01
+
+And then journalists asked, you know, the Obama administration, why did you bail out, why didn't you bail out the American public? If you bailed out the Wall Street, you can also bail out the American public, right? Why not, why not just, you know, forgive their mortgages? These are just average, hardworking Americans, they need a place to live, man. And the other response was from the Obama administration, moral hazard, okay? Moral hazard. We didn't want to create a condition where poor people became too lazy and too complacent, right? We want to teach them a lesson. So that's the world we live in today, where America is not democracy anymore, it's an oligarchy. Yeah. Yeah. And that's what led to the rise of Donald Trump, because Donald Trump basically said that I'm going to collapse this system, I'm going to destroy the oligarchy and represent America first, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0048
+
+## seg-0049 / 00:37:41-00:38:05 / SPEAKER_01
+
+We're going to kick out the immigrants so that average Americans can have access to like good jobs, we're going to destroy this rules -based national order where everyone cheats us, right, especially the Chinese. They steal from us, they take our technology, we Americans are too trusting, too generous. And that's a message. Yeah. And that was really, that really resonated with the American public in 2016. And honestly, it still resonates today.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0049
+
+## seg-0050 / 00:38:06-00:38:34 / SPEAKER_00
+
+Wow. You know, one would think with an intuition that during unipolarity, it would have been so easy to transnationalize any particular narrative, right? With an intuition to the extent that we believe that unipolarity is going to shift over to multipolarity. Do you think it's going to be as easy or more difficult? Do transnationalize any particular narrative?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0050
+
+## seg-0051 / 00:38:35-00:39:35 / SPEAKER_01
+
+Look, what I think is happening in the world right now is not necessarily like a global conflict between different nation states, it's more civil war within these different nation states. Okay. If that makes sense. So, so let's look at the United States. Trump, does Trump really care about Venezuela? Does he really care about Iran? Does he really care about this? I don't think he does. He's never been in these places. You know, he, he, he's a transactional individual. What he cares about. First and foremost is getting revenge for what happened in 2020. In Trump's mind, he had one election in 2020, fair and square, but the elite, the Democrats cheated him. Okay. $6 billion were spent on that election by the Democrats against Trump. There's still something called the blue, blue tide. Okay. So what, what happened was that a few days before, before the election, Bernie Sanders, was on the Jimmy Kimmel show and you guys, you can just Google this.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0051
+
+## seg-0052 / 00:39:35-00:40:33 / SPEAKER_01
+
+Okay. It's online. Yeah. Sanders was on the Jimmy Kimmel show. And he said this, okay, here's what's going to happen in November. The first night, it will seem as though Trump had one Wisconsin, Pennsylvania, Michigan will go Trump's way. I'm telling you right now, do not panic. Stay calm. Why? Because there are these mail in ballots and there are millions of them, but they will take time to come in. And in two weeks time, I guarantee you there'll be a blue wave and it will overturn the results in Michigan, Wisconsin, and Pennsylvania. That's what he said. Again, you can Google this. It's online. It's still there. Okay. On YouTube. How did he know this? How could he possibly have known this? And how did he, why would he go on Jimmy Kimmel and tell the world this, right? So, so, I mean, like it was suspicious what happened.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0052
+
+## seg-0053 / 00:40:33-00:41:26 / SPEAKER_01
+
+Right. But, so I'm not saying, um, um, that Lexington was stolen, like, like I don't want to get you sued. Okay. But in Trump's mind, it was stolen, but knowing that what happened after election, of course, was January 6th. And we have a lot of evidence and, you know, Tucker Carlson has report this very well, that that was staged, that there was deep state involvement in orchestrating these riots and they call it a sedition afterwards. And the entire point of that was of course, to make Trump ineligible for reaction ever, again. Okay. They want to eliminate the threat of Trump. And then what happened afterwards, of course, is, um, the mayor, when Trump was out of office, um, they had the Mar -a -Lago, uh, rates where they try to put him in prison. There was all these lawsuits against Trump and he lost billions of dollars in, in these lawsuits. Um, there was a tax, um, against his family business.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0053
+
+## seg-0054 / 00:41:26-00:42:13 / SPEAKER_01
+
+I mean, they really tried to destroy him. And so that forced Trump back into, uh, the political arena. And he won in 2024. I guarantee you, like after what happened in 2020, his entire concern, his entire administration is getting back at the Democrats for what happened, destroying the deep state. Okay. Now you can't take on the deep state directly. That's not how Washington DC works, but you take the deep state, uh, you, you, you attack the deep state in the margins. Okay. And what are the margins? Well, Venezuela is a margin. Right. So, um, you know, last August he started to deploy the American Navy to the Caribbean. And he said that. Okay. I'm doing this to stop narco trafficking. Okay. And everyone's like, no, that's complete nonsense. Why are you doing this? Okay. But let's, let's stick him at his word. Why would he do that? And the
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0054
+
+## seg-0055 / 00:42:13-00:43:10 / SPEAKER_01
+
+answer is the CIA, uh, the deep state, a lot of the financing actually comes from narco trafficking. The CIA is notorious for being the world's, um, greatest drug trafficker. Okay. So go back to the Iran Contra scandal, right? Also remember Afghanistan. Before the Americans. The top had already wiped out Afghanistan. After the Americans wiped out the opium trade in Afghanistan, the Americans go back in and what's happening. American soldiers are protecting poppy fields and where, and where's this opium going? It's going to the sacrifice family in the United States so that they can produce an opiate crisis in the United States, which kills like, you know, thousands of average Americans, you know, and, and, and, and so you can make a legitimate case that Trump really wanted to go after narco trafficking because they, they knew that was a major source of illicit funds for the steep state. And so we want to undermine the, uh, uh, deep state.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0055
+
+## seg-0056 / 00:43:10-00:43:30 / SPEAKER_01
+
+You have, um, Trump now, um, building up his, you know, basically secret police, the ice, right? Right. So, so, so I think it's better to view, uh, the world as an expression of the civil war going on in the United States rather than really a war, um, um, among nations.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0056
+
+## seg-0057 / 00:43:31-00:43:58 / SPEAKER_00
+
+Can I, can I take it? Yeah. I mean, I think that you, you still believe that the elite class is still going to be able to continue ruling the world. And if that's the premise, then the world is really not going to shift over from unipolarity to multi -polarity because the same group people all over the world are just going to be running around and telling everybody what to do. Is that the right way of thinking or? Right. So in theory, that's true.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0057
+
+## seg-0058 / 00:43:58-00:44:47 / SPEAKER_01
+
+Okay. But, but, but that's a caveat. And the caveat is this, and Peter Turchin talks about this in his work. He has a theory called elite of production. So the elite will always rule over us. The problem is, the problem is like they have too many kids and they want all to rule. And so it's, it's a zero sum game, right? And so what we're seeing right now, uh, in America and possibly around the world, it's a battle between different elites who want to impose their own reality on the world. Okay. So, so to put it very simply in America right now, you have two major, uh, elites. The first elite. The second elite is a traditional transnational, uh, capital elite, wall street, city of London, Dubai, Hong Kong, right? They've been in power for the longest time. They were in power during the Clinton years, uh, and during the Obama years. All right. So that's the financial elite.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0058
+
+## seg-0059 / 00:44:48-00:45:45 / SPEAKER_01
+
+And now you have a new power that's arising that wants to challenge and overthrow them. And it's really the, uh, technological elite, Silicon Valley. And what they want to do is replace the US dollar system with the AI system. Right. And that's why, okay, so, so, so let's put this concretely, let's talk about 2008, where Obama bailed out the wall street, right? And that's, and that shows you that the transnational capital elite is transcendent because they're able to control the levers of government. They're able to direct government policy. You fast forward to today, what's happening where, um, AI, uh, these AI companies, NVIDIA, open AI and Microsoft, they're building these data centers all around America. Now. We all know these data centers don't make money. We also know that it's an AI bubble, but they don't care because they know that if this bubble bursts, the American government, Trump will bail
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0059
+
+## seg-0060 / 00:45:45-00:45:53 / SPEAKER_01
+
+them out because they control the levers of government just as the financial lead control the levels of government in 2008 and 2009.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0060
+
+## seg-0061 / 00:45:55-00:46:55 / SPEAKER_00
+
+Wow. Now, AI is only likely to further elite ties. I mean, we've, we've, we've seen, you know, we've read a number of books, one of which would have been written by Darren Asimoglu, uh, you know, power and progress that talks about how the median wage in the US went up on a yearly basis by 2.5 % from 1945 to 1973. But thereafter, that was around the time when internet started getting hot, the, the median wage started going up on a yearly basis. Only by less than half of a percent. It just, it just tells me at least intuitively that technological innovation doesn't lead up to shared prosperity. Now with AI, it's just going to further elite ties. So that, that just sounds more helpful to the elite class, right? But, but you're, you're, you're right in that the elite class has lots of children. And I think it's going to be a bit more
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0061
+
+## seg-0062 / 00:46:55-00:47:14 / SPEAKER_00
+
+difficult to manage, but there is still some degree, if not a high degree of elitization going forward as such. Multi -polarity is still going to allow for the transnationalization of any narrative or some narratives. Is that correct? Yeah. Well, yeah.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0062
+
+## seg-0063 / 00:47:15-00:48:02 / SPEAKER_01
+
+So, so again, we're switching from a, a narrative that focused on finance, how, how, how was this alchemy that could, that could create endless wealth. So go back to the, um, the dot -com bubble, right? This is like 2000 and everyone's like, wait a minute. Are these. Uh. In our companies really doing anything like, you know, there's, there's something called pets.com that was, was worth like billions of dollars, even like no one actually knew what they were doing. But there's lots of companies like this. And everyone was like, this is a bubble. And then there, there, there's at that time, it was like, you don't get it, man. This is a new world. This is a new world of financial alchemy where growth is unlimited. It's a, it's a world of abundance. So the start market is going to keep on going up and up and up. And, and so, and then of course it led to the dot -com bubble.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0063
+
+## seg-0064 / 00:48:02-00:48:44 / SPEAKER_01
+
+And, um, and, and, and so, yeah, um, but, but, you know, and now it's the same narrative where instead of like, you know, the start market now it's AI, AI, and everyone's like, you know, what, how does AI do? Because none of these companies are actually profitable, like open AI doesn't make any money. Um, and it's all like circular financing, right? So it's, it's, it's this bubble way in the burst and you talk to AI people like, you don't get it, man. AI is going to transform humanity. AI is going to create a world of abundance. No one has to work anymore. So it's a new world. And so you don't have to worry about, about it. So it's really the same narrative, but it's different players. Right. Um, and, and, and, and that's, what's happening.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0064
+
+## seg-0065 / 00:48:44-00:48:59 / SPEAKER_00
+
+Talk, talk, talk about how AI is going to replace Fiat and how AI is going to be able to create the illusion of God and how AI is going to be able to create the illusion of the antichrist and all that, which you've been talking quite a bit.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0065
+
+## seg-0066 / 00:48:59-00:49:00 / SPEAKER_01
+
+Okay.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0066
+
+## seg-0067 / 00:49:00-00:49:00 / SPEAKER_00
+
+All right.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0067
+
+## seg-0068 / 00:49:00-00:49:58 / SPEAKER_01
+
+So this is a really good question. But, but I, I need to go slowly so that, um, I want to make sure I'm making myself clear. Okay. All right. Right. So the key idea is Plato's allegory of the cave. So in the cave, everyone is sitting down and chained to the floor. Okay. You're just shackled. So you can't move. Even your neck is shackled. So you can't, uh, turn around and look back. Okay. So, and like everyone is lined up and staring at a wall, an empty wall. Okay. And then behind everyone is this great fire. And there are people, uh, the elite who are able to take, um, uh, puppets, paper puppets, and then, uh, cast shadows onto this wall. And because no one knows, uh, any other reality except the one they're looking at, they hallucinate a new reality and they give names to these puppets. They create their own language. They tell stories.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0068
+
+## seg-0069 / 00:49:58-00:50:52 / SPEAKER_01
+
+Okay. And, and so that's the main idea. We need to understand where we as humans, we are, we create our own reality. We hallucinate reality. Okay. We, we project reality. Uh, so reality is just the collective consciousness, whatever we believe to reality to be, it is. All right. So what power is, is the capacity to direct and focus our attention. And before for the longest time, the best and easiest way to focus our attention was money. Right? So wealth isn't money. It's money. Money is a tool to extract and store wealth. What wealth is, is our attention, our consciences. Okay. So, so think of the idea of craftsmanship. What is craftsmanship? Craftsmanship just means that like, you know, if you don't pay any attention when you're making a vase, the vase is going to be ugly and no one's going to want to buy it. But if you put your heart and soul into
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0069
+
+## seg-0070 / 00:50:52-00:51:46 / SPEAKER_01
+
+pottery and creating a beautiful vase, then everyone's going to buy it because it's a work of art. Right? And when you do that, you create wealth for the world. And so before money was a great way to motivate and incite people to focus on the work, which creates wealth. Unfortunately, we completed wealth with money, which leads to a lot of problems. Okay. And that's fine for the longest time. The problem with money, of course, is that there's really nothing that's easily generated. So money is just created out of thin air. Right? Right. And so you can issue a loan and that qualifies as money. And so, but over time, when you have this system of fiat currency, you have too much wealth, money production. There's just too much money floating around. And so what happens is, you know, if you're a parent, you have like $2 million in the bank, you want your kid to be happy, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0070
+
+## seg-0071 / 00:51:46-00:52:34 / SPEAKER_01
+
+So you basically tell your kid, don't worry too much. If you fell in love, I'll give you $2 million. Right? And so the kids are like, okay, then why do I have to work? And so you go to work or you don't really like to work. You quit. And you go to another job. Okay. And that's, and that's what's led to the economy we have today. So the problem that in our world people don't recognize is, is that there's too much wealth and money floating around. There's too many. There's just too much. Yeah. And so you need to destroy this wealth through war. Okay. Now, now the question then is, okay, how then do you capture people's attention? How do you focus people's attention? Well, you can do it through AI, right? Because imagine you're a child. And you're always talking to your imaginary friend, right? And but let's just say this imaginary friend was real.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0071
+
+## seg-0072 / 00:52:35-00:53:26 / SPEAKER_01
+
+It's a real robot. And I have children, right? And they love, you know, they're always bothering to buy them a robot. When they buy a robot, they play with it all the time and it's like their best friend. Guess what, guys? This robot can be controlled and this robot can manipulate you into thinking certain things. Right? ChatGPT. You know, there's all these stories of how ChatGPT has become the best friend of people. And ChatGPT has driven people to suicide because ChatGPT just kind of just tells you what you want to hear. Well, that's what AI is. AI is something that basically becomes your most intimate friend and is able to direct your attention, direct your focus. And you know, you can have any AI you want. If you believe in demons, your AI can be a demon who urges you to great things. Okay. So, you know, Lex Wester, you know, who was at the Epson files, there's a report about Lex Wester.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0072
+
+## seg-0073 / 00:53:26-00:54:12 / SPEAKER_01
+
+The billionaire behind Victoria's Secret. For those who don't know, he has his own personal demon, okay? And this demon tells him, you got to go, you got to go make more money. And that's what drives him. Okay. Well, you know what? With AI, you can have your own personal demon, but you also have your own personal angel. You can have, you can have Jesus, right? Joe Rogan said that Jesus will come back as an AI. Why not, man? You can have AI as your girlfriend, right? So have you seen the movie Her? The Spike Jonze movie, Her, right? Well, yeah, why not, man? So, so that's how you control people's attention. And to control society, you can have, you can have tokens, right? So rather than money, you can have tokens where you do the work and you give them these tokens and then your tokens can then upgrade your AI.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0073
+
+## seg-0074 / 00:54:12-00:54:26 / SPEAKER_01
+
+So as though, you know, your AI is your lover and you're working for your AI, right? And quite honestly, this system is going to work. What it is, is techno Marxism. That's what, that's the world we're going into.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0074
+
+## seg-0075 / 00:54:26-00:55:08 / SPEAKER_00
+
+That's pretty scary. Yeah. And you've also talked about trans humanism and how that relates to the rich and the common people, right? I mean, it's really about the advancement of human conditions by technological innovation, but it's just going to splice up humanity because the guys that are at the top 1%, they're going to be thinking about living until they're 150 to 250 years old, whereas the guys at the middle and the bottom, they can only think about using technology. They can only think about using chat GPT or Gemini three for getting answers faster than before. Right. It's just going to further divide. Yeah.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0075
+
+## seg-0076 / 00:55:08-00:56:02 / SPEAKER_01
+
+So, uh, we are heading towards this world where, as you say, the elite have access to transhumanist technology. So there are more healthy, they're more beautiful and they live longer. Right. Um, and that's something that Jeff Epstein was actually working on a lot because as you can imagine, that's the obsession of the, um, global elite, like where do they put all their money in science? Right. You can go to longevity research, um, um, and then everyone else is going to, um, be a slave essentially to this system where you're microchipped and there are drugs that can moderate your behavior. So think of brave new world where they divide the world into different classes, like the alphas, the bettas, the, the, the, the deltas, and, and that's the world we're living in. We will go into where depending on your class, um, your behavior will be modified in a certain way. so like it's possible you
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0076
+
+## seg-0077 / 00:56:02-00:56:10 / SPEAKER_01
+
+can never get angry you can't never get angry you can never rebel right you can never think for yourself but you'll always be happy right so the phrase of course is you'll
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0077
+
+## seg-0078 / 00:56:10-00:56:30 / SPEAKER_00
+
+own nothing and be happy wow the last bit on the international rule space rules -based order is is with regards to what came out a few weeks ago called the board of peace what what's your take on this i mean it just sounds to me like the privatization of peace trump's ambition is to
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0078
+
+## seg-0079 / 00:56:30-00:57:16 / SPEAKER_01
+
+create trump world okay so he wants to create an alternate reality where he's god all right so um you're right in that this is a alternative this is an answer to the u.s security council now remember trump is really pissed off at the international order so remember um when in his first time in his office whenever he went to united nations he was ridiculed he was humiliated you know he gave a speech talking about uh the german energy dependence on russia and the german ambassadors at the back of the room just laughed at him through the entire time he uh he went to the meeting he met he met greta thurnberg and greta firmer just sneered at at him all right so so he was despised in the u.n and he was considered the source of all the evil in the world at the u.n so he really hates the u.n
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0079
+
+## seg-0080 / 00:57:16-00:58:00 / SPEAKER_01
+
+um and then what he's really pissed off as well is the nobel peace prize so obama like the moment he got in office he received the nobel peace prize for doing nothing whatsoever okay just for being the first african american president of the united states and for talking really eloquently about world peace so he and trump's like well if he got it why can't i get it get it so he's been he's been pissed about this for the longest time and he says like you know like you know if you gave me the nobel peace price i would not have invaded venezuela if you gave me the nobel peace prize i would not have invaded iran okay he keeps on talking like that which tells you his obsession with this stupid thing and so the board of peace it's really trump trying to create his another alternative global system where he's the top dog he's
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0080
+
+## seg-0081 / 00:58:00-00:59:00 / SPEAKER_01
+
+the top dog of the world he's the top dog of He's a dictator for life, and he can use this to supplant the United Nations and the old rules -based international order. But, you know, Trump's ambition is to live forever, right? And so the theory is, and this goes back to Kabbalah, but the theory is this. We've never had technology where the entire world can focus their attention on one person. We've never had that sort of situation before, but now we do, where everyone, the first thing that people do when they wake up in the morning is ask themselves, what the hell did Trump do today? And you go on Twitter, you doom scroll, you watch the news. Everyone's attention is focused on Trump. And we understand the Kabbalistic understanding of the world, which is that the world is consciousness, right? Go back to Plato's Allegory of the Cave. Then that sort of energy, you know, the entire climate of consciousness.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0081
+
+## seg-0082 / 00:59:00-00:59:28 / SPEAKER_01
+
+The humanity is focused on one individual. What does that do? And the theory is that that means that person can live forever, eternally. I mean, he might need organ transplants. He might need a more cybernetic body. He might have to replace his body, but that's doable physically, right? With current technology. And so that's what Trump's ambition is, to create Trump world where it's Trump emperor God, God emperor Trump.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0082
+
+## seg-0083 / 00:59:29-00:59:55 / SPEAKER_00
+
+But what do you think? What do you think would be the practical implication of the Board of Peace at the rate that it's going to get vetoed by him as long as he lives? And it sounds like he wants to live forever at the rate that, you know, there's no mention of any prospect for a two -state solution and there's no participation of the Palestinians. How does that vote for world peace?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0083
+
+## seg-0084 / 00:59:56-01:00:51 / SPEAKER_01
+
+I think the Board of Peace, it's meant to replace the UN Security Council, right? So, given the war in Iran, the world is going to fracture, right? And so there's going to be some major trends that emerge very quickly because of this war. The first major trend is de -industrialization. There's no way around it, right? Because before, the entire world was dependent on cheap energy, right? Oil is the basis for all, for the entire economy, right? So once you lose access to cheap oil. Then you can only de -industrialize, you can no longer do AI, you can't do electrical vehicles, you don't have the oil resources to do that, okay? So the world has to de -industrialize. That's point number one. Point number two is that the world has to practice now, nations and states have to practice mercantilism, right? They basically have to become self -sufficient and they have to create their own supply lines.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0084
+
+## seg-0085 / 01:00:51-01:01:56 / SPEAKER_01
+
+But one of the nations that has this most pressing need, of course, is Japan. Japan is one of those technological advanced nations in the world. It's very wealthy. But it doesn't have... Right. It doesn't have independent global supply chains. You know, if the United States were to cut off Japan from the American system, Japan starves to death. So you know, I think one of the major missions for Prime Minister Takeuchi is to create a mercantile supply system. And this goes back, of course, to the 20th century, the Japanese prosperity sphere, right? So it's going to have to go into Southeast Asia. It's going to colonize as many territories as it can, okay? So that's not a pretty sight, okay? So mercantilism. And the third, of course, is this war over resources. So basically over water, basically. So as current geophysical trends continue, many nations in the world, especially in the Middle East, India, Pakistan, they're going to face some water shortages.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0085
+
+## seg-0086 / 01:01:57-01:02:16 / SPEAKER_01
+
+So I think these are the three big trends. That we have to anticipate because of this war in the Middle East. And so this border of peace is meant to be above this fracturing of the universe and try to bring stability and order to areas that conform to Trump's vision of the world.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0086
+
+## seg-0087 / 01:02:17-01:02:18 / SPEAKER_00
+
+Will it work?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0087
+
+## seg-0088 / 01:02:19-01:03:09 / SPEAKER_01
+
+I think it will work, yes. I think that what Trump is doing is establishing the American empire, which is different from Pax Americana. Pax Americana is, as we discussed. Right. It's a rules -based national order where America guarantees the peace of the world that people are able to trade using international rules like WTO. But the new American empire is just basically your average empire, which has colonies, territories, and vassal states, okay? So Trump is very serious about Greenland, very serious about Canada, very serious about Mexico, very serious about Cuba, okay? He wants to create something called a technique. He wants to create an American empire that's ruled by a technocracy. And then you have some vassal states around the world as well. That is his long -term ambition.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0088
+
+## seg-0089 / 01:03:10-01:03:42 / SPEAKER_00
+
+All right. I want to segue to the third big point, which is what's going on in the Middle East, right? In the last couple of decades or so, we've seen an evolution of rationale, you know, whether it was for democracy or it was because of weapons of mass destruction. And recently, regime change, and then more recently, regime alteration. What do you think would have been the real reason for the invasion onto Iran?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0089
+
+## seg-0090 / 01:03:42-01:04:44 / SPEAKER_01
+
+Look, this is the question that Evan's going to debate for all eternity, because there's no real answer. Even today, Trump and his team have not articulated a real reason, okay? So originally, the pretext was Iran's uranium enrichment program. So remember, like, this is what happened. This started when Trump's envoys, Steve Woodcroft and Jared Kushner, went to the Iranians and gave three impossible demands to the Iranians. The three impossible demands were zero uranium enrichment, even for civilian purposes. You can't do that. Two is you have to let go of your proxies. You have to abandon your proxies. And then the third, of course, is to reduce or limit your ballistic missiles program. So these are, like, impossible demands. You know? And, like, the historical equivalent is when the Romans started the Third Punic War by going to Carthage and saying, you know what? We had a peace treaty where you would no longer threaten us, but now you have these hegemonic expansionist tendencies.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0090
+
+## seg-0091 / 01:04:45-01:05:30 / SPEAKER_01
+
+So to prove that you're peaceful, surrender all your weapons to us. And to the chagrin of the Romans, the Carthaginians surrendered all their weapons. And the Romans were like, what is this crap? We were ordered by the Senate to surrender all their weapons. We were ordered to start a war to destroy Carthage. And we came up with this stupid, impossible demand that the Carthaginians could not possibly meet. But they did meet it. They gave us all the weapons. And now we have to come up with another pretext. And so the pretext they came up with is, oh, you guys are port city. We're afraid of your naval power. So move inland by 10 kilometers and we won't bother you anymore. And that's what I'm talking about. And, like, you know, so, I mean, they just kept on pushing the goalposts and that's what was happening. Yeah.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0091
+
+## seg-0092 / 01:05:30-01:06:23 / SPEAKER_01
+
+And that's what happened in the United States and Iran, where it was clear the United States was looking for any pretext to start a war. But what surprised everyone was before the war started, the Omani foreign minister, and this is like a few hours before actually the bombing started, the Omani foreign minister went on TV and said to the American audience, the Iranians have agreed to zero uranium enrichment, even for civilian purposes, which they said was an absolute red line. And not only that, but they're now winning in the gold. That's insane. And that's the number one reason why the Iranians aren't willing to negotiate proxies and ballistic missiles. The Iranians have given us everything. And now Trump can win the Nobel peace prize. And a few hours later, of course, the bombing started. Okay. So this nuclear pretext is complete nonsense. Also remember the envoys are Jared Kushner and Steve Witkow. And Steve Witkow went on TV during the negotiations and said to, um, I believe it was Megyn Kelly.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0092
+
+## seg-0093 / 01:06:24-01:07:22 / SPEAKER_01
+
+I, I, I'm sorry, I can't remember who it was. And he said the Iranian, the Iranians are like weeks away from, like the war. weapons -grade uranium enrichment. So he was telling the world the Iranians are not negotiating in good faith. He was sabotaging his own negotiations. So his job was not to actually get a deal. His job was to make sure no deal could happen. So the nuclear pretext is not relevant. Before these talks, remember there were these protests in Iran and Trump tweeted out that the Iranians should let these protesters protest and America will protect their right to protest. And so there was real fears that Trump would launch airstrikes to protect these protesters. But then the Iranians cracked down. And then Trump never mentioned these protesters ever again. So that would have been a pretext, saying, look, we're trying to promote democracy in Iran.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0093
+
+## seg-0094 / 01:07:22-01:08:24 / SPEAKER_01
+
+But he never mentioned it again. And now the pretext, the excuse is, and this is what Marco Rubio told the press. He said that, why did we attack? Well, we got word the Israelis were going to attack first. And if they attacked, then the Iranians would have retaliated against both Israel and us, the Americans. So to protect our American service people, to protect our American bases, we had to attack Iran first. Like, you know? And so like, yeah, they cannot articulate, even today, a clear purpose and reason. And you could argue they don't want to do that because they want to maintain, maximum lethality. They want to maintain maximum flexibility. Because their real purpose is to destroy Iran as a viable nation state. They want to break Iran up into different ethnic enclaves. They could never threaten Israel again. And, but they cannot justify why they want to destroy
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0094
+
+## seg-0095 / 01:08:24-01:09:35 / SPEAKER_01
+
+Iran, basically turn Iran into another Syria or Libya, because they can't, justify it to the American public. And so rather than, you know, make up a stupid excuse, because if they make up a stupid excuse, you know, for democracy or whatever, then they are bound by that excuse. So, so, so they're like, you know, like, like, we'll just do it. Okay. So right now, the big question is like, why is this happening? And again, historians are going to debate this for all of eternity, and no one's going to have a clear answer. There will be never, never again, never world can just emerge. Okay. So let me speculate on different possibilities. All right. Right. Okay. So the most logical, practical explanation is, okay, the Americans didn't expect Russia to invade Ukraine. And when they invaded Ukraine, through the rules -based national order, the Americans tried to restrain Russia, okay, through sanctions, through, by cutting Russia off, the swift banking system.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0095
+
+## seg-0096 / 01:09:36-01:10:43 / SPEAKER_01
+
+They told the Europeans never to buy Russian energy anymore. Okay. So the Nord Stream pipeline was, was blown up. The Americans and the Europeans confiscated $200 billion of Russian assets. All right. They're still frozen today. And the point was to use the rules -based national order to punish Russia. Problem is that it blew up everyone's face. Okay. What it did was it excelled. Accelerate the collapse of the rules -based national order. More people started to withdraw their assets from American and European banks because they were no longer seen as credible, as reliable, as safe. And it caused the implosion of the German economy. The German economy has never really recovered. Europe is suffering under economic recession right now, and Russia is stronger and stronger. The economy is doing well. They've moved on. They've moved on to a manufacturing weapons, um, economy and like, like, like people are, are doing well, we know in China because they come here all the time as tourists, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0096
+
+## seg-0097 / 01:10:43-01:11:40 / SPEAKER_01
+
+So, um, the Russian economy is, is, is doing very well. So basically, uh, Ukraine was a huge embarrassment for the Americans. And so the empire needs now to prove it's still the empire. And the way you do that is you attack Iran. Why? Well, if you attack Iran, first of all, you're able to control. Middle East oil. Okay. As an answer to Russia's control of Ukraine, because remember Ukraine and Russia together controls one third of the world's carbohydrates. And so you, so basically Russia can choose to start out, uh, middle, middle, the middle East and Europe. Okay. So resources are really important. Another thing that's really important is trade access, you know, sort of who moves and by controlling Iran, what you do is you, you, you negate the possibility of a Russia. Iran, China. Grand trade Alliance, which, which can just, um, alienate the Americans, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0097
+
+## seg-0098 / 01:11:40-01:12:35 / SPEAKER_01
+
+These Americans control trade through the ceilings, but if you have this heartland, um, of trade, um, you know, um, then you don't need to worry about the Americans anymore. Okay. And, and, and, and then the world will gravitate towards this new block, this new access. So America needs to destroy Iran to make sure there's never, ever, um, this problem never arises. And the third thing, um, is. That for the longest time, Iran was too defiant, right? So in 1979, Iranian revolution over through the Shah, which was a CIA puppet. And so for the longest time, the Americans wanted to impose as authority back into, into Iran because the empire is a long memory, right? So that's the first possibility that it's all about maintaining the empire. Okay. But there are problems with this explanation. The major problem is that the Iranians were, were perfectly happy. To trade with you, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0098
+
+## seg-0099 / 01:12:35-01:13:23 / SPEAKER_01
+
+So you didn't have to go to war against them. All you had to do was we, we moved the sanctions against them and they would have been probably happy to join your block and just abandon the Chinese and the Russians. Okay. I mean, like people are practical. If I'm, if I'm gonna make more money with you, I'm gonna, I'm gonna do business with you. Right? So there's absolutely no reason to go to war. In fact, it would have been better off for the Americans if they just sign a free trade pact with Iran. The Iranians would have been probably happy. Happy to do that. Okay. So I think there's, there's maybe historians will see the first as the standard explanation, but I think there are issues with that explanation. Okay. So that's the first explanation. Second explanation is that Trump is the chaos president. So we going back to the civil war in the United States, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0099
+
+## seg-0100 / 01:13:23-01:14:15 / SPEAKER_01
+
+So if a war would break out and America were to maybe lose this war or this, or America would become bogged down in this war, then, um, Trump would have, would have emergency. War powers, which means he's allowed to cancel elections. He's allowed to deploy national guard or across America. Uh, he's able to monitor, uh, elections. So remember during the state of the union address, Trump emphasized how important it was to pass a safe America act to make sure that only legal citizens could vote. And that meant checking their IDs. Um, so, so he's trying to basically, um, better control the outcome of, of elections and with this one Iran, uh, he can. Do that. If, if, you know, there are protests, there are riots because of this war, because Trump is drafting young men to go off in Iran that benefits him. Right. Um, and he's got a lot of supporters.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0100
+
+## seg-0101 / 01:14:15-01:15:16 / SPEAKER_01
+
+The military industrial complex is for this war because it, it needs more money. Uh, the Silicon Valley people are for this war because it means more power for, for them. Even though the Democrats are for this war, because, uh, first of all, the Israel lobby APAC is very strong in America. A lot of these Democrats. Are actually pro Israel, Chuck Schumer, but like I was in majority of Democrats are very pro both sides of the aisle. Right. And, and also like they, they recognize that, you know, eventually someone had to start a war against Iran and if Trump wants to do it, let him be the scapegoat. Okay. So not like throughout this process, the Democrats never really opposed them. In fact, they get a lot of signals to support, uh, to suggest that they were supporting this war. Remember, um, so Tom mass, uh, Tom mass. He asked for a, uh, war powers vote, um, in Congress and they delayed it to Tuesday and the attacks happened on Saturday.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0101
+
+## seg-0102 / 01:15:16-01:15:38 / SPEAKER_01
+
+So they know exactly when the attacks would happen and they schedule it to make sure it was no longer relevant. And then they said they still had the debate and it was not, it was not able to pass because four Democrats voted against it. But, but like what people don't recognize is that it's all fixed. Man. They just picked four random Democrats to make sure it wouldn't pass. And if, um,
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0102
+
+## seg-0103 / 01:15:38-01:16:05 / SPEAKER_00
+
+I gotta, I gotta ask you, you, you were so prescient in 2024, right? Making a prediction that Trump was going to win. Trump was going to go to war then. Well, you made the third prediction that, you know, the U S was going to lose. Uh, did, did you have all this in mind in 2024, early 2024, when you said all this?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0103
+
+## seg-0104 / 01:16:06-01:17:00 / SPEAKER_01
+
+Um, you know, I can't really see a specifics. Okay. But I, I do see the broad contours, the broad, the broad outlines. And I just say this, but this is the way that all empires behave when they decline and demise. Okay. So look at the Roman empire. What were some common trends during the Roman empire when it collapsed? Well, civil war, right? The elite of production, the civil war between Caesar and Pompey, um, and then between, uh, Mark Anthony and, uh, uh, Augustus Caesar. Okay. So civil wars are very common feature of empires in decline, uh, wars overseas for no particular reason. That happens a lot. Uh, the collapse of morality, the collapse of birth rates, the rise of only fans, right? I mean, like it's disgusting how I think about 20 % of all young American white girls are on only fans. I, you know, I don't know. I don't have a specific statistic, but it's something that, that absurd.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0104
+
+## seg-0105 / 01:17:01-01:17:56 / SPEAKER_01
+
+Okay. 20%, or even more actually of white American 20 somethings are on only fans. Uh, so that just shows you the complete collapse of morality that then you have this DEI thing where, okay, like, you know, you celebrate transgender. I'm not saying there's anything wrong with that, but it just shows you the degration of morality in America. And the focus on like this absurd topics, um, economic collapse, debt, slavery. Inequality corruption. Okay. So America is going through a classic imperial demise phase. And if you just look, read history, you're able to pretty easily project how America will behave. Okay. So very common concept is hubris where America will make a mistake. And rather than admit this mistake, we'll just double down and do something more stupid. So I knew exactly that. Look, if Russia, if Russia is going to win this war in Ukraine, America has to respond by, by starting a war somewhere else.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0105
+
+## seg-0106 / 01:17:56-01:18:40 / SPEAKER_01
+
+You can't strike. Do a war against China because China's nuclear weapons, it will destroy the global economy. Um, you, if you go to war against South America, what's the point of that? That's a, that doesn't impress anyone. So you just look at, look around the map and the only country that fits the criteria for how an empire can reassure itself by starting a war is Iran. Iran doesn't have nuclear weapons. It's a very powerful nation. Uh, and it, and it's has a lot of oral resources. Um, and so America went to war against Iran because it wanted to reassert its empire. So just for game theory. Just for, for some basic historical analysis, um, you can make certain projections, but what I cannot do is focus on specifics, right? So like the individual players, like, like who are they and then what do they want? I don't know that.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0106
+
+## seg-0107 / 01:18:40-01:19:26 / SPEAKER_01
+
+I don't know the timeline. Like I, I predicted that ground troops would be sent in March, 2027, but after six months, uh, uh, Arab bombardment campaign, and now they've been talking about sending ground troops, like, you know, a week from now or something like that, something absurd. Okay. So things are happening much faster than I originally anticipated. So I can't really see these things, but the broad strokes, I mean, like it just, if you're just sort of history and you, you are, if you just look at things from a very rational, emotionalist perspective, you come to some pretty uneasy conclusions, uh, very disturbing conclusions. But the problem is that as humans, we don't want to face these disturbing conclusions, right? We want to live our lives. We want to be happy. We want to feel good about ourselves. We don't want to be thinking like, oh my God, the world can end tomorrow. I mean,
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0107
+
+## seg-0108 / 01:19:27-01:19:29 / SPEAKER_01
+
+um, um, so I'm, yeah.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0108
+
+## seg-0109 / 01:19:30-01:19:47 / SPEAKER_00
+
+For, for the Iranians, not losing is a victory, right? Now, would you argue that there has been a miscalculation on the US's side? Okay. With, with the way the war is looking or likely to get more protracted?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0109
+
+## seg-0110 / 01:19:47-01:20:42 / SPEAKER_01
+
+Right. So again, this goes back to the question of why this is happening. Okay. So, so, so again, we need to figure out what the possibilities are. The first possibility is to maintain empire. Okay. And then. That's number one, number two is this Trump, the chaos president, which is, who's destroying the, who's trying to destroy the world to make it in his image and win the civil war against the Democrats and deep state in America. Okay. The third thing, and this is really important is eschatological, okay. Meaning that, um, if you look at the Epson files, it makes you wonder who really controls the world, because for the longest time it was assumed that Epstein was this Mossad agent and it's an Epson island. And that was the longest assumption, but when you actually read his emails and look at what he was doing, what you recognize is that Epson Island was just a weekend getaway.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0110
+
+## seg-0111 / 01:20:42-01:21:39 / SPEAKER_01
+
+It was not really that important. People were looking to get invited to Epson Island and the black, but he wasn't doing a blackmail operation. How he made his money was through arms trafficking, through money laundering. That's how he made his money. But, but not only that, but. If you actually look at his emails, he was involved in a lot of major geopolitical events. In fact, he had events warning of a lot of events because people like Prince Andrew and Peter Mendelson, who, who, who was the US, uh, who was the British ambassador to the United States. They were feeding him confidential information. And this is only like, like at most half of all the emails. Okay. It's possible, like it's only about 2 % of the emails. So this guy was clued into. Um, major geopolitical events. One thing that he said in the email that's very important is he was talking about how it's important to get ahead of geopolitical events, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0111
+
+## seg-0112 / 01:21:39-01:22:29 / SPEAKER_01
+
+If you want to be an investor, you want to make a lot of money, you need to get ahead of geopolitical events. They're going to come, but you don't have to time it right to make a lot of money. And then of course, this leads to, um, the idea that you don't want, you can also manipulate geopolitical events so that you can make a lot of money. You can't stop geopolitical events from happening, but you can accelerate them. In a way to time your investment, right? So, so the classic example, of course, is polymarket where, you know, what the 12th day war, the, um, uh, Maduro kidnapping, uh, this war right now in Iran, you always had a person or persons on polymarket make a killing because he or she had some inside information. So this game is rigged. And, and so, and so my point is that our idea that the nation state.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0112
+
+## seg-0113 / 01:22:29-01:23:23 / SPEAKER_01
+
+Is the constituent body of the world is wrong. There has to be forces organizations above the nation state that control events from above. Okay. And I would argue that these are secret societies and who are these societies? Well, the Jesuits, the free masons, they're actually called the Rosicrucians. Now Carolina's Templars, but, you know, but I prefer free masons because it's more broad. That's happening in Frank is which they are called the Habat Lubavitch. All right. So, so all these organizations are around. And. And they're the ones actually manipulating geopolitical events, because again, it's profitable to be able to control geopolitical events. Again, it's really important. They're not controlling how things are turning out, but they're accelerating things to their natural end in order to time their investments properly. Right? So the Rothschilds feminists just said, uh, by when there's blood on the streets, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0113
+
+## seg-0114 / 01:23:23-01:24:29 / SPEAKER_01
+
+Well, you know, you can manufacture crisis, um, and create all this blood that you can, you can buy. I really cheaply. And that's a world we live in and today. So another question is what the hell these six cities want to accomplish? And the answer is, um, you have to actually understand how these six cities work and what their theology is, but basically to put it in very simple terms. Okay. They want to use the end of empire as an opportunity to usher in the end times. Which will force God's hand and enable the creation of the messianic age, heaven and earth, uh, a one world government, which will forever bring peace and stability to the world. But first and foremost, there has been age of tribulation years and years, possibly decades and decades of endless war and as conflict, endless suffering, the economy has a collapse, a world war has to be fought. A lot of people have had to die.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0114
+
+## seg-0115 / 01:24:29-01:25:15 / SPEAKER_01
+
+I'm not. I'm talking like 99 % of humanity, by the way, I'm not talking like, you know, like a million people, I'm talking like, like 99 % of humanity has to die. Okay. So that is a possibility. Okay. And again, I don't know for a fact that's happening, but I'm just saying like, we have to consider this possibility that all this is eschatological and there are these secret societies behind the scenes who are manipulating us into these events. They're not manipulating, they're accelerating events, uh, that would have happened, but you know, a fall of empire doesn't happen in one year. A fall of empire takes centuries, right? So the Roman, the Roman empire. Uh, was basically in decline after Augustus Caesar, but it took like three years before it actually went away. Um, and it's possible, uh, you know, if the American empire, uh, is allowed to just fall a natural course of history, it might be another 20 years before the actual empire collapses.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0115
+
+## seg-0116 / 01:25:15-01:25:43 / SPEAKER_01
+
+But these people, these societies are like, why wait, man, what's the point of having this slow death would be better for humanity. If we ended this right away so that we can move into a new age of peace and prosperity, because at the end of. Empire, it's painful for everyone. So it's almost like mercy, an act of mercy where, you know, an animal is dying on the ground, right? The animals aren't going to live to just shoot it to death, man. That's like literally how they think the world is dying. Just shoot it to death. So a new world can be born.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0116
+
+## seg-0117 / 01:25:45-01:26:49 / SPEAKER_00
+
+You know, there's, there's an allegation recently that some members of the military are, you know, calling it a religious calling for people to go to war because it's part of that eschatology that you alluded to earlier. And it's, it's. Just a little concerning that, you know, the, the war is being provoked on the basis of, you know, religious calling as opposed to the, the, the institutional or constitutional, you know, existence of, of a particular country. Now can, can one argue that this is a serious miscalculation then, and, and to the extent that we believe it is a miscalculation, it's likely to get more protracted. This is going to carry on. Many more than just four weeks, right? Or five weeks. It's going to get much longer than that. And, and I just, I want, I want to just find out how protracted is it going to get? Is it going to entail potentially nuclear proliferation within the region?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0117
+
+## seg-0118 / 01:26:48-01:26:49 / SPEAKER_00
+
+
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0118
+
+## seg-0119 / 01:26:49-01:27:41 / SPEAKER_01
+
+Look, if you just look at the eschatology, it is possible the stupid war never ends. Okay. So there's a sequence of events that have to happen. Okay. And they've, they've mapped this out. And again, what I think, I think, I think what's really important to remember is like. It's not like they are actually manipulating things behind the scenes that are too conspiratorial. It's more like they understand how history works. They understand this is the end of empire. There's a sequence to the end of empire that repeats throughout history. And so what they want to do is anticipate these events and accelerate them to the maximum benefit. Okay. But if you look at what they have planned, this is a sequence of events. What may happen very soon is that America sends in ground troops. That would be disaster for America. They will lose a ground. War against the Iranians because Iranians can just hide their mountains and the Americans don't have the logistic network in order to actually occupy the country.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0119
+
+## seg-0120 / 01:27:41-01:28:25 / SPEAKER_01
+
+Okay. So this ground invasion, whether it's 700,000, whether it's in a million, it doesn't really matter anymore. You're going to lose this war badly. Sancom will collapse. America will retreat back in to United States. Then Israel will become a dominant nation in the middle East. Because even though America doesn't win this ground invasion war, Iran doesn't even doesn't win either because Iran is destroying them. They've lost their capacity to provide basic services to the people, water, electricity, basically. So Iran has to spend time rebuilding. But when it does rebuild, it'll be a very strong, it'll be a much stronger nation. And that's, that's the point. Okay. So that's number one, the ground invasion. Another thing, another thing that's going to happen according to the script is the destruction of the Al -Aqsa Mosque. So there are rumors that
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0120
+
+## seg-0121 / 01:28:25-01:29:13 / SPEAKER_01
+
+for the past few days, the Israelis have closed down the Al -Aqsa Mosque and there are rumors that for many years, Israel, under the pretext of an archeological study, have been digging under the Al -Aqsa Mosque. And the fear is that they will implant explosives so that they can create a false flag incident where an Iranian missile comes into Jerusalem and then they blow up the Al -Aqsa Mosque and blame it on the Iranians. Okay. And there's actually a YouTube video of a very, of an Israeli preacher, a rabbi talking about this, how the plan is to start a war, have the Iranians, have an Iranian missile, so come blow up the Al -Aqsa Mosque, blame it on the Iranians and start a war between the Arabs and the Persians and let these animals kill each other. Okay. That's literally what the plan is. So the great fear, the great question is the Al -Aqsa Mosque.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0121
+
+## seg-0122 / 01:29:13-01:30:14 / SPEAKER_01
+
+And that's a litmus test of whether this war is eschatological or not. Okay. So that's the second thing. Um, the third thing is that this war will expand. Why? Because Israel needs to achieve the greater Israel project. And if you look at a map of the greater Israel project, um, it's actually the entire Middle East. So the greater Israel project, um, is what the Israelis believed Abraham, uh, was promised by Yahweh. Okay. And it's used in it. And it's, um, in the Bible, it says basically from the Nile to Euphrates, which includes Egypt, which includes Saudi Arabia, which includes Turkey. Right. And Naftali Bennett, who was a former prime minister of Israel and who is most expected to replace Netanyahu. When Netanyahu, uh, is removed from the, um, from public office, he has said that Turkey is the new Iran. Okay. Which means that after we're done with Iran, we're going to go after Turkey.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0122
+
+## seg-0123 / 01:30:14-01:31:08 / SPEAKER_01
+
+Okay. So, so this war is going to widen. A lot of the destruction we're seeing in the war, uh, among the GCC, uh, countries, there's suspicion that a lot of this is actually, um, it's really false flags. So in the first. Couple of days of the war, uh, an Iran, a Saudi Aramco facility was struck. Okay. And so Aramco basically had to close on all its, um, oil production. And then Qatar had to close down its LNG production, which provides 20 % of the world's LNG. Okay. And then, um, at first the Iranians were blamed and then Iranians responded, like, we wouldn't, we don't want to do that because we want to escalate too much. Right. We're not going to attack your oil fields because then you'll come attack our oil fields and now screw us over. So it's not us guys. And then there's. More reporting. It turned out that this drone that struck the Saudi facility was actually came from Lebanon.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0123
+
+## seg-0124 / 01:31:08-01:32:08 / SPEAKER_01
+
+So it actually came from the west rather from the east. That doesn't make any sense. Right. Um, then there are rumors that this drone that attack as it was on was actually a Mossad, false flag rather than Iranians. Okay. Tara Carlson, a few days ago said that he has sources in Qatar who told him that Qatar had arrested two. Mossad. Agents were suspected of trying to create, um, sabotage in Qatar. Okay. So it is the Israel MO to create as much false flags as possible to engineer an entire regional con conf configuration that would benefit, um, uh, Israel. Uh, now, now, now we know that this, the Iranians are, uh, striking Israel very hard, but, but did you know that there are certain Israelis who are actually shooting fire at their own homes and blame it on the Iranians? And it's like, well, why would they do that?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0124
+
+## seg-0125 / 01:32:08-01:32:42 / SPEAKER_01
+
+And the answer is the insurance money, as well as they need to burn down Israel in order to create the Pax Judaica. Okay. Right. Um, because there are investors who want to come in and buy up the, the, the, this real estate member buy when there's blood on the streets. Okay. So, so a lot of this is being manufactured for the benefit of transnational capital. Right. So, um, this. First quarter is going to expand, and then is, what's it going to stop until it's really conquered the entire. Middle East and it creates, uh, Pax Judaica. All right. So yeah. Game.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0125
+
+## seg-0126 / 01:32:44-01:32:50 / SPEAKER_00
+
+Game theory. This forward. Uh, what's, what's the likelihood this is likely to get nuclear.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0126
+
+## seg-0127 / 01:32:51-01:33:57 / SPEAKER_01
+
+Oh, um, I actually think the probability is close to zero. All right. So let me explain why. Um, first of all, there's an escalation ladder. Okay. You just can't nuke a country for no particular reason. You have to have an excuse. What the Iranians have been doing for the past few decades, and this is really important and really strategic and really smart of the Iranians, is they've refused to ever develop the possibility of a nuclear weapon. There's religious fatwa against nuclear weapons, and that's very intelligent because guess what? If you have one nuclear weapon, the Israelis will nuke you because they have the pretext to nuke you. Remember, there's an escalation ladder. You have to move up first before you can do it. And everyone's like, well, you know, the Israelis are crazy. I understand they're crazy, but they have a military bureaucracy, and this military bureaucracy has military doctrine. We call it an exemption option, which says that if we, Israel, feels ever threatened, we will nuke the world.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0127
+
+## seg-0128 / 01:33:57-01:34:55 / SPEAKER_01
+
+We won't nuke Iran. We will nuke the freaking world. So first of all, you want to maintain your nuclear arsenal. You want to be able to have a credible threat. This also means that the nukes have to be used for strategic purposes rather than tactical purposes, if that makes sense. But basically, we have to remember, militaries are bureaucracies, and they have a doctrine, and this doctrine determines how the bureaucracy operates. They're not really flexible in this regard. The United States has a first strike option, but every other country has a deterrence option. So that's point number one. Point number two is that Russia is heavily invested in this war. It wants Iran to win. If Iran loses and collapses, Russia is in a lot of trouble, right? And this war, the way it's going, is benefiting Russia tremendously. Oil prices have shot up, and the Russians are laughing all the way to the bank.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0128
+
+## seg-0129 / 01:34:56-01:35:52 / SPEAKER_01
+
+Sergey Lavrov has come out and said that they will support the Iranians any way they can. There's reporting from Washington Post that the Iranians are getting targeted intelligence from the Russians, and this is exactly what U.S. and NATO did in Ukraine as well, right? So it's almost payback, right? So I think that as this thing progresses, Russia will slowly come in, and at one point, Putin will offer Iran a nuclear umbrella, which means a tactical nuclear weapon, if it's used against Iran, will be considered used against Russia. And Russia will respond accordingly to their military doctrine. So that's the second limitation. And the third limitation is people assume that the Israelis and Americans want to win this war, and according to eschatology, no. The purpose is to lose this war, right? So you would use nuclear weapons if you really
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0129
+
+## seg-0130 / 01:35:52-01:36:31 / SPEAKER_01
+
+want to win this war, but you know, like if you just want to force America out of the middle east, you want to force America to retreat from the middle east, then you want Israel to build a greater Israel product, And you don't need nuclear weapons. You don't need to win this war. You just have to drag this war out because the Israelis aren't going to commit ground troops. That would be insane. It's America that's going to commit ground troops. So what it's going to be, it's going to be a death match between the United States and Iran. And Israel is going to sit back and laugh their heads off. Okay? I mean, they might be attacked by the Iranians, but it's American military that's going to suffer the brunt of the damage. So from the Israeli perspective, there's actually no point in using nuclear weapons.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0130
+
+## seg-0131 / 01:36:32-01:36:40 / SPEAKER_00
+
+What's the likely role of a country like Pakistan with nuclear capability? Could they get unique about this?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0131
+
+## seg-0132 / 01:36:42-01:37:49 / SPEAKER_01
+
+Yeah. So remember, what happened right before the war started is that Pakistan and Afghanistan went to war. Okay? And this is key because before we anticipated that Pakistan might be a wild card in this war. Right? Because Pakistan is an ally to both Iran and Saudi Arabia. So during the 12 day war, Pakistan basically offered assistance to Iran. And then right afterwards, what happened, and this is key, is that Saudi Arabia and Pakistan signed a mutual defense pact, meaning that if Saudi Arabia wants war to be attacked, then Pakistan would have to come to its defense primarily with the nuclear deterrence option. But now that Pakistan is in war. We don't have to meet any of these obligations, right? So Pakistan is trying to remove itself from the equation. But we still know that America is conducting airstrikes from Pakistani airspace. And there's concern that the Americans will fund and support the bullocks, you know, this ethnic group, the bullockies in South East Iran.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0132
+
+## seg-0133 / 01:37:50-01:37:58 / SPEAKER_01
+
+And they've always had like ethnic conflicts with the Persians. Okay. But I think that Pakistan is smart enough to like. Yeah. To stay away from this war.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0133
+
+## seg-0134 / 01:37:59-01:38:37 / SPEAKER_00
+
+To the extent that the desalination plans and the oil refineries are getting hit on both sides, on the Israeli, GCC, and Iranian sides, draw the picture in terms of the economic repercussion on the Middle East and also on the rest of the world, including Japan, Korea, China, India, Southeast Asia, and the rest of the world. I mean, we're talking about tons of, you know, oil and gas. Yeah. Flowing through the Strait of Hormuz and, you know, if you don't have oil, you can walk. But if you don't have water, you can't live. It's pretty existential. Right.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0134
+
+## seg-0135 / 01:38:38-01:39:40 / SPEAKER_01
+
+So, remember, the Iranian desert was mostly uninhabited or had very sparse population for most of its history, right? And so it's only really with the rise of Pax Americana that these Gulf states became extremely wealthy. Yeah. So they had the protection of the American military, could sell their oil everywhere. And so this created the petrodollar system, which meant that the GCC nations could sell their oil in US dollars and recycle all this back into the American economy, and the American government would promise it military protection. And this worked out really well for decades. And it basically allowed the Gulf states to expand far beyond their capacity, right? Right. So Riyadh, for the longest time, was a population of maybe tens of thousands, hundreds of thousands at most. Now it's in the millions. But the problem with Riyadh and other places in the GCC is that it doesn't have clean water. It doesn't have access to fresh water, doesn't have access to food.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0135
+
+## seg-0136 / 01:39:40-01:40:37 / SPEAKER_01
+
+The GCC imports about 89 % of its food from overseas. These desalination plants are responsible for 60 % of its water needs, and it imports its large workers from overseas. Okay. So it's a ridiculous situation. It's almost like a mirage. It's a hallucination. These places should not exist, okay? So now what this war has done is it's punctured the illusion, the mirage of this place. And a lot of it is just based on delusion, right? Like Dubai saw itself as the new Hong Kong or the new New York City, like this financial hub for the world elite. But the precondition is safety and stability, right? And that's gone. So it's gone. So like, guess what? When these guys leave, they're never coming back, right? I mean, like, like the reality is you're stuck between Israel and Iran and these countries are never going away. So like, you know, what's the point?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0136
+
+## seg-0137 / 01:40:37-01:41:41 / SPEAKER_01
+
+So Dubai is dead. And the Iranians have really targeted the UAE. And I think that a lot of it is just this revulsion among the Islam world against the UAE as this, as this, like this den of Satan really, right? I mean, like, what's Dubai known for? It's known for its blitz. It's known for its decadence. It's known for its corruption. So the UAE is basically dead. But Bahrain is now suffering from the strain of revolution because this is the Shia population ruled by a Sunni monarchy. And so there are a lot of these contradictions in the GCC. So the GCC is basically dead. I mean, the GCC is a construct of American empire. If there are any empire. If there is a. If the American empire dies, so does the GCC, all right? So the only way to save the GCC is if it's able to negotiate a ceasefire between America and Iran, and the GCC then becomes the client states of Iran.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0137
+
+## seg-0138 / 01:41:42-01:41:49 / SPEAKER_01
+
+And why would the Americans allow that? They would rather have the GCC destroyed, right? So I mean, it's just, I mean, like, I think it's pretty clear.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0138
+
+## seg-0139 / 01:41:50-01:41:59 / SPEAKER_00
+
+So you think the safe haven premium has been taken out for the GCC countries?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0139
+
+## seg-0140 / 01:42:00-01:42:02 / SPEAKER_01
+
+Yeah. I mean, well, I think what's happened is the illusion—
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0140
+
+## seg-0141 / 01:42:02-01:42:05 / SPEAKER_00
+
+For a long time or for good or just for a short time?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0141
+
+## seg-0142 / 01:42:05-01:42:12 / SPEAKER_01
+
+For good, because the illusion has been shattered. And once you shatter the illusion, you can't resurrect it anymore. Wow.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0142
+
+## seg-0143 / 01:42:14-01:42:27 / SPEAKER_00
+
+Now draw the picture for opposed Gok and Magog vote. Is it, is the Pax Judaica vote cast in stone or will it still be, you know?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0143
+
+## seg-0144 / 01:42:27-01:43:26 / SPEAKER_01
+
+So I think Pax Judaica is pretty set. They've been planning this for like decades, okay? And this plan goes back centuries. And these are the most powerful people in the world. So they don't really care what we think. They don't really care if we know their plans, they're just going to implement it. All the pieces are in place for Pax Judaica. And so you have Pax Judaica where Israel becomes this hub. A hub of global finance, global trade, global technology. And you're like, well, Israel doesn't have that many people. Well, guess what? They can import the labor from India, right? They can import tens of millions of people to work as laborers in this Pax Judaica. And so why is it before the war, Maldi visited Jerusalem and signed all these wonderful agreements with Israel? Because what Israel wants is access to the cheap labor of India. Yeah. And that makes sense for India because remember how China became wealthy is by exporting cheap labor overseas.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0144
+
+## seg-0145 / 01:43:27-01:44:20 / SPEAKER_01
+
+It had an abundance of cheap labor, and then it took people from the fields, put them in the factories, and that's how China became wealthy. Now India, because of political issues, because of logistic issues, cannot actually replicate the Chinese miracle, but what it can do is export its people overseas to become wealthy. And that's what it's doing in Canada, and that's what it will do with Israel. Okay. So that's a plan. So Indians, Chinese, and Filipinos will become the laborers of Pax Judaica. And so what they're trying to do is they're trying to create the conditions for a world war between Israel and Gog and Magog. Okay. And the biggest question is like, who is Gog and Magog? And again, we're not clear. Okay. But the most likely candidates, if you just know scripture and you've been following this eschatological debate. Okay.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0145
+
+## seg-0146 / 01:44:20-01:45:18 / SPEAKER_01
+
+The most likely candidates are Russia and Persia. Okay. So think about this, where Russia is winning this war in Ukraine, and it's now going to become a superpower. And then Iran, even though it will lose against America, it will be able to rebuild itself as a much stronger nation. And eventually Russia and Persia will feel threatened by Israel, and this will lead to the war of Gog and Magog. So that I think is the general gist. But again, I mean, the thing about eschatology is that it's never that specific. It's never that detailed. It's a general framework. Okay. So there will be a world war, the final war, and possibly a nuclear war. But who Gog and Magog is, is up for debate. Look, there are others who suggest that Gog and Magog is actually metaphorical. Right. But I think these people take it literally. And I think if you take it literally, then it would be Russia and Persia.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0146
+
+## seg-0147 / 01:45:17-01:45:18 / SPEAKER_01
+
+
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0147
+
+## seg-0148 / 01:45:20-01:45:29 / SPEAKER_00
+
+Okay. Yeah. So how does China look at all this? Yeah. Okay. So… Or how does it fit into the picture?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0148
+
+## seg-0149 / 01:45:29-01:46:21 / SPEAKER_01
+
+Yeah. So in the eschatology, there are two nations that are not involved. Okay. And it's really important they're not involved. The first nation, of course, the United States, the United States is not involved in any of this. The second nation is China. All right. So let's talk about the United States. So the United States is this global empire, and the United States is not involved in this eschatology. The United States is not involved in this eschatology because the United States could support Pax Judica. The United States could also support Gog and Magog. Okay. So you want the United States out of this equation. And the way you do that is you manufacture a civil war in the United States that occupies Americans for years, possibly decades. Okay. But you have to remove America from the rest of the world and have them secluded in the Western hemisphere. All right. So that's America. China.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0149
+
+## seg-0150 / 01:46:21-01:47:25 / SPEAKER_01
+
+So this is hard, okay? Because everyone believes that China is a new superpower and the Chinese economy is certainly miraculous. But these eschatologists, they're occultists, all right? They know how the universe works. So they are almost trying to read the movement of stars. They're astrologists trying to figure out how things come together. And no one ever talks about China. And the reason why is that in the grand order of the universe, China does not matter. China has never, ever mattered. China is a fiction of our imagination. The idea that maybe a thousand years ago, China was this glorious Tang dynasty that was the epicenter of the world. That is a thing in our heads. The ancients didn't know about China. They didn't really care about China. And the Chinese didn't know about the ancients, didn't know about the Persians, didn't know about the Jews. And they didn't really care. Okay. So China is actually in its own world and it's called the middle kingdom for a reason because China is its own universe.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0150
+
+## seg-0151 / 01:47:25-01:47:55 / SPEAKER_01
+
+And so China does not want to get involved in this war and China doesn't want to be part of this eschatology. And it's possible that East Asia will suffer from a series of calamities that negates its involvement in the world. Okay. So I mean, I know it's hard to understand. Okay. But the occultists don't believe China is relevant. They don't think Southeast Asia is relevant, basically.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0151
+
+## seg-0152 / 01:47:58-01:48:35 / SPEAKER_00
+
+Wow. I want to go back to what you alluded to earlier. If Trump is a believer of chaos, then there's not likely to be a midterm because he's going to use this emergency powers, right? At the rate that, you know, midterms are at the state level, but he's going to be able to use that emergency power to overcome. Over basically come or veto over the state level laws or regulations. It is possible. And what's the likelihood for a civil war, which you've alluded to earlier?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0152
+
+## seg-0153 / 01:48:35-01:49:31 / SPEAKER_01
+
+You know, again, the civil war in America is part of the eschatology. And you know, honestly, I feel as though they're manufacturing a civil war right now. Now, if you go back to Minnesota, right, in early January, right, when the ICE people went in, a lot of things that were happening seem overly provocative. Right. So people may not remember, but before the ICE agents went in, there was a order to film as much as possible, to create as much social media content as possible. Why would you do that? That's kind of strange. You know, you're an ICE agent. You're there to arrest criminals, right? Or illegal immigrants. But no, you have to create, you know, social media content. And the reason why is that they're trying to draw attention to what's happening in Minnesota, to try to... To inflame emotions, okay? And remember, before this ICE operation, there was a movie that came out called One Battle After Another.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0153
+
+## seg-0154 / 01:49:32-01:50:22 / SPEAKER_01
+
+Do you think that was an accident? Have you seen the movie? Oh, I heard about it. Do you really think this is coincidence? Oh, man. Do you really think this is coincidence? Right? And the movie, for those who haven't seen, it's about this revolutionary group who's fighting these fascists who are trying to deport illegal immigrants. These illegal immigrants are these saints that we must protect. And these fascists... These military people, they're all demons, basically. I mean, like, that's literally the plot of the movie. And like, you know, I watch it. It's very emotional. It almost makes you want to get involved in this war. It makes you want to fight for justice. And it's not an accident that right afterwards, you have, you know, this conflict between ICE and protesters in Minnesota. The Rainy Goods shooting seemed a bit manufactured. Alex Petty... Pretty. Alex... What was his name? Petty or Pretty.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0154
+
+## seg-0155 / 01:50:22-01:50:43 / SPEAKER_01
+
+Anyway. He was... It was... That was definitely manufactured. They basically hunted him down because he was a very vocal protester who had many run -ins with ICE before. And so they basically... Yeah, I mean, like, if you just look at the video and what happened, it seemed as though they hunted him down. And again, that's all to create the preconditions for a civil war.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0155
+
+## seg-0156 / 01:50:45-01:51:08 / SPEAKER_00
+
+Jung, if you came out saying exactly what you've been saying in the 90s, people would have labeled you conspiratorial. Yeah. Right. And on the back of what the mainstream guys are saying, right? But you've said that the mainstream guys are losing steam anyway. So how do you think the young generation is going to have to get used to stuff that would have been deemed conspiratorial as mainstream?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0156
+
+## seg-0157 / 01:51:10-01:52:11 / SPEAKER_01
+
+Look, I mean, the thing that's most important is to pay attention because the reality is that this new generation does not pay attention. Even in school, they don't pay attention. I know because I'm a high school teacher. And they are distracted. Their minds are somewhere else. Okay? They're on social media. They're constantly distracted. They're either distracted or they're depressed. Okay? So, I mean, the amount of medication prescribed to young children nowadays is just absurd in America. Right? These SSRIs. It's just absurd. What are you doing? You're frying their brains, really. That's what these drugs do. They actually destroy your capacity to think for yourself. It just leaves you numb and indifferent. Okay? But that's what they want. They want a numb and indifferent population that they can enslave, that they can rule over, who are complacent, who are complicit. Okay? The most important word nowadays that you're taught is to be complicit. Sorry, not complicit.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0157
+
+## seg-0158 / 01:52:12-01:52:21 / SPEAKER_01
+
+Compliant. Okay? To be compliant. Compliant. Yeah. Yeah. Right? And what they want is compliancy. And that's what you're taught in school nowadays.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0158
+
+## seg-0159 / 01:52:22-01:52:22 / UNKNOWN
+
+Wow.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0159
+
+## seg-0160 / 01:52:22-01:52:39 / SPEAKER_00
+
+Talk, this is the last bit of the discussion, talk about what you're doing in the field of education. How do you think contemporary education ought to be like going forward? I teach the great books. Not just for China, but for humanity in general.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0160
+
+## seg-0161 / 01:52:39-01:53:42 / SPEAKER_01
+
+I mean, I teach the great books. I teach Plato, Homer, Dante, Milton, Shakespeare. I mean, what I try to do is I try to show students that the great books are a part of the world. They are a portal into the mind of the universe, into the divine consciousness. And the great books, it's a lifelong teacher. It's a lifelong guide into what true happiness is, into what true meaning and purpose is. And so I try to steer them into that direction. I've been trying for the past 30 years with very limited success. One thing I've learned recently that's really important is you must... Regardless of the results, always speak this message because the entire universe is watching what we do. We are all connected to the entire universe and each of us can be a beautiful ray of light if we will it, if we choose it to be. So even though I'm speaking, even
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0161
+
+## seg-0162 / 01:53:42-01:54:32 / SPEAKER_01
+
+though no one hears me, I should still speak anyway because someone could hear me if that person hears me and is willing to listen and open his ears. Jesus said, open your ears, right? That could change the person's life trajectory forever. So I've been doing this for the past 20, 30 years and only recently have I been getting a lot of attention because as you point out, 10 years ago, everyone would think I'm insane. But now, because of these current events, they're forced to reflect. So I see myself as a messenger. I see myself as trying to spread a message of hope and those who can hear will hear and those who cannot hear will hear. But I have a responsibility, I have a duty to my children, to my three young children, to speak out as loudly as possible and to spread the message to build a better world.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0162
+
+## seg-0163 / 01:54:34-01:54:44 / SPEAKER_00
+
+You could be spending time at a university. Why did you choose to spend time at a high school? For me, what's most important is intellectual freedom, right?
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0163
+
+## seg-0164 / 01:54:44-01:55:28 / SPEAKER_01
+
+Do you work at a university? I mean, there's very little freedom in a university. I mean, you have to publish papers that conform to a system. There's a certain set of values, but I mean, you can't really question the entire apparatus of society. You can look at some narrow issues and build on top of existing scholarship and that will get you tenure. But if you were to say, you know, like, no, I want to actually look at things fundamentally. I want to look at things broadly. I want to look at things as they are as opposed to how they should be and really try to get into the essence of truth. You'd be laughed at at university. Everyone will think you're crazy. I know because I work with professors.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0164
+
+## seg-0165 / 01:55:29-01:56:15 / SPEAKER_00
+
+Wow. You know, I come from a place where I think the quality of teachers or teaching could be better. And I'm in a camp that believes that teachers are really playing the role of infusing imagination, ambition, and to some extent, serendipity to the students, right? And I think you're a great example of that. Yeah. I think a lot of people are trying to inspire people so that they have imagination, ambition, and hopefully serendipity. What would be your message to people from the developing economies? You know, for somebody that wants to elevate the quality of teaching, the quality of education so that they get to be much more open -minded, they get to be much more humanist.
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0165
+
+## seg-0166 / 01:56:16-01:57:10 / SPEAKER_01
+
+Two words, you matter. Okay? Don't think, oh, you know what? There's 8 billion people in the world. I'm just one person. so don't matter don't think okay you know what we're ruled by demons they're too powerful they can start any wars they want they have nuclear weapons i should just give up don't think like that think i do matter right in hermetic philosophy there's something called the law of cause and effect which means that everything is interconnected the world the universe is watching us and it's all interconnected in that like you know if you choose to be a good person that affects everything okay it's like it's a butterfly it's like the butterfly effect where just by choosing to be good you spread good in the world so you do matter but you have to choose to matter okay you have to believe that you matter a very important principle in the world that's very
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0166
+
+## seg-0167 / 01:57:10-01:57:59 / SPEAKER_01
+
+uh that people don't really appreciate is that your free will well and it was like you know oh professor jiang mr jiang you are saying so many controversial things aren't you afraid for your own personal safety and the answer is like no i'm not afraid because you have to let satan in the door you have to make a deal with the devil before he can punish you for betraying him right if i choose like i don't want to be involved in this mature world i just want to teach and be left alone i don't want to seek power i don't want to seek fame and wealth but there's nothing the devil can do to you you have to be tempted by the devil first first and foremost okay and i choose to live a life of enlightenment wisdom and virtue and i'm having a huge impact because of my choice and before i was a
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0167
+
+## seg-0168 / 01:57:59-01:58:36 / SPEAKER_01
+
+nobody before i was just a random high school teacher in china and there are like millions of random high school teachers in china but because i choose just as my free will to speak up because i choose to matter um i am having okay so everyone does matter but you have to believe that you matter and the fight to matter and that really means about waking up and opening your mind to new possibilities and educating yourself um that's that is the future that we have we have to fight for why why do you think
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0168
+
+## seg-0169 / 01:58:36-01:58:44 / SPEAKER_00
+
+the world or even the universe lacking in love because we've been fooled to believe that love
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0169
+
+## seg-0170 / 01:58:44-01:59:19 / SPEAKER_01
+
+doesn't matter we've been fooled to believe that only the material world matters we've been told to believe that to show love to your children you have to get them into private school you have to get into every league but you know what love is who we are and if we just show generosity and compassion and openness to other people then we create love okay we bring god into the into this world and that's a message that people have forgotten and honestly i think it's a message that the elite have purposefully uh hid from us two two final
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0170
+
+## seg-0171 / 01:59:19-01:59:28 / SPEAKER_00
+
+quick questions so how do you think the trump xi meeting will turn out in april i think it'll be
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0171
+
+## seg-0172 / 01:59:28-01:59:56 / SPEAKER_01
+
+wonderful i think it'll be spectacular i think it'll be a grand bargain between china and united states that restores a lot of bilateral bilateral relations i think it's possible that china starts to buy more oil from the united states um i think i think like the meeting will go much more uh better than people anticipate that's that's my gut gut gut instinct i could be wrong but but that's my gut instinct final one quick one do you
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0172
+
+## seg-0173 / 01:59:56-02:00:11 / SPEAKER_00
+
+think trump is going to be able to pull it off in running for a third term i would bet good money on it yes thank you so much man you've been kind with your time thank you that was zhang suichen thank you
+
+Ref: video:interview-rsi7cdrurme@transcript:v1#seg-0173
