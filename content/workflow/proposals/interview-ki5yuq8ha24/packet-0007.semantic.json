@@ -1,0 +1,135 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0007",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0049",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0050",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues listing AI limits: open-ended meaning, real-world parameters, dirty data, and malicious human behavior. He says the solution is not smarter AI but remaking the world so humans obey AI.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether dark fiction such as Hunger Games and Squid Game works like the same kind of preemptive cultural takeover.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0053",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0054",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0055",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang calls recent civil-war and revolutionary films predictive programming that prepares America for racialized violence; the host adds that social media users feed a negative cycle, and Jiang pivots to a personal story about his viral Iran-war clip.",
+      "speaker_attribution": "Jiang with host interjections",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0054",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0056"
+      ],
+      "note": "Short host interjections keep the exchange moving; Jiang remains the main speaker.",
+      "suggested_speaker": "Mixed host and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says LLMs do not understand meaning; they summarize scraped language within bounded parameters and create the illusion of English competence.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Jiang's technical critique of AI in this interview.",
+      "topic_tags": [
+        "ai",
+        "llm",
+        "meaning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues self-driving cars expose AI's political limit: malicious humans can make robot systems fail, so the system's answer is to eliminate human driving and make the world safe for AI.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0050",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Jiang's model of AI-world redesign.",
+      "topic_tags": [
+        "ai",
+        "self-driving-cars",
+        "obedience"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says films such as Civil War and One Battle After Another are predictive programming that prepare America for civil war and racialized violence.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Jiang's reading of contemporary film culture in this 2026 interview.",
+      "topic_tags": [
+        "predictive-programming",
+        "civil-war",
+        "media"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0051"
+      ],
+      "moment": "The solution to AI's weakness is to redesign the world until human disobedience is removed from the dataset.",
+      "source_phrase": "make the world safe for AI",
+      "why_it_matters": "It turns AI limitation into a political program of obedience, a major interpretive hinge for the interview.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "predictive programming",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "Media conditioning that Jiang says prepares people to accept or enact later political violence.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0053"
+      ],
+      "note": "Jiang reads recent films through a March 2026 civil-war-warning frame tied to his Iran-war visibility.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0053"
+      ],
+      "note": "ASR title 'one battle after another' may refer to a film title; preserve as transcript phrase unless separately verified."
+    }
+  ]
+}

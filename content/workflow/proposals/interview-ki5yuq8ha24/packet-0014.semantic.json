@@ -1,0 +1,146 @@
+{
+  "packet_id": "interview-ki5yuq8ha24-semantics-pkt-0014",
+  "source_id": "video:interview-ki5yuq8ha24",
+  "source_date": "2026-03-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0105",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0106",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0107",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0108",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0109"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the spotlight has made him a target: people accuse him of advising Iran or causing the war, he worries about his safety and children, he has resigned from teaching, and he may stop the YouTube channel to work on a book and avoid becoming a public firestorm.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0110",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0111"
+      ],
+      "kind": "question",
+      "summary": "The host encourages Jiang to write the book, says his work has inspired people even though truth is dangerous, wishes his family safety, and asks for final thoughts.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0112"
+      ],
+      "kind": "answer",
+      "summary": "Jiang declines final thoughts and thanks the host.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0110",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0111"
+      ],
+      "note": "The host's closing contains encouragement and a final performed question; Jiang's actual answer is brief.",
+      "suggested_speaker": "Host then Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says some critics accuse him of advising Iran or being responsible for war developments even though he presents himself as a powerless person with a YouTube channel.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Jiang's account of accusations after his viral Iran-war clip.",
+      "topic_tags": [
+        "iran-war",
+        "public-risk",
+        "youtube"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he has resigned from the school, intends to finish classes, stop or reduce YouTube work, lie low, and write a book to refine his ideas on the page.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0106",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0107"
+      ],
+      "temporal_scope": "Jiang's stated near-term plan as of 2026-03-18.",
+      "topic_tags": [
+        "book",
+        "youtube",
+        "teaching"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he rejects a lucrative speaking-tour path because he sees himself as an introverted intellectual rather than a YouTube celebrity and does not want to be in a firestorm.",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "Jiang's self-description during this interview.",
+      "topic_tags": [
+        "fame",
+        "intellectual-life",
+        "publicity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0105",
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0106"
+      ],
+      "moment": "The strategist insists he is only a random person with a channel, while public anger treats his speculation as operational power.",
+      "source_phrase": "just this random dude",
+      "why_it_matters": "It captures the interview's personal pressure: prediction turns into perceived agency and danger.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0108"
+      ],
+      "moment": "Jiang turns away from celebrity economics because money would place him at the center of the very storm he wants to avoid.",
+      "source_phrase": "I don't want that",
+      "why_it_matters": "It shows the closing movement from viral public figure back toward writerly withdrawal.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "game theory perspective",
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0105"
+      ],
+      "definition_or_usage": "Jiang's description of his strategic speculation: modeling what any actor in a circumstance might do, not advising a faction.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0107"
+      ],
+      "note": "Jiang says he has sent his resignation and plans to leave in March, making this a time-sensitive career-transition source.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-ki5yuq8ha24@transcript:v1#seg-0107"
+      ],
+      "note": "ASR around 'leave March' is slightly garbled; retain the general resignation/book plan rather than over-precise dates beyond March."
+    }
+  ]
+}
