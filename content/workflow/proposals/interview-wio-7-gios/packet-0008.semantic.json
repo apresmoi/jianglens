@@ -1,0 +1,138 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0008",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0057",
+        "video:interview-wio-7-gios@transcript:v1#seg-0058",
+        "video:interview-wio-7-gios@transcript:v1#seg-0059",
+        "video:interview-wio-7-gios@transcript:v1#seg-0060",
+        "video:interview-wio-7-gios@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks who incentivizes bad Chinese data; Jiang says Beijing receives inflated local information and that population decline could ultimately be good by reducing an exploitative growth model.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0062",
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Asked about lying flat, Jiang says 1980s party elders feared capitalism would create spiritual pollution, and he now sees utilitarian get-rich-or-die-trying China producing corruption, debt, inequality, apathy, and opt-out youth.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0057",
+        "video:interview-wio-7-gios@transcript:v1#seg-0058",
+        "video:interview-wio-7-gios@transcript:v1#seg-0059",
+        "video:interview-wio-7-gios@transcript:v1#seg-0060",
+        "video:interview-wio-7-gios@transcript:v1#seg-0061",
+        "video:interview-wio-7-gios@transcript:v1#seg-0062",
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says China is an enclosed bureaucracy where local governments inflate data mainly to win central funding, not to save face for the world.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "China bureaucracy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "china-bureaucracy",
+        "statistics",
+        "subsidies"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues a Chinese population crisis could be good long term because the billion-person labor pool enabled exploitation that hampered innovation and political development.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Normative demographic claim dated 2026-04-07.",
+      "topic_tags": [
+        "population",
+        "exploitation",
+        "innovation"
+      ],
+      "claim_type": "normative",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says party elders’ fear of capitalist spiritual pollution proved correct because market reform produced utilitarianism, corruption, inequality, debt, and youth apathy.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Historical interpretation dated 2026-04-07.",
+      "topic_tags": [
+        "spiritual-pollution",
+        "lying-flat",
+        "china-reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0060"
+      ],
+      "moment": "A billion people become \"free energy\" for exploitation, powering growth while blocking innovation and political development.",
+      "source_phrase": "it is like free energy",
+      "why_it_matters": "It condenses Jiang’s critique of demographic abundance into a memorable image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0063"
+      ],
+      "moment": "The 1980s fear of spiritual pollution returns as a diagnosis of a society where money replaced ideology.",
+      "source_phrase": "capitalism would degrade and pollute civilization",
+      "why_it_matters": "It connects current lying-flat behavior to a much older Chinese Communist anxiety.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "spiritual pollution",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "A 1980s Chinese Communist term Jiang uses for capitalism’s degradation of civilization into utilitarian money-seeking and apathy.",
+      "confidence": "high"
+    },
+    {
+      "term": "lying flat",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0062",
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Youth opting out of work and ambition because China’s rigged utilitarian system gives them no path to get ahead.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

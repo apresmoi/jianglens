@@ -1,0 +1,130 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0004",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0025",
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027",
+        "video:interview-wio-7-gios@transcript:v1#seg-0028"
+      ],
+      "kind": "question",
+      "summary": "PBD asks Jiang to define what losing to Iran means and whether Trump has a team of rivals helping him understand the risk.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027",
+        "video:interview-wio-7-gios@transcript:v1#seg-0028",
+        "video:interview-wio-7-gios@transcript:v1#seg-0029",
+        "video:interview-wio-7-gios@transcript:v1#seg-0030",
+        "video:interview-wio-7-gios@transcript:v1#seg-0031",
+        "video:interview-wio-7-gios@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines loss as U.S. retreat from the Middle East, loss of petrodollar recycling, economic collapse and domestic civil conflict; he says Trump has elevated hawks while sidelining cautionary voices, and that IRGC factions may see war as a chance to destroy America even at Iran’s own cost.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0025",
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027",
+        "video:interview-wio-7-gios@transcript:v1#seg-0028",
+        "video:interview-wio-7-gios@transcript:v1#seg-0029",
+        "video:interview-wio-7-gios@transcript:v1#seg-0030",
+        "video:interview-wio-7-gios@transcript:v1#seg-0031",
+        "video:interview-wio-7-gios@transcript:v1#seg-0032"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "For Jiang, America losing to Iran means retreating from the Middle East, losing control of GCC petrodollar recycling, and triggering U.S. economic collapse and civil conflict.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Definition stated 2026-04-07.",
+      "topic_tags": [
+        "petrodollar",
+        "gcc",
+        "american-civil-war"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Trump has elevated hawkish advisers such as Jared Kushner, Stephen Miller, Pete Hegseth, and Marco Rubio while sidelining JD Vance and Tulsi Gabbard.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Administration diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "trump-administration",
+        "hawks",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says a continuing war could let the Revolutionary Guard consolidate Iran’s economy and empower factions seeking revenge for 1979 and the killing of Qasem Soleimani.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0031",
+        "video:interview-wio-7-gios@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Iran diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "irgc",
+        "soleimani",
+        "iran-factions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026"
+      ],
+      "moment": "Petrodollar collapse is tied directly to AI financing: Gulf oil dollars recycle into the American economy through sovereign wealth funds backing AI infrastructure.",
+      "source_phrase": "financed by investment from these GCC sovereign wealth funds",
+      "why_it_matters": "It links war, currency order, Gulf capital, and AI into one causal chain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "petrodollar loss",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang’s definition of strategic defeat: losing the Gulf oil-dollar recycling system that props up the American economy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang links current IRGC motives to the 1979 embassy seizure and the 2020 killing of Soleimani.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

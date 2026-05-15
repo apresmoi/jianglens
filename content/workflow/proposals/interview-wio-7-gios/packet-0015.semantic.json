@@ -1,0 +1,126 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0015",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0113",
+        "video:interview-wio-7-gios@transcript:v1#seg-0114",
+        "video:interview-wio-7-gios@transcript:v1#seg-0115"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Chinese people simply accept government narratives; Jiang says they know red lines, but argues free and open debate is what makes America healthy, creative, resilient, and able to find weaknesses.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0116",
+        "video:interview-wio-7-gios@transcript:v1#seg-0117",
+        "video:interview-wio-7-gios@transcript:v1#seg-0118",
+        "video:interview-wio-7-gios@transcript:v1#seg-0119",
+        "video:interview-wio-7-gios@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Chinese pockets of criticism exist; Jiang says China has built the world’s most advanced AI surveillance state with digital ID, digital currency, mobile monitoring, political microanalysis, and influence capacity.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0113",
+        "video:interview-wio-7-gios@transcript:v1#seg-0114",
+        "video:interview-wio-7-gios@transcript:v1#seg-0115",
+        "video:interview-wio-7-gios@transcript:v1#seg-0116",
+        "video:interview-wio-7-gios@transcript:v1#seg-0117",
+        "video:interview-wio-7-gios@transcript:v1#seg-0118",
+        "video:interview-wio-7-gios@transcript:v1#seg-0119",
+        "video:interview-wio-7-gios@transcript:v1#seg-0120"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Chinese people know political red lines and winds, so there is little open questioning of government.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "China speech diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "red-lines",
+        "china",
+        "speech"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues America’s First Amendment and open debate make society creative and resilient by exposing vulnerabilities and enabling pivoting.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0115"
+      ],
+      "temporal_scope": "Normative political claim dated 2026-04-07.",
+      "topic_tags": [
+        "first-amendment",
+        "resilience",
+        "debate"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China’s digital ID, digital currency, and phone-app ecosystem allow the government to monitor movement, purchases, political leanings, and then influence citizens.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0119"
+      ],
+      "temporal_scope": "Surveillance-state diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "ai-surveillance",
+        "digital-id",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0115"
+      ],
+      "moment": "America’s messiness becomes its advantage: debate exposes weakness and lets the system pivot.",
+      "source_phrase": "free and open debate",
+      "why_it_matters": "It reverses the host’s suggestion that Chinese opacity is an advantage.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0119"
+      ],
+      "moment": "The surveillance state does not merely watch; it uses microanalysis of political leanings to influence people.",
+      "source_phrase": "micro analysis of your political leanings",
+      "why_it_matters": "It turns surveillance from collection into behavioral governance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0119"
+      ],
+      "definition_or_usage": "China’s integrated digital ID, digital currency, mobile-app, location, purchase, and political-inference system as Jiang describes it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

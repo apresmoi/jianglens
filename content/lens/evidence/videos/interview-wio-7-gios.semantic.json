@@ -1,0 +1,2034 @@
+{
+  "id": "evidence:semanticvideo-interview-wio-7-gios:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-wio-7-gios",
+  "source_id": "video:interview-wio-7-gios",
+  "source_title": "Jiang Xueqin Finally Breaks His Silence With PBD | PBD #772",
+  "source_url": "https://www.youtube.com/watch?v=Wio--7_GIOs",
+  "source_date": "2026-04-07",
+  "date_precision": "day",
+  "transcript_id": "video:interview-wio-7-gios@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-wio-7-gios/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0016.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0017.semantic.json",
+      "content/workflow/proposals/interview-wio-7-gios/packet-0018.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-wio-7-gios/source.yaml",
+    "transcript_path": "content/sources/videos/interview-wio-7-gios/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 18,
+    "interactions": 36,
+    "speaker_notes": 18,
+    "claims": 51,
+    "signature_moments": 23,
+    "predictions": 10,
+    "models": 6,
+    "glossary_terms": 21,
+    "chronology_notes": 11,
+    "uncertainty_notes": 0
+  },
+  "first_refs": [
+    "video:interview-wio-7-gios@transcript:v1#seg-0007",
+    "video:interview-wio-7-gios@transcript:v1#seg-0008",
+    "video:interview-wio-7-gios@transcript:v1#seg-0013",
+    "video:interview-wio-7-gios@transcript:v1#seg-0014",
+    "video:interview-wio-7-gios@transcript:v1#seg-0015",
+    "video:interview-wio-7-gios@transcript:v1#seg-0016",
+    "video:interview-wio-7-gios@transcript:v1#seg-0021",
+    "video:interview-wio-7-gios@transcript:v1#seg-0022"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0002",
+        "video:interview-wio-7-gios@transcript:v1#seg-0003",
+        "video:interview-wio-7-gios@transcript:v1#seg-0004",
+        "video:interview-wio-7-gios@transcript:v1#seg-0005",
+        "video:interview-wio-7-gios@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "PBD introduces Jiang through the viral July 2024 prediction, clears up the fear of a hit-piece interview, and asks what pattern led Jiang to expect Trump to win, go to war with Iran, and lose.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers from a history-teacher pattern: declining empires overestimate their invincibility, launch risky wars they expect to win, and get trapped in resource-draining quagmires.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0009",
+        "video:interview-wio-7-gios@transcript:v1#seg-0010",
+        "video:interview-wio-7-gios@transcript:v1#seg-0011",
+        "video:interview-wio-7-gios@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "PBD reads Trump’s civilization-will-die Truth Social post and asks Jiang to interpret whether it is a final negotiation threat.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013",
+        "video:interview-wio-7-gios@transcript:v1#seg-0014",
+        "video:interview-wio-7-gios@transcript:v1#seg-0015",
+        "video:interview-wio-7-gios@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Trump is maximizing leverage, but Iran will not back down; he predicts a near-term multi-vector ground escalation and reads Trump through reality TV and WWE-style fear performance.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0017",
+        "video:interview-wio-7-gios@transcript:v1#seg-0018",
+        "video:interview-wio-7-gios@transcript:v1#seg-0019",
+        "video:interview-wio-7-gios@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks about best and worst cases and clarifies that Jiang would have preferred Trump over Biden or Harris in 2024 despite criticizing Trump’s current war choices.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021",
+        "video:interview-wio-7-gios@transcript:v1#seg-0022",
+        "video:interview-wio-7-gios@transcript:v1#seg-0023",
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang lays out probabilities: a best-case U.S.-Iran toll-sharing arrangement around Hormuz, a worst case in which strikes on power plants kill human shields and force Iran to wreck GCC infrastructure, and a limited ground incursion as more likely.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0025",
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027",
+        "video:interview-wio-7-gios@transcript:v1#seg-0028"
+      ],
+      "kind": "question",
+      "summary": "PBD asks Jiang to define what losing to Iran means and whether Trump has a team of rivals helping him understand the risk.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027",
+        "video:interview-wio-7-gios@transcript:v1#seg-0028",
+        "video:interview-wio-7-gios@transcript:v1#seg-0029",
+        "video:interview-wio-7-gios@transcript:v1#seg-0030",
+        "video:interview-wio-7-gios@transcript:v1#seg-0031",
+        "video:interview-wio-7-gios@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines loss as U.S. retreat from the Middle East, loss of petrodollar recycling, economic collapse and domestic civil conflict; he says Trump has elevated hawks while sidelining cautionary voices, and that IRGC factions may see war as a chance to destroy America even at Iran’s own cost.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0033",
+        "video:interview-wio-7-gios@transcript:v1#seg-0034",
+        "video:interview-wio-7-gios@transcript:v1#seg-0035",
+        "video:interview-wio-7-gios@transcript:v1#seg-0036",
+        "video:interview-wio-7-gios@transcript:v1#seg-0037",
+        "video:interview-wio-7-gios@transcript:v1#seg-0038"
+      ],
+      "kind": "question",
+      "summary": "PBD argues the United States is already too deep in the war after killing Iranian leaders and challenges Jiang’s four-party conference proposal as three against one.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0035",
+        "video:interview-wio-7-gios@transcript:v1#seg-0036",
+        "video:interview-wio-7-gios@transcript:v1#seg-0037",
+        "video:interview-wio-7-gios@transcript:v1#seg-0038",
+        "video:interview-wio-7-gios@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says there is no easy off-ramp, proposes a U.S.-Russia-China-Iran settlement around a new dollar-based trade relationship, and argues America should retreat to a self-sufficient Western Hemisphere rather than pay for empire.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0041",
+        "video:interview-wio-7-gios@transcript:v1#seg-0042",
+        "video:interview-wio-7-gios@transcript:v1#seg-0043",
+        "video:interview-wio-7-gios@transcript:v1#seg-0044",
+        "video:interview-wio-7-gios@transcript:v1#seg-0045"
+      ],
+      "kind": "question",
+      "summary": "PBD presses that the war is already underway, asks about Trump’s leverage over NATO, and asks whether removing the IRGC would make the world safer.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0043",
+        "video:interview-wio-7-gios@transcript:v1#seg-0044",
+        "video:interview-wio-7-gios@transcript:v1#seg-0045",
+        "video:interview-wio-7-gios@transcript:v1#seg-0046",
+        "video:interview-wio-7-gios@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang reframes Trump’s enemy as NATO, global finance, and globalists more than Iran, Russia, and China; he warns that war will empower harder Iranian theocrats and returns to a four-country negotiation where Russia and China can pressure Iran.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049",
+        "video:interview-wio-7-gios@transcript:v1#seg-0050",
+        "video:interview-wio-7-gios@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees theocracy is bad for Iran but says war will empower the most extreme religious elements; he expects a more vibrant Persian nationalism to emerge as the counter to Shia theocracy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0052",
+        "video:interview-wio-7-gios@transcript:v1#seg-0053",
+        "video:interview-wio-7-gios@transcript:v1#seg-0054",
+        "video:interview-wio-7-gios@transcript:v1#seg-0055",
+        "video:interview-wio-7-gios@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "PBD shifts to China population claims. Jiang says China likely overcounts some population data, but the real problem is aging, low fertility, and local-government incentives to inflate statistics for subsidies and promotions.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0057",
+        "video:interview-wio-7-gios@transcript:v1#seg-0058",
+        "video:interview-wio-7-gios@transcript:v1#seg-0059",
+        "video:interview-wio-7-gios@transcript:v1#seg-0060",
+        "video:interview-wio-7-gios@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks who incentivizes bad Chinese data; Jiang says Beijing receives inflated local information and that population decline could ultimately be good by reducing an exploitative growth model.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0062",
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Asked about lying flat, Jiang says 1980s party elders feared capitalism would create spiritual pollution, and he now sees utilitarian get-rich-or-die-trying China producing corruption, debt, inequality, apathy, and opt-out youth.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0065",
+        "video:interview-wio-7-gios@transcript:v1#seg-0066"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains how young Chinese can opt out by living with or caring for pensioned parents because families are frugal and saved heavily through COVID.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0067",
+        "video:interview-wio-7-gios@transcript:v1#seg-0068",
+        "video:interview-wio-7-gios@transcript:v1#seg-0069",
+        "video:interview-wio-7-gios@transcript:v1#seg-0070",
+        "video:interview-wio-7-gios@transcript:v1#seg-0071",
+        "video:interview-wio-7-gios@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks about Jack Ma and Jimmy Lai. Jiang says Xi-era regulators saw overheating, corruption, real-estate speculation, and billionaire financial Ponzi schemes, and that Jack Ma crossed the red line by challenging government authority.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0073",
+        "video:interview-wio-7-gios@transcript:v1#seg-0074",
+        "video:interview-wio-7-gios@transcript:v1#seg-0075",
+        "video:interview-wio-7-gios@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks for a U.S. analogy to Jimmy Lai; Jiang says Hong Kong is quasi-sovereign and Jimmy Lai crossed Beijing red lines by backing democracy protests, choosing martyrdom rather than exile.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0077",
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Chinese people want democracy. Jiang says almost no one does, because democracy would require respect for rights, liberty, empathy, and rule of law, while Chinese imperial survival channels ambition into bureaucracy.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0081",
+        "video:interview-wio-7-gios@transcript:v1#seg-0082",
+        "video:interview-wio-7-gios@transcript:v1#seg-0083",
+        "video:interview-wio-7-gios@transcript:v1#seg-0084",
+        "video:interview-wio-7-gios@transcript:v1#seg-0085",
+        "video:interview-wio-7-gios@transcript:v1#seg-0086"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks Jiang to compare his life in Canada, the United States, and China; Jiang says he was born in China, raised in Toronto, attended Yale, and contrasts Canada’s hockey dream, America’s entrepreneurship dream, and China’s bureaucratic dream.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0087",
+        "video:interview-wio-7-gios@transcript:v1#seg-0088"
+      ],
+      "kind": "question",
+      "summary": "PBD asks why Jiang returned to China and asks him to explain the PBS documentary incident; Jiang begins by recounting his English teaching, journalism, PBS contract, worker protest filming, detention, confession, and deportation without charges.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0089",
+        "video:interview-wio-7-gios@transcript:v1#seg-0090",
+        "video:interview-wio-7-gios@transcript:v1#seg-0091",
+        "video:interview-wio-7-gios@transcript:v1#seg-0092",
+        "video:interview-wio-7-gios@transcript:v1#seg-0093"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he returned to China because his language and journalism skills gave him more opportunity there, America seemed stable and predictable, and he wanted a society in flux rather than a prewritten Yale-to-law-or-professor career path.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0094",
+        "video:interview-wio-7-gios@transcript:v1#seg-0095",
+        "video:interview-wio-7-gios@transcript:v1#seg-0096"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Jiang publishes in China; Jiang says he refuses Chinese social media and Chinese interview requests, then PBD asks who reached out.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0097",
+        "video:interview-wio-7-gios@transcript:v1#seg-0098",
+        "video:interview-wio-7-gios@transcript:v1#seg-0099",
+        "video:interview-wio-7-gios@transcript:v1#seg-0100",
+        "video:interview-wio-7-gios@transcript:v1#seg-0101"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says elite Tsinghua professors reached out, but he avoids them because they represent the government and could turn him into a propaganda mouthpiece; he says he is monitored and does not plan to remain in China long term because China may try to co-opt his overseas influence.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0102",
+        "video:interview-wio-7-gios@transcript:v1#seg-0103",
+        "video:interview-wio-7-gios@transcript:v1#seg-0104"
+      ],
+      "kind": "question",
+      "summary": "PBD warns that staying in China invites suspicion that Jiang represents the CCP, encourages him to become a citizen of the world, and asks what Iranian children dream of under the regime.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0105"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the Iran-dream question by saying he has not been to Iran, but war may now make many children fantasize about growing up to fight Americans.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0106",
+        "video:interview-wio-7-gios@transcript:v1#seg-0107",
+        "video:interview-wio-7-gios@transcript:v1#seg-0108",
+        "video:interview-wio-7-gios@transcript:v1#seg-0109",
+        "video:interview-wio-7-gios@transcript:v1#seg-0110",
+        "video:interview-wio-7-gios@transcript:v1#seg-0111",
+        "video:interview-wio-7-gios@transcript:v1#seg-0112"
+      ],
+      "kind": "exchange",
+      "summary": "PBD pivots to COVID and asks about China’s state narrative. Jiang says COVID has been memory-holed in China, then gives his own view that it was an American-funded gain-of-function bioweapon released in Wuhan while Chinese narratives emphasize U.S. responsibility and downplay China’s role.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0113",
+        "video:interview-wio-7-gios@transcript:v1#seg-0114",
+        "video:interview-wio-7-gios@transcript:v1#seg-0115"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Chinese people simply accept government narratives; Jiang says they know red lines, but argues free and open debate is what makes America healthy, creative, resilient, and able to find weaknesses.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0116",
+        "video:interview-wio-7-gios@transcript:v1#seg-0117",
+        "video:interview-wio-7-gios@transcript:v1#seg-0118",
+        "video:interview-wio-7-gios@transcript:v1#seg-0119",
+        "video:interview-wio-7-gios@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Chinese pockets of criticism exist; Jiang says China has built the world’s most advanced AI surveillance state with digital ID, digital currency, mobile monitoring, political microanalysis, and influence capacity.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0121",
+        "video:interview-wio-7-gios@transcript:v1#seg-0122"
+      ],
+      "kind": "exchange",
+      "summary": "PBD recounts a Chinese PR approach offering money routed through charity; Jiang explains Chinese soft power as elite co-optation based on the assumption that elites, not people, hold power.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0123",
+        "video:interview-wio-7-gios@transcript:v1#seg-0124",
+        "video:interview-wio-7-gios@transcript:v1#seg-0125",
+        "video:interview-wio-7-gios@transcript:v1#seg-0126",
+        "video:interview-wio-7-gios@transcript:v1#seg-0127",
+        "video:interview-wio-7-gios@transcript:v1#seg-0128"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks about Islam and Muslims in China. Jiang says terrorist attacks produced a crackdown, but the larger trend is Han nationalism and reduced minority language autonomy, including pressure toward Chinese over minority languages and English.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129",
+        "video:interview-wio-7-gios@transcript:v1#seg-0130",
+        "video:interview-wio-7-gios@transcript:v1#seg-0131"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Communist Party is atheistic and lets religion exist only under communist supremacy; he then lists topics he cannot discuss from China, including Tibet, Taiwan, Xinjiang, specific leaders, and military limitations.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0132",
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135",
+        "video:interview-wio-7-gios@transcript:v1#seg-0136"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks about Chinese farmland purchases in North America. Jiang says this is individual wealth storage: wealthy Chinese want to move assets and families to America because wealth in China lacks legal protection.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0137",
+        "video:interview-wio-7-gios@transcript:v1#seg-0138"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang jokes that he would like to visit the United States but expects he might be punched in the face; PBD frames the conversation as fair rather than antagonistic and asks for final thoughts.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139",
+        "video:interview-wio-7-gios@transcript:v1#seg-0140",
+        "video:interview-wio-7-gios@transcript:v1#seg-0141",
+        "video:interview-wio-7-gios@transcript:v1#seg-0142"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by praying for a settlement over Hormuz and warning that escalation against Iranian civilian infrastructure could trigger total war, GCC retaliation, loss of global energy and fertilizer access, and worldwide effects.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0001",
+        "video:interview-wio-7-gios@transcript:v1#seg-0002",
+        "video:interview-wio-7-gios@transcript:v1#seg-0003",
+        "video:interview-wio-7-gios@transcript:v1#seg-0004",
+        "video:interview-wio-7-gios@transcript:v1#seg-0005",
+        "video:interview-wio-7-gios@transcript:v1#seg-0006",
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0009",
+        "video:interview-wio-7-gios@transcript:v1#seg-0010",
+        "video:interview-wio-7-gios@transcript:v1#seg-0011",
+        "video:interview-wio-7-gios@transcript:v1#seg-0012",
+        "video:interview-wio-7-gios@transcript:v1#seg-0013",
+        "video:interview-wio-7-gios@transcript:v1#seg-0014",
+        "video:interview-wio-7-gios@transcript:v1#seg-0015",
+        "video:interview-wio-7-gios@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0017",
+        "video:interview-wio-7-gios@transcript:v1#seg-0018",
+        "video:interview-wio-7-gios@transcript:v1#seg-0019",
+        "video:interview-wio-7-gios@transcript:v1#seg-0020",
+        "video:interview-wio-7-gios@transcript:v1#seg-0021",
+        "video:interview-wio-7-gios@transcript:v1#seg-0022",
+        "video:interview-wio-7-gios@transcript:v1#seg-0023",
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0025",
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027",
+        "video:interview-wio-7-gios@transcript:v1#seg-0028",
+        "video:interview-wio-7-gios@transcript:v1#seg-0029",
+        "video:interview-wio-7-gios@transcript:v1#seg-0030",
+        "video:interview-wio-7-gios@transcript:v1#seg-0031",
+        "video:interview-wio-7-gios@transcript:v1#seg-0032"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0033",
+        "video:interview-wio-7-gios@transcript:v1#seg-0034",
+        "video:interview-wio-7-gios@transcript:v1#seg-0035",
+        "video:interview-wio-7-gios@transcript:v1#seg-0036",
+        "video:interview-wio-7-gios@transcript:v1#seg-0037",
+        "video:interview-wio-7-gios@transcript:v1#seg-0038",
+        "video:interview-wio-7-gios@transcript:v1#seg-0039",
+        "video:interview-wio-7-gios@transcript:v1#seg-0040"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0041",
+        "video:interview-wio-7-gios@transcript:v1#seg-0042",
+        "video:interview-wio-7-gios@transcript:v1#seg-0043",
+        "video:interview-wio-7-gios@transcript:v1#seg-0044",
+        "video:interview-wio-7-gios@transcript:v1#seg-0045",
+        "video:interview-wio-7-gios@transcript:v1#seg-0046",
+        "video:interview-wio-7-gios@transcript:v1#seg-0047",
+        "video:interview-wio-7-gios@transcript:v1#seg-0048"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049",
+        "video:interview-wio-7-gios@transcript:v1#seg-0050",
+        "video:interview-wio-7-gios@transcript:v1#seg-0051",
+        "video:interview-wio-7-gios@transcript:v1#seg-0052",
+        "video:interview-wio-7-gios@transcript:v1#seg-0053",
+        "video:interview-wio-7-gios@transcript:v1#seg-0054",
+        "video:interview-wio-7-gios@transcript:v1#seg-0055",
+        "video:interview-wio-7-gios@transcript:v1#seg-0056"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0057",
+        "video:interview-wio-7-gios@transcript:v1#seg-0058",
+        "video:interview-wio-7-gios@transcript:v1#seg-0059",
+        "video:interview-wio-7-gios@transcript:v1#seg-0060",
+        "video:interview-wio-7-gios@transcript:v1#seg-0061",
+        "video:interview-wio-7-gios@transcript:v1#seg-0062",
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0065",
+        "video:interview-wio-7-gios@transcript:v1#seg-0066",
+        "video:interview-wio-7-gios@transcript:v1#seg-0067",
+        "video:interview-wio-7-gios@transcript:v1#seg-0068",
+        "video:interview-wio-7-gios@transcript:v1#seg-0069",
+        "video:interview-wio-7-gios@transcript:v1#seg-0070",
+        "video:interview-wio-7-gios@transcript:v1#seg-0071",
+        "video:interview-wio-7-gios@transcript:v1#seg-0072"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0073",
+        "video:interview-wio-7-gios@transcript:v1#seg-0074",
+        "video:interview-wio-7-gios@transcript:v1#seg-0075",
+        "video:interview-wio-7-gios@transcript:v1#seg-0076",
+        "video:interview-wio-7-gios@transcript:v1#seg-0077",
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0081",
+        "video:interview-wio-7-gios@transcript:v1#seg-0082",
+        "video:interview-wio-7-gios@transcript:v1#seg-0083",
+        "video:interview-wio-7-gios@transcript:v1#seg-0084",
+        "video:interview-wio-7-gios@transcript:v1#seg-0085",
+        "video:interview-wio-7-gios@transcript:v1#seg-0086",
+        "video:interview-wio-7-gios@transcript:v1#seg-0087",
+        "video:interview-wio-7-gios@transcript:v1#seg-0088"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0089",
+        "video:interview-wio-7-gios@transcript:v1#seg-0090",
+        "video:interview-wio-7-gios@transcript:v1#seg-0091",
+        "video:interview-wio-7-gios@transcript:v1#seg-0092",
+        "video:interview-wio-7-gios@transcript:v1#seg-0093",
+        "video:interview-wio-7-gios@transcript:v1#seg-0094",
+        "video:interview-wio-7-gios@transcript:v1#seg-0095",
+        "video:interview-wio-7-gios@transcript:v1#seg-0096"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0097",
+        "video:interview-wio-7-gios@transcript:v1#seg-0098",
+        "video:interview-wio-7-gios@transcript:v1#seg-0099",
+        "video:interview-wio-7-gios@transcript:v1#seg-0100",
+        "video:interview-wio-7-gios@transcript:v1#seg-0101",
+        "video:interview-wio-7-gios@transcript:v1#seg-0102",
+        "video:interview-wio-7-gios@transcript:v1#seg-0103",
+        "video:interview-wio-7-gios@transcript:v1#seg-0104"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0105",
+        "video:interview-wio-7-gios@transcript:v1#seg-0106",
+        "video:interview-wio-7-gios@transcript:v1#seg-0107",
+        "video:interview-wio-7-gios@transcript:v1#seg-0108",
+        "video:interview-wio-7-gios@transcript:v1#seg-0109",
+        "video:interview-wio-7-gios@transcript:v1#seg-0110",
+        "video:interview-wio-7-gios@transcript:v1#seg-0111",
+        "video:interview-wio-7-gios@transcript:v1#seg-0112"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0113",
+        "video:interview-wio-7-gios@transcript:v1#seg-0114",
+        "video:interview-wio-7-gios@transcript:v1#seg-0115",
+        "video:interview-wio-7-gios@transcript:v1#seg-0116",
+        "video:interview-wio-7-gios@transcript:v1#seg-0117",
+        "video:interview-wio-7-gios@transcript:v1#seg-0118",
+        "video:interview-wio-7-gios@transcript:v1#seg-0119",
+        "video:interview-wio-7-gios@transcript:v1#seg-0120"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0121",
+        "video:interview-wio-7-gios@transcript:v1#seg-0122",
+        "video:interview-wio-7-gios@transcript:v1#seg-0123",
+        "video:interview-wio-7-gios@transcript:v1#seg-0124",
+        "video:interview-wio-7-gios@transcript:v1#seg-0125",
+        "video:interview-wio-7-gios@transcript:v1#seg-0126",
+        "video:interview-wio-7-gios@transcript:v1#seg-0127",
+        "video:interview-wio-7-gios@transcript:v1#seg-0128"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129",
+        "video:interview-wio-7-gios@transcript:v1#seg-0130",
+        "video:interview-wio-7-gios@transcript:v1#seg-0131",
+        "video:interview-wio-7-gios@transcript:v1#seg-0132",
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135",
+        "video:interview-wio-7-gios@transcript:v1#seg-0136"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0137",
+        "video:interview-wio-7-gios@transcript:v1#seg-0138",
+        "video:interview-wio-7-gios@transcript:v1#seg-0139",
+        "video:interview-wio-7-gios@transcript:v1#seg-0140",
+        "video:interview-wio-7-gios@transcript:v1#seg-0141",
+        "video:interview-wio-7-gios@transcript:v1#seg-0142"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang’s Iran-war prediction rests on a decline-of-empire model in which late empires choose reckless wars because hubris makes them underestimate cost and terrain.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview argument dated 2026-04-07.",
+      "topic_tags": [
+        "empire-decline",
+        "iran-war",
+        "historical-pattern"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the United States would lose a war with Iran because it lacks the industrial and manufacturing depth to sustain a mountainous war.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Prediction stated 2026-04-07.",
+      "topic_tags": [
+        "industrial-capacity",
+        "iran",
+        "quagmire"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Trump’s Iran rhetoric as reality-TV leverage: bombastic fear language meant to draw attention and pressure the other side.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013",
+        "video:interview-wio-7-gios@transcript:v1#seg-0014",
+        "video:interview-wio-7-gios@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Interpretation of Trump rhetoric dated 2026-04-07.",
+      "topic_tags": [
+        "trump",
+        "rhetoric",
+        "wwe-politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts possible attacks on Kharg Island, Qeshm Island, Hormuz-related positions, and Iranian coastline defenses as part of a major escalation.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Near-term prediction made 2026-04-07.",
+      "topic_tags": [
+        "iran",
+        "hormuz",
+        "military-escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He worries Trump is surrounded by sycophantic advisers who feed his ego rather than strategic reality.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0015",
+        "video:interview-wio-7-gios@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Administration diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "trump-advisers",
+        "strategic-failure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang’s best case is a U.S.-Iran compromise over shared control and dollar-denominated tolls around Hormuz that preserves peace and reparations.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Scenario estimate dated 2026-04-07.",
+      "topic_tags": [
+        "hormuz",
+        "settlement",
+        "petrodollar"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "His worst case is U.S. strikes on Iranian power plants killing youth human shields, obligating Iran to destroy GCC oil fields, desalination plants, and data centers.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021",
+        "video:interview-wio-7-gios@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Scenario estimate dated 2026-04-07.",
+      "topic_tags": [
+        "gcc",
+        "iran-retaliation",
+        "civilian-infrastructure"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He assigns rough odds of 1 percent to the best case, 10 percent to the worst case, and 40 percent to a limited ground incursion.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Numerical probabilities stated 2026-04-07.",
+      "topic_tags": [
+        "probability",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, America losing to Iran means retreating from the Middle East, losing control of GCC petrodollar recycling, and triggering U.S. economic collapse and civil conflict.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026",
+        "video:interview-wio-7-gios@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Definition stated 2026-04-07.",
+      "topic_tags": [
+        "petrodollar",
+        "gcc",
+        "american-civil-war"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Trump has elevated hawkish advisers such as Jared Kushner, Stephen Miller, Pete Hegseth, and Marco Rubio while sidelining JD Vance and Tulsi Gabbard.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Administration diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "trump-administration",
+        "hawks",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says a continuing war could let the Revolutionary Guard consolidate Iran’s economy and empower factions seeking revenge for 1979 and the killing of Qasem Soleimani.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0031",
+        "video:interview-wio-7-gios@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Iran diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "irgc",
+        "soleimani",
+        "iran-factions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the United States, Russia, China, and Iran all have an interest in preserving the dollar as global reserve currency because no one else wants the burden.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Settlement model dated 2026-04-07.",
+      "topic_tags": [
+        "dollar",
+        "four-power-conference",
+        "reserve-currency"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the American empire as a bad bargain for average Americans who pay to protect sea lanes and subsidize European defense, welfare, and pensions.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Empire diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "american-empire",
+        "sea-lanes",
+        "europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Trump’s strategic alternative is retreat into a self-sufficient Western Hemisphere built around Canada’s resources and Mexico’s labor.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Strategic model dated 2026-04-07.",
+      "topic_tags": [
+        "western-hemisphere",
+        "canada",
+        "mexico"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang suggests Trump may ultimately be at war with globalists, the City of London, Wall Street, global finance, NATO, and Ukraine rather than simply with Iran.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Strategic diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "globalists",
+        "nato",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He warns that continued war will make Iran more extremist and more theocratic, with hardline elements emerging triumphant.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Iran-war consequence dated 2026-04-07.",
+      "topic_tags": [
+        "iran",
+        "theocracy",
+        "war-radicalization"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Russia has major leverage over Iran, so a U.S.-Russia-China process could produce settlement where direct U.S.-Iran talks cannot.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0046",
+        "video:interview-wio-7-gios@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Negotiation model dated 2026-04-07.",
+      "topic_tags": [
+        "russia",
+        "china",
+        "iran-negotiation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Persian nationalism, not liberal democracy imposed by war, is the likely counterforce to Shia theocracy after the conflict.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049",
+        "video:interview-wio-7-gios@transcript:v1#seg-0050",
+        "video:interview-wio-7-gios@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Iran outcome model dated 2026-04-07.",
+      "topic_tags": [
+        "persian-nationalism",
+        "theocracy",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China probably still has over a billion people, but its real demographic issue is rapid aging and fertility that could fall below South Korea’s within five years.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0053",
+        "video:interview-wio-7-gios@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Demographic estimate dated 2026-04-07.",
+      "topic_tags": [
+        "china-demography",
+        "fertility",
+        "aging"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Chinese local governments inflate population and economic statistics because promotions and subsidies depend on local performance.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "China bureaucracy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "china-statistics",
+        "local-government",
+        "bureaucracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is an enclosed bureaucracy where local governments inflate data mainly to win central funding, not to save face for the world.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "China bureaucracy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "china-bureaucracy",
+        "statistics",
+        "subsidies"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues a Chinese population crisis could be good long term because the billion-person labor pool enabled exploitation that hampered innovation and political development.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Normative demographic claim dated 2026-04-07.",
+      "topic_tags": [
+        "population",
+        "exploitation",
+        "innovation"
+      ],
+      "claim_type": "normative",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says party elders’ fear of capitalist spiritual pollution proved correct because market reform produced utilitarianism, corruption, inequality, debt, and youth apathy.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Historical interpretation dated 2026-04-07.",
+      "topic_tags": [
+        "spiritual-pollution",
+        "lying-flat",
+        "china-reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese youth can often survive lying flat by relying on retired parents’ pensions, high household savings, and extreme frugality.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Social diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "lying-flat",
+        "household-savings",
+        "china-youth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Xi-era crackdowns arose from concern that China’s overheated economy had too much corruption, fraud, speculation, and real-estate Ponzi behavior.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "China economy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "jack-ma",
+        "real-estate",
+        "xi"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jack Ma’s error, in Jiang’s reading, was believing wealth and popularity could let him question central authority.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0069",
+        "video:interview-wio-7-gios@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Jack Ma interpretation dated 2026-04-07.",
+      "topic_tags": [
+        "jack-ma",
+        "central-authority",
+        "china-red-lines"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jimmy Lai chose martyrdom for democracy after crossing Beijing’s red lines during the Hong Kong democracy protests.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0074",
+        "video:interview-wio-7-gios@transcript:v1#seg-0075",
+        "video:interview-wio-7-gios@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Hong Kong interpretation dated 2026-04-07.",
+      "topic_tags": [
+        "jimmy-lai",
+        "hong-kong",
+        "democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues China has almost no popular interest in democracy because its social aspiration is bureaucratic protection, not individual liberty or rule of law.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "China political culture diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "china-democracy",
+        "bureaucracy",
+        "civil-service"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes China as an empire where the route to survival is becoming a civil servant who can protect the family.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Civilizational model dated 2026-04-07.",
+      "topic_tags": [
+        "empire",
+        "bureaucracy",
+        "family-protection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compresses three national dreams as Canada wanting to be hockey players, America wanting to be entrepreneurs, and China wanting to be bureaucrats.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0083",
+        "video:interview-wio-7-gios@transcript:v1#seg-0084",
+        "video:interview-wio-7-gios@transcript:v1#seg-0085",
+        "video:interview-wio-7-gios@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Cultural comparison dated 2026-04-07.",
+      "topic_tags": [
+        "national-dreams",
+        "canada",
+        "america",
+        "china"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he was detained and deported from China after filming worker protests for a PBS documentary on China’s WTO entry while lacking a journalist visa.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Personal chronology recounted 2026-04-07.",
+      "topic_tags": [
+        "jiang-biography",
+        "pbs",
+        "china-wto"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America rewards talent and hard work more than most societies, while China and much of the world reward family power and connections.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0089",
+        "video:interview-wio-7-gios@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Cultural comparison dated 2026-04-07.",
+      "topic_tags": [
+        "america",
+        "merit",
+        "family-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He chose China because it was an open canvas of unpredictable change where he could learn and do things unavailable in a stable American career path.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0092",
+        "video:interview-wio-7-gios@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Personal chronology recounted 2026-04-07.",
+      "topic_tags": [
+        "jiang-biography",
+        "china-change",
+        "yale"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He maintains a strict policy of not engaging Chinese social media, reporters, or offers to work with Chinese people because of compromise risk.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Current personal policy stated 2026-04-07.",
+      "topic_tags": [
+        "chinese-social-media",
+        "compromise",
+        "jiang"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says elite Chinese academics who reached out to him represent the government, creating a risk that he becomes compromised as a propaganda mouthpiece.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Personal risk assessment dated 2026-04-07.",
+      "topic_tags": [
+        "soft-power",
+        "cooptation",
+        "propaganda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China is interested in his overseas soft power and may try to co-opt him, compromise him, and turn him into a weapon for its agenda.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Personal risk assessment dated 2026-04-07.",
+      "topic_tags": [
+        "soft-power",
+        "china",
+        "influence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reports being monitored heavily in China and having been told by school leadership to remove a Substack essay that mentioned China.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "Personal evidence recounted 2026-04-07.",
+      "topic_tags": [
+        "monitoring",
+        "substack",
+        "china-red-lines"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war may create a generation of Iranian children who want to fight America because U.S. strikes killed civilians and schoolgirls.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Iran social consequence dated 2026-04-07.",
+      "topic_tags": [
+        "iran",
+        "children",
+        "anti-americanism"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says COVID has been memory-holed in China: people avoid talking about a traumatic three or four years and prefer to move on.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "China memory diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "covid",
+        "memory-hole",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents his own belief that COVID was an American-funded gain-of-function bioweapon released in Wuhan, while Chinese narratives downplay China’s role.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0110",
+        "video:interview-wio-7-gios@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "Personal claim stated 2026-04-07; controversial and source-internal.",
+      "topic_tags": [
+        "covid-origin",
+        "fauci",
+        "wuhan"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Chinese people know political red lines and winds, so there is little open questioning of government.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "China speech diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "red-lines",
+        "china",
+        "speech"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues America’s First Amendment and open debate make society creative and resilient by exposing vulnerabilities and enabling pivoting.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0115"
+      ],
+      "temporal_scope": "Normative political claim dated 2026-04-07.",
+      "topic_tags": [
+        "first-amendment",
+        "resilience",
+        "debate"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China’s digital ID, digital currency, and phone-app ecosystem allow the government to monitor movement, purchases, political leanings, and then influence citizens.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0119"
+      ],
+      "temporal_scope": "Surveillance-state diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "ai-surveillance",
+        "digital-id",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China’s soft-power approach is to co-opt influential media elites by treating them well, giving them access, and letting positive feeling translate into favorable commentary.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Soft-power model dated 2026-04-07.",
+      "topic_tags": [
+        "soft-power",
+        "elite-cooptation",
+        "china"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Muslim and Uyghur terrorist attacks generated a Chinese crackdown, but that crackdown sits inside a larger turn toward Han nationalism.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0124"
+      ],
+      "temporal_scope": "China minority-policy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "uyghurs",
+        "han-nationalism",
+        "islam"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says recent policy pushes Chinese language over minority dialects and is also reducing English instruction, though English remains popular with middle-class families seeking overseas options.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0125",
+        "video:interview-wio-7-gios@transcript:v1#seg-0126",
+        "video:interview-wio-7-gios@transcript:v1#seg-0127"
+      ],
+      "temporal_scope": "Language-policy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "language-policy",
+        "han-nationalism",
+        "english"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says religious practice in China is permitted only if communism remains the ultimate authority, which most serious religious believers cannot accept.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129"
+      ],
+      "temporal_scope": "Religion-policy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "religion",
+        "communism",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says he cannot discuss Tibet, Taiwan, Xinjiang, named Chinese leaders, or Chinese military limitations while based in China.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0131"
+      ],
+      "temporal_scope": "Personal speech limits stated 2026-04-07.",
+      "topic_tags": [
+        "red-lines",
+        "jiang",
+        "china"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Chinese purchases of American farmland are mostly individual wealth storage, not a coordinated strategy to control food or production.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135"
+      ],
+      "temporal_scope": "Farmland-purchase diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "farmland",
+        "capital-flight",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang’s final recommendation is that Trump accept or negotiate around Iran’s offer to share control of the Strait of Hormuz, which he calls one of the most generous offers available.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139"
+      ],
+      "temporal_scope": "Final recommendation dated 2026-04-07.",
+      "topic_tags": [
+        "hormuz",
+        "settlement",
+        "trump"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He warns that strikes on Iranian civilian infrastructure could force Iran into total war against the GCC, threatening access to 20 percent of world energy and 30 percent of world fertilizer.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139",
+        "video:interview-wio-7-gios@transcript:v1#seg-0140"
+      ],
+      "temporal_scope": "Near-term warning dated 2026-04-07.",
+      "topic_tags": [
+        "energy",
+        "fertilizer",
+        "gcc",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "moment": "Iran becomes Jiang’s Vietnam/Sicily example: the late empire thinks the war will be easy and discovers the quagmire after commitment.",
+      "source_phrase": "risky Wars that they believe they can win easily",
+      "why_it_matters": "It turns a hot prediction into a reusable model of imperial decline.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0015"
+      ],
+      "moment": "Trump’s geopolitical speech is explained as WWE theater: attention, emotion, fear, and rage become tools of statecraft.",
+      "source_phrase": "that is really how you speak in the WWE",
+      "why_it_matters": "It compresses Jiang’s media theory of Trump into a vivid political mechanism.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0022"
+      ],
+      "moment": "Young Iranians forming human chains around power plants become the trigger that converts infrastructure bombing into total regional war.",
+      "source_phrase": "make the human chain around all power plants",
+      "why_it_matters": "This is the emotional and strategic hinge in Jiang’s worst-case scenario.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026"
+      ],
+      "moment": "Petrodollar collapse is tied directly to AI financing: Gulf oil dollars recycle into the American economy through sovereign wealth funds backing AI infrastructure.",
+      "source_phrase": "financed by investment from these GCC sovereign wealth funds",
+      "why_it_matters": "It links war, currency order, Gulf capital, and AI into one causal chain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0039"
+      ],
+      "moment": "Trump’s imagined line is imperial triage: screw Iran, screw Ukraine, take Canada and Mexico, and stop paying for the world.",
+      "source_phrase": "Screw Iran. Screw Ukraine. I do not need these places.",
+      "why_it_matters": "It preserves the force of Jiang’s Greater North America argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0043"
+      ],
+      "moment": "The apparent Iran war is recoded as Trump’s war against NATO and global finance.",
+      "source_phrase": "Who is your enemy, NATO and the globalists?",
+      "why_it_matters": "It shifts the map from country-versus-country to faction-versus-system.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049"
+      ],
+      "moment": "Jiang separates Persian civilization from theocratic rule, imagining Persian nationalism as the answer to wartime radicalization.",
+      "source_phrase": "They want to be Persian",
+      "why_it_matters": "It prevents the Iran discussion from flattening into regime-versus-democracy language.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0060"
+      ],
+      "moment": "A billion people become \"free energy\" for exploitation, powering growth while blocking innovation and political development.",
+      "source_phrase": "it is like free energy",
+      "why_it_matters": "It condenses Jiang’s critique of demographic abundance into a memorable image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0063"
+      ],
+      "moment": "The 1980s fear of spiritual pollution returns as a diagnosis of a society where money replaced ideology.",
+      "source_phrase": "capitalism would degrade and pollute civilization",
+      "why_it_matters": "It connects current lying-flat behavior to a much older Chinese Communist anxiety.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0066"
+      ],
+      "moment": "Chinese survival is reduced to household frugality: people can get by on white rice for the next forty years.",
+      "source_phrase": "get by on white rice for the next 40 years",
+      "why_it_matters": "It gives the lying-flat discussion a concrete social mechanism.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "moment": "The Chinese dream is bureaucratic ascent: survive the empire by becoming a civil servant with protection for your family.",
+      "source_phrase": "the way you survive an empire is to become a civil servant",
+      "why_it_matters": "It gives the later Canada-America-China dream comparison its sharpest form.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0086"
+      ],
+      "moment": "America’s dream is independence from government control: start a business, make it, and speak your mind.",
+      "source_phrase": "be independent and be free of government control",
+      "why_it_matters": "It establishes the positive American ideal Jiang later contrasts with censorship and bureaucracy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0093"
+      ],
+      "moment": "China attracted Jiang because it was not predictable; it was a changing world where the script was not already written.",
+      "source_phrase": "a world in which the world was unpredictable",
+      "why_it_matters": "It explains his biography as a search for historical flux rather than simple pro-China sentiment.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0101"
+      ],
+      "moment": "China wants to turn Jiang’s overseas influence into a weapon; soft power becomes a co-optation trap.",
+      "source_phrase": "turn me into a weapon",
+      "why_it_matters": "It makes the personal biography part of the broader elite co-optation model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0108"
+      ],
+      "moment": "COVID is not debated in China; it is memory-holed after trauma, as if public silence is the only way to continue.",
+      "source_phrase": "COVID has been memory holed in China",
+      "why_it_matters": "It sharply captures state memory and social exhaustion after lockdown.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0110"
+      ],
+      "moment": "The early disease image is furnace lungs: a biological and political story where the body burns before the narrative hardens.",
+      "source_phrase": "Your lungs became a furnace",
+      "why_it_matters": "It is the packet’s most vivid and troubling image, while requiring careful attribution as Jiang’s claim.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0115"
+      ],
+      "moment": "America’s messiness becomes its advantage: debate exposes weakness and lets the system pivot.",
+      "source_phrase": "free and open debate",
+      "why_it_matters": "It reverses the host’s suggestion that Chinese opacity is an advantage.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0119"
+      ],
+      "moment": "The surveillance state does not merely watch; it uses microanalysis of political leanings to influence people.",
+      "source_phrase": "micro analysis of your political leanings",
+      "why_it_matters": "It turns surveillance from collection into behavioral governance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0122"
+      ],
+      "moment": "Soft power is not persuasion of the public; it is bribing or charming the elites who shape what the public sees.",
+      "source_phrase": "co-opting elites",
+      "why_it_matters": "It gives the PBD anecdote a reusable institutional model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129"
+      ],
+      "moment": "Religion is allowed only beneath the party’s god: communism must be the final authority.",
+      "source_phrase": "communism is the ultimate god",
+      "why_it_matters": "It gives the religion-policy discussion a compact theological-political form.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0135"
+      ],
+      "moment": "Chinese wealth flees because at home there is no legal protection; the state can take it any time.",
+      "source_phrase": "the government can take it away at any time",
+      "why_it_matters": "It explains capital flight without requiring an invasion or control theory.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139",
+        "video:interview-wio-7-gios@transcript:v1#seg-0140"
+      ],
+      "moment": "The Iran war ceases to be regional when 20 percent of world energy and 30 percent of world fertilizer are at risk.",
+      "source_phrase": "every person will be affected",
+      "why_it_matters": "It is the interview’s final escalation from geopolitical prediction to planetary consequence.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139"
+      ],
+      "moment": "Jiang prays to God while saying he is not religious, marking the stakes as beyond normal analysis.",
+      "source_phrase": "I pray to God, even though I am not religious",
+      "why_it_matters": "It gives the closing warning unusual urgency without turning it into certainty.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "declining empire war trap",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A pattern where a confident but declining empire chooses a risky war, expends scarce resources, and exposes the limits of its power.",
+      "confidence": "high"
+    },
+    {
+      "term": "WWE geopolitics",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang’s shorthand for Trump’s use of theatrical threat, attention, fear, and televised dominance in negotiation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hormuz toll settlement",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A possible compromise in which Iran and the United States share control or revenue around the Strait of Hormuz while using U.S. dollars.",
+      "confidence": "medium"
+    },
+    {
+      "term": "petrodollar loss",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang’s definition of strategic defeat: losing the Gulf oil-dollar recycling system that props up the American economy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Western Hemisphere retreat",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "A proposed post-empire U.S. strategy of abandoning Eurasian burdens and consolidating resources, labor, and security in North America.",
+      "confidence": "high"
+    },
+    {
+      "term": "globalists",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang’s term here for NATO, the City of London, Wall Street, global finance, and the anti-Trump transatlantic order.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Persian nationalism",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang’s name for an Iranian civilizational identity that could counter Shia theocracy without being simply Western liberalism.",
+      "confidence": "high"
+    },
+    {
+      "term": "spiritual pollution",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "A 1980s Chinese Communist term Jiang uses for capitalism’s degradation of civilization into utilitarian money-seeking and apathy.",
+      "confidence": "high"
+    },
+    {
+      "term": "lying flat",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0062",
+        "video:interview-wio-7-gios@transcript:v1#seg-0063",
+        "video:interview-wio-7-gios@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Youth opting out of work and ambition because China’s rigged utilitarian system gives them no path to get ahead.",
+      "confidence": "high"
+    },
+    {
+      "term": "financial Ponzi schemes",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Jiang’s description of speculative Chinese billionaire and real-estate structures that regulators tried to discipline.",
+      "confidence": "high"
+    },
+    {
+      "term": "bureaucratic dream",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "Jiang’s description of Chinese aspiration as climbing the state hierarchy to secure family protection.",
+      "confidence": "high"
+    },
+    {
+      "term": "national dream comparison",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0083",
+        "video:interview-wio-7-gios@transcript:v1#seg-0084",
+        "video:interview-wio-7-gios@transcript:v1#seg-0085",
+        "video:interview-wio-7-gios@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Jiang’s shorthand comparison of Canada as hockey, America as entrepreneurship, and China as bureaucracy.",
+      "confidence": "high"
+    },
+    {
+      "term": "open canvas China",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0090",
+        "video:interview-wio-7-gios@transcript:v1#seg-0091",
+        "video:interview-wio-7-gios@transcript:v1#seg-0092",
+        "video:interview-wio-7-gios@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Jiang’s description of early-2000s China as a society in flux, full of change and opportunity compared with stable American career paths.",
+      "confidence": "high"
+    },
+    {
+      "term": "soft-power co-optation",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0097",
+        "video:interview-wio-7-gios@transcript:v1#seg-0098",
+        "video:interview-wio-7-gios@transcript:v1#seg-0099",
+        "video:interview-wio-7-gios@transcript:v1#seg-0100",
+        "video:interview-wio-7-gios@transcript:v1#seg-0101"
+      ],
+      "definition_or_usage": "A process where China tries to absorb influential overseas voices into government-friendly messaging by compromise, access, or pressure.",
+      "confidence": "high"
+    },
+    {
+      "term": "memory-holed COVID",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0108"
+      ],
+      "definition_or_usage": "Jiang’s description of China’s post-COVID silence: traumatic experience erased from ordinary public conversation.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0119"
+      ],
+      "definition_or_usage": "China’s integrated digital ID, digital currency, mobile-app, location, purchase, and political-inference system as Jiang describes it.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite co-optation",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0122"
+      ],
+      "definition_or_usage": "China’s soft-power strategy of influencing high-status media or intellectual figures through hospitality, money, access, and selective exposure.",
+      "confidence": "high"
+    },
+    {
+      "term": "Han nationalism",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0124",
+        "video:interview-wio-7-gios@transcript:v1#seg-0125"
+      ],
+      "definition_or_usage": "A policy and civilizational push toward Han Chinese identity at the expense of minority autonomy, language, and rights.",
+      "confidence": "high"
+    },
+    {
+      "term": "communism as ultimate god",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129"
+      ],
+      "definition_or_usage": "Jiang’s description of the party’s demand that religious life subordinate itself to communist authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "wealth storage",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135"
+      ],
+      "definition_or_usage": "The use of overseas land or property as protection against insecure property rights inside China.",
+      "confidence": "high"
+    },
+    {
+      "term": "total war against the GCC",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139",
+        "video:interview-wio-7-gios@transcript:v1#seg-0140"
+      ],
+      "definition_or_usage": "Jiang’s name for the scenario in which Iran retaliates against Gulf infrastructure after U.S. attacks on critical Iranian civilian infrastructure.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang uses examples from Persia, Athens, and Vietnam to frame an April 2026 prediction about a U.S.-Iran war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013"
+      ],
+      "note": "Jiang says escalation could come as early as the coming weekend after the April 7, 2026 interview.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang gives explicit April 2026 probabilities for Iran-war outcomes, useful for later checking against events.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang links current IRGC motives to the 1979 embassy seizure and the 2020 killing of Soleimani.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0054"
+      ],
+      "note": "Jiang makes a five-year fertility forecast for China relative to South Korea.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0069"
+      ],
+      "note": "Jiang places the Jack Ma crackdown inside Xi’s broader early effort to cool fraud, speculation, and overheated finance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0082"
+      ],
+      "note": "Jiang says he was born in China, moved to Toronto at age six, attended Yale for four years, and has been in China since 1999.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0088",
+        "video:interview-wio-7-gios@transcript:v1#seg-0089",
+        "video:interview-wio-7-gios@transcript:v1#seg-0090",
+        "video:interview-wio-7-gios@transcript:v1#seg-0091",
+        "video:interview-wio-7-gios@transcript:v1#seg-0092",
+        "video:interview-wio-7-gios@transcript:v1#seg-0093"
+      ],
+      "note": "Jiang recounts returning to China after deportation because he saw greater opportunity and historical change there.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0101"
+      ],
+      "note": "Jiang states on 2026-04-07 that he does not plan to stay in China long term.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0108",
+        "video:interview-wio-7-gios@transcript:v1#seg-0109",
+        "video:interview-wio-7-gios@transcript:v1#seg-0110",
+        "video:interview-wio-7-gios@transcript:v1#seg-0111"
+      ],
+      "note": "Jiang distinguishes what Chinese state-aligned narratives say about COVID from his own belief, both stated in this April 2026 interview.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0139",
+        "video:interview-wio-7-gios@transcript:v1#seg-0140"
+      ],
+      "note": "Jiang identifies the next few days after April 7, 2026 as crucial for either settlement or major escalation.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
