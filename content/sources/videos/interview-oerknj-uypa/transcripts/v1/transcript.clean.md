@@ -1,0 +1,879 @@
+# Professor Jiang on His Painful Personal Path | Truth and Myth | A Search for Reality | Internet Fame
+
+Source: https://www.youtube.com/watch?v=oErKnj_uyPA
+
+## seg-0001 / 00:00:00-00:00:17 / SPEAKER_01
+
+That day also is when a blood moon will appear and Freemasons who control America's national security apparatus revere the number 33 and it goes on from there. And it just feels like at some point that paragraph shifted into like, wait, why are we talking about the Freemasons now? So where does that come from?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:17-00:00:43 / SPEAKER_00
+
+I completely sympathize. And a year ago, I would have completely agreed with you that this is all just silly conspiracy. So I've been on the birthright trip. So I'm not Jewish, as you can tell, but I've been on the birthright trip. I spent a week in Israel. And, you know, for me, unless you look at this eschatology, it's almost impossible to understand why this war in the Middle East is happening.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0002
+
+## seg-0003 / 00:00:43-00:00:55 / SPEAKER_01
+
+So just to be frank, when I when I told my audience that you were going to come on, many people were like, oh, don't talk to that guy. Right. He's he's super dangerous. And they sent me clips, which I'm going to ask you about.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0003
+
+## seg-0004 / 00:00:55-00:01:09 / SPEAKER_00
+
+And I said, listen, I'm not saying the Holocaust didn't happen. It must have happened. But there's no direct evidence for it that I could find, which I found really frustrating. So that's a background to what happened.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0004
+
+## seg-0005 / 00:01:11-00:01:29 / SPEAKER_01
+
+Yeah, I think that's still going to not leave people satisfied because, you know, they're I'll tell you, from, again, my my perspective, the the mythology kind of always outruns the truth. And that leads me to the question. And that leads to people then questioning if the truth is the truth at all.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0005
+
+## seg-0006 / 00:01:29-00:01:41 / SPEAKER_00
+
+I think that, like, the truth is value in itself. I think it's your individual responsibility to seek the truth. Whether you choose to broadcast this or not is up to you.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0006
+
+## seg-0007 / 00:01:41-00:02:33 / SPEAKER_01
+
+How does all of this kind of knowledge help you or do you think it helps you make predictions about the general trends of of the world? You know. Leaning on the Illuminati and all of these kinds of things. I mean, how I guess I guess I'm still a little stuck on the secret societies. Like, how real do you think that is? Or are you using it as sort of just a predictive tool? I just need to know that. It's a podcast. Jay Shapiro here won't keep you long on the intro, but you might be interested in some of the caveats and pre -story to this conversation, because my guest today is someone you've probably seen unless you don't use the Internet very much known as Professor Jiang online. He is quite the controversial figure. In fact, when I announced that I was going to have him on, many people reached out saying what a bad idea it was, that it's not serious.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0007
+
+## seg-0008 / 00:02:33-00:03:26 / SPEAKER_01
+
+I should look into him more, et cetera. And I took all that very seriously. And I do challenge him on many of these things. But I was thrilled with the way this conversation went. Actually, I have to admit, I was quite skeptical myself going in of how it would turn out. And I thought it was fantastic. See what you think. It kind of speaks for itself. But we. We cover a lot of interesting ground, and I leave the conversation and it's almost a pseudo debate or more sort of a mutual exploration of controversial ideas or complex ideas. And we certainly share or have some similar temperaments about how to approach questions. Definitely some different language or temperaments to entertain certain ideas. But all in all, I think it was amazingly fruitful. And I also learned a lot about him. The man. The man behind the Professor Jiang avatar
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0008
+
+## seg-0009 / 00:03:26-00:04:13 / SPEAKER_01
+
+that we've all come to know and who he is and a little bit of his background, which I think really matters. Stuff that I didn't know before. And you might not know either. And, you know, the Internet's a really weird place. I have no idea why he's gotten so popular. We come up with some ideas at the end for this of why that may have happened. It must be very dizzying for him. It's a very competitive place on the Internet sometimes. And I don't think it's always the best. Our best self. Our best selves in this like ultra competitive, weird antagonistic state. And so I went in with an open mind of of open pushback and common conversation. He asked me a lot of questions. In fact, when he reached out, he said he had a lot of questions about Judaism that he wanted to ask. And I did my best answering what I could.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0009
+
+## seg-0010 / 00:04:13-00:04:57 / SPEAKER_01
+
+And also, I'll be back at the end of this video. I'm sure you could see the kind of bloated time timestamp that we have already. But if you're willing to give me some time today, I think you'll get a lot out of it. But I'll be back at the end with some of my afterthoughts on the conversation, what I think of the phenomenon of Professor Jiang and also to sort of pick up a thread that you'll hear that I loosen a little bit throughout the conversation on the Dead Sea Scrolls that I think is really interesting and important. So meet me at the end if you're really interested in some of my afterthoughts. I kept notes during the conversation just to pick up a few things. And yeah, now enjoy the conversation with myself and the man behind the phenomena of Professor Jiang. Enjoy. Thanks so much for doing this. This is this is cool.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0010
+
+## seg-0011 / 00:04:57-00:04:58 / SPEAKER_01
+
+So, yeah. Yeah.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0011
+
+## seg-0012 / 00:05:00-00:05:08 / SPEAKER_00
+
+So, yeah. So, yeah. Sorry. Yeah. I mean, I'm just looking forward to picking your brain about certain issues that have been bothering me. But yeah. Yeah. We'll start.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0012
+
+## seg-0013 / 00:05:08-00:05:39 / SPEAKER_01
+
+Yeah. You know, absolutely. Yeah. I would love for it to be a bit of a conversation. I have a feeling we assess the world in slightly different ways, but I am totally open. Yeah. But first, I would like to know a little bit about you, because probably like most people, you know, I didn't know you existed until recently. And suddenly you you're all over the Internet and, you know, millions and millions of views. And it's a very strange phenomena. So so who who are you? Can you give me a little just a bit about where you were born, where you were from, how you got interested in these questions and where you are now?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0013
+
+## seg-0014 / 00:05:39-00:06:41 / SPEAKER_00
+
+Yeah. So my background is I was born in 1976 in a village in South China. My family was very poor. My dad was a high school teacher. And because he had experienced a cultural revolution, he wanted to. He wanted to escape. So we went to Canada. My dad worked as a dishwasher and he's been a dishwasher all his life. He's retired now, but he had a very hard life in Canada. And we went over when I was six. And I was bullied a lot because I had a speech impediment. I stuttered a lot. And the language was bewildering to me. So I didn't do very well in school. And I was a very lonely child. And it was for me very awkward to grow up as an immigrant in Toronto. I had a very hard time growing up because my dad was he experienced a lot of racism at work and he was pretty violent and angry at home.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0014
+
+## seg-0015 / 00:06:41-00:07:34 / SPEAKER_00
+
+And so I had a very violent and traumatic upbringing and I wanted out of my home. I wanted out of Canada. And so when I was in high school, I set my sights on the Ivy League. Because they offered a full scholarship and it was just out of Canada. I really didn't know much about them. And I read a lot of books. And apparently you have to have like certain skills in order to get in the Ivy League. For example, you have to be an athlete. You have to have like leadership skills. You have to be charismatic. And I was none of those. I mean, I was just like this stupid immigrant kid with a lot of psychological issues. And so I set myself, I sort of redesigned myself in order to fit this like Ivy League, you know, package. And so I joined the soccer team because it's like they took anyone.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0015
+
+## seg-0016 / 00:07:36-00:08:19 / SPEAKER_00
+
+I started my own club because no other club would let me in. And I started to do well in school because actually, you know, in Canada, I'm like, everyone's stupid, so you don't have to do well in school. So you don't have to be that smart to do well in school. We have five years of high school rather than four because we're pretty slow. Up there. But but, you know, I applied to the Ivy League schools and I got lucky and I got to Yale because like no one wants to go to New Haven. I'm not sure if you've been to New Haven, but like no one wants to go to New Haven. So it was the only Ivy League school that took me. And I went to Yale and I was hoping to flourish as a person, hoping to meet people who are like me, who were like intellectually curious, who were very open minded, who had a passion for learning.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0016
+
+## seg-0017 / 00:08:20-00:09:17 / SPEAKER_00
+
+And that was not Yale. Yale was very much a school focused, focused on success, on achievement, you know, on on getting to law school, going to Wall Street, making a lot of money. And so I didn't really fit into Yale either. And so I started to search for my cultural roots. I started to learn Mandarin, Chinese, and I started to think about going back to China. And so after I got from Yale, I came I came to China and I've been ever since. So it's almost like it's over twenty five years. It's almost like 30 years now. I came in 99. And I wanted to promote education reform in China because, I mean, I was a depressed child. I was suicidal at times. I was bullied a lot and education really transformed me. I really believe in the power of reading, the power of critical thinking in order to transform lives.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0017
+
+## seg-0018 / 00:09:18-00:10:18 / SPEAKER_00
+
+I've been trying very hard to promote it. It didn't really work out. And a couple of years ago, I started to get into geopolitics and I started to make videos about my geopolitical predictions. And it was just a fun experiment. It was it was just a silly experiment to see how it was possible to predict the future just because growing up, I was a huge fan of Isaac Asimov and I loved the Foundation series. And so so that always stuck with me. And I and I was asking myself, are there certain patterns to history? And if there are patterns, then how can we decipher these patterns? So I started to make these videos about the United States invading Iran, about American Civil War breaking out, about Trump winning in 2024. And here we are, you know, so I was expecting about 5,000 subscribers. My ambition was 5,000 subscribers.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0018
+
+## seg-0019 / 00:10:18-00:10:22 / SPEAKER_00
+
+And yeah, now I'm world famous. And everyone hates me.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0019
+
+## seg-0020 / 00:10:22-00:10:47 / SPEAKER_01
+
+So yeah, yeah, you're getting bullied again in a different way. And I don't and I don't want to echo that. But but it's interesting. You caught a wave, certainly. And then just to set the record straight, because it does annoy people, your your your title on YouTube of Professor Jiang, you're not technically a professor, you're a high school student or teacher, excuse me. And these are recordings of your high school class. Just to set that record straight.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0020
+
+## seg-0021 / 00:10:47-00:11:29 / SPEAKER_00
+
+So let's let's set the record straight. OK, I have a B.A. in English literature. I have a B.A. in literature from Yale College, and that is it, that is the extent of my schooling, and I've worked in the high school for the past four years teaching the great books, so Homer and Dante and Plato, and at first I was just uploading my high school classes, but once it became popular about a year ago, people started to refer to me as Professor Jiang, and that's a lot better than me pronouncing my full name, which is Jiang Xueqian. So I said, OK. I said, let's just go with Professor Jiang, because it's the Internet and no one cares. You know, there's this guy who calls himself God and no one seems to mind.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0021
+
+## seg-0022 / 00:11:30-00:11:31 / SPEAKER_01
+
+So I know what you're talking about.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0022
+
+## seg-0023 / 00:11:32-00:11:56 / SPEAKER_00
+
+Yeah, so so so I so I started to pick up this moniker Professor Jiang and, you know, you know, I mean, like, like and, you know, ever since then, people have been making comments that I'm not a full professor. I don't have a Ph.D. I'm not accredited at a university. And that's all true. But but my viewers are like, it doesn't really matter. It's just our respect. Our respect to him. Yeah, yeah, yeah.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0023
+
+## seg-0024 / 00:11:56-00:12:48 / SPEAKER_01
+
+And personally, I don't care. I think there's a there's a credentialism that's ridiculous in the intellectual game. I mean, I have a book coming out on philosophy, but I don't have a Ph.D. in philosophy. So my call the philosopher like it's it's all a bit silly. So, OK, to set that aside, though, but yeah, so I would love to start with you. People, you know, are starting to call you this, you know, political prophet and these ridiculous, I think, ridiculous kind of terms. About the new Nostradamus and all this kind of stuff. Predicting the future is really, really hard. Predicting politics is really, really hard. Maybe you get right sometimes, you know, but we all do it in the in, you know, with our friends over dinner tables and in chat groups or whatever. I could give one of mine when Donald Trump won in 2016. I made a prediction that before the end of his term, he would make a motion to leave the U.N.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0024
+
+## seg-0025 / 00:12:48-00:13:08 / SPEAKER_01
+
+to have the United States revoke its membership to the U.N. It didn't happen in the first term. Maybe it happens in the second term. But what I say, oh, he made the board of peace. So I was kind of right. Like, you know, things are a little silly. But so how would you assess your your own accuracy of your predictions generally? How do you give yourself an assessment of that? How good are you at that?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0025
+
+## seg-0026 / 00:13:10-00:13:50 / SPEAKER_00
+
+Yeah. So I think I'm pretty good at broad trends about the general direction of the world. And I'm very bad at specifics and timeline. Right. So, for example, I thought that Trump would pick Nikki Haley as his VP. Instead it was Jada Benz. I also expected the war to start maybe in 2027 because you need about a year like staging operation. You want to like actually plan and do logistics and they didn't do that. So when it comes to timeline and when it comes to specifics, I'm not very good. But when it comes to like broad contours of general geopolitical movements, then I'm very good.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0026
+
+## seg-0027 / 00:13:51-00:14:44 / SPEAKER_01
+
+Yeah. OK. All right. Fair enough. Well, then let's get into. So the the the parts where I have the biggest questions and I think and then, you know, I would love for you to ask me and pick my brain as much as you want. But I think this will lead to it is your emphasis on secret societies, Freemasons number, numerology and this kind of stuff. I have to admit, it's not so I find it not all that useful even in making predictions or explaining the world. And I'm curious why you. You do. And I want to preface that, that I don't think it plays no role as we as we get into maybe this part of the conversation. I'll preface this by conspiracy theory. Thinking or conspiracies is such a flimsy term that I'm really not afraid of. But I but I there's certain things that don't kind of pass the smell test for me
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0027
+
+## seg-0028 / 00:14:44-00:15:36 / SPEAKER_01
+
+of, you know, when it drifts over into like, well, why are we deploying or pointing to secret societies? Or conspiracies or Illuminati or whatever, when just sort of normal human psychology would be enough to explain the the situation at hand of greed or whatever. So just give me a sort of general sort of like, where does that emphasis come from on on something like I pulled up one of your things? I think it was your post on when World War what you said, World War three started the day America attacked Iran. You know, when you're writing sort of an assessment on that very first day, it was when we didn't even know if Khomeini was was dead. But then. You write, you know, that American officials have stated that Operation Epic Fury will only be a four day or will be a four day operation, which means that it should end on Tuesday, March 3rd, which coincides with the Jewish holiday of Purim.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0028
+
+## seg-0029 / 00:15:36-00:16:04 / SPEAKER_01
+
+When Israel celebrates how Jews rallied together to foil an extremist plot or extermination plot in ancient Persia and killed 75000 of their enemies, as recounted in the Book of Esther. That day also is when a blood moon will appear and Freemasons who control America's national security. Apparatus Revere the number 33 and it goes on from there and it just feels like at some point that paragraph shifted into like, wait, why are we talking about the Freemasons now? So where does that come from?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0029
+
+## seg-0030 / 00:16:04-00:16:57 / SPEAKER_00
+
+I can only sympathize. And a year ago, I would have I would have completely agreed with you that this is all just a silly conspiracy. So what happened? What happened was this. So when I started this class, I was I wanted to understand how the world worked and I and I wanted to explore all different possibilities. That's how my mind works. I'm very curious. I love to learn. I love to ask questions. I love to explore. And if you go back to my early lectures, like the first two series, the first on your strategy, where I made the prediction that the United States would attack Iran, if you go to civilization where I do, where I do 60 lectures on the history of human civilization, I do not discuss secret societies at all. I don't discuss conspiracy theories at all. But then there are certain theories. There are things that led me to think much more about conspiracy and secret societies.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0030
+
+## seg-0031 / 00:16:58-00:18:02 / SPEAKER_00
+
+So I started to look more into 9 -11 about, you know, the moon landing about JFK. I started to look more about what's happening in geopolitics. And I started to recognize that, you know, this standard geopolitical theory that I have, game theory, doesn't really explain everything. Because for me, my question is, why do these patterns persist? And who are the people who are actually implementing these policies? And why are they doing this? So I had all these questions in my mind. And so I started to, you know, do research on the Internet, which is a terrible, terrible way to, like, learn anything. But I became much more interested in different secret societies. The Freemasons, 17th Francis, the Mormons. And, like, you know, again, like, I had a very standard classical education where none of this was ever discussed. Right? I never heard the word Freemasons before in my life.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0031
+
+## seg-0032 / 00:18:03-00:19:02 / SPEAKER_00
+
+Before, like, two years ago. And so I started to dig deeper and deeper. And I started to read more texts. Okay? So I'm not sure if you know who Albert Pike is. But he's the grand architect of American Freemasons. And he wrote a book called Morals and Dogma. And it's, like, 1,000 pages. And it lays out systematically the belief system of the Freemasons. And if you just read the book and you apply it to what's been happening in the 20th century and the 21st century, then, like, oh, this seems as though it's a schematic for how to move the political system forward. And then I read Jacob Frank's sayings, Wisdom of Our Lord. And if you just read what he writes and you just think about how this world is turning out, well, then there's a connection. And then I started to do more research on Isaac Newton and his interest in alchemy and his interest in biblical prophecy.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0032
+
+## seg-0033 / 00:19:03-00:19:54 / SPEAKER_00
+
+And, you know, for me, unless you look at this eschatology, it's almost impossible to understand why this war in the Middle East is happening. Because it's a complete dumpster fire. Right? Yeah. And he's a man without a strategy, without a purpose. And now he's making stuff up as he goes along. Right? Now he's saying that our main purpose is to reopen the strip and hold moose to promote global commerce. And it's, like, sorry, buddy, but that thing wasn't closed before. Now it's closed because you started a war. You killed their granite. You killed their atatola. So, I mean, like, I don't think people behave irrationally. I think there has to be a logical reason why this is happening. Yeah. unless you factor in the eschatology and the secret societies i think it's very hard to explain what's going on so so you know i'm doing everything as a thought experiment
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0033
+
+## seg-0034 / 00:19:54-00:20:12 / SPEAKER_00
+
+i'm doing a thing as i'm curious as to what's going on let's try different possibilities and let's see what sticks as opposed to like this rigorous academic research which is like you know like i've done 10 years on this topic and here is my paper and right so so it's gonna be the opposite of academic scholarship
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0034
+
+## seg-0035 / 00:20:12-00:21:07 / SPEAKER_01
+
+yeah no i think that's fair um yeah i let me preface this um with uh my approach here because i think we are full of a lot of mythologies and a lot of bad information i think i think it's kind of how we operate we get as children we get sort of a mytholized version that's very nationalistic and biased or religion tells us something um and and i too like you so i i grew up a little my american you know apple pie background jewish background which i'm sure we're going to talk about that sort of zionist but the suburbs of america played baseball and you know i had friends and i had a different childhood than yours but i i did have a certain uh mythology coming my way that i always was worried about and it was it was this zionist judaism post -america post -holocaust american style judaism but in particular one
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0035
+
+## seg-0036 / 00:21:07-00:21:57 / SPEAKER_01
+
+of my sort of founding intellectual uh moments that i i still recall i was in hebrew school which was like extra school that i went to a little bit after on tuesdays and thursdays it must have been like 14 years old or something and a lot of the education in that is holocaust based and world war ii based it's it's the real bar mitzvah frankly is is the birthright trip when you're 16 or 17. i didn't go on a separate story but after you're 13 you start getting a lot more of this and the mythology of hitler and nazism is very strong it's the founding myth and it does a lot of work obviously for the support of israel and the continued uh sort of uh culture but i remember my teacher one day talking about hitler and describing him as a monster and using the word monster a lot and i remember probably like
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0036
+
+## seg-0037 / 00:21:57-00:22:46 / SPEAKER_01
+
+you thinking like i'm not very satisfied with the way this conversation is going and i raised my hand and i basically said monsters don't exist right monsters are fairy tale stories mythologically we could talk about monsters but hitler was a man we're men and the idf are are men or humans and so is hamas and so are you and me and everybody watching this and humans are capable of doing this and and if we're going to walk down the street with the mythology about a monster and if that's what i have to look out for the next you know two -horn devil walking down the street to watch out for the next holocaust well i'm never going to see it because monsters don't exist so i want to know what really happened and why it happened now pulling the the Some people are very worried about this. So just to be frank, when I told
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0037
+
+## seg-0038 / 00:22:46-00:23:38 / SPEAKER_01
+
+my audience that you were going to come on, many people were like, oh, don't talk to that guy, right? He's super dangerous. And they sent me clips, which I'm going to ask you about, of like, oh, he's a Holocaust denier and all this kind of stuff. And I want you to clarify them. But somewhere between me as a 14 -year -old being like, you know, telling me that Hitler was a monster and it's just a big evil and anti -Semitism is this, you know, ancient devil that I have to always look out for, somewhere between that being bullshit and, you know, the Holocaust didn't happen is obviously some truth that I want to discover because I don't want any more to happen. And because, as you said, the patterns keep repeating themselves and we keep repeating themselves. You know, that's how I approach a lot of these questions. And then just one more thing to put on your plate, because I like to question a lot of things as well.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0038
+
+## seg-0039 / 00:23:38-00:24:22 / SPEAKER_01
+
+And I doubt the official story. 9 -11, I was near New York and it became, many people still doubt that story, obviously, and it made a lot of people conspiracy theorists. But I had some friends who I was very close with who actually lost to suicide when I think they start, one in particular, I tell a story on the show, fell into. A certain kind of pattern of conspiracy theory thinking that I don't think was quite attached to reality anymore. And he started reading a lot of William Guy Carr. I don't know if this is someone you've come across. He's really big on the number 33 in the Freemason stuff. He was an anti -communist. And so, like, sometimes just to sort of push back on, like, reading a lot of stuff, certain books can be bullshit as well. But anyway, that's how I approach this question.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0039
+
+## seg-0040 / 00:24:22-00:24:52 / SPEAKER_01
+
+So why don't we try to meet somewhere in the middle? I'm curious. You know, we came from very, very different backgrounds on these questions. But clearly, you and I are both dissatisfied with a bullshit story about something even as monumental as did the Holocaust happen or, you know, what was Nazism about that I do want to find truth about. And I feel like we're clearly not alone. And it's why you're getting so many views. But they are careful conversations. And I will admit, starting to pull the thread on that sweater makes a lot of people very, very anxious. Right?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0040
+
+## seg-0041 / 00:24:55-00:25:01 / SPEAKER_00
+
+Right. So one funny thing about me is you never went to Israel. Right? Have you been to Israel?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0041
+
+## seg-0042 / 00:25:01-00:25:32 / SPEAKER_01
+
+I did go to Israel. Just to complete that story, I was, you know, most of my friends went to Israel when they were 16 or 17 years old, which is not quite birthright. You have a birthright to go until you're 26, according to Sheldon Alderson. But this was, like, paid for by more wealthy parents to send your kids on, like, a fancy trip. My older brother went on it. I opted out of it because I just didn't want to go. And I hated it. And I went to Africa instead. And it kind of changed my life. I tell that story elsewhere on the show. But I have gone twice, including also to Palestine on film projects. Which is really my day job as a filmmaker. So, yeah, I've been there twice. Yeah, yeah.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0042
+
+## seg-0043 / 00:25:33-00:26:26 / SPEAKER_00
+
+Right. Yeah, so I've been on the birthright trip. So I'm not Jewish, as you can tell. But I've been on the birthright trip. I spent a week in Israel. And the reason why is that in 2012, I was a famous educator in China. So the Technion invited me to visit Israel. And I said, I'll come if you let my students come as well. So. So they arranged for us to do the birthright thing. So it was not technically birthright. But we stayed in the same hostel. We were at the same locations. We had the same tour guides. We also had a security guard. So, but, I mean, Israel is just lovely. And, you know, on the first day, went to the Hotspot Museum in Jerusalem. I'm not sure if you've been there. But it is one of the best museums in the world. Regardless of how you feel about the content. I mean, it's extremely well designed.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0043
+
+## seg-0044 / 00:26:27-00:27:28 / SPEAKER_00
+
+And, I mean. And the tour guide, I mean, she brought us to tears. I mean, she was so, she was American. But, I mean, she was such a great storyteller. And she was very passionate about her job. And that was one of the most moving experiences of my life. So, you know, I've always believed in the standard Holocaust narrative. And, you know, one of my favorite books is actually Hannah Arendt's Origins of Totalitarianism. It's a fantastic book. Yeah, yeah. In my opinion, really the best political science book of the 20th century. And it's something I've taught before to my students. And it's such a powerful, brilliant book. And that helped me understand the Holocaust a lot better, you know. So, my issue is this. My issue is I believe the Holocaust happened. So, in my opinion, Hitler made a speech every single day demanding the extermination of the Jews. Yeah. Yeah. Yeah. Yeah.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0044
+
+## seg-0045 / 00:27:28-00:28:29 / SPEAKER_00
+
+Nazi bureaucracy spent years and years planning this out meticulously, right? Because I also read Hannah Arendt's Banality of Evil, Ekman in Jerusalem. So, I just assumed in my head this was the case. That it was a systematic and bureaucratic mission to exterminate all Jews from Germany. And so, when I was teaching my civilization course, I wanted to show. Yeah. Yeah. Yeah. I wanted to show the anatomy of hatred. What drove the Germans to hate the Jews this much? And I wanted to analyze Hitler's speeches and the bureaucratic memos in order to gain insight into the psychology of these Nazis. Because that's my background. I'm an English literature major. And I specialize in close reading. We call it close reading at Yale. So, we basically read texts and look at diction and syntax in order to figure out the psychology of the writer. And so, when I was teaching my, when I was teaching my, my, my, my, my, my, my, my, my, German speaking class to Germany, like, like Prussia.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0045
+
+## seg-0046 / 00:28:30-00:29:15 / SPEAKER_00
+
+I spent a lot of time looking for his speeches, going for speeches, which was not that many. And I tried to do a lot of research on the internet and I couldn't find anything. I mean, so, so, so that's, that's what confused me. It was kind of dissonance where it is a systematic extermination ordered by Hitler. You would think it would be a speech justifying or explaining. Why he's doing what he's doing. doing in order to rally the german people to his cause or at the very least there would be a blueprint a bureaucratic blueprint for how you would actually implement this because i mean it's logistics right you need to bring in the gas from somewhere you need to pay for it you need to right right i mean like like like like it like it has to be
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0046
+
+## seg-0047 / 00:29:15-00:29:37 / SPEAKER_00
+
+like a military operation and i couldn't find any documentation i couldn't find any um real direct evidence and that's why in my lecture um i said listen um i'm not saying the holocaust didn't happen it must have happened but there's no direct evidence for it that i could find which i found really frustrating okay so so that's a
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0047
+
+## seg-0048 / 00:29:37-00:30:30 / SPEAKER_01
+
+background to what happened yeah um i think that's still going to not leave people satisfied because you know they're i'll tell you from again my my perspective the the mythology kind of always outruns the truth and that leads to people then questioning if the truth is the truth at all most times i think the exaggeration is just for political or psychological reasons so for example i mean i you know i grew up hearing about the holocaust a lot every day and in my mind i you know you get the picture of the striped pajamas and uh you know a decimated body and the gas chambers and the arbeit macht fried at auschwitz and you get this impression of this you know massively mechanical machine like a like a pink floyd video or something and you know the truth is and you get the six million which and i don't you know i'm not a historian
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0048
+
+## seg-0049 / 00:30:30-00:31:14 / SPEAKER_01
+
+but it seems like by all historical accounts the the settled number is actually 5.2 to 5.4 whatever still like an insanely massive number i'm referencing like roy casagrande in my head for that one right now um and to your point about numbers and numerology six is a is a bit of a holy number for jews and the six -day war was actually five days and they liked the number six so maybe that plays into the mythology storytelling of it right um but you know a lot of they were killed on the spot shot uh you know murdered in trains all kinds of different ways which is a different picture and that doesn't mean the holocaust that everything i just said is like of course the holocaust happened but like the mythology of it and kind of the storytelling the monster machinery version of it you know is is exaggerated and so you know
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0049
+
+## seg-0050 / 00:31:14-00:32:08 / SPEAKER_01
+
+you said you're an expert in or you study language and everything the language becomes obviously incredibly like delicate to parse those kinds of questions for example it's very um i think it's known that a lot of zionist groups uh very controversially and i think disgracefully go out of their way to not allow other victims of world war ii to be included in holocaust memorials and whatnot the roma and everything and i think it's despicable but there's political reasons for it right they want to own that history in order to justify their project in in zionism i don't need like a sort of you know phd in psychology to know why they're doing that i just think it's horrible but then you know to say if i would say like you know the the jews were a primary target of the nazi extermination but basically the nazi you know aryan mythology was interested in exterminating all
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0050
+
+## seg-0051 / 00:32:08-00:32:55 / SPEAKER_01
+
+non -aryan people like all enemies of the state so poles who were like amongst the first victims and homosexuals and roma etc and jews were included amongst them um you know is that me denying or downplaying the holocaust it just all gets a little crazy and over and over and over or so besides the holocaust like why would they try to kill and lesser of all i think it's really difficult for people to believe when er sogla At any rate there was helpfulness in the illegal genocide of the gnectTuT i mean it's actually fantastic the enemy is able to deal with it you know danger is messing around cZ we can't get into the military it's not very time -consuming you know so you get developers to do everything that they could with it and so when i get to the union i think it's a um it would be a great surprise to see
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0051
+
+## seg-0052 / 00:32:55-00:33:06 / SPEAKER_01
+
+and it would be almostDC they find just like kind of astounding to be like oh what should the gnectTuT and i are after saying that like i i don't think anything will satisfy them but you know is that yeah you can respond to that because it's a very delicate subject and i think i think i can really
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0052
+
+## seg-0053 / 00:33:06-00:33:27 / SPEAKER_00
+
+agree with you and i would also add it this is war right and they they have like food shortages and guess what they're not gonna give food to people that they don't like right right so i mean a lot of it's gonna be starvation a lot of it's gonna gonna be uh criminal uh neglect um a lot of it is just me um hatred of other people um and and i i think that is disgusting in itself
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0053
+
+## seg-0054 / 00:33:29-00:33:45 / SPEAKER_01
+
+right right right well that's great well then yeah so then and to your point actually this is a really good one we'll stay on and we could talk about the judaism thing because so you when you went to israel and you did the birthright stuff i think this is a perfect example i'm assuming they took you to masada as well did you do the hike and the oh yeah yeah it's a beautiful place
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0054
+
+## seg-0055 / 00:33:46-00:34:01 / SPEAKER_00
+
+and you know it's such a it's such a compelling story um the tour guides we had were fantastic you know um masada is is definitely one of the defining moments of jewish history but they hate the romans by the way their hatred for the romans was palpable
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0055
+
+## seg-0056 / 00:34:01-00:34:46 / SPEAKER_01
+
+yeah but but but it's a perfect example because so like this story uh and i don't know if if you know it the story around masada so the mythology for the people who don't know this it's this fortress you know up in the up in the mountains that um uh you climb every birthright trip goes there basically and you guys went there as well you do this sunrise experience it's this emotional kind of like punctuation mark george w bush went there immediately donald trump was supposed to go there on his first trip ever to israel but he but they wouldn't let him land a helicopter there so he crossed it off the list because he didn't want to take the thing to the top or whatever but it's a really important place and the mythology is this group of jews who was facing extermination this is in second temple judaism so the second temple is
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0056
+
+## seg-0057 / 00:34:46-00:35:36 / SPEAKER_01
+
+built in in jerusalem and they're in the middle of the roman jewish war where the romans are in the whole area and and you know their intent on wiping out the jews and extinguishing the jews in this one group of rebel jews what was at this fortress they retreated there and they realized it was a lost cause and the romans were closing in and they build these mounds and they're going to be taken but instead of being captured and enslaved they commit an act of suicide together like 900 of them or something and they draw lots to see who gets killed first and you know you kill the next person and the very last person kills himself it's like this crazy romantic story but but that story is almost certainly according to the archaeologist and so so you know his name i forget his name yigdal yadin i think so but again this makes perfect
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0057
+
+## seg-0058 / 00:35:36-00:36:31 / SPEAKER_01
+
+sense that he was uh ben -gurion's uh architect or uh archaeologist he was a state archaeologist basically and a big zionist and it was a fervor of a mission to basically dig in the ground everywhere in palestine and and claim that you found jewish civilization to make the name to national sovereignty even stronger for the jews um and all modern archaeologists people should look this up all martin most modern archaeologists think like he basically exaggerated the story and made this whole story up yeah based on the account of one guy who was a he was actually jewish and then he switched to the roman side flavius josephus or something it wasn't his real name yeah yeah so if you know this original story um the original story was about the sakari which they were actually described almost like a hamas -like group like an extremist group who killed people and murdered people and they were
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0058
+
+## seg-0059 / 00:36:31-00:37:27 / SPEAKER_01
+
+assassins and so this historian of jewish culture who actually was then working for the romans described this this thing that happened at masada as as a mythology for the roman empire almost ironically to tell them that you you weren't actually killing jews you were just killing extremists you don't kill jews but you had to take care of these extremists which sounds identical to the way that israelis talk about or the idf talks about their war not with muslims or islam but with these extremists in hamas etc so anyway the masada story is a perfect encapsulation and by the way for anyone who's interested the idf still goes there when they complete their mission and they and they and their new recruits and they say masada will never fall again it's like this very strong mythical so saying all that though it's like i didn't need to smuggle in any kind of conspiracy weirdness it's like
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0059
+
+## seg-0060 / 00:37:27-00:38:04 / SPEAKER_01
+
+i understand all of the pieces of that mythology um but obviously it's it's to your point of how you predict history uh or try to predict history using this stuff those beliefs those myths are incredibly operative in our world and making a prediction about something like you know will they uh blow up al -aqsa mosque in um i think so yeah yeah yeah yeah i hope so he think he's right so i think it's 공격 we so there is no such thing as like an old theory it's an old theory that we need to know this stuff in order to do it so i don't know if you want to respond to that but that's a perfect example for me of like conspiracy mythology but actually just you know look hijacking history right so yeah so
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0060
+
+## seg-0061 / 00:38:04-00:38:48 / SPEAKER_00
+
+we were initial for a week and the masada uh experience was definitely one of the highlights because the story behind it was so compelling right we're so good ontario had surrounded the zealots right the the last defenders of of the jewish faith and the romans were brutal like they tried months and months to find out what the jewish faith is in hamas uh and there's a story for example to take it and they were like catapulting dead Jewish bodies into Masada knowing that the Jews could not you know like like the Jews would would protect these bodies and therefore they would get diseases right so it was a really compelling story that was very black and white and you know which which which I mean like it just sticks in your mind like I went there like in 2012 and it was just a very small part of our experience but it was still one
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0061
+
+## seg-0062 / 00:38:48-00:39:05 / SPEAKER_00
+
+of the most memorable experiences along with the the Holocaust Museum so regardless of how we feel about Israel they have a really great way of doing propaganda and narrative that's that's so powerful yeah yeah his his father just
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0062
+
+## seg-0063 / 00:39:05-00:39:59 / SPEAKER_01
+
+as a side note that archaeologist was the one who discovered the Dead Sea Scrolls as well so he was he was already sort of in this lineage of archaeologists but yeah but yeah so calling it propaganda I think is the proper way to put it and then it's yeah when people like you and I start questioning it I think or especially you you get a lot of pushback from you know those on the internet who want to you know discredit you as it were but so so I guess I'll ask the question then how does how does all of this kind of knowledge help you or do you think it helps you make predictions about the general trends of of the world you know leaning on the Illuminati and all of these kinds of things I mean how I guess I guess I'm still a little stuck on the secret societies like how real do
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0063
+
+## seg-0064 / 00:39:59-00:40:06 / SPEAKER_01
+
+you think that is or are you using it as sort of just a predictive tool I just need to know right okay
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0064
+
+## seg-0065 / 00:40:06-00:41:04 / SPEAKER_00
+
+um so I think that eschatology is interesting for my work because you actually think about what eschatology is it's almost like a hidden history because human history goes back you know thousands of years and if you actually look at history from a broad perspective there are certain patterns to it and the reality is the Levant on the Middle East has been um a the site of many important wars just because of its location right because the Levant controls access to Egypt Anatolia Mesopotamia and this historically was the wealthiest part of the world so there's always been these wars going on in the Levant and I think that um like like if you live in the Levant it's almost like you're living through the apocalypse every you know 20 years or 40 years because there's so much violence going on I think that this eschatology it's almost a way of trying to allegorize this traumatic history
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0065
+
+## seg-0066 / 00:41:04-00:41:58 / SPEAKER_00
+
+in a way that future generations can learn from and that and that's why I think you know like like it's like if you want to predict World War III the best place to I mean you can just bet it's gonna be in the Levant or Middle East because historically that's always been the case right uh because because of of of a very important location so I think first of all eschatology is important because um it's revealing to a certain patterns of history um that's that that is then formulated into an allegory that's number one number two is I see history almost almost as a plan or a script right because if you really believe in this eschatology then you also want to know right I mean like it's almost like when you grew up uh as a child and you you watch this movie right and you love this movie right Star Wars maybe right
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0066
+
+## seg-0067 / 00:41:58-00:42:57 / SPEAKER_00
+
+well you want to be Luke Skywalker right you want you want actually if you have the means if you have the power you want to be like Luke Skywalker you you look like like Jeff Bezos right what's he doing he's shooting like Rockets up in his face because he was a huge star star trek fan right so you have the power in the means And so I think that's why eschatology is also very important, because the people who run this world, even though we don't know who they are, it seems as though they do believe in this eschatology. So that's the second point I will make. And the third point that I will make is that eschatology, what makes it really important in our world is that it's a generational script, meaning different generations can achieve different aspects of this plan. And they can work towards the larger goal. And yeah, so that's why I think eschatology is very important.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0067
+
+## seg-0068 / 00:42:56-00:42:57 / SPEAKER_00
+
+
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0068
+
+## seg-0069 / 00:42:58-00:43:47 / SPEAKER_01
+
+Yeah, no, that was good. If I could respond to it, because again, the one phrasing when you're like the people who run this world and we don't know who they are, like, you know, it sets off little flags for me where, again, I just have flashbacks to like my friend who's like, well, why did that have to be in the explanation where I'm like, let's talk about 9 -11, right? Like, yeah. You know, I think and people are starting to ask serious questions about it from Tucker Carlson and everyone else. And they should be. I've been asking serious questions my whole life about it. So doubting the, in quotes, official story, I think everyone should be doing at this point. And then talk about something like Israel, right? Like Israel had a geopolitical advantage to that day happening. Now, does that mean they engineered it? Right. A lot comes down to the verb you choose here, right?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0069
+
+## seg-0070 / 00:43:47-00:44:33 / SPEAKER_01
+
+It's like, does that mean they orchestrated? It does that mean they assisted it? Does that mean they looked the other way at certain times and hopes that it would happen? And I think though, like parsing the kinds of careful words in there for me has always been important because, and I'll just put this out there. If it was, I'll just take you literally. And I know this might be unfair to you, but if there were like a group of people running the world and we don't know who they are. And I took that sort of literally, it would be like, well, if Israel fully was orchestrating that, they never would have had it be a bunch of Saudi hymen. They would have been like, maybe an Iranian and a Palestinian and a few other people that they would have hated. You know, they would have changed some details on that day to make it better fit the narrative that they were then hoping to deploy.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0070
+
+## seg-0071 / 00:44:33-00:45:23 / SPEAKER_01
+
+Right. If Donald Rumsfeld was fully in control of it, he would have been like, can we make them all Iraqi? Can we just, you know, can we do something like that? So, you know, the fact that it was like close enough for them to try to fit this narrative into the world. And then, you know. You know, say axis of evil and start of world war, whatever, you know, they're up to, I think is like somewhere in that. I always fall short of the kind of sentences that you deploy of like there's there's a group of people we don't know who they are versus there's definitely things that we don't know. We're not told as the public that are at play in even a big traumatic world event like 9 -11. That fall well short of like complete control and pulling the strings
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0071
+
+## seg-0072 / 00:45:23-00:46:12 / SPEAKER_01
+
+and people in a shadowy room and the Illuminati deciding what's going to happen on 9 -11. But need to be exposed. And if I could just put out sort of my hypothesis of your, you know, extreme popularity is because everyone is sick and tired of being lied to. And so they're certainly excited about you offering, in my view, sometimes an overly confident description of what might be happening. But people are certainly asking. Questions and want want to know what's out there. If you know, like the Frank Church Committee, where America has been in this mode before and he's like people are sick and tired of secret societies. And he mentioned Israel by name and certainly like we're in that mode again. So I don't know if you want to respond to that. But it's just still that language of like how literally am I supposed to take when you say people running this world? We don't know who they are.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0072
+
+## seg-0073 / 00:46:12-00:46:29 / SPEAKER_01
+
+I'm kind of like we kind of know who they are and we're tired of them kind of pulling the strings a little bit. But they're not. They're not like, you know, flying chemtrails over and dropping brain control serum into my mind. That's just like there's some there's somewhere where I have to find my footing in that.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0073
+
+## seg-0074 / 00:46:30-00:47:35 / SPEAKER_00
+
+Right. So I'm still grappling with secret societies like who they are, what they do. Yeah. And but I mean, if you go to the Epstein files, right? The longest time people just assumed this guy was a Mossad agent and he was running a honeypot operation. I should look at the Epstein files. It was clear from these exchanges that the Epstein Island was like like a weekend getaway for him. This is not what he was doing. I mean, like, like, like, every island was just fun. And Bill Gates and Bill Clinton went because it was fun. But his main business was money laundering, arms trafficking, geopolitics. And remember, we wouldn't have access to about 50 percent of his emails. And people say it's actually only two percent. So how he made his money, what he was doing around 9 -11, we don't know how he's involved in geopolitics. We can suspect. And actually, some hackers have released Ehud Barak's emails.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0074
+
+## seg-0075 / 00:47:35-00:48:36 / SPEAKER_00
+
+And those emails give us more insight into how Epstein was really entangled in geopolitics. And again, this this is a guy who has no official position, who I mean, no official position. No one knows who who this guy was. And I think the great mistake was to assume that he was working for Israel. You're actually better off saying that Israel was working for him. Right. So it's almost like these nation states, Israel, the United States, Russia, they're all puppets of people behind the curtain, this transnational elite. We don't know who they are, but they're actually the ones who are really pulling the strings. And a term I often use to describe these people is like transnational capital. Right. See if London lost. These people. And what allows them to coordinate? What allows them to actually control the world is the control of secret societies, Freemasons, Jesuits, 17th and 18th century. And so this is my working theory of how the world works without any evidence.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0075
+
+## seg-0076 / 00:48:36-00:48:39 / SPEAKER_00
+
+Right. So so so this is all speculation on my part.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0076
+
+## seg-0077 / 00:48:40-00:49:30 / SPEAKER_01
+
+Yeah, that's fair. Yeah. Okay. So it's not my preferred language of the secret societies or whatnot. But you said something actually I didn't address in the previous answer about eschatology that I think is really, really good. about sort of the the habit maybe a psychological habit to um you know assume the role and play the part that fulfills these holy books and whatever it is i think that is a real true phenomena which again doesn't you know i don't think that you need to deploy the secret society stuff to do it um like famous jeffrey epstein you know i just talked to peter beinart who's an interesting guy and we talked about judaism quite a bit and he i think some of my audience is happy with it some thought he was deflecting a little bit where i probably like you absolutely think the doctrines matter what these things say right and so i made
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0077
+
+## seg-0078 / 00:49:30-00:50:19 / SPEAKER_01
+
+a film with sam harris famously don't like what he's done with the conversation at all i think he's made massive mistakes i feel like the new sam harris but i'm going to do it without being a bigot if i can um where i'm putting on the table that yes religion actually matters and it and it affects world events it affects the way you operate in the world and mostly i think it operates as a kind of scaffolding or molding function of existential anxiety or resentment you feel or dread you feel i had hamed dabashi on the show who i really love wrote a book about islamism and it's sort of uh marriage with anti imperial anti -american capitalism and how it became a vessel to fight that it makes people very uncomfortable to talk about something like hamas as a resistance movement but i think it's a great book and i think it's a great
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0078
+
+## seg-0079 / 00:50:19-00:50:56 / SPEAKER_01
+
+book and i think it's a great book and i think it's a great book but and i'm not excusing the religiosity of hamas but of course if the palestinians had all been janus buddhist or something and experienced the same kind of um suffering and humiliation and cultural humiliation for for years and for decades and decades and decades they would have a lot of resentment which i think would still surface but it would surface in a different way given a different religious context and that is not to to be a critic of islam i think it's a different political context and that is not to be a critic of islam i think it's a different religious context and that is not to be a critic of islam i'm actually saying it has very little to do i'm actually saying it has very little to do with the initial sort of feeling of injustice judaism is is
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0079
+
+## seg-0080 / 00:50:56-00:51:56 / SPEAKER_01
+
+its own set of theocracies eschatologies religious beliefs it's a it's a complicated one i think it has unique features which i could talk about or i could put my thoughts out which absolutely shaped the way that it kind of manifests and appears in the world so someone like jeffrey epstein had the talmud sitting behind him in in his island. I was going to call it Epstein Island, but I was using his name. I don't know how much he read the thing. He basically seemed illiterate based on this. But I think he probably wanted to somehow live out a fantasy of being a Jewish, whatever, rabbi or conqueror or whatever. Netanyahu clearly sort of gets enraptured by these same kind of fantasies. He envisions himself as the next King David or Herod or whatever. He's talking about Genghis Khan now. So these things really, really do matter and become the kind of lens through which we operate our violence many, many times in the world.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0080
+
+## seg-0081 / 00:51:56-00:52:40 / SPEAKER_01
+
+And I don't think Judaism is different. So, you know, do I think it works in a way that, you know, Jeffrey Epstein is reading the Talmud and it tells him to do something and then he goes and does it? No. Again, I don't even know if he could even read the thing. But I think that stuff does have an absolutely crucial role to play in not just the personal, that I'm talking about with someone like Jeffrey, but the geopolitical, but the conquering stuff. So that's where I find your lens really useful. And if I will just put this sort of pin on it too, because imagine if, you know, human civilization was sort of wiped out in a massive war right now and everyone just sort of was crushed and then all of this was left as rubble and buried under millennia of dirt and whatever.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0081
+
+## seg-0082 / 00:52:40-00:53:23 / SPEAKER_01
+
+And then some alien civilization came along and found all of our ruins in the archaeology, maybe even some hard drives that they could figure out how to plug back and they wanted to retell the story of what happened here. I think they would absolutely be telling a story about the third temple and these beliefs about gods and demons and, you know, the same exact way that we talk about when you go to an archaeology museum, ancient civilizations, and all we hear about is they had some belief in a certain god and these people had a belief in, you know, the great spirit and they fought over, they thought this volcano was God. Well, I think if we actually had a time machine and went back there, we'd probably find humans just like you and me. Who were making arguments about like, well, it's geopolitics and psychology, but the thing that kind of sticks in the
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0082
+
+## seg-0083 / 00:53:23-00:53:46 / SPEAKER_01
+
+ground for millennia, as you're saying, or future generations is kind of the gods and demons stuff. And so I do find your lens actually quite good for predictions. I think we will live through the day when Israel blows up Al -Aqsa Mosque. And how else would you explain that other than doctrines of Judaism? So it matters.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0083
+
+## seg-0084 / 00:53:47-00:54:39 / SPEAKER_00
+
+Yeah, no, I completely agree. And it's something that this is a revelation. This was a revelation to me, like, late my life, like two years ago, because I had a very classical education. And what an elite education does is it educates you out of religion, right? And it teaches you to think in a certain way that is non -religious. And the reality is that most of humans are religious, like, you know, 80 % of humans have practiced one religion and take it very, very seriously. And it's what... some meaning and purpose in life one thing i want to add to your summary which which was brilliant um is that there's a possibility that um humans have have been on this planet for at least 200 000 years doing civilization okay so we know from science that humans uh go back 200 000 years but we only have like 10 000 years of our history right
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0084
+
+## seg-0085 / 00:54:39-00:55:26 / SPEAKER_00
+
+back to go by tepe and so where we what we what we're doing for the rest of this time it's hard for me to believe that we're doing nothing all this time so it's it's entirely possible that we've had different civilizations before right so if you go to antarctica uh if you go to amazon if you go to go back tepe if you go to the grand canyon you'll see a lot of evidence for lost civilizations and i think you're absolutely right in that what religion really is it is a distillation a memory of these lost civilizations because i mean like the idea of religion is just the easiest to um uh survive um time and space so so that's why i think religion is so crucial and if you look at all the major religions they're basically saying the same thing and if you go deep into their occult it goes back to a
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0085
+
+## seg-0086 / 00:55:26-00:55:53 / SPEAKER_00
+
+very similar outlook in in the world so recently i've been studying the kabbalah um and you know you know i'm not sure if you have if you have any experience with the kabbalah but it's really interesting and i can completely understand how if you're immersed in the kabbalah it drives you into certain behavior that manifests in in the world uh in the world today yeah i'll i'll share yeah that's quite good
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0086
+
+## seg-0087 / 00:55:53-00:56:31 / SPEAKER_01
+
+i i can't speak on the ancient civilization stuff it's fun to think about you maybe you know more than i do about what's in the dirt but um i'm open to it um i'll tell you my sort of experience with judaism uh because you know i grew up again american suburbs post -holocaust parents were born in 51 both of them so this is after the creation of the state of israel uh but you know grandparents of other nations were born and the only thing i remember is that they were born in the world because century of the world so that's probably what you know in my own personal memory and certainly with living memory of of europe and world war ii uh my particular family chain left earlier in the early 1900s but so i grew up with the judaism that we all learned hebrew but we only learned how to pronounce it we don't
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0087
+
+## seg-0088 / 00:56:31-00:57:18 / SPEAKER_01
+
+know what it means so we're all sitting there in the synagogue mumbling in a language that we've memorized the sounds of, but we have no idea what it means. There is an English translation on the other side, which I would always read because like you, I'm like, what the heck are we saying? And does this matter? And so I think for someone like me, I got broad strokes of the religion, mostly passed down through family and custom and, you know, holidays and whatnot. But you get the emphasis of the religion. And Judaism is a particularly interesting one that I think has its own potential forms of maladies, the same way that Islam, Christianity, and they all do. And in particular, it has an emphasis on, there's a lot of ways to interpret this, on being a family, which could be a genetic line, which could be sort of a national line. It's a biblical story.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0088
+
+## seg-0089 / 00:57:18-00:58:05 / SPEAKER_01
+
+So interestingly, and maybe you know more than I do on this, but with Judaism, it's kind of weird that it has a creation myth, just like all the others, and it's the Garden of Eden, it's Adam and Eve. But Judaism doesn't exist at the beginning of creation. It's a very strange thing, the way that other, I think unique to Judaism, where, you know, all humans were created by God, and there they are, and they're living their life. And at some point, God gets really annoyed with his creation and decides, I'm going to destroy it all. I hate these people, sends the giant flood. And then this one guy named Noah is like, hey, it was sort of ironic. He's like, I have faith in you. So it was this different flip of things. I have faith in you. I'm going to survive this thing, and I'm going to keep a bunch of animals, maybe like a just in case, like just in case you change your mind.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0089
+
+## seg-0090 / 00:58:05-00:58:57 / SPEAKER_01
+
+And after this great flood, God changes his mind. He's like, you know what, actually, this guy's right. I promise I'll never do this again. And as a child, you learn about like this rainbow and a dove that comes out. It's a nice story that he finds land and everything. And it's this promise that God isn't going to destroy the world again. You're good. You're safe now. And you had faith in me. So now you're the chosen people. And it's almost in an ironic way of like, you chose me. And so now you're safe. And so the descendants, the sons of Noah, really is the line of Jews. And this is where Judaism starts. Some people, you know, there's other tellings that Abraham's the first Jew or whatever, but that line becomes Judaism. The sons of Adam, which were the original humans, still exist, but they're not sons of Noah.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0090
+
+## seg-0091 / 00:58:57-00:59:37 / SPEAKER_01
+
+And so when you read things like the Talmud, it's a very strange, written 1500 years ago, rabbis arguing about the Jews. And so it's a very strange, very strange, very strange, very legal applications of things like, you know, if a woman is really a virgin on her wedding night because she's worth a different amount of money if you divorce her, like these intricate, whatever legal arguments, how do you prove if someone's a virgin? But that's where this word goy comes from and all this kind of stuff. And there's another passage going around that, oh, they don't treat non -Jews like humans. They treat them like animals. Well, I kind of just gave you the theological reason. It's that, well, you know, they're still creatures of God, but they're not descendants of Noah. And in the most like lovely interpretation of this, which maybe my mother wanted me to get,
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0091
+
+## seg-0092 / 00:59:37-01:00:22 / SPEAKER_01
+
+it's like, well, you're a Jew and you have this family and this lineage and it's ancient and you're protected and you could always find each other on earth. But that's also a very tribal kind of like the flip side of that is that it's kind of separate, but equal, which has a very dark history as a term in American racism. And so all that is to say that our conversation here about why religion matters and how it might change the world is that it's a very, very difficult thing to do. And I think one of the things that might show up in the world is a lot of work, including myself, has been done on trying to strip Zionism away from Judaism. And I think in some ways it's slightly disingenuous because what I just told you would be like, well, it's totally understandable how you might get something like Zionism as a special covenant.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0092
+
+## seg-0093 / 01:00:22-01:01:02 / SPEAKER_01
+
+You know, oh, we don't hate the Arabs, but this is our land. God promised us this land out of Judaism. And of course, there's going to be theologians who disagree with me and are going to be chiming in. And I'm not a Zionist. I'm not a Zionist. I'm not a Zionist. I'm not a Zionist. I'm not a Zionist. I'm not a scholar. But I think that kind of stuff matters in the world. So anyway, that's my experience with Judaism on a personal level. I don't get a lot out of it. I'm not a religious person. I consider myself pretty strongly atheistic. Maybe it was educated out of me in a deep way, like you said. But I absolutely am interested and curious in the way that these things show up in the world. And I don't want to shy away from singling out different religions as different possible dangers in the world. And so, yeah,
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0093
+
+## seg-0094 / 01:01:02-01:01:10 / SPEAKER_01
+
+if you're going to explain World War III, you better understand that story about Jews, especially if you think it's going to start in Jerusalem, because people take it very seriously.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0094
+
+## seg-0095 / 01:01:11-01:02:26 / SPEAKER_00
+
+Right. Yeah. So obviously, there are like thousands and thousands of variants of Judaism. But let me go into two pretty extreme variants to structure the conversation. So there are certain Jews who believe... There are certain Jews who believe that actually the real founder of Judaism is Jacob, because Jacob is the founder of Israel. And Jacob had a brother, Esau, and they are enemies of each other. So in their understanding, the sons of Jacob will always be at war with the sons of Esau. And Esau is interpreted to mean Rome. That line gives birth to Rome. And Jacob's line gives birth to Israel. And that's why... That's why Rome had to destroy the Jews because of this historical animosity. But what this also tells us is that this war continues because Western Europe, the Anglosphere are descendants of Rome, and the Jews are descendants of Israel. So that's one extreme variant that I think there are some people in Israel who do believe.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0095
+
+## seg-0096 / 01:02:26-01:02:32 / SPEAKER_00
+
+Okay. So now I want to go into the Kabbalah, because it doesn't sound...
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0096
+
+## seg-0097 / 01:02:32-01:02:40 / SPEAKER_01
+
+I know less about this one, just to put that out there. I didn't really... I was never really exposed to it. I know Madonna was into it. That's about it.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0097
+
+## seg-0098 / 01:02:40-01:03:43 / SPEAKER_00
+
+Yeah. Okay. So I think Kabbalah is really important if we are to understand the modern state of Israel. Okay. So the idea of Kabbalah is this. There is the Torah. The Torah is... I mean, it's written down. But these are all stories, and these are all allegories. And rabbis have been struggling to how to best interpret these stories. And so what the Kabbalah is doing is it's taking Hermetic philosophy and then applying it to the allegories in order to interpret the Bible at a cosmic level. All right. So let me give you an example of this. Okay. So the first story, of course, is a story of Adam and Eve. And the big question is, like, why did they eat that fruit when God told them, don't do that? You're in paradise. You've got to... You've got it all good. Just don't do one thing, man. Don't eat that stupid fruit, and you're good. And they still ate that fruit, you know, and now they're banned from paradise.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0098
+
+## seg-0099 / 01:03:43-01:04:47 / SPEAKER_00
+
+And so that's a story. Right. So what Kabbalah does is that it takes that story and then renders it at a cosmic level. Okay. So in the Kabbalah version, Adam is the first being created by God. Okay. Adam, okay. And what does God create Adam and Kadmon? Because God is the will to bestow. God is all generous, all loving, all forgiving. But if you're the will to bestow, you need a force to bestow it onto, right? So what God does is God contracts and creates Adam and Kadmon, which becomes the will to receive, right? God's the will to bestow. Adam and Kadmon is the will to receive. The problem with this dynamic, though, is that... The will to receive implies that you're egotistical. You see things selfishly, right? And that's why you're able to receive. But if you see things selfishly, egotistically, you can't appreciate the generosity of God, right?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0099
+
+## seg-0100 / 01:04:47-01:05:39 / SPEAKER_00
+
+It's almost like, you know, I invite you to my house, you know, and I'm really happy that you're coming to my house. So I cook you this elaborate meal, 10 -course banquet, like the greatest food you'll ever have. And you come into my house. And I'm like, okay, I'm going to invite you to my house. And I'm like, okay, I'm going to invite you to my house. And you're embarrassed because you're like, wait a minute here. What is going on? Why is there all this sumptuous food? Does he want money from me? Does he want me to give me his daughter? You get confused by this, right? And so you have to reject this generosity. And that's what Adam and Kadmon is, right? Adam and Kadmon is the will to receive, cannot appreciate the full generosity of God. So he breaks apart, okay? And then, Adam and Kadmon breaks into like 6,000 or 600,000 roots or divine roots or whatever, okay?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0100
+
+## seg-0101 / 01:05:39-01:06:26 / SPEAKER_00
+
+And anyway, I don't go into specifics. But if this is the beginning, then the purpose of life is to come together with God, okay? To reunite with God, a reunion of God, okay? It's almost like the dynamic of thesis, antithesis, synthesis, right? And that's the very purpose of life, to come back to God. And that's the very purpose of life. And that's the very purpose of life, to come back to God. The question then is like, how do you do that? Well, if you look at the Bible, there is a model or an example of how to do this. And that's King David, right? King David was not a great conqueror. What he was was a flawed person who, you know, had sex with Bathsheba. And to disguise the fact that Bathsheba was pregnant, he had the husband, Uriah the Hittite, killed, right?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0101
+
+## seg-0102 / 01:06:26-01:07:29 / SPEAKER_00
+
+And then what happened was that God sent a prophet, Nathan, to tell him, you know, do you recognize you're wrong? And David's like, not. Really? And so Bathsheba's child dies. And then David is thrown into months and months of immense mourning, repentance, and redemption. And when that happens, what's really interesting is that that brings him closer to God, right? Constant prayer. And so for these Kabbalists, that's what they think, like what salvation is. Salvation is to recognize your failings, your limitations. In order to seek forgiveness from God. When you do that, when you open your heart to God, you become reunited with God, right? Because now you are the will to receive, and God's the will to bestow. And that's the end of history. Okay? So that's a Kabbalist interpretation. Why this is problematic is, if you look at the modern state of Israel, there are certain religious fanatics who believe that if we drive the world to insanity, right?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0102
+
+## seg-0103 / 01:07:29-01:08:01 / SPEAKER_00
+
+If we cause the end of the world where Israel is threatened, all Jews will come together and recognize their spiritual limitations, and like King David before him, seek forgiveness from God. And when their heart really opens to God, okay? When they are fully contrite, when they seek to repent fully, then God will forgive them. But first Jews have to do that, right? And that's why they're creating such conflict in the Middle East. So yeah, I mean, yeah.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0103
+
+## seg-0104 / 01:08:03-01:08:54 / SPEAKER_01
+
+That's excellent. I mean, yeah, I've never heard that Kabbalah story, but it aligns. So my favorite thinker and writer is Eric Fromm. I don't know if you've spent time with his books, but he wrote The Escape from Freedom, and it's my favorite one, Art of Loving, and many more. But he was a turning point for me. Eric Fromm's philosophies and writings for me were instrumental to understand this existential fear that we actually have of freedom, which I would equate, to everything you just said, as what God might bestow upon us, and all of the ways we hijack ourselves to get rid of that freedom, to run from that freedom, to flee from that freedom. And I don't think this needs to be anything extreme. If anybody has ever just wished to be a bird or an animal, I think it's a desire to just be like, can I just stop thinking about morality and what's the next best thing to do?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0104
+
+## seg-0105 / 01:08:54-01:09:36 / SPEAKER_01
+
+Because it's driving me crazy, the simplicity of it. I think, you know, it leads to fascism and all kinds of other ways. But in so many ways, I think what we are seeing, and it's not just unique to Jews, but a rejection of existence itself, that we have a kind of deep hatred of existence, or we feel like we don't, we haven't earned it, which is an interesting thing, that we just don't actually, you know, can't accept God's gift of existence or whatever. And we have a death wish, and those people are going to bring us all down with their death wish, which is like, I always tell this to my wife, and she's like, I don't. And I'm like, yeah, but they're going to, they're going to bring you down with them, because they're going to, they're going to bring you down with them. And I'm like, yeah, but they're going to, they're going to light the whole world on fire with this.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0105
+
+## seg-0106 / 01:09:36-01:10:28 / SPEAKER_01
+
+And so I think that that's, it's an interesting story. And it's a crucial story. Obviously, the Christian Zionism has gotten involved directly into this. So your critics, I'm going to go back to your critics and kind of the way you think, is, I want to ask a question about sort of the consequential or utilitarian necessity of these myths. Right. So even something like the Holocaust, right, and famously, the one that probably you get in the most trouble for, is like, well, even if the story is not entirely true, that we're telling the children about it, this myth is actually like a good myth to promote, because because if we start pulling back on the truth of it, we're just going to create a whole bunch of neo Nazis and a whole bunch of angry people. And we're going to just kill everyone again.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0106
+
+## seg-0107 / 01:10:29-01:11:16 / SPEAKER_01
+
+Like, this is a total hypothetical, I'll choose a different country, because I would get in trouble with YouTube, probably. But like, if we discover 9 -11 was actually, like, if you had the information that 9 -11 was actually a full inside job, and it was like one mastermind sitting somewhere doing it, and whatever, you could say he's in Israel or everything. But if I told you, if I ran like a perfect simulation of the universe, and I said, if you've released that information, even though it's true, you will cause, you know, massive killing, and everyone will tear down the governments, and we're going to, you know, hundreds of millions of people die. There's lots of people who would say, you know, it's better just to keep this as a myth, and not reveal the truth of this thing. You know, because the consequences of telling the truth, or us losing this myth are just too great.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0107
+
+## seg-0108 / 01:11:16-01:11:56 / SPEAKER_01
+
+Or even something like Masada, like I said, I think that is a myth that does incredible harm in the world, promoting that myth and continuing propaganda. But there's potentially, I'm potentially full of a ton of historical myths that are of no consequence, if I believe them or not. But there might be some that are, I don't know, the moon landing one is one. You mentioned, which I, you know, I don't really have strong feelings about, I think it was real, but I don't, I haven't really gone into it much. I saw the Fox thing. You know, if there's definitive proof that that was faked, would that change anything about the way we are? So I don't know, I want to ask you like a philosophical question about truth, and the consequences of it. Like, you know, you're pulling out a whole lot of myths on your show, and pointing to a whole lot of myths.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0108
+
+## seg-0109 / 01:11:56-01:12:07 / SPEAKER_01
+
+Like, how important are these things? Do you think the consequences might outweigh you, I don't know, talking? Talking about a certain issue that people just think is too dangerous to touch?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0109
+
+## seg-0110 / 01:12:08-01:13:20 / SPEAKER_00
+
+Yeah, no, that's a really good question. And there's something that I've struggled with all my life, because ever since I was young, I was, I've always been a curious person. And I think like, the truth is value in itself. And if, and I think it's your individual responsibility to seek the truth, whether or not you choose to broadcast this or not, is up to you. But I think it's everyone's responsibility to seek the truth, where you can, you know, um, you know, I've become very interested in religion. And one religion that has always fascinated me is Gnosticism, like, like the Gnostics. And the Gnostics believe like the path to salvation, the path to God, is through truth seeking, through knowledge. And that's something I sympathize with, where ultimately, we don't know why we're here. Ultimately, we have to think about why we're here, and what brings us happiness. And all my life, one thing that's really brought me happiness, or basically enabled me to sleep well at night, is truth seeking.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0110
+
+## seg-0111 / 01:13:20-01:14:03 / SPEAKER_00
+
+I mean, like, I don't want to brag or anything. But like, I feel that's why I've committed my entire life to truth seeking, right? So I first started out as a journalist. And I was growing around China, trying to interview normal people. Trying to figure out how this country really works. And I got a lot of trouble with this. I ran into mafia people, I was arrested by police, I got deported. Um, and then when I worked for the United Nations, it was actually my first well paying job. And I'm not sure if you know the system, but it is like the cushiest job in the world, because you literally sit in the office every single day, you collect a fat big paycheck, and then 20 years time you retire to like a full pension, your kids go to international schools, it's really the best job in the world.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0111
+
+## seg-0112 / 01:14:04-01:14:58 / SPEAKER_00
+
+But I was in Afghanistan. And there are certain things about the United Nations that really disturbed me. So there's one instance, instance where avian flu was being reported in Afghanistan. I was I was ordered by my boss to report that avian flu had come to Afghanistan. And I told him I can't do that. Because if I were to do that, every Afghan would kill his or her chicken. And then they would basically starve. I mean, like, why would you do that? You know, like, let's think about where we are. And like, the reason why he wanted to do that is because he wanted funding for to tackle avian flu in Afghanistan. And so I had to quit my job because I could not sleep if if I ever went out and said, you know, like, avian flu is a problem in Afghanistan, when it's not a problem.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0112
+
+## seg-0113 / 01:14:59-01:15:57 / SPEAKER_00
+
+I'll tell you what the problem is. Multi nutrition is a problem in Afghanistan. Okay. And then I started to work in study abroad education. And I first went into this field, helping Chinese students apply to American universities, because I thought this was a pathway to promoting creativity and critical thinking skills in China. Because I assumed that to get into the Ivy League, you needed to have to possess strong English, you need to have a love of books, you need to have a very curious mind. And it turns out that's not actually true. If you happen to be the son or daughter of the guy who runs this country, they'll let you in as well. And so I became very disenchanted, very disillusioned. And I quit that because it was a huge business. It was a huge scam. And I didn't want to be part of that. And for years and years, I just wandered around China, trying to do teacher training, trying to promote curriculum reform.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0113
+
+## seg-0114 / 01:15:57-01:16:53 / SPEAKER_00
+
+And there's actually no interest in that. I mean, but but I didn't I didn't want to sell out. And then I met my wife, who changed my life. I mean, I mean, like, I met her 10 years ago. And I hit rock bottom, because I was unemployed, I didn't have any money. I was fat, I was a drunk. I was really depressed, I was suicidal. And then I met her. And she was an angel who came to save me. I mean, like, I really believe that the universe saw that I was in despair. And she and the universe sent an angel to to save me. And we had a child. And that child was also an angel. And I'm like, I said, my wife, listen, this is this is silly. I mean, like, I'm trying to promote education reform. I'm trying to fight for the truth.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0114
+
+## seg-0115 / 01:16:53-01:17:50 / SPEAKER_00
+
+I'm trying to promote goodness in the world. But we're poor, and we have a kid to support. So maybe I should write recommendation letters for people to get into Yale. You know, that's a million dollars. Like, right there, if I'm able to get a kid into Yale, right? And she said, No, what's important is to be a good role model for our child. What's important is to be true to yourself. And that's, you know, and, and, and like, I knew then that like, I was really I had found an angel. And being with her has really convinced me that truth seeking is the highest good in this world. Regardless of what happens, be true to yourself. Like, if other people are lying, and you know, it's a lie. Don't don't. I mean, like, like, don't repeat the lie. I mean, like, yeah, you have to speak the truth. And so that might be naive.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0115
+
+## seg-0116 / 01:17:51-01:17:53 / SPEAKER_00
+
+But but I but but that's why I live by.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0116
+
+## seg-0117 / 01:17:54-01:18:08 / SPEAKER_01
+
+Yeah, now, that was quite beautiful. The story in Afghanistan was a perfect example. But just to be clear on it was, was it true that there was avian flu there? Or he it was actually, he was asking you to lie? So he could benefit? Is that?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0117
+
+## seg-0118 / 01:18:08-01:18:19 / SPEAKER_00
+
+I think I think I think there were a couple of cases of avian flu. I mean, like, who cares, man? There's malnutrition in the country, right? You're asking all chickens? Come on, man.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0118
+
+## seg-0119 / 01:18:19-01:19:11 / SPEAKER_01
+
+Yeah. Yeah, yeah. But But so but to push on that analogy, though, I mean, that was an instance where you thought the truth would do more more damage consequentially, by sharing it with the world, or maybe you just couldn't figure out a way to express that truth in a way that wouldn't result in, you know, a hysteria of killing chickens. And I just want to just want to be fair to your critics. I run into this too. I don't think this is particularly a Professor Jiang problem. I think we all face this issue, especially those of us who are, you know, people don't like that. I asked my guests, why are the Jews in the Epstein files? And my reasoning for it, my reasoning for it, is that I think the same as yours, because of truth. So it's just like a quick aside. You know, when I started my public work, I'm a documentary filmmaker, I live on the line between truth telling and storytelling, right?
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0119
+
+## seg-0120 / 01:19:11-01:19:57 / SPEAKER_01
+
+I understand the myth making, I'm not a journalist, who are maybe trying to tell the truth. I'm a, I'm a, I'm a myth maker that uses the truth in documentary filmmaking. But but, you know, I jumped into a lot of this work after 911. When expressions by George W. Bush, particularly to the world when everybody was very emotionally raw was this has nothing to do with islam and i thought that's disingenuous i know what he means certainly he thinks you know he's maybe his good intentions is like don't go blame your muslim neighbor for this but i thought it would backfire that it would be you know joe schmoe in idaho's watching fox news and he's like man he says there's nothing with islam but like they're all shouting allahu akbar reading the quran and they're all muslims who flew into that plane
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0120
+
+## seg-0121 / 01:19:57-01:20:46 / SPEAKER_01
+
+and you know what am i supposed to think of this and what i was afraid of was the backlash and hysteria around that guy picks up a knife and go kills his muslim neighbor who had nothing to do with this etc and so my initial jump into these things and again this was more in the the sam harris universe who again i think has just massively fumbled and maybe out of other reasons made a mess of that um but i think the intentions was how do we tell the truth about what just happened on 9 11 or since world war ii in the middle east with what's happened in the arab world and their hatred for america how do we tell the truth about that without confusing people and saying something i think as well intentioned but false as this has nothing to do with islam and now i'm in the same boat with judaism
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0121
+
+## seg-0122 / 01:20:46-01:21:41 / SPEAKER_01
+
+and what's happening in palestine judaism and zionism judaism and things people it makes people very uncomfortable to talk about these things but i to my critics i would say i think it's disingenuous to say it has nothing to do with judaism these people are just freaks because joe schmoe in idaho sees that all those israelis that he might begin hating for taking his tax money and using it to kill palestinians you know or doing these things at the synagogue he doesn't understand he's gonna go kill my brother in allentown or in pennsylvania because he's a jew who has nothing to do with this so my fear is the same of like how do we express these very delicate truths in the world in a in a way that doesn't you know um lead to bigotry i know you get accused of this by like medi hassan or whatever of just like parroting right -wing conspiracies
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0122
+
+## seg-0123 / 01:21:41-01:22:11 / SPEAKER_01
+
+how do we walk this tightrope i have to admit some of your language is in my mind falls off the tightrope but i this conversation has been really helpful for me to understand why you're trying to walk that tightrope um but yeah i'll give you the final word on sort of continuing to try to walk that and then you know i'm going to go with that you know addressing people who are worried that you you fall off too much or you're you're just you know you're just going to inflame people who wish to do harm yeah so i go to a time in
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0123
+
+## seg-0124 / 01:22:11-01:23:03 / SPEAKER_00
+
+the 1990s when open free debate was a core liberal value so i might say things that offend you and you might say things that offend me so what we do is not call the police on each other what we we don't cancel each other what we do is we sit down together like what we're doing right now and have a honest good faith conversation about our different viewpoints and this leads to mutual understanding so so i mean i i don't know what happened because before if people just disagreed you you would have a conversation and figure out you know where where the differences were and now nowadays it's just like we cancel each other it's like i refuse to platform you because i disagree with you or i call you names because i don't like you uh whereas before you know um people were very curious about thinking deeply about the other perspective and trying
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0124
+
+## seg-0125 / 01:23:03-01:23:22 / SPEAKER_00
+
+to reconcile um the differences and that's that's why the world the world is falling apart right because like you look at america where it's so polarized that i think like nine percent of republicans will refuse to date a democrat and vice versa so something like that i think like i don't know the statistics
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0125
+
+## seg-0126 / 01:23:22-01:24:10 / SPEAKER_01
+
+but it's something ridiculous like that yeah it's stronger than religion it's it's it's it's like the biggest marker for that um yeah i i i totally hear that and i co -sign that i think instead of saying offensive some people are worried of what you're saying is somehow dangerous but when you ask you don't know what happened i think what happened and this is maybe me agreeing with you really strongly is that the the the propagandists of the world the myth makers of the world mostly in the west their mythology is just getting too ridiculous epstein was of course a huge reason a huge you know pin in that bubble but even just from a moral perspective people finally seeing the face of palestinians maybe a generation that was able to learn english so you can understand them better you're like oh they're human that they're killing so morally a lot of people are like
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0126
+
+## seg-0127 / 01:24:10-01:25:05 / SPEAKER_01
+
+hey if this genocide on my phone is necessary for me to live this comfortable life in ohio i'm out i don't want this the mythology is no good anymore we're not the good guys that you told us we were so all a lot of their mythologies i mean even down to the specifics of you know people doubting charlie kirk or the investigation and all you know or renee good or pretty like the stories the storytellers of the west have gotten so ridiculous that i think what has happened is for a long time the mythology maybe you can think of like 1950s america with that's what people idealize in america the the myth believing the myth of you know what they told you on your nightly news kept you safe people, I think, were happy to live in that little bubble, even if they knew it was probably a myth. They were okay with that world.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0127
+
+## seg-0128 / 01:25:05-01:25:58 / SPEAKER_01
+
+That world doesn't feel safe anymore. They don't believe that myth, believing the nightly news is keeping them safe anymore, because certainly their economy is, you know, people can tell you the economy is fine, but people are buying groceries. So the myth has started to crumble in such a way that people, one, don't believe it keeps you safe anymore to believe it. And two, it's just gotten so ridiculous that believing it just stretches the credulity. I mean, the MAGA movement, the Trumpers, it was solely based on never doing what he did in Iran, and then he did it anyway. Even MAGA people who are sycophantic are being stretched to their logical limit of how much are you going to believe this myth is keeping you safe. And then what comes next is question everything. And then, okay, I can agree that that world from some very nervous person is potentially more dangerous and more chaotic, and you're going to have, I'm down for that.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0128
+
+## seg-0129 / 01:25:58-01:26:26 / SPEAKER_01
+
+But I don't put the blame on people like you and me asking questions about it. I put the blame on the myth makers just got way too absurd with this thing. And the deal, believing their myth didn't keep people safe and comfortable or even happy anymore, which is something we didn't talk a lot about it. You know, Elon Musk, the richest man on earth, I think is miserable. So we can see it doesn't even make you happy playing the game. So I'll let you have the final word, but I think this is a cool place to land the plane. No, I completely agree.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0129
+
+## seg-0130 / 01:26:27-01:27:29 / SPEAKER_00
+
+And I really enjoyed this conversation. So thanks so much for hosting me, Jay. But yeah, no, I mean, I feel as though that the entire world has become much more bureaucratic. And it's really about the elite using bureaucracy to maintain their hold over people. And it's making everyone miserable, you know, especially in Canada, where I grew up, like the bureaucracy is just absolutely ridiculous. You know, they're passing like these speech laws that govern speech. So now, you know, like, like, if you commit a crime, you're less likely to be approached by the police than if you were to post the fact that crime has been committed. And the reason why is that in a bureaucratic environment, people are lazy, people are complacent, people just want to do the easiest thing possible. So it's much easier to go arrest a compliant person than it is to actually go deal with an actual criminal. And so the absurdity, the sort of, complacency of the world that we live in.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0130
+
+## seg-0131 / 01:27:30-01:28:00 / SPEAKER_00
+
+And so people are seeking relief. And I think that, like, for people, people want actual answers. People want to hear alternative voices. And people want a larger story of what's going on. And just like the idea of shut up and obey doesn't work anymore. And I agree with you in that this is a positive trend. And I think that, like, you know, we're headed, humanity, I think, is heading to a really rough time. But at the same time, it's going to cause a spiritual awakening among us. And I think that, like, you know, we're headed to a really rough time. But at the same time, it's going to cause a spiritual awakening people. So I'm very hopeful about humanity as a whole.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0131
+
+## seg-0132 / 01:28:01-01:28:47 / SPEAKER_01
+
+Yeah, I'm with you on that. So we'll leave it on that hopeful note. That's really nice. Well, this was really a pleasure. I wasn't sure what to expect, because you're such a strange anomaly and phenomena online. But it was really, really a pleasure to talk to you and get to hear a little bit about how you think. So whoever you are out there in China that the internet is so confused about, this was really fun. Yep. So I obviously love that conversation. I have some final thoughts here on sort of the Professor Jiang phenomena. First off, I think I have to issue an apology to Canada. I'm not sure exactly what the jab was to Canada in there. But to my Canadian viewers, sorry about that little jab coming from him. I got sort of a kick out of it, though. And second of all, I think, you know, the Professor Jiang phenomena, I think
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0132
+
+## seg-0133 / 01:28:47-01:29:33 / SPEAKER_01
+
+you heard, you know, he's not some sort of like mastermind researcher who's doing anything that you and I can't do. He's an interesting guy asking interesting questions and putting things together. He's doing his best he can and broadcasting them. And then in some ways, I think the popularity, if it's if it's authentic, these these massive numbers he gets on YouTube, let's assume it is the popularity of it, I think, points to some sort of maybe desire or hunch of of that we kind of all wish we kind of had a high school teacher who was a little bit more like him, perhaps, or willing to talk about the things that he talks about, rather than I don't know, open your history book to page 34 to read a, you know, a bullshit story about. Sacagawea and some like white man's fantasy of Lewis and Clark or something, or I don't know, let's talk about how
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0133
+
+## seg-0134 / 01:29:33-01:30:21 / SPEAKER_01
+
+great Winston Churchill is for an hour and not talk about the massive racism and Zionism that he promoted, etc. Like, I think I think most people, high school students to everyone who went to high school can recognize that they're fed up to a degree with knowing they're getting just shoveled a load of state propaganda bullshit. And then this guy, Professor Jiang comes along, at least on the internet. And is at least willing to talk to you about like, hey, there's something totally different going on that explains the world, whether or not he's sniffing, you know, down the right path all the time, you know, which I don't think he always is. There's certainly something to that. I mean, I can imagine if you put out all of these same kind of theories, just, you know, in a basement talking to a camera, or in front of a yellow curtain, like he likes to do, I don't think they would have really caught anything.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0134
+
+## seg-0135 / 01:30:22-01:31:13 / SPEAKER_01
+
+But there's something about the whiteboard and a classroom that is tapping into our, our probably like near global distaste and annoyance at our education, what we got fed to us. And so you know, I think there's really something to that behind that one, one thing that he did say, you know, obviously, I don't share his kind of rush to secret societies, and maybe even eschatology totally to explain things like he said a line like you to explain the war in Iran, which makes no sense to him. You need these theories to kind of explain it. I think they're helpful. And I think they help explain actually specific things that might happen. For example, you know, if Al -Aqsa Mos blows up, you better understand the eschatology and biblical stories about why that particular event happened and why it's so important. But I think you can probably explain
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0135
+
+## seg-0136 / 01:31:13-01:32:12 / SPEAKER_01
+
+something like the war in Iran using, you know, my preferred lenses of a leftist critique of imperialism, maybe neo colonialism, someone I've referenced on the show a million times Kwame Nkrumah from 1965 laid this out for us in a post World War Two Africa about this new form of economic colonialism that was, was, was replacing the overt colonialism pre World War Two. You know, I think you understanding things like the petrodollar and the American debt and dollar dominance could probably get you all the way there to explain, you know, why this war is happening, and you don't need to totally fold in the some of the, you know, different theories about people pulling the strings behind, you know, behind a curtain somewhere. But they don't, they're not mutually exclusive, you can certainly do all of those together. But I think it would be nice to see Professor Jiang entertain and work in more not just
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0136
+
+## seg-0137 / 01:32:12-01:33:13 / SPEAKER_01
+
+standard geopolitics, but my preferred lens of a sort of leftist anti imperialism that explains a lot of the world we're in today without without having to lean on things like the loom. Illuminati, and I think fairly flimsy notions of secret societies. But so, and then on that topic of secret societies, you know, I mentioned the Dead Sea Scrolls, and I wanted to pick it up here. I think the story of Masada is a super important one that we told them there and how propaganda works. And, and probably this is not unique to Israel, although I think it's just massively on steroids in a place like Israel and Zionism, this fervent idea of trying to create a out national myths and ethnic myths and biblical myths in order to, to promote this project in people who claim that there's a unique or unfair or even anti Semitic focus on a country or a project like Israel, when you know, half the world is colonial sort of projects, I think, are really ridiculous.
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0137
+
+## seg-0138 / 01:33:13-01:34:01 / SPEAKER_01
+
+I think they're completely missing the unique insanity of a place like Israel, that's tapping into these 2000 3000 year old kind of stories and sort of, you know, to try to to implant literally in the ground national myths which in the masada case i when you if you look it up it really is complete bullshit so i didn't give all the details in the story with jiang but you know the myth is like 900 something people commit this suicide and in the fortress but actually the archaeologists only found like 10 skeletons there it doesn't match at all there's pottery shards with names on it and of course they were interpreted as being this like pulling lots in this very romantic idea it sounds like a shakespearean play of people killing themselves which is completely sort of roman roman theater
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0138
+
+## seg-0139 / 01:34:01-01:35:03 / SPEAKER_01
+
+which is why it is the way it is um but there's there's no evidence that that pottery was some sort of weird suicide game um this was all just sort of a fantasy and and made sense to build this kind of national myth when you're trying to promote a project like zionism but i mentioned in passing his father it was an archaeologist who uh and i say the word discovered uh was was the archaeologist responsible for for sort of announcing the discovery of the dead sea scrolls and if i tell you the story of the dead sea scrolls you'll find it immediately fishy and you'll be suspicious of it so the story is almost again too romantic and too good to be true it's like a bedouin goat farmer right after world war ii ended right before we're going to get an israel state created a goat gets lost and wanders into a cave and
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0139
+
+## seg-0140 / 01:35:03-01:35:57 / SPEAKER_01
+
+the bedouin goat uh herder is looking for for his goat and he gets to this cave and he takes a stone and he throws it into the cave to try to see if the goat's in there and he hears pottery break somewhere in the cave and then he you know wanders in maybe with a torch or something imagining indiana jones here and discovers these you know the these pillars these these these pottery vases and inside these old scrolls that are that are rolled up and he discovers this thing and this archaeologist his name was eliezer sukhanik who is the father of yaga el yadin the one who came up with the masada story sukhanik is the archaeologist that that takes these things out and pieces them together and they're found in like 10 or 11 caves or something and these become known as the dead sea scrolls they have hebrew written on them and aramaic
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0140
+
+## seg-0141 / 01:35:57-01:36:45 / SPEAKER_01
+
+written on them and there's like passages from the torah in them that are you know near direct it's like the earliest copies we have of these things as well as a bunch of other teachings it is sort of thought to come from this sect of judaism called the essenes ascending he's like i never pronounce it but there was like four sects of judaism at the time and if this story sounds like it's the first one that's going to be the first or the sp言 of in the um you know code of the world and so this is a kind of miraculous discovery of proof that ancient you know that jews from the first to third century bc were there in the area and practicing some form of early proto judaism um you know it seems to be a little too convenient to give claim to this national project in 1947 that's about to be announced
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0141
+
+## seg-0142 / 01:36:45-01:37:33 / SPEAKER_01
+
+to the world and claim that this is jews reclaiming the land that they were at 2 000 years ago it's like some claim of indigenousness if that all sounds really fishy to you and way too convenient well of course it does to me too but what are what are people like you and i to do who are not archaeologists are not experts other than to just remain skeptical and when we hear the masada story i refer to archaeologists who are like yeah that seems to be total bullshit um just sort of a project of national myth making a very powerful one but the dead sea scrolls apparently have been carbon dated to match that time between the first and third century and you know they seem to be authentic and everyone says they're authentic and what am i to do what are you to do what are we all to do at some point there's
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0142
+
+## seg-0143 / 01:37:33-01:38:21 / SPEAKER_01
+
+this layer of trust in these kinds of institutions right if you doubt it i suppose you just have to think there's some sort of conspiracy or cover -up about the carbon dating or the organization doing it or whatever and feel free to look into that stuff that's really not my bag if james lee is watching it sounds like something he would love to do so go at it um but you know on his face it sounds incredibly fishy and i think it goes without saying there's no moral argument or rational argument that even if the dead sea scrolls are legitimate or inauthentic and you know there was some early tribes of jews that were in the area i don't think that's anything we didn't know it it has no bearing for me on an ethical or moral legal political any kind of claim to the land to reclaim it two thousand years later i think
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0143
+
+## seg-0144 / 01:38:21-01:39:23 / SPEAKER_01
+
+that stuff is absurd and anyone who makes that case is just as a bozo but it's interesting history nonetheless and so now we're in this world i think where back to the phenomenon of professor jiang where i think a lot of people are just realizing that we've been fed a lot of bullshit we've been hijacked through historical propaganda to a to a significant degree we as i put forward in our conversation the myths of believing that stuff no longer are keeping us safe no longer are you know keeping us well fed or happy even and so we're beginning to question them and question everything i don't know how we tiptoe our way through truth in this world of sort of questioning everything i think remaining skeptical certainly of the media that that seems to be done but skeptical of mainstream sources skeptical of history books but also remain skeptical of the people or ideas that
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0144
+
+## seg-0145 / 01:39:23-01:40:06 / SPEAKER_01
+
+doubt the official narrative um i don't know how exactly we're going to do that but uh i don't think we have any choice if you think that's a dangerous world where people are questioning everything i don't disagree with you as i said but uh we're here now and so i think let's um i don't know do our best and if you are still watching at this late uh moment i think i deserve a like and subscribe so please do that and if you're really interested in helping the channel i do have a membership program which is a couple bucks a month to join um and as a as a bonus if you join it i do a monthly hangout on zoom for the members the members only hang out on the last sunday of every month at noon eastern and it's super fun so if you're watching this late you might be interested in joining
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0145
+
+## seg-0146 / 01:40:06-01:40:17 / SPEAKER_01
+
+that we could discuss certainly this interview and upcoming things in the world and um yeah i appreciate the support and that's it for me and my interview with professor jiang so take care everyone
+
+Ref: video:interview-oerknj-uypa@transcript:v1#seg-0146
