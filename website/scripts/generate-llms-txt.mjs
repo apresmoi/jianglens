@@ -1345,12 +1345,18 @@ function ensureTopic(topics, value, options = {}) {
 function addTopicSource(topic, source, reason = '') {
   if (!topic || !source?.slug) return;
   const collection = collectionForSource(source);
+  const dateSortKey = sourceDateSortKey(source);
   const existing = topic.sources.get(source.slug) || {
     slug: source.slug,
     collection,
     title: source.read?.title || source.title,
     sourceTitle: source.title,
     date: source.date_label || source.published_at || 'unknown',
+    dateLabel: source.date_label || source.published_at || 'unknown',
+    publishedAt: source.published_at || '',
+    recordedAt: source.recorded_at || '',
+    dateSortKey,
+    sourceClass: source.source_class || sourceKind(collection),
     sourceUrl: source.source_url || '',
     textUrl: publicPath(sourceTextPath(source, collection)),
     markdownUrl: publicPath(sourceMarkdownPath(source, collection)),
@@ -1361,6 +1367,44 @@ function addTopicSource(topic, source, reason = '') {
   };
   if (reason) existing.reasons.add(reason);
   topic.sources.set(source.slug, existing);
+}
+
+function firstIsoDate(value) {
+  return String(value ?? '').match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/)?.[0] || '';
+}
+
+function sourceDateSortKey(source) {
+  return firstIsoDate(source?.published_at)
+    || firstIsoDate(source?.recorded_at)
+    || firstIsoDate(source?.date_label)
+    || firstIsoDate(source?.date)
+    || '';
+}
+
+function candidateDateSortKey(candidate) {
+  return firstIsoDate(candidate?.dateSortKey)
+    || firstIsoDate(candidate?.publishedAt)
+    || firstIsoDate(candidate?.date)
+    || '';
+}
+
+function daysBetweenDates(later, earlier) {
+  const laterDate = Date.parse(later);
+  const earlierDate = Date.parse(earlier);
+  if (!Number.isFinite(laterDate) || !Number.isFinite(earlierDate)) return 0;
+  return Math.max(0, (laterDate - earlierDate) / 86400000);
+}
+
+function sortedTopicSources(topic) {
+  return [...topic.sources.values()].sort((a, b) => {
+    const dateDelta = candidateDateSortKey(b).localeCompare(candidateDateSortKey(a));
+    if (dateDelta) return dateDelta;
+    return String(a.title || a.slug).localeCompare(String(b.title || b.slug));
+  });
+}
+
+function latestTopicSource(topic) {
+  return sortedTopicSources(topic)[0] || null;
 }
 
 function addTopicRefs(topic, refs) {
@@ -1382,6 +1426,12 @@ function addSemanticPoint(topic, source, item, kind) {
     kind,
     text,
     refs,
+    sourceSlug: source.slug,
+    collection: collectionForSource(source),
+    sourceTitle: source.title || '',
+    sourceReadingTitle: source.read?.title || source.title || '',
+    publishedAt: source.published_at || '',
+    dateSortKey: sourceDateSortKey(source),
     confidence: item.confidence || '',
     claimType: item.claim_type || '',
     temporalScope: item.temporal_scope || '',
@@ -1400,6 +1450,12 @@ function addGlossaryUsage(topic, source, item) {
     term: item.term,
     usages,
     refs: item.refs ?? [],
+    sourceSlug: source.slug,
+    collection: collectionForSource(source),
+    sourceTitle: source.title || '',
+    sourceReadingTitle: source.read?.title || source.title || '',
+    publishedAt: source.published_at || '',
+    dateSortKey: sourceDateSortKey(source),
   });
   addTopicRefs(topic, item.refs);
   addTopicSource(topic, source, 'glossary');
@@ -1425,6 +1481,8 @@ function sourceHitFromSegment(segment, sourceBySlug) {
     title: segment.title || source?.read?.title || source?.title || segment.slug,
     sourceTitle: segment.source_title || source?.title || '',
     date: segment.date_label || segment.published_at || source?.date_label || source?.published_at || 'unknown',
+    publishedAt: segment.published_at || source?.published_at || '',
+    dateSortKey: firstIsoDate(segment.published_at) || sourceDateSortKey(source),
     transcriptUrl: publicPath(segment.transcript_url),
     videoUrl: segment.video_url || '',
     sourceTextUrl: publicPath(sourceTextPath(segment.slug, collection)),
@@ -1438,6 +1496,8 @@ function sourceHitFromSegment(segment, sourceBySlug) {
 function addTopicTranscriptHit(topic, segment, sourceBySlug, reason = 'alias-match', matchedAlias = '') {
   if (!topic || !segment?.source_ref || topic.transcriptRefs.has(segment.source_ref)) return;
   topic.transcriptRefs.add(segment.source_ref);
+  const source = sourceBySlug.get(segment.slug);
+  if (source) addTopicSource(topic, source, reason);
   const hit = sourceHitFromSegment(segment, sourceBySlug);
   hit.reason = reason;
   hit.matchedAlias = matchedAlias;
@@ -1506,7 +1566,7 @@ function buildAliasTargets(topics) {
 
 function rankTopicHit(hit) {
   let score = 0;
-  if (hit.reason === 'semantic-ref') score += 100;
+  if (hit.reason === 'semantic-ref') score += 12;
   if (hit.matchedAlias && hit.matchedAlias.split('-').length > 1) score += 20;
   if (hit.quote) score += 5;
   return score;
@@ -1515,9 +1575,11 @@ function rankTopicHit(hit) {
 function sortedTopicHits(topic) {
   return [...topic.transcriptHits]
     .sort((a, b) => {
+      const dateDelta = candidateDateSortKey(b).localeCompare(candidateDateSortKey(a));
+      if (dateDelta) return dateDelta;
       const scoreDelta = rankTopicHit(b) - rankTopicHit(a);
       if (scoreDelta) return scoreDelta;
-      return String(b.date).localeCompare(String(a.date));
+      return String(a.ref).localeCompare(String(b.ref));
     })
     .slice(0, 12);
 }
@@ -1553,40 +1615,109 @@ function rankedTopicsForIndex(topics, limit = 10) {
 }
 
 function topicFocusText(topic) {
-  const glossaryUsage = topic.glossary
-    .flatMap((item) => item.usages ?? [])
-    .map((text) => firstSentenceExcerpt(text, 34))
-    .find(Boolean);
-  if (glossaryUsage) return glossaryUsage;
+  const candidates = [];
 
-  const preferredPoint = topic.semanticPoints.find((point) => point.claimType === 'model' || point.kind === 'models')
-    || topic.semanticPoints.find((point) => point.kind === 'diagnoses')
-    || topic.semanticPoints[0];
-  if (preferredPoint?.text) return firstSentenceExcerpt(preferredPoint.text, 38);
+  for (const item of topic.glossary) {
+    for (const usage of item.usages ?? []) {
+      const text = firstSentenceExcerpt(usage, 34);
+      if (text) {
+        candidates.push({
+          text,
+          baseScore: 42,
+          dateSortKey: item.dateSortKey,
+          slug: item.sourceSlug || item.term,
+          kind: 'glossary',
+        });
+      }
+    }
+  }
 
-  const sourceSummary = [...topic.sources.values()].map((source) => source.summary).find(Boolean);
-  if (sourceSummary) return firstSentenceExcerpt(sourceSummary, 34);
+  for (const point of topic.semanticPoints) {
+    const text = point.text ? firstSentenceExcerpt(point.text, 38) : '';
+    if (!text) continue;
+    let baseScore = 46;
+    if (point.claimType === 'model' || point.kind === 'models') baseScore = 58;
+    if (point.kind === 'diagnoses') baseScore = Math.max(baseScore, 54);
+    candidates.push({
+      text,
+      baseScore,
+      dateSortKey: point.dateSortKey,
+      slug: point.sourceSlug || point.text,
+      kind: point.claimType || point.kind || 'semantic',
+    });
+  }
 
-  const firstHit = sortedTopicHits(topic)[0];
-  if (firstHit?.quote) return `A transcript-matched topic anchored by excerpts such as "${wordExcerpt(firstHit.quote, 24)}"`;
+  for (const source of sortedTopicSources(topic)) {
+    if (!source.summary) continue;
+    candidates.push({
+      text: firstSentenceExcerpt(source.summary, 34),
+      baseScore: 48,
+      dateSortKey: source.dateSortKey,
+      slug: source.slug,
+      kind: 'source-summary',
+    });
+  }
+
+  for (const hit of sortedTopicHits(topic)) {
+    if (!hit.quote) continue;
+    candidates.push({
+      text: `A transcript-matched topic anchored by excerpts such as "${wordExcerpt(hit.quote, 24)}"`,
+      baseScore: 30 + rankTopicHit(hit),
+      dateSortKey: hit.dateSortKey,
+      slug: hit.slug,
+      kind: 'transcript-hit',
+    });
+  }
+
+  const newestDate = candidates
+    .map(candidateDateSortKey)
+    .filter(Boolean)
+    .sort()
+    .at(-1);
+  const halfLifeDays = 21;
+  const maxRecencyBoost = 3;
+
+  const best = candidates
+    .filter((candidate) => candidate.text)
+    .sort((a, b) => {
+      const scoreFor = (candidate) => {
+        const dateKey = candidateDateSortKey(candidate);
+        if (!newestDate || !dateKey) return candidate.baseScore;
+        const recency = Math.exp(-daysBetweenDates(newestDate, dateKey) / halfLifeDays);
+        const boost = 1 + ((maxRecencyBoost - 1) * recency);
+        return candidate.baseScore * boost;
+      };
+      const scoreDelta = scoreFor(b) - scoreFor(a);
+      if (Math.abs(scoreDelta) > 0.0001) return scoreDelta;
+      const dateDelta = candidateDateSortKey(b).localeCompare(candidateDateSortKey(a));
+      if (dateDelta) return dateDelta;
+      return String(a.slug || a.kind).localeCompare(String(b.slug || b.kind));
+    })[0];
+  if (best?.text) return best.text;
 
   return `A generated Jiang Lens topic assembled from source tags, source refs, and transcript matches for ${topic.label}.`;
 }
 
 function topicCoverageMarkdown(topic) {
   const related = [...topic.relatedTopics.values()].filter(Boolean).slice(0, 5);
-  const sourceTitles = [...topic.sources.values()].map((source) => source.title).filter(Boolean).slice(0, 3);
+  const sources = sortedTopicSources(topic);
+  const latestSource = sources[0];
+  const sourceTitles = sources.map((source) => source.title).filter(Boolean).slice(0, 3);
   const parts = [
     `This generated topic groups Jiang Lens evidence about **${topic.label}** across transcript matches, source readings, semantic tags, and source refs.`,
     `Current focus: ${topicFocusText(topic)}`,
   ];
 
+  if (latestSource) {
+    parts.push(`Most recent Jiang source touching this topic: ${markdownLink(latestSource.title, publicPath(`/${latestSource.collection}/${latestSource.slug}/`))} (${latestSource.dateLabel || latestSource.date}).`);
+  }
   if (sourceTitles.length) {
     parts.push(`Most connected source reading${sourceTitles.length === 1 ? '' : 's'}: ${sourceTitles.map((title) => `**${title}**`).join('; ')}.`);
   }
   if (related.length) {
     parts.push(`Nearby topic cluster: ${related.join(', ')}.`);
   }
+  parts.push('Freshness warning: this static topic page is bounded by the newest Jiang source listed here. For live/current events, first check `/episodes/` and `/interviews/` for newer event-specific readings. If none exists, use prospective mechanism search: establish current facts, actors, incentives, constraints, and mechanisms from live/current sources, then apply Jiang Lens concepts as dated hypotheses rather than as Jiang\'s current view.');
   return parts.join('\n\n');
 }
 
@@ -1594,18 +1725,22 @@ function topicCoverageHtml(topic) {
   const related = [...topic.relatedTopics.entries()]
     .filter(([slug]) => slug !== topic.slug)
     .slice(0, 6);
-  const sourceTitles = [...topic.sources.values()].map((source) => source.title).filter(Boolean).slice(0, 3);
+  const sources = sortedTopicSources(topic);
+  const latestSource = sources[0];
+  const sourceTitles = sources.map((source) => source.title).filter(Boolean).slice(0, 3);
 
   return `<div class="topic-focus">
     <p>${escapeHtml(topicFocusText(topic))}</p>
+    ${latestSource ? `<p class="meta">Most recent Jiang source touching this topic: ${htmlAnchor(publicPath(`/${latestSource.collection}/${latestSource.slug}/`), latestSource.title)} (${escapeHtml(latestSource.dateLabel || latestSource.date)}).</p>` : ''}
     ${sourceTitles.length ? `<p class="meta">Most connected source reading${sourceTitles.length === 1 ? '' : 's'}: ${sourceTitles.map((title) => escapeHtml(title)).join('; ')}.</p>` : ''}
+    <p class="meta">Freshness warning: this static topic page is bounded by the newest Jiang source listed here. For live/current events, first check /episodes/ and /interviews/ for newer event-specific readings. If none exists, use prospective mechanism search before treating this topic focus as an operative Jiang Lens reading.</p>
     ${related.length ? `<div class="chips">${related.map(([slug, label]) => htmlAnchor(publicPath(`/topics/${slug}/`), label, 'chip')).join('')}</div>` : ''}
   </div>`;
 }
 
 function renderTopicMarkdown(topic) {
   const hits = sortedTopicHits(topic);
-  const sources = [...topic.sources.values()].slice(0, 8);
+  const sources = sortedTopicSources(topic).slice(0, 8);
   const relatedTopicLinks = [...topic.relatedTopics.entries()]
     .filter(([slug]) => slug !== topic.slug)
     .slice(0, 12)
@@ -1690,6 +1825,8 @@ function renderTopicMarkdown(topic) {
     '## Retrieval Notes',
     '',
     'This file is generated from Jiang Lens episode JSON, semantic tags, glossary terms, source refs, and transcript segment matches. It is not a manually authored canon page.',
+    '',
+    'Freshness warning: this static topic page is bounded by the newest Jiang source listed above. For live/current events, first check /episodes/ and /interviews/ for newer event-specific readings. If none exists, use prospective mechanism search: establish current facts, actors, incentives, constraints, and mechanisms from live/current sources, then apply Jiang Lens concepts as dated hypotheses rather than as Jiang\'s current view.',
     '',
     'For broader or missing-topic search, use the letter shards under /topics/index/ before falling back to the bulk transcript-search files.',
     '',
@@ -1817,9 +1954,10 @@ function renderTopicSourceCards(sources) {
 
 function renderTopicHtml(topic) {
   const hits = sortedTopicHits(topic);
-  const sources = [...topic.sources.values()].slice(0, 8);
+  const sources = sortedTopicSources(topic).slice(0, 8);
+  const latestSource = sources[0];
   const bestHit = hits[0];
-  const bestSource = bestHit ? publicPath(`/${bestHit.collection}/${bestHit.slug}/`) : (sources[0] ? publicPath(`/${sources[0].collection}/${sources[0].slug}/`) : '');
+  const bestSource = bestHit ? publicPath(`/${bestHit.collection}/${bestHit.slug}/`) : (latestSource ? publicPath(`/${latestSource.collection}/${latestSource.slug}/`) : '');
   const aliases = [...topic.aliases].filter((alias) => alias !== topic.slug).sort().slice(0, 18);
   const aliasPreview = aliases.slice(0, 8).join(', ');
   const aliasOverflow = aliases.length > 8 ? `, +${aliases.length - 8} more` : '';
@@ -1836,6 +1974,7 @@ function renderTopicHtml(topic) {
               <span>${hits.length} timestamped hit${hits.length === 1 ? '' : 's'}</span>
               <span>${sources.length} source reading${sources.length === 1 ? '' : 's'}</span>
               <span>${topic.semanticPoints.length + topic.glossary.length} extracted note${topic.semanticPoints.length + topic.glossary.length === 1 ? '' : 's'}</span>
+              ${latestSource ? `<span>Newest source: ${escapeHtml(latestSource.dateLabel || latestSource.date)}</span>` : ''}
               ${aliases.length ? `<span class="alias-meta">Aliases: ${escapeHtml(aliasPreview + aliasOverflow)}</span>` : ''}
             </div>
           </div>
@@ -1859,6 +1998,13 @@ function renderTopicHtml(topic) {
         </div>
         <p class="results-row" data-results-count>Showing ${searchItemCount} evidence items</p>
         <p class="empty-state" data-empty-state>No matching evidence on this topic page.</p>
+      </section>
+
+      <section class="section">
+        <h2>Topic Scope And Freshness</h2>
+        <div class="panel">
+          ${topicCoverageHtml(topic)}
+        </div>
       </section>
 
       <section class="section">
@@ -2381,7 +2527,7 @@ async function generateTopicShards() {
         const entries = aliasSearchTargets.get(search);
         if (!entries) continue;
         for (const entry of entries) {
-          if (entry.topic.transcriptHits.length >= 12) continue;
+          if (entry.topic.transcriptHits.length >= 48) continue;
           addTopicTranscriptHit(entry.topic, segment, sourceBySlug, 'alias-match', entry.alias);
         }
       }

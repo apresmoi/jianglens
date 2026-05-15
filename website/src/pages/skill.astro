@@ -8,7 +8,7 @@ import { absoluteUrl, siteConfig } from '../../site.config.mjs';
 const title = 'Jiang Lens Skill | Agent Instructions';
 const description = 'HTML-first Jiang Lens skill with the full canonical instruction text, topic routes, source readings, transcript anchors, and citation-safe mirrors.';
 const canonicalUrl = absoluteUrl(siteConfig.paths.skillPage);
-const promptText = `Read ${canonicalUrl} and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
+const promptText = `Read ${canonicalUrl}, name the mode (retrieval, retrospective alignment, prospective/event reasoning, or concept analysis), and analyze this with Jiang Lens: [paste a link, claim, or situation]`;
 const skillMarkdown = await readFile('public/skill.md', 'utf8');
 const topicExamples = [
   ['Knights Templar / templars', '/topics/knights-templar/'],
@@ -226,7 +226,7 @@ const topicExamples = [
         <p class="eyebrow">Agent entrypoint</p>
         <h1>Use Jiang Lens Without Losing The Sources</h1>
         <p class="lead">
-          This page is the browser-safe entrypoint for ChatGPT, Claude, Grok, DeepSeek, Perplexity, and other assistants. Use HTML pages first. The canonical skill text is embedded below in full, then the route cards expose the highest-signal HTML pages and fallback mirrors.
+          This page is the browser-safe entrypoint for ChatGPT, Claude, Grok, DeepSeek, Perplexity, and other assistants. Use HTML pages first. Distinguish source retrieval, retrospective alignment, prospective/event reasoning, and concept analysis before answering. The canonical skill text is embedded below in full, then the route cards expose the highest-signal HTML pages and fallback mirrors.
         </p>
         <div class="prompt">
           <code>{promptText}</code>
@@ -243,12 +243,19 @@ const topicExamples = [
 
       <div class="grid" aria-label="Core agent rules">
         <section class="panel">
+          <h2>Analysis Modes</h2>
+          <p>
+            Use retrieval for what Jiang said, retrospective alignment for comparing dated corpus sources, prospective/event reasoning for applying evidence-backed Jiang Lens concepts to current facts, and concept analysis for stable recurring ideas. If the latest Jiang episode is not indexed yet, say so and keep the reading lens-generated.
+          </p>
+        </section>
+
+        <section class="panel">
           <h2>Resolution Order</h2>
           <ol>
             <li>Start here at <code>/skill/</code> for identity, attribution, and citation rules.</li>
-            <li>Use the HTML topic router at <a href="/topics/"><code>/topics/</code></a> for entity and topic questions.</li>
-            <li>Open the canonical HTML topic page, such as <a href="/topics/knights-templar/"><code>/topics/knights-templar/</code></a>.</li>
-            <li>Use the topic page to find source readings, transcript anchors, source refs, and video timestamps.</li>
+            <li>For retrieval and stable concept questions, use the HTML topic router at <a href="/topics/"><code>/topics/</code></a>.</li>
+            <li>For retrospective alignment, open the named, same-day, or event-specific episode/interview first.</li>
+            <li>For prospective event reasoning, decompose mechanisms before relying on topic pages.</li>
             <li>Use <code>.txt</code>, <code>.md</code>, JSON, and bulk transcript-search only when HTML routes are missing or blocked.</li>
           </ol>
         </section>
