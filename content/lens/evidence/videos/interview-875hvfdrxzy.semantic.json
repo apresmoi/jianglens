@@ -1,0 +1,1849 @@
+{
+  "id": "evidence:semanticvideo-interview-875hvfdrxzy:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-875hvfdrxzy",
+  "source_id": "video:interview-875hvfdrxzy",
+  "source_title": "Professor Jiang on Education in China @PredictiveHistory",
+  "source_url": "https://www.youtube.com/watch?v=875HVFDrXzY",
+  "source_date": "2026-04-05",
+  "date_precision": "day",
+  "transcript_id": "video:interview-875hvfdrxzy@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-875hvfdrxzy/packet-0013.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-875hvfdrxzy/source.yaml",
+    "transcript_path": "content/sources/videos/interview-875hvfdrxzy/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 13,
+    "interactions": 32,
+    "speaker_notes": 13,
+    "claims": 48,
+    "signature_moments": 25,
+    "predictions": 0,
+    "models": 13,
+    "glossary_terms": 27,
+    "chronology_notes": 9,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0008",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0006",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0012",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0014",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0015",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0018",
+    "video:interview-875hvfdrxzy@transcript:v1#seg-0020"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0001",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0002",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0003",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts open Sinica from Beijing, introduce Kaiser Guo and David Moser, joke about Yao Ming and educational exchange, and set the conversational frame before Jiang enters.",
+      "speaker_attribution": "Kaiser Guo and David Moser; Jiang not yet substantively speaking.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0007",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser frames China education through the PISA paradox: Shanghai excels while China is criticized for test teaching, rigidity, hierarchy, and cheating. Jiang answers the first substantive question by explaining why only Shanghai results were publicly released.",
+      "speaker_attribution": "Kaiser interviewer asks; Jiang answers from seg-0008.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0009",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser asks whether other countries report only municipality-level PISA results; Jiang says he knows Hong Kong, Macau, and Shanghai are reported separately and is unsure about India.",
+      "speaker_attribution": "Kaiser question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0011",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0012",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts push Jiang on whether East Asian dominance proves excellence or test skew; Jiang says East Asian systems dominate PISA because the test rewards skills those systems emphasize.",
+      "speaker_attribution": "Kaiser and David question; Jiang answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0014",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0015",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives his first critique of PISA: it is a snapshot of volatile fourteen-year-olds and rewards the East Asian capacity to make teenagers sit still for hours.",
+      "speaker_attribution": "Jiang, with host backchannel at seg-0016.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0017",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0018"
+      ],
+      "kind": "exchange",
+      "summary": "David defends the virtue of concentration, and Jiang answers that education is broader than literacy and numeracy: teenagers need friends, mistakes, risk, and individual space.",
+      "speaker_attribution": "David question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0019",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0020",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0021",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0022"
+      ],
+      "kind": "answer",
+      "summary": "Jiang generalizes from PISA to all tests: tests measure test-taking, East Asia is a deep testing culture, and Shanghai could mobilize top-down authority to perform well.",
+      "speaker_attribution": "Kaiser prompt; Jiang answer with ASR repetition in seg-0021-0022.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0023",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser asks what Shanghai does right; Jiang says China and Shanghai are strong at fundamental numeracy and literacy and roots this in a Confucian civil-service model blended with a Stalinist proletarian literacy project.",
+      "speaker_attribution": "Kaiser question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lays out the three objectives of China education: broad literacy/numeracy for the socialist economy, political orthodoxy across a vast diverse country, and fair allocation of scarce education through Gaokao merit.",
+      "speaker_attribution": "Jiang answer continuing from prior packet.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0028",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0029",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0031",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts press why reform is hard; Jiang says elites and the state want reform, parents fear being cheated, and the system produces accountants and programmers when the economy needs managers, designers, and entrepreneurs.",
+      "speaker_attribution": "Kaiser and David questions; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0033",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0034",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0035"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains why Gaokao is culturally sticky: China trusts test scores more than recommendations, qualitative judgment, or institutions, because a national score feels objective and fair in a low-trust society.",
+      "speaker_attribution": "Jiang answer with David confirming the fairness problem.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0036",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0037",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0038"
+      ],
+      "kind": "exchange",
+      "summary": "David distinguishes parents who reinforce Gaokao from wealthy parents who exit the system; Jiang agrees and says the exit faction is powerful but weakens domestic reform because they vote with their feet.",
+      "speaker_attribution": "David question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0039",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser asks why official reform rhetoric does not produce change; Jiang says administrators master doublethink, praising reform publicly while continuing test practice privately.",
+      "speaker_attribution": "Kaiser question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0041",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0042",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0043",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0044",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser asks for actionable reform prescriptions; Jiang first answers through Camus and Sisyphus, warning that reforming Chinese education may be impossible because education is linked to politics, culture, and society.",
+      "speaker_attribution": "Kaiser question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0046",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives a three-part prescription: openness to criticism and new ideas, diversity across schools and local conditions, and a risk-taking culture that empowers principals and educators to experiment.",
+      "speaker_attribution": "Jiang answer; Kaiser pushes that the prescriptions feel too large.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0049",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0050",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0051",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts call Jiang’s prescriptions almost impossible; Jiang answers that cultural change takes generations but China changes fast and its energy creates new opportunities.",
+      "speaker_attribution": "Hosts challenge; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0053",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0054",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "David and Kaiser list reform pressures, and Jiang describes a reform season after Wen Jiabao’s 2010 blueprint: Shenzhen experiments, private progressive schools, and university pressure to control admissions.",
+      "speaker_attribution": "David/Kaiser questions; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0057",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0058",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0059",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0060"
+      ],
+      "kind": "exchange",
+      "summary": "David asks about Tsinghua-style interviews and research admissions; Jiang says Gaokao reform is focused on diversifying admissions but public distrust of institutions makes reform politically fragile.",
+      "speaker_attribution": "David question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0061",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0062",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0063",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts pivot from study abroad numbers to cultural learning styles and ask Jiang to describe his own migration, Yale, and East Asian-American experience.",
+      "speaker_attribution": "Kaiser and David prompt Jiang autobiographically.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0065",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0066",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0067",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0068"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers autobiographically: moving to Canada made him feel shy, bullied, socially fraudulent, and alienated at Yale; he returned to China while now helping students go abroad.",
+      "speaker_attribution": "Jiang answer with host aside.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0070"
+      ],
+      "kind": "answer",
+      "summary": "Jiang turns autobiography into a warning: Chinese schooling prepares students for Chinese society, but the American classroom demands speaking, debate, opinion, and uncertainty, producing confusion and alienation.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0071",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0072"
+      ],
+      "kind": "question",
+      "summary": "David reports faculty emails about high-scoring PRC graduate students who struggle analytically and asks whether the problem is language, culture, or unrealistic expectations.",
+      "speaker_attribution": "David Moser reporting and asking; Jiang answer follows in next packet.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0073",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0074"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the faculty-email problem by moving to neuroscience: confident, happy students absorb new ideas, while stress triggers fight-or-flight shutdown and prevents contribution.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0075",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0076"
+      ],
+      "kind": "monologue",
+      "summary": "Kaiser offers a hybrid education theory: early play and plasticity, then a period of Chinese discipline and memorization, then exit before it is too late.",
+      "speaker_attribution": "Kaiser Guo.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0077",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0078",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0079",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "David introduces Howard Gardner’s key-and-door example; Jiang says it is oversimplified but useful: America emphasizes learning by doing, China learning by memorizing, and China’s respect for hard work and sacrifice is worth preserving.",
+      "speaker_attribution": "David question; Jiang answer; Kaiser follow-up.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0081",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0082",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0083",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0084",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0085"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang and the hosts critique American schooling: instant gratification, disengagement, everyone-gets-a-prize mediocrity, and drugging children who cannot sit still.",
+      "speaker_attribution": "Jiang with Kaiser host amplification.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0085",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0086",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0087",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang still values America’s emphasis on the individual, openness, and diverse discussion; the hosts frame the needed balance between discipline and freedom, note media learning, and close the interview topic.",
+      "speaker_attribution": "Jiang, Kaiser, and David.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0089",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0090",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0091",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "kind": "exchange",
+      "summary": "The recommendation segment extends the education discussion through Chinese writing: David recommends Asia’s Orthographic Dilemma, Kaiser defends character learning, and Jiang recommends Proust and the Squid to explain reading-brain costs of non-phonological script.",
+      "speaker_attribution": "David, Kaiser, then Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0094",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "kind": "monologue",
+      "summary": "Kaiser recommends Baidu Predict, describing big-data predictions for sports, travel, disease, real estate, box office, and Gaokao score dispersion, while the hosts joke about determinism.",
+      "speaker_attribution": "Kaiser Guo.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0096"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang recommends education books: Judith Rich Harris, David Brooks, Daniel Pink’s Drive, and Malcolm Gladwell’s Outliers, emphasizing motivation, creativity, and useful debate.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0097",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser challenges Outliers’ rice-farming thesis; Jiang answers that even flawed arguments can create discussion and debate, then recommends neuroplasticity and lifelong learning.",
+      "speaker_attribution": "Kaiser question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0099",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0100"
+      ],
+      "kind": "monologue",
+      "summary": "The hosts close the Sinica episode with banter and show outro; final unknown segment is stray ASR noise.",
+      "speaker_attribution": "Kaiser Guo; seg-0100 unknown/noise.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "note": "Diarization mixes host banter and Jiang in seg-0006; the first clear Jiang answer is seg-0008.",
+      "suggested_speaker": "Kaiser Guo through most of seg-0006; Jiang in brief welcome response and seg-0008 answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0012",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0015"
+      ],
+      "note": "Some host questions are embedded inside Jiang-labelled spans, but the argumentative answer belongs to Jiang.",
+      "suggested_speaker": "Jiang with interviewer interruptions",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0021",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0022"
+      ],
+      "note": "Repeated “Yeah” material appears to be ASR or crosstalk; the substantive speaker remains Jiang.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030"
+      ],
+      "note": "Transcript phrase “major racism” likely ASR for “major resistance”; semantic interpretation follows the surrounding parent-resistance argument.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0040"
+      ],
+      "note": "Transcript says “Chinese Democrats”; context indicates Chinese administrators/bureaucrats.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0046",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047"
+      ],
+      "note": "Boundary remains awkward around “first of all, the, the school system”; the three intended elements are openness, diversity, and risk-taking.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0056"
+      ],
+      "note": "Transcript says “emits/emissions”; context means admits/admissions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0063",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0064"
+      ],
+      "note": "These are interviewer prompts rather than Jiang claims; they set up the autobiographical answer in the next packet.",
+      "suggested_speaker": "Kaiser Guo",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0065",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0070"
+      ],
+      "note": "SPEAKER_00 is Jiang; this is one of the source’s key autobiographical stretches.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0075",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0078"
+      ],
+      "note": "Long non-Jiang passages are substantive interviewer theorizing/questions and should not be promoted as Jiang claims except where Jiang responds.",
+      "suggested_speaker": "Kaiser and David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0087"
+      ],
+      "note": "David’s media-assimilation question receives little direct Jiang response before the show moves to recommendations.",
+      "suggested_speaker": "David Moser",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "note": "Baidu Predict claims are Kaiser’s recommendation, not Jiang’s education argument.",
+      "suggested_speaker": "Kaiser Guo",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0100"
+      ],
+      "note": "Final “1” is likely ASR noise or production artifact, not a speaker contribution.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says 12 Chinese provinces participated when PISA entered China in 2009, but only Shanghai results were publicly released in 2010 because OECD was confident in Shanghai methodology.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Retrospective explanation given on 2026-04-05 about 2009-2010 PISA handling.",
+      "topic_tags": [
+        "pisa",
+        "shanghai",
+        "oecd",
+        "education-data"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts frame Chinese education as a tension between high test performance and criticism of rote pedagogy, Gaokao teaching, rigidity, hierarchy, and cheating.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interview framing on 2026-04-05.",
+      "topic_tags": [
+        "chinese-education",
+        "pisa",
+        "gaokao",
+        "rote-learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues PISA is skewed toward skills emphasized by East Asian education systems rather than neutral proof of general educational superiority.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Diagnosis made on 2026-04-05.",
+      "topic_tags": [
+        "pisa",
+        "east-asia",
+        "test-bias"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says PISA only captures how fourteen-year-olds perform in school, an especially volatile age shaped by puberty and hormonal change.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "PISA critique made on 2026-04-05.",
+      "topic_tags": [
+        "pisa",
+        "adolescence",
+        "measurement"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "East Asian students have an advantage on PISA because their systems can train children to sit still and test for five hours.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0014",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Comparison made on 2026-04-05.",
+      "topic_tags": [
+        "test-culture",
+        "east-asia",
+        "discipline"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues education includes social interaction, mistakes, risk, and individual space; school literacy and numeracy are only one part of child development.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Normative education model stated on 2026-04-05.",
+      "topic_tags": [
+        "whole-child-education",
+        "risk",
+        "individual-space"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Every test, including IQ, SAT, Gaokao, and PISA, fundamentally tests the ability to do well on that test.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Testing model stated on 2026-04-05.",
+      "topic_tags": [
+        "testing",
+        "iq",
+        "sat",
+        "gaokao",
+        "pisa"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "East Asian students do well on tests because high-stakes testing is culturally ingrained and has roots going back thousands of years.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical-cultural diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "east-asia",
+        "testing-culture",
+        "high-stakes-testing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Shanghai K-12 is the strongest system China has for teaching fundamental literacy and numeracy.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0023",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Evaluation stated on 2026-04-05.",
+      "topic_tags": [
+        "shanghai",
+        "k12",
+        "literacy",
+        "numeracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Modern Chinese education blends a Confucian civil-service examination tradition with a Stalinist project of creating literate, numerate factory workers.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical model stated on 2026-04-05.",
+      "topic_tags": [
+        "confucian-exams",
+        "stalinist-education",
+        "proletariat"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "China education has three major goals: mass literacy/numeracy, nationwide political orthodoxy, and merit-oriented distribution of scarce education resources.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "System model stated on 2026-04-05.",
+      "topic_tags": [
+        "chinese-education",
+        "political-orthodoxy",
+        "gaokao",
+        "literacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "High-stakes testing equips many people with basic skills but limits creativity, empathy, judgment, and collaboration.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Tradeoff diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "high-stakes-testing",
+        "creativity",
+        "empathy",
+        "judgment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese education reform is supported by universities and political-economic elites because the economy needs managers, designers, and entrepreneurs rather than only accountants and programmers.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Reform diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "education-reform",
+        "economy",
+        "entrepreneurship",
+        "critical-thinking"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Parents resist reform because they read elite reforms as an attempt to remove the only fair ladder their children have.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0029",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Parent-resistance diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "parents",
+        "gaokao",
+        "social-mobility",
+        "elite-trust"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies monolithic top-down socialist bureaucracy as the first major structural problem in Chinese education.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Problem list begun on 2026-04-05.",
+      "topic_tags": [
+        "bureaucracy",
+        "education-system",
+        "top-down"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese society trusts test scores over teacher recommendations, qualitative measures, and institutions because Gaokao bypasses low institutional trust.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0033",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Cultural-political diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "gaokao",
+        "institutional-trust",
+        "civil-society",
+        "fairness"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Parents fear that without Gaokao, guanxi and elite monopoly will replace merit and leave middle- and lower-class families worse off.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Parent-perspective model stated on 2026-04-05.",
+      "topic_tags": [
+        "guanxi",
+        "meritocracy",
+        "social-mobility",
+        "parents"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A growing wealthy minority of parents exits Chinese education by sending children to the United States, Canada, New Zealand, and increasingly American high schools.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0036",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0037",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Study-abroad trend described on 2026-04-05.",
+      "topic_tags": [
+        "study-abroad",
+        "parent-exit",
+        "international-education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because reform-minded parents leave, they are not inside China fighting for reform.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Reform-politics diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "exit",
+        "voice",
+        "education-reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese administrators can speak reform language for visitors and media while continuing the same test-focused practices.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Bureaucratic diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "doublethink",
+        "bureaucracy",
+        "education-reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares Chinese education reform to Sisyphus rolling the boulder because education is tied to politics, culture, and society.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0042",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Reform model stated on 2026-04-05.",
+      "topic_tags": [
+        "sisyphus",
+        "education-reform",
+        "politics",
+        "culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The first requirement for reform is openness: Chinese schools must become more open to criticism and new ideas.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Prescription stated on 2026-04-05.",
+      "topic_tags": [
+        "openness",
+        "criticism",
+        "education-reform"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The second requirement is diversity because a monolithic pedagogy and textbook system is inappropriate for a country as varied as China.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Prescription stated on 2026-04-05.",
+      "topic_tags": [
+        "diversity",
+        "local-schools",
+        "monolithic-system"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The third requirement is risk-taking: principals and a new generation of educators must be empowered to try ideas, most of which will fail, until local formulas emerge.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Prescription stated on 2026-04-05.",
+      "topic_tags": [
+        "risk-taking",
+        "principals",
+        "experimentation",
+        "local-formula"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects simply importing AP or International Baccalaureate as the answer; China must discover a formula right for its own local schools.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Prescription boundary stated on 2026-04-05.",
+      "topic_tags": [
+        "ap",
+        "international-baccalaureate",
+        "local-education"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese reform may look impossible but China changes in generational leaps and has unusual energy and dynamism.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0051",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Reform optimism stated on 2026-04-05 after reflecting on his prior 2000-2001 collapse prediction.",
+      "topic_tags": [
+        "china-change",
+        "education-reform",
+        "experimentation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The constant requirement is creating space for experimentation and innovation inside a powerful education bureaucracy.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Reform prescription stated on 2026-04-05.",
+      "topic_tags": [
+        "experimentation",
+        "innovation",
+        "bureaucracy"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China entered a season of education reform after Wen Jiabao’s 2010 ten-year blueprint to shift from high-stakes testing toward a more progressive model.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Reform chronology described on 2026-04-05.",
+      "topic_tags": [
+        "wen-jiabao",
+        "2010-blueprint",
+        "progressive-education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Southern University of Science and Technology in Shenzhen is presented as a hopeful experiment because it bypasses Gaokao and uses more holistic admissions.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Reform example assessed on 2026-04-05.",
+      "topic_tags": [
+        "shenzhen",
+        "sustech",
+        "gaokao",
+        "holistic-admissions"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Private progressive schools and Peking/Tsinghua admissions reform efforts are evidence of pressure against test-taking drones and toward critical thinkers.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Reform trend described on 2026-04-05.",
+      "topic_tags": [
+        "private-schools",
+        "peking-university",
+        "tsinghua",
+        "critical-thinking"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gaokao reform is trying to diversify admissions through interviews, high-school GPA, and academic achievements, but the unresolved question is public appetite for change.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0058",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0059",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Reform diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "gaokao-reform",
+        "admissions",
+        "public-trust"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Public distrust of government and institutions makes even good admissions reforms look like elite capture of education.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Reform-politics diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "institutional-trust",
+        "elite-capture",
+        "education-reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Study abroad is a major trend because many young Chinese are seeking global education.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0060",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0061",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Study-abroad trend discussed on 2026-04-05.",
+      "topic_tags": [
+        "study-abroad",
+        "global-education",
+        "chinese-students"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says study abroad is personal and emotional for him because his own Canada/Yale experience left bullying, alienation, fraudulence, and psychological scars.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0065",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0066",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Autobiographical evidence used on 2026-04-05.",
+      "topic_tags": [
+        "autobiography",
+        "canada",
+        "yale",
+        "alienation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues China and the West are not a good marriage educationally: Chinese schools train not talking, not questioning authority, going with the flow, and leveraging guanxi networks, while American schools demand unique participation and argument.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Cross-cultural education model stated on 2026-04-05.",
+      "topic_tags": [
+        "study-abroad",
+        "authority",
+        "western-education",
+        "guanxi"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese students abroad can suffer psychological confusion and alienation because the habits that work in Chinese society become liabilities in American classrooms.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Study-abroad diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "psychological-alienation",
+        "study-abroad",
+        "classroom-culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says confidence and happiness make the brain more open to new ideas, while stress triggers fight-or-flight shutdown.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Learning/neuroscience model stated on 2026-04-05.",
+      "topic_tags": [
+        "learning",
+        "stress",
+        "neuroscience",
+        "confidence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese students abroad may be bright but blocked by fear, doubt, self-hatred, and withdrawal caused by cultural mismatch.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0073",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Study-abroad diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "study-abroad",
+        "alienation",
+        "self-doubt"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang accepts the Chinese/American door-key contrast as oversimplified but says it points to a real difference between learning by doing and learning by memorizing.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0077",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0078",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Pedagogical comparison on 2026-04-05.",
+      "topic_tags": [
+        "learning-by-doing",
+        "memorization",
+        "problem-solving"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese education’s valuable lesson is respect for hard work and the understanding that growth may require sacrifice and painful hardship.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Positive assessment of Chinese schooling on 2026-04-05.",
+      "topic_tags": [
+        "hard-work",
+        "sacrifice",
+        "discipline"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang criticizes American schooling for instant gratification, student disengagement, and medicating children with Adderall and Ritalin when they cannot sit still.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0081",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0083",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "American-school diagnosis on 2026-04-05.",
+      "topic_tags": [
+        "american-education",
+        "instant-gratification",
+        "adhd-medication"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American emphasis on the individual, openness, and diverse discussion is valuable for Chinese schools to learn from.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Positive assessment of American schooling on 2026-04-05.",
+      "topic_tags": [
+        "individuality",
+        "openness",
+        "discussion",
+        "chinese-education"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts frame the educational problem as balancing discipline and freedom rather than essentializing China as discipline and America as freedom.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Host synthesis on 2026-04-05.",
+      "topic_tags": [
+        "discipline",
+        "freedom",
+        "balance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese script is not phonological enough to read from characters alone, separating spoken and written language and making language learning take many more years.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Reading-brain claim made on 2026-04-05 while recommending Marianne Wolf.",
+      "topic_tags": [
+        "chinese-script",
+        "reading-brain",
+        "literacy",
+        "phonology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts present Chinese character learning as both a burden on educational efficiency and a possible training in linking abstract symbols to ideas.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0089",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0090",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Recommendation discussion on 2026-04-05.",
+      "topic_tags": [
+        "orthography",
+        "chinese-characters",
+        "abstraction"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang recommends Drive because motivation can enhance or destroy student creativity, making it useful for educators.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Book recommendation on 2026-04-05.",
+      "topic_tags": [
+        "motivation",
+        "creativity",
+        "drive",
+        "education-books"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defends discussing Outliers because it creates debate, and creating discussion is what educators strive to accomplish.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0097",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Education-method claim on 2026-04-05.",
+      "topic_tags": [
+        "debate",
+        "education",
+        "outliers"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says neuroplasticity means adults can learn just as well as kids, so learning should be lifelong.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Learning model stated on 2026-04-05.",
+      "topic_tags": [
+        "neuroplasticity",
+        "lifelong-learning",
+        "adult-learning"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006"
+      ],
+      "moment": "The interview opens by making China education a contradiction: Shanghai kicks serious ass on PISA while the same system is accused of manufacturing soulless automatons.",
+      "source_phrase": "soulless automatons",
+      "why_it_matters": "This contradiction drives the whole episode: China is good at what tests can see and bad at what creativity needs.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0014"
+      ],
+      "moment": "PISA becomes less a truth machine than a five-hour test of whether a society can make fourteen-year-olds sit still.",
+      "source_phrase": "sit still and do a test for five hours",
+      "why_it_matters": "It turns Shanghai success from simple superiority into a measurement problem.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0020"
+      ],
+      "moment": "Jiang strips tests of metaphysical authority: even IQ only tests the ability to do well on IQ.",
+      "source_phrase": "any test, will just test your ability to do well on the test",
+      "why_it_matters": "It becomes the conceptual solvent for PISA envy and Gaokao legitimacy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0021"
+      ],
+      "moment": "The Chinese kid in the back cheers when the test is announced because the test is his arena of glory.",
+      "source_phrase": "this is my opportunity to shine",
+      "why_it_matters": "The comic image condenses Jiang’s testing-culture argument.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "moment": "The same machine that teaches the whole country to read also amputates the higher-order skills China now needs.",
+      "source_phrase": "limits students in higher-order thinking skills",
+      "why_it_matters": "It gives the episode its central tradeoff: meritocratic scale versus creative adulthood.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "moment": "Parents hear reform as the elite trying to screw them.",
+      "source_phrase": "the elite is trying to screw them",
+      "why_it_matters": "This explains why good reform language fails politically: distrust protects the test.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0033"
+      ],
+      "moment": "Gaokao survives because it bypasses institutions in a society that does not trust institutions.",
+      "source_phrase": "the Gaokao is that it bypasses institutions",
+      "why_it_matters": "This turns the test from a mere exam into a substitute for civil society.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0038"
+      ],
+      "moment": "The families most able to demand reform leave the battlefield.",
+      "source_phrase": "because they’re voting with their feet, their voice, they’re not actually in China advocating",
+      "why_it_matters": "Exit drains the coalition that could change the system.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0040"
+      ],
+      "moment": "Education reform becomes a public script administrators perform while privately doing the same old thing.",
+      "source_phrase": "saying something in public and then actually doing something completely different",
+      "why_it_matters": "It exposes reform rhetoric as institutional theater.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0044"
+      ],
+      "moment": "Chinese education reform is Sisyphus pushing the boulder because the school is tied to everything else.",
+      "source_phrase": "a Sisyphean struggle",
+      "why_it_matters": "It gives the prescription a tragic scale: reform cannot be reduced to a classroom technique.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047"
+      ],
+      "moment": "Most new ideas should be allowed to be stupid and fail because failure is how China finds its own school formula.",
+      "source_phrase": "these new ideas will be stupid and they’ll fail",
+      "why_it_matters": "This is Jiang’s pro-experiment reform ethic in its sharpest form.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0051"
+      ],
+      "moment": "Jiang admits he once predicted China would collapse and was wrong; that memory lets him see dynamism where reform looks impossible.",
+      "source_phrase": "Boy, was I wrong",
+      "why_it_matters": "It keeps his reform optimism from sounding naive: it is learned from a prior failed prediction.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0056"
+      ],
+      "moment": "Universities do not want test-taking drones and robots; they want people who can question authority in labs and classrooms.",
+      "source_phrase": "test-taking drones, robots",
+      "why_it_matters": "This is the cleanest image of what Gaokao produces and what research institutions reject.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0059"
+      ],
+      "moment": "Every admissions innovation runs into the same suspicion: the elite will screw us over again if we trust them.",
+      "source_phrase": "The elite is going to screw us over again if we trust them",
+      "why_it_matters": "It restates the social-trust trap that makes reform technically plausible but politically unstable.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0065",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0067"
+      ],
+      "moment": "Jiang’s work has an irony at its center: he ran from Western schooling scars into China and now helps Chinese students run toward the same danger.",
+      "source_phrase": "helping students now go away",
+      "why_it_matters": "It gives the study-abroad critique moral weight; he is not speaking as an outsider.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069"
+      ],
+      "moment": "China and the West are called a bad marriage because each school system trains a different social body.",
+      "source_phrase": "China and the West is not a good marriage",
+      "why_it_matters": "This phrase condenses the mismatch between social formation and classroom expectations.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0073"
+      ],
+      "moment": "Learning shuts down when the student’s body reads school as danger.",
+      "source_phrase": "fight or flight response, and our system shuts down",
+      "why_it_matters": "This is the mechanism connecting culture shock to intellectual underperformance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0077",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0078"
+      ],
+      "moment": "A child can learn to open a door, or learn what to do when nobody tells him how to open the door.",
+      "source_phrase": "GPS, general problem solving",
+      "why_it_matters": "The image explains the difference between skill acquisition and problem-forming agency.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0079"
+      ],
+      "moment": "Chinese schooling’s gift is not creativity but the willingness to endure hardship for growth.",
+      "source_phrase": "to grow as an individual, you might have to make sacrifices",
+      "why_it_matters": "It prevents the episode from becoming simple anti-Chinese-schooling critique.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0085"
+      ],
+      "moment": "The tiger father refuses the medical excuse for a child who wants to move.",
+      "source_phrase": "The tiger father does not believe in ADD",
+      "why_it_matters": "It captures Jiang’s impatience with American pathologizing while keeping the discipline critique alive.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0086"
+      ],
+      "moment": "The episode’s synthesis becomes discipline and freedom, not China versus America.",
+      "source_phrase": "a balance between discipline and freedom",
+      "why_it_matters": "This gives the public read a compact ending principle for the education debate.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "moment": "Chinese literacy becomes a neural and temporal tax because speech and script are not tightly joined.",
+      "source_phrase": "the spoken language and the written language are separate",
+      "why_it_matters": "It adds a material reading-brain layer to the earlier test-and-memorization critique.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "moment": "The Gaokao predictor makes education feel accurate and creepy at once.",
+      "source_phrase": "I fear determinism",
+      "why_it_matters": "The joke shows the dark side of predictive education metrics at the end of a testing episode.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "moment": "A bad or debatable book can still be educational if it provokes discussion.",
+      "source_phrase": "It creates discussion. It creates debate.",
+      "why_it_matters": "It gives a final teacherly rule: education is not agreement, it is productive argument.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "moment": "Learning does not belong only to children; neuroplasticity keeps adulthood open.",
+      "source_phrase": "adults can learn just as well as kids",
+      "why_it_matters": "It closes the episode by widening education from school reform to lifelong human plasticity.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "PISA",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Program for International Student Assessment, used here as the international test where Shanghai ranked first and became the trigger for the China education debate.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gaokao",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "China college entrance exam, introduced by the host as the center of teaching-to-the-test criticism.",
+      "confidence": "high"
+    },
+    {
+      "term": "test skew",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0012",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The claim that a test rewards culturally trained skills rather than measuring all forms of educational quality.",
+      "confidence": "high"
+    },
+    {
+      "term": "sit flesh",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0014",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Host-introduced German virtue for the ability to sit for hours and concentrate; used to pressure Jiang on whether discipline is also an advantage.",
+      "confidence": "medium"
+    },
+    {
+      "term": "testing culture",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0020",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A culture where high-stakes testing is deeply ingrained and test performance becomes a route to status and mobility.",
+      "confidence": "high"
+    },
+    {
+      "term": "Confucian examination system",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Historical civil-service examination tradition used to demonstrate orthodoxy and conformity to the system.",
+      "confidence": "high"
+    },
+    {
+      "term": "political orthodoxy",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "The shared historical and political worldview Jiang says the school system indoctrinates across China.",
+      "confidence": "high"
+    },
+    {
+      "term": "higher-order thinking skills",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Creativity, empathy, judgment, and collaboration, which Jiang says high-stakes testing suppresses.",
+      "confidence": "high"
+    },
+    {
+      "term": "guanxi",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Personal connection networks that parents fear would replace exam merit if Gaokao were removed.",
+      "confidence": "high"
+    },
+    {
+      "term": "voting with their feet",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Leaving China’s education system through emigration or study abroad instead of staying to advocate reform.",
+      "confidence": "high"
+    },
+    {
+      "term": "Sisyphean struggle",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0042",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Jiang’s metaphor for education reform as an apparently futile task linked to the whole social order.",
+      "confidence": "high"
+    },
+    {
+      "term": "risk-taking culture",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "A school culture that lets principals and educators try, fail, and discover locally appropriate models.",
+      "confidence": "high"
+    },
+    {
+      "term": "progressive education",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Reform model opposed to high-stakes testing, represented here by holistic admissions and private schools adapted for Chinese students.",
+      "confidence": "high"
+    },
+    {
+      "term": "holistic admissions",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Admissions based on criteria beyond one exam score, including non-Gaokao measures.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gaokao reform",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Attempts to change the national exam/admissions system through interviews, GPA, achievements, and diversified criteria.",
+      "confidence": "high"
+    },
+    {
+      "term": "study abroad",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0060",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The trend of Chinese students leaving for secondary or post-secondary education overseas.",
+      "confidence": "high"
+    },
+    {
+      "term": "psychological preparedness",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "The readiness Chinese students need before entering American classroom and workplace cultures that reward debate and self-assertion.",
+      "confidence": "high"
+    },
+    {
+      "term": "guanxi network",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Rendered by ASR as “frequency network”; the social network students learn to leverage in China.",
+      "confidence": "medium"
+    },
+    {
+      "term": "fight-or-flight learning shutdown",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0073"
+      ],
+      "definition_or_usage": "Jiang’s neuroscience explanation for why stressed students cannot absorb new ideas effectively.",
+      "confidence": "high"
+    },
+    {
+      "term": "general problem solving",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "The meta-skill learned when a child figures out an unfamiliar situation rather than being guided step-by-step.",
+      "confidence": "high"
+    },
+    {
+      "term": "discipline and freedom",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Host synthesis for the desired middle path between Chinese and American pedagogical strengths.",
+      "confidence": "high"
+    },
+    {
+      "term": "instantaneous gratification",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0081"
+      ],
+      "definition_or_usage": "Jiang’s shorthand for a defect in American student culture that weakens learning seriousness.",
+      "confidence": "medium"
+    },
+    {
+      "term": "non-phonological script",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "A writing system where characters do not reliably tell the reader how to pronounce them, increasing learning burden.",
+      "confidence": "high"
+    },
+    {
+      "term": "reading brain",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "The neuroscience of how humans learn to read, invoked through Marianne Wolf’s Proust and the Squid.",
+      "confidence": "high"
+    },
+    {
+      "term": "Baidu Predict",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0094",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "definition_or_usage": "Kaiser’s example of large-scale big-data prediction, including Gaokao score projections.",
+      "confidence": "high"
+    },
+    {
+      "term": "neuroplasticity",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "definition_or_usage": "The brain’s ability to change and learn, used here to support lifelong adult learning.",
+      "confidence": "high"
+    },
+    {
+      "term": "lifelong learning",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "definition_or_usage": "Jiang’s conclusion that learning should continue across adulthood because neuroplasticity remains possible.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang dates China PISA participation to 2009 and public Shanghai-only release to 2010.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang dates the Stalinist/proletarian education layer to China’s 1950s economic-building period.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang links Chinese university-led reform advocacy to the era of Cai Yuanpei and May Fourth, then to present university concerns.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang cites an Open Doors report from a few months before the interview and says more than 400,000 Chinese were studying in U.S. higher education, excluding high school students.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0051"
+      ],
+      "note": "Jiang recalls that in 2000-2001 he predicted China would collapse, then uses his fifteen years in China to say China changed instead.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0055"
+      ],
+      "note": "Wen Jiabao’s 2010 education reform blueprint is named as a ten-year reform marker.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0061",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0062"
+      ],
+      "note": "Hosts cite large and rapidly growing Chinese student enrollment abroad, including figures around 200,000-235,000 and routine doubling at some schools.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0065",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0067"
+      ],
+      "note": "Jiang links his childhood migration to Canada, later Yale experience, and return to China as the dated autobiographical basis for his 2026 study-abroad warning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0094"
+      ],
+      "note": "Kaiser describes Baidu Predict features active at the time of the 2026-04-05 source and upcoming stock/real-estate/box-office prediction features.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006"
+      ],
+      "note": "Segment contains multiple speakers in one diarized span; treat host question and Jiang welcome response cautiously."
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0024"
+      ],
+      "note": "Transcript says “confusion system” and “manual system”; context indicates Confucian/civil-service examination system, but the pass avoids silently normalizing the source text in quoted phrases."
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025"
+      ],
+      "note": "Transcript says “first major objective” twice; Jiang appears to be enumerating three goals, but ASR/order is slightly damaged."
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0046",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0047"
+      ],
+      "note": "ASR/boundary damage obscures part of the diversity prescription, but the list structure remains clear from surrounding text."
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0069"
+      ],
+      "note": "Transcript phrase “frequency network” likely means guanxi network, based on surrounding China social-skills context."
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0098"
+      ],
+      "note": "Book author appears in transcript as Norman Dodge; likely Norman Doidge, but the semantic note preserves the transcript wording."
+    }
+  ]
+}

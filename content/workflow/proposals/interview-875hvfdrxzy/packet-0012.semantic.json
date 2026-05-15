@@ -1,0 +1,160 @@
+{
+  "packet_id": "interview-875hvfdrxzy-semantics-pkt-0012",
+  "source_id": "video:interview-875hvfdrxzy",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0089",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0090",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0091",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "kind": "exchange",
+      "summary": "The recommendation segment extends the education discussion through Chinese writing: David recommends Asia’s Orthographic Dilemma, Kaiser defends character learning, and Jiang recommends Proust and the Squid to explain reading-brain costs of non-phonological script.",
+      "speaker_attribution": "David, Kaiser, then Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0094",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "kind": "monologue",
+      "summary": "Kaiser recommends Baidu Predict, describing big-data predictions for sports, travel, disease, real estate, box office, and Gaokao score dispersion, while the hosts joke about determinism.",
+      "speaker_attribution": "Kaiser Guo.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0096"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang recommends education books: Judith Rich Harris, David Brooks, Daniel Pink’s Drive, and Malcolm Gladwell’s Outliers, emphasizing motivation, creativity, and useful debate.",
+      "speaker_attribution": "Jiang.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "note": "Baidu Predict claims are Kaiser’s recommendation, not Jiang’s education argument.",
+      "suggested_speaker": "Kaiser Guo",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Chinese script is not phonological enough to read from characters alone, separating spoken and written language and making language learning take many more years.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Reading-brain claim made on 2026-04-05 while recommending Marianne Wolf.",
+      "topic_tags": [
+        "chinese-script",
+        "reading-brain",
+        "literacy",
+        "phonology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts present Chinese character learning as both a burden on educational efficiency and a possible training in linking abstract symbols to ideas.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0089",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0090",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Recommendation discussion on 2026-04-05.",
+      "topic_tags": [
+        "orthography",
+        "chinese-characters",
+        "abstraction"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang recommends Drive because motivation can enhance or destroy student creativity, making it useful for educators.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Book recommendation on 2026-04-05.",
+      "topic_tags": [
+        "motivation",
+        "creativity",
+        "drive",
+        "education-books"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "moment": "Chinese literacy becomes a neural and temporal tax because speech and script are not tightly joined.",
+      "source_phrase": "the spoken language and the written language are separate",
+      "why_it_matters": "It adds a material reading-brain layer to the earlier test-and-memorization critique.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "moment": "The Gaokao predictor makes education feel accurate and creepy at once.",
+      "source_phrase": "I fear determinism",
+      "why_it_matters": "The joke shows the dark side of predictive education metrics at the end of a testing episode.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "non-phonological script",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "A writing system where characters do not reliably tell the reader how to pronounce them, increasing learning burden.",
+      "confidence": "high"
+    },
+    {
+      "term": "reading brain",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "The neuroscience of how humans learn to read, invoked through Marianne Wolf’s Proust and the Squid.",
+      "confidence": "high"
+    },
+    {
+      "term": "Baidu Predict",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0094",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0095"
+      ],
+      "definition_or_usage": "Kaiser’s example of large-scale big-data prediction, including Gaokao score projections.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0093",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0094"
+      ],
+      "note": "Kaiser describes Baidu Predict features active at the time of the 2026-04-05 source and upcoming stock/real-estate/box-office prediction features.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}
