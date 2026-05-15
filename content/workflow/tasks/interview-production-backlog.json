@@ -1,6 +1,6 @@
 {
   "generated_by": "ops/scripts/build-episode-backlog.mjs",
-  "generated_at": "2026-05-15T00:00:44.903Z",
+  "generated_at": "2026-05-15T00:13:05.769Z",
   "channel": "Interviews",
   "order": "interview bucket config order first, then host channel and video id",
   "counts": {
@@ -8,10 +8,10 @@
     "staged_sources": 80,
     "raw_source_videos": 80,
     "staged_videos": 80,
-    "imported_sources": 13,
-    "remaining_sources": 67,
-    "imported_episodes": 13,
-    "remaining_episodes": 67,
+    "imported_sources": 14,
+    "remaining_sources": 66,
+    "imported_episodes": 14,
+    "remaining_episodes": 66,
     "transcribed": 80,
     "diarized": 80,
     "missing_flat_metadata": 0
@@ -265,9 +265,9 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "imported_episode": true,
+      "imported_source": true
     },
     {
       "video_id": "VucFnjlcyQk",
