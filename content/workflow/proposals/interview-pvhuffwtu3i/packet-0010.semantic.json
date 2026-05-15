@@ -1,0 +1,186 @@
+{
+  "packet_id": "interview-pvhuffwtu3i-semantics-pkt-0010",
+  "source_id": "video:interview-pvhuffwtu3i",
+  "source_date": "2026-03-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0073",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "After sponsor copy, Clayton returns and asks Jiang for predictions over the next month or year of the Iran war and possibly a Trump third term.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts the war is moving toward another Vietnam: limited Marine deployments will trigger mission creep, pressure for a national draft, riots, National Guard deployment, emergency powers, and a path to bypass elections or secure a third Trump term.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0077",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0078"
+      ],
+      "kind": "question",
+      "summary": "The hosts press the democratic-rule breakdown: Clayton compares it to Zelensky staying without an election, while Natalie says every rule of war and congressional authorization is being steamrolled.",
+      "speaker_attribution": "Redacted hosts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0080"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Iran war is more worrying than 2003 because the Bush administration at least spent months manufacturing public, congressional, and UN support, whereas Trump began without providing a clear reason and officials offer contradictory justifications.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0073"
+      ],
+      "note": "Sponsor copy is included in focus coverage but does not contribute semantic claims.",
+      "suggested_speaker": "host/ad copy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0080"
+      ],
+      "note": "Near-empty boundary residue from Jiang's previous answer.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts the Iran war is heading toward another Vietnam through limited deployment, mission creep, and institutional pressure to keep fighting until the military can claim victory.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Forward-looking war prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "vietnam",
+        "mission-creep",
+        "marine-deployment",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts military pressure will force Trump into a national draft, producing riots and National Guard deployment across major cities.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "draft",
+        "riots",
+        "national-guard",
+        "trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts emergency powers could let Trump bypass midterm elections and obtain a third term.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Forward-looking constitutional-crisis prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "emergency-powers",
+        "third-term",
+        "midterms",
+        "trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the 2026 Iran war began with less procedural legitimation than the 2003 Iraq war, because the Trump administration did not build public support, seek congressional approval, or present a UN case.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Comparison stated on 2026-03-24.",
+      "topic_tags": [
+        "iraq-2003",
+        "iran-war",
+        "congress",
+        "united-nations",
+        "legitimacy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075"
+      ],
+      "moment": "Vietnam is not a metaphor for defeat after the fact; it is the logic that starts when a limited landing becomes a war the institution must win.",
+      "source_phrase": "another Vietnam",
+      "why_it_matters": "It gives the episode a concrete future arc from boots on the ground to political crisis.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079"
+      ],
+      "moment": "Jiang says 2003 looks procedurally careful compared with the current war's reasonless first strike.",
+      "source_phrase": "None of this is true today",
+      "why_it_matters": "This is the strongest contrast for the legitimacy-collapse beat.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "mission creep",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "The process by which limited deployment expands because the military institution is built to continue until it can claim victory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Emergency Powers Act",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's shorthand for emergency authority he predicts Trump could use after domestic unrest to bypass elections and pursue a third term.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079"
+      ],
+      "note": "Jiang explicitly compares March 2026 Iran-war legitimation with the Bush administration's months-long 2003 Iraq-war public and UN case-building.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "note": "The draft, riot, National Guard, emergency-powers, and third-term sequence is Jiang's prediction, not an established outcome."
+    }
+  ]
+}
