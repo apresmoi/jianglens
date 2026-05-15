@@ -92,127 +92,11 @@ main > .content-panel:has(#_top) + .content-panel {
   }
 }
 
-.lens-source-field {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  width: 100vw;
-  height: 100vh;
-  overflow: hidden;
-  clip-path: inset(0);
-  opacity: 0.32;
-  color: var(--sl-color-text-accent);
-  pointer-events: none;
-  mix-blend-mode: screen;
-}
-
-body:has(.lens-source-field) {
-  position: relative;
+body {
   background:
-    radial-gradient(ellipse at 75% 16%, rgba(159, 95, 68, 0.12), transparent 42%),
+    radial-gradient(ellipse at 75% 14%, rgba(159, 95, 68, 0.10), transparent 44%),
+    radial-gradient(ellipse at 12% 78%, rgba(201, 167, 101, 0.06), transparent 48%),
     var(--sl-color-bg);
-}
-
-body:has(.lens-source-field)::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  background-image: url("/images/jiang-grain.png");
-  background-repeat: repeat;
-  background-size: 256px 256px;
-  pointer-events: none;
-}
-
-body:has(.lens-source-field) .page,
-body:has(.lens-source-field) main {
-  position: relative;
-  z-index: 1;
-}
-
-.lens-source-field .lens-field-ring,
-.lens-source-field .lens-field-arc {
-  fill: none;
-  stroke: rgba(201, 167, 101, 0.1);
-  stroke-width: 1;
-  vector-effect: non-scaling-stroke;
-}
-
-.lens-source-field .lens-field-ring {
-  stroke: rgba(244, 234, 216, 0.055);
-}
-
-.lens-source-field .lens-field-lane {
-  fill: none;
-  stroke: rgba(201, 167, 101, 0.1);
-  stroke-width: 0.95;
-  stroke-linecap: round;
-  stroke-dasharray: 1 18;
-  vector-effect: non-scaling-stroke;
-  animation: lensLaneDown 38s linear infinite;
-}
-
-.lens-source-field .lens-field-lane.up {
-  opacity: 0.7;
-  animation-name: lensLaneUp;
-  animation-duration: 46s;
-}
-
-.lens-source-field .lens-field-route {
-  fill: none;
-  stroke: rgba(201, 167, 101, 0.24);
-  stroke-width: 1.15;
-  stroke-linecap: round;
-  stroke-dasharray: 1 13;
-  vector-effect: non-scaling-stroke;
-  animation: lensRouteDrift 36s linear infinite;
-}
-
-.lens-source-field .lens-field-route.alt {
-  opacity: 0.62;
-  animation-duration: 48s;
-  animation-direction: reverse;
-}
-
-.lens-source-field .lens-field-node {
-  fill: rgba(201, 167, 101, 0.72);
-  transform-origin: center;
-  animation: lensNodePulse 7.2s ease-in-out infinite;
-}
-
-.lens-source-field .lens-field-node.dim {
-  opacity: 0.38;
-  animation-delay: -2.8s;
-}
-
-.lens-source-field .lens-field-dust-stream {
-  fill: none;
-  stroke-linecap: round;
-  stroke-width: 2.1;
-  stroke-dasharray: 1 7;
-  vector-effect: non-scaling-stroke;
-  opacity: 0.44;
-  animation:
-    lensSandFlow 56s linear infinite,
-    lensSandBreathe 11s ease-in-out infinite;
-}
-
-.lens-source-field .lens-field-dust-stream.fine {
-  stroke-width: 1.2;
-  stroke-dasharray: 0.7 6.5;
-  opacity: 0.32;
-  animation-duration: 70s, 13s;
-}
-
-.lens-source-field .lens-field-dust-stream.cool {
-  opacity: 0.15;
-  animation-duration: 76s, 15s;
-  animation-direction: reverse, normal;
-}
-
-.lens-source-field .lens-field-dust-stream.rust {
-  opacity: 0.26;
-  animation-duration: 62s, 12s;
 }
 
 @media (min-width: 72rem) {
@@ -220,16 +104,6 @@ body:has(.lens-source-field) main {
     width: var(--sl-sidebar-width) !important;
     max-width: calc(100vw - 16px);
     overflow-x: clip;
-  }
-}
-
-@media (max-width: 720px) {
-  .lens-source-field {
-    opacity: 0.22;
-  }
-
-  body:has(.lens-source-field)::before {
-    background-size: 192px 192px;
   }
 }
 
@@ -253,80 +127,6 @@ body:has(.lens-source-field) main {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .lens-source-field .lens-field-lane,
-  .lens-source-field .lens-field-route,
-  .lens-source-field .lens-field-node,
-  .lens-source-field .lens-field-dust-stream,
-  .sl-markdown-content .doc-evidence-mark,
-  .sl-markdown-content .doc-evidence-mark::after {
-    animation: none;
-  }
-}
-
-@keyframes lensLaneDown {
-  from {
-    stroke-dashoffset: 0;
-  }
-
-  to {
-    stroke-dashoffset: 260;
-  }
-}
-
-@keyframes lensLaneUp {
-  from {
-    stroke-dashoffset: 0;
-  }
-
-  to {
-    stroke-dashoffset: -260;
-  }
-}
-
-@keyframes lensRouteDrift {
-  from {
-    stroke-dashoffset: 0;
-  }
-
-  to {
-    stroke-dashoffset: -260;
-  }
-}
-
-@keyframes lensNodePulse {
-  0%,
-  100% {
-    opacity: 0.36;
-    transform: scale(0.88);
-  }
-
-  46% {
-    opacity: 0.86;
-    transform: scale(1.16);
-  }
-}
-
-@keyframes lensSandFlow {
-  from {
-    stroke-dashoffset: 0;
-  }
-
-  to {
-    stroke-dashoffset: -430;
-  }
-}
-
-@keyframes lensSandBreathe {
-  0%,
-  100% {
-    opacity: 0.32;
-  }
-
-  50% {
-    opacity: 0.6;
-  }
-}
 
 .sl-markdown-content .lens-point-anchor {
   display: block;
@@ -344,7 +144,6 @@ body:has(.lens-source-field) main {
 .sl-markdown-content a.doc-evidence-mark:visited {
   --evidence-wash: rgba(201, 167, 101, 0.12);
   --evidence-field: rgba(201, 167, 101, 0.035);
-  --evidence-tick: rgba(201, 167, 101, 0.14);
   margin: 0;
   border: 0;
   border-radius: 3px;
@@ -363,20 +162,8 @@ body:has(.lens-source-field) main {
       var(--evidence-wash) 0,
       var(--evidence-wash) 0.48em,
       var(--evidence-field) 0.48em
-    ),
-    repeating-linear-gradient(
-      90deg,
-      transparent 0,
-      transparent 0.8em,
-      var(--evidence-tick) 0.8em,
-      var(--evidence-tick) 0.86em,
-      transparent 0.86em,
-      transparent 1.7em
     );
-  background-position: 0 0, 0 0;
-  background-size: 100% 100%, 3.4em 100%;
   cursor: pointer;
-  animation: evidenceTrace 18s linear infinite;
   text-underline-offset: 0;
   transition:
     color 140ms ease,
@@ -394,7 +181,6 @@ body:has(.lens-source-field) main {
   vertical-align: 0.12em;
   background: rgba(201, 167, 101, 0.62);
   box-shadow: 0 0 0 2px rgba(201, 167, 101, 0.1);
-  animation: evidenceDot 4.8s ease-in-out infinite;
 }
 
 .sl-markdown-content .doc-evidence-mark:hover,
@@ -403,7 +189,6 @@ body:has(.lens-source-field) main {
 .sl-markdown-content .doc-evidence-wrap.is-open .doc-evidence-mark {
   --evidence-wash: rgba(201, 167, 101, 0.32);
   --evidence-field: rgba(201, 167, 101, 0.09);
-  --evidence-tick: rgba(244, 234, 216, 0.18);
   color: #f4ead8;
   box-shadow: 0 0 0 1px rgba(201, 167, 101, 0.16);
   outline: none;
@@ -534,25 +319,3 @@ body:has(.lens-source-field) main {
   font-size: 0.74rem;
 }
 
-@keyframes evidenceTrace {
-  from {
-    background-position: 0 0, 0 0;
-  }
-
-  to {
-    background-position: 0 0, 3.4em 0;
-  }
-}
-
-@keyframes evidenceDot {
-  0%,
-  100% {
-    opacity: 0.46;
-    transform: scale(0.88);
-  }
-
-  45% {
-    opacity: 0.9;
-    transform: scale(1.14);
-  }
-}

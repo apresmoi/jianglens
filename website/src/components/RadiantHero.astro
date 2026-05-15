@@ -1,0 +1,414 @@
+---
+// RadiantHero — pure-DOM ASCII Prime Radiant icosahedron.
+// Drop inside any positioned ancestor; fills inset:0 and renders on top
+// as a non-interactive overlay (except for the icosahedron itself, which is
+// click-and-drag rotatable).
+//
+// Pipeline:
+//   substrate (one <pre>)        — static multi-civilizational glyphs
+//   radiant viewport             — clipped to one frame's height
+//   radiant strip                — 60 pre-baked rotation frames, CSS animates
+//                                   via translate3d + steps(60)
+//
+// JS runs ONCE at init to bake the strip; CSS handles all animation thereafter.
+// Drag = pause animation, live-raster a single frame, then re-bake on release.
+---
+
+<div class="radiant-hero" data-radiant-hero aria-hidden="true">
+  <pre class="rh-substrate" data-rh-substrate></pre>
+  <div class="rh-viewport" data-rh-viewport>
+    <pre class="rh-strip" data-rh-strip></pre>
+  </div>
+</div>
+
+<style>
+  .radiant-hero {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none; /* viewport re-enables itself below */
+    user-select: none;
+    background:
+      radial-gradient(ellipse 95% 75% at 62% 48%, rgba(140, 75, 30, 0.34), rgba(100, 50, 20, 0.12) 45%, transparent 75%),
+      radial-gradient(ellipse 130% 110% at 50% 50%, rgba(20, 12, 8, 0.0), rgba(6, 6, 10, 0.85) 80%, rgba(2, 2, 5, 0.96) 100%);
+  }
+  .radiant-hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 100% 100% at 50% 50%, transparent 55%, rgba(2, 2, 5, 0.6) 100%);
+    pointer-events: none;
+  }
+  .rh-substrate,
+  .rh-viewport {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font-family: ui-monospace, "JetBrains Mono", "SF Mono", "Menlo", monospace;
+    font-size: var(--rh-font-size, 10px);
+    line-height: var(--rh-line-h, 12px);
+    pointer-events: none;
+  }
+  .radiant-hero .rh-substrate {
+    color: rgba(220, 180, 130, 0.32);
+  }
+  /* Substrate text lives in --rh-substrate-text, not in the DOM —
+     scrapers see an empty <pre>. */
+  .rh-substrate::before {
+    content: var(--rh-substrate-text, '');
+    display: block;
+    white-space: pre;
+  }
+  .rh-strip {
+    margin: 0;
+    padding: 0;
+    line-height: var(--rh-line-h, 12px);
+    color: rgba(255, 232, 184, 0.96);
+    text-shadow: 0 0 5px rgba(255, 200, 130, 0.5);
+    animation: rh-radiant-rotate var(--rh-dur, 6s) steps(60, end) infinite;
+    will-change: transform;
+  }
+  .rh-strip::before {
+    content: var(--rh-strip-text, '');
+    display: block;
+    white-space: pre;
+  }
+  /* The viewport is the only pointer-events: auto piece of this component.
+     Higher specificity than the .radiant-hero { pointer-events: none } above. */
+  .radiant-hero .rh-viewport {
+    height: calc(var(--rh-rows, 60) * var(--rh-line-h, 12px));
+    overflow: hidden;
+    contain: paint;
+    will-change: transform;
+    pointer-events: auto;
+    cursor: grab;
+    touch-action: none;
+  }
+  .radiant-hero .rh-viewport.dragging { cursor: grabbing; }
+  .radiant-hero .rh-viewport.dragging > .rh-strip {
+    animation: none !important;
+    transform: translate3d(0, 0, 0) !important;
+  }
+  @keyframes rh-radiant-rotate {
+    from { transform: translate3d(0, 0, 0); }
+    to   { transform: translate3d(0, calc(-60 * var(--rh-rows, 60) * var(--rh-line-h, 12px)), 0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .rh-strip { animation: none; }
+  }
+</style>
+
+<script>
+  // === Curated alphabets ===
+  const SUBSTRATE = (
+    '道德經民國史命心神王帝法義仁禮智信天地人氣靈魂兵戰權力錢' +
+    'αβγδεζηθλμνξπρστυφχψωΩΔΣΛΦΨ' +
+    'дзжфщъюя' +
+    'אבגדהוז' +
+    'ابتثجحخ' +
+    'अआइईउऊ' +
+    '$€¥£₿₪₹₩' +
+    '∑∫∏∂∇∞≈≡⊕⊗⊥∴∵∈∉∀∃' +
+    '☰☱☲☳☴☵☶☷' +
+    'ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃ' +
+    '·∙•°ʹ'
+  ).split('');
+  const RADIANT_GLYPHS = '╋╬┼╳◆◇◊▲△▼▽◈⬡⬢∴∵⊥⊕⊗⊙⊚⊛'.split('');
+  const RADIANT_CORE = '✦✧✩◉⊙◎'.split('');
+  const FRAMES = 60;
+
+  // Tuned defaults (config not user-exposed in production).
+  // All icosahedron-size knobs (ry, coreW, coreH) shrunk by 10% from the
+  // tuned values to leave more breathing room around the form.
+  const CFG = {
+    ry: 0.243, stretch: 0.95, cx: 0.66, cy: 0.47,
+    tilt: 0.38, tight: 0.70,
+    // coreH bumped 2.16 → 2.7 so the central "sun" tapers: a narrower row
+    // on top and bottom, wider middle — gives a rounder, more circular look
+    // instead of three equal-width lines.
+    coreW: 3.87, coreH: 2.7,
+    dur: 6,
+    angleYOffset: 0,
+  };
+
+  // === Icosahedron geometry (12 verts, 30 edges) ===
+  const PHI = (1 + Math.sqrt(5)) / 2;
+  const verts = [
+    [-1, PHI, 0], [1, PHI, 0], [-1, -PHI, 0], [1, -PHI, 0],
+    [0, -1, PHI], [0, 1, PHI], [0, -1, -PHI], [0, 1, -PHI],
+    [PHI, 0, -1], [PHI, 0, 1], [-PHI, 0, -1], [-PHI, 0, 1]
+  ].map(v => { const L = Math.hypot(v[0], v[1], v[2]); return [v[0]/L, v[1]/L, v[2]/L]; });
+  const edges = [
+    [0,1],[0,5],[0,7],[0,10],[0,11],[1,5],[1,7],[1,8],[1,9],
+    [2,3],[2,4],[2,6],[2,10],[2,11],[3,4],[3,6],[3,8],[3,9],
+    [4,5],[4,9],[4,11],[5,9],[5,11],[6,7],[6,8],[6,10],
+    [7,8],[7,10],[8,9],[10,11]
+  ];
+  function rotY(v, a) { const c = Math.cos(a), s = Math.sin(a); return [c*v[0] + s*v[2], v[1], -s*v[0] + c*v[2]]; }
+  function rotX(v, a) { const c = Math.cos(a), s = Math.sin(a); return [v[0], c*v[1] - s*v[2], s*v[1] + c*v[2]]; }
+
+  function drawLineToStamp(stamp, x0, y0, x1, y1, val, cols, rows) {
+    const dx = Math.abs(x1 - x0), dy = -Math.abs(y1 - y0);
+    const sx = x0 < x1 ? 1 : -1, sy = y0 < y1 ? 1 : -1;
+    let err = dx + dy;
+    while (true) {
+      if (x0 >= 0 && x0 < cols && y0 >= 0 && y0 < rows) {
+        const idx = y0 * cols + x0;
+        if (stamp[idx] < val) stamp[idx] = val;
+      }
+      if (x0 === x1 && y0 === y1) break;
+      const e2 = 2 * err;
+      if (e2 >= dy) { err += dy; x0 += sx; }
+      if (e2 <= dx) { err += dx; y0 += sy; }
+    }
+  }
+
+  function frameForRotation(angleY, tiltX, cols, rows, cellAspect, cfg) {
+    const stamp = new Uint8Array(cols * rows);
+    const cx = cols * cfg.cx, cy = rows * cfg.cy;
+    const Ry = Math.min(cols, rows) * cfg.ry;
+    const Rx = Ry * cellAspect * cfg.stretch;
+    const proj = verts.map(v => {
+      const r = rotX(rotY(v, angleY), tiltX);
+      const persp = 4 / (r[2] + 3.0);
+      return [cx + r[0] * Rx * persp, cy + r[1] * Ry * persp];
+    });
+    for (const [a, b] of edges) {
+      drawLineToStamp(stamp, proj[a][0]|0, proj[a][1]|0, proj[b][0]|0, proj[b][1]|0, 1, cols, rows);
+    }
+    const cxR = cx|0, cyR = cy|0;
+    const rxC = cfg.coreW, ryC = cfg.coreH;
+    const rxCi = Math.ceil(rxC), ryCi = Math.ceil(ryC);
+    for (let dy = -ryCi; dy <= ryCi; dy++) {
+      for (let dx = -rxCi; dx <= rxCi; dx++) {
+        const x = cxR + dx, y = cyR + dy;
+        if (x < 0 || x >= cols || y < 0 || y >= rows) continue;
+        const nx = dx / rxC, ny = dy / ryC;
+        if (nx * nx + ny * ny < 1) stamp[y * cols + x] = 2;
+      }
+    }
+    const out = new Array(rows * (cols + 1));
+    let i = 0;
+    for (let y = 0; y < rows; y++) {
+      for (let x = 0; x < cols; x++) {
+        const v = stamp[y * cols + x];
+        out[i++] = (v === 0) ? ' '
+                 : (v === 1) ? RADIANT_GLYPHS[(Math.random() * RADIANT_GLYPHS.length) | 0]
+                 :             RADIANT_CORE[(Math.random() * RADIANT_CORE.length) | 0];
+      }
+      if (y < rows - 1) out[i++] = '\n';
+    }
+    out.length = i;
+    return out.join('');
+  }
+
+  function frameForAngle(angle, cols, rows, cellAspect, cfg) {
+    return frameForRotation(angle + (cfg.angleYOffset || 0), cfg.tilt, cols, rows, cellAspect, cfg);
+  }
+
+  function cssEscape(text) {
+    return text.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\A ');
+  }
+
+  // Per-root initialization. Supports multiple radiant-hero instances on a page.
+  function initRadiantHero(root) {
+    const substrateEl = root.querySelector('[data-rh-substrate]');
+    const viewportEl  = root.querySelector('[data-rh-viewport]');
+    const stripEl     = root.querySelector('[data-rh-strip]');
+    if (!substrateEl || !viewportEl || !stripEl) return;
+    const host = root.parentElement || root;
+
+    const cfg = { ...CFG };
+    // effectiveCfg = cfg with screen-width-based size scaling applied to
+    // ry/coreW/coreH. Build recomputes it whenever dimensions change.
+    let effectiveCfg = cfg;
+    let lastDims = null;
+    let bakeToken = 0;
+
+    // Width-driven size scale for the icosahedron.
+    //   w ≤ 600:   scale ≈ 1.25 (relatively bigger on narrow phones)
+    //   w = 1400:  scale = 1.0  (current tuned look)
+    //   w ≥ 2200:  scale ≈ 0.78 (smaller on huge monitors)
+    // Linear in between, clamped at the extremes.
+    function sizeScaleForWidth(w) {
+      const t = (w - 600) / (2200 - 600); // 0 at 600, 1 at 2200
+      const clamped = Math.max(0, Math.min(1, t));
+      return 1.25 + clamped * (0.78 - 1.25);
+    }
+
+    function bakeRadiantAsync(cols, rows, cellAspect) {
+      const myToken = ++bakeToken;
+      stripEl.style.setProperty('--rh-strip-text', '""');
+      const frames = new Array(FRAMES);
+      let f = 0;
+      function chunk() {
+        if (myToken !== bakeToken) return;
+        const end = Math.min(f + 10, FRAMES);
+        for (; f < end; f++) {
+          const angle = (f / FRAMES) * Math.PI * 2;
+          frames[f] = frameForAngle(angle, cols, rows, cellAspect, effectiveCfg);
+        }
+        if (f < FRAMES) {
+          requestAnimationFrame(chunk);
+        } else {
+          stripEl.style.setProperty('--rh-strip-text', `"${cssEscape(frames.join('\n'))}"`);
+        }
+      }
+      requestAnimationFrame(chunk);
+    }
+
+    function recomputeEffectiveCfg(hostWidth) {
+      const scale = sizeScaleForWidth(hostWidth);
+      effectiveCfg = {
+        ...cfg,
+        ry: cfg.ry * scale,
+        coreW: cfg.coreW * scale,
+        coreH: cfg.coreH * scale,
+      };
+    }
+
+    function build(rebakeOnly) {
+      if (rebakeOnly && lastDims) {
+        // Drag-release rebake: cfg.tilt / angleYOffset may have changed.
+        // Re-derive effectiveCfg with the same scale we used last time.
+        recomputeEffectiveCfg(host.getBoundingClientRect().width);
+        bakeRadiantAsync(lastDims.cols, lastDims.rows, lastDims.cellAspect);
+        return;
+      }
+
+      const r0 = host.getBoundingClientRect();
+      recomputeEffectiveCfg(r0.width);
+      const fontSize = Math.max(7, Math.min(10, r0.width * 0.0065));
+      root.style.setProperty('--rh-font-size', `${fontSize}px`);
+
+      root.style.setProperty('--rh-line-h', 'normal');
+      substrateEl.style.setProperty('--rh-substrate-text', '"M"');
+      const wProbe = substrateEl.getBoundingClientRect();
+      if (!(wProbe.width > 0) || !(wProbe.height > 0)) {
+        requestAnimationFrame(() => build());
+        return;
+      }
+      const cellW = wProbe.width;
+      const initialLineH = wProbe.height;
+
+      let cols = Math.max(20, Math.floor(r0.width / cellW));
+      let rows = Math.max(14, Math.floor(r0.height / initialLineH));
+
+      function genSubstrate(rows, cols) {
+        const lines = new Array(rows);
+        for (let y = 0; y < rows; y++) {
+          const row = new Array(cols);
+          for (let x = 0; x < cols; x++) row[x] = SUBSTRATE[(Math.random() * SUBSTRATE.length) | 0];
+          lines[y] = row.join('');
+        }
+        return lines.join('\n');
+      }
+
+      let sub = genSubstrate(rows, cols);
+      substrateEl.style.setProperty('--rh-substrate-text', `"${cssEscape(sub)}"`);
+      let measuredH = substrateEl.getBoundingClientRect().height;
+      let cellH = measuredH / rows;
+
+      const trueRows = Math.max(14, Math.floor(r0.height / cellH));
+      if (trueRows !== rows) {
+        rows = trueRows;
+        sub = genSubstrate(rows, cols);
+        substrateEl.style.setProperty('--rh-substrate-text', `"${cssEscape(sub)}"`);
+        measuredH = substrateEl.getBoundingClientRect().height;
+        cellH = measuredH / rows;
+      }
+
+      cellH = cellH * cfg.tight;
+      // Now that lines are tightened, we can fit MORE rows in the same host
+      // height. Recompute and regenerate the substrate so it fills the fold.
+      const finalRows = Math.max(14, Math.floor(r0.height / cellH));
+      if (finalRows !== rows) {
+        rows = finalRows;
+        sub = genSubstrate(rows, cols);
+        substrateEl.style.setProperty('--rh-substrate-text', `"${cssEscape(sub)}"`);
+      }
+      root.style.setProperty('--rh-line-h', `${cellH}px`);
+      viewportEl.style.setProperty('--rh-rows', String(rows));
+      stripEl.style.setProperty('--rh-rows', String(rows));
+      root.style.setProperty('--rh-dur', `${cfg.dur}s`);
+
+      const cellAspect = cellH / cellW;
+      lastDims = { cols, rows, cellAspect, cellW, cellH };
+      bakeRadiantAsync(cols, rows, cellAspect);
+    }
+
+    build();
+
+    let drag = null;
+    let dragRafPending = false;
+
+    function liveRender(angleY, tiltX) {
+      if (!lastDims) return;
+      const { cols, rows, cellAspect } = lastDims;
+      const frame = frameForRotation(angleY, tiltX, cols, rows, cellAspect, effectiveCfg);
+      stripEl.style.setProperty('--rh-strip-text', `"${cssEscape(frame)}"`);
+    }
+
+    viewportEl.addEventListener('pointerdown', (e) => {
+      if (e.button !== 0 && e.pointerType !== 'touch') return;
+      drag = {
+        startX: e.clientX, startY: e.clientY,
+        baseY: cfg.angleYOffset, baseTilt: cfg.tilt,
+        curY: cfg.angleYOffset, curTilt: cfg.tilt,
+      };
+      try { viewportEl.setPointerCapture(e.pointerId); } catch (err) {}
+      viewportEl.classList.add('dragging');
+      liveRender(drag.curY, drag.curTilt);
+      e.preventDefault();
+    });
+
+    viewportEl.addEventListener('pointermove', (e) => {
+      if (!drag) return;
+      const dx = e.clientX - drag.startX;
+      const dy = e.clientY - drag.startY;
+      // X inverted so right-drag rotates the icosahedron rightward (globe metaphor)
+      drag.curY = drag.baseY - dx * 0.012;
+      drag.curTilt = Math.max(-1.3, Math.min(1.3, drag.baseTilt + dy * 0.012));
+      if (!dragRafPending) {
+        dragRafPending = true;
+        requestAnimationFrame(() => {
+          if (drag) liveRender(drag.curY, drag.curTilt);
+          dragRafPending = false;
+        });
+      }
+    });
+
+    function endDrag() {
+      if (!drag) return;
+      cfg.angleYOffset = drag.curY;
+      cfg.tilt = drag.curTilt;
+      drag = null;
+      viewportEl.classList.remove('dragging');
+      build(true);
+    }
+    viewportEl.addEventListener('pointerup', endDrag);
+    viewportEl.addEventListener('pointercancel', endDrag);
+
+    // Resize: keep visible, debounce rebuild
+    let resizeIdleTimer = 0;
+    let lastBuildW = host.getBoundingClientRect().width;
+    let lastBuildH = host.getBoundingClientRect().height;
+    function onResize() {
+      window.clearTimeout(resizeIdleTimer);
+      resizeIdleTimer = window.setTimeout(() => {
+        const r = host.getBoundingClientRect();
+        if (Math.abs(r.width - lastBuildW) < 30 && Math.abs(r.height - lastBuildH) < 30) return;
+        lastBuildW = r.width;
+        lastBuildH = r.height;
+        build();
+      }, 450);
+    }
+    if ('ResizeObserver' in window) {
+      new ResizeObserver(onResize).observe(host);
+    } else {
+      window.addEventListener('resize', onResize);
+    }
+  }
+
+  document.querySelectorAll('[data-radiant-hero]').forEach(initRadiantHero);
+</script>

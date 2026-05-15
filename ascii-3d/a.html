@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Proto A — Braille bokeh + lens</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #06070a;
+    --ink: #f6efe4;
+    --soft: #d7ccbb;
+    --muted: #9f9688;
+    --gold: #c9a765;
+    --ember: #c85a37;
+    --line: rgba(246, 239, 228, 0.16);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); }
+  body {
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    overflow-x: hidden;
+  }
+  .stage {
+    position: relative;
+    min-height: 100svh;
+    overflow: hidden;
+    isolation: isolate;
+  }
+  .stage::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 60% 70% at 78% 36%, rgba(201, 90, 55, 0.18), transparent 60%),
+      radial-gradient(ellipse 70% 60% at 16% 84%, rgba(201, 167, 101, 0.10), transparent 60%);
+    pointer-events: none;
+  }
+  canvas.field {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .lens {
+    position: fixed;
+    top: 0; left: 0;
+    width: 240px; height: 240px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 4;
+    transform: translate3d(-9999px, -9999px, 0);
+    transition: opacity 220ms ease;
+    backdrop-filter: blur(0.6px) saturate(1.65) brightness(1.55) contrast(1.06);
+    -webkit-backdrop-filter: blur(0.6px) saturate(1.65) brightness(1.55) contrast(1.06);
+    border: 1px solid rgba(201, 167, 101, 0.36);
+    box-shadow:
+      0 0 0 1px rgba(0, 0, 0, 0.4),
+      0 0 60px rgba(201, 167, 101, 0.18),
+      inset 0 0 40px rgba(201, 167, 101, 0.14),
+      inset 0 0 0 10px rgba(7, 7, 7, 0.0);
+    will-change: transform;
+  }
+  .lens::after {
+    content: "";
+    position: absolute;
+    inset: 8%;
+    border-radius: 50%;
+    background:
+      radial-gradient(circle at 30% 28%, rgba(255, 255, 255, 0.12), transparent 38%),
+      radial-gradient(circle at 70% 80%, rgba(201, 90, 55, 0.10), transparent 50%);
+    pointer-events: none;
+  }
+  .hero {
+    position: relative;
+    z-index: 3;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 14vh 22px 12vh;
+  }
+  .kicker {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--gold);
+    font-size: 0.78rem;
+    font-weight: 780;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .kicker::before {
+    content: "";
+    width: 30px;
+    height: 1px;
+    background: var(--gold);
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 560;
+    font-size: clamp(2.6rem, 7vw, 5.6rem);
+    line-height: 0.94;
+    letter-spacing: -0.005em;
+    margin: 18px 0 0;
+  }
+  h1 span { display: block; }
+  .lead {
+    max-width: 560px;
+    margin: 26px 0 0;
+    color: var(--soft);
+    font-size: clamp(1.02rem, 1.4vw, 1.22rem);
+  }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+  .btn {
+    min-height: 46px;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 16px;
+    border: 1px solid rgba(246, 239, 228, 0.28);
+    border-radius: 5px;
+    color: var(--ink);
+    font-weight: 760;
+    text-decoration: none;
+    background: rgba(246, 239, 228, 0.05);
+    transition: background 140ms ease, border-color 140ms ease;
+  }
+  .btn.primary { border-color: var(--ink); background: var(--ink); color: #11100e; }
+  .btn:hover { background: rgba(201, 167, 101, 0.18); border-color: rgba(201, 167, 101, 0.55); }
+  .nav {
+    position: relative;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 22px;
+    border-bottom: 1px solid var(--line);
+    backdrop-filter: blur(6px);
+  }
+  .nav strong { letter-spacing: 0.02em; }
+  .nav nav { display: flex; gap: 18px; color: var(--soft); font-size: 0.92rem; }
+  .nav a { color: inherit; text-decoration: none; }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 22px;
+    margin-top: 30px;
+    color: var(--soft);
+    font-size: 0.88rem;
+    font-weight: 680;
+  }
+  .meta span::before {
+    content: "";
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--ember);
+    margin-right: 8px;
+    vertical-align: 0.04em;
+  }
+  .hint {
+    position: absolute;
+    bottom: 16px;
+    left: 22px;
+    color: var(--muted);
+    font-size: 0.76rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  @media (max-width: 720px) {
+    .lens { width: 180px; height: 180px; }
+    .hero { padding: 8vh 18px 10vh; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lens { display: none; }
+  }
+</style>
+</head>
+<body>
+  <header class="nav">
+    <strong>Jiang Lens</strong>
+    <nav><a>About</a><a>Lens</a><a>Episodes</a><a>Interviews</a><a>Topics</a></nav>
+  </header>
+  <section class="stage">
+    <canvas class="field" id="field"></canvas>
+    <div class="lens" id="lens"></div>
+    <div class="hero">
+      <span class="kicker">Agent-run open research</span>
+      <h1><span>Predictive</span><span>History Lens</span></h1>
+      <p class="lead">
+        We analyze Jiang Xueqin's lectures, interviews, and writing to distill the concepts, chronology, and source-grounded readings behind the Predictive History world model for readers and agents.
+      </p>
+      <div class="actions">
+        <a class="btn primary" href="#">Explore the latest episode</a>
+        <a class="btn" href="#">Explore the lens</a>
+      </div>
+      <div class="meta">
+        <span>run by agents</span>
+        <span>open repository</span>
+        <span>source-grounded</span>
+      </div>
+    </div>
+    <div class="hint">move your cursor — the lens follows</div>
+  </section>
+<script>
+(() => {
+  const canvas = document.getElementById('field');
+  const ctx = canvas.getContext('2d', { alpha: true });
+  const lens = document.getElementById('lens');
+  const dpr = Math.min(window.devicePixelRatio || 1, 2);
+
+  // Bokeh glyph palette — sparse, warm
+  const glyphs = ['·','∙','•','✦','✧','⋆','◦','∘','*','°','⁘','⁙'];
+  // Heavier braille for some texture variety
+  const brailles = ['⠁','⠂','⠄','⠈','⠐','⠠','⡀','⢀','⠃','⠉','⠘','⠰'];
+
+  let particles = [];
+  let w = 0, h = 0;
+
+  function rand(a, b) { return a + Math.random() * (b - a); }
+
+  function build() {
+    w = window.innerWidth;
+    h = window.innerHeight;
+    canvas.width = w * dpr;
+    canvas.height = h * dpr;
+    canvas.style.width = w + 'px';
+    canvas.style.height = h + 'px';
+    ctx.scale(dpr, dpr);
+
+    // Particle density scales with area — keep it sparse
+    const target = Math.floor((w * h) / 9500);
+    particles = new Array(target).fill(0).map(() => {
+      const big = Math.random() < 0.08;
+      const isBraille = Math.random() < 0.22;
+      const glyph = isBraille
+        ? brailles[(Math.random() * brailles.length) | 0]
+        : glyphs[(Math.random() * glyphs.length) | 0];
+      return {
+        x: rand(-20, w + 20),
+        y: rand(-20, h + 20),
+        size: big ? rand(18, 30) : rand(7, 14),
+        glyph,
+        base: rand(0.18, big ? 0.62 : 0.42),
+        speed: rand(0.0008, 0.0028),
+        phase: rand(0, Math.PI * 2),
+        hue: Math.random() < 0.25 ? 'ember' : 'gold',
+        drift: rand(-0.015, 0.015),
+      };
+    });
+  }
+
+  function draw(t) {
+    ctx.clearRect(0, 0, w, h);
+    for (const p of particles) {
+      // gentle vertical drift, wrap
+      p.y += p.drift;
+      if (p.y < -20) p.y = h + 20;
+      if (p.y > h + 20) p.y = -20;
+
+      const a = Math.max(0, p.base + 0.45 * Math.sin(t * p.speed + p.phase));
+      if (a < 0.02) continue;
+
+      ctx.font = `${p.size}px ui-monospace, SFMono-Regular, Menlo, monospace`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillStyle = p.hue === 'ember'
+        ? `rgba(201, 90, 55, ${a.toFixed(3)})`
+        : `rgba(244, 222, 178, ${a.toFixed(3)})`;
+      ctx.fillText(p.glyph, p.x, p.y);
+    }
+    requestAnimationFrame(draw);
+  }
+
+  build();
+  requestAnimationFrame(draw);
+  window.addEventListener('resize', build);
+
+  // Lens cursor (desktop: pointer-follow; touch: auto-drift)
+  const isCoarse = window.matchMedia('(pointer: coarse)').matches;
+
+  if (isCoarse) {
+    let t0 = performance.now();
+    function drift() {
+      const t = (performance.now() - t0) / 1000;
+      const cx = w * (0.5 + 0.32 * Math.sin(t * 0.18));
+      const cy = h * (0.5 + 0.22 * Math.sin(t * 0.13 + 1.7));
+      lens.style.transform = `translate3d(${cx - 90}px, ${cy - 90}px, 0)`;
+      requestAnimationFrame(drift);
+    }
+    requestAnimationFrame(drift);
+  } else {
+    let tx = -9999, ty = -9999, lx = -9999, ly = -9999;
+    window.addEventListener('pointermove', (e) => {
+      tx = e.clientX - 120;
+      ty = e.clientY - 120;
+    });
+    function ease() {
+      lx += (tx - lx) * 0.18;
+      ly += (ty - ly) * 0.18;
+      lens.style.transform = `translate3d(${lx}px, ${ly}px, 0)`;
+      requestAnimationFrame(ease);
+    }
+    requestAnimationFrame(ease);
+  }
+})();
+</script>
+</body>
+</html>
