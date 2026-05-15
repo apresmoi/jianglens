@@ -1,0 +1,127 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0002",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0009",
+        "video:interview-wio-7-gios@transcript:v1#seg-0010",
+        "video:interview-wio-7-gios@transcript:v1#seg-0011",
+        "video:interview-wio-7-gios@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "PBD reads Trump’s civilization-will-die Truth Social post and asks Jiang to interpret whether it is a final negotiation threat.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013",
+        "video:interview-wio-7-gios@transcript:v1#seg-0014",
+        "video:interview-wio-7-gios@transcript:v1#seg-0015",
+        "video:interview-wio-7-gios@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Trump is maximizing leverage, but Iran will not back down; he predicts a near-term multi-vector ground escalation and reads Trump through reality TV and WWE-style fear performance.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0009",
+        "video:interview-wio-7-gios@transcript:v1#seg-0010",
+        "video:interview-wio-7-gios@transcript:v1#seg-0011",
+        "video:interview-wio-7-gios@transcript:v1#seg-0012",
+        "video:interview-wio-7-gios@transcript:v1#seg-0013",
+        "video:interview-wio-7-gios@transcript:v1#seg-0014",
+        "video:interview-wio-7-gios@transcript:v1#seg-0015",
+        "video:interview-wio-7-gios@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads Trump’s Iran rhetoric as reality-TV leverage: bombastic fear language meant to draw attention and pressure the other side.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013",
+        "video:interview-wio-7-gios@transcript:v1#seg-0014",
+        "video:interview-wio-7-gios@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Interpretation of Trump rhetoric dated 2026-04-07.",
+      "topic_tags": [
+        "trump",
+        "rhetoric",
+        "wwe-politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts possible attacks on Kharg Island, Qeshm Island, Hormuz-related positions, and Iranian coastline defenses as part of a major escalation.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Near-term prediction made 2026-04-07.",
+      "topic_tags": [
+        "iran",
+        "hormuz",
+        "military-escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He worries Trump is surrounded by sycophantic advisers who feed his ego rather than strategic reality.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0015",
+        "video:interview-wio-7-gios@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Administration diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "trump-advisers",
+        "strategic-failure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0015"
+      ],
+      "moment": "Trump’s geopolitical speech is explained as WWE theater: attention, emotion, fear, and rage become tools of statecraft.",
+      "source_phrase": "that is really how you speak in the WWE",
+      "why_it_matters": "It compresses Jiang’s media theory of Trump into a vivid political mechanism.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "WWE geopolitics",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang’s shorthand for Trump’s use of theatrical threat, attention, fear, and televised dominance in negotiation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0013"
+      ],
+      "note": "Jiang says escalation could come as early as the coming weekend after the April 7, 2026 interview.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

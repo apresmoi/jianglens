@@ -1,0 +1,113 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0001",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0002",
+        "video:interview-wio-7-gios@transcript:v1#seg-0003",
+        "video:interview-wio-7-gios@transcript:v1#seg-0004",
+        "video:interview-wio-7-gios@transcript:v1#seg-0005",
+        "video:interview-wio-7-gios@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "PBD introduces Jiang through the viral July 2024 prediction, clears up the fear of a hit-piece interview, and asks what pattern led Jiang to expect Trump to win, go to war with Iran, and lose.",
+      "speaker_attribution": "Patrick Bet-David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers from a history-teacher pattern: declining empires overestimate their invincibility, launch risky wars they expect to win, and get trapped in resource-draining quagmires.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0001",
+        "video:interview-wio-7-gios@transcript:v1#seg-0002",
+        "video:interview-wio-7-gios@transcript:v1#seg-0003",
+        "video:interview-wio-7-gios@transcript:v1#seg-0004",
+        "video:interview-wio-7-gios@transcript:v1#seg-0005",
+        "video:interview-wio-7-gios@transcript:v1#seg-0006",
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang’s Iran-war prediction rests on a decline-of-empire model in which late empires choose reckless wars because hubris makes them underestimate cost and terrain.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview argument dated 2026-04-07.",
+      "topic_tags": [
+        "empire-decline",
+        "iran-war",
+        "historical-pattern"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the United States would lose a war with Iran because it lacks the industrial and manufacturing depth to sustain a mountainous war.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Prediction stated 2026-04-07.",
+      "topic_tags": [
+        "industrial-capacity",
+        "iran",
+        "quagmire"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "moment": "Iran becomes Jiang’s Vietnam/Sicily example: the late empire thinks the war will be easy and discovers the quagmire after commitment.",
+      "source_phrase": "risky Wars that they believe they can win easily",
+      "why_it_matters": "It turns a hot prediction into a reusable model of imperial decline.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "declining empire war trap",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A pattern where a confident but declining empire chooses a risky war, expends scarce resources, and exposes the limits of its power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0007",
+        "video:interview-wio-7-gios@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang uses examples from Persia, Athens, and Vietnam to frame an April 2026 prediction about a U.S.-Iran war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

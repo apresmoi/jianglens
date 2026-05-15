@@ -1,0 +1,138 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0017",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129",
+        "video:interview-wio-7-gios@transcript:v1#seg-0130",
+        "video:interview-wio-7-gios@transcript:v1#seg-0131"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Communist Party is atheistic and lets religion exist only under communist supremacy; he then lists topics he cannot discuss from China, including Tibet, Taiwan, Xinjiang, specific leaders, and military limitations.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0132",
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135",
+        "video:interview-wio-7-gios@transcript:v1#seg-0136"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks about Chinese farmland purchases in North America. Jiang says this is individual wealth storage: wealthy Chinese want to move assets and families to America because wealth in China lacks legal protection.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129",
+        "video:interview-wio-7-gios@transcript:v1#seg-0130",
+        "video:interview-wio-7-gios@transcript:v1#seg-0131",
+        "video:interview-wio-7-gios@transcript:v1#seg-0132",
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135",
+        "video:interview-wio-7-gios@transcript:v1#seg-0136"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says religious practice in China is permitted only if communism remains the ultimate authority, which most serious religious believers cannot accept.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129"
+      ],
+      "temporal_scope": "Religion-policy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "religion",
+        "communism",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says he cannot discuss Tibet, Taiwan, Xinjiang, named Chinese leaders, or Chinese military limitations while based in China.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0131"
+      ],
+      "temporal_scope": "Personal speech limits stated 2026-04-07.",
+      "topic_tags": [
+        "red-lines",
+        "jiang",
+        "china"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Chinese purchases of American farmland are mostly individual wealth storage, not a coordinated strategy to control food or production.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135"
+      ],
+      "temporal_scope": "Farmland-purchase diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "farmland",
+        "capital-flight",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129"
+      ],
+      "moment": "Religion is allowed only beneath the party’s god: communism must be the final authority.",
+      "source_phrase": "communism is the ultimate god",
+      "why_it_matters": "It gives the religion-policy discussion a compact theological-political form.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0135"
+      ],
+      "moment": "Chinese wealth flees because at home there is no legal protection; the state can take it any time.",
+      "source_phrase": "the government can take it away at any time",
+      "why_it_matters": "It explains capital flight without requiring an invasion or control theory.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "communism as ultimate god",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0129"
+      ],
+      "definition_or_usage": "Jiang’s description of the party’s demand that religious life subordinate itself to communist authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "wealth storage",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0133",
+        "video:interview-wio-7-gios@transcript:v1#seg-0134",
+        "video:interview-wio-7-gios@transcript:v1#seg-0135"
+      ],
+      "definition_or_usage": "The use of overseas land or property as protection against insecure property rights inside China.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

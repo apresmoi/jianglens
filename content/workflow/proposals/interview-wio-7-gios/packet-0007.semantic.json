@@ -1,0 +1,128 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0007",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049",
+        "video:interview-wio-7-gios@transcript:v1#seg-0050",
+        "video:interview-wio-7-gios@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees theocracy is bad for Iran but says war will empower the most extreme religious elements; he expects a more vibrant Persian nationalism to emerge as the counter to Shia theocracy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0052",
+        "video:interview-wio-7-gios@transcript:v1#seg-0053",
+        "video:interview-wio-7-gios@transcript:v1#seg-0054",
+        "video:interview-wio-7-gios@transcript:v1#seg-0055",
+        "video:interview-wio-7-gios@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "PBD shifts to China population claims. Jiang says China likely overcounts some population data, but the real problem is aging, low fertility, and local-government incentives to inflate statistics for subsidies and promotions.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049",
+        "video:interview-wio-7-gios@transcript:v1#seg-0050",
+        "video:interview-wio-7-gios@transcript:v1#seg-0051",
+        "video:interview-wio-7-gios@transcript:v1#seg-0052",
+        "video:interview-wio-7-gios@transcript:v1#seg-0053",
+        "video:interview-wio-7-gios@transcript:v1#seg-0054",
+        "video:interview-wio-7-gios@transcript:v1#seg-0055",
+        "video:interview-wio-7-gios@transcript:v1#seg-0056"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts Persian nationalism, not liberal democracy imposed by war, is the likely counterforce to Shia theocracy after the conflict.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049",
+        "video:interview-wio-7-gios@transcript:v1#seg-0050",
+        "video:interview-wio-7-gios@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Iran outcome model dated 2026-04-07.",
+      "topic_tags": [
+        "persian-nationalism",
+        "theocracy",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China probably still has over a billion people, but its real demographic issue is rapid aging and fertility that could fall below South Korea’s within five years.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0053",
+        "video:interview-wio-7-gios@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Demographic estimate dated 2026-04-07.",
+      "topic_tags": [
+        "china-demography",
+        "fertility",
+        "aging"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Chinese local governments inflate population and economic statistics because promotions and subsidies depend on local performance.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "China bureaucracy diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "china-statistics",
+        "local-government",
+        "bureaucracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049"
+      ],
+      "moment": "Jiang separates Persian civilization from theocratic rule, imagining Persian nationalism as the answer to wartime radicalization.",
+      "source_phrase": "They want to be Persian",
+      "why_it_matters": "It prevents the Iran discussion from flattening into regime-versus-democracy language.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Persian nationalism",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang’s name for an Iranian civilizational identity that could counter Shia theocracy without being simply Western liberalism.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0054"
+      ],
+      "note": "Jiang makes a five-year fertility forecast for China relative to South Korea.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,34 @@
+id: "video:interview-wio-7-gios@transcript:v1"
+source_id: "video:interview-wio-7-gios"
+version: 1
+language: "en"
+language_probability: 0.99
+duration_seconds: 4369.067
+segments: 142
+word_count: 12876
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+chronology:
+  source_date: "2026-04-07"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCGX7nGXpz-CmO_Arg-cgJ7A/Wio--7_GIOs"
+  youtube_metadata: "content/sources/raw/youtube/Interviews/UCGX7nGXpz-CmO_Arg-cgJ7A/Wio--7_GIOs/metadata.youtube.json"
+  youtube_metadata_source: "yt-dlp"
+  transcription_json_sha256: "77e85d586e9166dc235bff4b854ba56ce2eb61bd10dde08edc1529cd68800351"
+  grouped_json_sha256: "cca6ca13184cb16569f129cdafae7caf7bd000c8aa577c32910d42c78773df37"
+  dump_json_sha256: "448a89478ed773b8e5a0604c422a63e7a5cd6ed9841f1b21f695d440c998db28"

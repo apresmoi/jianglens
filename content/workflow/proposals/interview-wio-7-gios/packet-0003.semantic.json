@@ -1,0 +1,125 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0003",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0017",
+        "video:interview-wio-7-gios@transcript:v1#seg-0018",
+        "video:interview-wio-7-gios@transcript:v1#seg-0019",
+        "video:interview-wio-7-gios@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks about best and worst cases and clarifies that Jiang would have preferred Trump over Biden or Harris in 2024 despite criticizing Trump’s current war choices.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021",
+        "video:interview-wio-7-gios@transcript:v1#seg-0022",
+        "video:interview-wio-7-gios@transcript:v1#seg-0023",
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang lays out probabilities: a best-case U.S.-Iran toll-sharing arrangement around Hormuz, a worst case in which strikes on power plants kill human shields and force Iran to wreck GCC infrastructure, and a limited ground incursion as more likely.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0017",
+        "video:interview-wio-7-gios@transcript:v1#seg-0018",
+        "video:interview-wio-7-gios@transcript:v1#seg-0019",
+        "video:interview-wio-7-gios@transcript:v1#seg-0020",
+        "video:interview-wio-7-gios@transcript:v1#seg-0021",
+        "video:interview-wio-7-gios@transcript:v1#seg-0022",
+        "video:interview-wio-7-gios@transcript:v1#seg-0023",
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang’s best case is a U.S.-Iran compromise over shared control and dollar-denominated tolls around Hormuz that preserves peace and reparations.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Scenario estimate dated 2026-04-07.",
+      "topic_tags": [
+        "hormuz",
+        "settlement",
+        "petrodollar"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "His worst case is U.S. strikes on Iranian power plants killing youth human shields, obligating Iran to destroy GCC oil fields, desalination plants, and data centers.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021",
+        "video:interview-wio-7-gios@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Scenario estimate dated 2026-04-07.",
+      "topic_tags": [
+        "gcc",
+        "iran-retaliation",
+        "civilian-infrastructure"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He assigns rough odds of 1 percent to the best case, 10 percent to the worst case, and 40 percent to a limited ground incursion.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Numerical probabilities stated 2026-04-07.",
+      "topic_tags": [
+        "probability",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0022"
+      ],
+      "moment": "Young Iranians forming human chains around power plants become the trigger that converts infrastructure bombing into total regional war.",
+      "source_phrase": "make the human chain around all power plants",
+      "why_it_matters": "This is the emotional and strategic hinge in Jiang’s worst-case scenario.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Hormuz toll settlement",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "A possible compromise in which Iran and the United States share control or revenue around the Strait of Hormuz while using U.S. dollars.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang gives explicit April 2026 probabilities for Iran-war outcomes, useful for later checking against events.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,122 @@
+{
+  "packet_id": "interview-wio-7-gios-semantics-pkt-0010",
+  "source_id": "video:interview-wio-7-gios",
+  "source_date": "2026-04-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0073",
+        "video:interview-wio-7-gios@transcript:v1#seg-0074",
+        "video:interview-wio-7-gios@transcript:v1#seg-0075",
+        "video:interview-wio-7-gios@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks for a U.S. analogy to Jimmy Lai; Jiang says Hong Kong is quasi-sovereign and Jimmy Lai crossed Beijing red lines by backing democracy protests, choosing martyrdom rather than exile.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0077",
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "PBD asks whether Chinese people want democracy. Jiang says almost no one does, because democracy would require respect for rights, liberty, empathy, and rule of law, while Chinese imperial survival channels ambition into bureaucracy.",
+      "speaker_attribution": "Patrick Bet-David and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0073",
+        "video:interview-wio-7-gios@transcript:v1#seg-0074",
+        "video:interview-wio-7-gios@transcript:v1#seg-0075",
+        "video:interview-wio-7-gios@transcript:v1#seg-0076",
+        "video:interview-wio-7-gios@transcript:v1#seg-0077",
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "note": "SPEAKER_01 is Patrick Bet-David or the PBD side of the interview; SPEAKER_00 is Jiang except for brief intro/audio fragments. Diarization is treated as a hint and the exchange context controls attribution.",
+      "suggested_speaker": "Patrick Bet-David / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Jimmy Lai chose martyrdom for democracy after crossing Beijing’s red lines during the Hong Kong democracy protests.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0074",
+        "video:interview-wio-7-gios@transcript:v1#seg-0075",
+        "video:interview-wio-7-gios@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Hong Kong interpretation dated 2026-04-07.",
+      "topic_tags": [
+        "jimmy-lai",
+        "hong-kong",
+        "democracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues China has almost no popular interest in democracy because its social aspiration is bureaucratic protection, not individual liberty or rule of law.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "China political culture diagnosis dated 2026-04-07.",
+      "topic_tags": [
+        "china-democracy",
+        "bureaucracy",
+        "civil-service"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes China as an empire where the route to survival is becoming a civil servant who can protect the family.",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Civilizational model dated 2026-04-07.",
+      "topic_tags": [
+        "empire",
+        "bureaucracy",
+        "family-protection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "moment": "The Chinese dream is bureaucratic ascent: survive the empire by becoming a civil servant with protection for your family.",
+      "source_phrase": "the way you survive an empire is to become a civil servant",
+      "why_it_matters": "It gives the later Canada-America-China dream comparison its sharpest form.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "bureaucratic dream",
+      "refs": [
+        "video:interview-wio-7-gios@transcript:v1#seg-0078",
+        "video:interview-wio-7-gios@transcript:v1#seg-0079",
+        "video:interview-wio-7-gios@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "Jiang’s description of Chinese aspiration as climbing the state hierarchy to secure family protection.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
