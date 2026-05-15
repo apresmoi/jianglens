@@ -75,6 +75,24 @@ The same source folds this into the access-control map. Jiang says the strategy 
 
 This belongs here rather than on the legitimacy or stories pages because the active test is not only optics. Political theater matters, but the strategy page asks whether the material architecture underneath the performance is still being built. It borders [Nation As God-Machine](/lens/nation-as-god-machine/) when draft, home-front discipline, and war industry become population machinery. It borders [Power As Alchemy](/lens/power-as-alchemy/) when dollar financing makes dependence feel normal. It borders [How Stories Control Reality](/lens/how-stories-control-reality/) when ceasefire, peace, and strength supply the surface script. This page owns the harder question: what infrastructure keeps the war going after the peace story begins?
 
+## Resource Empire After Petrodollar Strain
+
+The April 2026 interview cluster pushes the chokepoint argument into a sharper imperial transition. Jiang is no longer only saying that a reserve-currency empire may harden into access control. He is describing a possible move from finance empire to resource empire.
+
+In the April 13 petrodollar interview, the starting point is legitimacy failure. Jiang treats the dollar order as a system whose belief has been strained by U.S. debt, frozen Russian assets, weaponized dollar access, treasury exits, BRICS alternatives, and China's gold corridor. That is why he says [the petrodollar is the very basis of American empire]{evidence="video:interview-p-dhmudovdo@transcript:v1#seg-0004"}. If consent weakens, the material substitute is not persuasion. It is carriers, chokepoints, sanctions, blockades, and war.
+
+The image is deliberately ugly: the global policeman becomes a pirate. Jiang says the military that once guaranteed peace and trade is being turned [from a police force into a pirate force]{evidence="video:interview-p-dhmudovdo@transcript:v1#seg-0027"}; when tariff authority is blocked, the Navy can become the collector, because if courts and Congress will not enforce tariffs, [tolls can be enforced at sea]{evidence="video:interview-p-dhmudovdo@transcript:v1#seg-0027"}. The story of rules-based order is therefore tested by the institution that enforces the rule. If naval protection becomes naval extraction, the same infrastructure that once made trade feel safe starts making trade conditional on obedience.
+
+The April 9 strategy interview adds the replacement map. If America loses the Middle East and GCC petrodollar recycling, Jiang says it must [move from finance empire to resource empire]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0068 video:interview-rsld81qme04@transcript:v1#seg-0069"}: retreat into the Western Hemisphere, then sell oil, rare earths, agriculture, and weapons to East Asia. The April 13 Dugin interview gives the same mechanism with a larger geography. Greater North America would shift America [from financial empire to resource empire]{evidence="video:interview-n44of1y7zgo@transcript:v1#seg-0064"} by turning Greenland, Canada, Mexico, Venezuela, Colombia, Cuba, Nicaragua, Honduras, oil, minerals, food, shipping routes, and two-ocean safety into a continental fortress.
+
+That makes the Iran war a test of imperial form rather than only a regional war. In the April 7 PBD interview, Jiang defines loss as being forced out of the Middle East and losing the GCC petrodollar machine; the result is not only prestige failure but [a dollar-order and domestic-order crisis]{evidence="video:interview-wio-7-gios@transcript:v1#seg-0026 video:interview-wio-7-gios@transcript:v1#seg-0027"}. His proposed exit is not liberal international repair. It is a retreat into [a self-sufficient Western Hemisphere]{evidence="video:interview-wio-7-gios@transcript:v1#seg-0039"} where the United States pays less for sea lanes, European defense, and the reserve-currency burden.
+
+<!-- lens-point id="strategy-resource-empire-replaces-finance" concept="strategy-material-test" evidence="video:interview-p-dhmudovdo@transcript:v1#seg-0004 video:interview-p-dhmudovdo@transcript:v1#seg-0027 video:interview-rsld81qme04@transcript:v1#seg-0068 video:interview-rsld81qme04@transcript:v1#seg-0069 video:interview-n44of1y7zgo@transcript:v1#seg-0064 video:interview-wio-7-gios@transcript:v1#seg-0039" -->
+<span id="strategy-resource-empire-replaces-finance" class="lens-point-anchor"></span>
+Resource empire appears when a weakening finance empire can no longer rely on dollar legitimacy and consent, so it retreats toward continental resources, chokepoints, naval tolls, energy leverage, and weapons supply as the material substitute for open global circulation.
+
+This section belongs inside strategy because the decisive question is material execution. [Power As Alchemy](/lens/power-as-alchemy/) owns the trained belief that makes money real. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the American game-board machinery and national population forms. [Eschatology As Script](/lens/eschatology/) owns the sacred role maps around Zionism, Russia, and final battle. Strategy owns the transition test: if the dollar story cannot carry empire cheaply, which resources, gates, ships, alliances, and domestic sacrifices must carry it instead?
+
 ## Four-Dimensional War
 
 The March 2026 Pax Judaica lecture adds a sharper diagnostic for wars that appear militarily simple. Jiang says war is fought across [narrative, political, economic, and military dimensions]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0017"}. A strategy can fail not because one dimension is irrelevant, but because the actor orders them badly.
@@ -229,6 +247,8 @@ In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pen
 
 In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
+In **April 2026**, the interview cluster around Iran and the petrodollar adds the latest resource-empire formulation: a weakening dollar-finance empire may try to retreat into the Western Hemisphere, convert naval protection into toll extraction, and replace open circulation with continental resources, energy leverage, weapons sales, and chokepoint control.
+
 ## Source Trail
 
 - **2024-04-24**, [Military Dominance Is Not Victory](/episodes/predictive-history-xeepoxqdu5e/)  
@@ -322,6 +342,26 @@ In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: 
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0051`  
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0053`  
   `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0055`
+
+- **2026-04-07**, [Jiang Xueqin Finally Breaks His Silence With PBD](/interviews/interview-wio-7-gios/)
+  Jiang defines American loss in Iran as forced Middle East retreat, loss of the GCC petrodollar machine, and pressure toward a self-sufficient Western Hemisphere rather than continued global empire.
+  `video:interview-wio-7-gios@transcript:v1#seg-0026`
+  `video:interview-wio-7-gios@transcript:v1#seg-0039`
+
+- **2026-04-09**, [Exclusive Interview with Professor Jiang by Dr James Cheong](/interviews/interview-rsld81qme04/)
+  The resource-empire formulation appears directly: losing the Middle East and GCC petrodollar recycling would push America from finance empire toward Western Hemisphere resources, energy, agriculture, rare earths, and weapons sales.
+  `video:interview-rsld81qme04@transcript:v1#seg-0068`
+  `video:interview-rsld81qme04@transcript:v1#seg-0069`
+
+- **2026-04-13**, [Jiang Xueqin: The Iran War & the Battle for the Petrodollar](/interviews/interview-p-dhmudovdo/)
+  Jiang sharpens the police-to-pirate turn: the petrodollar is treated as empire's basis, and naval protection can become toll extraction when consent, tariff authority, and dollar legitimacy weaken.
+  `video:interview-p-dhmudovdo@transcript:v1#seg-0004`
+  `video:interview-p-dhmudovdo@transcript:v1#seg-0027`
+
+- **2026-04-13**, [SNEAKO X Professor Jiang X Aleksandr Dugin](/interviews/interview-n44of1y7zgo/)
+  Greater North America becomes the continental-fortress version of the same strategy: shift from financial empire to resource empire through North American safety, oil, minerals, food, shipping routes, and forced energy dependence.
+  `video:interview-n44of1y7zgo@transcript:v1#seg-0061`
+  `video:interview-n44of1y7zgo@transcript:v1#seg-0064`
 
 ## Related Concepts
 
