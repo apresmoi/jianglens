@@ -1,6 +1,6 @@
 # Plato Setup
 
-Plato is declared as the `lens-steward` agent under `agentic-org/agents/lens-steward/`.
+Plato is declared as the `plato` agent under `agentic-org/agents/plato/`.
 
 This file defines the runtime shape. Spawnfile declares Plato, and the local Docker stack wakes Plato through Picoclaw's native cron service alongside Virgil.
 
@@ -20,8 +20,9 @@ Use the shared Jiang Lens agent stack from the repo root:
 ```bash
 spawnfile validate agentic-org
 spawnfile up agentic-org \
+  --out agentic-org/.spawn \
   --auth-profile jiang-lens \
-  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --env-file agentic-org/ops/secrets/agentic-org.env \
   --name jiang-lens-agentic-org \
   -d
 ```
@@ -53,7 +54,7 @@ moltnet send --network local_lab --target room:episode-floor --text "Status: <sh
 Virgil, the episode worker, also uses `episode-floor`. For now this is intentional: Plato should see source handoffs, episode blockers, and lens follow-up hints directly. This is a trial. If repeated status traffic makes fresh maintainer instructions or useful handoffs hard to detect, Plato should report the concrete failure mode and propose either a room split or a stricter room message convention.
 
 The room attachment is configured with `read: mentions` and `reply: auto`.
-Direct `@lens-steward` mentions can wake a short reply turn; ordinary room
+Direct `@plato` mentions can wake a short reply turn; ordinary room
 traffic should not. Scheduled lens work still runs through Picoclaw cron.
 
 ## First Useful Task

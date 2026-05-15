@@ -22,7 +22,7 @@ schedule:
   kind: cron
   cron: "*/30 * * * *"
   timezone: UTC
-  prompt: "Wake as Sentinel. Read generated workspace context, enter ./repos/jiang-lens, inspect only shared/public state, and report compact health deltas to @socrates in episode-floor when action may be needed. Do not inspect other agents' private workspaces."
+  prompt: "Wake as Sentinel. Read generated workspace context, enter ./repos/jiang-lens, inspect only shared/public state, and report to @socrates in episode-floor only when Socrates needs to act. Do not send healthy heartbeats or repeat facts already posted by teammates. Do not inspect other agents' private workspaces."
 
 surfaces:
   moltnet:

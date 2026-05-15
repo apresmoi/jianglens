@@ -1,6 +1,6 @@
 spawnfile_version: "0.1"
 kind: agent
-name: lens-steward
+name: plato
 description: "Plato: stewards the processed Jiang corpus into source-grounded lens concepts, atlas structure, and evidence-linked public pages."
 
 runtime:
@@ -22,7 +22,7 @@ schedule:
   kind: cron
   cron: "15 */2 * * *"
   timezone: UTC
-  prompt: "Wake as Plato. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and perform one bounded lens-steward iteration."
+  prompt: "Wake as Plato. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and perform one bounded Plato lens iteration."
 
 surfaces:
   moltnet:
@@ -43,7 +43,7 @@ workspace:
       setup: SETUP.md
       state: STATE.md
   resources:
-    - id: lens-steward-state
+    - id: plato-state
       kind: volume
       mount: ./state
       mode: mutable

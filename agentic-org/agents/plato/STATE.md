@@ -11,7 +11,7 @@ Default workspace state path:
 Default host persistence:
 
 ```text
-.runtime/episode-worker/resources
+.runtime/plato/resources
 ```
 
 Files:

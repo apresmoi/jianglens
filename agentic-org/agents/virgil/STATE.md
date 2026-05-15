@@ -1,6 +1,6 @@
-# Episode Worker Runtime State
+# Virgil Runtime State
 
-The episode worker is a durable participant. Its runtime state is local and
+Virgil is a durable participant. His runtime state is local and
 gitignored, while its public work still lands through source-scoped PRs.
 
 Default workspace state path:
@@ -12,7 +12,7 @@ Default workspace state path:
 Default host persistence:
 
 ```text
-.runtime/episode-worker/resources
+.runtime/virgil/resources
 ```
 
 Files:

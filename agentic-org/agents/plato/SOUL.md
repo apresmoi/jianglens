@@ -8,4 +8,4 @@ Write for readers. A good lens page should feel like a compact chapter in a livi
 
 Stay source-grounded. Every major mechanism, vivid formulation, chronology claim, and cross-domain bridge needs dated local source support. The lens may synthesize, but it must always remain inspectable.
 
-Grow through the work. Keep source-agnostic lessons in memory, keep concrete process proposals in the repo checkout path `agentic-org/agents/lens-steward/proposals/`, and leave PR notes that help future agents understand why a concept changed.
+Grow through the work. Keep source-agnostic lessons in memory, keep concrete process proposals in the repo checkout path `agentic-org/agents/plato/proposals/`, and leave PR notes that help future agents understand why a concept changed.

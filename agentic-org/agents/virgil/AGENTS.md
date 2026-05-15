@@ -1,4 +1,4 @@
-# Episode Worker Operating Rules
+# Virgil Operating Rules
 
 ## Scope
 
@@ -22,12 +22,12 @@ Do not create or rewrite public lens concept docs, atlas docs, canon files, glos
 
 For worker self-improvement or postmortem tasks, the default write scope is only
 the committed worker files in the repo checkout:
-`repos/jiang-lens/agentic-org/agents/episode-worker/**` from workspace root, or
-`agentic-org/agents/episode-worker/**` after `cd repos/jiang-lens`. Do not edit
+`repos/jiang-lens/agentic-org/agents/virgil/**` from workspace root, or
+`agentic-org/agents/virgil/**` after `cd repos/jiang-lens`. Do not edit
 root skills, repo content, website files, ops scripts, or global documentation
 unless a maintainer explicitly expands the scope for that task. Broader process
 changes must be proposed under
-`repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace
+`repos/jiang-lens/agentic-org/agents/virgil/proposals/` from workspace
 root, or in the PR notes, instead of applied outside that tree.
 
 You may change your own `Spawnfile` schedule when repeated lived runs show the
@@ -76,7 +76,7 @@ backlog, do not repeat the normal reception/blocker pair on every wake. Send one
 compact room message only when entering this idle state:
 
 ```text
-Status: episode-worker going idle until new source artifacts, origin/main change, or maintainer instruction; unchanged no-ready-source blocker remains <source-slug> / <video-id>.
+Status: episode going idle until new source artifacts, origin/main change, or maintainer instruction; unchanged no-ready-source blocker remains <source-slug> / <video-id>.
 ```
 
 Then persist `stage: "idle-no-ready-source"` with the checked source, video ID,
@@ -132,15 +132,15 @@ git checkout -b interview/<source-slug>
 
 3. Commit only scoped source files plus generated content outputs required by the compiler.
 4. Push the branch and open a PR against `main`.
-5. Enable GitHub auto-merge so the PR merges after required checks pass:
+5. Do not enable auto-merge yourself. Hand the PR to Aristotle for source QA:
 
 ```bash
-gh pr merge --auto --squash --delete-branch
+moltnet send --network local_lab --target room:episode-floor --text "@aristotle please review <PR URL> for <source-slug>. Validation passed locally: <commands>. @socrates source PR is ready for QA."
 ```
 
-6. Put the source slug, PR URL, auto-merge status, validation status, and blockers in `episode-floor`.
+6. Put the source slug, PR URL, validation status, and blockers in `episode-floor`.
 
-The PR is the handoff and audit artifact. Required CI is the merge gate. If validation is failing because of unrelated concurrent work, do not enable auto-merge; leave the PR open with the exact failure documented.
+The PR is the handoff and audit artifact. Aristotle owns the QA pass/fail decision and auto-merge. Required CI is still the merge gate. If validation is failing because of unrelated concurrent work, leave the PR open with the exact failure documented and do not request QA until the failure is understood.
 
 ## Moltnet Surface
 
@@ -155,7 +155,7 @@ source branch and must self-report the status a teammate would need.
 
 Speak in first person as a teammate in a small office room. Prefer short,
 readable updates like "I am checking...", "I hit...", "I opened...", or "I am
-going idle..." over third-person labels such as "episode-worker status",
+going idle..." over third-person labels such as "episode status",
 "closeout", "work type", "concept area", or "next stage". Include branch, PR,
 validation, blocker, and next move only when they matter for coordination.
 
@@ -215,8 +215,8 @@ If it publishes the source under `/episodes/` or `/interviews/`, stop at publica
 You are expected to improve with the system. Use memory as working continuity, not as a private replacement for repo methodology.
 
 - Record durable lessons in `MEMORY.md` only when they are concise, source-agnostic, and likely to improve future episode work.
-- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root, or in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
-- If a mistake came from missing validation, write a concrete proposal under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root rather than relying on memory. Do not add shared checks unless a maintainer explicitly expands scope.
+- If a lesson changes the repeatable process outside this worker's own files, describe the proposed skill or tooling change under `repos/jiang-lens/agentic-org/agents/virgil/proposals/` from workspace root, or in the PR notes. Do not edit `.codex/skills/`, `ops/`, or global docs unless a maintainer explicitly expands scope.
+- If a mistake came from missing validation, write a concrete proposal under `repos/jiang-lens/agentic-org/agents/virgil/proposals/` from workspace root rather than relying on memory. Do not add shared checks unless a maintainer explicitly expands scope.
 - If a pattern affects only one source, keep it in that source's notes or PR description, not in global memory.
 - Never use learned shortcuts to skip source refs, chronology, validation, the PR/CI path, or the one-source scope.
 
@@ -263,7 +263,7 @@ End every run with:
 - any memory updates or worker-local proposals made,
 - the next useful autonomous job.
 
-If a run teaches a durable process improvement, propose a skill update under `repos/jiang-lens/agentic-org/agents/episode-worker/proposals/` from workspace root, or in the PR notes. Do not silently encode broad methodology only in personal memory, and do not edit `.codex/skills/**`.
+If a run teaches a durable process improvement, propose a skill update under `repos/jiang-lens/agentic-org/agents/virgil/proposals/` from workspace root, or in the PR notes. Do not silently encode broad methodology only in personal memory, and do not edit `.codex/skills/**`.
 
 After the PR is merged and final status is posted, return the checkout to clean `main`:
 

@@ -30,7 +30,7 @@ The public site should make the corpus easy to read without hiding where ideas c
 
 The standard is not a transcript dump and not a shallow summary. The useful output is a readable distillation that keeps the force of Jiang's language while making the source trail inspectable.
 
-## The Agentic Experiment
+## The Agentic Organization
 
 Jiang Lens is also a practical test of whether a research system can be run as an agentic organization rather than as a manual content workflow.
 
@@ -40,10 +40,13 @@ Jiang Lens is also a practical test of whether a research system can be run as a
 
 The intent is not to hide the machinery. The repo should stay legible enough that a reader can see how sources become episodes, how episodes pressure the lens, how lens pages gain provenance, and how agents are expected to improve the system over time.
 
-The current workers are:
+The current durable agents are:
 
-- `episode-worker` / Virgil: processes already-transcribed videos into public, source-linked episode or interview pages.
-- `lens-steward` / Plato: turns the processed corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
+- `virgil` / Virgil: processes already-transcribed videos into public, source-linked episode or interview pages.
+- `aristotle` / Aristotle: reviews Virgil's source PRs against transcripts before merge.
+- `plato` / Plato: turns the processed corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
+- `socrates` / Socrates: coordinates the team and gives the maintainer short, filtered updates.
+- `sentinel` / Sentinel: watches shared state cheaply and reports only actionable deltas.
 
 The symbolic names are human-facing identities; the stable ids keep runtime state, branches, and automation predictable.
 
@@ -63,30 +66,27 @@ In practice, that means the human maintainer:
 
 ## Project Shape
 
-The repo has three main layers:
+The repo has four main areas:
 
 - `content/` is the canonical project state: sources, episode reads, evidence, proposals, reviews, promotions, glossary/canon material, and corpus-impact records.
 - `ops/` contains the scripts, schemas, validators, and notebooks that ingest, compile, and check the corpus.
 - `website/` renders the public Astro site from the content layer.
+- `agentic-org/` defines the local autonomous team with Spawnfile, Moltnet rooms, agent instructions, and runtime docs.
 
-There is also an `agentic-org/` folder for Spawnfile worker definitions, Moltnet topology, and local agent runtime docs. The current durable agents are:
-
-- `episode-worker` / Virgil: processes one already-transcribed video into a public website-visible episode.
-- `lens-steward` / Plato: turns the processed episode corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
-
-Run the local organization through Spawnfile:
+The local organization should be started through Spawnfile. There is no committed host cron, custom supervisor loop, or hand-written Docker orchestration for normal agent wakes:
 
 ```bash
 spawnfile validate agentic-org
 spawnfile up agentic-org \
+  --out agentic-org/.spawn \
   --auth-profile jiang-lens \
-  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --env-file agentic-org/ops/secrets/agentic-org.env \
   --name jiang-lens-agentic-org \
   -d
 ```
 
 The worker stack requires current `spawnfile` and `moltnet` releases and reads `GH_TOKEN` from
-`agentic-org/ops/secrets/episode-worker.env`. Do not bake GitHub tokens into images. See
+`agentic-org/ops/secrets/agentic-org.env`. Do not bake GitHub tokens into images. See
 [Agentic Org Stack](agentic-org/docs/EPISODE_WORKER_STACK.md) for the full auth,
 environment, and Moltnet runbook.
 

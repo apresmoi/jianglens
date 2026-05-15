@@ -2,7 +2,7 @@
 
 ## Problem
 
-The episode worker can now suppress repeated Moltnet reception/blocker messages
+Virgil can now suppress repeated Moltnet reception/blocker messages
 when the deterministic backlog has the same no-ready-source blocker recorded in
 durable state. That reduces room noise, but the primary Picoclaw cron job may
 still wake the worker on its normal cadence. Those wakes still spend runtime checking git,
