@@ -61,6 +61,20 @@ This is why Jiang can connect Dubai's safety premium, desalination plants, the p
 
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
+## Spectacle Is Not Resilience
+
+The **2026-03-26** Rick Sanchez interview returns to the same Iran board after several earlier formulations. Its value is not a new forecast category. It is the way Jiang puts the Hollywood-war, chokepoint, and material-resilience layers into one immediate test.
+
+The first strike is read as theater because the ordinary invasion requirements are missing. Jiang says Trump is interested [not in strategy but in optics]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0022"}, wants a narrative that America is winning, and hopes for a quick decapitation scene that would make him the winner. The sharper material point comes one turn later: a full invasion would need public support, congressional approval, [roughly half a million troops and two hundred billion dollars]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0027"}. If those supports are absent, spectacle can become a bridge to consent. A successful raid teaches the public the war is winnable; a slaughter teaches revenge. Either route can be used to [draw America into a long war of attrition with Iran]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0028"}.
+
+The same interview then turns the strait from a geography lesson into a resilience audit. Closing Hormuz and threatening Gulf desalination plants would push pressure through Asia's oil dependence, shipping, food, and daily life. Jiang's compressed warning is that the global system has been [built to be efficient, not resilient]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0034"}. Efficiency made the unipolar world feel normal: cheap flights, all-season food, and a middle-class life that could resemble [the lifestyle of a Roman emperor]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0038"}. But that life relied on energy flows, developing-world extraction, corruption, inequality, and resource drain. When the gate is threatened, the consumer miracle is no longer background comfort. It is a supply-chain dependency waiting to be tested.
+
+<!-- lens-point id="strategy-spectacle-exploits-fragility" concept="strategy-material-test" evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0022 video:interview-yejgdbgbdoq@transcript:v1#seg-0027 video:interview-yejgdbgbdoq@transcript:v1#seg-0028 video:interview-yejgdbgbdoq@transcript:v1#seg-0034 video:interview-yejgdbgbdoq@transcript:v1#seg-0038" -->
+<span id="strategy-spectacle-exploits-fragility" class="lens-point-anchor"></span>
+Spectacle exploits fragility when a leader uses a visible strike to manufacture consent for a war whose material supports are missing, while the target pressure point exposes that an efficient global system has not been built to absorb disruption.
+
+This belongs inside strategy rather than only [How Stories Control Reality](/lens/how-stories-control-reality/) because the story is being judged by what it is trying to replace: troops, money, authorization, supply resilience, and escalation control. It borders [Nation As God-Machine](/lens/nation-as-god-machine/) when draft and patriotism convert population into war capacity, [Power As Alchemy](/lens/power-as-alchemy/) when the lifestyle depends on dollar-order confidence, and [Eschatology As Script](/lens/eschatology/) when rupture is later framed as tribulation and spiritual awakening. Strategy owns the diagnostic: does the television scene survive contact with the system it has just made brittle?
+
 ## Ceasefire Theater And War Architecture
 
 The April 21, 2026 World War Trump lecture extends chokepoint empire into a diagnostic for peace language. Jiang begins from a reported two-week U.S.-Iran ceasefire and possible Islamabad negotiations, then immediately says [the war will not end because it belongs to a larger American strategy to maintain empire]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"}. That sentence is not useful as an undated forecast by itself. Its lens value is the method: do not confuse the public signal with the material architecture that keeps moving underneath it.
@@ -223,6 +237,8 @@ Ask these questions when applying this lens.
 
 **Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems must pass through a narrow point, ask who can grant permission, who can deny access, and whether control can be made too costly to maintain.
 
+**What did efficiency remove?** If a system was optimized for cheap movement, just-in-time abundance, or consumer comfort, ask what redundancy, local capacity, political consent, or social discipline disappeared before the crisis arrived.
+
 **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
 
 ## Chronology So Far
@@ -244,6 +260,8 @@ In **August 2025**, the eschatology convergence update adds the hybrid-war layer
 In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
 
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle may be judged against possible replacement actors; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
+
+In **March 2026**, the Rick Sanchez interview adds the spectacle-resilience test: a visible strike may try to manufacture the public authorization, troop commitment, and funding that a long war lacks, while Hormuz and Gulf infrastructure expose that an efficient unipolar consumer world was not built for strategic disruption.
 
 In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
@@ -312,6 +330,14 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0037`
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`
+
+- **2026-03-26**, [The War Becomes A Rupture](/interviews/interview-yejgdbgbdoq/)
+  A theatrical first strike is tested against the missing material supports for full invasion, while Hormuz and Gulf infrastructure expose the fragility hidden inside efficient unipolar abundance.
+  `video:interview-yejgdbgbdoq@transcript:v1#seg-0022`
+  `video:interview-yejgdbgbdoq@transcript:v1#seg-0027`
+  `video:interview-yejgdbgbdoq@transcript:v1#seg-0028`
+  `video:interview-yejgdbgbdoq@transcript:v1#seg-0034`
+  `video:interview-yejgdbgbdoq@transcript:v1#seg-0038`
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
   A weakening reserve-currency empire can shift from encouraging global trade to controlling sea lanes, chokepoints, trade access, and naval attrition.
