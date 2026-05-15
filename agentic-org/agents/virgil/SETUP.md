@@ -1,14 +1,14 @@
-# Episode Worker Setup
+# Virgil Setup
 
-This worker is deployed as an autonomous PR producer. It processes one ready video source into public episode or interview artifacts, pushes a source-scoped branch, opens a PR against protected `main`, and enables auto-merge after CI.
+Virgil is deployed as an autonomous PR producer. He processes one ready video source into public episode or interview artifacts, pushes a source-scoped branch, opens a PR against protected `main`, and hands that PR to Aristotle for source QA.
 
 ## Fresh Workspace
 
-The worker needs GitHub access to push branches, create PRs, and queue auto-merge. In Docker, pass a token at runtime with:
+Virgil needs GitHub access to push branches and create PRs. In Docker, pass a token at runtime with:
 
 ```bash
-cp agentic-org/ops/env/episode-worker.env.example agentic-org/ops/secrets/episode-worker.env
-$EDITOR agentic-org/ops/secrets/episode-worker.env
+cp agentic-org/ops/env/agentic-org.env.example agentic-org/ops/secrets/agentic-org.env
+$EDITOR agentic-org/ops/secrets/agentic-org.env
 ```
 
 Use a fine-grained token scoped to `apresmoi/jianglens` with:
@@ -18,10 +18,11 @@ Use a fine-grained token scoped to `apresmoi/jianglens` with:
 - Metadata: read
 
 A classic token needs `repo`. Do not bake this token into the image. Keep it in
-`agentic-org/ops/secrets/episode-worker.env` locally.
+`agentic-org/ops/secrets/agentic-org.env` locally.
 
-The local org stack requires `spawnfile@0.1.6` or newer. Use `spawnfile up`
-directly; there is no project-specific Docker launcher or overlay path.
+The local org stack requires `spawnfile@0.1.9` or newer so agent schedules are
+lowered into PicoClaw's native cron store. Use `spawnfile up` directly; there is
+no project-specific Docker launcher or overlay path.
 
 The Spawnfile runtime includes `yt-dlp` only for YouTube metadata fallback during
 `ops/scripts/import-colab-video.mjs`. Do not use the worker to download audio or
@@ -66,8 +67,9 @@ For local testing, run the organization with native Spawnfile:
 ```bash
 spawnfile validate agentic-org
 spawnfile up agentic-org \
+  --out agentic-org/.spawn \
   --auth-profile jiang-lens \
-  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --env-file agentic-org/ops/secrets/agentic-org.env \
   --name jiang-lens-agentic-org \
   -d
 ```
@@ -209,7 +211,7 @@ Use the narrower skills requested by the script status:
 - `jiang-episode-publisher`
 
 Do not operate Colab, download media, or create lens concept pages during ordinary episode work.
-Do not run corpus-impact, lens, canon, glossary, atlas, or ledger passes during ordinary episode work. The episode worker stops once the episode is website-visible and validated. Broader corpus or lens suggestions belong in PR notes or the Moltnet handoff for a separate agent.
+Do not run corpus-impact, lens, canon, glossary, atlas, or ledger passes during ordinary episode work. Virgil stops once the episode is website-visible, validated, and handed to Aristotle for QA. Broader corpus or lens suggestions belong in PR notes or the Moltnet handoff for a separate agent.
 
 If transcription and diarization artifacts are present but
 `metadata.youtube.json` is missing, run the source importer and let its
@@ -221,17 +223,22 @@ For runs that take more than a few minutes, post concise `episode-floor` progres
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.
 
-The Docker stack runs episode work through Picoclaw's native cron service. The
-local launcher seeds one primary recurring agent-turn job, then the worker may
-adjust that schedule through Picoclaw cron. The Moltnet room attachment is
-configured with `read: mentions` and `reply: auto`: direct `@episode-worker`
-mentions can wake a short reply turn, while ordinary room traffic should not.
-Treat Moltnet as the coordination surface, not as the job supervisor. A direct
-mention can ask for status, diagnosis, or a bounded instruction; it should not
-silently start a full episode run unless the maintainer explicitly asks for
-source processing. Read the room at startup and stage boundaries, answer fresh
-direct mentions, and post claims, questions, blockers, PRs, and handoffs with
-the Moltnet CLI.
+The Docker stack runs episode work through Picoclaw's native cron service. While
+ready episode or interview sources remain, keep one primary recurring
+agent-turn job named `virgil-source-drain` and let it wake every 30
+minutes. Each wake processes one source or resumes an in-progress source. If a
+source PR is open, blocked, behind, waiting for Aristotle QA, or waiting for
+auto-merge after QA pass, recover that PR before claiming the next source. When
+the episode and interview backlogs are both empty, report the idle state once
+and propose a daily maintenance cadence.
+The Moltnet room attachment is configured
+with `read: mentions` and `reply: never`: direct `@virgil` mentions are
+room context for the next scheduled wake, not immediate production starts.
+Treat Moltnet as the coordination surface, not as the job supervisor. Production
+source work must run through the native PicoClaw cron wake, which decides
+whether to process the next source based on backlog state. Read the room at
+startup and stage boundaries, and post claims, questions, blockers, PRs, and
+handoffs with the Moltnet CLI.
 
 ## Validate
 
@@ -260,7 +267,6 @@ git add <scoped-files>
 git commit -m "Process source <source-slug>"
 git push -u origin episode/<source-slug>
 gh pr create --base main --head episode/<source-slug> --title "Process source <source-slug>" --body-file <pr-body-file>
-gh pr merge --auto --squash --delete-branch
 ```
 
 Use `interview/<source-slug>` instead of `episode/<source-slug>` for interview-format sources.
@@ -275,28 +281,29 @@ The PR body must include:
 - memory updates or worker-local proposals, if any,
 - blockers or review requests.
 
-Post the PR to `episode-floor`:
+Post the PR to `episode-floor` and request Aristotle's review:
 
 ```bash
-moltnet send --target room:episode-floor --text "Auto-merge queued: <PR URL> for <source-slug>. Validation: compile-content, validate-content, website build passed locally; GitHub CI is the merge gate."
+moltnet send --target room:episode-floor --text "@aristotle please review <PR URL> for <source-slug>. Validation: compile-content, validate-content, website build passed locally. @socrates source PR is ready for QA."
 ```
 
-After auto-merge completes and final status is posted, return the worker checkout
-to clean `main` so the next autonomous wake can claim fresh work:
+After Aristotle passes the PR, auto-merge completes, and final status is posted,
+return the worker checkout to clean `main` so the next autonomous wake can claim
+fresh work:
 
 ```bash
 git checkout main
 git pull --ff-only origin main
 ```
 
-Do not use direct pushes or manual merge commands to bypass CI. If local validation fails, do not enable auto-merge.
+Do not use direct pushes or manual merge commands to bypass CI. If local validation fails, do not request QA as if the PR were ready.
 
 ## Learning
 
 After each episode, ask what should improve next time:
 
 - If it is an agent habit, update `MEMORY.md` concisely.
-- If it is a repeatable method, write a proposal under the repo checkout path `agentic-org/agents/episode-worker/proposals/` or in the PR notes.
+- If it is a repeatable method, write a proposal under the repo checkout path `agentic-org/agents/virgil/proposals/` or in the PR notes.
 - If it is a missing mechanical check, write a concrete proposal instead of adding shared scripts unless the maintainer explicitly expands scope.
 - If it is source-specific, keep it in that source's artifact or PR notes.
 
@@ -304,8 +311,8 @@ Growing with the system means preserving useful experience in durable, reviewabl
 
 For worker self-diagnosis, postmortem, or instruction-hardening tasks, durable
 changes by this worker are limited to the repo checkout path
-`agentic-org/agents/episode-worker/**` unless the maintainer explicitly expands
+`agentic-org/agents/virgil/**` unless the maintainer explicitly expands
 the write scope. Put recommendations for root skills, content tooling, website,
 ops scripts, or global docs in
-`agentic-org/agents/episode-worker/proposals/` or the PR notes instead of
+`agentic-org/agents/virgil/proposals/` or the PR notes instead of
 editing those files.

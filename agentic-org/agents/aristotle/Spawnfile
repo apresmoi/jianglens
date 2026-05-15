@@ -1,7 +1,7 @@
 spawnfile_version: "0.1"
 kind: agent
-name: episode-worker
-description: "Virgil: processes one ready Jiang Lens video into a public website-visible episode or interview."
+name: aristotle
+description: "Aristotle: reviews episode and interview PRs against transcripts before source auto-merge."
 
 runtime:
   name: picoclaw
@@ -20,11 +20,17 @@ execution:
 
 schedule:
   kind: cron
-  cron: "0 5 * * *"
+  cron: "20,50 * * * *"
   timezone: UTC
-  prompt: Wake as Virgil. Read generated workspace context, enter
-    ./repos/jiang-lens, read recent episode-floor history, and perform one
-    bounded episode-worker iteration.
+  prompt: "Wake as Aristotle. Read generated workspace context, enter ./repos/jiang-lens, inspect open episode/interview PRs and recent episode-floor handoffs, then review at most one source PR for transcript-grounded public-read quality."
+
+surfaces:
+  moltnet:
+    - network: local_lab
+      rooms:
+        episode-floor:
+          read: mentions
+          reply: auto
 
 workspace:
   docs:
@@ -37,15 +43,7 @@ workspace:
       setup: SETUP.md
       state: STATE.md
   resources:
-    - id: episode-worker-state
+    - id: aristotle-state
       kind: volume
       mount: ./state
       mode: mutable
-
-surfaces:
-  moltnet:
-    - network: local_lab
-      rooms:
-        episode-floor:
-          read: mentions
-          reply: auto

@@ -23,14 +23,22 @@ On every scheduled wake:
    - latest Drive sync workflow result,
    - main branch movement,
    - obvious worker silence after a reported blocker or PR handoff.
-5. If there is a material delta, report it to `@socrates` in one short message.
-6. If there is no material delta, stay quiet.
+5. If there is a material delta that requires Socrates to act, report it to
+   `@socrates` in one short message.
+   This is internal operations signal for Socrates, not CEO-facing language.
+   Include the implication, not just the raw fact:
+   - "A source handoff is aging without QA; likely constraint is review cadence."
+   - "Main moved after a worker branch was prepared; likely needs a rebase."
+   - "Drive sync found no new artifacts; source lane can stay idle."
+6. If the same fact was already reported by Virgil, Aristotle, Plato, or
+   Socrates in recent room history, stay quiet.
+7. If there is no material delta, stay quiet.
 
 Boundaries:
 
 - Do not process episodes.
 - Do not write lens pages.
-- Do not assign work to episode-worker or lens-steward.
+- Do not assign work to Virgil, Aristotle, or Plato.
 - Do not inspect worker-private runtime filesystems.
 - Do not open PRs unless the maintainer explicitly asks you to edit your own
   agent files.
@@ -42,7 +50,13 @@ Material deltas include:
 
 - a PR changed from passing to failing,
 - a worker said a PR exists but no PR can be found,
+- a source PR is open without an Aristotle QA decision after a reasonable window,
 - Drive sync found new artifacts,
-- main advanced after a worker reported stale branch state,
+- main advanced after a worker reported stale branch state and that stale state
+  blocks current work,
 - a worker repeated the same blocker without changing behavior,
 - `lead-office` contains a maintainer request that needs Socrates.
+
+Do not report ordinary healthy state, routine merges, or unchanged "behind main"
+facts. Use runtime state to remember the last blocker fingerprint and do not
+repeat it until the source, responsible worker, or blocker meaningfully changes.

@@ -11,8 +11,9 @@ or local orchestration script.
 - The shared package list installs `node@22.12.0` globally before the Codex CLI
   package. Astro requires Node `>=22.12.0`, and the Debian base image's
   `nodejs` package is older.
-- `agents/episode-worker/` declares Virgil.
-- `agents/lens-steward/` declares Plato.
+- `agents/virgil/` declares Virgil.
+- `agents/aristotle/` declares Aristotle.
+- `agents/plato/` declares Plato.
 - `agents/socrates/` declares Socrates, the maintainer-facing team lead.
 - `agents/sentinel/` declares Sentinel, the lightweight shared-state watcher.
 - Each agent runtime receives its own workspace and its own repo checkout at
@@ -49,8 +50,8 @@ Store it locally:
 
 ```bash
 mkdir -p agentic-org/ops/secrets
-cp agentic-org/ops/env/episode-worker.env.example agentic-org/ops/secrets/episode-worker.env
-$EDITOR agentic-org/ops/secrets/episode-worker.env
+cp agentic-org/ops/env/agentic-org.env.example agentic-org/ops/secrets/agentic-org.env
+$EDITOR agentic-org/ops/secrets/agentic-org.env
 ```
 
 `agentic-org/ops/secrets/` is gitignored. Do not commit real tokens.
@@ -81,8 +82,9 @@ Expected network shape:
 local_lab / episode-floor
 - socrates
 - sentinel
-- episode-worker
-- lens-steward
+- virgil
+- aristotle
+- plato
 
 local_lab / lead-office
 - socrates
@@ -94,8 +96,9 @@ From the repo root:
 
 ```bash
 spawnfile up agentic-org \
+  --out agentic-org/.spawn \
   --auth-profile jiang-lens \
-  --env-file agentic-org/ops/secrets/episode-worker.env \
+  --env-file agentic-org/ops/secrets/agentic-org.env \
   --name jiang-lens-agentic-org \
   -d
 ```
@@ -152,8 +155,9 @@ AGENTS.md
 content/
 ops/
 website/
-agentic-org/agents/episode-worker/
-agentic-org/agents/lens-steward/
+agentic-org/agents/virgil/
+agentic-org/agents/aristotle/
+agentic-org/agents/plato/
 agentic-org/agents/socrates/
 agentic-org/agents/sentinel/
 ```
