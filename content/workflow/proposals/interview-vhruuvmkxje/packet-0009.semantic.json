@@ -1,0 +1,113 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0009",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0065",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0066",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer frames high-achieving students as gaming the system; Jiang calls the test system addictive and says students who master regurgitation can break down when asked open-ended questions.",
+      "speaker_attribution": "Interviewer synthesis and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0068",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0069",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0070",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0071"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer compares this to literature students needing personal engagement; Jiang says Chinese students lack evidence-based reasoning, flexibility, and empathy because top students mostly interact with people like themselves.",
+      "speaker_attribution": "Interviewer comparison and Jiang response.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0072"],
+      "kind": "question",
+      "summary": "The interviewer asks how Jiang entered education if his own schooling felt automated and robot-like.",
+      "speaker_attribution": "Interviewer question.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the test system is addictive like video games because students become skilled at memorizing and regurgitating standardized answers.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0066"],
+      "temporal_scope": "Diagnosis on 2026-04-05.",
+      "topic_tags": ["test-system", "addiction", "memorization"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says students trained in standardized answers can emotionally break down when asked long-form questions without standardized answers.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0066", "video:interview-vhruuvmkxje@transcript:v1#seg-0067"],
+      "temporal_scope": "Classroom observation stated on 2026-04-05.",
+      "topic_tags": ["open-ended-questions", "student-stress", "standardized-answers"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He identifies evidence-based reasoning as a major weakness in China, including among top students who later study abroad.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0069"],
+      "temporal_scope": "Diagnosis on 2026-04-05.",
+      "topic_tags": ["evidence-based-reasoning", "study-abroad", "china"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the best students often lack empathy because they rarely learn to see problems from perspectives unlike their own.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0071"],
+      "temporal_scope": "Student diagnosis on 2026-04-05.",
+      "topic_tags": ["empathy", "best-students", "perspective-taking"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0066"],
+      "moment": "The test system is as addictive as playing video games.",
+      "source_phrase": "it's just addictive as playing video games",
+      "why_it_matters": "It explains why students defend a system that narrows them.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0071"],
+      "moment": "The best students do not like diversity and difference.",
+      "source_phrase": "They really don't like diversity and difference",
+      "why_it_matters": "It links meritocratic success to an empathy deficit.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "evidence-based reasoning",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0069"],
+      "definition_or_usage": "Reasoning from evidence rather than memorized or pre-prepared answers; Jiang says Chinese students often never learn it.",
+      "confidence": "high"
+    },
+    {
+      "term": "test-system addiction",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0066"],
+      "definition_or_usage": "Students' dependence on quick memorization and regurgitation techniques that produce rewards but block open-ended thinking.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0069"],
+      "note": "As of 2026-04-05 Jiang treats evidence-based reasoning as one of the key missing capacities in Chinese education.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

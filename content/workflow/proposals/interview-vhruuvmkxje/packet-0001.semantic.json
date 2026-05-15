@@ -1,0 +1,99 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0001",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0001",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0002",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0003"
+      ],
+      "kind": "exchange",
+      "summary": "The Edu Salon host introduces Jiang as an educator and Chinese education specialist, then asks him to define creativity in his work.",
+      "speaker_attribution": "Podcast intro and interviewer question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0004",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0005",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0006",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0007",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang defines creativity as using the scientific process to solve problems, then argues that China lacks deeply embedded concepts of truth, progress, and individuality because it did not pass through the scientific revolution.",
+      "speaker_attribution": "Interviewer questions with Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang defines creativity in this education context as helping students understand and use the scientific process to solve problems.",
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0004",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interview claim on 2026-04-05.",
+      "topic_tags": ["creativity", "scientific-process", "education"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that China cannot teach creativity well without cultural concepts such as truth, progress, and individuality.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0008"],
+      "temporal_scope": "Interview diagnosis on 2026-04-05.",
+      "topic_tags": ["china", "creativity", "truth", "individuality"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the ordinary Chinese classroom as anti-creative because cultural habits inhibit autonomy and agency.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0008"],
+      "temporal_scope": "Interview diagnosis on 2026-04-05.",
+      "topic_tags": ["classroom", "agency", "anti-creativity"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0008"],
+      "moment": "The Chinese classroom is not merely uncreative but anti-creative.",
+      "source_phrase": "not creative. It's actually anti-creative",
+      "why_it_matters": "It gives the education interview its opening reversal: the problem is not missing talent but habits that suppress agency.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "creativity",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0004"],
+      "definition_or_usage": "Using the scientific process to solve problems.",
+      "confidence": "high"
+    },
+    {
+      "term": "anti-creative classroom",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0008"],
+      "definition_or_usage": "A classroom culture whose habits of obedience, result-seeking, and authority inhibit student agency.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0008"],
+      "note": "On 2026-04-05 Jiang presents his education work as an attempt to import scientific-process habits into Chinese schooling.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0008"],
+      "note": "ASR says 'Sino-Russian Revolution'; context strongly indicates Jiang is contrasting China with the Western scientific revolution."
+    }
+  ]
+}

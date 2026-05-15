@@ -1,0 +1,107 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0007",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0049",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0050",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0051",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0052",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0053",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0054"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang compares education reform to medicine becoming scientific, then answers the host's PISA question by naming what the world can learn from China: respect for education, belief in hard-work mobility, heavy teacher professional development, and teaching as an intellectual pursuit.",
+      "speaker_attribution": "Jiang answer to interviewer question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0055",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks how Chinese teachers' time is divided; Jiang says roughly a third is teaching, a third professional learning, and a third planning and marking, supported by shared planning and collaboration.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang wants education to become more like modern medicine: a rigorous system of protocols that still allows individualized feedback and improvement across demographics.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0049"],
+      "temporal_scope": "Reform ambition stated on 2026-04-05.",
+      "topic_tags": ["education-as-science", "medicine", "protocols", "equity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says other countries can learn from China's deep social respect for education and belief that hard work through education changes lives.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0052"],
+      "temporal_scope": "Comparative claim on 2026-04-05.",
+      "topic_tags": ["china", "respect-for-education", "mobility"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Chinese teachers spend a large share of work time in professional development and research, making teaching an intellectual pursuit rather than just a job.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0053", "video:interview-vhruuvmkxje@transcript:v1#seg-0054"],
+      "temporal_scope": "Comparative claim on 2026-04-05.",
+      "topic_tags": ["teacher-development", "research", "professional-learning"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Chinese teaching workloads are organized around teaching, planning and marking, and professional learning, with collaboration reducing the burden of large classes.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0056"],
+      "temporal_scope": "Comparative description on 2026-04-05.",
+      "topic_tags": ["teacher-workload", "collaboration", "lesson-planning"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0049"],
+      "moment": "Education should make the move medicine made: from intuition and fear into a science of systems and protocols.",
+      "source_phrase": "medicine today it's really a rigorous set of systems and protocols",
+      "why_it_matters": "It gives Jiang's reform ambition a concrete institutional analogy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0054"],
+      "moment": "Teaching is not a job; it is an intellectual pursuit.",
+      "source_phrase": "teaching it's not a job but it's actually intellectual Pursuit",
+      "why_it_matters": "It captures what Jiang thinks Chinese teacher culture gets right.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "education as science",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0049"],
+      "definition_or_usage": "A reform ideal in which teaching is guided by rigorous systems and protocols while still giving individual feedback.",
+      "confidence": "high"
+    },
+    {
+      "term": "teacher professional development culture",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0053"],
+      "definition_or_usage": "Chinese teachers' expected ongoing learning through observation, feedback, lectures, credits, research, and presentations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0050"],
+      "note": "The interviewer places this exchange in a comparative PISA context, contrasting Chinese high performance with Australian decline.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,107 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0003",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0017",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0018"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Chinese teachers are highly respected, but that prestige becomes authority that students cannot question and makes face-saving more important than deep thought.",
+      "speaker_attribution": "Jiang answer to prior interviewer prompt.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0019",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0020",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0021"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks why teachers would change; Jiang answers that public demand for creativity has met two large sources of resistance, teachers protecting status and parents treating education as a zero-sum game.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0022",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0023",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks how Jiang addresses opposition; he narrates a failed school-leadership phase, a teacher-training turn, and the discovery that even changed teachers run into social opposition.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Teacher prestige in China can block student inquiry because student questions may embarrass the teacher and cause loss of face.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0017", "video:interview-vhruuvmkxje@transcript:v1#seg-0018"],
+      "temporal_scope": "Interview diagnosis on 2026-04-05.",
+      "topic_tags": ["teacher-authority", "face", "student-questions"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says teachers and parents have blocked creativity reform: teachers fear losing status, while parents fear curriculum change will hurt their child in a zero-sum competition.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0020"],
+      "temporal_scope": "Interview diagnosis on 2026-04-05.",
+      "topic_tags": ["parents", "teachers", "zero-sum-education", "reform"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "His strategy evolved from program leadership to teacher training because he concluded reform needs teacher mindset change and teachers as agents of change.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0023", "video:interview-vhruuvmkxje@transcript:v1#seg-0024"],
+      "temporal_scope": "Jiang's retrospective on 20 years in Chinese education, stated 2026-04-05.",
+      "topic_tags": ["teacher-training", "change-agents", "education-reform"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0020"],
+      "moment": "Parents treat education like a prisoner's dilemma where reform risks making every child lose.",
+      "source_phrase": "almost like a prisoner's dilemma",
+      "why_it_matters": "It shows why good reform ideas fail when families cannot afford unilateral risk.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0024"],
+      "moment": "Even changed teachers collide with social opposition embedded in their lives.",
+      "source_phrase": "massive social opposition embedded in their lives",
+      "why_it_matters": "It moves the obstacle from individual teacher mindset to the social ecology around teachers.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "education as zero-sum game",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0020"],
+      "definition_or_usage": "Parents' fear that only a few students can win, so curriculum change may make their own child lose.",
+      "confidence": "high"
+    },
+    {
+      "term": "teachers as agents of change",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0024"],
+      "definition_or_usage": "Jiang's reform target: teachers must gain status and prestige through creativity teaching so they advocate for it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0023", "video:interview-vhruuvmkxje@transcript:v1#seg-0024"],
+      "note": "Jiang summarizes an evolution over roughly 20 years in China, including a failed program-leadership period and a five-year teacher-training attempt.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

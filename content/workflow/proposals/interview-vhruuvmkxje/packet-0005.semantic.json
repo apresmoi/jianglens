@@ -1,0 +1,104 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0005",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0033",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0034"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer frames Jiang as lead teacher and lead learner; Jiang says school leaders need an open door, must model courage, make and own mistakes, and reduce hierarchy so teachers can try reform.",
+      "speaker_attribution": "Interviewer synthesis and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0035",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0036",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0037",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0038",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0039",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Asked about surprising feedback, Jiang says parents report children are happier and more engaged after difficult work; he then links learning, wellbeing, scaffolding, and economic outcomes, marking a change from his earlier outcome-only view.",
+      "speaker_attribution": "Interviewer questions and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says school leadership for reform requires an open door, modeled courage, visible mistakes, and low hierarchy between leader and teachers.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0034"],
+      "temporal_scope": "Leadership model stated on 2026-04-05.",
+      "topic_tags": ["school-leadership", "open-door", "teacher-support"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reports being surprised that difficult texts and questions made students happier, more confident, and more engaged rather than merely stressed.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0036"],
+      "temporal_scope": "Recent parent feedback as of 2026-04-05.",
+      "topic_tags": ["student-wellbeing", "challenge", "engagement"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his educator worldview changed: he once prioritized economic outcomes regardless of cost, but now treats wellbeing as inseparable from strong economic outcomes.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0039", "video:interview-vhruuvmkxje@transcript:v1#seg-0040"],
+      "temporal_scope": "Retrospective change over roughly 20 years, stated 2026-04-05.",
+      "topic_tags": ["wellbeing", "economic-outcomes", "worldview-change"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0036"],
+      "moment": "Hard texts do not crush the students; challenge makes them happier.",
+      "source_phrase": "once you start to challenge kids, they become more confident, they become more happy",
+      "why_it_matters": "It reverses the assumed tradeoff between rigor and wellbeing.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0040"],
+      "moment": "Wellbeing and economic outcomes are impossible to extricate.",
+      "source_phrase": "Absolutely impossible to extricate one from the other",
+      "why_it_matters": "It marks Jiang's explicit move away from productivity-at-any-cost schooling.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "open-door reform leadership",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0034"],
+      "definition_or_usage": "A leader models risk and keeps direct access open so teachers trying reform have support instead of hierarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "productive discomfort",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0039"],
+      "definition_or_usage": "Student discomfort that indicates thinking, distinct from anxiety or stress that harms learning.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0040"],
+      "note": "Jiang dates a major worldview change to his growth as father and teacher over the prior 20 years.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0037"],
+      "note": "Segment 0037 is empty after boundary repair and carries no semantic content."
+    }
+  ]
+}
