@@ -1,8 +1,10 @@
 ---
-// RadiantHero — pure-DOM ASCII Prime Radiant icosahedron.
+// RadiantHero — pure-DOM ASCII Prime Radiant.
+// A rotating cuboctahedron (8 triangles + 6 squares — the actual Prime
+// Radiant shape) crystallising from a multi-civilizational glyph substrate.
 // Drop inside any positioned ancestor; fills inset:0 and renders on top
-// as a non-interactive overlay (except for the icosahedron itself, which is
-// click-and-drag rotatable).
+// as a non-interactive overlay, except for the form itself which is
+// click-and-drag rotatable.
 //
 // Pipeline:
 //   substrate (one <pre>)        — static multi-civilizational glyphs
@@ -114,6 +116,8 @@
     '·∙•°ʹ'
   ).split('');
   const RADIANT_GLYPHS = '╋╬┼╳◆◇◊▲△▼▽◈⬡⬢∴∵⊥⊕⊗⊙⊚⊛'.split('');
+  // Tinier glyphs for the spoke diagonals — middle-dot family
+  const RADIANT_THIN = '·⋅∙˙·⋅∙'.split('');
   const RADIANT_CORE = '✦✧✩◉⊙◎'.split('');
   const FRAMES = 60;
 
@@ -131,19 +135,131 @@
     angleYOffset: 0,
   };
 
-  // === Icosahedron geometry (12 verts, 30 edges) ===
-  const PHI = (1 + Math.sqrt(5)) / 2;
-  const verts = [
-    [-1, PHI, 0], [1, PHI, 0], [-1, -PHI, 0], [1, -PHI, 0],
-    [0, -1, PHI], [0, 1, PHI], [0, -1, -PHI], [0, 1, -PHI],
-    [PHI, 0, -1], [PHI, 0, 1], [-PHI, 0, -1], [-PHI, 0, 1]
+  // === Cuboctahedron geometry (Archimedean: 8 triangles + 6 squares) ===
+  //   12 vertices: every permutation of (±1, ±1, 0)
+  //   24 edges:    each vertex to its 4 nearest neighbors at distance √2
+  //   14 faces:    8 triangular + 6 square (only the edges are drawn)
+  // Also known as Buckminster Fuller's "vector equilibrium" — every edge
+  // length equals the vertex-to-center distance. The actual shape of the
+  // Prime Radiant in Foundation.
+  //
+  // In addition, each of the 6 square faces gets a SMALL inner square at
+  // its center, with side = 1/5 of the face's side, coplanar with the face.
+  // That's +24 vertices and +24 edges.
+  const baseVerts = [
+    // z = 0 plane — square in XY        (indices 0..3)
+    [ 1,  1,  0], [ 1, -1,  0], [-1,  1,  0], [-1, -1,  0],
+    // y = 0 plane — square in XZ        (indices 4..7)
+    [ 1,  0,  1], [ 1,  0, -1], [-1,  0,  1], [-1,  0, -1],
+    // x = 0 plane — square in YZ        (indices 8..11)
+    [ 0,  1,  1], [ 0,  1, -1], [ 0, -1,  1], [ 0, -1, -1]
   ].map(v => { const L = Math.hypot(v[0], v[1], v[2]); return [v[0]/L, v[1]/L, v[2]/L]; });
-  const edges = [
-    [0,1],[0,5],[0,7],[0,10],[0,11],[1,5],[1,7],[1,8],[1,9],
-    [2,3],[2,4],[2,6],[2,10],[2,11],[3,4],[3,6],[3,8],[3,9],
-    [4,5],[4,9],[4,11],[5,9],[5,11],[6,7],[6,8],[6,10],
-    [7,8],[7,10],[8,9],[10,11]
+
+  const surfaceEdges = [
+    // v0 (1,1,0) → 4 neighbors
+    [0, 4], [0, 5], [0, 8], [0, 9],
+    // v1 (1,-1,0) → 4 neighbors
+    [1, 4], [1, 5], [1, 10], [1, 11],
+    // v2 (-1,1,0) → 4 neighbors
+    [2, 6], [2, 7], [2, 8], [2, 9],
+    // v3 (-1,-1,0) → 4 neighbors
+    [3, 6], [3, 7], [3, 10], [3, 11],
+    // remaining edges among the y=0 / x=0 vertices
+    [4, 8], [4, 10],
+    [5, 9], [5, 11],
+    [6, 8], [6, 10],
+    [7, 9], [7, 11]
   ];
+
+  // The 6 square faces, each listed as 4 vertex indices in cyclic order
+  const SQUARE_FACES = [
+    [0, 4, 1, 5],   // +X face
+    [2, 6, 3, 7],   // -X face
+    [0, 8, 2, 9],   // +Y face
+    [1, 10, 3, 11], // -Y face
+    [4, 8, 6, 10],  // +Z face
+    [5, 9, 7, 11],  // -Z face
+  ];
+
+  // The 8 triangular faces, one per octant of (sign_x, sign_y, sign_z).
+  // Each triangle's 3 vertices are: (sx, sy, 0), (sx, 0, sz), (0, sy, sz).
+  const TRIANGLE_FACES = [
+    [0, 4, 8],   // (+,+,+)
+    [0, 5, 9],   // (+,+,-)
+    [1, 4, 10],  // (+,-,+)
+    [1, 5, 11],  // (+,-,-)
+    [2, 6, 8],   // (-,+,+)
+    [2, 7, 9],   // (-,+,-)
+    [3, 6, 10],  // (-,-,+)
+    [3, 7, 11],  // (-,-,-)
+  ];
+
+  // Build the tiny inner squares by interpolating each face corner toward
+  // its face center by INNER_SCALE. Side length of inner = INNER_SCALE × face side.
+  const INNER_SCALE = 1 / 5;
+  const verts = baseVerts.slice();
+  const innerFaceEdges = [];
+  const thinEdges = []; // spoke diagonals — rendered with smaller glyphs
+
+  // Shared helper: for any face (3 or 4 verts), drop an inner shape at
+  // INNER_SCALE of its size at the face center, push its boundary edges as
+  // normal-weight, and push corner→inner-corner spokes as thin.
+  function addInnerShape(face) {
+    const n = face.length;
+    let cx = 0, cy = 0, cz = 0;
+    for (const i of face) { cx += baseVerts[i][0]; cy += baseVerts[i][1]; cz += baseVerts[i][2]; }
+    cx /= n; cy /= n; cz /= n;
+    const smallIdx = face.map((i) => {
+      const v = baseVerts[i];
+      const small = [
+        cx + (v[0] - cx) * INNER_SCALE,
+        cy + (v[1] - cy) * INNER_SCALE,
+        cz + (v[2] - cz) * INNER_SCALE,
+      ];
+      const idx = verts.length;
+      verts.push(small);
+      return idx;
+    });
+    // Cyclic boundary of the inner shape
+    for (let k = 0; k < n; k++) {
+      innerFaceEdges.push([smallIdx[k], smallIdx[(k + 1) % n]]);
+    }
+    // Spokes from each outer corner to its inner corner
+    for (let k = 0; k < n; k++) {
+      thinEdges.push([face[k], smallIdx[k]]);
+    }
+  }
+
+  for (const face of SQUARE_FACES) addInnerShape(face);
+  for (const face of TRIANGLE_FACES) addInnerShape(face);
+
+  // === Nested inner cuboctahedron (Vector Equilibrium lattice) ===
+  // Instead of a single center point, drop a smaller cuboctahedron at 1/3
+  // scale, same orientation. Add 12 thin radii pairing each outer vertex
+  // with its matching inner vertex (vertex i ↔ vertex i, same direction).
+  const INNER_VE_SCALE = 1 / 3;
+  const innerVeStart = verts.length;
+  for (let i = 0; i < 12; i++) {
+    verts.push([
+      baseVerts[i][0] * INNER_VE_SCALE,
+      baseVerts[i][1] * INNER_VE_SCALE,
+      baseVerts[i][2] * INNER_VE_SCALE,
+    ]);
+  }
+  // Inner cage edges — reuse the same connectivity, thin weight
+  for (const [a, b] of surfaceEdges) {
+    thinEdges.push([innerVeStart + a, innerVeStart + b]);
+  }
+  // 12 radii: outer vertex i → inner vertex i
+  for (let i = 0; i < 12; i++) {
+    thinEdges.push([i, innerVeStart + i]);
+  }
+
+  // Move the inner-face shape boundaries (tiny squares + triangles) into the
+  // thin pool. Only the outer cuboctahedron cage stays bold; everything else
+  // is dotted — keeps the form readable instead of competing with itself.
+  thinEdges.push(...innerFaceEdges);
+  const edges = surfaceEdges;
   function rotY(v, a) { const c = Math.cos(a), s = Math.sin(a); return [c*v[0] + s*v[2], v[1], -s*v[0] + c*v[2]]; }
   function rotX(v, a) { const c = Math.cos(a), s = Math.sin(a); return [v[0], c*v[1] - s*v[2], s*v[1] + c*v[2]]; }
 
@@ -173,8 +289,14 @@
       const persp = 4 / (r[2] + 3.0);
       return [cx + r[0] * Rx * persp, cy + r[1] * Ry * persp];
     });
-    for (const [a, b] of edges) {
+    // Stamp values: 1 thin (spokes), 2 normal (cage + inner squares), 3 core.
+    // drawLineToStamp uses `<` so later/higher overwrites earlier/lower.
+    // Order: thin first, normal over thin, core over all.
+    for (const [a, b] of thinEdges) {
       drawLineToStamp(stamp, proj[a][0]|0, proj[a][1]|0, proj[b][0]|0, proj[b][1]|0, 1, cols, rows);
+    }
+    for (const [a, b] of edges) {
+      drawLineToStamp(stamp, proj[a][0]|0, proj[a][1]|0, proj[b][0]|0, proj[b][1]|0, 2, cols, rows);
     }
     const cxR = cx|0, cyR = cy|0;
     const rxC = cfg.coreW, ryC = cfg.coreH;
@@ -184,7 +306,7 @@
         const x = cxR + dx, y = cyR + dy;
         if (x < 0 || x >= cols || y < 0 || y >= rows) continue;
         const nx = dx / rxC, ny = dy / ryC;
-        if (nx * nx + ny * ny < 1) stamp[y * cols + x] = 2;
+        if (nx * nx + ny * ny < 1) stamp[y * cols + x] = 3;
       }
     }
     const out = new Array(rows * (cols + 1));
@@ -193,7 +315,8 @@
       for (let x = 0; x < cols; x++) {
         const v = stamp[y * cols + x];
         out[i++] = (v === 0) ? ' '
-                 : (v === 1) ? RADIANT_GLYPHS[(Math.random() * RADIANT_GLYPHS.length) | 0]
+                 : (v === 1) ? RADIANT_THIN[(Math.random() * RADIANT_THIN.length) | 0]
+                 : (v === 2) ? RADIANT_GLYPHS[(Math.random() * RADIANT_GLYPHS.length) | 0]
                  :             RADIANT_CORE[(Math.random() * RADIANT_CORE.length) | 0];
       }
       if (y < rows - 1) out[i++] = '\n';
@@ -226,19 +349,21 @@
     let bakeToken = 0;
 
     // Width-driven size scale for the icosahedron.
-    //   w ≤ 600:   scale ≈ 1.25 (relatively bigger on narrow phones)
-    //   w = 1400:  scale = 1.0  (current tuned look)
-    //   w ≥ 2200:  scale ≈ 0.78 (smaller on huge monitors)
-    // Linear in between, clamped at the extremes.
+    //   w ≤ 600:    scale ≈ 1.25 (relatively bigger on narrow phones)
+    //   w = 1100:   scale ≈ 1.10 (tuned)
+    //   w ≥ 1100:   scale ≈ 1.10 (HELD — wider screens keep the 1100 size)
+    // Linear between 600 and 1100, then constant past 1100.
     function sizeScaleForWidth(w) {
-      const t = (w - 600) / (2200 - 600); // 0 at 600, 1 at 2200
-      const clamped = Math.max(0, Math.min(1, t));
-      return 1.25 + clamped * (0.78 - 1.25);
+      const wCapped = Math.min(w, 1100);
+      const t = Math.max(0, (wCapped - 600) / (2200 - 600));
+      return 1.25 + t * (0.78 - 1.25);
     }
 
-    function bakeRadiantAsync(cols, rows, cellAspect) {
+    function bakeRadiantAsync(cols, rows, cellAspect, onDone) {
       const myToken = ++bakeToken;
-      stripEl.style.setProperty('--rh-strip-text', '""');
+      // Don't clear --rh-strip-text up front — whatever's there (often the
+      // live-rendered single frame from a drag) stays visible until the new
+      // 60-frame strip is ready in one atomic swap. No empty-strip flash.
       const frames = new Array(FRAMES);
       let f = 0;
       function chunk() {
@@ -252,6 +377,7 @@
           requestAnimationFrame(chunk);
         } else {
           stripEl.style.setProperty('--rh-strip-text', `"${cssEscape(frames.join('\n'))}"`);
+          if (onDone) onDone();
         }
       }
       requestAnimationFrame(chunk);
@@ -267,12 +393,12 @@
       };
     }
 
-    function build(rebakeOnly) {
+    function build(rebakeOnly, onDone) {
       if (rebakeOnly && lastDims) {
         // Drag-release rebake: cfg.tilt / angleYOffset may have changed.
         // Re-derive effectiveCfg with the same scale we used last time.
         recomputeEffectiveCfg(host.getBoundingClientRect().width);
-        bakeRadiantAsync(lastDims.cols, lastDims.rows, lastDims.cellAspect);
+        bakeRadiantAsync(lastDims.cols, lastDims.rows, lastDims.cellAspect, onDone);
         return;
       }
 
@@ -349,12 +475,32 @@
       stripEl.style.setProperty('--rh-strip-text', `"${cssEscape(frame)}"`);
     }
 
+    // Read the CSS animation's current frame and convert back to an angle.
+    // Lets us pick up rotation from wherever it was when the user clicked,
+    // instead of snapping the icosahedron to angleYOffset (frame 0).
+    function currentAnimationAngle() {
+      const anims = stripEl.getAnimations ? stripEl.getAnimations() : [];
+      const anim = anims[0];
+      if (!anim || anim.currentTime == null || !cfg.dur) {
+        return cfg.angleYOffset;
+      }
+      const cycleMs = cfg.dur * 1000;
+      const progress = (anim.currentTime % cycleMs) / cycleMs;
+      const frame = Math.floor(progress * FRAMES);
+      const angleAtFrame = (frame / FRAMES) * Math.PI * 2;
+      return cfg.angleYOffset + angleAtFrame;
+    }
+
     viewportEl.addEventListener('pointerdown', (e) => {
       if (e.button !== 0 && e.pointerType !== 'touch') return;
+      // Snap to the angle currently being shown by the CSS animation, NOT to
+      // the cycle's frame-0 (cfg.angleYOffset). Click-without-drag is now a
+      // visual no-op; click-and-drag picks up from where rotation actually was.
+      const startAngle = currentAnimationAngle();
       drag = {
         startX: e.clientX, startY: e.clientY,
-        baseY: cfg.angleYOffset, baseTilt: cfg.tilt,
-        curY: cfg.angleYOffset, curTilt: cfg.tilt,
+        baseY: startAngle, baseTilt: cfg.tilt,
+        curY: startAngle, curTilt: cfg.tilt,
       };
       try { viewportEl.setPointerCapture(e.pointerId); } catch (err) {}
       viewportEl.classList.add('dragging');
@@ -383,8 +529,14 @@
       cfg.angleYOffset = drag.curY;
       cfg.tilt = drag.curTilt;
       drag = null;
-      viewportEl.classList.remove('dragging');
-      build(true);
+      // Keep .dragging on until the new 60-frame strip is ready. The single
+      // live frame currently in --rh-strip-text stays visible (no animation,
+      // no transform). Once the bake finishes, drop .dragging — the CSS
+      // animation restarts from frame 0 = the new cfg.angleYOffset, which is
+      // exactly the angle that's already on screen. Seamless.
+      build(true, () => {
+        viewportEl.classList.remove('dragging');
+      });
     }
     viewportEl.addEventListener('pointerup', endDrag);
     viewportEl.addEventListener('pointercancel', endDrag);
