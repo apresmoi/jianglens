@@ -1,0 +1,164 @@
+{
+  "packet_id": "interview-kh8dvnddooq-semantics-pkt-0002",
+  "source_id": "video:interview-kh8dvnddooq",
+  "source_date": "2026-04-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0009",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0010"
+      ],
+      "kind": "question",
+      "summary": "Hasan formally introduces Jiang, challenges the Professor persona, asks for a big 2026 prediction, frames the prior prediction record, and asks Jiang to explain game theory and its relevance to Trump and Iran.",
+      "speaker_attribution": "Mehdi Hasan interviewer and host narration.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines geopolitical game theory as a zero-sum contest among nation-states, each with its own traits, strengths, and optimal strategy.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0012",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks how the model applies to the Middle East; Jiang says Iran cannot defeat the United States directly, so it uses asymmetric control of Hormuz and attacks on GCC infrastructure to force Trump to negotiate.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0014",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0015",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks whether Jiang still stands by the Iran-loss prediction; Jiang says yes, because Iran has clear objectives and strategy while Trump lacks an end state, public support, and morale.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0009",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_01 is Hasan in these refs; SPEAKER_00 is Jiang.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines game theory applied to geopolitics as treating each nation-state as a player in a zero-sum game that tries to maximize its individuality through an optimal strategy.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Definition given in the 2026-04-03 interview.",
+      "topic_tags": [
+        "game-theory",
+        "geopolitics",
+        "zero-sum"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran's asymmetric strategy is to hold the global economy hostage through the Strait of Hormuz and attacks on GCC energy infrastructure rather than directly attacking the United States.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Diagnosis of the Middle East war as of 2026-04-03.",
+      "topic_tags": [
+        "iran",
+        "asymmetric-warfare",
+        "strait-of-hormuz",
+        "gcc"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang stands by the prediction that the United States will lose the Iran war because Iran has clear objectives and strategy while the Trump administration lacks strategy, purpose, public support, and soldier morale.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0014",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Prediction reaffirmed on 2026-04-03 about the then-current Iran war.",
+      "topic_tags": [
+        "iran-war",
+        "trump",
+        "strategy",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "moment": "Jiang compresses state behavior into a contest of individuality, not morality or international law.",
+      "source_phrase": "a zero-sum game to maximize its individuality",
+      "why_it_matters": "This is the operating definition behind the interview's Iran analysis.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "moment": "Iran's weakness becomes leverage because it can threaten the flows the global economy depends on.",
+      "source_phrase": "holding the global economy hostage",
+      "why_it_matters": "It shows Jiang's recurring method: identify the asymmetric point where the weaker player can make the stronger player pay.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "zero-sum game",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's base model for geopolitics: nation-states pursue optimal strategies against one another in a contest where one player's gain pressures another.",
+      "confidence": "high"
+    },
+    {
+      "term": "asymmetrical warfare",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Iran's method of exploiting economic chokepoints and regional infrastructure because it cannot defeat the United States directly.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0014",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0015"
+      ],
+      "note": "On 2026-04-03 Jiang says that after a month of war he still stands by the Iran-loss prediction.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "note": "Transcript says 'state of Hormuz' and 'aero supremacy'; context indicates Strait of Hormuz and air supremacy."
+    }
+  ]
+}

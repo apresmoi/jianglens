@@ -1,0 +1,181 @@
+{
+  "packet_id": "interview-kh8dvnddooq-semantics-pkt-0010",
+  "source_id": "video:interview-kh8dvnddooq",
+  "source_date": "2026-04-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0073",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks where Jiang places himself politically; Jiang says he has always been on the left in commitments to redistribution, free speech, antiwar politics, anti-empire, and individual autonomy, though those preferences now make many people label him far right.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0075",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0077",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0079"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks for Jiang's big 2026 prediction; Jiang gives three war predictions: U.S. ground troops will enter and become a quagmire requiring a draft, Israel and the United States will not use nuclear weapons, and somehow the Al-Aqsa Mosque will be destroyed. Hasan registers dread and closes.",
+      "speaker_attribution": "Hasan final question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076"
+      ],
+      "note": "The short 'I agree with that / I'm with you / Okay' interjections inside seg-0076 appear to be Hasan overlapping or transcript attribution bleed inside Jiang's answer.",
+      "suggested_speaker": "mixed/overlap",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang locates his own politics in left commitments: wealth redistribution, free speech, antiwar politics, anti-empire, and individual autonomy.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0073",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Self-description in the 2026-04-03 interview.",
+      "topic_tags": [
+        "politics",
+        "left",
+        "anti-war",
+        "anti-empire"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says people would now likely consider him far right despite his left self-description.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Self-description in the 2026-04-03 interview.",
+      "topic_tags": [
+        "political-spectrum",
+        "far-right",
+        "left"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the United States will use ground troops in the Iran war, those troops will become a quagmire, and the United States will have to call up a national draft.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0075",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Big 2026 prediction given on 2026-04-03.",
+      "topic_tags": [
+        "iran-war",
+        "ground-troops",
+        "draft",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Israel and the United States will not use nuclear weapons in the war and calls nuclear talk fearmongering.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Big 2026 prediction given on 2026-04-03.",
+      "topic_tags": [
+        "nuclear-weapons",
+        "iran-war",
+        "israel",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that during the course of the war the Al-Aqsa Mosque will somehow be destroyed.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Most controversial 2026 war prediction given on 2026-04-03.",
+      "topic_tags": [
+        "al-aqsa",
+        "jerusalem",
+        "iran-war",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "moment": "Jiang describes a political inversion: the positions he reads as left now get him classified as far right.",
+      "source_phrase": "I used to be left",
+      "why_it_matters": "It gives the interview's ideological conflict a self-description rather than leaving it only in Hasan's accusations.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0079"
+      ],
+      "moment": "The final prediction turns from military sequence to sacred catastrophe.",
+      "source_phrase": "the Al-Aqsa Mosque will be destroyed",
+      "why_it_matters": "It is the interview's closing dark charge and the public read should preserve its shock and uncertainty.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "national draft",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's predicted consequence of U.S. ground troops becoming trapped in an Iran-war quagmire.",
+      "confidence": "high"
+    },
+    {
+      "term": "Al-Aqsa Mosque",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "The Jerusalem holy site Jiang predicts will be destroyed during the war, without specifying mechanism.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0075",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078"
+      ],
+      "note": "At the end of the 2026-04-03 interview Jiang gives his testable 2026 prediction set: U.S. ground troops and draft, no nuclear use, and destruction of Al-Aqsa.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078"
+      ],
+      "note": "Jiang gives no mechanism for the Al-Aqsa prediction in this focus ref; preserve the uncertainty rather than filling it in."
+    }
+  ]
+}

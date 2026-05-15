@@ -1,0 +1,1648 @@
+{
+  "id": "evidence:semanticvideo-interview-kh8dvnddooq:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-kh8dvnddooq",
+  "source_id": "video:interview-kh8dvnddooq",
+  "source_title": "Mehdi Hasan vs. ‘Professor’ Jiang",
+  "source_url": "https://www.youtube.com/watch?v=kH8dvnDDooQ",
+  "source_date": "2026-04-03",
+  "date_precision": "day",
+  "transcript_id": "video:interview-kh8dvnddooq@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-kh8dvnddooq/packet-0010.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-kh8dvnddooq/source.yaml",
+    "transcript_path": "content/sources/videos/interview-kh8dvnddooq/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 10,
+    "interactions": 28,
+    "speaker_notes": 10,
+    "claims": 43,
+    "signature_moments": 21,
+    "predictions": 7,
+    "models": 3,
+    "glossary_terms": 24,
+    "chronology_notes": 7,
+    "uncertainty_notes": 9
+  },
+  "first_refs": [
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0001",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0002",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0003",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0004",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0006",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0011",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0013",
+    "video:interview-kh8dvnddooq@transcript:v1#seg-0014"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0001",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0002",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0003",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0004",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0005",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0006",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0007",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The edited opening previews Hasan's pressure points: Jiang's Iran predictions, the failed Nikki Haley premise, his education/facts claim, the propaganda/useful-idiot question, and the dispute over calling himself Professor Jiang.",
+      "speaker_attribution": "Mehdi Hasan interviewer clips and Jiang response clips, cut from later moments in the interview.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0009",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0010"
+      ],
+      "kind": "question",
+      "summary": "Hasan formally introduces Jiang, challenges the Professor persona, asks for a big 2026 prediction, frames the prior prediction record, and asks Jiang to explain game theory and its relevance to Trump and Iran.",
+      "speaker_attribution": "Mehdi Hasan interviewer and host narration.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines geopolitical game theory as a zero-sum contest among nation-states, each with its own traits, strengths, and optimal strategy.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0012",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks how the model applies to the Middle East; Jiang says Iran cannot defeat the United States directly, so it uses asymmetric control of Hormuz and attacks on GCC infrastructure to force Trump to negotiate.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0014",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0015",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks whether Jiang still stands by the Iran-loss prediction; Jiang says yes, because Iran has clear objectives and strategy while Trump lacks an end state, public support, and morale.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0017",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0018",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the what-next question by predicting Trump will send ground forces, possibly Marines, to seize Hormuz-related targets, but warns that holding territory will fail against Iran's prepared guerrilla-like drone and missile strategy.",
+      "speaker_attribution": "Jiang answer to Hasan's preceding question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0020"
+      ],
+      "kind": "question",
+      "summary": "After a Zeteo subscription interlude, Hasan challenges whether Jiang's Trump/Iran predictions required special insight or were straightforward guesses based on public politics.",
+      "speaker_attribution": "Hasan host promo and interviewer challenge.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0021",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0022"
+      ],
+      "kind": "answer",
+      "summary": "Jiang concedes the predictions were straightforward if one followed the news closely: Trump's first-term Iran escalation, donor and ally pressure, Democratic failure on Gaza and Ukraine, and voter disillusionment made Trump and war likely.",
+      "speaker_attribution": "Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0023",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan presses the failed Nikki Haley prediction; Jiang admits it was wrong, then explains he saw the Haley-versus-Vance choice as a signal of whether Trump's second term would be neocon or America First.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0025"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the Haley/Vance answer: Haley would have signaled neocon regime change, while Vance and Tulsi Gabbard give Trump an America First off-ramp if the war turns unpopular.",
+      "speaker_attribution": "Jiang answer continued from prior packet.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0026",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0027",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0028"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks whether Jiang's views reflect the CCP; Jiang answers that China's official line is peace and trade, that China lacks leverage over both sides, and that the war may pressure China by threatening GCC energy.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0029",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0030",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0031",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan brings up Jiang's 2002 deportation from China while filming worker protests; Jiang recounts being detained for 48 hours, confessing to working illegally as a reporter, being deported without charge, and later being cleared of spying.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan quotes Jiang's 2017 CNN piece criticizing Chinese media control; Jiang says he stood by those views then, still does not have a Chinese online presence, and avoids Chinese media because speech in China can be used against him.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0035",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0036",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0037",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0038"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks why China lets Jiang appear on YouTube despite the Great Firewall; Jiang says he is outside the Chinese system, speaks English to Westerners, and uses a VPN.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0039",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks directly whether China controls what Jiang says; Jiang says no, because he is not talking to Chinese people but to Westerners.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0041",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0042"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan says critics could see Jiang as useful propaganda for China; Jiang calls that a fair concern and says his sudden virality does not feel organic, so various governments and antiwar actors may be amplifying him.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0043",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0044",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan challenges Jiang's secret-society material as crazy or Dan Brown-like; Jiang answers that he is developing speculative analysis, because Yale rigor did not explain real power, and that Predictive History tests historical frameworks by prediction using game theory, patterns, and eschatology.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0046",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0047",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan challenges Jiang's credentials as an English literature graduate and non-professor; Jiang says he began as a math and physics major, switched to English, combines both backgrounds, and says the internet called him professor before Hasan interrupts.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0049",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0050",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0051",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "The Professor Jiang credential dispute continues: Hasan says Jiang does call himself professor though he is not one; Jiang compares it to a public persona like Charlamagne tha God, while Hasan says people may actually believe Jiang is a professor.",
+      "speaker_attribution": "Hasan and Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0053",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0054",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan challenges the idea that education focuses too much on facts; Jiang distinguishes independently verifiable facts from truth as a deeper world-understanding that explains why things are the way they are and supports prediction.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "Hasan argues facts are crucial when Jiang talks about Jesuits, Israel, Zionism, Pax Judaica, and the title Dawn of the Jews, then asks whether Jiang understands why many see anti-Semitic tropes.",
+      "speaker_attribution": "Hasan interviewer challenge; the question continues into seg-0057.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0057",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0058",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0059",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0060"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan completes the anti-Semitism accusation and asks about Dawn of the Jews; Jiang asks for specifics, denies saying Jews are dominant, and says his lecture argued Jewish identity was created by the Persian Empire to control the Levant using the Bible as primary source.",
+      "speaker_attribution": "Hasan challenge and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0061",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0062",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0063",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan challenges Pax Judaica as far-right rather than scholarly; Jiang asks what is wrong with it and defines it as Israel's regional dominance analogous to Pax Americana and Pax Britannica.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0065",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0066",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan argues Pax Judaica implies all Jews and invokes world-rule tropes; Jiang says he is using a Latin convention, while Hasan insists the term comes from far-right online circles.",
+      "speaker_attribution": "Hasan challenge and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0068",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0069",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks whether the Greater Israel Project is a conspiracy theory; Hasan says it is real but objects to the name Pax Judaica; Jiang distinguishes the biblical-territorial Greater Israel Project from his own speculative model of transnational capital, secret societies, and an AI surveillance state.",
+      "speaker_attribution": "Hasan and Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0071",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan confirms that Jiang's Pax Judaica account is speculative rather than fact-based; Jiang says it is speculative analysis based on history, patterns, connecting dots, and Netanyahu's own statements.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0073",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks where Jiang places himself politically; Jiang says he has always been on the left in commitments to redistribution, free speech, antiwar politics, anti-empire, and individual autonomy, though those preferences now make many people label him far right.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0075",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0077",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0079"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks for Jiang's big 2026 prediction; Jiang gives three war predictions: U.S. ground troops will enter and become a quagmire requiring a draft, Israel and the United States will not use nuclear weapons, and somehow the Al-Aqsa Mosque will be destroyed. Hasan registers dread and closes.",
+      "speaker_attribution": "Hasan final question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0001",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0008"
+      ],
+      "note": "These focus refs are a cold-open montage, not the chronological interview body; the same exchanges recur later with fuller context.",
+      "suggested_speaker": "mixed montage",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0009",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0016"
+      ],
+      "note": "SPEAKER_01 is Hasan in these refs; SPEAKER_00 is Jiang.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0020"
+      ],
+      "note": "The first part of seg-0020 is a Zeteo host promotion, not part of the Jiang exchange; the later part is Hasan's substantive prediction challenge.",
+      "suggested_speaker": "Hasan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0025",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0032"
+      ],
+      "note": "SPEAKER_01 remains Hasan and SPEAKER_00 remains Jiang; the exchange is adversarial but clear.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0040"
+      ],
+      "note": "The exchange is about Jiang's speech constraints; Hasan's quoted CNN phrases are not Jiang's present endorsement except where he says he stood by them at that time and still avoids Chinese online speech.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0041",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0048"
+      ],
+      "note": "This packet contains direct credential and method challenges; the interruptions are part of the interview pressure and should be preserved in the public read.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "note": "seg-0056 ends mid-question and should be interpreted with seg-0057 in the next packet; do not treat it as Jiang's claim.",
+      "suggested_speaker": "Hasan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0057",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0064"
+      ],
+      "note": "The packet is a contested exchange; Hasan's accusations and paraphrases should be distinguished from Jiang's defended claims.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0065",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0072"
+      ],
+      "note": "Hasan and Jiang agree Netanyahu/Israeli expansionism is real in surrounding context, but disagree on Jiang's terminology and speculative extension.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076"
+      ],
+      "note": "The short 'I agree with that / I'm with you / Okay' interjections inside seg-0076 appear to be Hasan overlapping or transcript attribution bleed inside Jiang's answer.",
+      "suggested_speaker": "mixed/overlap",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Hasan frames Jiang's public reputation around three 2024 predictions: Trump would win, Trump would start a war with Iran, and Trump would lose that war.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Interviewer framing in the 2026-04-03 source.",
+      "topic_tags": [
+        "predictions",
+        "trump",
+        "iran",
+        "public-reputation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's clipped position is that Iran has the strategic advantage and that Trump will escalate by sending ground forces.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Prediction restated in the 2026-04-03 interview montage.",
+      "topic_tags": [
+        "iran-war",
+        "ground-forces",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hasan identifies a miss in Jiang's earlier prediction chain: Jiang expected Nikki Haley to be Trump's running mate, but Trump chose someone else.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Retrospective challenge in the 2026-04-03 source.",
+      "topic_tags": [
+        "nikki-haley",
+        "prediction-error",
+        "trump"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says education overvalues facts and rigor and undervalues imagination.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Educational diagnosis clipped in the 2026-04-03 interview montage.",
+      "topic_tags": [
+        "education",
+        "facts",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concedes it is possible he is a useful idiot and that several governments or factions may want to amplify his message, including the Chinese government.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Self-assessment in the 2026-04-03 interview montage.",
+      "topic_tags": [
+        "propaganda",
+        "amplification",
+        "china"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines game theory applied to geopolitics as treating each nation-state as a player in a zero-sum game that tries to maximize its individuality through an optimal strategy.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Definition given in the 2026-04-03 interview.",
+      "topic_tags": [
+        "game-theory",
+        "geopolitics",
+        "zero-sum"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran's asymmetric strategy is to hold the global economy hostage through the Strait of Hormuz and attacks on GCC energy infrastructure rather than directly attacking the United States.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Diagnosis of the Middle East war as of 2026-04-03.",
+      "topic_tags": [
+        "iran",
+        "asymmetric-warfare",
+        "strait-of-hormuz",
+        "gcc"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang stands by the prediction that the United States will lose the Iran war because Iran has clear objectives and strategy while the Trump administration lacks strategy, purpose, public support, and soldier morale.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0014",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Prediction reaffirmed on 2026-04-03 about the then-current Iran war.",
+      "topic_tags": [
+        "iran-war",
+        "trump",
+        "strategy",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the United States will escalate by sending ground forces and attempting to control Hormuz-related territory such as Kharg Island, Qeshm Island, or another coastal naval base.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0017",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "War progression prediction made on 2026-04-03.",
+      "topic_tags": [
+        "iran-war",
+        "ground-forces",
+        "hormuz",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that even if Marines score an early success, America lacks a long-term strategy for holding territory against Iran's prepared drone, missile, and guerrilla-like asymmetric war.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0018",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Diagnosis of likely U.S. operational failure in the 2026 Iran war.",
+      "topic_tags": [
+        "marines",
+        "guerrilla-warfare",
+        "drones",
+        "asymmetry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his 2024 predictions were not mystical: public evidence from Trump's Iran escalation history, donor and ally pressure, Gaza, Ukraine, and Democratic weakness made Trump victory and Iran escalation fairly predictable.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0020",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0021",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Retrospective account given on 2026-04-03 of 2024 predictions.",
+      "topic_tags": [
+        "prediction-method",
+        "trump",
+        "iran",
+        "democrats"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang admits the Nikki Haley running-mate prediction was wrong but says the choice between Haley and J.D. Vance was always meant to reveal the character of Trump's second term.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0023",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Correction of a prior prediction in the 2026-04-03 interview.",
+      "topic_tags": [
+        "nikki-haley",
+        "jd-vance",
+        "prediction-error",
+        "trump"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump's selection of J.D. Vance and Tulsi Gabbard, rather than Nikki Haley, gives him a possible America First off-ramp if the Middle East war goes badly.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Trump second-term interpretation in the 2026-04-03 interview.",
+      "topic_tags": [
+        "jd-vance",
+        "tulsi-gabbard",
+        "america-first",
+        "off-ramp"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents China's official position as supporting world peace, win-win globalization, and criticism of both the United States for starting the war and Iran for attacking GCC infrastructure.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Account of Chinese official position as of 2026-04-03.",
+      "topic_tags": [
+        "china",
+        "iran-war",
+        "gcc",
+        "diplomacy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues the Iran war may have been started partly to economically strangle China because China depends heavily on cheap overseas energy, especially from the GCC.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0027",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Speculative geopolitical diagnosis in the 2026-04-03 interview.",
+      "topic_tags": [
+        "china",
+        "energy",
+        "gcc",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts China and Trump will sign a landmark deal in which China buys substantial energy from North America.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Prediction tied to upcoming mid-May talks after the 2026-04-03 interview.",
+      "topic_tags": [
+        "china",
+        "trump",
+        "energy-deal",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says he was detained in northeastern China in 2002 while filming worker protests, signed a confession that he was working illegally as a reporter, and was deported without being charged with a crime.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0029",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Autobiographical account of a 2002 incident, retold on 2026-04-03.",
+      "topic_tags": [
+        "china",
+        "journalism",
+        "worker-protest",
+        "deportation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he stood by his 2017 CNN criticism of Chinese media control at the time, and still avoids a Chinese online media presence because statements online could be used against him.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Comparison between Jiang's 2017 op-ed stance and his 2026 speech practice.",
+      "topic_tags": [
+        "china",
+        "free-speech",
+        "cnn",
+        "self-censorship"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames himself as outside the Chinese system: he is on blocked YouTube, speaks English, and talks to Westerners rather than Chinese audiences.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0035",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0036",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Self-description of Jiang's media position in the 2026-04-03 interview.",
+      "topic_tags": [
+        "youtube",
+        "china",
+        "audience",
+        "media"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says most Chinese people can access VPNs and that he uses one to reach the Internet.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Statement about internet access in China made on 2026-04-03.",
+      "topic_tags": [
+        "vpn",
+        "great-firewall",
+        "china"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang denies that China controls what he says and grounds the denial in his Western-facing audience.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0039",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Direct answer in the 2026-04-03 interview.",
+      "topic_tags": [
+        "china",
+        "control",
+        "propaganda",
+        "audience"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says it is legitimate to worry that outside entities are amplifying him and says he does not think his recent internet growth is organic.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0041",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Self-diagnosis of virality during the three to four weeks before 2026-04-03.",
+      "topic_tags": [
+        "virality",
+        "propaganda",
+        "amplification",
+        "useful-idiot"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Predictive History as validating historical frameworks by making predictions and seeing whether those predictions work out.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0044",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Method definition in the 2026-04-03 interview.",
+      "topic_tags": [
+        "predictive-history",
+        "method",
+        "prediction",
+        "history"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his method combines game theory, historical patterning, and eschatology, with secret societies treated as part of eschatology.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Method account in the 2026-04-03 interview.",
+      "topic_tags": [
+        "game-theory",
+        "historical-patterning",
+        "eschatology",
+        "secret-societies"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his analytic style combines math/physics training with English literature after switching majors at Yale.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0046",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Autobiographical credential account in the 2026-04-03 interview.",
+      "topic_tags": [
+        "yale",
+        "english-literature",
+        "math",
+        "credentials"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defends the Professor Jiang moniker as an internet persona rather than a literal claim to be a professor.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0049",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0050",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0051",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Credential dispute in the 2026-04-03 interview.",
+      "topic_tags": [
+        "professor-jiang",
+        "credentials",
+        "persona"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes facts from truth: facts are independently verifiable, while truth is deep understanding of the world that explains why things are as they are and can generate predictions.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0053",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0054",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Epistemological definition in the 2026-04-03 interview.",
+      "topic_tags": [
+        "facts",
+        "truth",
+        "education",
+        "prediction"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues modern education has overcorrected toward factual memorization and away from truth-seeking, religion, prayer, and questions of human purpose.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Education diagnosis in the 2026-04-03 interview.",
+      "topic_tags": [
+        "education",
+        "religion",
+        "truth-seeking",
+        "memorization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hasan's critique is that Jiang's speculative claims about secret societies and Jewish power require factual evidence because their language can echo anti-Semitic or far-right tropes.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Interviewer challenge in the 2026-04-03 source.",
+      "topic_tags": [
+        "evidence",
+        "secret-societies",
+        "anti-semitism",
+        "pax-judaica"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang denies saying Jews were dominant and says his Dawn of the Jews lecture argued that Jewish identity was created by the Persian Empire to better control the Levant.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0059",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Defense of a prior lecture in the 2026-04-03 interview.",
+      "topic_tags": [
+        "jewish-identity",
+        "persian-empire",
+        "bible",
+        "levants"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he used the Bible as his primary source in Dawn of the Jews and analyzed what the Bible says.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Method defense of an earlier lecture, stated on 2026-04-03.",
+      "topic_tags": [
+        "bible",
+        "method",
+        "jewish-identity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hasan argues the phrase Pax Judaica comes from modern white-supremacist far-right circles rather than biblical scholarship.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Interviewer critique in the 2026-04-03 source.",
+      "topic_tags": [
+        "pax-judaica",
+        "far-right",
+        "anti-semitism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Pax Judaica as Israel's ability to dominate the Middle East analogously to Pax Americana and Pax Britannica.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0062",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0063",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Definition defended in the 2026-04-03 interview.",
+      "topic_tags": [
+        "pax-judaica",
+        "israel",
+        "middle-east",
+        "empire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hasan argues that Pax Judaica wrongly implies Jews collectively dominate the world and echoes racist world-rule tropes.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0065",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Interviewer critique in the 2026-04-03 source.",
+      "topic_tags": [
+        "pax-judaica",
+        "anti-semitism",
+        "language"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defends Pax Judaica as a Latin convention and says the phrase would not be Pax Israelica.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Terminological defense in the 2026-04-03 interview.",
+      "topic_tags": [
+        "pax-judaica",
+        "latin",
+        "terminology"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines the Greater Israel Project as an Israeli belief that Yahweh promised Abraham territory extending from the Nile to the Euphrates.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0068",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0069",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Definition in the 2026-04-03 interview.",
+      "topic_tags": [
+        "greater-israel",
+        "abraham",
+        "bible",
+        "territory"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Pax Judaica, unlike the Greater Israel Project, is not an empire run by Jews for Jews but an empire run by transnational capital and secret societies to build an AI surveillance state in the Middle East.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Speculative analysis stated in the 2026-04-03 interview.",
+      "topic_tags": [
+        "pax-judaica",
+        "transnational-capital",
+        "secret-societies",
+        "ai-surveillance"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang acknowledges the Pax Judaica account is speculative analysis based on historical patterns, connecting dots, and Netanyahu's statements rather than direct factual proof.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0071",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Method concession in the 2026-04-03 interview.",
+      "topic_tags": [
+        "speculative-analysis",
+        "netanyahu",
+        "evidence",
+        "method"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang locates his own politics in left commitments: wealth redistribution, free speech, antiwar politics, anti-empire, and individual autonomy.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0073",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Self-description in the 2026-04-03 interview.",
+      "topic_tags": [
+        "politics",
+        "left",
+        "anti-war",
+        "anti-empire"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says people would now likely consider him far right despite his left self-description.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Self-description in the 2026-04-03 interview.",
+      "topic_tags": [
+        "political-spectrum",
+        "far-right",
+        "left"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the United States will use ground troops in the Iran war, those troops will become a quagmire, and the United States will have to call up a national draft.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0075",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Big 2026 prediction given on 2026-04-03.",
+      "topic_tags": [
+        "iran-war",
+        "ground-troops",
+        "draft",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Israel and the United States will not use nuclear weapons in the war and calls nuclear talk fearmongering.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Big 2026 prediction given on 2026-04-03.",
+      "topic_tags": [
+        "nuclear-weapons",
+        "iran-war",
+        "israel",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that during the course of the war the Al-Aqsa Mosque will somehow be destroyed.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Most controversial 2026 war prediction given on 2026-04-03.",
+      "topic_tags": [
+        "al-aqsa",
+        "jerusalem",
+        "iran-war",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0005",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0006"
+      ],
+      "moment": "The interview's central discomfort arrives early: Hasan says critics may see Jiang as propaganda, and Jiang does not wave it away.",
+      "source_phrase": "It is possible I'm a useful idiot",
+      "why_it_matters": "The line makes the source less a friendly explainer than a test of Jiang's self-knowledge under hostile interview pressure.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0004",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0005"
+      ],
+      "moment": "Hasan hears Jiang's anti-facts education claim as self-indicting in an interview about prediction, evidence, and conspiracy.",
+      "source_phrase": "Too much on facts, do you hear yourself?",
+      "why_it_matters": "This tees up the later facts-versus-truth exchange that becomes the epistemic center of the interview.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "moment": "Jiang compresses state behavior into a contest of individuality, not morality or international law.",
+      "source_phrase": "a zero-sum game to maximize its individuality",
+      "why_it_matters": "This is the operating definition behind the interview's Iran analysis.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "moment": "Iran's weakness becomes leverage because it can threaten the flows the global economy depends on.",
+      "source_phrase": "holding the global economy hostage",
+      "why_it_matters": "It shows Jiang's recurring method: identify the asymmetric point where the weaker player can make the stronger player pay.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0018"
+      ],
+      "moment": "Jiang turns America's battlefield success into the beginning of its trap: the real question is what happens after the Marines land.",
+      "source_phrase": "what happens next?",
+      "why_it_matters": "It shifts the war forecast from first strike to occupation, maintenance, and imperial exhaustion.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0021"
+      ],
+      "moment": "The Nostradamus aura is punctured by Jiang himself: he says close news-reading made the predictions straightforward.",
+      "source_phrase": "pretty straightforward to make these three predictions",
+      "why_it_matters": "This reframes the episode's method debate as disciplined pattern reading rather than supernatural foresight.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0025"
+      ],
+      "moment": "Trump's personnel choices become an escape hatch in Jiang's war model.",
+      "source_phrase": "off-ramp strategy",
+      "why_it_matters": "It lets Jiang explain the failed Haley prediction without abandoning the broader war forecast.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0028"
+      ],
+      "moment": "China appears not as hidden puppet-master but as an energy-dependent actor vulnerable to a Middle East chokepoint.",
+      "source_phrase": "China imports 40 % of its energy needs from the GCC",
+      "why_it_matters": "This complicates Hasan's propaganda frame by making China a pressured player rather than only a beneficiary.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0036"
+      ],
+      "moment": "Jiang explains his China position with an alien metaphor: he is in one world but broadcasting to another.",
+      "source_phrase": "a Martian on Earth talking to Martians back at home in Mars",
+      "why_it_matters": "The image captures his claimed liminal status: physically in China, culturally and politically speaking to the West.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "moment": "Even while denying control, Jiang admits he avoids Chinese online speech because China can punish words.",
+      "source_phrase": "whatever I say online could be used against me",
+      "why_it_matters": "This is the tension Hasan keeps pressing: independence from direct control does not equal absence of constraint.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0042"
+      ],
+      "moment": "Jiang admits his own amplification may be suspicious before his critic can force the concession from him.",
+      "source_phrase": "I don't think this is organic",
+      "why_it_matters": "This is one of the interview's strongest self-implicating moments and should not be flattened into a generic media note.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0044",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "moment": "Yale rigor becomes inadequate because rational arguments do not explain who wins power.",
+      "source_phrase": "people with the most rational, logical arguments don't usually win",
+      "why_it_matters": "This explains why Jiang turns from respectable scholarship to speculative pattern-building.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "moment": "Predictive History is stated as a falsification test for historical models.",
+      "source_phrase": "make predictions based on our historical framework",
+      "why_it_matters": "It is Jiang's cleanest account of why prediction matters to his interpretive project.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "moment": "Jiang draws a hard line between checkable facts and truth as predictive world-understanding.",
+      "source_phrase": "there is a difference between facts and truth",
+      "why_it_matters": "This is the epistemic core of the interview and the place where Hasan's evidence critique bites hardest.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "moment": "Religion becomes, for Jiang, a lost technology of truth-seeking rather than merely belief.",
+      "source_phrase": "we used to be a people, a human species, that was very focused on truth seeking",
+      "why_it_matters": "It connects his education critique to the eschatology and secret-society method Hasan is challenging.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0058"
+      ],
+      "moment": "Jiang responds to a strong anti-Semitism accusation by asking for the precise offensive statement rather than immediately retreating.",
+      "source_phrase": "what specifically I've said that you find offensive",
+      "why_it_matters": "It preserves the interview's argumentative posture: Hasan presses moral language, Jiang demands textual specificity.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0060"
+      ],
+      "moment": "Jiang tries to shift the charge from ethnic trope to source-reading: he says the Bible itself is the evidence.",
+      "source_phrase": "I use the Bible as my primary source",
+      "why_it_matters": "This is his defense of controversial lecture language: historical-textual analysis rather than racial claim.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0065"
+      ],
+      "moment": "Hasan forces the key language problem: saying Judaica rather than Israelica shifts the referent from state to people.",
+      "source_phrase": "That implies all Jews",
+      "why_it_matters": "This is the sharpest pressure on Jiang's vocabulary and must shape any public account of the exchange.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "moment": "Jiang tries to escape the ethnic reading by redefining the empire as capital, secret societies, and surveillance technology.",
+      "source_phrase": "not an empire run by Jews for Jews",
+      "why_it_matters": "It is Jiang's clearest attempted distinction between his model and the anti-Semitic trope Hasan is identifying.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0074"
+      ],
+      "moment": "Jiang describes a political inversion: the positions he reads as left now get him classified as far right.",
+      "source_phrase": "I used to be left",
+      "why_it_matters": "It gives the interview's ideological conflict a self-description rather than leaving it only in Hasan's accusations.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0079"
+      ],
+      "moment": "The final prediction turns from military sequence to sacred catastrophe.",
+      "source_phrase": "the Al-Aqsa Mosque will be destroyed",
+      "why_it_matters": "It is the interview's closing dark charge and the public read should preserve its shock and uncertainty.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "China's Nostradamus",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Interviewer shorthand for Jiang's viral reputation after several Trump/Iran predictions appeared to hit.",
+      "confidence": "high"
+    },
+    {
+      "term": "useful idiot",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's own conceded risk that outside actors may amplify him for their purposes even if he is not controlled by them.",
+      "confidence": "high"
+    },
+    {
+      "term": "zero-sum game",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's base model for geopolitics: nation-states pursue optimal strategies against one another in a contest where one player's gain pressures another.",
+      "confidence": "high"
+    },
+    {
+      "term": "asymmetrical warfare",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Iran's method of exploiting economic chokepoints and regional infrastructure because it cannot defeat the United States directly.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation ladder",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "The staged sequence through which Jiang expects Trump to intensify the war, with ground forces as the next step.",
+      "confidence": "high"
+    },
+    {
+      "term": "knockout punch",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0018",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Jiang's phrase for Trump's hoped-for quick decisive strike, which Jiang argues ignores the long-term occupation problem.",
+      "confidence": "high"
+    },
+    {
+      "term": "off-ramp strategy",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Jiang's term for a path by which Trump could retreat from a bad war by elevating Vance and Gabbard over hawks.",
+      "confidence": "high"
+    },
+    {
+      "term": "GCC energy infrastructure",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0027",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "The Gulf energy system Jiang treats as a pressure point for China, Europe, and global trade.",
+      "confidence": "high"
+    },
+    {
+      "term": "Great Firewall",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0035",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "China's internet-control system, invoked by Hasan as a contradiction to Jiang's YouTube prominence.",
+      "confidence": "high"
+    },
+    {
+      "term": "First Amendment",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The American free-speech right Jiang says he praised in a 2017 CNN op-ed as America's great treasure.",
+      "confidence": "high"
+    },
+    {
+      "term": "speculative analysis",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Jiang's name for his new pedagogy/scholarship approach that uses imagination and pattern-building to understand power.",
+      "confidence": "high"
+    },
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0044",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "A method that tests historical frameworks by generating predictions and checking whether they work out.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "One component of Jiang's prediction method, where he places secret societies as part of end-times or destiny-oriented historical analysis.",
+      "confidence": "medium"
+    },
+    {
+      "term": "facts",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Independently verifiable items, contrasted by Jiang with deeper truth.",
+      "confidence": "high"
+    },
+    {
+      "term": "truth",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "A deep understanding of why things are the way they are, and a basis for prediction.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "A phrase Hasan challenges as far-right-coded and anti-Semitic in implication; Jiang's own definition comes in later packet refs.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dawn of the Jews",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0059",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "A prior Jiang lecture Hasan challenges as offensive; Jiang says it analyzed Jewish identity through the Bible and Persian imperial control.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Imperial peace/dominance analogy Jiang uses to explain what he means by Pax Judaica.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Britannica",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "British imperial analogy Jiang pairs with Pax Americana to defend his Pax Judaica terminology.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel Project",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0068",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "Jiang's name for an Israeli biblical-territorial project from the Nile to the Euphrates, which he distinguishes from Pax Judaica.",
+      "confidence": "medium"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "The outcome Jiang speculates Pax Judaica would create throughout the Middle East.",
+      "confidence": "medium"
+    },
+    {
+      "term": "connecting the dots",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Jiang's description of the inferential method behind this speculative analysis.",
+      "confidence": "high"
+    },
+    {
+      "term": "national draft",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's predicted consequence of U.S. ground troops becoming trapped in an Iran-war quagmire.",
+      "confidence": "high"
+    },
+    {
+      "term": "Al-Aqsa Mosque",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "The Jerusalem holy site Jiang predicts will be destroyed during the war, without specifying mechanism.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0001",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0003"
+      ],
+      "note": "The 2026 interview explicitly revisits Jiang's 2024 Trump/Iran/Haley prediction set and distinguishes hits from the Haley miss.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0014",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0015"
+      ],
+      "note": "On 2026-04-03 Jiang says that after a month of war he still stands by the Iran-loss prediction.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0021",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang says he was confident Trump would have started an Iran conflict if he had won in 2020, then extended the logic to Trump's 2024 chances and a 2025/2026 second term.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0029",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0030",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0032"
+      ],
+      "note": "The interview records Jiang's account of a 2002 China detention/deportation episode and his later return after officials concluded he was not a spy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "note": "The 2026 interview explicitly revisits Jiang's 2017 CNN op-ed after Trump's 2016 win and preserves the change in context from defending U.S. free speech to living cautiously in China.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0042"
+      ],
+      "note": "Jiang dates his sudden internet growth to the month before the 2026-04-03 interview and contrasts it with the small audience he expected two years earlier.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0075",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0076",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078"
+      ],
+      "note": "At the end of the 2026-04-03 interview Jiang gives his testable 2026 prediction set: U.S. ground troops and draft, no nuclear use, and destruction of Al-Aqsa.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0002"
+      ],
+      "note": "Transcript says Trump will 'sit in ground forces'; context later makes clear the intended phrase is send in ground forces."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0013"
+      ],
+      "note": "Transcript says 'state of Hormuz' and 'aero supremacy'; context indicates Strait of Hormuz and air supremacy."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0017",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0018"
+      ],
+      "note": "Transcript renders Strait of Hormuz, Kharg Island, and Qeshm Island phonetically/inconsistently; semantic summary uses likely referents from context."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0030"
+      ],
+      "note": "Transcript phrase 'held incumbent in NATO' is ASR noise; context supports that Jiang says he was held incommunicado or detained for 48 hours."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0044"
+      ],
+      "note": "Transcript says 'Predictative History'; this appears to refer to Jiang's Predictive History project."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "note": "The anti-Semitism challenge crosses a segment boundary; seg-0056 alone is incomplete."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0060"
+      ],
+      "note": "Jiang's claim about Persian creation of Jewish identity is recorded as his defended interpretation of his lecture, not independently validated by this packet."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0070"
+      ],
+      "note": "The account of Pax Judaica is explicitly speculative in the interview and should not be promoted as a factual source claim without that qualifier."
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0078"
+      ],
+      "note": "Jiang gives no mechanism for the Al-Aqsa prediction in this focus ref; preserve the uncertainty rather than filling it in."
+    }
+  ]
+}

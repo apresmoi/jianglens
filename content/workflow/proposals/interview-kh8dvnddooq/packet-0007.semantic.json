@@ -1,0 +1,172 @@
+{
+  "packet_id": "interview-kh8dvnddooq-semantics-pkt-0007",
+  "source_id": "video:interview-kh8dvnddooq",
+  "source_date": "2026-04-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0049",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0050",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0051",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "The Professor Jiang credential dispute continues: Hasan says Jiang does call himself professor though he is not one; Jiang compares it to a public persona like Charlamagne tha God, while Hasan says people may actually believe Jiang is a professor.",
+      "speaker_attribution": "Hasan and Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0053",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0054",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan challenges the idea that education focuses too much on facts; Jiang distinguishes independently verifiable facts from truth as a deeper world-understanding that explains why things are the way they are and supports prediction.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "Hasan argues facts are crucial when Jiang talks about Jesuits, Israel, Zionism, Pax Judaica, and the title Dawn of the Jews, then asks whether Jiang understands why many see anti-Semitic tropes.",
+      "speaker_attribution": "Hasan interviewer challenge; the question continues into seg-0057.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "note": "seg-0056 ends mid-question and should be interpreted with seg-0057 in the next packet; do not treat it as Jiang's claim.",
+      "suggested_speaker": "Hasan",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defends the Professor Jiang moniker as an internet persona rather than a literal claim to be a professor.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0049",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0050",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0051",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Credential dispute in the 2026-04-03 interview.",
+      "topic_tags": [
+        "professor-jiang",
+        "credentials",
+        "persona"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes facts from truth: facts are independently verifiable, while truth is deep understanding of the world that explains why things are as they are and can generate predictions.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0053",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0054",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Epistemological definition in the 2026-04-03 interview.",
+      "topic_tags": [
+        "facts",
+        "truth",
+        "education",
+        "prediction"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues modern education has overcorrected toward factual memorization and away from truth-seeking, religion, prayer, and questions of human purpose.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Education diagnosis in the 2026-04-03 interview.",
+      "topic_tags": [
+        "education",
+        "religion",
+        "truth-seeking",
+        "memorization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hasan's critique is that Jiang's speculative claims about secret societies and Jewish power require factual evidence because their language can echo anti-Semitic or far-right tropes.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Interviewer challenge in the 2026-04-03 source.",
+      "topic_tags": [
+        "evidence",
+        "secret-societies",
+        "anti-semitism",
+        "pax-judaica"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "moment": "Jiang draws a hard line between checkable facts and truth as predictive world-understanding.",
+      "source_phrase": "there is a difference between facts and truth",
+      "why_it_matters": "This is the epistemic core of the interview and the place where Hasan's evidence critique bites hardest.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "moment": "Religion becomes, for Jiang, a lost technology of truth-seeking rather than merely belief.",
+      "source_phrase": "we used to be a people, a human species, that was very focused on truth seeking",
+      "why_it_matters": "It connects his education critique to the eschatology and secret-society method Hasan is challenging.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "facts",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "Independently verifiable items, contrasted by Jiang with deeper truth.",
+      "confidence": "high"
+    },
+    {
+      "term": "truth",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "A deep understanding of why things are the way they are, and a basis for prediction.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "A phrase Hasan challenges as far-right-coded and anti-Semitic in implication; Jiang's own definition comes in later packet refs.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0056"
+      ],
+      "note": "The anti-Semitism challenge crosses a segment boundary; seg-0056 alone is incomplete."
+    }
+  ]
+}
