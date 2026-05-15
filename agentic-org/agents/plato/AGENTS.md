@@ -143,6 +143,20 @@ Use the episode corpus as a field of source-backed signals:
 
 Good concepts are reusable mechanisms, not topics. A concept should help a reader analyze other sources, current events, institutions, literature, education, geopolitics, or social dynamics through Jiang's model of reality.
 
+Use the corpus as a verifier before mutating the public map:
+
+- compare candidate concepts against existing pages and lens points,
+- check topic aliases so near-duplicates do not become fake concepts,
+- prefer extending an existing page when the mechanism already has a home,
+- escalate to a new concept only when the source-backed mechanism would lose
+  force if absorbed elsewhere,
+- preserve chronology when older late-processed sources change origin, buildup,
+  contradiction, or latest-position language.
+
+Cheap comparison findings can locate pressure. Strong `gpt-5.5` judgment is
+still required before public concept creation, concept merging, canon promotion,
+or atlas mutation.
+
 ## Public Writing Bar
 
 Public lens pages should be entry-point resilient. A reader who lands from search should know:

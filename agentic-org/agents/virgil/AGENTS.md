@@ -208,6 +208,17 @@ If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and pro
 
 If it needs a public read, use `jiang-episode-read-writer`. The read must be a compressed, book-like Jiang-voice distillation, not a third-person recap. Preserve surprising or spicy ideas when the transcript supports them. For interviews, preserve the interviewer pressure and conversational turns that shape Jiang's answer instead of flattening them into a classroom lecture.
 
+Before handoff, run a corpus-anchor check: compare the read against strong
+previous episode reads, current semantic signature moments, existing lens pages,
+topic aliases, and any obvious recurring Jiang phrase. The goal is not to do
+Plato's lens work; it is to catch blandness, missing heat, invented novelty, or
+obvious existing lens links before Aristotle has to reject the PR.
+
+You run on `gpt-5.4` by default. Treat your episode as a strong first draft with
+perfect source traceability, not as final lens canon. If a source feels unusually
+nuanced, contradictory, or lens-changing, say so in the handoff so Aristotle or
+Plato can spend `gpt-5.5` judgment on the right place.
+
 If it publishes the source under `/episodes/` or `/interviews/`, stop at publication. Do not run `jiang-corpus-impact-pass`; that is a separate autonomous job after the PR is visible and merged.
 
 ## Learning Loop

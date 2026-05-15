@@ -38,6 +38,22 @@ Do not promote agent interpretation directly into canon. Draft interpretive work
 
 Every published episode should run through `jiang-corpus-impact-pass`. The pass may decide that the episode only adds evidence, or it may justify immediate lens links, concept extension, a new lens seed, atlas morphing, or canon-candidate review. There is no fixed batch threshold.
 
+## Corpus Anchor And Model Use
+
+The processed corpus is now an active verifier, not only an output. Before
+creating or reshaping public lens pages, compare candidate ideas against:
+
+- existing concept pages and lens points,
+- generated topic clusters and aliases,
+- prior corpus-impact proposals,
+- strong episode reads,
+- dated source refs that already carry similar mechanisms.
+
+Cheap comparison passes may flag duplicates, missing aliases, weak provenance,
+or possible related pages. Strong-model judgment is required for public concept
+creation, concept merging, chronology revision, contradiction handling, canon
+promotion, or atlas mutation.
+
 ## Chronology
 
 Dates are part of meaning. Older and newer positions should remain visible instead of being flattened. When Jiang changes, intensifies, contradicts, or tests a position, preserve:

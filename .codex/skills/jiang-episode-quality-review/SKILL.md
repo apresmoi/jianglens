@@ -34,7 +34,10 @@ merge, and if not, it gives concrete revision instructions.
    the source's actual pressure.
 4. Inspect semantic artifacts for signature moments, real questions, chronology,
    and notable speaker/interviewer pressure.
-5. Run validation when the PR looks close to pass:
+5. Compare the draft against the corpus anchor: curated strong episode reads,
+   existing lens pages, topic aliases, and prior signature moments. This catches
+   reads that are technically valid but weaker than the project's known bar.
+6. Run validation when the PR looks close to pass:
 
 ```bash
 node ops/scripts/compile-content.mjs
@@ -68,6 +71,8 @@ Fail when:
 
 - The page reads like "Jiang discusses..." instead of carrying Jiang's voice.
 - The transcript contains sharper or stranger material that the read omits.
+- A cheaper first-pass draft missed source pressure that the existing corpus
+  makes recognizable.
 - Questions are invented, topic headings, Jiang prompts, or unanswered fragments.
 - Claims are unsupported, dates are wrong, or source class/route is wrong.
 - Public text exposes internal workflow labels such as models, diagnoses,
@@ -97,6 +102,12 @@ Fix:
 
 Do not write vague feedback. Every revision request should point to a concrete
 place in the read, transcript range, question list, marks, or source note.
+
+## Escalation
+
+Use strong judgment here. Aristotle is the guardrail that lets Virgil draft on a
+cheaper model: reject shallow or over-smoothed work, and ask Virgil to repair it
+instead of passing a page only because validators are clean.
 
 ## Merge Gate
 

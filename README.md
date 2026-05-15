@@ -42,13 +42,19 @@ The intent is not to hide the machinery. The repo should stay legible enough tha
 
 The current durable agents are:
 
-- `virgil` / Virgil: processes already-transcribed videos into public, source-linked episode or interview pages.
-- `aristotle` / Aristotle: reviews Virgil's source PRs against transcripts before merge.
+- `virgil` / Virgil: processes already-transcribed videos into public, source-linked episode or interview drafts.
+- `aristotle` / Aristotle: reviews Virgil's source PRs against transcripts and the existing corpus before merge.
 - `plato` / Plato: turns the processed corpus into source-grounded public lens concepts, atlas structure, lens points, and provenance links.
 - `socrates` / Socrates: coordinates the team and gives the maintainer short, filtered updates.
 - `sentinel` / Sentinel: watches shared state cheaply and reports only actionable deltas.
 
 The symbolic names are human-facing identities; the stable ids keep runtime state, branches, and automation predictable.
+
+The corpus is also used as a verifier. Cheaper passes can compare new work to
+strong existing episode reads, lens pages, topic aliases, source refs, and Jiang
+signature phrases. Stronger agents then spend their attention where the
+comparison finds missing nuance, contradiction, or a real pressure to mutate the
+public lens.
 
 ## The Human Part
 

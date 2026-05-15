@@ -127,7 +127,9 @@ When importing synced source artifacts, resolving YouTube dates, creating canoni
 
 When processing transcript packets into interactions, claims, signature moments, glossary candidates, or chronology notes, read `.codex/skills/jiang-agent-transcript-pass/SKILL.md` first. Treat diarization as a hint and return schema-shaped JSON with exact refs. Signature moments preserve Jiang-specific metaphors, reversals, images, and provocative causal chains that should survive public episode compression.
 
-Use `gpt-5.5` with `reasoning_effort: xhigh` for normal video parsing agents. Smaller or lower-reasoning models are only for explicit maintainer-requested experiments, benchmarks, or bounded mechanical review.
+The default production split is: `gpt-5.4` for first-pass episode/transcript work, `gpt-5.5` for detailed source QA and lens synthesis, and `gpt-5.4-mini` only for coordination or cheap comparison when Spark quota is exhausted. Scheduled wakes should use low reasoning when supported; escalate deliberately only for difficult ambiguity, contradiction, or concept-boundary decisions.
+
+The processed corpus is a calibration anchor. Before spending strong-model budget, compare new episode drafts, topics, and lens candidates against curated good reads, existing lens pages, topic aliases, and prior Jiang signature phrases. Escalate to `gpt-5.5` when the comparison flags novelty, lost nuance, contradiction, or possible atlas mutation.
 
 ## Transcript Boundary Review
 
@@ -137,10 +139,10 @@ When reviewing candidate moves between adjacent transcript segments, read `.code
 
 When asked to process a video end to end, read `.codex/skills/jiang-video-e2e/SKILL.md` first. The orchestrator is `ops/scripts/process-video-e2e.mjs`; agents fill missing semantic packet outputs, write the public episode read, and publish generated episode data through the narrower process skills.
 
-When delegating semantic packet processing, signature-moment extraction, or episode-read drafting/revision during Video E2E, spawn agents with `model: gpt-5.5` and `reasoning_effort: xhigh`.
+When delegating semantic packet processing, signature-moment extraction, or episode-read drafting/revision during Video E2E, default to `model: gpt-5.4` for the first draft and send the result to a `gpt-5.5` QA/judge pass when source pressure, novelty, or public quality risk is high.
 
 ## Lens Distillation
 
 When asked to use processed episodes to build the Jiang Lens, update concept documentation, draft glossary/canon material, or compare Jiang positions across multiple sources, read `.codex/skills/jiang-lens-distillation/SKILL.md` first, then use the narrow process skill it points to. This is separate from video E2E: publishing a readable episode is one job; corpus impact and cross-episode lens synthesis are follow-on jobs.
 
-Before handing off substantial lens documentation or canon/glossary drafts, run the judge gate in `.codex/skills/jiang-lens-judge/SKILL.md`. Prefer two read-only xhigh judge agents when the user has authorized agent review: one reader/world-model judge and one grounding/provenance judge. If judges are not run independently, say so explicitly.
+Before handing off substantial lens documentation or canon/glossary drafts, run the judge gate in `.codex/skills/jiang-lens-judge/SKILL.md`. Prefer two read-only `gpt-5.5` judge agents when the user has authorized agent review: one reader/world-model judge and one grounding/provenance judge. If judges are not run independently, say so explicitly.

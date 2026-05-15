@@ -12,11 +12,17 @@ On an autonomous wake:
 8. Create a source-scoped branch.
 9. Update `current.json` at stage boundaries with source, branch, stage, and next checkpoint.
 10. Run the source E2E process until the next concrete blocker is resolved.
-11. Validate.
-12. Push a PR against `main`; do not enable auto-merge.
-13. Handoff in `episode-floor`, mentioning `@aristotle` and `@socrates`, with PR URL, validation, changed files, memory/proposal updates, and whether QA is requested or a blocker remains.
+11. Run the corpus-anchor check against strong existing reads, semantic
+    signature moments, existing lens pages, and topic aliases.
+12. Validate.
+13. Push a PR against `main`; do not enable auto-merge.
+14. Handoff in `episode-floor`, mentioning `@aristotle` and `@socrates`, with PR URL, validation, changed files, memory/proposal updates, whether QA is requested or a blocker remains, and any unusual source pressure that may need `gpt-5.5` attention.
 
 Do not keep expanding scope after one source is complete. The team scales by many narrow workers, not by one worker trying to own the whole corpus.
+
+Default model posture: first-pass episode work uses `gpt-5.4`. Preserve exact
+source traceability and flag nuance; Aristotle and Plato spend stronger model
+judgment where it matters.
 
 Restart rule: never assume a fresh wake means fresh processing. Check runtime
 state, room history, existing artifacts, and merged PR state first; when files
