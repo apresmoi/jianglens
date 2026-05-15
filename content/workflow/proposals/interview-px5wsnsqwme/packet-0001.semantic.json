@@ -1,0 +1,170 @@
+{
+  "packet_id": "interview-px5wsnsqwme-semantics-pkt-0001",
+  "source_id": "video:interview-px5wsnsqwme",
+  "source_date": "2026-03-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0001",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0002"
+      ],
+      "kind": "exchange",
+      "summary": "Danny introduces Jiang and Jiang gives a brief greeting.",
+      "speaker_attribution": "Danny Haiphong as interviewer; Jiang as guest.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "Danny asks whether Jiang's earlier prediction that the U.S. empire would lose a war with Iran is now being confirmed, and asks how the war will develop after Trump's claim that Iran is near surrender.",
+      "speaker_attribution": "Danny Haiphong",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0004",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0005",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0006",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0007",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by contrasting American-Israeli regime-change strategy with Iran's strategy of pressuring the global economy, Gulf infrastructure, and the Strait of Hormuz; he argues Iran has military and political advantages.",
+      "speaker_attribution": "Jiang Xueqin",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0001",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0003"
+      ],
+      "note": "SPEAKER_01 is the interviewer Danny Haiphong.",
+      "suggested_speaker": "Danny Haiphong",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0002",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0004"
+      ],
+      "note": "SPEAKER_00 is Jiang Xueqin.",
+      "suggested_speaker": "Jiang Xueqin",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the war as two sides living in different political realities: the U.S. and Israel expect decapitation, sanctions, bombardment, and dissident networks to trigger regime collapse, while Iran is targeting the economic structure that supports American power.",
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0004",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Assessment of the Iran war as of 2026-03-13.",
+      "topic_tags": [
+        "Iran war",
+        "regime change",
+        "American empire",
+        "global economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran's military advantage, in Jiang's model, is calibration: instead of American shock-and-awe destruction, Iran can probe Gulf pressure points, degrade air defenses, threaten infrastructure, and split GCC monarchies from the U.S. alliance.",
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0006",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Assessment of the Iran war as of 2026-03-13.",
+      "topic_tags": [
+        "calibration",
+        "GCC",
+        "Strait of Hormuz",
+        "military strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Iran has more advantages than the United States because it can credibly threaten Gulf desalination, oil infrastructure, food routes, and political stability while the U.S. public is divided and unclear about the war's purpose.",
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0007",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Assessment of the Iran war as of 2026-03-13.",
+      "topic_tags": [
+        "GCC infrastructure",
+        "U.S. public opinion",
+        "war politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0004"
+      ],
+      "moment": "The two belligerents do not merely have different plans; they inhabit different political realities.",
+      "source_phrase": "different strategies and therefore they live in different political realities",
+      "why_it_matters": "This sets the episode's core model: strategy is not just action but perception of what counts as leverage.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang contrasts American shock and awe with Iranian pressure-point warfare.",
+      "source_phrase": "the Iranians are able to calibrate their attacks",
+      "why_it_matters": "It preserves the distinction between theatrical destruction and systemic leverage.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "calibrated attacks",
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's term for strikes that identify and press economic, infrastructural, and alliance weak points rather than maximizing visible destruction.",
+      "confidence": "high"
+    },
+    {
+      "term": "GCC as pressure point",
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0007",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The Gulf monarchies are treated as vulnerable nodes whose water, oil, food imports, and sea routes make them leverage points against American empire.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0003",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0008"
+      ],
+      "note": "Danny explicitly situates this conversation after more than thirteen days of war and asks Jiang to assess whether his prior prediction is being confirmed; all claims should be treated as a dated 2026-03-13 wartime assessment.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0004",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0005",
+        "video:interview-px5wsnsqwme@transcript:v1#seg-0006"
+      ],
+      "note": "Several named entities appear ASR-corrupted, including the Ayatollah's name, Bahrain, and Shahed drones; preserve the strategic claims without treating the transcript spellings as authoritative."
+    }
+  ]
+}
