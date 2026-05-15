@@ -1,0 +1,180 @@
+{
+  "packet_id": "interview-875hvfdrxzy-semantics-pkt-0004",
+  "source_id": "video:interview-875hvfdrxzy",
+  "source_date": "2014-07-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang lays out the three objectives of China education: broad literacy/numeracy for the socialist economy, political orthodoxy across a vast diverse country, and fair allocation of scarce education through Gaokao merit.",
+      "speaker_attribution": "Jiang answer continuing from prior packet.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0028",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0029",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0031",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts press why reform is hard; Jiang says elites and the state want reform, parents fear being cheated, and the system produces accountants and programmers when the economy needs managers, designers, and entrepreneurs.",
+      "speaker_attribution": "Kaiser and David questions; Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030"
+      ],
+      "note": "Transcript phrase “major racism” likely ASR for “major resistance”; semantic interpretation follows the surrounding parent-resistance argument.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "China education has three major goals: mass literacy/numeracy, nationwide political orthodoxy, and merit-oriented distribution of scarce education resources.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "System model stated in the 2014-07-14 Sinica episode.",
+      "topic_tags": [
+        "chinese-education",
+        "political-orthodoxy",
+        "gaokao",
+        "literacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "High-stakes testing equips many people with basic skills but limits creativity, empathy, judgment, and collaboration.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Tradeoff diagnosis in the 2014-07-14 Sinica episode.",
+      "topic_tags": [
+        "high-stakes-testing",
+        "creativity",
+        "empathy",
+        "judgment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Chinese education reform is supported by universities and political-economic elites because the economy needs managers, designers, and entrepreneurs rather than only accountants and programmers.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Reform diagnosis in the 2014-07-14 Sinica episode.",
+      "topic_tags": [
+        "education-reform",
+        "economy",
+        "entrepreneurship",
+        "critical-thinking"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Parents resist reform because they read elite reforms as an attempt to remove the only fair ladder their children have.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0029",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Parent-resistance diagnosis in the 2014-07-14 Sinica episode.",
+      "topic_tags": [
+        "parents",
+        "gaokao",
+        "social-mobility",
+        "elite-trust"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies monolithic top-down socialist bureaucracy as the first major structural problem in Chinese education.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Problem list begun in the 2014-07-14 Sinica episode.",
+      "topic_tags": [
+        "bureaucracy",
+        "education-system",
+        "top-down"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "moment": "The same machine that teaches the whole country to read also amputates the higher-order skills China now needs.",
+      "source_phrase": "limits students in higher-order thinking skills",
+      "why_it_matters": "It gives the episode its central tradeoff: meritocratic scale versus creative adulthood.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0032"
+      ],
+      "moment": "Parents hear reform as the elite trying to screw them.",
+      "source_phrase": "the elite is trying to screw them",
+      "why_it_matters": "This explains why good reform language fails politically: distrust protects the test.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "political orthodoxy",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "The shared historical and political worldview Jiang says the school system indoctrinates across China.",
+      "confidence": "high"
+    },
+    {
+      "term": "higher-order thinking skills",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Creativity, empathy, judgment, and collaboration, which Jiang says high-stakes testing suppresses.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang links Chinese university-led reform advocacy to the era of Cai Yuanpei and May Fourth, then to present university concerns.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0025"
+      ],
+      "note": "Transcript says “first major objective” twice; Jiang appears to be enumerating three goals, but ASR/order is slightly damaged."
+    }
+  ]
+}

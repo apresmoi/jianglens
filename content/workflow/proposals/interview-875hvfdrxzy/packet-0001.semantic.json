@@ -1,0 +1,125 @@
+{
+  "packet_id": "interview-875hvfdrxzy-semantics-pkt-0001",
+  "source_id": "video:interview-875hvfdrxzy",
+  "source_date": "2014-07-14",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0001",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0002",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0003",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts open Sinica from Beijing, introduce Kaiser Guo and David Moser, joke about Yao Ming and educational exchange, and set the conversational frame before Jiang enters.",
+      "speaker_attribution": "Kaiser Guo and David Moser; Jiang not yet substantively speaking.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0007",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Kaiser frames China education through the PISA paradox: Shanghai excels while China is criticized for test teaching, rigidity, hierarchy, and cheating. Jiang answers the first substantive question by explaining why only Shanghai results were publicly released.",
+      "speaker_attribution": "Kaiser interviewer asks; Jiang answers from seg-0008.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "note": "Diarization mixes host banter and Jiang in seg-0006; the first clear Jiang answer is seg-0008.",
+      "suggested_speaker": "Kaiser Guo through most of seg-0006; Jiang in brief welcome response and seg-0008 answer",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says 12 Chinese provinces participated when PISA entered China in 2009, but only Shanghai results were publicly released in 2010 because OECD was confident in Shanghai methodology.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Retrospective explanation given in the 2014-07-14 Sinica episode about 2009-2010 PISA handling.",
+      "topic_tags": [
+        "pisa",
+        "shanghai",
+        "oecd",
+        "education-data"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts frame Chinese education as a tension between high test performance and criticism of rote pedagogy, Gaokao teaching, rigidity, hierarchy, and cheating.",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interview framing in the 2014-07-14 Sinica episode.",
+      "topic_tags": [
+        "chinese-education",
+        "pisa",
+        "gaokao",
+        "rote-learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006"
+      ],
+      "moment": "The interview opens by making China education a contradiction: Shanghai kicks serious ass on PISA while the same system is accused of manufacturing soulless automatons.",
+      "source_phrase": "soulless automatons",
+      "why_it_matters": "This contradiction drives the whole episode: China is good at what tests can see and bad at what creativity needs.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "PISA",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005",
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Program for International Student Assessment, used here as the international test where Shanghai ranked first and became the trigger for the China education debate.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gaokao",
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "China college entrance exam, introduced by the host as the center of teaching-to-the-test criticism.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang dates China PISA participation to 2009 and public Shanghai-only release to 2010.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-875hvfdrxzy@transcript:v1#seg-0006"
+      ],
+      "note": "Segment contains multiple speakers in one diarized span; treat host question and Jiang welcome response cautiously."
+    }
+  ]
+}
