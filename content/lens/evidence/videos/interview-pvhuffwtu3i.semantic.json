@@ -1,0 +1,2109 @@
+{
+  "id": "evidence:semanticvideo-interview-pvhuffwtu3i:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-pvhuffwtu3i",
+  "source_id": "video:interview-pvhuffwtu3i",
+  "source_title": "He Predicted The War in Iran Now Prof. Jiang Predicts This Will Become Trump’s Vietnam | Redacted",
+  "source_url": "https://www.youtube.com/watch?v=PvHUFfwtU3I",
+  "source_date": "2026-03-24",
+  "date_precision": "day",
+  "transcript_id": "video:interview-pvhuffwtu3i@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-pvhuffwtu3i/packet-0012.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-pvhuffwtu3i/source.yaml",
+    "transcript_path": "content/sources/videos/interview-pvhuffwtu3i/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 12,
+    "interactions": 51,
+    "speaker_notes": 11,
+    "claims": 55,
+    "signature_moments": 24,
+    "predictions": 9,
+    "models": 7,
+    "glossary_terms": 25,
+    "chronology_notes": 12,
+    "uncertainty_notes": 12
+  },
+  "first_refs": [
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0003",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0007",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0009",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0012",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0013",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0016",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0017",
+    "video:interview-pvhuffwtu3i@transcript:v1#seg-0018"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0001",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "Clayton introduces the Iran war as spiraling after strikes, troop deployments, Hormuz claims, and Jiang's own Substack warning that U.S. boots on the ground now seem likely, then asks where the situation stands.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0004"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump's daily narratives do not alter the underlying escalation ladder: Israel, Iran, the United States, and Gulf states all have incentives or declared positions that keep pushing the war upward.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0005",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "Natalie asks how Jiang understands his sudden internet celebrity, the practical effect of his predictions on ordinary families, and the public's fear-driven response to his model.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains predictive history as a two-year game-theory thought experiment that unexpectedly gained attention after three predictions appeared to pan out; he distinguishes that surprise from what he sees as a coordinated campaign against his teaching style and Israel critique.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0009",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0010"
+      ],
+      "kind": "answer",
+      "summary": "Jiang separates coordinated attacks from organic anger and says both are partly reactions to fear, confusion, and resentment over how quickly his channel grew.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "Clayton directly asks whether Jiang is part of the deep state or serving a Chinese Communist Party agenda because he criticizes Israel while staying quiet about China.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0012",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0013"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the criticism that he is quiet about China is correct, but explains it as a practical consequence of living and working there with a family and a school that could be punished, not as a desire to become Chinese propaganda.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0014",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The hosts move back from Jiang's critics to the war, stressing that many people are dying and that Jiang's tone sounds like grim responsibility rather than satisfaction.",
+      "speaker_attribution": "Clayton Morris and Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the apparent success of his prediction made him angry and sleepless, but also deepened his belief that predictive models can restore agency to people trying to build a better world for their children.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0017",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0018",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0020"
+      ],
+      "kind": "answer",
+      "summary": "Jiang lays out the three-strand method behind predictive history: game theory for player incentives, historical patterning for analogies, and eschatology for actors who think they are serving God.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0021"
+      ],
+      "kind": "question",
+      "summary": "Clayton asks Jiang to explain Iran's escalation control and how it changes the United States and Israel's effort to escalate the war.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0022",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0023",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines escalation ladder and argues that Iran, despite lacking nuclear weapons, is acting like the calmer fighter: calibrated strikes, diplomacy, public opinion, and selective pressure let it control escalation better than the blunt American-Israeli shock-and-awe approach.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0025"
+      ],
+      "kind": "question",
+      "summary": "Natalie asks why there seem to be no consequences when the United States and Israel escalate by striking civilians and civilian infrastructure.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0026",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0027",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the consequence is morale: an unjustified war erodes soldiers' and public will, which matters because any attempt to win will require ground troops and could trigger domestic revolt.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "Clayton asks about Jiang's inverted-pyramid criticism of American air-power dependence and the apparent inevitability of ground forces for regime change.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0030",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0031",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says a serious Iran invasion would require years of preparation and millions of troops, but the American military-industrial complex instead built expensive air, carrier, and missile-defense systems unsuited to an asymmetric opponent willing to fight back.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0033"
+      ],
+      "kind": "answer",
+      "summary": "Jiang concludes the previous military-industrial critique by saying Iranian hits on supposedly advanced systems show U.S. corruption and unreadiness.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0034",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0035",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0036"
+      ],
+      "kind": "exchange",
+      "summary": "The show moves through a break and sponsor segment, then Natalie restates Jiang's earlier predictions and asks why he anticipated a war with Iran and U.S. defeat.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0037",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0038",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0039",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang grounds his prediction in Millennium Challenge and Operation Prosperity Guardian: the Pentagon learned that asymmetric swarms and opponents who cannot be scared break its model, but bureaucracy filters out bad news and repeats shock-and-awe until credibility traps it in another Vietnam.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0041"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the Vietnam comparison into a sunk-cost image: the Pentagon will double down rather than admit imperial failure.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0042",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0043"
+      ],
+      "kind": "question",
+      "summary": "Natalie asks how morale matters when American antiwar feeling seems powerless but Palestinians, Iranians, and aligned populations experience the stakes as existential.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0044",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0045",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0046"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Iranian morale is high because Persians understand themselves through an ancient Zoroastrian truth-and-righteousness tradition: they refuse preemption, refuse aggression, and gain an inner fire from believing they fight for the good.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0047",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "Clayton invokes David Icke's view that the Iran war is part of a decades-long occult plan for AI control, money loss, rights loss, and Patriot-Act-like expansion of state power, then asks whether Jiang sees the same larger game.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0049",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0050"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees with Icke on the direction of the future toward digital currency, AI surveillance, economic collapse, reset, and Greater Israel, but rejects a fully scripted view because game theory must preserve the agency of players like Trump and Putin.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0051"
+      ],
+      "kind": "question",
+      "summary": "Clayton accepts the broader plan plus individual agency distinction and asks whether the war is leading to a massive energy lockdown beyond COVID-style restrictions.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0052"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the elite priority is less an energy lockdown than destruction of excess wealth through civil war or a false flag on financial data centers that could also be blamed on Iran to support a draft.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0053"
+      ],
+      "kind": "exchange",
+      "summary": "Clayton restates Jiang's answer as financial lockdown: terrifying because stores of value could be wiped out.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0054"
+      ],
+      "kind": "question",
+      "summary": "Natalie asks about the Epstein class as an ongoing mechanism of blackmail, satanic abuse, and war promotion.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0055",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says people focus too much on lurid Pizzagate details and miss Epstein's alleged operational function as a geopolitical, financial, arms-trafficking, and money-laundering agent of a transnational elite.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0057",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the Epstein answer by defining a transnational elite above the nation-state as an alliance of capital, secret societies, and elite families, with Epstein as a parasite-like representative of transnational capital.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0059",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0060"
+      ],
+      "kind": "question",
+      "summary": "Clayton cites Joe Kent's resignation and claim that intelligence agencies said Iran lacked nuclear ambitions, then asks whether de-escalation requires restraining Israel because Israeli attacks keep undermining U.S. de-escalation rhetoric.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0061",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0062",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0063"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees that Israel has incentive to drag out the war and pull in Saudi Arabia, the UAE, Turkey, and Pakistan, but adds that Iran also has long-term aims: Hormuz control, expelling U.S. forces from the GCC, and winning enough credibility to force respect and a later peace.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0064"
+      ],
+      "kind": "question",
+      "summary": "Natalie asks whether Israel would ever submit to the greater good of other countries.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0065",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0066"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers Natalie by saying the Greater Israel Project does not need Persia; in his game theory, Israel's deeper competitor is the United States, whose Middle East military presence this war can destroy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0067"
+      ],
+      "kind": "question",
+      "summary": "Natalie compares Israel's leadership to a Littlefinger figure leading allies into self-destruction and asks whether Jiang's model leaves any scenario where the bad guys are punished and stopped.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0068"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says there is agency: Trump could strike a deal with Iran and the GCC and restrain Israel through U.S. law, security appointments, weapons sales, and military financing rather than attacking a nuclear Israel.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0069",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0070",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0071"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts agree and vent frustration that Americans without free health care and unpaid federal workers are financing Israel's war and space program while bombing Iran.",
+      "speaker_attribution": "Redacted hosts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Clayton transitions to a break and previews questions about Jiang's next prediction and a possible Trump third term under war powers, then reads sponsor copy.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0073",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "After sponsor copy, Clayton returns and asks Jiang for predictions over the next month or year of the Iran war and possibly a Trump third term.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts the war is moving toward another Vietnam: limited Marine deployments will trigger mission creep, pressure for a national draft, riots, National Guard deployment, emergency powers, and a path to bypass elections or secure a third Trump term.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0077",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0078"
+      ],
+      "kind": "question",
+      "summary": "The hosts press the democratic-rule breakdown: Clayton compares it to Zelensky staying without an election, while Natalie says every rule of war and congressional authorization is being steamrolled.",
+      "speaker_attribution": "Redacted hosts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0080"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Iran war is more worrying than 2003 because the Bush administration at least spent months manufacturing public, congressional, and UN support, whereas Trump began without providing a clear reason and officials offer contradictory justifications.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0081"
+      ],
+      "kind": "exchange",
+      "summary": "A brief non-substantive reaction follows Jiang's comparison of the current war to 2003.",
+      "speaker_attribution": "unknown",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0082",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0083"
+      ],
+      "kind": "question",
+      "summary": "The hosts ask whether there is any coherent endgame behind a war even mainstream outlets frame as planless, while Natalie notes that at least the no-plan narrative has emerged immediately rather than years later.",
+      "speaker_attribution": "Clayton Morris and Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0085"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that there is a plan: balkanize Iran, destroy water and power infrastructure, and reproduce the Iraq/Libya/Syria model of civilizational destruction and state collapse while hiding the plan because the world would find it disgusting.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0086"
+      ],
+      "kind": "question",
+      "summary": "Clayton asks how Jiang sees media propaganda unfolding as outlets repeat Ukraine-war claims about a foe running out of missiles and being near collapse.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0087",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0088"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Iran-war media propaganda will resemble Ukraine-war propaganda because Washington's insular bubble expels dissent, controls narratives, encourages bad decisions, and feeds Trump claims that Iran is close to collapse even as the war is unwinnable.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0089"
+      ],
+      "kind": "unclear",
+      "summary": "Near-empty residue from Jiang's preceding answer.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0090"
+      ],
+      "kind": "exchange",
+      "summary": "Clayton begins to close the interview and thanks Jiang for joining despite the time zones.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0092"
+      ],
+      "kind": "answer",
+      "summary": "Jiang interrupts the close to credit Tucker Carlson with preventing war in January 2020 after the Soleimani assassination by using his Fox platform and personal access to Trump to argue that war with Iran would be disastrous.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0093",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0094",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0095"
+      ],
+      "kind": "exchange",
+      "summary": "Clayton agrees that Carlson spoke against neocons and the Ukraine war at personal risk, thanks Jiang, promotes Jiang's channels, and the interview closes with mutual willingness to return.",
+      "speaker_attribution": "Redacted host Clayton Morris and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript includes Jiang's brief greeting inside the host segment; the substantive question remains Clayton's.",
+      "suggested_speaker": "mixed host/Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0004",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0006"
+      ],
+      "note": "These are near-empty boundary residue segments and carry no independent semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0014",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0015"
+      ],
+      "note": "Two host turns split the transition: Clayton thanks Natalie and redirects to the war; Natalie frames Jiang's predictions as reluctant truth-telling by a parent.",
+      "suggested_speaker": "hosts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0034",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0035"
+      ],
+      "note": "These host segments are mostly break and sponsor copy, not Jiang argument, but they remain focus refs for interaction coverage.",
+      "suggested_speaker": "host/ad copy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0046"
+      ],
+      "note": "Near-empty boundary residue from Jiang's preceding answer.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0072"
+      ],
+      "note": "The first part is a substantive transition; the latter part is sponsor copy and should not be used for Jiang claims.",
+      "suggested_speaker": "host/ad copy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0073"
+      ],
+      "note": "Sponsor copy is included in focus coverage but does not contribute semantic claims.",
+      "suggested_speaker": "host/ad copy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0080"
+      ],
+      "note": "Near-empty boundary residue from Jiang's previous answer.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0081"
+      ],
+      "note": "The UNKNOWN segment is a one-word reaction and does not affect source interpretation.",
+      "suggested_speaker": "host or off-mic participant",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0089"
+      ],
+      "note": "Empty boundary residue; no independent content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0092",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0093"
+      ],
+      "note": "The Tucker Carlson praise crosses from Jiang into host agreement; keep Jiang's specific claim anchored to seg-0091 and seg-0092.",
+      "suggested_speaker": "mixed Jiang/host",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Iran war is following an escalation ladder whose logic is stronger than Trump's daily public narratives.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang's assessment on 2026-03-24 of the first three weeks of the Iran war.",
+      "topic_tags": [
+        "iran-war",
+        "escalation-ladder",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Israeli threats against Iranian civilian infrastructure and Iranian retaliation threats against Gulf energy and desalination infrastructure are creating an existential crisis for the GCC.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Current-war diagnosis as of 2026-03-24.",
+      "topic_tags": [
+        "gcc",
+        "energy-infrastructure",
+        "desalination",
+        "escalation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes predictive history as a model refined by making public predictions and testing them against world events.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Method description dated 2026-03-24.",
+      "topic_tags": [
+        "predictive-history",
+        "game-theory",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his three key predictions were Trump winning in 2024, Trump initiating war with Iran, and the United States ultimately losing that war in a way that reshapes global order.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Retrospective account of predictions made before this 2026-03-24 interview.",
+      "topic_tags": [
+        "prediction",
+        "trump",
+        "iran-war",
+        "global-order"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says some anger at him is organic rather than coordinated and comes from fear about the war and resentment that he appears to be gaining attention from tragedy.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Self-interpretation of public reaction as of 2026-03-24.",
+      "topic_tags": [
+        "public-reaction",
+        "internet-attention",
+        "fear"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he remains largely silent about China because he lives and works there and believes criticism could endanger his school and family.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0012",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Personal explanation dated 2026-03-24.",
+      "topic_tags": [
+        "china",
+        "speech-risk",
+        "public-positioning"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes educator from propagandist: he says he could profit by parroting Chinese Communist Party talking points but does not want that role.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Self-description on 2026-03-24.",
+      "topic_tags": [
+        "educator",
+        "propaganda",
+        "china"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the purpose of predictive modeling is not to enjoy being right but to increase collective agency over human events.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Method purpose stated on 2026-03-24.",
+      "topic_tags": [
+        "agency",
+        "prediction",
+        "children",
+        "future"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says game theory must identify players, interests, strengths, and optimal strategies, but needs validation because outsiders lack direct access to player thinking.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0017",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Method description dated 2026-03-24.",
+      "topic_tags": [
+        "game-theory",
+        "method",
+        "prediction"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Israel's pursuit of the Greater Israel Project is one driver of the Middle East war and forces Iran and the United States into their own strategic responses.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Jiang's war diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "greater-israel",
+        "iran-war",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says historical patterning compares the Iran war with Vietnam, Athens in Sicily, and Nazi Germany's invasion of Russia to infer likely progression.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Method description dated 2026-03-24.",
+      "topic_tags": [
+        "historical-patterning",
+        "vietnam",
+        "peloponnesian-war",
+        "world-war-ii"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines eschatology as the religious worldview that motivates actors who believe they are acting for God and building a better world.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Method description dated 2026-03-24.",
+      "topic_tags": [
+        "eschatology",
+        "religion",
+        "strategy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran's weakness on the escalation ladder makes it more strategic, flexible, and controlled than the nuclear-armed United States and Israel.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0022",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "War diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "escalation-control",
+        "asymmetry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Iranian calibration preserves diplomacy and public opinion while avoiding actions that would unify the GCC against Iran.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "War diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "gcc",
+        "public-opinion",
+        "hormuz"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the missing consequence for a bad war appears as collapsing morale among soldiers and the public, not necessarily immediate international punishment.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0026",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Current-war diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "morale",
+        "will-to-fight",
+        "war-legitimacy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that a U.S. ground invasion of Iran would provoke a popular uprising in America once footage of Marines dying circulated on social media.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-24 for a possible ground-invasion scenario.",
+      "topic_tags": [
+        "ground-invasion",
+        "domestic-unrest",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a real attempt to conquer Iran would require roughly two years of preparation and around two million troops staged around Iran.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Military assessment stated on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "ground-war",
+        "logistics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the U.S. military-industrial complex prefers never-ending wars and expensive systems over wars that serve national interest or prepare for real opponents.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Structural diagnosis stated on 2026-03-24.",
+      "topic_tags": [
+        "military-industrial-complex",
+        "war-on-terror",
+        "bureaucracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Iran war exposes that U.S. air defenses, carriers, and advanced jets are not ready for a modern asymmetric opponent.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Current-war diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "asymmetric-war",
+        "air-defense",
+        "carriers",
+        "f-35"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iranian ability to hit supposedly unhittable systems demonstrates corruption and unreadiness in the U.S. military machine.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Current-war diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "military-readiness",
+        "corruption",
+        "iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the Pentagon's Millennium Challenge war game as evidence that asymmetric drone swarms could defeat the U.S. model when the opponent is not artificially constrained.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Historical evidence cited on 2026-03-24.",
+      "topic_tags": [
+        "millennium-challenge",
+        "asymmetry",
+        "drone-swarms",
+        "iran"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Pentagon bureaucracy shapes reality to fit expectations because it does not want bad news about its limitations.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Institutional diagnosis stated on 2026-03-24.",
+      "topic_tags": [
+        "pentagon",
+        "bureaucracy",
+        "bad-news"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Operation Prosperity Guardian showed the United States could not defeat an opponent, the Houthis, who could not be intimidated, bribed, co-opted, assassinated, or made afraid to die.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0038",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Historical analogy cited on 2026-03-24.",
+      "topic_tags": [
+        "houthis",
+        "operation-prosperity-guardian",
+        "asymmetric-war"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that U.S. leaders will keep escalating toward a Marine landing because retreat would damage imperial credibility and Trump's face.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "marine-landing",
+        "credibility",
+        "vietnam",
+        "trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says U.S. leaders face a sunk-cost trap where retreat means admitting America no longer looks invincible.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Current-war diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "sunk-cost",
+        "empire",
+        "credibility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iranian morale is rooted in the belief that they are on the side of truth and in a Persian-Zoroastrian civilizational memory of serving God's will.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Eschatological diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "persia",
+        "zoroastrianism",
+        "morale"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Iran's refusal to preemptively strike expresses a commitment to truth and righteousness rather than mere tactical restraint.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0044",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current-war diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "preemption",
+        "righteousness",
+        "truth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host frames David Icke's theory as a planned transition toward AI control, biological connection to the brain, reduced rights, and restricted transaction power.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0047",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Interviewer framing on 2026-03-24.",
+      "topic_tags": [
+        "david-icke",
+        "ai-control",
+        "patriot-act",
+        "surveillance"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the likely direction of the crisis includes digital currency, an AI surveillance control grid, global economic collapse, reset, and the Greater Israel Project.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Forward-looking diagnosis stated on 2026-03-24.",
+      "topic_tags": [
+        "digital-currency",
+        "ai-surveillance",
+        "reset",
+        "greater-israel"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that even if elites have a plan, Trump and Putin retain agency and can make the plan unfold less seamlessly than a scripted theory predicts.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Game-theory caveat stated on 2026-03-24.",
+      "topic_tags": [
+        "agency",
+        "script",
+        "trump",
+        "putin",
+        "global-elite"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the financial system's problem is too much printed money and too many paper millionaires, so elites need to destroy excess wealth to regulate individuals.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Economic diagnosis and prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "financial-system",
+        "wealth-destruction",
+        "money-printing",
+        "control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang speculates that civil war or a false flag against financial data centers could destroy wealth and be used to blame Iran and build support for a national draft.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Speculative scenario stated on 2026-03-24.",
+      "topic_tags": [
+        "false-flag",
+        "financial-data-centers",
+        "national-draft",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reframes Epstein away from blackmail-island sensationalism and toward an alleged operative role in geopolitical manipulation, arms trafficking, money laundering, and financial crisis.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0055",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Jiang's interpretation stated on 2026-03-24.",
+      "topic_tags": [
+        "epstein",
+        "transnational-elite",
+        "geopolitical-manipulation",
+        "money-laundering"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a transnational elite above the nation state can manipulate geopolitical events for its own benefit.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Jiang's structural interpretation on 2026-03-24.",
+      "topic_tags": [
+        "transnational-elite",
+        "nation-state",
+        "geopolitical-manipulation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang identifies the alleged elite alliance as transnational capital, secret societies, and elite families, and says Epstein represented transnational capital.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0057",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Jiang's speculative model stated on 2026-03-24.",
+      "topic_tags": [
+        "epstein",
+        "transnational-capital",
+        "secret-societies",
+        "elite-families"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Clayton frames Joe Kent's view as: de-escalation requires restraining Israel because Israeli attacks keep subverting U.S. negotiation claims.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0059",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Interviewer framing on 2026-03-24.",
+      "topic_tags": [
+        "joe-kent",
+        "de-escalation",
+        "israel",
+        "iran"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel benefits from dragging the war out and expanding the number of participants because destroying the GCC and Iran would leave Israel as the only regional power standing.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Game-theory diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "israel",
+        "gcc",
+        "regional-power",
+        "war-expansion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran's long-term war aims include controlling the Strait of Hormuz, removing U.S. forces from the GCC, and doing enough damage to Israel to force respect before a peace treaty.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0062",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Game-theory diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "hormuz",
+        "gcc",
+        "peace-treaty",
+        "credibility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel's Greater Israel Project extends from the Nile to the Euphrates and does not include Persia, so Israel is not primarily interested in conquering Persia itself.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Game-theory diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "greater-israel",
+        "persia",
+        "israel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Israel sees the United States, not Iran, as its main competitor in the Middle East because the U.S. military presence limits Israel's regional supremacy.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0065",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Game-theory diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "israel",
+        "united-states",
+        "middle-east",
+        "regional-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump could choose a different path by making a deal with the GCC and Iran and constraining Israel through U.S. domestic and security policy.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Counterfactual agency scenario on 2026-03-24.",
+      "topic_tags": [
+        "trump",
+        "agency",
+        "de-escalation",
+        "israel"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang proposes restricting dual citizens from U.S. Congress and national-security roles as one possible way the United States could limit Israeli influence.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Policy scenario stated on 2026-03-24.",
+      "topic_tags": [
+        "dual-citizenship",
+        "national-security",
+        "israel",
+        "policy"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the Iran war is heading toward another Vietnam through limited deployment, mission creep, and institutional pressure to keep fighting until the military can claim victory.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Forward-looking war prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "vietnam",
+        "mission-creep",
+        "marine-deployment",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts military pressure will force Trump into a national draft, producing riots and National Guard deployment across major cities.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "draft",
+        "riots",
+        "national-guard",
+        "trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts emergency powers could let Trump bypass midterm elections and obtain a third term.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Forward-looking constitutional-crisis prediction stated on 2026-03-24.",
+      "topic_tags": [
+        "emergency-powers",
+        "third-term",
+        "midterms",
+        "trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the 2026 Iran war began with less procedural legitimation than the 2003 Iraq war, because the Trump administration did not build public support, seek congressional approval, or present a UN case.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Comparison stated on 2026-03-24.",
+      "topic_tags": [
+        "iraq-2003",
+        "iran-war",
+        "congress",
+        "united-nations",
+        "legitimacy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the plan for Iran is to balkanize it into ethnic enclaves and destroy limited water and power infrastructure so groups fight over resources for decades.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "War-endgame diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "iran",
+        "balkanization",
+        "water-infrastructure",
+        "civilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares the proposed destruction of Iran with Iraq after 2003, where de-Baathification destroyed state capacity and helped produce ongoing sectarian violence.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Historical analogy stated on 2026-03-24.",
+      "topic_tags": [
+        "iraq",
+        "de-baathification",
+        "state-collapse",
+        "sectarian-violence"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Washington, D.C. has become an insular bubble where dissenters such as Joe Kent are pushed out and officials consume their own propaganda.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Media/institution diagnosis on 2026-03-24.",
+      "topic_tags": [
+        "washington-dc",
+        "media-propaganda",
+        "joe-kent",
+        "bubble"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that propaganda contributed to disastrous Ukraine decisions and will similarly feed Trump comforting narratives that Iran is about to collapse.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0087",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Ukraine-Iran comparison on 2026-03-24.",
+      "topic_tags": [
+        "ukraine",
+        "iran",
+        "propaganda",
+        "bad-decision-making"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if leaders keep believing media claims that Iran is one day or one week from collapse, the United States could still be in the war five years later.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Forward-looking warning stated on 2026-03-24.",
+      "topic_tags": [
+        "iran-war",
+        "media",
+        "collapse-narrative",
+        "long-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States could have faced the same Iran-war situation in January 2020 after Trump's assassination of Qasem Soleimani.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Historical counterfactual stated on 2026-03-24 about January 2020.",
+      "topic_tags": [
+        "soleimani",
+        "iran-war",
+        "january-2020",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang credits Tucker Carlson with helping prevent escalation to war with Iran in January 2020 by using his Fox News platform and possibly personal access to Trump.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Jiang's retrospective assessment on 2026-03-24.",
+      "topic_tags": [
+        "tucker-carlson",
+        "iran-war",
+        "fox-news",
+        "trump"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Carlson's antiwar stance was heroic because he spoke out from a major platform at great personal risk.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Normative evaluation stated on 2026-03-24.",
+      "topic_tags": [
+        "antiwar-speech",
+        "tucker-carlson",
+        "personal-risk"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host connects Carlson's later Fox firing to his opposition to the Ukraine war and U.S. involvement, echoing Jiang's antiwar praise.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Host interpretation stated on 2026-03-24.",
+      "topic_tags": [
+        "tucker-carlson",
+        "ukraine-war",
+        "fox-news",
+        "neocons"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "moment": "The war is not a sequence of press statements but a ladder whose rungs are being climbed by every actor at once.",
+      "source_phrase": "this war is following, an escalation ladder",
+      "why_it_matters": "It gives the episode its core structure: official rhetoric is noise unless it changes each player's incentive to climb.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "moment": "Jiang frames his sudden notoriety as an accidental byproduct of a classroom thought experiment that began to match history.",
+      "source_phrase": "I'm just a high school teacher in China",
+      "why_it_matters": "It keeps the public read from treating Jiang as either prophet or pundit; he presents himself as testing a model under real pressure.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0012"
+      ],
+      "moment": "Jiang accepts the charge of silence about China but turns it into a distinction between operating under constraint and becoming a propagandist.",
+      "source_phrase": "I don't want to be a propagandist. I want to be an educator.",
+      "why_it_matters": "It clarifies how he wants the audience to read his asymmetric public speech.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0016"
+      ],
+      "moment": "Being right about war becomes a moral burden rather than a victory lap.",
+      "source_phrase": "I couldn't sleep for two weeks",
+      "why_it_matters": "This preserves the parental and ethical pressure behind the interview, not only the strategic model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0020"
+      ],
+      "moment": "Prediction works when the cold calculus of players, the repeated pattern of wars, and sacred end-times motivation all converge.",
+      "source_phrase": "game theory eschatology and historical patterning",
+      "why_it_matters": "This is the clearest compact statement of the model powering Jiang's Iran-war forecasts.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0023"
+      ],
+      "moment": "Iran is the smaller fighter in the jiu-jitsu match, winning room to maneuver by staying calm while the stronger opponent swings wildly.",
+      "source_phrase": "maintaining calm maintaining control",
+      "why_it_matters": "The martial-arts image makes escalation control intelligible without flattening it into abstract strategy jargon.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0026",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0027"
+      ],
+      "moment": "The hidden consequence of an immoral war is not a UN sanction but a population that no longer wants to fight.",
+      "source_phrase": "the morale of your population which affects your will to fight",
+      "why_it_matters": "It ties morality, legitimacy, and military capacity into one Jiang-style causal chain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0031"
+      ],
+      "moment": "The point of the war on terror becomes not victory but a machine for endless extraction from taxpayers.",
+      "source_phrase": "not to have successful wars but to have never-ending wars",
+      "why_it_matters": "This is the packet's sharpest indictment of the military-industrial complex.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0038"
+      ],
+      "moment": "A bureaucracy loses the war game, changes the rules, and calls that victory.",
+      "source_phrase": "shape reality in a way that conforms to its expectations",
+      "why_it_matters": "This is Jiang's institutional critique in miniature: the model fails because the institution edits reality.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0039"
+      ],
+      "moment": "The Pentagon's toolkit fails when the opponent cannot be scared, bought, blackmailed, or killed into surrender.",
+      "source_phrase": "They were not afraid to die. And they could not be blackmailed.",
+      "why_it_matters": "It explains why asymmetric morale is not a side issue but a strategic weapon.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0040"
+      ],
+      "moment": "Vietnam returns as the war that everyone knows is unwinnable but no one can abandon without losing face.",
+      "source_phrase": "the war achieves a momentum and a logic of its own",
+      "why_it_matters": "This links escalation ladder to sunk cost and imperial credibility.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0041"
+      ],
+      "moment": "Empire at the casino cannot leave the table because going home means confessing the loss.",
+      "source_phrase": "losing a million dollars",
+      "why_it_matters": "The image turns sunk cost, face, and imperial credibility into a memorable explanation of escalation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0045"
+      ],
+      "moment": "Jiang gives Iranian morale a luminous interior: a black sky over Tehran with a light inside the people.",
+      "source_phrase": "inside, there's a light shining in the Iranian people",
+      "why_it_matters": "This is the strongest public-read language for the morale/eschatology section.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0050"
+      ],
+      "moment": "History is not a movie script: even inside an elite plan, major players can bend the ending.",
+      "source_phrase": "the script being played out, but also a response to this script",
+      "why_it_matters": "This is the key distinction between Jiang's game theory and total predestination or conspiracy determinism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0052"
+      ],
+      "moment": "Control comes by erasing wealth from the ledger, not only by locking people in their homes.",
+      "source_phrase": "destroy as much excess wealth as possible",
+      "why_it_matters": "It shifts the lockdown question from energy to money and makes the economic mechanism central.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0058"
+      ],
+      "moment": "The Epstein class becomes a parasite sitting on top of the nation-state rather than a lurid island scandal.",
+      "source_phrase": "parasites on the nation state",
+      "why_it_matters": "It compresses Jiang's conspiratorial institutional model into one image while preserving attribution.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0063"
+      ],
+      "moment": "Hormuz becomes the economic lever by which Iran imagines postwar sovereignty and recognition.",
+      "source_phrase": "charge a 10 % toll",
+      "why_it_matters": "It gives the read a concrete strategic objective beyond vague victory or retaliation.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0066"
+      ],
+      "moment": "The apparent client is, in Jiang's model, maneuvering to destroy its patron's military position.",
+      "source_phrase": "their main competitor in the Middle East is actually not Iran, but actually the United States",
+      "why_it_matters": "This reversal is central to the interview's Israel-America game-theory argument.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0067"
+      ],
+      "moment": "Natalie gives the alliance logic a pop-culture image: Littlefinger advising leaders into self-destruction.",
+      "source_phrase": "leading them and advising them into their own self-destruction",
+      "why_it_matters": "It captures interviewer pressure and shapes Jiang's following agency answer.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075"
+      ],
+      "moment": "Vietnam is not a metaphor for defeat after the fact; it is the logic that starts when a limited landing becomes a war the institution must win.",
+      "source_phrase": "another Vietnam",
+      "why_it_matters": "It gives the episode a concrete future arc from boots on the ground to political crisis.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079"
+      ],
+      "moment": "Jiang says 2003 looks procedurally careful compared with the current war's reasonless first strike.",
+      "source_phrase": "None of this is true today",
+      "why_it_matters": "This is the strongest contrast for the legitimacy-collapse beat.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084"
+      ],
+      "moment": "The hidden plan is not victory over Iran but the destruction of Persia as a civilization through water, power, and ethnic fragmentation.",
+      "source_phrase": "destroy Persia as a civilization",
+      "why_it_matters": "This is the most severe version of Jiang's Iran endgame claim.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0087"
+      ],
+      "moment": "Washington's bubble drinks its own story until military planning becomes intoxicated by media success.",
+      "source_phrase": "drinking their own Kool-Aid, getting high on their own supply",
+      "why_it_matters": "It anchors the propaganda section in Jiang's vivid causal language.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091"
+      ],
+      "moment": "The interview's final move is not another prediction but a debt: Jiang insists that one broadcaster's antiwar speech mattered in 2020.",
+      "source_phrase": "Tucker Carlson saved us from nuclear war",
+      "why_it_matters": "It closes the episode by returning to agency: public speech can alter the escalation ladder.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "escalation ladder",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The self-reinforcing war logic by which actors move from one level of violence or retaliation to the next even when public narratives claim control.",
+      "confidence": "high"
+    },
+    {
+      "term": "predictive history",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's term for combining game-theory prediction with historical testing to refine a model of world events.",
+      "confidence": "high"
+    },
+    {
+      "term": "agency over human events",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's aim for predictive modeling: giving ordinary people a way to understand events early enough to affect them.",
+      "confidence": "high"
+    },
+    {
+      "term": "historical patterning",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Comparing the present conflict with prior wars to identify repeated strategic trajectories and likely next moves.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "In Jiang's method, the religious or sacred worldview that shapes why actors believe violence serves God or a better world.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation control",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0021",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The ability to choose calibrated moves that shape the pace, targets, and political consequences of a conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "will to fight",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "The morale and legitimacy reserve that makes a population or military willing to sacrifice for a war.",
+      "confidence": "high"
+    },
+    {
+      "term": "inverted pyramid",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Host's label for Jiang's critique that U.S. force structure over-relies on air power and high-tech systems while lacking the ground-war base needed for regime change.",
+      "confidence": "medium"
+    },
+    {
+      "term": "military industrial complex",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang uses Eisenhower's phrase for the weapons bureaucracy he says pursues procurement and endless war instead of national strategic success.",
+      "confidence": "high"
+    },
+    {
+      "term": "Millennium Challenge",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "A Pentagon war game Jiang uses as evidence that U.S. systems can be overwhelmed by asymmetric Iranian-style tactics unless the opponent is artificially constrained.",
+      "confidence": "high"
+    },
+    {
+      "term": "Operation Prosperity Guardian",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0038",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "The U.S. naval campaign against the Houthis that Jiang treats as a recent proof of American inability to beat a resilient asymmetric opponent.",
+      "confidence": "high"
+    },
+    {
+      "term": "shock and awe",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The U.S. habit of repeated overwhelming strikes that Jiang says persists because leaders do not know what else to do.",
+      "confidence": "high"
+    },
+    {
+      "term": "sunk cost fallacy",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang's casino analogy for why U.S. leaders double down in a failing war rather than accept reputational loss.",
+      "confidence": "high"
+    },
+    {
+      "term": "inner fire",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "The spiritual morale Jiang says comes from submitting to truth, righteousness, and the will of God in a good cause.",
+      "confidence": "high"
+    },
+    {
+      "term": "script",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0049",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's shorthand for elite plans or occult long-range designs, which he says still interact with player agency rather than determining everything automatically.",
+      "confidence": "high"
+    },
+    {
+      "term": "Epstein class",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0054",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0055"
+      ],
+      "definition_or_usage": "The host's and Jiang's label for a transnational elite network allegedly using operatives like Epstein for blackmail, finance, and geopolitical manipulation.",
+      "confidence": "medium"
+    },
+    {
+      "term": "transnational elite",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "Jiang's term for actors above the nation-state who can manipulate geopolitical events for their own benefit.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Strait of Hormuz control",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "A long-term Iranian objective in Jiang's game-theory account: control a core economic lifeline and charge passage after forcing U.S. exit.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel Project",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Jiang's name for Israel's alleged regional ambition from the Nile to the Euphrates, excluding Persia but requiring removal of rival regional powers.",
+      "confidence": "high"
+    },
+    {
+      "term": "come to Jesus moment",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0068"
+      ],
+      "definition_or_usage": "Jiang's phrase for a decisive moral-strategic reversal in which Trump chooses a deal with Iran and the GCC over continuing Israeli-led escalation.",
+      "confidence": "high"
+    },
+    {
+      "term": "mission creep",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "The process by which limited deployment expands because the military institution is built to continue until it can claim victory.",
+      "confidence": "high"
+    },
+    {
+      "term": "Emergency Powers Act",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's shorthand for emergency authority he predicts Trump could use after domestic unrest to bypass elections and pursue a third term.",
+      "confidence": "medium"
+    },
+    {
+      "term": "balkanize Iran",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Jiang's description of breaking Iran into ethnic enclaves and resource-conflict zones rather than merely changing its government.",
+      "confidence": "high"
+    },
+    {
+      "term": "de-Baathification",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "The Iraq occupation policy Jiang uses as an analogy for destroying state capacity by excluding the personnel who ran government, military, and police.",
+      "confidence": "high"
+    },
+    {
+      "term": "antiwar platform risk",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "The idea that a public figure with a major platform can materially affect war escalation by speaking against it, but pays institutional costs for doing so.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "note": "Jiang dates the development of his predictive-history system to roughly two years before the 2026-03-24 interview and says the public attention followed his Iran-war predictions appearing to pan out.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0016"
+      ],
+      "note": "Jiang dates the attack that launched the current war to February 28 and says his reaction lasted for the following two weeks.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0019"
+      ],
+      "note": "Jiang explicitly names Vietnam, Athens' Sicilian expedition, and Nazi Germany's invasion of Russia as analogies used for the Iran-war prediction in this March 2026 interview.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0030",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang distinguishes the 2003 Iraq invasion from the current Iran scenario by saying Iraq was not a real test because Saddam lacked air defense and miscalculated American incentives.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0037",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0038"
+      ],
+      "note": "Jiang places Millennium Challenge around 2002 and Operation Prosperity Guardian after Gaza-related Red Sea disruptions, using both as precursors to his 2026 Iran-war forecast.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0044"
+      ],
+      "note": "Jiang reaches back roughly 3,000 years to Persian/Zoroastrian history to explain current Iranian morale in March 2026.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0052"
+      ],
+      "note": "Jiang frames the financial-system pressure as accumulating over the prior 10 to 20 years before the March 2026 war crisis.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0059"
+      ],
+      "note": "The Joe Kent resignation is described by the host as occurring the prior week; use the interview date, 2026-03-24, as the source date unless separately sourced.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0065",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0066"
+      ],
+      "note": "Jiang cites Netanyahu reading Barry Strauss's Rome versus the Jews as evidence for how Israeli leadership interprets Rome/America analogies in the current war.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0079"
+      ],
+      "note": "Jiang explicitly compares March 2026 Iran-war legitimation with the Bush administration's months-long 2003 Iraq-war public and UN case-building.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0085"
+      ],
+      "note": "Jiang links Iraq 2003, Libya, Syria, and the current Iran-war plan as one historical pattern of state/civilizational destruction.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091"
+      ],
+      "note": "Jiang places the Soleimani assassination and near-war moment in January 2020 and contrasts it with the March 2026 Iran-war situation.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0008"
+      ],
+      "note": "The claim of a coordinated smear campaign is Jiang's interpretation of media behavior; the packet does not independently verify coordination."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0011"
+      ],
+      "note": "The host summarizes criticism from social media; this packet should not treat those accusations as established facts."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0026",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0027"
+      ],
+      "note": "Jiang cites rumors and reported investigations about fires on the Gerald R. Ford; preserve as Jiang's stated evidence, not verified fact."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang compresses the Millennium Challenge account into a predictive-history example; retain as his cited evidence without adjudicating every historical detail here."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0047",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0048"
+      ],
+      "note": "The host's David Icke framing includes speculative claims; distinguish interviewer pressure from Jiang's later answer."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0055",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0056"
+      ],
+      "note": "Epstein-related assertions are speculative and should be attributed to Jiang's interpretation rather than presented as verified episode fact."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0057",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0058"
+      ],
+      "note": "Claims about secret societies, elite families, and Epstein's represented interests are Jiang's speculative framework and require careful attribution."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0061",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0062"
+      ],
+      "note": "False-flag and Israeli-submarine claims are presented by Jiang as reports or fit with a pattern; do not independently certify them in the public read."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0068"
+      ],
+      "note": "The dual-citizenship proposal is Jiang's stated policy scenario; it is politically charged and should be represented carefully if used publicly."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0076"
+      ],
+      "note": "The draft, riot, National Guard, emergency-powers, and third-term sequence is Jiang's prediction, not an established outcome."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0084"
+      ],
+      "note": "The claim of an intentional plan to destroy Persian civilization is Jiang's inferred endgame; public prose should attribute it as his argument."
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0091"
+      ],
+      "note": "The causal claim that Tucker Carlson saved the United States from nuclear war is Jiang's interpretation and should be attributed as such."
+    }
+  ]
+}

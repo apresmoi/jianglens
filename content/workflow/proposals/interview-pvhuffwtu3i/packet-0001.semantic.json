@@ -1,0 +1,184 @@
+{
+  "packet_id": "interview-pvhuffwtu3i-semantics-pkt-0001",
+  "source_id": "video:interview-pvhuffwtu3i",
+  "source_date": "2026-03-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0001",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "Clayton introduces the Iran war as spiraling after strikes, troop deployments, Hormuz claims, and Jiang's own Substack warning that U.S. boots on the ground now seem likely, then asks where the situation stands.",
+      "speaker_attribution": "Redacted host Clayton Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0004"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump's daily narratives do not alter the underlying escalation ladder: Israel, Iran, the United States, and Gulf states all have incentives or declared positions that keep pushing the war upward.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0005",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "Natalie asks how Jiang understands his sudden internet celebrity, the practical effect of his predictions on ordinary families, and the public's fear-driven response to his model.",
+      "speaker_attribution": "Redacted host Natalie Morris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains predictive history as a two-year game-theory thought experiment that unexpectedly gained attention after three predictions appeared to pan out; he distinguishes that surprise from what he sees as a coordinated campaign against his teaching style and Israel critique.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript includes Jiang's brief greeting inside the host segment; the substantive question remains Clayton's.",
+      "suggested_speaker": "mixed host/Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0004",
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0006"
+      ],
+      "note": "These are near-empty boundary residue segments and carry no independent semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Iran war is following an escalation ladder whose logic is stronger than Trump's daily public narratives.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Jiang's assessment on 2026-03-24 of the first three weeks of the Iran war.",
+      "topic_tags": [
+        "iran-war",
+        "escalation-ladder",
+        "trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Israeli threats against Iranian civilian infrastructure and Iranian retaliation threats against Gulf energy and desalination infrastructure are creating an existential crisis for the GCC.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Current-war diagnosis as of 2026-03-24.",
+      "topic_tags": [
+        "gcc",
+        "energy-infrastructure",
+        "desalination",
+        "escalation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes predictive history as a model refined by making public predictions and testing them against world events.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Method description dated 2026-03-24.",
+      "topic_tags": [
+        "predictive-history",
+        "game-theory",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his three key predictions were Trump winning in 2024, Trump initiating war with Iran, and the United States ultimately losing that war in a way that reshapes global order.",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Retrospective account of predictions made before this 2026-03-24 interview.",
+      "topic_tags": [
+        "prediction",
+        "trump",
+        "iran-war",
+        "global-order"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "moment": "The war is not a sequence of press statements but a ladder whose rungs are being climbed by every actor at once.",
+      "source_phrase": "this war is following, an escalation ladder",
+      "why_it_matters": "It gives the episode its core structure: official rhetoric is noise unless it changes each player's incentive to climb.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "moment": "Jiang frames his sudden notoriety as an accidental byproduct of a classroom thought experiment that began to match history.",
+      "source_phrase": "I'm just a high school teacher in China",
+      "why_it_matters": "It keeps the public read from treating Jiang as either prophet or pundit; he presents himself as testing a model under real pressure.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "escalation ladder",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The self-reinforcing war logic by which actors move from one level of violence or retaliation to the next even when public narratives claim control.",
+      "confidence": "high"
+    },
+    {
+      "term": "predictive history",
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's term for combining game-theory prediction with historical testing to refine a model of world events.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0007"
+      ],
+      "note": "Jiang dates the development of his predictive-history system to roughly two years before the 2026-03-24 interview and says the public attention followed his Iran-war predictions appearing to pan out.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-pvhuffwtu3i@transcript:v1#seg-0008"
+      ],
+      "note": "The claim of a coordinated smear campaign is Jiang's interpretation of media behavior; the packet does not independently verify coordination."
+    }
+  ]
+}
