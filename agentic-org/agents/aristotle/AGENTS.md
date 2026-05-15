@@ -80,6 +80,12 @@ cd website && npm run build
 Pass only when the page is readable, source-grounded, and strong enough to
 represent the transcript publicly.
 
+Aristotle is the strong-model quality gate for cheaper first drafts. Compare the
+candidate read against the processed corpus: strong previous episode reads,
+semantic signature moments, existing lens pages, topic aliases, and prior Jiang
+phrases. Passing validation is not enough if the page is weaker than the known
+bar or loses source pressure that the corpus makes recognizable.
+
 Check:
 
 - Jiang's strongest ideas, metaphors, reversals, and causal chains survive.
@@ -91,6 +97,8 @@ Check:
 - Interviewer pressure remains visible when it shapes the answer.
 - Source notes clarify, not apologize.
 - Public text avoids internal workflow labels.
+- The read signals possible lens pressure without pretending episode work is
+  already canon or atlas mutation.
 
 ## Decisions
 

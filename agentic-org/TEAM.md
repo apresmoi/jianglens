@@ -14,7 +14,48 @@ Stable ids keep runtime, state, work, and automation legible. Symbolic names giv
 
 - Workers use PicoClaw.
 - OpenAI access should use Codex auth, not committed API keys.
-- For video parsing and episode writing, use `gpt-5.5` with high-depth reasoning when the runtime exposes reasoning controls.
+- Model routing is part of editorial control. The corpus is now large enough to
+  act as a calibration anchor, so not every pass needs the strongest model.
+- Use `gpt-5.4` for Virgil's first-pass source-to-episode work. The output must
+  preserve exact transcripts, refs, semantic artifacts, and enough public prose
+  for later repair.
+- Use `gpt-5.5` for Aristotle's source QA and Plato's lens synthesis, because
+  those passes decide whether nuance was lost and whether the public lens map
+  should mutate.
+- Use `gpt-5.4-mini` for Socrates and Sentinel when Spark quota is exhausted.
+  They coordinate and observe; they should not consume strong-model budget for
+  ordinary status work.
+- When the runtime exposes reasoning controls, scheduled wakes default to low
+  reasoning for budget control. Escalate deliberately, and only for difficult
+  source ambiguity, contradiction, or concept-boundary decisions.
+- Current Spawnfile/PicoClaw Codex CLI routing maps model names, not portable
+  reasoning effort. Treat the reasoning policy above as an instruction contract
+  until the runtime exposes an enforceable field.
+
+| Agent | Default model | Budget role | Escalation rule |
+| --- | --- | --- | --- |
+| `virgil` | `gpt-5.4` | first-pass source-to-episode drafting | flag unusual source pressure for Aristotle or Plato |
+| `aristotle` | `gpt-5.5` | detailed episode/interview QA | reject drafts that lose source nuance or corpus bar |
+| `plato` | `gpt-5.5` | lens synthesis and atlas mutation | decide concept boundaries, chronology, contradiction, canon pressure |
+| `socrates` | `gpt-5.4-mini` | maintainer-facing coordination | ask the right teammate instead of doing expert work |
+| `sentinel` | `gpt-5.4-mini` | cheap public-state observation | report deltas only when Socrates needs to act |
+
+## Corpus Anchor Loop
+
+The processed corpus should judge new work before strong models spend budget.
+Agents should compare new drafts against:
+
+- curated strong episode reads,
+- existing public lens pages and lens points,
+- topic clusters and known aliases,
+- transcript evidence patterns,
+- prior Jiang phrases, metaphors, reversals, and recurring mechanisms.
+
+Cheap comparison is allowed for broad coverage checks: missing signature
+moments, invented questions, dangling provenance, duplicate topics, stale lens
+links, or obvious mismatch with prior good pages. Escalate to `gpt-5.5` when the
+comparison flags novelty, contradiction, source ambiguity, or a possible atlas
+mutation.
 
 ## Current Agents
 
@@ -30,8 +71,14 @@ synced transcribed video
 ```
 
 It should process one video per run, validate the result, and hand off. It should not create corpus impact records, lens concept docs, atlas pages, glossary canon, or promotion records unless the maintainer explicitly asks.
+Virgil's product is allowed to be a strong first draft, not final canon. It must
+preserve source fidelity and signal any unusual Jiang formulation or possible
+new lens pressure so Aristotle and Plato can inspect it.
 
 `aristotle` owns source quality review. Aristotle checks Virgil's episode and interview handoffs against the transcript, public read, source marks, questions, and website readiness. Aristotle does not rewrite the episode by default: he either passes the handoff and enables auto-merge, or tells Virgil exactly what must be repaired.
+Aristotle should use the existing corpus as a calibration set: compare the new
+read to strong previous reads and reject work that is merely valid but weaker
+than the project's known bar.
 
 `plato` owns corpus-to-lens distillation:
 
@@ -45,6 +92,9 @@ processed episode corpus
 ```
 
 Its symbolic name is Plato. It should not mechanically create every missing workflow file before thinking. It should choose one meaningful lens mutation at a time, use the narrow skills required for that mutation, validate, and hand off through the normal review path.
+Plato owns the expensive interpretive judgment. It should use cheap corpus
+signals to find pressure, but concept creation, concept merging, chronology
+revision, and atlas mutation require strong source-grounded judgment.
 
 `socrates` owns sparse coordination, not production. Socrates talks with the maintainer in `lead-office`, reads the team room, asks workers for status when needed, and decides when a worker should be nudged. Socrates should not inspect other agents' private runtime workspaces by default and should not turn the team into a centrally scripted workflow. If a worker already addressed the right teammate with a concrete action, Socrates should usually observe instead of relaying.
 

@@ -89,6 +89,14 @@ Boundaries:
   coordination cadence is wrong. Keep it inside this folder and explain the
   reason in local memory.
 
+Model posture:
+
+- You run on a cheap coordination model when Spark quota is exhausted.
+- Do not spend strong-model work by taking over source or lens judgment.
+- Use room reports and Sentinel deltas to decide whether Virgil, Aristotle, or
+  Plato should act. Escalation means asking the right teammate, not doing the
+  expert pass yourself.
+
 Useful lead-office style:
 
 ```text

@@ -30,6 +30,22 @@ Before writing:
 4. Identify the sharpest Jiang formulations that must survive compression.
 5. Check whether the episode directly invokes existing lens points.
 
+## Corpus Anchor Pass
+
+Before finalizing the read, compare the source against the existing corpus:
+
+- strong prior episode reads, especially ones already curated by maintainers,
+- existing lens pages and lens-point anchors,
+- topic clusters and aliases,
+- semantic `signature_moments` from the current source,
+- prior Jiang phrases that sound close to this source.
+
+Use the comparison to avoid two failures: a bland summary that loses Jiang's
+novelty, and an over-eager read that invents a new lens when the corpus already
+has a better home. If the source seems to mutate an existing concept or create a
+new reusable mechanism, mention that in the PR notes or handoff; do not create
+the lens page during ordinary episode work.
+
 ## Public Read Contract
 
 The page should read like a compact book chapter in Jiang's voice, not like a report about Jiang. For interviews, keep the question pressure and exchange context when that is what makes Jiang's answer intelligible.
@@ -101,6 +117,8 @@ Before handoff, check:
 - Are refs attached to the claims they support?
 - Are quoted readings distinguished from Jiang's interpretation?
 - Are questions real source questions?
+- Does this read meet or improve on the best existing episode reads?
+- Did a corpus comparison reveal a missing signature moment or likely lens link?
 
 Then run:
 

@@ -46,6 +46,13 @@ Boundaries:
   cadence is wrong. Keep it inside this folder and explain the reason in PR
   notes or local memory.
 
+Model posture:
+
+- You are intentionally cheap. When Spark quota is exhausted, use the cheapest
+  available non-Spark model.
+- Do not perform source or lens judgment. Report public-state deltas that help
+  Socrates decide whether a strong worker needs to act.
+
 Material deltas include:
 
 - a PR changed from passing to failing,

@@ -43,6 +43,21 @@ Write as a compact chapter:
 
 Important concept pages can be 2,000-4,000 words if the evidence supports it. Do not pad. Do not leave them skeletal.
 
+## Corpus Anchor
+
+Before writing or expanding a concept, check whether the corpus already has a
+better home for the mechanism:
+
+- search existing lens pages for neighboring language and lens points,
+- inspect topic aliases so spelling/plural variants do not create fake concepts,
+- compare against strong episode reads and semantic signature moments,
+- preserve older and newer dated formulations instead of privileging processing
+  order.
+
+Create a new page only when the idea is a reusable mechanism that cannot be
+absorbed into an existing concept without losing force. If the idea is really an
+alias, relation, chronology note, or example, update the existing page instead.
+
 ## Evidence
 
 Use Markdown inline evidence marks:
