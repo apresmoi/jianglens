@@ -1,8 +1,10 @@
 ---
-// RadiantHero — pure-DOM ASCII Prime Radiant icosahedron.
+// RadiantHero — pure-DOM ASCII Prime Radiant.
+// A rotating cuboctahedron (8 triangles + 6 squares — the actual Prime
+// Radiant shape) crystallising from a multi-civilizational glyph substrate.
 // Drop inside any positioned ancestor; fills inset:0 and renders on top
-// as a non-interactive overlay (except for the icosahedron itself, which is
-// click-and-drag rotatable).
+// as a non-interactive overlay, except for the form itself which is
+// click-and-drag rotatable.
 //
 // Pipeline:
 //   substrate (one <pre>)        — static multi-civilizational glyphs
@@ -131,18 +133,35 @@
     angleYOffset: 0,
   };
 
-  // === Icosahedron geometry (12 verts, 30 edges) ===
-  const PHI = (1 + Math.sqrt(5)) / 2;
+  // === Cuboctahedron geometry (Archimedean: 8 triangles + 6 squares) ===
+  //   12 vertices: every permutation of (±1, ±1, 0)
+  //   24 edges:    each vertex to its 4 nearest neighbors at distance √2
+  //   14 faces:    8 triangular + 6 square (only the edges are drawn)
+  // Also known as Buckminster Fuller's "vector equilibrium" — every edge
+  // length equals the vertex-to-center distance. The actual shape of the
+  // Prime Radiant in Foundation.
   const verts = [
-    [-1, PHI, 0], [1, PHI, 0], [-1, -PHI, 0], [1, -PHI, 0],
-    [0, -1, PHI], [0, 1, PHI], [0, -1, -PHI], [0, 1, -PHI],
-    [PHI, 0, -1], [PHI, 0, 1], [-PHI, 0, -1], [-PHI, 0, 1]
+    // z = 0 plane — square in XY
+    [ 1,  1,  0], [ 1, -1,  0], [-1,  1,  0], [-1, -1,  0],
+    // y = 0 plane — square in XZ
+    [ 1,  0,  1], [ 1,  0, -1], [-1,  0,  1], [-1,  0, -1],
+    // x = 0 plane — square in YZ
+    [ 0,  1,  1], [ 0,  1, -1], [ 0, -1,  1], [ 0, -1, -1]
   ].map(v => { const L = Math.hypot(v[0], v[1], v[2]); return [v[0]/L, v[1]/L, v[2]/L]; });
   const edges = [
-    [0,1],[0,5],[0,7],[0,10],[0,11],[1,5],[1,7],[1,8],[1,9],
-    [2,3],[2,4],[2,6],[2,10],[2,11],[3,4],[3,6],[3,8],[3,9],
-    [4,5],[4,9],[4,11],[5,9],[5,11],[6,7],[6,8],[6,10],
-    [7,8],[7,10],[8,9],[10,11]
+    // v0 (1,1,0) → 4 neighbors
+    [0, 4], [0, 5], [0, 8], [0, 9],
+    // v1 (1,-1,0) → 4 neighbors
+    [1, 4], [1, 5], [1, 10], [1, 11],
+    // v2 (-1,1,0) → 4 neighbors
+    [2, 6], [2, 7], [2, 8], [2, 9],
+    // v3 (-1,-1,0) → 4 neighbors
+    [3, 6], [3, 7], [3, 10], [3, 11],
+    // remaining edges among the y=0 / x=0 vertices
+    [4, 8], [4, 10],
+    [5, 9], [5, 11],
+    [6, 8], [6, 10],
+    [7, 9], [7, 11]
   ];
   function rotY(v, a) { const c = Math.cos(a), s = Math.sin(a); return [c*v[0] + s*v[2], v[1], -s*v[0] + c*v[2]]; }
   function rotX(v, a) { const c = Math.cos(a), s = Math.sin(a); return [v[0], c*v[1] - s*v[2], s*v[1] + c*v[2]]; }
