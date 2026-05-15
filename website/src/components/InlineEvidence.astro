@@ -158,7 +158,6 @@ const inlineParts = partsFor(String(text), normalizedMarks());
   .evidence-mark {
     --evidence-wash: rgba(201, 167, 101, 0.12);
     --evidence-field: rgba(201, 167, 101, 0.035);
-    --evidence-tick: rgba(201, 167, 101, 0.14);
     margin: 0;
     border: 0;
     border-radius: 3px;
@@ -177,20 +176,8 @@ const inlineParts = partsFor(String(text), normalizedMarks());
         var(--evidence-wash) 0,
         var(--evidence-wash) 0.48em,
         var(--evidence-field) 0.48em
-      ),
-      repeating-linear-gradient(
-        90deg,
-        transparent 0,
-        transparent 0.8em,
-        var(--evidence-tick) 0.8em,
-        var(--evidence-tick) 0.86em,
-        transparent 0.86em,
-        transparent 1.7em
       );
-    background-position: 0 0, 0 0;
-    background-size: 100% 100%, 3.4em 100%;
     cursor: pointer;
-    animation: evidenceTrace 18s linear infinite;
     transition:
       color 140ms ease,
       background-color 140ms ease,
@@ -207,7 +194,6 @@ const inlineParts = partsFor(String(text), normalizedMarks());
     vertical-align: 0.12em;
     background: rgba(201, 167, 101, 0.62);
     box-shadow: 0 0 0 2px rgba(201, 167, 101, 0.1);
-    animation: evidenceDot 4.8s ease-in-out infinite;
   }
 
   .evidence-mark:hover,
@@ -215,7 +201,6 @@ const inlineParts = partsFor(String(text), normalizedMarks());
   .evidence-wrap.is-open .evidence-mark {
     --evidence-wash: rgba(201, 167, 101, 0.32);
     --evidence-field: rgba(201, 167, 101, 0.09);
-    --evidence-tick: rgba(244, 234, 216, 0.18);
     color: #f4ead8;
     box-shadow: 0 0 0 1px rgba(201, 167, 101, 0.16);
     outline: none;
@@ -356,33 +341,4 @@ const inlineParts = partsFor(String(text), normalizedMarks());
     line-height: 1.42;
   }
 
-  @media (prefers-reduced-motion: reduce) {
-    .evidence-mark,
-    .evidence-mark::after {
-      animation: none;
-    }
-  }
-
-  @keyframes evidenceTrace {
-    from {
-      background-position: 0 0, 0 0;
-    }
-
-    to {
-      background-position: 0 0, 3.4em 0;
-    }
-  }
-
-  @keyframes evidenceDot {
-    0%,
-    100% {
-      opacity: 0.46;
-      transform: scale(0.88);
-    }
-
-    45% {
-      opacity: 0.9;
-      transform: scale(1.14);
-    }
-  }
 </style>

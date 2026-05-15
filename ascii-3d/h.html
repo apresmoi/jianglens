@@ -1,0 +1,402 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Proto H — Prime Radiant: pale dense cage on warm haze</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --ink: #f6efe4;
+    --soft: #d7ccbb;
+    --muted: #9f9688;
+    --gold: #c9a765;
+    --line: rgba(246, 239, 228, 0.14);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: #1a0f06; color: var(--ink); }
+  body {
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    overflow-x: hidden;
+  }
+  .stage {
+    position: relative;
+    min-height: 100svh;
+    overflow: hidden;
+    isolation: isolate;
+    background:
+      radial-gradient(ellipse 70% 60% at 62% 48%, rgba(255, 180, 100, 0.22), transparent 65%),
+      radial-gradient(ellipse 120% 100% at 50% 50%, rgba(120, 60, 25, 0.55), rgba(30, 18, 10, 0.85) 70%, rgba(15, 9, 5, 0.96) 100%);
+  }
+  /* Subtle vignette so the corners settle */
+  .stage::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 95% 95% at 50% 50%, transparent 50%, rgba(8, 5, 3, 0.55) 100%);
+    pointer-events: none;
+    z-index: 3;
+  }
+  canvas.field {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .nav {
+    position: relative;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 22px;
+    border-bottom: 1px solid var(--line);
+  }
+  .nav strong { letter-spacing: 0.02em; }
+  .nav nav { display: flex; gap: 18px; color: var(--soft); font-size: 0.92rem; }
+  .nav a { color: inherit; text-decoration: none; }
+  .hero {
+    position: relative;
+    z-index: 4;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 18vh 22px 14vh;
+  }
+  .kicker {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--gold);
+    font-size: 0.78rem;
+    font-weight: 780;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .kicker::before { content: ""; width: 30px; height: 1px; background: var(--gold); }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 560;
+    font-size: clamp(2.6rem, 7vw, 5.6rem);
+    line-height: 0.94;
+    letter-spacing: -0.005em;
+    margin: 18px 0 0;
+    text-shadow: 0 2px 30px rgba(0, 0, 0, 0.8);
+  }
+  h1 span { display: block; }
+  .lead {
+    max-width: 560px;
+    margin: 26px 0 0;
+    color: var(--soft);
+    font-size: clamp(1.02rem, 1.4vw, 1.22rem);
+    text-shadow: 0 1px 14px rgba(0, 0, 0, 0.8);
+  }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+  .btn {
+    min-height: 46px;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 16px;
+    border: 1px solid rgba(246, 239, 228, 0.32);
+    border-radius: 5px;
+    color: var(--ink);
+    font-weight: 760;
+    text-decoration: none;
+    background: rgba(8, 6, 4, 0.55);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    transition: background 140ms ease, border-color 140ms ease;
+  }
+  .btn.primary { border-color: var(--ink); background: rgba(246, 239, 228, 0.95); color: #11100e; }
+  .btn:hover { background: rgba(201, 167, 101, 0.22); border-color: rgba(201, 167, 101, 0.6); }
+  @media (max-width: 720px) {
+    .hero { padding: 8vh 18px 12vh; }
+  }
+</style>
+</head>
+<body>
+  <header class="nav">
+    <strong>Jiang Lens</strong>
+    <nav><a>About</a><a>Lens</a><a>Episodes</a><a>Interviews</a><a>Topics</a></nav>
+  </header>
+  <section class="stage">
+    <canvas class="field" id="field"></canvas>
+    <div class="hero">
+      <span class="kicker">Agent-run open research</span>
+      <h1><span>Predictive</span><span>History Lens</span></h1>
+      <p class="lead">
+        We analyze Jiang Xueqin's lectures, interviews, and writing to distill the concepts, chronology, and source-grounded readings behind the Predictive History world model for readers and agents.
+      </p>
+      <div class="actions">
+        <a class="btn primary" href="#">Explore the latest episode</a>
+        <a class="btn" href="#">Explore the lens</a>
+      </div>
+    </div>
+  </section>
+<script>
+(() => {
+  const canvas = document.getElementById('field');
+  const ctx = canvas.getContext('2d', { alpha: true });
+  const dpr = Math.min(window.devicePixelRatio || 1, 2);
+
+  const sprites = {};
+  function makeSprite(stops) {
+    const s = document.createElement('canvas');
+    s.width = s.height = 64;
+    const sc = s.getContext('2d');
+    const g = sc.createRadialGradient(32, 32, 0, 32, 32, 32);
+    stops.forEach(([t, c]) => g.addColorStop(t, c));
+    sc.fillStyle = g;
+    sc.fillRect(0, 0, 64, 64);
+    return s;
+  }
+  sprites.amber = makeSprite([[0,'rgba(255,210,150,1)'],[0.3,'rgba(255,150,80,0.5)'],[1,'rgba(255,90,40,0)']]);
+  sprites.white = makeSprite([[0,'rgba(255,250,235,1)'],[0.25,'rgba(255,230,180,0.6)'],[1,'rgba(255,160,90,0)']]);
+  sprites.dust  = makeSprite([[0,'rgba(255,200,140,0.55)'],[0.3,'rgba(210,140,80,0.18)'],[1,'rgba(150,90,40,0)']]);
+
+  function drawDot(x, y, size, alpha, hue) {
+    ctx.globalAlpha = Math.max(0, Math.min(1, alpha));
+    ctx.drawImage(sprites[hue], x - size / 2, y - size / 2, size, size);
+  }
+
+  // --- Subdivided icosahedron (denser cage) + selected long inner chords ---
+  const PHI = (1 + Math.sqrt(5)) / 2;
+  function buildIco(subdivisions) {
+    let verts = [
+      [-1, PHI, 0], [1, PHI, 0], [-1, -PHI, 0], [1, -PHI, 0],
+      [0, -1, PHI], [0, 1, PHI], [0, -1, -PHI], [0, 1, -PHI],
+      [PHI, 0, -1], [PHI, 0, 1], [-PHI, 0, -1], [-PHI, 0, 1]
+    ].map(v => { const L = Math.hypot(v[0], v[1], v[2]); return [v[0]/L, v[1]/L, v[2]/L]; });
+    let faces = [
+      [0,11,5],[0,5,1],[0,1,7],[0,7,10],[0,10,11],
+      [1,5,9],[5,11,4],[11,10,2],[10,7,6],[7,1,8],
+      [3,9,4],[3,4,2],[3,2,6],[3,6,8],[3,8,9],
+      [4,9,5],[2,4,11],[6,2,10],[8,6,7],[9,8,1]
+    ];
+    const mids = new Map();
+    function mid(a, b) {
+      const k = a < b ? a + '_' + b : b + '_' + a;
+      if (mids.has(k)) return mids.get(k);
+      const va = verts[a], vb = verts[b];
+      const m = [(va[0]+vb[0])/2, (va[1]+vb[1])/2, (va[2]+vb[2])/2];
+      const L = Math.hypot(m[0], m[1], m[2]);
+      m[0] /= L; m[1] /= L; m[2] /= L;
+      const idx = verts.length; verts.push(m); mids.set(k, idx); return idx;
+    }
+    for (let s = 0; s < subdivisions; s++) {
+      const nf = [];
+      for (const [a, b, c] of faces) {
+        const ab = mid(a, b), bc = mid(b, c), ca = mid(c, a);
+        nf.push([a, ab, ca], [b, bc, ab], [c, ca, bc], [ab, bc, ca]);
+      }
+      faces = nf;
+    }
+    const eset = new Set();
+    for (const [a, b, c] of faces) {
+      eset.add(a < b ? a + '_' + b : b + '_' + a);
+      eset.add(b < c ? b + '_' + c : c + '_' + b);
+      eset.add(c < a ? c + '_' + a : a + '_' + c);
+    }
+    const edges = Array.from(eset).map(k => k.split('_').map(Number));
+    return { verts, edges };
+  }
+  // Subdivision 2 gives 480 surface edges — much denser cage
+  const surface = buildIco(2);
+
+  // Long inner chords: connect original 12 vertices (the antipodes and long crossings)
+  const innerChords = [];
+  for (let i = 0; i < 12; i++) {
+    for (let j = i + 1; j < 12; j++) {
+      innerChords.push([i, j]);
+    }
+  }
+
+  function rotY(v, a) { const c = Math.cos(a), s = Math.sin(a); return [c*v[0] + s*v[2], v[1], -s*v[0] + c*v[2]]; }
+  function rotX(v, a) { const c = Math.cos(a), s = Math.sin(a); return [v[0], c*v[1] - s*v[2], s*v[1] + c*v[2]]; }
+
+  // --- Dense atmospheric dust ---
+  let dust = [];
+  let w = 0, h = 0, icoCenter = { x: 0, y: 0, r: 0 };
+  function rand(a, b) { return a + Math.random() * (b - a); }
+
+  function build() {
+    w = window.innerWidth;
+    h = window.innerHeight;
+    canvas.width = w * dpr;
+    canvas.height = h * dpr;
+    canvas.style.width = w + 'px';
+    canvas.style.height = h + 'px';
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.scale(dpr, dpr);
+
+    icoCenter.x = w * 0.62;
+    icoCenter.y = h * 0.48;
+    icoCenter.r = Math.min(w, h) * 0.22;
+
+    // Dense haze — lots of small dust motes
+    const target = Math.floor((w * h) / 1600);
+    dust = new Array(target).fill(0).map(() => {
+      const z = Math.pow(Math.random(), 1.4);
+      return {
+        x: rand(-30, w + 30),
+        y: rand(-30, h + 30),
+        z,
+        size: 4 + z * 18,
+        baseA: 0.06 + z * 0.22,
+        speed: rand(0.0006, 0.0024),
+        phase: rand(0, Math.PI * 2),
+        nx: rand(-1, 1) * 0.0007,
+        ny: rand(-1, 1) * 0.0007 + 0.0005,
+      };
+    });
+  }
+
+  function flowAt(x, y, t) {
+    const s = 0.0014;
+    const a = Math.sin(x * s + t * 0.00014) + Math.cos(y * s * 0.7 + t * 0.0001);
+    const b = Math.cos(x * s * 0.9 - t * 0.00012) + Math.sin(y * s + t * 0.00015);
+    return [a * 0.7, b * 0.5 + 0.24];
+  }
+
+  // Thin pale wire — same color regardless of orientation.
+  // Z-sort handles the silhouetting naturally: front wires drawn after the
+  // bright core appear dark against it; wires elsewhere read as pale on haze.
+  function drawWire(pa, pb, type) {
+    const zAvg = (pa[3] + pb[3]) / 2;
+    const tt = (zAvg + 1) / 2;
+    if (type === 'surface') {
+      // Pale cream/gold, slightly more saturated in back-rim-lit areas
+      const alpha = 0.55 + (1 - tt) * 0.20;
+      ctx.strokeStyle = `rgba(245, 215, 165, ${alpha.toFixed(2)})`;
+      ctx.lineWidth = 0.8;
+    } else {
+      // Inner chord — fainter pale gold
+      const alpha = 0.22 + (1 - tt) * 0.12;
+      ctx.strokeStyle = `rgba(235, 200, 150, ${alpha.toFixed(2)})`;
+      ctx.lineWidth = 0.55;
+    }
+    ctx.beginPath();
+    ctx.moveTo(pa[0], pa[1]);
+    ctx.lineTo(pb[0], pb[1]);
+    ctx.stroke();
+  }
+
+  // Black/dark version of the same wire — used in FRONT pass, painted with
+  // source-over OVER the bright core so they silhouette
+  function drawWireFront(pa, pb, type) {
+    if (type === 'surface') {
+      // Front wire is in shadow against the bulb — near-black with a touch of warmth
+      ctx.strokeStyle = 'rgba(40, 22, 10, 0.85)';
+      ctx.lineWidth = 0.9;
+    } else {
+      ctx.strokeStyle = 'rgba(28, 16, 8, 0.6)';
+      ctx.lineWidth = 0.6;
+    }
+    ctx.beginPath();
+    ctx.moveTo(pa[0], pa[1]);
+    ctx.lineTo(pb[0], pb[1]);
+    ctx.stroke();
+  }
+
+  function step(t) {
+    ctx.clearRect(0, 0, w, h);
+
+    // === Pass 1: dense warm haze (additive) ===
+    ctx.globalCompositeOperation = 'lighter';
+
+    // Big warm wash centered on the radiant
+    const grd = ctx.createRadialGradient(icoCenter.x, icoCenter.y, 0, icoCenter.x, icoCenter.y, Math.max(w, h) * 0.7);
+    grd.addColorStop(0, 'rgba(255, 170, 95, 0.36)');
+    grd.addColorStop(0.4, 'rgba(180, 100, 50, 0.18)');
+    grd.addColorStop(1, 'rgba(0, 0, 0, 0)');
+    ctx.globalAlpha = 1;
+    ctx.fillStyle = grd;
+    ctx.fillRect(0, 0, w, h);
+
+    // Dust motes — bathe the frame in warm particle haze
+    for (const p of dust) {
+      const [fx, fy] = flowAt(p.x, p.y, t);
+      p.x += fx * (0.3 + p.z * 0.7) + p.nx * (1 + p.z * 4);
+      p.y += fy * (0.18 + p.z * 0.6) + p.ny * (1 + p.z * 4);
+      if (p.x < -40) p.x = w + 40;
+      if (p.x > w + 40) p.x = -40;
+      if (p.y < -40) p.y = h + 40;
+      if (p.y > h + 40) p.y = -40;
+      const flick = 0.5 + 0.5 * Math.sin(t * p.speed + p.phase);
+      const a = p.baseA * (0.55 + 0.45 * flick);
+      // Brighter near the core
+      const dx = p.x - icoCenter.x, dy = p.y - icoCenter.y;
+      const d = Math.hypot(dx, dy);
+      const halo = Math.max(0, 1 - d / (icoCenter.r * 4));
+      drawDot(p.x, p.y, p.size, a + halo * 0.20, 'dust');
+    }
+
+    // Project geometry
+    const rotY1 = t * 0.00012;
+    const rotX1 = Math.sin(t * 0.00005) * 0.38 + 0.18;
+    const projSurface = surface.verts.map(v => {
+      const r = rotX(rotY(v, rotY1), rotX1);
+      const persp = 4 / (r[2] + 3.0);
+      return [icoCenter.x + r[0] * icoCenter.r * persp, icoCenter.y + r[1] * icoCenter.r * persp, persp, r[2]];
+    });
+
+    // Categorise edges by depth
+    const backSurf = [], frontSurf = [];
+    for (const e of surface.edges) {
+      const zAvg = (projSurface[e[0]][3] + projSurface[e[1]][3]) / 2;
+      (zAvg < 0 ? backSurf : frontSurf).push(e);
+    }
+    const backChord = [], frontChord = [];
+    for (const e of innerChords) {
+      const zAvg = (projSurface[e[0]][3] + projSurface[e[1]][3]) / 2;
+      (zAvg < 0 ? backChord : frontChord).push(e);
+    }
+
+    // === Pass 2: back-facing wires (pale, drawn before light, will get bathed in glow) ===
+    ctx.globalCompositeOperation = 'source-over';
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = 1;
+    for (const e of backChord) drawWire(projSurface[e[0]], projSurface[e[1]], 'chord');
+    for (const e of backSurf) drawWire(projSurface[e[0]], projSurface[e[1]], 'surface');
+
+    // === Pass 3: the inner sun — small, concentrated, intense ===
+    ctx.globalCompositeOperation = 'lighter';
+    const pulse = 0.94 + 0.06 * Math.sin(t * 0.0011);
+    // Outer warm bloom (small radius)
+    drawDot(icoCenter.x, icoCenter.y, icoCenter.r * 3.4 * pulse, 0.42, 'amber');
+    drawDot(icoCenter.x, icoCenter.y, icoCenter.r * 1.6 * pulse, 0.75, 'amber');
+    // Tight white-hot core
+    drawDot(icoCenter.x, icoCenter.y, icoCenter.r * 0.7 * pulse, 1.0, 'white');
+    drawDot(icoCenter.x, icoCenter.y, icoCenter.r * 0.28 * pulse, 1.0, 'white');
+
+    // Anamorphic flare — long horizontal streak
+    const flareLen = icoCenter.r * 10 * pulse;
+    const fG = ctx.createLinearGradient(icoCenter.x - flareLen, icoCenter.y, icoCenter.x + flareLen, icoCenter.y);
+    fG.addColorStop(0, 'rgba(255, 200, 140, 0)');
+    fG.addColorStop(0.4, 'rgba(255, 200, 140, 0.18)');
+    fG.addColorStop(0.5, 'rgba(255, 240, 200, 0.7)');
+    fG.addColorStop(0.6, 'rgba(255, 200, 140, 0.18)');
+    fG.addColorStop(1, 'rgba(255, 200, 140, 0)');
+    ctx.globalAlpha = 1;
+    ctx.fillStyle = fG;
+    ctx.fillRect(icoCenter.x - flareLen, icoCenter.y - 1.0, flareLen * 2, 2.0);
+
+    // === Pass 4: front-facing wires (dark silhouettes against the bright core) ===
+    ctx.globalCompositeOperation = 'source-over';
+    ctx.globalAlpha = 1;
+    for (const e of frontChord) drawWireFront(projSurface[e[0]], projSurface[e[1]], 'chord');
+    for (const e of frontSurf) drawWireFront(projSurface[e[0]], projSurface[e[1]], 'surface');
+
+    requestAnimationFrame(step);
+  }
+
+  build();
+  requestAnimationFrame(step);
+  window.addEventListener('resize', build);
+})();
+</script>
+</body>
+</html>
