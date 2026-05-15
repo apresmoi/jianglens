@@ -9,7 +9,19 @@ Use this for semantic processing of `content/workflow/tasks/<source-slug>/transc
 
 ## Model Policy
 
-Use `gpt-5.5` with `reasoning_effort: xhigh` for transcript packet parsing unless the maintainer explicitly asks to test a smaller model. This pass defines the source semantics that later episode pages and lens distillation depend on, so do not default to mini/low for normal video parsing.
+Use `gpt-5.4` for normal transcript packet parsing. Scheduled production wakes
+should use low reasoning when supported. Request escalation for noisy ASR,
+ambiguous speaker interaction, dense Great Books passages, or geopolitical
+argument chains.
+
+Escalate to `gpt-5.5` when the packet contains unusual Jiang metaphors,
+possible contradictions with earlier sources, hard speaker ambiguity, or
+material likely to mutate the public lens. Do not use mini-class models for
+normal packet parsing; they are only for coordination or cheap comparison.
+
+The corpus is now a calibration anchor. Use existing semantic bundles, strong
+episode reads, and lens pages as comparison surfaces when judging whether a
+packet contains a recurring mechanism or a new source-specific pressure.
 
 ## Contract
 

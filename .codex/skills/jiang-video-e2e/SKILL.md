@@ -21,7 +21,20 @@ This is a pipeline map, not a future autonomous-agent persona. Autonomous agents
 
 ## Model Policy
 
-When delegating video parsing or episode writing work, use `gpt-5.5` with `reasoning_effort: xhigh` by default. Use smaller models only when the maintainer explicitly asks for an experiment.
+Default to `gpt-5.4` for first-pass video parsing, semantic packet completion,
+and public episode/interview read drafting. Scheduled production wakes should
+use low reasoning when supported; request escalation only when the source is
+dense, noisy, or conceptually consequential.
+
+Escalate to `gpt-5.5` for detailed QA, source ambiguity, contradiction, strong
+new Jiang formulations, or possible lens/atlas mutation. Do not use mini-class
+models for normal source parsing; they are for coordination and cheap
+comparison only.
+
+The first pass is allowed to be a strong draft. It must preserve exact source
+refs, signature moments, questions, chronology, and enough evidence for a
+later strong-model QA or lens pass to improve it without rereading the whole
+pipeline from scratch.
 
 ## Stage 0: Colab Has Produced Artifacts
 

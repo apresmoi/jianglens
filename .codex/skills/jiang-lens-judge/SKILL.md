@@ -22,6 +22,9 @@ Check whether the draft:
 - avoids default modern ideology, generic media criticism, or bland academic paraphrase
 - gives readers concrete scenes, mechanisms, diagnostics, and related lens connections
 - uses lens points only for durable reusable ideas, not decorative tagging
+- meets the current corpus bar instead of sounding like a first-pass summary
+- preserves the sharp Jiang phrases that existing strong episode reads and
+  semantic bundles make visible
 
 ### Grounding/Provenance Judge
 
@@ -35,6 +38,20 @@ Check whether:
 - cross-domain bridges carry both sides of the bridge, or are written as future tests
 - quoted literary/source material is distinguished from Jiang's own gloss
 - dates remain visible where chronology or contradiction matters
+- near-duplicate concepts, aliases, or topic variants have been checked before
+  accepting a new public concept boundary
+
+### Corpus Anchor Judge
+
+When reviewing an episode, concept, or atlas mutation, also ask:
+
+- Which existing pages or reads are the calibration examples?
+- Does this draft lose a signature moment that the transcript or semantic bundle
+  preserves?
+- Is this actually a new mechanism, or an alias/example of an existing concept?
+- Does chronology change the meaning of the proposed synthesis?
+- Should a cheap comparison finding be escalated to a strong-model concept
+  decision?
 
 ## Subagent Use
 
