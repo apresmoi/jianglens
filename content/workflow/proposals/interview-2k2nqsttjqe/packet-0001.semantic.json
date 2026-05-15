@@ -1,0 +1,178 @@
+{
+  "packet_id": "interview-2k2nqsttjqe-semantics-pkt-0001",
+  "source_id": "video:interview-2k2nqsttjqe",
+  "source_date": "2026-03-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0001"
+      ],
+      "kind": "question",
+      "summary": "Tucker introduces Jiang as someone with a record of predictions and asks where the Iran war is going, how it will resolve, and what consequences it will have.",
+      "speaker_attribution": "Tucker Carlson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0002",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0003"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang thanks Tucker and Tucker acknowledges him before the substantive answer begins.",
+      "speaker_attribution": "Jiang and Tucker Carlson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0004",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0005",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts an Iran war resembling Ukraine: attritional, difficult to stop, energy-focused, globally disruptive, and likely to draw in America, the Strait of Hormuz, Saudi Arabia, Pakistan, and other actors.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "Tucker accepts the scenario as near-worst-case and asks why major powers that would be hurt by it cannot settle the war quickly.",
+      "speaker_attribution": "Tucker Carlson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the war develops its own momentum because a ceasefire would require American retreat, Iranian regional security guarantees, GCC dependence on Iran, and pressure on the petrodollar system.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang predicts the Iran war will become a years-long war of attrition, with neither side conceding even when a ceasefire would be materially rational.",
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0004",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Prediction made in the 2026-03-20 Tucker Carlson interview.",
+      "topic_tags": [
+        "iran-war",
+        "war-of-attrition",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang ties the war's global impact to cheap energy: attacks on Iranian and GCC energy infrastructure, possible $200 oil, fuel rationing, and food shortage risks would stress the world economy.",
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0004",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Diagnosis and prediction as of 2026-03-20.",
+      "topic_tags": [
+        "energy",
+        "global-economy",
+        "food-shortage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the loss of an Iranian pragmatic negotiator removes an off-ramp and locks both sides into attritional commitment.",
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0005",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang's dated reading of the war leadership situation on 2026-03-20.",
+      "topic_tags": [
+        "iran",
+        "off-ramp",
+        "ceasefire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues the United States lacks a viable ceasefire path because Iranian terms would imply American withdrawal from the Middle East, GCC realignment toward Iran, and damage to the petrodollar recycling system.",
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Geopolitical model stated in the 2026-03-20 interview.",
+      "topic_tags": [
+        "petrodollar",
+        "gcc",
+        "american-empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0008"
+      ],
+      "moment": "War acquires its own momentum and logic, so actors become trapped by the conditions that would be required to stop it.",
+      "source_phrase": "it achieves a momentum and a logic of its own",
+      "why_it_matters": "This phrase becomes Jiang's governing model for why rational incentives do not automatically produce peace.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0005",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0006"
+      ],
+      "moment": "The assassination of a pragmatic off-ramp turns a war that should end into a long attritional commitment.",
+      "source_phrase": "There really is no more off-ramp",
+      "why_it_matters": "It gives the read a concrete hinge between event chronology and structural war logic.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "off-ramp",
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0006",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A politically viable exit from war; Jiang argues the Iran war loses such exits once ceasefire terms threaten American regional order.",
+      "confidence": "high"
+    },
+    {
+      "term": "petrodollar",
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The GCC practice of selling oil in U.S. dollars and recycling proceeds into the American economy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0004",
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0008"
+      ],
+      "note": "This is Jiang's 2026-03-20 forecast of an Iran-centered attritional war and its petrodollar consequences.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-2k2nqsttjqe@transcript:v1#seg-0005"
+      ],
+      "note": "The transcript renders several names and phrases roughly; preserve the claim structure without over-normalizing the proper nouns."
+    }
+  ]
+}
