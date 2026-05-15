@@ -233,7 +233,33 @@
   for (const face of SQUARE_FACES) addInnerShape(face);
   for (const face of TRIANGLE_FACES) addInnerShape(face);
 
-  const edges = surfaceEdges.concat(innerFaceEdges);
+  // === Nested inner cuboctahedron (Vector Equilibrium lattice) ===
+  // Instead of a single center point, drop a smaller cuboctahedron at 1/3
+  // scale, same orientation. Add 12 thin radii pairing each outer vertex
+  // with its matching inner vertex (vertex i ↔ vertex i, same direction).
+  const INNER_VE_SCALE = 1 / 3;
+  const innerVeStart = verts.length;
+  for (let i = 0; i < 12; i++) {
+    verts.push([
+      baseVerts[i][0] * INNER_VE_SCALE,
+      baseVerts[i][1] * INNER_VE_SCALE,
+      baseVerts[i][2] * INNER_VE_SCALE,
+    ]);
+  }
+  // Inner cage edges — reuse the same connectivity, thin weight
+  for (const [a, b] of surfaceEdges) {
+    thinEdges.push([innerVeStart + a, innerVeStart + b]);
+  }
+  // 12 radii: outer vertex i → inner vertex i
+  for (let i = 0; i < 12; i++) {
+    thinEdges.push([i, innerVeStart + i]);
+  }
+
+  // Move the inner-face shape boundaries (tiny squares + triangles) into the
+  // thin pool. Only the outer cuboctahedron cage stays bold; everything else
+  // is dotted — keeps the form readable instead of competing with itself.
+  thinEdges.push(...innerFaceEdges);
+  const edges = surfaceEdges;
   function rotY(v, a) { const c = Math.cos(a), s = Math.sin(a); return [c*v[0] + s*v[2], v[1], -s*v[0] + c*v[2]]; }
   function rotX(v, a) { const c = Math.cos(a), s = Math.sin(a); return [v[0], c*v[1] - s*v[2], s*v[1] + c*v[2]]; }
 
@@ -323,14 +349,14 @@
     let bakeToken = 0;
 
     // Width-driven size scale for the icosahedron.
-    //   w ≤ 600:   scale ≈ 1.25 (relatively bigger on narrow phones)
-    //   w = 1400:  scale = 1.0  (current tuned look)
-    //   w ≥ 2200:  scale ≈ 0.78 (smaller on huge monitors)
-    // Linear in between, clamped at the extremes.
+    //   w ≤ 600:    scale ≈ 1.25 (relatively bigger on narrow phones)
+    //   w = 1100:   scale ≈ 1.10 (tuned)
+    //   w ≥ 1100:   scale ≈ 1.10 (HELD — wider screens keep the 1100 size)
+    // Linear between 600 and 1100, then constant past 1100.
     function sizeScaleForWidth(w) {
-      const t = (w - 600) / (2200 - 600); // 0 at 600, 1 at 2200
-      const clamped = Math.max(0, Math.min(1, t));
-      return 1.25 + clamped * (0.78 - 1.25);
+      const wCapped = Math.min(w, 1100);
+      const t = Math.max(0, (wCapped - 600) / (2200 - 600));
+      return 1.25 + t * (0.78 - 1.25);
     }
 
     function bakeRadiantAsync(cols, rows, cellAspect, onDone) {
