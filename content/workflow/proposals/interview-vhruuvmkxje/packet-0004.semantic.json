@@ -1,0 +1,112 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0004",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0025",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0026",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0027",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0028",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0029",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0030",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0031",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang describes his current principal-level strategy: control the curriculum, collect evidence through direct teaching, show parents and teachers concrete student gains, and replace word-list memorization with reading, acting, literary analysis, and a democratic classroom where precise feedback is non-judgmental.",
+      "speaker_attribution": "Interviewer prompts with Jiang extended answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang's current reform strategy is to collect concrete classroom evidence that change is possible and beneficial, then use parents as the first persuasion target and teachers as the second.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0025"],
+      "temporal_scope": "Strategy stated on 2026-04-05.",
+      "topic_tags": ["school-leadership", "evidence", "parents", "teachers"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He opposes English teaching built around memorizing word lists and instead asks students to read books, act scenes, and write literary analysis.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0025", "video:interview-vhruuvmkxje@transcript:v1#seg-0026"],
+      "temporal_scope": "Classroom practice described on 2026-04-05.",
+      "topic_tags": ["english-teaching", "reading", "literary-analysis", "memorization"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says students' minds can blossom quickly when they become agents of their own learning and then advocate for the approach to parents.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0026"],
+      "temporal_scope": "Recent classroom observation as of 2026-04-05.",
+      "topic_tags": ["student-agency", "parents", "classroom-evidence"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues principals must model change in the classroom because school-leader talk alone leaves parents and teachers passive.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0028"],
+      "temporal_scope": "Leadership model stated on 2026-04-05.",
+      "topic_tags": ["principal", "role-model", "leadership"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A democratic classroom must coax students out of memorization addiction by making speech safe, failure tolerable, feedback precise, and teacher response non-judgmental.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0029", "video:interview-vhruuvmkxje@transcript:v1#seg-0030"],
+      "temporal_scope": "Classroom model stated on 2026-04-05.",
+      "topic_tags": ["democratic-classroom", "feedback", "failure", "memorization"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0026"],
+      "moment": "In two weeks, students' minds 'blossom and open' when word lists give way to books, scenes, and essays.",
+      "source_phrase": "their minds just blossom and open",
+      "why_it_matters": "It supplies the concrete classroom proof Jiang says parents need.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0029"],
+      "moment": "Students must be coaxed out of an addiction to memorization.",
+      "source_phrase": "coax them out of their addiction to memorization",
+      "why_it_matters": "It names memorization not as a neutral method but as a comfort habit that blocks agency.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "democratic classroom",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0029"],
+      "definition_or_usage": "An open, tolerant, caring classroom where students can speak, risk failure, receive precise feedback, and become agents of learning.",
+      "confidence": "high"
+    },
+    {
+      "term": "principal as agent of change",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0028"],
+      "definition_or_usage": "A school leader who proves reform by teaching in the classroom rather than merely announcing ideas.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0025", "video:interview-vhruuvmkxje@transcript:v1#seg-0026"],
+      "note": "Jiang reports recent classroom trials from the weeks before this 2026-04-05 interview.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0025"],
+      "note": "The phrase 'good, good, good' appears to be ASR noise or a brief aside; it is not used for claims."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0006",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0041",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0042",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0043",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0044",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0045",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0046"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether the pandemic changed Jiang's thinking; Jiang answers that lockdowns exposed how little students learned under lecture delivery and clarified meta-learning, collaboration, and the goal of making students able to learn without a teacher.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0047",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer summarizes Jiang's goal as student empowerment; Jiang agrees but reframes his classroom as field research toward a blueprint for future reform.",
+      "speaker_attribution": "Interviewer synthesis and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the pandemic clarified how broken lecture-based schooling is, because Chinese schools moved online with little disruption precisely because offline and online were both teacher talk.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0042"],
+      "temporal_scope": "Pandemic retrospective stated on 2026-04-05.",
+      "topic_tags": ["pandemic", "lecture-model", "china", "schooling"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines meta-learning as teaching students how to learn: memory, goals, strategies, reading plot, psychological profile, and character change.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0043"],
+      "temporal_scope": "Education model stated on 2026-04-05.",
+      "topic_tags": ["meta-learning", "reading-strategies", "student-agency"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's teacher goal is to make himself redundant by giving students tools and a new pair of eyes for seeing themselves, the world, and texts.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0044", "video:interview-vhruuvmkxje@transcript:v1#seg-0046"],
+      "temporal_scope": "Teacher aim stated on 2026-04-05.",
+      "topic_tags": ["teacher-role", "empowerment", "liberation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats his current classroom work as field research for a future blueprint for education reform, not as an immediate plan to change the whole Chinese school system.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0048"],
+      "temporal_scope": "Reform strategy stated on 2026-04-05.",
+      "topic_tags": ["field-research", "blueprint", "education-reform"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0044"],
+      "moment": "The teacher's goal is to make himself redundant.",
+      "source_phrase": "make myself redundant in their lives",
+      "why_it_matters": "It compresses his education philosophy into a sharp anti-dependence principle.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0046"],
+      "moment": "Meta-learning gives students a new pair of eyes.",
+      "source_phrase": "new set of tools a new pair of eyes",
+      "why_it_matters": "It turns learning from content delivery into a change in perception.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "meta-learning",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0043"],
+      "definition_or_usage": "Learning how to learn: forming memory, goals, strategies, and interpretive tools so students can learn without teacher dependence.",
+      "confidence": "high"
+    },
+    {
+      "term": "education as field research",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0048"],
+      "definition_or_usage": "Jiang's view of his classroom as an experiment for designing a future reform blueprint.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0042"],
+      "note": "The interview frames the pandemic and two years of remote learning as the event that sharpened Jiang's meta-learning emphasis.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0045"],
+      "note": "Segment 0045 is diarized as interviewer but functions as a continuation/synthesis of Jiang's thought; treated as interviewer restatement."
+    }
+  ]
+}

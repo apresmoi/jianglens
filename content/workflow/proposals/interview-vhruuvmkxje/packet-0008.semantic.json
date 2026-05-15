@@ -1,0 +1,115 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0008",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0057",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0058",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0059",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0060",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks what teacher collaboration looks like; Jiang describes mentoring, shared department planning, peer observation, and frank feedback, then distinguishes strong Chinese teaching culture from a test-score end goal that remains problematic.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0062",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0063",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Asked about alternative measures, Jiang says he prioritizes growth mindset, self-reflection, awareness of limitations, and courage, and argues that top academic students can become more rigid than weaker students.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Chinese teacher collaboration includes mentoring, collaborative lesson planning, peer classroom observation, and frank post-lesson critique.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0058", "video:interview-vhruuvmkxje@transcript:v1#seg-0059"],
+      "temporal_scope": "Comparative description on 2026-04-05.",
+      "topic_tags": ["teacher-collaboration", "mentoring", "peer-feedback"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes strong Chinese teaching culture from a problematic assessment system that still overvalues test scores and pressures students.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0061"],
+      "temporal_scope": "Diagnosis on 2026-04-05.",
+      "topic_tags": ["assessment", "test-scores", "teacher-culture"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He wants holistic assessment that encourages individuality and creativity rather than only test performance.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0061", "video:interview-vhruuvmkxje@transcript:v1#seg-0062"],
+      "temporal_scope": "Normative claim on 2026-04-05.",
+      "topic_tags": ["holistic-assessment", "individuality", "creativity"],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says growth mindset means valuing challenge, self-reflection, awareness of limitations, and courage to overcome those limitations.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0063"],
+      "temporal_scope": "School measure stated on 2026-04-05.",
+      "topic_tags": ["growth-mindset", "self-reflection", "challenge"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that top academic students may be harder to teach than weak students because praise and easy rewards can make them closed-minded, stubborn, and anti-creative.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0063", "video:interview-vhruuvmkxje@transcript:v1#seg-0064"],
+      "temporal_scope": "Classroom diagnosis on 2026-04-05.",
+      "topic_tags": ["best-students", "anti-creativity", "growth-mindset"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0061"],
+      "moment": "The professional teaching culture is great; the end goal is the problem.",
+      "source_phrase": "the culture of teaching... is great but the end goal... is problematic",
+      "why_it_matters": "It prevents a simple China-bad reading by separating teacher culture from the assessment regime.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0063"],
+      "moment": "The worst students may be more teachable than the best students because they know their limitations.",
+      "source_phrase": "the very best students... are much more problematic than the worst students",
+      "why_it_matters": "It sharpens his critique of meritocratic success as a deforming incentive.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "holistic assessment",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0061"],
+      "definition_or_usage": "Assessment that encourages individuality, creativity, growth mindset, and self-reflection rather than test scores alone.",
+      "confidence": "high"
+    },
+    {
+      "term": "growth mindset",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0063"],
+      "definition_or_usage": "A value system of challenge, self-reflection, awareness of limitations, and courage to overcome those limitations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0061", "video:interview-vhruuvmkxje@transcript:v1#seg-0063"],
+      "note": "On 2026-04-05 Jiang pairs praise for Chinese teacher culture with a sharper critique of test-score ends and meritocratic best-student values.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

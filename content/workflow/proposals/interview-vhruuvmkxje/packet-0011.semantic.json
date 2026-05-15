@@ -1,0 +1,96 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0011",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0081",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0082",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0083"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks what is on Jiang's desk; Jiang names Judy Blume's Tales of a Fourth Grade Nothing and recommends it for Chinese students because it carries deep ideas in simple language.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0084",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0085",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0086",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0087"
+      ],
+      "kind": "exchange",
+      "summary": "Asked who inspires him, Jiang names his wife, saying she completes him and helps his rational, narrow student self understand how ordinary people think.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0088"],
+      "kind": "question",
+      "summary": "The interviewer asks what Jiang is excited about next.",
+      "speaker_attribution": "Interviewer question.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang teaches Judy Blume's Tales of a Fourth Grade Nothing to sixth-grade Chinese students because it expresses deep ideas in simple language and themes that resonate.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0083"],
+      "temporal_scope": "Teaching material described on 2026-04-05.",
+      "topic_tags": ["judy-blume", "literature", "simple-language", "sixth-grade"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents his wife as central to his work because she helps him understand ordinary people's thinking, counterbalancing his rational and narrow student-formed worldview.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0085", "video:interview-vhruuvmkxje@transcript:v1#seg-0087"],
+      "temporal_scope": "Personal reflection on 2026-04-05.",
+      "topic_tags": ["wife", "ordinary-people", "rationality", "empathy"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0083"],
+      "moment": "Judy Blume matters because she puts deep ideas into simple language.",
+      "source_phrase": "very deep ideas in very simple language",
+      "why_it_matters": "It mirrors Jiang's own teaching problem: complex ideas for students with limited English and limited experience.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0087"],
+      "moment": "Jiang says his wife is more of a human being than he is.",
+      "source_phrase": "She's more of a human being than I am",
+      "why_it_matters": "It gives emotional shape to his critique of being a narrow rational good student.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "deep ideas in simple language",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0083"],
+      "definition_or_usage": "A teaching criterion Jiang values in literature for Chinese students learning through English.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0085", "video:interview-vhruuvmkxje@transcript:v1#seg-0087"],
+      "note": "The late interview turns from school-system claims into personal influences and classroom materials.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0083"],
+      "note": "The phrase 'my students who have Chinese students' is ASR-damaged; extraction relies on the clear surrounding claim that the book works for Chinese students."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0002",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0009",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0010",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0011",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0012"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang names classroom obstacles to creativity: teacher control, result fixation, memorization, and fear of mistakes; the interviewer presses the link to risk-taking, and Jiang answers with Galileo as anti-authority science.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0013",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0014",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0015",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks about school challenges; Jiang answers that China's continuity, harmony, and stability create deep conservatism, while the host restates the need to honor tradition while still changing education.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Chinese classrooms inhibit creativity through teacher control, obedience, result fixation, memorization, and stigma against mistakes.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0009"],
+      "temporal_scope": "Interview diagnosis on 2026-04-05.",
+      "topic_tags": ["china", "classroom", "obedience", "memorization"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames science through Galileo as anti-authority: truth comes from experimentation, observation, logic, and evidence rather than Church or inherited authority.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0012"],
+      "temporal_scope": "Interview model on 2026-04-05.",
+      "topic_tags": ["science", "anti-authority", "galileo", "truth"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that China's pride in five thousand years of continuity can also function as anti-change and anti-creativity.",
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0014",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-04-05.",
+      "topic_tags": ["china", "continuity", "conservatism", "change"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0012"],
+      "moment": "Science begins as refusal to rely on authority.",
+      "source_phrase": "we don't have to rely on authority",
+      "why_it_matters": "It explains why Jiang treats scientific process as a cultural and political problem, not a classroom technique.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0014"],
+      "moment": "China looks like a landmass, but culturally and intellectually Jiang calls it an ocean.",
+      "source_phrase": "culturally and intellectually it's an ocean",
+      "why_it_matters": "The image captures his claim that visible modern infrastructure hides a deep civilizational continuity.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "scientific revolution in the classroom",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0009"],
+      "definition_or_usage": "Jiang's attempt to reproduce scientific habits of evidence, experiment, mistake tolerance, and anti-authority inside Chinese classrooms.",
+      "confidence": "high"
+    },
+    {
+      "term": "deep-rooted conservatism",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0015"],
+      "definition_or_usage": "The civilizational continuity, stability, and harmony that preserve order while inhibiting progress and change.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0014", "video:interview-vhruuvmkxje@transcript:v1#seg-0015"],
+      "note": "Jiang contrasts recent 30-40 years of visible Chinese economic change with a much longer cultural continuity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0014"],
+      "note": "ASR renders 'frowned upon' as 'front upon' in this packet; extraction normalizes only the meaning."
+    }
+  ]
+}

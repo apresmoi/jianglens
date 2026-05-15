@@ -1,0 +1,106 @@
+{
+  "packet_id": "interview-vhruuvmkxje-semantics-pkt-0012",
+  "source_id": "video:interview-vhruuvmkxje",
+  "source_date": "2026-04-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0089"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the prior question by describing an upcoming writing course on evidence-based reasoning where students collect information through online research, interviews, and surveys before writing coherent essays.",
+      "speaker_attribution": "Jiang answer to interviewer question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0090",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0091",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0092",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0093"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks for Jiang's essential education thought; Jiang says that as a beneficiary of meritocracy he has become skeptical of it and dreams of every student accessing elite education, not only the best students.",
+      "speaker_attribution": "Interviewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0094",
+        "video:interview-vhruuvmkxje@transcript:v1#seg-0095"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes the interview and the podcast outro invites listeners to subscribe, share, review, and connect.",
+      "speaker_attribution": "Interviewer and podcast outro.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang is preparing to teach writing through evidence-based reasoning: students will research, interview, survey, collect information, and turn it into coherent essays.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0089"],
+      "temporal_scope": "Upcoming course described on 2026-04-05.",
+      "topic_tags": ["writing", "evidence-based-reasoning", "research", "essays"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he benefited from meritocracy through tests and a Yale scholarship, but his education career has made him skeptical of meritocracy.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0091"],
+      "temporal_scope": "Personal and normative reflection on 2026-04-05.",
+      "topic_tags": ["meritocracy", "yale", "skepticism", "education"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that future human development requires making school systems more democratic and accessible, so every student can access elite education.",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0091", "video:interview-vhruuvmkxje@transcript:v1#seg-0092", "video:interview-vhruuvmkxje@transcript:v1#seg-0093"],
+      "temporal_scope": "Normative education claim on 2026-04-05.",
+      "topic_tags": ["democratic-education", "access", "elite-education", "equity"],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0091"],
+      "moment": "A beneficiary of meritocracy becomes skeptical of meritocracy.",
+      "source_phrase": "I am a beneficiary of what we call the meritocracy... I've become very skeptical about the meritocracy",
+      "why_it_matters": "It ties the whole interview's critique of top-student success to Jiang's own life.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0091"],
+      "moment": "The dream is elite education for every student, not only the very best students.",
+      "source_phrase": "every student is able to access an elite education, not just the very best students",
+      "why_it_matters": "It is the final public thesis of the interview.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "democratic elite education",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0091"],
+      "definition_or_usage": "Jiang's dream that elite education should be accessible to every student rather than reserved for top performers.",
+      "confidence": "high"
+    },
+    {
+      "term": "meritocracy skepticism",
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0091"],
+      "definition_or_usage": "A critique of test-and-IQ-based success from someone who personally benefited from it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-vhruuvmkxje@transcript:v1#seg-0089", "video:interview-vhruuvmkxje@transcript:v1#seg-0091"],
+      "note": "The interview closes by pairing Jiang's immediate April 2026 teaching plan with his broader mature skepticism of meritocracy.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
