@@ -22,7 +22,7 @@ const topicIndexOutRoot = path.join(topicOutRoot, 'index');
 const publicSkillPath = path.join(websiteRoot, 'public/skill.md');
 const origin = configuredOrigin();
 const basePath = configuredBasePath();
-const TOPIC_ALIAS_SHARD_LIMIT = 50;
+const TOPIC_ALIAS_SHARD_LIMIT = 100;
 
 const topicStopwords = new Set([
   'a',
@@ -2145,6 +2145,7 @@ function renderTopicIndexHtml(aliasTargets, topics, rootShards = buildTopicAlias
 
 function renderTopicLetterIndex(shard, topics) {
   const entries = shard.entries;
+  const topicGroups = topicAliasGroups(entries, topics);
   const lines = [
     `# Jiang Lens Topic Router: ${topicAliasShardLabel(shard.prefix)}`,
     '',
@@ -2161,24 +2162,57 @@ function renderTopicLetterIndex(shard, topics) {
   }
 
   if (entries.length) {
-    lines.push(shard.children.length ? '## Exact Aliases On This Prefix' : '## Aliases', '');
+    lines.push(shard.children.length ? '## Exact Topics On This Prefix' : '## Topics', '');
   }
 
-  for (const [alias, slug] of entries) {
-    const topic = topics.get(slug);
-    if (!topic) continue;
-    const aliasLabel = alias === slug ? topic.label : alias;
-    lines.push(`- \`${aliasLabel}\` -> ${markdownLink(topic.label, publicPath(`/topics/${slug}/`))} (text mirror: ${publicPath(`/topics/${slug}.txt`)})`);
+  for (const group of topicGroups) {
+    const visibleAliases = group.aliases.filter((alias) => alias !== group.slug);
+    const aliasText = visibleAliases.length
+      ? `; aliases in this shard: ${visibleAliases.map((alias) => `\`${alias}\``).join(', ')}`
+      : '';
+    lines.push(`- ${markdownLink(group.topic.label, publicPath(`/topics/${group.slug}/`))} (${group.aliases.length} alias${group.aliases.length === 1 ? '' : 'es'}${aliasText}; text mirror: ${publicPath(`/topics/${group.slug}.txt`)})`);
   }
   lines.push('');
   return `${lines.join('\n').trim()}\n`;
 }
 
-function renderTopicAliasRowsHtml(entries, topics) {
-  return entries.map(([alias, slug]) => {
+function topicAliasGroups(entries, topics) {
+  const groups = new Map();
+  for (const [alias, slug] of entries) {
     const topic = topics.get(slug);
-    if (!topic) return '';
-    const aliasLabel = alias === slug ? topic.label : alias;
+    if (!topic) continue;
+    if (!groups.has(slug)) {
+      groups.set(slug, {
+        slug,
+        topic,
+        aliases: new Set(),
+      });
+    }
+    groups.get(slug).aliases.add(alias);
+  }
+
+  return [...groups.values()]
+    .map((group) => ({
+      ...group,
+      aliases: [...group.aliases].sort((a, b) => {
+        if (a === group.slug) return -1;
+        if (b === group.slug) return 1;
+        return a.localeCompare(b);
+      }),
+    }))
+    .sort((a, b) => {
+      const aKey = a.aliases[0] || a.slug;
+      const bKey = b.aliases[0] || b.slug;
+      return aKey.localeCompare(bKey);
+    });
+}
+
+function renderTopicAliasRowsHtml(entries, topics) {
+  return topicAliasGroups(entries, topics).map((group) => {
+    const { topic, slug, aliases } = group;
+    const visibleAliases = aliases.filter((alias) => alias !== slug);
+    const aliasPreview = visibleAliases.slice(0, 8).join(', ');
+    const aliasOverflow = visibleAliases.length > 8 ? `, +${visibleAliases.length - 8} more` : '';
     const answerMapPoints = topic.semanticPoints.length + topic.glossary.length;
     const signalLinks = [
       topic.transcriptHits.length ? `<span class="ref-pill">${topic.transcriptHits.length} transcript hits</span>` : '',
@@ -2190,15 +2224,19 @@ function renderTopicAliasRowsHtml(entries, topics) {
           <span class="ref-group">${signalLinks.join('<span class="source-sep" aria-hidden="true">|</span>')}</span>`
       : `<span class="meta">No compiled evidence signals yet.</span>`;
     const hasEvidence = topic.transcriptHits.length || topic.sources.size || topic.semanticPoints.length || topic.glossary.length;
-    return `<article class="source-row" data-topic-item data-topic-search="${searchData([aliasLabel, topic.label, topic.slug, [...topic.aliases]])}">
+    const aliasMeta = visibleAliases.length
+      ? `<p class="meta">Aliases in this shard: ${escapeHtml(aliasPreview + aliasOverflow)}</p>`
+      : '';
+    return `<article class="source-row" data-topic-item data-topic-search="${searchData([aliases, topic.label, topic.slug, [...topic.aliases]])}">
       <div class="source-row-main">
         <div class="source-copy">
           <div class="row-title-line">
             <div class="title-meta">
-              <h3><code>${escapeHtml(aliasLabel)}</code> <span class="alias-arrow">-&gt;</span> ${htmlAnchor(publicPath(`/topics/${slug}/`), topic.label)}</h3>
+              <h3>${htmlAnchor(publicPath(`/topics/${slug}/`), topic.label)}</h3>
               <p class="meta">${escapeHtml(topic.slug)}</p>
+              ${aliasMeta}
             </div>
-            <span class="type-badge">${hasEvidence ? `Score ${rankTopicForIndex(topic)}` : 'Alias'}</span>
+            <span class="type-badge">${hasEvidence ? `Score ${rankTopicForIndex(topic)}` : 'Topic'}</span>
           </div>
           <div class="source-links">
             <span class="source-label">Open:</span>
@@ -2228,12 +2266,13 @@ function renderTopicPrefixRowsHtml(shard) {
 
 function renderTopicLetterIndexHtml(shard, rootShards, topics) {
   const entries = shard.entries;
+  const topicGroups = topicAliasGroups(entries, topics);
   const rows = renderTopicAliasRowsHtml(entries, topics);
   const childRows = renderTopicPrefixRowsHtml(shard);
   const allLetters = rootShards.map((rootShard) => rootShard.prefix);
   const shardByPrefix = new Map(rootShards.map((rootShard) => [rootShard.prefix, rootShard]));
-  const resultLabel = shard.children.length ? 'routes' : 'aliases';
-  const searchableCount = shard.children.length + entries.length;
+  const resultLabel = shard.children.length ? 'routes' : 'topics';
+  const searchableCount = shard.children.length + topicGroups.length;
   const content = `
       <section class="hero router-hero">
         <div class="hero-inner">
@@ -2241,7 +2280,7 @@ function renderTopicLetterIndexHtml(shard, rootShards, topics) {
             <p class="eyebrow">Topic aliases</p>
             <div class="hero-meta" aria-label="Alias shard counts">
               <span>${shard.totalAliases} aliases</span>
-              ${shard.children.length ? `<span>${shard.children.length} prefix shards</span>` : `<span>${entries.length} visible aliases</span>`}
+              ${shard.children.length ? `<span>${shard.children.length} prefix shards</span>` : `<span>${topicGroups.length} visible topics</span>`}
             </div>
           </div>
           <p class="lead">Generated alias shard for topic lookup. Open the canonical topic page to find source readings, transcript anchors, source refs, and video timestamps.</p>
@@ -2278,7 +2317,7 @@ function renderTopicLetterIndexHtml(shard, rootShards, topics) {
       </section>` : ''}
 
       ${rows ? `<section class="section">
-        <h2>${shard.children.length ? 'Exact Aliases On This Prefix' : 'Aliases'}</h2>
+        <h2>${shard.children.length ? 'Exact Topics On This Prefix' : 'Topics'}</h2>
         <div class="source-list">${rows}</div>
       </section>` : ''}
   `;
