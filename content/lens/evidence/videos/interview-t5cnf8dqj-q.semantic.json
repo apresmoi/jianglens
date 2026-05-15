@@ -1,0 +1,2301 @@
+{
+  "id": "evidence:semanticvideo-interview-t5cnf8dqj-q:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-t5cnf8dqj-q",
+  "source_id": "video:interview-t5cnf8dqj-q",
+  "source_title": "This War Will Not End Quicky | Prof. Jiang Explains",
+  "source_url": "https://www.youtube.com/watch?v=t5cnf8DqJ_Q",
+  "source_date": "2026-04-01",
+  "date_precision": "day",
+  "transcript_id": "video:interview-t5cnf8dqj-q@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-t5cnf8dqj-q/packet-0015.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-t5cnf8dqj-q/source.yaml",
+    "transcript_path": "content/sources/videos/interview-t5cnf8dqj-q/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 15,
+    "interactions": 24,
+    "speaker_notes": 15,
+    "claims": 62,
+    "signature_moments": 29,
+    "predictions": 11,
+    "models": 15,
+    "glossary_terms": 33,
+    "chronology_notes": 15,
+    "uncertainty_notes": 20
+  },
+  "first_refs": [
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0007",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0001",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0002",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0011",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0013",
+    "video:interview-t5cnf8dqj-q@transcript:v1#seg-0015"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0001",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0002",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0003",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0004",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0005",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0007",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Kim Iversen introduces Jiang as the Beijing-based Predictive History teacher whose channel has surged, asks him to define predictive history and game theory, and Jiang answers that he builds models from historical patterns, tests them through predictions, and reads actors through their rules, incentives, and psychology.",
+      "speaker_attribution": "Kim Iversen interviewer; Jiang respondent.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0010",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks why the American empire seems shorter-lived than older empires, and Jiang answers that America is unsustainable because it seeks hegemony over the whole world rather than a limited region.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0012",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0013",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0014",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0015",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "Kim verifies that the filmed Predictive History lessons are an actual high school class, and Jiang confirms that he teaches Chinese high school students in Beijing.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0017",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0018",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0019"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains the school mechanics: he records an actual class, uploads it, and teaches private-school Chinese students preparing for study abroad in English-speaking Western institutions.",
+      "speaker_attribution": "Jiang answer to Kim's school questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0020",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0021",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0022",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Kim presses how Jiang can teach conspiracy theories and raw material in China; Jiang answers autobiographically that Yale-style elite education failed to explain Trump, COVID, and Ukraine, so he began testing conspiracy frameworks as ways to connect dots and teach an attitude rather than facts.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0025",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0027",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0028",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0029",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0030",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0031",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks whether Jiang can teach this material without trouble and probes the legal-school category. Jiang answers that he operates in a gray area between public schools and expat schools: private experimental schools for Chinese passport holders are tolerated if they avoid Communist Party red lines.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0033",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0034",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0035",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0036",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0037"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks why Jiang can speak bluntly about Jews, Zionism, and Israel without the Western anti-Semitism charge dominating. Jiang says he is more often accused of being Mossad, CIA, CCP, or communist propaganda, then explains China as less focused on political correctness because it is more homogeneous, while the Communist Party remains the real red line.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0038",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0039",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Kim contrasts ordinary life in China with political limits; Jiang says he remains fond of America and Americans but sees the country moving toward civil war as a new normal.",
+      "speaker_attribution": "Kim prompt; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0041",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0042",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0043",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0044",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0045",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0046",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0047",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks which historical figure best explains Trump. Jiang chooses Julius Caesar, arguing that Trump is building loyal coercive forces, benefiting from elite incompetence and popular discontent, seeking revenge for 2020, and testing the machinery of secret police or martial law.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0049",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0050",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0051",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0053"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks how Trump could become king in a country that would not explicitly accept monarchy. Jiang lists the path: conqueror myth, loyal military forces, civil-war polarization, national emergency, and Israel-lobby resources tied to Iran and greater-Israel aims.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0054",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0055",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "Kim reflects that Trump's second term seems to vindicate old warnings about power seizure and asks whether only civil war, not even a foreign war or COVID-scale emergency, would be extreme enough to justify staying in power.",
+      "speaker_attribution": "Kim Iversen",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0057",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0058",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0059",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0061",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0062",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0063",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang agrees with Kim that civil war would be the needed emergency, then explains the conditions: polarized information bubbles, deployable street factions, elite/deep-state conflict, ICE provocations, predictive programming, and oligarchic incentives to burn down the debt-ridden house rather than face revolution.",
+      "speaker_attribution": "Jiang answer with Kim follow-up questions.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0065",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0066",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0067",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0068",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0069",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0070",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0071",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang names the deep conflict as old establishment internationalist capital against a MAGA-first Silicon Valley/Palantir/AI surveillance faction. Kim worries about culture-war traps, and Jiang pivots to AI as surveillance, digital currency, digital ID, and individualized media bubbles that emotionally manipulate people into action.",
+      "speaker_attribution": "Kim question/prompt; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0073",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0074",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0075",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0076",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0077",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0078"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks what Jiang means by a move from Pax Americana to Pax Judaica. Jiang traces capital from the Glorious Revolution and Bank of England to Pax Britannica, then Pax Americana, then Israel as a future safe base for capital, AI surveillance, transhumanism, and Middle East reconstruction after Iran is neutralized.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0079",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "Kim says COVID showed Americans resist mandates and surveillance more than many populations; Jiang's answer begins but is ASR-damaged.",
+      "speaker_attribution": "Kim prompt; Jiang partial answer.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0081",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0082",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0083",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0084",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0085",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0086",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0087",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "Kim extends Jiang's Pax Judaica argument: America resists control, Gaza is a proven AI-surveillance model, Israel feels like an aspiring world leader, and she asks why China and Russia did not stop Gaza and whether Israel would stay neutral in a larger world war. Jiang contributes the Gaza surveillance point and says Israel's culture really does aspire to world leadership.",
+      "speaker_attribution": "Mostly Kim extended prompt; brief Jiang confirmations.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0089",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0090"
+      ],
+      "kind": "exchange",
+      "summary": "Kim suggests Israel benefits when everyone else fights, and Jiang agrees by comparing Pax Judaica to Pax Britannica: a small power maintains dominance by sowing global chaos.",
+      "speaker_attribution": "Kim prompt; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0091",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0092",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0094",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0095",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0096"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks where World War III goes, who fights, when it began, and who wins. Jiang answers that World War III began with the 2021/2022 Ukraine proxy war, will go global this year, and will center first on Ukraine/Europe/Russia and a U.S.-China grand bargain over dollars, markets, embargo power, and Western Hemisphere commodities.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0097",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0098",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0099",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0100",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0101",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0102",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0103",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0104"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues the 2026 world-war map: a U.S.-China bargain opens space for Chinese investment in Venezuela and commodity security, Japan-China conflict rises over Taiwan and Malacca, U.S.-Russia naval conflict escalates, China may finance Russian blue-water capacity, and 2026-2027 set up Iran as the decisive flashpoint after China is negotiated away.",
+      "speaker_attribution": "Jiang extended answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0105",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0106"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks what chance there is that none of Jiang's war forecast happens. Jiang answers that the Rubicon has been crossed, there is no return to 2020 normal, and even Democratic midterm gains would likely push more war through national-security candidates.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0107",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0108",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0109"
+      ],
+      "kind": "exchange",
+      "summary": "Kim summarizes the war map and suggests U.S. entry into Iran would require Israel to start losing, while Jiang adds that 2026 will likely include false flags against U.S. interests or even the homeland.",
+      "speaker_attribution": "Kim synthesis; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0110",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0111",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0112"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says China will finance and develop but not send troops, and reads Trump's national security strategy not as retreat into spheres of influence but as a harder divide-and-rule imperial strategy that abandons liberal multilateral language for pure power politics.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0113",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0114",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"
+      ],
+      "kind": "exchange",
+      "summary": "Kim asks where the safest place in the world is. Jiang says geography is a trap because safe places attract capital and conflict; the real answer is mindset, spiritual and philosophical development, resilience, family, friends, children, and community rather than preserving wealth through chaos.",
+      "speaker_attribution": "Kim question; Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0117",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0118",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0119",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "Kim closes by affirming Jiang's value realignment and directing viewers to Predictive History; Jiang thanks her and says he would return.",
+      "speaker_attribution": "Kim closing; Jiang closing response.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0001",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0008"
+      ],
+      "note": "SPEAKER_01 is the interviewer in this packet; SPEAKER_00 is Jiang. seg-0005 is an empty boundary artifact and carries no semantic content.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0016"
+      ],
+      "note": "Speaker labels are consistent: SPEAKER_01 is Kim and SPEAKER_00 is Jiang.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0017",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_00 remains Jiang; SPEAKER_01 remains Kim. Some ASR phrases in seg-0019 and seg-0024 are damaged but the argument structure is clear.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0025",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0032"
+      ],
+      "note": "A boundary repair leaves some turns awkward around seg-0027 to seg-0029, but the exchange remains Kim probing school categories and Jiang distinguishing private experimental Chinese schools from expat-track international schools.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0033",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"
+      ],
+      "note": "SPEAKER_01 is Kim and SPEAKER_00 is Jiang. seg-0033 likely contains ASR 'Mossad agent' as 'massage agent'.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0041",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0048"
+      ],
+      "note": "SPEAKER_01 is Kim and SPEAKER_00 is Jiang; this is a long Jiang answer after a direct interviewer question.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0049",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0056"
+      ],
+      "note": "SPEAKER_01 performs an extended interviewer prompt in seg-0054 to seg-0056; it should be treated as Kim's pressure rather than Jiang's claim.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0057",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0064"
+      ],
+      "note": "SPEAKER_01 is Kim pressing whether polarization is enough for civil war and reframing citizens as soldiers for oligarchs; SPEAKER_00 is Jiang answering.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0065",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0072"
+      ],
+      "note": "SPEAKER_00 is Jiang; SPEAKER_01 is Kim. Kim's seg-0066 summarizes Jiang's claim and Jiang confirms it in seg-0067.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0073",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0080"
+      ],
+      "note": "seg-0080 is badly ASR-damaged and should not support a public claim without video or transcript review.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0081",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0088"
+      ],
+      "note": "This packet is dominated by Kim's long synthesis of Jiang's series and her own Israel experience; only seg-0083 and seg-0086 are Jiang's substantive contributions.",
+      "suggested_speaker": "Kim Iversen with Jiang brief answers",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0089",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0096"
+      ],
+      "note": "SPEAKER_01 is Kim; SPEAKER_00 is Jiang. seg-0093 has ASR damage but clearly states the Ukraine proxy-war thesis.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0097",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0104"
+      ],
+      "note": "Continuous Jiang monologue; no substantive interviewer turn in this packet.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0105",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0112"
+      ],
+      "note": "SPEAKER_01 is Kim pressing consequences; SPEAKER_00 is Jiang, including brief agreement at seg-0110.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0113",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0120"
+      ],
+      "note": "SPEAKER_01 is Kim and SPEAKER_00 is Jiang; final segment includes host show outro after Jiang's closing.",
+      "suggested_speaker": "Kim Iversen / Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines predictive history as the analysis of recurring patterns in human behavior, where historical frameworks are tested and refined by future predictions.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Method definition given in the 2026-04-01 interview.",
+      "topic_tags": [
+        "predictive-history",
+        "method",
+        "models"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines game theory as reading individuals as players inside games with rules and incentives, so their worldview and psychology can make future behavior intelligible.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Method definition given in the 2026-04-01 interview.",
+      "topic_tags": [
+        "game-theory",
+        "psychology",
+        "worldview"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interviewer frames Jiang's public reputation around his near-million-subscriber channel, school teaching, geopolitics, conspiracies, and a viral Iran-Israel prediction.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0001",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Host framing at the start of the 2026-04-01 interview.",
+      "topic_tags": [
+        "predictive-history",
+        "public-reception",
+        "iran-israel"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says predictive history requires a macro picture of human history, from the Ice Age through Pax Americana, rather than narrow specialization in one period.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Method claim in the 2026-04-01 interview.",
+      "topic_tags": [
+        "macro-history",
+        "predictive-history",
+        "pax-americana"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang sees strong analogies between the Peloponnesian War and contemporary America, reading America as a falling empire behaving like Athens near collapse.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "america",
+        "athens",
+        "peloponnesian-war",
+        "imperial-collapse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "America's empire is uniquely unsustainable because it tries to maintain global hegemony across Africa, South America, Europe, and Asia, even though its technological edge, aerial supremacy, and dollar advantage cannot carry that burden indefinitely.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Dated imperial diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "american-empire",
+        "hegemony",
+        "dollar",
+        "aerial-supremacy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang confirms that Predictive History is filmed from a real Beijing high school class with Chinese students.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0013",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Source-mechanics clarification in the 2026-04-01 interview.",
+      "topic_tags": [
+        "teaching",
+        "beijing",
+        "high-school"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's class is not a public-school Gaokao track; it is a private school for Chinese students intending to study abroad, with English instruction and Western history and philosophy as preparation.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Source-mechanics explanation on 2026-04-01.",
+      "topic_tags": [
+        "private-school",
+        "study-abroad",
+        "western-history",
+        "western-philosophy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his elite Yale education failed him because it could not prepare him to understand Trump's 2016 victory, COVID, or the Ukraine war.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Autobiographical diagnosis in the 2026-04-01 interview.",
+      "topic_tags": [
+        "elite-education",
+        "yale",
+        "trump",
+        "covid",
+        "ukraine"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says conspiracy frameworks became worth testing because they sometimes offered a more coherent picture of the world than elite education's disconnected facts.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Method turn described as emerging during the COVID-era years before 2026-04-01.",
+      "topic_tags": [
+        "conspiracy-theory",
+        "elite-education",
+        "connect-the-dots"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he teaches students not facts but an attitude: question things, connect dots, and risk uncomfortable truths.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Pedagogical definition in the 2026-04-01 interview.",
+      "topic_tags": [
+        "education",
+        "attitude",
+        "questioning",
+        "uncomfortable-truths"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says public schools in China are heavily monitored through textbooks and tests, producing extreme conformity in the education system.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Education-system diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "china",
+        "public-schools",
+        "conformity",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Private international or experimental schools form a gray area because they serve a small minority of students going abroad, and the government has not fully settled how to regulate them.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Education-system diagnosis on 2026-04-01, describing a recent roughly 10-year phenomenon.",
+      "topic_tags": [
+        "private-schools",
+        "experimental-schools",
+        "china",
+        "study-abroad"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he can teach unusually blunt material in China only because he works in this murky gray area and avoids Communist Party red lines.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Self-description of teaching conditions on 2026-04-01.",
+      "topic_tags": [
+        "red-lines",
+        "china",
+        "teaching",
+        "conspiracy-theory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The school category is distinct from expat-only international schools requiring foreign passports; Jiang says his students are Chinese passport holders in an in-between experimental category.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0029",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Source-mechanics clarification on 2026-04-01.",
+      "topic_tags": [
+        "school-category",
+        "chinese-students",
+        "international-schools"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says critics more often call him a Mossad or CIA agent, a CCP agent, or a communist propagandist than simply anti-Semitic, because his arguments include both Israel's future dominance and harsh criticism of the West.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0033",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Public-reception description on 2026-04-01.",
+      "topic_tags": [
+        "public-reception",
+        "mossad",
+        "cia",
+        "ccp",
+        "israel"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China has less political-correctness pressure than the United States because it is more ethnically homogeneous, but speech against the Communist Party remains prohibited.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Comparative speech diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "china",
+        "political-correctness",
+        "communist-party",
+        "speech"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is fond of the United States because of American open-mindedness, generosity, and tolerance, while also believing the country is heading toward civil war.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-01, reacting to recent U.S. events in the days before the interview.",
+      "topic_tags": [
+        "america",
+        "civil-war",
+        "american-character"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kim frames China as potentially livable for ordinary people focused on family and work, but dangerous for loud political commentators or direct government politics.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0038",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Host reflection in the 2026-04-01 interview.",
+      "topic_tags": [
+        "china",
+        "ordinary-life",
+        "politics"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump is most analogous to Julius Caesar because Caesar built loyalty through imperial violence, clashed with the ruling class, crossed the Rubicon, and installed dictatorship.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0041",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Historical analogy offered on 2026-04-01.",
+      "topic_tags": [
+        "trump",
+        "julius-caesar",
+        "rubicon",
+        "dictatorship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Trump is creating paramilitary or loyal coercive forces through ICE, the National Guard, and possibly Delta Force, because those forces depend on his support for their brutality.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0043",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Dated warning on 2026-04-01.",
+      "topic_tags": [
+        "ice",
+        "national-guard",
+        "delta-force",
+        "paramilitary"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The political choice Jiang sees is not democracy versus monarchy but monarchy versus oligarchy, and history suggests desperate people often choose monarchy because kings can cancel debt through a jubilee.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0044",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Political model stated on 2026-04-01.",
+      "topic_tags": [
+        "monarchy",
+        "oligarchy",
+        "debt",
+        "jubilee"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Trump's antagonism toward Europe, Maduro, Minnesota, and possible Chauvin pardon through a revenge-tour psychology rooted in Trump's belief that the 2020 election was stolen through coordinated events and actors.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0046",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Psychological diagnosis of Trump on 2026-04-01.",
+      "topic_tags": [
+        "trump",
+        "revenge",
+        "2020-election",
+        "civil-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump can build royal authority by presenting himself as a conquering hero who restores American empire through threatened or actual wars in Venezuela, Mexico, Colombia, Greenland, Canada, Cuba, and Iran.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Dated model and warning on 2026-04-01.",
+      "topic_tags": [
+        "trump",
+        "conquering-hero",
+        "american-empire",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Trump's loyal military base would be special-forces-style units drawn to the war ethos of maximum lethality and disregard for rules of engagement.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0050",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Dated warning on 2026-04-01.",
+      "topic_tags": [
+        "special-forces",
+        "war-ethos",
+        "trump",
+        "military"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says chaos, civil war, or coup conditions help Trump consolidate power because they force people into sides and create emergency conditions.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0051",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Political model stated on 2026-04-01.",
+      "topic_tags": [
+        "civil-war",
+        "emergency",
+        "power-consolidation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang links Israel-lobby resources to an Iran-war/greater-Israel scheme, saying successful delivery for Israel would secure Trump extraordinary political support, including third-term support.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Speculative dated diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "israel-lobby",
+        "iran",
+        "greater-israel",
+        "third-term"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says all conditions for American civil war are already in place because the left and right live in unreconciled social-media realities around the same violent events.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Civil-war diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "civil-war",
+        "information-bubbles",
+        "polarization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Republicans and Democrats both have paramilitary factions, such as Proud Boys and Antifa, that can be deployed for political purposes.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Civil-war mechanism stated on 2026-04-01.",
+      "topic_tags": [
+        "paramilitary",
+        "proud-boys",
+        "antifa",
+        "political-violence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The oligarchy benefits from civil war because it diverts mass discontent away from revolution and lets elite factions settle conflicts by sacrificing people in the streets.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0059",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Political model stated on 2026-04-01.",
+      "topic_tags": [
+        "oligarchy",
+        "civil-war",
+        "revolution",
+        "deep-state"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang expects ICE provocations, random shootings, National Guard intervention, martial law, and agent-infiltrated insurrection groups to be plausible escalatory mechanics over the next few weeks.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Near-term forecast from 2026-04-01 for the following weeks.",
+      "topic_tags": [
+        "ice",
+        "national-guard",
+        "martial-law",
+        "insurrection"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's debt metaphor says that if America owes far more than the house is worth, the oligarchy's rational play is to burn the house down and collect insurance.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Oligarchy model stated on 2026-04-01.",
+      "topic_tags": [
+        "debt",
+        "oligarchy",
+        "collapse",
+        "insurance-metaphor"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang divides the American deep-state conflict into an old establishment faction of coastal liberal internationalists/transnational capital and a MAGA-first faction backed by tech oligarchs such as Peter Thiel and Elon Musk.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0065",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Factional model stated on 2026-04-01.",
+      "topic_tags": [
+        "deep-state",
+        "maga",
+        "transnational-capital",
+        "silicon-valley"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the visible left-right culture war is a veneer over deeper elite conflict between old-guard Wall Street/transnational capital and new AI-surveillance power centered on Palantir and Silicon Valley.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0065",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0066",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Factional model stated on 2026-04-01.",
+      "topic_tags": [
+        "culture-war",
+        "wall-street",
+        "palantir",
+        "ai-surveillance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues AI's real value is not silly videos or school cheating, but surveillance infrastructure: digital currency, digital ID, personalized media bubbles, and emotional manipulation into political action.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0071",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Technology diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "ai",
+        "surveillance",
+        "digital-currency",
+        "digital-id",
+        "media-bubbles"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Kim frames Gaza and similar issues as being converted into culture-war traps that should otherwise be straightforward moral reactions.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Host framing during the 2026-04-01 interview.",
+      "topic_tags": [
+        "gaza",
+        "culture-war",
+        "political-manipulation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang locates the origin of modern finance empire in the 1688 Glorious Revolution and 1694 Bank of England, where private investors' gains were privatized while Parliament and the people guaranteed losses.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Historical model recounted on 2026-04-01, referring to 1688 and 1694.",
+      "topic_tags": [
+        "glorious-revolution",
+        "bank-of-england",
+        "finance",
+        "empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Bank of England model let capital flee a burning Europe to naval-protected England, financing the British Empire and repeated wars against Napoleon until Britain became dominant.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0075",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Historical model stated on 2026-04-01.",
+      "topic_tags": [
+        "pax-britannica",
+        "bank-of-england",
+        "napoleon",
+        "capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Pax Americana followed because capital could move from England to America through the Federal Reserve, but as America burns, capital's next safe base is Israel.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Historical-to-future model stated on 2026-04-01.",
+      "topic_tags": [
+        "pax-americana",
+        "federal-reserve",
+        "israel",
+        "capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Pax Judaica, in Jiang's definition, is a future order where Israel combines nuclear security, Middle East dominance, AI surveillance, digital currency, digital ID, population replacement, and transhumanist technologies into a controlled slave-state model for oligarchic capital.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0076",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0077",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Speculative future model stated on 2026-04-01.",
+      "topic_tags": [
+        "pax-judaica",
+        "israel",
+        "ai-surveillance",
+        "transhumanism",
+        "middle-east"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Gaza has long been an AI surveillance state and gives Israel a proven model that only needs to be scaled.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Dated claim in the 2026-04-01 interview.",
+      "topic_tags": [
+        "gaza",
+        "ai-surveillance",
+        "israel",
+        "pax-judaica"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says his own visit to Israel left him with the same impression Kim describes: Israeli culture aspires to be the world leader and believes it can be.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Autobiographical observation stated on 2026-04-01.",
+      "topic_tags": [
+        "israel",
+        "world-leadership",
+        "culture"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Kim reads Jiang's Pax Judaica theory as a delayed Gog-and-Magog sequence: Israel first becomes the dominant world center, then the world later moves against it.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0084",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Host interpretation of Jiang's Secretive History/Pax Judaica material during the 2026-04-01 interview.",
+      "topic_tags": [
+        "pax-judaica",
+        "gog-and-magog",
+        "christian-zionism",
+        "israel"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Kim argues Israel's alliance with America is one-way and predicts Israel would try to remain neutral like Switzerland if a larger war broke out between the United States, China, and Russia.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0087",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Host claim in the 2026-04-01 interview, not Jiang's direct assertion.",
+      "topic_tags": [
+        "israel",
+        "alliance",
+        "world-war",
+        "neutrality"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Israel will maintain Pax Judaica like Pax Britannica: a small resource-limited power keeps dominance by sowing discontent and chaos throughout the world.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Historical analogy stated on 2026-04-01.",
+      "topic_tags": [
+        "pax-judaica",
+        "pax-britannica",
+        "israel",
+        "chaos"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says World War III has already been underway since Russia's invasion of Ukraine in 2021/2022, because Ukraine is a U.S./NATO proxy war against Russia.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0092",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Dated war chronology stated on 2026-04-01; Jiang gives a 2021/2022 start and ties it to Russia's invasion of Ukraine.",
+      "topic_tags": [
+        "world-war-iii",
+        "ukraine",
+        "russia",
+        "nato",
+        "proxy-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Ukraine will remain a major flashpoint because Europeans cannot give up Project Ukraine, will send volunteers or special forces, move toward conscription and German remilitarization, and provoke Russia further.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "2026 forecast made on 2026-04-01.",
+      "topic_tags": [
+        "ukraine",
+        "europe",
+        "conscription",
+        "germany",
+        "russia"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump will continue siding with Russia against Europe because he hates Europeans, while exerting dominance over the Western Hemisphere to bargain with Xi over dollars, markets, embargo threats, and commodities China needs for AI, EVs, batteries, solar, and high-tech industry.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0095",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "2026 geopolitical forecast made on 2026-04-01.",
+      "topic_tags": [
+        "trump",
+        "china",
+        "xi",
+        "western-hemisphere",
+        "commodities"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang expects a U.S.-China grand bargain in which Chinese firms, not American majors, modernize Venezuela's oil industry because China needs overseas oil and Middle East supply is vulnerable in an Iran war.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "2026 geopolitical forecast made on 2026-04-01.",
+      "topic_tags": [
+        "china",
+        "venezuela",
+        "oil",
+        "grand-bargain",
+        "iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts a major China-Japan conflict this year because both depend on trade and Middle East oil routed through Malacca, making Taiwan strategically vital for embargoing the other side.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0098",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "2026 forecast made on 2026-04-01.",
+      "topic_tags": [
+        "china",
+        "japan",
+        "taiwan",
+        "malacca",
+        "rare-earths"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts more U.S.-Russia conflict at sea because the United States is seizing or boarding shadow oil tankers, which will force Russia to challenge U.S. naval power and build a blue-water navy likely financed by China.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0099",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "2026 naval forecast made on 2026-04-01.",
+      "topic_tags": [
+        "russia",
+        "united-states",
+        "navy",
+        "shadow-tankers",
+        "china"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says 2026 is when conflicts accelerate and 2027 will be worse because he expects the United States to launch an invasion of Iran after reaching a bargain with China.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0101",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Forecast from 2026-04-01 for 2026-2027.",
+      "topic_tags": [
+        "iran",
+        "united-states",
+        "china",
+        "2027",
+        "world-war-iii"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang expects Iran destabilization in 2026 through protests, border insurgent groups, airstrikes, CIA financing, Mossad agents, blockade, sabotage, infiltration, and narratives of imminent regime collapse.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0103",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "2026 Iran forecast made on 2026-04-01.",
+      "topic_tags": [
+        "iran",
+        "mossad",
+        "cia",
+        "insurgency",
+        "regime-change"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the world has crossed the Rubicon and cannot return to the pre-2020 normal; Democrats winning midterms would not stop escalation because their candidates would come from the national security apparatus and push wars overseas.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0106"
+      ],
+      "temporal_scope": "Dated diagnosis on 2026-04-01.",
+      "topic_tags": [
+        "rubicon",
+        "democrats",
+        "national-security",
+        "war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts false flags in 2026 against American interests in Iraq, Syria, possibly the homeland, as part of the path to war with Iran.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "2026 forecast made on 2026-04-01.",
+      "topic_tags": [
+        "false-flag",
+        "iran",
+        "iraq",
+        "syria",
+        "homeland"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China will participate through development and financing, but will not send troops anywhere.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0110"
+      ],
+      "temporal_scope": "Geopolitical forecast stated on 2026-04-01.",
+      "topic_tags": [
+        "china",
+        "development",
+        "financing",
+        "military"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang rejects the reading that Trump's national security strategy means U.S. retreat into spheres of influence; instead, he says America will maintain empire by abandoning liberal multilateral institutions and using divide-and-rule power politics.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0110",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "Interpretation of Trump's strategy on 2026-04-01.",
+      "topic_tags": [
+        "national-security-strategy",
+        "american-empire",
+        "divide-and-rule",
+        "multilateralism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States will not leave East Asia, Europe, or Africa; it will promote Japan against China, overthrow liberal European regimes in favor of Trump-aligned nations, and fight China for influence and economic dominance in Africa.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "Geopolitical forecast on 2026-04-01.",
+      "topic_tags": [
+        "east-asia",
+        "europe",
+        "africa",
+        "japan",
+        "china"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says no geographic safe haven is simple because if everyone chooses a place such as New Zealand, money inflows, property pressure, native resentment, and immigration conflict make it unsafe too.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0114"
+      ],
+      "temporal_scope": "Practical advice on 2026-04-01.",
+      "topic_tags": [
+        "safe-haven",
+        "new-zealand",
+        "immigration",
+        "property"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says survival in the new world is less about geography than mindset: giving up materialist retirement dreams and focusing on learning, news awareness, resilience, spiritual and philosophical development, and what matters in life.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115"
+      ],
+      "temporal_scope": "Normative advice on 2026-04-01.",
+      "topic_tags": [
+        "mindset",
+        "resilience",
+        "spiritual-development",
+        "materialism"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says chaos is normal across most of human history, and people can get through it by centering family, friends, children, and community.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Normative historical advice on 2026-04-01.",
+      "topic_tags": [
+        "community",
+        "family",
+        "chaos",
+        "resilience"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang warns that trying to preserve wealth through gold, silver, or a perfect relocation plan will drive people insane because wealth itself will not be the thing that matters in the coming chaos.",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Practical warning on 2026-04-01.",
+      "topic_tags": [
+        "wealth",
+        "gold",
+        "relocation",
+        "chaos"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006"
+      ],
+      "moment": "Predictive history is presented as a feedback loop: history produces models, predictions test them, and errors refine the framework.",
+      "source_phrase": "test and refine these models by making predictions",
+      "why_it_matters": "This gives the interview its governing method before the later geopolitical predictions arrive.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009"
+      ],
+      "moment": "Jiang's history method scales from the Ice Age to Pax Americana before drawing the Athens-America analogy.",
+      "source_phrase": "from the Ice Age up to the Pax Americana",
+      "why_it_matters": "It shows why he treats current geopolitics as a civilizational pattern rather than an isolated news cycle.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0011"
+      ],
+      "moment": "American power is described as too global to be sustainable.",
+      "source_phrase": "hegemony throughout the entire world",
+      "why_it_matters": "This becomes a base assumption for later claims about decline, civil war, and resource scramble.",
+      "tone": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0022",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023"
+      ],
+      "moment": "The elite education that should have explained the world becomes the thing that blinds him to it.",
+      "source_phrase": "this elite education has failed me",
+      "why_it_matters": "It gives Jiang's conspiracy turn an autobiographical engine rather than treating it as mere provocation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0024"
+      ],
+      "moment": "Teaching becomes an attitude of connecting dots even when the trail leads to uncomfortable truths.",
+      "source_phrase": "not facts... a certain attitude",
+      "why_it_matters": "This is the education thesis behind the whole channel and later public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026"
+      ],
+      "moment": "Jiang locates his freedom not in formal liberty but in an administrative gray zone too odd to fully police.",
+      "source_phrase": "I operate in a very gray area in China",
+      "why_it_matters": "It explains the paradox that this material appears from Beijing while Jiang says it would be impossible elsewhere.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026"
+      ],
+      "moment": "The more off-the-wall the class sounds, the more it can hide in plain sight.",
+      "source_phrase": "so wacky that most people... tune off",
+      "why_it_matters": "This gives the public read a sharp mechanism for how taboo speech survives through disbelief.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0037"
+      ],
+      "moment": "China's speech freedom is inverted: offense is tolerable until it points at the Party.",
+      "source_phrase": "the red line of course is... the Communist Party",
+      "why_it_matters": "It distills Jiang's China speech model into one rule that later explains his channel's strange latitude.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"
+      ],
+      "moment": "Affection for American people sits beside a bleak civil-war diagnosis.",
+      "source_phrase": "I'm very fond of the United States... America is heading towards a civil war",
+      "why_it_matters": "The contrast keeps his America critique from becoming simple anti-Americanism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0044"
+      ],
+      "moment": "The American crisis is recoded from democracy versus dictatorship to oligarchy versus monarchy.",
+      "source_phrase": "not one between democracy and monarchy... one between monarchy and oligarchy",
+      "why_it_matters": "This is the key reversal that makes Trump's Caesar path appear politically attractive rather than merely illegal.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0048"
+      ],
+      "moment": "ICE is treated as a field test for American secret police.",
+      "source_phrase": "test out the possibility of a secret police in America",
+      "why_it_matters": "It gives the civil-war forecast an institutional mechanism.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0050"
+      ],
+      "moment": "Trump's foreign provocations become royal theater: awe and fear are the tools of the king.",
+      "source_phrase": "inspires awe and fear among the people",
+      "why_it_matters": "It connects foreign policy, spectacle, and domestic legitimacy in Jiang's Caesar analogy.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052"
+      ],
+      "moment": "In Jiang's model, the more chaos there is, the more usable the emergency becomes for Trump.",
+      "source_phrase": "the more chaos, the better",
+      "why_it_matters": "This compactly explains why civil war appears as an instrument rather than merely a risk.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0061"
+      ],
+      "moment": "American debt politics becomes a burning-house insurance scam.",
+      "source_phrase": "burn the house down and collect the insurance money",
+      "why_it_matters": "This is the packet's strongest image for why elites might prefer civil war to repair.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060"
+      ],
+      "moment": "Civil-war media is treated as preparation, not just entertainment.",
+      "source_phrase": "predictive programming",
+      "why_it_matters": "It ties culture, psychology, and political violence into one mechanism.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0067"
+      ],
+      "moment": "The new deep state is not smoke-filled rooms but AI, surveillance, and Silicon Valley infrastructure.",
+      "source_phrase": "new deep state is palantir silicon valley",
+      "why_it_matters": "It updates the civil-war story from old institutions to technical control systems.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0071",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0072"
+      ],
+      "moment": "AI becomes an individualized matrix for emotional manipulation.",
+      "source_phrase": "create this individual matrix for you",
+      "why_it_matters": "This is the bridge between technology, information bubbles, and civil-war mobilization.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0074"
+      ],
+      "moment": "Modern empire begins as a bargain where private capital keeps gains and the people guarantee losses.",
+      "source_phrase": "socialized losses privatized gains",
+      "why_it_matters": "It is the seed of Jiang's whole Pax Britannica to Pax Judaica capital-transfer model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0078"
+      ],
+      "moment": "Pax Judaica is defined as the safe house of capital and the laboratory of transhumanist surveillance control.",
+      "source_phrase": "capital needs to move to a more safe place which is Israel",
+      "why_it_matters": "This is the packet's central thesis and the interview's most loaded conceptual term.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0083"
+      ],
+      "moment": "Gaza becomes the working prototype of the surveillance order Jiang fears will scale.",
+      "source_phrase": "Gaza was an ai surveillance state",
+      "why_it_matters": "It ties the abstract Pax Judaica model to a concrete governed space.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0086"
+      ],
+      "moment": "Israel is described as a culture that does not merely seek security but aspires to world leadership.",
+      "source_phrase": "they really do aspire to be the world leader",
+      "why_it_matters": "This is Jiang's experiential confirmation of the interviewer's Pax Judaica intuition.",
+      "tone": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0090"
+      ],
+      "moment": "Pax Judaica inherits the British method: rule from smallness by making the world fight itself.",
+      "source_phrase": "sowing discontent and chaos throughout the entire world",
+      "why_it_matters": "It connects the Israel thesis to Jiang's long imperial-finance model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093"
+      ],
+      "moment": "World War III is not a future switch to be flipped; in Jiang's telling it already began as a proxy war in Ukraine.",
+      "source_phrase": "we've been in World War III ever since... Russia invaded Ukraine",
+      "why_it_matters": "This reframes the interview's war question from whether war begins to how it expands.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0100"
+      ],
+      "moment": "China's shipbuilding capacity turns any U.S.-Russia sea fight into a naval war of attrition America cannot comfortably sustain.",
+      "source_phrase": "one ship for every 250 ships that China produces",
+      "why_it_matters": "It gives Jiang's ocean-front forecast an industrial base rather than a purely military image.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0102"
+      ],
+      "moment": "Iran is not a side issue but the hinge of American hegemony, Belt and Road, and Russia's southern flank.",
+      "source_phrase": "iran is crucial to the maintenance of american hegemony",
+      "why_it_matters": "This explains why Jiang moves from U.S.-China bargaining to a predicted Iran invasion.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0106"
+      ],
+      "moment": "The question of avoiding world war is answered with a classical threshold: the Rubicon has already been crossed.",
+      "source_phrase": "we've crossed the Rubicon",
+      "why_it_matters": "It gives Jiang's forecast its irreversibility claim.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0112"
+      ],
+      "moment": "Trump's empire drops the rules-based mask and says the quiet part out loud.",
+      "source_phrase": "screw that we're an empire might is right",
+      "why_it_matters": "This phrase crystallizes Jiang's distinction between liberal empire and naked empire.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115"
+      ],
+      "moment": "After an hour of war predictions, Jiang's safe place is not a bunker but a spiritual and communal posture.",
+      "source_phrase": "I wouldn't say it's about geography. I would say it's more about mindset.",
+      "why_it_matters": "This closes the interview by turning predictive history into a discipline of soul rather than only forecast anxiety.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"
+      ],
+      "moment": "The final survival advice is to give up the idea that wealth can carry you through a collapsing world.",
+      "source_phrase": "give up the idea that wealth matters",
+      "why_it_matters": "It sharpens the anti-materialist answer to the host's practical safety question.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "predictive history",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's practice of deriving models from historical patterns and testing them through predictions.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A method for treating actors as players with rules, incentives, and psychologically intelligible strategies.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "The present American-led imperial order in Jiang's historical map.",
+      "confidence": "high"
+    },
+    {
+      "term": "global hegemony",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "America's claimed maintenance of dominance across every major world region.",
+      "confidence": "high"
+    },
+    {
+      "term": "connect the dots",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's phrase for replacing disconnected elite facts with a framework that links events into causal patterns.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite education",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0022",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "The Yale-style formation Jiang says gave credentials and blind spots but did not explain recent political crises.",
+      "confidence": "high"
+    },
+    {
+      "term": "gray area",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The regulatory space between Chinese public schools and expat-only international schools where Jiang says experimental private education can occur.",
+      "confidence": "high"
+    },
+    {
+      "term": "red lines",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Topics or actions that offend the Communist Party and therefore cannot be crossed in Jiang's teaching environment.",
+      "confidence": "high"
+    },
+    {
+      "term": "political correctness",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The U.S.-style caution against offending social groups, which Jiang says is less emphasized in China.",
+      "confidence": "high"
+    },
+    {
+      "term": "red line",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The Communist Party boundary Jiang says cannot be offended even when other taboo subjects can be discussed.",
+      "confidence": "high"
+    },
+    {
+      "term": "jubilee",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Debt cancellation used by monarchs to cement popular support in Jiang's historical model.",
+      "confidence": "high"
+    },
+    {
+      "term": "revenge tour",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang's reading of Trump's actions as retaliation for the perceived theft and trauma of 2020.",
+      "confidence": "high"
+    },
+    {
+      "term": "war ethos",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0050",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The military doctrine Jiang attributes to Hegseth: maximum lethality and disregard for rules of engagement, appealing to special forces loyalism.",
+      "confidence": "medium"
+    },
+    {
+      "term": "greater Israel project",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang's term for Israel's alleged regional project, made possible by collapse or overthrow in Iran.",
+      "confidence": "medium"
+    },
+    {
+      "term": "predictive programming",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang's term for media that habituates people to civil-war scenarios before they are politically useful.",
+      "confidence": "medium"
+    },
+    {
+      "term": "oligarchy",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0059",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The elite power structure Jiang says would benefit from civil war because it redirects public anger and manages debt collapse.",
+      "confidence": "high"
+    },
+    {
+      "term": "new deep state",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0066",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Kim and Jiang's shorthand for the AI/surveillance/Silicon Valley faction replacing the old establishment deep state.",
+      "confidence": "medium"
+    },
+    {
+      "term": "individual matrix",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Jiang's phrase for AI-generated personalized media environments that reinforce prejudice and provoke behavior.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0073",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "Jiang's speculative future order in which Israel becomes capital's safe base and a center for AI surveillance, transhumanism, and Middle East dominance.",
+      "confidence": "medium"
+    },
+    {
+      "term": "socialized losses, privatized gains",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0074"
+      ],
+      "definition_or_usage": "The finance mechanism Jiang attributes to the Bank of England model: investors keep profits while public institutions guarantee losses.",
+      "confidence": "high"
+    },
+    {
+      "term": "transhumanism",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0077",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "In Jiang's Pax Judaica model, elite life-extension and body-modification technologies associated with Jerusalem and permanent control.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Gog and Magog",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0084",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "Kim's apocalyptic reference for a later world battle against Israel after Pax Judaica forms, as she interprets Jiang's series.",
+      "confidence": "medium"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0083"
+      ],
+      "definition_or_usage": "A governed space where surveillance technology and control systems are already integrated; Jiang applies it to Gaza.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Project Ukraine",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Jiang's term for Europe's continued commitment to Ukraine as a geopolitical project that it cannot abandon without crisis.",
+      "confidence": "medium"
+    },
+    {
+      "term": "grand bargain",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0095",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0096"
+      ],
+      "definition_or_usage": "A future Trump-Xi settlement over U.S. dollar support, Chinese market access, Western Hemisphere commodities, and U.S. naval chokehold power.",
+      "confidence": "medium"
+    },
+    {
+      "term": "blue-water navy",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "A navy capable of challenging the United States in oceanic warfare, which Jiang says Russia will need and China may finance.",
+      "confidence": "high"
+    },
+    {
+      "term": "Belt and Road Initiative",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0102"
+      ],
+      "definition_or_usage": "China's trade/connectivity project, which Jiang says would be dead if Iran is blockaded and U.S. hegemony controls trade access.",
+      "confidence": "high"
+    },
+    {
+      "term": "shadow oil tankers",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0099"
+      ],
+      "definition_or_usage": "Tankers moving Russian or Chinese oil that Jiang says the United States is boarding or seizing, creating naval conflict.",
+      "confidence": "medium"
+    },
+    {
+      "term": "divide and rule",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0111"
+      ],
+      "definition_or_usage": "The imperial strategy Jiang says the United States will use to maintain control after abandoning liberal multilateral organizations.",
+      "confidence": "high"
+    },
+    {
+      "term": "rules-based liberal international order",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0111",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0112"
+      ],
+      "definition_or_usage": "The older American imperial language Jiang says Trump discards in favor of explicit might-is-right empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "false flag",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0108"
+      ],
+      "definition_or_usage": "An attack Jiang expects could be used to mobilize American support for Iran war.",
+      "confidence": "medium"
+    },
+    {
+      "term": "materialist mindset",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115"
+      ],
+      "definition_or_usage": "The belief that money, retirement, yachts, and wealth preservation are the core path to security, which Jiang says must be abandoned.",
+      "confidence": "high"
+    },
+    {
+      "term": "resilience",
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"
+      ],
+      "definition_or_usage": "The personal and communal capacity Jiang says matters more than geography or wealth during chaos.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0001",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0006"
+      ],
+      "note": "As of 2026-04-01, the interviewer treats Jiang's Iran-Israel prediction and rapid channel growth as the immediate occasion for the interview, while Jiang explains the method behind such predictions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0009",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0011"
+      ],
+      "note": "On 2026-04-01 Jiang restates a falling-American-empire thesis using the Peloponnesian War and overextended U.S. global hegemony as the analogy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0022",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023"
+      ],
+      "note": "Jiang dates his turn toward conspiracy frameworks to the period after 2016 and especially the COVID years, when he says he tried to understand Trump, COVID, Ukraine, 9/11, the moon landing, and JFK through alternative frameworks.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang describes the experimental Chinese-passport-holder international-school category as a recent phenomenon of roughly the past 10 years as of 2026-04-01.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"
+      ],
+      "note": "On 2026-04-01 Jiang says recent events in America make civil war a 'new normal' and 'dire predicament,' while still emphasizing personal affection for America and Americans.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0046",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0047"
+      ],
+      "note": "On 2026-04-01 Jiang predicts a strong likelihood that Trump may pardon Derek Chauvin in the next few weeks, using it as an accelerant for civil conflict.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052"
+      ],
+      "note": "Jiang ties Netanyahu's pre-New-Year Mar-a-Lago visit to subsequent Maduro and Iran developments as part of his 2026-04-01 interpretation; this is an asserted causal sequence, not independently verified by the packet.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060"
+      ],
+      "note": "On 2026-04-01 Jiang makes a near-term escalation forecast for the next few weeks involving ICE provocations, shootings, National Guard entry, and possible martial law.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0071"
+      ],
+      "note": "On 2026-04-01 Jiang cites OpenAI's planned trillion-dollar data-center spending as evidence that AI's real purpose must be surveillance infrastructure rather than consumer novelty.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0074",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0076"
+      ],
+      "note": "Jiang's chronology runs 1688 Glorious Revolution to 1694 Bank of England to Pax Britannica, then post-World-War transfer to Pax Americana, then speculative future transfer to Israel as Pax Judaica.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0084",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0085"
+      ],
+      "note": "Kim distinguishes current Gaza/Israel events from Jiang's later Pax Judaica/Gog-and-Magog sequence, saying the world battle would come after Israel becomes the dominant center.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0095"
+      ],
+      "note": "On 2026-04-01 Jiang says World War III began in 2021/2022 with Ukraine and predicts 2026 escalation, including an April Trump-Xi meeting as the first of four scheduled meetings that year.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0101",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0104"
+      ],
+      "note": "Jiang's dated forecast: 2026 accelerates China-U.S., China-Japan, U.S.-Russia, and Iran destabilization dynamics; he expects 2027 to be worse because of a likely U.S. invasion of Iran after China is bargained away.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0106",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0108"
+      ],
+      "note": "On 2026-04-01 Jiang says there is no return to 2020 normal and predicts 2026 false flags as part of Iran-war escalation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0115",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"
+      ],
+      "note": "The interview ends by moving from 2026-2027 war forecasts to durable survival advice: build resilient communities and spiritual orientation because chaos is historically normal.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0001"
+      ],
+      "note": "The host says one lecture correctly anticipated the Iran-Israel 12-day war; this packet records that as host framing, not independently verified chronology."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0019"
+      ],
+      "note": "ASR phrase 'bar's colleges, such as Carlton' likely refers to U.S. liberal arts colleges such as Carleton, but the packet preserves the grounded meaning without normalizing the name."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0023"
+      ],
+      "note": "ASR renders COVID as 'Colbert' near the list of topics; surrounding context supports COVID as the intended referent."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0027",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0028"
+      ],
+      "note": "The transcript appears to blend or mis-bound speaker turns around 'that's the school that I'm at'; the semantic meaning is treated cautiously."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0033"
+      ],
+      "note": "ASR phrase 'massage agent' is almost certainly 'Mossad agent' from context."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0043"
+      ],
+      "note": "ASR phrase 'deterring guard' is likely a damaged rendering of a guard loyal to Trump; semantic pass preserves the general coercive-force claim."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0046"
+      ],
+      "note": "The Maduro trial/election-fraud claim is Jiang's speculative claim in this interview, not independently verified evidence."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0052",
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0053"
+      ],
+      "note": "Names and dollar amounts around pro-Trump donors are ASR-damaged and should be checked against the clean transcript or source video before public use."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0057"
+      ],
+      "note": "The referenced 'shooting in Africa' appears ASR-damaged or context-specific; public read should avoid the name unless verified."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0060"
+      ],
+      "note": "The debt amount is ASR-rendered as '$3,200 in debt' and likely damaged; use the metaphor rather than the number unless verified."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0072"
+      ],
+      "note": "The 'ChatGPT encourages suicide' language is Jiang's claim in the interview; public use should preserve attribution and avoid presenting it as verified fact without external evidence."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0080"
+      ],
+      "note": "ASR is too damaged to extract a reliable Jiang claim from seg-0080."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0077"
+      ],
+      "note": "The microchips-in-bloodstreams and 250-year life-extension claims are Jiang's speculative language and should be attributed carefully."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0081"
+      ],
+      "note": "The first sentence is ASR-damaged; it likely refers to drone warfare or drone parliament but should not be used publicly without verification."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0087"
+      ],
+      "note": "Kim's statement about China/Russia possibly stopping Gaza is her question/speculation, not Jiang's answer in this packet."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0093"
+      ],
+      "note": "Jiang's start date phrase '2021, 2022, when Russia invaded Ukraine' is internally imprecise; Russia's full-scale invasion date should be handled carefully in public chronology."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0095"
+      ],
+      "note": "The phrase 'nationalize the UN' is likely ASR damage; the surrounding point concerns China switching from dollars to gold or otherwise undermining the dollar system."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0098"
+      ],
+      "note": "The Japanese prime minister name is ASR-rendered as 'taki' and should be verified before public mention."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0103"
+      ],
+      "note": "ASR renders Mossad as 'wassad' in this section; semantic pass normalizes the intended entity only in summary-level wording."
+    },
+    {
+      "refs": [
+        "video:interview-t5cnf8dqj-q@transcript:v1#seg-0110"
+      ],
+      "note": "The phrase 'creating spirits of influence' is likely ASR for 'spheres of influence' and is treated that way semantically."
+    }
+  ]
+}
