@@ -189,6 +189,20 @@ Control beats dominance when the weaker actor has more calibration and strategic
 
 This is also why Jiang is suspicious of imperial hubris. The dominant actor often calls the weaker actor's strategy cheating. In the Millennium Challenge reading, asymmetrical tactics work in the first simulation, then the rules are changed so the dominant side can win. For Jiang, that is the imperial pathology: [inflexibility disguised as fairness]{evidence="video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0010 video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"}. The empire wants the enemy to fight the game that proves empire right.
 
+## War Gets Its Own Logic
+
+The **2026-03-20** Tucker Carlson interview gives the earliest March interview formulation of the later escalation-ladder cluster. Tucker asks why the United States and China would not settle the Iran war quickly if both would be hurt. Jiang's answer is not that every actor secretly wants catastrophe. It is that [war develops momentum and a logic of its own]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0008"}. A ceasefire would require American retreat from the Middle East, Iranian security guarantees for the Gulf, and a visible threat to the [petrodollar system that supports American debt]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0010"}.
+
+That makes the material test wider than battlefield victory. Cheap energy had been part of the old arrangement. Jiang says cities, supply chains, and modern consumption depend on imported food and energy; when those break, the world is pushed toward [de-industrialization, remilitarization, and mercantilist rebuilding]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0015 video:interview-2k2nqsttjqe@transcript:v1#seg-0016"}. China is not simply a rival winner in this story. It is also exposed because its decades of wealth relied on cheap imported energy, manufactured exports, and a difficult transition toward household consumption. Jiang's pressure point is that [China is still too focused on export and manufacturing to shift easily into a diversified economy]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0036 video:interview-2k2nqsttjqe@transcript:v1#seg-0037"}.
+
+The same interview gives a compact mission-creep test. A Marine operation might take Kharg Island and produce a morale scene, but Jiang's sentence is the trap: [you can take it, but you cannot hold it]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0058"}. Holding the island requires the coast; holding the coast exposes the mountains; holding the mountains becomes Vietnam. A small operation stays small only before geography, logistics, and occupation requirements start answering back.
+
+<!-- lens-point id="strategy-war-gets-own-logic" concept="strategy-material-test" evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0008 video:interview-2k2nqsttjqe@transcript:v1#seg-0010 video:interview-2k2nqsttjqe@transcript:v1#seg-0058" -->
+<span id="strategy-war-gets-own-logic" class="lens-point-anchor"></span>
+War gets its own logic when the material and political cost of stopping becomes larger than the next escalation: ceasefire threatens the order that funded the war, and a limited operation turns into a demand to hold geography, supply lines, and face.
+
+This section belongs here because the interview tests story against exits. A rationalist story says major powers should settle once the costs are obvious. The strategy lens asks whether the settlement itself would destroy the credibility, money system, alliance position, or occupation story that makes retreat usable. [Power As Alchemy](/lens/power-as-alchemy/) owns the dollar as believed reality. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the later continental-fortress response. Strategy owns the immediate question: can anyone still stop without making their whole previous order look false?
+
 ## The Ladder Starts Climbing Itself
 
 The **2026-03-24** Redacted interview adds the escalation-ladder version of the same material test. Jiang begins by separating the daily public narrative from the actual board: Trump can produce a new story each day, but [the war is following an escalation ladder]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0003"}. The danger is not only that one leader chooses the next move. Each actor is positioned so that the next rung looks necessary: Israel is committed to the fight, Iran must answer attacks on civilian infrastructure without losing the moral frame, the GCC faces energy and desalination vulnerability, and the United States is pulled toward credibility and ground commitment.
@@ -279,7 +293,9 @@ In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pen
 
 In **March 2026**, the Rick Sanchez interview adds the spectacle-resilience test: a visible strike may try to manufacture the public authorization, troop commitment, and funding that a long war lacks, while Hormuz and Gulf infrastructure expose that an efficient unipolar consumer world was not built for strategic disruption.
 
-In **March 2026**, the Redacted Iran-war interview adds the escalation-ladder momentum test: when all sides find reasons to climb, morale, rule-changing institutions, media bubbles, and imperial face become part of the material board.
+In **March 2026**, the Tucker Carlson interview adds an earlier war-momentum formulation: ceasefire threatens petrodollar/Gulf order, cheap energy scarcity audits whole societies, and a small island operation becomes a logistics-and-occupation trap once the map answers back.
+
+In **March 2026**, the Redacted Iran-war interview intensifies this into the escalation-ladder momentum test: when all sides find reasons to climb, morale, rule-changing institutions, media bubbles, and imperial face become part of the material board.
 
 In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
@@ -340,14 +356,13 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
 
-- **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/)
-  Four-dimensional war separates the military image from the full strategic board, and the replacement-empire audition tests whether a possible successor to American imperial muscle can prove will, capacity, cost discipline, infrastructure control, and corrigible forecast discipline.
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0017`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0019`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0021`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0037`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`
+- **2026-03-20**, [War Gets Its Own Logic](/interviews/interview-2k2nqsttjqe/)
+  War momentum appears when ceasefire would threaten the order that made war possible, cheap energy scarcity audits whole societies, and a small island operation becomes a demand to hold coast, mountains, logistics, and face.
+  `video:interview-2k2nqsttjqe@transcript:v1#seg-0008`
+  `video:interview-2k2nqsttjqe@transcript:v1#seg-0010`
+  `video:interview-2k2nqsttjqe@transcript:v1#seg-0036`
+  `video:interview-2k2nqsttjqe@transcript:v1#seg-0037`
+  `video:interview-2k2nqsttjqe@transcript:v1#seg-0058`
 
 - **2026-03-24**, [The War Climbs Its Own Ladder](/interviews/interview-pvhuffwtu3i/)
   The escalation-ladder version of the material test ties daily narrative drift to morale, asymmetric control, Pentagon rule-changing, Vietnam-style sunk cost, and media feedback loops that keep a losing war climbing.
@@ -356,6 +371,15 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:interview-pvhuffwtu3i@transcript:v1#seg-0038`
   `video:interview-pvhuffwtu3i@transcript:v1#seg-0041`
   `video:interview-pvhuffwtu3i@transcript:v1#seg-0088`
+
+- **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/)
+  Four-dimensional war separates the military image from the full strategic board, and the replacement-empire audition tests whether a possible successor to American imperial muscle can prove will, capacity, cost discipline, infrastructure control, and corrigible forecast discipline.
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0017`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0019`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0021`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0037`
+  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`
 
 - **2026-03-26**, [The War Becomes A Rupture](/interviews/interview-yejgdbgbdoq/)
   A theatrical first strike is tested against the missing material supports for full invasion, while Hormuz and Gulf infrastructure expose the fragility hidden inside efficient unipolar abundance.
