@@ -1,0 +1,168 @@
+{
+  "packet_id": "interview-kh8dvnddooq-semantics-pkt-0005",
+  "source_id": "video:interview-kh8dvnddooq",
+  "source_date": "2026-04-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan quotes Jiang's 2017 CNN piece criticizing Chinese media control; Jiang says he stood by those views then, still does not have a Chinese online presence, and avoids Chinese media because speech in China can be used against him.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0035",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0036",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0037",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0038"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks why China lets Jiang appear on YouTube despite the Great Firewall; Jiang says he is outside the Chinese system, speaks English to Westerners, and uses a VPN.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0039",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Hasan asks directly whether China controls what Jiang says; Jiang says no, because he is not talking to Chinese people but to Westerners.",
+      "speaker_attribution": "Hasan question and Jiang answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0040"
+      ],
+      "note": "The exchange is about Jiang's speech constraints; Hasan's quoted CNN phrases are not Jiang's present endorsement except where he says he stood by them at that time and still avoids Chinese online speech.",
+      "suggested_speaker": "Hasan and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says he stood by his 2017 CNN criticism of Chinese media control at the time, and still avoids a Chinese online media presence because statements online could be used against him.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Comparison between Jiang's 2017 op-ed stance and his 2026 speech practice.",
+      "topic_tags": [
+        "china",
+        "free-speech",
+        "cnn",
+        "self-censorship"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames himself as outside the Chinese system: he is on blocked YouTube, speaks English, and talks to Westerners rather than Chinese audiences.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0035",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0036",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Self-description of Jiang's media position in the 2026-04-03 interview.",
+      "topic_tags": [
+        "youtube",
+        "china",
+        "audience",
+        "media"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says most Chinese people can access VPNs and that he uses one to reach the Internet.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Statement about internet access in China made on 2026-04-03.",
+      "topic_tags": [
+        "vpn",
+        "great-firewall",
+        "china"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang denies that China controls what he says and grounds the denial in his Western-facing audience.",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0039",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Direct answer in the 2026-04-03 interview.",
+      "topic_tags": [
+        "china",
+        "control",
+        "propaganda",
+        "audience"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0036"
+      ],
+      "moment": "Jiang explains his China position with an alien metaphor: he is in one world but broadcasting to another.",
+      "source_phrase": "a Martian on Earth talking to Martians back at home in Mars",
+      "why_it_matters": "The image captures his claimed liminal status: physically in China, culturally and politically speaking to the West.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "moment": "Even while denying control, Jiang admits he avoids Chinese online speech because China can punish words.",
+      "source_phrase": "whatever I say online could be used against me",
+      "why_it_matters": "This is the tension Hasan keeps pressing: independence from direct control does not equal absence of constraint.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Great Firewall",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0035",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "China's internet-control system, invoked by Hasan as a contradiction to Jiang's YouTube prominence.",
+      "confidence": "high"
+    },
+    {
+      "term": "First Amendment",
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The American free-speech right Jiang says he praised in a 2017 CNN op-ed as America's great treasure.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0033",
+        "video:interview-kh8dvnddooq@transcript:v1#seg-0034"
+      ],
+      "note": "The 2026 interview explicitly revisits Jiang's 2017 CNN op-ed after Trump's 2016 win and preserves the change in context from defending U.S. free speech to living cautiously in China.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
