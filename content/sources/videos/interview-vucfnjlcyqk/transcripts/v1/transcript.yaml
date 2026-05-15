@@ -1,0 +1,34 @@
+id: "video:interview-vucfnjlcyqk@transcript:v1"
+source_id: "video:interview-vucfnjlcyqk"
+version: 1
+language: "en"
+language_probability: 0.987
+duration_seconds: 7989.803
+segments: 202
+word_count: 22415
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+chronology:
+  source_date: "2026-04-06"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCy5tR9C0xM6tp7ha1Usq9Ag/VucFnjlcyQk"
+  youtube_metadata: "content/sources/raw/youtube/Interviews/UCy5tR9C0xM6tp7ha1Usq9Ag/VucFnjlcyQk/metadata.youtube.json"
+  youtube_metadata_source: "yt-dlp"
+  transcription_json_sha256: "01494ef5c7608feb629d4bd3380ccb9a44dae8dbd3c080afe27b7fd54b05b47b"
+  grouped_json_sha256: "ac83f72ea4efeb0019f1d6c46680646f1ab73a7493e83ce6d54ec877f7a07a5f"
+  dump_json_sha256: "c8395da9b73a4249066e7f6b0d1eda885dcbac7ef78fffad1592a8dd62aa5fe8"
