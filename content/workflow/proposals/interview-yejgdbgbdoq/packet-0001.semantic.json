@@ -1,0 +1,116 @@
+{
+  "packet_id": "interview-yejgdbgbdoq-semantics-pkt-0001",
+  "source_id": "video:interview-yejgdbgbdoq",
+  "source_date": "2026-03-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0001",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "The broadcast cold-open and host introduction preview Jiang as a prediction-oriented guest, framed around what will happen in the Gulf, China, Russia, the United States, Europe, and Asia.",
+      "speaker_attribution": "Host Rick Sanchez, with a brief clip fragment before the formal opening.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0003",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0004",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0005",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0006",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0007",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Rick lays out his premise: Trump is politically weak, Americans do not think the Iran war is being fought for them, and sources point to thousands of elite U.S. troops moving toward a possible weekend Gulf operation.",
+      "speaker_attribution": "Rick Sanchez host monologue before Jiang joins.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0001"
+      ],
+      "note": "Segment appears to be a clipped teaser from later discussion, not Jiang's main interview turn.",
+      "suggested_speaker": "clip audio",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Rick frames Trump as pressured by poor approval numbers and by a perception that the United States is not achieving the promised quick victory in Iran.",
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0003",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Host framing on 2026-03-26.",
+      "topic_tags": [
+        "trump",
+        "iran-war",
+        "public-opinion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The show alleges that special forces, Marines, SEALs, Delta Force, and airborne troops are being moved into the Gulf for a likely operation against Iran.",
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0005",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0006",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0007",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Unverified host-source report presented on 2026-03-26 about the coming weekend.",
+      "topic_tags": [
+        "iran",
+        "special-forces",
+        "persian-gulf"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0005"
+      ],
+      "moment": "Rick poses the Iran decision as Trump choosing between backing away from a mess and charging ahead full steam.",
+      "source_phrase": "Full steam ahead",
+      "why_it_matters": "This pressure frame sets up Jiang's later answer that Trump wants spectacle and narrative control rather than strategy.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "quick victory",
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The host's phrase for the promised fast success that Americans allegedly no longer believe the United States is achieving in Iran.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0006",
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0007"
+      ],
+      "note": "Rick says the expected U.S. announcement would come after markets close on Friday and that C-17 flights had been observed since March 12.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-yejgdbgbdoq@transcript:v1#seg-0008"
+      ],
+      "note": "Host arithmetic around aircraft and troop counts is garbled by ASR and should be treated as host-source framing, not Jiang's claim."
+    }
+  ]
+}
