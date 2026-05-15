@@ -1,0 +1,76 @@
+{
+  "packet_id": "interview-up9fnq23lsa-semantics-pkt-0001",
+  "source_id": "video:interview-up9fnq23lsa",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0001",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0002",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0003",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0004",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0005",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0006",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0007",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The episode opens with preview claims, then the interviewer asks what the United States should do if it wants to escape or win the Iran war; Jiang answers that declining empires lose strategic planning because hubris and desperation make defeat unthinkable.",
+      "speaker_attribution": "Interviewer asks; Jiang answers.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0001", "video:interview-up9fnq23lsa@transcript:v1#seg-0003"],
+      "note": "The opening segments are clipped preview material from Jiang before the main interview question begins.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says a declining empire becomes unable to plan strategically because leaders combine arrogance, desperation, and unwillingness to admit defeat.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0007", "video:interview-up9fnq23lsa@transcript:v1#seg-0008"],
+      "temporal_scope": "Diagnosis of U.S. imperial behavior in the Iran war as of 2026-03-19.",
+      "topic_tags": ["empire-decline", "strategic-planning", "iran-war"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that official insistence on positive talking points is itself evidence of imperial decline because bad war facts become unsayable.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0007", "video:interview-up9fnq23lsa@transcript:v1#seg-0008"],
+      "temporal_scope": "Commentary on contemporary U.S. press and war messaging.",
+      "topic_tags": ["propaganda", "war-feedback", "imperial-bubble"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0007", "video:interview-up9fnq23lsa@transcript:v1#seg-0008"],
+      "moment": "The empire is trapped in a press-conference bubble where hearing that the war is going badly has become intolerable.",
+      "source_phrase": "the war is going bad. You need to hear it.",
+      "why_it_matters": "It compresses Jiang's model of feedback suppression into a vivid institutional scene.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "hubris and desperation",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0007"],
+      "definition_or_usage": "Jiang's paired diagnosis for why declining empires double down instead of reassessing.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0007", "video:interview-up9fnq23lsa@transcript:v1#seg-0008"],
+      "note": "By 2026-03-19 Jiang is framing the Iran war as an imperial-decline feedback failure rather than merely a policy mistake.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}
