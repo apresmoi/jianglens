@@ -356,7 +356,7 @@ Claim blocks: **0**
 - `content/sources/videos/interview-61z1rb3uvpc/transcripts/v1/transcript.clean.jsonl`
 - `content/sources/videos/interview-61z1rb3uvpc/transcripts/v1/transcript.clean.md`
 - `content/sources/videos/interview-61z1rb3uvpc/transcripts/v1/transcript.yaml`
-- `content/sources/videos/interview-875hvfdrxzy/source.yaml` - Professor Jiang on Education in China @PredictiveHistory
+- `content/sources/videos/interview-875hvfdrxzy/source.yaml` - Education in China (Sinica interview with Jiang Xueqin)
 - `content/sources/videos/interview-875hvfdrxzy/transcripts/v1/transcript.clean.jsonl`
 - `content/sources/videos/interview-875hvfdrxzy/transcripts/v1/transcript.clean.md`
 - `content/sources/videos/interview-875hvfdrxzy/transcripts/v1/transcript.yaml`

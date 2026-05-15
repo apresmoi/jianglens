@@ -1,4 +1,4 @@
-# Professor Jiang on Education in China @PredictiveHistory
+# Education in China (Sinica interview with Jiang Xueqin)
 
 Source: https://www.youtube.com/watch?v=875HVFDrXzY
 
