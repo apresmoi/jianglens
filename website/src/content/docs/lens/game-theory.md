@@ -139,6 +139,18 @@ Theater becomes useful game-theory evidence only when the analyst names the larg
 
 That gives the reader a boundary. If "it's all theater" merely protects a claim from contrary evidence, it has left Jiang's game-theory method and become story insulation. If it identifies players, constraints, desired payoffs, visible signals, and dated predictions, then theater can be tested as a game-board signal. The point belongs here rather than on the stories page because the mechanism is methodological: the analyst is not asking how narrative captures imagination, but whether visible drama is misdirection, bargaining language, or evidence of a different payoff structure.
 
+## Prediction Under Cross-Examination
+
+The April 2026 Zeteo interview turns that boundary into a hostile audit. Mehdi Hasan does not let Jiang keep the "China's Nostradamus" aura. He names the apparent hits, presses the Nikki Haley miss, asks whether prediction is foresight or luck, and pushes the difference between speculation and evidence. Jiang's useful answer is not that he never misses. It is that Predictive History is supposed to [build a historical framework, make predictions from it, and see whether they work out]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0044 video:interview-kh8dvnddooq@transcript:v1#seg-0045"}.
+
+That makes the interview a method source rather than only a reputation source. Jiang [concedes the Haley branch was wrong, then reinterprets the Vance/Gabbard choice as a different signal about Trump's second term and possible off-ramp]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025"}. The correction is fragile, but it matters for the lens: a missed branch should not disappear into charisma. It has to be named, rerouted, and exposed to later events.
+
+<!-- lens-point id="game-theory-prediction-under-audit" concept="game-theory-method" evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025 video:interview-kh8dvnddooq@transcript:v1#seg-0045 video:interview-kh8dvnddooq@transcript:v1#seg-0055 video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072" -->
+<span id="game-theory-prediction-under-audit" class="lens-point-anchor"></span>
+Prediction stays inside Jiang's game-theory method only when it can survive adversarial audit: the analyst names misses, distinguishes checkable facts from truth-claims, marks speculative analysis as speculative, and lets later events test whether the historical framework actually predicts.
+
+Hasan's facts-versus-truth challenge supplies the danger. Jiang says facts are independently verifiable, while truth means deeper understanding of why things are the way they are and what can be predicted from them: [there is a difference between facts and truth]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0053 video:interview-kh8dvnddooq@transcript:v1#seg-0054 video:interview-kh8dvnddooq@transcript:v1#seg-0055"}. That distinction can rescue thought from flat fact-collection. It can also become a license for pattern language to outrun evidence. Hasan's later demand that Jiang admit the Pax Judaica account is [speculative analysis]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072"} is therefore not outside the method. It is one of the method's necessary tests.
+
 ## Material Tests Still Matter
 
 Game theory can reveal hidden payoffs, but it does not let story float free of matter. The Hollywood-Pentagon lecture gives the correction. War has to be judged by [economics, organization, and logistics]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030"}. An actor can narrate victory, stage rescue, or maintain optics while losing the material game.
@@ -175,6 +187,7 @@ Ask:
 - Does the story pass material tests of cost, organization, logistics, time, and enemy adaptation?
 - Has the game become visible enough that a late player can read the model, enter the board, and redirect the trajectory?
 - If the surface event is theater, what dated prediction would make that claim testable rather than self-protecting?
+- If the analyst missed a branch or admits speculation, is the miss preserved and the speculative layer marked, or is charisma protecting the model from audit?
 - Which earlier choices made only bad choices available now?
 
 The final question is often the most important. A trap is not just a bad move. It is a game whose previous moves have narrowed the field until every option damages the actor.
@@ -213,6 +226,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/)
   The method gains a proximity rule: actors play many games at once, and the nearest visible game can make domestic faction, party, or spiritual conflict govern the apparent interstate game.
+
+- **2026-04-03**, [Useful Idiot, Predictive History, And The Facts Trap](/interviews/interview-kh8dvnddooq/)
+  Hasan turns the prediction method into cross-examination: Jiang distinguishes facts from truth, admits the Haley miss, marks part of the Pax Judaica account as speculative analysis, and gives a dated 2026 prediction set that can be checked later.
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
   War imposes the hard material test: economics, organization, and logistics expose when story has replaced strategy.
