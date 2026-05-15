@@ -1,0 +1,54 @@
+{
+  "packet_id": "interview-up9fnq23lsa-semantics-pkt-0009",
+  "source_id": "video:interview-up9fnq23lsa",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0065", "video:interview-up9fnq23lsa@transcript:v1#seg-0066", "video:interview-up9fnq23lsa@transcript:v1#seg-0067", "video:interview-up9fnq23lsa@transcript:v1#seg-0068", "video:interview-up9fnq23lsa@transcript:v1#seg-0069", "video:interview-up9fnq23lsa@transcript:v1#seg-0070", "video:interview-up9fnq23lsa@transcript:v1#seg-0071", "video:interview-up9fnq23lsa@transcript:v1#seg-0072"],
+      "kind": "exchange",
+      "summary": "Jiang explains why Trump cannot simply declare victory and leave: Iran would extract reparations from the GCC, East Asian allies would lose faith, Treasury buyers would disappear, Europe would rethink Russia, and America would face depression. The interviewer adds that GCC money promised for U.S. AI would also vanish.",
+      "speaker_attribution": "Jiang answer with interviewer extension; Jiang briefly agrees.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says if America exits Iran, the GCC would be forced to redirect sovereign wealth from the United States to Iran as reparations or protection money.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0066", "video:interview-up9fnq23lsa@transcript:v1#seg-0067"],
+      "temporal_scope": "Counterfactual game-theory model on 2026-03-19.",
+      "topic_tags": ["gcc", "iran", "reparations"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts retreat would make Japan and South Korea remilitarize and stop buying U.S. Treasuries, creating a dollar crisis and domestic depression.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0067", "video:interview-up9fnq23lsa@transcript:v1#seg-0068"],
+      "temporal_scope": "Prediction tied to a U.S. retreat scenario.",
+      "topic_tags": ["japan", "south-korea", "treasuries", "dollar"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interviewer adds that Trump also needs GCC investment to keep the U.S. AI bubble and top-heavy economy from collapsing.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0070", "video:interview-up9fnq23lsa@transcript:v1#seg-0071", "video:interview-up9fnq23lsa@transcript:v1#seg-0072"],
+      "temporal_scope": "Interviewer economic synthesis in this source.",
+      "topic_tags": ["ai-bubble", "gcc-investment", "stock-market"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0069"],
+      "moment": "The retreat scenario ends with Iran dominant in the Middle East, Russia dominant in Europe, and America imploding back into the hemisphere.",
+      "source_phrase": "America is imploding back in the Western Hemisphere",
+      "why_it_matters": "It shows why Jiang thinks escalation is structurally forced, not optional.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [{"term": "no-retreat ladder", "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0066", "video:interview-up9fnq23lsa@transcript:v1#seg-0069"], "definition_or_usage": "The chain of allied defection, capital flight, dollar collapse, and geopolitical reversal that Jiang says makes U.S. retreat intolerable.", "confidence": "high"}],
+  "chronology_notes": [{"refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0066", "video:interview-up9fnq23lsa@transcript:v1#seg-0069"], "note": "This is a dated March 2026 statement that Jiang sees no real path for America to leave the Iran war without imperial collapse.", "possible_update_to_prior_position": true, "confidence": "high"}],
+  "uncertainty_notes": []
+}

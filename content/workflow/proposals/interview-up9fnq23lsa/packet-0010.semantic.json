@@ -1,0 +1,45 @@
+{
+  "packet_id": "interview-up9fnq23lsa-semantics-pkt-0010",
+  "source_id": "video:interview-up9fnq23lsa",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0073", "video:interview-up9fnq23lsa@transcript:v1#seg-0074", "video:interview-up9fnq23lsa@transcript:v1#seg-0075", "video:interview-up9fnq23lsa@transcript:v1#seg-0076", "video:interview-up9fnq23lsa@transcript:v1#seg-0077", "video:interview-up9fnq23lsa@transcript:v1#seg-0078", "video:interview-up9fnq23lsa@transcript:v1#seg-0079", "video:interview-up9fnq23lsa@transcript:v1#seg-0080"],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether Thucydides trap explains Trump using Venezuela and Iran to quarantine China; Jiang grants the rational China-strangulation logic but argues it is risky and overblown because China and America are codependent, Chinese elites are Americanized, and China does not seek hegemonic conquest.",
+      "speaker_attribution": "Interviewer asks; Jiang answers.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says a rational explanation for Trump is to strangle China's food and oil imports through Western Hemisphere control and Hormuz control, forcing China into a dollar-supporting deal.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0076", "video:interview-up9fnq23lsa@transcript:v1#seg-0077"],
+      "temporal_scope": "Possible Trump strategy assessed on 2026-03-19.",
+      "topic_tags": ["china", "hormuz", "monroe-doctrine", "dollar"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Thucydides trap is overblown because China and America are codependent: America offshored manufacturing to China while China offshored elite education and indoctrination to America.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0078", "video:interview-up9fnq23lsa@transcript:v1#seg-0079"],
+      "temporal_scope": "U.S.-China model in this interview.",
+      "topic_tags": ["thucydides-trap", "codependence", "elite-formation"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is mainly interested in sovereignty and trade routes for Chinese welfare, while the China threat is inflated to justify Washington spending.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0079", "video:interview-up9fnq23lsa@transcript:v1#seg-0080"],
+      "temporal_scope": "Jiang's China assessment on 2026-03-19.",
+      "topic_tags": ["china-threat", "sovereignty", "washington"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [{"refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0078"], "moment": "America sends factories to China; China sends its elite formation to America.", "source_phrase": "China offshored its elite selection and indoctrination to America", "why_it_matters": "It reverses the standard dependency story into mutual colonization.", "tone": "reversal", "confidence": "high"}],
+  "glossary_terms": [{"term": "U.S.-China codependence", "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0078", "video:interview-up9fnq23lsa@transcript:v1#seg-0079"], "definition_or_usage": "Jiang's claim that the two systems are materially and culturally entangled enough that great-power war is not the natural endpoint.", "confidence": "high"}],
+  "chronology_notes": [{"refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0076", "video:interview-up9fnq23lsa@transcript:v1#seg-0080"], "note": "This source qualifies Jiang's Iran dollar-war thesis by rejecting a simple U.S.-China Thucydides-war frame.", "possible_update_to_prior_position": true, "confidence": "high"}],
+  "uncertainty_notes": []
+}

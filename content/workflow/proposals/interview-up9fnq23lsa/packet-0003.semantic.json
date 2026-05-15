@@ -1,0 +1,84 @@
+{
+  "packet_id": "interview-up9fnq23lsa-semantics-pkt-0003",
+  "source_id": "video:interview-up9fnq23lsa",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0017",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0018",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0019",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0020",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0021",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0022",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0023",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains why Britain saw Napoleon as existential, develops the Bank of England as imperial war-finance innovation, and the interviewer then reframes the maritime strategy as forcing commerce onto controllable water choke points before asking whether economics is enough.",
+      "speaker_attribution": "Jiang answers; interviewer adds a long synthesis and question; ad material appears in seg-0021 to seg-0022.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0021", "video:interview-up9fnq23lsa@transcript:v1#seg-0022"],
+      "note": "The gold advertisement is host-read sponsor material and should not be treated as a substantive Jiang claim.",
+      "suggested_speaker": "Interviewer/ad read",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Bank of England changed war finance by shifting the borrower from a mortal king to the nation state, making future generations collateral for imperial debt.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0017", "video:interview-up9fnq23lsa@transcript:v1#seg-0018"],
+      "temporal_scope": "Historical model used in the interview.",
+      "topic_tags": ["bank-of-england", "war-finance", "nation-state"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes British anti-Napoleonic war finance as Ponzi-like because once a war began, investors and the state had to keep fighting or lose everything.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0019"],
+      "temporal_scope": "Historical analogy for imperial war momentum.",
+      "topic_tags": ["ponzi", "napoleonic-wars", "war-momentum"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interviewer captures Jiang's maritime-control thesis as forcing commerce onto water so a few choke points can control global economics.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0023", "video:interview-up9fnq23lsa@transcript:v1#seg-0024"],
+      "temporal_scope": "Interviewer synthesis of Jiang's model during this conversation.",
+      "topic_tags": ["maritime-control", "choke-points", "economics"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0018"],
+      "moment": "The modern public debt state appears as a machine that can pledge not just the king but the nation, children, and grandchildren.",
+      "source_phrase": "including the children, the grandchildren are now obligated to pay you back",
+      "why_it_matters": "It makes Jiang's empire-finance model concrete and morally charged.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Bank of England model",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0018", "video:interview-up9fnq23lsa@transcript:v1#seg-0019"],
+      "definition_or_usage": "A war-finance system where national public credit replaces personal royal credit and locks the state into continued war.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0017", "video:interview-up9fnq23lsa@transcript:v1#seg-0019"],
+      "note": "This source ties Jiang's later U.S. war-momentum claims to an older Anglo-Dutch/British public-credit origin story.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": []
+}

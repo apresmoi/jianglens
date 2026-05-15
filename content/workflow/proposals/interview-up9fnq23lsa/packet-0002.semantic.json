@@ -1,0 +1,77 @@
+{
+  "packet_id": "interview-up9fnq23lsa-semantics-pkt-0002",
+  "source_id": "video:interview-up9fnq23lsa",
+  "source_date": "2026-03-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0009",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0010",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0011",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0012",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0013",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0014",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0015",
+        "video:interview-up9fnq23lsa@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks whether Trump declares victory or gets sucked in; Jiang answers with fog-of-war caution, a sunk-cost/game-theory escalation model, and then begins the deeper claim that the war is not really caused by Iran's nuclear program but by maritime empire logic.",
+      "speaker_attribution": "Interviewer frames scenarios; Jiang answers and then responds to a follow-up about British existential fear.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang predicts Trump is structurally pushed to double down because quitting would crystallize loss, like a gambler refusing to leave a casino after heavy losses.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0010", "video:interview-up9fnq23lsa@transcript:v1#seg-0011"],
+      "temporal_scope": "Prediction about Trump and Iran as of 2026-03-19.",
+      "topic_tags": ["game-theory", "sunk-cost", "mission-creep"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He rejects the nuclear-program explanation because he says Iran had already accepted zero enrichment before the strike, leaving the war searching for a purpose and strategy.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0012", "video:interview-up9fnq23lsa@transcript:v1#seg-0013"],
+      "temporal_scope": "Causal diagnosis of the war offered on 2026-03-19.",
+      "topic_tags": ["iran-nuclear", "war-cause", "narrative"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang maps the Anglo-American imperial strategy to preventing a unified Eurasian land power from negating naval control over trade choke points.",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0014", "video:interview-up9fnq23lsa@transcript:v1#seg-0015"],
+      "temporal_scope": "Historical model used to interpret the current Iran war.",
+      "topic_tags": ["mackinder", "eurasia", "maritime-empire"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0013"],
+      "moment": "The war is described as looking for its own purpose after the stated nuclear cause collapses.",
+      "source_phrase": "a war that is looking for a purpose and a strategy",
+      "why_it_matters": "This phrase gives the later mission-creep argument its central image.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "heartland thesis",
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0014", "video:interview-up9fnq23lsa@transcript:v1#seg-0015"],
+      "definition_or_usage": "Jiang's shorthand for the maritime-power fear that Eurasian rail, land power, and trade integration could neutralize naval empire.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": ["video:interview-up9fnq23lsa@transcript:v1#seg-0010", "video:interview-up9fnq23lsa@transcript:v1#seg-0011"],
+      "note": "Jiang's March 19 prediction is that Iran escalation is more likely than ceasefire because Trump, Israel, and the GCC all have incentives to keep pushing.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
