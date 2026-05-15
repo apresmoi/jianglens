@@ -189,6 +189,20 @@ Control beats dominance when the weaker actor has more calibration and strategic
 
 This is also why Jiang is suspicious of imperial hubris. The dominant actor often calls the weaker actor's strategy cheating. In the Millennium Challenge reading, asymmetrical tactics work in the first simulation, then the rules are changed so the dominant side can win. For Jiang, that is the imperial pathology: [inflexibility disguised as fairness]{evidence="video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0010 video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011"}. The empire wants the enemy to fight the game that proves empire right.
 
+## The Ladder Starts Climbing Itself
+
+The **2026-03-24** Redacted interview adds the escalation-ladder version of the same material test. Jiang begins by separating the daily public narrative from the actual board: Trump can produce a new story each day, but [the war is following an escalation ladder]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0003"}. The danger is not only that one leader chooses the next move. Each actor is positioned so that the next rung looks necessary: Israel is committed to the fight, Iran must answer attacks on civilian infrastructure without losing the moral frame, the GCC faces energy and desalination vulnerability, and the United States is pulled toward credibility and ground commitment.
+
+The interview sharpens control into morale. Jiang says the consequence of destroying Gaza or Iranian civilian infrastructure is not only legal condemnation or bad publicity; it becomes [the morale of the population and its will to fight]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0026 video:interview-pvhuffwtu3i@transcript:v1#seg-0027"}. A war fought for a cause people cannot believe in turns force into exhaustion. A weaker actor with a good cause, public restraint, and calibrated escalation can make suffering become endurance rather than collapse.
+
+The institutional failure is that the dominant side may already know the method is broken. Jiang returns to Millennium Challenge and Operation Prosperity Guardian as practical evidence: if the enemy cannot be scared, bought, blackmailed, co-opted, or assassinated into surrender, the standard toolkit runs out. In the war-game memory, the Pentagon's answer was to [change the rules until it won]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0037 video:interview-pvhuffwtu3i@transcript:v1#seg-0038"}. In the Vietnam memory, the institution knows the war is not winnable but keeps playing because exit would admit defeat. Jiang's casino image makes escalation a material pathology: [empire keeps gambling because going home means confessing the loss]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0040 video:interview-pvhuffwtu3i@transcript:v1#seg-0041"}. The late media turn completes the feedback loop: dissent is pushed out, leaders hear the war is going well, and [one more week becomes the story that keeps the stupid war going]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0087 video:interview-pvhuffwtu3i@transcript:v1#seg-0088"}.
+
+<!-- lens-point id="strategy-escalation-ladder-gains-momentum" concept="strategy-material-test" evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0003 video:interview-pvhuffwtu3i@transcript:v1#seg-0026 video:interview-pvhuffwtu3i@transcript:v1#seg-0038 video:interview-pvhuffwtu3i@transcript:v1#seg-0041 video:interview-pvhuffwtu3i@transcript:v1#seg-0088" -->
+<span id="strategy-escalation-ladder-gains-momentum" class="lens-point-anchor"></span>
+An escalation ladder gains momentum when every actor's next move looks necessary, morale becomes a war capacity, institutions change rules and repeat victory stories, and imperial face makes withdrawal feel more damaging than another bad wager.
+
+This belongs inside strategy because the active question is not only narrative capture. The ladder has to be tested against troops, money, morale, infrastructure, escalation control, institutional feedback, and exit cost. It borders [How Stories Control Reality](/lens/how-stories-control-reality/) when Washington drinks its own media story, [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) when dissent is pushed out of the decision bubble, and [Eschatology As Script](/lens/eschatology/) when sacred or apocalyptic rewards define the payoff. Strategy owns the ladder test: who can still stop climbing, and what material or institutional cost makes stopping feel impossible?
+
 ## Rome: Will As Material Capacity
 
 Rome is the ancient counterexample that keeps this page from becoming simple anti-military commentary. Jiang does not say stories are useless. Rome wins because a story of piety, liberty, citizenship, and no surrender becomes material capacity.
@@ -229,6 +243,8 @@ Ask these questions when applying this lens.
 
 **Who controls escalation?** The stronger actor may possess dominance while the weaker actor controls timing, justification, terrain, cost, and public opinion.
 
+**Has the ladder become self-propelling?** Ask whether each actor's next move now looks mandatory, whether morale has become a war capacity, whether institutions are suppressing bad feedback, and whether face-saving makes exit feel more dangerous than continuing.
+
 **What reputation must be defended?** A hegemon, bully, empire, or alliance leader can lose freedom because credibility demands response. The trap begins when not answering looks impossible.
 
 **What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
@@ -262,6 +278,8 @@ In **March 2026**, the U.S.-Iran lecture shows the access-control problem before
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle may be judged against possible replacement actors; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
 In **March 2026**, the Rick Sanchez interview adds the spectacle-resilience test: a visible strike may try to manufacture the public authorization, troop commitment, and funding that a long war lacks, while Hormuz and Gulf infrastructure expose that an efficient unipolar consumer world was not built for strategic disruption.
+
+In **March 2026**, the Redacted Iran-war interview adds the escalation-ladder momentum test: when all sides find reasons to climb, morale, rule-changing institutions, media bubbles, and imperial face become part of the material board.
 
 In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
@@ -330,6 +348,14 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0037`
   `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`
+
+- **2026-03-24**, [The War Climbs Its Own Ladder](/interviews/interview-pvhuffwtu3i/)
+  The escalation-ladder version of the material test ties daily narrative drift to morale, asymmetric control, Pentagon rule-changing, Vietnam-style sunk cost, and media feedback loops that keep a losing war climbing.
+  `video:interview-pvhuffwtu3i@transcript:v1#seg-0003`
+  `video:interview-pvhuffwtu3i@transcript:v1#seg-0026`
+  `video:interview-pvhuffwtu3i@transcript:v1#seg-0038`
+  `video:interview-pvhuffwtu3i@transcript:v1#seg-0041`
+  `video:interview-pvhuffwtu3i@transcript:v1#seg-0088`
 
 - **2026-03-26**, [The War Becomes A Rupture](/interviews/interview-yejgdbgbdoq/)
   A theatrical first strike is tested against the missing material supports for full invasion, while Hormuz and Gulf infrastructure expose the fragility hidden inside efficient unipolar abundance.
