@@ -167,6 +167,20 @@ This is where Jiang's school dream returns. Predictive History does not begin as
 
 The difference between the dead school and the living school is therefore not that one has classrooms and the other does not. The difference is whether education narrows the person into a measurable body, rank, credential, national subject, and anxious competitor, or opens the person into historical imagination, love, soul, prediction, and responsibility for reality. That positive endpoint now has its own narrower page: [Living School For Psychohistory](/lens/living-school-for-psychohistory/).
 
+## Compliance And The Fight To Matter
+
+The **2026-03-16** Gita Wirjawan interview makes the late education diagnosis more explicit. Jiang returns from AI, civil war, Iran, and eschatology to the classroom because the same world-system works on young people first as attention loss. He says the new generation does not pay attention, even in school; they are distracted, depressed, medicated, and made numb. Then he corrects his own word: the taught ideal is [not complicity but compliance]{evidence="video:interview-rsi7cdrurme@transcript:v1#seg-0157 video:interview-rsi7cdrurme@transcript:v1#seg-0158"}.
+
+That update sharpens the older school-game page rather than replacing it. Earlier sources showed school as stakeholder convergence, separation from parents, nation-state memory, meritocratic wound-selection, test addiction, and authority training. The March 2026 interview gives the newest visible endpoint: compliance is useful because a distracted, numb person cannot hold attention long enough to choose, question, refuse, or love.
+
+Jiang's counter-education is still Great Books, but the meaning has become more metaphysical. He says he teaches Plato, Homer, Dante, Milton, and Shakespeare not as cultural prestige but as [portals into the mind of the universe and divine consciousness]{evidence="video:interview-rsi7cdrurme@transcript:v1#seg-0161"}. That is why he chooses high school rather than university. In his account, universities offer little freedom because scholars must publish inside a system, build on existing scholarship, and avoid fundamental questions about the whole apparatus of society; [the person who tries to ask for the essence of truth is treated as crazy]{evidence="video:interview-rsi7cdrurme@transcript:v1#seg-0164"}.
+
+<!-- lens-point id="education-refuses-compliance" concept="education-soul-game" evidence="video:interview-rsi7cdrurme@transcript:v1#seg-0157 video:interview-rsi7cdrurme@transcript:v1#seg-0158 video:interview-rsi7cdrurme@transcript:v1#seg-0161 video:interview-rsi7cdrurme@transcript:v1#seg-0164 video:interview-rsi7cdrurme@transcript:v1#seg-0166 video:interview-rsi7cdrurme@transcript:v1#seg-0168" -->
+<span id="education-refuses-compliance" class="lens-point-anchor"></span>
+Education refuses compliance when it protects attention, opens the student to worlds larger than the rewarded system, preserves intellectual freedom for fundamental questions, and teaches the person that choosing to matter can affect reality.
+
+The ending matters because it prevents the education lens from becoming only institutional critique. Jiang's message to teachers and students is "you matter," and he means cause and effect rather than self-esteem. One person must not surrender because powers look demonic, nuclear, wealthy, or too large; the world is interconnected, and [choosing goodness spreads good in the world]{evidence="video:interview-rsi7cdrurme@transcript:v1#seg-0166"}. He then names the practical fight: [believe that you matter, wake up, open the mind to new possibilities, and educate yourself]{evidence="video:interview-rsi7cdrurme@transcript:v1#seg-0168"}. Education is the rival soul game because compliance says your will is irrelevant; learning says the will is still one of reality's causes.
+
 ## Diagnostics
 
 - **Game Test**: What does the institution actually reward: learning, status, pleasing authority, minimum work, compliance, tuition, prestige, or brand upside?
@@ -182,6 +196,7 @@ The difference between the dead school and the living school is therefore not th
 - **Best-Student Test**: Are the highest performers able to reason from evidence, risk open-ended answers, and see other perspectives, or are they addicted to the rewarded script?
 - **Worldliness Test**: What can the student actually do when separated from the institution: navigate, repair, build, persuade, fight, care, reason, cooperate, survive, or create?
 - **Research Habit Test**: Does research train exploration, listening, craft, and noticing, or only information handling under instruction?
+- **Compliance Test**: Does the education strengthen attention, refusal, truth-seeking, and the belief that action matters, or does it make numb obedience feel realistic?
 - **Rival Formation**: What practice gives the student a world stronger than grades, rankings, screens, money, and national memory?
 
 ## Chronology
@@ -197,6 +212,7 @@ The difference between the dead school and the living school is therefore not th
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/): School is analyzed as a stakeholder game whose convergence point can make actual learning the least important game.
 - **2026-01-13**, [Game Theory #3: The Marshmallow Was Always A Trust Test](/episodes/predictive-history-mx93u4kza28/): Success traits are recast as trust-world effects; delay, resilience, and self-reflection become rational only when authority, promises, and help have been made believable.
 - **2026-01-15**, [Game Theory #4: The Immigration Game Is Rigged](/episodes/predictive-history-35hrplvyf0g/): School success is separated from status and command; obedience, grades, technical skill, and income may still leave a group playing inside another group's rules.
+- **2026-03-16**, [Our True Wealth Is Consciousness](/interviews/interview-rsi7cdrurme/): Jiang names the newest school endpoint as compliance, then answers with Great Books, intellectual freedom, "you matter," and self-education as the fight to keep attention and will alive.
 - **2026-04-05**, [Creativity Is A Scientific Rebellion](/interviews/interview-vhruuvmkxje/): Jiang defines creativity as scientific problem-solving, diagnoses the Chinese classroom as anti-creative authority training, and updates the positive school model through classroom proof, wellbeing, meta-learning, teacher professional culture, and best-student fragility.
 
 ## Related Concepts
