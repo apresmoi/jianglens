@@ -61,6 +61,20 @@ This is why Jiang can connect Dubai's safety premium, desalination plants, the p
 
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
+## No-Exit War
+
+The **2026-03-13** Danny Haiphong interview gives the no-exit version of the Iran-war material test. Danny asks why an empire would keep digging if the war is already a trap. Jiang answers with [hubris and desperation]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014"}: desperation because [a Russia-Iran-China alignment could create a Eurasian trade world that stops supporting the dollar]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0018"}, and hubris because [Iraq, Libya, Syria, and other one-sided interventions taught American elites that Middle Eastern force was cheap, fast, and survivable]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0018 video:interview-px5wsnsqwme@transcript:v1#seg-0019"}.
+
+The ground-war question then turns the trap from psychology into material structure. Jiang calls Iraq 2003 an anomaly rather than a true model: Iraq had been depleted by sanctions, lacked serious defenses, and made shock and awe look more general than it was. Iran, by contrast, is a real war where [airpower cannot replace ground troops]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0024"}. But the troops needed to make the military story real are politically and materially unavailable. In Jiang's estimate, invasion would require a draft, at least hundreds of thousands of soldiers, perhaps millions, and the logistics, manufacturing capacity, inventory, routes, and preparation time for a multi-year, multi-vector campaign against [a mountain fortress]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0025 video:interview-px5wsnsqwme@transcript:v1#seg-0026"}.
+
+That is why the exit is not simple either. Jiang says [war develops its own momentum after it starts]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0027"}. If Washington declares victory and leaves, [Iran can use reparations, Hormuz taxation, and Gulf instability to turn the GCC from American linchpin into Iranian client space]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0028 video:interview-px5wsnsqwme@transcript:v1#seg-0029"}. Japan, South Korea, and Europe then [ask why they host American bases or buy Treasuries if protection is unreliable]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0029 video:interview-px5wsnsqwme@transcript:v1#seg-0030 video:interview-px5wsnsqwme@transcript:v1#seg-0031"}. The dollar order fails not because a spreadsheet changes, but because the protection story that made allies buy the debt has been tested and found false.
+
+<!-- lens-point id="strategy-no-exit-war-dollar-trap" concept="strategy-material-test" evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014 video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0024 video:interview-px5wsnsqwme@transcript:v1#seg-0025 video:interview-px5wsnsqwme@transcript:v1#seg-0026 video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0031" -->
+<span id="strategy-no-exit-war-dollar-trap" class="lens-point-anchor"></span>
+No-exit war appears when an empire starts a war to defend the money-and-alliance order, then discovers that victory requires ground, draft, logistics, and manufacturing capacity it lacks, while retreat would make the protection story fail and threaten the buyers of its debt.
+
+This belongs inside strategy rather than [Power As Alchemy](/lens/power-as-alchemy/) because the active mechanism is not money becoming real through belief. It is money being audited by war: bases, troops, allies, supply lines, debt buyers, and exit options test whether the dollar story can still command material obedience. It borders [Eschatology As Script](/lens/eschatology/) when later actors welcome the catastrophe as prophecy, but this section owns the secular no-exit trap before the sacred acceleration layer arrives.
+
 ## Spectacle Is Not Resilience
 
 The **2026-03-26** Rick Sanchez interview returns to the same Iran board after several earlier formulations. Its value is not a new forecast category. It is the way Jiang puts the Hollywood-war, chokepoint, and material-resilience layers into one immediate test.
@@ -269,6 +283,8 @@ Ask these questions when applying this lens.
 
 **What did efficiency remove?** If a system was optimized for cheap movement, just-in-time abundance, or consumer comfort, ask what redundancy, local capacity, political consent, or social discipline disappeared before the crisis arrived.
 
+**What does retreat discredit?** If leaving a war would make allies doubt protection, stop buying debt, question bases, or seek a new patron, the war may continue because exit threatens the system that funded it.
+
 **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
 
 ## Chronology So Far
@@ -288,6 +304,8 @@ In **June 2025**, the escalation-dominance update adds the credibility trap: the
 In **August 2025**, the eschatology convergence update adds the hybrid-war layer: modern war may begin through unseen media, cyber, psychological, covert, economic, and infrastructure pressure against the state-population bond before open battlefield defeat.
 
 In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
+
+In **March 2026**, the Danny Haiphong interview adds the no-exit war formulation: hubris and Heartland-dollar desperation start the war, a real Iran campaign requires unavailable ground-war capacity, and retreat would threaten the GCC, bases, Treasury buyers, and the dollar order.
 
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle may be judged against possible replacement actors; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
@@ -355,6 +373,14 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
+
+- **2026-03-13**, [War Becomes Its Own Momentum](/interviews/interview-px5wsnsqwme/)
+  No-exit war appears when Heartland-dollar desperation pushes an empire into a conflict whose winning path needs unavailable ground-war capacity, while retreat threatens allies, bases, Treasury buyers, and the dollar order.
+  `video:interview-px5wsnsqwme@transcript:v1#seg-0014`
+  `video:interview-px5wsnsqwme@transcript:v1#seg-0025`
+  `video:interview-px5wsnsqwme@transcript:v1#seg-0026`
+  `video:interview-px5wsnsqwme@transcript:v1#seg-0027`
+  `video:interview-px5wsnsqwme@transcript:v1#seg-0031`
 
 - **2026-03-20**, [War Gets Its Own Logic](/interviews/interview-2k2nqsttjqe/)
   War momentum appears when ceasefire would threaten the order that made war possible, cheap energy scarcity audits whole societies, and a small island operation becomes a demand to hold coast, mountains, logistics, and face.
