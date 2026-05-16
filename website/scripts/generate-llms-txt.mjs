@@ -20,6 +20,7 @@ const interviewMarkdownOutRoot = path.join(distRoot, 'interviews');
 const topicOutRoot = path.join(distRoot, 'topics');
 const topicIndexOutRoot = path.join(topicOutRoot, 'index');
 const publicSkillPath = path.join(websiteRoot, 'public/skill.md');
+const topicAliasesPath = path.join(repoRoot, 'content/topics/topic-aliases.json');
 const origin = configuredOrigin();
 const basePath = configuredBasePath();
 const TOPIC_ALIAS_SHARD_LIMIT = 100;
@@ -221,6 +222,33 @@ function pluralSlug(slug) {
   if (last.endsWith('y') && last.length > 3) parts[parts.length - 1] = `${last.slice(0, -1)}ies`;
   else parts[parts.length - 1] = `${last}s`;
   return parts.join('-');
+}
+
+function loadCanonicalTopicSlugOverrides() {
+  if (!existsSync(topicAliasesPath)) return new Map();
+
+  const config = JSON.parse(readFileSync(topicAliasesPath, 'utf8'));
+  const aliasGroups = config.aliases ?? config;
+  const overrides = new Map();
+
+  for (const [canonicalValue, aliases] of Object.entries(aliasGroups)) {
+    const canonicalSlug = topicSlug(canonicalValue);
+    if (!canonicalSlug || !Array.isArray(aliases)) continue;
+
+    for (const aliasValue of aliases) {
+      const aliasSlug = topicSlug(aliasValue);
+      if (!aliasSlug || aliasSlug === canonicalSlug) continue;
+      overrides.set(aliasSlug, canonicalSlug);
+    }
+  }
+
+  return overrides;
+}
+
+const canonicalTopicSlugOverrides = loadCanonicalTopicSlugOverrides();
+
+function canonicalTopicSlug(slug) {
+  return canonicalTopicSlugOverrides.get(slug) || slug;
 }
 
 function topicAliasSlugs(value, options = {}) {
@@ -1328,14 +1356,19 @@ function newTopic(slug, label) {
 }
 
 function ensureTopic(topics, value, options = {}) {
-  const slug = topicSlug(value);
-  if (!slug || slug.length < 3 || topicStopwords.has(slug)) return null;
+  const rawSlug = topicSlug(value);
+  if (!rawSlug || rawSlug.length < 3 || topicStopwords.has(rawSlug)) return null;
 
-  const topic = topics.get(slug) || newTopic(slug, options.label || topicLabelFromSlug(slug));
+  const slug = canonicalTopicSlug(rawSlug);
+  const label = rawSlug === slug ? options.label : '';
+  const topic = topics.get(slug) || newTopic(slug, label || topicLabelFromSlug(slug));
   if (!topics.has(slug)) topics.set(slug, topic);
-  if (options.label && topic.label === topicLabelFromSlug(topic.slug)) topic.label = options.label;
+  if (rawSlug === slug && options.label && topic.label === topicLabelFromSlug(topic.slug)) topic.label = options.label;
 
   for (const alias of topicAliasSlugs(value, { allowTailAlias: options.allowTailAlias })) {
+    topic.aliases.add(alias);
+  }
+  for (const alias of topicAliasSlugs(slug, { allowTailAlias: options.allowTailAlias })) {
     topic.aliases.add(alias);
   }
 
@@ -1465,7 +1498,7 @@ function addRelatedTopics(topic, tags) {
   if (!topic) return;
   const current = topic.slug;
   for (const tag of tags ?? []) {
-    const slug = topicSlug(tag);
+    const slug = canonicalTopicSlug(topicSlug(tag));
     if (!slug || slug === current) continue;
     topic.relatedTopics.set(slug, topicLabelFromSlug(slug));
   }
