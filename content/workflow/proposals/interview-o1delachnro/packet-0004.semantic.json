@@ -1,0 +1,267 @@
+{
+  "packet_id": "interview-o1delachnro-semantics-pkt-0004",
+  "source_id": "video:interview-o1delachnro",
+  "source_date": "2026-03-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0025",
+        "video:interview-o1delachnro@transcript:v1#seg-0026"
+      ],
+      "kind": "question",
+      "summary": "The interviewer compares Iran to Vietnam, notes diaspora support for war, and then asks whether the widely repeated claim of 30,000 killed protesters is credible.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that 30,000 casualties sounds exaggerated and says a figure closer to 3,000 is more believable because deaths at that scale would leave names, families, images, and satellite evidence.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0028",
+        "video:interview-o1delachnro@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The interviewer then asks whether a false-flag 9/11-style event is on the table and frames that question against controversial reports of civilian targeting and sacrificial eschatology.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0030",
+        "video:interview-o1delachnro@transcript:v1#seg-0031",
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that hints of false flags are already visible in suspicious drone incidents and in what he sees as Israel's habit of dragging allies into larger regional war for a Greater Israel project.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0028",
+        "video:interview-o1delachnro@transcript:v1#seg-0029"
+      ],
+      "note": "These interviewer segments contain heavy ASR repetition and inserted commentary, but they still function as a single false-flag question rather than a set of stable factual claims by Jiang.",
+      "suggested_speaker": "Interviewer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the reported figure of 30,000 dead protesters is probably exaggerated and that roughly 3,000 is more plausible.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Assessment of a contested casualty figure stated on 2026-03-09.",
+      "topic_tags": [
+        "protests",
+        "casualties",
+        "iran",
+        "propaganda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues 30,000 deaths would be very hard to conceal because they would leave visible graves, extensive family testimony, and public documentation.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Evidentiary reasoning stated on 2026-03-09.",
+      "topic_tags": [
+        "casualty-counts",
+        "evidence",
+        "satellite-imagery",
+        "documentation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Saudi Aramco drone incident looked suspicious because later reporting suggested the drone came from Lebanon, not from the Iranian direction, which fueled suspicion of an Israeli false flag.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interpretation of a recent incident stated on 2026-03-09.",
+      "topic_tags": [
+        "saudi-aramco",
+        "false-flag",
+        "lebanon",
+        "israel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Saudi hesitation to declare war after the Aramco strike suggests Riyadh lacked hard evidence that Iran was responsible.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Inference about state behavior made on 2026-03-09.",
+      "topic_tags": [
+        "saudi-arabia",
+        "iran",
+        "evidence",
+        "false-flag"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang relays Tarek Khorasan's report that Qataris arrested two Mossad agents trying to sabotage energy facilities, while also noting that Qatar later denied the story.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Contested report discussed on 2026-03-09.",
+      "topic_tags": [
+        "qatar",
+        "mossad",
+        "sabotage",
+        "energy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says the report still fits what he considers Mossad's normal method: avoiding direct war and instead dragging allies into it through covert provocation.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0031",
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Behavioral model stated on 2026-03-09.",
+      "topic_tags": [
+        "mossad",
+        "false-flag",
+        "regional-war",
+        "allies"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Israel benefits from a wider regional conflagration because he sees the larger project as expansion after Iran into Turkey, Saudi Arabia, and Egypt.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Expansionist diagnosis stated on 2026-03-09.",
+      "topic_tags": [
+        "greater-israel",
+        "regional-conflagration",
+        "turkey",
+        "saudi-arabia",
+        "egypt"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses a reported Naftali Bennett line about Turkey becoming 'a new Iran' as evidence that anti-Iran war aims extend beyond Iran itself.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Political interpretation stated on 2026-03-09.",
+      "topic_tags": [
+        "naftali-bennett",
+        "turkey",
+        "israel",
+        "war-aims"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0027"
+      ],
+      "moment": "Jiang forces the casualty dispute back onto the problem of visibility: 30,000 bodies would not vanish cleanly.",
+      "source_phrase": "30,000 is a very hard number to hide",
+      "why_it_matters": "This shows Jiang treating numerical claims as something that must be tested against material traces rather than repeated for emotional effect.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0030"
+      ],
+      "moment": "A drone approaches from the west instead of the east and flips the suspicion pattern.",
+      "source_phrase": "it's not coming in from the east, it was coming in from the west",
+      "why_it_matters": "That directional detail is Jiang's sharpest concrete hook for the false-flag hypothesis in this packet.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "moment": "The war becomes a ladder: Iran first, then Turkey, then the Arab core.",
+      "source_phrase": "Turkey is a new Iran",
+      "why_it_matters": "It condenses Jiang's claim that the present war is only one phase of a larger regional redesign.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "False flag",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0030",
+        "video:interview-o1delachnro@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "A covertly staged incident blamed on an enemy in order to drag allies or publics into escalation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel project",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's term for the larger regional expansion logic he believes sits behind the war and its induced conflagrations.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Regional conflagration",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "A deliberately widened war that pulls surrounding states into fighting in ways that benefit Israeli strategic expansion.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0030",
+        "video:interview-o1delachnro@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang presents the Saudi Aramco incident and the disputed Qatar sabotage story as early warning signs already visible in the first phase of the war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0031"
+      ],
+      "note": "This segment is heavily corrupted around Azerbaijan and the sequence of revelation; only the broad claim about recurring Mossad-style provocations is reliable enough to keep."
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0028",
+        "video:interview-o1delachnro@transcript:v1#seg-0029"
+      ],
+      "note": "The repeated interviewer references to children, medics, and eschatological symbolism are part of the question framing and are not stable enough in this packet to extract as Jiang-authored claims."
+    }
+  ]
+}

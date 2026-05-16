@@ -1,0 +1,256 @@
+{
+  "packet_id": "interview-o1delachnro-semantics-pkt-0002",
+  "source_id": "video:interview-o1delachnro",
+  "source_date": "2026-03-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0009",
+        "video:interview-o1delachnro@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer opens by saying Jiang's earlier predictions were right, and Jiang answers that events are unfolding even faster than he expected, with rumors of a draft and ground troops already surfacing.",
+      "speaker_attribution": "Interviewer praise and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0011",
+        "video:interview-o1delachnro@transcript:v1#seg-0012"
+      ],
+      "kind": "exchange",
+      "summary": "They briefly check how much time Jiang has for the interview before moving into the main topic.",
+      "speaker_attribution": "Interviewer logistics and Jiang reply",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0013",
+        "video:interview-o1delachnro@transcript:v1#seg-0014",
+        "video:interview-o1delachnro@transcript:v1#seg-0015",
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer asks when a U.S.-Israeli ground invasion of Iran might come, and Jiang answers by walking through the proxy options first, then explaining why those options are failing.",
+      "speaker_attribution": "Interviewer question and Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0013",
+        "video:interview-o1delachnro@transcript:v1#seg-0014"
+      ],
+      "note": "The question-answer boundary cuts through the middle of the phrase 'U.S. slash Israel ground invasion of Iran'; the speaker change is still clear from context.",
+      "suggested_speaker": "Interviewer then Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the pace of escalation is striking even relative to what he already expected.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Assessment of current war tempo on 2026-03-09.",
+      "topic_tags": [
+        "acceleration",
+        "war-tempo",
+        "prediction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there are already rumors of a draft and reporting that Trump favors ground troops, which he calls a disaster for the country.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Immediate political forecast stated on 2026-03-09.",
+      "topic_tags": [
+        "draft",
+        "ground-troops",
+        "trump",
+        "domestic-consequences"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the normal route to an anti-Iran war would be to use proxies rather than launch a direct ground invasion first.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-03-09.",
+      "topic_tags": [
+        "proxy-war",
+        "ground-invasion",
+        "strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang lists two main proxy options for such a war: bribing the Kurds to invade from Iraq and using Sunni ISIS insurgents backed by special forces, intelligence, and airstrikes.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Strategic menu described on 2026-03-09.",
+      "topic_tags": [
+        "kurds",
+        "isis",
+        "proxy-war",
+        "cia",
+        "mossad"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a ground war favors the Americans and Israelis only if they can first draw out the Iranian military through proxies.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Operational reasoning stated on 2026-03-09.",
+      "topic_tags": [
+        "ground-war",
+        "iranian-military",
+        "proxy-war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Kurds do not trust the Americans or Israelis because of repeated betrayals, especially after the 1991 Gulf War uprising against Saddam Hussein.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0014",
+        "video:interview-o1delachnro@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical comparison used on 2026-03-09.",
+      "topic_tags": [
+        "kurds",
+        "betrayal",
+        "1991-gulf-war",
+        "saddam"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Kurdish proxy route has already been dropped and that even other possible regional auxiliaries are hesitant because the war looks unwinnable and strategically incoherent.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0015",
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current strategic assessment stated on 2026-03-09.",
+      "topic_tags": [
+        "kurds",
+        "azerbaijan",
+        "proxy-war",
+        "grand-strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Mossad capability inside Iran has been depleted because earlier assassination success exposed the human networks that made those attacks possible.",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Operational assessment stated on 2026-03-09.",
+      "topic_tags": [
+        "mossad",
+        "iran",
+        "human-intelligence",
+        "depletion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0010"
+      ],
+      "moment": "Events are not merely following Jiang's forecast but outrunning it.",
+      "source_phrase": "the pacing is striking",
+      "why_it_matters": "This gives the interview its urgency: the problem is no longer whether escalation happens, but how quickly it is compounding.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0015"
+      ],
+      "moment": "The Kurdish option is reduced to asking them to become cannon fodder for an Israeli-American war plan.",
+      "source_phrase": "become cannon fodder for this israel-american military operation",
+      "why_it_matters": "It captures Jiang's picture of proxy warfare as expendable manipulation rather than alliance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "moment": "The would-be coalition is deterred by the absence of any real plan to win.",
+      "source_phrase": "there's no grand strategy to actually win this war",
+      "why_it_matters": "That line anchors the whole packet: proxy options are collapsing because the larger campaign is strategically empty.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Proxy war",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Jiang's default method for attacking Iran indirectly through local auxiliaries, covert support, and air power before considering direct occupation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Grand strategy",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The larger coherent plan Jiang says is missing from the anti-Iran coalition, making even tactical gains self-defeating.",
+      "confidence": "high"
+    },
+    {
+      "term": "Human intelligence network",
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The embedded Mossad-linked assets inside Iran that Jiang says were exposed and degraded by prior operations.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0010"
+      ],
+      "note": "The packet records Jiang doubling down on his earlier warnings and explicitly saying the present acceleration is faster than expected.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0015"
+      ],
+      "note": "Jiang treats the abandonment of the Kurdish option as a very recent change, saying Trump reversed course only a couple of days earlier.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-o1delachnro@transcript:v1#seg-0016"
+      ],
+      "note": "This segment has visible ASR damage around 'Mossad,' place names, and the sequence of events, but Jiang's larger point about depleted covert capacity is still clear."
+    }
+  ]
+}
