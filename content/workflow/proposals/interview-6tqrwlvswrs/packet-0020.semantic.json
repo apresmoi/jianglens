@@ -1,0 +1,119 @@
+{
+  "packet_id": "interview-6tqrwlvswrs-semantics-pkt-0020",
+  "source_id": "video:interview-6tqrwlvswrs",
+  "source_date": "2026-03-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0153",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0154",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0155",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0156"
+      ],
+      "kind": "exchange",
+      "summary": "The host and Jiang finally end the interview after repeated attempts, with the host asking for weekly check-ins and admitting he is in despair while Jiang agrees warmly to talk again.",
+      "speaker_attribution": "Host farewell and Jiang goodbye",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0157",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0158",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0159",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0160"
+      ],
+      "kind": "monologue",
+      "summary": "After Jiang exits, the host delivers a dark recap: he says petrodollar collapse, economic ruin, permanent-state continuity, and occult oligarchic power now seem undeniable.",
+      "speaker_attribution": "Jimmy Dore host monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The host explicitly interprets Jiang's analysis as an immediate rather than distant petrodollar-collapse scenario and says ordinary Americans are facing loss of retirement, savings, and purchasing power.",
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0157",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0158"
+      ],
+      "temporal_scope": "Host synthesis stated on 2026-03-11 after Jiang's departure.",
+      "topic_tags": [
+        "petrodollar",
+        "economic-collapse",
+        "retirements",
+        "inflation"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host says the same entrenched power remains in charge across Obama, Biden, and Trump, reading that continuity as proof that the presidency does not control the deepest layer of the American state.",
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0159",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0160"
+      ],
+      "temporal_scope": "Host diagnosis stated on 2026-03-11 after the interview proper ends.",
+      "topic_tags": [
+        "permanent-state",
+        "presidency",
+        "continuity-of-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0158"
+      ],
+      "moment": "The host turns Tehran's black toxic sky into a planetary image for what he thinks Israeli strategy is about to do to everyone else.",
+      "source_phrase": "there's a black cloud raining toxic oil",
+      "why_it_matters": "It is the emotional metaphor that carries his post-interview panic and ties local war imagery to global collapse.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0160"
+      ],
+      "moment": "The host lands on a bitter anti-electoral slogan to summarize permanent oligarchic control.",
+      "source_phrase": "No matter who you vote for, the oligarchs are in charge.",
+      "why_it_matters": "It condenses the host's extrapolation from Jiang's hidden-power model into a memorable political verdict.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "permanent state",
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0159",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0160"
+      ],
+      "definition_or_usage": "The host's shorthand for enduring power centers that outlast elected presidents and continue governing across administrations.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0153",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0157",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0160"
+      ],
+      "note": "The packet marks the transition from the actual interview goodbye into the host's solo synthesis, where he applies Jiang's war and hidden-power frame to his own economic and domestic political fears.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0157",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0160"
+      ],
+      "note": "Most of this packet is the host's post-interview extrapolation rather than new Jiang claims, so the semantics are preserved mainly as host synthesis and emotional framing."
+    }
+  ]
+}
