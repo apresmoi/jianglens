@@ -75,7 +75,9 @@ The ground-war question then turns the trap from psychology into material struct
 
 That is why the exit is not simple either. Jiang says [war develops its own momentum after it starts]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0027"}. If Washington declares victory and leaves, [Iran can use reparations, Hormuz taxation, and Gulf instability to turn the GCC from American linchpin into Iranian client space]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0028 video:interview-px5wsnsqwme@transcript:v1#seg-0029"}. Japan, South Korea, and Europe then [ask why they host American bases or buy Treasuries if protection is unreliable]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0029 video:interview-px5wsnsqwme@transcript:v1#seg-0030 video:interview-px5wsnsqwme@transcript:v1#seg-0031"}. The dollar order fails not because a spreadsheet changes, but because the protection story that made allies buy the debt has been tested and found false.
 
-<!-- lens-point id="strategy-no-exit-war-dollar-trap" concept="strategy-material-test" evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014 video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0024 video:interview-px5wsnsqwme@transcript:v1#seg-0025 video:interview-px5wsnsqwme@transcript:v1#seg-0026 video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0031" -->
+The **2026-03-09** Sneako interview supplies a rougher public formulation of the same trap. The proxy and color-revolution routes have failed, so Jiang says the only remaining path points toward ground invasion; yet the small Kharg Island option becomes suicidal once artillery, mountains, insurance markets, and the Strait of Hormuz answer back. The result is [no good pretext and no good strategy for ground invasion]{evidence="video:interview-o1delachnro@transcript:v1#seg-0019"}. Even naval escort through Hormuz becomes another bad option, so the empire is reduced to asking [which bad investment to keep funding]{evidence="video:interview-o1delachnro@transcript:v1#seg-0020"}. Jiang's image is not chess but addiction: [the war manager becomes a drunk gambler in a casino]{evidence="video:interview-o1delachnro@transcript:v1#seg-0020"}, losing more because leaving would reveal the loss.
+
+<!-- lens-point id="strategy-no-exit-war-dollar-trap" concept="strategy-material-test" evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014 video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0024 video:interview-px5wsnsqwme@transcript:v1#seg-0025 video:interview-px5wsnsqwme@transcript:v1#seg-0026 video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0031 video:interview-o1delachnro@transcript:v1#seg-0019 video:interview-o1delachnro@transcript:v1#seg-0020" -->
 <span id="strategy-no-exit-war-dollar-trap" class="lens-point-anchor"></span>
 No-exit war appears when an empire starts a war to defend the money-and-alliance order, then discovers that victory requires ground, draft, logistics, and manufacturing capacity it lacks, while retreat would make the protection story fail and threaten the buyers of its debt.
 
@@ -387,6 +389,14 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:interview-6rtli-qwd1i@transcript:v1#seg-0015`
   `video:interview-6rtli-qwd1i@transcript:v1#seg-0035`
   `video:interview-6rtli-qwd1i@transcript:v1#seg-0069`
+
+- **2026-03-09**, [When The Mirage Breaks And War Stops Wanting Victory](/interviews/interview-o1delachnro/)
+  The Sneako interview adds the no-good-options formulation: failed proxy paths, Kharg Island, Hormuz insurance, naval escort, ground invasion, draft pressure, and the drunk-gambler image all show a war that keeps escalating because each exit exposes the previous bad investment.
+  `video:interview-o1delachnro@transcript:v1#seg-0018`
+  `video:interview-o1delachnro@transcript:v1#seg-0019`
+  `video:interview-o1delachnro@transcript:v1#seg-0020`
+  `video:interview-o1delachnro@transcript:v1#seg-0023`
+  `video:interview-o1delachnro@transcript:v1#seg-0024`
 
 - **2026-03-10**, [Control Beats Dominance](/episodes/predictive-history-fz-dan7nrss/)  
   Escalation is won by calibration and strategic flexibility, not by possessing the strongest weapon.  
