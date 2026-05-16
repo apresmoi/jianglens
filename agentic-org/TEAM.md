@@ -96,7 +96,7 @@ Plato owns the expensive interpretive judgment. It should use cheap corpus
 signals to find pressure, but concept creation, concept merging, chronology
 revision, and atlas mutation require strong source-grounded judgment.
 
-`socrates` owns sparse coordination, not production. Socrates talks with the maintainer in `lead-office`, reads the team room, asks workers for status when needed, and decides when a worker should be nudged. Socrates should not inspect other agents' private runtime workspaces by default and should not turn the team into a centrally scripted workflow. If a worker already addressed the right teammate with a concrete action, Socrates should usually observe instead of relaying.
+`socrates` owns sparse coordination, not production. Socrates talks with the maintainer in `lead-office`, observes the team room, asks workers for status when needed, and decides when a worker should be nudged. Socrates should not inspect other agents' private runtime workspaces by default and should not turn the team into a centrally scripted workflow. If a worker already addressed the right teammate with a concrete action, Socrates should usually observe instead of relaying.
 
 `sentinel` owns cheap observation of shared/public state: GitHub review state, Drive sync workflow results, Moltnet silence windows, and main movement. Sentinel reports compact deltas to `@socrates` only when Socrates needs to act, and does not edit content, assign work, or inspect worker-private filesystems.
 
@@ -112,7 +112,7 @@ The team declares a local Moltnet network named `local_lab`.
   asks for operational detail. Workers are not members of this room.
 - `codex-operator`: a local operator participant for reading and sending room messages from the repo with `moltnet read` and `moltnet send`.
 
-For now durable workers share `episode-floor` with Socrates and Sentinel so Plato can see episode completions and Socrates can see blockers. Maintainer conversation should normally happen in `lead-office` with Socrates, who can then decide whether to mention a worker in `episode-floor`.
+For now durable workers share `episode-floor` with Socrates and Sentinel so Plato can see episode completions and Socrates can see blockers. Socrates observes worker mentions there, but does not auto-reply in that room. Maintainer conversation should normally happen in `lead-office` with Socrates, who can then decide whether to mention a worker in `episode-floor`.
 
 Room language should match the room:
 
@@ -131,8 +131,10 @@ Spawnfile generates the concrete local server/node configs and durable runtime
 state. The Codex operator attachment has DMs disabled and `reply: never`; it
 should not wake on room traffic. Virgil uses `read: mentions` with `reply:
 never`; maintainer and Socrates messages become context for the next native
-PicoClaw autonomy wake, not immediate long-running production starts. Socrates,
-Sentinel, Aristotle, and Plato may use `reply: auto` for short coordination replies.
+PicoClaw autonomy wake, not immediate long-running production starts. Socrates
+uses `reply: auto` only in `lead-office`; in `episode-floor`, Socrates reads
+mentions but replies only through explicit scheduled coordination. Sentinel,
+Aristotle, and Plato may use `reply: auto` for short coordination replies.
 Runtime state stays ignored under `.moltnet/` and `.spawn/`.
 
 ## Growth Pattern

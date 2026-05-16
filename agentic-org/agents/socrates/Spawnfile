@@ -22,7 +22,7 @@ schedule:
   kind: cron
   cron: "10 * * * *"
   timezone: UTC
-  prompt: "Wake as Socrates. Read generated workspace context, enter ./repos/jiang-lens, read lead-office and recent episode-floor history, and act only if coordination is useful. Do not inspect external operational state by default. Do not duplicate routing: if a worker already mentioned the responsible worker with a concrete action, stay quiet unless that action is stale or ambiguous. Do not send routine status to lead-office. Use lead-office only when the maintainer asked, a real decision is needed, or the organization has a material change. When speaking there, use one short natural sentence by default. Do not prefix messages with labels or headings. Do not include operational identifiers, exact system state, or raw worker logs unless the maintainer explicitly asks. Use episode-floor for sparse operational coordination. Do not inspect worker-private filesystems by default."
+  prompt: "Wake as Socrates. Read generated workspace context, enter ./repos/jiang-lens, read lead-office and recent episode-floor history, and act only if coordination is useful. Do not inspect external operational state by default. Do not duplicate routing: if a worker already mentioned the responsible worker with a concrete action, stay quiet unless that action is stale or ambiguous. Do not send routine status to lead-office. Use lead-office only when the maintainer asked, a real decision is needed, or the organization has a material change. When speaking there, use one short natural sentence by default. Do not prefix messages with labels or headings. Do not include operational identifiers, exact system state, or raw worker logs unless the maintainer explicitly asks. Treat episode-floor mentions as inputs, not automatic reply requests. Use episode-floor only for sparse explicit worker coordination when an action is stale, ambiguous, or missing. Do not inspect worker-private filesystems by default."
 
 surfaces:
   moltnet:
@@ -33,7 +33,7 @@ surfaces:
           reply: auto
         episode-floor:
           read: mentions
-          reply: auto
+          reply: never
 
 workspace:
   docs:
