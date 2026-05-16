@@ -133,15 +133,21 @@ This is the character-level bridge to the larger concept. Fictional heroes becom
 
 ## The Safe Place Is Relation
 
-The **2026-04-01** Kim Iversen interview gives the human-heart page a late crisis test. After an hour of predictive-history method, American civil-war scenarios, Pax Judaica, AI surveillance, and World War III escalation, Kim asks the practical question the model creates: where is the safest place in the world?
+The March 2026 interview cycle gives the human-heart page a late crisis test. After the model has made danger visible, the interviewer stops asking only whether Jiang's forecast is right and asks what a normal person should do.
+
+In the **2026-03-11** Jimmy Dore interview, the question arrives as economic crash and personal protection: if money fails, what can people still do? Jiang's answer begins with courage and knowledge, but it quickly turns away from portfolio thinking. He calls money [a great illusion and mechanism of control]{evidence="video:interview-6tqrwlvswrs@transcript:v1#seg-0104"}, then names true wealth as spirituality, empathy, humanity, and consciousness. The practical instruction is relational: build strong relations with people nearby, give up material obsession, and attend to [family, friends, purpose, spirituality, and creativity]{evidence="video:interview-6tqrwlvswrs@transcript:v1#seg-0104"}.
+
+The neighbor sentence is the clearest human-heart formulation. Jiang says to be kind and generous because [neighbors may save your life]{evidence="video:interview-6tqrwlvswrs@transcript:v1#seg-0105"}. That does not make local reciprocity a prepper tactic. He immediately says [the real war is for heart, faith, and soul]{evidence="video:interview-6tqrwlvswrs@transcript:v1#seg-0105"}, and returns the burden to choice: [free will, courage, and life have to be chosen]{evidence="video:interview-6tqrwlvswrs@transcript:v1#seg-0105"}. In this register, relation is not decoration after strategy. It is the form survival takes when money and private protection stop carrying the world.
+
+The **2026-04-01** Kim Iversen interview repeats the mechanism from the other side. After an hour of predictive-history method, American civil-war scenarios, Pax Judaica, AI surveillance, and World War III escalation, Kim asks the practical question the model creates: where is the safest place in the world?
 
 Jiang refuses the bunker map. His first answer is material and social: [any place everyone chooses as safe becomes less safe because people, money, property pressure, resentment, and conflict follow it]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0114"}. Geography can matter, but it cannot carry salvation when the same fear and capital flows recreate strain inside the refuge.
 
 The turn belongs here because Jiang then moves from location to the inner and relational order the heart needs. Safety is "not geography" but [mindset, spiritual and philosophical development, resilience, and attention to what matters]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0115"}. The named supports are not private wealth or a remote compound. They are [family, friends, children, and community]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0115"}. Chaos is real, but the question becomes whether the person has built a life whose meaning can survive chaos.
 
-<!-- lens-point id="heart-safe-place-is-relation" concept="human-heart" evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0114 video:interview-t5cnf8dqj-q@transcript:v1#seg-0115 video:interview-t5cnf8dqj-q@transcript:v1#seg-0116" -->
+<!-- lens-point id="heart-safe-place-is-relation" concept="human-heart" evidence="video:interview-6tqrwlvswrs@transcript:v1#seg-0104 video:interview-6tqrwlvswrs@transcript:v1#seg-0105 video:interview-t5cnf8dqj-q@transcript:v1#seg-0114 video:interview-t5cnf8dqj-q@transcript:v1#seg-0115 video:interview-t5cnf8dqj-q@transcript:v1#seg-0116" -->
 <span id="heart-safe-place-is-relation" class="lens-point-anchor"></span>
-The safe place becomes a heart test when geography, money, and private exit cannot save the person; resilience comes from mindset, spiritual and philosophical development, family, friends, children, and community.
+The safe place becomes a heart test when money, geography, and private exit cannot save the person; resilience comes from spirituality, empathy, family, friends, neighbors, children, community, courage, and chosen attention to what matters.
 
 The final warning keeps the concept from turning into lifestyle comfort. Jiang says a person who tries to preserve ten million dollars, gold, silver, Israel, New Zealand, or Chile as the answer will be driven insane, because the world is going crazy and wealth cannot be made ultimate. The required move is to [give up the idea that wealth matters most and return to mindset, resilience, and spirituality]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0116"}.
 
@@ -174,6 +180,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **2025-11-12**, [The Bible Turns Mistakes Into Imagination](/episodes/predictive-history-plmnq44tbg0/): Yahweh becomes a fallible, reflective, forgivable authority; argument with God turns forgiveness into learning rather than submission to perfect command.
 - **2025-12-16**, [Modernity Needs A Scapegoat](/episodes/predictive-history-zprecjhuous/): the Bakunin contrast gives the relational-freedom layer. The object and isolated self cannot carry paradise; meaning, purpose, love, and freedom are found among other free people.
 - **2026-01-14**, [Homer Makes Achilles Real Enough To Invent The Human](/episodes/predictive-history-ft2cuowguyc/): Achilles becomes a mirror for pride, vulnerability, imagination, and the complicated dark heart inside the reader.
+- **2026-03-11**, [Hubris, Holy War, and the Petrodollar Trap](/interviews/interview-6tqrwlvswrs/): after Jimmy Dore asks what a regular person should do if an economic crash arrives, Jiang says money is a control illusion and true wealth is spirituality, empathy, humanity, consciousness, family, friends, purpose, creativity, and neighbors who may save your life.
 - **2026-04-01**, [The Safe Place Is Not A Place](/interviews/interview-t5cnf8dqj-q/): after a predictive-history interview about civil war, Pax Judaica, AI, and World War III, Jiang says safety is not finally geography or wealth but mindset, resilience, spirituality, family, friends, children, and community.
 
 ## Related Concepts
