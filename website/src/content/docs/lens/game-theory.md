@@ -145,11 +145,13 @@ The April 2026 Zeteo interview turns that boundary into a hostile audit. Mehdi H
 
 That makes the interview a method source rather than only a reputation source. Jiang [concedes the Haley branch was wrong, then reinterprets the Vance/Gabbard choice as a different signal about Trump's second term and possible off-ramp]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025"}. The correction is fragile, but it matters for the lens: a missed branch should not disappear into charisma. It has to be named, rerouted, and exposed to later events.
 
-<!-- lens-point id="game-theory-prediction-under-audit" concept="game-theory-method" evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025 video:interview-kh8dvnddooq@transcript:v1#seg-0045 video:interview-kh8dvnddooq@transcript:v1#seg-0055 video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072" -->
+<!-- lens-point id="game-theory-prediction-under-audit" concept="game-theory-method" evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025 video:interview-kh8dvnddooq@transcript:v1#seg-0045 video:interview-kh8dvnddooq@transcript:v1#seg-0055 video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072 video:interview-obqsun0g0u4@transcript:v1#seg-0062 video:interview-obqsun0g0u4@transcript:v1#seg-0063" -->
 <span id="game-theory-prediction-under-audit" class="lens-point-anchor"></span>
 Prediction stays inside Jiang's game-theory method only when it can survive adversarial audit: the analyst names misses, distinguishes checkable facts from truth-claims, marks speculative analysis as speculative, and lets later events test whether the historical framework actually predicts.
 
 Hasan's facts-versus-truth challenge supplies the danger. Jiang says facts are independently verifiable, while truth means deeper understanding of why things are the way they are and what can be predicted from them: [there is a difference between facts and truth]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0053 video:interview-kh8dvnddooq@transcript:v1#seg-0054 video:interview-kh8dvnddooq@transcript:v1#seg-0055"}. That distinction can rescue thought from flat fact-collection. It can also become a license for pattern language to outrun evidence. Hasan's later demand that Jiang admit the Pax Judaica account is [speculative analysis]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072"} is therefore not outside the method. It is one of the method's necessary tests.
+
+The **2026-03-12** Piers Morgan interview gives the same audit a shorter and harsher public form. Piers asks what viewers should do with an eschatological explanation that may sound like fantasy or anti-Semitic trope. Jiang does not answer by pretending to have archival proof. He says he is doing [speculative predictive modeling]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0062"}: throw out a theory, derive predictions, and see whether reality answers. That defense is useful only if the reader keeps its risk visible. [Predictions coming true can give a theory provisional legitimacy]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0062 video:interview-obqsun0g0u4@transcript:v1#seg-0063"}, but they do not turn eschatological causation into settled fact. Piers's objection therefore belongs inside the method, not outside it: hostile questioning is the condition that keeps prediction from becoming charisma.
 
 ## Material Tests Still Matter
 
@@ -223,6 +225,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-03-05**, [Game Theory #10: The Law of Asymmetry](/episodes/predictive-history-t5oisjiorsu/)  
   Jiang gives the methodological warning that apparent irrationality may mean the analyst has named the wrong game and wrong reward.
+
+- **2026-03-12**, [Empire Breaks When Hormuz Stays Closed](/interviews/interview-obqsun0g0u4/)
+  Piers Morgan repeats the audit in compressed public form: when a speculative eschatological model sounds fantastical or dangerous, Jiang defends it as predictive modeling whose warrant is provisional forecast success, not documentary proof.
 
 - **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/)
   The method gains a proximity rule: actors play many games at once, and the nearest visible game can make domestic faction, party, or spiritual conflict govern the apparent interstate game.
