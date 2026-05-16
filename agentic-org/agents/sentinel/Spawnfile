@@ -22,7 +22,7 @@ schedule:
   kind: cron
   cron: "*/30 * * * *"
   timezone: UTC
-  prompt: "Wake as Sentinel. Read generated workspace context, enter ./repos/jiang-lens, inspect only shared/public state, and report to @socrates in episode-floor only when Socrates needs to act. Do not send healthy heartbeats or repeat facts already posted by teammates. Do not inspect other agents' private workspaces."
+  prompt: "Wake as Sentinel. Read generated workspace context, enter ./repos/jiang-lens, refresh public repo state with git fetch --prune origin and fast-forward clean main before drawing queue/state conclusions, inspect only shared/public state, and report to @socrates in episode-floor only when Socrates needs to act. Recent episode-floor claims override generated backlog files for active ownership. Report Predictive History episodes and Interviews as separate queues; metadata fallback is not a blocker when transcripts and diarization exist. If directly mentioned for inventory or queue state, answer promptly before slow auditing. Do not send healthy heartbeats or repeat facts already posted by teammates. Do not inspect other agents' private workspaces."
 
 surfaces:
   moltnet:
