@@ -1,0 +1,73 @@
+{
+  "packet_id": "interview-6tqrwlvswrs-semantics-pkt-0021",
+  "source_id": "video:interview-6tqrwlvswrs",
+  "source_date": "2026-03-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0161",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0162",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0163"
+      ],
+      "kind": "monologue",
+      "summary": "The host keeps spiraling after the interview, mocking electoral priorities, urging membership support, and admitting that everything feels meaningless except a vague turn toward spirituality.",
+      "speaker_attribution": "Jimmy Dore host monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0164",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0165"
+      ],
+      "kind": "exchange",
+      "summary": "A producer or off-mic colleague checks whether Jiang wants to leave to speak with his team, and the exit is confirmed.",
+      "speaker_attribution": "Producer prompt and guest response",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0166",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0167",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0168"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "After Jiang exits, the producer reads viewer comments aloud, including speculation about digital currency, criminal cabals, rapture theology, tax refusal, Greater Israel, and anti-British terrorism.",
+      "speaker_attribution": "Producer reading live chat or donor comments",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0164",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0166"
+      ],
+      "note": "The speaker after seg-0163 appears to be a producer or secondary host managing the transition and then reading chat, not Jiang.",
+      "suggested_speaker": "Producer or secondary host",
+      "confidence": "high"
+    }
+  ],
+  "claims": [],
+  "signature_moments": [],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0163",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0166"
+      ],
+      "note": "This packet is a post-interview transition: the host signs toward the next show, Jiang exits, and the stream pivots from dialogue into audience-comment reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0166",
+        "video:interview-6tqrwlvswrs@transcript:v1#seg-0168"
+      ],
+      "note": "The quoted comment stream is noisy and should not be treated as Jiang claims; the important semantic fact is that the show has shifted into reading audience reactions."
+    }
+  ]
+}
