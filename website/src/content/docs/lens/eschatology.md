@@ -71,6 +71,20 @@ Eschatology aligns with capital when an end-times story treats collapse as provi
 
 The boundary matters. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns whether the Iran-war path is materially executable or trapped by dollar, draft, logistics, and manufacturing limits. [Power As Alchemy](/lens/power-as-alchemy/) owns the dollar as belief and abstraction. [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) owns capital as a system that extracts human energy. Eschatology owns the role-script that can make collapse desirable before the material outcome is known.
 
+## The Holy Empire That Removes Intention
+
+The **March 9, 2026** Sneako interview adds a techno-theological version of the same eschatological pressure. Jiang is explicit that this part of the interview is his interpretive frame for "what is going on," not a normal foreign-policy model: he asks to [go over the eschatology so the events make sense]{evidence="video:interview-o1delachnro@transcript:v1#seg-0103"}. The frame then moves from war and personnel into a sacred-political system he calls Pax Judaica, where the nation-state of Israel is only one tool inside a larger end-times project.
+
+The new piece is not simply that AI appears in the story. Earlier pages already treat AI as an attention surface, a cave wall, and a possible replacement focusing apparatus. Here Jiang folds AI into the end-times script itself. He says the project imagines [artificial intelligence as a way to create a one-world government and make it appear as Jesus]{evidence="video:interview-o1delachnro@transcript:v1#seg-0116"}, then glosses the destination as [a holy empire of reason, where reason means complete obedience]{evidence="video:interview-o1delachnro@transcript:v1#seg-0117 video:interview-o1delachnro@transcript:v1#seg-0118"}. The eschatological promise is not only war, temple, or territory. It becomes a managed heaven on earth.
+
+The driverless-car example makes the mechanism readable. Jiang says perfect self-driving fails because [programming can never account for human intention]{evidence="video:interview-o1delachnro@transcript:v1#seg-0118"}. His imagined solution is total system conversion: make every car driverless, remove the human driver, and call the result safety, access, order, and peace. He then generalizes the logic to Pax Judaica: [take away human autonomy so a perfectly obedient world can be built as a temple for God]{evidence="video:interview-o1delachnro@transcript:v1#seg-0119"}. That is why this belongs on the eschatology page. The technology is not only an instrument. It is the machinery by which the promised world becomes possible.
+
+<!-- lens-point id="eschatology-holy-empire-removes-intention" concept="eschatology-script" evidence="video:interview-o1delachnro@transcript:v1#seg-0116 video:interview-o1delachnro@transcript:v1#seg-0118 video:interview-o1delachnro@transcript:v1#seg-0119" -->
+<span id="eschatology-holy-empire-removes-intention" class="lens-point-anchor"></span>
+Eschatology becomes a holy empire of obedience when a promised heaven on earth treats human intention as the obstacle AI and total management must remove; safety, reason, and order become end-times language for eliminating autonomy.
+
+This boundary has to stay narrow. [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) owns AI when it captures or redirects consciousness as wealth. [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) owns the deeper agency claim: love cannot save by eliminating choice. [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) owns AI as wall, surface, and mediated reality. Eschatology owns the role-script that makes the removal of intention feel like sacred repair: the world is broken, the world must be repaired, and the repair requires a perfectly obedient order.
+
 ## Messianic Return As Mission Continuity
 
 The July 18, 2025 Putin lecture adds a narrower and more speculative eschatological form. Jiang does not present the Stalin/Putin model as established fact; the source says [a hypothesis carries predictions and the analytical model must be changed if events do not fit]{evidence="video:predictive-history-zgvahzqaawa@transcript:v1#seg-0012 video:predictive-history-zgvahzqaawa@transcript:v1#seg-0034"}. Its value for the lens is the mechanism: a sacred-historical actor can be read as unfinished rather than dead, so later actors search for the return that will complete the interrupted mission.
@@ -177,6 +191,8 @@ Ask whether suffering is being made strategically meaningful. In a population-ta
 
 Ask whether the script has been recoded rather than intensified. A final battle can be turned into a peaceful already-arrived salvation; an imperial enemy can be moved into inner evil; waiting for rescue can become adaptation to the empire that would otherwise be the enemy.
 
+Ask whether intention is being treated as the defect. If safety, reason, AI, digital order, or one-world peace requires removing unpredictable human choice, the end-times promise may be converting salvation into obedience.
+
 Ask whether catastrophe is being framed as a reset. If flood, earth-rebellion, collapse, or cosmic correction is presented as proof that hell cannot finally triumph, the active eschatology may be fail-safe rather than only punishment or revenge.
 
 ## Related Concepts
@@ -185,6 +201,7 @@ Ask whether catastrophe is being framed as a reset. If flood, earth-rebellion, c
 - [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/)
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/)
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/)
+- [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/)
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
 - [How Stories Control Reality](/lens/how-stories-control-reality/)
 - [Legitimacy Fiction](/lens/legitimacy-fiction/)
