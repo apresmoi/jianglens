@@ -1,0 +1,170 @@
+{
+  "packet_id": "interview-obqsun0g0u4-semantics-pkt-0003",
+  "source_id": "video:interview-obqsun0g0u4",
+  "source_date": "2026-03-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0017",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0018",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Corey Mills continues his case for the war, citing civilian protection, nuclear danger, missiles, and a transitional plan around Reza Pahlavi.",
+      "speaker_attribution": "Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "Piers cuts Mills off for time and invites Ryan Grim to react to Mills's seemingly straightforward regime-change picture.",
+      "speaker_attribution": "Piers Morgan and Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0021",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Ryan Grim calls Mills's scenario absurd, argues the war narrative keeps shifting, and says public polling shows Americans doubt the stated rationale and suspect the war serves Israel or domestic distraction rather than U.S. interests.",
+      "speaker_attribution": "Ryan Grim",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0019",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020"
+      ],
+      "note": "The floor turns from Mills to Ryan only after Piers explicitly interrupts and redirects.",
+      "suggested_speaker": "Piers Morgan moderating between Corey Mills and Ryan Grim",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Mills argues the war can avoid becoming Iraq or Afghanistan because coordinated strikes can remove imminent threats, weaken the IRGC, and hand the country to a transitional figure such as Reza Pahlavi.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0017",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0018",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "War-supporting model asserted on 2026-03-12.",
+      "topic_tags": [
+        "regime change",
+        "Reza Pahlavi",
+        "IRGC",
+        "nuclear threat"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ryan Grim argues the war's official rationale keeps mutating and that this incoherence is politically visible to the public.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0021",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Political diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "war rationale",
+        "public opinion",
+        "regime change",
+        "nuclear program"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ryan cites polling suggesting large shares of likely voters think Trump entered the war to distract from the Epstein scandal or to serve Netanyahu more than the American public.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Current polling claim on 2026-03-12.",
+      "topic_tags": [
+        "polling",
+        "Epstein scandal",
+        "Netanyahu",
+        "America First"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ryan says the war is politically dangerous for Trump because it is already unpopular, worsening inflation and gas prices, and undermining the claim that he acts for U.S. interests.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Political forecast as of 2026-03-12.",
+      "topic_tags": [
+        "Trump",
+        "unpopular war",
+        "inflation",
+        "gas prices"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020"
+      ],
+      "moment": "Ryan reduces the regime-change fantasy to childish scripting that kills actual children.",
+      "source_phrase": "made up by elementary school students ... targeting and killing elementary school students",
+      "why_it_matters": "The line preserves his moral attack on Mills's simplification and ties it back to the school-strike opening.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023"
+      ],
+      "moment": "Ryan marks the novelty of a wartime presidency where nearly half the country thinks the war serves another country.",
+      "source_phrase": "nearly half the country believing ... that he did it for a different country",
+      "why_it_matters": "It captures his central political claim about legitimacy collapse.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "America First legitimacy crisis",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Ryan's point that a president who campaigned on national priority now faces mass suspicion that he entered war for someone else's agenda.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0024"
+      ],
+      "note": "Ryan's reading is explicitly tied to weekend polling and the first two weeks of war-driven price shocks, making it a tightly dated political snapshot.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0017",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0018"
+      ],
+      "note": "Mills's inventory of facilities, missiles, and legal authorities includes likely ASR corruption and contested factual premises; preserve it as his stated justification."
+    }
+  ]
+}

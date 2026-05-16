@@ -1,0 +1,159 @@
+{
+  "packet_id": "interview-obqsun0g0u4-semantics-pkt-0001",
+  "source_id": "video:interview-obqsun0g0u4",
+  "source_date": "2026-03-12",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0001",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0002",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0004",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Piers Morgan opens by condemning the school strike, mocking triumphalist war rhetoric, and arguing that Iran can count mere regime survival as victory while U.S.-Israeli victory remains strategically ambiguous.",
+      "speaker_attribution": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "Piers asks Rob O'Neill whether Iran's tactic of inflicting economic damage is harder to defeat than its conventional military capacity.",
+      "speaker_attribution": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0007",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Rob O'Neill says Iran can be beaten militarily but warns that any boots-on-the-ground follow-through risks occupation, quagmire, and civilian horror.",
+      "speaker_attribution": "Rob O'Neill",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0001",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006"
+      ],
+      "note": "The opening focus window is clearly Piers Morgan: he frames the war, quotes Trump and Lindsey Graham, and moderates the panel.",
+      "suggested_speaker": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "note": "Rob O'Neill takes over after Piers's military question and stays on the floor through the occupation/quagmire warning.",
+      "suggested_speaker": "Rob O'Neill",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Piers argues Iran's threshold for victory is low because simple regime survival with autonomy is enough for Tehran to claim success, while American-Israeli victory would require a much more demanding transformation of Iran.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Opening diagnosis of the war on 2026-03-12.",
+      "topic_tags": [
+        "Iran war",
+        "victory conditions",
+        "regime survival"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Piers treats the school strike as a moral and political liability, arguing that the United States should quickly admit responsibility and apologize if American forces caused it.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current-war normative judgment on 2026-03-12.",
+      "topic_tags": [
+        "school strike",
+        "civilian casualties",
+        "apology"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rob O'Neill says Iranian economic warfare is difficult to defeat and warns that even if the U.S. and Israel win tactically, a post-strike occupation would turn them into occupiers who steadily lose local support.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0007",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Military assessment during the war on 2026-03-12.",
+      "topic_tags": [
+        "occupation",
+        "quagmire",
+        "economic warfare"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0004"
+      ],
+      "moment": "Victory for Iran is defined almost negatively: surviving intact is enough.",
+      "source_phrase": "If the regime survives with its autonomy, Iran will claim victory.",
+      "why_it_matters": "It gives the interview its first clear asymmetry in war aims and explains why the U.S. can lose despite overwhelming firepower.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "moment": "Rob turns abstract war cheerleading back into the image of a person trapped under a bombed building.",
+      "source_phrase": "under rubble, burning for a long, long time, suffocating, maybe",
+      "why_it_matters": "It preserves the human cost that punctures the panel's more strategic or ideological language.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "quagmire",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Rob uses the Iraq comparison to name the trap where tactical success becomes open-ended occupation and political failure.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0002",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003"
+      ],
+      "note": "The opening frame explicitly treats the present war through the memory of Iraq and through same-day claims that Trump has already 'won,' so the packet is anchored in a still-unfolding conflict rather than retrospective history.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0005"
+      ],
+      "note": "Some proper names and reported facts are mediated through host paraphrase and wartime reporting; keep attribution to the speakers rather than treating every detail as settled fact."
+    }
+  ]
+}

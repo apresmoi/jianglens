@@ -1,0 +1,1267 @@
+{
+  "id": "evidence:semanticvideo-interview-obqsun0g0u4:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-obqsun0g0u4",
+  "source_id": "video:interview-obqsun0g0u4",
+  "source_title": "‘Trump Needs to APOLOGIZE!’ Will Iran Claim Victory Over America? | Plus Professor Jiang Interview",
+  "source_url": "https://www.youtube.com/watch?v=obQsUn0G0U4",
+  "source_date": "2026-03-12",
+  "date_precision": "day",
+  "transcript_id": "video:interview-obqsun0g0u4@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-obqsun0g0u4/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-obqsun0g0u4/source.yaml",
+    "transcript_path": "content/sources/videos/interview-obqsun0g0u4/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 24,
+    "speaker_notes": 10,
+    "claims": 30,
+    "signature_moments": 16,
+    "predictions": 4,
+    "models": 8,
+    "glossary_terms": 11,
+    "chronology_notes": 8,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0004",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0005",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0007",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0008",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0009",
+    "video:interview-obqsun0g0u4@transcript:v1#seg-0010"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0001",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0002",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0004",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Piers Morgan opens by condemning the school strike, mocking triumphalist war rhetoric, and arguing that Iran can count mere regime survival as victory while U.S.-Israeli victory remains strategically ambiguous.",
+      "speaker_attribution": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "Piers asks Rob O'Neill whether Iran's tactic of inflicting economic damage is harder to defeat than its conventional military capacity.",
+      "speaker_attribution": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0007",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Rob O'Neill says Iran can be beaten militarily but warns that any boots-on-the-ground follow-through risks occupation, quagmire, and civilian horror.",
+      "speaker_attribution": "Rob O'Neill",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0009",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "Piers presses Rob on movie-style war propaganda and Rob condemns cheering, gamified rhetoric, while still backing Pete Hegseth's broader role.",
+      "speaker_attribution": "Piers Morgan and Rob O'Neill",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0011",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "Piers asks Congressman Corey Mills whether the United States should admit fault and apologize if the girls' school strike was American.",
+      "speaker_attribution": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0012",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0013",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0014",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0015",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Mills defers judgment pending classified review, promises accountability if the U.S. is responsible, and broadens the war into a long-running China-Russia-Iran-North Korea economic struggle centered on the dollar and global transit routes.",
+      "speaker_attribution": "Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0017",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0018",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Corey Mills continues his case for the war, citing civilian protection, nuclear danger, missiles, and a transitional plan around Reza Pahlavi.",
+      "speaker_attribution": "Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "Piers cuts Mills off for time and invites Ryan Grim to react to Mills's seemingly straightforward regime-change picture.",
+      "speaker_attribution": "Piers Morgan and Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0021",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Ryan Grim calls Mills's scenario absurd, argues the war narrative keeps shifting, and says public polling shows Americans doubt the stated rationale and suspect the war serves Israel or domestic distraction rather than U.S. interests.",
+      "speaker_attribution": "Ryan Grim",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0025",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0026",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0027",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0028"
+      ],
+      "kind": "exchange",
+      "summary": "Piers asks Gideon Levy whether Israel and the United States now have diverging endgames, and Gideon answers that Israel has embraced force without clear endgame while ignoring the human displacement cost.",
+      "speaker_attribution": "Piers Morgan and Gideon Levy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "Piers asks Rob O'Neill whether Americans should accept the economic and political cost of the largest imaginable Middle East war.",
+      "speaker_attribution": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0030",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0031",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Rob gives a conflicted answer: he supports the administration in principle and hopes for lower prices and stability, but repeatedly stresses caution, the school strike, and the ugly reality of what war does on the ground.",
+      "speaker_attribution": "Rob O'Neill",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0033",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0034",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0035"
+      ],
+      "kind": "exchange",
+      "summary": "Piers asks whether Trump should fear political damage, and Mills answers by reframing the war around energy, China, and regional stability rather than domestic electoral cost.",
+      "speaker_attribution": "Piers Morgan and Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0035",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0036",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0037",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0038",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0039"
+      ],
+      "kind": "exchange",
+      "summary": "Ryan Grim attacks Mills over possible defense-industry interests, Mills denies profiteering, and both pivot back to competing accounts of who benefits from war.",
+      "speaker_attribution": "Ryan Grim and Corey Mills with Piers managing turns",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0039",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Ryan says the war is already a catastrophe for the United States and Tehran alike, while China watches and learns as America exhausts itself.",
+      "speaker_attribution": "Ryan Grim",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0041",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0042",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "Piers asks Gideon what happens next, and Gideon answers that Trump can still stop the war, that Israel never benefits from wars in the long run, and that this conflict will leave Israel with more losses and more occupation logic.",
+      "speaker_attribution": "Piers Morgan and Gideon Levy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0044",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "Piers opens a new interview with Bafel Talabani and asks for an overview of the war and why no popular uprising has emerged inside Iran.",
+      "speaker_attribution": "Piers Morgan and Bafel Talabani",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0046",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0047",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Talabani argues fear of regional collapse and fragmentation suppresses revolt, says military objectives may have been partly achieved without yielding a clear political victory, and rejects the idea that Kurdish groups should spearhead an incursion into Iran.",
+      "speaker_attribution": "Bafel Talabani",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0049",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0050",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0051"
+      ],
+      "kind": "exchange",
+      "summary": "Piers and Talabani finish the Kurdistan interview by discussing Trump's demeanor, Iraq's post-Saddam trajectory, and whether long pain can ever justify regime change.",
+      "speaker_attribution": "Piers Morgan and Bafel Talabani",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0051",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "Piers introduces Professor Jiang and frames him through his predictive record on Trump's victory, war with Iran, and an eventual U.S. loss.",
+      "speaker_attribution": "Piers Morgan and Jiang Xueqin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0053",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0054",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0055",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that the war is really an attritional struggle between U.S. military degradation and Iranian economic strangulation, and that once ground forces or prolonged Hormuz disruption arrive, the United States faces Vietnam-like political and economic limits.",
+      "speaker_attribution": "Jiang Xueqin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0057",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0058"
+      ],
+      "kind": "exchange",
+      "summary": "Piers presses Jiang on whether Iran's attacks on desalination, hotels, airports, and tourism reveal an existential threat to the GCC business model, and Jiang answers through Dubai's dependence on Pax Americana.",
+      "speaker_attribution": "Piers Morgan and Jiang Xueqin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0059",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0060",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0061",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0062",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063"
+      ],
+      "kind": "answer",
+      "summary": "Jiang expands the argument into a theory that the war targets American empire itself and is driven by overlapping eschatological societies, Christian Zionist influence, and an eventual AI surveillance order he calls Pax Judaica.",
+      "speaker_attribution": "Jiang Xueqin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0061",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0062",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Piers challenges Jiang's eschatological theory as possibly fantastical and anti-Semitic, and Jiang answers that his method is speculative predictive modeling whose legitimacy comes from successful forecasts, not archival proof.",
+      "speaker_attribution": "Piers Morgan and Jiang Xueqin",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0001",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006"
+      ],
+      "note": "The opening focus window is clearly Piers Morgan: he frames the war, quotes Trump and Lindsey Graham, and moderates the panel.",
+      "suggested_speaker": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "note": "Rob O'Neill takes over after Piers's military question and stays on the floor through the occupation/quagmire warning.",
+      "suggested_speaker": "Rob O'Neill",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0009",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0011"
+      ],
+      "note": "Piers is still moderating and redirecting between Rob and Congressman Mills in this packet.",
+      "suggested_speaker": "Piers Morgan",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0012",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0016"
+      ],
+      "note": "Congressman Mills's answer begins after the apology question and expands into a sprawling geopolitical theory with multiple ASR-corrupted place names.",
+      "suggested_speaker": "Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0019",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020"
+      ],
+      "note": "The floor turns from Mills to Ryan only after Piers explicitly interrupts and redirects.",
+      "suggested_speaker": "Piers Morgan moderating between Corey Mills and Ryan Grim",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0026",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0028"
+      ],
+      "note": "Gideon Levy is the speaker condemning Israel's force-first doctrine, Gaza precedent, and 94 percent Israeli-Jewish support for the war.",
+      "suggested_speaker": "Gideon Levy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0036",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0038"
+      ],
+      "note": "This packet contains a rapid hostile back-and-forth rather than clean monologues; the accusations and denials belong to Ryan and Mills respectively.",
+      "suggested_speaker": "Ryan Grim and Corey Mills",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0044",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0048"
+      ],
+      "note": "After the panel closes, the packet shifts into a separate one-on-one interview with Bafel Talabani of the Patriotic Union of Kurdistan.",
+      "suggested_speaker": "Bafel Talabani",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0051",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052"
+      ],
+      "note": "The packet pivots from Talabani to Jiang; Piers's introduction makes clear that 'Professor Zhang' in the ASR is Jiang Xueqin of Predictive History.",
+      "suggested_speaker": "Jiang Xueqin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0060",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063"
+      ],
+      "note": "Jiang explicitly corrects a simplification about 'Israel' and instead names a broader set of overlapping eschatological societies and Christian Zionist influence.",
+      "suggested_speaker": "Jiang Xueqin",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Piers argues Iran's threshold for victory is low because simple regime survival with autonomy is enough for Tehran to claim success, while American-Israeli victory would require a much more demanding transformation of Iran.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Opening diagnosis of the war on 2026-03-12.",
+      "topic_tags": [
+        "Iran war",
+        "victory conditions",
+        "regime survival"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Piers treats the school strike as a moral and political liability, arguing that the United States should quickly admit responsibility and apologize if American forces caused it.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current-war normative judgment on 2026-03-12.",
+      "topic_tags": [
+        "school strike",
+        "civilian casualties",
+        "apology"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rob O'Neill says Iranian economic warfare is difficult to defeat and warns that even if the U.S. and Israel win tactically, a post-strike occupation would turn them into occupiers who steadily lose local support.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0006",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0007",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Military assessment during the war on 2026-03-12.",
+      "topic_tags": [
+        "occupation",
+        "quagmire",
+        "economic warfare"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rob O'Neill rejects war-as-spectacle rhetoric, arguing that real combat is unlike movies or games and should not be cheered even by people who support the mission.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0009",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Normative reflection during the war on 2026-03-12.",
+      "topic_tags": [
+        "war propaganda",
+        "military culture",
+        "spectacle"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mills says no one should get ahead of intelligence on the school strike and that the United States should conduct accountability review only after post-blast analysis and classified briefing establish what happened.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0012",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current-war response on 2026-03-12.",
+      "topic_tags": [
+        "school strike",
+        "intelligence review",
+        "accountability"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mills reframes the conflict as part of a preexisting geopolitical alignment among China, Russia, Iran, and North Korea whose long goal is to displace the U.S. dollar and constrain American logistics and power projection.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0015",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Strategic model asserted on 2026-03-12.",
+      "topic_tags": [
+        "U.S. dollar",
+        "China",
+        "Belt and Road",
+        "economic warfare"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Mills argues the war can avoid becoming Iraq or Afghanistan because coordinated strikes can remove imminent threats, weaken the IRGC, and hand the country to a transitional figure such as Reza Pahlavi.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0017",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0018",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "War-supporting model asserted on 2026-03-12.",
+      "topic_tags": [
+        "regime change",
+        "Reza Pahlavi",
+        "IRGC",
+        "nuclear threat"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ryan Grim argues the war's official rationale keeps mutating and that this incoherence is politically visible to the public.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0021",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Political diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "war rationale",
+        "public opinion",
+        "regime change",
+        "nuclear program"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ryan cites polling suggesting large shares of likely voters think Trump entered the war to distract from the Epstein scandal or to serve Netanyahu more than the American public.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Current polling claim on 2026-03-12.",
+      "topic_tags": [
+        "polling",
+        "Epstein scandal",
+        "Netanyahu",
+        "America First"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ryan says the war is politically dangerous for Trump because it is already unpopular, worsening inflation and gas prices, and undermining the claim that he acts for U.S. interests.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Political forecast as of 2026-03-12.",
+      "topic_tags": [
+        "Trump",
+        "unpopular war",
+        "inflation",
+        "gas prices"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gideon says Israel went to war without a clear endgame, under a post-October 7 mentality that force can solve everything, while disregarding the displaced millions who do not appear in oil-price cost-benefit talk.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0025",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0026",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Israeli-war diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "Israel",
+        "endgame",
+        "October 7",
+        "displacement"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gideon reports overwhelming Israeli Jewish support for the war and treats it as evidence of a deeper social pathology after years of Gaza warfare.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Current public-opinion claim on 2026-03-12.",
+      "topic_tags": [
+        "Israeli society",
+        "public opinion",
+        "Gaza"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Rob O'Neill says a successful war might lower prices and stabilize the region, but he remains deeply cautious because preemption can repeat Iraq-like mistakes and because civilian victims still demand apology.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0030",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0031",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Conflicted military-political judgment on 2026-03-12.",
+      "topic_tags": [
+        "preemption",
+        "Iraq",
+        "school strike",
+        "economic cost"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mills argues energy, not currency names, is the real global currency, and that destroying Iran's regime and constraining Chinese oil access would stabilize the region and eventually lower prices.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0033",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0034",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "War-justifying geopolitical model on 2026-03-12.",
+      "topic_tags": [
+        "energy",
+        "China",
+        "oil",
+        "regional stability"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ryan implies Mills's economic reading is compromised by defense-sector interest, while Mills answers that he does not own or profit from an arms company and that war does not benefit him personally.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0035",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0036",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0037",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0038",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Conflict-of-interest dispute on 2026-03-12.",
+      "topic_tags": [
+        "arms industry",
+        "conflict of interest",
+        "war profits"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ryan says the war benefits no one except perhaps Israel because it is exhausting American military power, immiserating civilians, and providing China a live tutorial in how the U.S. fights a conventional war.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0039",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Current-war diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "catastrophe",
+        "China",
+        "military exhaustion",
+        "Israel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Gideon Levy says Israel has never truly benefited from its wars and that the present war will also leave long-run losses rather than security gains.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0041",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0042",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Historical-political diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "Israel",
+        "war outcomes",
+        "occupation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Talabani says some U.S. military objectives may already have been achieved, but the Iranian regime shows no signs of cracking and there is still no meaningful uprising.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Military-political assessment on 2026-03-12.",
+      "topic_tags": [
+        "military objectives",
+        "uprising",
+        "regime durability"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Talabani argues revolt is inhibited by a three-pronged fear: bombs, regime repression, and the example of nearby states such as Afghanistan, Syria, Armenia, Turkmenistan, and Iraq collapsing into prolonged disorder.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0045",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Social-psychological explanation on 2026-03-12.",
+      "topic_tags": [
+        "uprising",
+        "fear",
+        "regional collapse",
+        "middle class"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Talabani rejects reports of CIA-backed Kurdish incursions and says making Kurds the tip of the spear would be disastrous because Kurds are a minority inside Iran and such a move would trigger Turkish and Iranian backlash.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0047",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Regional warning on 2026-03-12.",
+      "topic_tags": [
+        "Kurds",
+        "CIA",
+        "Turkey",
+        "separatism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Talabani says Iraq is in a better place now than in earlier years, but only after twenty years of relentless combat and deep regional suffering.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0050",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Retrospective judgment offered on 2026-03-12.",
+      "topic_tags": [
+        "Iraq",
+        "regime change",
+        "long war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the U.S. and Iran are fighting different wars: America is trying to degrade military capacity while Iran is trying to strangle the world economy through GCC pressure and Hormuz disruption.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Strategic assessment as of 2026-03-12.",
+      "topic_tags": [
+        "war of attrition",
+        "GCC",
+        "Hormuz",
+        "world economy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if the United States sends ground forces into Iran, sunk-cost logic will lock it into another Vietnam because it lacks the manpower, manufacturing capacity, and political will for a long ground war.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Prediction about the war's future on 2026-03-12.",
+      "topic_tags": [
+        "ground forces",
+        "Vietnam",
+        "sunk cost fallacy",
+        "U.S. capacity"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that even an American withdrawal without ground war would be dire because GCC states would reorient financially, petrodollar support would weaken, and the U.S. economy could face collapse and domestic unrest.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0053",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0054",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Conditional forecast on 2026-03-12.",
+      "topic_tags": [
+        "petrodollar",
+        "U.S. collapse",
+        "domestic unrest",
+        "withdrawal"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says prolonged Hormuz closure would rapidly hit food, travel, semiconductors, and oil prices, forcing future economies toward de-industrialization and mercantilism to survive shocks.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0055",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Prediction about near-term economic consequences on 2026-03-12.",
+      "topic_tags": [
+        "de-industrialization",
+        "mercantilism",
+        "food",
+        "oil"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says GCC states are structurally fragile because they rely on imported food, desalination, expat labor, tourism prestige, and American security guarantees, making Iran's current pressure an existential threat to their business model.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0057",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0058",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Strategic diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "GCC",
+        "Dubai",
+        "desalination",
+        "Pax Americana"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the war is aimed not merely at Israel or Gulf monarchies but at American empire itself, because shattering the aura of American invincibility also shatters the political-economic order built on it.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Imperial diagnosis on 2026-03-12.",
+      "topic_tags": [
+        "American empire",
+        "imperial illusion",
+        "global order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang claims that a collection of eschatological societies and movements, including Christian Zionists, interpret Middle East war as the trigger for a sequence leading through Greater Israel, AI surveillance, temple restoration, diaspora return, and messianic or apocalyptic culmination.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0060",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Speculative explanatory model asserted on 2026-03-12.",
+      "topic_tags": [
+        "eschatology",
+        "Greater Israel",
+        "AI surveillance",
+        "Christian Zionism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defends speculative predictive modeling by arguing that if a controversial theory yields correct predictions, that predictive success grants the theory at least provisional legitimacy.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0062",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Methodological self-description on 2026-03-12.",
+      "topic_tags": [
+        "predictive modeling",
+        "speculation",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Christian Zionist influence inside the United States is a necessary part of his explanation for why the predicted Iran war happened at all.",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0062",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Causal explanation offered on 2026-03-12.",
+      "topic_tags": [
+        "Christian Zionism",
+        "United States",
+        "causal explanation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0004"
+      ],
+      "moment": "Victory for Iran is defined almost negatively: surviving intact is enough.",
+      "source_phrase": "If the regime survives with its autonomy, Iran will claim victory.",
+      "why_it_matters": "It gives the interview its first clear asymmetry in war aims and explains why the U.S. can lose despite overwhelming firepower.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "moment": "Rob turns abstract war cheerleading back into the image of a person trapped under a bombed building.",
+      "source_phrase": "under rubble, burning for a long, long time, suffocating, maybe",
+      "why_it_matters": "It preserves the human cost that punctures the panel's more strategic or ideological language.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0010"
+      ],
+      "moment": "Rob rebukes cinematic war language by reducing combat back to the instant where bullets and explosions kill you once.",
+      "source_phrase": "they only need to be right once",
+      "why_it_matters": "It condenses his realism about violence and counters the media-aesthetic register of the war.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0015",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0016"
+      ],
+      "moment": "Mills collapses the visible Iran war into a larger hidden economic war over currency and trade corridors.",
+      "source_phrase": "their goal from the very beginning ... was always to eliminate the U.S. dollar as a global currency",
+      "why_it_matters": "This is his core explanatory move for why the mission remains worth the risk despite obvious oil and economic pain.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0020"
+      ],
+      "moment": "Ryan reduces the regime-change fantasy to childish scripting that kills actual children.",
+      "source_phrase": "made up by elementary school students ... targeting and killing elementary school students",
+      "why_it_matters": "The line preserves his moral attack on Mills's simplification and ties it back to the school-strike opening.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023"
+      ],
+      "moment": "Ryan marks the novelty of a wartime presidency where nearly half the country thinks the war serves another country.",
+      "source_phrase": "nearly half the country believing ... that he did it for a different country",
+      "why_it_matters": "It captures his central political claim about legitimacy collapse.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0027"
+      ],
+      "moment": "Gideon turns the war's scorecard into three humiliating questions about whether anything is actually better than it was two weeks earlier.",
+      "source_phrase": "Is the world a better place today than two weeks ago, for God's sake?",
+      "why_it_matters": "It compresses his whole anti-war test into a repeatable criterion rather than a geopolitical theory.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0028"
+      ],
+      "moment": "He compares 94 percent wartime approval to North Korea.",
+      "source_phrase": "Those are North Korean figures.",
+      "why_it_matters": "This gives the packet its sharpest judgment on Israeli public psychology.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0033"
+      ],
+      "moment": "Mills compresses his argument into a formula: energy is the real global currency.",
+      "source_phrase": "Energy is a global currency.",
+      "why_it_matters": "This line is the hinge between his anti-Iran, anti-China, and pro-war claims.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0040"
+      ],
+      "moment": "Ryan imagines China sitting back and taking notes while America exhausts itself.",
+      "source_phrase": "China is sitting back ... They're taking notes as we exhaust ourselves.",
+      "why_it_matters": "It sharply inverts Mills's claim that this war strengthens the U.S. position against China.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0047"
+      ],
+      "moment": "Talabani names the psychic damage of the assassination as a wound that may never heal.",
+      "source_phrase": "a wound from Excalibur, a wound that never heals",
+      "why_it_matters": "This metaphor preserves his sense that even a tactically successful operation can poison a country for years.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0042"
+      ],
+      "moment": "Gideon mocks Israel's assassination glamour as James Bond theater.",
+      "source_phrase": "James Bond operations",
+      "why_it_matters": "It captures his contrast between tactical spectacle and strategic emptiness.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052"
+      ],
+      "moment": "Jiang makes the U.S. defeat hinge on sunk-cost dynamics rather than battlefield inferiority alone.",
+      "source_phrase": "The sunk cost fallacy kicks in. It'll be another Vietnam",
+      "why_it_matters": "This is his first compact explanation of why the stronger empire still loses.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0056"
+      ],
+      "moment": "He says the global economy has already crossed a point of no return after only two weeks of closure.",
+      "source_phrase": "we've reached the point of no return",
+      "why_it_matters": "It captures Jiang's escalation from tactical disruption to civilizational economic reset.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0059"
+      ],
+      "moment": "Jiang says the war's deepest target is the illusion of American empire itself.",
+      "source_phrase": "this aura of inviability and invincibility of american empire has been shattered",
+      "why_it_matters": "This is the bridge between his GCC analysis and his later eschatology: the war is about destroying imperial confidence, not only damaging assets.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0061"
+      ],
+      "moment": "He compresses an apocalyptic geopolitical sequence into one scripted arc.",
+      "source_phrase": "they have the script scripted out",
+      "why_it_matters": "The phrase captures Jiang's sense that visible events are conforming to a prewritten eschatological program.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "quagmire",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Rob uses the Iraq comparison to name the trap where tactical success becomes open-ended occupation and political failure.",
+      "confidence": "high"
+    },
+    {
+      "term": "AAR",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "After-action review; Mills invokes it as the standard process for military accountability after a strike or operation.",
+      "confidence": "high"
+    },
+    {
+      "term": "economic warfare",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Mills's frame for Chinese and allied strategy: logistics, minerals, shipping chokepoints, and currency displacement matter as much as battlefield action.",
+      "confidence": "medium"
+    },
+    {
+      "term": "America First legitimacy crisis",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Ryan's point that a president who campaigned on national priority now faces mass suspicion that he entered war for someone else's agenda.",
+      "confidence": "high"
+    },
+    {
+      "term": "force-first doctrine",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Gideon's description of the post-October 7 Israeli belief that every problem is legitimate to solve by escalating force.",
+      "confidence": "high"
+    },
+    {
+      "term": "energy as global currency",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Mills's shorthand for a geopolitical worldview where oil flows and energy infrastructure matter more than named fiat currencies.",
+      "confidence": "high"
+    },
+    {
+      "term": "tip of the spear",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Talabani's phrase for using Kurdish groups as the leading ground proxy against Iran, which he calls an absolute disaster.",
+      "confidence": "high"
+    },
+    {
+      "term": "war of attrition",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang's frame for a conflict where the U.S. targets military capacity while Iran targets the economic conditions sustaining empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "sunk cost fallacy",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "The political mechanism Jiang says would keep the U.S. trapped once it commits ground forces to Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Jiang's name for a future order in which Greater Israel and AI surveillance combine into a new imperial regime.",
+      "confidence": "high"
+    },
+    {
+      "term": "predictive modeling",
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Jiang's method of floating speculative theories and judging them by whether their predictions about future events are borne out.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0002",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003"
+      ],
+      "note": "The opening frame explicitly treats the present war through the memory of Iraq and through same-day claims that Trump has already 'won,' so the packet is anchored in a still-unfolding conflict rather than retrospective history.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0011",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0012"
+      ],
+      "note": "The school-strike discussion is treated as unresolved breaking wartime news, so the packet preserves the uncertainty around attribution rather than resolving it.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0022",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0024"
+      ],
+      "note": "Ryan's reading is explicitly tied to weekend polling and the first two weeks of war-driven price shocks, making it a tightly dated political snapshot.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0025",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0028"
+      ],
+      "note": "Gideon explicitly frames this war as backlash from October 7, 2023 and as downstream from two and a half years of Gaza war, so his claims are historical sequencing claims, not just present emotion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0039",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0040"
+      ],
+      "note": "Ryan's answer treats the war as already underway long enough for outside powers to observe U.S. methods and for multiple civilian atrocity reports to circulate.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0041",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0046"
+      ],
+      "note": "Both Gideon and Talabani anchor present choices in longer regional memories: 1948 and 1967 for Israel, and the recent fate of nearby collapsed states for Iranian citizens.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0051",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0056"
+      ],
+      "note": "Piers explicitly frames Jiang through predictions already validated by events, and Jiang repeatedly dates his diagnosis to the first two weeks of war and current Hormuz pressure.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0062",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063"
+      ],
+      "note": "Jiang explicitly ties this theory back to predictions he says he made in 2024, so the packet is partly a retrospective validation claim about earlier forecasting.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0003",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0005"
+      ],
+      "note": "Some proper names and reported facts are mediated through host paraphrase and wartime reporting; keep attribution to the speakers rather than treating every detail as settled fact."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0016"
+      ],
+      "note": "Mills's geopolitical answer contains likely ASR damage in place names and exaggerated causal links; preserve the strategic frame without normalizing every named detail."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0017",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0018"
+      ],
+      "note": "Mills's inventory of facilities, missiles, and legal authorities includes likely ASR corruption and contested factual premises; preserve it as his stated justification."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0025"
+      ],
+      "note": "The reported succession around the Ayatollah is presented as unverified wartime reporting and should remain attributed to the host's framing."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0036",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0038"
+      ],
+      "note": "The business-ownership exchange is adversarial and partly garbled by ASR; preserve the conflict without overclaiming the legal or financial facts."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0044",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0047"
+      ],
+      "note": "The transcript appears to blur whether the Supreme Leader was assassinated or whether assassination is a scenario under discussion; preserve Talabani's wording without hardening the event."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0054",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0056"
+      ],
+      "note": "The transcript contains repeated ASR corruption around Hormuz, BRICS, and fertilizer chemistry; the macroeconomic logic is clear even where spellings are not."
+    },
+    {
+      "refs": [
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0060",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0061",
+        "video:interview-obqsun0g0u4@transcript:v1#seg-0063"
+      ],
+      "note": "This packet contains Jiang's most speculative and ASR-fragile material, including esoteric group names and institution claims; preserve them as attributed theory rather than validated fact."
+    }
+  ]
+}
