@@ -59,6 +59,12 @@ A strait becomes a system pivot when one narrow passage carries several dependen
 
 This is why Jiang can connect Dubai's safety premium, desalination plants, the petrodollar, AI stocks, and [European energy access]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0041"} without treating them as separate topics. The material test is not only whether ships can pass. It is whether an empire's financial and military story still works when the passage that makes it feel normal becomes a target. American bases in this model become part of the same vulnerability: Jiang says they impose authority and create an [aura of invincibility]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0020 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0021"}, but if they cannot defend the host economy, their presence gives the weaker actor a pretext to attack the system the bases are supposed to stabilize.
 
+The **2026-03-12** Piers Morgan interview makes this systems test more public and more compressed. Piers asks what an indefinite Hormuz closure would do; Jiang answers that [cheap petroleum is the basis of the global modern economy]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0055 video:interview-obqsun0g0u4@transcript:v1#seg-0056"}, not just a fuel input. Food, fertilizer, sulfuric acid, semiconductor production, AI infrastructure, travel, and state work patterns all pass through the same energy platform. Piers then shifts to the Gulf monarchies, and the same platform becomes political: [oil, desalination, imported food, expat labor, and American protection make the GCC model structurally exposed]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0057 video:interview-obqsun0g0u4@transcript:v1#seg-0058"}. Dubai's glamour, in Jiang's telling, was not a self-standing miracle. It was a confidence form built inside Pax Americana; when the security guarantee fails, [the aura of American imperial invincibility has been shattered]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0058 video:interview-obqsun0g0u4@transcript:v1#seg-0059"}.
+
+<!-- lens-point id="strategy-cheap-energy-platform-breaks" concept="strategy-material-test" evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0055 video:interview-obqsun0g0u4@transcript:v1#seg-0056 video:interview-obqsun0g0u4@transcript:v1#seg-0057 video:interview-obqsun0g0u4@transcript:v1#seg-0058 video:interview-obqsun0g0u4@transcript:v1#seg-0059" -->
+<span id="strategy-cheap-energy-platform-breaks" class="lens-point-anchor"></span>
+Cheap energy becomes a strategic platform when oil, fertilizer, semiconductors, AI infrastructure, travel, food imports, desalination, tourism, and security guarantees are coupled inside the same imperial order; when the platform breaks, the glamour and aura built on top of it are audited at once.
+
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
 ## No-Exit War
@@ -305,6 +311,8 @@ In **August 2025**, the eschatology convergence update adds the hybrid-war layer
 
 In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
 
+In **March 2026**, the Piers Morgan interview turns the same Hormuz board into a cheap-energy-platform audit: oil, food, fertilizer, semiconductors, AI infrastructure, travel, desalination, tourism, and American security guarantees all become one exposed system.
+
 In **March 2026**, the Danny Haiphong interview adds the no-exit war formulation: hubris and Heartland-dollar desperation start the war, a real Iran campaign requires unavailable ground-war capacity, and retreat would threaten the GCC, bases, Treasury buyers, and the dollar order.
 
 In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle may be judged against possible replacement actors; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
@@ -373,6 +381,14 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011`  
   `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
+
+- **2026-03-12**, [Empire Breaks When Hormuz Stays Closed](/interviews/interview-obqsun0g0u4/)
+  Hormuz becomes a cheap-energy-platform audit: Jiang links oil, food, fertilizer, semiconductors, AI, travel, desalination, Dubai glamour, and American security guarantees into one exposed imperial system.
+  `video:interview-obqsun0g0u4@transcript:v1#seg-0055`
+  `video:interview-obqsun0g0u4@transcript:v1#seg-0056`
+  `video:interview-obqsun0g0u4@transcript:v1#seg-0057`
+  `video:interview-obqsun0g0u4@transcript:v1#seg-0058`
+  `video:interview-obqsun0g0u4@transcript:v1#seg-0059`
 
 - **2026-03-13**, [War Becomes Its Own Momentum](/interviews/interview-px5wsnsqwme/)
   No-exit war appears when Heartland-dollar desperation pushes an empire into a conflict whose winning path needs unavailable ground-war capacity, while retreat threatens allies, bases, Treasury buyers, and the dollar order.
