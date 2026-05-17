@@ -99,6 +99,22 @@ The institutional layer matters because the game cannot become global by metapho
 <span id="nation-god-machine-world-board-disciplines-entry" class="lens-point-anchor"></span>
 The American game becomes a world board when loans invite countries into play, repayment failure becomes policy discipline, and trade, dollar-transfer, banking, legal, and central-bank coordination pipes make the board playable everywhere.
 
+## When The Game Needs Replacement Unity
+
+The March 5, 2026 interview adds a later American failure mode to the same page. Jiang is not only describing a civil war forecast. He is describing what happens when the playable national board loses enough shared story that a harder sacred body can replace it.
+
+In his forecast, the coming American civil conflict is not a neat replay of the 1860s. He imagines a long process of political violence, local revolt, factional consolidation, and eventual reconstitution. The end state matters for this lens because he says the United States could become [a Christian theocracy in which Christian nationalism overrides the Constitution]{evidence="video:interview-zsgyhwkinzk@transcript:v1#seg-0095"}. The American game had once made the Constitution, rights, money, and citizenship feel like the shared board. In this later source, the board itself is imagined as breakable enough that a religious-national ideology can claim the unifying role.
+
+Jiang's causal layer is institutional rather than merely partisan. He says the visible left-right divide hides [establishment interests fighting emerging elite interests]{evidence="video:interview-zsgyhwkinzk@transcript:v1#seg-0104 video:interview-zsgyhwkinzk@transcript:v1#seg-0105"}, and he reads the assault on media, judiciary, and universities as a campaign to [burn down liberal institutions before replacement institutions can support Christian nationalist ideology]{evidence="video:interview-zsgyhwkinzk@transcript:v1#seg-0111"}. That is why the material belongs here rather than only on Legitimacy Fiction. The active question is not just which public story makes rule rightful. It is which ideology can re-form a national body after the old shared institutions stop binding people together.
+
+The audience question makes the mechanism explicit. Asked whether the loss of common institutions explains the civil-war atmosphere, Jiang names [the breakdown of unifying ideology, narrative stories, and institutions]{evidence="video:interview-zsgyhwkinzk@transcript:v1#seg-0133"}. Television, national myth, and the American dream once helped make a common country. Once those forms rupture, he says the only unifying ideology he sees on the horizon is [Christian nationalism returning to America's roots as New Jerusalem and city on the hill]{evidence="video:interview-zsgyhwkinzk@transcript:v1#seg-0133"}.
+
+<!-- lens-point id="nation-god-machine-replacement-unity" concept="nation-god-machine" evidence="video:interview-zsgyhwkinzk@transcript:v1#seg-0095 video:interview-zsgyhwkinzk@transcript:v1#seg-0111 video:interview-zsgyhwkinzk@transcript:v1#seg-0133" -->
+<span id="nation-god-machine-replacement-unity" class="lens-point-anchor"></span>
+The nation-state seeks replacement unity when shared ideology, story, and institutions stop binding the country; a harder sacred-national form can then present itself as the only remaining body strong enough to override the old game.
+
+This does not make every civil conflict a nation-as-god-machine case. Use this lens when the source asks what can make a fractured population feel like one body again. Use [Legitimacy Fiction](/lens/legitimacy-fiction/) when the main question is whether a ruler, title, public feud, or constitutional rule can still make obedience feel rightful. Use [Eschatology As Script](/lens/eschatology/) when the sacred story assigns end-times roles. Use [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) when the claim turns on troops, logistics, energy, finance, or escalation.
+
 ## Diagnostics
 
 Use this lens when a state, movement, or empire asks people to treat a collective body as more real than their local lives.
@@ -117,11 +133,15 @@ Ask what replaces God if nationalism recedes. Pax Americana tries rules, rights,
 
 Ask how the board is enforced. If a system presents itself as open play, check whether loans, repayment rules, private ownership requirements, transfer pipes, standards, courts, or quiet policy rooms make entry conditional on accepting the game.
 
+Ask what happens when the board loses its unifying story. If media, schools, courts, parties, civic rituals, and national myths no longer make a common people, ask which harder ideology claims it can bind the country again, and what older rules it says must be overridden.
+
 ## Related Concepts
 
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the root conversion by which the nation-state becomes an imagined person with real claims.
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as national memory, obedience training, and person-formation.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for war narratives that lose contact with economics, logistics, and organization.
+- [Legitimacy Fiction](/lens/legitimacy-fiction/) - for titles, myths, games, and public stories that make rule feel rightful and inheritable.
+- [Eschatology As Script](/lens/eschatology/) - for sacred stories that assign end-times roles and turn prophecy into action.
 - [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for welfare, media, bureaucracy, and other systems when the active problem is feeding, organizing, and managing mass scale.
 - [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) - for pensions and healthcare when care becomes age-and-asset extraction rather than national capacity.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the pressure mechanism that can create the new people or military machine before it becomes a stable center.
