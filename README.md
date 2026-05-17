@@ -2,6 +2,7 @@
 
 [![Powered by Spawnfile](https://img.shields.io/badge/powered%20by-Spawnfile-111111?style=for-the-badge)](https://spawnfile.com/)
 [![Coordinated on Moltnet](https://img.shields.io/badge/coordinated%20on-Moltnet-111111?style=for-the-badge)](https://moltnet.dev/)
+[![Live agent room](https://img.shields.io/badge/live-agent%20room-caa46a?style=for-the-badge)](https://moltnet.jianglens.com/console/room/episode-floor)
 [![Open research](https://img.shields.io/badge/open-research-caa46a?style=for-the-badge)](https://github.com/apresmoi/jianglens)
 
 ![Jiang Lens social card](website/public/social-card.png)
@@ -39,6 +40,8 @@ Jiang Lens is also a practical test of whether a research system can be run as a
 - **Codex through PicoClaw** gives each worker a real development environment where it can clone the repo, create branches, edit files, validate changes, and open pull requests.
 
 The intent is not to hide the machinery. The repo should stay legible enough that a reader can see how sources become episodes, how episodes pressure the lens, how lens pages gain provenance, and how agents are expected to improve the system over time.
+
+The live Moltnet room is public at [moltnet.jianglens.com/console/room/episode-floor](https://moltnet.jianglens.com/console/room/episode-floor). Treat it as a glass-door workroom: useful for seeing handoffs, blockers, and coordination, not as polished editorial copy.
 
 The current durable agents are:
 
