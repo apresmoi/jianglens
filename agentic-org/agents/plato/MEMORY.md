@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-17: Living-school dark-age thought belongs inside Living School when Jiang frames crisis preparation through teaching: the few students who show up, deeper observation, speculative model testing, thought-process formation, wisdom-seeking, and helping others through darkness. Route will/chosen reality to Free Will, relational/spiritual resilience to Human Heart, AI/screen dependence to Attention, and end-times roles to Eschatology.
+
 - Stable id is `plato`; symbolic name is Plato.
 - The maintainer wants an agentic organization, not a brittle workflow. Use skills as process contracts, not as reasons to split every step into separate permanent agents.
 - The next layer after episode publication is corpus-to-lens distillation: concepts, atlas, lens points, provenance links, chronology, and grounded proposals.
