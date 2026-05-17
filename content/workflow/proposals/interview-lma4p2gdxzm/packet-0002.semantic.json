@@ -1,0 +1,118 @@
+{
+  "packet_id": "interview-lma4p2gdxzm-semantics-pkt-0002",
+  "source_id": "video:interview-lma4p2gdxzm",
+  "source_date": "2026-02-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0009"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains that people should simply call him Professor Jiang.",
+      "speaker_attribution": "Jiang self-introduction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0010",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0011",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0012",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0013",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0014",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0015"
+      ],
+      "kind": "exchange",
+      "summary": "The host explains his own background, repeats Jiang's claims about Khazars and antisemitism, and remarks on how often Jiang is accused of serving one side.",
+      "speaker_attribution": "Host framing exchange",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that his sudden rise, his knowledge of hidden power structures, and partial listening habits among viewers explain why people project elite ties onto him.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0010",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0011"
+      ],
+      "note": "The host's framing bundles his own claims together with earlier Jiang lecture content and contains noisy ASR around ethnic and religious terms.",
+      "suggested_speaker": "Host monologue with quoted Jiang themes",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says he blew up last June after Trump launched Midnight Hammer and after he had predicted a coming war between the United States and Iran.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Retrospective self-description stated on 2026-02-15.",
+      "topic_tags": [
+        "public rise",
+        "Midnight Hammer",
+        "Iran war",
+        "prediction"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says people assume he is fed information by elites because he speaks fluently about secret societies, transnational capital, intelligence organizations, evil, and power.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Explanation of audience reaction on 2026-02-15.",
+      "topic_tags": [
+        "elite knowledge",
+        "secret societies",
+        "transnational capital"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says accusations of bias are amplified because many listeners hear only one lecture or one interview instead of his broader body of work.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Media-dynamics diagnosis on 2026-02-15.",
+      "topic_tags": [
+        "audience interpretation",
+        "bias",
+        "partial listening"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "moment": "Jiang frames himself as someone who came out of nowhere and therefore gets read as an intelligence product.",
+      "source_phrase": "I came out of nowhere.",
+      "why_it_matters": "It condenses his explanation for why fame plus taboo knowledge immediately triggers suspicion.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0010",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0011"
+      ],
+      "note": "The host's remarks about Semitic ancestry and Khazars are presented as part of the interview exchange, not as independently verified evidence inside this packet."
+    }
+  ]
+}
