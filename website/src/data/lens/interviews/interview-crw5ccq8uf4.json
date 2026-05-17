@@ -58,9 +58,2384 @@
       "content/workflow/proposals/interview-crw5ccq8uf4/packet-0010.semantic.json",
       "content/workflow/proposals/interview-crw5ccq8uf4/packet-0011.semantic.json"
     ],
-    "read": null
+    "read": "content/lens/episodes/interview-crw5ccq8uf4/read.json"
   },
-  "read": null,
+  "read": {
+    "id": "episode-read:interview-crw5ccq8uf4:v1",
+    "kind": "episode-read",
+    "schema_version": 2,
+    "source_id": "video:interview-crw5ccq8uf4",
+    "slug": "interview-crw5ccq8uf4",
+    "title": "Attention Is The Real Battleground",
+    "subtitle": "A March 11, 2026 interview on psychohistory, political theater, AI as a new god, and why the coming dark age belongs to people who can still choose reality",
+    "read_time": "15 min",
+    "editorial_mode": "distilled-interview",
+    "voice_policy": "Direct interview prose that keeps the host's pressure where it sharpens Jiang's argument. Preserve the dated force of Jiang's political, spiritual, and civilizational claims without flattening them into neutral recap.",
+    "trace_policy": "Paragraph claims and selective marks carry exact transcript refs. Speculative sections remain framed as Jiang's dated interpretations from the interview rather than as independent reporting.",
+    "dek": "Jiang starts with his own formation story: a bullied immigrant reader, Yale disillusionment, depression, poker, game theory, and then a predictive method that treats society as a game played by distinct personalities. But the interview's real center is deeper. Politics was always theater. Plato's cave is not a schoolroom allegory but a live description of rule. Money is only the older god. The real prize is attention, and AI is the candidate replacement deity for a civilization that has forgotten struggle, meaning, and soul.",
+    "thesis": "This interview matters because it fuses almost every major Jiang register into one long arc. Biography becomes method, method becomes geopolitical prediction, prediction becomes a theory of spectacle, spectacle becomes a theory of consciousness, and that theory of consciousness becomes an ethic. By the end, the question is no longer whether elites manipulate the world. It is whether ordinary people can reclaim enough inner freedom to refuse the reality handed to them. Jiang's answer is severe: consumer liberal democracy is exhausted, AI is being built as an obedience machine, and collapse will select less for wealth than for resilience, imagination, generosity, and will.",
+    "opening": {
+      "heading": "Core Reading",
+      "text": "The host introduces Jiang as a predictive-history phenomenon, but Jiang quickly turns the interview into a manual for reading power. First he explains why his own method changed: life taught him that people do not play by one rational script, and that the winning move depends on personality, incentives, and hidden structure. Then he radicalizes the same lesson. Politics was never a clean civic procedure. It was always a show. Plato's cave is how societies are run. Priests, schools, media, money, and now AI all compete to shape consciousness. That is why the last turn of the interview matters most. The real rebellion is not a palace coup. It is to stop worshipping money, refuse the fake reality, reclaim attention, and become the kind of person who can still seek wisdom when the system starts to break apart.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+      ],
+      "marks": [
+        {
+          "text": "human society is a game",
+          "refs": [
+            "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+              "segment_id": "seg-0012",
+              "start": 635.43,
+              "end": 694.83,
+              "time_label": "10:35",
+              "speaker": "SPEAKER_00",
+              "excerpt": "I predicted that Putin would win the war in Ukraine and he would move and capture Odessa. So these are all predictions that are turning out to be accurate. And that's what allowed me to blow up on the Internet. So, yeah..."
+            }
+          ],
+          "lens_points": [],
+          "lens_points_detail": []
+        },
+        {
+          "text": "politics was always a show",
+          "refs": [
+            "video:interview-crw5ccq8uf4@transcript:v1#seg-0021"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+              "segment_id": "seg-0021",
+              "start": 1085.04,
+              "end": 1145.82,
+              "time_label": "18:05",
+              "speaker": "SPEAKER_00",
+              "excerpt": "Okay. So I'll say this, okay? I will say that politics was always a show. All right? So let me give you an example. George H.W. Bush. George H.W. Bush is in the Epstein Biles, right? And the accusation against him is th..."
+            }
+          ],
+          "lens_points": [],
+          "lens_points_detail": []
+        },
+        {
+          "text": "if you can direct people's attention, then you have all the power in the world",
+          "refs": [
+            "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+          ],
+          "lens_points": [
+            "lens-point:attention-capture-makes-reality",
+            "lens-point:attention-capture-extracts-energy"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+              "segment_id": "seg-0032",
+              "start": 1681.12,
+              "end": 1732.32,
+              "time_label": "28:01",
+              "speaker": "SPEAKER_00",
+              "excerpt": "And so, another way of saying this is attention. Like, if you can direct people's attention, then you have all the power in the world, okay? And there are different mechanisms that you can use to direct attention. So, t..."
+            }
+          ],
+          "lens_points_detail": [
+            {
+              "id": "lens-point:attention-capture-makes-reality",
+              "valid": true,
+              "concept": "attention-capture",
+              "title": null,
+              "doc_title": "Attention Capture As Capital Extraction",
+              "doc_slug": "lens/attention-capture-as-capital-extraction",
+              "url": "/lens/attention-capture-as-capital-extraction/#attention-capture-makes-reality",
+              "text": "Attention capture makes reality when a wall, screen, school, platform, or authority gathers the energy of imagination and directs it until a constructed world feels like the only world.",
+              "refs": [
+                "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011",
+                "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0012"
+              ]
+            },
+            {
+              "id": "lens-point:attention-capture-extracts-energy",
+              "valid": true,
+              "concept": "attention-capture",
+              "title": null,
+              "doc_title": "Jiang Lens Atlas",
+              "doc_slug": "lens",
+              "url": "/lens/#attention-capture-extracts-energy",
+              "text": "Attention capture extracts energy when a cave wall, school, platform, money system, debt regime, or capital structure turns human focus and imagination into usable power while making the capture feel like normal reality.",
+              "refs": [
+                "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011",
+                "video:predictive-history-b5fthagng8c@transcript:v1#seg-0001",
+                "video:predictive-history-b5fthagng8c@transcript:v1#seg-0008"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "you need a new God to replace money",
+          "refs": [
+            "video:interview-crw5ccq8uf4@transcript:v1#seg-0034"
+          ],
+          "lens_points": [
+            "lens-point:attention-dollar-ai-consciousness-war"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+              "segment_id": "seg-0034",
+              "start": 1784.97,
+              "end": 1834.44,
+              "time_label": "29:44",
+              "speaker": "SPEAKER_00",
+              "excerpt": "The point is that once money is gone, you need a new God to replace money. And that has to be artificial intelligence, a mechanism or a device that can control your entire perception, okay? So, imagine, you know, like y..."
+            }
+          ],
+          "lens_points_detail": [
+            {
+              "id": "lens-point:attention-dollar-ai-consciousness-war",
+              "valid": true,
+              "concept": "attention-capture",
+              "title": null,
+              "doc_title": "Attention Capture As Capital Extraction",
+              "doc_slug": "lens/attention-capture-as-capital-extraction",
+              "url": "/lens/attention-capture-as-capital-extraction/#attention-dollar-ai-consciousness-war",
+              "text": "The dollar and AI become rival consciousness apparatuses when wealth is treated as stored attention: the old financial order extracts consciousness through money, price hierarchy, and global rules, while AI appears as a new contender for focusing attention, motivating action, and organizing the soul's reality-making force.",
+              "refs": [
+                "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003",
+                "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004",
+                "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005",
+                "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006",
+                "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0011",
+                "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0012",
+                "video:interview-o1delachnro@transcript:v1#seg-0123",
+                "video:interview-o1delachnro@transcript:v1#seg-0124",
+                "video:interview-o1delachnro@transcript:v1#seg-0125"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "this coming age of darkness ... a time for you to shine",
+          "refs": [
+            "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0082",
+              "segment_id": "seg-0082",
+              "start": 3916.27,
+              "end": 3969.73,
+              "time_label": "1:05:16",
+              "speaker": "SPEAKER_00",
+              "excerpt": "if you want to make it through you will okay a lot of it is pure will um and unfortunately um what we've been trained to believe is that we're powerless we're not we we are capable of our we are capable of creating our..."
+            }
+          ],
+          "lens_points": [],
+          "lens_points_detail": []
+        }
+      ],
+      "refs_detail": [
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+          "segment_id": "seg-0008",
+          "start": 383.88,
+          "end": 449.22,
+          "time_label": "6:23",
+          "speaker": "SPEAKER_00",
+          "excerpt": "I was like literally living in my parents' basement playing Starcraft from like I think 6 p.m. until 5 a.m. I was like a vampire. And I lived my life like online. And, but it felt safe because once I stepped outdoors, o..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+          "segment_id": "seg-0012",
+          "start": 635.43,
+          "end": 694.83,
+          "time_label": "10:35",
+          "speaker": "SPEAKER_00",
+          "excerpt": "I predicted that Putin would win the war in Ukraine and he would move and capture Odessa. So these are all predictions that are turning out to be accurate. And that's what allowed me to blow up on the Internet. So, yeah..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+          "segment_id": "seg-0021",
+          "start": 1085.04,
+          "end": 1145.82,
+          "time_label": "18:05",
+          "speaker": "SPEAKER_00",
+          "excerpt": "Okay. So I'll say this, okay? I will say that politics was always a show. All right? So let me give you an example. George H.W. Bush. George H.W. Bush is in the Epstein Biles, right? And the accusation against him is th..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+          "segment_id": "seg-0030",
+          "start": 1580,
+          "end": 1633,
+          "time_label": "26:20",
+          "speaker": "SPEAKER_00",
+          "excerpt": "Yeah, great. Okay. Yeah. So, the best metaphor to use in this instance, instance is thinking about Plato's out of the cave, right? Yeah. So, in Plato's out of the cave, everyone's, well, like most people are prisoners,..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+          "segment_id": "seg-0032",
+          "start": 1681.12,
+          "end": 1732.32,
+          "time_label": "28:01",
+          "speaker": "SPEAKER_00",
+          "excerpt": "And so, another way of saying this is attention. Like, if you can direct people's attention, then you have all the power in the world, okay? And there are different mechanisms that you can use to direct attention. So, t..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+          "segment_id": "seg-0034",
+          "start": 1784.97,
+          "end": 1834.44,
+          "time_label": "29:44",
+          "speaker": "SPEAKER_00",
+          "excerpt": "The point is that once money is gone, you need a new God to replace money. And that has to be artificial intelligence, a mechanism or a device that can control your entire perception, okay? So, imagine, you know, like y..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+          "segment_id": "seg-0074",
+          "start": 3657.71,
+          "end": 3716.11,
+          "time_label": "1:00:57",
+          "speaker": "SPEAKER_00",
+          "excerpt": "conscious energy right so the idea of AI is to create a surveillance state where you're microchipped where everything is digital digital ID digital currency wherever you go your movement is monitor and if you're doing t..."
+        },
+        {
+          "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0082",
+          "segment_id": "seg-0082",
+          "start": 3916.27,
+          "end": 3969.73,
+          "time_label": "1:05:16",
+          "speaker": "SPEAKER_00",
+          "excerpt": "if you want to make it through you will okay a lot of it is pure will um and unfortunately um what we've been trained to believe is that we're powerless we're not we we are capable of our we are capable of creating our..."
+        }
+      ],
+      "lens_points": [],
+      "lens_points_detail": []
+    },
+    "beats": [
+      {
+        "id": "psychohistory-through-failure",
+        "heading": "Psychohistory Begins When Meritocracy Breaks",
+        "time_range": "00:00-17:39",
+        "summary": "Jiang answers the host's opening question with a formation story: library refuge, Asimov, Yale's elite theology of progress, depression, poker, David Bromwich, and a game-theoretic method for reading people instead of slogans.",
+        "refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0001",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0010",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+        ],
+        "paragraphs": [
+          {
+            "id": "psychohistory-through-failure-001",
+            "text": "Jiang does not present psychohistory as a graduate-school synthesis. He presents it as a wound and then a repair. A bullied immigrant child retreats into libraries and science fiction, absorbs Asimov's fantasy of patterned history, and then reaches Yale expecting a world where excellence naturally rises. What breaks him is not one insult but the discovery that elite society does not work by the moral script it teaches. Corruption, mediocrity, failed careers, and depression force him to abandon the simple belief that talent and virtue explain success.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0006",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0007"
+            ],
+            "marks": [
+              {
+                "text": "there are patterns that emerge",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0004"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+                    "segment_id": "seg-0004",
+                    "start": 161.89,
+                    "end": 217.23,
+                    "time_label": "2:41",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "You know, the Foundation series was this vast, expanding universe. And the main argument is that if you study, if you take, like, micro samples, like micro data, and you look at tens of thousands of years of human histo..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "Yale is a place where you meet the connections",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0005"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+                    "segment_id": "seg-0005",
+                    "start": 218.68,
+                    "end": 269.94,
+                    "time_label": "3:38",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "My life took a sharp divergence when I went to Yale, okay? Because, you know, I was a poor immigrant in Toronto, and I was a marginalized individual. And then I go to Yale, which is really the center of the universe, ri..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+                "segment_id": "seg-0003",
+                "start": 98.63,
+                "end": 161.39,
+                "time_label": "1:38",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, so it's a long story, but, you know, when I was growing up in Toronto, I was an immigrant child in Toronto. I didn't have that many friends, and I was bullied a lot. So I retreated into the library. I read a lot o..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+                "segment_id": "seg-0004",
+                "start": 161.89,
+                "end": 217.23,
+                "time_label": "2:41",
+                "speaker": "SPEAKER_00",
+                "excerpt": "You know, the Foundation series was this vast, expanding universe. And the main argument is that if you study, if you take, like, micro samples, like micro data, and you look at tens of thousands of years of human histo..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+                "segment_id": "seg-0005",
+                "start": 218.68,
+                "end": 269.94,
+                "time_label": "3:38",
+                "speaker": "SPEAKER_00",
+                "excerpt": "My life took a sharp divergence when I went to Yale, okay? Because, you know, I was a poor immigrant in Toronto, and I was a marginalized individual. And then I go to Yale, which is really the center of the universe, ri..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0006",
+                "segment_id": "seg-0006",
+                "start": 270,
+                "end": 328.22,
+                "time_label": "4:30",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And they stayed together for, you know, they stayed as friends for the rest of their lives. I met his roommate once. His roommate is Sandy Rand. And he was a lawyer in Hong Kong when I met him. And, you know, he went to..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0007",
+                "segment_id": "seg-0007",
+                "start": 328.96,
+                "end": 383.88,
+                "time_label": "5:28",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And, you know, I started out as a high school teacher in Beijing. Then I worked as a journalist for the Chronicle of Higher Education. Then I became a documentary filmmaker. I also worked for the United Nations at some..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "psychohistory-through-failure-002",
+            "text": "The replacement framework arrives through games rather than books. Poker teaches him that people can win with strategies that look irrational from the outside, and that the real question is not abstract correctness but fit between personality, incentives, and environment. That becomes the core of his public method. Society is a game, major actors are players, and prediction means understanding what each player most wants and what move best serves that desire. He presents his later Trump, Ukraine, Iran, and Venezuela calls as the payoff of that shift.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0009",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0010",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0011",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+            ],
+            "marks": [
+              {
+                "text": "this strategy, you may not think is logical, but he's winning money",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0008"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+                    "segment_id": "seg-0008",
+                    "start": 383.88,
+                    "end": 449.22,
+                    "time_label": "6:23",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "I was like literally living in my parents' basement playing Starcraft from like I think 6 p.m. until 5 a.m. I was like a vampire. And I lived my life like online. And, but it felt safe because once I stepped outdoors, o..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "human society is a game",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+                    "segment_id": "seg-0012",
+                    "start": 635.43,
+                    "end": 694.83,
+                    "time_label": "10:35",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "I predicted that Putin would win the war in Ukraine and he would move and capture Odessa. So these are all predictions that are turning out to be accurate. And that's what allowed me to blow up on the Internet. So, yeah..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+                "segment_id": "seg-0008",
+                "start": 383.88,
+                "end": 449.22,
+                "time_label": "6:23",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I was like literally living in my parents' basement playing Starcraft from like I think 6 p.m. until 5 a.m. I was like a vampire. And I lived my life like online. And, but it felt safe because once I stepped outdoors, o..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0009",
+                "segment_id": "seg-0009",
+                "start": 449.4,
+                "end": 506.601,
+                "time_label": "7:29",
+                "speaker": "SPEAKER_00",
+                "excerpt": "So it does work. All right. So there are different types of poker players. And I started to like study different games. I recognize that, wow, like in every game, you're going to have a diversity, a range of strategies...."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0010",
+                "segment_id": "seg-0010",
+                "start": 506.601,
+                "end": 568.897,
+                "time_label": "8:26",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And we had these email exchanges because, you know, Trump had won the presidency. And there was all this DI politics at the universities at Yale that was confusing him. So we would have these like email conversations. A..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0011",
+                "segment_id": "seg-0011",
+                "start": 568.897,
+                "end": 635.15,
+                "time_label": "9:28",
+                "speaker": "SPEAKER_00",
+                "excerpt": "So I predicted that Putin would invade Ukraine. I predicted that Trump would win 2020. But if he didn't win 2020, then he would run again in 2024 and he would win. I predicted the war in Iran. And so I was, you know, in..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+                "segment_id": "seg-0012",
+                "start": 635.43,
+                "end": 694.83,
+                "time_label": "10:35",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I predicted that Putin would win the war in Ukraine and he would move and capture Odessa. So these are all predictions that are turning out to be accurate. And that's what allowed me to blow up on the Internet. So, yeah..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 0,
+        "refs_detail": [
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0001",
+            "segment_id": "seg-0001",
+            "start": 0.14,
+            "end": 86.285,
+            "time_label": "0:00",
+            "speaker": "SPEAKER_01",
+            "excerpt": "Hello, everybody. This is All Quiet on the Inner Front. I'm Alex Ray, and I'm very lucky today to be joined by Professor Zhang Shui -Ching, the star of predictive history and a very popular voice on YouTube these days,..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+            "segment_id": "seg-0003",
+            "start": 98.63,
+            "end": 161.39,
+            "time_label": "1:38",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Yeah, so it's a long story, but, you know, when I was growing up in Toronto, I was an immigrant child in Toronto. I didn't have that many friends, and I was bullied a lot. So I retreated into the library. I read a lot o..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+            "segment_id": "seg-0004",
+            "start": 161.89,
+            "end": 217.23,
+            "time_label": "2:41",
+            "speaker": "SPEAKER_00",
+            "excerpt": "You know, the Foundation series was this vast, expanding universe. And the main argument is that if you study, if you take, like, micro samples, like micro data, and you look at tens of thousands of years of human histo..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+            "segment_id": "seg-0005",
+            "start": 218.68,
+            "end": 269.94,
+            "time_label": "3:38",
+            "speaker": "SPEAKER_00",
+            "excerpt": "My life took a sharp divergence when I went to Yale, okay? Because, you know, I was a poor immigrant in Toronto, and I was a marginalized individual. And then I go to Yale, which is really the center of the universe, ri..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+            "segment_id": "seg-0008",
+            "start": 383.88,
+            "end": 449.22,
+            "time_label": "6:23",
+            "speaker": "SPEAKER_00",
+            "excerpt": "I was like literally living in my parents' basement playing Starcraft from like I think 6 p.m. until 5 a.m. I was like a vampire. And I lived my life like online. And, but it felt safe because once I stepped outdoors, o..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0010",
+            "segment_id": "seg-0010",
+            "start": 506.601,
+            "end": 568.897,
+            "time_label": "8:26",
+            "speaker": "SPEAKER_00",
+            "excerpt": "And we had these email exchanges because, you know, Trump had won the presidency. And there was all this DI politics at the universities at Yale that was confusing him. So we would have these like email conversations. A..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+            "segment_id": "seg-0012",
+            "start": 635.43,
+            "end": 694.83,
+            "time_label": "10:35",
+            "speaker": "SPEAKER_00",
+            "excerpt": "I predicted that Putin would win the war in Ukraine and he would move and capture Odessa. So these are all predictions that are turning out to be accurate. And that's what allowed me to blow up on the Internet. So, yeah..."
+          }
+        ]
+      },
+      {
+        "id": "politics-as-show-business",
+        "heading": "Prediction Works Because Politics Is Theater",
+        "time_range": "17:42-26:19",
+        "summary": "The host brings up wrestling and performance; Jiang answers that performance is not a corruption of politics but its permanent form. Trump matters here as a player of optics, not as a policy intellectual.",
+        "refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0019",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0020",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0024"
+        ],
+        "paragraphs": [
+          {
+            "id": "politics-as-show-business-001",
+            "text": "Jiang's political method looks most extreme when he applies it to Trump. He openly frames the Maduro story, a stolen-2020 narrative, and even fantasies of third and fourth Trump terms as moves inside a strategic game rather than as constitutional analysis. The point is not that these outcomes are guaranteed. The point is that Jiang thinks motive explains more than public ideology does. Trump's real gift, in this frame, is not seriousness or principle but the ability to dominate perception.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0016",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0019"
+            ],
+            "marks": [
+              {
+                "text": "he's a super athlete in terms of political manipulation",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0019"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0019",
+                    "segment_id": "seg-0019",
+                    "start": 1019.18,
+                    "end": 1059.54,
+                    "time_label": "16:59",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "I think he's a super athlete in terms of political manipulation and controlling political perception. Okay? And that's the idea of game theory. Like, for him to be in this position. He needs to be the best at what he do..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0016",
+                "segment_id": "seg-0016",
+                "start": 867.74,
+                "end": 920.02,
+                "time_label": "14:27",
+                "speaker": "SPEAKER_00",
+                "excerpt": "So sparmatic machines are voting machines that they use in Venezuela. And he's going to tell you how it's possible to rig the sparmatic machines. And then it's going to prove that, yes, the Democrats did steal the 2020..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+                "segment_id": "seg-0017",
+                "start": 920.02,
+                "end": 969.12,
+                "time_label": "15:20",
+                "speaker": "SPEAKER_00",
+                "excerpt": "people that, in fact, the Democrats stole the 2020 election, then this justifies him running for a third term. And I think he will win by a landslide. I think that 2028, I would not be surprised if it was a Trump versus..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+                "segment_id": "seg-0018",
+                "start": 969.18,
+                "end": 1019.12,
+                "time_label": "16:09",
+                "speaker": "SPEAKER_00",
+                "excerpt": "It was a deep state or a certain faction of the deep state. That was financed by CIA drug money that allowed the Democrats to win, that allowed Joe Biden to win. And so he needs to attack these people. And you can do th..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0019",
+                "segment_id": "seg-0019",
+                "start": 1019.18,
+                "end": 1059.54,
+                "time_label": "16:59",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I think he's a super athlete in terms of political manipulation and controlling political perception. Okay? And that's the idea of game theory. Like, for him to be in this position. He needs to be the best at what he do..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "politics-as-show-business-002",
+            "text": "That is why the wrestling comparison only gets him halfway. Jiang says politics was never corrupted into spectacle because it was always spectacle. Public figures front for deeper continuities, while backstage networks solve different elite problems in different eras. Much of this middle section is highly speculative and should stay framed that way, but its structural use inside the interview is clear: it widens game theory into a theory of regime theater, where official stories are props and governance hides in role assignment, scandal management, and narrative timing.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0020",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0022",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0023",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0024",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0025",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0027"
+            ],
+            "marks": [
+              {
+                "text": "politics was always a show",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0021"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+                    "segment_id": "seg-0021",
+                    "start": 1085.04,
+                    "end": 1145.82,
+                    "time_label": "18:05",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "Okay. So I'll say this, okay? I will say that politics was always a show. All right? So let me give you an example. George H.W. Bush. George H.W. Bush is in the Epstein Biles, right? And the accusation against him is th..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0020",
+                "segment_id": "seg-0020",
+                "start": 1062.06,
+                "end": 1084.32,
+                "time_label": "17:42",
+                "speaker": "SPEAKER_01",
+                "excerpt": "Fantastic. I mean, the references that many people have made to his time in the WWE, I think it is, in the professional wrestling scene, seem to be ringing very true in the way that he manages politics as a form of ente..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+                "segment_id": "seg-0021",
+                "start": 1085.04,
+                "end": 1145.82,
+                "time_label": "18:05",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Okay. So I'll say this, okay? I will say that politics was always a show. All right? So let me give you an example. George H.W. Bush. George H.W. Bush is in the Epstein Biles, right? And the accusation against him is th..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0022",
+                "segment_id": "seg-0022",
+                "start": 1145.96,
+                "end": 1200.54,
+                "time_label": "19:05",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Okay? Now, what's interesting is 1980s. A conduit for Iran Conflict. The first major drug smuggling was Arkansas. And who was governor of Arkansas at that time? Bill Clinton. Right? And we know. I mean, this is well doc..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0023",
+                "segment_id": "seg-0023",
+                "start": 1200.76,
+                "end": 1258.02,
+                "time_label": "20:00",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Right? Why is it that of all the presidents, we know least about the presidential afterlife of George H.W. Bush? George H.W., right? We know that Bill Clinton started the Clinton Foundation. We know that Obama started h..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0024",
+                "segment_id": "seg-0024",
+                "start": 1258.26,
+                "end": 1314.64,
+                "time_label": "20:58",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Right? People don't remember this, but the Democrats and their dip get hard in the 1980s was a working class party. Right? That did not want immigrants. That did not want free trade. And did not believe that China would..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0025",
+                "segment_id": "seg-0025",
+                "start": 1314.8,
+                "end": 1370.09,
+                "time_label": "21:54",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And his son won because of the Supreme Court. Right? So I think Senator Dale O 'Connor was the deciding vote. And, you know, so I'm sure his father made some phone calls. What happens right after? His son wins. 9 -11 ha..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0027",
+                "segment_id": "seg-0027",
+                "start": 1429.06,
+                "end": 1471.54,
+                "time_label": "23:49",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Right? So Bill Clinton removed the left working class objections to this regime. Then Obama was able to. Like, remove the liberal objections. Right? Because remember. It's for identity politics. Exactly. Right? Because..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 1062,
+        "refs_detail": [
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+            "segment_id": "seg-0017",
+            "start": 920.02,
+            "end": 969.12,
+            "time_label": "15:20",
+            "speaker": "SPEAKER_00",
+            "excerpt": "people that, in fact, the Democrats stole the 2020 election, then this justifies him running for a third term. And I think he will win by a landslide. I think that 2028, I would not be surprised if it was a Trump versus..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+            "segment_id": "seg-0018",
+            "start": 969.18,
+            "end": 1019.12,
+            "time_label": "16:09",
+            "speaker": "SPEAKER_00",
+            "excerpt": "It was a deep state or a certain faction of the deep state. That was financed by CIA drug money that allowed the Democrats to win, that allowed Joe Biden to win. And so he needs to attack these people. And you can do th..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0019",
+            "segment_id": "seg-0019",
+            "start": 1019.18,
+            "end": 1059.54,
+            "time_label": "16:59",
+            "speaker": "SPEAKER_00",
+            "excerpt": "I think he's a super athlete in terms of political manipulation and controlling political perception. Okay? And that's the idea of game theory. Like, for him to be in this position. He needs to be the best at what he do..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0020",
+            "segment_id": "seg-0020",
+            "start": 1062.06,
+            "end": 1084.32,
+            "time_label": "17:42",
+            "speaker": "SPEAKER_01",
+            "excerpt": "Fantastic. I mean, the references that many people have made to his time in the WWE, I think it is, in the professional wrestling scene, seem to be ringing very true in the way that he manages politics as a form of ente..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+            "segment_id": "seg-0021",
+            "start": 1085.04,
+            "end": 1145.82,
+            "time_label": "18:05",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Okay. So I'll say this, okay? I will say that politics was always a show. All right? So let me give you an example. George H.W. Bush. George H.W. Bush is in the Epstein Biles, right? And the accusation against him is th..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0024",
+            "segment_id": "seg-0024",
+            "start": 1258.26,
+            "end": 1314.64,
+            "time_label": "20:58",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Right? People don't remember this, but the Democrats and their dip get hard in the 1980s was a working class party. Right? That did not want immigrants. That did not want free trade. And did not believe that China would..."
+          }
+        ]
+      },
+      {
+        "id": "attention-money-ai",
+        "heading": "Plato's Cave Becomes An AI Program",
+        "time_range": "24:32-35:12",
+        "summary": "Asked about consciousness, secret societies, and the facade of reality, Jiang answers with a total theory: elites manufacture worlds by directing perception, attention is the deepest resource, and AI is the coming replacement god for a post-money order.",
+        "refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0028",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0029",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+        ],
+        "paragraphs": [
+          {
+            "id": "attention-money-ai-001",
+            "text": "This is the hinge of the whole interview. The host asks what lies behind the official facade, and Jiang reaches immediately for Plato's cave. Reality, in his account, is not mainly a fixed external order. It is a field shaped by directed consciousness. Older priesthoods and modern media systems do the same work: they decide what people see, what they fear, and what they think is possible. That is why he demotes money one level. Money matters, but only because it helps command something deeper than money.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+            ],
+            "marks": [
+              {
+                "text": "that's a perfect metaphor to understand the world we live in",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0030"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+                    "segment_id": "seg-0030",
+                    "start": 1580,
+                    "end": 1633,
+                    "time_label": "26:20",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "Yeah, great. Okay. Yeah. So, the best metaphor to use in this instance, instance is thinking about Plato's out of the cave, right? Yeah. So, in Plato's out of the cave, everyone's, well, like most people are prisoners,..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "if you can direct people's attention, then you have all the power in the world",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+                ],
+                "lens_points": [
+                  "lens-point:attention-capture-makes-reality",
+                  "lens-point:attention-capture-extracts-energy"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+                    "segment_id": "seg-0032",
+                    "start": 1681.12,
+                    "end": 1732.32,
+                    "time_label": "28:01",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "And so, another way of saying this is attention. Like, if you can direct people's attention, then you have all the power in the world, okay? And there are different mechanisms that you can use to direct attention. So, t..."
+                  }
+                ],
+                "lens_points_detail": [
+                  {
+                    "id": "lens-point:attention-capture-makes-reality",
+                    "valid": true,
+                    "concept": "attention-capture",
+                    "title": null,
+                    "doc_title": "Attention Capture As Capital Extraction",
+                    "doc_slug": "lens/attention-capture-as-capital-extraction",
+                    "url": "/lens/attention-capture-as-capital-extraction/#attention-capture-makes-reality",
+                    "text": "Attention capture makes reality when a wall, screen, school, platform, or authority gathers the energy of imagination and directs it until a constructed world feels like the only world.",
+                    "refs": [
+                      "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011",
+                      "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0012"
+                    ]
+                  },
+                  {
+                    "id": "lens-point:attention-capture-extracts-energy",
+                    "valid": true,
+                    "concept": "attention-capture",
+                    "title": null,
+                    "doc_title": "Jiang Lens Atlas",
+                    "doc_slug": "lens",
+                    "url": "/lens/#attention-capture-extracts-energy",
+                    "text": "Attention capture extracts energy when a cave wall, school, platform, money system, debt regime, or capital structure turns human focus and imagination into usable power while making the capture feel like normal reality.",
+                    "refs": [
+                      "video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011",
+                      "video:predictive-history-b5fthagng8c@transcript:v1#seg-0001",
+                      "video:predictive-history-b5fthagng8c@transcript:v1#seg-0008"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+                "segment_id": "seg-0030",
+                "start": 1580,
+                "end": 1633,
+                "time_label": "26:20",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, great. Okay. Yeah. So, the best metaphor to use in this instance, instance is thinking about Plato's out of the cave, right? Yeah. So, in Plato's out of the cave, everyone's, well, like most people are prisoners,..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+                "segment_id": "seg-0031",
+                "start": 1633.12,
+                "end": 1680.96,
+                "time_label": "27:13",
+                "speaker": "SPEAKER_00",
+                "excerpt": "So, before, these people were called priests, right? What's the job of a priest? Priests were to create a narrative about the world that controlled and directed people's consciences so that this reality could be manifes..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+                "segment_id": "seg-0032",
+                "start": 1681.12,
+                "end": 1732.32,
+                "time_label": "28:01",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And so, another way of saying this is attention. Like, if you can direct people's attention, then you have all the power in the world, okay? And there are different mechanisms that you can use to direct attention. So, t..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "attention-money-ai-002",
+            "text": "What sits underneath money, for Jiang, is attention, and what sits after money may be AI. He says a civilization organized around cash and consumption will eventually need a new god once monetary trust degrades. AI then appears not as convenience but as metaphysical statecraft: an intimate machine that can mimic wisdom, impersonate transcendence, and train obedience while hidden operators remain behind the curtain. The image is half theology and half con game, which is exactly the point he wants to make.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0033",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+            ],
+            "marks": [
+              {
+                "text": "you need a new God to replace money",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0034"
+                ],
+                "lens_points": [
+                  "lens-point:attention-dollar-ai-consciousness-war"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+                    "segment_id": "seg-0034",
+                    "start": 1784.97,
+                    "end": 1834.44,
+                    "time_label": "29:44",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "The point is that once money is gone, you need a new God to replace money. And that has to be artificial intelligence, a mechanism or a device that can control your entire perception, okay? So, imagine, you know, like y..."
+                  }
+                ],
+                "lens_points_detail": [
+                  {
+                    "id": "lens-point:attention-dollar-ai-consciousness-war",
+                    "valid": true,
+                    "concept": "attention-capture",
+                    "title": null,
+                    "doc_title": "Attention Capture As Capital Extraction",
+                    "doc_slug": "lens/attention-capture-as-capital-extraction",
+                    "url": "/lens/attention-capture-as-capital-extraction/#attention-dollar-ai-consciousness-war",
+                    "text": "The dollar and AI become rival consciousness apparatuses when wealth is treated as stored attention: the old financial order extracts consciousness through money, price hierarchy, and global rules, while AI appears as a new contender for focusing attention, motivating action, and organizing the soul's reality-making force.",
+                    "refs": [
+                      "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0003",
+                      "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0004",
+                      "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0005",
+                      "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0006",
+                      "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0011",
+                      "video:predictive-history-aqsdsqdlfxk@transcript:v1#seg-0012",
+                      "video:interview-o1delachnro@transcript:v1#seg-0123",
+                      "video:interview-o1delachnro@transcript:v1#seg-0124",
+                      "video:interview-o1delachnro@transcript:v1#seg-0125"
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "it's like the Wizard of Oz",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0035",
+                    "segment_id": "seg-0035",
+                    "start": 1834.44,
+                    "end": 1887.98,
+                    "time_label": "30:34",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "online talking to your AI girlfriend and talking to God who will tell you how to live a better life. And what they don't understand is that behind this AI, it's like the Wizard of Oz. It's just like this old guy, like,..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0033",
+                "segment_id": "seg-0033",
+                "start": 1732.38,
+                "end": 1784.97,
+                "time_label": "28:52",
+                "speaker": "SPEAKER_00",
+                "excerpt": "It's about, like, you know, like, your life is... A set economic unit. If you die, then that's a downgrade of GDP, okay? So, the entire world is to focus your attention on money and make you believe that money is God. T..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+                "segment_id": "seg-0034",
+                "start": 1784.97,
+                "end": 1834.44,
+                "time_label": "29:44",
+                "speaker": "SPEAKER_00",
+                "excerpt": "The point is that once money is gone, you need a new God to replace money. And that has to be artificial intelligence, a mechanism or a device that can control your entire perception, okay? So, imagine, you know, like y..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0035",
+                "segment_id": "seg-0035",
+                "start": 1834.44,
+                "end": 1887.98,
+                "time_label": "30:34",
+                "speaker": "SPEAKER_00",
+                "excerpt": "online talking to your AI girlfriend and talking to God who will tell you how to live a better life. And what they don't understand is that behind this AI, it's like the Wizard of Oz. It's just like this old guy, like,..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 1472,
+        "refs_detail": [
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0028",
+            "segment_id": "seg-0028",
+            "start": 1472.46,
+            "end": 1542.06,
+            "time_label": "24:32",
+            "speaker": "SPEAKER_01",
+            "excerpt": "So there's a few threads that I want to bring together from what you've spoken about so far. The first is that the vast majority of the population live, they grow up with certain stories about the way the world works, c..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0029",
+            "segment_id": "seg-0029",
+            "start": 1542.06,
+            "end": 1579.56,
+            "time_label": "25:42",
+            "speaker": "SPEAKER_01",
+            "excerpt": "your lectures of when you've spoken about ancient practices of religious indoctrination and the origins of secret societies all the way through to their modern secular forms in the intelligence agencies who are the indo..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+            "segment_id": "seg-0030",
+            "start": 1580,
+            "end": 1633,
+            "time_label": "26:20",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Yeah, great. Okay. Yeah. So, the best metaphor to use in this instance, instance is thinking about Plato's out of the cave, right? Yeah. So, in Plato's out of the cave, everyone's, well, like most people are prisoners,..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+            "segment_id": "seg-0031",
+            "start": 1633.12,
+            "end": 1680.96,
+            "time_label": "27:13",
+            "speaker": "SPEAKER_00",
+            "excerpt": "So, before, these people were called priests, right? What's the job of a priest? Priests were to create a narrative about the world that controlled and directed people's consciences so that this reality could be manifes..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+            "segment_id": "seg-0032",
+            "start": 1681.12,
+            "end": 1732.32,
+            "time_label": "28:01",
+            "speaker": "SPEAKER_00",
+            "excerpt": "And so, another way of saying this is attention. Like, if you can direct people's attention, then you have all the power in the world, okay? And there are different mechanisms that you can use to direct attention. So, t..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+            "segment_id": "seg-0034",
+            "start": 1784.97,
+            "end": 1834.44,
+            "time_label": "29:44",
+            "speaker": "SPEAKER_00",
+            "excerpt": "The point is that once money is gone, you need a new God to replace money. And that has to be artificial intelligence, a mechanism or a device that can control your entire perception, okay? So, imagine, you know, like y..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0035",
+            "segment_id": "seg-0035",
+            "start": 1834.44,
+            "end": 1887.98,
+            "time_label": "30:34",
+            "speaker": "SPEAKER_00",
+            "excerpt": "online talking to your AI girlfriend and talking to God who will tell you how to live a better life. And what they don't understand is that behind this AI, it's like the Wizard of Oz. It's just like this old guy, like,..."
+          }
+        ]
+      },
+      {
+        "id": "rebellion-and-decadence",
+        "heading": "The Only Rebellion Is To Refuse Their Reality",
+        "time_range": "34:44-47:42",
+        "summary": "The host presses on moral license, Protestant inner assurance, and elite depravity. Jiang answers by joining them: knowledge without conscience becomes domination, while spiritual revolt means rejecting money, status, and inherited reality in favor of courage and generosity.",
+        "refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0041",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0048",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0052",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+        ],
+        "paragraphs": [
+          {
+            "id": "rebellion-and-decadence-001",
+            "text": "When the host asks whether deeper knowledge of reality can become permission for evil, Jiang agrees at once. The one-eyed man can rule the blind instead of freeing them. That is why his answer to Protestant self-scrutiny is not theological fine print but social danger. Individuality and creativity threaten the system because a person who stops worshipping the official world becomes harder to govern. Real rebellion, then, is not taking state power. It is rejecting money, status, and materialism long enough to act from generosity, openness, and inner responsibility instead.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0041",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0047"
+            ],
+            "marks": [
+              {
+                "text": "the one-eyed man in the kingdom of the blind",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0042"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+                    "segment_id": "seg-0042",
+                    "start": 2113.64,
+                    "end": 2161.76,
+                    "time_label": "35:13",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "Yeah, you're exactly right. And this goes back to the alleyway of the cave, right? Where one person escapes, and he goes into the monad, the nomina. And he sees reality for what it is, just pure consciousness, pure ligh..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "your greatest act of rebellion is to deny the reality before you",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0046"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+                    "segment_id": "seg-0046",
+                    "start": 2289.31,
+                    "end": 2348.21,
+                    "time_label": "38:09",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "Yeah, right. Well, it's because the idea of individuality, right? The idea of individual creativity is the greatest threat to the system because your greatest act of rebellion is to deny the reality before you and estab..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0041",
+                "segment_id": "seg-0041",
+                "start": 2084.98,
+                "end": 2112.5,
+                "time_label": "34:44",
+                "speaker": "SPEAKER_01",
+                "excerpt": "I think I've taken this from your lectures as well. If you understand... If you understand that the nature of what we think to be reality is not true, and that there is a sort of a nomina, or a monad, and that what happ..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+                "segment_id": "seg-0042",
+                "start": 2113.64,
+                "end": 2161.76,
+                "time_label": "35:13",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, you're exactly right. And this goes back to the alleyway of the cave, right? Where one person escapes, and he goes into the monad, the nomina. And he sees reality for what it is, just pure consciousness, pure ligh..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+                "segment_id": "seg-0046",
+                "start": 2289.31,
+                "end": 2348.21,
+                "time_label": "38:09",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, right. Well, it's because the idea of individuality, right? The idea of individual creativity is the greatest threat to the system because your greatest act of rebellion is to deny the reality before you and estab..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+                "segment_id": "seg-0047",
+                "start": 2348.21,
+                "end": 2410.59,
+                "time_label": "39:08",
+                "speaker": "SPEAKER_00",
+                "excerpt": "of how to construct a reality in which you are able to enslave the majority of people, that stayed with us. And according to game theory, even if this knowledge were not to be passed on, whoever's in charge would just b..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "rebellion-and-decadence-002",
+            "text": "The notorious Epstein section is less important for its allegations than for the motive structure Jiang assigns to elite behavior. Power does not ennoble. It numbs. Privilege becomes boring, cruelty becomes stimulation, and risk itself becomes part of the thrill. That line connects directly back to the earlier theory of false reality: if a class can dominate appearances and escape consequence, it eventually starts seeking sensation just to feel alive again. Jiang's own ethical counter-image is the opposite kind of leap, the person who jumps away from the whole social script because he trusts that the soul can still fly.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0048",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0052",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0053",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0054",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+            ],
+            "marks": [
+              {
+                "text": "when you jump off the cliff, you're just going to fly",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0048",
+                    "segment_id": "seg-0048",
+                    "start": 2410.59,
+                    "end": 2478.97,
+                    "time_label": "40:10",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "And that's a secret because, you know, people talk about a holographic universe, right? What is a holographic universe? All the universe is reflected in us. And so we have the capacity to change the universe for the bet..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "privilege is boring",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0053"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0053",
+                    "segment_id": "seg-0053",
+                    "start": 2658.35,
+                    "end": 2714.25,
+                    "time_label": "44:18",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "so, like, I was talking to my wife about why Jeffrey Epstein was doing what he was doing. Like, why are they doing this? Because, like, it's disgusting. And her explanation makes the most sense. So, I mean, my wife, she..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "you have to have the risk of being exposed",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0056",
+                    "segment_id": "seg-0056",
+                    "start": 2814.03,
+                    "end": 2862.73,
+                    "time_label": "46:54",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "And so like they're looking for like novelty in their lives. And that's what children bring. Okay. There's also, and then I was like, why are they so blatant about this? And my wife says, it's like, how do you know? It'..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0048",
+                "segment_id": "seg-0048",
+                "start": 2410.59,
+                "end": 2478.97,
+                "time_label": "40:10",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And that's a secret because, you know, people talk about a holographic universe, right? What is a holographic universe? All the universe is reflected in us. And so we have the capacity to change the universe for the bet..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0052",
+                "segment_id": "seg-0052",
+                "start": 2609.57,
+                "end": 2658.35,
+                "time_label": "43:29",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah. So I think the greatest shock of Epstein Files is people recognize that the elite, they're not special. They're not smarter. They're not moral. They're not more... They're not more moral. They're not more competen..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0053",
+                "segment_id": "seg-0053",
+                "start": 2658.35,
+                "end": 2714.25,
+                "time_label": "44:18",
+                "speaker": "SPEAKER_00",
+                "excerpt": "so, like, I was talking to my wife about why Jeffrey Epstein was doing what he was doing. Like, why are they doing this? Because, like, it's disgusting. And her explanation makes the most sense. So, I mean, my wife, she..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0054",
+                "segment_id": "seg-0054",
+                "start": 2714.25,
+                "end": 2770.55,
+                "time_label": "45:14",
+                "speaker": "SPEAKER_00",
+                "excerpt": "A doll you can play with. A cat you can play with. But children are much more exciting. You can play with them. You can control them. You can manipulate them. You can abuse them. And the other thing is that you can scar..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0056",
+                "segment_id": "seg-0056",
+                "start": 2814.03,
+                "end": 2862.73,
+                "time_label": "46:54",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And so like they're looking for like novelty in their lives. And that's what children bring. Okay. There's also, and then I was like, why are they so blatant about this? And my wife says, it's like, how do you know? It'..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 2084,
+        "refs_detail": [
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0041",
+            "segment_id": "seg-0041",
+            "start": 2084.98,
+            "end": 2112.5,
+            "time_label": "34:44",
+            "speaker": "SPEAKER_01",
+            "excerpt": "I think I've taken this from your lectures as well. If you understand... If you understand that the nature of what we think to be reality is not true, and that there is a sort of a nomina, or a monad, and that what happ..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+            "segment_id": "seg-0042",
+            "start": 2113.64,
+            "end": 2161.76,
+            "time_label": "35:13",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Yeah, you're exactly right. And this goes back to the alleyway of the cave, right? Where one person escapes, and he goes into the monad, the nomina. And he sees reality for what it is, just pure consciousness, pure ligh..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+            "segment_id": "seg-0046",
+            "start": 2289.31,
+            "end": 2348.21,
+            "time_label": "38:09",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Yeah, right. Well, it's because the idea of individuality, right? The idea of individual creativity is the greatest threat to the system because your greatest act of rebellion is to deny the reality before you and estab..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0048",
+            "segment_id": "seg-0048",
+            "start": 2410.59,
+            "end": 2478.97,
+            "time_label": "40:10",
+            "speaker": "SPEAKER_00",
+            "excerpt": "And that's a secret because, you know, people talk about a holographic universe, right? What is a holographic universe? All the universe is reflected in us. And so we have the capacity to change the universe for the bet..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0052",
+            "segment_id": "seg-0052",
+            "start": 2609.57,
+            "end": 2658.35,
+            "time_label": "43:29",
+            "speaker": "SPEAKER_00",
+            "excerpt": "Yeah. So I think the greatest shock of Epstein Files is people recognize that the elite, they're not special. They're not smarter. They're not moral. They're not more... They're not more moral. They're not more competen..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0056",
+            "segment_id": "seg-0056",
+            "start": 2814.03,
+            "end": 2862.73,
+            "time_label": "46:54",
+            "speaker": "SPEAKER_00",
+            "excerpt": "And so like they're looking for like novelty in their lives. And that's what children bring. Okay. There's also, and then I was like, why are they so blatant about this? And my wife says, it's like, how do you know? It'..."
+          }
+        ]
+      },
+      {
+        "id": "decline-resilience-and-deep-time",
+        "heading": "Consumer Liberal Democracy Wins The World And Loses The Soul",
+        "time_range": "48:26-59:52",
+        "summary": "The host turns to Western malaise and the Anglosphere. Jiang answers with a civilizational diagnosis: provincial empire, consumer liberal democracy, easy luxury, forgotten ancient greatness, and a coming age that will reward resilience more than comfort.",
+        "refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0058",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0064",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0070",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0072"
+        ],
+        "paragraphs": [
+          {
+            "id": "decline-resilience-and-deep-time-001",
+            "text": "Jiang hears the host's complaint about English dazzle and Western emptiness, but he makes the answer bigger than language. Britain spread an island mentality globally, and the larger modern order spread an even deeper provincialism: consumer liberal democracy, a system rich in convenience and poor in meaning. He calls it the victor ideology of the age, which is exactly why it is so brittle. It conquered the world materially, including places that present themselves as alternatives, but it cannot tell people what struggle is for.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0063"
+            ],
+            "marks": [
+              {
+                "text": "they just spread their island mentality throughout the world",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0060"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+                    "segment_id": "seg-0060",
+                    "start": 3005.48,
+                    "end": 3059.22,
+                    "time_label": "50:05",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "to civilization yeah I think yeah no I think a lot of that stems from the fact that Britain was an island right in an island you're very provincial you're very insular in the way you see you perceive the world and when..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "consumer liberal democracy has conquered the world",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0062"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+                    "segment_id": "seg-0062",
+                    "start": 3099.58,
+                    "end": 3171.51,
+                    "time_label": "51:39",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "civilizational direction and purpose yeah I think this is the end and I'm extremely pessimistic about this I think that we're headed to about 100 years of like permanent decline and this is very similar to the Bronze Ag..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+                "segment_id": "seg-0060",
+                "start": 3005.48,
+                "end": 3059.22,
+                "time_label": "50:05",
+                "speaker": "SPEAKER_00",
+                "excerpt": "to civilization yeah I think yeah no I think a lot of that stems from the fact that Britain was an island right in an island you're very provincial you're very insular in the way you see you perceive the world and when..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+                "segment_id": "seg-0062",
+                "start": 3099.58,
+                "end": 3171.51,
+                "time_label": "51:39",
+                "speaker": "SPEAKER_00",
+                "excerpt": "civilizational direction and purpose yeah I think this is the end and I'm extremely pessimistic about this I think that we're headed to about 100 years of like permanent decline and this is very similar to the Bronze Ag..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+                "segment_id": "seg-0063",
+                "start": 3171.51,
+                "end": 3222.32,
+                "time_label": "52:51",
+                "speaker": "SPEAKER_00",
+                "excerpt": "so what's going to happen is this system is a fracture and so we're living at a time when we've reached the peak of globalization and it's amazing to think about okay but think about how I could be sitting in China and..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "decline-resilience-and-deep-time-002",
+            "text": "From there the interview widens into deep time. Jiang moves from globalization's decadent abundance to hard mountain wisdom, then to magnetic-pole reset talk, lost civilizations, the pyramids, and the possibility that ancient societies may have been greater than ours in ways we barely understand. The empirical status of this cosmology is obviously uncertain, but its function inside the interview is consistent: to smash complacency. Modern people are not history's summit. They are a spiritually weak civilization mistaking comfort for advancement. That is why he says collapse will kill through inner fragility before it kills through famine, war, or disaster, and why he points to Palestinian endurance as a living image of faith-based resilience.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0064",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0065",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0067",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0070",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0072"
+            ],
+            "marks": [
+              {
+                "text": "the only path to wisdom is through the harder path by climbing a mountain",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0064"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0064",
+                    "segment_id": "seg-0064",
+                    "start": 3222.76,
+                    "end": 3271.98,
+                    "time_label": "53:42",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "We're here on this world to expand the consciousness of ourselves as well as the universe. And that means a life of struggle, hardship, and pain. I'm sorry to say this, but that's the life we should live. And instead, w..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "we're not the first great civilization",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0066"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+                    "segment_id": "seg-0066",
+                    "start": 3320.68,
+                    "end": 3368.62,
+                    "time_label": "55:20",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "like uh in like a few decades you go like any society and like they're very quickly able to build cities if they put their minds to it okay so so we so we're not the first great civilization and the idea that you know t..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "what's going to kill us is our incapacity to be resilient",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0070"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0070",
+                    "segment_id": "seg-0070",
+                    "start": 3504.32,
+                    "end": 3523.98,
+                    "time_label": "58:24",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "And the reality is that most of us will not be able to live in the world. We're not going to be able to do this, okay? So what's going to kill us is not these natural disasters or war or famine. What's going to kill us..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+                "segment_id": "seg-0063",
+                "start": 3171.51,
+                "end": 3222.32,
+                "time_label": "52:51",
+                "speaker": "SPEAKER_00",
+                "excerpt": "so what's going to happen is this system is a fracture and so we're living at a time when we've reached the peak of globalization and it's amazing to think about okay but think about how I could be sitting in China and..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0064",
+                "segment_id": "seg-0064",
+                "start": 3222.76,
+                "end": 3271.98,
+                "time_label": "53:42",
+                "speaker": "SPEAKER_00",
+                "excerpt": "We're here on this world to expand the consciousness of ourselves as well as the universe. And that means a life of struggle, hardship, and pain. I'm sorry to say this, but that's the life we should live. And instead, w..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0065",
+                "segment_id": "seg-0065",
+                "start": 3271.98,
+                "end": 3320.68,
+                "time_label": "54:31",
+                "speaker": "SPEAKER_00",
+                "excerpt": "and the magnetic pole excursion um is going to basically reset the game it's going to destroy the world 99 of us will be dead in about 50 years time um and you know like listen like just just go on the net and like look..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+                "segment_id": "seg-0066",
+                "start": 3320.68,
+                "end": 3368.62,
+                "time_label": "55:20",
+                "speaker": "SPEAKER_00",
+                "excerpt": "like uh in like a few decades you go like any society and like they're very quickly able to build cities if they put their minds to it okay so so we so we're not the first great civilization and the idea that you know t..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0067",
+                "segment_id": "seg-0067",
+                "start": 3368.62,
+                "end": 3420.78,
+                "time_label": "56:08",
+                "speaker": "SPEAKER_00",
+                "excerpt": "is the universe we can manifest reality in any way that we imagine and we put our collective minds to it and we have the correct values that we create the greatest civilization on on earth so so we create the civilizati..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0070",
+                "segment_id": "seg-0070",
+                "start": 3504.32,
+                "end": 3523.98,
+                "time_label": "58:24",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And the reality is that most of us will not be able to live in the world. We're not going to be able to do this, okay? So what's going to kill us is not these natural disasters or war or famine. What's going to kill us..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0072",
+                "segment_id": "seg-0072",
+                "start": 3567.94,
+                "end": 3592.12,
+                "time_label": "59:27",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And the classic example is the Palestinians. They've been for everything, okay? And then it's really mindset. These people should be in Egypt right now, right? Why are they still around? So they've been, you know, bombe..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 2906,
+        "refs_detail": [
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0058",
+            "segment_id": "seg-0058",
+            "start": 2906.64,
+            "end": 2975.2,
+            "time_label": "48:26",
+            "speaker": "SPEAKER_01",
+            "excerpt": "Yeah. Yeah. I can't help but feel like, I mean, I know this is repeated through all cultures and ages, but it does. It does seem to have some links to the broader cultural malaise and lack of meaning that we see in the..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+            "segment_id": "seg-0060",
+            "start": 3005.48,
+            "end": 3059.22,
+            "time_label": "50:05",
+            "speaker": "SPEAKER_00",
+            "excerpt": "to civilization yeah I think yeah no I think a lot of that stems from the fact that Britain was an island right in an island you're very provincial you're very insular in the way you see you perceive the world and when..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+            "segment_id": "seg-0062",
+            "start": 3099.58,
+            "end": 3171.51,
+            "time_label": "51:39",
+            "speaker": "SPEAKER_00",
+            "excerpt": "civilizational direction and purpose yeah I think this is the end and I'm extremely pessimistic about this I think that we're headed to about 100 years of like permanent decline and this is very similar to the Bronze Ag..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0064",
+            "segment_id": "seg-0064",
+            "start": 3222.76,
+            "end": 3271.98,
+            "time_label": "53:42",
+            "speaker": "SPEAKER_00",
+            "excerpt": "We're here on this world to expand the consciousness of ourselves as well as the universe. And that means a life of struggle, hardship, and pain. I'm sorry to say this, but that's the life we should live. And instead, w..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+            "segment_id": "seg-0066",
+            "start": 3320.68,
+            "end": 3368.62,
+            "time_label": "55:20",
+            "speaker": "SPEAKER_00",
+            "excerpt": "like uh in like a few decades you go like any society and like they're very quickly able to build cities if they put their minds to it okay so so we so we're not the first great civilization and the idea that you know t..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0070",
+            "segment_id": "seg-0070",
+            "start": 3504.32,
+            "end": 3523.98,
+            "time_label": "58:24",
+            "speaker": "SPEAKER_00",
+            "excerpt": "And the reality is that most of us will not be able to live in the world. We're not going to be able to do this, okay? So what's going to kill us is not these natural disasters or war or famine. What's going to kill us..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0072",
+            "segment_id": "seg-0072",
+            "start": 3567.94,
+            "end": 3592.12,
+            "time_label": "59:27",
+            "speaker": "SPEAKER_00",
+            "excerpt": "And the classic example is the Palestinians. They've been for everything, okay? And then it's really mindset. These people should be in Egypt right now, right? Why are they still around? So they've been, you know, bombe..."
+          }
+        ]
+      },
+      {
+        "id": "ai-and-the-age-of-darkness",
+        "heading": "AI Will Not Free The Soul; It Will Test It",
+        "time_range": "59:53-01:06:13",
+        "summary": "The final exchange rejects the fantasy that automation will create a spiritual renaissance by removing work. Jiang sees AI as surveillance and dependency, but he ends by defining teaching itself as a way of training thought and resilience for the dark age ahead.",
+        "refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0073",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0075",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0077",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0078",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0080",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+        ],
+        "paragraphs": [
+          {
+            "id": "ai-and-the-age-of-darkness-001",
+            "text": "The host's last substantive hope is that AI might automate enough labor to return human beings to soul work, land, and real life. Jiang rejects the premise outright. AI, as he imagines it, is not liberation from drudgery but the completion of the cave: digital ID, digital currency, total movement tracking, frozen bank accounts, and life reduced to managed screens. His four-word summary is brutal because he claims to have seen the model already in operation.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0073",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0075"
+            ],
+            "marks": [
+              {
+                "text": "it's complete 100 percent surveillance",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0074"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+                    "segment_id": "seg-0074",
+                    "start": 3657.71,
+                    "end": 3716.11,
+                    "time_label": "1:00:57",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "conscious energy right so the idea of AI is to create a surveillance state where you're microchipped where everything is digital digital ID digital currency wherever you go your movement is monitor and if you're doing t..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "I've seen the future and it's China",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0075"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0075",
+                    "segment_id": "seg-0075",
+                    "start": 3716.11,
+                    "end": 3720.82,
+                    "time_label": "1:01:56",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "I've seen the future and it's China mm -hmm well yeah I was I"
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0073",
+                "segment_id": "seg-0073",
+                "start": 3593.18,
+                "end": 3641.68,
+                "time_label": "59:53",
+                "speaker": "SPEAKER_01",
+                "excerpt": "That's right. So just as a final question, I would like to, you know, we've spoken so much about like pulling away of these delusions and stories that people live within. Do you see any, like, I know you've already said..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+                "segment_id": "seg-0074",
+                "start": 3657.71,
+                "end": 3716.11,
+                "time_label": "1:00:57",
+                "speaker": "SPEAKER_00",
+                "excerpt": "conscious energy right so the idea of AI is to create a surveillance state where you're microchipped where everything is digital digital ID digital currency wherever you go your movement is monitor and if you're doing t..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0075",
+                "segment_id": "seg-0075",
+                "start": 3716.11,
+                "end": 3720.82,
+                "time_label": "1:01:56",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I've seen the future and it's China mm -hmm well yeah I was I"
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "ai-and-the-age-of-darkness-002",
+            "text": "Yet the interview does not end in paralysis. Asked how his students respond, Jiang says only a few really show up, but those few can have their lives changed because he is not trying to hand them a final doctrine. He is trying to train a thought process. That closing matters because it clarifies the practical use of everything earlier: not certainty, but orientation. If the age ahead is darker, then the people who survive it are not necessarily the most credentialed or best entertained. They are the people who still believe reality can be chosen, resilience can be willed, and wisdom can be sought for the sake of helping others endure too.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0078",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0080",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+            ],
+            "marks": [
+              {
+                "text": "I'm really much more interested in teaching thought processes",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0080",
+                    "segment_id": "seg-0080",
+                    "start": 3865.8,
+                    "end": 3892.68,
+                    "time_label": "1:04:25",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "I'm much more intuitive I'm just trying to speculate about how the world would work um you know it's it and you know I'm driven a lot and you can probably tell this my lecture I'm driven by my own curiosity right he's l..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "if you want to make it through you will",
+                "refs": [
+                  "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0082",
+                    "segment_id": "seg-0082",
+                    "start": 3916.27,
+                    "end": 3969.73,
+                    "time_label": "1:05:16",
+                    "speaker": "SPEAKER_00",
+                    "excerpt": "if you want to make it through you will okay a lot of it is pure will um and unfortunately um what we've been trained to believe is that we're powerless we're not we we are capable of our we are capable of creating our..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0078",
+                "segment_id": "seg-0078",
+                "start": 3784.74,
+                "end": 3821.78,
+                "time_label": "1:03:04",
+                "speaker": "SPEAKER_01",
+                "excerpt": "have a question um maybe some of your audience would like to to hear as well as like um how do your students respond to uh your teaching you know this is not a uh Orthodox history class that they're getting into at such..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+                "segment_id": "seg-0079",
+                "start": 3821.78,
+                "end": 3865.8,
+                "time_label": "1:03:41",
+                "speaker": "SPEAKER_00",
+                "excerpt": "students zone out they don't come to class all right so I'm at like 16 students a class but like maybe one or two will show up okay those one or two show up their lives are changed forever because you know they'll go ho..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0080",
+                "segment_id": "seg-0080",
+                "start": 3865.8,
+                "end": 3892.68,
+                "time_label": "1:04:25",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I'm much more intuitive I'm just trying to speculate about how the world would work um you know it's it and you know I'm driven a lot and you can probably tell this my lecture I'm driven by my own curiosity right he's l..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0082",
+                "segment_id": "seg-0082",
+                "start": 3916.27,
+                "end": 3969.73,
+                "time_label": "1:05:16",
+                "speaker": "SPEAKER_00",
+                "excerpt": "if you want to make it through you will okay a lot of it is pure will um and unfortunately um what we've been trained to believe is that we're powerless we're not we we are capable of our we are capable of creating our..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 3593,
+        "refs_detail": [
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0073",
+            "segment_id": "seg-0073",
+            "start": 3593.18,
+            "end": 3641.68,
+            "time_label": "59:53",
+            "speaker": "SPEAKER_01",
+            "excerpt": "That's right. So just as a final question, I would like to, you know, we've spoken so much about like pulling away of these delusions and stories that people live within. Do you see any, like, I know you've already said..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+            "segment_id": "seg-0074",
+            "start": 3657.71,
+            "end": 3716.11,
+            "time_label": "1:00:57",
+            "speaker": "SPEAKER_00",
+            "excerpt": "conscious energy right so the idea of AI is to create a surveillance state where you're microchipped where everything is digital digital ID digital currency wherever you go your movement is monitor and if you're doing t..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0075",
+            "segment_id": "seg-0075",
+            "start": 3716.11,
+            "end": 3720.82,
+            "time_label": "1:01:56",
+            "speaker": "SPEAKER_00",
+            "excerpt": "I've seen the future and it's China mm -hmm well yeah I was I"
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0077",
+            "segment_id": "seg-0077",
+            "start": 3756.76,
+            "end": 3784.74,
+            "time_label": "1:02:36",
+            "speaker": "SPEAKER_00",
+            "excerpt": "book everyone should read is brave new world okay because that is the future right um so the drugs drugs are a very important part of this um new world as well new world order as well where it's not just AI surveillance..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0078",
+            "segment_id": "seg-0078",
+            "start": 3784.74,
+            "end": 3821.78,
+            "time_label": "1:03:04",
+            "speaker": "SPEAKER_01",
+            "excerpt": "have a question um maybe some of your audience would like to to hear as well as like um how do your students respond to uh your teaching you know this is not a uh Orthodox history class that they're getting into at such..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+            "segment_id": "seg-0079",
+            "start": 3821.78,
+            "end": 3865.8,
+            "time_label": "1:03:41",
+            "speaker": "SPEAKER_00",
+            "excerpt": "students zone out they don't come to class all right so I'm at like 16 students a class but like maybe one or two will show up okay those one or two show up their lives are changed forever because you know they'll go ho..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0080",
+            "segment_id": "seg-0080",
+            "start": 3865.8,
+            "end": 3892.68,
+            "time_label": "1:04:25",
+            "speaker": "SPEAKER_00",
+            "excerpt": "I'm much more intuitive I'm just trying to speculate about how the world would work um you know it's it and you know I'm driven a lot and you can probably tell this my lecture I'm driven by my own curiosity right he's l..."
+          },
+          {
+            "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0082",
+            "segment_id": "seg-0082",
+            "start": 3916.27,
+            "end": 3969.73,
+            "time_label": "1:05:16",
+            "speaker": "SPEAKER_00",
+            "excerpt": "if you want to make it through you will okay a lot of it is pure will um and unfortunately um what we've been trained to believe is that we're powerless we're not we we are capable of our we are capable of creating our..."
+          }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "interview-crw5ccq8uf4-q1",
+        "question": "How did psychology and spirituality become necessary parts of your approach to history?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0001",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0002"
+        ],
+        "answer": "Jiang says the shift came through biography and failure: science-fiction pattern thinking, Yale disillusionment, depression, and then poker and game study, which taught him that people play different winning strategies. That pushed him toward a psychohistory grounded in incentives, psychology, and macro pattern recognition rather than civic mythology.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says the shift came through biography and failure: science-fiction pattern thinking, Yale disillusionment, depression, and then poker and game study, which taught him that people play different winning strategies. That pushed him toward a psychohistory grounded in incentives, psychology, and macro pattern recognition rather than civic mythology.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+                "segment_id": "seg-0003",
+                "start": 98.63,
+                "end": 161.39,
+                "time_label": "1:38",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, so it's a long story, but, you know, when I was growing up in Toronto, I was an immigrant child in Toronto. I didn't have that many friends, and I was bullied a lot. So I retreated into the library. I read a lot o..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+                "segment_id": "seg-0004",
+                "start": 161.89,
+                "end": 217.23,
+                "time_label": "2:41",
+                "speaker": "SPEAKER_00",
+                "excerpt": "You know, the Foundation series was this vast, expanding universe. And the main argument is that if you study, if you take, like, micro samples, like micro data, and you look at tens of thousands of years of human histo..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+                "segment_id": "seg-0005",
+                "start": 218.68,
+                "end": 269.94,
+                "time_label": "3:38",
+                "speaker": "SPEAKER_00",
+                "excerpt": "My life took a sharp divergence when I went to Yale, okay? Because, you know, I was a poor immigrant in Toronto, and I was a marginalized individual. And then I go to Yale, which is really the center of the universe, ri..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+                "segment_id": "seg-0008",
+                "start": 383.88,
+                "end": 449.22,
+                "time_label": "6:23",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I was like literally living in my parents' basement playing Starcraft from like I think 6 p.m. until 5 a.m. I was like a vampire. And I lived my life like online. And, but it felt safe because once I stepped outdoors, o..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+                "segment_id": "seg-0012",
+                "start": 635.43,
+                "end": 694.83,
+                "time_label": "10:35",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I predicted that Putin would win the war in Ukraine and he would move and capture Odessa. So these are all predictions that are turning out to be accurate. And that's what allowed me to blow up on the Internet. So, yeah..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "id": "interview-crw5ccq8uf4-q2",
+        "question": "What does the hidden reality behind the public facade actually look like?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0028",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0029"
+        ],
+        "answer": "Jiang answers with Plato's cave. He says rulers project the world people inhabit by directing consciousness through priests, schools, media, and money. Beneath money itself, he places attention, and from there he argues that AI is being built as the next regime for shaping obedience and perceived reality.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang answers with Plato's cave. He says rulers project the world people inhabit by directing consciousness through priests, schools, media, and money. Beneath money itself, he places attention, and from there he argues that AI is being built as the next regime for shaping obedience and perceived reality.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+                "segment_id": "seg-0030",
+                "start": 1580,
+                "end": 1633,
+                "time_label": "26:20",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, great. Okay. Yeah. So, the best metaphor to use in this instance, instance is thinking about Plato's out of the cave, right? Yeah. So, in Plato's out of the cave, everyone's, well, like most people are prisoners,..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+                "segment_id": "seg-0031",
+                "start": 1633.12,
+                "end": 1680.96,
+                "time_label": "27:13",
+                "speaker": "SPEAKER_00",
+                "excerpt": "So, before, these people were called priests, right? What's the job of a priest? Priests were to create a narrative about the world that controlled and directed people's consciences so that this reality could be manifes..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0032",
+                "segment_id": "seg-0032",
+                "start": 1681.12,
+                "end": 1732.32,
+                "time_label": "28:01",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And so, another way of saying this is attention. Like, if you can direct people's attention, then you have all the power in the world, okay? And there are different mechanisms that you can use to direct attention. So, t..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+                "segment_id": "seg-0034",
+                "start": 1784.97,
+                "end": 1834.44,
+                "time_label": "29:44",
+                "speaker": "SPEAKER_00",
+                "excerpt": "The point is that once money is gone, you need a new God to replace money. And that has to be artificial intelligence, a mechanism or a device that can control your entire perception, okay? So, imagine, you know, like y..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0035",
+                "segment_id": "seg-0035",
+                "start": 1834.44,
+                "end": 1887.98,
+                "time_label": "30:34",
+                "speaker": "SPEAKER_00",
+                "excerpt": "online talking to your AI girlfriend and talking to God who will tell you how to live a better life. And what they don't understand is that behind this AI, it's like the Wizard of Oz. It's just like this old guy, like,..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "id": "interview-crw5ccq8uf4-q3",
+        "question": "If ordinary reality is false, does that insight give immoral people a license to do anything they want?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0041"
+        ],
+        "answer": "Jiang says yes, that is one of the dangers. The person who sees more can either liberate others or dominate them. His answer is that the real way out is not elite manipulation but a turn toward inner responsibility, generosity, and a refusal to worship the material script.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0043",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0047"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says yes, that is one of the dangers. The person who sees more can either liberate others or dominate them. His answer is that the real way out is not elite manipulation but a turn toward inner responsibility, generosity, and a refusal to worship the material script.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0043",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0047"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+                "segment_id": "seg-0042",
+                "start": 2113.64,
+                "end": 2161.76,
+                "time_label": "35:13",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, you're exactly right. And this goes back to the alleyway of the cave, right? Where one person escapes, and he goes into the monad, the nomina. And he sees reality for what it is, just pure consciousness, pure ligh..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0043",
+                "segment_id": "seg-0043",
+                "start": 2162.96,
+                "end": 2176.76,
+                "time_label": "36:02",
+                "speaker": "SPEAKER_00",
+                "excerpt": "People understand... People think that money is everything. But, like, what matters is who prints the money, who creates the money, who controls the money, right? That's what matters. It doesn't matter how much money yo..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+                "segment_id": "seg-0047",
+                "start": 2348.21,
+                "end": 2410.59,
+                "time_label": "39:08",
+                "speaker": "SPEAKER_00",
+                "excerpt": "of how to construct a reality in which you are able to enslave the majority of people, that stayed with us. And according to game theory, even if this knowledge were not to be passed on, whoever's in charge would just b..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "id": "interview-crw5ccq8uf4-q4",
+        "question": "Why did Protestant inner assurance and self-scrutiny not become the dominant answer in the modern West?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0044",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0045"
+        ],
+        "answer": "Jiang says the answer that empowers individuality and creative reality-making is the one most threatening to the system. That is why societies keep rewarding money, status, and control instead. In his telling, true self-scrutiny remains dangerous because it can produce people willing to reject the official world altogether.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says the answer that empowers individuality and creative reality-making is the one most threatening to the system. That is why societies keep rewarding money, status, and control instead. In his telling, true self-scrutiny remains dangerous because it can produce people willing to reject the official world altogether.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+                "segment_id": "seg-0046",
+                "start": 2289.31,
+                "end": 2348.21,
+                "time_label": "38:09",
+                "speaker": "SPEAKER_00",
+                "excerpt": "Yeah, right. Well, it's because the idea of individuality, right? The idea of individual creativity is the greatest threat to the system because your greatest act of rebellion is to deny the reality before you and estab..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+                "segment_id": "seg-0047",
+                "start": 2348.21,
+                "end": 2410.59,
+                "time_label": "39:08",
+                "speaker": "SPEAKER_00",
+                "excerpt": "of how to construct a reality in which you are able to enslave the majority of people, that stayed with us. And according to game theory, even if this knowledge were not to be passed on, whoever's in charge would just b..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0048",
+                "segment_id": "seg-0048",
+                "start": 2410.59,
+                "end": 2478.97,
+                "time_label": "40:10",
+                "speaker": "SPEAKER_00",
+                "excerpt": "And that's a secret because, you know, people talk about a holographic universe, right? What is a holographic universe? All the universe is reflected in us. And so we have the capacity to change the universe for the bet..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "id": "interview-crw5ccq8uf4-q5",
+        "question": "What is it about the Anglosphere and the modern West that produces so much dazzle and so little meaning?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0058",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0059"
+        ],
+        "answer": "Jiang says Britain exported an insular island mentality through empire, and the wider modern order universalized an even deeper problem: consumer liberal democracy. The result is a materially abundant civilization that has conquered the world without giving people a reason to endure hardship, seek wisdom, or live for anything beyond comfort.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0064"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says Britain exported an insular island mentality through empire, and the wider modern order universalized an even deeper problem: consumer liberal democracy. The result is a materially abundant civilization that has conquered the world without giving people a reason to endure hardship, seek wisdom, or live for anything beyond comfort.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0064"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+                "segment_id": "seg-0060",
+                "start": 3005.48,
+                "end": 3059.22,
+                "time_label": "50:05",
+                "speaker": "SPEAKER_00",
+                "excerpt": "to civilization yeah I think yeah no I think a lot of that stems from the fact that Britain was an island right in an island you're very provincial you're very insular in the way you see you perceive the world and when..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+                "segment_id": "seg-0062",
+                "start": 3099.58,
+                "end": 3171.51,
+                "time_label": "51:39",
+                "speaker": "SPEAKER_00",
+                "excerpt": "civilizational direction and purpose yeah I think this is the end and I'm extremely pessimistic about this I think that we're headed to about 100 years of like permanent decline and this is very similar to the Bronze Ag..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+                "segment_id": "seg-0063",
+                "start": 3171.51,
+                "end": 3222.32,
+                "time_label": "52:51",
+                "speaker": "SPEAKER_00",
+                "excerpt": "so what's going to happen is this system is a fracture and so we're living at a time when we've reached the peak of globalization and it's amazing to think about okay but think about how I could be sitting in China and..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0064",
+                "segment_id": "seg-0064",
+                "start": 3222.76,
+                "end": 3271.98,
+                "time_label": "53:42",
+                "speaker": "SPEAKER_00",
+                "excerpt": "We're here on this world to expand the consciousness of ourselves as well as the universe. And that means a life of struggle, hardship, and pain. I'm sorry to say this, but that's the life we should live. And instead, w..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "id": "interview-crw5ccq8uf4-q6",
+        "question": "Could AI free people from knowledge work and return them to the soul, the earth, and more grounded forms of life?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0073"
+        ],
+        "answer": "Jiang says no. He argues that AI is being built for surveillance, behavioral control, and total digital dependency, not for human spiritual renewal. His shorthand is that the future already exists in China, where the tools of monitoring and obedience are visible in mature form.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0075"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says no. He argues that AI is being built for surveillance, behavioral control, and total digital dependency, not for human spiritual renewal. His shorthand is that the future already exists in China, where the tools of monitoring and obedience are visible in mature form.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0075"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+                "segment_id": "seg-0074",
+                "start": 3657.71,
+                "end": 3716.11,
+                "time_label": "1:00:57",
+                "speaker": "SPEAKER_00",
+                "excerpt": "conscious energy right so the idea of AI is to create a surveillance state where you're microchipped where everything is digital digital ID digital currency wherever you go your movement is monitor and if you're doing t..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0075",
+                "segment_id": "seg-0075",
+                "start": 3716.11,
+                "end": 3720.82,
+                "time_label": "1:01:56",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I've seen the future and it's China mm -hmm well yeah I was I"
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "id": "interview-crw5ccq8uf4-q7",
+        "question": "How do your students respond to being taught this way at such a young age?",
+        "asked_by": "Host",
+        "question_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0078"
+        ],
+        "answer": "Jiang says most students zone out, but the few who stay engaged can have their lives changed because his goal is not to deliver polished certainty. He says he teaches intuitively and wants above all to train thought processes that help people observe the world more deeply.",
+        "answer_refs": [
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+          "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+        ],
+        "refs_detail": [],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says most students zone out, but the few who stay engaged can have their lives changed because his goal is not to deliver polished certainty. He says he teaches intuitively and wants above all to train thought processes that help people observe the world more deeply.",
+            "refs": [
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+              "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+                "segment_id": "seg-0079",
+                "start": 3821.78,
+                "end": 3865.8,
+                "time_label": "1:03:41",
+                "speaker": "SPEAKER_00",
+                "excerpt": "students zone out they don't come to class all right so I'm at like 16 students a class but like maybe one or two will show up okay those one or two show up their lives are changed forever because you know they'll go ho..."
+              },
+              {
+                "ref": "video:interview-crw5ccq8uf4@transcript:v1#seg-0080",
+                "segment_id": "seg-0080",
+                "start": 3865.8,
+                "end": 3892.68,
+                "time_label": "1:04:25",
+                "speaker": "SPEAKER_00",
+                "excerpt": "I'm much more intuitive I'm just trying to speculate about how the world would work um you know it's it and you know I'm driven a lot and you can probably tell this my lecture I'm driven by my own curiosity right he's l..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "source_note": "The interview is dated 2026-03-11. Several sections, especially the Venezuela/Trump continuity story, the elite-abuse discussion, and the magnetic-pole/lost-civilization sequence, are presented here as Jiang's own dated models and interpretations rather than as independently verified reportage. The transcript is usable overall, but a few proper nouns and technical terms are visibly ASR-damaged, so the read keeps those passages broad where necessary.",
+    "source_notes": []
+  },
   "transcript": [
     {
       "id": "seg-0001",
