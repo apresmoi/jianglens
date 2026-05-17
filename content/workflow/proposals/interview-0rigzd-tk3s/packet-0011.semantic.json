@@ -1,0 +1,181 @@
+{
+  "packet_id": "interview-0rigzd-tk3s-semantics-pkt-0011",
+  "source_id": "video:interview-0rigzd-tk3s",
+  "source_date": "2026-03-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0077"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to predict the outcome and meaning of the Iran war.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives a scripted-apocalypse answer: the war is preordained to kill many people, break economies, destroy Iran, remove America from the Middle East, and establish Israel as the standing regional power.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "The host asks how such a small Israel could physically dominate such a vast region.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that AI surveillance, imported labor, drugs, and microchipped control could let a depopulated region be governed as a Pax Judaica empire with current technology.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the war's outcome is preordained: mass death, economic destruction, Iranian devastation, American expulsion from the Middle East, and eventual Greater Israel or Pax Judaica.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Interview prediction on 2026-03-07.",
+      "topic_tags": [
+        "preordained outcome",
+        "Pax Judaica",
+        "Middle East"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He links this outcome to a larger script culminating in a Gog-and-Magog style world war involving Russia, Iran, and Israel.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Interview eschatological scenario on 2026-03-07.",
+      "topic_tags": [
+        "Gog and Magog",
+        "world war",
+        "eschatology"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ground troops will enter Iran, it will be a disaster, and the aftermath will still leave Israel as the only standing Middle Eastern power after America is forced out.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Interview forecast on 2026-03-07.",
+      "topic_tags": [
+        "ground invasion",
+        "American withdrawal",
+        "Israeli dominance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says regional domination would not require a large native Israeli population because AI-enabled surveillance could govern imported labor at scale.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "AI surveillance",
+        "imported labor",
+        "empire"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Palantir is presented as a key company because Jiang sees it as an instrument for the surveillance architecture of a future Pax Judaica.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Palantir",
+        "surveillance state",
+        "Pax Judaica"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078"
+      ],
+      "moment": "The war is not drifting; it is scripted to kill, collapse, and reconfigure the world.",
+      "source_phrase": "The outcome has been preordained.",
+      "why_it_matters": "It is Jiang's cleanest statement that the war is a designed ritual rather than an open geopolitical contest.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081"
+      ],
+      "moment": "Empire is reimagined as a depopulated region run by microchipped migrant labor and drugs rather than by settlers alone.",
+      "source_phrase": "You microchip them.",
+      "why_it_matters": "This is one of the interview's sharpest dystopian images and should survive later compression.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "Jiang's term for an Israeli-centered imperial order produced by war, depopulation, and technological domination.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "The technological governance apparatus Jiang says would allow a small ruling population to manage vast imported labor forces.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "note": "This packet shifts from immediate war prediction to Jiang's postwar empire model, so later read-writing should preserve both the sequence and the scale jump.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "note": "The microchipping, drugging, and Palantir claims are part of Jiang's dystopian future model and should remain clearly attributed rather than normalized."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "packet_id": "interview-0rigzd-tk3s-semantics-pkt-0001",
+  "source_id": "video:interview-0rigzd-tk3s",
+  "source_date": "2026-03-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0001",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang, frames the Iran war as a major escalation after Ukraine, and asks for Jiang's understanding of what is happening in the Middle East.",
+      "speaker_attribution": "Host question and setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the war is already World War III in embryo: ground troops would make retreat impossible, widen the coalition of actors, and turn the Iran war into a life-and-death struggle for the American empire.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host pivots from the broad war picture to Israel, oil control, and the larger regional project behind the conflict.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the United States-Iran war is already the opening stage of World War III and will keep escalating over time.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07, one week into the war.",
+      "topic_tags": [
+        "Iran war",
+        "World War III",
+        "escalation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The use of American ground troops against Iran would be the decisive escalation because it would make withdrawal impossible and compel wider participation from other powers.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interview prediction on 2026-03-07.",
+      "topic_tags": [
+        "ground invasion",
+        "escalation",
+        "coalition war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that closure of the Strait of Hormuz would draw Japan, South Korea, and other Asian economies into the conflict because of oil dependence.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "oil",
+        "Japan",
+        "South Korea"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents the Iran war as the geopolitical sequel to the Ukraine war because control of Middle Eastern energy becomes America's answer to Russia's battlefield dominance and food leverage.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Ukraine war",
+        "Middle East energy",
+        "American empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran is the pivot point of a Eurasian alliance with Russia and China, so an Iranian collapse would preserve petrodollar dominance and American control of global trade.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "Eurasian heartland",
+        "petrodollar",
+        "Iran"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004"
+      ],
+      "moment": "Ground troops are the irreversible threshold after which the war becomes the end of the world as we know it.",
+      "source_phrase": "If ground troops are used, then we are in World War III, and this will mark the end of the world as we know it.",
+      "why_it_matters": "This is Jiang's opening escalation thesis and the frame that drives the entire interview.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang calls the Strait of Hormuz the nexus of the world and the center of global trade.",
+      "source_phrase": "The Shifu Moos really is a nexus of the world. It is the center of all global trade.",
+      "why_it_matters": "It compresses his energy-and-empire view of why Iran matters globally.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "moment": "America has no choice but to go all in because Iran is framed as a life-or-death battle for empire.",
+      "source_phrase": "This is really a struggle of life and death for the American empire.",
+      "why_it_matters": "It supplies the interview's core causal pressure for why escalation keeps intensifying.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Eurasian heartland",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's phrase for a grand alliance centered on Russia, Iran, and China that would challenge American control of trade and currency.",
+      "confidence": "high"
+    },
+    {
+      "term": "petrodollars",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The dollar-denominated oil order Jiang says America is trying to preserve by preventing Iranian collapse into a Eurasian bloc.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0001",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003"
+      ],
+      "note": "The host dates the interview to Saturday, March 7, 2026, and Jiang describes the war as only one week old; those time markers matter for later prediction checks.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005"
+      ],
+      "note": "Several proper nouns are ASR-damaged, especially Jiang's repeated reference to the Strait of Hormuz and the named Japanese prime minister; semantic extraction preserves his geopolitical point without normalizing those names."
+    }
+  ]
+}

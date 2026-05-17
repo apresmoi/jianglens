@@ -1,0 +1,2410 @@
+{
+  "id": "evidence:semanticvideo-interview-0rigzd-tk3s:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-0rigzd-tk3s",
+  "source_id": "video:interview-0rigzd-tk3s",
+  "source_title": "Jiang Xueqin: The Iran War: The Watershed Moment That Changed the Middle East Forever",
+  "source_url": "https://www.youtube.com/watch?v=0rIgZD-tk3s",
+  "source_date": "2026-03-07",
+  "date_precision": "day",
+  "transcript_id": "video:interview-0rigzd-tk3s@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-0rigzd-tk3s/packet-0014.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-0rigzd-tk3s/source.yaml",
+    "transcript_path": "content/sources/videos/interview-0rigzd-tk3s/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 14,
+    "interactions": 45,
+    "speaker_notes": 0,
+    "claims": 76,
+    "signature_moments": 29,
+    "predictions": 17,
+    "models": 22,
+    "glossary_terms": 25,
+    "chronology_notes": 14,
+    "uncertainty_notes": 13
+  },
+  "first_refs": [
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0005",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0007",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0009",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0010",
+    "video:interview-0rigzd-tk3s@transcript:v1#seg-0011"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0001",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang, frames the Iran war as a major escalation after Ukraine, and asks for Jiang's understanding of what is happening in the Middle East.",
+      "speaker_attribution": "Host question and setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the war is already World War III in embryo: ground troops would make retreat impossible, widen the coalition of actors, and turn the Iran war into a life-and-death struggle for the American empire.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host pivots from the broad war picture to Israel, oil control, and the larger regional project behind the conflict.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to connect oil control, Israel, and the idea of Greater Israel.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0009",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0010",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0012",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0013"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Israel's war is driven by a Greater Israel project stretching across the Middle East, with Iran, Saudi Arabia, Turkey, and GCC destabilization all folded into the same expansionist logic.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0014"
+      ],
+      "kind": "question",
+      "summary": "The host reframes the conflict as a desperate West confronting a more restraint-oriented Russia-Iran-China bloc and asks how this great-power game will unfold.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0014"
+      ],
+      "kind": "question",
+      "summary": "The host asks how the larger East-West power struggle is working and why the United States appears bent on domination while its opponents still seek negotiation.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0015",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0016",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0017",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0018",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0019",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0020",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a long genealogy of American decline: post-Cold War peace turned into imperial corruption, financialization, elite capture, and self-destructive coercion after the Ukraine war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0022",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0023"
+      ],
+      "kind": "question",
+      "summary": "The host turns from imperial decline to the Arab states themselves and asks who these states really are if vast defense budgets still leave them dependent on American bases.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0022",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0023"
+      ],
+      "kind": "question",
+      "summary": "The host asks what the Gulf Arab states really are if they remain militarily dependent on America and vulnerable in the war with Iran.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0024",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0025",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0026",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0027",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0028",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0029",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0030",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that GCC states are artificial imperial constructs whose wealth disguised deep structural fragility: dependency on desalination, imported food, imported expertise, sectarian exposure, and reputation bubbles now punctured by war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0031",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0032",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0033",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues his argument that America has not fought a real war in decades and that the current conflict is exposing the hollowness of expensive air-defense systems and military spectacle.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0035"
+      ],
+      "kind": "question",
+      "summary": "The host asks why so little footage is emerging from Israel and whether the hidden damage there is larger than publicly admitted.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0036",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0037",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0038",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0039",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Israel was humiliated in the earlier 12-day war, concealed the scale of Iranian retaliation, and now needs America to send ground troops because it cannot sustain the war alone.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0041",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "The host asks how viable a ground invasion really is, especially with reported proxy options such as Kurds and Azerbaijanis in play.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0043",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0044",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0045",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0046",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the proxy-ground-invasion strategy is far weaker in Iran than in Syria or Libya because Kurds, Azerbaijan, and other candidates are rational opportunists, not willing sacrificial forces.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host then asks what American bases have really done for Arab states if those bases mainly attract retaliation.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host asks what the presence of American bases has really meant for Gulf societies now that those bases appear to increase vulnerability rather than protection.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0049",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0050"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the bases enforced a devil's bargain in which corrupt rulers recycled petrodollars into America, subsidized compliant citizens, and imported the labor that kept the system running.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0051",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0052",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether this war could become long and points to Iranian historical memory of coups and regime-change schemes.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0054",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0055",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects ordinary geopolitical reasoning and says this war cannot be understood through historical analogies, resource logic, or conventional military thinking; only an eschatological-religious frame fits.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0057",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0058",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0059",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0060",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0061",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0062",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0063"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang develops the eschatological frame: Trump is cast as divinely ordained, the destruction of Al-Aqsa is floated as a possible trigger, and ordinary policy explanations for the war are dismissed as lies.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0064"
+      ],
+      "kind": "question",
+      "summary": "The host asks directly whether the war could go nuclear.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0064"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the war will become nuclear.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0065",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0066",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0067",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0068"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that nuclear escalation is plausible both for military reasons and because, in his eschatological reading, America may actually be entering the war in order to lose and thereby exit the Middle East.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0069"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to BRICS and asks how that bloc fits into the larger strategic picture.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0069"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether BRICS, Eurasian integration, and the South Caucasus matter to the war's outcome.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0070",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0071"
+      ],
+      "kind": "answer",
+      "summary": "Jiang dismisses BRICS and trade abstractions entirely, arguing that the world has reverted to jungle law in which only willingness to fight and die matters.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0072",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0073"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Iranian and Russian decision-makers will think about their future now that trust in negotiation with the West has been damaged.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0074",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0075",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0076"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by stepping above nation-states altogether, suggesting that hidden transnational organizations may control multiple great powers and pointing to the Epstein files as a clue that ordinary models of power are wrong.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0077"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to predict the outcome and meaning of the Iran war.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives a scripted-apocalypse answer: the war is preordained to kill many people, break economies, destroy Iran, remove America from the Middle East, and establish Israel as the standing regional power.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "The host asks how such a small Israel could physically dominate such a vast region.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that AI surveillance, imported labor, drugs, and microchipped control could let a depopulated region be governed as a Pax Judaica empire with current technology.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0083"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the war will spread into East Asia and how Jiang sees the larger picture beyond the Middle East.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0084",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0086",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0088",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0089",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0090"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that East Asian outcomes, like all others, will be decided by sacrificial willingness rather than economics, and he sketches a future map led by Japan, a German-Russian alliance, Israel, and an internally fractured America.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0085"
+      ],
+      "kind": "exchange",
+      "summary": "A brief connection glitch interrupts the conversation before Jiang resumes.",
+      "speaker_attribution": "Host and Jiang technical interruption",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0087"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Russia and Iran survive the current conflict.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0091"
+      ],
+      "kind": "question",
+      "summary": "The host pushes back that American defeats in Afghanistan and Iraq show diminished capacity, not unstoppable hidden power.",
+      "speaker_attribution": "Host challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0092",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0093"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that those wars were never meant to be won; they were revenue engines for a parasitic transnational security complex that now wants America to lose in Iran too.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0094"
+      ],
+      "kind": "question",
+      "summary": "The host asks for clarification on whether the intended agenda is American defeat or victory in Iran.",
+      "speaker_attribution": "Host clarification question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0095",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0096",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0097",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0098"
+      ],
+      "kind": "answer",
+      "summary": "Jiang clarifies that the United States is not in control of itself: public opposition is irrelevant, Congress is complicit, and the war proceeds according to a script beyond democratic control.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0099"
+      ],
+      "kind": "question",
+      "summary": "The host insists that Iranian willingness to resist on the ground matters and asks Jiang to account for the war as a two-sided struggle rather than only an American script.",
+      "speaker_attribution": "Host challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0100",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0101",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0102",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0103"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Iran will destroy an American invasion force but that this visible clash is still a distraction from the deeper war of self-knowledge: turning around in Plato's cave to seek truth behind the shadows.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0104",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0105",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0106",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0107",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0108"
+      ],
+      "kind": "exchange",
+      "summary": "The interview closes with mutual thanks and brief goodbyes.",
+      "speaker_attribution": "Host and Jiang closing",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the United States-Iran war is already the opening stage of World War III and will keep escalating over time.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07, one week into the war.",
+      "topic_tags": [
+        "Iran war",
+        "World War III",
+        "escalation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The use of American ground troops against Iran would be the decisive escalation because it would make withdrawal impossible and compel wider participation from other powers.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interview prediction on 2026-03-07.",
+      "topic_tags": [
+        "ground invasion",
+        "escalation",
+        "coalition war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that closure of the Strait of Hormuz would draw Japan, South Korea, and other Asian economies into the conflict because of oil dependence.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "oil",
+        "Japan",
+        "South Korea"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents the Iran war as the geopolitical sequel to the Ukraine war because control of Middle Eastern energy becomes America's answer to Russia's battlefield dominance and food leverage.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Ukraine war",
+        "Middle East energy",
+        "American empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Iran is the pivot point of a Eurasian alliance with Russia and China, so an Iranian collapse would preserve petrodollar dominance and American control of global trade.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "Eurasian heartland",
+        "petrodollar",
+        "Iran"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel has pursued a messianic project since 1948 to re-establish a biblical kingdom spanning the Middle East.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0009",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Greater Israel",
+        "messianic politics",
+        "Israel"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the Greater Israel project extends from the Nile to the Euphrates and therefore implies future conflict not only with Iran but also with Egypt, Saudi Arabia, and Turkey.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0009",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Interview projection on 2026-03-07.",
+      "topic_tags": [
+        "Greater Israel",
+        "Egypt",
+        "Saudi Arabia",
+        "Turkey"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel is trying to destroy Iran's state capacity and fragment the country into warring ethnic enclaves so Iran cannot obstruct that larger project.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0010",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Iran",
+        "state destruction",
+        "divide and rule"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents reported attacks on Azerbaijan and Saudi facilities as likely Israeli false flags designed to widen the war and pull more GCC actors in against Iran.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0012",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Interview assessment of live wartime reports on 2026-03-07.",
+      "topic_tags": [
+        "false flag",
+        "Azerbaijan",
+        "Saudi Arabia",
+        "Mossad"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Mossad is described as trying to infiltrate and sabotage GCC states both because they are future rivals and because widening the war serves the Greater Israel project.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "Mossad",
+        "GCC",
+        "Greater Israel"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says America's current aggression comes from imperial fear: a collapsing empire lashing out after an era of post-Cold War prosperity curdled into corruption.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0015",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "American empire",
+        "decline",
+        "post-Cold War"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that after 9/11 the United States destroyed multiple Middle Eastern states for no good reason, revealing itself as a bully rather than a guarantor of order.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0015",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Historical judgment presented on 2026-03-07.",
+      "topic_tags": [
+        "Afghanistan",
+        "Iraq",
+        "Libya",
+        "Syria"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Financialization made Wall Street the dominant force in America, shipping manufacturing to China and converting the U.S. economy into speculation, risky derivatives, and fantasy wealth.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0016",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Historical model described on 2026-03-07.",
+      "topic_tags": [
+        "Wall Street",
+        "financialization",
+        "2008 crisis"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the 2008 crisis did not punish the financial elite; instead it deepened inequality, corruption, and elite control over both U.S. parties.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Historical diagnosis described on 2026-03-07.",
+      "topic_tags": [
+        "2008 crisis",
+        "inequality",
+        "elite capture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "After Russia invaded Ukraine, Jiang says American sanctions, asset seizures, and energy coercion damaged America's own reputation, hurt Europe, and weakened the dollar system instead of destroying Russia.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0018",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Interview retrospective on 2026-03-07.",
+      "topic_tags": [
+        "Ukraine war",
+        "sanctions",
+        "SWIFT",
+        "Europe"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says America's coercive response to Russia shattered the aura of invincibility and triggered sovereignty pushes in Africa and elsewhere.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Africa",
+        "sovereignty",
+        "imperial decline"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iran war is presented as Trump's attempt to prove that America still has no peer adversary after the humiliation of its Venezuela and Ukraine-era failures.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0020",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Trump",
+        "Iran war",
+        "hegemony"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Gulf monarchies are artificial constructs of empire, first built under British rule and then maintained within the American imperial order.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0024",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical model presented on 2026-03-07.",
+      "topic_tags": [
+        "GCC",
+        "British Empire",
+        "American empire"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Their prosperity depended on a Cold War bargain: American military protection let them sell oil freely without bearing the real cost of defense.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical model presented on 2026-03-07.",
+      "topic_tags": [
+        "oil monarchy",
+        "Cold War",
+        "security bargain"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues GCC states lack the basic ingredients of viable nationhood because they depend on desalinated water, imported food, and imported knowledge workers.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0025",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "state viability",
+        "desalination",
+        "food imports",
+        "knowledge workers"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Iran war has shattered the Gulf mirage by showing how easily one drone, one uprising, or one strike on infrastructure can destabilize supposedly glamorous and safe regional hubs.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0026",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0027",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0028",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "mirage",
+        "Bahrain",
+        "Dubai",
+        "Saudi Arabia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bahrain is described as near revolution because sectarian grievance and the wider Shia mobilization around the war have destabilized the regime.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0026",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Bahrain",
+        "Shia",
+        "revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Saudi Arabia's long-term modernization projects are portrayed as hubristic fantasies made possible only by peace, oil wealth, and denial of underlying fragility.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0029",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interview assessment on 2026-03-07.",
+      "topic_tags": [
+        "Saudi Arabia",
+        "Neom",
+        "hubris",
+        "fragility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Gulf War of 1991 and the Iraq invasion of 2003 were not real wars but asymmetrical demonstrations against states already unable to defend themselves.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0031",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Historical judgment stated on 2026-03-07.",
+      "topic_tags": [
+        "1991 Gulf War",
+        "2003 Iraq War",
+        "real war"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The military-industrial complex is described as fundamentally corrupt and oriented toward extracting taxpayer money rather than building capabilities for real war.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0032",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "military-industrial complex",
+        "corruption",
+        "weapons systems"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says expensive American and Israeli air-defense systems look impressive on paper but are proving ineffective against Iranian attacks.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0033",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interview assessment one week into the war on 2026-03-07.",
+      "topic_tags": [
+        "air defense",
+        "Patriot",
+        "Iron Dome",
+        "Iranian missiles"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Iran has not yet used its most advanced weapons and has so far only softened regional defense systems with older stockpiles.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0033",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Interview assessment on 2026-03-07.",
+      "topic_tags": [
+        "Iranian arsenal",
+        "softening attacks",
+        "air-defense attrition"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Israel's media blackout exists because Iran inflicted humiliating damage during the earlier 12-day war and Israeli leadership learned to hide visible defeat.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0036",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0037",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0038",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07 referencing the earlier 12-day war.",
+      "topic_tags": [
+        "Israel",
+        "12-day war",
+        "media blackout",
+        "humiliation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Israel is not capable of continuing the current war much longer without the United States sending ground troops.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0039",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Interview forecast on 2026-03-07.",
+      "topic_tags": [
+        "Israel",
+        "ground troops",
+        "war endurance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the American model for a ground campaign in Iran is to use proxies backed by air power, as in Syria and Libya, but Iran is a much harder case.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Interview military model on 2026-03-07.",
+      "topic_tags": [
+        "proxy war",
+        "Iran invasion",
+        "Syria",
+        "Libya"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The three main proxy vectors Jiang identifies are Kurds, Azerbaijanis, and Balochs, but he says none of them is likely to fight as obedient American or Israeli ground forces.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Interview assessment on 2026-03-07.",
+      "topic_tags": [
+        "Kurds",
+        "Azerbaijan",
+        "Balochs",
+        "proxy forces"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Kurdish memory of betrayal after the 1991 Gulf War makes a renewed American alliance structurally unreliable.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Historical inference presented on 2026-03-07.",
+      "topic_tags": [
+        "Kurds",
+        "1991",
+        "betrayal"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Using Kurds as cannon fodder would mean baiting Iranian troops into concentrated positions for airstrikes that would kill the Kurds too, a logic Jiang says the Kurds understand perfectly well.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0045",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Interview military model on 2026-03-07.",
+      "topic_tags": [
+        "Kurds",
+        "cannon fodder",
+        "air power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Azerbaijan is portrayed as too exposed to Russian and Iranian retaliation to actually join a ground invasion, though its leadership may exploit the threat for money and optics.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0046",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Interview forecast on 2026-03-07.",
+      "topic_tags": [
+        "Azerbaijan",
+        "Russia",
+        "optics",
+        "hustlers"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "American bases in the Gulf existed primarily to protect ruling families and enforce obedience to Washington, not to protect the populations of those states.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "American bases",
+        "GCC",
+        "royal families"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says petrodollars from GCC regimes are recycled into the U.S. financial system and are presently financing the American AI bubble and data-center buildout.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0049",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "petrodollars",
+        "AI bubble",
+        "data centers"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Gulf order is described as a bribery system: citizens receive cradle-to-grave benefits while migrant laborers and foreign managers do the actual work.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Interview social model on 2026-03-07.",
+      "topic_tags": [
+        "rentier state",
+        "migrant labor",
+        "bribery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts there is no future for these Gulf nations after the war because the bargain sustaining them is ending.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Interview prediction on 2026-03-07.",
+      "topic_tags": [
+        "GCC collapse",
+        "devil's bargain",
+        "future"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war in Ukraine has defied ordinary geopolitical logic for years, which he uses as evidence that conventional historical reasoning no longer explains current wars.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0054",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Ukraine war",
+        "historical analogy",
+        "irrationality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The correct framework for the Iran war is eschatological and religious, not material, because Jiang believes actors are pursuing a divinely scripted world rather than resource-maximizing strategy.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Interview method claim on 2026-03-07.",
+      "topic_tags": [
+        "eschatology",
+        "religion",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says some actors involved in the war believe Trump is divinely chosen to start a Middle Eastern chain reaction leading to the second coming of Jesus.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Interview report of ideological belief on 2026-03-07.",
+      "topic_tags": [
+        "Trump",
+        "second coming",
+        "Christian Zionism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He warns that destruction of Al-Aqsa could be used to ignite a generalized Muslim-Jewish religious war because building the Third Temple would require clearing that site.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0057",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Interview scenario projection on 2026-03-07.",
+      "topic_tags": [
+        "Al-Aqsa",
+        "Third Temple",
+        "false flag",
+        "religious war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the war makes no conventional sense even a week after it began because no coherent public reason for destroying Iran has been articulated.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0058",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Interview diagnosis one week into the war on 2026-03-07.",
+      "topic_tags": [
+        "war aims",
+        "irrationality",
+        "public justification"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Iran had reportedly agreed through Omani mediation to zero enrichment, proxy talks, and missile talks, so nuclear-prevention rationales do not explain the attack.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0059",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Interview evidentiary claim on 2026-03-07.",
+      "topic_tags": [
+        "Oman",
+        "uranium enrichment",
+        "proxy negotiations",
+        "ballistic missiles"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang rejects the idea that America is merely controlled by Israel and instead says official explanations are deceptive covers for a deeper eschatological project of world destruction.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0061",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0062",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "deception",
+        "Israel",
+        "eschatology",
+        "world destruction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says tactical nuclear weapons may become attractive if conventional strikes cannot destroy Iran's underground missile infrastructure and if a ground invasion stalls.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Interview military scenario on 2026-03-07.",
+      "topic_tags": [
+        "nuclear escalation",
+        "tactical nukes",
+        "underground facilities"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Russia is already helping Iran with intelligence and may eventually place Iran under a Russian nuclear umbrella if tactical nuclear use becomes likely.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0065",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Interview forecast on 2026-03-07.",
+      "topic_tags": [
+        "Russia",
+        "Iran",
+        "nuclear umbrella",
+        "intelligence"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A tactical nuclear strike on Iran would, in Jiang's scenario, be treated by Russia as a nuclear strike requiring response against Ukraine and Europe.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0066",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Interview escalation scenario on 2026-03-07.",
+      "topic_tags": [
+        "Russia",
+        "Ukraine",
+        "Europe",
+        "nuclear response"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that if one follows Jewish and Christian Zionist eschatology, America should not remain in the Middle East, so one route to that outcome is for America to lose the war there.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0067",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "eschatology",
+        "America",
+        "Middle East",
+        "intentional defeat"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "America may be in the Iran war not to win but to lose, because loss would clear CENTCOM and the U.S. imperial presence out of the Middle East.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0067",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Interview provocative thesis on 2026-03-07.",
+      "topic_tags": [
+        "intentional loss",
+        "CENTCOM",
+        "Middle East withdrawal"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says BRICS, trade corridors, and unit-currency talk no longer matter because the world now runs on law-of-the-jungle logic.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0070",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Interview method claim on 2026-03-07.",
+      "topic_tags": [
+        "BRICS",
+        "law of the jungle",
+        "trade"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's framework, only actors willing to commit military power and die for what they believe truly matter in the present world order.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0070",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "force",
+        "military power",
+        "will"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang challenges the assumption that nation-states and their leaders are the primary units of power, opening the possibility that multiple rival states answer to the same hidden controllers.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "nation-state",
+        "hidden power",
+        "transnational control"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He uses the Epstein files to argue that familiar hierarchies of wealth and influence are misleading because even billionaires seemed to seek access and resources through Epstein.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0075",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Interview evidentiary analogy on 2026-03-07.",
+      "topic_tags": [
+        "Epstein",
+        "power networks",
+        "elite access"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the war's outcome is preordained: mass death, economic destruction, Iranian devastation, American expulsion from the Middle East, and eventual Greater Israel or Pax Judaica.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Interview prediction on 2026-03-07.",
+      "topic_tags": [
+        "preordained outcome",
+        "Pax Judaica",
+        "Middle East"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He links this outcome to a larger script culminating in a Gog-and-Magog style world war involving Russia, Iran, and Israel.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Interview eschatological scenario on 2026-03-07.",
+      "topic_tags": [
+        "Gog and Magog",
+        "world war",
+        "eschatology"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Ground troops will enter Iran, it will be a disaster, and the aftermath will still leave Israel as the only standing Middle Eastern power after America is forced out.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Interview forecast on 2026-03-07.",
+      "topic_tags": [
+        "ground invasion",
+        "American withdrawal",
+        "Israeli dominance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says regional domination would not require a large native Israeli population because AI-enabled surveillance could govern imported labor at scale.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "AI surveillance",
+        "imported labor",
+        "empire"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Palantir is presented as a key company because Jiang sees it as an instrument for the surveillance architecture of a future Pax Judaica.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "Palantir",
+        "surveillance state",
+        "Pax Judaica"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says East and Southeast Asian power will be decided by willingness to fight and die, not by economic size or trade relationships.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0084",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Interview model on 2026-03-07.",
+      "topic_tags": [
+        "East Asia",
+        "will",
+        "economics"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies Japan, South Korea, North Korea, and Vietnam as the four Southeast or East Asian nations with a history of dying for what they believe in.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Interview classification on 2026-03-07.",
+      "topic_tags": [
+        "Japan",
+        "South Korea",
+        "North Korea",
+        "Vietnam"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Russia is presented as the clear winner in Ukraine and the future dominant power in Europe, forcing the rise of Germany and eventually a grand German-Russian alliance.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Interview prediction on 2026-03-07.",
+      "topic_tags": [
+        "Russia",
+        "Germany",
+        "Ukraine war",
+        "Europe"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's future world map has three main regional powers: a German-Russian alliance, Israel in the Middle East, and Japan in East Asia, while America retreats into a troubled Western Hemisphere role.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0088",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0089"
+      ],
+      "temporal_scope": "Interview long-range forecast on 2026-03-07.",
+      "topic_tags": [
+        "future world order",
+        "Japan",
+        "Israel",
+        "America"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the world is heading into deliberate chaos and population reduction, with conflicts multiplying so that smaller, more compliant populations are easier to govern.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0089",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Interview diagnosis and prediction on 2026-03-07.",
+      "topic_tags": [
+        "chaos",
+        "population reduction",
+        "compliance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The real war, Jiang says, is spiritual rather than financial, material, or military.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Interview definition on 2026-03-07.",
+      "topic_tags": [
+        "spiritual war",
+        "method",
+        "metaphysics"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the point of America's wars is not victory but endless conflict that lets a military-industrial and transnational security complex loot the American taxpayer.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "forever wars",
+        "military-industrial complex",
+        "loot"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Nation-states are described as hosts and hidden transnational groups as parasites that choreograph wars to extract wealth before the host collapses.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Interview conceptual model on 2026-03-07.",
+      "topic_tags": [
+        "parasite",
+        "host",
+        "transnational capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "These parasites want America to lose in Iran because collapsing the American economy serves their debt and control agenda.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "American defeat",
+        "economic collapse",
+        "debt"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says overwhelming public opposition to the Iran war and to ground troops does not matter because the United States is not a democracy in any meaningful sense on this question.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0095",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "democracy",
+        "public opinion",
+        "ground troops"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Congress is enabling rather than restraining war, as shown by Jiang's reading of the War Powers Act timing and the absence of elite Democratic opposition to ground troops.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0096",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Interview institutional critique on 2026-03-07.",
+      "topic_tags": [
+        "Congress",
+        "War Powers Act",
+        "Democrats",
+        "ground troops"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The war's course has already been decided by a tiny ruling stratum, so voting cannot meaningfully alter it.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0097",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "script",
+        "elite control",
+        "elections"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says an American invasion of Iran would be destroyed by the Iranians on the ground.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Interview forecast on 2026-03-07.",
+      "topic_tags": [
+        "Iranian resistance",
+        "American invasion",
+        "ground war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Even that battlefield outcome is, for Jiang, a distraction from the more important problem of identifying who is really directing the war from behind the scenes.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Interview diagnosis on 2026-03-07.",
+      "topic_tags": [
+        "hidden power",
+        "distraction",
+        "war meaning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The real war people should fight is a war of self-knowledge and truth-seeking, even when truth shatters their whole sense of reality.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0101",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Interview normative teaching on 2026-03-07.",
+      "topic_tags": [
+        "self-knowledge",
+        "truth",
+        "normative response"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Plato's Allegory of the Cave to model the war as a shadow play in which visible conflicts are projected illusions hiding the real powers behind them.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0101",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Interview philosophical model on 2026-03-07.",
+      "topic_tags": [
+        "Plato",
+        "Allegory of the Cave",
+        "illusion",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's final formulation, it does not truly matter who wins among the visible actors; what matters is whether people can turn around and understand the world more truthfully.",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0102",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Interview concluding teaching on 2026-03-07.",
+      "topic_tags": [
+        "truth",
+        "illusion",
+        "visible conflict"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004"
+      ],
+      "moment": "Ground troops are the irreversible threshold after which the war becomes the end of the world as we know it.",
+      "source_phrase": "If ground troops are used, then we are in World War III, and this will mark the end of the world as we know it.",
+      "why_it_matters": "This is Jiang's opening escalation thesis and the frame that drives the entire interview.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang calls the Strait of Hormuz the nexus of the world and the center of global trade.",
+      "source_phrase": "The Shifu Moos really is a nexus of the world. It is the center of all global trade.",
+      "why_it_matters": "It compresses his energy-and-empire view of why Iran matters globally.",
+      "tone": "definition",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "moment": "America has no choice but to go all in because Iran is framed as a life-or-death battle for empire.",
+      "source_phrase": "This is really a struggle of life and death for the American empire.",
+      "why_it_matters": "It supplies the interview's core causal pressure for why escalation keeps intensifying.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0009"
+      ],
+      "moment": "Jiang turns Greater Israel from a slogan into an expansion map stretching over the whole Middle East.",
+      "source_phrase": "Greater Israel extends from the Nile to the Euphrates.",
+      "why_it_matters": "It anchors his whole explanation of why Iran is only one theater in a broader regional project.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011"
+      ],
+      "moment": "Iran is not just being hit militarily; its ability to remain a state is the target.",
+      "source_phrase": "Israel is trying to destroy the Iranians capacity to run a state.",
+      "why_it_matters": "This sharpens Jiang's claim that the war aims at political fragmentation, not only battlefield advantage.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0017"
+      ],
+      "moment": "America no longer makes things; it makes things up.",
+      "source_phrase": "America no longer makes things. It just makes things up.",
+      "why_it_matters": "This is Jiang's compact metaphor for financialized decline and elite unreality.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0019"
+      ],
+      "moment": "America harms itself through imperial power by scaring the world away from its own banking and currency system.",
+      "source_phrase": "America destroyed its reputation.",
+      "why_it_matters": "It captures Jiang's reversal: coercion meant to demonstrate dominance instead accelerates decay.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0026"
+      ],
+      "moment": "The entire GCC is rendered as a giant mirage whose hidden dependencies only become visible under wartime pressure.",
+      "source_phrase": "The entire GCC is this a giant mirage.",
+      "why_it_matters": "This is Jiang's core image for Gulf wealth without sovereignty or resilience.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0029"
+      ],
+      "moment": "A cheap drone can destroy the infrastructure fantasy beneath oil-state spectacle.",
+      "source_phrase": "You can blow these desalination plants up easily with a drone with $50,000 drone and completely destroy Saudi Arabia.",
+      "why_it_matters": "It compresses Jiang's infrastructure-based critique of Gulf state fragility.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0034"
+      ],
+      "moment": "The war turns the apparent solidity of military hardware into hallucination.",
+      "source_phrase": "The world really is a mirage. It's a hallucination.",
+      "why_it_matters": "This is Jiang's broad metaphysical conclusion drawn from the failure of supposedly dominant defense systems.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0039"
+      ],
+      "moment": "Israel's response to humiliation is not victory but censorship.",
+      "source_phrase": "We just won't admit we're being defeated.",
+      "why_it_matters": "It compresses Jiang's explanation for the information blackout and hidden damage.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0045"
+      ],
+      "moment": "Proxy insurgents are described as bait, not allies: their role is to die in order to expose Iranian troops to air power.",
+      "source_phrase": "The entire intention of using Kurds is as a cannon fodder.",
+      "why_it_matters": "This is Jiang's starkest formulation of how a proxy invasion would work in practice.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0047"
+      ],
+      "moment": "Local leaders are not heroic proxies but hustlers extracting money from desperate empires.",
+      "source_phrase": "They're hustlers.",
+      "why_it_matters": "It shows Jiang recoding geopolitical actors as grifters exploiting imperial panic rather than ideological partners.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0049"
+      ],
+      "moment": "The Gulf-American relationship is rendered as a devil's bargain rather than an alliance.",
+      "source_phrase": "These GCC countries had a devil's bargain.",
+      "why_it_matters": "It compresses Jiang's explanation of wealth, dependence, obedience, and eventual ruin in a single phrase.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0056"
+      ],
+      "moment": "History itself is declared unusable; only eschatology can explain the war's irrational persistence.",
+      "source_phrase": "The framework that I think you have to use is eschatological religious.",
+      "why_it_matters": "This is Jiang's strongest methodological break with normal geopolitical interpretation.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0057"
+      ],
+      "moment": "Trump is cast as a divinely chosen accelerant of apocalypse.",
+      "source_phrase": "Trump is divinely ordained.",
+      "why_it_matters": "This is the sharpest statement of Jiang's claim that end-times belief, not normal statecraft, drives the war.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0062"
+      ],
+      "moment": "To understand the war, Jiang tells the listener to throw their whole existing worldview out the window.",
+      "source_phrase": "Take whatever you believe about the world and throw it out the window.",
+      "why_it_matters": "It condenses the interview's demand for radical epistemic reset.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0068"
+      ],
+      "moment": "The war may be functioning as a deliberate losing strategy rather than a campaign for victory.",
+      "source_phrase": "America is in this war to lose.",
+      "why_it_matters": "This is one of the interview's most extreme reversals of normal geopolitical expectation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0065"
+      ],
+      "moment": "Nuclear use appears not as abstract apocalypse but as a grim tactical fix for an unwinnable conventional problem.",
+      "source_phrase": "If you want to win the war conventionally, then you might have to use tactical nuclear weapons.",
+      "why_it_matters": "It shows how Jiang ties doctrinal escalation to battlefield frustration.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0070"
+      ],
+      "moment": "BRICS evaporates as a serious category once the world is re-described as raw jungle competition.",
+      "source_phrase": "Forget BRICS. It doesn't matter.",
+      "why_it_matters": "This is Jiang's sharpest dismissal of standard multipolar geopolitics.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0074"
+      ],
+      "moment": "Nation-states themselves may be decoys beneath a higher layer of organization.",
+      "source_phrase": "We assume nation states are the main organizing unit of the world.",
+      "why_it_matters": "It marks another step in Jiang's move from geopolitical to transnational conspiratorial explanation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078"
+      ],
+      "moment": "The war is not drifting; it is scripted to kill, collapse, and reconfigure the world.",
+      "source_phrase": "The outcome has been preordained.",
+      "why_it_matters": "It is Jiang's cleanest statement that the war is a designed ritual rather than an open geopolitical contest.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081"
+      ],
+      "moment": "Empire is reimagined as a depopulated region run by microchipped migrant labor and drugs rather than by settlers alone.",
+      "source_phrase": "You microchip them.",
+      "why_it_matters": "This is one of the interview's sharpest dystopian images and should survive later compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0086"
+      ],
+      "moment": "Economics disappears; what matters is which peoples still know how to die for what they believe.",
+      "source_phrase": "The economy doesn't matter.",
+      "why_it_matters": "This is Jiang's cleanest summary of the will-over-wealth principle applied to East Asia.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0090"
+      ],
+      "moment": "The hidden layer of conflict is named outright: not financial war, not material war, but spiritual war.",
+      "source_phrase": "What's going on is a spiritual war.",
+      "why_it_matters": "It is the compressed endpoint of the interview's repeated rejection of normal geopolitical categories.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0092"
+      ],
+      "moment": "America becomes a host organism while hidden elites are the parasite feeding on endless war.",
+      "source_phrase": "What matters is the parasite.",
+      "why_it_matters": "This is Jiang's strongest metaphor for how formal state power is supposedly hollowed out.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0097"
+      ],
+      "moment": "Politics is reframed as theatre after the script is already written.",
+      "source_phrase": "It's already been decided what's gonna happen. It's all a script.",
+      "why_it_matters": "It captures Jiang's anti-democratic reading of wartime governance.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0101",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0102"
+      ],
+      "moment": "The interview ends by turning the Iran war into Plato's cave: a conflict of shadows that tests whether people can turn around toward truth.",
+      "source_phrase": "Plato's Allegory of the Cave.",
+      "why_it_matters": "This is the closing philosophical frame and the most reusable compression of Jiang's worldview in the interview.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0103"
+      ],
+      "moment": "What matters is courage for painful truth rather than victory in the visible war.",
+      "source_phrase": "What matters is our desire, our courage to seek the truth no matter how painful the truth is.",
+      "why_it_matters": "It is the interview's final ethical injunction and should anchor any public read.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Eurasian heartland",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's phrase for a grand alliance centered on Russia, Iran, and China that would challenge American control of trade and currency.",
+      "confidence": "high"
+    },
+    {
+      "term": "petrodollars",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0006",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The dollar-denominated oil order Jiang says America is trying to preserve by preventing Iranian collapse into a Eurasian bloc.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel project",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0009",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Jiang's label for an Israeli territorial-religious project that would reorder the Middle East from the Nile to the Euphrates.",
+      "confidence": "high"
+    },
+    {
+      "term": "divide and rule",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The imperial tactic Jiang says Israel would use inside Iran by fostering ethnic enclaves and factional conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "financialization",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The process by which Wall Street and speculative finance displaced manufacturing as the organizing center of the American economy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Americana",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's name for the post-Cold War hope that American hegemony would yield general peace and prosperity.",
+      "confidence": "high"
+    },
+    {
+      "term": "artificial constructs of empire",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's label for Gulf states whose borders, rulers, and survival depend on imperial sponsorship rather than organic nation-building.",
+      "confidence": "high"
+    },
+    {
+      "term": "devil's bargain",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "The trade of sovereignty for wealth and American protection that Jiang says structured Gulf prosperity before the Iran war.",
+      "confidence": "high"
+    },
+    {
+      "term": "real war",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0031",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's contrast term for a conflict where both sides can seriously fight back, unlike the video-game style interventions he ascribes to past U.S. wars.",
+      "confidence": "high"
+    },
+    {
+      "term": "12-day war",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0036",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Jiang's label for an earlier Israel-Iran confrontation that he treats as the hidden precedent for the current information blackout.",
+      "confidence": "medium"
+    },
+    {
+      "term": "cannon fodder",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's term for proxy fighters whose real function is to draw Iranian troops into kill zones for American or Israeli air power.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI bubble",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0049",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's term for the U.S. data-center and artificial-intelligence investment frenzy that he says depends on GCC capital.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatological religious framework",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "An interpretive lens in which war is driven by end-times theology and divine-script beliefs rather than ordinary material incentives.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian Zionist eschatology",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "Jiang's term for a worldview in which war and destruction are desirable because they force Jesus to return.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third Temple",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0058"
+      ],
+      "definition_or_usage": "The rebuilt temple Jiang says some actors want, requiring the removal of Al-Aqsa and thereby risking a vast religious war.",
+      "confidence": "high"
+    },
+    {
+      "term": "Russian nuclear umbrella",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "Jiang's scenario in which Russia would declare Iran protected such that a tactical strike there counts as a strike on Russia.",
+      "confidence": "medium"
+    },
+    {
+      "term": "CENTCOM",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "The vast American military presence in the Middle East that Jiang says eschatological actors may want removed through defeat.",
+      "confidence": "high"
+    },
+    {
+      "term": "law of the jungle",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "Jiang's phrase for a world where trade abstractions disappear and only military willingness and sacrificial resolve matter.",
+      "confidence": "high"
+    },
+    {
+      "term": "Epstein files",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0075",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "A set of elite-network signals Jiang treats as evidence that hidden organizations outrank visible state power.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "Jiang's term for an Israeli-centered imperial order produced by war, depopulation, and technological domination.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "The technological governance apparatus Jiang says would allow a small ruling population to manage vast imported labor forces.",
+      "confidence": "high"
+    },
+    {
+      "term": "spiritual war",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0090"
+      ],
+      "definition_or_usage": "Jiang's highest-level description of the conflict as a struggle over metaphysical or religious realities rather than ordinary state interests.",
+      "confidence": "high"
+    },
+    {
+      "term": "host and parasite",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "Jiang's model in which visible nation-states are exploited by hidden transnational groups that use war to extract wealth.",
+      "confidence": "high"
+    },
+    {
+      "term": "war of self-knowledge",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0101"
+      ],
+      "definition_or_usage": "Jiang's concluding reframing of geopolitical crisis into an inward struggle to seek truth despite psychic disorientation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Plato's Allegory of the Cave",
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0101",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0102"
+      ],
+      "definition_or_usage": "A classical image Jiang uses to describe visible wars as shadows projected by hidden powers behind the scenes.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0001",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0003"
+      ],
+      "note": "The host dates the interview to Saturday, March 7, 2026, and Jiang describes the war as only one week old; those time markers matter for later prediction checks.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0013"
+      ],
+      "note": "These segments preserve Jiang's live-war reading of rumors and reports about Azerbaijan, Saudi facilities, and Qatar; they should remain dated to this early-war interview rather than normalized into settled fact.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0018",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0019",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0020",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0021"
+      ],
+      "note": "This packet lays out Jiang's dated causal chain from the Cold War to 9/11, 2008, Ukraine, and then Iran; preserving that chronology is important because the Iran war is presented as the latest imperial compensation move.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0026",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0028",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0030"
+      ],
+      "note": "This packet captures Jiang's claim that the Iran war revealed fragilities hidden during the long post-Cold War peace; the before-war versus during-war contrast is central to the argument.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0036",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0038"
+      ],
+      "note": "Jiang reads the current war through the prior '12-day war' sequence of decapitation, Iranian retaliation, choreographed de-escalation, and renewed censorship; that chronology shapes his interpretation of the present stage.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0044"
+      ],
+      "note": "The 1991 Kurdish betrayal appears here as historical memory shaping 2026 proxy calculations; it should remain tied to that comparative frame.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0054",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0055",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0056"
+      ],
+      "note": "Jiang explicitly contrasts past wars and past coups with what he insists is a unique present moment, so later readings should preserve that anti-analogy stance rather than smoothing it away.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0059",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0060"
+      ],
+      "note": "Jiang anchors this packet in the war's first week and in the reportedly failed Omani mediation; those dated claims are central to his argument that official motives were pretextual.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0065",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0066",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0068"
+      ],
+      "note": "This packet marks a later escalation stage in Jiang's argument: after conventional irrationality comes the possibility of tactical nuclear use and purposeful American defeat.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0070",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0074"
+      ],
+      "note": "The packet shows Jiang moving from geopolitical blocs to an anti-geopolitical framework where military will and hidden networks replace normal state analysis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0078",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "note": "This packet shifts from immediate war prediction to Jiang's postwar empire model, so later read-writing should preserve both the sequence and the scale jump.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0088",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0089",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0090"
+      ],
+      "note": "This packet broadens Jiang's horizon from the immediate Iran war to a long-range world-order forecast; later read-writing should preserve that shift in scale.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0095",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0096",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0097"
+      ],
+      "note": "This packet is tightly tied to the immediate U.S. wartime political moment: public opinion, midterms, War Powers timing, and elite messaging all appear as current-process evidence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0100",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0103"
+      ],
+      "note": "The interview ends by moving from prediction about invasion defeat to a philosophical and ethical conclusion; the public read should preserve that turn rather than ending on logistics alone.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0004",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0005"
+      ],
+      "note": "Several proper nouns are ASR-damaged, especially Jiang's repeated reference to the Strait of Hormuz and the named Japanese prime minister; semantic extraction preserves his geopolitical point without normalizing those names."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0011",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0012",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0013"
+      ],
+      "note": "This packet leans heavily on wartime rumors, unnamed reporting, and one cited Tucker Carlson anecdote; preserve them as Jiang's evidentiary frame, not as independently confirmed facts."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0020"
+      ],
+      "note": "The reference to the kidnapping and public humiliation of Maduro is presented by Jiang as background evidence; preserve it as his framing rather than independently adjudicating the claim here."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0028"
+      ],
+      "note": "The cited Dubai hotel price collapse is a live anecdotal indicator of panic rather than a verified statistical measure; retain it as part of Jiang's wartime illustration."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0037",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0038"
+      ],
+      "note": "The described Trump-Iran choreography, empty-base strike, and Putin-mediated message are presented as Jiang's account of the 12-day war sequence and should remain attributed rather than normalized into verified chronology."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0043"
+      ],
+      "note": "The packet names Balochs only briefly and without detailed elaboration; extraction keeps the group in the invasion schema but does not overstate its specific role."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0051",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0052",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0053"
+      ],
+      "note": "The host's historical references to coups and regime-change memory in Iran are contextual prompts rather than Jiang-authored claims; they matter because Jiang explicitly rejects that explanatory frame in response."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0057",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0058",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0059",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0060"
+      ],
+      "note": "This packet contains multiple high-stakes speculative and reported claims about commanders, Omani mediation, and possible false flags; keep them clearly as Jiang's wartime explanatory frame."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0065",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0066",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0068"
+      ],
+      "note": "The packet mixes battlefield reasoning with highly speculative eschatological interpretation; preserve both strands without smoothing them into settled fact."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0075",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0076"
+      ],
+      "note": "The Epstein references are interpretive and associative rather than source-grounded proofs within this interview; keep them as Jiang's analogy for hidden power."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0081",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0082"
+      ],
+      "note": "The microchipping, drugging, and Palantir claims are part of Jiang's dystopian future model and should remain clearly attributed rather than normalized."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0086"
+      ],
+      "note": "Jiang says 'Southeast Asia' while naming Japan and the Koreas, so the regional label is loose; extraction preserves the listed countries rather than forcing a strict geographic category."
+    },
+    {
+      "refs": [
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0095",
+        "video:interview-0rigzd-tk3s@transcript:v1#seg-0096"
+      ],
+      "note": "The percentages Jiang cites for public opposition and the procedural claims about congressional timing are part of his argument but are not independently checked within this packet."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+id: "video:interview-0rigzd-tk3s@transcript:v1"
+source_id: "video:interview-0rigzd-tk3s"
+version: 1
+language: "en"
+language_probability: 0.901
+duration_seconds: 5149.501
+segments: 108
+word_count: 13139
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+chronology:
+  source_date: "2026-03-07"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCkF-6h_Zgf9zXNUmUB-MzTw/0rIgZD-tk3s"
+  youtube_metadata: null
+  youtube_metadata_source: null
+  transcription_json_sha256: "aff86270475a241da96cdca036a5163a2eebfa43088e31f876b32d9cc3837b12"
+  grouped_json_sha256: "a648887e409d2e09ab0acc6ffc04d735e93128711e5a1e4cb887cfb2890f911f"
+  dump_json_sha256: "f19c2be7b1a2d52096ee35f8438502b8f7b3a64374e95f0258945e5a008272f4"
