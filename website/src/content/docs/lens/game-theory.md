@@ -17,11 +17,15 @@ The first warning is that the visible good may not be the prize.
 
 In the dating lecture, the announced topic looks biological: sex, marriage, children, fertility. Jiang turns it into method. The players are visible, the rules can be sketched, but the decisive question is incentives. His answer is that modern dating is [a status game rather than a sex or procreation game]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018"}. Once status is the prize, behavior that looks suicidal at the civilizational level can become rational for the individual. People can optimize for rank, display, envy, and upward matching even while fertility collapses.
 
-<!-- lens-point id="game-theory-real-game" concept="game-theory-method" evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005 video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018 video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051" -->
+<!-- lens-point id="game-theory-real-game" concept="game-theory-method" evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0005 video:predictive-history-he4l9wylf3u@transcript:v1#seg-0018 video:predictive-history-t5oisjiorsu@transcript:v1#seg-0051 video:interview-crw5ccq8uf4@transcript:v1#seg-0008 video:interview-crw5ccq8uf4@transcript:v1#seg-0012" -->
 <span id="game-theory-real-game" class="lens-point-anchor"></span>
-Jiang's game-theory method begins by finding the real game: the players, constraints, incentives, and actual reward that make an actor's behavior rational from inside the game, even when it looks irrational from outside.
+Jiang's game-theory method begins by finding the real game: the players, constraints, psychology, incentives, and actual reward that make an actor's behavior rational from inside the game, even when it looks irrational from outside.
 
 This is why the page belongs near the center of the atlas. It does not replace the other concepts. It is a method for entering them. Nation-state formation, school failure, secret society cohesion, eschatological war, and Hollywood strategy all become clearer when the reader stops asking what the actors say they are doing and starts asking what the game rewards.
+
+The **2026-03-11** Alex Ray interview gives the method a biographical origin. Jiang says Yale taught him [a theology of meritocratic progress: the best ideas and the best individuals naturally triumph]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0006"}. That story broke when actual institutions rewarded connections, corruption, incompetence, and social position. The repair did not come first from a theory book. It came from games. Poker taught him that [a player can use a strategy that looks illogical from outside and still wins]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0008"}.
+
+That is the psychological layer behind the public method. If each player has a distinct strategy, the analyst cannot begin by asking what a reasonable person should do. The analyst has to ask what this player wants, what this player's personality can see, and what move maximizes this player's reward inside the board. Jiang condenses the lesson later in the same answer: [human society is a game, with major players whose psychology has to be understood]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0012"}. In this version, game theory is not cold rationalism. It is a way to make human irrationality legible without pretending that all players share the same idea of winning.
 
 ## The Nearest Game Wins
 
@@ -133,11 +137,13 @@ The May 2026 U.S.-China lecture adds a practical discipline to the same rule. Ji
 
 This matters because "theater" is easy to abuse. In Jiang's stronger form, theater is not an excuse to believe any hidden story. It has to cash out as a forecast. He explicitly calls the model speculative, asks students to question and debate it, and says that once they understand the theory they can make predictions; [the predictions then test whether the theory is correct]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016"}. The lecture closes the same way: the grand-bargain claim will be known soon enough because [the prediction can be wrong within days]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"}.
 
-<!-- lens-point id="game-theory-theater-prediction-test" concept="game-theory-method" evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067" -->
+<!-- lens-point id="game-theory-theater-prediction-test" concept="game-theory-method" evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0019 video:interview-crw5ccq8uf4@transcript:v1#seg-0021 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067" -->
 <span id="game-theory-theater-prediction-test" class="lens-point-anchor"></span>
-Theater becomes useful game-theory evidence only when the analyst names the larger game, states predictions that follow from the hidden structure, and accepts that near-term outcomes can falsify the theory.
+Theater becomes useful game-theory evidence only when the analyst names the performer, the larger game, and the desired payoff, states predictions that follow from the hidden structure, and accepts that near-term outcomes can falsify the theory.
 
 That gives the reader a boundary. If "it's all theater" merely protects a claim from contrary evidence, it has left Jiang's game-theory method and become story insulation. If it identifies players, constraints, desired payoffs, visible signals, and dated predictions, then theater can be tested as a game-board signal. The point belongs here rather than on the stories page because the mechanism is methodological: the analyst is not asking how narrative captures imagination, but whether visible drama is misdirection, bargaining language, or evidence of a different payoff structure.
+
+The March 11 interview supplies the personal-politics version before the May U.S.-China lecture turns theater into an explicit prediction test. Jiang calls Trump [a super athlete in political manipulation and perception control]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0019"}, then says the relevant game-theory questions are what Trump does well, what he wants, what incentives face him, and what strategy is optimal. When Jiang then says [politics was always a show]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0021"}, the useful lens is not blanket cynicism. The claim becomes game theory only when the show is tied to player skill, motive, payoff, and a prediction that can later embarrass the model if events do not answer.
 
 ## Prediction Under Cross-Examination
 
@@ -225,6 +231,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-03-05**, [Game Theory #10: The Law of Asymmetry](/episodes/predictive-history-t5oisjiorsu/)  
   Jiang gives the methodological warning that apparent irrationality may mean the analyst has named the wrong game and wrong reward.
+
+- **2026-03-11**, [Attention Is The Real Battleground](/interviews/interview-crw5ccq8uf4/)
+  Jiang gives the method an autobiographical origin: Yale's meritocratic theology breaks against lived institutional reality, poker teaches that players can win with strategies that look illogical from outside, human society becomes a game of major players and psychology, and politics-as-show becomes usable only when tied to performer skill, incentive, and prediction.
 
 - **2026-03-12**, [Empire Breaks When Hormuz Stays Closed](/interviews/interview-obqsun0g0u4/)
   Piers Morgan repeats the audit in compressed public form: when a speculative eschatological model sounds fantastical or dangerous, Jiang defends it as predictive modeling whose warrant is provisional forecast success, not documentary proof.
