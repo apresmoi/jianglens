@@ -1,0 +1,216 @@
+{
+  "packet_id": "interview-2f3osvzg2ti-semantics-pkt-0002",
+  "source_id": "video:interview-2f3osvzg2ti",
+  "source_date": "2026-01-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0010"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the end goal in Iran is not mere regime replacement but the destruction and fragmentation of the Iranian state.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0011"
+      ],
+      "kind": "unclear",
+      "summary": "The host’s transition into a viewer question is garbled and blends a Strait of Hormuz remark with the setup for a submitted question.",
+      "speaker_attribution": "Host transition",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "kind": "answer",
+      "summary": "Jiang reads or paraphrases a submitted question and answers with a model in which maritime empires fear a Eurasian Russia-China-Iran bloc connected by land.",
+      "speaker_attribution": "Jiang answer after viewer prompt",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0014"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The host cuts to a sponsor segment and reads advertisement copy before returning to the interview.",
+      "speaker_attribution": "Host sponsor read",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Iran and its allies, especially China and Russia, would respond to a US armada and possible strike.",
+      "speaker_attribution": "Host question after sponsor break",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Iran’s play is economic war through the Strait of Hormuz, forcing other oil-dependent states into the conflict.",
+      "speaker_attribution": "Jiang answer opening",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0011",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012"
+      ],
+      "note": "The question framing is noisy: the host appears to begin one viewer question while Jiang immediately pivots to another submitted question from \"Eric Neil.\"",
+      "suggested_speaker": "Host then Jiang",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Pentagon has long pursued seven regime-change targets and that Iran is the final unresolved state in that sequence.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical diagnosis restated on 2026-01-24.",
+      "topic_tags": [
+        "Pentagon",
+        "regime change",
+        "Iran",
+        "Wesley Clark"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that America’s actual pattern in Libya, Syria, and Iraq was not democratic transition but state collapse, loss of basic services, and prolonged civil war.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Retrospective model restated on 2026-01-24.",
+      "topic_tags": [
+        "state collapse",
+        "Libya",
+        "Syria",
+        "Iraq"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Iran as the pivot of a feared Eurasian alliance in which Russia supplies military force, China supplies economic capacity, and Iran supplies geographic and resource centrality.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Current strategic model stated on 2026-01-24.",
+      "topic_tags": [
+        "Eurasia",
+        "Russia",
+        "China",
+        "Iran",
+        "grand alliance"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Washington’s grand strategy is to strike Iran and create internal chaos precisely to prevent a Russia-China-Iran land-power bloc from consolidating.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "grand strategy",
+        "Iran",
+        "chaos",
+        "Eurasian bloc"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Iran’s response to war would be economic attrition through closing the Strait of Hormuz and striking regional US bases, with cascading damage to East Asian import economies.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0015",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Immediate war forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "economic war",
+        "East Asia oil",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009"
+      ],
+      "moment": "Iran appears not as one more regime-change target but as the \"last boss\" at the end of the American sequence.",
+      "source_phrase": "the last nation is Iran. It's basically the last boss, the endgame",
+      "why_it_matters": "It gives the Iran confrontation an explicitly terminal place in Jiang’s map of empire.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012"
+      ],
+      "moment": "Jiang makes Iran the hinge that either permits or prevents a continental counter-order to sea power.",
+      "source_phrase": "Iran is really the pivot of the world",
+      "why_it_matters": "It condenses why he treats an Iran war as globally decisive rather than regionally bounded.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "state collapse",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Jiang uses this for the destruction of a government’s capacity to provide order, water, electricity, and territorial coherence.",
+      "confidence": "high"
+    },
+    {
+      "term": "economic war of attrition",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Used for Iran’s expected strategy of wearing down stronger adversaries by choking trade and energy flows over time.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "note": "This packet moves from a post-9/11 regime-change genealogy into Jiang’s January 2026 forecast of Hormuz-centered escalation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0011",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "note": "The viewer-question handoff is noisy and partially garbled, so the exact submitted wording is unclear even though Jiang’s answer is legible."
+    }
+  ]
+}

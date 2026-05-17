@@ -1,0 +1,125 @@
+{
+  "source_slug": "interview-2f3osvzg2ti",
+  "decisions": [
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:db74cf76a3e0",
+      "decision": "approve",
+      "reason": "Moves the trailing phrase after 'would' to complete the sentence."
+    },
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:662fd64cc98b",
+      "decision": "reject",
+      "reason": "The proposed text is ASR noise and does not form a reliable sentence completion."
+    },
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:76356e07668b",
+      "decision": "approve",
+      "reason": "Moves the infinitive phrase after 'to' to complete the prior sentence."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:46a56034a092",
+      "decision": "approve",
+      "reason": "Moves the final name after 'General' to complete the assassination sentence."
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:bbf95932f4cc",
+      "decision": "reject",
+      "reason": "This starts a new speaker turn rather than completing 'I want to start off with a quote by he'."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:b8aa6e6e9ae6",
+      "decision": "approve",
+      "reason": "Completes the cut-off clause after 'Saudi Arabia sends'."
+    },
+    {
+      "candidate_id": "seg-0023->seg-0024:move-leading-completion-to-previous:8dda72d8473a",
+      "decision": "approve",
+      "reason": "Moves the object of 'America tried to create' into the prior segment."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:47b22d08e319",
+      "decision": "approve",
+      "reason": "Moves 'operation' after 'money laundering' to complete the phrase."
+    },
+    {
+      "candidate_id": "seg-0025->seg-0026:move-leading-completion-to-previous:621a3aa034fa",
+      "decision": "approve",
+      "reason": "Moves the continuation after the trailing 'to' to complete the military-capacity claim."
+    },
+    {
+      "candidate_id": "seg-0028->seg-0029:move-leading-completion-to-previous:6e5b51c87ce0",
+      "decision": "approve",
+      "reason": "Moves the clause after 'And' to complete the thought about Shia martyrdom."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:c84ef7ba3757",
+      "decision": "reject",
+      "reason": "The move duplicates 'let' across the boundary and looks like transcript damage rather than a clean completion."
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-leading-completion-to-previous:a829b1cdf11f",
+      "decision": "approve",
+      "reason": "Completes the list after 'financial infrastructure as coercion,'."
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-leading-completion-to-previous:4b7b79aabdb6",
+      "decision": "approve",
+      "reason": "Moves the infinitive after 'America is going' to complete the sentence."
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:408e9856d8df",
+      "decision": "approve",
+      "reason": "Moves the short completion after 'that's what' into the prior segment."
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:3f845e7f7bc0",
+      "decision": "approve",
+      "reason": "Moves the object after 'You have' to complete the list."
+    },
+    {
+      "candidate_id": "seg-0042->seg-0043:move-trailing-starter-to-next:7ec93d3502dc",
+      "decision": "approve",
+      "reason": "Moves the trailing starter so the next segment reads 'It's very, very effective.'"
+    },
+    {
+      "candidate_id": "seg-0045->seg-0046:move-leading-completion-to-previous:02bca983aca2",
+      "decision": "approve",
+      "reason": "Moves the clause after 'So basically,' to complete the debt comparison."
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:6dd7b8a091f2",
+      "decision": "approve",
+      "reason": "Moves the explanation after 'And the reason why' to complete the claim."
+    },
+    {
+      "candidate_id": "seg-0051->seg-0052:move-leading-completion-to-previous:67aabc5cc7d3",
+      "decision": "approve",
+      "reason": "Moves the phrase after 'And' to complete the instruction to check YouTube."
+    },
+    {
+      "candidate_id": "seg-0056->seg-0057:move-leading-completion-to-previous:3716486c53f1",
+      "decision": "approve",
+      "reason": "Moves the object after 'hide this capital in' to complete the sentence."
+    },
+    {
+      "candidate_id": "seg-0059->seg-0060:move-leading-completion-to-previous:5c2c79392362",
+      "decision": "approve",
+      "reason": "Moves the completion after 'because they have' into the prior segment."
+    },
+    {
+      "candidate_id": "seg-0062->seg-0063:move-leading-completion-to-previous:744d9d0d8aa4",
+      "decision": "approve",
+      "reason": "Moves the object after 'maintaining freedom' to complete the clause."
+    },
+    {
+      "candidate_id": "seg-0069->seg-0070:move-leading-completion-to-previous:dfbdbb4dc4ba",
+      "decision": "approve",
+      "reason": "Moves the predicate after 'represented the' to complete the contrast."
+    },
+    {
+      "candidate_id": "seg-0070->seg-0071:move-leading-completion-to-previous:efc5024833cb",
+      "decision": "approve",
+      "reason": "Moves the completion after 'there are all' to finish the sentence."
+    }
+  ]
+}
