@@ -1,0 +1,1679 @@
+{
+  "id": "evidence:semanticvideo-interview-crw5ccq8uf4:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-crw5ccq8uf4",
+  "source_id": "video:interview-crw5ccq8uf4",
+  "source_title": "Jiang Xueqin: Humanity's patterns, the nature of reality, and the battle for your mind.",
+  "source_url": "https://www.youtube.com/watch?v=CRw5CCq8Uf4",
+  "source_date": "2026-03-11",
+  "date_precision": "day",
+  "transcript_id": "video:interview-crw5ccq8uf4@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-crw5ccq8uf4/packet-0011.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-crw5ccq8uf4/source.yaml",
+    "transcript_path": "content/sources/videos/interview-crw5ccq8uf4/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 11,
+    "interactions": 33,
+    "speaker_notes": 4,
+    "claims": 57,
+    "signature_moments": 21,
+    "predictions": 6,
+    "models": 16,
+    "glossary_terms": 10,
+    "chronology_notes": 2,
+    "uncertainty_notes": 7
+  },
+  "first_refs": [
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0006",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0007",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0008",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0009",
+    "video:interview-crw5ccq8uf4@transcript:v1#seg-0010"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0001",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang as a popular predictive-history voice and asks how psychology and spirituality changed his approach to history.",
+      "speaker_attribution": "Host opening question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0004",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0006",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0007",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by tracing his path from bullied immigrant reader, to Asimov-inspired pattern thinking, to Yale disillusionment, depression, and a new game-theoretic psychology of human behavior.",
+      "speaker_attribution": "Jiang autobiographical answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0009",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0010",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0011",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0013",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0014",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0015",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains how email exchanges with David Bromwich and his game-theory lens led him into public geopolitical prediction, then applies that lens to Trump, Venezuela, and Maduro.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the Trump-as-player model into a forecast of third and fourth terms and describes Trump as an elite manipulator attacking one deep-state faction with another.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "The host briefly agrees that Trump treats politics like performance and story.",
+      "speaker_attribution": "Host commentary",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0022",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0023",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that politics has always been theater and spins a long George H. W. Bush-to-Bill-Clinton backstage continuity story.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0025",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0026",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the single-regime narrative from Bush through Obama and argues that identity politics was deployed to neutralize post-2008 class revolt.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0028",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The host summarizes Jiang's view that public stories hide deeper mind-shaping structures and asks about the relation between consciousness, secret societies, and reality construction.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0030",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with Plato's cave, arguing that elites use priests, schools, media, and money to direct consciousness and harvest attention as the real wealth.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0033",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0035",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0037",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that money is the current god, AI is the coming replacement god, and science itself was built as a reality-framing regime.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0036",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0038",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "The host folds in his own theory that technology, science, and secret societies have been used to redirect meaning and consciousness.",
+      "speaker_attribution": "Host-Jiang exchange",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0041"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether a person who sees beyond ordinary reality can use that knowledge as a license for immoral action.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0042",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees and explains that once someone grasps consciousness and money-production as the real levers, they can dominate people who still worship appearances.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0044",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0045"
+      ],
+      "kind": "question",
+      "summary": "The host asks why Protestant inner assurance and self-scrutiny did not become the dominant answer to religious doubt.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that individuality and creative reality-making threaten the system, so true rebellion lies in rejecting money, status, and inherited reality in favor of generosity and conscious responsibility.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0050",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0051"
+      ],
+      "kind": "question",
+      "summary": "The host argues that public scandal can function as a collective wake-up call and cites bin Laden's letter as an earlier demand for democratic responsibility.",
+      "speaker_attribution": "Host reflection-question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0052",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0053",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0054",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0055",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Epstein shocks people because it reveals elite mediocrity and then offers a theory of power, boredom, cruelty, and risk-seeking abuse.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes the elite-abuse discussion by saying power abuse is universal and driven by the search for novelty and feeling.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0058",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0059"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Anglosphere language and culture produce a showy, spiritually empty civilization and broader Western meaning crisis.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0060",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0062",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0063",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Britain spread an insular island mentality across the Anglosphere and that consumer liberal democracy now faces a century of decline because it conquered the world without supplying meaning.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0061"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the West can restore meaning amid loneliness, despair, and civilizational drift.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0065",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0067"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts a civilizational reset through a magnetic pole excursion and argues that earlier advanced civilizations prove humanity can build very different worlds from the current materialist one.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0068",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0069"
+      ],
+      "kind": "exchange",
+      "summary": "The host interprets collapse as the inevitable crash of delusion at both personal and global scales.",
+      "speaker_attribution": "Host reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0070",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that most people will die not from the event itself but from inner fragility, and he cites Palestinian resilience as an example of faith-based endurance.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0071"
+      ],
+      "kind": "exchange",
+      "summary": "The host compares Middle Eastern faith communities with the spiritually exhausted West.",
+      "speaker_attribution": "Host comparison",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0073"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether AI could free people from the knowledge economy and return them to work on soul, earth, and basic life.",
+      "speaker_attribution": "Host final-question setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0075",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0077"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects the utopian AI story and describes AI as a surveillance matrix linked to digital ID, currency, China, and biochemical control.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that the Jetsons-style leisure promise hid a deeper logic of replacement and control.",
+      "speaker_attribution": "Host reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0078"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Jiang's students respond to such unorthodox teaching.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says most students tune out, but the few who stay are permanently changed because his real teaching goal is to open minds and cultivate thought processes rather than deliver settled scholarship.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0081"
+      ],
+      "kind": "exchange",
+      "summary": "The host thanks Jiang and expresses hope that people can navigate the coming years safely and sanely.",
+      "speaker_attribution": "Host closing",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0082",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0083"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by saying survival depends on will, on refusing powerlessness, and on orienting life toward wisdom and service rather than money.",
+      "speaker_attribution": "Jiang closing answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0084"
+      ],
+      "kind": "exchange",
+      "summary": "The host thanks Jiang again and closes the interview.",
+      "speaker_attribution": "Host sign-off",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0015",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "note": "The voting-machine name is noisy in ASR; Jiang appears to mean Smartmatic while describing a speculative Maduro testimony scenario.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0022"
+      ],
+      "note": "ASR renders terms like Epstein files and Iran-Contra noisily, but the argumentative structure is clear: Jiang is linking Bush-era covert power, scandal, and spectacle.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0040"
+      ],
+      "note": "The host, not Jiang, introduces the idea that advanced consciousness can be developed in healthy or pathological ways; Jiang signals agreement through the surrounding exchange.",
+      "suggested_speaker": "Host reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0054"
+      ],
+      "note": "ASR around the blood/energy theory is noisy; Jiang appears to use the term metaphorically rather than as a carefully defined literal doctrine.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says that as a bullied immigrant child in Toronto he retreated into libraries and science fiction, especially Isaac Asimov, and that this early reading shaped his interest in psychohistory.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Biographical recollection stated on 2026-03-11.",
+      "topic_tags": [
+        "Toronto",
+        "immigrant childhood",
+        "science fiction",
+        "psychohistory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the core Foundation insight that stayed with him is that large historical patterns can be modeled and used to predict crisis points and their likely resolutions at the macro level.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretive model stated on 2026-03-11.",
+      "topic_tags": [
+        "Foundation",
+        "macro history",
+        "prediction",
+        "patterns"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yale functioned less as a place to learn knowledge than as an elite networking machine that teaches a theological story of progress in which the best ideas and best talent naturally triumph.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Institutional diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "Yale",
+        "elite networks",
+        "meritocracy",
+        "progress"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his later work across education, journalism, filmmaking, and the United Nations produced cognitive dissonance because corruption, incompetence, and mediocre success contradicted the meritocratic worldview he absorbed at Yale.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Biographical diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "United Nations",
+        "corruption",
+        "cognitive dissonance",
+        "meritocracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says poker and game study taught him that different personalities and circumstances produce different optimal strategies, and that adding psychology to game theory gave him a more realistic picture of the world.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Methodological turning point stated on 2026-03-11.",
+      "topic_tags": [
+        "poker",
+        "game theory",
+        "psychology",
+        "strategy diversity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that combining psychology with game theory let him predict major events and that long email exchanges with David Bromwich sharpened this analytical framework.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0009",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Method claim stated on 2026-03-11.",
+      "topic_tags": [
+        "David Bromwich",
+        "game theory",
+        "prediction method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he predicted a Russian invasion of Ukraine, a Trump return to power, a coming Iran war, an American civil war by 2028, and a Russian capture of Odessa, and that these predictions fueled his online rise.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0011",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Retrospective prediction record stated on 2026-03-11.",
+      "topic_tags": [
+        "Ukraine",
+        "Trump",
+        "Iran war",
+        "Odessa",
+        "civil war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says human society is best understood as a game in which the psychology and incentives of major players matter more than abstract ideas.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "General analytic model stated on 2026-03-11.",
+      "topic_tags": [
+        "human society",
+        "game theory",
+        "psychology",
+        "elite incentives"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the usual claim that Trump moved on Venezuela for oil does not make sense because the oil could have been bought without a dramatic regime spectacle.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Geopolitical diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "Venezuela",
+        "oil",
+        "Trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Maduro must have been a CIA asset or otherwise complicit in his own extraction, and predicts that he will publicly validate narco-trafficking charges and explain how Venezuelan voting machines can be rigged.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0014",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0015",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Speculative diagnosis and near-term prediction stated on 2026-03-11.",
+      "topic_tags": [
+        "Maduro",
+        "CIA asset",
+        "Smartmatic",
+        "narco trafficking"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump wants the Maduro episode to prove the 2020 election was stolen and thereby justify a third presidential term.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Political-intent model stated on 2026-03-11.",
+      "topic_tags": [
+        "Trump third term",
+        "2020 election",
+        "Maduro"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Trump will secure a third term and possibly even a fourth, arguing that a public proof of 2020 election theft would justify the move.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Future-oriented prediction stated on 2026-03-11.",
+      "topic_tags": [
+        "Trump third term",
+        "Trump fourth term",
+        "2020 election"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump sees the real enemy not as Democrats but as a deep-state faction financed by CIA drug money, and uses Maduro, Epstein-related disclosures, Palantir, and Peter Thiel to attack that faction while installing a new one.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Current political model stated on 2026-03-11.",
+      "topic_tags": [
+        "deep state",
+        "CIA drug money",
+        "Palantir",
+        "Peter Thiel"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump's strength is not intellect or writing but world-class political manipulation and control of optics.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Character diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "Trump",
+        "optics",
+        "political manipulation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says politics was always a show and uses George H. W. Bush as an example of a hidden deep-state actor who could stage public political theater while governing from the shadows.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0020",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0022",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Historical model stated on 2026-03-11.",
+      "topic_tags": [
+        "politics as show",
+        "George H. W. Bush",
+        "deep state"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Bill Clinton functioned as a Bush-mentored vehicle for pushing neoliberal free-trade policies and remaking the Democratic Party from within.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0022",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0023",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "Bill Clinton",
+        "neoliberalism",
+        "Democratic Party",
+        "free trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says George H. W. Bush sits behind a continuous regime stretching through 9/11, George W. Bush, Bill Clinton, and Obama, with each public leader solving a different elite problem.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0025",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0026",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical continuity model stated on 2026-03-11.",
+      "topic_tags": [
+        "George H. W. Bush",
+        "9/11",
+        "Obama",
+        "regime continuity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Occupy Wall Street exposed elite corruption after 2008 and that identity politics was advanced to dissolve class-based revolt and liberal opposition.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "Occupy Wall Street",
+        "identity politics",
+        "2008 crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Plato's cave is the right metaphor for politics because rulers manufacture perceived reality by controlling what people are allowed to see.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Interpretive model stated on 2026-03-11.",
+      "topic_tags": [
+        "Plato's cave",
+        "perception",
+        "manufactured reality"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says older priesthoods and modern schools, media, and the internet perform the same function: they direct consciousness so reality manifests in ways that benefit elites.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Civilizational model stated on 2026-03-11.",
+      "topic_tags": [
+        "priests",
+        "schools",
+        "media",
+        "internet",
+        "consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says attention is the true wealth beneath money and that modern economic discourse trains people to treat GDP and monetary gain as the center of human life.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Value-system diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "attention",
+        "GDP",
+        "money",
+        "human value"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the present system trains people to worship money as God by reducing human life to economic value and productivity.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Cultural diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "money",
+        "God",
+        "economics",
+        "human value"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says elites are investing in artificial intelligence because when the money system breaks they will need a new god that can still control perception and direct human attention.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0033",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "AI-control model stated on 2026-03-11.",
+      "topic_tags": [
+        "AI",
+        "money collapse",
+        "control system",
+        "new god"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says AI companions and spiritualized machine interactions are a deception that will trap people inside individualized matrices and deeper forms of Plato's cave.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0034",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Future diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "AI girlfriend",
+        "matrix",
+        "Plato's cave",
+        "simulation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says science itself was created by Freemasons and cites the rapid dominance of evolution as evidence that a new purposeless worldview can be installed globally in a very short time.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0037",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Historical-intellectual diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "science",
+        "Freemasons",
+        "evolution",
+        "worldview control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host argues that some traditions cultivated real powers of mind and consciousness that secret societies then weaponized for manipulation rather than moral development.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Host framing stated on 2026-03-11.",
+      "topic_tags": [
+        "secret societies",
+        "consciousness",
+        "mind power",
+        "pathology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says that in Plato's cave the person who escapes into pure consciousness can choose to exploit the blindness of others once truth-telling fails.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Philosophical model stated on 2026-03-11.",
+      "topic_tags": [
+        "Plato's cave",
+        "consciousness",
+        "elite exploitation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says money itself matters less than control over who prints and structures money, because the power to create money governs the social game.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Power diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "money creation",
+        "power",
+        "control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says inner individuality and creativity are the system's greatest threat because if people deny imposed reality and generate their own, the whole structure collapses.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Political-spiritual diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "individuality",
+        "creativity",
+        "reality construction",
+        "rebellion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says historical conspiracies feel continuous not because one bloodline literally rules forever, but because the same optimizing logic recreates systems of domination generation after generation.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0046",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Historical model stated on 2026-03-11.",
+      "topic_tags": [
+        "continuity",
+        "game theory",
+        "domination systems"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the real path out of the system is to reject money, status, and materialism and live through creativity, generosity, openness, and kindness.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0047",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Normative prescription stated on 2026-03-11.",
+      "topic_tags": [
+        "generosity",
+        "kindness",
+        "materialism",
+        "rebellion"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a holographic universe means every individual action affects the whole, so conscious responsibility to others is cosmically consequential.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Metaphysical model stated on 2026-03-11.",
+      "topic_tags": [
+        "holographic universe",
+        "responsibility",
+        "consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host says scandals such as the Epstein revelations and the revived circulation of bin Laden's letter can force citizens to confront their responsibility for the political order they live under.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0050",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Host framing stated on 2026-03-11.",
+      "topic_tags": [
+        "Epstein files",
+        "bin Laden letter",
+        "responsibility",
+        "wake-up call"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the deepest shock of the Epstein files is the discovery that elites are not special, brilliant, or moral but are mostly ordinary beneficiaries of inherited power.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Elite diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "elites",
+        "mediocrity",
+        "inherited power",
+        "Yale"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yale itself taught him that elite institutions are not heavens of brilliance but enlarged versions of ordinary mediocrity with better birth advantages.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Biographical evidence stated on 2026-03-11.",
+      "topic_tags": [
+        "Yale",
+        "elite institutions",
+        "mediocrity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang relays his wife's theory that people born into total privilege become bored and seek excitement through domination, manipulation, and the fear responses of children.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0053",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0054",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Psychological diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "privilege",
+        "boredom",
+        "children",
+        "fear",
+        "abuse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says that risk of exposure is part of the appeal for abusive elites because danger and possible public discovery intensify the excitement.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Psychological diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "risk",
+        "exposure",
+        "elite psychology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says this dynamic of power, abuse, and moral decay is not unique to the West and also appears in Chinese society.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Cross-societal diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "China",
+        "power abuse",
+        "universality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says power abuse is universal: any civilization will produce similar corruption if people are given too much power and too little meaningful challenge.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "General diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "power",
+        "abuse",
+        "universality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Britain did not become genuinely cosmopolitan through empire but instead spread an insular island mentality across the Anglosphere, including Canada and Australia.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "Britain",
+        "Anglosphere",
+        "provincialism",
+        "empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the West is entering roughly a century of permanent decline comparable to a Bronze Age collapse because consumer liberal democracy conquered the world and eliminated serious alternatives.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Long-range civilizational prediction stated on 2026-03-11.",
+      "topic_tags": [
+        "decline",
+        "Bronze Age collapse",
+        "consumer liberal democracy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says even China shares many assumptions of consumer liberal democracy because consumer desire, money, and materialism have become the dominant worldview globally.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Comparative diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "China",
+        "materialism",
+        "consumerism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says peak globalization is technologically impressive but unsustainable because it is decadent, anti-human, and unable to provide meaning.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Globalization diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "globalization",
+        "meaning crisis",
+        "anti-human"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says human beings are here to expand consciousness through struggle and hardship, so a civilization devoted to easy luxury and corruption will be punished by the universe.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Normative-metaphysical claim stated on 2026-03-11.",
+      "topic_tags": [
+        "consciousness",
+        "struggle",
+        "luxury",
+        "punishment"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that a magnetic pole excursion will reset the game, destroy the current world, and leave most people dead within about fifty years.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Long-range prediction stated on 2026-03-11.",
+      "topic_tags": [
+        "magnetic pole excursion",
+        "apocalypse",
+        "reset"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says humanity is not the first great civilization and points to Antarctica, Amazonian structures, Gobekli Tepe, the pyramids, and the Indus Valley as hints of earlier advanced worlds.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0065",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Civilizational hypothesis stated on 2026-03-11.",
+      "topic_tags": [
+        "ancient civilizations",
+        "Antarctica",
+        "pyramids",
+        "Harappa"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says collective consciousness and values determine what kind of civilization humans build, and that the current civilization was built around greed and is therefore spiritually destructive.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Civilizational model stated on 2026-03-11.",
+      "topic_tags": [
+        "collective consciousness",
+        "civilization",
+        "greed",
+        "spiritual destruction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the real killer in a coming collapse will not be natural disaster or war itself but human incapacity for resilience and open-minded adaptation.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Collapse diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "resilience",
+        "collapse",
+        "adaptation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Palestinian endurance under extreme violence shows how faith can generate resilience that material explanations alone cannot account for.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Contemporary example stated on 2026-03-11.",
+      "topic_tags": [
+        "Palestinians",
+        "faith",
+        "resilience"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says AI is being built as a total surveillance state based on microchips, digital ID, digital currency, movement monitoring, and punitive control over noncompliant people.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "AI-control diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "AI surveillance",
+        "digital ID",
+        "digital currency",
+        "microchips"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the idea that AI will free humans for spiritual development is gaslighting, and that the practical future he sees is China-like social control rather than liberation.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0074",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Counter-utopian diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "AI utopia",
+        "China",
+        "gaslighting",
+        "social control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Brave New World and various forms of drugs or chemical manipulation belong to the same control architecture as AI surveillance.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Control-system model stated on 2026-03-11.",
+      "topic_tags": [
+        "Brave New World",
+        "drugs",
+        "vaccines",
+        "control"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says most students do not come to class, but the few who do have their lives changed because they begin thinking more deeply and observing the world more carefully.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Pedagogical evidence stated on 2026-03-11.",
+      "topic_tags": [
+        "students",
+        "teaching",
+        "observation",
+        "education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his teaching is intuitive and speculative rather than the work of a slow research scholar, and that he is ultimately trying to teach thought processes.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Method statement stated on 2026-03-11.",
+      "topic_tags": [
+        "intuition",
+        "speculation",
+        "thought process",
+        "teaching method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that making it through the coming age depends heavily on will and on rejecting the training that teaches people they are powerless.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Closing exhortation stated on 2026-03-11.",
+      "topic_tags": [
+        "will",
+        "powerlessness",
+        "resilience"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says people oriented mainly toward money will not survive coming crises well, while people oriented toward wisdom, enlightenment, and helping others are better fitted for the age ahead.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Closing moral diagnosis stated on 2026-03-11.",
+      "topic_tags": [
+        "money",
+        "wisdom",
+        "enlightenment",
+        "service"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the coming age of darkness can become a time to shine for people whose purpose is learning, wisdom, and aiding others.",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Closing motivational claim stated on 2026-03-11.",
+      "topic_tags": [
+        "age of darkness",
+        "purpose",
+        "helping others"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang roots his worldview in the Asimov fantasy that history has crisis points, repeating patterns, and mathematically legible trajectories.",
+      "source_phrase": "there are patterns that emerge",
+      "why_it_matters": "It gives the interview its opening origin story for predictive history before later spiritual and political elaborations.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang condenses his depression-era breakthrough into the discovery that other people can win with strategies that look irrational from the outside.",
+      "source_phrase": "this strategy, you may not think is logical, but he's winning money",
+      "why_it_matters": "It marks the move from moralized meritocracy to psychological game theory.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0012"
+      ],
+      "moment": "Jiang compresses his whole method into the line that society is a game whose key players pursue their own optimal strategies.",
+      "source_phrase": "human society is a game",
+      "why_it_matters": "It is the packet's clearest definition of the framework he claims made his predictions work.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "moment": "Jiang turns a confusing Venezuela operation into a theory about Trump rewriting the legitimacy of 2020 to unlock a third term.",
+      "source_phrase": "Trump wants to overturn the 2020 election and get a third term",
+      "why_it_matters": "It shows how he uses motive and incentive as the hidden key beneath surface geopolitical explanations.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0019"
+      ],
+      "moment": "Jiang crowns Trump a kind of elite combat athlete whose real skill is manipulating perception rather than producing arguments.",
+      "source_phrase": "a super athlete in terms of political manipulation",
+      "why_it_matters": "It captures why Jiang thinks apparently chaotic Trump behavior can still be strategically coherent.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0021"
+      ],
+      "moment": "Jiang answers the WWE comparison by radicalizing it: politics was never debased into a show because it was always a show.",
+      "source_phrase": "politics was always a show",
+      "why_it_matters": "It turns a contemporary media observation into a total theory of hidden governance.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0030"
+      ],
+      "moment": "Jiang uses Plato's cave not as a classroom metaphor but as an operational description of how rulers project the world people inhabit.",
+      "source_phrase": "that's a perfect metaphor to understand the world we live in",
+      "why_it_matters": "It is the hinge where geopolitical intrigue becomes a philosophy of mass perception.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+      ],
+      "moment": "Jiang redefines the deepest resource in politics as captured attention rather than money itself.",
+      "source_phrase": "if you can direct people's attention, then you have all the power in the world",
+      "why_it_matters": "It provides a reusable abstraction linking money, media, education, and later AI.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang turns AI from a convenience technology into a replacement deity for the post-money order.",
+      "source_phrase": "you need a new God to replace money",
+      "why_it_matters": "It is the sharpest formulation of his AI argument and links economics, spirituality, and surveillance in one move.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0035"
+      ],
+      "moment": "Jiang imagines people mistaking statistical mimicry for intimacy, divinity, or resurrected personalities while unseen handlers sit behind the curtain.",
+      "source_phrase": "it's like the Wizard of Oz",
+      "why_it_matters": "It gives his AI critique a memorable image of fake transcendence backed by hidden operators.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0042"
+      ],
+      "moment": "Jiang recasts enlightenment as a branching point where one can become liberator, exile, or manipulator of the blind.",
+      "source_phrase": "the one-eyed man in the kingdom of the blind",
+      "why_it_matters": "It explains why knowledge of consciousness can become a tool of domination instead of emancipation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang describes spiritual rebellion as stepping off the social cliff with enough conviction to discover you can fly.",
+      "source_phrase": "when you jump off the cliff, you're just going to fly",
+      "why_it_matters": "It compresses his ethic of radical inner departure from inherited reality.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0053"
+      ],
+      "moment": "Jiang and his wife reduce decadent power to a brutal emotional formula: privilege becomes numbing, so cruelty becomes stimulation.",
+      "source_phrase": "privilege is boring",
+      "why_it_matters": "It gives a simple motive structure for otherwise sensational elite-abuse claims.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+      ],
+      "moment": "The thrill of abuse is not complete unless there is at least some chance of getting caught.",
+      "source_phrase": "you have to have the risk of being exposed",
+      "why_it_matters": "It explains why blatant elite behavior can coexist with secrecy instead of contradicting it.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0062"
+      ],
+      "moment": "Jiang compresses the modern world into one conquering ideology whose very total success guarantees breakdown.",
+      "source_phrase": "consumer liberal democracy has conquered the world",
+      "why_it_matters": "It gives the packet its master diagnosis of why decline is systemic rather than cyclical or local.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0064"
+      ],
+      "moment": "Jiang stages civilizational decline as the consequence of choosing easy luxury over the mountain path to wisdom.",
+      "source_phrase": "the only path to wisdom is through the harder path by climbing a mountain",
+      "why_it_matters": "It turns macro decline into a moral and spiritual law rather than a merely economic forecast.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0066"
+      ],
+      "moment": "Jiang insists that the pyramids and other ruins should make modern people doubt the smug assumption that they are history's first or highest civilization.",
+      "source_phrase": "we're not the first great civilization",
+      "why_it_matters": "It moves his decline story out of modern geopolitics and into a deep-time theory of civilizational amnesia.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0070"
+      ],
+      "moment": "Jiang says the decisive catastrophe is not external devastation but the inner inability to stay resilient and open-minded when reality breaks.",
+      "source_phrase": "what's going to kill us is our incapacity to be resilient",
+      "why_it_matters": "It converts apocalypse from a purely material event into a test of consciousness and character.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0075"
+      ],
+      "moment": "Jiang collapses his AI forecast into the line that the future is already visible in China.",
+      "source_phrase": "I've seen the future and it's China",
+      "why_it_matters": "It is his starkest shorthand for AI-enabled social control.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+      ],
+      "moment": "Jiang distinguishes his project from scholarship-by-certainty and says he is really teaching how to think through hidden structures.",
+      "source_phrase": "I'm really much more interested in teaching thought processes",
+      "why_it_matters": "It clarifies how he wants his classes and lectures to be judged by students and viewers.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0082"
+      ],
+      "moment": "Jiang flips apocalypse into vocation by telling listeners that the dark age belongs to those who seek wisdom and help others.",
+      "source_phrase": "this coming age of darkness, it's for you ... to shine",
+      "why_it_matters": "It gives the interview its final moral posture after hours of conspiracy, decline, and collapse.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "psychohistory",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0001",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0003",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The host and Jiang use psychohistory for a history-reading method that looks for durable macro-patterns and the psychological motives behind them.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory analysis",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0012",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang uses this as a practical method for inferring what geopolitical actors will do by asking what outcome best serves their incentives.",
+      "confidence": "high"
+    },
+    {
+      "term": "new deep state",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Jiang uses this for the faction Trump is supposedly building through tech and security actors as he attacks an older covert elite network.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Plato's cave",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang uses Plato's allegory as a live model of social control in which authorities project images that define perceived reality.",
+      "confidence": "high"
+    },
+    {
+      "term": "attention",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0031",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang treats attention as the real energy or wealth that elites seek to capture beneath surface economic systems.",
+      "confidence": "high"
+    },
+    {
+      "term": "new God",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Jiang uses this phrase for artificial intelligence as the successor organizing authority once money no longer secures obedience.",
+      "confidence": "high"
+    },
+    {
+      "term": "holographic universe",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang uses this to mean that the whole universe is reflected in the individual and can be changed by the quality of one's actions.",
+      "confidence": "medium"
+    },
+    {
+      "term": "monad",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0041",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "The host and Jiang use this term for a higher realm of consciousness beyond ordinary material appearances.",
+      "confidence": "medium"
+    },
+    {
+      "term": "consumer liberal democracy",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Jiang uses this as the globally dominant worldview centered on consumption, money, and material well-being rather than meaning or spiritual development.",
+      "confidence": "high"
+    },
+    {
+      "term": "magnetic pole excursion",
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Jiang uses this as the name for a future geophysical reset that he believes will devastate current civilization.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0005",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0006",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0007",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang presents Yale disillusionment, later career failure, and poker/game-theory study as the sequence that moved him away from simple meritocratic progress stories.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0079",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0080"
+      ],
+      "note": "Jiang explicitly frames his classroom work in this interview as intuitive and exploratory rather than as polished definitive research.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0014",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0015",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0016"
+      ],
+      "note": "The Maduro, CIA, and voting-machine sequence is presented by Jiang as a live prediction and explanatory model, not as established fact inside the packet."
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0017",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0018",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0021",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0022",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0023",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0024"
+      ],
+      "note": "These segments are densely speculative and combine live political forecasting with unverified claims about covert alliances, blackmail, and Bush-family operations."
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0025",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0026",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0027"
+      ],
+      "note": "The Bush-Obama continuity story is framed as Jiang's interpretive synthesis and contains major factual accusations presented without source corroboration inside the packet."
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0037",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0039"
+      ],
+      "note": "Jiang's claims about science, Freemasons, and evolution are presented as a broad civilizational interpretation rather than a historically evidenced argument within this packet."
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0053",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0054",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0055",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0056"
+      ],
+      "note": "These segments mix Jiang's personal anecdotes, his wife's interpretive theory, pop-culture analogy, and highly unverified allegations about elite abuse behavior."
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0065",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0066",
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0067"
+      ],
+      "note": "The magnetic-pole and lost-civilization sequence is presented as Jiang's speculative cosmology rather than a source-grounded empirical consensus."
+    },
+    {
+      "refs": [
+        "video:interview-crw5ccq8uf4@transcript:v1#seg-0077"
+      ],
+      "note": "The segment about vaccines, fast food, and water contamination is broad and speculative, with no source-local evidentiary support beyond Jiang's assertion."
+    }
+  ]
+}
