@@ -1,0 +1,302 @@
+{
+  "packet_id": "interview-4ql24z8siee-semantics-pkt-0001",
+  "source_id": "video:interview-4ql24z8siee",
+  "source_date": "2026-03-03",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0001",
+        "video:interview-4ql24z8siee@transcript:v1#seg-0002"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts introduce Jiang and open the interview with a brief welcome.",
+      "speaker_attribution": "Host introduction and guest greeting",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The host frames the interview around Jiang's earlier three-part prediction and cues a clip from that prior source.",
+      "speaker_attribution": "Host setup question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0004"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A quoted earlier Jiang clip is played in which he predicts a Trump victory, a U.S. war with Iran, and an American defeat that reshapes world order.",
+      "speaker_attribution": "Archival Jiang clip quoted inside the interview",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0005"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Jiang still stands by the prediction that the United States will lose the war with Iran and what current evidence supports it.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006",
+        "video:interview-4ql24z8siee@transcript:v1#seg-0007",
+        "video:interview-4ql24z8siee@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Iran has strategic advantages in a war of attrition, has prepared for years through ideology and proxies, and can attack Gulf infrastructure in ways that would collapse the petrodollar-financed American economy.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0004"
+      ],
+      "note": "The transcript labels the archival clip with a different speaker tag, but the content is clearly Jiang being quoted from an earlier class recording.",
+      "suggested_speaker": "Jiang archival clip",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The host says Jiang made three earlier predictions: Trump would win, the United States would go to war with Iran, and the United States would lose that war.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0003",
+        "video:interview-4ql24z8siee@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interview framing on 2026-03-03 that cites an earlier 2024 prediction clip.",
+      "topic_tags": [
+        "prediction",
+        "Trump",
+        "Iran war",
+        "global order"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the quoted earlier clip, Jiang says an American loss against Iran would forever change the global order and says only that third prediction had not yet happened at the time of the clip.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Earlier undated class clip quoted inside the 2026 interview.",
+      "topic_tags": [
+        "prediction",
+        "global order",
+        "Iran war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he still stands by the view that Iran holds more advantages than the United States because the conflict is now a war of attrition.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Current war diagnosis on 2026-03-03.",
+      "topic_tags": [
+        "war of attrition",
+        "Iran",
+        "United States",
+        "military balance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Iran has prepared for this conflict for twenty years and treats it in religious terms as a war against the great Satan.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Strategic and ideological diagnosis on 2026-03-03.",
+      "topic_tags": [
+        "Iran",
+        "eschatology",
+        "religion",
+        "preparation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a previous June twelve-day war let Iran study Israeli and American strike capacities and that the intervening eight months were used to prepare for the new attack.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective evidence cited on 2026-03-03.",
+      "topic_tags": [
+        "Iran",
+        "Israel",
+        "United States",
+        "military preparation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iranian proxies such as Hezbollah, Hamas, Shia militias, and what the transcript likely means as the Houthis have helped Iran understand the American mentality and refine a strategy to weaken the American empire.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Strategic diagnosis on 2026-03-03.",
+      "topic_tags": [
+        "Iranian proxies",
+        "Houthis",
+        "Hezbollah",
+        "Hamas",
+        "strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Iran is waging war against the entire global economy by striking GCC states, American bases, and critical infrastructure such as desalination plants.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006",
+        "video:interview-4ql24z8siee@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current war diagnosis on 2026-03-03.",
+      "topic_tags": [
+        "global economy",
+        "GCC",
+        "infrastructure",
+        "desalination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a successful drone strike on a desalination plant could leave a city like Riyadh without water in roughly two weeks.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Scenario model stated on 2026-03-03.",
+      "topic_tags": [
+        "Saudi Arabia",
+        "water",
+        "infrastructure",
+        "drone warfare"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Gulf states function as the linchpin of the American economy because petrodollars are recycled back into U.S. financial markets and AI investments.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Political-economic model stated on 2026-03-03.",
+      "topic_tags": [
+        "petrodollar",
+        "AI bubble",
+        "Gulf states",
+        "American economy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if Gulf states cannot keep selling oil or financing AI and data centers, the U.S. AI bubble and then the broader American economy will burst.",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Forward-looking economic prediction on 2026-03-03.",
+      "topic_tags": [
+        "AI bubble",
+        "petrodollar",
+        "American economy",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang recasts the conflict as attritional warfare in which Iran has had decades of ideological and logistical preparation while America is only discovering the terrain.",
+      "source_phrase": "Right now, it's a war of attrition between the United States and Iran.",
+      "why_it_matters": "This is the core frame that lets him reverse the assumption that U.S. power guarantees victory.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0007"
+      ],
+      "moment": "The war is made vivid as a cheap-drone attack that can turn a Gulf megacity into a place without water in two weeks.",
+      "source_phrase": "They'd be out of water in two weeks.",
+      "why_it_matters": "It compresses Jiang's larger argument about infrastructure fragility into a memorable image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang ties Gulf oil and AI finance together so that a regional war becomes a direct threat to the American AI bubble and the broader economy.",
+      "source_phrase": "This AI bubble will burst, and with it, will burst as well as the entire American economy.",
+      "why_it_matters": "It is the packet's sharpest causal chain from Gulf warfare to domestic American collapse.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "war of attrition",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's label for the conflict as a long endurance contest rather than a quick American strike campaign.",
+      "confidence": "high"
+    },
+    {
+      "term": "petrodollar",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The Gulf oil revenue system Jiang says is recycled into American markets and props up U.S. economic power.",
+      "confidence": "high"
+    },
+    {
+      "term": "GCC",
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0007",
+        "video:interview-4ql24z8siee@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The Gulf states Jiang treats as both the immediate battlefield target and the financial hinge of American power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0004"
+      ],
+      "note": "The interview embeds an earlier prediction clip, so this packet contains both Jiang's current 2026 framing and a retrospective citation to a prior 2024 claim.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0006"
+      ],
+      "note": "Several proxy and place names are visibly ASR-damaged, including the likely references to the Houthis and other regional actors."
+    },
+    {
+      "refs": [
+        "video:interview-4ql24z8siee@transcript:v1#seg-0007"
+      ],
+      "note": "The repeated phrase rendered as \"tropical moose\" is almost certainly a garbled place name or chokepoint reference, so the strategic point is clearer than the exact wording."
+    }
+  ]
+}
