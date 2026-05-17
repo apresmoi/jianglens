@@ -131,6 +131,16 @@ The exercise matters because a great book does not leave the heart hidden. It ex
 
 This is the character-level bridge to the larger concept. Fictional heroes become part of the self when they clarify what the heart is doing. But the human-heart lens is broader than the literary technique. It asks what that clarified heart means for a society, civilization, institution, model, or political order.
 
+## Childhood Audits Civilization
+
+The **2026-01-26** Glenn Diesen interview turns the heart test into a demographic and childhood audit. Jiang rejects East Asian triumphalism not because high test scores, export success, and modern infrastructure are fake, but because the society can look successful while young people refuse to reproduce it. In South Korea, Japan, and China, he says fertility collapse is not only a statistic. If young women are not marrying or having children, that is [a vote of no confidence in society]{evidence="video:interview-80juke0blaq@transcript:v1#seg-0048"}.
+
+That formulation belongs on the human-heart page because the decisive question is not GDP, robot density, or school rigor. Jiang then names the failed value system directly: consumption, status, loneliness, disconnection, alienation, depression, and student suicide show that [neoliberal values have made people miserable]{evidence="video:interview-80juke0blaq@transcript:v1#seg-0056"}. The repair is not a birth-rate subsidy by itself. It is a civilizational conversation about meaning, happiness, spirituality, community, family, and children. His final standard is concrete: a society has to organize itself around [children having a happy childhood and becoming creative, resilient, empathetic people]{evidence="video:interview-80juke0blaq@transcript:v1#seg-0058"}.
+
+<!-- lens-point id="heart-childhood-audits-civilization" concept="human-heart" evidence="video:interview-80juke0blaq@transcript:v1#seg-0048 video:interview-80juke0blaq@transcript:v1#seg-0056 video:interview-80juke0blaq@transcript:v1#seg-0057 video:interview-80juke0blaq@transcript:v1#seg-0058" -->
+<span id="heart-childhood-audits-civilization" class="lens-point-anchor"></span>
+Childhood audits civilization when fertility, loneliness, depression, and family formation reveal whether a society gives people enough meaning, community, spirituality, resilience, creativity, and empathy to want children and raise them well.
+
 ## The Safe Place Is Relation
 
 The March 2026 interview cycle gives the human-heart page a late crisis test. After the model has made danger visible, the interviewer stops asking only whether Jiang's forecast is right and asks what a normal person should do.
@@ -176,6 +186,7 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **Tragedy Test**: What public form lets people see hubris, revenge, grief, pity, and judgment before those forces govern blindly?
 - **Model Test**: Does the analysis model human need and moral structure, or only institutions, incentives, force, and material variables?
 - **Safe-Place Test**: When disorder becomes visible, does the person seek private escape through geography and wealth, or build the relational and spiritual order that can live through chaos?
+- **Childhood Test**: Do fertility, family formation, child happiness, student depression, and youth resilience confirm that people want to continue the society, or expose its success metrics as spiritually empty?
 - **Conversation Test**: Is conflict being handled inside reaction machinery, or in a form where people can stay present, argue in good faith, and build trust?
 
 ## Chronology
@@ -189,9 +200,10 @@ Use this lens when an institution, story, policy, school, or civilization seems 
 - **2025-11-12**, [The Bible Turns Mistakes Into Imagination](/episodes/predictive-history-plmnq44tbg0/): Yahweh becomes a fallible, reflective, forgivable authority; argument with God turns forgiveness into learning rather than submission to perfect command.
 - **2025-12-16**, [Modernity Needs A Scapegoat](/episodes/predictive-history-zprecjhuous/): the Bakunin contrast gives the relational-freedom layer. The object and isolated self cannot carry paradise; meaning, purpose, love, and freedom are found among other free people.
 - **2026-01-14**, [Homer Makes Achilles Real Enough To Invent The Human](/episodes/predictive-history-ft2cuowguyc/): Achilles becomes a mirror for pride, vulnerability, imagination, and the complicated dark heart inside the reader.
+- **2026-01-26**, [The Liberal Order Drops The Mask](/interviews/interview-80juke0blaq/): East Asian fertility collapse and South Korean loneliness become a human-heart audit: a society can look modern and wealthy while young women, depressed students, and alienated families reveal that its values no longer make children, meaning, resilience, or empathy plausible.
 - **2026-03-11**, [Hubris, Holy War, and the Petrodollar Trap](/interviews/interview-6tqrwlvswrs/): after Jimmy Dore asks what a regular person should do if an economic crash arrives, Jiang says money is a control illusion and true wealth is spirituality, empathy, humanity, consciousness, family, friends, purpose, creativity, and neighbors who may save your life.
-- **2026-04-06**, [When War Becomes a Script and Fame Becomes a Trap](/interviews/interview-vucfnjlcyqk/): Sneako asks what young people should invest in if empire collapses; Jiang answers with human relationships, emotional bonds, shared food, trusted communities, and more in-person conversations that can resist online performance.
 - **2026-04-01**, [The Safe Place Is Not A Place](/interviews/interview-t5cnf8dqj-q/): after a predictive-history interview about civil war, Pax Judaica, AI, and World War III, Jiang says safety is not finally geography or wealth but mindset, resilience, spirituality, family, friends, children, and community.
+- **2026-04-06**, [When War Becomes a Script and Fame Becomes a Trap](/interviews/interview-vucfnjlcyqk/): Sneako asks what young people should invest in if empire collapses; Jiang answers with human relationships, emotional bonds, shared food, trusted communities, and more in-person conversations that can resist online performance.
 
 ## Related Concepts
 
