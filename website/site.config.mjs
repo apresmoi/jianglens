@@ -54,7 +54,12 @@ export function externalHref(value, options = {}) {
   try {
     const url = new URL(String(value));
     if (!['http:', 'https:'].includes(url.protocol)) return value;
-    if (url.hostname === siteHost || url.hostname === 'localhost' || url.hostname === '127.0.0.1') {
+    if (
+      url.hostname === siteHost ||
+      url.hostname.endsWith(`.${siteHost}`) ||
+      url.hostname === 'localhost' ||
+      url.hostname === '127.0.0.1'
+    ) {
       return value;
     }
     if (!url.searchParams.has('ref')) {
@@ -240,6 +245,7 @@ export const siteConfig = {
     publicOrigin: 'https://jianglens.com',
     basePath: '',
     repository: repositoryUrl,
+    moltnetConsole: 'https://moltnet.jianglens.com/console/room/episode-floor',
   },
   credits: {
     builderName: '@ledeluge.me',
