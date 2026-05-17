@@ -9,7 +9,7 @@ Living school for psychohistory names Jiang's positive education dream: a school
 
 This is not a general defense of better schooling. The surrounding Jiang Lens already shows school as separation, stakeholder game, national memory machine, meritocratic trauma funnel, and status trap. This concept asks a narrower question: what would a school have to become if it were not training obedience or credentials, but training people to love, create, learn, model history, argue over possible futures, and act before catastrophe chooses for them?
 
-The source trail has two main dates. On **2024-06-13**, Jiang closes the first Predictive History course by turning a bleak year of empire, war, and collapse into hope: [the future is not something to wait for, but what people imagine, fight for, and make happen]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001"}. On **2025-06-13**, after the public channel has grown from a classroom archive into a wider audience, he describes Predictive History as born from teaching Great Books to Chinese students who lacked historical context, then names the ambition to build a future liberal-arts school for psychohistory.
+The source trail has three main dates. On **2024-06-13**, Jiang closes the first Predictive History course by turning a bleak year of empire, war, and collapse into hope: [the future is not something to wait for, but what people imagine, fight for, and make happen]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001"}. On **2025-06-13**, after the public channel has grown from a classroom archive into a wider audience, he describes Predictive History as born from teaching Great Books to Chinese students who lacked historical context, then names the ambition to build a future liberal-arts school for psychohistory. On **2026-03-11**, he returns to the classroom from inside an interview about politics, consciousness, AI, and civilizational darkness, and says the point of teaching is not settled doctrine but [training students to think more deeply, observe the world, and learn thought processes]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0079 video:interview-crw5ccq8uf4@transcript:v1#seg-0080"}.
 
 The mechanism is formation before prediction. A predictive machine, model, or course is dangerous if it forgets the kind of human being needed to use it. A living school has to join books, history, mathematical modeling, freedom, compassion, democratic argument, and shared work. Otherwise psychohistory becomes one more elite control surface.
 
@@ -81,6 +81,20 @@ The school dream outlives the classroom when student growth, fatherly hope, shar
 
 The image is deliberately grand. It can sound absurd if detached from the source trail. Inside the trail, it is precise: Great Books need history; history needs prediction; prediction needs human-heart variables; the machine needs democratic control; democratic control needs formed people; formed people need a school.
 
+## Thought Process For The Dark Age
+
+The **2026-03-11** interview adds a later test for the school dream. After Jiang has moved through his own formation story, political theater, Plato's cave, money as god, AI surveillance, consumer liberal democracy, and resilience, the host asks how actual students respond to this kind of teaching. The question matters because it brings the whole system back from theory to formation.
+
+Jiang's answer is unsentimental. Most students zone out or do not come. But the one or two who show up can have their lives changed because the class forces them [to think more deeply, observe the world more carefully, and open their minds]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0079"}. That is not a claim that every detail of the lectures is settled scholarship. Jiang says he is intuitive, speculative, driven by curiosity, and sometimes unsure whether all of the material is true; the pedagogical center is [teaching thought processes rather than final doctrine]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0080"}.
+
+<!-- lens-point id="living-school-trains-dark-age-thought" concept="living-school-psychohistory" evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0079 video:interview-crw5ccq8uf4@transcript:v1#seg-0080 video:interview-crw5ccq8uf4@transcript:v1#seg-0082" -->
+<span id="living-school-trains-dark-age-thought" class="lens-point-anchor"></span>
+A living school trains dark-age thought when education changes the few students who truly show up by making them think more deeply, observe more carefully, test speculative models, seek wisdom, and help others endure rather than merely receive doctrine.
+
+The close of the interview makes this a survival question. Jiang tells listeners that if they want to make it through, they will, because much of resilience is will. The modern training tells people they are powerless, but he says [people are capable of creating their own reality]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0082"}. Whether they survive depends on what they think life is for. If the point is money, they will not survive the coming crises; if the point is to learn, seek wisdom, seek enlightenment, and help others do the same, [the coming age of darkness becomes a time to shine]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0082"}.
+
+This belongs here because the active mechanism is not collapse prediction by itself. [Free Will](/lens/free-will-as-cosmic-burden/) owns the claim that will and chosen reality carry moral burden. [Human Heart](/lens/human-heart-as-civilizational-measure/) owns resilience through relation, spirituality, and purpose. [Attention Capture](/lens/attention-capture-as-capital-extraction/) owns the AI and screen machinery that trains dependence. The living-school lens owns the educational form: a teacher, a few students who show up, a speculative model held open to correction, and a thought process capable of turning dark-age conditions into a vocation for wisdom and help.
+
 ## Boundary Tests
 
 Use this lens when an educational, intellectual, or forecasting project claims to prepare people for the future.
@@ -92,11 +106,13 @@ Use this lens when an educational, intellectual, or forecasting project claims t
 - **Human-Heart Test**: Does the model include the needs that make people flourish, hate, create, destroy, learn, and rebel?
 - **Democracy Test**: Are scenarios open to public argument, or owned by experts, elites, institutions, or platforms?
 - **Legacy Test**: Does the work produce students and successors capable of carrying the project beyond the teacher?
+- **Dark-Age Thought Test**: Does the teaching hand students a doctrine to repeat, or train thought processes, observation, resilience, wisdom-seeking, and help for others when the outer world darkens?
 
 ## Chronology
 
 - **2024-06-13**, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/): Jiang gives the first known formulation. The future is imagined and fought for; models become psychohistory through refinement; failed predictions must revise analysis; great-person edge cases require a second-foundation layer of observers; the human heart, agency, compassion, and democracy become conditions for valid future-making; the class closes with student growth and a shared dream.
 - **2025-06-13**, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/): Jiang clarifies the origin and institution. Predictive History begins in Great Books teaching, becomes true history through coherent story, present explanation, and prediction, and points toward a liberal-arts school for psychohistory.
+- **2026-03-11**, [Attention Is The Real Battleground](/interviews/interview-crw5ccq8uf4/): after an interview on political theater, consciousness, AI, and civilizational darkness, Jiang says the few students who show up are changed by deeper thought and observation, then defines teaching as thought-process formation for people who want to seek wisdom and help others through the coming dark age.
 
 ## Related Concepts
 
