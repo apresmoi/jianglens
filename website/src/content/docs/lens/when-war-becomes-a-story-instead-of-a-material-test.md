@@ -65,6 +65,14 @@ The **2026-03-12** Piers Morgan interview makes this systems test more public an
 <span id="strategy-cheap-energy-platform-breaks" class="lens-point-anchor"></span>
 Cheap energy becomes a strategic platform when oil, fertilizer, semiconductors, AI infrastructure, travel, food imports, desalination, tourism, and security guarantees are coupled inside the same imperial order; when the platform breaks, the glamour and aura built on top of it are audited at once.
 
+The short **2026-03-03** interview gives a compact same-day public form of the same audit from inside the live war. Jiang says the conflict has become [a war of attrition between the United States and Iran]{evidence="video:interview-4ql24z8siee@transcript:v1#seg-0006"}, not a prestige contest where American high technology settles the question. Iran's advantage is not mirror-image superiority. It is preparation, proxy learning, infrastructure targeting, and a cost structure that makes the richer machine spend badly.
+
+The military mismatch then becomes an imperial-belief test. Jiang says the American military-industrial complex was built for Cold War technological display, so [million-dollar missiles are being asked to defeat far cheaper drones]{evidence="video:interview-4ql24z8siee@transcript:v1#seg-0012"}. The result is not only munitions depletion. It is [the puncturing of the aura of invincibility]{evidence="video:interview-4ql24z8siee@transcript:v1#seg-0012 video:interview-4ql24z8siee@transcript:v1#seg-0013"} that made allies, Gulf monarchies, and markets behave as if American protection were normal reality.
+
+<!-- lens-point id="strategy-attrition-audits-prestige-machine" concept="strategy-material-test" evidence="video:interview-4ql24z8siee@transcript:v1#seg-0006 video:interview-4ql24z8siee@transcript:v1#seg-0012 video:interview-4ql24z8siee@transcript:v1#seg-0013" -->
+<span id="strategy-attrition-audits-prestige-machine" class="lens-point-anchor"></span>
+Attrition audits a prestige machine when a prepared opponent uses cheap weapons, infrastructure pressure, and time to make an expensive military order spend down the aura that made its power look self-evident.
+
 The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
 
 ## No-Exit War
@@ -315,6 +323,8 @@ In **August 2025**, the eschatology convergence update adds the hybrid-war layer
 
 In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
 
+In **March 2026**, the March 3 Iran-war interview gives a compact live-war formulation of attrition as an audit of the American prestige machine: cheap drones, infrastructure pressure, and cost asymmetry puncture the aura that made American protection feel real.
+
 In **March 2026**, the Piers Morgan interview turns the same Hormuz board into a cheap-energy-platform audit: oil, food, fertilizer, semiconductors, AI infrastructure, travel, desalination, tourism, and American security guarantees all become one exposed system.
 
 In **March 2026**, the Danny Haiphong interview adds the no-exit war formulation: hubris and Heartland-dollar desperation start the war, a real Iran campaign requires unavailable ground-war capacity, and retreat would threaten the GCC, bases, Treasury buyers, and the dollar order.
@@ -381,6 +391,12 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011`
   `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013`
   `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038`
+
+- **2026-03-03**, [Attrition Breaks The American Aura](/interviews/interview-4ql24z8siee/)
+  The interview gives the compact live-war version of the attrition audit: Iran does not need symmetrical superiority if cheap weapons, Gulf infrastructure pressure, and time can force America's expensive Cold War prestige machine to spend down its aura.
+  `video:interview-4ql24z8siee@transcript:v1#seg-0006`
+  `video:interview-4ql24z8siee@transcript:v1#seg-0012`
+  `video:interview-4ql24z8siee@transcript:v1#seg-0013`
 
 - **2026-03-09**, [A War Without Purpose Becomes Imperial Suicide](/interviews/interview-6rtli-qwd1i/)
   The Diesen interview adds the no-exit version before later March interviews: Jiang says the war lacks a purpose or off-ramp, the Gulf platform is a mirage whose shattered illusion cannot be restored, and Diesen names the closing danger as the illusion of escalation control.
