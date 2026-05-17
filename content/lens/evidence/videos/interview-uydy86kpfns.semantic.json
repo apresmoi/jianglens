@@ -1,0 +1,1381 @@
+{
+  "id": "evidence:semanticvideo-interview-uydy86kpfns:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-uydy86kpfns",
+  "source_id": "video:interview-uydy86kpfns",
+  "source_title": "China will replace US dominance through win-win not warmongering. With Professor Jiang Xuejin",
+  "source_url": "https://www.youtube.com/watch?v=uYdY86KpFns",
+  "source_date": "2026-01-25",
+  "date_precision": "day",
+  "transcript_id": "video:interview-uydy86kpfns@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-uydy86kpfns/packet-0009.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-uydy86kpfns/source.yaml",
+    "transcript_path": "content/sources/videos/interview-uydy86kpfns/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 9,
+    "interactions": 37,
+    "speaker_notes": 0,
+    "claims": 35,
+    "signature_moments": 16,
+    "predictions": 7,
+    "models": 12,
+    "glossary_terms": 17,
+    "chronology_notes": 8,
+    "uncertainty_notes": 7
+  },
+  "first_refs": [
+    "video:interview-uydy86kpfns@transcript:v1#seg-0003",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0004",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0005",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0006",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0008",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0009",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0010",
+    "video:interview-uydy86kpfns@transcript:v1#seg-0013"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0001",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang and asks how the next decade of American decline and Chinese rise is likely to unfold.",
+      "speaker_attribution": "Host opening question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0003",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0004",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0005",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that declining empires lash out abroad and fracture at home, using current American military threats and ICE violence as signs of imperial decay and pre-civil-war escalation.",
+      "speaker_attribution": "Jiang opening geopolitical answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host asks how these American actions and the Minnesota killing are being perceived in China and the wider world.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the central reaction is shock at American hypocrisy, especially after Washington claimed to defend protest rights abroad while suppressing them at home.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0009",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0010"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues that Washington's treatment of Maduro and renewed Greenland threats show a mafia empire that disgusts the world.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0011",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether imperial decline makes domestic politics more turbulent and whether MAGA could prove more boom-and-bust than stable.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0013",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0014",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0015"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the United States is already in civil war between old Wall Street power and new Silicon Valley power, and he predicts Trump will build a loyal military machine for a third-term constitutional coup.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The host contrasts current repression with the George Floyd protests and reinforces Jiang's double-standard argument while beginning a wider question about the global response.",
+      "speaker_attribution": "Host bridge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0017"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether countries will respond to American disorder by moving faster toward China, BRICS, and other multilateral institutions.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0018",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0019",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0020",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Mark Carney's speech marks a turning point toward a genuine rules-based order centered on China, BRICS, multilateral trade, and even gold-backed discipline against American financial corruption.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0022"
+      ],
+      "kind": "question",
+      "summary": "The host adds that Russia's reserve strategy shows why gold is attractive and asks whether China also rejects exorbitant privilege itself.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0023",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that exorbitant privilege corrodes the hegemon through indiscipline, oligarchy, inequality, and complacency.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0025"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether higher NATO spending is really a military-strategic attempt to preserve global dominance.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0026",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the spending surge is mostly corruption and vassalization: a way to channel more money to American contractors rather than improve real war-fighting capacity.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0028"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that the policy mainly enriches the military-industrial complex.",
+      "speaker_attribution": "Host agreement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0029",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0030"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang interrupts to call the Ukraine war a money-laundering operation, and the host partly agrees while stressing corruption and coercion inside Ukraine.",
+      "speaker_attribution": "Jiang-host exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0031",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0032"
+      ],
+      "kind": "question",
+      "summary": "The host then asks how Beijing reads Britain's mixed signals toward China through sinophobia, embassy politics, and Starmer's planned visit.",
+      "speaker_attribution": "Host transition question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0033",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0034"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the real spies compromising Europe are the United States and Israel, while China is singled out with far less evidence.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0035",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0036",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0037"
+      ],
+      "kind": "exchange",
+      "summary": "The host broadly agrees, argues for closer UK-China ties, and adds that the EU itself may be an empire sliding toward internal rebellion.",
+      "speaker_attribution": "Host extension",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0038",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that fake multilateralism is over, every state should pursue its own interests, and the EU bureaucracy is prolonging disaster in Ukraine because it cannot admit error.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that fear of losing face is part of what traps European politicians in the war.",
+      "speaker_attribution": "Host agreement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0041"
+      ],
+      "kind": "question",
+      "summary": "The host argues that Europe is sacrificing its own strategic interests, especially cheap energy, and asks Jiang to extend that diagnosis.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0042"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Germany has committed economic suicide by replacing cheap Russian energy with expensive American LNG.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0043",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0044"
+      ],
+      "kind": "exchange",
+      "summary": "The host elaborates on German mismanagement, green contradictions, and ongoing European sinophobia as strategic drags.",
+      "speaker_attribution": "Host extension",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says both sinophobia and Russophobia drive EU policy, and Trump's own aggression will soon force a European pivot whether leaders choose it or not.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0046",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0047",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host asks about the South China Sea and Taiwan, and Jiang answers that China's posture is conservative, driven by blockade vulnerability and the long-term need to prepare for Japan rather than America.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0049",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "After Jiang calls China's South China Sea posture conservative, the host asks whether Japan could ever become a credible challenger once the US weakens.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Japan feels the clock is running out, may seek confrontation over Taiwan within a short window, and cannot wait twenty years for China to become overwhelming.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0053",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0055"
+      ],
+      "kind": "question",
+      "summary": "The host shifts to fertility, asking whether China is moving toward a more family-focused response than Japan.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0054"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks for the fertility question to be repeated.",
+      "speaker_attribution": "Clarification request",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that East Asia's fertility collapse is structural and cultural, not something easily fixed by policy slogans.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0057",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0058",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0059"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang finishes the demographic point by saying South Korea could be extinct in fifty years, and the host briefly checks the time horizon.",
+      "speaker_attribution": "Jiang-host clarification",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0060",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0061"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether China's rise should be understood less as Anglo-style domination and more as convening multilateral trade.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0062",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0063"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that China historically stays within its borders, prioritizes trade and multilateralism, and is shaped by a Confucian ethic of reciprocity rather than a Faustian drive to dominate.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "The host reinforces the reciprocity theme with a Russia analogy and begins the closing thank-you.",
+      "speaker_attribution": "Host closing exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0065"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes the interview by praising Jiang's historically grounded strategic insight and thanking the audience.",
+      "speaker_attribution": "Host closing",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0066"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang gives a brief closing thank-you.",
+      "speaker_attribution": "Jiang closing",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says declining empires do not die peacefully and instead overextend abroad through reckless military commitments.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "General model stated on 2026-01-25.",
+      "topic_tags": [
+        "empire decline",
+        "military overreach",
+        "United States"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang diagnoses the United States in early 2026 as both externally aggressive and internally near civil war, citing threats against Iran, Greenland, Canada, Cuba, Colombia, and Mexico alongside conflict around ICE and Minnesota.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0003",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Current-events diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "American empire",
+        "civil war",
+        "ICE",
+        "Minnesota"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that ICE behavior is deliberately provocative and may be aimed at creating a pretext for Trump to invoke the Insurrection Act and delay midterm elections.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0005",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Immediate political forecast stated on 2026-01-25.",
+      "topic_tags": [
+        "ICE",
+        "Insurrection Act",
+        "midterms",
+        "Trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the world is reacting less to American strength than to the exposure of American hypocrisy over democracy and protest rights.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Current interpretive claim stated on 2026-01-25.",
+      "topic_tags": [
+        "American hypocrisy",
+        "protests",
+        "Iran",
+        "global reaction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Maduro's public humiliation and possible future moves against Greenland show that American sovereignty rhetoric has collapsed into mafia tactics.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0009",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Current-events diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "Maduro",
+        "Greenland",
+        "sovereignty",
+        "American empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the real American conflict is between an old Wall Street-centered global elite and a newer Silicon Valley bloc around Trump, Musk, Thiel, and Vance.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Structural power diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "Wall Street",
+        "Silicon Valley",
+        "Trump",
+        "elite factions"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the Minnesota conflict will spread nationally and intensify if Trump pursues a third term.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0013",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2026-01-25.",
+      "topic_tags": [
+        "Minnesota",
+        "civil war",
+        "third term",
+        "Trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump is purging the Pentagon and using ICE as a secret-police formation so that a third-term coup can be enforced by loyal armed institutions.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current diagnosis and future scenario stated on 2026-01-25.",
+      "topic_tags": [
+        "Pentagon",
+        "ICE",
+        "secret police",
+        "coup"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Trump will likely succeed in obtaining a third term and become a Caesar-like ruler backed by a more loyal military and overseas victories.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Explicit prediction stated on 2026-01-25.",
+      "topic_tags": [
+        "Trump",
+        "third term",
+        "Julius Caesar",
+        "military loyalty"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Mark Carney's speech marks a turning point because it openly declares the old rules-based order a myth and the Trump-era United States a mafia empire.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Current geopolitical interpretation stated on 2026-01-25.",
+      "topic_tags": [
+        "Mark Carney",
+        "rules-based order",
+        "mafia empire",
+        "middle powers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is the main power actively advocating multilateralism through trade, infrastructure, and cooperation with developing countries.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current strategic positioning stated on 2026-01-25.",
+      "topic_tags": [
+        "China",
+        "multilateralism",
+        "infrastructure",
+        "developing world"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang presents the Shanghai Gold Exchange and a transparent gold ledger as part of a Chinese plan for a new order that restrains corruption and finances productive infrastructure.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0019",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Programmatic model stated on 2026-01-25.",
+      "topic_tags": [
+        "gold",
+        "Shanghai Gold Exchange",
+        "infrastructure",
+        "financial order"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says countries must move proactively into a new BRICS-shaped order now because a predatory United States will otherwise pick them off one by one.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0020",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Forward-looking geopolitical recommendation stated on 2026-01-25.",
+      "topic_tags": [
+        "BRICS",
+        "middle powers",
+        "Greenland",
+        "Canada"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says exorbitant privilege harms the hegemon by encouraging lack of discipline, corruption, oligarchy, inequality, and complacency.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0023",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "General causal model stated on 2026-01-25.",
+      "topic_tags": [
+        "exorbitant privilege",
+        "oligarchy",
+        "inequality",
+        "decay"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump's Pentagon expansion is fundamentally a kickback system for the military-industrial complex rather than a response to genuine military need.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current policy diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "Pentagon budget",
+        "corruption",
+        "military-industrial complex",
+        "Trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the five-percent NATO spending push is really a mechanism of European vassalization through purchases from American contractors like Raytheon and Boeing.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Current alliance diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "NATO",
+        "Europe",
+        "vassalization",
+        "Raytheon",
+        "Boeing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Ukraine war is already over in military terms but is being prolonged because it functions as a huge money-laundering operation.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Current war diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "Ukraine war",
+        "money laundering",
+        "Putin",
+        "peace"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host says British elites likely know the UK needs closer China ties but remain constrained by a political and media environment steeped in sinophobia.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0031",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Host diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "United Kingdom",
+        "China",
+        "sinophobia",
+        "Starmer"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States and Israel, not China, are the two powers with the strongest documented record of aggressively spying on Europeans.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0033",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Comparative diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "spying",
+        "Europe",
+        "United States",
+        "Israel",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host says the UK blocks Chinese investment on espionage grounds even while it needs closer trade and strategic ties with China.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Host policy diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "United Kingdom",
+        "Chinese investment",
+        "espionage",
+        "trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the old multilateral order was always a pretext for European and British free-riding on American power and that every state should now act in open self-interest.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "General political model stated on 2026-01-25.",
+      "topic_tags": [
+        "multilateralism",
+        "free riding",
+        "self-interest",
+        "Europe"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the EU bureaucracy is strategically incapable and keeps the Ukraine war going because officials fear admitting their own mistakes.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Current institutional diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "EU bureaucracy",
+        "Ukraine war",
+        "strategy",
+        "face-saving"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Germany has committed economic suicide by giving up cheap Russian energy and buying American LNG at a large markup.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "Germany",
+        "Russian energy",
+        "American LNG",
+        "economic suicide"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says sinophobia and Russophobia are major drivers of EU policy and block a more rational strategic pivot.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "sinophobia",
+        "Russophobia",
+        "EU",
+        "policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Europe will pivot in a year or two either by choice or because Trump's aggression and insults leave it no alternative.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Near-term prediction stated on 2026-01-25.",
+      "topic_tags": [
+        "Europe",
+        "pivot",
+        "Trump",
+        "Greenland"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China's South China Sea posture is strategically conservative because an American first-island-chain blockade could choke the food and oil imports that sustain the Chinese economy.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-01-25.",
+      "topic_tags": [
+        "South China Sea",
+        "first island chain",
+        "blockade",
+        "Chinese economy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China also needs to prepare for a future Japanese naval challenge in Southeast Asia after an American retreat, because Japan would be more dangerous there than a trade-oriented United States.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Longer-term strategic forecast stated on 2026-01-25.",
+      "topic_tags": [
+        "Japan",
+        "South China Sea",
+        "American retreat",
+        "Southeast Asia"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a recent Japanese statement that Taiwan is a vital strategic interest marks a provocative escalation in an already strained China-Japan relationship.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current diplomatic diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "Japan",
+        "Taiwan",
+        "provocation",
+        "China-Japan relations"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts escalation between China and Japan over the next few months because Japan believes its strategic window is closing.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Near-term prediction stated on 2026-01-25.",
+      "topic_tags": [
+        "Japan",
+        "China",
+        "escalation",
+        "strategic window"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Japan's aging crisis means it sees a decisive confrontation with China as a now-or-never five-year problem, because in twenty years it may lack the economy, population, and will to fight.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-01-25.",
+      "topic_tags": [
+        "Japan",
+        "aging crisis",
+        "war timing",
+        "game theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says fertility collapse across East Asia is driven by patriarchal culture, low female agency, extreme competition, high child-rearing costs, and inequality rather than by the absence of natalist rhetoric.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Structural demographic diagnosis stated on 2026-01-25.",
+      "topic_tags": [
+        "fertility",
+        "East Asia",
+        "patriarchy",
+        "inequality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says South Korea could effectively be extinct in fifty years if current demographic trends continue.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0057",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Long-range prediction stated on 2026-01-25.",
+      "topic_tags": [
+        "South Korea",
+        "fertility",
+        "extinction",
+        "demography"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China's historical self-understanding as Zhongguo or the Middle Kingdom inclines it toward trade and border security more than external domination.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Civilizational model stated on 2026-01-25.",
+      "topic_tags": [
+        "Zhongguo",
+        "Middle Kingdom",
+        "Chinese history",
+        "trade"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says any new world order led by China would be based on multilateralism, global trade, and win-win cooperation rather than domination.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Programmatic model stated on 2026-01-25.",
+      "topic_tags": [
+        "new world order",
+        "multilateralism",
+        "global trade",
+        "win-win cooperation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts a Western Faustian desire to struggle and dominate with a Chinese and Confucian emphasis on reciprocity.",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Civilizational contrast stated on 2026-01-25.",
+      "topic_tags": [
+        "Faustian mindset",
+        "Confucianism",
+        "reciprocity",
+        "civilizational difference"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0003"
+      ],
+      "moment": "Jiang frames the whole interview through the image of a dying empire flailing violently rather than yielding peacefully.",
+      "source_phrase": "when empires decline and die, they do not so peacefully",
+      "why_it_matters": "It sets the causal frame for both his foreign-policy and domestic-political analysis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang turns the Iranian leader's response into a public mirror that humiliates the American democracy story.",
+      "source_phrase": "the hypocrisy of American empire has been exposed",
+      "why_it_matters": "It compresses his account of why global opinion is shifting away from Washington.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0013"
+      ],
+      "moment": "Jiang recasts ordinary citizens as expendable pieces inside an intra-elite war.",
+      "source_phrase": "citizens... are just pawns in a larger game",
+      "why_it_matters": "It gives the domestic crisis a class-structural frame rather than a culture-war frame.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0015"
+      ],
+      "moment": "Jiang names Trump as a Caesar figure and makes the strongest regime-change prediction in the interview.",
+      "source_phrase": "Trump could be the Julius Caesar of our age",
+      "why_it_matters": "It concentrates his diagnosis of American constitutional breakdown into one memorable image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0020"
+      ],
+      "moment": "Jiang converts monetary reform into a moral and civilizational discipline project rather than a technical reserve-management tweak.",
+      "source_phrase": "let's put a new order based on gold",
+      "why_it_matters": "It shows that his China-centered order is supposed to restrain the corruption he associates with dollar hegemony.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0021"
+      ],
+      "moment": "Jiang turns Carney's warning into a menu image in which every middle power is eventually up for coercive consumption.",
+      "source_phrase": "eventually we're all running in a menu",
+      "why_it_matters": "It dramatizes why passive alliance with Washington is no longer safe.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0027"
+      ],
+      "moment": "Jiang turns the NATO budget debate into a tribute-extraction story in which Europe buys political favor from Trump by enriching his weapons friends.",
+      "source_phrase": "the vassalization of Europe",
+      "why_it_matters": "It is his sharpest shorthand for the alliance relation in this middle section.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0029"
+      ],
+      "moment": "Jiang strips away every noble war rationale and names the remaining mechanism in brutally transactional terms.",
+      "source_phrase": "it's a huge money laundering operation",
+      "why_it_matters": "It gives the Ukraine section its most memorable and inflammatory compression.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang makes the China-threat discourse look surreal by contrasting thin evidence against China with tolerated spying by actual allies.",
+      "source_phrase": "the Chinese are always in the spotlight",
+      "why_it_matters": "It captures his argument that sinophobia works as a political screen for more real dependency.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0039"
+      ],
+      "moment": "Jiang turns EU institutional inertia into tragedy driven not by grand strategy but by bureaucrats who cannot bear to say they were wrong.",
+      "source_phrase": "they don't want to lose face",
+      "why_it_matters": "It links European decline to psychology and administrative form, not just to geopolitics.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0042"
+      ],
+      "moment": "Jiang compresses Germany's energy-policy choice into a single civilizational self-harm verdict.",
+      "source_phrase": "the germans have committed economic suicide",
+      "why_it_matters": "It marks the point where his Europe analysis turns from drift to direct self-destruction.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0047",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang reframes South China Sea tension as a logistics-and-history problem rather than a simple expansion story.",
+      "source_phrase": "China is very conservative with foreign policy",
+      "why_it_matters": "It sets up the later Japan and reciprocity sections by denying that China is trying to dominate in the usual Western way.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "moment": "Jiang turns Japanese strategy into a countdown problem driven by demographic exhaustion.",
+      "source_phrase": "the clock is running out on us and we need to act now",
+      "why_it_matters": "It gives his Japan analysis a concrete timing mechanism instead of a vague rivalry frame.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0056"
+      ],
+      "moment": "Jiang refuses easy policy optimism and names the fertility crisis as a whole-culture problem.",
+      "source_phrase": "unless you change this culture, you're not going to increase the fertility rate",
+      "why_it_matters": "It ties demography to civilizational form, not just economics or state incentives.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0062"
+      ],
+      "moment": "Jiang turns China's rise into a civilizational posture of centeredness rather than expansion.",
+      "source_phrase": "China, the Mandarin is Zhongguo, which means Middle Kingdom",
+      "why_it_matters": "It is his clearest compact definition of how Chinese power differs from the Western power imaginary.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0063"
+      ],
+      "moment": "Jiang opposes Western romantic domination to Confucian reciprocity in one clean civilizational contrast.",
+      "source_phrase": "Westerners have this Faustian mindset",
+      "why_it_matters": "It names the underlying anthropological difference he thinks the West cannot read in China.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "American hypocrisy",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang uses this for the gap between US rhetoric about liberty abroad and coercive suppression or imperial force in practice.",
+      "confidence": "high"
+    },
+    {
+      "term": "Insurrection Act",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Invoked here as the emergency mechanism Jiang thinks Trump is looking for as a domestic power grab.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang uses this as the political project he associates with the Trump-aligned Silicon Valley elite.",
+      "confidence": "high"
+    },
+    {
+      "term": "Julius Caesar of our age",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang invokes Caesar as the model of a leader who converts republican crisis into personal rule backed by force.",
+      "confidence": "high"
+    },
+    {
+      "term": "exorbitant privilege",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0019",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Used here for the dollar-centered power that lets the United States fund wars and corruption while exporting the cost to everyone else.",
+      "confidence": "high"
+    },
+    {
+      "term": "real rules-based international order",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0018",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Jiang contrasts this with the old mythic order and associates it with BRICS, multilateral benefit, and protection from arbitrary empire.",
+      "confidence": "high"
+    },
+    {
+      "term": "Golden Dome",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang uses it as an example of expensive weapons spending with little relevance to modern warfare.",
+      "confidence": "high"
+    },
+    {
+      "term": "vassalization of Europe",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Used for a system in which European states display loyalty by feeding American defense contractors rather than pursuing independent strategy.",
+      "confidence": "high"
+    },
+    {
+      "term": "fake multilateralism",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Jiang uses this for a supposedly cooperative order that in practice let Europeans free ride on American military primacy.",
+      "confidence": "high"
+    },
+    {
+      "term": "EU bureaucracy",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Here it names a centralized administrative structure Jiang sees as anti-strategic, face-saving, and self-destructive.",
+      "confidence": "high"
+    },
+    {
+      "term": "first island chain",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Used as the American-controlled maritime choke structure that could embargo China's food and oil lifelines.",
+      "confidence": "high"
+    },
+    {
+      "term": "Russophobia",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang pairs this with sinophobia as an emotional-political driver that distorts European strategic choices.",
+      "confidence": "high"
+    },
+    {
+      "term": "vital strategic interest",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Used for the unusually explicit Japanese framing of Taiwan that Jiang treats as a serious provocation toward China.",
+      "confidence": "high"
+    },
+    {
+      "term": "game theory perspective",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang uses this to explain Japan's shrinking demographic and military time horizon as the driver of risky behavior.",
+      "confidence": "high"
+    },
+    {
+      "term": "Zhongguo",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Jiang glosses the term as Middle Kingdom and uses it to explain a civilizational orientation toward being a center rather than a conquering periphery.",
+      "confidence": "high"
+    },
+    {
+      "term": "Faustian mindset",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Used for a Western ethos of romantic struggle, achievement, and domination that Jiang contrasts with reciprocity.",
+      "confidence": "high"
+    },
+    {
+      "term": "reciprocity",
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Jiang names this as the underlying value of Confucianism and the key to understanding China's preferred order.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0003",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang anchors the opening to immediate late-January 2026 news, including a US armada around Iran, ICE actions in Minnesota, and speculation about delaying the midterms.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0014",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0015"
+      ],
+      "note": "This packet explicitly ties its third-term and coup scenario to present Pentagon reforms, ICE violence, and ongoing late-January 2026 unrest.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0018"
+      ],
+      "note": "Jiang again dates this turning point to Mark Carney's recent speech, tying the packet tightly to late January 2026 rather than a timeless BRICS thesis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0026",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0032"
+      ],
+      "note": "The packet is tied to immediate 2026 developments, including Trump's recent Pentagon budget announcement and a planned Starmer trip to Beijing 'next month.'",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0036",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0039"
+      ],
+      "note": "The UK-China discussion is anchored to Starmer's upcoming Beijing visit and to the still-ongoing Ukraine war, making this a contemporaneous European strategy packet.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0045",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0047"
+      ],
+      "note": "This packet explicitly joins immediate European pressures in 2026 to much longer-horizon South China Sea scenarios over the next twenty to thirty years.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "note": "Jiang ties the Japan packet to a statement made 'like a month ago' and contrasts a five-year confrontation window with a twenty-year demographic decline horizon.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0057",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0060"
+      ],
+      "note": "This packet bridges a fifty-year demographic forecast with a twenty-to-thirty-year global transition horizon, making Jiang's civilizational claims explicitly future-oriented rather than merely historical.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0004",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0005",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0006"
+      ],
+      "note": "The packet makes strong factual assertions about Minnesota events, executions, and Trump's delay-of-midterms intent that are presented as current evidence rather than independently verified within the source."
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0013",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0014",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0015"
+      ],
+      "note": "The faction map, Pentagon purge account, and third-term forecast are highly interpretive and depend on Jiang's historical analogy rather than evidence demonstrated inside the packet."
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0019",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0020"
+      ],
+      "note": "The description of a gold-ledger world order is presented as China's strategic vision, but the packet does not distinguish clearly between official Chinese policy and Jiang's interpretive synthesis."
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0029",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0030"
+      ],
+      "note": "The death count, repeated peace offers, and money-laundering framing for Ukraine are asserted without supporting evidence inside the packet."
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0033",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0034"
+      ],
+      "note": "The comparative spying judgments rely on referenced scandals and Jiang's weighting of available evidence, but the packet does not document those cases in detail."
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0048"
+      ],
+      "note": "The forecast that Japan would become the key future naval aggressor in Southeast Asia is speculative and rests on Jiang's historical reading rather than evidence developed inside the packet."
+    },
+    {
+      "refs": [
+        "video:interview-uydy86kpfns@transcript:v1#seg-0051",
+        "video:interview-uydy86kpfns@transcript:v1#seg-0052"
+      ],
+      "note": "The speaker names and exact official attribution around Japan's Taiwan statement are noisy in transcript form, and the escalation forecast is Jiang's strategic inference."
+    }
+  ]
+}
