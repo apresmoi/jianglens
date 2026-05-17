@@ -1,0 +1,34 @@
+id: "video:interview-80juke0blaq@transcript:v1"
+source_id: "video:interview-80juke0blaq"
+version: 1
+language: "en"
+language_probability: 0.898
+duration_seconds: 3426.859
+segments: 75
+word_count: 9470
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+chronology:
+  source_date: "2026-01-26"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCZFCDIHTe9HGxtIuVDpBz7g/80jUKe0blAQ"
+  youtube_metadata: null
+  youtube_metadata_source: null
+  transcription_json_sha256: "0055726c6b4223a8d7c20fd8270c185b7c04615495609772a8c66f83e7bce965"
+  grouped_json_sha256: "976e5858cffdf8c6beafc098718960a589d6f3f2a9ec70fed45258d5ec516afd"
+  dump_json_sha256: "722612644037f555148fdc5fa0afabbe24175f8f5634ba983d79978bacacd0cf"
