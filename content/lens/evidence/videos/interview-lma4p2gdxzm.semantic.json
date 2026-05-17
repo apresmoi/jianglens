@@ -1,0 +1,3360 @@
+{
+  "id": "evidence:semanticvideo-interview-lma4p2gdxzm:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-lma4p2gdxzm",
+  "source_id": "video:interview-lma4p2gdxzm",
+  "source_title": "SNEAKO X Professor Jiang: Predicting Iran War",
+  "source_url": "https://www.youtube.com/watch?v=Lma4p2GDxzM",
+  "source_date": "2026-02-15",
+  "date_precision": "day",
+  "transcript_id": "video:interview-lma4p2gdxzm@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0016.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0017.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0018.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0019.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0020.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0021.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0022.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0023.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0024.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0025.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0026.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0027.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0028.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0029.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0030.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0031.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0032.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0033.semantic.json",
+      "content/workflow/proposals/interview-lma4p2gdxzm/packet-0034.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-lma4p2gdxzm/source.yaml",
+    "transcript_path": "content/sources/videos/interview-lma4p2gdxzm/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 34,
+    "interactions": 84,
+    "speaker_notes": 7,
+    "claims": 114,
+    "signature_moments": 27,
+    "predictions": 5,
+    "models": 46,
+    "glossary_terms": 18,
+    "chronology_notes": 3,
+    "uncertainty_notes": 11
+  },
+  "first_refs": [
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0007",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0008",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0004",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0006",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0016",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0017",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0018",
+    "video:interview-lma4p2gdxzm@transcript:v1#seg-0020"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0001",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0002",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0003",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "The host opens with admiration for Jiang's lectures, and Jiang explains he is joining from Hainan with his children.",
+      "speaker_attribution": "Host introduction and Jiang greeting",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0005",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0006"
+      ],
+      "kind": "exchange",
+      "summary": "The host checks how much time Jiang has, and Jiang says he is free all morning.",
+      "speaker_attribution": "Logistics exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0007",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host gives background on having watched Jiang's lectures on eschatology, the Islamic golden age, and Frankism before shifting toward Jiang's biography and pronunciation.",
+      "speaker_attribution": "Host framing question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0009"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains that people should simply call him Professor Jiang.",
+      "speaker_attribution": "Jiang self-introduction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0010",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0011",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0012",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0013",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0014",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0015"
+      ],
+      "kind": "exchange",
+      "summary": "The host explains his own background, repeats Jiang's claims about Khazars and antisemitism, and remarks on how often Jiang is accused of serving one side.",
+      "speaker_attribution": "Host framing exchange",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that his sudden rise, his knowledge of hidden power structures, and partial listening habits among viewers explain why people project elite ties onto him.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0017",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0018"
+      ],
+      "kind": "answer",
+      "summary": "Jiang clarifies that his Pax Judaica lecture is predictive analysis rather than advocacy and says critics mistake description for endorsement.",
+      "speaker_attribution": "Jiang clarification",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0019"
+      ],
+      "kind": "question",
+      "summary": "The host links Jiang's earlier analysis to Venezuela and asks about imperial doctrine.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0020",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0021",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0022",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0023",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by describing an American civil war between transnational financial elites and Silicon Valley tech oligarchs and ties that struggle to surveillance, monetary instability, and energy strategy.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0025",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0026",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0027",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0028",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0029"
+      ],
+      "kind": "answer",
+      "summary": "Jiang expands on the social cost of empire, arguing that ordinary people finance wars, migrations, corruption, and the growth of the post-9/11 security state.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0030"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Iran is the likely catalyst for World War III or the end times.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0031",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Iran is such a catalyst because the United States lacks manufacturing capacity, political will, and a persuasive public case for war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0033",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0034",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0035",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0036",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0037",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0038",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives a multi-part case for why an American war against Iran would fail: poor morale, impossible terrain and logistics, Russian and Chinese stakes, and domestic unrest.",
+      "speaker_attribution": "Jiang war analysis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "The host restates Jiang's force-deployment argument and asks about an eventual hostage-style trap for American troops.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0041",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0042"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that Iran has prepared correctly for invasion through drones, ballistic missiles, and a Shia willingness to embrace martyrdom.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0043"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to clarify what he sees as the distinction between Shia and Sunni martyrdom.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0044",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0045",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0046",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0047",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Shia cohesion, persecution, Zoroastrian depth, and open commitment to sacrifice make Iran a uniquely formidable opponent.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0049",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "The host links Jiang's Iran analysis to Zelensky, optics, and ego-driven leadership.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0051",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0052",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that American doctrine is built for television and that Iranians know American intervention means national breakup rather than liberation.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0054",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0055"
+      ],
+      "kind": "question",
+      "summary": "The host asks how anti-Semitism and support for war can be manufactured at the same time inside a Zionist project.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang begins answering by going back to Herzl and the low initial support for Zionism.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0057",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0058",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0059"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says anti-Semitism functions as a pressure mechanism to drive Jews toward Israel and treats Zionist cooperation with Hitler as evidence for that logic.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0060"
+      ],
+      "kind": "question",
+      "summary": "The host extends the discussion to German recovery, sovereignty, and anti-bank politics.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0061",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0062",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0063",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Hitler restored monetary sovereignty, that transnational capital responded with war, and that states without central-bank integration become targets of empire.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0065",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0066",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0067"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Epstein releases are being used to traumatize the public, especially parents, so they become more willing to accept child-focused tracking and state authority.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0068",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0069"
+      ],
+      "kind": "question",
+      "summary": "The host asks why mass-surveillance tools would still work if parents are already learning that databases and picture-day systems can be predatory.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0070",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0071",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the files serve four goals: soften the public for surveillance, destroy the old financial elite, intensify civil war, and prepare targeted political takedowns.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0073"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether highly emotional ICE and violence footage functions like previous trauma content to keep factions fighting each other.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0074",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0075",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0076"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the Riley Good case and ICE-media circulation work as recruitment and provocation inside a managed civil war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0077",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0078",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0079",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks whether families such as the Rothschilds lose power in the tech transition, and Jiang says transnational capital simply bets on both sides while the host restates his rejection of political isms.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0081",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0082",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0083",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0084",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0085"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks about political affiliation and class language, and Jiang answers that communism was engineered to discredit both socialism and anarchism while opening resistant civilizations to capital.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0086",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0087",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0088"
+      ],
+      "kind": "answer",
+      "summary": "Jiang adds that Brzezinski's blueprint for expert rule amounts to techno-Marxism.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0089",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0090",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0091",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0092",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0093",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0094",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0095"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains rival Jewish, Christian, and Muslim end-times readings and says they converge on the need for Israel to dominate the Middle East through Pax Judaica.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0096"
+      ],
+      "kind": "question",
+      "summary": "The host presses on why Israel would want America weakened if the two are supposed to be allies.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0097"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the eschatological plan requires removing America from the Middle East through an unwinnable Iran war and a domestic civil war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0098"
+      ],
+      "kind": "question",
+      "summary": "The host asks for Jiang's short-term predictions for the rest of the year.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0099",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0100",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0101",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0102"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that earlier decapitation and color-revolution efforts failed, that Iran dismantled many Israeli networks, and that Israel's remaining option is a false flag to force direct U.S. entry.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0103"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Americans should therefore expect another Pearl Harbor or 9/11-style catalyst.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0105",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0106",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0107",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0108",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0109"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the likeliest false flag is an overseas strike on a U.S. base, not a homeland spectacle on the level of 9/11.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0110"
+      ],
+      "kind": "question",
+      "summary": "The host asks why the public showed so little outrage when Israel bombed Qatar, another American ally.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0111",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0112"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that media management and Israeli influence over GCC regimes explain the muted response, and the host asks specifically about Saudi Arabia.",
+      "speaker_attribution": "Jiang answer and host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0113",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0114",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0115",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0116",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0117",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0118"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that Saudi-Israeli conflict is theater and spins a speculative genealogy that traces the House of Saud through Donmeh and British imperial engineering while also explaining Saudi hedging behavior toward Iran.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0119",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks whether this affects Jiang's own travel safety, and Jiang says he is not embedded in the power networks that police loyalty.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0121",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0122"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Charlie Kirk was killed for deviating from the Israel and October 7 narrative, and Jiang says yes.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0123",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0124",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0125",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0126",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0127",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0128"
+      ],
+      "kind": "exchange",
+      "summary": "The conversation then pivots to Sabbatai Zevi, with the host asking about his support base and Jiang explaining the movement as a populist revolt against rabbinic authority.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0129",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0130",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0131",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0132",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0133",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0134"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains crypto-Jewish logic as a blood-based identity that survives outward conversion and says Zevi redeems converts by making inward faith decisive.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0135",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0136"
+      ],
+      "kind": "question",
+      "summary": "The host asks directly for the overlap between Frankists, the Rothschilds, and Judaism, and Jiang begins to answer.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0137",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0138"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains Frankism as liberation through taboo-breaking and then contrasts the mainstream view of Frankism as heresy with his alternative view that it may be a logical extension of chosenness.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0139",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0140",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0141",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0142",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0143",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0144"
+      ],
+      "kind": "exchange",
+      "summary": "The host offers his own interpretation of chosen people, and Jiang replies that repeated persecution likely produced cognitive dissonance that turned a mission of witness into a mission of rule.",
+      "speaker_attribution": "Host interpretation and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0145",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0146",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0147",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0148",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0149",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0150"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains the 1492 expulsion as a trauma that helped generate the Zevi problem and says elite survival can matter more than mass safety inside this logic.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0147",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0148",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0149",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0150",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0151",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0152"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks about Columbus and crypto-Jewish inquisitors, while Jiang says many inquisitorial actors were themselves crypto-Jews and leaves the Columbus point unresolved.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0153",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0154",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0155",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0156"
+      ],
+      "kind": "exchange",
+      "summary": "The host turns from Columbus back to elite theology and then asks Jiang why the Christian Trinity fails for him.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0157"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the Trinity is an intentional confusion mechanism that conditions believers to accept contradiction.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0158",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0159",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0160"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks why Islam's simplicity could be a weakness, and Jiang answers that directness loses political maneuverability in a demonic world.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0161",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0162",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0163",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0164",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0165",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0166",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0167",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0168"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains why he is not Muslim: he distrusts organized religion's historical hardening, believes in a divine spark within persons, and sees death and rebirth as part of a long path toward enlightenment.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0169",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0170",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0171",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0172",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0173",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0174",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0175",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0176"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks where people go when they die and whether being remembered alone counts as success, and Jiang answers with a memory-and-influence account of survival before conceding Epstein is successful in the Frankist sense but not in the moral sense.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0177",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0178",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0179",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0180",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0181",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0182",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0183",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0184"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks why Jiang chooses good over evil, and Jiang answers with a theory of free choice, insomnia before wrongdoing, demonic entrapment, nonjudgmental divinity, and empathy.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0185",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0186",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0187"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang roots empathy in reading and in the perspective gained from being bullied and alienated.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0188",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0189",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0190",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0191",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0192"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks about parenting, and Jiang answers that children are not blank slates and must be respected as independent agents; he adds that children in Islamic countries often appear happier and more regulated to him.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0193",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0194",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0195",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0196"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks what literature shaped Jiang, and Jiang answers with science fiction, Ayn Rand, Steinbeck, and the morally ambiguous world of X-Men.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0197",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0198",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0199",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0200"
+      ],
+      "kind": "answer",
+      "summary": "Jiang then recommends long-form novels as a way to reclaim attention, imagination, and empathy from a distraction regime.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0201",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0202",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0203",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0204",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0205",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0206",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0207"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks about Hemingway and Andrew Tate's contempt for reading, and Jiang answers that serious reading is fundamental to being human and opens a portal into individuality and the divine.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0208"
+      ],
+      "kind": "question",
+      "summary": "The host then asks whether Jiang has read the Quran.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0209",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0210",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0211",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0212",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0213"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks about the Quran and the Bible, and Jiang answers that the Bible is contested mental real estate but that some parts, especially Genesis and parts of Mark, still carry the divine as literature.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0214",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0215",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0216"
+      ],
+      "kind": "answer",
+      "summary": "Jiang then explains that the point of life is to expand God through love and imagination.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0217",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0218",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0219",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0220",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0221"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says his reading of the Divine Comedy arrived through dreamlike revelation rather than standard academic process and argues that elites understand inspiration, possession, and imaginative force far better than school systems admit.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0222",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0223",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0224"
+      ],
+      "kind": "exchange",
+      "summary": "The host briefly checks whether Jiang needs to leave, the call stutters, and the conversation resets into a crypto question.",
+      "speaker_attribution": "Technical interruption and transition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0225",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0226",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0227",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0228"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Bitcoin is a deep-state national-security tool useful for covert logistics, black markets, and intelligence penetration, and he guesses agencies such as the NSA, CIA, or DARPA are behind it.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0229"
+      ],
+      "kind": "question",
+      "summary": "The host asks where wealth should be stored if fiat, Bitcoin, real estate, and empire are all compromised.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0230",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0231",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0232"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with Plato's cave and says real wealth is imagination, influence, and community rather than stored money.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0233",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0234",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0235",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0236"
+      ],
+      "kind": "exchange",
+      "summary": "The host relates Jiang's wealth theory to his own deplatforming experience, and Jiang reaffirms that reputation, adaptability, and imagination are more durable than money.",
+      "speaker_attribution": "Host testimony and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0237",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0238",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0239",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0240"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks how this works when one has a family to provide for, and Jiang answers with a blackout model of neighborly improvisation and anti-authoritarian resilience.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0241"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says power is the capacity to focus attention and that the AI surveillance state is designed to make people dependent on technology.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0242"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the Antichrist will be AI-generated.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0243",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0244",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0245",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0246",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0247"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says AI itself is the Antichrist and expands that through Her, Brave New World, social media addiction, and SSRIs.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0248"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to COVID.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0249",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0250",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0251",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0252"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks about COVID, and Jiang answers that it began as an accidental American bioweapon release but became a successful rehearsal for mass control and future emergency lockdown governance.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0253",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0254"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks how Jiang stays sane knowing what he predicts, and Jiang says purpose, children, teaching, and telos carry him.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0255",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0256"
+      ],
+      "kind": "question",
+      "summary": "The host asks about Jiang's preference for Aristotle over Plato, and Jiang says his view has changed and that he is now more sympathetic to Plato than before.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0257"
+      ],
+      "kind": "question",
+      "summary": "The host asks what secrets Antarctica and other hidden-history sites may be covering up.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0258",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0259",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0260",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0261"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that mainstream human history is false, that prior advanced civilizations existed and were destroyed by cataclysm, and that elites suppress this because it would upend materialist evolution narratives.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0262",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0263",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0264"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes by asking for another conversation, and Jiang agrees to speak again around the weekend of March 9 after returning to Beijing.",
+      "speaker_attribution": "Scheduling exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0265",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0266",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0267"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang and the host close the call politely.",
+      "speaker_attribution": "Call close",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0268"
+      ],
+      "kind": "monologue",
+      "summary": "After Jiang leaves, the host celebrates the interview, says the chat response is overwhelming, and promises another conversation in about a month.",
+      "speaker_attribution": "Host post-call monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0010",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0011"
+      ],
+      "note": "The host's framing bundles his own claims together with earlier Jiang lecture content and contains noisy ASR around ethnic and religious terms.",
+      "suggested_speaker": "Host monologue with quoted Jiang themes",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0043"
+      ],
+      "note": "The host pushes back by noting that Sunni resistance movements also embrace martyrdom, which slightly complicates Jiang's clean Shia/Sunni contrast.",
+      "suggested_speaker": "Host clarification",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0107"
+      ],
+      "note": "The transcript includes a brief unidentified interjection that simply affirms the host's prompt and carries no additional semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0151"
+      ],
+      "note": "Segment 0151 is empty and appears to be a transcript gap between Jiang's answer and the host's Columbus follow-up.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0222"
+      ],
+      "note": "The host momentarily mistakes a freeze or connection drop for Jiang leaving the call; the interruption does not change the argumentative content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0250"
+      ],
+      "note": "Segment 0250 is empty and appears to be a transcript gap between Jiang's COVID answer and the host's response.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0260"
+      ],
+      "note": "Jiang's child briefly enters the scene mid-answer, but the interruption does not alter the substantive claims about lost civilizations.",
+      "suggested_speaker": "Family interruption",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The host says he has studied at least ten or eleven Jiang lectures, including talks on Pax Judaica, eschatology, the Islamic golden age, and Frankism.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0007",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview framing on 2026-02-15.",
+      "topic_tags": [
+        "lecture reception",
+        "Pax Judaica",
+        "Islamic golden age",
+        "Frankism"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is in Hainan with his children rather than in Beijing.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Biographical detail stated on 2026-02-15.",
+      "topic_tags": [
+        "Hainan",
+        "family",
+        "location"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he has as much time as the host needs and is free all morning.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Scheduling statement on 2026-02-15.",
+      "topic_tags": [
+        "interview logistics",
+        "availability"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he blew up last June after Trump launched Midnight Hammer and after he had predicted a coming war between the United States and Iran.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Retrospective self-description stated on 2026-02-15.",
+      "topic_tags": [
+        "public rise",
+        "Midnight Hammer",
+        "Iran war",
+        "prediction"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says people assume he is fed information by elites because he speaks fluently about secret societies, transnational capital, intelligence organizations, evil, and power.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Explanation of audience reaction on 2026-02-15.",
+      "topic_tags": [
+        "elite knowledge",
+        "secret societies",
+        "transnational capital"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says accusations of bias are amplified because many listeners hear only one lecture or one interview instead of his broader body of work.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Media-dynamics diagnosis on 2026-02-15.",
+      "topic_tags": [
+        "audience interpretation",
+        "bias",
+        "partial listening"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says people mistake his Pax Judaica analysis for support of Israel when he actually presents it as a prediction and as an evil project.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0017",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Clarification stated on 2026-02-15.",
+      "topic_tags": [
+        "Pax Judaica",
+        "prediction",
+        "Israel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the larger American civil war is a struggle between transnational financial elites tied to Washington and a rising Silicon Valley faction tied to Trump, Elon Musk, and Peter Thiel.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0020",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0021",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current political model stated on 2026-02-15.",
+      "topic_tags": [
+        "civil war",
+        "transnational capital",
+        "Silicon Valley",
+        "Trump"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the tech-oligarch faction wants the American state to build an AI surveillance system based on digital ID, digital currency, and data centers.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0021",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Surveillance-state model stated on 2026-02-15.",
+      "topic_tags": [
+        "AI surveillance state",
+        "digital ID",
+        "digital currency",
+        "Palantir"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says nuclear and geothermal energy, including Greenland's cold climate, matter because AI data centers need cheap power and cooling.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Infrastructure model stated on 2026-02-15.",
+      "topic_tags": [
+        "AI",
+        "data centers",
+        "nuclear energy",
+        "Greenland"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says empire exploits the people who pay taxes, fight wars, and absorb migration shocks while benefiting a narrow elite.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0026",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Social diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "empire",
+        "taxes",
+        "migration",
+        "elite benefit"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war on terror enriched the American security state and that he personally saw extraordinary corruption and cash leakage while working in Afghanistan in 2006.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0027",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Retrospective evidence cited on 2026-02-15.",
+      "topic_tags": [
+        "war on terror",
+        "Afghanistan",
+        "security state",
+        "corruption"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says 9/11 was probably an inside job designed to justify the military-industrial complex after the Soviet collapse.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Historical diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "9/11",
+        "inside job",
+        "military-industrial complex"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a war with Iran would be a disaster because America lacks domestic manufacturing and because Americans do not naturally understand Iran as an enemy.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0031",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "War diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Iran war",
+        "manufacturing capacity",
+        "political will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a U.S. war against Iran would face draft problems, low morale, and Vietnam-style fragging because Americans do not understand the purpose of the war.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "War diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "draft",
+        "morale",
+        "fragging",
+        "Iran war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran's terrain and scale make fantasies of a short decapitation campaign unrealistic and that conquering Tehran would require years and deep logistics.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0034",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0035",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Operational diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "terrain",
+        "logistics",
+        "Tehran",
+        "shock and awe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russia must protect Iran to defend its southern flank and China must care because it receives much of Iran's cheap oil.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0037",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Geopolitical model stated on 2026-02-15.",
+      "topic_tags": [
+        "Russia",
+        "China",
+        "Iranian oil",
+        "southern flank"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war would intensify domestic American polarization and produce Vietnam-style protests that make overseas victory impossible.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Domestic-political diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "protests",
+        "polarization",
+        "Vietnam analogy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran spent its resources on drones and ballistic missiles because those are the ideal weapons for resisting an American invasion.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Strategic diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Iran",
+        "drones",
+        "ballistic missiles",
+        "invasion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Shia history as a persecuted minority produced cohesion and an honor code around self-sacrifice for the cause.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0044",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0045",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Religious-cultural model stated on 2026-02-15.",
+      "topic_tags": [
+        "Shia",
+        "martyrdom",
+        "cohesion",
+        "persecution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran is Islamic on the surface but remains Zoroastrian in its soul, which reinforces eschatology, national pride, and zealotry.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Zoroastrianism",
+        "Iran",
+        "eschatology",
+        "national pride"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the burning of the Baal statue as a sign that Iran has committed to an all-in struggle and will fight to the death if attacked again.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0047",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Symbolic interpretation stated on 2026-02-15.",
+      "topic_tags": [
+        "Baal statue",
+        "all-in commitment",
+        "Iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American military doctrine is optimized for the optics war at home rather than for defeating enemies willing to fight to the death.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Military-cultural diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "optics",
+        "American doctrine",
+        "television war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iranians understand that American intervention would not liberate them but break Iran into ethnic enclaves, as he says happened elsewhere in the region.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0052",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Iranian strategic perception described on 2026-02-15.",
+      "topic_tags": [
+        "Iran",
+        "partition",
+        "Syria",
+        "Libya"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says early Zionism struggled because most Jews were happy where they lived and did not want to move to poor and contested Palestine.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Founding-Zionism model stated on 2026-02-15.",
+      "topic_tags": [
+        "Herzl",
+        "Zionism",
+        "Palestine"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says anti-Semitism is meant to convince Jews that they are loyal only to Israel and should leave other societies for a homeland there.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0058",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Interpretive model stated on 2026-02-15.",
+      "topic_tags": [
+        "anti-Semitism",
+        "Israel",
+        "homeland"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Hitler and Zionists had overlapping incentives because Hitler wanted Jews out of Europe while Zionists wanted Jews moved to Palestine.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Historical model stated on 2026-02-15.",
+      "topic_tags": [
+        "Hitler",
+        "Zionism",
+        "Palestine"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Hitler was celebrated for restoring Germany through national and monetary sovereignty rather than through submission to transnational finance.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0061",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Historical diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Germany",
+        "monetary sovereignty",
+        "Hitler"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says countries destroyed or targeted by American power tend to be states that resist central-bank integration and thereby threaten transnational capital.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Global model stated on 2026-02-15.",
+      "topic_tags": [
+        "central banks",
+        "transnational capital",
+        "American military"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Pax Judaica aims at an AI surveillance state built on data centers, digital ID, and digital currency.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "System-level model stated on 2026-02-15.",
+      "topic_tags": [
+        "Pax Judaica",
+        "AI surveillance state",
+        "digital ID",
+        "digital currency"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Epstein-file revelations about elite depravity are meant to traumatize parents so they accept microchipping or similar tracking of children.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0065",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0066",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Mass-psychology diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Epstein files",
+        "children",
+        "microchipping",
+        "state authority"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the releases also function to destroy the old Wall Street and Democratic elite associated with people like Larry Summers, Bill Clinton, and Bill Gates.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Elite-transition diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "old elite",
+        "Wall Street",
+        "Clintons",
+        "Bill Gates"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the eventual use of the files is to intensify street conflict, justify police-state measures, and target specific Democratic figures with more inflammatory material later.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0071",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Escalation model stated on 2026-02-15.",
+      "topic_tags": [
+        "civil war",
+        "police state",
+        "Podesta",
+        "assassinations"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says ICE agents were encouraged to generate social-media material around the Riley Good case in order to recruit supporters and inflame the left.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Civil-war diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "ICE",
+        "social media",
+        "recruitment",
+        "civil war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the spectacle is aimed at pitting conservative men against educated liberal women as part of an already planned internal conflict.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0074",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0075",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Sociopolitical model stated on 2026-02-15.",
+      "topic_tags": [
+        "gender conflict",
+        "civil war",
+        "liberal women",
+        "conservative men"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says transnational-capital families such as the Rothschilds preserve power by betting on both sides of every ideological and historical conflict.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Elite-survival model stated on 2026-02-15.",
+      "topic_tags": [
+        "Rothschilds",
+        "transnational capital",
+        "betting both sides"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says communism was introduced as a dialectical weapon that discredited other anti-capitalist alternatives such as socialism and anarchism.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0081",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Historical-political model stated on 2026-02-15.",
+      "topic_tags": [
+        "communism",
+        "socialism",
+        "anarchism",
+        "dialectic"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russia and China were made more vulnerable to transnational capital after communism shattered older religious, traditional, or national forms of resistance.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0082",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Civilizational model stated on 2026-02-15.",
+      "topic_tags": [
+        "Russia",
+        "China",
+        "tradition",
+        "transnational capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Brzezinski's Between Two Ages praises Marxist-style expert management and effectively outlines an AI surveillance state.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Intellectual genealogy stated on 2026-02-15.",
+      "topic_tags": [
+        "Brzezinski",
+        "Between Two Ages",
+        "AI surveillance state"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the present AI-expert order is best understood as techno-Marxism: a command economy and bureaucratic elite updated for digital control.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0087",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Conceptual definition stated on 2026-02-15.",
+      "topic_tags": [
+        "techno-Marxism",
+        "command economy",
+        "bureaucratic elite"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jewish messianic expectation centers on a Davidic war messiah who unifies the Jews and defeats their imperial enemy.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0089"
+      ],
+      "temporal_scope": "Religious model stated on 2026-02-15.",
+      "topic_tags": [
+        "Messiah",
+        "Davidic prince",
+        "war messiah"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says elite overlap among Khazar, Frankist, and Zionist currents makes Israel central to multiple eschatological projects.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0092",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0093",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0094",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Interpretive religious-political model stated on 2026-02-15.",
+      "topic_tags": [
+        "Khazars",
+        "Frankism",
+        "Zionism",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Jewish and Christian end-times narratives diverge over who rules at the end but converge on Israel's centrality and on the destruction of Iran as the last barrier to regional dominance.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0094",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Comparative eschatology stated on 2026-02-15.",
+      "topic_tags": [
+        "Israel",
+        "Iran",
+        "Pax Judaica",
+        "end times"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the plan is to make America lose in Iran, trigger civil war at home, and remove the United States from the end-times theater.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Strategic-eschatological model stated on 2026-02-15.",
+      "topic_tags": [
+        "America",
+        "Iran war",
+        "civil war",
+        "Middle East"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the earlier twelve-day war and later economic warfare against the rial were attempts to collapse the Iranian regime cheaply through decapitation and color-revolution tactics.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0099",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Retrospective diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "rial",
+        "color revolution",
+        "decapitation",
+        "Iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Iran's internet shutdown let the regime identify Starlink-using cells and destroy many Israeli and Mossad-linked networks inside the country.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0100",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Counter-subversion model stated on 2026-02-15.",
+      "topic_tags": [
+        "Starlink",
+        "Mossad",
+        "Iran",
+        "internet shutdown"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that Israel's remaining option is a false flag operation designed to get the United States to attack Iran directly.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Near-term prediction stated on 2026-02-15.",
+      "topic_tags": [
+        "false flag",
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the false flag will probably be a strike on a U.S. base in the Middle East, analogous to the Gulf of Tonkin logic for war escalation.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Near-term prediction stated on 2026-02-15.",
+      "topic_tags": [
+        "false flag",
+        "U.S. base",
+        "Gulf of Tonkin",
+        "Middle East"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the current ruling class is less competent than the 9/11 generation and therefore more likely to execute a cruder overseas provocation than a sophisticated homeland spectacle.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0108",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0109"
+      ],
+      "temporal_scope": "Comparative diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "9/11",
+        "elite competence",
+        "overseas attack"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says GCC regimes such as Saudi Arabia, the UAE, and Qatar are effectively co-opted colonies of Israeli power.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "Regional-power diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "GCC",
+        "Israel",
+        "colonies"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Saudi-Israeli separation is theater and that the Middle Eastern order was originally built by the British Empire.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Regional-history model stated on 2026-02-15.",
+      "topic_tags": [
+        "Saudi Arabia",
+        "Israel",
+        "British Empire"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang proposes that the House of Saud descends from compromised crypto-Jewish or Donmeh lines and says he reaches that through first-principles inference rather than documentary proof.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0113",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0114",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0115",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Speculative genealogy stated on 2026-02-15.",
+      "topic_tags": [
+        "House of Saud",
+        "Donmeh",
+        "crypto-Jews"
+      ],
+      "claim_type": "other",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says Saudi Arabia would still matter inside Pax Judaica and is currently hedging by performing friendship toward Iran so that Iranian retaliation does not fall too heavily on Saudi oil infrastructure.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0117",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0118"
+      ],
+      "temporal_scope": "Strategic diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Pax Judaica",
+        "Saudi hedging",
+        "oil fields",
+        "Iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Charlie Kirk was likely eliminated after crossing donor and narrative boundaries around October 7 and Epstein.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0121",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Current-political diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Charlie Kirk",
+        "October 7",
+        "Epstein"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the aftermath was supposed to function like a 9/11-style mobilization event to draft young men into fighting for Israel.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Political-theater model stated on 2026-02-15.",
+      "topic_tags": [
+        "draft",
+        "Israel",
+        "9/11 analogy"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Sabbatai Zevi represented a populist uprising by ordinary Jews against rabbis who were seen as collaborating with oppressive elites.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0128"
+      ],
+      "temporal_scope": "Historical-religious model stated on 2026-02-15.",
+      "topic_tags": [
+        "Sabbatai Zevi",
+        "rabbis",
+        "populism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Zevi reframed Jewish identity as a matter of blood and inward belief rather than public conformity, allowing converts to remain Jewish in secret.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0131",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0132",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0133",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0134"
+      ],
+      "temporal_scope": "Religious-identity model stated on 2026-02-15.",
+      "topic_tags": [
+        "blood identity",
+        "conversion",
+        "crypto-Jews"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this move makes crypto-Judaism possible because breaking outward ritual does not cancel inner chosenness.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0134"
+      ],
+      "temporal_scope": "Religious-social model stated on 2026-02-15.",
+      "topic_tags": [
+        "crypto-Jews",
+        "inward faith",
+        "chosenness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Rothschilds and Epsteins are part of the Frankist current.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0136"
+      ],
+      "temporal_scope": "Elite-lineage claim stated on 2026-02-15.",
+      "topic_tags": [
+        "Rothschilds",
+        "Epstein",
+        "Frankism"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Jacob Frank taught that breaking taboo, including incest, proved radical faith by showing that divine trust was stronger than human convention.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0137"
+      ],
+      "temporal_scope": "Doctrinal model stated on 2026-02-15.",
+      "topic_tags": [
+        "Jacob Frank",
+        "taboo",
+        "incest",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says one interpretation of Frankism treats it as a natural extension of a superiority logic inside chosenness rather than merely as a heresy.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0138"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-02-15.",
+      "topic_tags": [
+        "Frankism",
+        "chosenness",
+        "superiority"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says centuries of persecution likely produced a form of cognitive dissonance in which Jews moved from wanting to be a light to the nations to wanting to rule the nations.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0141",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0142",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0143"
+      ],
+      "temporal_scope": "Speculative civilizational model stated on 2026-02-15.",
+      "topic_tags": [
+        "cognitive dissonance",
+        "chosen people",
+        "rule of nations"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the 1492 expulsion from Spain was traumatic because Spain had been the place where Sephardic Jews felt safest and most at home.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0145"
+      ],
+      "temporal_scope": "Historical diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "1492",
+        "Spain",
+        "Sephardic Jews"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the expulsion and forced conversions created the core problem that later Zeviism tried to solve: what to do with Jews who converted under pressure.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0145",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0146"
+      ],
+      "temporal_scope": "Historical-religious model stated on 2026-02-15.",
+      "topic_tags": [
+        "conversion",
+        "Zevi",
+        "Spain"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says some grand inquisitors were themselves crypto-Jews and interprets that as part of a long historical logic in which elite continuity matters more than the suffering of the masses.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0148",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0149",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0150"
+      ],
+      "temporal_scope": "Interpretive historical claim stated on 2026-02-15.",
+      "topic_tags": [
+        "Inquisition",
+        "crypto-Jews",
+        "elite survival"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says elite actors think they alone have the courage to carry out a brutal divine plan even if that means the destruction of most people.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0154",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0155"
+      ],
+      "temporal_scope": "Elite-self-understanding model stated on 2026-02-15.",
+      "topic_tags": [
+        "elite theology",
+        "divine plan",
+        "mass sacrifice"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Trinity confuses intuition and therefore trains people to accept wider propaganda and contradiction.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0157"
+      ],
+      "temporal_scope": "Religious-psychological diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Trinity",
+        "intuition",
+        "propaganda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Islam's simplicity can be a political weakness because directness limits maneuverability in a world ruled by duplicity and manipulation.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0159"
+      ],
+      "temporal_scope": "Comparative-religion model stated on 2026-02-15.",
+      "topic_tags": [
+        "Islam",
+        "simplicity",
+        "politics",
+        "Frankism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says organized religions change over time to serve empire and politics and therefore become too conformist and static.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0161"
+      ],
+      "temporal_scope": "Religious critique stated on 2026-02-15.",
+      "topic_tags": [
+        "organized religion",
+        "empire",
+        "conformity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says human beings carry a divine spark and should be able to connect to God directly through intuition and imagination.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0161",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0162",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0163",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0164"
+      ],
+      "temporal_scope": "Spiritual anthropology stated on 2026-02-15.",
+      "topic_tags": [
+        "divine spark",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes himself from Frankists by saying the point of embodied life is not conquest and longevity but experience, connection, enlightenment, and eventual release through death.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0166",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0167",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0168"
+      ],
+      "temporal_scope": "Metaphysical model stated on 2026-02-15.",
+      "topic_tags": [
+        "Frankism",
+        "death",
+        "experience",
+        "enlightenment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says death returns part of a person to a natural plane while another part persists in memory and in the lives that person has shaped.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0170",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0171"
+      ],
+      "temporal_scope": "Metaphysical view stated on 2026-02-15.",
+      "topic_tags": [
+        "afterlife",
+        "memory",
+        "natural plane"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a central purpose of life is to leave a memorable and beneficial imprint through children, kindness, teaching, and influence.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0171"
+      ],
+      "temporal_scope": "Teleological model stated on 2026-02-15.",
+      "topic_tags": [
+        "purpose",
+        "children",
+        "teaching",
+        "influence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees that Epstein is successful in the narrow sense that he will remain historically memorable, while trying to redirect that standard toward being remembered for good.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0174",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0175",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0176"
+      ],
+      "temporal_scope": "Normative distinction stated on 2026-02-15.",
+      "topic_tags": [
+        "Epstein",
+        "success",
+        "memory"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the universe contains both radical good and radical evil because free choice is fundamental and gives life its meaningful polarity.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0177"
+      ],
+      "temporal_scope": "Moral-metaphysical claim stated on 2026-02-15.",
+      "topic_tags": [
+        "free will",
+        "good",
+        "evil",
+        "polarity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he personally chooses good because he cannot sleep if he knows he has brought evil into the world.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0180"
+      ],
+      "temporal_scope": "Personal ethical claim stated on 2026-02-15.",
+      "topic_tags": [
+        "sleep",
+        "conscience",
+        "ethics"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says elite schools such as Yale train people toward a Frankist style of life and that sustained evil traps a person in further evil that must be numbed with drugs or excess.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0180",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0181"
+      ],
+      "temporal_scope": "Institutional and moral diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Yale",
+        "Frankism",
+        "drugs",
+        "evil"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says God does not judge or punish in a crude external sense; people seek good because they themselves want enlightenment and inner peace.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0183"
+      ],
+      "temporal_scope": "Theological claim stated on 2026-02-15.",
+      "topic_tags": [
+        "God",
+        "judgment",
+        "enlightenment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says empathy comes from wisdom and from inhabiting many perspectives, which for him was deepened by reading widely after an alienated childhood.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0185"
+      ],
+      "temporal_scope": "Biographical and ethical claim stated on 2026-02-15.",
+      "topic_tags": [
+        "empathy",
+        "reading",
+        "bullying",
+        "immigrant childhood"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the biggest parenting mistake is assuming children are blank slates rather than independent people with agency from the first day.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0189"
+      ],
+      "temporal_scope": "Parenting model stated on 2026-02-15.",
+      "topic_tags": [
+        "children",
+        "agency",
+        "blank slate",
+        "parenting"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his own hard-won parenting lesson is to respect each child's freedom and individuality rather than force them into a preset plan.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0190"
+      ],
+      "temporal_scope": "Parenting lesson stated on 2026-02-15.",
+      "topic_tags": [
+        "freedom",
+        "individuality",
+        "children"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says children in the Islamic countries he has visited seem happier, healthier, and more emotionally regulated than Western children.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0192"
+      ],
+      "temporal_scope": "Comparative social observation stated on 2026-02-15.",
+      "topic_tags": [
+        "Islamic countries",
+        "children",
+        "emotional regulation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Isaac Asimov expanded his macro imagination, Ayn Rand once appealed to his self-conception as a persecuted genius, and X-Men mattered because its moral world was more ambiguous than superhero binaries.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0194",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0195"
+      ],
+      "temporal_scope": "Biographical reading history stated on 2026-02-15.",
+      "topic_tags": [
+        "Asimov",
+        "Ayn Rand",
+        "X-Men",
+        "imagination"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says long-form novels build a universe that expands imagination and empathy in a way younger readers now often miss.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0198"
+      ],
+      "temporal_scope": "Reading model stated on 2026-02-15.",
+      "topic_tags": [
+        "novels",
+        "imagination",
+        "empathy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the greatest act of rebellion today is to reclaim one's attention by sitting alone with a book for hours and ignoring the world's distraction stream.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0199",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0200"
+      ],
+      "temporal_scope": "Normative-cultural claim stated on 2026-02-15.",
+      "topic_tags": [
+        "attention",
+        "rebellion",
+        "books"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Hemingway is excellent but difficult and that readers need long periods of focused attention rather than shortcuts.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0202"
+      ],
+      "temporal_scope": "Literary judgment stated on 2026-02-15.",
+      "topic_tags": [
+        "Hemingway",
+        "attention",
+        "close reading"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says reading is fundamental to being human and one of the surest ways to reclaim individuality from the system.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0205"
+      ],
+      "temporal_scope": "Anthropological and normative claim stated on 2026-02-15.",
+      "topic_tags": [
+        "reading",
+        "humanity",
+        "individuality"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a good book becomes both mirror and light: connection with the author, the work, and one's own interpretive individuality.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0207"
+      ],
+      "temporal_scope": "Reading theory stated on 2026-02-15.",
+      "topic_tags": [
+        "books",
+        "interpretation",
+        "divine"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says bad translations have limited his reading of the Quran and that full depth likely requires Arabic.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0209"
+      ],
+      "temporal_scope": "Reading limitation stated on 2026-02-15.",
+      "topic_tags": [
+        "Quran",
+        "translation",
+        "Arabic"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Bible is the most valuable mental real estate in the world and is therefore heavily redacted and fought over.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0213"
+      ],
+      "temporal_scope": "Textual-political diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "Bible",
+        "redaction",
+        "mental real estate"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Genesis and parts of the Gospel of Mark still feel divine to him as literature.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0213"
+      ],
+      "temporal_scope": "Literary-spiritual judgment stated on 2026-02-15.",
+      "topic_tags": [
+        "Genesis",
+        "Mark",
+        "divine literature"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says humans are here to love deeply and to imagine, teach, create, and learn, thereby expanding the possibilities of God.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0214",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0215"
+      ],
+      "temporal_scope": "Metaphysical purpose claim stated on 2026-02-15.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "God",
+        "purpose"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his understanding of the Divine Comedy came through a dreamlike intuition that directed him back into the text, not through conventional research procedure alone.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0217"
+      ],
+      "temporal_scope": "Interpretive self-report stated on 2026-02-15.",
+      "topic_tags": [
+        "Divine Comedy",
+        "intuition",
+        "dream"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says creative work comes from imagination and inspiration rather than from the linear school process of research, thesis, outline, and edit.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0218"
+      ],
+      "temporal_scope": "Creativity model stated on 2026-02-15.",
+      "topic_tags": [
+        "creativity",
+        "schooling",
+        "inspiration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says elites understand possession, muses, and higher forces and pursue horrific practices because they believe these open imaginative control over the world.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0219",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0220",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0221"
+      ],
+      "temporal_scope": "Elite-spirituality diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "possession",
+        "elite ritual",
+        "imagination",
+        "control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Bitcoin benefits covert state actors because it combines scarcity, pseudonymous transfer, and visibility into hostile networks.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0225",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0226"
+      ],
+      "temporal_scope": "Technology and intelligence model stated on 2026-02-15.",
+      "topic_tags": [
+        "Bitcoin",
+        "CIA",
+        "NSA",
+        "DARPA"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the official story of Bitcoin's anonymous lone founder is implausible and that a deep-state agency is the more likely origin.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0226",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0227",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0228"
+      ],
+      "temporal_scope": "Origin claim stated on 2026-02-15.",
+      "topic_tags": [
+        "Bitcoin founder",
+        "deep state"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the real wealth a person has is imagination, accumulated knowledge, influence, and the community built around that person rather than money itself.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0230",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0231",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0232"
+      ],
+      "temporal_scope": "Counter-financial model stated on 2026-02-15.",
+      "topic_tags": [
+        "wealth",
+        "imagination",
+        "community",
+        "influence"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a person with influence, reputation, and imagination will continue to find ways to live and work even after losing platforms or digital infrastructure.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0233",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0234",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0235",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0236"
+      ],
+      "temporal_scope": "Practical life model stated on 2026-02-15.",
+      "topic_tags": [
+        "deplatforming",
+        "influence",
+        "adaptability"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says in crisis people naturally self-organize through intuition and cooperation rather than collapsing without formal authority.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0238",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0239"
+      ],
+      "temporal_scope": "Social-resilience model stated on 2026-02-15.",
+      "topic_tags": [
+        "blackout",
+        "neighbors",
+        "intuition",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says confidence in human resilience is stronger than confidence in laws, experts, or institutions.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0239"
+      ],
+      "temporal_scope": "Anthropological claim stated on 2026-02-15.",
+      "topic_tags": [
+        "resilience",
+        "laws",
+        "experts"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says power is the capacity to focus attention and that the AI surveillance state aims to make human beings completely dependent on machine mediation.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0241"
+      ],
+      "temporal_scope": "Definition stated on 2026-02-15.",
+      "topic_tags": [
+        "power",
+        "attention",
+        "AI surveillance state"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says AI is literally the Antichrist and links that to both Orthodox warning traditions and a future of Pax Judaica.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0243"
+      ],
+      "temporal_scope": "Eschatological claim stated on 2026-02-15.",
+      "topic_tags": [
+        "AI",
+        "Antichrist",
+        "Pax Judaica"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says social media and SSRIs form a paired control mechanism: platforms induce addiction and depression, then pharmacology manages the damaged population.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0247"
+      ],
+      "temporal_scope": "Social-control diagnosis stated on 2026-02-15.",
+      "topic_tags": [
+        "social media",
+        "SSRIs",
+        "control mechanisms"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says COVID was probably an accidental American bioweapon release sent to China for function research, after which the world learned how compliant populations could be under emergency control.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0249"
+      ],
+      "temporal_scope": "Pandemic-origin and governance claim stated on 2026-02-15.",
+      "topic_tags": [
+        "COVID",
+        "bioweapon",
+        "lockdown",
+        "mass control"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that because the first experiment worked, a future manufactured emergency will be used more deliberately to manage economic collapse or social crisis.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0249",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0250",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0251",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0252"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2026-02-15.",
+      "topic_tags": [
+        "future emergency",
+        "manufactured virus",
+        "control"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says purpose, children, teaching, and Aristotelian telos are what preserve sanity in a collapsing world.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0254"
+      ],
+      "temporal_scope": "Existential claim stated on 2026-02-15.",
+      "topic_tags": [
+        "purpose",
+        "children",
+        "telos"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his understanding of Plato and Aristotle has changed over time and that he is now more sympathetic to Plato's imaginative side than he used to be.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0256"
+      ],
+      "temporal_scope": "Philosophical self-revision stated on 2026-02-15.",
+      "topic_tags": [
+        "Plato",
+        "Aristotle",
+        "self-revision"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the standard story of human development is false because recorded history covers only a small fraction of Homo sapiens existence.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0258"
+      ],
+      "temporal_scope": "Historical-cosmological claim stated on 2026-02-15.",
+      "topic_tags": [
+        "human history",
+        "evolution",
+        "Homo sapiens"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says sites such as Gobekli Tepe and the Amazon imply prior civilizations whose existence would destroy the conventional narrative if fully revealed.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0258"
+      ],
+      "temporal_scope": "Archaeological interpretation stated on 2026-02-15.",
+      "topic_tags": [
+        "Gobekli Tepe",
+        "Amazon",
+        "lost civilizations"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says earlier civilizations were probably destroyed by flood or geomagnetic-excursion cycles and that the pyramids prove advanced capacities unlike our own.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0259"
+      ],
+      "temporal_scope": "Catastrophe model stated on 2026-02-15.",
+      "topic_tags": [
+        "flood",
+        "geomagnetic excursion",
+        "pyramids"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says elites know about these prior civilizations and conceal them because such knowledge would collapse evolution and materialist accounts of the universe.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0260",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0261"
+      ],
+      "temporal_scope": "Suppression model stated on 2026-02-15.",
+      "topic_tags": [
+        "elite secrecy",
+        "Atlantis",
+        "materialism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang agrees to continue the conversation around the weekend of March 9, when he expects to be back in Beijing and freer to talk.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0263"
+      ],
+      "temporal_scope": "Scheduling claim stated on 2026-02-15.",
+      "topic_tags": [
+        "follow-up interview",
+        "March 9",
+        "Beijing"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host says the conversation was a strong collaboration, that the chat response was unusually intense, and that he expects to speak with Jiang again in about a month.",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0268"
+      ],
+      "temporal_scope": "Host reaction and forward-looking statement on 2026-02-15.",
+      "topic_tags": [
+        "chat reaction",
+        "follow-up interview"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0016"
+      ],
+      "moment": "Jiang frames himself as someone who came out of nowhere and therefore gets read as an intelligence product.",
+      "source_phrase": "I came out of nowhere.",
+      "why_it_matters": "It condenses his explanation for why fame plus taboo knowledge immediately triggers suspicion.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0022"
+      ],
+      "moment": "Jiang collapses contemporary American politics into a fight between the old deep state and the new deep state.",
+      "source_phrase": "the old deep state and new deep state",
+      "why_it_matters": "It provides the packet's core frame for linking Venezuela, finance, and surveillance to one domestic struggle.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0026",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0027"
+      ],
+      "moment": "Jiang flips imperial pride into a claim that almost everyone inside the empire is actually enslaved by it.",
+      "source_phrase": "99 percent of people within the empire are the ones who are enslaved by it.",
+      "why_it_matters": "It reframes empire as internal extraction rather than national glory.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0036"
+      ],
+      "moment": "Jiang rejects the fantasy that Iran can be wrapped up in a few weeks and insists regime decapitation would take years.",
+      "source_phrase": "that's going to take years, man, to decapitate the regime",
+      "why_it_matters": "It compresses his critique of American shock-and-awe thinking into one memorable line.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang reads the Baal-statue moment as a declaration that Iran is done with calibrated restraint.",
+      "source_phrase": "we will fight you to the death",
+      "why_it_matters": "It marks the packet's shift from military preparation to eschatological resolve.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0051"
+      ],
+      "moment": "Jiang reduces modern American warfare to performance for audiences back home.",
+      "source_phrase": "it's all for the audience back at home",
+      "why_it_matters": "It explains why he thinks U.S. strategy misreads enemies like Iran.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0063"
+      ],
+      "moment": "Jiang turns the military-industrial complex into an enforcement arm for transnational capital.",
+      "source_phrase": "the entire point of the military complex is to make the world safe for transnational capital",
+      "why_it_matters": "It condenses the packet's bridge from German history to present-day intervention.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0065",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0066"
+      ],
+      "moment": "Jiang imagines Epstein panic ending not in reform but in a demand to microchip children.",
+      "source_phrase": "let's microchip our children",
+      "why_it_matters": "It captures his core reversal: elite predation becomes the pretext for deeper control.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0078"
+      ],
+      "moment": "Jiang treats elite continuity as a matter of always holding positions on both sides of the dialectic.",
+      "source_phrase": "that's how you play the game",
+      "why_it_matters": "It compresses his theory of how old money survives regime transitions.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0087",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0088"
+      ],
+      "moment": "Jiang renames the surveillance future as techno-Marxism rather than as ordinary capitalism.",
+      "source_phrase": "another word for AI surveillance state is techno-Marxism",
+      "why_it_matters": "It gives the packet its sharpest conceptual compression.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0095"
+      ],
+      "moment": "Iran appears as the last obstacle that must fall before Israel becomes the de facto power in the Middle East.",
+      "source_phrase": "Iran is the last coming block",
+      "why_it_matters": "It is Jiang's most compressed statement of why Iran matters inside the eschatological frame.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0101"
+      ],
+      "moment": "Jiang reduces the strategic situation to one remaining lever: stage a false flag and pull America in.",
+      "source_phrase": "the last option for the Israelis to win a war against Iran is to stage a false flag operation",
+      "why_it_matters": "It gives the packet its clearest forward-looking hinge.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0108",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0109"
+      ],
+      "moment": "Jiang contrasts the spectacular theater of 9/11 with a sloppier present elite likely to settle for a simpler overseas trigger.",
+      "source_phrase": "it's not going to be as elaborate as 9-11",
+      "why_it_matters": "It shows how his false-flag expectation is keyed to a perceived decline in elite craftsmanship.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0134"
+      ],
+      "moment": "Jiang makes the decisive crypto-Jew move inward: secret belief matters more than public action.",
+      "source_phrase": "as long as you secretly believe you're a Jew, you're a Jew",
+      "why_it_matters": "It is the hinge that lets the rest of his Frankist genealogy function.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0137"
+      ],
+      "moment": "Frank's feather-light act is lifting the burden of taboo off the mind so that people feel free to do anything.",
+      "source_phrase": "light as a feather",
+      "why_it_matters": "It preserves Jiang's sharpest image for Frankist antinomian freedom.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0159"
+      ],
+      "moment": "Jiang says ruling this satanic world requires embracing multiplicity, hidden interiors, and manipulation.",
+      "source_phrase": "you need to embrace the demonic",
+      "why_it_matters": "It carries the packet's starkest statement about why simplicity loses in politics.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0167"
+      ],
+      "moment": "Death becomes Jiang's fail-safe that releases souls from wrong turns and lets them continue the journey.",
+      "source_phrase": "death is release. death is catharsis.",
+      "why_it_matters": "It gives the packet its clearest metaphysical contrast with the transhumanist elite.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0176"
+      ],
+      "moment": "Jiang grants the Frankist metric of success but tries to morally redirect it.",
+      "source_phrase": "it would be better to be remembered for good things",
+      "why_it_matters": "It captures the packet's tension between notoriety and moral purpose.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0181"
+      ],
+      "moment": "For Jiang, once a person embraces the demonic, that person becomes trapped and must keep feeding the trap to go on living.",
+      "source_phrase": "once you embrace the demonic, then you are trapped",
+      "why_it_matters": "It is the packet's sharpest moral psychology of evil.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0199"
+      ],
+      "moment": "Reading becomes not hobby but insurgency against attention capture.",
+      "source_phrase": "the greatest act of rebellion that you can do in today's world is to reclaim your attention",
+      "why_it_matters": "It is the packet's strongest portable line for later episode compression.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0207"
+      ],
+      "moment": "A really good book becomes Jiang's portal into the divine.",
+      "source_phrase": "a really good book is a portal into the divine",
+      "why_it_matters": "It gives the packet its most memorable defense of reading.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0215"
+      ],
+      "moment": "Jiang gives the interview's most compact metaphysical formula: love unifies the universe and imagination animates it.",
+      "source_phrase": "love is the unifying force of the universe",
+      "why_it_matters": "It is one of the strongest candidate lines for the later public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0218"
+      ],
+      "moment": "Jiang rejects the school essay machine and recasts real creation as compulsion from inspiration.",
+      "source_phrase": "you woke up one day, and you have this compulsion",
+      "why_it_matters": "It preserves his attack on proceduralized intellect.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0231"
+      ],
+      "moment": "Jiang empties money of substance and relocates wealth into imagination and human connection.",
+      "source_phrase": "what true wealth is, is our imagination",
+      "why_it_matters": "It is one of the interview's cleanest philosophical reversals.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0238"
+      ],
+      "moment": "Jiang uses a blackout intersection as his image of spontaneous order without command.",
+      "source_phrase": "people intuitively figure out what they should be doing",
+      "why_it_matters": "It turns abstract trust in imagination into a concrete civic scene.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0243"
+      ],
+      "moment": "Jiang refuses metaphor and simply identifies AI with the Antichrist.",
+      "source_phrase": "It is AI. It's literally AI.",
+      "why_it_matters": "It is one of the interview's sharpest and most quotable eschatological compressions.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0258"
+      ],
+      "moment": "Jiang opens the hidden-history frame by declaring the taught history of humanity fake.",
+      "source_phrase": "the history that we've been taught ... it's all fake",
+      "why_it_matters": "It is the packet's highest-heat line and would likely survive into the public read.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The host cites Pax Judaica as one of Jiang's lectures and as a recurring frame in Jiang's analysis of Israel and the Middle East.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Frankism",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The host uses Frankism as a known Jiang topic tied to elite transgression and eschatological politics.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Palantir police state",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Jiang uses Palantir as shorthand for a data-driven policing and surveillance order built during internal American breakdown.",
+      "confidence": "medium"
+    },
+    {
+      "term": "fragging",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Jiang later uses the Vietnam-era term for soldiers killing their own officers to describe collapse in troop morale.",
+      "confidence": "high"
+    },
+    {
+      "term": "martyrdom",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0041",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0042",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0043",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0044",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0045",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang uses martyrdom not just as theology but as a military resource that changes deterrence and morale.",
+      "confidence": "high"
+    },
+    {
+      "term": "monetary sovereignty",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0061",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Jiang treats monetary sovereignty as a state's ability to escape transnational-capital discipline and therefore as a trigger for conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "old elite",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0070",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0071",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Jiang uses the old elite to mean the older financial and Democratic establishment that he thinks the tech-surveillance order now wants to displace.",
+      "confidence": "high"
+    },
+    {
+      "term": "techno-Marxism",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0086",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0087",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0088"
+      ],
+      "definition_or_usage": "Jiang's label for an expert-run digital command order that fuses Marxist bureaucracy with AI surveillance.",
+      "confidence": "high"
+    },
+    {
+      "term": "War of Gog and Magog",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0094"
+      ],
+      "definition_or_usage": "Jiang uses the phrase for the climactic conflict that follows Pax Judaica and invites messianic intervention.",
+      "confidence": "medium"
+    },
+    {
+      "term": "color revolution playbook",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "Jiang uses the term for coordinated currency pressure, provocateurs, social-media agitation, and protest escalation aimed at regime change.",
+      "confidence": "high"
+    },
+    {
+      "term": "Donmeh",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0114"
+      ],
+      "definition_or_usage": "Jiang uses Donmeh for the turncoat lineages he thinks linked late Ottoman, British, and Saudi elite formation.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Sabbatai Zevi",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0123",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0124",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0125",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0126",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0127",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0128"
+      ],
+      "definition_or_usage": "Jiang presents Sabbatai Zevi as a messianic-populist figure who challenged rabbinic authority and reinterpreted conversion.",
+      "confidence": "high"
+    },
+    {
+      "term": "crypto-Jews",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0133",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0134"
+      ],
+      "definition_or_usage": "Jiang uses crypto-Jews for converts who outwardly change religion while privately preserving Jewish identity.",
+      "confidence": "high"
+    },
+    {
+      "term": "justification by sin",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0136"
+      ],
+      "definition_or_usage": "Jiang uses the Frankist idea that transgression itself can demonstrate faith and divine freedom.",
+      "confidence": "high"
+    },
+    {
+      "term": "transhumanism",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0166"
+      ],
+      "definition_or_usage": "Jiang treats transhumanism as the Frankist desire to avoid moral reckoning by extending embodied life indefinitely.",
+      "confidence": "high"
+    },
+    {
+      "term": "Allegory of the Cave",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0230"
+      ],
+      "definition_or_usage": "Jiang uses Plato's cave as an analogy for financial illusion and attention capture.",
+      "confidence": "high"
+    },
+    {
+      "term": "telos",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0254"
+      ],
+      "definition_or_usage": "Jiang invokes telos in the Aristotelian sense of fulfilling one's purpose as a route to happiness.",
+      "confidence": "high"
+    },
+    {
+      "term": "geomagnetic excursion",
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0259"
+      ],
+      "definition_or_usage": "Jiang uses the term for catastrophic pole shifts that he thinks periodically destroy civilizations.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0256"
+      ],
+      "note": "Jiang explicitly says his earlier view of Plato as a fascist interested mainly in control has softened into a more appreciative reading of Plato as imaginative and poetic.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0263"
+      ],
+      "note": "Jiang schedules a follow-up conversation for around the weekend of March 9 and says he will be back in Beijing by then.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0268"
+      ],
+      "note": "The host publicly says there will be another conversation in roughly a month, matching the scheduling exchange near the end of the call.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0010",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0011"
+      ],
+      "note": "The host's remarks about Semitic ancestry and Khazars are presented as part of the interview exchange, not as independently verified evidence inside this packet."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0058",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0059",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0060",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0061",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0062",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0063"
+      ],
+      "note": "These segments rely heavily on Jiang's historical interpretation and model-building rather than on documentary detail inside the interview itself."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0065",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0066",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0067",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0068",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0069",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0070",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0071",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0072"
+      ],
+      "note": "Jiang's references to unreleased snuff films, child hunting, and named political implication are speculative projections inside the interview rather than grounded by evidence here."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0074",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0075",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0076",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0077",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0078"
+      ],
+      "note": "The packet contains noisy ASR around the Riley Good case and around the specific social factions Jiang names, so wording is conservative relative to the clearer argumentative core."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0113",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0114",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0115",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0116",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0117"
+      ],
+      "note": "Jiang explicitly says he is offering a tested framework rather than documentary evidence for the House-of-Saud genealogy and crypto-Jew claim."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0121",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0122"
+      ],
+      "note": "The Charlie Kirk assassination interpretation is asserted as Jiang's reading of political timing and media preparation rather than proven inside the interview."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0138",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0139",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0140",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0141",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0142",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0143"
+      ],
+      "note": "Jiang marks part of this packet as his own speculation about how persecution and chosenness interact, rather than as a settled historical account."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0147",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0148",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0149",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0150"
+      ],
+      "note": "The packet leaves the Christopher Columbus theory unresolved and treats the crypto-Jew inquisitor claim as Jiang's interpretive framing rather than a sourced proof inside the conversation."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0219",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0220",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0221"
+      ],
+      "note": "Claims about child sacrifice, cannibalism, and possession are presented here as Jiang's explanation of elite imagination practices, not as documented evidence inside the source."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0225",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0226",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0227",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0228"
+      ],
+      "note": "The Bitcoin-origin claims are Jiang's inference from utility and institutional capacity rather than sourced proof inside the interview."
+    },
+    {
+      "refs": [
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0258",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0259",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0260",
+        "video:interview-lma4p2gdxzm@transcript:v1#seg-0261"
+      ],
+      "note": "This packet is highly speculative and framed as Jiang's hidden-history model rather than as evidence-grounded archaeology inside the source."
+    }
+  ]
+}
