@@ -1,0 +1,1742 @@
+{
+  "id": "evidence:semanticvideo-interview-2f3osvzg2ti:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-2f3osvzg2ti",
+  "source_id": "video:interview-2f3osvzg2ti",
+  "source_title": "Global ‘Total War’ Imminent As U.S. Readies Iran Strike | Xueqin Jiang",
+  "source_url": "https://www.youtube.com/watch?v=2f3OSVZg2tI",
+  "source_date": "2026-01-24",
+  "date_precision": "day",
+  "transcript_id": "video:interview-2f3osvzg2ti@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-2f3osvzg2ti/packet-0010.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-2f3osvzg2ti/source.yaml",
+    "transcript_path": "content/sources/videos/interview-2f3osvzg2ti/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 10,
+    "interactions": 50,
+    "speaker_notes": 2,
+    "claims": 43,
+    "signature_moments": 19,
+    "predictions": 11,
+    "models": 13,
+    "glossary_terms": 19,
+    "chronology_notes": 10,
+    "uncertainty_notes": 9
+  },
+  "first_refs": [
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0004",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0007",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0005",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0006",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0010",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+    "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens with a compressed thesis that fiat breakdown, trade embargoes, war with Iran, and American civil conflict belong to one cascading crisis.",
+      "speaker_attribution": "Jiang teaser",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0002",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The host frames the interview around a possible imminent strike on Iran and asks Jiang for his reaction to US warships moving into the Middle East.",
+      "speaker_attribution": "Host opening question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0004",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0005",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0006",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0007"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that a strike is imminent and interprets the Iranian protests as a color-revolution sequence engineered to soften the regime for Israeli-American airstrikes.",
+      "speaker_attribution": "Jiang opening answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host asks what Trump actually wants from Iran beyond ordinary regime change and oil extraction.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0010"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the end goal in Iran is not mere regime replacement but the destruction and fragmentation of the Iranian state.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0011"
+      ],
+      "kind": "unclear",
+      "summary": "The host’s transition into a viewer question is garbled and blends a Strait of Hormuz remark with the setup for a submitted question.",
+      "speaker_attribution": "Host transition",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "kind": "answer",
+      "summary": "Jiang reads or paraphrases a submitted question and answers with a model in which maritime empires fear a Eurasian Russia-China-Iran bloc connected by land.",
+      "speaker_attribution": "Jiang answer after viewer prompt",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0014"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The host cuts to a sponsor segment and reads advertisement copy before returning to the interview.",
+      "speaker_attribution": "Host sponsor read",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Iran and its allies, especially China and Russia, would respond to a US armada and possible strike.",
+      "speaker_attribution": "Host question after sponsor break",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Iran’s play is economic war through the Strait of Hormuz, forcing other oil-dependent states into the conflict.",
+      "speaker_attribution": "Jiang answer opening",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0017"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the Iran answer by framing the conflict as a game of chicken between American infrastructure strikes and Iranian economic strangulation.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0018"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the post-New-Year escalation pattern points to a localized Iran war or something larger.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0019",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues the US has lost soft-power and dollar-based instruments and is therefore falling back to naval coercion over trade routes worldwide.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0022"
+      ],
+      "kind": "question",
+      "summary": "The host asks what Jiang means by calling the United States a dying empire and whether late empires typically become more provocative.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0023",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a historical arc from earlier American coalition-building to later unilateral arrogance, sovereignty violations, and financial abuse.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0025",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0026"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues his dying-empire answer by tying elite capture, debt, military overreach, and corruption into a collapse model.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0027"
+      ],
+      "kind": "question",
+      "summary": "The host asks how a strike on Iran would escalate over the next few months.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0028",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0029",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump expects a quick optics win, but Iranian martyrdom culture and Russian-Chinese stakes make a protracted war far more likely.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0031"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to a clip of Mark Carney discussing a new world order.",
+      "speaker_attribution": "Host clip setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0032"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A Carney speech excerpt frames the present as a rupture in which economic integration has been weaponized.",
+      "speaker_attribution": "Quoted Carney clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0033"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The quoted Carney clip continues by describing supply chains and financial infrastructure as coercive weapons.",
+      "speaker_attribution": "Quoted Carney clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0034"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Carney is effectively admitting that globalization has been weaponized and needs to be reworked.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0035",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0036",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0037"
+      ],
+      "kind": "answer",
+      "summary": "Jiang interprets Carney’s Davos speech as Europe’s answer to Trump’s national-security strategy and as an attempt to build a system less dependent on America.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0038"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Canada’s new deal with China signals allied defection from the United States.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0039",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang offers two readings of Canada’s move: ordinary diversification against US pressure, or a darker transnational-capital liquidation of Canada itself.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0041",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0042",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the Canada answer by predicting an early Carney election, digital ID, digital currency, and behavioral control through financial nudging.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0044"
+      ],
+      "kind": "question",
+      "summary": "The host asks what China’s playbook is once Trump has made his global ambitions explicit.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0045",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0046",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump wants Chinese submission by tapping Chinese household savings through real estate, education, and especially stablecoins.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host introduces a clip about Trump’s newly announced Board of Peace.",
+      "speaker_attribution": "Host clip setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0049"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A Trump clip announces the formal creation of a Board of Peace with selected states and elite guests.",
+      "speaker_attribution": "Quoted Trump clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Trump is effectively trying to create his own selective version of the United Nations.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0051",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0052"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump is building not a new world order in general but a Trump-branded order born from resentment at old elite clubs.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "The host asks what the sudden surge in gold and silver prices is signaling.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says precious metals are signaling investor recognition that fiat, global trade, and peace are all breaking down together.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0055"
+      ],
+      "kind": "question",
+      "summary": "The host asks what happens to the broader economy once kinetic conflict intensifies.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a transnational-capital metaphor in which a decayed building is oversold, hyped, and then burned down for extraction.",
+      "speaker_attribution": "Jiang answer opening",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes the transnational-capital answer by predicting civil war across the West and even US absorption of Canada.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether a new order emerges from those ashes.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0059",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0060"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a new order centered on Israel, Middle East demolition and reconstruction, and redirected transnational capital.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0061"
+      ],
+      "kind": "question",
+      "summary": "The host asks which global theater is most consequential among the many active conflict zones.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0063"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Iran is the decisive theater and a China-Japan conflict is second because Taiwan and sea-lane control determine Japan’s survival.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0064"
+      ],
+      "kind": "question",
+      "summary": "The host presses Jiang on why Taiwan is necessary for a Chinese embargo of Japan.",
+      "speaker_attribution": "Host challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0065"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Taiwan matters because it anchors the first island chain and because China’s preferred route is gradual economic absorption rather than direct invasion.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0066"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether America First means a reduced US role in the Pacific.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0067"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that America First is a nationalist counter-narrative to multilateralism and an attack on the global financial elite.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0068"
+      ],
+      "kind": "question",
+      "summary": "The host asks how a sustained Iran war could feed into American civil war.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0069",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0070",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0071"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that multiple unresolved fractures inside the United States—federal versus state, partisan, racial-cultural, protest, election, and war—are converging toward climax.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0072"
+      ],
+      "kind": "question",
+      "summary": "The host closes by asking where viewers can find Jiang’s work.",
+      "speaker_attribution": "Host outro question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0073"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the closing question by identifying his real channels and distinguishing them from impersonator accounts.",
+      "speaker_attribution": "Jiang outro answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "The host thanks Jiang, promises links below, and closes the video.",
+      "speaker_attribution": "Host closeout",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0011",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012"
+      ],
+      "note": "The question framing is noisy: the host appears to begin one viewer question while Jiang immediately pivots to another submitted question from \"Eric Neil.\"",
+      "suggested_speaker": "Host then Jiang",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0049"
+      ],
+      "note": "The quoted clip is a third-party speech segment, not live interview dialogue, and should be treated as read material inside the packet.",
+      "suggested_speaker": "Donald Trump clip",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that a US or Israeli-linked strike on Iran is imminent, citing canceled flights, naval mobilization, and the recent protest sequence as converging signals.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0004",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Immediate forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Iran",
+        "airstrikes",
+        "prediction",
+        "Middle East"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the New Year protest wave in Iran as a classic color-revolution operation in which economic sabotage, embedded agents, and calibrated violence are used to destabilize the state.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0004",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current-events diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Iran protests",
+        "color revolution",
+        "destabilization"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Iranian government disrupted the original regime-change script by jamming Starlink, blacking out the internet, and rounding up embedded Mossad-linked operatives.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current battlefield diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Starlink",
+        "Iran",
+        "Mossad",
+        "counterinsurgency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the actual plan was to pair protests with airstrikes in order to break Iranian security morale, but that the regime proved more resilient than Washington and Tel Aviv expected.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0005",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Iran",
+        "regime resilience",
+        "airstrikes",
+        "security services"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats Trump’s first-term pro-Israel actions, including Jerusalem, the nuclear-deal withdrawal, the Abraham Accords, and Soleimani’s assassination, as the prehistory of the present Iran crisis.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0006",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Retrospective chronology restated on 2026-01-24.",
+      "topic_tags": [
+        "Trump",
+        "Israel",
+        "Iran nuclear deal",
+        "Soleimani"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Pentagon has long pursued seven regime-change targets and that Iran is the final unresolved state in that sequence.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Historical diagnosis restated on 2026-01-24.",
+      "topic_tags": [
+        "Pentagon",
+        "regime change",
+        "Iran",
+        "Wesley Clark"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that America’s actual pattern in Libya, Syria, and Iraq was not democratic transition but state collapse, loss of basic services, and prolonged civil war.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Retrospective model restated on 2026-01-24.",
+      "topic_tags": [
+        "state collapse",
+        "Libya",
+        "Syria",
+        "Iraq"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Iran as the pivot of a feared Eurasian alliance in which Russia supplies military force, China supplies economic capacity, and Iran supplies geographic and resource centrality.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Current strategic model stated on 2026-01-24.",
+      "topic_tags": [
+        "Eurasia",
+        "Russia",
+        "China",
+        "Iran",
+        "grand alliance"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Washington’s grand strategy is to strike Iran and create internal chaos precisely to prevent a Russia-China-Iran land-power bloc from consolidating.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "grand strategy",
+        "Iran",
+        "chaos",
+        "Eurasian bloc"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Iran’s response to war would be economic attrition through closing the Strait of Hormuz and striking regional US bases, with cascading damage to East Asian import economies.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0015",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Immediate war forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "economic war",
+        "East Asia oil",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says an Iran war would not remain local because Middle East energy is structurally tied to East Asian and global economic stability.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0017",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Immediate escalation forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Iran war",
+        "global spillover",
+        "energy",
+        "trade routes"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that America has already exhausted soft-power and dollar-hegemony mechanisms, leaving naval control of trade routes as the final instrument of empire.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0019",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "General imperial model stated on 2026-01-24.",
+      "topic_tags": [
+        "soft power",
+        "US dollar",
+        "navy",
+        "trade routes"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets recent pressure on Venezuela, Cuba, Colombia, Mexico, Greenland, and Canada as one connected attempt to control resources and access rather than isolated episodes.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0019",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Venezuela",
+        "Greenland",
+        "Canada",
+        "resource control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts a major China-Japan confrontation in 2026 centered on sea-lane control, especially around the Strait of Malacca and disputed waters.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Forecast for 2026 stated on 2026-01-24.",
+      "topic_tags": [
+        "China",
+        "Japan",
+        "Strait of Malacca",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the American-led rules-based order initially secured buy-in by distributing benefits, but later unipolar arrogance converted that order into open unilateral abuse.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0023",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical interpretation restated on 2026-01-24.",
+      "topic_tags": [
+        "rules-based order",
+        "unipolarity",
+        "imperial decline"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says both major US parties now serve elite interests and that debt, inequality, and military overextension are symptoms of an imperial system hollowed out by easy money.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0025",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Structural diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "elite capture",
+        "debt",
+        "imperial decline",
+        "United States"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that increasing the military budget from $1 trillion to $1.5 trillion would chiefly enrich the military-industrial complex rather than restore real capability.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current budget diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "military budget",
+        "corruption",
+        "Golden Dome"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump now has greater bureaucratic control than in his first term and therefore expects obedient military implementation of a strike on Iran.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Trump",
+        "bureaucracy",
+        "military obedience",
+        "Project 2025"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Trump imagines a fast collapse of Iran, but that Iranian religious resolve and national pride will instead produce a long war America cannot sustain.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0028",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Immediate war forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Iran",
+        "martyrdom",
+        "protracted war",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russia and China cannot allow Iran to fall because Iran shields Russia’s southern flank and keeps China’s Belt and Road and western resource corridors viable.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Russia",
+        "China",
+        "Iran",
+        "Belt and Road"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump’s national-security strategy openly rejects the old burden-sharing logic of multilateralism and reframes allies as free riders exploiting American consumers and military power.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Current strategic interpretation stated on 2026-01-24.",
+      "topic_tags": [
+        "Trump",
+        "multilateralism",
+        "allies",
+        "free riding"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Carney’s Davos speech as Europe and Canada answering that break by trying to build a post-American system that better protects their own interests.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0036",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Current diplomatic diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Carney",
+        "Europe",
+        "Canada",
+        "post-American order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says one legitimate reading of Canada’s opening to China is defensive diversification away from overwhelming dependence on the US market.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Current Canadian strategy diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Canada",
+        "China",
+        "diversification",
+        "trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang’s more radical reading is that Canada is a resource colony being managed by transnational capital rather than a sovereign nation-state.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Current structural diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Canada",
+        "transnational capital",
+        "resource colony",
+        "sovereignty"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Carney will call an early election, win a majority, and use child-safety law as the political path to digital ID and then digital currency.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0041",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Immediate Canadian political forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Carney",
+        "digital ID",
+        "digital currency",
+        "Canada"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that digital currency is attractive to Western governments because it enables financial repression and subtle control without overt police force.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0042",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "General governance model stated on 2026-01-24.",
+      "topic_tags": [
+        "digital currency",
+        "financial repression",
+        "behavior control"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump does not seek regime change in China because the United States remains dependent on Chinese manufacturing.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current US-China diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "China",
+        "manufacturing",
+        "codependence",
+        "Trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Trump’s real objective is access to Chinese household savings, which he thinks can be extracted through real estate, equity or education, and stablecoins.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0045",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0046",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Current US-China strategy model stated on 2026-01-24.",
+      "topic_tags": [
+        "household savings",
+        "stablecoins",
+        "real estate",
+        "education",
+        "China"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Trump will discuss these savings-access mechanisms with China during an April visit.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Near-term diplomatic forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Trump",
+        "April visit",
+        "China",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets the Board of Peace as Trump’s effort to replace universal institutions with a selective personal order built around loyalty and status.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0050",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0051",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Current institutional diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Board of Peace",
+        "Trump",
+        "world order",
+        "institutions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Trump’s behavior in geopolitics follows the same pattern he followed socially in Palm Beach: exclusion from old clubs produces a retaliatory rival club of his own.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0051",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "General personality-to-politics model stated on 2026-01-24.",
+      "topic_tags": [
+        "Trump",
+        "Mar-a-Lago",
+        "status",
+        "political style"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the spike in gold and silver means investors have realized that fiat currency is no longer viable and that embargoes and total war are approaching.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0053",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Current market diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "gold",
+        "silver",
+        "fiat",
+        "markets",
+        "war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang models transnational capital as trying to maximize extraction through AI, Bitcoin, and speculation before moving wealth to safety and letting the Western world burn.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "General crisis model stated on 2026-01-24.",
+      "topic_tags": [
+        "transnational capital",
+        "AI bubble",
+        "Bitcoin",
+        "speculation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts transnational capital’s endgame is to let Europe and America descend into civil war while preserving capital elsewhere.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Crisis forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "civil war",
+        "transnational capital",
+        "West",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang’s proposed postwar order is Pax Judaica, with Israel becoming the new center of gravity after Iran and the surrounding Middle East are devastated and rebuilt with imported labor and redirected capital.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0058",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0059",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Postwar order forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Pax Judaica",
+        "Israel",
+        "Middle East",
+        "reconstruction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the United States will enter Iran, devastate the Iranian state, then be forced into withdrawal by an unwinnable war and domestic civil conflict.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Immediate-to-medium-term forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "Iran",
+        "United States",
+        "civil war",
+        "withdrawal"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a later China-Japan confrontation would be driven by Japan’s need to preserve freedom of navigation and avoid dependence on a China-controlled Taiwan chokepoint.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Strategic forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "China",
+        "Japan",
+        "Taiwan",
+        "freedom of navigation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Taiwan’s importance lies in the first island chain and in the fact that China would rather gain control through long-term economic absorption than immediate military conquest.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Current East Asia strategy diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "Taiwan",
+        "first island chain",
+        "economic absorption",
+        "China"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the United States no longer expects to defeat China directly in Southeast Asia and instead wants to blockade China globally while promoting Japan as the frontline adversary.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Current US strategy diagnosis stated on 2026-01-24.",
+      "topic_tags": [
+        "United States",
+        "China",
+        "Japan",
+        "blockade",
+        "Southeast Asia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines America First as a revolt against the multilateral order that enriched global financial elites and now seeks to put narrowly American interests first.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0066",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Current ideological definition stated on 2026-01-24.",
+      "topic_tags": [
+        "America First",
+        "multilateralism",
+        "global financial elite"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts US civil war pressure will intensify over the next few years because unresolved state-federal, partisan, cultural, protest, and electoral conflicts are all converging.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0068",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0069",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0070",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Near-term domestic forecast stated on 2026-01-24.",
+      "topic_tags": [
+        "civil war",
+        "Minnesota",
+        "elections",
+        "polarization"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says his authentic public outlets are the Predictive History YouTube channel and the PredictiveHistory.Substack.com newsletter.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Current self-identification stated on 2026-01-24.",
+      "topic_tags": [
+        "Predictive History",
+        "Substack",
+        "YouTube"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there are multiple channels pretending to be him, so viewers should verify that they are following the correct Predictive History account.",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Current audience guidance stated on 2026-01-24.",
+      "topic_tags": [
+        "impersonation",
+        "audience guidance",
+        "Predictive History"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0001"
+      ],
+      "moment": "Jiang compresses the whole interview into a one-breath apocalypse of failed fiat, dead trade, Iran war, and American civil conflict.",
+      "source_phrase": "the world is headed towards complete total war",
+      "why_it_matters": "It is the packet’s governing image and sets the scale of every later claim.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang turns Starlink from neutral technology into the hidden nervous system of a foreign-backed uprising.",
+      "source_phrase": "they use Starlink to communicate amongst the protesters",
+      "why_it_matters": "It shows how he maps information systems directly onto covert regime-change infrastructure.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009"
+      ],
+      "moment": "Iran appears not as one more regime-change target but as the \"last boss\" at the end of the American sequence.",
+      "source_phrase": "the last nation is Iran. It's basically the last boss, the endgame",
+      "why_it_matters": "It gives the Iran confrontation an explicitly terminal place in Jiang’s map of empire.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "moment": "Jiang makes Iran the hinge that either permits or prevents a continental counter-order to sea power.",
+      "source_phrase": "Iran is really the pivot of the world",
+      "why_it_matters": "It condenses why he treats an Iran war as globally decisive rather than regionally bounded.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020"
+      ],
+      "moment": "Jiang identifies control of the world’s trade chokepoints as the last surviving move of a dying maritime empire.",
+      "source_phrase": "that is the last play of the American Empire",
+      "why_it_matters": "It is the packet’s cleanest definition of what late-stage US power now consists of.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0024"
+      ],
+      "moment": "He describes the rules-based order as something people pretended was multilateralism even while it functioned as imperialism.",
+      "source_phrase": "people pretended that this was multilateralism instead of imperialism",
+      "why_it_matters": "It captures his reversal of the moral language surrounding the postwar order.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0026"
+      ],
+      "moment": "Jiang personifies imperial decline as a power that cannot recognize its own death and therefore lashes out harder at the world.",
+      "source_phrase": "it does not know it's dying. It refuses to die. And it lashes out at the world",
+      "why_it_matters": "This is his cleanest psychological portrait of American collapse in the interview.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0029"
+      ],
+      "moment": "He opposes Trump’s imagined Desert Storm replay to a society willing to absorb martyrdom and fight a long sacred war.",
+      "source_phrase": "these are Shia people who believe in martyrdom",
+      "why_it_matters": "It explains why Jiang thinks US expectations of a quick victory are structurally misguided.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0036"
+      ],
+      "moment": "Jiang flips the old alliance story by having Carney tell America that Europe and Canada were not freeloaders but the resource base feeding US empire.",
+      "source_phrase": "our economies in Canada and Europe became your resource colonies",
+      "why_it_matters": "It compresses his interpretation of the Davos rupture into one brutal sentence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0040"
+      ],
+      "moment": "Canada stops being a country in Jiang’s description and becomes a toxic asset on the books of transnational capital.",
+      "source_phrase": "Canada's really a resource colony",
+      "why_it_matters": "It shows the packet’s jump from ordinary geopolitics into liquidation logic.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0042",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0043"
+      ],
+      "moment": "Jiang makes digital currency feel less like a payment system than a soft authoritarian switch that can quietly shut off a dissenter’s life.",
+      "source_phrase": "your bank account gets frozen for a couple of days",
+      "why_it_matters": "It preserves the concrete mechanism through which he imagines financial control becoming social control.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0047"
+      ],
+      "moment": "Stablecoins appear not as innovation but as a debt-transfer machine aimed at Chinese savers.",
+      "source_phrase": "offload this debt onto Chinese consumers",
+      "why_it_matters": "It condenses Jiang’s geopolitical reading of digital finance into one sharp causal sentence.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0051"
+      ],
+      "moment": "Trump’s world-order project is reduced to the same wounded-club instinct that produced Mar-a-Lago.",
+      "source_phrase": "he started his own club. Called Mar-a-Lago",
+      "why_it_matters": "It turns an abstract institutional claim into a vivid personality mechanism.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0056"
+      ],
+      "moment": "Jiang describes crisis finance as overselling units in a condemned building and then burning the structure down.",
+      "source_phrase": "you sell 10,000 units at a deep discount ... and then you burn down the building",
+      "why_it_matters": "It is one of the interview’s strongest metaphors for elite extraction under collapse.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0059",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0060"
+      ],
+      "moment": "Jiang imagines a peace built not on reconciliation but on demolition, cheap labor, and capital flight into a remade Greater Israel.",
+      "source_phrase": "Gaza has been bulldozed. It's not a war. It's a demolition",
+      "why_it_matters": "It preserves the brutal physical image behind his Pax Judaica thesis.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062"
+      ],
+      "moment": "Iran is elevated from one conflict zone to the place that decides the world order for half a century.",
+      "source_phrase": "What happens in Iran will determine the world order for the next 50 years",
+      "why_it_matters": "This is one of the interview’s strongest chronology-and-scale claims.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0065"
+      ],
+      "moment": "Jiang replaces the standard invasion scenario with a colder strategy of making Taiwan economically dependent until obedience follows by necessity.",
+      "source_phrase": "economically absorb Taiwan back into China",
+      "why_it_matters": "It preserves his preferred mechanism for Chinese power rather than flattening the issue into simple military takeover.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0070",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0071"
+      ],
+      "moment": "Civil war is not one event but a pileup of unredressed polarizations that keep returning and intensifying.",
+      "source_phrase": "all these polarized issues in America that have never been redressed",
+      "why_it_matters": "It distills his domestic-collapse model into a cumulative rather than single-trigger mechanism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0073"
+      ],
+      "moment": "Even the closing plug carries a warning that counterfeit Jiang channels are already circulating.",
+      "source_phrase": "there are lots of YouTube channels that purport to be me",
+      "why_it_matters": "It is a minor but source-specific detail that may matter for public routing and attribution.",
+      "tone": "question",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "color revolution playbook",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang uses this for an externally engineered protest-and-crackdown sequence meant to fracture a target state before open intervention.",
+      "confidence": "high"
+    },
+    {
+      "term": "regime change",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0006",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Used here as the official surface story that Jiang says conceals a deeper strategy of state destruction.",
+      "confidence": "high"
+    },
+    {
+      "term": "state collapse",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009"
+      ],
+      "definition_or_usage": "Jiang uses this for the destruction of a government’s capacity to provide order, water, electricity, and territorial coherence.",
+      "confidence": "high"
+    },
+    {
+      "term": "economic war of attrition",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Used for Iran’s expected strategy of wearing down stronger adversaries by choking trade and energy flows over time.",
+      "confidence": "high"
+    },
+    {
+      "term": "dying empire",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0022",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0023",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang uses this for an overextended power that has lost legitimacy and compensates with coercion.",
+      "confidence": "high"
+    },
+    {
+      "term": "rules-based order",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0023",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Here it names the postwar American system that Jiang says mixed real benefits with imperial hypocrisy.",
+      "confidence": "high"
+    },
+    {
+      "term": "military-industrial complex",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Used here as the corrupt domestic sink that captures war spending without restoring effective military power.",
+      "confidence": "high"
+    },
+    {
+      "term": "Golden Dome",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Invoked as a flashy weapons-system announcement Jiang treats as part of elite extraction rather than strategic renewal.",
+      "confidence": "high"
+    },
+    {
+      "term": "resource colony",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0036",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang uses this for nominally sovereign economies whose real function is to feed a larger imperial or financial center.",
+      "confidence": "high"
+    },
+    {
+      "term": "dynamic dialogue",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Used for the back-and-forth adjustment between the American national-security strategy and Europe’s response.",
+      "confidence": "high"
+    },
+    {
+      "term": "digital ID",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0041",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Used as the identity layer Jiang thinks enables later digital-currency control over behavior and speech.",
+      "confidence": "high"
+    },
+    {
+      "term": "stablecoins",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Jiang defines them here as corporate digital currencies backed by US Treasuries and usable for exporting American debt pressure.",
+      "confidence": "high"
+    },
+    {
+      "term": "Board of Peace",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0049",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Used here for Trump’s selective alternative forum, which Jiang reads as a Trump-centered institutional order.",
+      "confidence": "high"
+    },
+    {
+      "term": "transnational capital",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang uses this for globally mobile financial elites that can extract value from decaying societies and relocate before collapse.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang’s term for a postwar order in which Israel becomes the new strategic and financial center of gravity.",
+      "confidence": "high"
+    },
+    {
+      "term": "freedom of navigation",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0063"
+      ],
+      "definition_or_usage": "Used here as the strategic condition Japan must preserve to avoid starvation through blockade.",
+      "confidence": "high"
+    },
+    {
+      "term": "first island chain",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Used for the maritime barrier structure in which Taiwan matters strategically because it sits inside the US-protected containment arc.",
+      "confidence": "high"
+    },
+    {
+      "term": "America First",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Defined here as a nationalist anti-multilateral doctrine aimed at breaking the power of global financial elites and privileging US interests.",
+      "confidence": "high"
+    },
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0073"
+      ],
+      "definition_or_usage": "Jiang names this as both his main YouTube identity and the place to follow his lectures and geopolitical analysis.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0004",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0006",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0007"
+      ],
+      "note": "Jiang links the immediate January 2026 protest crisis to Trump’s first-term Iran and Israel decisions, especially the 2020 Soleimani assassination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0009",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0016"
+      ],
+      "note": "This packet moves from a post-9/11 regime-change genealogy into Jiang’s January 2026 forecast of Hormuz-centered escalation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0019",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang’s chronology runs from the Cold War and Marshall Plan through Yugoslavia, Iraq, 2008, and the January 2026 Iran crisis as stages of imperial decay.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0028",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0029",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang contrasts Trump’s first-term Syria frustrations with the January 2026 moment, where he thinks Iran escalation is more likely because bureaucratic resistance has been reduced.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0035",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0036",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0038",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0039"
+      ],
+      "note": "The packet is anchored to the immediate aftermath of Trump’s new national-security strategy, Carney’s Davos speech, and a just-announced Canada-China framework deal.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0041",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0046"
+      ],
+      "note": "Jiang ties immediate Canadian domestic legislation to a near-term April Trump-China visit, making this packet unusually date-specific for both Canada and China.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0049",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0053",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0054"
+      ],
+      "note": "This packet is anchored to a single January 2026 news moment: Trump’s just-announced Board of Peace and a same-day historic surge in precious metals.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0059",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062"
+      ],
+      "note": "Jiang orders the future as Iran first and China-Japan second, with the Iran war establishing the longer postwar architecture he calls Pax Judaica.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0067",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0070",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0071"
+      ],
+      "note": "Jiang explicitly places the American domestic climax in the next few years while linking it to the January 2026 Iran-war decision point.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0073"
+      ],
+      "note": "The closing self-identification confirms where Jiang wanted audiences sent as of 2026-01-24.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0004",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0005"
+      ],
+      "note": "The packet includes unverified operational claims about engineered currency attacks, Starlink coordination, Mossad presence, and casualty counts; these are presented as Jiang’s current model rather than source-demonstrated facts."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0011",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0012",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0013"
+      ],
+      "note": "The viewer-question handoff is noisy and partially garbled, so the exact submitted wording is unclear even though Jiang’s answer is legible."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0019",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0020",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0021"
+      ],
+      "note": "Several contemporary claims about kidnappings, planned blockades, and upcoming regional conflicts are presented as Jiang’s reading of current strategy rather than independently established facts within the source."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0028",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0029"
+      ],
+      "note": "The packet attributes specific intentions to Trump and broad religious motivations to Iranian society; these should be read as Jiang’s interpretive forecast rather than verified internal evidence."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0039",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0040"
+      ],
+      "note": "The second Canada interpretation is explicitly Jiang’s controversial reading and includes large macroeconomic judgments that are not independently substantiated within the packet."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0041",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0042",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0046"
+      ],
+      "note": "The early-election, digital-ID, and April-visit claims are forward-looking and should be treated as Jiang’s forecast rather than verified schedule or settled policy."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0054",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0056"
+      ],
+      "note": "The market interpretation and transnational-capital model are highly schematic and should be read as Jiang’s explanatory frame rather than direct evidence from the prices alone."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0057",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0059",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0062"
+      ],
+      "note": "The packet contains maximal speculative forecasts about civil wars, CENTCOM, and a Greater Israel order; these are Jiang’s forward model, not source-verified outcomes."
+    },
+    {
+      "refs": [
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0069",
+        "video:interview-2f3osvzg2ti@transcript:v1#seg-0070"
+      ],
+      "note": "The Minnesota and René Goode material is presented as current political evidence inside Jiang’s model, but the packet does not independently verify those events or their details."
+    }
+  ]
+}
