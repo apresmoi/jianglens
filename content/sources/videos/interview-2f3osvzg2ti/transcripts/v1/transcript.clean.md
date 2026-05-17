@@ -8,15 +8,15 @@ Investors have clued in that the world is collapsing, that the fiat currency mod
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0001
 
-## seg-0002 / 00:00:32-00:01:22 / SPEAKER_02
+## seg-0002 / 00:00:32-00:01:24 / SPEAKER_02
 
-I'm here with Professor Xu Jing Zhang, host of Predictive History on YouTube and Substack, and this is an urgent update on what may be a pending war. Welcome back to the show, Professor. Good to see you. Yeah, lots of updates from Davos we can go over, but we're going to go over today. But first, let me just talk about this developing story. Trump says an armada of warships is headed toward Iran just in case. He said on Thursday, so yesterday, an armada of U.S. warships is headed towards the Middle East as he continues to watch the Iranian regime's response to massive protests. Now, that began in late December. He did say a couple of weeks ago that if the Iranian regime took action against protesters, then he would use that as a reason to take action against Iran. And that's exactly what has happened. So now the world's watching to see if Trump would
+I'm here with Professor Xu Jing Zhang, host of Predictive History on YouTube and Substack, and this is an urgent update on what may be a pending war. Welcome back to the show, Professor. Good to see you. Yeah, lots of updates from Davos we can go over, but we're going to go over today. But first, let me just talk about this developing story. Trump says an armada of warships is headed toward Iran just in case. He said on Thursday, so yesterday, an armada of U.S. warships is headed towards the Middle East as he continues to watch the Iranian regime's response to massive protests. Now, that began in late December. He did say a couple of weeks ago that if the Iranian regime took action against protesters, then he would use that as a reason to take action against Iran. And that's exactly what has happened. So now the world's watching to see if Trump would actually follow up on what he wrote.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0002
 
-## seg-0003 / 00:01:22-00:01:33 / SPEAKER_02
+## seg-0003 / 00:01:24-00:01:33 / SPEAKER_02
 
-actually follow up on what he wrote. On truth, social. What is your reaction to a lot of warships headed towards the Middle East?
+On truth, social. What is your reaction to a lot of warships headed towards the Middle East?
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0003
 
@@ -26,21 +26,21 @@ I think there's a lot of indications already that a strike is imminent. So for e
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0004
 
-## seg-0005 / 00:02:46-00:03:45 / SPEAKER_03
+## seg-0005 / 00:02:46-00:03:47 / SPEAKER_03
 
-have agent public cares embedded within the country. Right. That start to rally protesters to start to use violence against the government. Now, what's happened that I think is not part of the script is that the Iranian government was able to jam Starlink terminals. And this is crucial because they use Starlink to communicate amongst the protesters, to coordinate amongst the spies embedded within Iran. So, you know, Mike Pompeo, he he tweeted out. Happy New Year. Greetings to the protesters in Iran, as well as the Mossad agents walking besides them. Right. So what the Iranian government did was basically they blacked out the Internet and that allowed them to quickly identify the Starlink terminals. And then they were then able to round up the Mossad agents. And so it's a brutal crackdown, but it's effective. And that's what actually delayed the airstrikes, because the idea was that as these protests are gaining steam, you launch airstrikes to
+have agent public cares embedded within the country. Right. That start to rally protesters to start to use violence against the government. Now, what's happened that I think is not part of the script is that the Iranian government was able to jam Starlink terminals. And this is crucial because they use Starlink to communicate amongst the protesters, to coordinate amongst the spies embedded within Iran. So, you know, Mike Pompeo, he he tweeted out. Happy New Year. Greetings to the protesters in Iran, as well as the Mossad agents walking besides them. Right. So what the Iranian government did was basically they blacked out the Internet and that allowed them to quickly identify the Starlink terminals. And then they were then able to round up the Mossad agents. And so it's a brutal crackdown, but it's effective. And that's what actually delayed the airstrikes, because the idea was that as these protests are gaining steam, you launch airstrikes to sap the morale of security services.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0005
 
-## seg-0006 / 00:03:45-00:04:46 / SPEAKER_03
+## seg-0006 / 00:03:47-00:04:47 / SPEAKER_03
 
-sap the morale of security services. But the security services have stayed firm. And the regime is much more resilient and resourceful than the Americans and Israelis imagine. But unfortunately, they are committed to regime change in Tehran. And Trump has has said this many, many times. And so this is a culmination of the events that that have taken place this past month. But you also say that this is ultimately why the Israelis are so supportive of Trump. We went back in the first term. Trump proved to be the most pro -Israel president in a long, long time. He moved the American embassy from Tel Aviv to Jerusalem, which is very provocative. He withdrew from the Iran nuclear deal. He initiated something called the Abraham Accords, which was to broker a peace between Saudi Arabia and Israel. So and then, of course, the most significant event was that in January 2020, he authorized the assassination of General
+But the security services have stayed firm. And the regime is much more resilient and resourceful than the Americans and Israelis imagine. But unfortunately, they are committed to regime change in Tehran. And Trump has has said this many, many times. And so this is a culmination of the events that that have taken place this past month. But you also say that this is ultimately why the Israelis are so supportive of Trump. We went back in the first term. Trump proved to be the most pro -Israel president in a long, long time. He moved the American embassy from Tel Aviv to Jerusalem, which is very provocative. He withdrew from the Iran nuclear deal. He initiated something called the Abraham Accords, which was to broker a peace between Saudi Arabia and Israel. So and then, of course, the most significant event was that in January 2020, he authorized the assassination of General Salamani.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0006
 
-## seg-0007 / 00:04:46-00:05:01 / SPEAKER_03
+## seg-0007 / 00:04:47-00:05:01 / SPEAKER_03
 
-Salamani. And then, of course, the most significant event was that in January 2020, he authorized the assassination of General Salamani. He was the ambassador, de facto ambassador of Iran to the Middle East. And in geopolitics, that is a declaration of war. So this is a culmination of events that have been taking place for the past few years. And we should expect airstrikes either this weekend or very soon afterwards.
+And then, of course, the most significant event was that in January 2020, he authorized the assassination of General Salamani. He was the ambassador, de facto ambassador of Iran to the Middle East. And in geopolitics, that is a declaration of war. So this is a culmination of events that have been taking place for the past few years. And we should expect airstrikes either this weekend or very soon afterwards.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0007
 
@@ -92,15 +92,15 @@ checkout to get 20 off all consumer plans take control of your online privacy to
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0015
 
-## seg-0016 / 00:09:47-00:10:47 / SPEAKER_03
+## seg-0016 / 00:09:47-00:10:54 / SPEAKER_03
 
-Right. So Iran's only play is an economic war of attrition, which will last many months, possibly years. Okay, so the idea is that Americans will strike at critical infrastructure of Iranians, including water and electricity. And the idea is to basically starve the country out to stop them out to to destroy the state's capacity to do their basic service. Okay, so that's the American plan. The Iranian plan is to basically close out the stripper who moves and inflict damage to American bases throughout the region, and to make it impossible for the Middle East to trade with the rest of the rest of the world. And this would ultimately destroy the Southeast economy, Southeast Asia economies, Japan, China, and South Korea are extremely reliant on Middle East oil. And this would force other nations to come into this country. conflict. Okay, so it's possible that their nations will become belligerents, South Korea sends forces Saudi Arabia sends
+Right. So Iran's only play is an economic war of attrition, which will last many months, possibly years. Okay, so the idea is that Americans will strike at critical infrastructure of Iranians, including water and electricity. And the idea is to basically starve the country out to stop them out to to destroy the state's capacity to do their basic service. Okay, so that's the American plan. The Iranian plan is to basically close out the stripper who moves and inflict damage to American bases throughout the region, and to make it impossible for the Middle East to trade with the rest of the rest of the world. And this would ultimately destroy the Southeast economy, Southeast Asia economies, Japan, China, and South Korea are extremely reliant on Middle East oil. And this would force other nations to come into this country. conflict. Okay, so it's possible that their nations will become belligerents, South Korea sends forces Saudi Arabia sends forces, but it's also possible that nations like China, Japan, urgently try to negotiate a ceasefire.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0016
 
-## seg-0017 / 00:10:47-00:11:09 / SPEAKER_03
+## seg-0017 / 00:10:54-00:11:09 / SPEAKER_03
 
-forces, but it's also possible that nations like China, Japan, urgently try to negotiate a ceasefire. Okay, so that's a game being played, where America is trying to knock out critical infrastructure for your strikes, they will not send ground troops because I'll be suicidal. And Iran is trying to strangle the world economy. And it's really a game of chicken, like who who was the first to surrender,
+Okay, so that's a game being played, where America is trying to knock out critical infrastructure for your strikes, they will not send ground troops because I'll be suicidal. And Iran is trying to strangle the world economy. And it's really a game of chicken, like who who was the first to surrender,
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0017
 
@@ -134,27 +134,27 @@ What do you mean dying Empire? What does that imply for the rest of global stabi
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0022
 
-## seg-0023 / 00:14:07-00:15:00 / SPEAKER_03
+## seg-0023 / 00:14:07-00:15:04 / SPEAKER_03
 
-Well, so if you look at the empires, their defining characteristic is their hubris. What I mean by that is that in the 1950s, up until the end of the Cold War, America tried to be a force for good in the world. And you know, Mark Carney talked about this in his w in his WEF speech, where he said that in the beginning, we knew that this rule space in actual order created by the American Empire, there was some hypocrisy in it, there was fraud in it, but everyone benefited and the Americans made sure to bring as many people into the coalition as possible and make sure they benefited, right. So the Marshall Plan, we built Europe, they went to Japan, and they rebuilt Japan. They created these organizations that went around the world to, to help nations in need. They were the main benefactors of the World Bank IMF. Okay, so America tried to create
+Well, so if you look at the empires, their defining characteristic is their hubris. What I mean by that is that in the 1950s, up until the end of the Cold War, America tried to be a force for good in the world. And you know, Mark Carney talked about this in his w in his WEF speech, where he said that in the beginning, we knew that this rule space in actual order created by the American Empire, there was some hypocrisy in it, there was fraud in it, but everyone benefited and the Americans made sure to bring as many people into the coalition as possible and make sure they benefited, right. So the Marshall Plan, we built Europe, they went to Japan, and they rebuilt Japan. They created these organizations that went around the world to, to help nations in need. They were the main benefactors of the World Bank IMF. Okay, so America tried to create a system in which as many people benefited as possible.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0023
 
-## seg-0024 / 00:15:00-00:16:07 / SPEAKER_03
+## seg-0024 / 00:15:04-00:16:08 / SPEAKER_03
 
-a system in which as many people benefited as possible. And yes, Mark Carney said there was a lot of hypocrisy to this. But at the same time, people did benefit. And so people pretended that this was multilateralism instead of imperialism. But as America became wealthier, and as the Soviet Union collapsed, America started to become arrogant, because it's the only game in town. And so it started to do things unilaterally. So for example, the war in Yugoslavia, where American NATOs bombed Yugoslavia for no particular reason, it violated a nation's sovereignty, which is the core principle of multilateralism. Then of course, the 2003 invasion of Iraq, which again, violated national sovereignty, and it made the United Nations look incompetent and utterly useless. 2008, America essentially bankrupted the global economy through its financial shenanigans. So America started to abuse much of its power, especially the exorbitant privilege of the US dollar. And America began this giant money laundering
+And yes, Mark Carney said there was a lot of hypocrisy to this. But at the same time, people did benefit. And so people pretended that this was multilateralism instead of imperialism. But as America became wealthier, and as the Soviet Union collapsed, America started to become arrogant, because it's the only game in town. And so it started to do things unilaterally. So for example, the war in Yugoslavia, where American NATOs bombed Yugoslavia for no particular reason, it violated a nation's sovereignty, which is the core principle of multilateralism. Then of course, the 2003 invasion of Iraq, which again, violated national sovereignty, and it made the United Nations look incompetent and utterly useless. 2008, America essentially bankrupted the global economy through its financial shenanigans. So America started to abuse much of its power, especially the exorbitant privilege of the US dollar. And America began this giant money laundering operation.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0024
 
-## seg-0025 / 00:16:07-00:17:09 / SPEAKER_03
+## seg-0025 / 00:16:08-00:17:12 / SPEAKER_03
 
-operation. And the people became arrogant, lazy and corrupt, which led to massive inequality, which led to the co -optation of the political system by the elite. Both the Democratic Party and the Republican Party now serve the interests of the elite. But remember, like 20 years ago, before Bill Clinton, the Democratic Party was a party working class. I know it's hard for people to leave. But yes, the Democrats were opposed to NAFTA, they were opposed to most nation status for China, they advocated for human rights and workers' rights throughout the world. That's a long, long time ago. And now America is only interested in easy money. It's only interested in ensuring its dominance over the world. And so it's heavily in debt. It's $39 trillion in debt. It's overextended throughout the world. It's committed to too many military adventures in Venezuela, in Cuba, in Iran, everywhere around the world. It doesn't have the military capacity. to
+And the people became arrogant, lazy and corrupt, which led to massive inequality, which led to the co -optation of the political system by the elite. Both the Democratic Party and the Republican Party now serve the interests of the elite. But remember, like 20 years ago, before Bill Clinton, the Democratic Party was a party working class. I know it's hard for people to leave. But yes, the Democrats were opposed to NAFTA, they were opposed to most nation status for China, they advocated for human rights and workers' rights throughout the world. That's a long, long time ago. And now America is only interested in easy money. It's only interested in ensuring its dominance over the world. And so it's heavily in debt. It's $39 trillion in debt. It's overextended throughout the world. It's committed to too many military adventures in Venezuela, in Cuba, in Iran, everywhere around the world. It doesn't have the military capacity. to fight, it is extremely corrupt.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0025
 
-## seg-0026 / 00:17:09-00:17:45 / SPEAKER_03
+## seg-0026 / 00:17:12-00:17:45 / SPEAKER_03
 
-fight, it is extremely corrupt. So you know, Trump has announced that the military budget will now increase from $1 trillion to $1.5 trillion. That does not mean the American military will be 50 % more effective. All it means is that all that money is going to go to the corrupt military industrial complex through, you know, all these big weapons systems that they will announce like Star Wars 2.0, right? The Golden Dome. So that's the state of America. And these are the classic symptoms of an empire in collapse. It does not know it's dying. It refuses to die. And it lashes out at the world as it is dying.
+So you know, Trump has announced that the military budget will now increase from $1 trillion to $1.5 trillion. That does not mean the American military will be 50 % more effective. All it means is that all that money is going to go to the corrupt military industrial complex through, you know, all these big weapons systems that they will announce like Star Wars 2.0, right? The Golden Dome. So that's the state of America. And these are the classic symptoms of an empire in collapse. It does not know it's dying. It refuses to die. And it lashes out at the world as it is dying.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0026
 
@@ -164,15 +164,15 @@ What's next after the strike on Iran? How will it escalate? How will things chan
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0027
 
-## seg-0028 / 00:17:53-00:18:56 / SPEAKER_03
+## seg-0028 / 00:17:53-00:19:00 / SPEAKER_03
 
-So Trump is very much concerned with optics. And the American military just goes along because we because you know, before in Trump's first term, there's a lot of resistance from military to Trump. When Trump wanted to withdraw from Syria, the military just ignored him. But unfortunately, what's happened this time around, is because of Project 2025, Trump has to ensure the control over the bureaucracy through personnel changes. And so the military right now is very obedient to Trump. So from Trump's perspective, if he launches these airstrikes against Iran, then Iran will call, you know, will will give up and the mullahs will flee to Moscow. And so the mullahs will rise up and install resettled probably as their new Shah and the Iranian people will welcome the Americans as liberators. Okay, that's that's probably what Trump is thinking right now. He doesn't really appreciate that the Persians are extremely proud people with a proud heritage. And
+So Trump is very much concerned with optics. And the American military just goes along because we because you know, before in Trump's first term, there's a lot of resistance from military to Trump. When Trump wanted to withdraw from Syria, the military just ignored him. But unfortunately, what's happened this time around, is because of Project 2025, Trump has to ensure the control over the bureaucracy through personnel changes. And so the military right now is very obedient to Trump. So from Trump's perspective, if he launches these airstrikes against Iran, then Iran will call, you know, will will give up and the mullahs will flee to Moscow. And so the mullahs will rise up and install resettled probably as their new Shah and the Iranian people will welcome the Americans as liberators. Okay, that's that's probably what Trump is thinking right now. He doesn't really appreciate that the Persians are extremely proud people with a proud heritage. And these are Shia people who believe in martyrdom.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0028
 
-## seg-0029 / 00:18:56-00:19:40 / SPEAKER_03
+## seg-0029 / 00:19:00-00:19:40 / SPEAKER_03
 
-these are Shia people who believe in martyrdom. They believe in eschatology. They believe that this is the end of the world and they have a duty to God to fight the great Satan, this America. So so you will have not everyone, but you have a great you will have a significant portion of the population who will fight to the death. So this is going to be a long drawn out war that America is not equipped to fight. They the Americans really believe that this will be a repeat of Desert Storm where they were able to decapitate the regime in two weeks time. So so maybe it's a time of two weeks, right? Or a month at most, but they don't have the supplies, they don't have the will, they don't have the resources to fight a protracted war, which is what Iran is betting on. We also know that Russia and China will not let
+They believe in eschatology. They believe that this is the end of the world and they have a duty to God to fight the great Satan, this America. So so you will have not everyone, but you have a great you will have a significant portion of the population who will fight to the death. So this is going to be a long drawn out war that America is not equipped to fight. They the Americans really believe that this will be a repeat of Desert Storm where they were able to decapitate the regime in two weeks time. So so maybe it's a time of two weeks, right? Or a month at most, but they don't have the supplies, they don't have the will, they don't have the resources to fight a protracted war, which is what Iran is betting on. We also know that Russia and China will not let
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0029
 
@@ -188,15 +188,15 @@ Let's talk about then, good segue, what will happen to the global order, or as M
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0031
 
-## seg-0032 / 00:20:39-00:21:43 / SPEAKER_01
+## seg-0032 / 00:20:39-00:21:46 / SPEAKER_01
 
-This week, it seems that every day, we're reminded that we live in an era of great power rivalry, that the rules based order is fading, that the strong can do what they can, and the weak must suffer what they must. And this aphorism of Thucydides is presented as inevitable, as the natural logic of international relations reasserting itself. And faced with this logic, there is a strong tendency to go along to get along, to accommodate, to avoid trouble, to hope that compliance will buy safety. Well, it won't. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons. We are in the midst of a rupture, not a transition. But more leverage, financial infrastructure as coercion,
+This week, it seems that every day, we're reminded that we live in an era of great power rivalry, that the rules based order is fading, that the strong can do what they can, and the weak must suffer what they must. And this aphorism of Thucydides is presented as inevitable, as the natural logic of international relations reasserting itself. And faced with this logic, there is a strong tendency to go along to get along, to accommodate, to avoid trouble, to hope that compliance will buy safety. Well, it won't. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons. We are in the midst of a rupture, not a transition. But more leverage, financial infrastructure as coercion, supply chains as vulnerabilities to be exploited.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0032
 
 ## seg-0033 / 00:21:43-00:21:46 / SPEAKER_01
 
-supply chains as vulnerabilities to be exploited.
+
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0033
 
@@ -206,21 +206,21 @@ This, I'm going to stop it here. Did he just insinuate that globalization has be
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0034
 
-## seg-0035 / 00:22:22-00:23:14 / SPEAKER_03
+## seg-0035 / 00:22:22-00:23:15 / SPEAKER_03
 
-Yeah, so Mark Carney is responding to national security strategy, right? So national security strategy, what the American said is basically, you know, for decades, we've abutted by multilateralism. And that really hurt America, because what multilateralism means, is that we have to be strong on our own. What that means is that Canada and Europeans, they're basically able to free ride off America, America provides the muscle of America, America is the largest market in the world. American consumers have to max out their credit cards in order to sustain these trade deficits with the Europeans and the and the Canadians. You know, America is really the savior of the world. And everyone is just leeching off us. Okay, that's, that's, that's how Trump sees the world. And the idea of the national security strategy is screw that get, you know, multilateralism, is, is, should not be about exploiting the goodwill of Americans. And so now America is going
+Yeah, so Mark Carney is responding to national security strategy, right? So national security strategy, what the American said is basically, you know, for decades, we've abutted by multilateralism. And that really hurt America, because what multilateralism means, is that we have to be strong on our own. What that means is that Canada and Europeans, they're basically able to free ride off America, America provides the muscle of America, America is the largest market in the world. American consumers have to max out their credit cards in order to sustain these trade deficits with the Europeans and the and the Canadians. You know, America is really the savior of the world. And everyone is just leeching off us. Okay, that's, that's, that's how Trump sees the world. And the idea of the national security strategy is screw that get, you know, multilateralism, is, is, should not be about exploiting the goodwill of Americans. And so now America is going to put its national interests first.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0035
 
-## seg-0036 / 00:23:14-00:24:06 / SPEAKER_03
+## seg-0036 / 00:23:16-00:24:07 / SPEAKER_03
 
-to put its national interests first. Okay. So what Mark Carney did in a speech at the World Economic Forum is like, no, you're wrong. That's what multilateralism was about. Multilateralism was about using the framework or the rubric of the rules -based international order for American empire to exert its power over everyone else, right? Think about the massive set of living that Americans were able to enjoy, because of the exorbitant, privilege of the US dollar. Think about the fact that our economies in Canada and Europe became your resource colonies in order to feed the endless appetite of, of America. Think about the fact that we stood by you in this war against the Soviet Union, and now in this economic war against China. Well, that's done. If you guys refuse to acknowledge, acknowledge our contributions to you, then we need to move, move along and build our own system away from America. Okay, so that's what
+Okay. So what Mark Carney did in a speech at the World Economic Forum is like, no, you're wrong. That's what multilateralism was about. Multilateralism was about using the framework or the rubric of the rules -based international order for American empire to exert its power over everyone else, right? Think about the massive set of living that Americans were able to enjoy, because of the exorbitant, privilege of the US dollar. Think about the fact that our economies in Canada and Europe became your resource colonies in order to feed the endless appetite of, of America. Think about the fact that we stood by you in this war against the Soviet Union, and now in this economic war against China. Well, that's done. If you guys refuse to acknowledge, acknowledge our contributions to you, then we need to move, move along and build our own system away from America. Okay, so that's what he's saying.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0036
 
 ## seg-0037 / 00:24:07-00:24:25 / SPEAKER_03
 
-he's saying. He's saying that from now on, we are going to try to build a new international system that, that is able to best defend our interests, and that needs to go against going against against America. Okay, so this is a direct response to the national security strategy. So you need to understand this as a dynamic dialogue between America and Europe.
+He's saying that from now on, we are going to try to build a new international system that, that is able to best defend our interests, and that needs to go against going against against America. Okay, so this is a direct response to the national security strategy. So you need to understand this as a dynamic dialogue between America and Europe.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0037
 
@@ -236,27 +236,27 @@ Okay, so there are two ways to perceive what's happening. Okay. Both, both ways 
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0039
 
-## seg-0040 / 00:25:56-00:26:51 / SPEAKER_03
+## seg-0040 / 00:25:56-00:26:53 / SPEAKER_03
 
-it's far more relevant to what's going on, which is to say that Carney is not the prime minister of Canada. Carney is an agent of transnational capital, which controls Canada. Canada's not really a nation state with sovereignty. Canada's really a resource colony of the British, the city of London. What the British see is a toxic asset, because you look at the fact that 40 % of the Canadian economy is based on real estate speculation, and housing prices are now cratering because immigrants are leaving because there are very few economic opportunities. The capital and talent are leaving the country. Productivity is at zero, according to the Bank of Canada. You have a pension crisis where the pension system is going to suck up all Canadian resources, and the boomers are not going to die. You have the fact that 22 % of all Canadians work for the government in some capacity. Entrepreneurship is dead. You have
+it's far more relevant to what's going on, which is to say that Carney is not the prime minister of Canada. Carney is an agent of transnational capital, which controls Canada. Canada's not really a nation state with sovereignty. Canada's really a resource colony of the British, the city of London. What the British see is a toxic asset, because you look at the fact that 40 % of the Canadian economy is based on real estate speculation, and housing prices are now cratering because immigrants are leaving because there are very few economic opportunities. The capital and talent are leaving the country. Productivity is at zero, according to the Bank of Canada. You have a pension crisis where the pension system is going to suck up all Canadian resources, and the boomers are not going to die. You have the fact that 22 % of all Canadians work for the government in some capacity. Entrepreneurship is dead. You have a bloated regulatory state.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0040
 
-## seg-0041 / 00:26:51-00:27:42 / SPEAKER_03
+## seg-0041 / 00:26:54-00:27:42 / SPEAKER_03
 
-a bloated regulatory state. There's economic degrowth in the world. The global economy is going to shrink, which will definitely demand for Canada's energy production. Canada has become essentially a toxic asset, and what you do with a toxic asset is that you dump it on foreign investors, and that's the Chinese, Qataris, and the Americans. These are the three major buyers of Canada. And what Carney is going to do is actually ship Canada and sell its pieces off to these three different groups. Alberta goes to America, and different parts of Canada will go to the Qataris and the Chinese. That's the goal, okay? And how you will know is, first of all, Carney is going to call an early election, and he's going to get a majority in Canada. And then what he's going to do is enact this agenda. And one thing that he's going to do very quickly is introduce digital ID, right? So they're
+There's economic degrowth in the world. The global economy is going to shrink, which will definitely demand for Canada's energy production. Canada has become essentially a toxic asset, and what you do with a toxic asset is that you dump it on foreign investors, and that's the Chinese, Qataris, and the Americans. These are the three major buyers of Canada. And what Carney is going to do is actually ship Canada and sell its pieces off to these three different groups. Alberta goes to America, and different parts of Canada will go to the Qataris and the Chinese. That's the goal, okay? And how you will know is, first of all, Carney is going to call an early election, and he's going to get a majority in Canada. And then what he's going to do is enact this agenda. And one thing that he's going to do very quickly is introduce digital ID, right? So they're
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0041
 
-## seg-0042 / 00:27:42-00:28:26 / SPEAKER_03
+## seg-0042 / 00:27:42-00:28:25 / SPEAKER_03
 
-talking about introducing this law to prevent minors from accessing social media, which is what they've done in Australia and England as well. The goal is to bring digital ID, because how can you verify someone is underage because of a digital ID, right? And it's all to protect our children, okay? So don't worry, it's all to protect our children. When you have digital ID, you can then create digital currency, which allows for financial repression. That's the angle. We know this because of what's happening in China, okay? These Western nations like Canada, Europe, Australia, it's following the Chinese playbook. And quite honestly, I live in China, I'm telling you, it's very effective. You want to control people's behavior, you want to control how people think, you do so through digital currency. Because if you say something you should be saying, well, guess what? You can't use your money for a week or whatever, okay? It's very, very
+talking about introducing this law to prevent minors from accessing social media, which is what they've done in Australia and England as well. The goal is to bring digital ID, because how can you verify someone is underage because of a digital ID, right? And it's all to protect our children, okay? So don't worry, it's all to protect our children. When you have digital ID, you can then create digital currency, which allows for financial repression. That's the angle. We know this because of what's happening in China, okay? These Western nations like Canada, Europe, Australia, it's following the Chinese playbook. And quite honestly, I live in China, I'm telling you, it's very effective. You want to control people's behavior, you want to control how people think, you do so through digital currency. Because if you say something you should be saying, well, guess what? You can't use your money for a week or whatever, okay?
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0042
 
-## seg-0043 / 00:28:26-00:28:35 / SPEAKER_03
+## seg-0043 / 00:28:25-00:28:35 / SPEAKER_03
 
-effective. It's nudging. It's not, the police don't come visit you, but for whatever reason, your bank account gets frozen for a couple of days, okay? So that's the grand plan in place.
+It's very, very effective. It's nudging. It's not, the police don't come visit you, but for whatever reason, your bank account gets frozen for a couple of days, okay? So that's the grand plan in place.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0043
 
@@ -266,21 +266,21 @@ What do you think China's playbook is now that Trump has made very clear what hi
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0044
 
-## seg-0045 / 00:28:55-00:29:53 / SPEAKER_03
+## seg-0045 / 00:28:55-00:29:56 / SPEAKER_03
 
-Okay, so what Trump wants is submission from China, okay? Trump doesn't want that. He doesn't want regime change in China. He doesn't want to destroy China because ultimately China and the United States are codependent, right? So because, you know, America relies on Chinese manufacturing, and there's really no country that can replace the manufacturing capacity of China. What Trump wants ultimately is access to China's household savings, right? So Chinese consumers save the most of all nations in the world. The household savings rate in China is very low. It's 40%. In comparison, that would be 5 % to 6 % in an OECD country, okay? Also, the Chinese are not as burdened by debt as much as they are, as much as European and Canadian consumers are. I think for Canadians, I think the income -to -debt ratio is about 100%, okay? So Canadians owe more money than they make. It's kind of ridiculous, okay? So basically,
+Okay, so what Trump wants is submission from China, okay? Trump doesn't want that. He doesn't want regime change in China. He doesn't want to destroy China because ultimately China and the United States are codependent, right? So because, you know, America relies on Chinese manufacturing, and there's really no country that can replace the manufacturing capacity of China. What Trump wants ultimately is access to China's household savings, right? So Chinese consumers save the most of all nations in the world. The household savings rate in China is very low. It's 40%. In comparison, that would be 5 % to 6 % in an OECD country, okay? Also, the Chinese are not as burdened by debt as much as they are, as much as European and Canadian consumers are. I think for Canadians, I think the income -to -debt ratio is about 100%, okay? So Canadians owe more money than they make. It's kind of ridiculous, okay? So basically, the Canadians, the Americans, the Europeans have maxed out their credit cards.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0045
 
-## seg-0046 / 00:29:53-00:30:41 / SPEAKER_03
+## seg-0046 / 00:29:56-00:30:47 / SPEAKER_03
 
-the Canadians, the Americans, the Europeans have maxed out their credit cards. The Chinese have not. So what you're trying to do, if you're Canada, Mark Carney, or if you're, you know, England, Starmer, if you're United States, Donald Trump, is that you're trying to access the household savings market, okay? And you can do that through three mechanisms. And I think this is what Trump will discuss with China when he visits in April. The first mechanism, of course, is through real estate. So that's why Mark Carney wants to welcome Chinese capital into the housing market, to basically save the policy scheme that is the Canadian housing market. That's number one. Number two is equity. Number three is education, right? So to get Chinese to send more kids to college in America and Canada. So Trump has talked about doubling the number of Chinese students in American universities from 200,000 to 600,000. And the reason why
+The Chinese have not. So what you're trying to do, if you're Canada, Mark Carney, or if you're, you know, England, Starmer, if you're United States, Donald Trump, is that you're trying to access the household savings market, okay? And you can do that through three mechanisms. And I think this is what Trump will discuss with China when he visits in April. The first mechanism, of course, is through real estate. So that's why Mark Carney wants to welcome Chinese capital into the housing market, to basically save the policy scheme that is the Canadian housing market. That's number one. Number two is equity. Number three is education, right? So to get Chinese to send more kids to college in America and Canada. So Trump has talked about doubling the number of Chinese students in American universities from 200,000 to 600,000. And the reason why is if it were not for the Chinese students, the American higher education system would collapse.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0046
 
-## seg-0047 / 00:30:41-00:31:23 / SPEAKER_03
+## seg-0047 / 00:30:47-00:31:23 / SPEAKER_03
 
-is if it were not for the Chinese students, the American higher education system would collapse. It would go bankrupt. And that's what we're seeing in Canada right now, where because these foreign students are leaving Canada, you're seeing bankruptcies among Canadian students. Okay? So that's the second mechanism. The third mechanism, which is most important, is the idea of stablecoins. Stablecoins are, you know, digital currency offered by corporations like Google and Facebook, Apple, that are backed by U.S. Treasuries. And so, you know, the Russians talk about this, where America wants to use stablecoins in order to offload its debt onto the rest of the world. Really, what they're trying to do is offload this debt onto Chinese consumers. Okay? So that's the plan in motion.
+It would go bankrupt. And that's what we're seeing in Canada right now, where because these foreign students are leaving Canada, you're seeing bankruptcies among Canadian students. Okay? So that's the second mechanism. The third mechanism, which is most important, is the idea of stablecoins. Stablecoins are, you know, digital currency offered by corporations like Google and Facebook, Apple, that are backed by U.S. Treasuries. And so, you know, the Russians talk about this, where America wants to use stablecoins in order to offload its debt onto the rest of the world. Really, what they're trying to do is offload this debt onto Chinese consumers. Okay? So that's the plan in motion.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0047
 
@@ -302,15 +302,15 @@ Not all member states. Or nation states have accepted the invitation. And in fac
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0050
 
-## seg-0051 / 00:32:41-00:33:25 / SPEAKER_03
+## seg-0051 / 00:32:41-00:33:26 / SPEAKER_03
 
-So, look. Trump. You know. If you want to know what Trump is doing. Just look at his past actions. Right? So, when he moved to Palm Beach. He tried to join the most exclusive social club. Country club in Palm Beach. And they said no. Because you're new money. You're crass. You're a clown. And so, he got pissed off. So, what did he do? He started his own club. Called Mar -a -Lago. And that's the origin of Mar -a -Lago. Right? So, for Trump. Trump is not trying to create a new world order. He's trying to create a Trump -based world order. Right? So, remember. When his first term. He went to the United Nations. And I'm not sure if you remember this. But, you know. He gave a speech. About North Stream. And how the Germans were now too reliant on North Stream. And how the Germans were now too reliant on North Stream. And
+So, look. Trump. You know. If you want to know what Trump is doing. Just look at his past actions. Right? So, when he moved to Palm Beach. He tried to join the most exclusive social club. Country club in Palm Beach. And they said no. Because you're new money. You're crass. You're a clown. And so, he got pissed off. So, what did he do? He started his own club. Called Mar -a -Lago. And that's the origin of Mar -a -Lago. Right? So, for Trump. Trump is not trying to create a new world order. He's trying to create a Trump -based world order. Right? So, remember. When his first term. He went to the United Nations. And I'm not sure if you remember this. But, you know. He gave a speech. About North Stream. And how the Germans were now too reliant on North Stream. And how the Germans were now too reliant on North Stream. And you just go on YouTube.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0051
 
-## seg-0052 / 00:33:25-00:34:04 / SPEAKER_03
+## seg-0052 / 00:33:27-00:34:04 / SPEAKER_03
 
-you just go on YouTube. You'll see that at the very back. These German diplomats. Okay? Were laughing their heads off. Right? So, for Trump. Whenever he enters these settings. Whether it's the UN. You know. It's a human issue ritual for him. Okay? So, his strategy is. You know what? Screw you guys. I'm going to start my own Trump world order. Okay? And that's the goal for Trump. And the board of peace is just an indicator that he's moving towards this direction. And you know what? The board of peace. I wouldn't be surprised if Vladimir Putin were to join. The Chinese have said no. The Canadians have been kicked out. But I wouldn't be surprised if Vladimir Putin were to join this board of peace. Yeah.
+You'll see that at the very back. These German diplomats. Okay? Were laughing their heads off. Right? So, for Trump. Whenever he enters these settings. Whether it's the UN. You know. It's a human issue ritual for him. Okay? So, his strategy is. You know what? Screw you guys. I'm going to start my own Trump world order. Okay? And that's the goal for Trump. And the board of peace is just an indicator that he's moving towards this direction. And you know what? The board of peace. I wouldn't be surprised if Vladimir Putin were to join. The Chinese have said no. The Canadians have been kicked out. But I wouldn't be surprised if Vladimir Putin were to join this board of peace. Yeah.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0052
 
@@ -334,13 +334,13 @@ Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0055
 
 ## seg-0056 / 00:35:40-00:36:31 / SPEAKER_03
 
-Well, I think that the world is run by transnational capital. Okay. So, just think you're an investor and you know that you have a building that you put a lot of money in. But it's broken down. And you would have to spend billion dollars to renovate it. And quite honestly, it's so dilapidated that the building costs are no longer relevant. So, what do you do as an investor? What you do is you hype it up. You sell the apartments at a discount. You oversubscribe it. Right? So, maybe there's 100 units. You sell 10,000 units at a deep discount. Okay? And the next thing you do is you burn down the building. Right? So, that is what's going to happen to the world. Transnational capital is going to try to milk as much money as possible through Bitcoin, through, you know, AI, through speculation. And then they're going to try to hide this capital in
+Well, I think that the world is run by transnational capital. Okay. So, just think you're an investor and you know that you have a building that you put a lot of money in. But it's broken down. And you would have to spend billion dollars to renovate it. And quite honestly, it's so dilapidated that the building costs are no longer relevant. So, what do you do as an investor? What you do is you hype it up. You sell the apartments at a discount. You oversubscribe it. Right? So, maybe there's 100 units. You sell 10,000 units at a deep discount. Okay? And the next thing you do is you burn down the building. Right? So, that is what's going to happen to the world. Transnational capital is going to try to milk as much money as possible through Bitcoin, through, you know, AI, through speculation. And then they're going to try to hide this capital in a safe place.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0056
 
-## seg-0057 / 00:36:31-00:36:45 / SPEAKER_03
+## seg-0057 / 00:36:32-00:36:45 / SPEAKER_03
 
-a safe place. And then they're going to burn down the Western world. Civil war in Europe. Civil war in America. Canada gets absorbed by the Americans. War everywhere. Okay? This is literally what the plan is to burn down the world.
+And then they're going to burn down the Western world. Civil war in Europe. Civil war in America. Canada gets absorbed by the Americans. War everywhere. Okay? This is literally what the plan is to burn down the world.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0057
 
@@ -350,15 +350,15 @@ Okay. Is there a new world order? That comes out of this, out of these ashes, yo
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0058
 
-## seg-0059 / 00:36:52-00:37:43 / SPEAKER_03
+## seg-0059 / 00:36:52-00:37:44 / SPEAKER_03
 
-Yeah. So, my argument is that the new order will be Pax Judaica, where the center of gravity will become Israel. And the goal and the idea is that after this war in Iran, the Middle East will be peaceful the next few decades because basically the entire Middle East has been destroyed. Okay? Iraq, Libya, Syria, RMS. The Israelis will probably go after Turkey at some point and Egypt at some point. And this will stop the greater Israel project. And so, you've got this huge territory that is virgin territory because it's all been destroyed. Look at Gaza. Right? Gaza has been bulldozed. It's not a war. It's a bull. It's a demolition. And so, now you can build real estate on the cheap. So, what you do is you bring in millions of cheap immigrant labor from India, China, and the Philippines to rebuild it. And all this transnational capital floods into greater Israel because they have
+Yeah. So, my argument is that the new order will be Pax Judaica, where the center of gravity will become Israel. And the goal and the idea is that after this war in Iran, the Middle East will be peaceful the next few decades because basically the entire Middle East has been destroyed. Okay? Iraq, Libya, Syria, RMS. The Israelis will probably go after Turkey at some point and Egypt at some point. And this will stop the greater Israel project. And so, you've got this huge territory that is virgin territory because it's all been destroyed. Look at Gaza. Right? Gaza has been bulldozed. It's not a war. It's a bull. It's a demolition. And so, now you can build real estate on the cheap. So, what you do is you bring in millions of cheap immigrant labor from India, China, and the Philippines to rebuild it. And all this transnational capital floods into greater Israel because they have nowhere else to go.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0059
 
-## seg-0060 / 00:37:43-00:37:56 / SPEAKER_03
+## seg-0060 / 00:37:44-00:37:56 / SPEAKER_03
 
-nowhere else to go. And the rest of the war is at war. And it can be chaos. So, you just feed them capital. You feed them weaponry. You feed them intelligence. And that's a new world order.
+And the rest of the war is at war. And it can be chaos. So, you just feed them capital. You feed them weaponry. You feed them intelligence. And that's a new world order.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0060
 
@@ -368,15 +368,15 @@ Yes. So, let me just end on this note. You've got a lot of different feeders of 
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0061
 
-## seg-0062 / 00:38:29-00:39:25 / SPEAKER_03
+## seg-0062 / 00:38:29-00:39:26 / SPEAKER_03
 
-Yeah, I mean, number one, of course, would be Iran. What happens in Iran will determine the world order for the next 50 years. And my prediction is that the United States goes into Iran. This war is drawn out. And the Iranian nation state is devastated. But the Americans can't fight this war. This will lead to massive civil war, civil conflict. And we're already seeing that in Minnesota right now, right, in America. And the American military will have to withdraw from the Middle East. CENTCOM will then be folded into the IDF. And that will establish Pachtek, the greater racial project. So, I think Iran is most consequential. But I think it's also the toughest enough to crack. It'll be the most drawn out. I think second on the list. This will be this conflict between China and Japan, which will emerge. Japan is very, very serious about maintaining its independence. And that basically means maintaining freedom
+Yeah, I mean, number one, of course, would be Iran. What happens in Iran will determine the world order for the next 50 years. And my prediction is that the United States goes into Iran. This war is drawn out. And the Iranian nation state is devastated. But the Americans can't fight this war. This will lead to massive civil war, civil conflict. And we're already seeing that in Minnesota right now, right, in America. And the American military will have to withdraw from the Middle East. CENTCOM will then be folded into the IDF. And that will establish Pachtek, the greater racial project. So, I think Iran is most consequential. But I think it's also the toughest enough to crack. It'll be the most drawn out. I think second on the list. This will be this conflict between China and Japan, which will emerge. Japan is very, very serious about maintaining its independence. And that basically means maintaining freedom of navigation.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0062
 
-## seg-0063 / 00:39:25-00:39:35 / SPEAKER_03
+## seg-0063 / 00:39:26-00:39:35 / SPEAKER_03
 
-of navigation. So, if China were able to occupy Taiwan, China could basically embargo Japan. And the nation would starve to death. It would literally starve to death.
+So, if China were able to occupy Taiwan, China could basically embargo Japan. And the nation would starve to death. It would literally starve to death.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0063
 
@@ -410,21 +410,21 @@ And then finally, you mentioned this idea of a civil war. Should America press t
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0068
 
-## seg-0069 / 00:41:28-00:42:23 / SPEAKER_03
+## seg-0069 / 00:41:28-00:42:32 / SPEAKER_03
 
-Well, there are many vectors to the civil war, okay? We're already seeing it unfold in Minnesota, okay? And so, the first vector, of course, is between the federal and the state, okay? Who has authority in Minnesota, right? Trump is saying that you people in Minneapolis are fraudsters. You have been stealing from the federal government for many, many years to fund this democratic corrupt machine, okay? And that's why he's sending these ICE agents into Minnesota to arrest these Somalis, these Somalis who are responsible for the running corruption in Minnesota, okay? So, that's one vector that's going on, right? The Democrats versus Republicans, state versus federal. But also, another vector is one of culture. So, remember the Renegade shooting, right? Where this ICE police officer, right? The ICE officer shot three bullets in the head of René Goode. You can see this as a fundamental conflict between two divergent visions of America. So, René Goode represented the
+Well, there are many vectors to the civil war, okay? We're already seeing it unfold in Minnesota, okay? And so, the first vector, of course, is between the federal and the state, okay? Who has authority in Minnesota, right? Trump is saying that you people in Minneapolis are fraudsters. You have been stealing from the federal government for many, many years to fund this democratic corrupt machine, okay? And that's why he's sending these ICE agents into Minnesota to arrest these Somalis, these Somalis who are responsible for the running corruption in Minnesota, okay? So, that's one vector that's going on, right? The Democrats versus Republicans, state versus federal. But also, another vector is one of culture. So, remember the Renegade shooting, right? Where this ICE police officer, right? The ICE officer shot three bullets in the head of René Goode. You can see this as a fundamental conflict between two divergent visions of America. So, René Goode represented the liberal suburban woman vision of America, of DEI, of liberalism, of globalism.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0069
 
-## seg-0070 / 00:42:23-00:43:24 / SPEAKER_03
+## seg-0070 / 00:42:33-00:43:27 / SPEAKER_03
 
-liberal suburban woman vision of America, of DEI, of liberalism, of globalism. And the ICE officer represented America first, of white conservative men who wanted to be dominant, okay? So, just look at the video of that René Goode shooting. The ICE officer who shot her, he was not afraid. He was trying to assert dominance and say, you know, it's my time, it's my world, I'll do whatever I want right now, okay? And that's why you're seeing such a complete hatred and conflict right now in Minnesota because it's a violent conflict between these two worldviews, okay? Then you have this war overseas. So, you have these peace protesters who will march again. And then you have Trump trying to succeed. You have a third term in 2028. You have election rigging in the midterms in November. So, look, look, this is just, this civil war is going to clear up over and over because there are all
+And the ICE officer represented America first, of white conservative men who wanted to be dominant, okay? So, just look at the video of that René Goode shooting. The ICE officer who shot her, he was not afraid. He was trying to assert dominance and say, you know, it's my time, it's my world, I'll do whatever I want right now, okay? And that's why you're seeing such a complete hatred and conflict right now in Minnesota because it's a violent conflict between these two worldviews, okay? Then you have this war overseas. So, you have these peace protesters who will march again. And then you have Trump trying to succeed. You have a third term in 2028. You have election rigging in the midterms in November. So, look, look, this is just, this civil war is going to clear up over and over because there are all these polarized issues in America that have never been redressed.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0070
 
-## seg-0071 / 00:43:24-00:43:32 / SPEAKER_03
+## seg-0071 / 00:43:27-00:43:32 / SPEAKER_03
 
-these polarized issues in America that have never been redressed. And they are going to come to a climax over the next few years.
+And they are going to come to a climax over the next few years.
 
 Ref: video:interview-2f3osvzg2ti@transcript:v1#seg-0071
 
