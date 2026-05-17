@@ -1,0 +1,2454 @@
+{
+  "id": "evidence:semanticvideo-interview-zsgyhwkinzk:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-zsgyhwkinzk",
+  "source_id": "video:interview-zsgyhwkinzk",
+  "source_title": "Professor Jiang on The End Times @PredictiveHistory",
+  "source_url": "https://www.youtube.com/watch?v=zSGyHWKINzk",
+  "source_date": "2026-03-05",
+  "date_precision": "day",
+  "transcript_id": "video:interview-zsgyhwkinzk@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0016.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0017.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0018.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0019.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0020.semantic.json",
+      "content/workflow/proposals/interview-zsgyhwkinzk/packet-0021.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-zsgyhwkinzk/source.yaml",
+    "transcript_path": "content/sources/videos/interview-zsgyhwkinzk/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 21,
+    "interactions": 69,
+    "speaker_notes": 3,
+    "claims": 78,
+    "signature_moments": 27,
+    "predictions": 16,
+    "models": 22,
+    "glossary_terms": 17,
+    "chronology_notes": 3,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0002",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0003",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0004",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0005",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0006",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0013",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0014",
+    "video:interview-zsgyhwkinzk@transcript:v1#seg-0015"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0001"
+      ],
+      "kind": "question",
+      "summary": "The host welcomes Jiang and asks for a brief personal history before the substantive discussion begins.",
+      "speaker_attribution": "Host setup question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0002",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0003",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0004",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0005",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang recounts his migration from China to Canada, his father's Cultural Revolution background, his own education and career path, and the Predictive History project.",
+      "speaker_attribution": "Jiang autobiographical answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0007",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The host compares Jiang's rise to Jordan Peterson and Jiang jokes that he wants the popularity without the public breakdown.",
+      "speaker_attribution": "Host compliment and Jiang aside",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0009",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "The host jokes about emotional theatrics and Jiang briefly plays along before the substantive question starts.",
+      "speaker_attribution": "Host banter and Jiang aside",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0011",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to explain his historical method and whether it resembles a deterministic or quasi-Marxian account of structural forces.",
+      "speaker_attribution": "Host theory question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0013",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0014",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0015"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by comparing historical interpretation to an AI feedback loop: a model of history should generate predictions that can validate or negate the model.",
+      "speaker_attribution": "Jiang methodological answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0016"
+      ],
+      "kind": "question",
+      "summary": "The host follows by asking whether Jiang sees history as cyclical.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0017",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0018"
+      ],
+      "kind": "answer",
+      "summary": "Jiang proposes an immature but central theory that history is driven by sacred narratives and eschatological beliefs that motivate societies into action.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0019",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0021"
+      ],
+      "kind": "exchange",
+      "summary": "The host links Jiang's story model to ancient and modern attempts to realize heaven on earth, especially in revolutionary ideologies.",
+      "speaker_attribution": "Host elaboration",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0022",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0023"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees and says modernity is defined by the belief that heaven can be created on earth through science, psychology, economics, and increasingly AI.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether modern disappointment and unhappiness come from the failure of these secular paradise projects.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0025",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0026"
+      ],
+      "kind": "exchange",
+      "summary": "The host compares American disappointment to late Soviet stagnation and suggests failed utopian desire may be hollowing out everyday life.",
+      "speaker_attribution": "Host elaboration",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0027",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with the Houthis as a counterexample, arguing that purpose, sincerity, and willingness to die make poor but committed people happier than decadent Westerners.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0029",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0030"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to the Middle East and asks how current bloodshed can be understood through biblical story and theology rather than only through oil and chaos.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0031",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Jerusalem and the Levant matter both as sacred geography and as the ancient center of trade, which is why the region keeps driving world history.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0033",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0034",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0035",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0036",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0037",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0038"
+      ],
+      "kind": "answer",
+      "summary": "Jiang develops the Jerusalem end-times frame, arguing that Gaza is part of an eschatological script that escalates toward seizure of territory and destruction of the Al-Aqsa Mosque.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0039",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "The host checks whether Jiang knows the Red Heifer story and Jiang says yes.",
+      "speaker_attribution": "Host prompt and Jiang acknowledgement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0041"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Red Heifer sequence points to a roughly one- or two-year window for Third Temple consecration.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0042",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0044",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0045",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0046"
+      ],
+      "kind": "exchange",
+      "summary": "The host adds right-wing media chatter about the Red Heifer and suggests persecution dynamics and shocking acts are part of the plan.",
+      "speaker_attribution": "Host elaboration",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0047",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang disputes the timing claim, insists the mosque must fall first, and then begins a broader framework for Jewish history and identity under pressure.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0049",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0050",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0051",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0052",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang outlines a historical account in which exile, redaction of scripture, and recurring opposition reshape Jewish religion into a more defensive and differentiated identity.",
+      "speaker_attribution": "Jiang historical answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0054"
+      ],
+      "kind": "exchange",
+      "summary": "The host ties Jiang's account to Herzl, anti-Semitism, and Israel's self-presentation as a secular democracy with a hidden biblical project.",
+      "speaker_attribution": "Host synthesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0055",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Israel's identity crisis pits liberal cosmopolitan sectors against a small but powerful extremist bloc driven by redemption-through-sin eschatology.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0057",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "The host asks how the Antichrist idea fits the larger eschatological story, using Peter Thiel's rhetoric as an entry point.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0059",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0060"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Antichrist is better understood as a recurring role in a script than as one fixed person, and that the script itself makes future actions predictable.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0061",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0062",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0063",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "The host extends the answer through Joachim of Fiore and the need for a disruptive Antichrist figure to bring about a new age, then restates the pattern as creating the problem so the solution can appear.",
+      "speaker_attribution": "Host elaboration",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0065",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0066",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0067",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0068",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0069",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0070",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0071",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang traces Christian Zionism through England, Freemasonry, and elite planning, then turns Peter Thiel into a live example of technocratic transcendence and hidden-power networking.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0073",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0074",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0075"
+      ],
+      "kind": "question",
+      "summary": "The host adds more Peter Thiel context and then asks Jiang to tie the bow on the Middle East and World War III sequence in the immediate future.",
+      "speaker_attribution": "Host transition question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0076",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0078",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts a Levant-centered World War III with the Al-Aqsa Mosque blown up, an American invasion of Iran, and an eventual American humiliation that triggers domestic civil conflict.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The host restates Jiang's image of Israel as protected and constrained by the American empire, a golden cage that may need to be broken.",
+      "speaker_attribution": "Host synthesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0081"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Jiang experienced Canada as paradise, outsiderhood, or both.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0082",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0083",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0084"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he suffered racial abuse in poor Canadian neighborhoods but also remembers the freer atmosphere of the 1980s and 1990s with gratitude.",
+      "speaker_attribution": "Jiang autobiographical answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0085"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees from his own childhood memories of unsupervised freedom.",
+      "speaker_attribution": "Host reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0086",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0087",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0088"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the point into a critique of overmedicated, overcontained Western childhood that refuses the bodily reality of children.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0089"
+      ],
+      "kind": "question",
+      "summary": "The host asks for the social dynamics behind Jiang's racial abuse in Canada.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0090",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0091"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says poverty, oddness, and outsider status all contributed to the abuse and exclusion he experienced.",
+      "speaker_attribution": "Jiang autobiographical answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0092",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0093",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0094"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to the coming American civil war, distinguishes it from the 1860s model, and asks Jiang how it will unfold both pragmatically and at a deeper causal level.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0095",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0096"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the coming conflict will be a long diffuse civil war ending in Christian nationalism, with early stages marked by riots, police-state acceleration, and a Trump third-term crisis.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0097",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0098",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0099"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the civil-war scenario with urban revolt, cycles of strongman consolidation, and a domestic distraction that lets Middle East eschatology proceed.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0100"
+      ],
+      "kind": "exchange",
+      "summary": "The host briefly interjects to keep the thread moving.",
+      "speaker_attribution": "Host prompt",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0101",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0102"
+      ],
+      "kind": "answer",
+      "summary": "Jiang adds the Catholic Church as a hidden major player in the coming American realignment and disintegration.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0103",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0104"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks whether the deeper fault line is really left versus right, and Jiang says the visible partisan split hides a struggle between establishment elites and emerging elites.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0105",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0106",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0107"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that elite overproduction, undercover or incubated street organizations, and the collapse of left credibility are driving the first stage of unrest.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0108",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0109",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0110"
+      ],
+      "kind": "question",
+      "summary": "The host says Trump's coalition is destroying institutions without replacing them and asks whether Christian nationalism is what eventually fills the void.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0111"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Christian Zionists first need to burn down liberal institutions like media, judiciary, and universities before building replacement institutions aligned with their ideology.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0112"
+      ],
+      "kind": "exchange",
+      "summary": "The host voices ambivalence because he sees the destruction as stupid resentment against education itself.",
+      "speaker_attribution": "Host reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0113",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0114",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0115",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0116"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that liberal institutions themselves created Trump's return by producing inequality, persecuting him publicly, and thereby making him the underdog.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0117",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0118",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0119",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that persecution made Trump stronger and adds that elite hopes for Israel and the broader mood of existential violence helped make Trump the vector of civil war.",
+      "speaker_attribution": "Host elaboration",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0121",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0122",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0123",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0124"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Charlie Kirk shooting is a 9/11-style watershed that will justify a new Patriot Act and be linked to war with Iran despite Kirk's antiwar stance.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0125",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0126",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0127",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0128"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that Kirk will be used to inspire war and says the so-called establishment will capitulate, while Jiang adds that the liberal professional class already sold itself to deeper power centers.",
+      "speaker_attribution": "Host elaboration and Jiang reply",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0129",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0130",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0131",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0132"
+      ],
+      "kind": "question",
+      "summary": "The host opens the floor to questions, and a participant asks whether the loss of unifying media and institutions is part of Jiang's civil-war theory.",
+      "speaker_attribution": "Host moderation and participant question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0133",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0134"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says America has seen a twenty-year breakdown of shared ideology, stories, and institutions, leaving outrage and celebration of death in place of civility.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0135"
+      ],
+      "kind": "exchange",
+      "summary": "The participant adds that whoever controls the strongest channel of messaging becomes the establishment.",
+      "speaker_attribution": "Participant comment",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0136"
+      ],
+      "kind": "answer",
+      "summary": "Jiang warns not to underestimate the power, hierarchy, and long game of the Catholic Church.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0137"
+      ],
+      "kind": "question",
+      "summary": "A participant asks whether future Christian nationalism will be more Catholic or Protestant in tone.",
+      "speaker_attribution": "Participant question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0138",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0139"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Catholic and Mormon institutions have organizational advantages, but the American soul is anti-hierarchical, so the exact factional winner remains unsettled and contingent.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0140",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0141"
+      ],
+      "kind": "question",
+      "summary": "Another participant asks how non-Abrahamic religions and especially China fit the end-times picture.",
+      "speaker_attribution": "Host transition and participant question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0142",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0143"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Abrahamic eschatology is politically activating in a way Buddhism and Hinduism are not, and he describes China as fundamentally inward, uninterested, and more worried about domestic instability than foreign wars.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0144"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Jiang's Western-facing worldview comes more from social media and American discourse than from Chinese news.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0145"
+      ],
+      "kind": "answer",
+      "summary": "Jiang contrasts China and the West by saying official messaging in China is controlled while American social media functions like the id of the society.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0146",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0147",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0148"
+      ],
+      "kind": "question",
+      "summary": "Another participant asks whether a major cyberattack could become the next 9/11-style triggering event.",
+      "speaker_attribution": "Participant question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0149",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0150",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0151"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says trauma politics works through violent spectacle rather than mere inconvenience, reads Charlie Kirk's death as numerologically staged spectacle, and rejects hacking as too weak to do the same work.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0152"
+      ],
+      "kind": "question",
+      "summary": "The participant asks whether COVID might have been a more plausible model than hacking for a society-disrupting event.",
+      "speaker_attribution": "Participant follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0153"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says COVID functioned as an experiment that revealed mass obedience and points toward a more invasive future event.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0154",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0155"
+      ],
+      "kind": "question",
+      "summary": "A participant asks who would win and lose under the Christian theocracy Jiang predicts.",
+      "speaker_attribution": "Participant question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0156"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the core loser is not a single demographic group but liberal multicultural secularism itself, because the old Enlightenment settlement will die.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0157",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0158"
+      ],
+      "kind": "question",
+      "summary": "The participant presses on whether some groups would still be forced into a social bottom under the new order.",
+      "speaker_attribution": "Participant follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0159",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0160"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the basic economic hierarchy will largely persist because liberal elites can simply redress themselves as priests, and then the conversation ends.",
+      "speaker_attribution": "Jiang closing answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0161"
+      ],
+      "kind": "exchange",
+      "summary": "A final goodbye closes the interview.",
+      "speaker_attribution": "Unknown farewell",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0077"
+      ],
+      "note": "The focus packet includes a severely damaged fragment that appears to be leftover host context rather than a new substantive claim.",
+      "suggested_speaker": "Host fragment",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0154"
+      ],
+      "note": "The isolated phrase 'Regular guy' appears to be a stray interjection or speaker-label artifact and does not carry substantive meaning.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0161"
+      ],
+      "note": "The final one-word segment is tagged UNKNOWN and appears to be a trailing farewell from the close of the call.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says his family left China for Canada after his father experienced the Cultural Revolution and wanted a different future for him.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Biographical recollection told on 2026-03-05.",
+      "topic_tags": [
+        "biography",
+        "China",
+        "Canada",
+        "Cultural Revolution"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames his professional path as repeatedly returning to education after trying journalism, filmmaking, and UN work in Afghanistan.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Biographical summary told on 2026-03-05.",
+      "topic_tags": [
+        "education",
+        "career path",
+        "teaching"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he teaches the Western canon and added history because he thinks the canon cannot be taught in China without Western historical context.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Current teaching practice as of 2026-03-05.",
+      "topic_tags": [
+        "Great Books",
+        "Western canon",
+        "history teaching"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Predictive History is meant to reinterpret history so it produces a coherent story of humanity, explains the present, and helps predict the future.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0005",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Project definition on 2026-03-05.",
+      "topic_tags": [
+        "Predictive History",
+        "history method",
+        "prediction"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his approach to history came through thinking about artificial intelligence and feedback loops, where outcomes can be used to infer the forces producing them.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Methodological explanation on 2026-03-05.",
+      "topic_tags": [
+        "AI",
+        "feedback loop",
+        "history method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that every understanding of history is really an analytical model with embedded values and assumptions.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Methodological definition on 2026-03-05.",
+      "topic_tags": [
+        "historical model",
+        "assumptions",
+        "values"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A historical model should also be predictive, because future outcomes help validate, negate, or refine the model.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Methodological claim on 2026-03-05.",
+      "topic_tags": [
+        "prediction",
+        "validation",
+        "history method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the standard teleological story of history progressing toward a greater good because current wars and political breakdown contradict it.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Present-world diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "teleology",
+        "wars",
+        "modern crisis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's emerging theory is that history is underpinned by sacred narratives and by humanity's attempt to realize stories it treats as true in themselves.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Theoretical proposal on 2026-03-05.",
+      "topic_tags": [
+        "sacred stories",
+        "history theory",
+        "narrative"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says eschatological belief drives real geopolitics because people try to create conditions for prophecy, including World War III and the return of Jesus.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Geopolitical diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "eschatology",
+        "Middle East",
+        "Christian Zionism",
+        "Messianism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that belief becomes reality when enough powerful people act on a narrative, which is why stories create the world people live in.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "General model stated on 2026-03-05.",
+      "topic_tags": [
+        "belief",
+        "reality",
+        "narrative power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees that modern Western civilization aims to create heaven on earth through secular tools, and he sees AI as part of this attempt to play God.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0022",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Civilizational diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "modernity",
+        "heaven on earth",
+        "AI",
+        "playing God"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses the Houthis in Yemen as an example of people who may be materially poor but are happier because they have purpose, sincerity, and a cause larger than themselves.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0027",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Houthis",
+        "meaning",
+        "death",
+        "West"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Western society fears death so intensely that it strips life of risk, sacrifice, and therefore meaning.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Civilizational diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "death",
+        "meaning",
+        "Western decadence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Levant has been central to history not only for theological reasons but because it was the crossroads of trade linking Egypt, Anatolia, Mesopotamia, and Europe.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Historical model stated on 2026-03-05.",
+      "topic_tags": [
+        "Levant",
+        "trade",
+        "Jerusalem",
+        "history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes Jerusalem as an unusually sacred city whose felt holiness helps explain why people believe history both began there and will end there.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interpretive claim on 2026-03-05.",
+      "topic_tags": [
+        "Jerusalem",
+        "sacred city",
+        "eschatology"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says many faiths treat Jerusalem as the place where history will end, making it natural for believers to orient action toward final events there.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0033",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Religious-historical model on 2026-03-05.",
+      "topic_tags": [
+        "Jerusalem",
+        "end times",
+        "Abrahamic religions"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the Gaza war as part of an eschatological sequence because the violence turns world opinion against Israel and intensifies the script of final conflict.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Current-events diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Gaza",
+        "eschatology",
+        "Israel"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Israel will accelerate its offensive in Gaza over the next few months and use the moment to seize more territory.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0036",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Short-term prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Gaza",
+        "territorial seizure",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that actors guided by numerology and Kabbalistic timing will eventually destroy the Al-Aqsa Mosque at a chosen opportune date.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0037",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Future prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Al-Aqsa",
+        "Kabbalah",
+        "numerology",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts a one- or two-year window for the Red Heifer sacrifice and Third Temple consecration sequence.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Red Heifer",
+        "Third Temple",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang is skeptical the Red Heifer has already been sacrificed because he thinks the site must first be cleared by destruction of the mosque and only then ritually consecrated.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Interpretive correction on 2026-03-05.",
+      "topic_tags": [
+        "Red Heifer",
+        "Third Temple",
+        "Al-Aqsa"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Kabbalah and numerology make the destruction of the mosque part of a long-standing timed plan rather than an improvisation.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Interpretive diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Kabbalah",
+        "numerology",
+        "timing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang introduces a broader framework in which Jewish history is structured by managing identity, hatred, and cohesion under persecution.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Historical framework introduced on 2026-03-05.",
+      "topic_tags": [
+        "Jewish history",
+        "identity",
+        "persecution"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Babylonian exile forced Jewish elites to reimagine religion so a powerless diaspora could remain united without land, temple, or political power.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0049",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2026-03-05.",
+      "topic_tags": [
+        "Babylonian exile",
+        "diaspora",
+        "religion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that maintaining differentiation from dominant societies became a strategy for preserving Jewish communal unity.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Historical-social model stated on 2026-03-05.",
+      "topic_tags": [
+        "identity",
+        "opposition",
+        "community cohesion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Zionism can be understood as fueled by anti-Semitism because pressure and fear push Jews back toward a reconstituted homeland project.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0051",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0052",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Historical-political interpretation stated on 2026-03-05.",
+      "topic_tags": [
+        "Zionism",
+        "anti-Semitism",
+        "homeland"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says present-day Israel is split between liberal sectors and a small set of extremist actors in power who are committed to driving eschatology.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0055",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Current Israeli politics diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Israel",
+        "identity crisis",
+        "extremists",
+        "eschatology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says different eschatologies can produce different Antichrist figures over time, so the Antichrist is a recurring role rather than a single person.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Theological model on 2026-03-05.",
+      "topic_tags": [
+        "Antichrist",
+        "eschatology",
+        "roles"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that what matters is not the identity of the Antichrist but the function of preparing the way for the messianic age.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0059",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Theological interpretation on 2026-03-05.",
+      "topic_tags": [
+        "Antichrist",
+        "messianic age",
+        "script"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there is a script in place for end-times actors, which means their behavior can be predicted if the script is known.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Method claim on 2026-03-05.",
+      "topic_tags": [
+        "script",
+        "prediction",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Christian Zionism did not simply arise from Bible readers in America but was carried through England, Freemasonry, and elite planning into the American project.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0065",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Historical-political claim on 2026-03-05.",
+      "topic_tags": [
+        "Christian Zionism",
+        "Freemasonry",
+        "America"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reads Peter Thiel as someone driven by the desire to overcome the human condition through merger with machines and cyborg transcendence.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0068",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Interpretation of a living actor on 2026-03-05.",
+      "topic_tags": [
+        "Peter Thiel",
+        "transhumanism",
+        "machines"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang suggests Peter Thiel's biography, mentorship, and political network indicate someone deliberately placed near power to achieve larger purposes.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0070",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0071",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Interpretive diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Peter Thiel",
+        "elite networks",
+        "J.D. Vance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts World War III will be centered in the Levant and Anatolia because that geography matches biblical eschatology.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Future-war prediction made on 2026-03-05.",
+      "topic_tags": [
+        "World War III",
+        "Levant",
+        "Anatolia",
+        "eschatology"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the Al-Aqsa Mosque will be blown up as one of the major shocks in the coming escalation.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Al-Aqsa",
+        "prediction",
+        "shock event"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the United States will send ground troops into Iran, suffer a humiliating defeat, and thereby provoke civil conflict at home.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0076",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0078",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Iran",
+        "ground troops",
+        "defeat",
+        "civil war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says one eschatological goal is to remove the United States from Middle East affairs by provoking it into an unpopular Iran war that destabilizes the country internally.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0078",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-03-05.",
+      "topic_tags": [
+        "United States",
+        "Iran",
+        "eschatology",
+        "destabilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his childhood in Canada included serious racial abuse and ostracism tied to poverty, outsider status, and social mismatch.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0082",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Biographical recollection told on 2026-03-05.",
+      "topic_tags": [
+        "Canada",
+        "race",
+        "poverty",
+        "childhood"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Canada in the 1980s and 1990s gave children more real freedom to explore, take risks, and fail than contemporary parenting culture allows.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Comparative social diagnosis on 2026-03-05 about the 1980s-1990s.",
+      "topic_tags": [
+        "Canada",
+        "childhood",
+        "freedom",
+        "parenting"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang criticizes Western child management for defaulting to drugging restless children rather than changing boring institutions or letting boys move physically.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0086",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Social diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "children",
+        "ADHD",
+        "Ritalin",
+        "schooling"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his abuse in Canada came from overlapping factors of poverty, exclusion from consumer culture, and his own eccentric personality rather than a single simple cause.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0090",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Biographical recollection told on 2026-03-05.",
+      "topic_tags": [
+        "poverty",
+        "race",
+        "childhood",
+        "Canada"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the American civil war will not be a conventional two-army conflict but a diffuse struggle lasting roughly twenty to thirty years.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-05.",
+      "topic_tags": [
+        "civil war",
+        "United States",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the end state of that struggle is a Christian theocracy or Christian nationalism as the defining ideology of the United States.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Long-term prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Christian nationalism",
+        "theocracy",
+        "United States"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the first stage will include anti-ICE riots, heavier National Guard use, and a defining political rupture around Trump's attempt to remain president for a third term.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Near-term political prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Trump third term",
+        "riots",
+        "National Guard",
+        "police state"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts open revolt in cities such as New York and Boston, possible secessionist pressure from California, and localized sieges rather than nationwide uniform warfare.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Scenario prediction made on 2026-03-05.",
+      "topic_tags": [
+        "New York",
+        "Boston",
+        "California",
+        "civil war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares the coming American disorder to recurrent Roman civil wars, in which consolidation alternates with renewed conflict.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Historical analogy stated on 2026-03-05.",
+      "topic_tags": [
+        "Rome",
+        "civil war",
+        "strongman politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American internal expansion and civil conflict will distract the country long enough for Middle East eschatological plans to unfold.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "Strategic prediction made on 2026-03-05.",
+      "topic_tags": [
+        "civil war",
+        "Middle East",
+        "distraction",
+        "eschatology"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Catholic Church is a more important hidden actor in American politics than most people realize and may either fold America in or help break it apart.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0101",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Institutional diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Catholic Church",
+        "American politics",
+        "J.D. Vance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the deeper American conflict is between establishment interests and emerging elite interests rather than simply left versus right.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Structural diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "elites",
+        "establishment",
+        "left-right"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang invokes Peter Turchin's elite overproduction idea to argue that too many aspirants are fighting over too few positions of status and power.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Structural diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "elite overproduction",
+        "status conflict",
+        "civil unrest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang suggests both left- and right-coded militant street formations are incubated or manipulated for later activation during unrest.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0106"
+      ],
+      "temporal_scope": "Current political diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "street groups",
+        "incubation",
+        "civil unrest"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the American left has consumed itself through woke ideology, establishment alignment, and lockdown-era behavior, leaving it with little credibility.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0107"
+      ],
+      "temporal_scope": "Political diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "left",
+        "credibility",
+        "woke ideology",
+        "lockdowns"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Christian Zionists see media, judiciary, and universities as liberal strongholds that must be destroyed before replacement institutions can emerge.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "Ideological strategy model on 2026-03-05.",
+      "topic_tags": [
+        "Christian Zionism",
+        "institutions",
+        "universities",
+        "media"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump was produced by liberal institutions, especially the inequality of the Obama years and the institutional hatred directed at him.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Retrospective diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Trump",
+        "Obama years",
+        "inequality",
+        "liberal institutions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says media narratives, cabinet resistance, and security-state insubordination during Trump's first term made institutional opposition visible and fed his martyr image.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0114"
+      ],
+      "temporal_scope": "Retrospective diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Trump first term",
+        "media",
+        "deep state",
+        "martyrdom"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the legal and media campaigns against Trump made him appear as the persecuted underdog and strengthened his popular mandate to attack the institutions that targeted him.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0115",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Retrospective diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Trump",
+        "persecution",
+        "mandate",
+        "institutions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Charlie Kirk shooting is another American 9/11 moment and a watershed from which the country cannot return.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0121",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Immediate diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Charlie Kirk",
+        "9/11",
+        "watershed"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts a new surveillance-state law, a Patriot Act sequel, will follow the Charlie Kirk shooting.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0121",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Patriot Act",
+        "surveillance state",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the Charlie Kirk event will be used to rationalize an American invasion of Iran even though the event itself has no necessary connection to Iran.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0122",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0124"
+      ],
+      "temporal_scope": "Prediction made on 2026-03-05.",
+      "topic_tags": [
+        "Iran",
+        "Charlie Kirk",
+        "war pretext"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the liberal professional managerial class is not the real establishment and has already sold itself to deeper power centers that prefer Trump for war-making purposes.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0127",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0128"
+      ],
+      "temporal_scope": "Structural diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "professional managerial class",
+        "deep state",
+        "Trump",
+        "war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the last twenty years have broken down America's unifying ideology, stories, and institutions.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0133"
+      ],
+      "temporal_scope": "Long-range social diagnosis stated on 2026-03-05.",
+      "topic_tags": [
+        "institutions",
+        "ideology",
+        "stories",
+        "America"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats mass media figures like Johnny Carson and television itself as former institutions that once unified Americans around shared experience.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0133"
+      ],
+      "temporal_scope": "Historical comparison on 2026-03-05.",
+      "topic_tags": [
+        "Johnny Carson",
+        "television",
+        "shared culture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says celebration of Charlie Kirk's death shows that America has lost shame, guilt, restraint, and civility and has been primed by social media for outrage.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0134"
+      ],
+      "temporal_scope": "Current social diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Charlie Kirk",
+        "social media",
+        "civility",
+        "outrage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Catholic Church's hierarchy, organization, and centuries-long secret war with Freemasonry make it a major force in the American story.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0136"
+      ],
+      "temporal_scope": "Institutional diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Catholic Church",
+        "Freemasonry",
+        "hierarchy",
+        "America"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Catholic Church and the Mormons currently have organizational advantages in a Christianizing America, even if they may not win the soul of the country.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0138"
+      ],
+      "temporal_scope": "Institutional diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "Catholic Church",
+        "Mormons",
+        "Christian theocracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Americans are fundamentally anti-Catholic in instinct because they prize individualism, liberty, and direct access to God over hierarchy and papal authority.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0138"
+      ],
+      "temporal_scope": "Cultural diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "America",
+        "Catholicism",
+        "individualism",
+        "hierarchy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Christian theocracy as the broad end result but says the winning faction remains contingent and could be altered by large shocks such as extreme weather and depopulation.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0139"
+      ],
+      "temporal_scope": "Conditional future prediction on 2026-03-05.",
+      "topic_tags": [
+        "Christian theocracy",
+        "contingency",
+        "extreme weather",
+        "depopulation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Hinduism and Buddhism are not politically activating in the same eschatological way as the Abrahamic religions, which is why they matter less to the Jerusalem-centered script.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0142"
+      ],
+      "temporal_scope": "Comparative religion claim on 2026-03-05.",
+      "topic_tags": [
+        "Hinduism",
+        "Buddhism",
+        "eschatology",
+        "politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is not interested in the Middle East in the same way because it sees itself as the Middle Kingdom and is more concerned with domestic unrest than overseas war.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0142",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0143"
+      ],
+      "temporal_scope": "Geopolitical diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "China",
+        "Middle Kingdom",
+        "domestic unrest",
+        "Middle East"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says reading Chinese newspapers gives only the official line, whereas understanding China requires walking the streets and reading people's faces.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0145"
+      ],
+      "temporal_scope": "Method claim on 2026-03-05.",
+      "topic_tags": [
+        "China",
+        "official messaging",
+        "street reading"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American social media reveals the id of the country and shows deep hatred, anger, confusion, and anxiety.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0145"
+      ],
+      "temporal_scope": "Current social diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "social media",
+        "America",
+        "id",
+        "affect"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a 9/11-style event works by spectacle and replayed traumatic imagery rather than by technical disruption alone, which is why hacking is insufficient.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0149",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0150"
+      ],
+      "temporal_scope": "Model of trauma politics stated on 2026-03-05.",
+      "topic_tags": [
+        "spectacle",
+        "trauma",
+        "9/11",
+        "cyberattack"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Charlie Kirk event was numerologically programmed to create subconscious fear and trauma and push an agenda further.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0151"
+      ],
+      "temporal_scope": "Current-event interpretation on 2026-03-05.",
+      "topic_tags": [
+        "Charlie Kirk",
+        "numerology",
+        "trauma",
+        "agenda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says COVID was an experiment that showed governing actors how compliant the masses could be and that a more invasive next step may follow.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0153"
+      ],
+      "temporal_scope": "Retrospective diagnosis and future speculation on 2026-03-05.",
+      "topic_tags": [
+        "COVID",
+        "experiment",
+        "obedience",
+        "microchips"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says history is fundamentally conflict over ideas, narratives, and ideology rather than between peoples as such.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0156"
+      ],
+      "temporal_scope": "General theory restated on 2026-03-05.",
+      "topic_tags": [
+        "history theory",
+        "ideology",
+        "narratives"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the real loser in a Christian-theocratic turn would be the liberal multicultural secular order born from Enlightenment ideals.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0156"
+      ],
+      "temporal_scope": "Future political diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "liberalism",
+        "multiculturalism",
+        "secularism",
+        "Christian theocracy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the economic hierarchy would not change much because current liberal elites could publicly conform to theocracy while privately remaining themselves.",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0159"
+      ],
+      "temporal_scope": "Future social diagnosis on 2026-03-05.",
+      "topic_tags": [
+        "economic hierarchy",
+        "elites",
+        "theocracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0006"
+      ],
+      "moment": "Predictive History is defined as a three-part machine: coherent human story, present explanation, future prediction.",
+      "source_phrase": "The third goal is to give us the tools to predict the future.",
+      "why_it_matters": "This is the compact mission statement for Jiang's entire public project.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang immediately jokes that he wants Peterson's reach without Peterson's manic collapse.",
+      "source_phrase": "I don't want the manic episode.",
+      "why_it_matters": "It captures the self-aware comic tone at the edge of a serious discussion about public influence.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0013"
+      ],
+      "moment": "Jiang treats history like a trained machine whose hidden variables can be inferred from outcomes.",
+      "source_phrase": "The output becomes the input.",
+      "why_it_matters": "It is the method metaphor that lets him recast history as something predictive rather than purely narrative.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0015"
+      ],
+      "moment": "He dismisses the progressive historical script by pointing to live wars, civil conflict, and Trump.",
+      "source_phrase": "Clearly the theological model doesn't work.",
+      "why_it_matters": "This is the negative premise that clears the ground for Jiang's later eschatology model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0018"
+      ],
+      "moment": "Jiang compresses his theory into the line that belief is reality.",
+      "source_phrase": "Belief is reality.",
+      "why_it_matters": "This is the bridge between theology and geopolitics in Jiang's world model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0023"
+      ],
+      "moment": "Modernity becomes the project of building paradise on earth and thereby playing God.",
+      "source_phrase": "We can create heaven on earth.",
+      "why_it_matters": "It links secular progress narratives back to a hidden Christian-esoteric structure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0028"
+      ],
+      "moment": "War and death are said to give meaning, while safe Western life drains it away.",
+      "source_phrase": "War and death gives meaning to people.",
+      "why_it_matters": "It is one of Jiang's sharpest reversals of modern liberal common sense.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0032"
+      ],
+      "moment": "Jiang treats Jerusalem as a city whose holiness can be physically felt.",
+      "source_phrase": "You can feel all that holy energy.",
+      "why_it_matters": "It explains why he treats sacred geography as an active historical force rather than mere symbolism.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang says the war of Gog and Magog is a beautiful and compelling story precisely because it moves people into action.",
+      "source_phrase": "It's really the most powerful story in the world.",
+      "why_it_matters": "This shows how Jiang treats literary force itself as a geopolitical engine.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0038"
+      ],
+      "moment": "He imagines a hidden date already chosen for the destruction of Al-Aqsa.",
+      "source_phrase": "They have that date.",
+      "why_it_matters": "It condenses Jiang's numerology-and-script account of end-times planning.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0047"
+      ],
+      "moment": "Jiang insists the ritual order matters: blow up the mosque first, consecrate later.",
+      "source_phrase": "You first need to destroy that mosque.",
+      "why_it_matters": "It sharpens his view that prophecy is followed as a script rather than merely referenced symbolically.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0051"
+      ],
+      "moment": "Jiang says unity is maintained by creating opposition and differentiation from the dominant community.",
+      "source_phrase": "The best way to stay united is by creating opposition against the dominant community.",
+      "why_it_matters": "This is the mechanism he uses to connect exile-era religion, anti-Semitism, and modern Zionism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0056"
+      ],
+      "moment": "A handful of people in power can drive eschatology for an entire state.",
+      "source_phrase": "You only need about 10 who are in positions of power.",
+      "why_it_matters": "It captures Jiang's elite-script explanation for how fringe theology becomes state action.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0060"
+      ],
+      "moment": "The script matters more than the cast: once the Antichrist role appears, the messianic age can be staged.",
+      "source_phrase": "There's a script in place.",
+      "why_it_matters": "This is Jiang's compact rule for reading elite behavior as prophecy-following performance.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0068",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0069"
+      ],
+      "moment": "Jiang turns Peter Thiel into a symbolic figure for overcoming the mortal coil through machines.",
+      "source_phrase": "Overcome the human condition by merging with machines.",
+      "why_it_matters": "It fuses Jiang's eschatology frame with techno-elite ambition.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0078",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0079"
+      ],
+      "moment": "The way to free the Middle East script is to bait America into its own humiliation and civil war.",
+      "source_phrase": "Remove the United States from the equation.",
+      "why_it_matters": "This is one of Jiang's clearest links between foreign war and domestic regime crisis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0083"
+      ],
+      "moment": "Jiang contrasts old childhood freedom with the image of modern parents literally keeping children on a leash.",
+      "source_phrase": "Have your child on a leash, like literally a leash.",
+      "why_it_matters": "The image condenses his critique of overcontrolled late-modern parenting.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0095"
+      ],
+      "moment": "The coming American civil war is imagined as a drawn-out transformation rather than a neat blue-versus-gray battle.",
+      "source_phrase": "The Civil War might last 20, 20, 30 years.",
+      "why_it_matters": "It sets the temporal scale and diffuse structure for Jiang's domestic-collapse model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0098"
+      ],
+      "moment": "America is pictured less as 1861 than as a Roman machine of recurring civil war and consolidation.",
+      "source_phrase": "No different from what happened during Roman times.",
+      "why_it_matters": "It shifts Jiang's model from national fracture to imperial cyclical violence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0111"
+      ],
+      "moment": "The plan is not immediate replacement but arson against the liberal order so a new ideology can inhabit the ruins.",
+      "source_phrase": "The intention is to burn them down.",
+      "why_it_matters": "It captures Jiang's explanation for destructive politics without constructive policy detail.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0116"
+      ],
+      "moment": "Jiang asks whether liberals, by calling Trump Hitler nonstop, ended up creating Hitler.",
+      "source_phrase": "We say we're calling Hitler, but are we creating Hitler?",
+      "why_it_matters": "It is the most compact expression of his backlash theory.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0121",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0122"
+      ],
+      "moment": "Charlie Kirk becomes the second 9/11, opening surveillance and foreign war at once.",
+      "source_phrase": "Another 9 -11 moment.",
+      "why_it_matters": "It is Jiang's key bridge between domestic trauma and imperial escalation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0134"
+      ],
+      "moment": "Celebrating a political killing is treated as a bad omen proving civility has died.",
+      "source_phrase": "A really bad omen for America.",
+      "why_it_matters": "It is Jiang's moral temperature check on the country's social fragmentation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0143"
+      ],
+      "moment": "China is described as a self-contained world that mostly wants to be left alone.",
+      "source_phrase": "We're the Middle Kingdom.",
+      "why_it_matters": "It is Jiang's compact civilizational explanation for Chinese distance from Abrahamic end-times politics.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0145"
+      ],
+      "moment": "American social media is described as the id of the country.",
+      "source_phrase": "It's really like the id of America.",
+      "why_it_matters": "It captures Jiang's method for reading Western societies through uncontrolled public affect.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0149",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0150"
+      ],
+      "moment": "Trauma politics is a theatre of spectacle, not just a disruption of services.",
+      "source_phrase": "The point is create a spectacle.",
+      "why_it_matters": "This is Jiang's criterion for distinguishing a true regime-shaping event from lesser shocks.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0159"
+      ],
+      "moment": "Liberal elites can simply change costumes and become priests.",
+      "source_phrase": "Before they were liberals and now they're just priests.",
+      "why_it_matters": "It captures Jiang's view that regime change can preserve class power beneath ideological costume changes.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0005",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's project name for using historical interpretation to explain the present and predict the future.",
+      "confidence": "high"
+    },
+    {
+      "term": "feedback loop",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's borrowing from AI for a method where outcomes reveal the variables and forces that produced them.",
+      "confidence": "high"
+    },
+    {
+      "term": "teleological model",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The view Jiang rejects that history is progressing toward a greater good.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The belief structure about the end of history that Jiang says actively drives political action in the present.",
+      "confidence": "high"
+    },
+    {
+      "term": "heaven on earth",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0022",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang's label for the modern civilizational project of using worldly power and knowledge to create paradise now.",
+      "confidence": "high"
+    },
+    {
+      "term": "Levant",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The trade and sacred corridor Jiang treats as the long-term epicenter of global historical struggle.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gog and Magog",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "The apocalyptic war story Jiang invokes as the compelling narrative behind present Middle East action.",
+      "confidence": "high"
+    },
+    {
+      "term": "Al-Aqsa Mosque",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0037",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The Jerusalem holy site Jiang predicts will be destroyed as part of a planned eschatological sequence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Red Heifer",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0041",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The ritual sign Jiang links to consecrating a future Third Temple after the existing mosque is removed.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third Temple",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0041",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The temple Jiang says end-times actors are trying to consecrate through a staged ritual sequence.",
+      "confidence": "high"
+    },
+    {
+      "term": "redemption through sin",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's description of an extremist theological logic in which worsening the world is part of bringing about a better one.",
+      "confidence": "high"
+    },
+    {
+      "term": "Antichrist",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0059",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "A recurring end-times role whose job is to prepare the conditions for the messianic age rather than a single once-for-all person.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian Zionism",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "A long-running political-religious project Jiang links to English and secret-society transmission rather than only to modern American Bible culture.",
+      "confidence": "medium"
+    },
+    {
+      "term": "golden cage",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "The host's phrase, endorsed by Jiang's prior logic, for Israel's condition of being lavishly supported yet strategically constrained by the United States.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian nationalism",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0095"
+      ],
+      "definition_or_usage": "The ideology Jiang predicts will emerge as the governing form after prolonged American internal conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "elite overproduction",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0105"
+      ],
+      "definition_or_usage": "The Turchin-derived idea Jiang uses for too many status-seeking elites competing over limited positions.",
+      "confidence": "high"
+    },
+    {
+      "term": "Middle Kingdom",
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0143"
+      ],
+      "definition_or_usage": "Jiang's shorthand for China's self-understanding as a self-contained civilizational center rather than an eager end-times actor abroad.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0005"
+      ],
+      "note": "Jiang says his channel's rapid growth happened only in the preceding two or three months, which dates the surge to early 2026.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0017"
+      ],
+      "note": "Jiang explicitly says this sacred-story theory is recent and immature, which marks it as an emerging formulation rather than settled doctrine.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0083"
+      ],
+      "note": "Jiang explicitly anchors the freer childhood comparison in the 1980s and 1990s, which matters for later chronology-sensitive comparisons about Western decline.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript garbles Jiang's migration line by saying he was born in Toronto immediately after saying he was born in China; the surrounding answer makes clear he means he was born in China and moved to Toronto at age six."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript repeatedly says 'theological' where the immediate contrast suggests Jiang often means the standard progressive or teleological history model; extraction preserves the transcript wording but treats it as a critique of linear progress."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0044"
+      ],
+      "note": "The host cites a media figure and a likely ASR-damaged proper name when describing the claimed sacrifice announcement; the semantic extraction keeps only the substance of the claim."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0052"
+      ],
+      "note": "Jiang names an Israeli historian with ASR damage while defending the Zionism claim; the extraction keeps only the substantive point about his cited support."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0066",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0070"
+      ],
+      "note": "This section is heavily ASR-damaged and includes speculative biographical inference; extracted claims keep the high-level argument while lowering confidence."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0076",
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0077"
+      ],
+      "note": "The World War III answer includes severe ASR damage in the middle of the sequence; the extracted claims rely on the clearly legible predictions surrounding the damaged fragment."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0106"
+      ],
+      "note": "One organization name is ASR-damaged and Jiang's claim is itself speculative, so the note preserves the incubated-groups pattern without overcommitting to exact labels."
+    },
+    {
+      "refs": [
+        "video:interview-zsgyhwkinzk@transcript:v1#seg-0161"
+      ],
+      "note": "This packet contains only a trailing goodbye and no semantic content beyond call closure."
+    }
+  ]
+}
