@@ -20,21 +20,21 @@ So we see a massive change now in the international system, but usually the big 
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0003
 
-## seg-0004 / 00:01:17-00:02:30 / SPEAKER_01
+## seg-0004 / 00:01:17-00:02:31 / SPEAKER_01
 
-Right. So let's go to Mark Carney's speech at the World Economic Forum at Davos this past week because it went viral and it got a lot of attention. So there was a direct response to Donald Trump's argument that for the longest time, NATO, Europe, Canada have been free riding off of America's generosity and goodwill. It is America that provides defense for China. And Europe, it's American consumers that have made Europe wealthy. So Europe is just free loading of American generosity. And in his speech, Mark Carney had a counter argument. He had a rebuttal to Trump's viewpoint. Basically, what he said is that this rules based international order, it was established for the benefit of the American empire. And so the longest time it was hypocritical. It was incongruent. It was inconsistent. And the Western allies went along with this because they benefit from it. But now America has changed its attitude. It's no longer focused
+Right. So let's go to Mark Carney's speech at the World Economic Forum at Davos this past week because it went viral and it got a lot of attention. So there was a direct response to Donald Trump's argument that for the longest time, NATO, Europe, Canada have been free riding off of America's generosity and goodwill. It is America that provides defense for China. And Europe, it's American consumers that have made Europe wealthy. So Europe is just free loading of American generosity. And in his speech, Mark Carney had a counter argument. He had a rebuttal to Trump's viewpoint. Basically, what he said is that this rules based international order, it was established for the benefit of the American empire. And so the longest time it was hypocritical. It was incongruent. It was inconsistent. And the Western allies went along with this because they benefit from it. But now America has changed its attitude. It's no longer focused on consensus.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0004
 
-## seg-0005 / 00:02:30-00:03:36 / SPEAKER_01
+## seg-0005 / 00:02:31-00:03:40 / SPEAKER_01
 
-on consensus. It doesn't no longer care about multilateralism. And so now if the middle powers like Canada are to survive, they need to really develop a rules based international order. And I think that's a framework to for Europe. To now merge with BRICS, because BRICS, the very idea of BRICS is a win -win corporation where everyone is an equal and there's no dominant power. An example, of course, is the Shanghai Gold Exchange or the Gold Corridor, where gold is distributed amongst different worlds throughout the world in Dubai and Shanghai, wherever. But it's like a blockchain. It's a ledger, open ledger, where gold becomes the basis for a gold exchange. It's a new financial system. And so China is very much focused on multilateralism, on win -win cooperation, on reciprocity. And that's the future that Mark Carney believes the middle powers should strive for. And that's a framework that Mark Carney and the other middle powers,
+It doesn't no longer care about multilateralism. And so now if the middle powers like Canada are to survive, they need to really develop a rules based international order. And I think that's a framework to for Europe. To now merge with BRICS, because BRICS, the very idea of BRICS is a win -win corporation where everyone is an equal and there's no dominant power. An example, of course, is the Shanghai Gold Exchange or the Gold Corridor, where gold is distributed amongst different worlds throughout the world in Dubai and Shanghai, wherever. But it's like a blockchain. It's a ledger, open ledger, where gold becomes the basis for a gold exchange. It's a new financial system. And so China is very much focused on multilateralism, on win -win cooperation, on reciprocity. And that's the future that Mark Carney believes the middle powers should strive for. And that's a framework that Mark Carney and the other middle powers, the Europeans, would like to implement.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0005
 
-## seg-0006 / 00:03:36-00:04:37 / SPEAKER_01
+## seg-0006 / 00:03:40-00:04:37 / SPEAKER_01
 
-the Europeans, would like to implement. The problem, as you say, is there is no way that the American empire will just fade away. And that's the future. And let BRICS, this new multilateral system, develop. And so in the national security strategy, it's very explicit in that America will not give up its empire, but it will change the tactics by which it rules the empire. So no more multilateralism, no more liberal order, just pure focus on national best interests. That's number one. Number two is that it will, from now on, perceive its allies as vassals. So all these U.S. treasuries that Europe holds. Japan holds. South Korea holds. It actually belongs to America. It is America that controls the resources and the wealth of its allies. So basically the vassalization of their American empire. That's number two. Number three, and this is the most crucial, is that it will challenge China wherever it can. So
+The problem, as you say, is there is no way that the American empire will just fade away. And that's the future. And let BRICS, this new multilateral system, develop. And so in the national security strategy, it's very explicit in that America will not give up its empire, but it will change the tactics by which it rules the empire. So no more multilateralism, no more liberal order, just pure focus on national best interests. That's number one. Number two is that it will, from now on, perceive its allies as vassals. So all these U.S. treasuries that Europe holds. Japan holds. South Korea holds. It actually belongs to America. It is America that controls the resources and the wealth of its allies. So basically the vassalization of their American empire. That's number two. Number three, and this is the most crucial, is that it will challenge China wherever it can. So
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0006
 
@@ -44,75 +44,75 @@ even though America will remove its military from East Asia, it will continue to
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0007
 
-## seg-0008 / 00:05:13-00:06:17 / SPEAKER_00
+## seg-0008 / 00:05:13-00:06:18 / SPEAKER_00
 
-Well, since 1945, though. So this system of consensus and multilateralism, it was managed under the clear leadership of the United States. I mean, there was no illusions that it was not the dominant power, the hegemon. So once you're the only game in town, there's no competitors. It's easier to be a benign hegemon because they will naturally gravitate towards the United States. But as the US now has China as the main rival, as you said, it has to use more harder tools. But the harder or more aggressive the US uses economic coercion to both weaken adversaries and ensure the obedience of allies in this system or let's call them vassals, which probably is more correct, the more you incentivize the allies to decouple or diversify and for adversaries to collectively balance. And well, from my impression of the Canadian prime minister, this is part of the thing. that he was communicating as well, that this is
+Well, since 1945, though. So this system of consensus and multilateralism, it was managed under the clear leadership of the United States. I mean, there was no illusions that it was not the dominant power, the hegemon. So once you're the only game in town, there's no competitors. It's easier to be a benign hegemon because they will naturally gravitate towards the United States. But as the US now has China as the main rival, as you said, it has to use more harder tools. But the harder or more aggressive the US uses economic coercion to both weaken adversaries and ensure the obedience of allies in this system or let's call them vassals, which probably is more correct, the more you incentivize the allies to decouple or diversify and for adversaries to collectively balance. And well, from my impression of the Canadian prime minister, this is part of the thing. that he was communicating as well, that this is why they have to look more to China.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0008
 
-## seg-0009 / 00:06:17-00:06:34 / SPEAKER_00
+## seg-0009 / 00:06:19-00:06:34 / SPEAKER_00
 
-why they have to look more to China. But given, is this a temporary, though, this imperial model of the United States? Because they can't coerce the whole world under their rule if there are rivals out there. And unless they knock out the Chinese, this is my, I guess this is where I'm going at.
+But given, is this a temporary, though, this imperial model of the United States? Because they can't coerce the whole world under their rule if there are rivals out there. And unless they knock out the Chinese, this is my, I guess this is where I'm going at.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0009
 
 ## seg-0010 / 00:06:35-00:07:31 / SPEAKER_01
 
-Right, so I think that for the longest time, the American empire was able to make an illusion that it is a multilateral consensus because the people in charge were good friends with each other. They went to the same schools, the same universities, where they learned the same manners, the same values, the same ideologies. The children then went to the same schools. They hang out in the same places, like the Davos World Economic Forum. They summer in the Hamptons. Hamptons, they skied in Aspen. So it was a very small, cozy club. And they made a lot of decisions behind the scenes. And they maintained the illusion that it was very multilateral and everyone had consensus. But you're absolutely right. And that was an empire. Only a few people had the privilege of making the major decisions. But they maintained the illusion of this hypocrisy for public consumption. Now, the problem of Trump is that he's an
+Right, so I think that for the longest time, the American empire was able to make an illusion that it is a multilateral consensus because the people in charge were good friends with each other. They went to the same schools, the same universities, where they learned the same manners, the same values, the same ideologies. The children then went to the same schools. They hang out in the same places, like the Davos World Economic Forum. They summer in the Hamptons. Hamptons, they skied in Aspen. So it was a very small, cozy club. And they made a lot of decisions behind the scenes. And they maintained the illusion that it was very multilateral and everyone had consensus. But you're absolutely right. And that was an empire. Only a few people had the privilege of making the major decisions. But they maintained the illusion of this hypocrisy for public consumption. Now, the problem of Trump is that he's an outsider.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0010
 
-## seg-0011 / 00:07:31-00:08:30 / SPEAKER_01
+## seg-0011 / 00:07:31-00:08:31 / SPEAKER_01
 
-outsider. He's not part of this club. He went to the wrong schools. He hanged out with the wrong people. And he's like a mafioso. He's come in. He wants to wreck things and make things, um, the way he wants them to be. He's very dictatorial. He doesn't understand the manners, the ideologies, the values of this system. And so everyone feels under threat. And the Davos crowd, led by Mark Carney, they feel as though they need to find a new protector in China. The problem, though, is that, first of all, the system that we have today is extremely fragile because of the economic instability created by China. By empire. And what I mean by that is the inequality where maybe 1 % of the people of the population control most of the wealth. So, you know, a classic anecdote is during New Year's at St. Bart's in the Caribbean. A few dozen yachts, mega yachts, converts
+He's not part of this club. He went to the wrong schools. He hanged out with the wrong people. And he's like a mafioso. He's come in. He wants to wreck things and make things, um, the way he wants them to be. He's very dictatorial. He doesn't understand the manners, the ideologies, the values of this system. And so everyone feels under threat. And the Davos crowd, led by Mark Carney, they feel as though they need to find a new protector in China. The problem, though, is that, first of all, the system that we have today is extremely fragile because of the economic instability created by China. By empire. And what I mean by that is the inequality where maybe 1 % of the people of the population control most of the wealth. So, you know, a classic anecdote is during New Year's at St. Bart's in the Caribbean. A few dozen yachts, mega yachts, converts for New Year's party.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0011
 
-## seg-0012 / 00:08:30-00:09:27 / SPEAKER_01
+## seg-0012 / 00:08:31-00:09:27 / SPEAKER_01
 
-for New Year's party. And these are people like Miriam Adelson, Jeff Bezos. And there's only a few dozen of them, but they control 80 % of the world's wealth. So the massive inequality in this world needs to be addressed. That's number one. Number two is, the corruption of the political system, where in Washington, D.C., in Brussels, the bureaucrats are no longer accountable to the electorate. There's this disconnect between the political class and Main Street. And that's a huge, huge problem. And so there are problems with the empire, with the way the system that needs to be addressed right now. And because these politicians, these leaders, are not able to address these issues, that allows for the rise of Trump. So in theory, yes, if these people were to live with China, then we could have a new world order. The problem is that even though you have the new world order, the problem still
+And these are people like Miriam Adelson, Jeff Bezos. And there's only a few dozen of them, but they control 80 % of the world's wealth. So the massive inequality in this world needs to be addressed. That's number one. Number two is, the corruption of the political system, where in Washington, D.C., in Brussels, the bureaucrats are no longer accountable to the electorate. There's this disconnect between the political class and Main Street. And that's a huge, huge problem. And so there are problems with the empire, with the way the system that needs to be addressed right now. And because these politicians, these leaders, are not able to address these issues, that allows for the rise of Trump. So in theory, yes, if these people were to live with China, then we could have a new world order. The problem is that even though you have the new world order, the problem still persists.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0012
 
 ## seg-0013 / 00:09:27-00:09:37 / SPEAKER_01
 
-persists. How do you deal with inequality? How do you deal with the corruption? How do you deal with the disconnect, the alienation of the people? And that's a fundamental issue that needs to be addressed and which is not being addressed right now.
+How do you deal with inequality? How do you deal with the corruption? How do you deal with the disconnect, the alienation of the people? And that's a fundamental issue that needs to be addressed and which is not being addressed right now.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0013
 
 ## seg-0014 / 00:09:39-00:10:30 / SPEAKER_00
 
-Like what you said about the fake consensus, because after the Cold War came to an end, and then two years later, the Soviet Union collapsed. The argument by the, I think it was the US ambassador to NATO was that Russia couldn't become part of NATO because it would not fit into the consensus culture, which we have in NATO, which is a nice way of saying that the allies do as they're told. And well, the main thought was, I guess, the power distribution, that the Russians are simply too big. And also the whole political culture is less likely to subordinate their decisions to the US. So they would want to be partners, not vassals. But this kind of begs the question, if the US wants to be hegemon, it does have to divide and rule. That is, impose this alliance system where you either weaken your adversaries and you make your allies dependent, like the war
+Like what you said about the fake consensus, because after the Cold War came to an end, and then two years later, the Soviet Union collapsed. The argument by the, I think it was the US ambassador to NATO was that Russia couldn't become part of NATO because it would not fit into the consensus culture, which we have in NATO, which is a nice way of saying that the allies do as they're told. And well, the main thought was, I guess, the power distribution, that the Russians are simply too big. And also the whole political culture is less likely to subordinate their decisions to the US. So they would want to be partners, not vassals. But this kind of begs the question, if the US wants to be hegemon, it does have to divide and rule. That is, impose this alliance system where you either weaken your adversaries and you make your allies dependent, like the war in Ukraine.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0014
 
-## seg-0015 / 00:10:30-00:11:08 / SPEAKER_00
+## seg-0015 / 00:10:31-00:11:08 / SPEAKER_00
 
-in Ukraine. I thought this is a, I would say good, but it's a way of weakening the Russians and making Europeans more obedient. And this is more or less the objective. But how do you make sense then of Trump's seeming desire to just throw away NATO as it is? Because it does seem that you do need this kind of alliance systems if you want to weaken adversaries and make sure that your vassals, you know, toe the line. So why this rejection of such an alliance system when this is what you should be pursuing as a hegemonic instrument? Right.
+I thought this is a, I would say good, but it's a way of weakening the Russians and making Europeans more obedient. And this is more or less the objective. But how do you make sense then of Trump's seeming desire to just throw away NATO as it is? Because it does seem that you do need this kind of alliance systems if you want to weaken adversaries and make sure that your vassals, you know, toe the line. So why this rejection of such an alliance system when this is what you should be pursuing as a hegemonic instrument? Right.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0015
 
 ## seg-0016 / 00:11:08-00:12:05 / SPEAKER_01
 
-So Trump's ultimate ambition is to create a Trump world order. And what he means by that is he wants to replace the old elite, the established elite, the global elite, with a new elite. Okay. So what we're seeing right now in America is a civil war between left and right. And this is, and the ground zero for this, of course, is Minneapolis, where a couple of days ago, an American citizen, another American citizen was killed by ICE. Okay. So the first was Renny Goode, who was shot in the face three times by an ICE agent. Who claimed self -defense. But if you look at the video, that's debatable. But the second incident is a man named Alex Pretty. He's 37 years old and he's a nurse. And he was essentially executed by ICE agents in Minneapolis. And there are thousands of people now converging in Minneapolis. Tim Walz, the governor of Minnesota, has called up
+So Trump's ultimate ambition is to create a Trump world order. And what he means by that is he wants to replace the old elite, the established elite, the global elite, with a new elite. Okay. So what we're seeing right now in America is a civil war between left and right. And this is, and the ground zero for this, of course, is Minneapolis, where a couple of days ago, an American citizen, another American citizen was killed by ICE. Okay. So the first was Renny Goode, who was shot in the face three times by an ICE agent. Who claimed self -defense. But if you look at the video, that's debatable. But the second incident is a man named Alex Pretty. He's 37 years old and he's a nurse. And he was essentially executed by ICE agents in Minneapolis. And there are thousands of people now converging in Minneapolis. Tim Walz, the governor of Minnesota, has called up the National Guard.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0016
 
-## seg-0017 / 00:12:05-00:12:53 / SPEAKER_01
+## seg-0017 / 00:12:06-00:12:53 / SPEAKER_01
 
-the National Guard. So you have the local police, you have ICE agents, and you have the National Guard all converging in Minneapolis. So it sounds, it's almost like a ground zero for a new civil war. Okay. The question then is, why is this happening? It's happening because you have two major factions in America fighting for supreme power. You have the old elite, who is like Wall Street. Okay. This is the global financial elite as represented by Wall Street. But then you have a new elite that's up and coming. They're new money. So Silicon Valley, Palantir, as represented by and Peter Thiel. And they are the ones backing Trump. Okay. So the goal of Trump is to replace the federal bureaucracy in Washington and make it obedient and subservient to him. And that's why you're seeing all this conflict in the United States. But zoom out, and the entire world is like this, where Trump's ambition
+So you have the local police, you have ICE agents, and you have the National Guard all converging in Minneapolis. So it sounds, it's almost like a ground zero for a new civil war. Okay. The question then is, why is this happening? It's happening because you have two major factions in America fighting for supreme power. You have the old elite, who is like Wall Street. Okay. This is the global financial elite as represented by Wall Street. But then you have a new elite that's up and coming. They're new money. So Silicon Valley, Palantir, as represented by and Peter Thiel. And they are the ones backing Trump. Okay. So the goal of Trump is to replace the federal bureaucracy in Washington and make it obedient and subservient to him. And that's why you're seeing all this conflict in the United States. But zoom out, and the entire world is like this, where Trump's ambition
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0017
 
 ## seg-0018 / 00:12:53-00:13:57 / SPEAKER_01
 
-is not to replace NATO per se, but to change the leadership of NATO and make NATO much more subservient to him. Right? So in his national security strategy, he's talked about backing politicians in Europe that are more amenable to American values, who believe in free speech, who believe in nationalism, who believe in people. Right? And these states are Poland, Austria, Hungary. Okay? So it's not that Trump is turning away from Europe. It's more that he wants to reshape the political landscape of Europe. And Greenland is a very important point of conflict. Right? Because why is Trump so adamant about taking over Greenland? There are two reasons There are already these agreements in place where Americans can use Greenland for whatever military purpose it deems fit. So there's actually no reason to take over Greenland. Why not maintain the illusion that NATO is still relevant? And the answer is because Trump wants the European leaders to
+is not to replace NATO per se, but to change the leadership of NATO and make NATO much more subservient to him. Right? So in his national security strategy, he's talked about backing politicians in Europe that are more amenable to American values, who believe in free speech, who believe in nationalism, who believe in people. Right? And these states are Poland, Austria, Hungary. Okay? So it's not that Trump is turning away from Europe. It's more that he wants to reshape the political landscape of Europe. And Greenland is a very important point of conflict. Right? Because why is Trump so adamant about taking over Greenland? There are two reasons There are already these agreements in place where Americans can use Greenland for whatever military purpose it deems fit. So there's actually no reason to take over Greenland. Why not maintain the illusion that NATO is still relevant? And the answer is because Trump wants the European leaders to lose face.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0018
 
 ## seg-0019 / 00:13:57-00:14:36 / SPEAKER_01
 
-lose face. He wants to embarrass NATO. He wants to show the European people, look, your leaders are powerless. Your leaders are useless. So overthrow them and elect leaders that can work with me. Okay? So in Germany, that's AFD. Right? In France, that's Le Pen's party. In Spain, that's Vox. Okay? So what Trump envisions is a radical political restructuring of Europe that is more right -leaning, anti -immigration and more nativist. Okay? So to overturn the global order, essentially. And that's the main conflict in the world today.
+He wants to embarrass NATO. He wants to show the European people, look, your leaders are powerless. Your leaders are useless. So overthrow them and elect leaders that can work with me. Okay? So in Germany, that's AFD. Right? In France, that's Le Pen's party. In Spain, that's Vox. Okay? So what Trump envisions is a radical political restructuring of Europe that is more right -leaning, anti -immigration and more nativist. Okay? So to overturn the global order, essentially. And that's the main conflict in the world today.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0019
 
@@ -122,99 +122,99 @@ Yeah, that's the main conflict in the world today. that's an interesting one tha
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0020
 
-## seg-0021 / 00:15:14-00:16:09 / SPEAKER_01
+## seg-0021 / 00:15:14-00:16:15 / SPEAKER_01
 
-In his mind, he is the messiah. In his mind, he believes that he's come to save America and to save Western civilization from woke politics, from the corruption of the global elite, from just the inequality in this world. Okay? So he sees himself as a messianic figure. And quite honestly, there are many in the magnet movement who do see him as a prophet and who do see him as someone who can fulfill the prophecy of a renewed America, to make America great again. But ultimately, what this means is that Trump needs to become emperor of America. His ambition is to become king. That means destroying the constitutional values and norms that underpin American society. And we will know this because he plans to run for a third term, which will be unprecedented in the 20th century. And not only does he plan for a third term, he plans on a fourth term. Because in his
+In his mind, he is the messiah. In his mind, he believes that he's come to save America and to save Western civilization from woke politics, from the corruption of the global elite, from just the inequality in this world. Okay? So he sees himself as a messianic figure. And quite honestly, there are many in the magnet movement who do see him as a prophet and who do see him as someone who can fulfill the prophecy of a renewed America, to make America great again. But ultimately, what this means is that Trump needs to become emperor of America. His ambition is to become king. That means destroying the constitutional values and norms that underpin American society. And we will know this because he plans to run for a third term, which will be unprecedented in the 20th century. And not only does he plan for a third term, he plans on a fourth term. Because in his mind, he needs time in order to revamp American society, to make America great again.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0021
 
-## seg-0022 / 00:16:09-00:17:10 / SPEAKER_01
+## seg-0022 / 00:16:15-00:17:12 / SPEAKER_01
 
-mind, he needs time in order to revamp American society, to make America great again. And look, if he were not running for a third term, we cannot possibly explain the speed and the force by which he is revamping American society. Think about ICE, okay? Now, what's interesting about ICE is that it says that ICE exists in order to deport immigrants, right? In order to get rid of illegal immigration, which is destroying the American economy. But if you look at the statistics, Obama actually deported more illegal immigrants than Trump did, even though Obama didn't have the budget and the resources that ICE has. And Obama never created conflict with the states, okay? The states worked with Obama to remove the illegal immigrants. So it was clearly about removing illegal immigrants than ICE is incompetent. that, oh, ICE is actually meant to be a Gestapo, it's meant to be a new secret police that was only loyal
+And look, if he were not running for a third term, we cannot possibly explain the speed and the force by which he is revamping American society. Think about ICE, okay? Now, what's interesting about ICE is that it says that ICE exists in order to deport immigrants, right? In order to get rid of illegal immigration, which is destroying the American economy. But if you look at the statistics, Obama actually deported more illegal immigrants than Trump did, even though Obama didn't have the budget and the resources that ICE has. And Obama never created conflict with the states, okay? The states worked with Obama to remove the illegal immigrants. So it was clearly about removing illegal immigrants than ICE is incompetent. that, oh, ICE is actually meant to be a Gestapo, it's meant to be a new secret police that was only loyal to Trump, then that makes a lot of sense, okay?
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0022
 
-## seg-0023 / 00:17:10-00:17:59 / SPEAKER_01
+## seg-0023 / 00:17:12-00:17:59 / SPEAKER_01
 
-to Trump, then that makes a lot of sense, okay? And that helps us explain the incredible unprecedented violence that is happening in the streets of Minneapolis right now. These are extrajudicial executions, okay? There's no other word for what's happening, meant to incite a civil war, meant to enrage the people. In the streets of Minnesota, okay, it's not illegal immigrants versus ICE, it's white conservative men in white uniforms versus white liberal Americans, okay? That's the conflict right now. And Trump understands that he needs to incite a civil war so he can declare an insurrection, he can have emergency war powers, he can override elections. That is his that is his plan, that's his plan. And look, the evidence is actually pretty clear about what's happening.
+And that helps us explain the incredible unprecedented violence that is happening in the streets of Minneapolis right now. These are extrajudicial executions, okay? There's no other word for what's happening, meant to incite a civil war, meant to enrage the people. In the streets of Minnesota, okay, it's not illegal immigrants versus ICE, it's white conservative men in white uniforms versus white liberal Americans, okay? That's the conflict right now. And Trump understands that he needs to incite a civil war so he can declare an insurrection, he can have emergency war powers, he can override elections. That is his that is his plan, that's his plan. And look, the evidence is actually pretty clear about what's happening.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0023
 
-## seg-0024 / 00:18:01-00:18:51 / SPEAKER_00
+## seg-0024 / 00:18:01-00:18:50 / SPEAKER_00
 
-Yeah. On the other hand, though, when I read the national security strategy of the United States, the way they refer to Europe, there were some good points there, I thought. That is that Europe is in decline. The demographic, it's an economic decline, it's international relevance, the ability to reproduce its culture, all of the things you would expect from a declining civilization. So how are you assessing this? Because I'm not saying that Trump will rescue or save Europe, as was also suggested in this national security strategy by cultivating an acceptable opposition. But surely things aren't going well for Europe. Right. So let's look
+Yeah. On the other hand, though, when I read the national security strategy of the United States, the way they refer to Europe, there were some good points there, I thought. That is that Europe is in decline. The demographic, it's an economic decline, it's international relevance, the ability to reproduce its culture, all of the things you would expect from a declining civilization. So how are you assessing this? Because I'm not saying that Trump will rescue or save Europe, as was also suggested in this national security strategy by cultivating an acceptable opposition. But surely things aren't going well for Europe. Right.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0024
 
-## seg-0025 / 00:18:51-00:19:48 / SPEAKER_01
+## seg-0025 / 00:18:50-00:19:49 / SPEAKER_01
 
-at why Trump is in power, right? He's in power because Biden really screwed up. Biden was in power for four years and in those four years, the world there's a lack of leadership. There's a lack of strategy. There's a lack of decision making. And this is true for the entire global Western elite. You go to Brussels, you go to Washington, D.C. during the Biden years, they had no idea what to do. They were corrupt. They were indifferent. They lived in a bubble. And so people were really angry and people wanted change. And that's what propelled Trump into presidency. That's what's allowing him to implement Project 2025 which is to radically revamp the federal proxy. This is what's drawing the Pentagon to be loyal to Trump. So there are severe problems that need to be addressed. And Trump is using this opportunity. He's using this opportunity of discontentment, disillusionment in order to amass personal power
+So let's look at why Trump is in power, right? He's in power because Biden really screwed up. Biden was in power for four years and in those four years, the world there's a lack of leadership. There's a lack of strategy. There's a lack of decision making. And this is true for the entire global Western elite. You go to Brussels, you go to Washington, D.C. during the Biden years, they had no idea what to do. They were corrupt. They were indifferent. They lived in a bubble. And so people were really angry and people wanted change. And that's what propelled Trump into presidency. That's what's allowing him to implement Project 2025 which is to radically revamp the federal proxy. This is what's drawing the Pentagon to be loyal to Trump. So there are severe problems that need to be addressed. And Trump is using this opportunity. He's using this opportunity of discontentment, disillusionment in order to amass personal power to himself.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0025
 
-## seg-0026 / 00:19:48-00:20:40 / SPEAKER_01
+## seg-0026 / 00:19:49-00:20:45 / SPEAKER_01
 
-to himself. And that's and that's the great threat, right? So yeah, look, look, look, look, I mean, I just say this, but Hitler would not have rose to power unless Germany was really suffering and Germany really wanted massive political change. So I completely agree with you. Europe is in a lot of trouble. But the idea that Trump's going to come and become your savior, I think that is a bit deluded. I think Trump's plan is to destroy the world so he can rule over the ashes. I think that's what's going to happen. But you're right in that you can make a legitimate argument that he really believes he wants to save the world. You can also make a legitimate argument that his followers are true believers and they are trying to make the world a better place. But historically, if you look at historical patterns, when a figure like this emerges, and, you know, figures
+And that's and that's the great threat, right? So yeah, look, look, look, look, I mean, I just say this, but Hitler would not have rose to power unless Germany was really suffering and Germany really wanted massive political change. So I completely agree with you. Europe is in a lot of trouble. But the idea that Trump's going to come and become your savior, I think that is a bit deluded. I think Trump's plan is to destroy the world so he can rule over the ashes. I think that's what's going to happen. But you're right in that you can make a legitimate argument that he really believes he wants to save the world. You can also make a legitimate argument that his followers are true believers and they are trying to make the world a better place. But historically, if you look at historical patterns, when a figure like this emerges, and, you know, figures like this include Julius Caesar, they end up destroying the world.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0026
 
 ## seg-0027 / 00:20:40-00:20:45 / SPEAKER_01
 
-like this include Julius Caesar, they end up destroying the world.
+
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0027
 
-## seg-0028 / 00:20:46-00:21:54 / SPEAKER_00
+## seg-0028 / 00:20:46-00:21:58 / SPEAKER_00
 
-No, of course, all these leaders never appear in a vacuum. And there's, so I do see this being one of the consequences of having horrible leadership. I think Biden definitely fell in that category. But how do you explain this though, the cause of it? Why are there such terrible leaders at the moment, not just in the United States, but across Europe as well? I mean, terrible in terms of there's no vision, there's no strategy. It's very dishonest. It's all about managing narratives. Yeah, well, overall, we don't see any leaders of the past. And again, this is Europe where you began with the Peace of Westphalia. You came up with modern diplomacy. This is, yeah, I don't see any leaders again in Europe today, which seems to be able to get the continent back on track, which, well, then you kind of hand over the mantle to any, well, crazy leader who any strongman coming along,
+No, of course, all these leaders never appear in a vacuum. And there's, so I do see this being one of the consequences of having horrible leadership. I think Biden definitely fell in that category. But how do you explain this though, the cause of it? Why are there such terrible leaders at the moment, not just in the United States, but across Europe as well? I mean, terrible in terms of there's no vision, there's no strategy. It's very dishonest. It's all about managing narratives. Yeah, well, overall, we don't see any leaders of the past. And again, this is Europe where you began with the Peace of Westphalia. You came up with modern diplomacy. This is, yeah, I don't see any leaders again in Europe today, which seems to be able to get the continent back on track, which, well, then you kind of hand over the mantle to any, well, crazy leader who any strongman coming along, claiming that he can fix the system if he just pushes the old order aside.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0028
 
 ## seg-0029 / 00:21:54-00:21:58 / SPEAKER_00
 
-claiming that he can fix the system if he just pushes the old order aside.
+
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0029
 
-## seg-0030 / 00:21:59-00:22:48 / SPEAKER_01
+## seg-0030 / 00:21:59-00:22:49 / SPEAKER_01
 
-I think one of the greatest lies in our lives is that the meritocracy promotes the best leaders. So if you went to Europe, if you went to Yale, if you went to Harvard, if you went to Oxbridge, if you went to the, to the Sorbonne, then you are the best and the brightest. And therefore, you should rule. You know, I went to Yale, okay? And I can tell you right now that if you go to a place like Yale, you're not taught how to think critically. You're not taught how to be imaginative, how to have empathy, how to be resilient. You're taught how to speak in a very nice, articulate manner and to conform to the status quo. Okay? So if you look at the ruling class in America, the vast majority of people in Washington, D.C., of the financial elite in Wall Street, Silicon Valley, the media, okay, the universities, they all went
+I think one of the greatest lies in our lives is that the meritocracy promotes the best leaders. So if you went to Europe, if you went to Yale, if you went to Harvard, if you went to Oxbridge, if you went to the, to the Sorbonne, then you are the best and the brightest. And therefore, you should rule. You know, I went to Yale, okay? And I can tell you right now that if you go to a place like Yale, you're not taught how to think critically. You're not taught how to be imaginative, how to have empathy, how to be resilient. You're taught how to speak in a very nice, articulate manner and to conform to the status quo. Okay? So if you look at the ruling class in America, the vast majority of people in Washington, D.C., of the financial elite in Wall Street, Silicon Valley, the media, okay, the universities, they all went to a few schools.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0030
 
-## seg-0031 / 00:22:48-00:23:46 / SPEAKER_01
+## seg-0031 / 00:22:50-00:23:48 / SPEAKER_01
 
-to a few schools. And as a result, they have a very, they live in a bubble. They see the world in a very jaded manner. And, and, and so they're unable to empathize with the suffering of ordinary people. They, they become disconnected with the ordinary people. They have actually, they can't possibly imagine what life is like for just a blue -collar worker. That's, that's one. Number two is the problem with meritocracy is that if you think that you deserve what you have because you worked hard, then you also believe that other people who are poor deserve what they got because they're lazy. Okay? So the government should not help these people. The government should help immigrants. The government should help minorities. The government should help women because these are historically persecuted groups. But they should, we should not help ordinary white men because they deserve what they got because they're stupid. I worked hard in
+And as a result, they have a very, they live in a bubble. They see the world in a very jaded manner. And, and, and so they're unable to empathize with the suffering of ordinary people. They, they become disconnected with the ordinary people. They have actually, they can't possibly imagine what life is like for just a blue -collar worker. That's, that's one. Number two is the problem with meritocracy is that if you think that you deserve what you have because you worked hard, then you also believe that other people who are poor deserve what they got because they're lazy. Okay? So the government should not help these people. The government should help immigrants. The government should help minorities. The government should help women because these are historically persecuted groups. But they should, we should not help ordinary white men because they deserve what they got because they're stupid. I worked hard in school and so I got, I got a yield.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0031
 
-## seg-0032 / 00:23:46-00:24:39 / SPEAKER_01
+## seg-0032 / 00:23:48-00:24:42 / SPEAKER_01
 
-school and so I got, I got a yield. You didn't work hard in school and so you should be a guardsman making very little money. You should be unemployed. Okay? So there's just this contempt. There's just this visual discontent for the ordinary people among the elite that drives a lot of their policies. Okay? And then the third thing and this is the most important is that when you go to a place like Yale you've succeeded all your life. And so you're not capable of humility. You're not capable of self -reflection. Okay? So in 2016 when Trump won this was a pivotal moment in Western history. At this point the elite could say listen, why did Trump win? Well, it was probably because of inequality. It was probably because of those you know, we built out Wall Street in 2008, right? We should build up the homeowners but instead we built out Wall Street. So it's
+You didn't work hard in school and so you should be a guardsman making very little money. You should be unemployed. Okay? So there's just this contempt. There's just this visual discontent for the ordinary people among the elite that drives a lot of their policies. Okay? And then the third thing and this is the most important is that when you go to a place like Yale you've succeeded all your life. And so you're not capable of humility. You're not capable of self -reflection. Okay? So in 2016 when Trump won this was a pivotal moment in Western history. At this point the elite could say listen, why did Trump win? Well, it was probably because of inequality. It was probably because of those you know, we built out Wall Street in 2008, right? We should build up the homeowners but instead we built out Wall Street. So it's our fault that the people elected Trump.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0032
 
-## seg-0033 / 00:24:39-00:25:26 / SPEAKER_01
+## seg-0033 / 00:24:42-00:25:26 / SPEAKER_01
 
-our fault that the people elected Trump. This is a wake -up call for us. It's time for the elite to start working for the masses again. Instead what happened? Instead the elite said oh, it's because Trump's a Putin spy. It's because he's a spy. And Russiagate you know, this hoax will prove that he's a spy. Okay? So it's not our fault. Oh, also Trump cheated. You know, it's because of Facebook. So they found all sorts of pretexts to disguise the fact that Trump won because of mismanagement by the elite. Okay? And so we have this class in America and Europe who are extremely arrogant. They live in their own bubble. They're mediocre but they think that they're superior and they're incapable of any humility any empathy. And that's why we are where we are.
+This is a wake -up call for us. It's time for the elite to start working for the masses again. Instead what happened? Instead the elite said oh, it's because Trump's a Putin spy. It's because he's a spy. And Russiagate you know, this hoax will prove that he's a spy. Okay? So it's not our fault. Oh, also Trump cheated. You know, it's because of Facebook. So they found all sorts of pretexts to disguise the fact that Trump won because of mismanagement by the elite. Okay? And so we have this class in America and Europe who are extremely arrogant. They live in their own bubble. They're mediocre but they think that they're superior and they're incapable of any humility any empathy. And that's why we are where we are.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0033
 
-## seg-0034 / 00:25:28-00:26:36 / SPEAKER_00
+## seg-0034 / 00:25:28-00:26:38 / SPEAKER_00
 
-Well, when you said this, I just clicked up a quote by Professor Richard Rorty because he was making a similar point but back in the 90s because when economic liberalism and globalization of the 1990s were gaining speed, he wrote this paragraph in his book which I thought was great. essentially, this was predicting what excessive economic liberalism under globalization would look like and he wrote and it's a quote and members of labor unions and unorganized and unskilled workers will sooner or later realize that their government is not even trying to prevent wages from sinking or to prevent jobs from being exported. Around the same time they will realize that suburbian white -collar workers themselves desperately afraid of being downsized are not going to let themselves be taxed to provide social benefits for anyone else. At that point something will crack. The suburban electorate will decide that the system has failed and start looking around for a
+Well, when you said this, I just clicked up a quote by Professor Richard Rorty because he was making a similar point but back in the 90s because when economic liberalism and globalization of the 1990s were gaining speed, he wrote this paragraph in his book which I thought was great. essentially, this was predicting what excessive economic liberalism under globalization would look like and he wrote and it's a quote and members of labor unions and unorganized and unskilled workers will sooner or later realize that their government is not even trying to prevent wages from sinking or to prevent jobs from being exported. Around the same time they will realize that suburbian white -collar workers themselves desperately afraid of being downsized are not going to let themselves be taxed to provide social benefits for anyone else. At that point something will crack. The suburban electorate will decide that the system has failed and start looking around for a strongman to vote for.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0034
 
-## seg-0035 / 00:26:36-00:27:01 / SPEAKER_00
+## seg-0035 / 00:26:38-00:27:00 / SPEAKER_00
 
-strongman to vote for. Someone willing to assure them that once he is elected the smug bureaucrats, tricky lawyers, overpaid bond salesmen and postmodernist professors will no longer be calling their shots. Once the strongman takes office no one can predict what will happen. Unquote. This is a This is 1998. This is Yep. Yep. You better describe
+Someone willing to assure them that once he is elected the smug bureaucrats, tricky lawyers, overpaid bond salesmen and postmodernist professors will no longer be calling their shots. Once the strongman takes office no one can predict what will happen. Unquote. This is a This is 1998. This is Yep. Yep.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0035
 
-## seg-0036 / 00:27:01-00:27:04 / SPEAKER_01
+## seg-0036 / 00:27:00-00:27:04 / SPEAKER_01
 
-what happened. Yep. This is exactly what happened. Exactly.
+You better describe what happened. Yep. This is exactly what happened. Exactly.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0036
 
@@ -224,15 +224,15 @@ So this rooted in globalization and the excessive of economic liberalism is this
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0037
 
-## seg-0038 / 00:27:15-00:28:15 / SPEAKER_01
+## seg-0038 / 00:27:15-00:28:16 / SPEAKER_01
 
-Yeah, you look I mean look you go back to 1970s and if you were living in the west at that time right? Australia, Canada, Europe, and your wife could just stay at home and be a a you know a just be just look up at the kids. You got three kids. You got two cars. You could vacation in the winter and in the summer. You had a cottage probably. All three of your kids could go to university. Right? And we're talking about like just a factory worker and like you know this is a single household. Okay? But then you got the Reagan Revolution. You had the rise of Margaret Thatcher in Britain and then you had the rise of neoliberalism which allowed for the congregation the consolidation of wealth in the 1%. You also had globalization so wealth was being transferred from the developing world into the developed world to create the speculative financial products
+Yeah, you look I mean look you go back to 1970s and if you were living in the west at that time right? Australia, Canada, Europe, and your wife could just stay at home and be a a you know a just be just look up at the kids. You got three kids. You got two cars. You could vacation in the winter and in the summer. You had a cottage probably. All three of your kids could go to university. Right? And we're talking about like just a factory worker and like you know this is a single household. Okay? But then you got the Reagan Revolution. You had the rise of Margaret Thatcher in Britain and then you had the rise of neoliberalism which allowed for the congregation the consolidation of wealth in the 1%. You also had globalization so wealth was being transferred from the developing world into the developed world to create the speculative financial products like derivatives.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0038
 
-## seg-0039 / 00:28:15-00:28:26 / SPEAKER_01
+## seg-0039 / 00:28:17-00:28:26 / SPEAKER_01
 
-like derivatives. So it went all wrong with the Reagan Revolution and the rise of neoliberalism and that's the root of all the issues that we have today.
+So it went all wrong with the Reagan Revolution and the rise of neoliberalism and that's the root of all the issues that we have today.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0039
 
@@ -428,21 +428,21 @@ It's almost impressive how Canada, the most loyal perhaps of all of America's al
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0071
 
-## seg-0072 / 00:53:41-00:54:33 / SPEAKER_01
+## seg-0072 / 00:53:41-00:54:36 / SPEAKER_01
 
-Right. So again, for the longest time, the world was run on consensus. It was just based on shared assumptions and values, right? And one shared assumption is the idea of national sovereignty, that if it's a country, then you need to respect that country's sovereignty. And that's the underlying basis of international law. You don't have the idea of sovereignty, you can't have international law. Okay? So for the longest time, that was the idea. But Trump, being Trump, refuses to acknowledge sovereignty, okay? So for example, the kidnap of Maduro, okay? You don't do that because you're violating a country's national sovereignty. And then to take Maduro and then parade him in New York City, and then to charge him with American crimes, okay? This guy is a president of another state. He is head of a nation state. You cannot do this, again, according to international law. But Trump doesn't do that. Trump doesn't care, okay? So
+Right. So again, for the longest time, the world was run on consensus. It was just based on shared assumptions and values, right? And one shared assumption is the idea of national sovereignty, that if it's a country, then you need to respect that country's sovereignty. And that's the underlying basis of international law. You don't have the idea of sovereignty, you can't have international law. Okay? So for the longest time, that was the idea. But Trump, being Trump, refuses to acknowledge sovereignty, okay? So for example, the kidnap of Maduro, okay? You don't do that because you're violating a country's national sovereignty. And then to take Maduro and then parade him in New York City, and then to charge him with American crimes, okay? This guy is a president of another state. He is head of a nation state. You cannot do this, again, according to international law. But Trump doesn't do that. Trump doesn't care, okay? So Trump doesn't care about international law, he just cares about power.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0072
 
-## seg-0073 / 00:54:33-00:55:24 / SPEAKER_01
+## seg-0073 / 00:54:36-00:55:28 / SPEAKER_01
 
-Trump doesn't care about international law, he just cares about power. Now, if he doesn't care about international law, it's probably possible for him to go take Greenland. It's not hard. It's easy for him to take Canada as well, because Canada doesn't really have a military. And the Canadian -US border is the longest border in the world, in place of Alberta, which is the real source of the Canadian economy. So the Canadian economy is about to go bankrupt because of real estate speculation. And for a variety of reasons, okay? So the Canadian economy is in a lot of trouble. Alberta will probably have a referendum for independence. And then maybe 20 % vote for independence, okay? Not to be annexed by the United States, but for independence. Trump will say, ha, you see, the Albertans want to be independent and the Canadians won't let them. So we need to defend Alberta. We need to support the
+Now, if he doesn't care about international law, it's probably possible for him to go take Greenland. It's not hard. It's easy for him to take Canada as well, because Canada doesn't really have a military. And the Canadian -US border is the longest border in the world, in place of Alberta, which is the real source of the Canadian economy. So the Canadian economy is about to go bankrupt because of real estate speculation. And for a variety of reasons, okay? So the Canadian economy is in a lot of trouble. Alberta will probably have a referendum for independence. And then maybe 20 % vote for independence, okay? Not to be annexed by the United States, but for independence. Trump will say, ha, you see, the Albertans want to be independent and the Canadians won't let them. So we need to defend Alberta. We need to support the sovereignty and the freedom and democracy of Alberta, okay?
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0073
 
-## seg-0074 / 00:55:24-00:56:17 / SPEAKER_01
+## seg-0074 / 00:55:28-00:56:17 / SPEAKER_01
 
-sovereignty and the freedom and democracy of Alberta, okay? So it's easy for Trump to do this. He can annex Canada any point. This has been true for the past 300 years. The reason why America doesn't do that is because if you were to do that, the very illusion that America is a force for good in the world would shatter, okay? And the entire world will unify against you, right? So South America would start to rebel against you. Europe would start to unite against you. So that's why you don't do it. Because if you were to do this, you would be in a lot of trouble. You would break all national norms, and everyone would see you as the major threat. But at the end of the day, Trump's going to do this, because that's who he is. He wants the facade that he's the emperor, the god emperor, Trump.
+So it's easy for Trump to do this. He can annex Canada any point. This has been true for the past 300 years. The reason why America doesn't do that is because if you were to do that, the very illusion that America is a force for good in the world would shatter, okay? And the entire world will unify against you, right? So South America would start to rebel against you. Europe would start to unite against you. So that's why you don't do it. Because if you were to do this, you would be in a lot of trouble. You would break all national norms, and everyone would see you as the major threat. But at the end of the day, Trump's going to do this, because that's who he is. He wants the facade that he's the emperor, the god emperor, Trump.
 
 Ref: video:interview-80juke0blaq@transcript:v1#seg-0074
 
