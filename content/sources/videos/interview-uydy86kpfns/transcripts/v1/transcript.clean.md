@@ -2,39 +2,39 @@
 
 Source: https://www.youtube.com/watch?v=uYdY86KpFns
 
-## seg-0001 / 00:00:02-00:01:11 / SPEAKER_01
+## seg-0001 / 00:00:02-00:01:13 / SPEAKER_01
 
-Good morning, everybody. My name is Ian Proud. I am the Peacemonger, and I'm absolutely delighted this morning to welcome on the show Professor Jiang Xueqin, who is incredibly well known for his massively popular Predictive History podcast, where he takes lessons from the past, from my history, and applies them forward to the future to make really kind of viral projections, which, you know, often prove to be to be correct. So I want to kind of stay on that theme for the purpose of today's discussion and first kick off. Thank you, Professor Jiang, for joining us today. Thanks again for inviting me. So it seems clear to me, particularly now under the Trump administration, that the US is racing towards the end of its global hegemonic status, if you like, both in political terms, but also in economic terms. And at some point over the next one or two decades, China will surpass the US as the
+Good morning, everybody. My name is Ian Proud. I am the Peacemonger, and I'm absolutely delighted this morning to welcome on the show Professor Jiang Xueqin, who is incredibly well known for his massively popular Predictive History podcast, where he takes lessons from the past, from my history, and applies them forward to the future to make really kind of viral projections, which, you know, often prove to be to be correct. So I want to kind of stay on that theme for the purpose of today's discussion and first kick off. Thank you, Professor Jiang, for joining us today. Thanks again for inviting me. So it seems clear to me, particularly now under the Trump administration, that the US is racing towards the end of its global hegemonic status, if you like, both in political terms, but also in economic terms. And at some point over the next one or two decades, China will surpass the US as the leading global economic power.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0001
 
-## seg-0002 / 00:01:11-00:01:33 / SPEAKER_01
+## seg-0002 / 00:01:13-00:01:33 / SPEAKER_01
 
-leading global economic power. It has the rate of economic growth. It has the size of population. Asia, you know, the 21st century is Asia's century. How do you see that the next kind of decade or so playing out in terms of, that quite historic and seismic transition to China as the leading global power?
+It has the rate of economic growth. It has the size of population. Asia, you know, the 21st century is Asia's century. How do you see that the next kind of decade or so playing out in terms of, that quite historic and seismic transition to China as the leading global power?
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0002
 
-## seg-0003 / 00:01:34-00:02:45 / SPEAKER_00
+## seg-0003 / 00:01:34-00:02:52 / SPEAKER_00
 
-Yeah. So the issue is that when empires decline and die, they do not so peacefully. And so what we're seeing right now, as you say, is a decline of the American empire. But when an empire declines, it engages in certain counterproductive activities. So, for example, it engages in too many overseas military commitments. So what we're seeing, of course, it was the Venezuela kidnapping of Maduro. Now we're seeing that a huge armada has assembled around Iran. It is possible that the Americans will strike Iran at any time, possibly today, tomorrow. But very quickly, Trump has talked about annexing Greenland and Canada. He's talked about, you know, blockading Cuba. He's talked about regime change in Colombia, in Mexico. So this is what an empire decline looks like. It's very, very traumatic for the world and for America itself. On the domestic front, you see ruptures everywhere. So you've been finding the news about Minnesota. There's almost like
+Yeah. So the issue is that when empires decline and die, they do not so peacefully. And so what we're seeing right now, as you say, is a decline of the American empire. But when an empire declines, it engages in certain counterproductive activities. So, for example, it engages in too many overseas military commitments. So what we're seeing, of course, it was the Venezuela kidnapping of Maduro. Now we're seeing that a huge armada has assembled around Iran. It is possible that the Americans will strike Iran at any time, possibly today, tomorrow. But very quickly, Trump has talked about annexing Greenland and Canada. He's talked about, you know, blockading Cuba. He's talked about regime change in Colombia, in Mexico. So this is what an empire decline looks like. It's very, very traumatic for the world and for America itself. On the domestic front, you see ruptures everywhere. So you've been finding the news about Minnesota. There's almost like a civil war going on where you have a heavy militarized opposition going on.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0003
 
-## seg-0004 / 00:02:45-00:03:48 / SPEAKER_00
+## seg-0004 / 00:02:52-00:03:50 / SPEAKER_00
 
-a civil war going on where you have a heavy militarized opposition going on. You have the Minnesota local police who are being harassed. They're being harassed by ICE agents. These off -duty police officers who are of color, Latino or Black, they're being stopped by ICE agents. And they ask for the papers. And I think this is all very deliberate. It's to provoke them. Tim Walz, who is the governor of Minnesota, has deployed the National Guard to guard certain buildings. So you have three possible forces, the local police, the National Guard, and the ICE. And border control all in Minneapolis right now. And as you know, just yesterday, an American citizen who is 37 years old named Alex Pretty, he is an ICU nurse. He was executed in cold blood. We can only call it an execution based on the video evidence so far. I understand that the Truman administration said that the ICE agents were
+You have the Minnesota local police who are being harassed. They're being harassed by ICE agents. These off -duty police officers who are of color, Latino or Black, they're being stopped by ICE agents. And they ask for the papers. And I think this is all very deliberate. It's to provoke them. Tim Walz, who is the governor of Minnesota, has deployed the National Guard to guard certain buildings. So you have three possible forces, the local police, the National Guard, and the ICE. And border control all in Minneapolis right now. And as you know, just yesterday, an American citizen who is 37 years old named Alex Pretty, he is an ICU nurse. He was executed in cold blood. We can only call it an execution based on the video evidence so far. I understand that the Truman administration said that the ICE agents were acting in self -defense.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0004
 
-## seg-0005 / 00:03:48-00:04:42 / SPEAKER_00
+## seg-0005 / 00:03:50-00:04:45 / SPEAKER_00
 
-acting in self -defense. If you just look at the videos, if you just look at eyewitness testimonies, he was a man who was disarmed and then he was shot in the back. And then the ICE agents start to run up eyewitnesses and confiscate their mobile phones. So it seems as though these ICE agents are, for whatever reason, they're trying to incite a civil war. And there's fear that it's possible that one ICE agent might be shot by a sniper at some point, which would allow Trump to declare the Insurrection Act. There's also possibility of a shutdown in Washington, D.C., where the government no longer functions. There's all this talk about the Epstein files and how the entire billionaire class in America is implicated in these Epstein files. So right now in America, it's really a powder keg. And this powder keg can go off at any moment. And there's talk of ICE being deployed
+If you just look at the videos, if you just look at eyewitness testimonies, he was a man who was disarmed and then he was shot in the back. And then the ICE agents start to run up eyewitnesses and confiscate their mobile phones. So it seems as though these ICE agents are, for whatever reason, they're trying to incite a civil war. And there's fear that it's possible that one ICE agent might be shot by a sniper at some point, which would allow Trump to declare the Insurrection Act. There's also possibility of a shutdown in Washington, D.C., where the government no longer functions. There's all this talk about the Epstein files and how the entire billionaire class in America is implicated in these Epstein files. So right now in America, it's really a powder keg. And this powder keg can go off at any moment. And there's talk of ICE being deployed to other cities as well throughout the nation.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0005
 
-## seg-0006 / 00:04:42-00:05:00 / SPEAKER_00
+## seg-0006 / 00:04:46-00:05:00 / SPEAKER_00
 
-to other cities as well throughout the nation. Again, Trump is just looking for any pretext right now to declare the Insurrection Act, which would allow him to delay the midterm elections. And it's a very, very dire situation for both Americans and for any citizen of the world right now.
+Again, Trump is just looking for any pretext right now to declare the Insurrection Act, which would allow him to delay the midterm elections. And it's a very, very dire situation for both Americans and for any citizen of the world right now.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0006
 
@@ -44,15 +44,15 @@ Yeah, I completely agree. And I watched that horrific video. I agree with you th
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0007
 
-## seg-0008 / 00:06:03-00:07:03 / SPEAKER_00
+## seg-0008 / 00:06:03-00:07:06 / SPEAKER_00
 
-Well, right now, the entire world is just shocked by American hypocrisy. So recall that at the New Year's, there was these protests in Iran. And Trump made a tweet, says that we will protect these protesters. These protesters have a right to protest freely. And we, the Americans, we protect ourselves on democracy, on our freedom, our liberty. And we will protect these protesters. And then just recently, in a massive troll, Ayeleto Khamenei on his social media account said that these protesters in Minnesota deserve the right to protest and we will protect their right to protest. So what's happening is that the hypocrisy of American empire has been exposed. Everyone understands that the American empire only believes in might is right. In fact, Mark Carney has said this as well at the World Economic Forum. And a speech that received a standing ovation from the audience. So across the world, there is dismay, there's disgust at the
+Well, right now, the entire world is just shocked by American hypocrisy. So recall that at the New Year's, there was these protests in Iran. And Trump made a tweet, says that we will protect these protesters. These protesters have a right to protest freely. And we, the Americans, we protect ourselves on democracy, on our freedom, our liberty. And we will protect these protesters. And then just recently, in a massive troll, Ayeleto Khamenei on his social media account said that these protesters in Minnesota deserve the right to protest and we will protect their right to protest. So what's happening is that the hypocrisy of American empire has been exposed. Everyone understands that the American empire only believes in might is right. In fact, Mark Carney has said this as well at the World Economic Forum. And a speech that received a standing ovation from the audience. So across the world, there is dismay, there's disgust at the brutality, at the mafia tactics of the American empire.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0008
 
-## seg-0009 / 00:07:03-00:08:03 / SPEAKER_00
+## seg-0009 / 00:07:07-00:08:03 / SPEAKER_00
 
-brutality, at the mafia tactics of the American empire. And the fact that the Americans can just violate a nation's sovereignty and kidnap their president. And then not only that, but to hold him before, like he was put in a van. And he was paraded on the streets of New York. And now he's being tried, even though according to national law, as the president of Venezuela, he does have immunity. And he's being charged with domestic American laws. So for example, gun possession, which is just ridiculous. So this entire thing is a farce. And now, you know, Trump is talking about annexing Greenland. I know that at the World Economic Forum, that he sort of compromised with the Europeans. But I guarantee you in a week or two, in a month or two, he's going to go back to threatening to annex Greenland. And it's possible he sends in some troops to annex Greenland. So just the
+And the fact that the Americans can just violate a nation's sovereignty and kidnap their president. And then not only that, but to hold him before, like he was put in a van. And he was paraded on the streets of New York. And now he's being tried, even though according to national law, as the president of Venezuela, he does have immunity. And he's being charged with domestic American laws. So for example, gun possession, which is just ridiculous. So this entire thing is a farce. And now, you know, Trump is talking about annexing Greenland. I know that at the World Economic Forum, that he sort of compromised with the Europeans. But I guarantee you in a week or two, in a month or two, he's going to go back to threatening to annex Greenland. And it's possible he sends in some troops to annex Greenland. So just the
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0009
 
@@ -74,15 +74,15 @@ of the Labour government, you know, in the United Kingdom, although they follow 
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0012
 
-## seg-0013 / 00:09:34-00:10:29 / SPEAKER_00
+## seg-0013 / 00:09:34-00:10:34 / SPEAKER_00
 
-So I study history and I look at historical patterns. And I think that if you examine what's happening in the United States right now, it's clearly a civil war. It's being fought between the Democrats and the Republicans. I think behind these two parties lies a different investment industry. So one of the Republicans are mainly the financial global elite as represented by Wall Street. And that's the old power. And they came into power through Clinton and Obama. Then sitting with Trump is the new money, the Silicon Valley elite as exemplified by Elon Musk, Peter Thiel, JD Betts. And, you know, they want to create an AI surveillance state. So these are the two major factions fighting out in America right now. And these citizens, unfortunately, unfortunately are just pawns in a larger game. And that's why my great fear is that what's happening in Minnesota will escalate, will spread across the country and engulf the nation,
+So I study history and I look at historical patterns. And I think that if you examine what's happening in the United States right now, it's clearly a civil war. It's being fought between the Democrats and the Republicans. I think behind these two parties lies a different investment industry. So one of the Republicans are mainly the financial global elite as represented by Wall Street. And that's the old power. And they came into power through Clinton and Obama. Then sitting with Trump is the new money, the Silicon Valley elite as exemplified by Elon Musk, Peter Thiel, JD Betts. And, you know, they want to create an AI surveillance state. So these are the two major factions fighting out in America right now. And these citizens, unfortunately, unfortunately are just pawns in a larger game. And that's why my great fear is that what's happening in Minnesota will escalate, will spread across the country and engulf the nation, especially if Trump decides to take a third term, which I suspect he will.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0013
 
-## seg-0014 / 00:10:29-00:11:30 / SPEAKER_00
+## seg-0014 / 00:10:34-00:11:30 / SPEAKER_00
 
-especially if Trump decides to take a third term, which I suspect he will. The great danger right now is that Trump is creating loyal bases among the military. So I think that Peter Heksep and his reforms in the Pentagon, it's really to weed out people who are not loyal to Trump and create an army that is more loyal to Trump so that when he does take a third term, essentially when he launches a coup d 'etat against the Constitution, he will have the muscle in order to enforce this. ICE is turning out to be his secret police, the Gestapo. And they're being very loyal. I mean, the fact that they shot an armed woman really good. And then now they've shot another armed woman. You know, innocent American citizen means that they are increasingly violent and therefore more and more beholden to Trump, who is their warlord. So that's a great danger right now in
+The great danger right now is that Trump is creating loyal bases among the military. So I think that Peter Heksep and his reforms in the Pentagon, it's really to weed out people who are not loyal to Trump and create an army that is more loyal to Trump so that when he does take a third term, essentially when he launches a coup d 'etat against the Constitution, he will have the muscle in order to enforce this. ICE is turning out to be his secret police, the Gestapo. And they're being very loyal. I mean, the fact that they shot an armed woman really good. And then now they've shot another armed woman. You know, innocent American citizen means that they are increasingly violent and therefore more and more beholden to Trump, who is their warlord. So that's a great danger right now in
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0014
 
@@ -104,27 +104,27 @@ global response to this, I mean, so far, I have to say it's been relatively mute
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0017
 
-## seg-0018 / 00:13:53-00:14:49 / SPEAKER_00
+## seg-0018 / 00:13:53-00:14:55 / SPEAKER_00
 
-Absolutely. And I think that Mark Carney, you know, his speech marked a turning point in this. So recall his speech. He said that, listen, before we had this rules -based international order, it was really a myth because most of the time, the strong just did what they want. Meaning the American empire just broke all these international norms. Like for example, 2003 invasion of Iraq, which broke international law. But the Western nations went, went along with it because they weren't hurt by it. But in the age of Donald Trump, clearly the American empire has devolved into a mafia state. And if the world is to thrive, if the middle powers like the UK can, if they are to successfully, if they are to be successful in this new age, then the nations, these nations need to work together to build a real, real rules -based international order. And there's exactly one nation in the world that's
+Absolutely. And I think that Mark Carney, you know, his speech marked a turning point in this. So recall his speech. He said that, listen, before we had this rules -based international order, it was really a myth because most of the time, the strong just did what they want. Meaning the American empire just broke all these international norms. Like for example, 2003 invasion of Iraq, which broke international law. But the Western nations went, went along with it because they weren't hurt by it. But in the age of Donald Trump, clearly the American empire has devolved into a mafia state. And if the world is to thrive, if the middle powers like the UK can, if they are to successfully, if they are to be successful in this new age, then the nations, these nations need to work together to build a real, real rules -based international order. And there's exactly one nation in the world that's strong and that has been strongly advocating for multilateralism for international cooperation, and that's China, right?
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0018
 
-## seg-0019 / 00:14:49-00:15:48 / SPEAKER_00
+## seg-0019 / 00:14:55-00:15:48 / SPEAKER_00
 
-strong and that has been strongly advocating for multilateralism for international cooperation, and that's China, right? So China has been vigorously trying to promote international trade that benefits everyone, especially developing countries like in Africa and in South America. And that's why they're so popular. When the United States goes to Africa and South America, it's usually to launch a coup d 'etat or to lecture on human rights or to money launder. But when China goes in, it's to build roads, it's to build infrastructure, it's to build ports. And China has been promoting, as you know, the Shanghai Gold Exchange and the Gold Corridor. And the idea is the US dollar is America's exorbitant privilege and they've abused it. The Americans are now $39 trillion in debt. People have lost count. And they constantly print money to fund these silly wars overseas, to fund, to fund corruption in America. And the world is financing all this. And so
+So China has been vigorously trying to promote international trade that benefits everyone, especially developing countries like in Africa and in South America. And that's why they're so popular. When the United States goes to Africa and South America, it's usually to launch a coup d 'etat or to lecture on human rights or to money launder. But when China goes in, it's to build roads, it's to build infrastructure, it's to build ports. And China has been promoting, as you know, the Shanghai Gold Exchange and the Gold Corridor. And the idea is the US dollar is America's exorbitant privilege and they've abused it. The Americans are now $39 trillion in debt. People have lost count. And they constantly print money to fund these silly wars overseas, to fund, to fund corruption in America. And the world is financing all this. And so
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0019
 
-## seg-0020 / 00:15:48-00:16:42 / SPEAKER_00
+## seg-0020 / 00:15:48-00:16:41 / SPEAKER_00
 
-what China is saying is like, let's put a new order based on gold because that's a way to restrain financial corruption. And this gold won't be controlled by China. You will have your own, you'll be able to control your own gold in your own vaults. But it'll be like the blockchain. I mean, it'll be an open ledger. And so everyone can see how much gold is in the system. And we'll use this system in order to finance projects that the world needs, like more infrastructure building, that will lead to productive trade. And that's the Chinese vision. And that's a vision that I think everyone can buy into. And, you know, Mark Carney says, you know, like, you know, look, the old, the old order, it's dead. Look at the way Trump has behaved. And look, listen, if we don't change now, he's gonna come after us individually sooner or later. Okay. So when I was
+what China is saying is like, let's put a new order based on gold because that's a way to restrain financial corruption. And this gold won't be controlled by China. You will have your own, you'll be able to control your own gold in your own vaults. But it'll be like the blockchain. I mean, it'll be an open ledger. And so everyone can see how much gold is in the system. And we'll use this system in order to finance projects that the world needs, like more infrastructure building, that will lead to productive trade. And that's the Chinese vision. And that's a vision that I think everyone can buy into. And, you know, Mark Carney says, you know, like, you know, look, the old, the old order, it's dead. Look at the way Trump has behaved. And look, listen, if we don't change now, he's gonna come after us individually sooner or later. Okay.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0020
 
-## seg-0021 / 00:16:42-00:17:05 / SPEAKER_00
+## seg-0021 / 00:16:41-00:17:05 / SPEAKER_00
 
-talking about, when I was talking about the Greenland, then it's been Canada, then it's going to be Europe, eventually we're all running in a menu, right? He used the word menu sooner or later. And that's why it's important to be proactive and establishing new rules based in actual order where everyone benefits. And, and BRICS seems to be right now, the, to provide the best framework for this new rules based in actual order.
+So when I was talking about, when I was talking about the Greenland, then it's been Canada, then it's going to be Europe, eventually we're all running in a menu, right? He used the word menu sooner or later. And that's why it's important to be proactive and establishing new rules based in actual order where everyone benefits. And, and BRICS seems to be right now, the, to provide the best framework for this new rules based in actual order.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0021
 
@@ -278,15 +278,15 @@ Look, Professor Yang, we get a lot of misinformation, disinformation in the UK a
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0046
 
-## seg-0047 / 00:35:15-00:36:15 / SPEAKER_00
+## seg-0047 / 00:35:15-00:36:16 / SPEAKER_00
 
-So I think that China is very conservative with foreign policy. And so what's happening in the South China Sea, there is a lot of conflict, but it's caused by the fact that China is blockaded by the first island chain. And if America were ever to choose to embargo China with the first island chain, then China will lose access to overseas markets, which is the lifeblood of the Chinese economy. So China imports a third of its food from overseas. China imports three quarters of its oil from overseas and all that passes through the Strait of Malacca. So it's very easy for America. To blockade China. So just for its long term strategic best interest, China needs some military presence in the South China Sea. OK, that's number one. Number two is that there will be a time when America has to retreat from Southeast Asia because it's a civil war or because it's bankrupt or for
+So I think that China is very conservative with foreign policy. And so what's happening in the South China Sea, there is a lot of conflict, but it's caused by the fact that China is blockaded by the first island chain. And if America were ever to choose to embargo China with the first island chain, then China will lose access to overseas markets, which is the lifeblood of the Chinese economy. So China imports a third of its food from overseas. China imports three quarters of its oil from overseas and all that passes through the Strait of Malacca. So it's very easy for America. To blockade China. So just for its long term strategic best interest, China needs some military presence in the South China Sea. OK, that's number one. Number two is that there will be a time when America has to retreat from Southeast Asia because it's a civil war or because it's bankrupt or for whatever reason.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0047
 
-## seg-0048 / 00:36:15-00:37:07 / SPEAKER_00
+## seg-0048 / 00:36:16-00:37:07 / SPEAKER_00
 
-whatever reason. OK, which which means that Japan will most likely retreat from the Strait of Malacca. Japan will most likely become the dominant naval power in Southeast Asia, and China needs to prepare for the day when it has to confront Japan militarily in the South China Sea. Look, if you just look at the history between these two countries, there's a lot of conflict. OK, so I think that the Chinese are probably happy with America being the dominant hegemon in the South China Sea because Americans believe in global trade. But the Japanese, I mean, it's a resource poor island. And so it needs to build. And so it needs to build. It's a resource colonies throughout Southeast Asia. It has this history of doing so. So Japan will be militarily aggressive. And so China needs to preempt this strategically. So I think these are two factors driving a lot of China's stuff, trying to see policy.
+OK, which which means that Japan will most likely retreat from the Strait of Malacca. Japan will most likely become the dominant naval power in Southeast Asia, and China needs to prepare for the day when it has to confront Japan militarily in the South China Sea. Look, if you just look at the history between these two countries, there's a lot of conflict. OK, so I think that the Chinese are probably happy with America being the dominant hegemon in the South China Sea because Americans believe in global trade. But the Japanese, I mean, it's a resource poor island. And so it needs to build. And so it needs to build. It's a resource colonies throughout Southeast Asia. It has this history of doing so. So Japan will be militarily aggressive. And so China needs to preempt this strategically. So I think these are two factors driving a lot of China's stuff, trying to see policy.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0048
 
@@ -302,15 +302,15 @@ Yeah, I mean, looking forward, given the history of Japan, China conflict and on
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0050
 
-## seg-0051 / 00:37:44-00:38:41 / SPEAKER_00
+## seg-0051 / 00:37:44-00:38:46 / SPEAKER_00
 
-So Prime Minister Takeuchi, like a month ago, said that Taiwan was a vital strategic interest for Japan. And this was very provocative. This was very controversial because for the longest time it was basically like, let's pretend that Taiwan is both independent and a part of China. If you don't say anything, we won't say anything. OK, so that was just a status quo for the longest time among the major powers in Southeast Asia and for Takeuchi to say that we will defend Taiwan if it were to be attacked. And that is a direct provocation towards China. And this relationship between Japan and China. China right now is extremely, extremely strained and we can see we can expect an escalation over the next few months. Now, if you just look at this from a game theory perspective, the issue with Japan right now is its aging crisis. And in 20 years time, it's not going to have
+So Prime Minister Takeuchi, like a month ago, said that Taiwan was a vital strategic interest for Japan. And this was very provocative. This was very controversial because for the longest time it was basically like, let's pretend that Taiwan is both independent and a part of China. If you don't say anything, we won't say anything. OK, so that was just a status quo for the longest time among the major powers in Southeast Asia and for Takeuchi to say that we will defend Taiwan if it were to be attacked. And that is a direct provocation towards China. And this relationship between Japan and China. China right now is extremely, extremely strained and we can see we can expect an escalation over the next few months. Now, if you just look at this from a game theory perspective, the issue with Japan right now is its aging crisis. And in 20 years time, it's not going to have the economy, the population and the will to fight a war with China.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0051
 
-## seg-0052 / 00:38:41-00:39:30 / SPEAKER_00
+## seg-0052 / 00:38:46-00:39:30 / SPEAKER_00
 
-the economy, the population and the will to fight a war with China. And in 20 years time, it's possible that China is so strong that it's able to. Identify with Taiwan economically, in which case China is not in a position to blockade Japan, in which case Japan starves. So Japan's not thinking like, OK, well, can we fight? Can we take on China militarily? It's more like the clock is running out on us and we need to act now. OK, the Americans are about to leave Southeast Asia. China is on the rise. We need to seek decisive confrontation now or never. It has to be a five year time frame. These in 20 years time will be too old to fight a war. So so I just say this, but that is a strategic calculation for the Japanese right now.
+And in 20 years time, it's possible that China is so strong that it's able to. Identify with Taiwan economically, in which case China is not in a position to blockade Japan, in which case Japan starves. So Japan's not thinking like, OK, well, can we fight? Can we take on China militarily? It's more like the clock is running out on us and we need to act now. OK, the Americans are about to leave Southeast Asia. China is on the rise. We need to seek decisive confrontation now or never. It has to be a five year time frame. These in 20 years time will be too old to fight a war. So so I just say this, but that is a strategic calculation for the Japanese right now.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0052
 
@@ -332,15 +332,15 @@ So so so China appears to be. Pifting more towards a more kind of family focused
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0055
 
-## seg-0056 / 00:40:06-00:41:09 / SPEAKER_00
+## seg-0056 / 00:40:06-00:41:10 / SPEAKER_00
 
-So the reality is that if you look at all the countries in the world, OK, except for Israel, there is a steep population decline. The fertility rate has gone way down. The Southeast Asian economies, China, Japan, South Korea are among the lowest. In the world. And there are distinct cultural factors at play. All these are extremely patriarchal societies in which women do not feel that they have much agency. These are extremely competitive societies where it is extremely expensive to educate your child. And this is and these are extremely unequal societies in which women are takes all. And these are structural factors that is inherent in East Asian culture. And unless you change this. This culture, you're not going to increase the fertility rate. And so long term, these nations will face massive population declines. China has a huge population anyway, so it's less so as more breathing room. But South Korea could be extinct in
+So the reality is that if you look at all the countries in the world, OK, except for Israel, there is a steep population decline. The fertility rate has gone way down. The Southeast Asian economies, China, Japan, South Korea are among the lowest. In the world. And there are distinct cultural factors at play. All these are extremely patriarchal societies in which women do not feel that they have much agency. These are extremely competitive societies where it is extremely expensive to educate your child. And this is and these are extremely unequal societies in which women are takes all. And these are structural factors that is inherent in East Asian culture. And unless you change this. This culture, you're not going to increase the fertility rate. And so long term, these nations will face massive population declines. China has a huge population anyway, so it's less so as more breathing room. But South Korea could be extinct in 50 years time.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0056
 
-## seg-0057 / 00:41:09-00:41:11 / SPEAKER_00
+## seg-0057 / 00:41:10-00:41:11 / SPEAKER_00
 
-50 years time. It is that serious.
+It is that serious.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0057
 
@@ -356,15 +356,15 @@ So 50 years time.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0059
 
-## seg-0060 / 00:41:16-00:42:13 / SPEAKER_01
+## seg-0060 / 00:41:16-00:42:15 / SPEAKER_01
 
-Wow. That's that's quite incredible. So in this massive reset, which seems to be going on. Right now, which I think is going to play over the next 20 or 30 years. I mean, do you I mean, I think the America I was talking to work power about this the other days. The Americans can view this transition in very Anglo -Saxon terms. You know, they see it as a transition from from one power to another power. But do you think the Chinese conception is different that it won't be as binary as that, that they will be economically? Yeah. It's going to be the biggest kind of global power within the next 20 years, but given their focus on multilateralism, they'll be more of a kind of convener on the world stage rather than a power that's trying to dominate. I think that the difference is Asian and Anglo -Saxon kind of thinking on talking about this
+Wow. That's that's quite incredible. So in this massive reset, which seems to be going on. Right now, which I think is going to play over the next 20 or 30 years. I mean, do you I mean, I think the America I was talking to work power about this the other days. The Americans can view this transition in very Anglo -Saxon terms. You know, they see it as a transition from from one power to another power. But do you think the Chinese conception is different that it won't be as binary as that, that they will be economically? Yeah. It's going to be the biggest kind of global power within the next 20 years, but given their focus on multilateralism, they'll be more of a kind of convener on the world stage rather than a power that's trying to dominate. I think that the difference is Asian and Anglo -Saxon kind of thinking on talking about this transition is quite sort of interesting.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0060
 
-## seg-0061 / 00:42:13-00:42:16 / SPEAKER_01
+## seg-0061 / 00:42:15-00:42:16 / SPEAKER_01
 
-transition is quite sort of interesting. What do you think?
+What do you think?
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0061
 
@@ -382,13 +382,13 @@ Ref: video:interview-uydy86kpfns@transcript:v1#seg-0063
 
 ## seg-0064 / 00:43:39-00:44:41 / SPEAKER_01
 
-Yeah. And it's something I talk about in the context of Russia, you know, a country I know well having served there, that reciprocity is absolutely hardwired into kind of Russian statecraft, essentially because, I mean, Russia is a fascinating melting pot of Asian and Western cultural influences, I think, which most people in Europe simply don't understand, quite frankly. But the reciprocity thing is absolutely central to that. If you hit Russia, they'll hit you back harder. If you hug Russia, they'll hug you closer. It's just such a simple, simple concept that most people over here, I'm sad to say, cannot see. And I sense the same actually, you know, with China. I mean, I've only been fortunate enough to visit the wands, but I absolutely loved it, loved it, loved the people and hope to visit again. But for now, Professor Xiang, thank you so much for taking the time to talk to us today. I really
+Yeah. And it's something I talk about in the context of Russia, you know, a country I know well having served there, that reciprocity is absolutely hardwired into kind of Russian statecraft, essentially because, I mean, Russia is a fascinating melting pot of Asian and Western cultural influences, I think, which most people in Europe simply don't understand, quite frankly. But the reciprocity thing is absolutely central to that. If you hit Russia, they'll hit you back harder. If you hug Russia, they'll hug you closer. It's just such a simple, simple concept that most people over here, I'm sad to say, cannot see. And I sense the same actually, you know, with China. I mean, I've only been fortunate enough to visit the wands, but I absolutely loved it, loved it, loved the people and hope to visit again. But for now, Professor Xiang, thank you so much for taking the time to talk to us today.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0064
 
 ## seg-0065 / 00:44:41-00:45:12 / SPEAKER_01
 
-appreciate it. You got such smart and strategic, actually, insights, which are rooted in your historical studies, which I think makes you stand apart from most other people on the block. So thank you. Thank you so very much. And thank the viewers for watching today. And if you enjoyed this, please do continue to like and subscribe in the cause of peace. Wishing you all very much peace wherever you are in the world. And once again, Professor Xiang, thank you so much for joining us today.
+I really appreciate it. You got such smart and strategic, actually, insights, which are rooted in your historical studies, which I think makes you stand apart from most other people on the block. So thank you. Thank you so very much. And thank the viewers for watching today. And if you enjoyed this, please do continue to like and subscribe in the cause of peace. Wishing you all very much peace wherever you are in the world. And once again, Professor Xiang, thank you so much for joining us today.
 
 Ref: video:interview-uydy86kpfns@transcript:v1#seg-0065
 
