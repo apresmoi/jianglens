@@ -1,0 +1,151 @@
+{
+  "packet_id": "interview-id4whhypcuy-semantics-pkt-0014",
+  "source_id": "video:interview-id4whhypcuy",
+  "source_date": "2026-01-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0105"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the Treasury question with a debt-power metaphor that flips creditor leverage into American leverage over China.",
+      "speaker_attribution": "Jiang debt answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0106",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0107"
+      ],
+      "kind": "question",
+      "summary": "The host asks about India's geopolitical role and whether its demographic size translates into real power.",
+      "speaker_attribution": "Host India question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0108",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0110"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he knows less about India but still prefers China's long-term state capacity, then pivots to argue that American foreign wars are what prevent domestic abundance.",
+      "speaker_attribution": "Jiang India and America answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0111",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0112"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks whether hidden great-power deals are carving up the world, and Jiang says Trump and Putin likely coordinate against the global financial elite.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says China's large Treasury holdings do not give it freedom over America; instead, the scale of the debt lets America dictate Chinese policy.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Current financial-power model stated on 2026-01-17.",
+      "topic_tags": [
+        "China",
+        "US Treasuries",
+        "debt",
+        "policy leverage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that despite China's problems, he would still choose China over India because India's governance remains too weak and China retains stronger infrastructural capacity.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "Comparative judgment stated on 2026-01-17.",
+      "topic_tags": [
+        "India",
+        "China",
+        "governance",
+        "infrastructure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that if America were not fighting overseas wars, it could easily fund domestic goods like healthcare and education because of its extraordinary wealth.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0110"
+      ],
+      "temporal_scope": "Current domestic-political diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "America",
+        "war spending",
+        "healthcare",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says behind-the-scenes coordination between Trump and Putin is plausible because they share a common enemy in the global financial elite.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0112"
+      ],
+      "temporal_scope": "Current geopolitical interpretation stated on 2026-01-17.",
+      "topic_tags": [
+        "Trump",
+        "Putin",
+        "global financial elite",
+        "coordination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0105"
+      ],
+      "moment": "Debt flips from liability into command authority once the scale gets absurd enough.",
+      "source_phrase": "if you owe the bank $500 billion, you own the bank",
+      "why_it_matters": "It is Jiang's one-line model for why China's creditor position does not translate into strategic freedom.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0110"
+      ],
+      "moment": "America's domestic deprivation is framed not as scarcity but as the political opportunity cost of empire.",
+      "source_phrase": "Every American would have free health care",
+      "why_it_matters": "This compresses a broad anti-imperial domestic critique into one sharp counterfactual.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0112"
+      ],
+      "note": "Jiang references a mid-August Trump-Putin meeting in Anchorage as recent context for his coordination hypothesis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0108",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0112"
+      ],
+      "note": "Jiang explicitly says he knows little about India, and his Trump-Putin coordination claim is framed as plausible inference rather than confirmed fact."
+    }
+  ]
+}
