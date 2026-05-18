@@ -1,0 +1,196 @@
+{
+  "packet_id": "interview-uhidrgfypno-semantics-pkt-0005",
+  "source_id": "video:interview-uhidrgfypno",
+  "source_date": "2026-01-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0033",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0034"
+      ],
+      "kind": "question",
+      "summary": "The host describes the EV and canola terms as modest and asks whether the China deal is really strategic and how Trump will respond.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the deal is a breakthrough because it slots Canada into a larger North American funnel for Chinese demand, Chinese savings, and future Trump-negotiated financial arrangements.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Beijing fully understands the long-term banker logic Jiang is attributing to Carney.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the Carney-Xi deal is a breakthrough that will quickly open the way to larger strategic partnerships.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Near-term forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada-China",
+        "Mark Carney",
+        "breakthrough",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Trump's pressure on Latin America is partly about forcing China to source more agricultural imports from North America instead of Brazil and its neighbors.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Current trade-strategy diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Trump",
+        "Latin America",
+        "Brazil",
+        "China trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a war in Iran would push China to buy more oil from Canada and the United States, making the Canada-China opening part of a larger North American energy logic.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "War-contingency model stated on 2026-01-22.",
+      "topic_tags": [
+        "Iran war",
+        "China oil",
+        "Canada",
+        "United States"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines Canada's economic model as resource sales to America, cheap immigrant labor, and money laundering into real estate.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Current structural diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "economic model",
+        "immigration",
+        "real estate"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the EV deal is a spearhead for broader collaboration that lets Canada attract Chinese savings and lets Chinese firms and households move money into Canadian assets.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Current strategic model stated on 2026-01-22.",
+      "topic_tags": [
+        "EVs",
+        "Chinese savings",
+        "Canada",
+        "capital flows"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that Trump will let Carney test this arrangement and then seek the same deal himself during an April Beijing visit.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Near-term forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Trump",
+        "Beijing",
+        "April",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037"
+      ],
+      "moment": "The trade opening is recast as an attempt to pour Chinese household savings into an overvalued Canadian shell.",
+      "source_phrase": "what Carney really wants ... is access to the household savings of the average Chinese citizen",
+      "why_it_matters": "It is the clearest statement of Jiang's banker reading of the whole Canada-China opening.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038"
+      ],
+      "moment": "Carney appears as a financier packaging a country the way a salesperson packages a dubious instrument.",
+      "source_phrase": "package a financial resource and sell it really expensive to stupid investors",
+      "why_it_matters": "It sharpens Jiang's moral reading of the Canada file and explains why the deal is about finance more than trade.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "money laundering economy",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang uses this for a Canadian model in which outside savings and illicit or flight capital are parked in domestic assets.",
+      "confidence": "high"
+    },
+    {
+      "term": "stable coins",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Used here as a possible channel through which Chinese households could buy Canadian currency and resources.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0033",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "note": "The packet moves from the specific January 2026 trade concessions to Jiang's forecast of a larger April Trump-Beijing negotiation built on the same template.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "note": "These claims about Trump's North American trade design, Carney's motives, and an April Beijing deal are Jiang's speculative synthesis rather than evidenced negotiations in the transcript."
+    }
+  ]
+}
