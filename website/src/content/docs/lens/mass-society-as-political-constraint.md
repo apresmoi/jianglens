@@ -53,6 +53,20 @@ Mass-society control becomes environmental when the control surface is no longer
 
 This is not a generic claim that social media is bad. [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) owns the energy and focus extraction mechanism. [Education As A Soul Game](/lens/education-as-a-soul-game/) owns school as person-formation. Mass society owns the scale pressure that keeps generating control environments. The same source also carries Jiang's explicit caveat: he says the Egyptian reconstruction is speculation, theory, and something students should take skeptically [rather than settled proof]{evidence="video:predictive-history-6pdfd44dkqa@transcript:v1#seg-0047"}.
 
+## Digital Permission Grids
+
+The 2026 interview trail gives the environmental-control idea a later administrative form. Digital ID, digital currency, phone apps, data centers, AI systems, and bank access appear together because they solve a scale problem: how can a government or faction shape millions of daily choices without sending police to every door?
+
+In the **January 24, 2026** Canada interview, Jiang frames digital ID as the first gate. A child-safety law justifies age verification; [digital ID then permits digital currency, and digital currency permits financial repression]{evidence="video:interview-2f3osvzg2ti@transcript:v1#seg-0042"}. The control is soft because it does not need spectacle. Jiang's image is not a knock at the door but [a frozen bank account for a few days]{evidence="video:interview-2f3osvzg2ti@transcript:v1#seg-0043"}.
+
+The **February 15, 2026** Sneako interview moves the same mechanism into elite-faction struggle. Jiang says the tech faction wants to use government resources for an AI surveillance state: data centers, [digital ID, digital currency, and online activity monitored by AI]{evidence="video:interview-lma4p2gdxzm@transcript:v1#seg-0021"}. The **April 7, 2026** PBD interview then gives the China comparison: [digital ID and digital currency join phone location, purchase data, and political microanalysis]{evidence="video:interview-wio-7-gios@transcript:v1#seg-0119"} so behavior can be influenced before open force is needed.
+
+<!-- lens-point id="mass-society-digital-permission-grid" concept="mass-society-constraint" evidence="video:interview-2f3osvzg2ti@transcript:v1#seg-0042 video:interview-2f3osvzg2ti@transcript:v1#seg-0043 video:interview-lma4p2gdxzm@transcript:v1#seg-0021 video:interview-wio-7-gios@transcript:v1#seg-0119" -->
+<span id="mass-society-digital-permission-grid" class="lens-point-anchor"></span>
+Mass society becomes a digital permission grid when identity, money, apps, location, purchases, data centers, and AI analysis are joined so behavior can be nudged, frozen, monitored, or influenced without constant visible police action.
+
+This belongs on the mass-society page because the active mechanism is population-scale administration. [Power As Alchemy](/lens/power-as-alchemy/) owns stablecoins when sovereign debt becomes ordinary money use. [Attention Capture](/lens/attention-capture-as-capital-extraction/) owns AI when it directs consciousness from inside the person. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the state body that wants population, loyalty, and war capacity. Mass society owns the control grid as such: the infrastructure that makes large populations legible enough to manage.
+
 ## Artificial Elites And The Human Heart
 
 The 2024 psychohistory final class adds a political anthropology. Jiang says mass society is a historical accident, a deviation from most human history. Once it exists, it needs elites. But the elites are artificial. The people in charge are not metaphysically better than everyone else; they require fictions that make power feel legitimate.
@@ -102,6 +116,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - **Scale Test**: How many people must be fed, housed, employed, educated, soothed, and made meaningful for the proposal to work?
 - **Control Test**: What keeps the mass from tearing the order apart: bureaucracy, religion, war, school, money, media, surveillance, welfare, or sacred authority?
 - **Infrastructure Test**: Is the visible platform or office only the public face of a deeper cable, classroom, clinic, feed, payment, or security system?
+- **Permission-Grid Test**: Which identity, payment, app, location, purchase, or AI-analysis layer can grant, delay, freeze, or deny ordinary action without dramatic public force?
 - **Exit Test**: If capitalism, theocracy, nationalism, or bureaucracy is rejected, what carries the functions it was carrying?
 - **Heart Test**: Does coordination preserve curiosity, love, creation, courage, and growth, or does it require obedience and human-heart repression?
 - **Forgetting Test**: What older relation to nature, divinity, imagination, family, community, or practical courage has been made illegible by machine-function?
@@ -113,6 +128,8 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - **2025-03-27**, [The Iron Cage Of Protestant Anxiety](/episodes/predictive-history-tcxloijz8v0/): Jiang gives the cleanest political formula: mass society limits options because millions or billions must be fed, organized, and occupied.
 - **2025-09-11**, [You Are Now The Pharaoh](/episodes/predictive-history-6pdfd44dkqa/): Jiang projects the mass-society control problem into early civilizations, modern control surfaces, and infrastructure beneath public platforms, while explicitly caveating the Egyptian reconstruction as speculative.
 - **2025-10-21**, [Imagination Came Before Civilization](/episodes/predictive-history-lvhsg5qtds8/): Jiang names mass society as spiritual forgetting: obedience, machine-function, work, school, and separation from the divine.
+- **2026-01-24**, [Iran Is The Pivot, And Empire Burns The World Around It](/interviews/interview-2f3osvzg2ti/): Jiang describes the digital-permission form of control: child-safety language can open the path to digital ID, digital currency, financial repression, and quiet bank-account freezing.
+- **2026-02-15** and **2026-04-07**, [War Prediction, Control, And The Rebellion Of Imagination](/interviews/interview-lma4p2gdxzm/) and [The Empire Has No Easy Off-Ramp](/interviews/interview-wio-7-gios/): the same grid widens into AI surveillance, data centers, online monitoring, phone location, purchases, and political microanalysis.
 - **2026-04-28**, [The Population Becomes The Weapon](/episodes/predictive-history-txgpfnxgzce/): Jiang turns the constraint into war: population management becomes survival when enemies target civilians, infrastructure, anger, and unrest.
 
 ## Related Concepts
