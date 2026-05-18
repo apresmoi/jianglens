@@ -1,0 +1,154 @@
+{
+  "packet_id": "interview-h5lcj0d4dpy-semantics-pkt-0009",
+  "source_id": "video:interview-h5lcj0d4dpy",
+  "source_date": "2026-01-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0067",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0068"
+      ],
+      "kind": "question",
+      "summary": "The host asks how the Russia-Ukraine war will shape the wider board in 2026 and what role it plays in the other theaters Washington is juggling.",
+      "speaker_attribution": "Host transition question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0069",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0070",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0071",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the big Russia story is maritime conflict: sanctions enforcement has become piracy, the shadow fleet is becoming a proto-navy, and Chinese industrial depth could slowly wear down US maritime dominance.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the major 2026 Russia story will be conflict with the United States at sea rather than only battlefield developments in Ukraine.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-17.",
+      "topic_tags": [
+        "Russia",
+        "oceans",
+        "2026",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes recent US boarding and seizure actions against tankers serving Venezuela as piracy and as evidence that sanctions enforcement is becoming direct maritime coercion.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Current-events diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "piracy",
+        "Venezuela",
+        "tankers",
+        "sanctions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses the Bella 1 episode to argue that Russian-linked shipping is now willing to physically resist American boarding operations and that this resistance may become more common.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0069",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Current-events interpretation and forecast stated on 2026-01-17.",
+      "topic_tags": [
+        "Bella 1",
+        "Russian flag",
+        "boarding",
+        "maritime resistance"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Russia now understands Ukraine as only one front in a wider fight over global trade access and the American monopoly on policing the oceans.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0070",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "global trade access",
+        "oceans",
+        "Russia",
+        "Ukraine war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that a sanction-evading Russian shadow fleet could evolve into a kind of blue-water navy financed in part by Chinese concern over US maritime interdiction.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0071",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "2026 strategic forecast stated on 2026-01-17.",
+      "topic_tags": [
+        "shadow fleet",
+        "blue-water navy",
+        "China",
+        "Russia",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0071"
+      ],
+      "moment": "The shadow fleet stops being smuggling infrastructure and starts becoming a navy in embryo.",
+      "source_phrase": "the shadow fleet became the new blue water navy of russia",
+      "why_it_matters": "It reframes sanctions evasion as the seedbed of a new maritime balance.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "shadow fleet",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0069",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Used for the network of ships moving oil and trade outside sanctions enforcement, which Jiang says could become a militarized maritime instrument.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0069",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0072"
+      ],
+      "note": "The packet starts with recent tanker seizures and projects that pattern forward into a longer 2026 contest over control of ocean trade routes.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0069",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0070"
+      ],
+      "note": "Specific operational details about Bella 1, command decisions, and US-Russian standoff conduct are presented as current reportage inside the interview and are not independently verified within the packet."
+    }
+  ]
+}

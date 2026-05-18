@@ -1,0 +1,156 @@
+{
+  "packet_id": "interview-h5lcj0d4dpy-semantics-pkt-0004",
+  "source_id": "video:interview-h5lcj0d4dpy",
+  "source_date": "2026-01-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0025",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0026",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes his model by adding decentralization to faith and terrain, arguing that Iran cannot be decapitated the way Iraq was and that the war is therefore unwinnable.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0028",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the public accusations against Khamenei and the justifications for a strike are part of a familiar propaganda script and whether the strike will still happen in 2026.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0030",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0031",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang affirms the color-revolution script and the host widens the frame to ask where Iran fits amid simultaneous global hotspots and American military overstretch.",
+      "speaker_attribution": "Jiang then host",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0025",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0026"
+      ],
+      "note": "The transcript is noisy in Jiang's explanation of decentralization, but the larger point is clear: local religious authority makes a clean decapitation strategy impossible.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Iran's decentralized religious authority means that even if the center is hit, local clerical power can keep resistance alive the way Iraq could not.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0025",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Structural regime diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "decentralization",
+        "clerics",
+        "decapitation",
+        "Iran"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang summarizes the strategic balance as American bombs, propaganda, and dollars being offset by Iranian faith, terrain, and decentralization, making the war unwinnable.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "General strategic judgment stated on 2026-01-17.",
+      "topic_tags": [
+        "game theory",
+        "Iran",
+        "faith",
+        "terrain",
+        "decentralization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israeli and US messaging around riots, leadership failure, and outside innocence follows the classic domestic-versus-external propaganda split of a color-revolution playbook.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Current propaganda diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "propaganda",
+        "Israel",
+        "domestic audience",
+        "color revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host's framing in this packet treats the delayed strike as part of a larger problem of American overstretch across multiple theaters rather than a standalone Iran decision.",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Interview framing on 2026-01-17.",
+      "topic_tags": [
+        "overstretch",
+        "hotspots",
+        "Iran",
+        "US military"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0027"
+      ],
+      "moment": "The whole war is reduced to a stark symmetry of three imperial strengths canceled by three Iranian strengths.",
+      "source_phrase": "propaganda and us dollars... faith terrain and decentralization",
+      "why_it_matters": "It is Jiang's most compact game-theory summary of why Iran is hard to conquer.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "decentralization",
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Used here for a political-religious structure in which local authorities can sustain resistance even if the center is struck.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0028",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0032"
+      ],
+      "note": "This packet closes the Iran game-theory model and then pivots into the next interview phase, where Iran is treated inside a wider map of global American overstretch.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0025",
+        "video:interview-h5lcj0d4dpy@transcript:v1#seg-0030"
+      ],
+      "note": "Several phrases in this packet are garbled by ASR, especially Jiang's decentralization example and the host's recap of external evidence, so exact wording is less reliable than the larger argumentative structure."
+    }
+  ]
+}
