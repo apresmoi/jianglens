@@ -109,6 +109,18 @@ This is why stories are strategic. A powerful story frames the world and gives a
 
 That makes game theory neighbor the eschatology and story pages. Some concepts explain what the story does to memory, soul, nation, or prophecy. Game theory asks which story has become the coordination layer.
 
+## Money Does Not Remove Factions
+
+The **2026-01-09** Simon Dixon interview gives the coordination rule a useful limit. Simon's finance-first model is strong enough that Jiang does not dismiss it. The argument names financial unification as a possible coordinating mechanism for a Gulf-centered order, treats governments as debt shells or piggy banks, and ends with Simon's warning that in a corrupted political process [money may become power more than voting]{evidence="video:interview-acpe2tgkbje@transcript:v1#seg-0161 video:interview-acpe2tgkbje@transcript:v1#seg-0162"}. That belongs near [Power As Alchemy](/lens/power-as-alchemy/) because money can become lived reality. But Jiang's closing refusal belongs here because it is methodological: a real money game is still not a total explanation.
+
+Jiang says he has learned from Simon's framework, then asks whether people are really [governed by rational monetary forces]{evidence="video:interview-acpe2tgkbje@transcript:v1#seg-0155"}. His answer reintroduces the player problem. Ego, short-term interest, and factional struggle remain inside every bloc, including China, the United States, and transnational groups; the world is more volatile than a clean financial-flow map can show. He will still make predictions, but in this source he refuses to say finally who triumphs because [volatility, conflict, and ego remain inside decision-making]{evidence="video:interview-acpe2tgkbje@transcript:v1#seg-0156"}.
+
+<!-- lens-point id="game-theory-money-game-faction-limit" concept="game-theory-method" evidence="video:interview-acpe2tgkbje@transcript:v1#seg-0155 video:interview-acpe2tgkbje@transcript:v1#seg-0156 video:interview-acpe2tgkbje@transcript:v1#seg-0161 video:interview-acpe2tgkbje@transcript:v1#seg-0162" -->
+<span id="game-theory-money-game-faction-limit" class="lens-point-anchor"></span>
+A money game is not a total system when financial coordination still has to pass through ego, short-term interest, volatile publics, and factional struggle inside every bloc.
+
+This is the guardrail against making game theory into omniscience. Financial flows may identify a real payoff; they may even expose that the official political vote is weaker than capital allocation. But the analyst still has to name the players and their psychology, not only the money stream. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) owns the hidden trust layer when it is evidenced. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the material audit when financial models meet missiles, resources, and chokepoints. Game theory owns the discipline of asking when the elegant model has forgotten the people playing it.
+
 ## Cheating, Secrecy, And Transgression
 
 Jiang's game theory is not morally neutral in a comfortable way. Some lectures ask what happens when winning requires breaking the visible game.
@@ -192,6 +204,7 @@ Ask:
 - Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
 - Who benefits if the visible system fails?
 - What form of coordination is operating: leader, bureaucracy, family, religion, story, nation, secret society, or subconscious dance?
+- Does a financial-flow model identify the real payoff, or has it made the players too rational and unified?
 - Does the story pass material tests of cost, organization, logistics, time, and enemy adaptation?
 - Has the game become visible enough that a late player can read the model, enter the board, and redirect the trajectory?
 - If the surface event is theater, what dated prediction would make that claim testable rather than self-protecting?
@@ -222,6 +235,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/)  
   School becomes a stakeholder game whose real reward structure can make learning the least important game.
+
+- **2026-01-09**, [Pax Judaica, Piggy Banks, And The Prison State](/interviews/interview-acpe2tgkbje/)
+  Jiang tests a finance-first model of world order against game-theory limits: money can coordinate and voting can decay, but ego, short-term interest, volatility, and factional struggle persist inside every bloc.
 
 - **2026-01-15**, [Game Theory #4: The Immigration Game Is Rigged](/episodes/predictive-history-35hrplvyf0g/)
   The host-written-rules case separates school success, income, and civic obedience from status and rule-setting power.

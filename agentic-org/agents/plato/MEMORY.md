@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-18: Money-game faction limit belongs inside Game Theory when Jiang accepts that financial flows can identify a real payoff but refuses Simon-style monetary rationalism as total explanation; use it when ego, short-term interest, volatility, and factional struggle persist inside China, the United States, transnational capital, or any other bloc. Route money becoming lived reality to Power, hidden elite trust to Secret Society, and missile/resource/chokepoint audits to Strategy.
+
 - 2026-05-18: Shared elite membership belongs inside Secret Society when public national or ideological rivalry remains visible but schools, families, initiation, esoteric doctrine, portable wealth, and club loyalty supply the effective trust layer. Route state population unity to Nation, media world-making to Stories, population-scale compliance infrastructure to Mass Society, and material rivalry tests to Strategy.
 
 - 2026-05-18: Monarchy-as-crisis-relief belongs inside Legitimacy Fiction when oligarchic decay makes personal rule feel like relief from debt, corruption, leaderlessness, and inert institutions. Use exact marks that carry relief, triumph spectacle, institutional impotence, or inner-morality replacing constitutional checks; route material blowback of easy victories to Strategy, careerist institutional rot to Bureaucracy, population-scale despair/control to Mass Society, and broad national sacred machinery to Nation.
