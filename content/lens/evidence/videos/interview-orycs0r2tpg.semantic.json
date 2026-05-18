@@ -1,0 +1,1866 @@
+{
+  "id": "evidence:semanticvideo-interview-orycs0r2tpg:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-orycs0r2tpg",
+  "source_id": "video:interview-orycs0r2tpg",
+  "source_title": "Jiang Xueqin: Predictions for 2026 - Empire, Rivalry & Collapse",
+  "source_url": "https://www.youtube.com/watch?v=ORyCS0r2Tpg",
+  "source_date": "2026-01-05",
+  "date_precision": "day",
+  "transcript_id": "video:interview-orycs0r2tpg@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-orycs0r2tpg/packet-0012.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-orycs0r2tpg/source.yaml",
+    "transcript_path": "content/sources/videos/interview-orycs0r2tpg/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 12,
+    "interactions": 44,
+    "speaker_notes": 2,
+    "claims": 53,
+    "signature_moments": 24,
+    "predictions": 19,
+    "models": 12,
+    "glossary_terms": 17,
+    "chronology_notes": 12,
+    "uncertainty_notes": 12
+  },
+  "first_refs": [
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0004",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0006",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0007",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0008",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0009",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0012",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0013",
+    "video:interview-orycs0r2tpg@transcript:v1#seg-0014"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0001",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang as a forecaster and asks what method makes his geopolitical predictions work.",
+      "speaker_attribution": "Host framing question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0004"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that he uses game theory and treats geopolitics as self-interested players rather than ideological actors.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0005",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0006",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang lays out his 2026 frame: April US-China negotiations sit atop a long dollar architecture built through oil pricing and China’s integration into the dollar system.",
+      "speaker_attribution": "Jiang forecast setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0009"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues the opening model by tying mineral access and global war to Chinese dollar dependence.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0010",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "The host challenges whether coercion destroys the trust required for a durable dollar order and asks how to read the strategic contradiction.",
+      "speaker_attribution": "Host challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0012",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0013",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0014",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0015"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the hegemon insists on Chinese subordination, but mutual dependence means both sides can wreck one another.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The host reframes the conflict as ideological hegemony and notes that Venezuela is about denying rivals access, not merely securing American supply.",
+      "speaker_attribution": "Host synthesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0017"
+      ],
+      "kind": "question",
+      "summary": "The host invokes Kissinger and asks how Jiang sees accommodation, rivalry, and unknown variables such as crisis pressure.",
+      "speaker_attribution": "Host bridge question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects ideology as the main driver, naming hubris and racism and recasting Venezuela as a move to cut China off rather than seize oil for immediate use.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0020",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0021"
+      ],
+      "kind": "question",
+      "summary": "The host asks how a likely American economic crisis could intensify irrational rivalry and war escalation.",
+      "speaker_attribution": "Host crisis question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by describing AI as a weakly grounded investment mania inside an oligarchic market that may no longer self-correct.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0025",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0026",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the crisis diagnosis into over-financialized commodities, crypto speculation, and an eventual American social breakdown.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0028"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether hard-asset rallies in gold and silver should continue.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0029",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that real silver demand outruns supply and that control over Latin American silver means leverage over the AI future.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0031",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "The host pivots to Chinese vulnerabilities, and Jiang replies that exports are China’s greatest strength and weakness while Japan becomes a pressure point through Taiwan and Malacca.",
+      "speaker_attribution": "Host question and Jiang start",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0033"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues by tying Taiwan and Malacca geography to a likely rise in China-Japan confrontation.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0034",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0035"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to Europe and asks whether the stabilized shape of the Ukraine war still leaves room for irrational European escalation.",
+      "speaker_attribution": "Host Europe question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0036",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0037"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Europe will militarize despite lacking a path to victory because it cannot face the consequences of failure.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0038",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0039",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "The host presses on miscalculation and direct war, and Jiang says European elites inhabit a self-reinforcing bubble that cannot imagine defeat.",
+      "speaker_attribution": "Host challenge and Jiang reply",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0041"
+      ],
+      "kind": "answer",
+      "summary": "Jiang deepens the Europe analysis by comparing present elites to World War I leaders who could not admit error.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0042",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0043"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether NATO and the EU can survive their accelerating deterioration, citing Greenland as a symptom of absurdity.",
+      "speaker_attribution": "Host institutional question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0044",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump hates Europe, NATO will sleepwalk into disaster, and Odessa is where the alliance breaks.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0047",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host tests whether Europe’s dream of strategic autonomy still has any internal cohesion left.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0049",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0050"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Europe’s open-society turn hollowed out the cultural solidarity needed for sacrifice in major war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0051",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0052",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "The host develops the legitimacy problem and asks what kind of power the United States can still build on as Europe drifts away.",
+      "speaker_attribution": "Host legitimacy question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0054",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0055"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that a transactional empire will either exploit or abandon Europe while building power through Western Hemisphere resource control over China.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0057",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0058",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0060"
+      ],
+      "kind": "question",
+      "summary": "The host says Europeans cannot imagine life after US leadership and asks whether American retrenchment is coherent strategy or simple overextension.",
+      "speaker_attribution": "Host synthesis question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0059"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Europe is misreading Trump as temporary because the imperial turn will survive him.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0061",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0062",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0063",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang uses the Maduro abduction to argue that America is accelerating its own imperial demise by choosing spectacle over strategy.",
+      "speaker_attribution": "Jiang extended answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0066",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0068",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0070",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "The host compares US behavior to micro-militarism, national humiliation, TV politics, and possible delusion about Venezuela.",
+      "speaker_attribution": "Host argumentative prompts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0067",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that humiliating Maduro humiliates the Venezuelan nation and that Trump confuses reality-TV spectacle with geopolitical reality.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0074"
+      ],
+      "kind": "question",
+      "summary": "The host asks for other Global South developments and whether more attacks should be expected in 2026.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0075",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0076"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts expanded American military action across the hemisphere to create leverage before the April China meeting.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0077"
+      ],
+      "kind": "question",
+      "summary": "The host asks how China will respond to the bargain attempt.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0078",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Chinese factions are divided, but his bet is still on a bargain that does not stop imperial collapse or global war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "The host returns to Iran and asks how likely a renewed major attack is after the previous round underperformed.",
+      "speaker_attribution": "Host Iran follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0081",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0082",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0083"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that all the seeds for renewed Iran escalation are in place, but the decisive question is ground invasion and whether the climax comes in 2026 or 2027.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0084"
+      ],
+      "kind": "question",
+      "summary": "The host argues that a ground invasion of Iran would be disastrous overextension during wider great-power rivalry and crisis.",
+      "speaker_attribution": "Host challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0085",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0086"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that Trump does not think geopolitically because his attention is shaped by television optics.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0087"
+      ],
+      "kind": "exchange",
+      "summary": "The host extends the critique from military overextension to diplomatic incoherence and the impossibility of mixing trust with coercion.",
+      "speaker_attribution": "Host synthesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0089"
+      ],
+      "kind": "answer",
+      "summary": "Jiang reframes Trump as a mafia boss whose consistency lies in personal advantage and television appearance rather than national interest.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0090"
+      ],
+      "kind": "question",
+      "summary": "The host asks for final thoughts on 2026.",
+      "speaker_attribution": "Host closing question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0091",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0092"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by forecasting more pressure on China across South America, Africa, and Japan before an April arrangement that clears the way toward the Iran endgame.",
+      "speaker_attribution": "Jiang closing forecast",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0093"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes on the image that whether elephants fight or mate, the grass still gets flattened.",
+      "speaker_attribution": "Host closing image",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0065"
+      ],
+      "note": "Segment seg-0065 is empty after boundary repair and carries no semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0088"
+      ],
+      "note": "Segment seg-0088 is empty after boundary repair and carries no semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says his forecasting method is game theory centered on self-interest rather than ideology.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Method statement made on 2026-01-05.",
+      "topic_tags": [
+        "method",
+        "game theory",
+        "self-interest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the key event of 2026 will be Trump’s April state visit to China and the wider US-China bargain around it.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "2026",
+        "Trump",
+        "China",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that after leaving gold, the United States stabilized the dollar through the petrodollar and by opening China into a dollar-centered trade order.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0006",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical model restated on 2026-01-05.",
+      "topic_tags": [
+        "dollar",
+        "petrodollar",
+        "China",
+        "Nixon"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says US wars, debt expansion, and the 2008-2009 crisis pushed China to worry about dollar stability and build more sovereign financial alternatives.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical diagnosis restated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "dollar stability",
+        "gold corridor",
+        "Shanghai Gold Exchange"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Trump wants to force China to keep buying dollars and treasuries, including by using Venezuela and possible Iran escalation to redirect China’s energy dependence.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Current strategic diagnosis and 2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "treasuries",
+        "Venezuela",
+        "Iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump’s wider war pattern aims to strangle China’s access not only to oil but also to strategic minerals needed for EVs and AI.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "2026 strategic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "minerals",
+        "AI",
+        "EVs"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees that coercing China while seeking trust is contradictory, but says the contradiction persists because the United States insists on hegemony rather than equality.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "hegemony",
+        "China",
+        "trust"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China cannot simply replace Middle Eastern and Western Hemisphere oil with Russian supply because Russia lacks the capacity and infrastructure.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0012",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Current energy constraint stated on 2026-01-05.",
+      "topic_tags": [
+        "Russia",
+        "China",
+        "oil"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China can still destabilize the dollar, citing early-2026 silver export restrictions and resulting stress in US financial markets.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0013",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current market diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "silver",
+        "dollar",
+        "financial markets"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang models the US-China rivalry as mutually assured destruction in which pushing the ladder too far in either direction makes both sides fall.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0014",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-01-05.",
+      "topic_tags": [
+        "US-China",
+        "mutual destruction",
+        "model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the deeper driver of American hostility toward China is hubris and racism rather than abstract ideology.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "hubris",
+        "racism",
+        "China",
+        "America"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the US move in Venezuela is mainly about denying China access, not about quickly reviving Venezuelan oil for American profit.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Venezuela",
+        "China",
+        "oil"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says one major American weakness is an AI-driven GDP story built on expensive data centers with unclear economic returns.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "AI",
+        "GDP",
+        "data centers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if AI becomes profitable in its current form it could wipe out jobs, while if the bubble breaks it could trigger a broader crisis.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Conditional 2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "AI",
+        "jobs",
+        "crisis"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that a small oligarchic group can now override normal market fundamentals, making the US financial system less able to self-correct.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current market-structure diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "oligarchs",
+        "markets",
+        "self-correction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says US over-financialization turns key commodities like silver into speculative paper claims detached from manufacturing use.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0025",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "silver",
+        "speculation",
+        "commodities"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says cryptocurrency is another major American weakness because it is pure speculation with no social benefit.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "crypto",
+        "speculation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the eventual collapse of these bubbles could cascade into civil war in the United States.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0026",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Longer-horizon collapse forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "civil war",
+        "collapse",
+        "US"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that silver demand from AI and EV manufacturing exceeds supply and that Latin America is strategically decisive because it is a major silver-producing region.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0029",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Current resource diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "silver",
+        "Latin America",
+        "AI",
+        "EVs"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China’s export dependence is its greatest strength and weakness, while Japan-Taiwan-Malacca geography will intensify China-Japan rivalry in 2026.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "exports",
+        "Japan",
+        "Taiwan",
+        "Malacca"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts more heated rhetoric between China and Japan in 2026 because both depend on Middle Eastern oil and Malacca access.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "Japan",
+        "Malacca",
+        "oil"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Europe will remilitarize against Russia despite having no realistic path to victory in Ukraine.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Current and near-term diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "Russia",
+        "Ukraine"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Europe hoped Russian defeat would solve its internal problems through indemnity, and now keeps the war going because it cannot face domestic collapse.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0036",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "Russia",
+        "indemnity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says European elites live inside a media-bureaucratic bubble that keeps repeating imminent Russian collapse and blocks strategic imagination.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Current institutional diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "elite bubble",
+        "Russia"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares current European leadership to World War I decision-makers who would sacrifice millions rather than admit they had made a strategic mistake.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Historical analogy stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "World War I",
+        "elite psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump hates Europe and would be happy to see NATO collapse.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "Europe",
+        "NATO"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts NATO will collapse around Odessa, with Russian encirclement, failed defense, coerced conscription, and civil conflict across Europe.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Five-to-ten-year forecast articulated on 2026-01-05.",
+      "topic_tags": [
+        "Odessa",
+        "NATO",
+        "Europe",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Europe is on a slow death trajectory rather than an immediate single-year collapse.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Multi-year forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "slow death"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Europe’s open-society and multicultural turn has polarized societies and weakened the homeland attachment needed for mass war mobilization.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0049",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "open society",
+        "mobilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues authoritarian conscription may still be attempted in Europe, but it would further destroy those societies.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Potential future diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Europe",
+        "conscription"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the United States no longer sees enough value in Europe and is prepared to throw it overboard.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Current imperial diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "United States",
+        "Europe",
+        "transactional empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the US national security strategy is to dominate the Western Hemisphere so China must come to it for resources and thus remain subordinate to the dollar.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Current strategy model stated on 2026-01-05.",
+      "topic_tags": [
+        "Western Hemisphere",
+        "China",
+        "dollar",
+        "resources"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Europeans are wrong to assume a Democratic return in 2028 would restore the pre-Trump order, because the imperial turn now serves American interests.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Forward-looking diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "2028",
+        "Europe",
+        "Trump",
+        "imperial turn"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the Maduro kidnapping looked triumphant on television but made future Venezuelan trust and negotiation with the United States much harder.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0061",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Maduro",
+        "Venezuela",
+        "trust",
+        "optics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the action against Venezuela will push South American states toward solidarity against the United States and reveal America as a bully to the wider world.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0062",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Near-term political forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "South America",
+        "United States",
+        "solidarity"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the United States sacrificed strategy for optics, which is a classic sign of imperial decline.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0063",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Historical-pattern diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "empire",
+        "decline",
+        "optics",
+        "strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that America may appear dominant for two or three years, but it is planting the seeds of worldwide revolt against its power.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Short- and long-term forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "American empire",
+        "revolution",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says kidnapping and humiliating Maduro humiliates not just a leader but the Venezuelan state and, by proxy, South American publics.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Maduro",
+        "Venezuela",
+        "humiliation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Trump believes capturing a leader means capturing the country itself.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Current diagnosis of Trump’s mindset stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "Venezuela",
+        "political psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump’s reality-TV mentality produces good visuals but destroys actual statecraft.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "TV",
+        "statecraft"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts this spectacle-first mentality will destroy America while temporarily boosting Trump’s ratings and image.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Forward-looking diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "America",
+        "ratings"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts continuing US strikes or raids across Mexico, Colombia, and the Caribbean as part of a campaign to dominate the Global South before April.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "Mexico",
+        "Colombia",
+        "Caribbean",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump wants to use control over Venezuela as bargaining leverage in April to sell China subordinated access to resources in dollars.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0075",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "April 2026 strategic forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "April",
+        "Venezuela",
+        "China",
+        "dollar"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China contains multiple factions, including more pro-Russian and more balancing-oriented camps, and April decisions will depend on how those factions cohere.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Current internal-China diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "factions",
+        "Russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts China and the United States will probably come to a grand bargain in April, but the empire will still collapse and wars will continue.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "grand bargain",
+        "April",
+        "empire",
+        "wars"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the political and covert preconditions for an Iran attack are already being assembled through donor pressure, internal unrest, covert operations, and economic strain.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0081",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Current 2026 war-preparation diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Iran",
+        "Israel",
+        "covert operations",
+        "donors"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the real strategic question is not more airstrikes but whether the United States will commit ground troops for regime change in Iran.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Iran",
+        "ground invasion",
+        "regime change"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts acceleration around Iran in 2026 but suggests the full climax may arrive in 2027.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "2026-2027 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "Iran",
+        "2026",
+        "2027"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Trump cannot grasp overextension because his attention is tuned to television optics rather than strategic limits.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0085",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Current diagnosis of Trump stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "optics",
+        "overextension"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump is best understood as a mafia boss who acts for personal benefit and image rather than the national interest of the United States.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0089"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "mafia boss",
+        "personal interest"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts more US pressure across South America, Africa, and the China-Japan theater before the April China meeting.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0091",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Early-2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "South America",
+        "Africa",
+        "Japan",
+        "China",
+        "April"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump needs to settle the China issue before a full-scale invasion of Iran because Russia would defend Iran and China remains the wild card.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Strategic forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "Iran",
+        "Russia",
+        "April"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that despite surprise, China and the United States will come to an arrangement before the larger Iran endgame unfolds.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "China",
+        "United States",
+        "arrangement",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0006",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007"
+      ],
+      "moment": "The dollar order appears as a two-pillar structure of oil pricing and China’s incorporation.",
+      "source_phrase": "The first is he established the petrol dollar ... and the second thing that he did was he visited China to open up China",
+      "why_it_matters": "It compresses Jiang’s whole opening world-model into a memorable architecture rather than a generic US-China rivalry summary.",
+      "tone": "model",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0008"
+      ],
+      "moment": "Trump’s 2026 strategy is framed as coercing China back into dollar dependence through war geography.",
+      "source_phrase": "if Trump were to attack Iran and destabilize the Middle East, then China will be forced",
+      "why_it_matters": "It gives the interview its first sharp causal chain linking hemispheric war moves to monetary leverage.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0014",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0015"
+      ],
+      "moment": "Jiang turns US-China interdependence into a ladder over an abyss.",
+      "source_phrase": "Imagine a ladder over an abyss",
+      "why_it_matters": "It is his clearest image for rivalry that cannot be won by humiliating the other side.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0009"
+      ],
+      "moment": "War becomes a resource choke strategy rather than a sequence of isolated conflicts.",
+      "source_phrase": "conducting all these wars around the world in order to strangle the Chinese economy",
+      "why_it_matters": "It preserves the heat of Jiang’s causal claim instead of reducing it to trade competition.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018"
+      ],
+      "moment": "Jiang strips away polite ideological language and names the animus directly.",
+      "source_phrase": "I think it is this hubris and racism",
+      "why_it_matters": "It marks a tonal shift from systems analysis to a sharper account of civilizational hostility.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "moment": "The American market appears as a machine that no longer obeys its own fundamentals.",
+      "source_phrase": "market fundamentals no longer apply",
+      "why_it_matters": "It underwrites Jiang’s later civil-war and collapse talk with a structural claim rather than just mood.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0026",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0027"
+      ],
+      "moment": "The bubble story ends not in recession language but in civil war.",
+      "source_phrase": "when it collapses, the entire society collapses",
+      "why_it_matters": "It preserves how apocalyptic Jiang makes the domestic consequence of financial fragility.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0030"
+      ],
+      "moment": "Silver access becomes shorthand for owning the AI future.",
+      "source_phrase": "if it controls Latin America ... control over the AI future",
+      "why_it_matters": "It links resource geography to technology power in a memorable way.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0040"
+      ],
+      "moment": "Europe appears not as a planner but as a self-reinforcing bureaucratic bubble.",
+      "source_phrase": "The EU, it is just this self-reinforcing bureaucracy",
+      "why_it_matters": "It sharpens Jiang’s account of why irrational war policy can persist without a hidden master plan.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0036"
+      ],
+      "moment": "Europe goes to war because it does not know what else to do.",
+      "source_phrase": "Europe is gonna send men to their deaths ... because Europe does not know what else to do",
+      "why_it_matters": "It captures the nihilistic logic Jiang attributes to the current European security class.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0045"
+      ],
+      "moment": "Odessa is named as the grave of NATO rather than merely a front in Ukraine.",
+      "source_phrase": "NATO will collapse in Odessa",
+      "why_it_matters": "It is the packet’s strongest location-specific prophecy and anchors the long decline story to a concrete place.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0044"
+      ],
+      "moment": "Trump’s anti-Europe posture is cast not as tactical annoyance but as active alliance destruction.",
+      "source_phrase": "Trump would be more than happy to see the entire NATO system collapse",
+      "why_it_matters": "It clarifies that Jiang sees intra-Western fracture as an engine of the wider 2026 landscape.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0054"
+      ],
+      "moment": "Europe is imagined not as an ally but as disposable cargo.",
+      "source_phrase": "The United States is going to throw Europe overboard",
+      "why_it_matters": "It captures the brutality of Jiang’s transactional empire frame.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0049",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0050"
+      ],
+      "moment": "War requires a homeland people recognize as theirs.",
+      "source_phrase": "they fight them for their homeland",
+      "why_it_matters": "It gives Jiang’s critique of European legitimacy a compact human anchor.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0064"
+      ],
+      "moment": "Empire falls by choosing the camera over the plan.",
+      "source_phrase": "it sacrificed strategy for optics",
+      "why_it_matters": "This is one of Jiang’s cleanest definitions of decline in the whole interview.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0061"
+      ],
+      "moment": "The Maduro abduction is likened to a Roman triumph.",
+      "source_phrase": "a triumph of the Romans",
+      "why_it_matters": "It dramatizes how imperial theater can intoxicate the center while alienating everyone else.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "moment": "Trump’s political ontology is described as make-believe that becomes real if enough people see it on screen.",
+      "source_phrase": "if I can make enough people believe this idea, it will become reality",
+      "why_it_matters": "It is Jiang’s clearest psychological model for why optics outrun facts in this interview.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069"
+      ],
+      "moment": "Business failure and television success are fused into one portrait of rule.",
+      "source_phrase": "he is gonna get great TV ratings ... but he should destroy America in the process",
+      "why_it_matters": "It preserves the sting of Jiang’s indictment rather than smoothing it into generic anti-Trump commentary.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0075",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0076"
+      ],
+      "moment": "April is framed as the summit where hemisphere conquest gets converted into a subordinate resource bargain.",
+      "source_phrase": "Everything is leading to April",
+      "why_it_matters": "It gives the interview a strong temporal hinge and unifies many scattered regional forecasts.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0079"
+      ],
+      "moment": "Even successful diplomacy does not rescue the empire from collapse.",
+      "source_phrase": "this grand bargain will not actually alter the geopolitical landscape",
+      "why_it_matters": "It keeps Jiang’s bargain forecast from being mistaken for a stabilizing or optimistic outcome.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0085"
+      ],
+      "moment": "Trump’s cognitive map is reduced to a television set.",
+      "source_phrase": "this guy’s brain is a TV set",
+      "why_it_matters": "It is one of the interview’s sharpest and most reusable images for how spectacle governs policy.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0083"
+      ],
+      "moment": "The Iran timeline is split between acceleration now and climax later.",
+      "source_phrase": "maybe 2027 is when we will have the full climax",
+      "why_it_matters": "It preserves Jiang’s refusal to overclaim exact timing while still forecasting intensification.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0089"
+      ],
+      "moment": "Consistency is relocated from statecraft to organized-crime logic.",
+      "source_phrase": "He’s not the president of the United States. He’s a mafia boss",
+      "why_it_matters": "It is the interview’s bluntest closing definition of Trump’s operating model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0093"
+      ],
+      "moment": "Whether the great powers clash or bargain, smaller actors still get crushed.",
+      "source_phrase": "when the elephants fight ... when the elephants make love, it also gets flattened",
+      "why_it_matters": "It gives the closing arrangement forecast a tragic rather than conciliatory frame.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "petrodollar",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang uses this as the first post-gold mechanism that gave the floating US dollar value by forcing oil purchases into dollars.",
+      "confidence": "high"
+    },
+    {
+      "term": "gold corridor",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang uses this for China’s attempt to recalibrate finance away from unstable dollar dependence.",
+      "confidence": "medium"
+    },
+    {
+      "term": "mutually assured destruction",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Jiang uses the nuclear-age phrase for US-China financial and energy interdependence.",
+      "confidence": "high"
+    },
+    {
+      "term": "strategic vacuum",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The host uses this for a US posture oscillating between trust-building and coercion.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Project Stargate",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang uses this as an example of state-backed spending that can keep the AI bubble inflated despite weak fundamentals.",
+      "confidence": "medium"
+    },
+    {
+      "term": "self-correct",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang uses this for the missing market discipline that would normally pop unsound bubbles earlier.",
+      "confidence": "high"
+    },
+    {
+      "term": "paper silver",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Jiang uses this for heavily leveraged silver claims disconnected from actual metal holdings.",
+      "confidence": "high"
+    },
+    {
+      "term": "over-financialization",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Jiang uses this for an economy where commodities and wealth become vehicles for speculation rather than production.",
+      "confidence": "high"
+    },
+    {
+      "term": "first island chain",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0033"
+      ],
+      "definition_or_usage": "Jiang uses the concept to describe how Taiwan and allied positions could embargo Chinese trade.",
+      "confidence": "high"
+    },
+    {
+      "term": "strategic autonomy",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The host uses this as the old EU slogan for European sovereignty that now looks hollow against actual dependence.",
+      "confidence": "high"
+    },
+    {
+      "term": "open society",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang uses the Popperian phrase for the post-1945 European settlement he thinks undermined national cohesion.",
+      "confidence": "high"
+    },
+    {
+      "term": "transactional empire",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang’s implied model of an empire that keeps only vassals from which it can still extract value.",
+      "confidence": "high"
+    },
+    {
+      "term": "imperial policy",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang uses this for the broader American turn that he thinks persists beyond Trump’s personal tenure.",
+      "confidence": "high"
+    },
+    {
+      "term": "micro-militarism",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "The host uses Emmanuel Todd’s term for a declining empire projecting strength through force against weaker states.",
+      "confidence": "high"
+    },
+    {
+      "term": "grand bargain",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0075",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0079"
+      ],
+      "definition_or_usage": "Jiang uses this for an April US-China arrangement that manages resource dependence without curing the deeper imperial crisis.",
+      "confidence": "high"
+    },
+    {
+      "term": "ground troops",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "Jiang uses this as the threshold separating punishing strikes from actual regime-change capacity against Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "mafia boss",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0089"
+      ],
+      "definition_or_usage": "Jiang uses this as the key interpretive model for Trump’s consistency, bargaining style, and indifference to national interest.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0006",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang grounds the January 5, 2026 forecast in a chronology running from 1971 dollar delinking, through 1980s China opening, to post-2008 Chinese financial repositioning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0013"
+      ],
+      "note": "Jiang treats China’s silver export restriction as an early-2026 event already signaling available Chinese financial retaliation tools.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang treats AI and concentrated market control as immediate 2026 vulnerabilities rather than distant macro concerns.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang flags the China-Japan-Taiwan-Malacca rivalry as something already flaring up at the start of 2026 rather than a distant contingency.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0033",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0036"
+      ],
+      "note": "This packet links a near-term 2026 China-Japan escalation forecast with a simultaneous European militarization path already underway.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0045"
+      ],
+      "note": "Jiang explicitly distinguishes between what may worsen in 2026 and a five-to-ten-year NATO break centered on Odessa.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0055"
+      ],
+      "note": "Jiang treats the Western Hemisphere resource strategy as the forward path after Europe’s decline, not as a separate theater from US-China rivalry.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0059",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0064"
+      ],
+      "note": "Jiang ties the immediate 2026 imperial posture to a longer post-2028 continuity rather than treating it as one election-cycle anomaly.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0066",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "note": "This packet shifts from structural empire decline to a tighter psychological model of how Trump executes that decline in the present.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0075",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0079"
+      ],
+      "note": "This packet keeps April 2026 as the central hinge between immediate hemisphere escalation and the later Iran endgame.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0083"
+      ],
+      "note": "Jiang explicitly sequences Iran as an acceleration story in 2026 with a possible decisive climax deferred to 2027.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0091",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0092"
+      ],
+      "note": "The closing chronology runs from escalating leverage before April, to a China arrangement, to the later Iran endgame.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0007"
+      ],
+      "note": "Some financial terms are noisy in ASR, especially around yuan internationalization and named institutions, but the broad claim is clear."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0013"
+      ],
+      "note": "ASR is noisy around some commodity-market wording, but the substantive point is that China used a silver restriction to create US market stress."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "note": "Some names and phrases are noisy in ASR, but the core claim is that famous short sellers and market fundamentals no longer discipline the AI trade."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0029"
+      ],
+      "note": "ASR around a few silver-market phrases is messy, but the directional claim is clear: demand exceeds supply and resource geography matters."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0040"
+      ],
+      "note": "Jiang’s claim about elite certainty and imminent Russian collapse is interpretive rather than independently evidenced inside the transcript."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0045"
+      ],
+      "note": "The detailed Odessa collapse sequence is a forward model and not something independently grounded inside the source beyond Jiang’s forecast."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0049",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0050"
+      ],
+      "note": "Jiang’s claims about immigration, cohesion, and willingness to fight are interpretive and politically charged rather than demonstrated within the transcript."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0061",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0062"
+      ],
+      "note": "The detailed Maduro abduction narrative is presented within the interview as context, not independently verified inside this source."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "note": "The claims about Trump’s inner beliefs are interpretive character judgments made by Jiang, not direct evidence of internal intent."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0078"
+      ],
+      "note": "The description of Chinese internal factions is Jiang’s reported reading from within China, not something independently demonstrated by named actors in the transcript."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0081",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0082"
+      ],
+      "note": "Several donor, covert-action, and unrest claims are presented as Jiang’s assessment and are not independently evidenced within the transcript itself."
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0092"
+      ],
+      "note": "The forecast that China and the United States will come to an arrangement is Jiang’s stated bet, not a transcript-demonstrated outcome."
+    }
+  ]
+}

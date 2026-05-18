@@ -1,0 +1,184 @@
+{
+  "packet_id": "interview-orycs0r2tpg-semantics-pkt-0003",
+  "source_id": "video:interview-orycs0r2tpg",
+  "source_date": "2026-01-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0017"
+      ],
+      "kind": "question",
+      "summary": "The host invokes Kissinger and asks how Jiang sees accommodation, rivalry, and unknown variables such as crisis pressure.",
+      "speaker_attribution": "Host bridge question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects ideology as the main driver, naming hubris and racism and recasting Venezuela as a move to cut China off rather than seize oil for immediate use.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0020",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0021"
+      ],
+      "kind": "question",
+      "summary": "The host asks how a likely American economic crisis could intensify irrational rivalry and war escalation.",
+      "speaker_attribution": "Host crisis question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by describing AI as a weakly grounded investment mania inside an oligarchic market that may no longer self-correct.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the deeper driver of American hostility toward China is hubris and racism rather than abstract ideology.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "hubris",
+        "racism",
+        "China",
+        "America"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the US move in Venezuela is mainly about denying China access, not about quickly reviving Venezuelan oil for American profit.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Venezuela",
+        "China",
+        "oil"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says one major American weakness is an AI-driven GDP story built on expensive data centers with unclear economic returns.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "AI",
+        "GDP",
+        "data centers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if AI becomes profitable in its current form it could wipe out jobs, while if the bubble breaks it could trigger a broader crisis.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Conditional 2026 forecast stated on 2026-01-05.",
+      "topic_tags": [
+        "AI",
+        "jobs",
+        "crisis"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that a small oligarchic group can now override normal market fundamentals, making the US financial system less able to self-correct.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current market-structure diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "oligarchs",
+        "markets",
+        "self-correction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0018"
+      ],
+      "moment": "Jiang strips away polite ideological language and names the animus directly.",
+      "source_phrase": "I think it is this hubris and racism",
+      "why_it_matters": "It marks a tonal shift from systems analysis to a sharper account of civilizational hostility.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "moment": "The American market appears as a machine that no longer obeys its own fundamentals.",
+      "source_phrase": "market fundamentals no longer apply",
+      "why_it_matters": "It underwrites Jiang’s later civil-war and collapse talk with a structural claim rather than just mood.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Project Stargate",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang uses this as an example of state-backed spending that can keep the AI bubble inflated despite weak fundamentals.",
+      "confidence": "medium"
+    },
+    {
+      "term": "self-correct",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang uses this for the missing market discipline that would normally pop unsound bubbles earlier.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0022",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang treats AI and concentrated market control as immediate 2026 vulnerabilities rather than distant macro concerns.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0023",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0024"
+      ],
+      "note": "Some names and phrases are noisy in ASR, but the core claim is that famous short sellers and market fundamentals no longer discipline the AI trade."
+    }
+  ]
+}
