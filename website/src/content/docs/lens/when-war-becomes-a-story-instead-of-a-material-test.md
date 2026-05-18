@@ -103,7 +103,13 @@ This belongs inside strategy rather than [Power As Alchemy](/lens/power-as-alche
 
 ## Spectacle Is Not Resilience
 
-The **2026-03-26** Rick Sanchez interview returns to the same Iran board after several earlier formulations. Its value is not a new forecast category. It is the way Jiang puts the Hollywood-war, chokepoint, and material-resilience layers into one immediate test.
+The late-processed **2026-01-17** Danny Haiphong interview gives an earlier version of the spectacle trap before Jiang's March Iran-war cluster. Asked about repeated "quick, decisive blows," Jiang says the impulse comes from a desire for quick victory that can make Trump appear as [a Julius Caesar-style conquering hero restoring imperial greatness]{evidence="video:interview-h5lcj0d4dpy@transcript:v1#seg-0061"}. Because Iran will not collapse on cue, he predicts frustration will shift attention toward easier-looking theaters: Greenland, Alberta, and Cuba. Those wins are not harmless side quests. They create television drama, teach the leader and public that force still works, and then [create hubris and self-delusion before the harder Iran test returns]{evidence="video:interview-h5lcj0d4dpy@transcript:v1#seg-0063"}.
+
+<!-- lens-point id="strategy-quick-victories-create-hubris" concept="strategy-material-test" evidence="video:interview-h5lcj0d4dpy@transcript:v1#seg-0061 video:interview-h5lcj0d4dpy@transcript:v1#seg-0062 video:interview-h5lcj0d4dpy@transcript:v1#seg-0063" -->
+<span id="strategy-quick-victories-create-hubris" class="lens-point-anchor"></span>
+Quick victories become strategic poison when easy optical wins restore imperial confidence, create television drama, and make a leader feel invincible before returning to a harder opponent whose resilience was never solved.
+
+The **2026-03-26** Rick Sanchez interview returns to the same Iran board after several later formulations. Its value is not a new forecast category. It is the way Jiang puts the Hollywood-war, chokepoint, and material-resilience layers into one immediate test.
 
 The first strike is read as theater because the ordinary invasion requirements are missing. Jiang says Trump is interested [not in strategy but in optics]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0022"}, wants a narrative that America is winning, and hopes for a quick decapitation scene that would make him the winner. The sharper material point comes one turn later: a full invasion would need public support, congressional approval, [roughly half a million troops and two hundred billion dollars]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0027"}. If those supports are absent, spectacle can become a bridge to consent. A successful raid teaches the public the war is winnable; a slaughter teaches revenge. Either route can be used to [draw America into a long war of attrition with Iran]{evidence="video:interview-yejgdbgbdoq@transcript:v1#seg-0028"}.
 
