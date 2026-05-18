@@ -26,15 +26,15 @@ That's right, folks. That's what we do. Now, last week, Professor Zhang, you gav
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0004
 
-## seg-0005 / 00:03:11-00:04:20 / SPEAKER_01
+## seg-0005 / 00:03:11-00:04:21 / SPEAKER_01
 
-Yeah, so let me clarify my comments. So my feeling is that they will attack Iran. They will use airstrikes. It will be very impressive. They will hit a lot of military targets. It will be very sustained. But airstrikes by themselves are not effective. And eventually, Trump's going to halt airstrikes and move his attention. Elsewhere. But then he'll resume airstrikes at a later point. So I think that this U.S.-Iran conflict will be in the background throughout 2026. Unless Trump is willing to commit ground troops, he cannot actually achieve any of his war aims in Iran. The regime is far too resilient, far too resourceful, far too cohesive. So that's what I meant. I do think that. Trump will strike Iran because that's always been part of the plan. Remember back in his first term, there was a clear trend towards confrontation with Iran. So Trump immediately withdrew from the nuclear deal. Then he transferred the
+Yeah, so let me clarify my comments. So my feeling is that they will attack Iran. They will use airstrikes. It will be very impressive. They will hit a lot of military targets. It will be very sustained. But airstrikes by themselves are not effective. And eventually, Trump's going to halt airstrikes and move his attention. Elsewhere. But then he'll resume airstrikes at a later point. So I think that this U.S.-Iran conflict will be in the background throughout 2026. Unless Trump is willing to commit ground troops, he cannot actually achieve any of his war aims in Iran. The regime is far too resilient, far too resourceful, far too cohesive. So that's what I meant. I do think that. Trump will strike Iran because that's always been part of the plan. Remember back in his first term, there was a clear trend towards confrontation with Iran. So Trump immediately withdrew from the nuclear deal. Then he transferred the U.S.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0005
 
-## seg-0006 / 00:04:20-00:05:01 / SPEAKER_01
+## seg-0006 / 00:04:21-00:05:01 / SPEAKER_01
 
-U.S. embassy from Tel Aviv to Jerusalem, which is extremely provocative. He initiated something called the Abraham Accords, which sought to brought peace between Israel and Saudi Arabia. And the most provocative thing he did, of course, was. He ordered the assassination of General Soleimani, who was the Iranian de facto envoy in the Middle East. And that essentially is a declaration of war. So if he had said in office, then we would have seen military strikes against Iran. He lost in 2020, but now he's back in the second term. He is going to continue with the policies from his first term, which is seek regime change in Iran.
+embassy from Tel Aviv to Jerusalem, which is extremely provocative. He initiated something called the Abraham Accords, which sought to brought peace between Israel and Saudi Arabia. And the most provocative thing he did, of course, was. He ordered the assassination of General Soleimani, who was the Iranian de facto envoy in the Middle East. And that essentially is a declaration of war. So if he had said in office, then we would have seen military strikes against Iran. He lost in 2020, but now he's back in the second term. He is going to continue with the policies from his first term, which is seek regime change in Iran.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0006
 
@@ -116,81 +116,81 @@ on this particular question more broadly on mark carney's speech at davos yeah s
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0019
 
-## seg-0020 / 00:13:57-00:14:55 / SPEAKER_01
+## seg-0020 / 00:13:57-00:14:57 / SPEAKER_01
 
-Overall, I agree with your sentiment. I think you tend to be very right about these sort of things. It's better to be skeptical than it is to be naive, right? So I did read Mark Carney's speech, and he makes in his speech two major historical allusions. The first is to Thucydides, and Thucydides is writing about the Peloponnesian War, and the war was fought between Athens and Sparta. So Athens had defeated the Persians, and because of that, the Aegean Sea Greeks were very thankful to the Athenians, just as the Europeans were very thankful to the Americans for defeating fascism in Europe. And so after the Persian Wars, they created something called the Delian League, which was meant to be a mutual defense pact. But over time, Athens, as a hegemon, started to exploit its allies. It became a mafia regime, and it started to extort its allies. And then its allies had no choice but to
+Overall, I agree with your sentiment. I think you tend to be very right about these sort of things. It's better to be skeptical than it is to be naive, right? So I did read Mark Carney's speech, and he makes in his speech two major historical allusions. The first is to Thucydides, and Thucydides is writing about the Peloponnesian War, and the war was fought between Athens and Sparta. So Athens had defeated the Persians, and because of that, the Aegean Sea Greeks were very thankful to the Athenians, just as the Europeans were very thankful to the Americans for defeating fascism in Europe. And so after the Persian Wars, they created something called the Delian League, which was meant to be a mutual defense pact. But over time, Athens, as a hegemon, started to exploit its allies. It became a mafia regime, and it started to extort its allies. And then its allies had no choice but to seek relief from Sparta.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0020
 
-## seg-0021 / 00:14:55-00:15:58 / SPEAKER_01
+## seg-0021 / 00:14:57-00:16:01 / SPEAKER_01
 
-seek relief from Sparta. So I think that with this Thucydides allusion, Mark Carney is sort of like hinting to his audience that we are at this moment when America's former allies have turned into their vassals. And so America is going to exploit us. America is going to steal our wealth. America is going to make us fight wars we cannot possibly win. Probably in Ukraine. And so we need to band together and seek relief from another Sparta. Today's Sparta would be China, right? So I think that's the first historical allusion he's making. The second historical allusion he's making, of course, is to Vaclav Havel's famous essay, The Power of the Powerless. And it's very ironic he does that, because in his speech, he says that, OK, let's be honest. From day one. We knew this rules -based national order was a fraud. It was hypocritical. But we benefited from it, because we were friends of the
+So I think that with this Thucydides allusion, Mark Carney is sort of like hinting to his audience that we are at this moment when America's former allies have turned into their vassals. And so America is going to exploit us. America is going to steal our wealth. America is going to make us fight wars we cannot possibly win. Probably in Ukraine. And so we need to band together and seek relief from another Sparta. Today's Sparta would be China, right? So I think that's the first historical allusion he's making. The second historical allusion he's making, of course, is to Vaclav Havel's famous essay, The Power of the Powerless. And it's very ironic he does that, because in his speech, he says that, OK, let's be honest. From day one. We knew this rules -based national order was a fraud. It was hypocritical. But we benefited from it, because we were friends of the hegemon, the great empire.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0021
 
-## seg-0022 / 00:15:58-00:17:00 / SPEAKER_01
+## seg-0022 / 00:16:02-00:17:03 / SPEAKER_01
 
-hegemon, the great empire. And so we benefited. But now that the empire is turning against us, now that the empire wants to cannibalize us, we must now speak truth to power. So you can imagine the hypocrisy. So I don't think it's... It's much of a strategy, because I think anyone with a brain, which obviously precludes Canadians, but anyone with a brain can see through the hypocrisy, the travesty, and the self -indulgence in his speech. It's not really a grand strategy. It's more of a lament, right? It's lamentation of, we used to be best friends with America, we've benefited a great deal. Now America has abandoned us. We're a jilted lover. And now we're forced to band together and seek a deal. We're a new ally in China. So I read the speech more like that. And he has three grand suggestions for moving forward. The first, of course, is to speak truth to power, to
+And so we benefited. But now that the empire is turning against us, now that the empire wants to cannibalize us, we must now speak truth to power. So you can imagine the hypocrisy. So I don't think it's... It's much of a strategy, because I think anyone with a brain, which obviously precludes Canadians, but anyone with a brain can see through the hypocrisy, the travesty, and the self -indulgence in his speech. It's not really a grand strategy. It's more of a lament, right? It's lamentation of, we used to be best friends with America, we've benefited a great deal. Now America has abandoned us. We're a jilted lover. And now we're forced to band together and seek a deal. We're a new ally in China. So I read the speech more like that. And he has three grand suggestions for moving forward. The first, of course, is to speak truth to power, to recognize the severity of the situation and be honest with ourselves.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0022
 
-## seg-0023 / 00:17:00-00:18:05 / SPEAKER_01
+## seg-0023 / 00:17:03-00:18:05 / SPEAKER_01
 
-recognize the severity of the situation and be honest with ourselves. The second is to create, as you say, a new system of rules -based international order, of institutions that could counterbalance the bullying of America. And the third is to rely more heavily... on Canadian capital and talent. The problem in Canada, you know this, is that everyone's fleeing, right? Capital is fleeing, talent is fleeing Canada. So Canada's being hollowed out. So as a banker, and Mark Carney used to work for Goldman Sachs, he used to be governor of the Bank of Canada, and then he went to England and became the first foreign governor of the Bank of England. He is a banker who serves transnational capital. And the reality is that... Canada, the nation, I hate to say this because I grew up there, right? But Canada, it's a toxic asset right now. Housing prices are like, you know, sky high. The Canadian economy, 40
+The second is to create, as you say, a new system of rules -based international order, of institutions that could counterbalance the bullying of America. And the third is to rely more heavily... on Canadian capital and talent. The problem in Canada, you know this, is that everyone's fleeing, right? Capital is fleeing, talent is fleeing Canada. So Canada's being hollowed out. So as a banker, and Mark Carney used to work for Goldman Sachs, he used to be governor of the Bank of Canada, and then he went to England and became the first foreign governor of the Bank of England. He is a banker who serves transnational capital. And the reality is that... Canada, the nation, I hate to say this because I grew up there, right? But Canada, it's a toxic asset right now. Housing prices are like, you know, sky high. The Canadian economy, 40
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0023
 
-## seg-0024 / 00:18:05-00:18:59 / SPEAKER_01
+## seg-0024 / 00:18:05-00:19:00 / SPEAKER_01
 
-% of the Canadian economy is real estate speculation. Canada is this glorified money laundering operation. It's lost all its legitimacy by supporting this genocide in Gaza. There are hundreds of thousands of homeless in Canada, yet Carney continues to send tens of billions of dollars to Ukraine to fight a pointless war, causing, you know, about a million Ukrainians to die for no particular reason. These Canadian companies refuse to invest in the country, and many of them are fleeing the country. So Canada is a toxic asset, and what you do with a toxic asset as a banker is you sell it to foreigners. And who are the foreigners? The Qataris and the Chinese, okay? So that's the grand strategy that Carney has. And everything else, like this grand rhetoric about a rules -based national order, it's, as you say, marketing. That's all it is, okay? Don't pay any attention to it. Watch what he does. So what
+% of the Canadian economy is real estate speculation. Canada is this glorified money laundering operation. It's lost all its legitimacy by supporting this genocide in Gaza. There are hundreds of thousands of homeless in Canada, yet Carney continues to send tens of billions of dollars to Ukraine to fight a pointless war, causing, you know, about a million Ukrainians to die for no particular reason. These Canadian companies refuse to invest in the country, and many of them are fleeing the country. So Canada is a toxic asset, and what you do with a toxic asset as a banker is you sell it to foreigners. And who are the foreigners? The Qataris and the Chinese, okay? So that's the grand strategy that Carney has. And everything else, like this grand rhetoric about a rules -based national order, it's, as you say, marketing. That's all it is, okay? Don't pay any attention to it. Watch what he does. So what he's going to do is this.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0024
 
-## seg-0025 / 00:18:59-00:19:13 / SPEAKER_01
+## seg-0025 / 00:19:00-00:19:13 / SPEAKER_01
 
-he's going to do is this. He's going to call in an early election, probably late spring, okay? April. He's going to win by a landslide. He's going to have a super majority, and then he'll start to asset strip Canada, okay? That's the plan. Pretty simple.
+He's going to call in an early election, probably late spring, okay? April. He's going to win by a landslide. He's going to have a super majority, and then he'll start to asset strip Canada, okay? That's the plan. Pretty simple.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0025
 
-## seg-0026 / 00:19:14-00:20:05 / SPEAKER_03
+## seg-0026 / 00:19:14-00:20:07 / SPEAKER_03
 
-That's quite distressing for those of us who live here. But I find it interesting. I find that an entirely persuasive prediction about what is likely to happen in the months ahead. Now, let's imagine, Professor Zhang, that you were asked to provide advice to the Canadian government about how to deal with the current predicament. I know this is a huge and complex question, but I am curious to know how you would deal with it. Let me be clear. I've been complaining for years that our government, successive liberal and conservative governments, have done so much to increase our dependence on the Canadian government. They've done so much to increase our dependence upon the United States and to de -industrialize this country, to deprive us of the capacity to produce domestically the things that are necessary for the well -being of the Canadian population. But this is the world we're now in. We have an extraordinary degree of
+That's quite distressing for those of us who live here. But I find it interesting. I find that an entirely persuasive prediction about what is likely to happen in the months ahead. Now, let's imagine, Professor Zhang, that you were asked to provide advice to the Canadian government about how to deal with the current predicament. I know this is a huge and complex question, but I am curious to know how you would deal with it. Let me be clear. I've been complaining for years that our government, successive liberal and conservative governments, have done so much to increase our dependence on the Canadian government. They've done so much to increase our dependence upon the United States and to de -industrialize this country, to deprive us of the capacity to produce domestically the things that are necessary for the well -being of the Canadian population. But this is the world we're now in. We have an extraordinary degree of dependency on the United States.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0026
 
-## seg-0027 / 00:20:05-00:20:39 / SPEAKER_03
+## seg-0027 / 00:20:07-00:20:39 / SPEAKER_03
 
-dependency on the United States. We have a lunatic in the White House who openly talks about turning Canada into the 51st state. There's no way, even with the ruinous plans that we have, that we're going to be able to expand to increase Canada's military spending to 5 % of GDP, that we could compete with the United States in terms of military spending. We have the longest undefended border in the world with the United States. We're in a bit of a pickle. So in these circumstances, how would you recommend the Canadian government deal with the new reality?
+We have a lunatic in the White House who openly talks about turning Canada into the 51st state. There's no way, even with the ruinous plans that we have, that we're going to be able to expand to increase Canada's military spending to 5 % of GDP, that we could compete with the United States in terms of military spending. We have the longest undefended border in the world with the United States. We're in a bit of a pickle. So in these circumstances, how would you recommend the Canadian government deal with the new reality?
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0027
 
-## seg-0028 / 00:20:40-00:21:50 / SPEAKER_01
+## seg-0028 / 00:20:40-00:21:52 / SPEAKER_01
 
-Okay, so realistically, there's nothing Canada can really do to stop America from colonizing Canada. There just really isn't. And America doesn't have to use its military, because all America has to do is propose that Canadians can have American passports, and that whatever Canadian savings they have will be converted to American dollars, one -to -one, okay? So Canadians are getting a huge, huge discount. The reality is that 25 % of Canadians are foreign -born, and most of them do not have any loyalties to Canada. Canada also has this bloated bureaucracy, federal bureaucracy, where 22 % of Canadians work for the government in some capacity. Entrepreneurial energy is dead. If you're an entrepreneur, you are burdened by too many taxes, by too much regulation, and so you flee to the Americans. So if there were ever a referendum, you'd be surprised by the number of Canadians who vote to join the United States. I think the big
+Okay, so realistically, there's nothing Canada can really do to stop America from colonizing Canada. There just really isn't. And America doesn't have to use its military, because all America has to do is propose that Canadians can have American passports, and that whatever Canadian savings they have will be converted to American dollars, one -to -one, okay? So Canadians are getting a huge, huge discount. The reality is that 25 % of Canadians are foreign -born, and most of them do not have any loyalties to Canada. Canada also has this bloated bureaucracy, federal bureaucracy, where 22 % of Canadians work for the government in some capacity. Entrepreneurial energy is dead. If you're an entrepreneur, you are burdened by too many taxes, by too much regulation, and so you flee to the Americans. So if there were ever a referendum, you'd be surprised by the number of Canadians who vote to join the United States. I think the big vulnerability for Canada is Alberta.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0028
 
-## seg-0029 / 00:21:50-00:22:46 / SPEAKER_01
+## seg-0029 / 00:21:52-00:22:53 / SPEAKER_01
 
-vulnerability for Canada is Alberta. The Albertans are not very happy with the fact that they're basically subsidizing all of Canada, and the push for independence is now very, very strong in Alberta. And Trump can take advantage of that by supporting this push. So there are a lot of vulnerabilities in Canada. But I'll answer your question directly, like what would I suggest, okay? Okay. Well, first of all, the problem is that Canadians live in a bubble, and Canadians have an unfortunate tendency to put their heads in the sand at the worst times. And so the idea that government would actually bring an outside advisor who would tell them bad news, it's very inconceivable. But let's just say, let's just for the sake of argument, just say that they bring me in and ask me what I should do, what I would do, okay? And here's my advice. And I know this is kind of intuitive. But
+The Albertans are not very happy with the fact that they're basically subsidizing all of Canada, and the push for independence is now very, very strong in Alberta. And Trump can take advantage of that by supporting this push. So there are a lot of vulnerabilities in Canada. But I'll answer your question directly, like what would I suggest, okay? Okay. Well, first of all, the problem is that Canadians live in a bubble, and Canadians have an unfortunate tendency to put their heads in the sand at the worst times. And so the idea that government would actually bring an outside advisor who would tell them bad news, it's very inconceivable. But let's just say, let's just for the sake of argument, just say that they bring me in and ask me what I should do, what I would do, okay? And here's my advice. And I know this is kind of intuitive. But my advice is Canadians should love Trump.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0029
 
-## seg-0030 / 00:22:46-00:23:24 / SPEAKER_01
+## seg-0030 / 00:22:53-00:23:24 / SPEAKER_01
 
-my advice is Canadians should love Trump. They should make Trump into a god. They should have statues of Trump everywhere, okay? They should put Trump on TV all the time. In school, all Canadian children should love to worship Trump as a king. Forget King Charles. We don't want him anymore. We want King Trump to be the sovereign of Canada. And I guarantee you, if Canadians were to do that, all the problems would go away. And in fact, their lives would improve. But guess what? They're not going to do that, okay?
+They should make Trump into a god. They should have statues of Trump everywhere, okay? They should put Trump on TV all the time. In school, all Canadian children should love to worship Trump as a king. Forget King Charles. We don't want him anymore. We want King Trump to be the sovereign of Canada. And I guarantee you, if Canadians were to do that, all the problems would go away. And in fact, their lives would improve. But guess what? They're not going to do that, okay?
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0030
 
-## seg-0031 / 00:23:27-00:24:29 / SPEAKER_03
+## seg-0031 / 00:23:27-00:24:31 / SPEAKER_03
 
-Well, no, that actually brings us to our next topic, which is Mark Carney's trip to Beijing. That doesn't seem to be the kind of thing that is going to win the goodwill and good graces of King Donald. But I want to get into the particulars of what happened there. Okay. So, you know, when Mark Carney completed his meetings with Chinese President Xi Jinping, he issued a statement, his government did, which touted what he described as a new strategic partnership with China. And I'm just going to put up on the screen here what I think is the most informative part of the statement. And I've highlighted in blue the only aspects of the agreements that were struck in China, which translate into concrete improvements in the terms of trade between the two countries. I wasn't able to identify others. There were numerous agreements, apparently, which stated, you know, the party's commitments to various objectives and the
+Well, no, that actually brings us to our next topic, which is Mark Carney's trip to Beijing. That doesn't seem to be the kind of thing that is going to win the goodwill and good graces of King Donald. But I want to get into the particulars of what happened there. Okay. So, you know, when Mark Carney completed his meetings with Chinese President Xi Jinping, he issued a statement, his government did, which touted what he described as a new strategic partnership with China. And I'm just going to put up on the screen here what I think is the most informative part of the statement. And I've highlighted in blue the only aspects of the agreements that were struck in China, which translate into concrete improvements in the terms of trade between the two countries. I wasn't able to identify others. There were numerous agreements, apparently, which stated, you know, the party's commitments to various objectives and the goodwill and their hopes and aspirations.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0031
 
-## seg-0032 / 00:24:29-00:25:26 / SPEAKER_03
+## seg-0032 / 00:24:31-00:25:26 / SPEAKER_03
 
-goodwill and their hopes and aspirations. But the actual meat on the bones, this is what I was able to identify. And I'm quoting, to help deliver the full potential of these partnerships and build up our domestic manufacturing sector. Canada will allow up to 49,000 Chinese. Electrical vehicles into the Canadian market with MFN tariff rate of 6.1%. This corresponds to volumes in the year prior to recent trade frictions on these imports representing less than 3 % of the Canadian market for new vehicles in Canada. The I believe the number for 2024 was somewhere in the range of 28 million vehicles sold in Canada. So this is a really small proportion. It is expected that within three years. This agreement will drive considerable new Chinese joint venture investment in Canada with trusted partners, protect and create new auto manufacturing jobs, blah, blah, blah. And then he goes on and says, oh, I should also just
+But the actual meat on the bones, this is what I was able to identify. And I'm quoting, to help deliver the full potential of these partnerships and build up our domestic manufacturing sector. Canada will allow up to 49,000 Chinese. Electrical vehicles into the Canadian market with MFN tariff rate of 6.1%. This corresponds to volumes in the year prior to recent trade frictions on these imports representing less than 3 % of the Canadian market for new vehicles in Canada. The I believe the number for 2024 was somewhere in the range of 28 million vehicles sold in Canada. So this is a really small proportion. It is expected that within three years. This agreement will drive considerable new Chinese joint venture investment in Canada with trusted partners, protect and create new auto manufacturing jobs, blah, blah, blah. And then he goes on and says, oh, I should also just
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0032
 
@@ -206,33 +206,33 @@ to relevant anti -discrimination tariffs from March 1st, 2026 until at least the
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0034
 
-## seg-0035 / 00:27:15-00:28:26 / SPEAKER_01
+## seg-0035 / 00:27:15-00:28:30 / SPEAKER_01
 
-So I would say this is a breakthrough, and I would say this will lead to bigger strategic partnerships very quickly down the line. So there are different aspects to what's going on. The first aspect is that Trump has basically declared war on Latin and South America. So you have countries like Brazil, Colombia, Mexico that are not obeying him, that are not being sufficiently differential to him. Right. Okay. Now Brazil exports a lot of agricultural products to China, especially soil beans. And Trump is angry about that as well, because remember when Trump imposed tariffs on China, China responded by cutting agricultural imports from the United States, which hurts farmers in America, which supposedly hurts the mega base. And then China started to import a lot of agricultural products from Brazil. Right. So what Trump wants to do is basically strangle South America and prevent trade between China and South America, which forces China to look for
+So I would say this is a breakthrough, and I would say this will lead to bigger strategic partnerships very quickly down the line. So there are different aspects to what's going on. The first aspect is that Trump has basically declared war on Latin and South America. So you have countries like Brazil, Colombia, Mexico that are not obeying him, that are not being sufficiently differential to him. Right. Okay. Now Brazil exports a lot of agricultural products to China, especially soil beans. And Trump is angry about that as well, because remember when Trump imposed tariffs on China, China responded by cutting agricultural imports from the United States, which hurts farmers in America, which supposedly hurts the mega base. And then China started to import a lot of agricultural products from Brazil. Right. So what Trump wants to do is basically strangle South America and prevent trade between China and South America, which forces China to look for agricultural products in North America, United States and Canada.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0035
 
-## seg-0036 / 00:28:26-00:29:23 / SPEAKER_01
+## seg-0036 / 00:28:30-00:29:24 / SPEAKER_01
 
-agricultural products in North America, United States and Canada. Okay. Also, if there's a war that breaks out in Iran, then China needs oil. And so China is now forced to buy oil from Canada and the United States. Okay. So that's one element of what's going on. That's number one. Number two is we have to remember what the Canadian economic model is. Okay. There are three pillars to the Canadian economic model. The first is sell resources to America. 77 % of Canadian trade is with America. Okay. That's number one. Number two is exploit cheap immigrant labor. Right. Canadians don't actually work. They get immigrants to do the work for them. I know this because my dad was a dishwasher and he had two managers who were Canadian. Okay. That's number two. But number three, and which people don't ignore, is monitor laundering. Okay. Help corrupt officials from around the world launder their ill -gotten gains into
+Okay. Also, if there's a war that breaks out in Iran, then China needs oil. And so China is now forced to buy oil from Canada and the United States. Okay. So that's one element of what's going on. That's number one. Number two is we have to remember what the Canadian economic model is. Okay. There are three pillars to the Canadian economic model. The first is sell resources to America. 77 % of Canadian trade is with America. Okay. That's number one. Number two is exploit cheap immigrant labor. Right. Canadians don't actually work. They get immigrants to do the work for them. I know this because my dad was a dishwasher and he had two managers who were Canadian. Okay. That's number two. But number three, and which people don't ignore, is monitor laundering. Okay. Help corrupt officials from around the world launder their ill -gotten gains into Canadian real estate.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0036
 
-## seg-0037 / 00:29:23-00:30:33 / SPEAKER_01
+## seg-0037 / 00:29:25-00:30:34 / SPEAKER_01
 
-Canadian real estate. Okay. So the very important idea is these EVs are coming into Canada. They're meant to be the spearhead for this massive collaboration between Chinese companies and Canadian companies, which allows Chinese companies to monitor, launder resources in Canada. So it's money laundering. Okay. That's one aspect. Yeah. But the other aspect is this. Look, I keep on saying this, but Canada has become a toxic asset and where real estate is completely overpriced. And so they're trying to dump this toxic asset onto the Chinese. Okay. So what Carney really wants, okay, this is key, is access to the household savings of the average Chinese citizen, which is about 40%. So in Canada. Okay. Canadians, the average Canadian household has about 100 % debt to income ratio. Okay. So basically Canadians owe more than they actually earn. But in China, Chinese will save 40 % of all their income. That's a huge financial resource for Carney
+Okay. So the very important idea is these EVs are coming into Canada. They're meant to be the spearhead for this massive collaboration between Chinese companies and Canadian companies, which allows Chinese companies to monitor, launder resources in Canada. So it's money laundering. Okay. That's one aspect. Yeah. But the other aspect is this. Look, I keep on saying this, but Canada has become a toxic asset and where real estate is completely overpriced. And so they're trying to dump this toxic asset onto the Chinese. Okay. So what Carney really wants, okay, this is key, is access to the household savings of the average Chinese citizen, which is about 40%. So in Canada. Okay. Canadians, the average Canadian household has about 100 % debt to income ratio. Okay. So basically Canadians owe more than they actually earn. But in China, Chinese will save 40 % of all their income. That's a huge financial resource for Carney to tap into.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0037
 
-## seg-0038 / 00:30:33-00:31:29 / SPEAKER_01
+## seg-0038 / 00:30:34-00:31:29 / SPEAKER_01
 
-to tap into. Okay. So what Carney wants, he doesn't care about the EVs, he doesn't care about selling canola to the Chinese. Who cares? That's opinions. Okay. So what he really wants is a new economic relationship between Canada and China, where the Chinese households are able to divert a lot of their savings to Canadian resources. Okay. So imagine Chinese buying houses in Canada. Imagine Chinese sending their kids to Canada for university, but also imagine Chinese for stable coins buying Canadian currency. Okay. So that I think is the grand plan because again, Carney is a banker. He thinks like a banker. He thinks about how to package a financial resource and sell it really expensive to stupid investors. Okay. That's how he thinks. So I think that's a grand strategy here. And Trump's going to go along with it because this is where Trump is really the ideal arrangement between China and the United States as
+Okay. So what Carney wants, he doesn't care about the EVs, he doesn't care about selling canola to the Chinese. Who cares? That's opinions. Okay. So what he really wants is a new economic relationship between Canada and China, where the Chinese households are able to divert a lot of their savings to Canadian resources. Okay. So imagine Chinese buying houses in Canada. Imagine Chinese sending their kids to Canada for university, but also imagine Chinese for stable coins buying Canadian currency. Okay. So that I think is the grand plan because again, Carney is a banker. He thinks like a banker. He thinks about how to package a financial resource and sell it really expensive to stupid investors. Okay. That's how he thinks. So I think that's a grand strategy here. And Trump's going to go along with it because this is where Trump is really the ideal arrangement between China and the United States as well.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0038
 
 ## seg-0039 / 00:31:29-00:31:36 / SPEAKER_01
 
-well. So let Carney test the waters, see how the Chinese respond. And then when Trump visits Beijing in April, negotiate the same deal.
+So let Carney test the waters, see how the Chinese respond. And then when Trump visits Beijing in April, negotiate the same deal.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0039
 
@@ -242,21 +242,21 @@ And do you think the Chinese government appreciates fully that this is... This i
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0040
 
-## seg-0041 / 00:31:44-00:32:43 / SPEAKER_01
+## seg-0041 / 00:31:44-00:32:46 / SPEAKER_01
 
-Okay. So the decisions are not usually made. I'm talking like high level decisions are not usually made between government and government. They're usually made between central bank and central bank, okay? So the Bank of International Settlements in Basel Switzerland, that's a coordinating body of the central banks. Okay. And that's where they come together and they discuss their problems and their solutions. So the Canadians have a problem because... I mean, it's entirely based on money laundering. It's a Ponzi scheme. So they need people to come in and store their resources in Canada. Okay. That's how the thing works. The Chinese have a problem because their people refuse to spend their money. Okay. And the Chinese refuse to spend their money because the Chinese obviously have no confidence in the future. There's no safety net. The pension is not reliable. The children is not going to have a great, great future. So maybe save us up as
+Okay. So the decisions are not usually made. I'm talking like high level decisions are not usually made between government and government. They're usually made between central bank and central bank, okay? So the Bank of International Settlements in Basel Switzerland, that's a coordinating body of the central banks. Okay. And that's where they come together and they discuss their problems and their solutions. So the Canadians have a problem because... I mean, it's entirely based on money laundering. It's a Ponzi scheme. So they need people to come in and store their resources in Canada. Okay. That's how the thing works. The Chinese have a problem because their people refuse to spend their money. Okay. And the Chinese refuse to spend their money because the Chinese obviously have no confidence in the future. There's no safety net. The pension is not reliable. The children is not going to have a great, great future. So maybe save us up as much money as possible for the future.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0041
 
-## seg-0042 / 00:32:43-00:33:40 / SPEAKER_01
+## seg-0042 / 00:32:47-00:33:40 / SPEAKER_01
 
-much money as possible for the future. But the problem from the economic perspective is that that's actually kind of productive. You need people to spend their money for the economy to function, right? So the money is staying in the bank dormant. That creates a lot of issues. One major issue is, of course, is trade imbalance, where China has like 1.2 trillion trade surplus with the rest of the world, which is just... It doesn't help the Chinese at all. Okay. So the Chinese central bank has a problem of how to increase consumption. The Canadian central bank has a problem of how to absorb more of savings around the world. Okay. So I think that these guys had serious discussions at the Bank of India National Settlements. They've come to an agreement, and that's why Carney went to Beijing. Okay. Because remember, there had to be an agreement in place for these leaders to meet, the
+But the problem from the economic perspective is that that's actually kind of productive. You need people to spend their money for the economy to function, right? So the money is staying in the bank dormant. That creates a lot of issues. One major issue is, of course, is trade imbalance, where China has like 1.2 trillion trade surplus with the rest of the world, which is just... It doesn't help the Chinese at all. Okay. So the Chinese central bank has a problem of how to increase consumption. The Canadian central bank has a problem of how to absorb more of savings around the world. Okay. So I think that these guys had serious discussions at the Bank of India National Settlements. They've come to an agreement, and that's why Carney went to Beijing. Okay. Because remember, there had to be an agreement in place for these leaders to meet, the two leaders meet.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0042
 
-## seg-0043 / 00:33:40-00:33:54 / SPEAKER_01
+## seg-0043 / 00:33:41-00:33:54 / SPEAKER_01
 
-two leaders meet. They had to sign the MOU. They're not going to sit together for like days and days to negotiate the deal. That's what underlings do. Okay. So I think there's already been an agreement in place, and how this agreement will pan out is something that we will observe over the next year.
+They had to sign the MOU. They're not going to sit together for like days and days to negotiate the deal. That's what underlings do. Okay. So I think there's already been an agreement in place, and how this agreement will pan out is something that we will observe over the next year.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0043
 
@@ -266,27 +266,27 @@ Now, I want to focus on one particular aspect of this agreement, and namely the 
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0044
 
-## seg-0045 / 00:34:49-00:35:55 / SPEAKER_01
+## seg-0045 / 00:34:49-00:35:58 / SPEAKER_01
 
-I think that's a plan. I think that's an agreement. I think the agreement is for Chinese EV factories to move over to Canada and create joint ventures. So the Chinese political system, it's very strange for Westerners. So EVs, it's not an economic tool. It's a political tool. And what I mean by that is... Think of the 2008 Beijing Olympics. Where the government spent billions and billions of dollars on creating this amazing show for the world. And so it's a political show. And that's what EVs are. EVs are a sign that China is technologically advanced. That it's not just a sweatshop to the world. That it is one of the leading technological centers of the world. And it's all part of China. It's part of China's grand strategy to be a technological powerhouse. So the problem with EVs is that they're heavily subsidized by the government. So people don't appreciate this, but EVs lose money because
+I think that's a plan. I think that's an agreement. I think the agreement is for Chinese EV factories to move over to Canada and create joint ventures. So the Chinese political system, it's very strange for Westerners. So EVs, it's not an economic tool. It's a political tool. And what I mean by that is... Think of the 2008 Beijing Olympics. Where the government spent billions and billions of dollars on creating this amazing show for the world. And so it's a political show. And that's what EVs are. EVs are a sign that China is technologically advanced. That it's not just a sweatshop to the world. That it is one of the leading technological centers of the world. And it's all part of China. It's part of China's grand strategy to be a technological powerhouse. So the problem with EVs is that they're heavily subsidized by the government. So people don't appreciate this, but EVs lose money because they're all heavily subsidized by the government.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0045
 
-## seg-0046 / 00:35:55-00:36:26 / SPEAKER_01
+## seg-0046 / 00:35:58-00:36:26 / SPEAKER_01
 
-they're all heavily subsidized by the government. And there's overcapacity in China. So everywhere you go, there are lots of EVs, but they can't actually sell all the EVs in China. So for Canada to start selling EVs... For Canadians to start buying Chinese EVs, for Chinese EV companies to open shop in Canada, it would be a huge political victory for the Chinese leadership. And that's all they care about.
+And there's overcapacity in China. So everywhere you go, there are lots of EVs, but they can't actually sell all the EVs in China. So for Canada to start selling EVs... For Canadians to start buying Chinese EVs, for Chinese EV companies to open shop in Canada, it would be a huge political victory for the Chinese leadership. And that's all they care about.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0046
 
-## seg-0047 / 00:36:28-00:37:33 / SPEAKER_03
+## seg-0047 / 00:36:28-00:37:34 / SPEAKER_03
 
-Let's talk about another sector, telecommunications. When Mark Carney concluded this trip, the neocons in Canada started freaking out. And one expression of that was this article in the Hill Times. Which is a... A go -to newspaper for Canada's political elite. It's based in Ottawa. And as you can see here, the Hill Times went to security experts, or at least that's the way they describe themselves, including a former director of CSIS Canada's spy agency, and also to politicians, and asked them about Huawei. And there's a ban on Huawei's 5G in this country, and they warned ominously that we should not lift that ban. And they did. And continued to express hostility to this, really, this extraordinary corporation. What do you think is going on here, Professor Zhang? Why is the Canadian political and economic elite, and particularly the security establishment, so hostile to Huawei? I mean, they claim that it's potentially a vehicle for the PRC
+Let's talk about another sector, telecommunications. When Mark Carney concluded this trip, the neocons in Canada started freaking out. And one expression of that was this article in the Hill Times. Which is a... A go -to newspaper for Canada's political elite. It's based in Ottawa. And as you can see here, the Hill Times went to security experts, or at least that's the way they describe themselves, including a former director of CSIS Canada's spy agency, and also to politicians, and asked them about Huawei. And there's a ban on Huawei's 5G in this country, and they warned ominously that we should not lift that ban. And they did. And continued to express hostility to this, really, this extraordinary corporation. What do you think is going on here, Professor Zhang? Why is the Canadian political and economic elite, and particularly the security establishment, so hostile to Huawei? I mean, they claim that it's potentially a vehicle for the PRC to spy on Canadians.
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0047
 
-## seg-0048 / 00:37:33-00:37:38 / SPEAKER_03
+## seg-0048 / 00:37:34-00:37:38 / SPEAKER_03
 
-to spy on Canadians. Do you think that that's what's really underlying this hostility?
+Do you think that that's what's really underlying this hostility?
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0048
 
@@ -308,15 +308,15 @@ Yes, yes. And the Chinese responded by basically holding two Canadians hostage. 
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0051
 
-## seg-0052 / 00:39:01-00:40:09 / SPEAKER_03
+## seg-0052 / 00:39:01-00:40:12 / SPEAKER_03
 
-And related to this hostility, as I'm sure you know, in recent years, there has been an avalanche of accusations leveled by various Canadians. There's been a lot of talk about the Chinese government and the Canadian politicians, that the Chinese government is interfering in Canadian's so -called democracy, as if we have one. And there has been an inquiry that was struck that investigated these allegations. And interestingly, I've written and talked about this a fair bit. The inquiry didn't really find any concrete evidence of interference, but nonetheless, the judge who presided over it expressed his opinion. And I think that's why there's so much concern about the Chinese government's intentions. I've always thought, Professor Zhang, that really there's nothing much, if anything, to be gained by the government of China engaging in the sorts of shenanigans that has been accused of engaging in this country. What do you think the reality is there, and what is motivating
+And related to this hostility, as I'm sure you know, in recent years, there has been an avalanche of accusations leveled by various Canadians. There's been a lot of talk about the Chinese government and the Canadian politicians, that the Chinese government is interfering in Canadian's so -called democracy, as if we have one. And there has been an inquiry that was struck that investigated these allegations. And interestingly, I've written and talked about this a fair bit. The inquiry didn't really find any concrete evidence of interference, but nonetheless, the judge who presided over it expressed his opinion. And I think that's why there's so much concern about the Chinese government's intentions. I've always thought, Professor Zhang, that really there's nothing much, if anything, to be gained by the government of China engaging in the sorts of shenanigans that has been accused of engaging in this country. What do you think the reality is there, and what is motivating these incessant accusations of Chinese government interference?
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0052
 
-## seg-0053 / 00:40:09-00:40:14 / SPEAKER_03
+## seg-0053 / 00:40:12-00:40:14 / SPEAKER_03
 
-these incessant accusations of Chinese government interference? Professor Zhang, what do you think the reality is there, and what is motivating these incessant accusations of Chinese government interference in Canadian domestic politics?
+Professor Zhang, what do you think the reality is there, and what is motivating these incessant accusations of Chinese government interference in Canadian domestic politics?
 
 Ref: video:interview-uhidrgfypno@transcript:v1#seg-0053
 
